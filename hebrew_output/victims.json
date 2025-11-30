@@ -1,0 +1,28 @@
+[
+    {
+        "word": "victims",
+        "word_hebrew": "קורבנות",
+        "main_definition": "Individuals who suffer as a result of harmful actions, events or circumstances.",
+        "main_definition_hebrew": "אנשים הסובלים כתוצאה מפעולות, אירועים או נסיבות מזיקים.",
+        "meanings_and_examples": [
+            {
+                "definition": "People harmed by criminal activity",
+                "definition_hebrew": "אנשים שנפגעו מפעילות פלילית",
+                "example": "The bank robbers' victims were left traumatized after the incident.",
+                "example_hebrew": "קורבנות שודדי הבנק נותרו בטראומה לאחר האירוע."
+            },
+            {
+                "definition": "Individuals affected negatively by a disaster or calamity",
+                "definition_hebrew": "אנשים שהושפעו לרעה מאסון או אסון",
+                "example": "In the earthquake, thousands became homeless and were considered victims of this tragic event.",
+                "example_hebrew": "ברעידת האדמה, אלפים הפכו לחסרי בית ונחשבו לקורבנות של אירוע טרגי זה."
+            },
+            {
+                "definition": "People impacted adversely by social issues like poverty, discrimination or injustice",
+                "definition_hebrew": "אנשים שהושפעו לרעה מבעיות חברתיות כמו עוני, אפליה או אי צדק",
+                "example": "The campaign aimed to help the victims of domestic violence rebuild their lives.",
+                "example_hebrew": "מטרת הקמפיין הייתה לסייע לקורבנות אלימות במשפחה לשקם את חייהם."
+            }
+        ]
+    }
+]

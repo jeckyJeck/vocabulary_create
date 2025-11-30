@@ -1,0 +1,34 @@
+[
+    {
+        "word": "drugs",
+        "word_hebrew": "סמים",
+        "main_definition": "Drugs refer to substances that affect the body's functions, which can be used medicinally or abused.",
+        "main_definition_hebrew": "סמים מתייחסים לחומרים המשפיעים על תפקודי הגוף, שניתן להשתמש בהם תרופתית או לרעה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Medicinal substances prescribed by a doctor",
+                "definition_hebrew": "חומרים רפואיים שנקבעו על ידי רופא",
+                "example": "The patient was given antibiotics as drugs to treat his bacterial infection.",
+                "example_hebrew": "החולה קיבל אנטיביוטיקה כתרופות לטיפול בזיהום החיידקי שלו."
+            },
+            {
+                "definition": "Illicit or illegal substances used for recreational purposes",
+                "definition_hebrew": "חומרים אסורים או בלתי חוקיים המשמשים למטרות פנאי",
+                "example": "Police found several kilograms of cocaine, a highly addictive drug, during their raid.",
+                "example_hebrew": "המשטרה מצאה במהלך הפשיטה כמה קילוגרמים של קוקאין, סם ממכר מאוד."
+            },
+            {
+                "definition": "Any chemical compound that alters the state or functioning of an organism",
+                "definition_hebrew": "כל תרכובת כימית המשנה את מצבו או תפקודו של אורגניזם",
+                "example": "The farmer used pesticides as drugs to protect his crops from insects and diseases.",
+                "example_hebrew": "החקלאי השתמש בחומרי הדברה כתרופות כדי להגן על גידוליו מפני חרקים ומחלות."
+            },
+            {
+                "definition": "Substances misused by individuals for their psychoactive effects",
+                "definition_hebrew": "חומרים שאנשים משתמשים בהם לרעה בשל ההשפעות הפסיכואקטיביות שלהם",
+                "example": "Drug addiction can lead to severe health issues, social isolation, and financial problems.",
+                "example_hebrew": "התמכרות לסמים עלולה להוביל לבעיות בריאותיות חמורות, לבידוד חברתי ולבעיות כלכליות."
+            }
+        ]
+    }
+]

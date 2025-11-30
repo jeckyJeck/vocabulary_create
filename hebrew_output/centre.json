@@ -1,0 +1,40 @@
+[
+    {
+        "word": "centre",
+        "word_hebrew": "מֶרְכָּז",
+        "main_definition": "The central point of something, or the main focus or place where activities are directed or concentrated.",
+        "main_definition_hebrew": "הנקודה המרכזית של משהו, או המוקד העיקרי או המקום שבו הפעילויות מכוונות או מרוכזות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A physical location in the middle of a space or area.",
+                "definition_hebrew": "מיקום פיזי באמצע מרחב או אזור.",
+                "example": "The conference took place at the centre of the hotel.",
+                "example_hebrew": "הכנס התקיים במרכז המלון."
+            },
+            {
+                "definition": "An organization's main office or administrative hub.",
+                "definition_hebrew": "המשרד הראשי או המרכז הניהולי של ארגון.",
+                "example": "Our company has its headquarters located in downtown, serving as the centre of our operations.",
+                "example_hebrew": "החברה שלנו ממוקמת במרכז העיר, ומשמשת כמרכז הפעילות שלנו."
+            },
+            {
+                "definition": "The point equidistant from all edges of a circle or sphere.",
+                "definition_hebrew": "הנקודה הנמצאת במרחק שווה מכל קצוות המעגל או הכדור.",
+                "example": "In geometry, the center is the middle point of any shape, such as a circle or a square.",
+                "example_hebrew": "בגיאומטריה, המרכז הוא נקודת האמצע של כל צורה, כגון עיגול או ריבוע."
+            },
+            {
+                "definition": "A gathering place for people with shared interests or activities.",
+                "definition_hebrew": "מקום מפגש לאנשים עם תחומי עניין או פעילויות משותפים.",
+                "example": "The centre was buzzing with activity as music lovers gathered to celebrate their favorite band's concert.",
+                "example_hebrew": "המרכז הומה פעילות כשאוהבי מוזיקה התאספו כדי לחגוג את הקונצרט של הלהקה האהובה עליהם."
+            },
+            {
+                "definition": "One of the two main divisions in a political system, often representing different ideologies.",
+                "definition_hebrew": "אחת משתי החטיבות העיקריות במערכת פוליטית, המייצגת לעתים קרובות אידיאולוגיות שונות.",
+                "example": "In Western democracies, the centre-left and centre-right are significant parties that influence policy making.",
+                "example_hebrew": "בדמוקרטיות מערביות, המרכז-שמאל והמרכז-ימין הם מפלגות משמעותיות המשפיעות על קביעת מדיניות."
+            }
+        ]
+    }
+]

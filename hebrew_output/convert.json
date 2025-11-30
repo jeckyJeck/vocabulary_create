@@ -1,0 +1,46 @@
+[
+    {
+        "word": "convert",
+        "word_hebrew": "להמיר",
+        "main_definition": "To change or adapt something into a different form, system, or usage.",
+        "main_definition_hebrew": "לשנות או להתאים משהו לצורה, מערכת או שימוש אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Change currency from one type to another during traveling.",
+                "definition_hebrew": "החלף מטבע מסוג אחד לאחר במהלך הנסיעה.",
+                "example": "She needed to convert dollars to euros before her trip to France.",
+                "example_hebrew": "היא הייתה צריכה להמיר דולרים ליורו לפני נסיעתה לצרפת."
+            },
+            {
+                "definition": "Transform something into a different form or use.",
+                "definition_hebrew": "הפוך משהו לצורה או שימוש אחר.",
+                "example": "He converted the old garage into a home gym.",
+                "example_hebrew": "הוא המיר את המוסך הישן לחדר כושר ביתי."
+            },
+            {
+                "definition": "Change one's religious beliefs and adopt another faith.",
+                "definition_hebrew": "שנה את האמונות הדתיות ואמץ אמונה אחרת.",
+                "example": "After years of study, she decided to convert to Buddhism.",
+                "example_hebrew": "לאחר שנים של לימודים, היא החליטה להתגייר לבודהיזם."
+            },
+            {
+                "definition": "Convert data from one file format to another.",
+                "definition_hebrew": "המרת נתונים מפורמט קובץ אחד לאחר.",
+                "example": "He used a software program to convert his Word document into PDF for submission.",
+                "example_hebrew": "הוא השתמש בתוכנה כדי להמיר את מסמך ה-Word שלו ל-PDF להגשה."
+            },
+            {
+                "definition": "Change the operation of an engine or machine from combustion to electricity.",
+                "definition_hebrew": "שנה את פעולת מנוע או מכונה מבעירה לחשמל.",
+                "example": "The company converted their fleet of trucks to run on electric power instead of diesel fuel.",
+                "example_hebrew": "החברה הסבה את צי המשאיות שלה להפעלת חשמל במקום סולר."
+            },
+            {
+                "definition": "Transfer one's allegiance, loyalty, or support from one person, group, or cause to another.",
+                "definition_hebrew": "להעביר את הנאמנות, הנאמנות או התמיכה של האדם מאדם, קבוצה או מטרה אחת לאחר.",
+                "example": "Fans may convert from supporting the home team to rooting for their rival during a match.",
+                "example_hebrew": "אוהדים עשויים להפוך מתמיכה בקבוצה הביתית לחיזוק היריבה שלהם במהלך משחק."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "seed",
+        "word_hebrew": "זֶרַע",
+        "main_definition": "A seed is the potential or starting point of growth, development, or an idea that can grow into something larger or more significant.",
+        "main_definition_hebrew": "זרע הוא הפוטנציאל או נקודת ההתחלה של צמיחה, התפתחות או רעיון שיכול לצמוח למשהו גדול או משמעותי יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "The small, usually hard, and often embryonic structure within a fruit which has the potential to develop into a new plant under suitable conditions.",
+                "definition_hebrew": "המבנה הקטן, בדרך כלל קשה, ולעיתים קרובות עוברי בתוך פרי שיש לו פוטנציאל להתפתח לצמח חדש בתנאים מתאימים.",
+                "example": "Planting an apple seed can grow into a beautiful apple tree.",
+                "example_hebrew": "שתילת זרע תפוח יכולה לצמוח לעץ תפוח יפהפה."
+            },
+            {
+                "definition": "A source or origin of something. For example, in technology, a seed is the initial code used for creating apps or games that developers expand upon.",
+                "definition_hebrew": "מקור או מקור של משהו. לדוגמה, בטכנולוגיה, סיד הוא הקוד הראשוני המשמש ליצירת אפליקציות או משחקים שמפתחים מרחיבים עליהם.",
+                "example": "The open-source software project started with just a few lines of 'seed' code.",
+                "example_hebrew": "פרויקט התוכנה בקוד פתוח התחיל עם כמה שורות של קוד 'מקור' בלבד."
+            },
+            {
+                "definition": "A metaphorical term indicating an idea, plan, or concept that will eventually lead to progress or change.",
+                "definition_hebrew": "מונח מטפורי המציין רעיון, תוכנית או מושג שיובילו בסופו של דבר להתקדמות או לשינוי.",
+                "example": "His vision for the company is like a seed; it may take time but has the potential to grow into something great.",
+                "example_hebrew": "החזון שלו עבור החברה הוא כמו זרע; זה עשוי לקחת זמן אבל יש לו פוטנציאל לצמוח למשהו גדול."
+            },
+            {
+                "definition": "In finance, a 'seed investment' refers to an initial amount of money given to support the development or start-up phase of a business.",
+                "definition_hebrew": "בפיננסים, 'השקעה מוקדמת' מתייחסת לסכום כסף ראשוני שניתן לתמיכה בשלב הפיתוח או ההקמה של עסק.",
+                "example": "The angel investor provided a seed amount to help launch the new tech startup.",
+                "example_hebrew": "המשקיע המלאך סיפק סכום ראשוני כדי לעזור להשיק את הסטארט-אפ הטכנולוגי החדש."
+            },
+            {
+                "definition": "A term used in agriculture and gardening, referring to small particles produced by certain plants that can be sown or planted to grow into a mature plant.",
+                "definition_hebrew": "מונח המשמש בחקלאות ובגינון, המתייחס לחלקיקים קטנים המיוצרים על ידי צמחים מסוימים שניתן לזרוע או לשתול כדי לגדול לצמח בוגר.",
+                "example": "The gardener scattered seeds across the soil to germinate new flowers.",
+                "example_hebrew": "הגנן פיזר זרעים על פני האדמה כדי להנביט פרחים חדשים."
+            }
+        ]
+    }
+]

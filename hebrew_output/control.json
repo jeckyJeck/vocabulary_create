@@ -1,0 +1,46 @@
+[
+    {
+        "word": "control",
+        "word_hebrew": "לִשְׁלוֹט",
+        "main_definition": "Control refers to the power or ability to influence, manage, or regulate someone or something.",
+        "main_definition_hebrew": "שליטה מתייחסת לכוח או ליכולת להשפיע, לנהל או לווסת מישהו או משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To have command over a situation or people.",
+                "definition_hebrew": "לקבל פיקוד על מצב או אנשים.",
+                "example": "She had control of the room after she confidently presented her ideas.",
+                "example_hebrew": "הייתה לה שליטה בחדר לאחר שהציגה את הרעיונות שלה בביטחון."
+            },
+            {
+                "definition": "To manage or direct something, such as resources or operations.",
+                "definition_hebrew": "לנהל או לכוון משהו, כגון משאבים או פעולות.",
+                "example": "The manager controls the budget and delegates tasks to team members.",
+                "example_hebrew": "המנהל שולט בתקציב ומאציל משימות לחברי הצוות."
+            },
+            {
+                "definition": "The act of influencing a person's behavior or emotions.",
+                "definition_hebrew": "פעולת ההשפעה על התנהגותו או רגשותיו של אדם.",
+                "example": "He tries to control his anger by practicing deep breathing exercises.",
+                "example_hebrew": "הוא מנסה לשלוט בכעס שלו על ידי תרגול תרגילי נשימה עמוקה."
+            },
+            {
+                "definition": "Having authority over oneself, particularly in terms of personal actions and decisions.",
+                "definition_hebrew": "בעל סמכות על עצמו, במיוחד במונחים של פעולות והחלטות אישיות.",
+                "example": "By setting goals and adhering to a strict schedule, he has complete control over his life.",
+                "example_hebrew": "על ידי הצבת יעדים ועמידה בלוח זמנים קפדני, יש לו שליטה מלאה על חייו."
+            },
+            {
+                "definition": "To limit or restrict something.",
+                "definition_hebrew": "להגביל או להגביל משהו.",
+                "example": "The government implemented measures to control the spread of the virus.",
+                "example_hebrew": "הממשלה נקטה באמצעים כדי לשלוט בהתפשטות הנגיף."
+            },
+            {
+                "definition": "A system that governs how a machine operates and responds to inputs.",
+                "definition_hebrew": "מערכת השולטת כיצד מכונה פועלת ומגיבה לתשומות.",
+                "example": "This car's control panel allows the driver to adjust settings like speed and temperature.",
+                "example_hebrew": "לוח הבקרה של מכונית זו מאפשר לנהג להתאים הגדרות כמו מהירות וטמפרטורה."
+            }
+        ]
+    }
+]

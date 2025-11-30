@@ -1,0 +1,34 @@
+[
+    {
+        "word": "million",
+        "word_hebrew": "מִילִיוֹן",
+        "main_definition": "Million is a numerical value that represents one thousand times ten (1,000 x 10), or the quantity of items equal to one million.",
+        "main_definition_hebrew": "מיליון הוא ערך מספרי המייצג אלף כפול עשר (1,000 x 10), או את כמות הפריטים השווה למיליון.",
+        "meanings_and_examples": [
+            {
+                "definition": "A large number",
+                "definition_hebrew": "מספר גדול",
+                "example": "The city has a population of over six million people.",
+                "example_hebrew": "בעיר מתגוררים למעלה משישה מיליון תושבים."
+            },
+            {
+                "definition": "A unit in the decimal system representing 1,000,000 or one thousand thousands",
+                "definition_hebrew": "יחידה בשיטה העשרונית המייצגת 1,000,000 או אלף אלפים",
+                "example": "He won $1 million in the lottery.",
+                "example_hebrew": "הוא זכה במיליון דולר בלוטו."
+            },
+            {
+                "definition": "Used to describe something as extravagant or costly",
+                "definition_hebrew": "משמש כדי לתאר משהו כאקסטרווגנטי או יקר",
+                "example": "The wedding reception was a lavish affair, with expenses reaching upwards of six figures per guest.",
+                "example_hebrew": "קבלת הפנים לחתונה הייתה עניין מפואר, עם הוצאות שהגיעו עד לשש ספרות לכל אורח."
+            },
+            {
+                "definition": "A term in sports statistics referring to the total number of runs batted in (RBI) by a player",
+                "definition_hebrew": "מונח בסטטיסטיקה של ספורט המתייחס למספר הכולל של ריצות שחבטות (RBI) על ידי שחקן",
+                "example": "In baseball, he had over 250 RBIs last season.",
+                "example_hebrew": "בבייסבול היו לו יותר מ-250 RBI בעונה שעברה."
+            }
+        ]
+    }
+]

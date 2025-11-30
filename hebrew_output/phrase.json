@@ -1,0 +1,40 @@
+[
+    {
+        "word": "phrase",
+        "word_hebrew": "מִשׁפָּט",
+        "main_definition": "A phrase is a group of words used together as a single unit, typically to convey a specific idea or concept.",
+        "main_definition_hebrew": "ביטוי הוא קבוצה של מילים המשמשות יחד כיחידה אחת, בדרך כלל כדי להעביר רעיון או מושג ספציפי.",
+        "meanings_and_examples": [
+            {
+                "definition": "An idiomatic expression with a figurative meaning that cannot be understood literally",
+                "definition_hebrew": "ביטוי אידיומטי בעל משמעות פיגורטיבית שאינה ניתנת להבנה מילולית",
+                "example": "Break the ice",
+                "example_hebrew": "לשבור את הקרח"
+            },
+            {
+                "definition": "A combination of words that forms part of a sentence and has an independent meaning or function",
+                "definition_hebrew": "שילוב של מילים המהווה חלק ממשפט ובעל משמעות או פונקציה עצמאית",
+                "example": "The quick brown fox jumps over the lazy dog.",
+                "example_hebrew": "השועל החום המהיר קופץ מעל הכלב העצלן."
+            },
+            {
+                "definition": "A group of words expressing a distinct idea, used especially in casual speech or writing",
+                "definition_hebrew": "קבוצת מילים המבטאות רעיון מובחן, המשמשת במיוחד בדיבור או כתיבה סתמיים",
+                "example": "To kick the bucket",
+                "example_hebrew": "לבעוט בדלי"
+            },
+            {
+                "definition": "A series of words that may lack both meaning and grammatical structure, but are understood as whole units",
+                "definition_hebrew": "סדרה של מילים שעשויות להיות חסרות גם משמעות וגם מבנה דקדוקי, אבל מובנות כיחידות שלמות",
+                "example": "The phrase 'kicking the bucket' refers to dying.",
+                "example_hebrew": "הביטוי 'בעיטה בדלי' מתייחס למות."
+            },
+            {
+                "definition": "A short statement or clause containing a verb, used especially in formal writing",
+                "definition_hebrew": "הצהרה או סעיף קצר המכילים פועל, המשמש במיוחד בכתיבה פורמלית",
+                "example": "In conclusion, we must act now.",
+                "example_hebrew": "לסיכום, עלינו לפעול כעת."
+            }
+        ]
+    }
+]

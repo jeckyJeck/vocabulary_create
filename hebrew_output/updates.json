@@ -1,0 +1,34 @@
+[
+    {
+        "word": "updates",
+        "word_hebrew": "עדכונים",
+        "main_definition": "Changes or modifications made to improve, fix, or maintain the performance of a product, system, or piece of information.",
+        "main_definition_hebrew": "שינויים או שינויים שנעשו כדי לשפר, לתקן או לשמור על הביצועים של מוצר, מערכת או פיסת מידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Changes in software or hardware to enhance functionality and compatibility",
+                "definition_hebrew": "שינויים בתוכנה או בחומרה כדי לשפר את הפונקציונליות והתאימות",
+                "example": "The latest updates for my phone include improved security features and faster processing speed.",
+                "example_hebrew": "העדכונים האחרונים עבור הטלפון שלי כוללים תכונות אבטחה משופרות ומהירות עיבוד מהירה יותר."
+            },
+            {
+                "definition": "New information or corrections made to a document, article, or report",
+                "definition_hebrew": "מידע חדש או תיקונים שנעשו במסמך, מאמר או דוח",
+                "example": "Please read the updated newsletter before distributing it to your subscribers.",
+                "example_hebrew": "אנא קרא את הניוזלטר המעודכן לפני הפצתו למנויים שלך."
+            },
+            {
+                "definition": "The process of checking and correcting errors in data or records",
+                "definition_hebrew": "תהליך בדיקה ותיקון שגיאות בנתונים או ברשומות",
+                "example": "Regular database updates are necessary to ensure accurate information storage.",
+                "example_hebrew": "עדכוני מסד נתונים סדירים נחוצים כדי להבטיח אחסון מידע מדויק."
+            },
+            {
+                "definition": "Changes made to a website's design, content, or functionality for better user experience",
+                "definition_hebrew": "שינויים שבוצעו בעיצוב, בתוכן או בפונקציונליות של אתר אינטרנט לחוויית משתמש טובה יותר",
+                "example": "The homepage of the company's website received major layout and visual update recently.",
+                "example_hebrew": "עמוד הבית של אתר החברה קיבל לאחרונה פריסה ועדכון חזותי משמעותי."
+            }
+        ]
+    }
+]

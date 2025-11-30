@@ -1,0 +1,34 @@
+[
+    {
+        "word": "grad",
+        "word_hebrew": "גראד",
+        "main_definition": "In academic context, 'grad' is a shorthand for the Latin term 'gradus', which means degree or step in the process of education.",
+        "main_definition_hebrew": "בהקשר האקדמי, 'grad' הוא קיצור של המונח הלטיני 'gradus', שפירושו תואר או שלב בתהליך החינוך.",
+        "meanings_and_examples": [
+            {
+                "definition": "A unit of measurement used to express angles",
+                "definition_hebrew": "יחידת מדידה המשמשת לביטוי זוויות",
+                "example": "The angle between two lines can be measured in grads.",
+                "example_hebrew": "ניתן למדוד את הזווית בין שני קווים בדרגות."
+            },
+            {
+                "definition": "A term related to academic degrees, referring to the progress made towards completing a degree",
+                "definition_hebrew": "מונח הקשור לתארים אקדמיים, המתייחס להתקדמות לקראת השלמת תואר",
+                "example": "After finishing three years of college, John was at his third grad and planning for graduate school.",
+                "example_hebrew": "לאחר שסיים שלוש שנים בקולג', ג'ון היה בכיתה השלישית שלו ותכנן ללימודי תואר שני."
+            },
+            {
+                "definition": "Short form for 'grading', which refers to assessing or evaluating student's work",
+                "definition_hebrew": "טופס קצר ל'ציון', המתייחס להערכה או הערכה של עבודת התלמיד",
+                "example": "The teacher will grade the exams next week.",
+                "example_hebrew": "המורה יתן ציון לבחינות בשבוע הבא."
+            },
+            {
+                "definition": "Used in geography, it indicates a scale of measurement for maps where one grad represents one minute of latitude",
+                "definition_hebrew": "בשימוש בגיאוגרפיה, הוא מציין סולם מדידה עבור מפות שבהן גראד אחד מייצג דקה אחת של קו רוחב",
+                "example": "This map has a scale marked as 1:24000 or '3 grds to the inch'.",
+                "example_hebrew": "למפה זו יש קנה מידה המסומן כ-1:24000 או '3 גרד לאינץ'."
+            }
+        ]
+    }
+]

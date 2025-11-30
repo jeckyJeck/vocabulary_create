@@ -1,0 +1,34 @@
+[
+    {
+        "word": "assessment",
+        "word_hebrew": "הערכה",
+        "main_definition": "The process of evaluating or estimating the nature, ability, or quality of something.",
+        "main_definition_hebrew": "תהליך של הערכה או אומדן של טבעו, יכולתו או איכותו של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A formal evaluation of performance or abilities in a specific area such as education or employment.",
+                "definition_hebrew": "הערכה רשמית של ביצועים או יכולות בתחום ספציפי כגון השכלה או תעסוקה.",
+                "example": "At the end of each school year, teachers give students an assessment to measure their understanding of the material covered.",
+                "example_hebrew": "בסוף כל שנת לימודים, המורים נותנים לתלמידים הערכה כדי למדוד את הבנתם את החומר הנלמד."
+            },
+            {
+                "definition": "The act of examining and judging something's quality or value.",
+                "definition_hebrew": "פעולת הבחינה והשיפוט של איכותו או ערכו של משהו.",
+                "example": "To assess the damage done by a natural disaster requires experts to inspect affected areas thoroughly.",
+                "example_hebrew": "כדי להעריך את הנזק שנגרם על ידי אסון טבע נדרש מומחים לבדוק את האזורים שנפגעו ביסודיות."
+            },
+            {
+                "definition": "A systematic process for collecting, analyzing, and using data to understand and improve practices, products, or services.",
+                "definition_hebrew": "תהליך שיטתי לאיסוף, ניתוח ושימוש בנתונים כדי להבין ולשפר שיטות עבודה, מוצרים או שירותים.",
+                "example": "The company implemented an ongoing assessment of customer feedback to enhance their product line.",
+                "example_hebrew": "החברה הטמיעה הערכה מתמשכת של משוב לקוחות כדי לשפר את קו המוצרים שלהם."
+            },
+            {
+                "definition": "An evaluation made based on a set of criteria or standards for comparison.",
+                "definition_hebrew": "הערכה שנעשתה על סמך מערכת של קריטריונים או סטנדרטים להשוואה.",
+                "example": "In the medical field, patient health is often assessed using specific indicators such as blood pressure and cholesterol levels.",
+                "example_hebrew": "בתחום הרפואי, בריאות המטופל מוערכת לעיתים קרובות באמצעות מדדים ספציפיים כגון לחץ דם ורמות כולסטרול."
+            }
+        ]
+    }
+]

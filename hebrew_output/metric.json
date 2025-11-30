@@ -1,0 +1,40 @@
+[
+    {
+        "word": "metric",
+        "word_hebrew": "מֶטרִי",
+        "main_definition": "A standard of measurement or a system used to quantify or measure certain qualities, aspects, or performance.",
+        "main_definition_hebrew": "תקן מדידה או מערכת המשמשת לכימות או מדידה של איכויות, היבטים או ביצועים מסוימים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Measurement for evaluating progress or achievement",
+                "definition_hebrew": "מדידה להערכת התקדמות או הישג",
+                "example": "The metric we use to gauge the success of our sales team is based on monthly revenue.",
+                "example_hebrew": "המדד שבו אנו משתמשים כדי לאמוד את הצלחת צוות המכירות שלנו מבוסס על הכנסה חודשית."
+            },
+            {
+                "definition": "A standard unit used in a measurement system",
+                "definition_hebrew": "יחידה סטנדרטית המשמשת במערכת מדידה",
+                "example": "In the metric system, distance is measured in meters or kilometers.",
+                "example_hebrew": "במערכת המטרית, המרחק נמדד במטרים או בקילומטרים."
+            },
+            {
+                "definition": "Key performance indicators (KPIs) in business and management",
+                "definition_hebrew": "מדדי ביצועים מרכזיים (KPIs) בעסקים ובניהול",
+                "example": "Our company uses several metrics such as customer satisfaction rate and employee turnover to monitor our performance.",
+                "example_hebrew": "החברה שלנו משתמשת במספר מדדים כמו שיעור שביעות רצון לקוחות ותחלופת עובדים כדי לעקוב אחר הביצועים שלנו."
+            },
+            {
+                "definition": "A numerical value that represents a certain characteristic or quality",
+                "definition_hebrew": "ערך מספרי המייצג מאפיין או איכות מסוימים",
+                "example": "In the medical field, body temperature is often measured in degrees Celsius or Fahrenheit as a metric.",
+                "example_hebrew": "בתחום הרפואי, טמפרטורת הגוף נמדדת לרוב במעלות צלזיוס או פרנהייט כמדד."
+            },
+            {
+                "definition": "A way to compare different objects or elements by quantifying their similarities and differences",
+                "definition_hebrew": "דרך להשוות בין אובייקטים או אלמנטים שונים על ידי כימות הדמיון והשוני ביניהם",
+                "example": "We used a set of metrics to evaluate the performance of our new product compared to existing ones in the market.",
+                "example_hebrew": "השתמשנו בסט של מדדים כדי להעריך את הביצועים של המוצר החדש שלנו בהשוואה לאלו הקיימים בשוק."
+            }
+        ]
+    }
+]

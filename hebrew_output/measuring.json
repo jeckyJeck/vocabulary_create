@@ -1,0 +1,40 @@
+[
+    {
+        "word": "measuring",
+        "word_hebrew": "מדידה",
+        "main_definition": "The process of determining the size, quantity, or degree of something using standard units.",
+        "main_definition_hebrew": "תהליך קביעת הגודל, הכמות או הדרגה של משהו באמצעות יחידות סטנדרטיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Taking physical measurements",
+                "definition_hebrew": "ביצוע מדידות פיזיות",
+                "example": "To measure a room's dimensions accurately for new furniture.",
+                "example_hebrew": "כדי למדוד את מידות החדר בצורה מדויקת עבור רהיטים חדשים."
+            },
+            {
+                "definition": "Assessing the extent or degree of something qualitatively",
+                "definition_hebrew": "הערכת ההיקף או הדרגה של משהו בצורה איכותית",
+                "example": "A teacher might 'measure' students' understanding by grading their assignments and quizzes.",
+                "example_hebrew": "מורה עשוי 'למדוד' את ההבנה של התלמידים על ידי ציון המטלות והבחינות שלהם."
+            },
+            {
+                "definition": "Evaluating the impact, effectiveness, or performance of a process or system",
+                "definition_hebrew": "הערכת ההשפעה, האפקטיביות או הביצועים של תהליך או מערכת",
+                "example": "Marketing teams may measure campaign success by analyzing sales data before and after an advertising push.",
+                "example_hebrew": "צוותי שיווק עשויים למדוד את הצלחת הקמפיין על ידי ניתוח נתוני מכירות לפני ואחרי דחיפה של פרסום."
+            },
+            {
+                "definition": "Determining how much material is needed for construction or manufacturing",
+                "definition_hebrew": "קביעת כמות החומר הדרושה לבנייה או לייצור",
+                "example": "A chef measures ingredients to ensure the right proportions in a recipe.",
+                "example_hebrew": "שף מודד מרכיבים כדי להבטיח את הפרופורציות הנכונות במתכון."
+            },
+            {
+                "definition": "Gauging personal growth and development over time",
+                "definition_hebrew": "מדידת צמיחה והתפתחות אישית לאורך זמן",
+                "example": "'Measuring' your improvement by tracking fitness progress with regular weigh-ins or mile run times.",
+                "example_hebrew": "'מדידה' את השיפור שלך על ידי מעקב אחר התקדמות הכושר עם שקילה קבועה או זמני ריצה של מיילים."
+            }
+        ]
+    }
+]

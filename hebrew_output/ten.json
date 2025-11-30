@@ -1,0 +1,40 @@
+[
+    {
+        "word": "ten",
+        "word_hebrew": "עשר",
+        "main_definition": "The numerical value represented by the digit '10' or a term that indicates a group of ten items in various contexts.",
+        "main_definition_hebrew": "הערך המספרי המיוצג על ידי הספרה '10' או מונח המציין קבוצה של עשרה פריטים בהקשרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A cardinal number representing quantity",
+                "definition_hebrew": "מספר קרדינל המייצג כמות",
+                "example": "I have ten apples in my basket.",
+                "example_hebrew": "יש לי עשרה תפוחים בסל."
+            },
+            {
+                "definition": "A measure word indicating a group of ten items when referring to objects or people, often used in counting",
+                "definition_hebrew": "מילת מידה המציינת קבוצה של עשרה פריטים כאשר מתייחסים לחפצים או אנשים, המשמשת לעתים קרובות בספירה",
+                "example": "There are ten reasons why this plan will be successful.",
+                "example_hebrew": "יש עשר סיבות לכך שהתוכנית הזו תצליח."
+            },
+            {
+                "definition": "The tenth position or level in a sequence",
+                "definition_hebrew": "המיקום העשירי או הרמה ברצף",
+                "example": "He finished first place and then came second. However, the third person won, but he was still considered to have reached 'ten' if we consider his previous two placements.",
+                "example_hebrew": "הוא סיים את המקום הראשון ואז הגיע למקום השני. עם זאת, האדם השלישי ניצח, אבל הוא עדיין נחשב שהגיע ל'עשרה' אם ניקח בחשבון את שני המיקומים הקודמים שלו."
+            },
+            {
+                "definition": "In sports, ten refers to a scoring event or position in certain games",
+                "definition_hebrew": "בספורט, עשר מתייחס לאירוע ניקוד או עמדה במשחקים מסוימים",
+                "example": "The player scored a ten during the bowling game.",
+                "example_hebrew": "השחקן קלע עשר במהלך משחק הבאולינג."
+            },
+            {
+                "definition": "A unit of measurement equivalent to 10 inches or centimeters",
+                "definition_hebrew": "יחידת מידה שווה ערך ל-10 אינץ' או סנטימטרים",
+                "example": "The width of this table is ten inches across.",
+                "example_hebrew": "רוחב השולחן הזה הוא עשרה סנטימטרים לרוחב."
+            }
+        ]
+    }
+]

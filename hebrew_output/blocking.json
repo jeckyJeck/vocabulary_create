@@ -1,0 +1,34 @@
+[
+    {
+        "word": "blocking",
+        "word_hebrew": "חסימה",
+        "main_definition": "Blocking refers to the act of obstructing or preventing progress, movement, or communication in various contexts such as sports, gaming, social interactions, and technical processes.",
+        "main_definition_hebrew": "חסימה מתייחסת לפעולה של חסימה או מניעה של התקדמות, תנועה או תקשורת בהקשרים שונים כגון ספורט, משחקים, אינטראקציות חברתיות ותהליכים טכניים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In sports, blocking is an action where a player stops the ball from reaching its intended target by jumping or moving towards it.",
+                "definition_hebrew": "בספורט, חסימה היא פעולה שבה שחקן עוצר את הכדור מלהגיע ליעדו על ידי קפיצה או תנועה לעברו.",
+                "example": "The center blocked the opposing team's shot on goal during the basketball game.",
+                "example_hebrew": "הרכז חסם את הנגיחה של הקבוצה היריבה לשער במהלך משחק הכדורסל."
+            },
+            {
+                "definition": "In gaming, especially multiplayer online games, blocking is a strategy where players prevent their opponents from taking effective actions by controlling their movements or target selection.",
+                "definition_hebrew": "במשחקים, במיוחד במשחקים מקוונים מרובי משתתפים, חסימה היא אסטרטגיה שבה שחקנים מונעים מיריביהם לבצע פעולות יעילות על ידי שליטה בתנועותיהם או בבחירת היעד.",
+                "example": "During the intense PvP battle in Fortnite, John used his shield to block Mike's attacks.",
+                "example_hebrew": "במהלך קרב ה-PvP האינטנסיבי בפורטנייט, ג'ון השתמש במגן שלו כדי לחסום את ההתקפות של מייק."
+            },
+            {
+                "definition": "In social interactions, blocking can refer to removing someone from your contacts list on a digital platform or refusing to communicate with them.",
+                "definition_hebrew": "באינטראקציות חברתיות, חסימה יכולה להתייחס להסרת מישהו מרשימת אנשי הקשר שלך בפלטפורמה דיגיטלית או סירוב לתקשר איתו.",
+                "example": "I decided to block the annoying spammer who was sending me unwanted messages on my phone's messaging app.",
+                "example_hebrew": "החלטתי לחסום את הספאם המעצבן ששלח לי הודעות לא רצויות באפליקציית ההודעות של הטלפון שלי."
+            },
+            {
+                "definition": "In technical contexts, blocking can mean stopping the flow of data by preventing a program or system from accessing necessary resources.",
+                "definition_hebrew": "בהקשרים טכניים, חסימה יכולה להיות עצירת זרימת הנתונים על ידי מניעת גישה של תוכנית או מערכת למשאבים הדרושים.",
+                "example": "The software engineer identified and resolved an issue that was causing a blocking error in the application's code.",
+                "example_hebrew": "מהנדס התוכנה זיהה ופתר בעיה שגרמה לשגיאת חסימה בקוד האפליקציה."
+            }
+        ]
+    }
+]

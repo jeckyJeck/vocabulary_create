@@ -1,0 +1,40 @@
+[
+    {
+        "word": "prix",
+        "word_hebrew": "prix",
+        "main_definition": "The price or cost of something, often used in the context of economics, finance, or commerce.",
+        "main_definition_hebrew": "המחיר או העלות של משהו, המשמשים לעתים קרובות בהקשר של כלכלה, פיננסים או מסחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Monetary value assigned to a product, service, or asset.",
+                "definition_hebrew": "ערך כספי המוקצה למוצר, שירות או נכס.",
+                "example": "The prix of this painting is quite high due to its artist's reputation.",
+                "example_hebrew": "המחיר של ציור זה גבוה למדי בשל המוניטין של האמן שלו."
+            },
+            {
+                "definition": "A term used in French language and various idiomatic expressions referring to the cost or expense.",
+                "definition_hebrew": "מונח המשמש בשפה הצרפתית וביטויים אידיומטיים שונים המתייחסים לעלות או להוצאה.",
+                "example": "Il ne faut pas acheter une voiture à prix d'or (Don't buy a car at an arm and a leg price).",
+                "example_hebrew": "Il ne faut pas acheter une voiture à prix d'or (אל תקנו רכב במחיר יד וברגל)."
+            },
+            {
+                "definition": "In auction settings, it refers to the final amount paid for an item or property.",
+                "definition_hebrew": "בהגדרות מכירה פומבית, זה מתייחס לסכום הסופי ששולם עבור פריט או נכס.",
+                "example": "The house sold for its highest price ever during the open market.",
+                "example_hebrew": "הבית נמכר במחיר הגבוה ביותר שלו אי פעם במהלך השוק הפתוח."
+            },
+            {
+                "definition": "A concept used in economics and game theory referring to the value of a player's payoff when they win (or achieve their optimal outcome).",
+                "definition_hebrew": "מושג המשמש בכלכלה ובתורת המשחקים המתייחס לערך התמורה של שחקן כאשר הוא מנצח (או משיג את התוצאה האופטימלית שלו).",
+                "example": "In chess, the prix is what each piece is worth if it can be promoted.",
+                "example_hebrew": "בשחמט, הפרייקס הוא מה שווה כל יצירה אם ניתן לקדם אותה."
+            },
+            {
+                "definition": "The cost or expense incurred for a service or product, often with an emphasis on its value or justification.",
+                "definition_hebrew": "העלות או ההוצאה שנגרמו עבור שירות או מוצר, לרוב תוך שימת דגש על ערכו או הצדקתו.",
+                "example": "The company must justify the prix of their new software to potential clients.",
+                "example_hebrew": "החברה חייבת להצדיק את המחיר של התוכנה החדשה שלה ללקוחות פוטנציאליים."
+            }
+        ]
+    }
+]

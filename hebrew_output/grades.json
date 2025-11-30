@@ -1,0 +1,40 @@
+[
+    {
+        "word": "grades",
+        "word_hebrew": "ציוני",
+        "main_definition": "Grades refer to the assessment of a student's performance in school or academic subjects, typically represented by letters such as A, B, C, etc., as well as numerical scores.",
+        "main_definition_hebrew": "ציונים מתייחסים להערכת ביצועיו של תלמיד במקצועות בית ספריים או אקדמיים, המיוצגים בדרך כלל באותיות כמו א', ב', ג' וכו', כמו גם ציונים מספריים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Academic evaluation",
+                "definition_hebrew": "הערכה אקדמית",
+                "example": "The math teacher gave an F to John for his low performance in the subject.",
+                "example_hebrew": "המורה למתמטיקה נתן ו' לג'ון על ביצועיו הנמוכים בנושא."
+            },
+            {
+                "definition": "Numeric score on a test or assignment",
+                "definition_hebrew": "ציון מספרי במבחן או מטלה",
+                "example": "Sara scored 85 out of 100 on her history exam, which is equivalent to a B grade.",
+                "example_hebrew": "שרה קיבלה ציון 85 מתוך 100 בבחינה בהיסטוריה שלה, השווה לציון ב'."
+            },
+            {
+                "definition": "Letter-based ranking in an educational institution",
+                "definition_hebrew": "דירוג לפי אותיות במוסד חינוכי",
+                "example": "At the end of the semester, students receive their grades, ranging from A (excellent) to F (failing).",
+                "example_hebrew": "בסוף הסמסטר מקבלים התלמידים את ציוניהם, החל מ-א' (מצוין) ועד ו' (נכשל)."
+            },
+            {
+                "definition": "Levels or standards used for comparison among different groups or individuals",
+                "definition_hebrew": "רמות או סטנדרטים המשמשים להשוואה בין קבוצות או יחידים שונים",
+                "example": "The grading system in this country ranges from 100% as an A, down to a D+ which is the lowest passing grade.",
+                "example_hebrew": "שיטת הציונים בארץ זו נעה בין 100% כ-A, עד ל-D+ שהוא ציון המעבר הנמוך ביותר."
+            },
+            {
+                "definition": "Feedback on progress or performance towards achieving goals",
+                "definition_hebrew": "משוב על התקדמות או ביצועים לקראת השגת יעדים",
+                "example": "After receiving his grades for the semester, Michael realized he needed to improve in certain areas and set new goals.",
+                "example_hebrew": "לאחר שקיבל את ציוני הסמסטר, מיכאל הבין שהוא צריך להשתפר בתחומים מסוימים ולהציב יעדים חדשים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "syndrome",
+        "word_hebrew": "תִסמוֹנֶת",
+        "main_definition": "A syndrome is a group of symptoms that consistently occur together or a condition characterized by a set of signs and symptoms known to be associated with each other.",
+        "main_definition_hebrew": "תסמונת היא קבוצה של סימפטומים המתרחשים באופן עקבי יחד או מצב המאופיין בקבוצה של סימנים ותסמינים הידועים כקשורים זה לזה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In medical context, referring to a recognizable complex of symptoms that often occurs together",
+                "definition_hebrew": "בהקשר רפואי, הכוונה למכלול סימפטומים שניתן לזהות המתרחש לעתים קרובות יחד",
+                "example": "Down syndrome is a genetic disorder caused by the presence of an extra chromosome 21 and characterized by a specific set of physical traits and developmental delays.",
+                "example_hebrew": "תסמונת דאון היא הפרעה גנטית הנגרמת על ידי נוכחות של כרומוזום 21 נוסף ומאופיינת במערך מסוים של תכונות פיזיות ועיכובים התפתחותיים."
+            },
+            {
+                "definition": "A non-medical term used to describe a situation where different elements or factors are interconnected in a particular way",
+                "definition_hebrew": "מונח לא רפואי המשמש לתיאור מצב שבו אלמנטים או גורמים שונים קשורים זה בזה בצורה מסוימת",
+                "example": "The Red Tape Syndrome refers to the frustration experienced when dealing with excessive bureaucracy.",
+                "example_hebrew": "תסמונת הסרט האדום מתייחס לתסכול שחווים כאשר מתמודדים עם בירוקרטיה מוגזמת."
+            },
+            {
+                "definition": "Used metaphorically to imply that multiple unrelated issues are occurring simultaneously, much like symptoms of a syndrome",
+                "definition_hebrew": "משמש באופן מטפורי כדי לרמוז שמספר בעיות לא קשורות מתרחשות בו זמנית, בדומה לתסמינים של תסמונת",
+                "example": "The economic crisis was accompanied by high inflation and rising unemployment rates, resembling the 'triple whammy' scenario.",
+                "example_hebrew": "המשבר הכלכלי לווה באינפלציה גבוהה ובעלייה בשיעורי האבטלה, המזכירים את תרחיש ה'משולש'."
+            }
+        ]
+    }
+]

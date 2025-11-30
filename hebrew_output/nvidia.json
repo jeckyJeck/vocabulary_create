@@ -1,0 +1,28 @@
+[
+    {
+        "word": "nvidia",
+        "word_hebrew": "nvidia",
+        "main_definition": "Nvidia is a prominent technology company primarily known for its Graphics Processing Units (GPUs) used in gaming, professional markets, and data centers.",
+        "main_definition_hebrew": "Nvidia היא חברת טכנולוגיה בולטת הידועה בעיקר בזכות יחידות העיבוד הגרפי (GPU) שלה המשמשות במשחקים, בשווקים מקצועיים ובמרכזי נתונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A tech company specializing in GPU manufacturing",
+                "definition_hebrew": "חברת טכנולוגיה המתמחה בייצור GPU",
+                "example": "Nvidia's GeForce RTX series is popular among gamers for its high performance.",
+                "example_hebrew": "סדרת GeForce RTX של Nvidia פופולרית בקרב גיימרים בשל הביצועים הגבוהים שלה."
+            },
+            {
+                "definition": "An abbreviation derived from 'Non Visual InterFace', a term used humorously to refer to artificial intelligence and virtual assistants like Microsoft's GPT-3",
+                "definition_hebrew": "קיצור שנגזר מ-Non Visual InterFace, מונח המשמש בהומור כדי להתייחס לבינה מלאכותית ועוזרים וירטואליים כמו GPT-3 של מיקרוסופט",
+                "example": "Some people jokingly call advanced AI systems, such as ChatGPT, 'Nvidia.'",
+                "example_hebrew": "יש אנשים שקוראים בצחוק למערכות AI מתקדמות, כמו ChatGPT, 'Nvidia'."
+            },
+            {
+                "definition": "A slang term in some gaming communities referring to a type of overpowered character or strategy that dominates the game",
+                "definition_hebrew": "מונח סלנג בקהילות משחקים מסוימות המתייחס לסוג של דמות או אסטרטגיה מוגזמת השולטת במשחק",
+                "example": "Having an Nvidia in your team can be risky as it might upset the balance.",
+                "example_hebrew": "קיום Nvidia בצוות שלך יכול להיות מסוכן מכיוון שהוא עלול להפר את האיזון."
+            }
+        ]
+    }
+]

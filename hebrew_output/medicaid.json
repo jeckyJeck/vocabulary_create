@@ -1,0 +1,28 @@
+[
+    {
+        "word": "medicaid",
+        "word_hebrew": "רפואית",
+        "main_definition": "Medicaid is a government-funded health insurance program in the United States that provides medical coverage to low-income individuals and families.",
+        "main_definition_hebrew": "Medicaid היא תוכנית ביטוח בריאות במימון ממשלתי בארצות הברית, המספקת כיסוי רפואי לאנשים ומשפחות בעלי הכנסה נמוכה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Government-funded health insurance",
+                "definition_hebrew": "ביטוח בריאות במימון ממשלתי",
+                "example": "After losing her job, Sarah enrolled in Medicaid to help cover the cost of her medical expenses.",
+                "example_hebrew": "לאחר שאיבדה את עבודתה, שרה נרשמה ל-Medicaid כדי לעזור לכסות את עלות ההוצאות הרפואיות שלה."
+            },
+            {
+                "definition": "Low-income individual and family assistance program",
+                "definition_hebrew": "תוכנית סיוע לפרט ומשפחה עם הכנסה נמוכה",
+                "example": "Medicaid is designed to assist those who cannot afford healthcare due to their low income status.",
+                "example_hebrew": "Medicaid נועד לסייע לאלו שאינם יכולים להרשות לעצמם שירותי בריאות בשל מצבם הנמוך."
+            },
+            {
+                "definition": "Funded by both state and federal government",
+                "definition_hebrew": "ממומן על ידי המדינה והממשלה הפדרלית כאחד",
+                "example": "Each state has its own Medicaid program, but it receives funding from the federal government to provide coverage for eligible residents.",
+                "example_hebrew": "לכל מדינה יש תוכנית Medicaid משלה, אך היא מקבלת מימון מהממשלה הפדרלית כדי לספק כיסוי לתושבים זכאים."
+            }
+        ]
+    }
+]

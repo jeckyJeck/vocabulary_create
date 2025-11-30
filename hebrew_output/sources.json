@@ -1,0 +1,40 @@
+[
+    {
+        "word": "sources",
+        "word_hebrew": "מקורות",
+        "main_definition": "Sources refer to the origins or points of origin where information, data, or material comes from.",
+        "main_definition_hebrew": "מקורות מתייחסים למקורות או לנקודות המוצא שמהם מגיעים מידע, נתונים או חומר.",
+        "meanings_and_examples": [
+            {
+                "definition": "The places where news is obtained for reporting purposes.",
+                "definition_hebrew": "המקומות שבהם מתקבלות חדשות לצורכי דיווח.",
+                "example": "The journalist gathered sources at a press conference to write her article.",
+                "example_hebrew": "העיתונאית אספה מקורות במסיבת עיתונאים כדי לכתוב את מאמרה."
+            },
+            {
+                "definition": "Material or evidence that provides the basis for an argument, research, or study.",
+                "definition_hebrew": "חומר או ראיה המספקים בסיס לטיעון, מחקר או מחקר.",
+                "example": "Historians rely on ancient texts as sources when studying past civilizations.",
+                "example_hebrew": "היסטוריונים מסתמכים על טקסטים עתיקים כמקורות כאשר הם חוקרים תרבויות עבר."
+            },
+            {
+                "definition": "The origins of a particular substance or element in nature.",
+                "definition_hebrew": "מקורותיו של חומר או יסוד מסוים בטבע.",
+                "example": "Geologists explore rock formations to understand the sources of certain minerals.",
+                "example_hebrew": "גיאולוגים חוקרים תצורות סלע כדי להבין את המקורות של מינרלים מסוימים."
+            },
+            {
+                "definition": "A database, library, or collection where information can be found and retrieved.",
+                "definition_hebrew": "מסד נתונים, ספרייה או אוסף שבו ניתן למצוא ולאחזר מידע.",
+                "example": "Online databases are great sources for academic research projects.",
+                "example_hebrew": "מאגרי מידע מקוונים הם מקורות מצוינים לפרויקטי מחקר אקדמיים."
+            },
+            {
+                "definition": "The point from which something is sent out, transmitted, or originates.",
+                "definition_hebrew": "הנקודה שממנה משהו נשלח החוצה, משודר או נובע.",
+                "example": "A scientist traces the source of a chemical reaction to understand its cause better.",
+                "example_hebrew": "מדען עוקב אחר המקור של תגובה כימית כדי להבין טוב יותר את הסיבה לה."
+            }
+        ]
+    }
+]

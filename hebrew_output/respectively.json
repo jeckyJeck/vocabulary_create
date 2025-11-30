@@ -1,0 +1,28 @@
+[
+    {
+        "word": "respectively",
+        "word_hebrew": "בהתאמה",
+        "main_definition": "In a list of paired items, 'respectively' is used to indicate that the corresponding elements are related in the order mentioned.",
+        "main_definition_hebrew": "ברשימה של פריטים מזווגים, 'בהתאמה' משמש כדי לציין שהאלמנטים המתאימים קשורים לפי הסדר שהוזכר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To correspond or relate with something else in order",
+                "definition_hebrew": "להתכתב או להתייחס למשהו אחר לפי הסדר",
+                "example": "John and Mary got A and B grades respectively, meaning John got an A and Mary got a B.",
+                "example_hebrew": "ג'ון ומרי קיבלו ציונים A ו-B בהתאמה, כלומר ג'ון קיבלה A ומרי קיבלה B."
+            },
+            {
+                "definition": "In numerical data sets, it is used to indicate the relationship between two corresponding elements",
+                "definition_hebrew": "במערכי נתונים מספריים, הוא משמש לציון הקשר בין שני אלמנטים תואמים",
+                "example": "The numbers 25 and 30 are prime, respectively.",
+                "example_hebrew": "המספרים 25 ו-30 הם ראשוניים, בהתאמה."
+            },
+            {
+                "definition": "Used when referring to a sequence of pairs or groups that have specific relationships with each other in order",
+                "definition_hebrew": "משמש כאשר מתייחסים לרצף של זוגות או קבוצות שיש להם יחסים ספציפיים זה עם זה לפי הסדר",
+                "example": "The twins were born on May 1st and June 15th, respectively. This means the first twin was born on May 1st and the second on June 15th.",
+                "example_hebrew": "התאומים נולדו ב-1 במאי וב-15 ביוני, בהתאמה. המשמעות היא שהתאום הראשון נולד ב-1 במאי והשני ב-15 ביוני."
+            }
+        ]
+    }
+]

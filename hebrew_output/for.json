@@ -1,0 +1,32 @@
+{
+    "word": "for",
+    "word_hebrew": "ל",
+    "main_definition": "For is a preposition that indicates the purpose or intended use of something, duration, recipient, or reason.",
+    "main_definition_hebrew": "עבור היא מילת יחס שמציינת את המטרה או את השימוש המיועד של משהו, משך, נמען או סיבה.",
+    "meanings_and_examples": [
+        {
+            "definition": "Intended Use or Purpose",
+            "definition_hebrew": "שימוש או מטרה מיועדת",
+            "example": "I bought this gift for my sister.",
+            "example_hebrew": "קניתי את המתנה הזו עבור אחותי."
+        },
+        {
+            "definition": "Duration of Time",
+            "definition_hebrew": "משך זמן",
+            "example": "The store is open from 9 AM to 5 PM, for a total of eight hours.",
+            "example_hebrew": "החנות פתוחה בין השעות 9:00-17:00, בסך הכל שמונה שעות."
+        },
+        {
+            "definition": "Recipient or Beneficiary",
+            "definition_hebrew": "מקבל או מוטב",
+            "example": "I baked this cake for my daughter's birthday party.",
+            "example_hebrew": "אפיתי את העוגה הזו למסיבת יום ההולדת של הבת שלי."
+        },
+        {
+            "definition": "Reason or Explanation",
+            "definition_hebrew": "סיבה או הסבר",
+            "example": "He left early, because he had a doctor's appointment.",
+            "example_hebrew": "הוא עזב מוקדם, כי היה לו תור לרופא."
+        }
+    ]
+}

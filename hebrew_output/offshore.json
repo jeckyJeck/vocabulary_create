@@ -1,0 +1,34 @@
+[
+    {
+        "word": "offshore",
+        "word_hebrew": "מחוץ לחוף",
+        "main_definition": "Offshore refers to something that is situated or occurs at a distance from the shore, especially in relation to businesses, activities, or assets.",
+        "main_definition_hebrew": "Offshore מתייחס למשהו שנמצא או מתרחש במרחק מהחוף, במיוחד ביחס לעסקים, פעילויות או נכסים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Related to financial services located outside of one's own country",
+                "definition_hebrew": "קשור לשירותים פיננסיים הממוקמים מחוץ למדינה שלו",
+                "example": "Many companies choose to establish offshore bank accounts for tax benefits.",
+                "example_hebrew": "חברות רבות בוחרות להקים חשבונות בנק בחו\"ל לצורך הטבות מס."
+            },
+            {
+                "definition": "Pertaining to activities or investments carried out in a different jurisdiction than where the entity is based",
+                "definition_hebrew": "הנוגעים לפעילויות או השקעות שבוצעו באזור שיפוט שונה מזה שבו יושבת הישות",
+                "example": "The company decided to move its manufacturing operations offshore to reduce costs and increase efficiency.",
+                "example_hebrew": "החברה החליטה להעביר את פעילות הייצור שלה אל הים כדי להפחית עלויות ולהגביר את היעילות."
+            },
+            {
+                "definition": "Involving ships, vessels, or platforms located at sea away from the coastline",
+                "definition_hebrew": "מעורבות ספינות, כלי שיט או פלטפורמות הממוקמות בים הרחק מקו החוף",
+                "example": "Oil rigs are often considered offshore structures since they are built in deep waters far from land.",
+                "example_hebrew": "אסדות נפט נחשבות לרוב למבנים ימיים מכיוון שהן בנויות במים עמוקים הרחק מהיבשה."
+            },
+            {
+                "definition": "Related to legal avoidance of regulations and restrictions within one's home country",
+                "definition_hebrew": "קשור להימנעות משפטית מתקנות והגבלות בתוך מדינת הולדתו",
+                "example": "Some individuals set up offshore companies to protect their assets and privacy, although it can be controversial.",
+                "example_hebrew": "חלק מהאנשים הקימו חברות מחוץ לחוף כדי להגן על הנכסים והפרטיות שלהם, אם כי זה יכול להיות שנוי במחלוקת."
+            }
+        ]
+    }
+]

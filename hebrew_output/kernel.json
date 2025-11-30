@@ -1,0 +1,46 @@
+[
+    {
+        "word": "kernel",
+        "word_hebrew": "גַרעִין",
+        "main_definition": "A kernel can refer to a central or most important part of something, in the context of computing it refers to the core program that runs on an operating system, or in the context of seeds, it is the inside of a fruit surrounded by its outer layers.",
+        "main_definition_hebrew": "גרעין יכול להתייחס לחלק מרכזי או חשוב ביותר של משהו, בהקשר של מחשוב זה מתייחס לתוכנית הליבה שפועלת על מערכת הפעלה, או בהקשר של זרעים, זה החלק הפנימי של פרי מוקף החיצוני שלו שכבות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The central and most important part of something",
+                "definition_hebrew": "החלק המרכזי והחשוב ביותר של משהו",
+                "example": "In business management, the kernel could refer to the core values that drive the company's decisions.",
+                "example_hebrew": "בניהול עסקי, הגרעין יכול להתייחס לערכי הליבה המניעים את החלטות החברה."
+            },
+            {
+                "definition": "A seed enclosed in a fruit",
+                "definition_hebrew": "זרע סגור בפרי",
+                "example": "When you crack open an apple, you see its kernel, which is actually called a pit or stone, and contains the apple's seeds.",
+                "example_hebrew": "כשפותחים תפוח רואים את הגרעין שלו, שנקרא בעצם בור או אבן, ומכיל את זרעי התפוח."
+            },
+            {
+                "definition": "In computing, the core program that runs on an operating system",
+                "definition_hebrew": "במחשוב, תוכנית הליבה שפועלת על מערכת הפעלה",
+                "example": "The Linux kernel is responsible for managing hardware resources and providing basic services to other parts of the system.",
+                "example_hebrew": "ליבת לינוקס אחראית על ניהול משאבי החומרה ומתן שירותים בסיסיים לחלקים אחרים של המערכת."
+            },
+            {
+                "definition": "In mathematics, a kernel refers to a subset of vectors in a vector space where all linear functionals vanish.",
+                "definition_hebrew": "במתמטיקה, ליבה מתייחסת לקבוצת משנה של וקטורים במרחב וקטור שבו כל הפונקציות הליניאריות נעלמים.",
+                "example": "Considering a transformation T from one vector space V to another W, the kernel of T is the set of elements that map to zero under T.",
+                "example_hebrew": "בהתחשב בטרנספורמציה T ממרחב וקטור אחד V ל-W אחר, הגרעין של T הוא קבוצת האלמנטים הממפים לאפס תחת T."
+            },
+            {
+                "definition": "In physics, particularly in the study of materials science and nanotechnology, a 'kernel' might refer to an atomic or molecular cluster.",
+                "definition_hebrew": "בפיזיקה, במיוחד בחקר מדעי החומרים והננוטכנולוגיה, 'גרעין' עשוי להתייחס לצביר אטומי או מולקולרי.",
+                "example": "The gold nanoparticle kernel refers to the core of the nanoparticle composed of a dense array of atoms.",
+                "example_hebrew": "גרעין ננו-חלקיק הזהב מתייחס לליבה של הננו-חלקיק המורכב ממערך צפוף של אטומים."
+            },
+            {
+                "definition": "In machine learning, particularly in Support Vector Machines (SVM), 'kernel' is used as an algorithm that transforms data into a higher dimension space.",
+                "definition_hebrew": "בלמידת מכונה, במיוחד ב-Support Vector Machines (SVM), 'קרנל' משמש כאלגוריתם שהופך נתונים למרחב ממדים גבוהים יותר.",
+                "example": "The kernel function might convert input features into a different feature space to find the best hyperplane for classification.",
+                "example_hebrew": "פונקציית הקרנל עשויה להמיר תכונות קלט למרחב תכונות אחר כדי למצוא את המישור הטוב ביותר לסיווג."
+            }
+        ]
+    }
+]

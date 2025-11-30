@@ -1,0 +1,40 @@
+[
+    {
+        "word": "units",
+        "word_hebrew": "יחידות",
+        "main_definition": "In the context of measurements, units refer to standard amounts used as a basis for quantifying physical quantities such as length, mass, volume, etc.",
+        "main_definition_hebrew": "בהקשר של מדידות, יחידות מתייחסות לכמויות סטנדרטיות המשמשות כבסיס לכימות כמויות פיזיקליות כגון אורך, מסה, נפח וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "Measurement in mathematics and science",
+                "definition_hebrew": "מדידה במתמטיקה ומדעים",
+                "example": "There are 12 inches in one foot, which is the basic unit of measurement for length.",
+                "example_hebrew": "יש 12 אינץ' ברגל אחת, שהיא יחידת המידה הבסיסית לאורך."
+            },
+            {
+                "definition": "Soldier or members of a military organization",
+                "definition_hebrew": "חייל או חברים בארגון צבאי",
+                "example": "The army has thousands of units deployed around the world to maintain peace and security.",
+                "example_hebrew": "לצבא יש אלפי יחידות פרוסות ברחבי העולם כדי לשמור על שלום וביטחון."
+            },
+            {
+                "definition": "In business, it refers to the basic unit of an enterprise's organizational structure",
+                "definition_hebrew": "בעסקים, זה מתייחס ליחידה הבסיסית של המבנה הארגוני של מיזם",
+                "example": "A company might have multiple departments as its units, such as sales, marketing, or finance.",
+                "example_hebrew": "לחברה יכולות להיות מספר מחלקות כיחידות שלה, כגון מכירות, שיווק או כספים."
+            },
+            {
+                "definition": "Refers to a group of computers working together on a common task",
+                "definition_hebrew": "הכוונה לקבוצת מחשבים שעובדת יחד על משימה משותפת",
+                "example": "In networking, a cluster of servers can be considered as a unit for managing and processing data efficiently.",
+                "example_hebrew": "ברשתות, אשכול שרתים יכול להיחשב כיחידה לניהול ועיבוד נתונים ביעילות."
+            },
+            {
+                "definition": "Individual pieces or parts that make up something larger",
+                "definition_hebrew": "חלקים או חלקים בודדים שמרכיבים משהו גדול יותר",
+                "example": "A chocolate bar is made up of several small units called squares.",
+                "example_hebrew": "חפיסת שוקולד מורכבת ממספר יחידות קטנות הנקראות ריבועים."
+            }
+        ]
+    }
+]

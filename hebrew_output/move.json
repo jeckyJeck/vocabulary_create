@@ -1,0 +1,40 @@
+[
+    {
+        "word": "move",
+        "word_hebrew": "מהלך \\ לזוז \\ לעבור",
+        "main_definition": "To change one's position or location, either physically by relocating objects or figuratively through actions.",
+        "main_definition_hebrew": "לשנות את המיקום או המיקום של האדם, או פיזית על ידי העברת חפצים או באופן פיגורטיבי באמצעות פעולות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical relocation of an object or person from one place to another",
+                "definition_hebrew": "העברה פיזית של חפץ או אדם ממקום למקום",
+                "example": "They moved the heavy furniture out of their apartment.",
+                "example_hebrew": "הם העבירו את הרהיטים הכבדים מדירתם."
+            },
+            {
+                "definition": "To initiate motion in oneself, typically as part of exercise or dance routines",
+                "definition_hebrew": "ליזום תנועה בעצמו, בדרך כלל כחלק משגרת פעילות גופנית או ריקוד",
+                "example": "She did some warm-up moves before starting her workout.",
+                "example_hebrew": "היא עשתה כמה מהלכי חימום לפני שהתחילה את האימון."
+            },
+            {
+                "definition": "In a gaming context, to advance one's game piece on the board or screen",
+                "definition_hebrew": "בהקשר של משחק, כדי לקדם את חלק המשחק שלו על הלוח או המסך",
+                "example": "During chess, he moved his knight two spaces forward and one space to the right.",
+                "example_hebrew": "במהלך השחמט, הוא הזיז את האביר שלו שני רווחים קדימה ורווח אחד ימינה."
+            },
+            {
+                "definition": "To express oneself verbally by shifting from one topic to another in conversation",
+                "definition_hebrew": "להביע את עצמו מילולית על ידי מעבר מנושא אחד לאחר בשיחה",
+                "example": "The speaker used a move to transition smoothly into discussing their next point.",
+                "example_hebrew": "הדובר השתמש במהלך כדי לעבור בצורה חלקה לדיון בנקודה הבאה שלהם."
+            },
+            {
+                "definition": "In sports, to change the direction or speed of an athlete's movement",
+                "definition_hebrew": "בספורט, לשנות את הכיוון או המהירות של התנועה של ספורטאי",
+                "example": "The basketball player made quick moves around the court to evade his defenders.",
+                "example_hebrew": "שחקן הכדורסל ביצע מהלכים מהירים ברחבי המגרש כדי להתחמק ממגיניו."
+            }
+        ]
+    }
+]

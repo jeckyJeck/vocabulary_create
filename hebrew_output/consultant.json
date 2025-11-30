@@ -1,0 +1,34 @@
+[
+    {
+        "word": "consultant",
+        "word_hebrew": "יוֹעֵץ",
+        "main_definition": "A consultant is a professional who provides expert advice in a particular area such as business, education or technology.",
+        "main_definition_hebrew": "יועץ הוא איש מקצוע המעניק ייעוץ מומחה בתחום מסוים כגון עסקים, חינוך או טכנולוגיה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Independent advisor",
+                "definition_hebrew": "יועץ עצמאי",
+                "example": "The marketing consultant provided valuable insights to improve our brand's visibility.",
+                "example_hebrew": "היועץ השיווקי סיפק תובנות חשובות לשיפור הנראות של המותג שלנו."
+            },
+            {
+                "definition": "Expert in a specific field who is hired for advice",
+                "definition_hebrew": "מומחה בתחום ספציפי הנשכר לייעוץ",
+                "example": "An environmental consultant was brought in to assess the impact of construction on local wildlife.",
+                "example_hebrew": "יועץ סביבתי הובא כדי להעריך את השפעת הבנייה על חיות הבר המקומיות."
+            },
+            {
+                "definition": "Professional offering services based on their knowledge and experience",
+                "definition_hebrew": "שירותים מקצועיים המבוססים על הידע והניסיון שלהם",
+                "example": "The cybersecurity consultant helped us strengthen our IT infrastructure against potential threats.",
+                "example_hebrew": "יועץ אבטחת הסייבר עזר לנו לחזק את תשתית ה-IT שלנו נגד איומים פוטנציאליים."
+            },
+            {
+                "definition": "Specialist providing advice for decision making in a company",
+                "definition_hebrew": "מומחה במתן ייעוץ לקבלת החלטות בחברה",
+                "example": "The financial consultant guided the firm through investment opportunities and risk management strategies.",
+                "example_hebrew": "היועץ הפיננסי הדריך את החברה דרך הזדמנויות השקעה ואסטרטגיות ניהול סיכונים."
+            }
+        ]
+    }
+]

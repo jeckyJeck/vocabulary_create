@@ -1,0 +1,28 @@
+[
+    {
+        "word": "foo",
+        "word_hebrew": "פו",
+        "main_definition": "In simple English, 'foo' is a placeholder name or nonsensical word used in programming contexts to represent an arbitrary variable or object.",
+        "main_definition_hebrew": "באנגלית פשוטה, 'foo' הוא שם מציין מיקום או מילה חסרת משמעות המשמשת בהקשרי תכנות כדי לייצג משתנה או אובייקט שרירותיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A nonsensical term often used in programming and coding examples",
+                "definition_hebrew": "מונח לא הגיוני המשמש לעתים קרובות בדוגמאות תכנות וקידוד",
+                "example": "This function will take a 'foo' as input, perform some operations on it, and return the result.",
+                "example_hebrew": "פונקציה זו תקבל 'foo' כקלט, תבצע עליו כמה פעולות ותחזיר את התוצאה."
+            },
+            {
+                "definition": "An arbitrary placeholder name for testing or demonstration purposes",
+                "definition_hebrew": "שם מציין מיקום שרירותי למטרות בדיקה או הדגמה",
+                "example": "'Foo' is a common variable used in many code snippets to illustrate various coding concepts. For instance, 'let foo = 2 + 2; console.log(foo)' shows basic addition and output.",
+                "example_hebrew": "'Foo' הוא משתנה נפוץ המשמש בקטעי קוד רבים כדי להמחיש מושגי קידוד שונים. לדוגמה, 'תן foo = 2 + 2; console.log(foo)' מציג תוספת ופלט בסיסיים."
+            },
+            {
+                "definition": "A term occasionally utilized in comedic or informal contexts to refer to something unknown or unspecified",
+                "definition_hebrew": "מונח המשמש מדי פעם בהקשרים קומיים או לא פורמליים כדי להתייחס למשהו לא ידוע או לא מוגדר",
+                "example": "'I can't find my phone, but I think it might be over there next to the 'foo.'",
+                "example_hebrew": "'אני לא מוצא את הטלפון שלי, אבל אני חושב שהוא יכול להיות שם ליד ה'פו'."
+            }
+        ]
+    }
+]

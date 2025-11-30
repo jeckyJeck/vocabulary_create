@@ -1,0 +1,40 @@
+[
+    {
+        "word": "chapters",
+        "word_hebrew": "פרקים",
+        "main_definition": "Chapters refer to distinct sections or divisions within a book, document, or other written work that group content into manageable segments.",
+        "main_definition_hebrew": "פרקים מתייחסים לקטעים או חלוקות נפרדות בתוך ספר, מסמך או עבודה כתובה אחרת המקבצים תוכן למקטעים שניתנים לניהול.",
+        "meanings_and_examples": [
+            {
+                "definition": "Sections of a book or textbook",
+                "definition_hebrew": "חלקים של ספר או ספר לימוד",
+                "example": "The 'Introduction' and first few chapters provide an overview of the subject matter.",
+                "example_hebrew": "ה'מבוא' והפרקים הראשונים מספקים סקירה כללית של הנושא."
+            },
+            {
+                "definition": "Groups of related articles in a magazine, newspaper, or online publication",
+                "definition_hebrew": "קבוצות של מאמרים קשורים במגזין, עיתון או פרסום מקוון",
+                "example": "This issue features four chapters on climate change, each written by different experts.",
+                "example_hebrew": "גיליון זה כולל ארבעה פרקים על שינויי אקלים, כל אחד נכתב על ידי מומחים שונים."
+            },
+            {
+                "definition": "Partitions within a legal document like legislation or a constitution",
+                "definition_hebrew": "מחיצות בתוך מסמך משפטי כמו חקיקה או חוקה",
+                "example": "Chapter IV of the United States Constitution deals with amendments and alterations to laws.",
+                "example_hebrew": "פרק IV של חוקת ארצות הברית עוסק בתיקונים ושינויים בחוקים."
+            },
+            {
+                "definition": "Stages in a storytelling, such as movies or TV series",
+                "definition_hebrew": "שלבים בסיפור סיפורים, כגון סרטים או סדרות טלוויזיה",
+                "example": "The third chapter begins our protagonists' journey into an unexplored land full of mysteries.",
+                "example_hebrew": "הפרק השלישי מתחיל את מסעם של הגיבורים שלנו אל ארץ לא נחקרה מלאה בתעלומות."
+            },
+            {
+                "definition": "Main subdivisions within religious texts like the Bible or Quran",
+                "definition_hebrew": "חלוקות משנה עיקריות בטקסטים דתיים כמו התנ\"ך או הקוראן",
+                "example": "Chapter 3, known as 'Ashura', is a significant chapter in both the Jewish and Islamic faiths.",
+                "example_hebrew": "פרק 3, המכונה 'אשורה', הוא פרק משמעותי באמונה היהודית והאסלאמית כאחד."
+            }
+        ]
+    }
+]

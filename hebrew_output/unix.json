@@ -1,0 +1,28 @@
+[
+    {
+        "word": "unix",
+        "word_hebrew": "יוניקס",
+        "main_definition": "The Unix operating system, a family of multitasking, multiuser computer operating systems that originated from the original Tanukino-based UNIX in the early 1970s and have since developed into several versions.",
+        "main_definition_hebrew": "מערכת ההפעלה Unix, משפחה של מערכות הפעלה למחשבים מרובי-משימות, שמקורן ב-UNIX המקורי מבוסס Tanukino בתחילת שנות ה-70 ומאז התפתחו למספר גרסאות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to or characteristic of Unix or Unix-like operating systems",
+                "definition_hebrew": "קשור או מאפיין מערכות הפעלה Unix או Unix דמויות",
+                "example": "Linux is an open-source Unix-like system.",
+                "example_hebrew": "לינוקס היא מערכת דמוית Unix בקוד פתוח."
+            },
+            {
+                "definition": "A type of computer architecture that resembles the design and philosophy of Unix systems",
+                "definition_hebrew": "סוג של ארכיטקטורת מחשבים הדומה לעיצוב ולפילוסופיה של מערכות יוניקס",
+                "example": "Unix-based architectures focus on simplicity, modularity, and portability.",
+                "example_hebrew": "ארכיטקטורות מבוססות יוניקס מתמקדות בפשטות, מודולריות וניידות."
+            },
+            {
+                "definition": "An adjective describing a system or process inspired by the principles and functionality of Unix operating systems",
+                "definition_hebrew": "שם תואר המתאר מערכת או תהליך בהשראת העקרונות והפונקציונליות של מערכות ההפעלה של יוניקס",
+                "example": "A unixified approach to programming emphasizes simplicity, readability, and reusability.",
+                "example_hebrew": "גישה אחידה לתכנות מדגישה פשטות, קריאה ושימוש חוזר."
+            }
+        ]
+    }
+]

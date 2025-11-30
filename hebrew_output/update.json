@@ -1,0 +1,40 @@
+[
+    {
+        "word": "update",
+        "word_hebrew": "עדכון",
+        "main_definition": "To make something more current or to provide someone with the latest information about a situation, item, or status.",
+        "main_definition_hebrew": "כדי להפוך משהו לעדכני יותר או לספק למישהו את המידע העדכני ביותר על מצב, פריט או סטטוס.",
+        "meanings_and_examples": [
+            {
+                "definition": "To modify an existing file or program with new data or features.",
+                "definition_hebrew": "כדי לשנות קובץ או תוכנית קיימים עם נתונים או תכונות חדשות.",
+                "example": "I need to update my computer's operating system to improve its performance.",
+                "example_hebrew": "אני צריך לעדכן את מערכת ההפעלה של המחשב שלי כדי לשפר את הביצועים שלו."
+            },
+            {
+                "definition": "To inform someone about the latest developments or changes in a situation.",
+                "definition_hebrew": "ליידע מישהו על ההתפתחויות האחרונות או שינויים במצב.",
+                "example": "The teacher will give an update on the progress of her students during parent-teacher conferences.",
+                "example_hebrew": "המורה תעדכן על התקדמות תלמידיה במהלך אסיפות הורים."
+            },
+            {
+                "definition": "To revise and improve something, typically for better accuracy or quality.",
+                "definition_hebrew": "לתקן ולשפר משהו, בדרך כלל למען דיוק או איכות טובים יותר.",
+                "example": "I'll need to update my resume before applying for new jobs.",
+                "example_hebrew": "אצטרך לעדכן את קורות החיים שלי לפני הגשת מועמדות למשרות חדשות."
+            },
+            {
+                "definition": "To make changes in order to reflect the current state of a situation or information.",
+                "definition_hebrew": "לבצע שינויים כדי לשקף את המצב הנוכחי של מצב או מידע.",
+                "example": "The company issued an update on their financial status after the merger with another firm.",
+                "example_hebrew": "החברה פרסמה עדכון על מצבם הפיננסי לאחר המיזוג עם משרד אחר."
+            },
+            {
+                "definition": "To provide feedback or criticism, often as a means of improvement.",
+                "definition_hebrew": "לספק משוב או ביקורת, לעתים קרובות כאמצעי לשיפור.",
+                "example": "She asked for updates from her team members to ensure everyone is on track and performing well.",
+                "example_hebrew": "היא ביקשה עדכונים מחברי הצוות שלה כדי להבטיח שכולם במסלול וביצועים טובים."
+            }
+        ]
+    }
+]

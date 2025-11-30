@@ -1,0 +1,34 @@
+[
+    {
+        "word": "fired",
+        "word_hebrew": "נורה",
+        "main_definition": "To be dismissed from employment or to eject an object with force.",
+        "main_definition_hebrew": "פיטורים מעבודה או הוצאת חפץ בכוח.",
+        "meanings_and_examples": [
+            {
+                "definition": "Dismissed from a job, usually due to performance issues or misconduct.",
+                "definition_hebrew": "פוטר מעבודה, בדרך כלל עקב בעיות ביצועים או התנהגות בלתי הולמת.",
+                "example": "After multiple warnings about his poor work quality, John was fired by his manager.",
+                "example_hebrew": "לאחר אזהרות מרובות על איכות העבודה הירודה שלו, ג'ון פוטר על ידי המנהל שלו."
+            },
+            {
+                "definition": "To cause something to be expelled rapidly and forcefully.",
+                "definition_hebrew": "לגרום למשהו לגרש במהירות ובעוצמה.",
+                "example": "The gunshot echoed through the forest as bullets were fired from the hunter's rifle.",
+                "example_hebrew": "הירייה הידהדה ביער כשכדורים נורו מהרובה של הצייד."
+            },
+            {
+                "definition": "In sports, when a player is removed from a game due to unsportsmanlike behavior or a rules violation.",
+                "definition_hebrew": "בספורט, כאשר שחקן מורחק ממשחק עקב התנהגות לא ספורטיבית או הפרת חוקים.",
+                "example": "During the soccer match, the referee decided to fire the disrespectful player for verbally abusing an opponent.",
+                "example_hebrew": "במהלך משחק הכדורגל, השופט החליט לפטר את השחקן הלא מכובד בגלל התעללות מילולית ביריב."
+            },
+            {
+                "definition": "To extinguish (a flame) by removing its fuel source or oxygen supply.",
+                "definition_hebrew": "כדי לכבות (להבה) על ידי הסרת מקור הדלק או אספקת החמצן שלה.",
+                "example": "She quickly put out the small kitchen fire by using a fire extinguisher to discharge water onto it.",
+                "example_hebrew": "היא כיבה במהירות את השריפה במטבח הקטן באמצעות מטף כדי להזרים עליה מים."
+            }
+        ]
+    }
+]

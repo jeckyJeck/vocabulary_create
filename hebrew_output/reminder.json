@@ -1,0 +1,46 @@
+[
+    {
+        "word": "reminder",
+        "word_hebrew": "תִזכּוֹרֶת",
+        "main_definition": "A cue or prompt that helps someone remember to do something, often in the form of a note, alert, or phrase.",
+        "main_definition_hebrew": "רמז או הנחיה שעוזרים למישהו לזכור לעשות משהו, לעתים קרובות בצורה של הערה, התראה או ביטוי.",
+        "meanings_and_examples": [
+            {
+                "definition": "An object or device used to help recall tasks or events",
+                "definition_hebrew": "אובייקט או מכשיר המשמשים כדי לעזור לזכור משימות או אירועים",
+                "example": "I set an alarm as a reminder to take my medication.",
+                "example_hebrew": "הגדרתי אזעקה כתזכורת לקחת את התרופות שלי."
+            },
+            {
+                "definition": "A prompt given by someone else to ensure one doesn't forget something important",
+                "definition_hebrew": "הנחיה שניתנה על ידי מישהו אחר כדי להבטיח שלא ישכח משהו חשוב",
+                "example": "My friend sent me a message this morning as a reminder about our meeting at 3 PM.",
+                "example_hebrew": "חבר שלי שלח לי הודעה הבוקר כתזכורת על הפגישה שלנו בשעה 15:00."
+            },
+            {
+                "definition": "An expression or phrase that serves as a mental cue for recalling information",
+                "definition_hebrew": "ביטוי או ביטוי המשמשים כרמז מנטלי לזכירת מידע",
+                "example": "The saying 'Don't forget to bring your umbrella!' is a common weather-related reminder.",
+                "example_hebrew": "האמרה 'אל תשכח להביא את המטריה שלך!' היא תזכורת נפוצה הקשורה למזג האוויר."
+            },
+            {
+                "definition": "A digital notification, such as an email or app alert, designed to prompt action or remember tasks",
+                "definition_hebrew": "הודעה דיגיטלית, כגון התראה באימייל או אפליקציה, שנועדה להנחות פעולה או לזכור משימות",
+                "example": "I received a calendar notification on my phone to remind me of the dentist appointment tomorrow.",
+                "example_hebrew": "קיבלתי הודעת לוח שנה בטלפון שלי כדי להזכיר לי את התור לרופא השיניים מחר."
+            },
+            {
+                "definition": "A physical note or written message placed in a location where it can be seen regularly as a cue for an upcoming task or event",
+                "definition_hebrew": "פתק פיזי או הודעה כתובה ממוקמים במיקום שבו ניתן לראות אותם באופן קבוע כרמז למשימה או אירוע קרובים",
+                "example": "I left a sticky note on my bathroom mirror reminding myself to buy groceries.",
+                "example_hebrew": "השארתי פתק דביק על המראה בחדר האמבטיה שלי שמזכיר לעצמי לקנות מצרכים."
+            },
+            {
+                "definition": "A figurative reference used by someone to help others remember something important or necessary",
+                "definition_hebrew": "התייחסות פיגורטיבית המשמשת מישהו כדי לעזור לאחרים לזכור משהו חשוב או הכרחי",
+                "example": "His repeated mention of his dog, 'Remember our furry friend at home!', served as a reminder for everyone not to leave the door open.",
+                "example_hebrew": "האזכור החוזר שלו לכלב שלו, 'זכור את החבר הפרוותי שלנו בבית!', שימש תזכורת לכולם לא להשאיר את הדלת פתוחה."
+            }
+        ]
+    }
+]

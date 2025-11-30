@@ -1,0 +1,34 @@
+[
+    {
+        "word": "array",
+        "word_hebrew": "מַעֲרָך",
+        "main_definition": "An array is a collection of items, often in an orderly manner, that can be used to store data or represent different concepts.",
+        "main_definition_hebrew": "מערך הוא אוסף של פריטים, לרוב בצורה מסודרת, שניתן להשתמש בהם כדי לאחסן נתונים או לייצג מושגים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computer science, an array is a data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key.",
+                "definition_hebrew": "במדעי המחשב, מערך הוא מבנה נתונים המורכב מאוסף של אלמנטים (ערכים או משתנים), כל אחד מזוהה על ידי לפחות אינדקס או מפתח אחד של מערך.",
+                "example": "The array 'grades' holds the scores for 10 students in mathematics.",
+                "example_hebrew": "מערך 'ציונים' מחזיק את הציונים ל-10 תלמידים במתמטיקה."
+            },
+            {
+                "definition": "An organized display, typically horizontal and vertical lines or shapes that are aligned to form a pattern or structure.",
+                "definition_hebrew": "תצוגה מאורגנת, בדרך כלל קווים או צורות אופקיים ואנכיים שמיושרים ליצירת תבנית או מבנה.",
+                "example": "She arranged her stamps into an array on her collection album.",
+                "example_hebrew": "היא סידרה את הבולים שלה למערך באלבום האוסף שלה."
+            },
+            {
+                "definition": "A large group of people or things of the same kind, often gathered together for a particular purpose.",
+                "definition_hebrew": "קבוצה גדולה של אנשים או דברים מאותו סוג, לעתים קרובות נאספים יחד למטרה מסוימת.",
+                "example": "The troops were formed in an array to march towards the enemy's position.",
+                "example_hebrew": "הכוחות נוצרו במערך לצעוד לעבר עמדת האויב."
+            },
+            {
+                "definition": "To arrange or line up items or objects in orderly rows and columns.",
+                "definition_hebrew": "כדי לסדר או ליישר פריטים או אובייקטים בשורות ובעמודות מסודרות.",
+                "example": "She helped her younger brother arrange his toy cars into a small car array.",
+                "example_hebrew": "היא עזרה לאחיה הצעיר לסדר את מכוניות הצעצוע שלו למערך מכוניות קטן."
+            }
+        ]
+    }
+]

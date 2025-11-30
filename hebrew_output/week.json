@@ -1,0 +1,28 @@
+[
+    {
+        "word": "week",
+        "word_hebrew": "שָׁבוּעַ",
+        "main_definition": "A period of seven days, typically starting from Sunday or Monday and ending on Saturday.",
+        "main_definition_hebrew": "תקופה של שבעה ימים, בדרך כלל מתחילה מיום ראשון או שני ומסתיימת בשבת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Unit of time consisting of seven consecutive days",
+                "definition_hebrew": "יחידת זמן המורכבת משבעה ימים רצופים",
+                "example": "I have a meeting scheduled for next Wednesday.",
+                "example_hebrew": "יש לי פגישה מתוכננת ליום רביעי הבא."
+            },
+            {
+                "definition": "A cycle in the context of events or activities that occur regularly over time, often within a weekly schedule",
+                "definition_hebrew": "מחזור בהקשר של אירועים או פעילויות המתרחשים באופן קבוע לאורך זמן, לרוב במסגרת לוח זמנים שבועי",
+                "example": "The company holds its weekly team meetings on Tuesdays.",
+                "example_hebrew": "החברה מקיימת את ישיבות הצוות השבועיות שלה בימי שלישי."
+            },
+            {
+                "definition": "Used to indicate frequency or recurrence over a seven-day period in various contexts such as sports events, religious observances, etc.",
+                "definition_hebrew": "משמש לציון תדירות או הישנות על פני תקופה של שבעה ימים בהקשרים שונים כגון אירועי ספורט, מצוות דת וכו'.",
+                "example": "Every Sunday morning, we gather for the local church service.",
+                "example_hebrew": "בכל יום ראשון בבוקר, אנו מתאספים לטקס הכנסייה המקומי."
+            }
+        ]
+    }
+]

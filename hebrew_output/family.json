@@ -1,0 +1,46 @@
+[
+    {
+        "word": "family",
+        "word_hebrew": "מִשׁפָּחָה",
+        "main_definition": "Family refers to a group of people related by blood, marriage, or adoption, often living together in one household.",
+        "main_definition_hebrew": "משפחה מתייחסת לקבוצה של אנשים הקשורים בדם, נישואים או אימוץ, לעתים קרובות חיים יחד במשק בית אחד.",
+        "meanings_and_examples": [
+            {
+                "definition": "Blood relatives (biological family members)",
+                "definition_hebrew": "קרובי דם (בני משפחה ביולוגיים)",
+                "example": "John's mother and father are his immediate biological family.",
+                "example_hebrew": "אמו ואביו של ג'ון הם משפחתו הביולוגית הקרובה."
+            },
+            {
+                "definition": "Married couple with children",
+                "definition_hebrew": "זוג נשוי עם ילדים",
+                "example": "Sarah and James have three kids; they make up the core of their extended family.",
+                "example_hebrew": "לשרה וג'יימס יש שלושה ילדים; הם מהווים את ליבת המשפחה המורחבת שלהם."
+            },
+            {
+                "definition": "People related by marriage (in-laws)",
+                "definition_hebrew": "אנשים הקשורים בנישואים (חותנים)",
+                "example": "Emily's husband, David, has a sister named Rachel who is part of his family now.",
+                "example_hebrew": "לבעלה של אמילי, דיוויד, יש אחות בשם רייצ'ל שהיא חלק ממשפחתו כעת."
+            },
+            {
+                "definition": "Adopted family",
+                "definition_hebrew": "משפחה מאומצת",
+                "example": "The Smith family includes two children that were adopted by the Johnsons. They are not related by blood but are considered as their own family.",
+                "example_hebrew": "משפחת סמית' כוללת שני ילדים שאומצו על ידי משפחת ג'ונסון. הם אינם קשורים בדם אלא נחשבים כמשפחה שלהם."
+            },
+            {
+                "definition": "Extended family (including grandparents, aunts, uncles, cousins)",
+                "definition_hebrew": "משפחה מורחבת (כולל סבים וסבתות, דודות, דודים, בני דודים)",
+                "example": "Every Sunday afternoon, Lucy's whole extended family gets together for a big dinner and catch-up session.",
+                "example_hebrew": "בכל יום ראשון אחר הצהריים, כל משפחתה המורחבת של לוסי מתכנסת לארוחת ערב גדולה ולמפגש התעדכנות."
+            },
+            {
+                "definition": "A collective of individuals bound by shared values or beliefs",
+                "definition_hebrew": "קולקטיב של יחידים הקשורים לערכים או אמונות משותפים",
+                "example": "The Smiths are not related but consider themselves as one big 'family', having been brought up in the same community with similar customs.",
+                "example_hebrew": "בני הזוג סמית אינם קשורים, אך רואים עצמם כ\"משפחה\" אחת גדולה, לאחר שגדלו באותה קהילה עם מנהגים דומים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "authentication",
+        "word_hebrew": "אימות",
+        "main_definition": "The process of confirming the identity or validity of an entity, user, or system.",
+        "main_definition_hebrew": "תהליך אישור הזהות או התקפות של ישות, משתמש או מערכת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Verifying a user's identity to grant access to a system or service.",
+                "definition_hebrew": "אימות זהות משתמש כדי להעניק גישה למערכת או לשירות.",
+                "example": "When logging into your email account, you are asked for username and password authentication.",
+                "example_hebrew": "בעת הכניסה לחשבון הדוא\"ל שלך, אתה מתבקש לאמת שם משתמש וסיסמה."
+            },
+            {
+                "definition": "Ensuring the integrity of data by confirming its origin.",
+                "definition_hebrew": "הבטחת שלמות הנתונים על ידי אישור מקורם.",
+                "example": "In financial transactions, authentication is used to ensure that a document has not been tampered with.",
+                "example_hebrew": "בעסקאות פיננסיות, נעשה שימוש באימות כדי לוודא שלא בוצע שיבוש במסמך."
+            },
+            {
+                "definition": "Validating the authenticity and legitimacy of digital entities such as software or files.",
+                "definition_hebrew": "אימות האותנטיות והלגיטימיות של ישויות דיגיטליות כגון תוכנות או קבצים.",
+                "example": "A file's digital signature can serve as an authentication mechanism, ensuring it hasn't been altered since being signed.",
+                "example_hebrew": "חתימה דיגיטלית של קובץ יכולה לשמש כמנגנון אימות, להבטיח שהוא לא השתנה מאז החתימה."
+            },
+            {
+                "definition": "The process of confirming the accuracy and reliability of information before accepting it as truth.",
+                "definition_hebrew": "תהליך אישור הדיוק והאמינות של המידע לפני קבלתו כאמת.",
+                "example": "Fact-checkers use multiple sources to authenticate news articles before reporting them as facts.",
+                "example_hebrew": "בודקי עובדות משתמשים במספר מקורות כדי לאמת מאמרי חדשות לפני שהם מדווחים עליהם כעובדות."
+            }
+        ]
+    }
+]

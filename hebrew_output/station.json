@@ -1,0 +1,40 @@
+[
+    {
+        "word": "station",
+        "word_hebrew": "תַחֲנָה",
+        "main_definition": "A place or building where a particular service is provided, such as public transportation or information.",
+        "main_definition_hebrew": "מקום או בניין שבו ניתן שירות מסוים, כגון תחבורה ציבורית או מידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "a fixed point in space or time on which an object may be said to reside",
+                "definition_hebrew": "נקודה קבועה במרחב או בזמן שעליה ניתן לומר שעצם שוכן",
+                "example": "The spaceship landed at the lunar station.",
+                "example_hebrew": "החללית נחתה בתחנת הירח."
+            },
+            {
+                "definition": "a place where police, firefighters, or medical personnel are ready to respond",
+                "definition_hebrew": "מקום שבו שוטרים, כבאים או צוות רפואי מוכנים להגיב",
+                "example": "I called 911 and was connected with the nearest ambulance station.",
+                "example_hebrew": "התקשרתי למוקד 911 והתחברתי לתחנת האמבולנס הקרובה."
+            },
+            {
+                "definition": "a fixed point on a railway track at which trains can stop for loading or unloading",
+                "definition_hebrew": "נקודה קבועה על מסילת רכבת בה יכולות רכבות לעצור לצורך טעינה או פריקה",
+                "example": "The train stopped at the railroad station to pick up passengers.",
+                "example_hebrew": "הרכבת עצרה בתחנת הרכבת כדי לאסוף נוסעים."
+            },
+            {
+                "definition": "an established position held by someone, especially in a particular profession",
+                "definition_hebrew": "תפקיד מבוסס שמחזיק מישהו, במיוחד במקצוע מסוים",
+                "example": "He has been working as a researcher at the meteorological station for over 10 years.",
+                "example_hebrew": "הוא עובד כחוקר בתחנה המטאורולוגית למעלה מ-10 שנים."
+            },
+            {
+                "definition": "a place where certain activities or events are regularly organized and conducted",
+                "definition_hebrew": "מקום שבו פעילויות או אירועים מסוימות מאורגנות ומתקיימות באופן קבוע",
+                "example": "The community center hosts various sports and cultural stations throughout the year.",
+                "example_hebrew": "המתנ\"ס מארח תחנות ספורט ותרבות שונות במהלך השנה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "machines",
+        "word_hebrew": "מכונות",
+        "main_definition": "Machines refer to devices or systems designed to perform specific tasks, often involving mechanical power or automation.",
+        "main_definition_hebrew": "מכונות מתייחסות למכשירים או מערכות המיועדות לביצוע משימות ספציפיות, לעתים קרובות כרוכות בכוח מכני או אוטומציה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mechanical appliances used for various purposes",
+                "definition_hebrew": "מכשירים מכניים המשמשים למטרות שונות",
+                "example": "Hair dryers and washing machines are examples of domestic machines.",
+                "example_hebrew": "מייבשי שיער ומכונות כביסה הם דוגמאות למכונות ביתיות."
+            },
+            {
+                "definition": "Devices in an industrial context that automate processes or production",
+                "definition_hebrew": "מכשירים בהקשר תעשייתי הממכנים תהליכים או ייצור",
+                "example": "Assembly line robots are machines that increase efficiency in manufacturing.",
+                "example_hebrew": "רובוטים של פס ייצור הם מכונות שמגבירות את היעילות בייצור."
+            },
+            {
+                "definition": "Metaphorical use to describe entities working systematically towards a goal",
+                "definition_hebrew": "שימוש מטפורי לתיאור ישויות הפועלות באופן שיטתי לקראת מטרה",
+                "example": "The marketing department operates like well-oiled machines, with each member performing their role efficiently.",
+                "example_hebrew": "מחלקת השיווק פועלת כמו מכונות משומנות היטב, כאשר כל חבר מבצע את תפקידו ביעילות."
+            },
+            {
+                "definition": "Group of interconnected systems or tools used together for complex tasks",
+                "definition_hebrew": "קבוצה של מערכות או כלים מחוברים המשמשים יחד למשימות מורכבות",
+                "example": "A computer system is composed of various machines such as the central processing unit (CPU), memory modules, and peripherals.",
+                "example_hebrew": "מערכת מחשב מורכבת ממכונות שונות כגון יחידת העיבוד המרכזית (CPU), מודולי זיכרון וציוד היקפי."
+            }
+        ]
+    }
+]

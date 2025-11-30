@@ -1,0 +1,28 @@
+[
+    {
+        "word": "approximately",
+        "word_hebrew": "בְּעֵרֶך",
+        "main_definition": "to estimate or give an approximate value of something without being exact.",
+        "main_definition_hebrew": "להעריך או לתת ערך משוער של משהו מבלי להיות מדויק.",
+        "meanings_and_examples": [
+            {
+                "definition": "estimate a quantity, number, or value that is not precise but close enough for general purposes.",
+                "definition_hebrew": "להעריך כמות, מספר או ערך שאינם מדויקים אך קרובים מספיק למטרות כלליות.",
+                "example": "The distance to the nearest city is approximately 30 miles.",
+                "example_hebrew": "המרחק לעיר הקרובה הוא כ-30 מייל."
+            },
+            {
+                "definition": "give an approximate answer when exactness is not required or possible.",
+                "definition_hebrew": "לתת תשובה משוערת כאשר דיוק אינו נדרש או אפשרי.",
+                "example": "There were around 25 people at the party, but I can't say for sure since it was a small gathering.",
+                "example_hebrew": "היו בסביבות 25 אנשים במסיבה, אבל אני לא יכול לומר בוודאות כי זה היה מפגש קטן."
+            },
+            {
+                "definition": "used to describe something that is nearly correct or similar in nature but not exact.",
+                "definition_hebrew": "משמש לתיאור משהו שהוא כמעט נכון או דומה באופיו אך לא מדויק.",
+                "example": "The weather forecast predicted approximately sunny skies throughout the weekend, although occasional clouds were expected.",
+                "example_hebrew": "תחזית מזג האוויר חזתה שמיים שטופי שמש בקירוב במהלך סוף השבוע, אם כי צפויים עננים מדי פעם."
+            }
+        ]
+    }
+]

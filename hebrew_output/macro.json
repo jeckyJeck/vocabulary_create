@@ -1,0 +1,34 @@
+[
+    {
+        "word": "macro",
+        "word_hebrew": "מאקרו",
+        "main_definition": "A macro refers to something large-scale, often used in contrast with micro or small scale, especially within the context of technology, economics, or biology.",
+        "main_definition_hebrew": "מאקרו מתייחס למשהו בקנה מידה גדול, המשמש לעתים קרובות בניגוד לקנה מידה מיקרו או קטן, במיוחד בהקשר של טכנולוגיה, כלכלה או ביולוגיה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Large-scale phenomena or objects",
+                "definition_hebrew": "תופעות או חפצים בקנה מידה גדול",
+                "example": "The macroeconomic factors affecting global trade.",
+                "example_hebrew": "הגורמים המאקרו-כלכליים המשפיעים על הסחר העולמי."
+            },
+            {
+                "definition": "A photograph taken from a great distance, showing large subjects",
+                "definition_hebrew": "צילום שצולם ממרחק רב, מראה נושאים גדולים",
+                "example": "She captured some stunning landscapes using her macro lens to take long-distance photos.",
+                "example_hebrew": "היא צילמה כמה נופים מדהימים באמצעות עדשת המאקרו שלה כדי לצלם תמונות למרחקים ארוכים."
+            },
+            {
+                "definition": "In computer programming, macros are sequences of instructions that automate repetitive tasks",
+                "definition_hebrew": "בתכנות מחשבים, פקודות מאקרו הן רצפים של הוראות האוטומציה של משימות שחוזרות על עצמן",
+                "example": "The programmer wrote a batch of macros to streamline the data processing in his software application.",
+                "example_hebrew": "המתכנת כתב אצווה של פקודות מאקרו כדי לייעל את עיבוד הנתונים באפליקציית התוכנה שלו."
+            },
+            {
+                "definition": "In biology and medicine, macro refers to large structures or processes",
+                "definition_hebrew": "בביולוגיה ורפואה, מאקרו מתייחס למבנים או תהליכים גדולים",
+                "example": "The study of macroeconomics focuses on national income, employment, and inflation rates.",
+                "example_hebrew": "חקר המקרו-כלכלה מתמקד בהכנסה הלאומית, תעסוקה ושיעורי אינפלציה."
+            }
+        ]
+    }
+]

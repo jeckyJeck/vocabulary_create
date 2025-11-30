@@ -1,0 +1,34 @@
+[
+    {
+        "word": "pairs",
+        "word_hebrew": "זוגות",
+        "main_definition": "Pairs refers to a pair of things that are similar or complementary, often used in idiomatic expressions.",
+        "main_definition_hebrew": "צמדים מתייחסים לזוג דברים דומים או משלימים, המשמשים לעתים קרובות בביטויים אידיומטיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Two items that go together and are used as one unit. For example: 'He wore matching pairs of shoes.'",
+                "definition_hebrew": "שני פריטים שהולכים יחד ומשמשים כיחידה אחת. למשל: 'הוא נעל זוגות נעליים תואמות'.",
+                "example": "'She has a pair of earrings, one for each ear.'",
+                "example_hebrew": "'יש לה זוג עגילים, אחד לכל אוזן'."
+            },
+            {
+                "definition": "A set of two things or people who are similar or related in some way. For example: 'They went on their honeymoon to the same resort wearing matching pairs of swimwear.'",
+                "definition_hebrew": "קבוצה של שני דברים או אנשים הדומים או קשורים בדרך כלשהי. לדוגמה: 'הם נסעו לירח הדבש שלהם לאותו אתר נופש כשהם לובשים זוגות תואמים של בגדי ים'.",
+                "example": "'He has a pair of identical twins, both with black hair and blue eyes.'",
+                "example_hebrew": "\"יש לו זוג תאומים זהים, שניהם עם שיער שחור ועיניים כחולות.\""
+            },
+            {
+                "definition": "A mathematical term referring to two numbers that multiply together to give a specific product. For example: 'In the equation 3x = 6, x is the unknown number in one pair.'",
+                "definition_hebrew": "מונח מתמטי המתייחס לשני מספרים שמכפילים יחד כדי לתת מכפלה ספציפית. לדוגמה: 'במשוואה 3x = 6, x הוא המספר הלא ידוע בזוג אחד.'",
+                "example": "'The factors of 12 are pairs: (1, 12), (2, 6), and (3, 4).'",
+                "example_hebrew": "'הגורמים של 12 הם זוגות: (1, 12), (2, 6) ו-(3, 4).'"
+            },
+            {
+                "definition": "A term used in card games to refer to two cards of the same rank. For example: 'He won with a pair of kings.'",
+                "definition_hebrew": "מונח המשמש במשחקי קלפים כדי להתייחס לשני קלפים באותה דרגה. למשל: 'הוא ניצח עם צמד מלכים'.",
+                "example": "'She held up her cards showing a pair of queens.'",
+                "example_hebrew": "\"היא הרימה את הקלפים שלה שמראים זוג מלכות.\""
+            }
+        ]
+    }
+]

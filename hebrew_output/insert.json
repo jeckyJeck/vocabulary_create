@@ -1,0 +1,40 @@
+[
+    {
+        "word": "insert",
+        "word_hebrew": "לְהַכנִיס",
+        "main_definition": "To put or add something into a space, position, or place where it is not currently located.",
+        "main_definition_hebrew": "להכניס או להוסיף משהו לחלל, מיקום או מקום שבו הוא אינו ממוקם כעת.",
+        "meanings_and_examples": [
+            {
+                "definition": "To physically insert an object into another",
+                "definition_hebrew": "להכניס פיזית חפץ לתוך אחר",
+                "example": "She had to insert the key into the lock before opening the door.",
+                "example_hebrew": "היא נאלצה להכניס את המפתח למנעול לפני שפתחה את הדלת."
+            },
+            {
+                "definition": "To add data, information or media within a digital document or file",
+                "definition_hebrew": "כדי להוסיף נתונים, מידע או מדיה בתוך מסמך או קובץ דיגיטלי",
+                "example": "Please insert your name and contact details in this form.",
+                "example_hebrew": "אנא הכנס את שמך ופרטי הקשר שלך בטופס זה."
+            },
+            {
+                "definition": "A common phrase indicating that something should be included somewhere (in text)",
+                "definition_hebrew": "ביטוי נפוץ המציין שמשהו צריך להיכלל איפשהו (בטקסט)",
+                "example": "The report needs an insertion of the latest financial data at the end.",
+                "example_hebrew": "הדוח זקוק להוספה של הנתונים הפיננסיים העדכניים בסופו."
+            },
+            {
+                "definition": "To fill a vacant space with something",
+                "definition_hebrew": "למלא מקום פנוי במשהו",
+                "example": "He decided to insert colorful flowers in the empty border of his garden.",
+                "example_hebrew": "הוא החליט להכניס פרחים צבעוניים בגבול הריק של הגינה שלו."
+            },
+            {
+                "definition": "To introduce or include an additional item during a speech or presentation",
+                "definition_hebrew": "להציג או לכלול פריט נוסף במהלך נאום או מצגת",
+                "example": "The speaker paused briefly to insert some relevant statistics into their talk.",
+                "example_hebrew": "הדובר עצר לרגע כדי להכניס כמה סטטיסטיקות רלוונטיות להרצאתו."
+            }
+        ]
+    }
+]

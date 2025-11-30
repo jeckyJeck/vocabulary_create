@@ -1,0 +1,34 @@
+[
+    {
+        "word": "rail",
+        "word_hebrew": "רכבת",
+        "main_definition": "A rail is a long, straight piece of metal or other material used to form a barrier, guide objects along a path, provide support, or as part of transportation infrastructure.",
+        "main_definition_hebrew": "מסילה היא חתיכה ארוכה וישרה של מתכת או חומר אחר המשמש ליצירת מחסום, הובלת עצמים לאורך שביל, מתן תמיכה או כחלק מתשתית תחבורה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Part of a fence",
+                "definition_hebrew": "חלק מגדר",
+                "example": "The cattle were contained within the wooden rail that acted as a fence.",
+                "example_hebrew": "הבקר הוכלא בתוך מסילת העץ ששימשה כגדר."
+            },
+            {
+                "definition": "Tracks for trains",
+                "definition_hebrew": "מסילות לרכבות",
+                "example": "The locomotive chugged along on the steel rails, pulling several freight cars behind it.",
+                "example_hebrew": "הקטר התנודד על פסי הפלדה, משך אחריו כמה קרונות משא."
+            },
+            {
+                "definition": "Barrier or divider",
+                "definition_hebrew": "מחסום או חוצץ",
+                "example": "We installed a metal rail to prevent pedestrians from crossing a dangerous area of construction site.",
+                "example_hebrew": "התקנו מסילת מתכת כדי למנוע מהולכי רגל לחצות אזור מסוכן באתר בנייה."
+            },
+            {
+                "definition": "Path for guiding objects",
+                "definition_hebrew": "נתיב להנחיית חפצים",
+                "example": "The conveyor belt was aligned with the parallel rails, ensuring smooth movement of products.",
+                "example_hebrew": "המסוע היה מיושר עם המסילות המקבילות, מה שמבטיח תנועה חלקה של המוצרים."
+            }
+        ]
+    }
+]

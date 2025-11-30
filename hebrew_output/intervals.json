@@ -1,0 +1,34 @@
+[
+    {
+        "word": "intervals",
+        "word_hebrew": "מרווחים",
+        "main_definition": "Intervals refer to the space or time between two events, points, objects, or actions.",
+        "main_definition_hebrew": "מרווחים מתייחסים למרחב או לזמן בין שני אירועים, נקודות, אובייקטים או פעולות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Spaces or gaps in a sequence of numbers, often used in mathematics and music theory.",
+                "definition_hebrew": "רווחים או פערים ברצף של מספרים, המשמשים לעתים קרובות במתמטיקה ובתורת המוזיקה.",
+                "example": "The intervals between consecutive integers on the number line are always one unit apart.",
+                "example_hebrew": "המרווחים בין מספרים שלמים עוקבים על קו המספרים הם תמיד יחידה אחת זה מזה."
+            },
+            {
+                "definition": "Gaps in time between scheduled events or occurrences.",
+                "definition_hebrew": "פערי זמן בין אירועים או התרחשויות שנקבעו.",
+                "example": "There is a two-hour interval between the start of the concert and dinner reservations at nearby restaurants.",
+                "example_hebrew": "יש מרווח של שעתיים בין תחילת הקונצרט לבין הזמנות לארוחת ערב במסעדות סמוכות."
+            },
+            {
+                "definition": "Time between repeated actions, especially related to sports or performance routines.",
+                "definition_hebrew": "זמן בין פעולות חוזרות, במיוחד הקשורות לספורט או לשגרת ביצועים.",
+                "example": "The intervals during a tennis match are used for resting and strategizing.",
+                "example_hebrew": "המרווחים במהלך משחק טניס משמשים למנוחה ואסטרטגיה."
+            },
+            {
+                "definition": "A set of objects arranged with equal spaces separating them, often in music when referring to the space between notes.",
+                "definition_hebrew": "קבוצה של אובייקטים מסודרים עם רווחים שווים המפרידים ביניהם, לעתים קרובות במוזיקה כאשר מתייחסים לרווח בין התווים.",
+                "example": "In an interval training workout, there is typically an interval of intense exercise followed by a brief rest period.",
+                "example_hebrew": "באימון אינטרוולים, יש בדרך כלל מרווח של פעילות גופנית אינטנסיבית ואחריו תקופת מנוחה קצרה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "publishers",
+        "word_hebrew": "מוציאים לאור",
+        "main_definition": "Publishers are entities that facilitate the production, distribution, and sale of written or printed works, often by overseeing their editing, design, marketing, and sales.",
+        "main_definition_hebrew": "מוציאים לאור הם גופים המקלים על ייצור, הפצה ומכירה של יצירות כתובות או מודפסות, לעתים קרובות על ידי פיקוח על העריכה, העיצוב, השיווק והמכירות שלהן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Entities involved in printing and distributing books",
+                "definition_hebrew": "גורמים העוסקים בהדפסה והפצת ספרים",
+                "example": "Scholars Publishing House is a well-known publisher that specializes in academic texts.",
+                "example_hebrew": "הוצאת Scholars היא הוצאה ידועה המתמחה בטקסטים אקדמיים."
+            },
+            {
+                "definition": "Companies or individuals who manage the process of getting works to readers",
+                "definition_hebrew": "חברות או יחידים שמנהלים את תהליך קבלת העבודות לקוראים",
+                "example": "As a freelance editor, Jane helped several authors get their manuscripts published by various publishing houses.",
+                "example_hebrew": "כעורכת עצמאית, ג'יין עזרה לכמה מחברים להוציא את כתבי היד שלהם לאור בהוצאות שונות."
+            },
+            {
+                "definition": "Organizations responsible for selling and promoting literary content",
+                "definition_hebrew": "ארגונים האחראים על מכירה וקידום תכנים ספרותיים",
+                "example": "The Big Apple Publishers Conference brings together numerous publishers to discuss trends in the book industry.",
+                "example_hebrew": "ועידת המוציאים לאור של התפוח הגדול מפגישה מוציאים לאור רבים כדי לדון במגמות בתעשיית הספרים."
+            },
+            {
+                "definition": "Entities that handle digital publications such as eBooks, online articles, or software",
+                "definition_hebrew": "ישויות המטפלות בפרסומים דיגיטליים כגון ספרים אלקטרוניים, מאמרים מקוונים או תוכנה",
+                "example": "TechPublisher Inc. focuses on publishing innovative mobile apps and interactive educational content.",
+                "example_hebrew": "TechPublisher Inc. מתמקדת בפרסום אפליקציות סלולריות חדשניות ותוכן חינוכי אינטראקטיבי."
+            }
+        ]
+    }
+]

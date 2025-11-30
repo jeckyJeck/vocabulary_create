@@ -1,0 +1,28 @@
+[
+    {
+        "word": "besides",
+        "word_hebrew": "חוץ מזה",
+        "main_definition": "Used to introduce an additional point or item that is not the main focus but still relevant.",
+        "main_definition_hebrew": "משמש להצגת נקודה נוספת או פריט שאינו המוקד העיקרי אך עדיין רלוונטי.",
+        "meanings_and_examples": [
+            {
+                "definition": "In addition to something else; apart from it",
+                "definition_hebrew": "בנוסף למשהו אחר; מלבד זה",
+                "example": "Besides my job, I also enjoy painting on weekends.",
+                "example_hebrew": "מלבד העבודה שלי, אני גם נהנה לצייר בסופי שבוע."
+            },
+            {
+                "definition": "Without considering or taking into account the main point",
+                "definition_hebrew": "בלי להתחשב או לקחת בחשבון את העיקר",
+                "example": "The weather is hot today. Besides that, we still need to finish our work.",
+                "example_hebrew": "מזג האוויר חם היום. חוץ מזה, אנחנו עדיין צריכים לסיים את העבודה שלנו."
+            },
+            {
+                "definition": "Used to indicate an exception or special case not covered by a previous statement",
+                "definition_hebrew": "משמש לציון חריג או מקרה מיוחד שאינו מכוסה בהצהרה קודמת",
+                "example": "All cars are required to have insurance. However, police vehicles and ambulances are excepted from this rule.",
+                "example_hebrew": "כל המכוניות מחויבות בביטוח. עם זאת, ניידות משטרה ואמבולנסים חורגים מכלל זה."
+            }
+        ]
+    }
+]

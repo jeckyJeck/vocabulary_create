@@ -1,0 +1,34 @@
+[
+    {
+        "word": "packet",
+        "word_hebrew": "חֲבִילָה",
+        "main_definition": "A packet refers to a small container or package holding items together, typically for transportation or storage.",
+        "main_definition_hebrew": "חבילה מתייחסת למיכל קטן או חבילה המחזיקים פריטים יחד, בדרך כלל להובלה או אחסון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Collection of data or information sent over a network in the form of a file",
+                "definition_hebrew": "איסוף נתונים או מידע הנשלחים ברשת בצורה של קובץ",
+                "example": "The server sent a packet containing our web page to your browser.",
+                "example_hebrew": "השרת שלח חבילה המכילה את דף האינטרנט שלנו לדפדפן שלך."
+            },
+            {
+                "definition": "A small meal served on a plate, typically consisting of several items such as bread, meat, and vegetables",
+                "definition_hebrew": "ארוחה קטנה המוגשת על צלחת, בדרך כלל מורכבת ממספר פריטים כגון לחם, בשר וירקות",
+                "example": "I ordered a breakfast packet with eggs, bacon, and hash browns.",
+                "example_hebrew": "הזמנתי חבילת ארוחת בוקר עם ביצים, בייקון והאש בראון."
+            },
+            {
+                "definition": "Group of students traveling together for educational purposes",
+                "definition_hebrew": "קבוצת תלמידים המטיילת יחד למטרות חינוכיות",
+                "example": "The school organized a science packet for the students to visit different museums in the city.",
+                "example_hebrew": "בית הספר ארגן חבילת מדע לתלמידים לביקור במוזיאונים שונים בעיר."
+            },
+            {
+                "definition": "A small package or envelope containing seeds, usually intended for planting",
+                "definition_hebrew": "אריזה קטנה או מעטפה המכילה זרעים, מיועדת לרוב לשתילה",
+                "example": "She bought a seed packet with tomatoes and basil plants to start her own vegetable garden.",
+                "example_hebrew": "היא קנתה חבילת זרעים עם עגבניות וצמחי בזיליקום כדי להקים גינת ירק משלה."
+            }
+        ]
+    }
+]

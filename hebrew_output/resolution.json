@@ -1,0 +1,34 @@
+[
+    {
+        "word": "resolution",
+        "word_hebrew": "פתרון הבעיה",
+        "main_definition": "A firm decision to do or not to do something; a conclusion reached after consideration.",
+        "main_definition_hebrew": "החלטה נחרצת לעשות או לא לעשות משהו; מסקנה שהושגה לאחר שיקול דעת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Decision-making process resulting in determining an action plan, especially in problem-solving or policy setting",
+                "definition_hebrew": "תהליך קבלת החלטות המביא לקביעת תוכנית פעולה, במיוחד בפתרון בעיות או קביעת מדיניות",
+                "example": "After careful analysis, the committee made a resolution to implement new safety measures.",
+                "example_hebrew": "לאחר ניתוח מדוקדק קיבלה הוועדה החלטה ליישם אמצעי בטיחות חדשים."
+            },
+            {
+                "definition": "The act of resolving or solving a complex issue or problem",
+                "definition_hebrew": "הפעולה של פתרון או פתרון של בעיה או בעיה מורכבת",
+                "example": "The scientists reached a resolution on how to address climate change through renewable energy sources.",
+                "example_hebrew": "המדענים הגיעו להחלטה כיצד לטפל בשינויי האקלים באמצעות מקורות אנרגיה מתחדשים."
+            },
+            {
+                "definition": "A formal decision made by an assembly, organization, or governing body",
+                "definition_hebrew": "החלטה רשמית שהתקבלה על ידי אסיפה, ארגון או גוף שלטוני",
+                "example": "At the annual meeting, shareholders passed a resolution to increase executive compensation limits.",
+                "example_hebrew": "באסיפה השנתית קיבלו בעלי המניות החלטה להגדיל את מגבלות התגמול לבכירים."
+            },
+            {
+                "definition": "The clarity of vision or image as perceived through optical instruments, such as telescopes and microscopes",
+                "definition_hebrew": "בהירות הראייה או התמונה כפי שהיא נתפסת באמצעות מכשירים אופטיים, כגון טלסקופים ומיקרוסקופים",
+                "example": "The astronomer was amazed by the high-resolution images captured by the new space telescope.",
+                "example_hebrew": "האסטרונום נדהם מהתמונות ברזולוציה גבוהה שצולמו על ידי טלסקופ החלל החדש."
+            }
+        ]
+    }
+]

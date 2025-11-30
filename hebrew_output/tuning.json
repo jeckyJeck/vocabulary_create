@@ -1,0 +1,34 @@
+[
+    {
+        "word": "tuning",
+        "word_hebrew": "כִּונוּן",
+        "main_definition": "Tuning refers to adjusting or customizing something, particularly in the context of sound systems, instruments, or even metaphorically.",
+        "main_definition_hebrew": "כוונון מתייחס להתאמה או התאמה אישית של משהו, במיוחד בהקשר של מערכות סאונד, כלי נגינה, או אפילו באופן מטפורי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Adjusting the pitch and quality of sound produced by an instrument",
+                "definition_hebrew": "התאמת גובה הצליל ואיכות הצליל המופק על ידי מכשיר",
+                "example": "The guitarist spent hours on tuning his guitar before going on stage.",
+                "example_hebrew": "הגיטריסט בילה שעות על כוונון הגיטרה שלו לפני שעלה לבמה."
+            },
+            {
+                "definition": "Aligning or adjusting components within a system for optimal performance",
+                "definition_hebrew": "יישור או התאמת רכיבים בתוך מערכת לביצועים מיטביים",
+                "example": "She carefully tuned the engine to ensure smooth operation.",
+                "example_hebrew": "היא כיוונה את המנוע בקפידה כדי להבטיח פעולה חלקה."
+            },
+            {
+                "definition": "Modifying parameters to achieve desired outcomes in various domains, such as data analysis or software development",
+                "definition_hebrew": "שינוי פרמטרים להשגת תוצאות רצויות בתחומים שונים, כגון ניתוח נתונים או פיתוח תוכנה",
+                "example": "The programmer fine-tuned the algorithm for better accuracy.",
+                "example_hebrew": "המתכנת כוונן את האלגוריתם לדיוק טוב יותר."
+            },
+            {
+                "definition": "Making adjustments based on feedback or changing circumstances",
+                "definition_hebrew": "ביצוע התאמות על סמך משוב או נסיבות משתנות",
+                "example": "They had to tune their strategy after realizing it wasn't working as planned.",
+                "example_hebrew": "הם נאלצו לכוון את האסטרטגיה שלהם לאחר שהבינו שהיא לא עובדת כמתוכנן."
+            }
+        ]
+    }
+]

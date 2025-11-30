@@ -1,0 +1,28 @@
+[
+    {
+        "word": "taxi",
+        "word_hebrew": "מוֹנִית",
+        "main_definition": "A taxi is a vehicle that provides transportation services by picking up passengers from designated locations (e.g., street corners, airports) and taking them to their desired destinations for a fare.",
+        "main_definition_hebrew": "מונית היא כלי רכב המספק שירותי הסעה באמצעות איסוף נוסעים ממקומות ייעודיים (כגון פינות רחוב, שדות תעופה) והסעתם ליעדים הרצויים להם תמורת תעריף.",
+        "meanings_and_examples": [
+            {
+                "definition": "An informal term used in the UK to describe a publicly available vehicle that offers transportation services",
+                "definition_hebrew": "מונח לא רשמי המשמש בבריטניה לתיאור רכב זמין לציבור המציע שירותי תחבורה",
+                "example": "I hailed a taxi from outside my hotel.",
+                "example_hebrew": "הזמנתי מונית מחוץ למלון שלי."
+            },
+            {
+                "definition": "A slang term for money, derived from the cost of hiring a taxi as payment or exchange value.",
+                "definition_hebrew": "כינוי סלנג לכסף, הנגזר מעלות שכירת מונית כערך תשלום או חליפין.",
+                "example": "I need to get some change; can you lend me a couple of taxis?",
+                "example_hebrew": "אני צריך להשיג קצת שינוי; אתה יכול להשאיל לי כמה מוניות?"
+            },
+            {
+                "definition": "An idiomatic expression meaning 'to do something hastily, without proper planning'.",
+                "definition_hebrew": "ביטוי אידיומטי שמשמעותו 'לעשות משהו בחיפזון, בלי תכנון נכון'.",
+                "example": "He took a taxi instead of walking home after the party.",
+                "example_hebrew": "הוא לקח מונית במקום ללכת הביתה אחרי המסיבה."
+            }
+        ]
+    }
+]

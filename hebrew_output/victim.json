@@ -1,0 +1,34 @@
+[
+    {
+        "word": "victim",
+        "word_hebrew": "קורבן",
+        "main_definition": "A person who suffers harm, injury, or loss as a result of an event, action, or situation.",
+        "main_definition_hebrew": "אדם שסובל מנזק, פציעה או אובדן כתוצאה מאירוע, פעולה או מצב.",
+        "meanings_and_examples": [
+            {
+                "definition": "Someone harmed by criminal activity",
+                "definition_hebrew": "מישהו שנפגע מפעילות פלילית",
+                "example": "The bank robber left his victim injured during the escape.",
+                "example_hebrew": "שודד הבנק הותיר את קורבנו פצוע במהלך הבריחה."
+            },
+            {
+                "definition": "An individual who is a target of abuse or exploitation",
+                "definition_hebrew": "אדם המהווה יעד להתעללות או ניצול",
+                "example": "She was a victim of domestic violence for several years before seeking help.",
+                "example_hebrew": "היא הייתה קורבן לאלימות במשפחה במשך כמה שנים לפני שביקשה עזרה."
+            },
+            {
+                "definition": "A casualty in a natural disaster, accident, or other catastrophic event",
+                "definition_hebrew": "נפגע באסון טבע, תאונה או אירוע קטסטרופלי אחר",
+                "example": "The earthquake left hundreds as victims with severe injuries and loss of homes.",
+                "example_hebrew": "רעידת האדמה הותירה מאות כקורבנות עם פציעות קשות ואובדן בתים."
+            },
+            {
+                "definition": "One who suffers from the ill effects of a disease or health condition",
+                "definition_hebrew": "מי שסובל מהשפעות רעות של מחלה או מצב בריאותי",
+                "example": "He was diagnosed with cancer, making him an unwilling victim to this debilitating illness.",
+                "example_hebrew": "הוא אובחן כחולה סרטן, מה שהפך אותו לקורבן בלתי רצוני למחלה המתישה הזו."
+            }
+        ]
+    }
+]

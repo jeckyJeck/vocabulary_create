@@ -1,0 +1,28 @@
+[
+    {
+        "word": "basename",
+        "word_hebrew": "שם בסיס",
+        "main_definition": "In computing, a 'basename' refers to the name of a file without its directory path or extension.",
+        "main_definition_hebrew": "במחשוב, 'שם בסיס' מתייחס לשם של קובץ ללא נתיב הספרייה או הסיומת שלו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A specific meaning in computer science and programming referring to the part of a filename that comes after the last slash ('/') in a UNIX-like system's absolute path.",
+                "definition_hebrew": "משמעות ספציפית במדעי המחשב ובתכנות המתייחסת לחלק של שם קובץ שמגיע אחרי הקו האחרון ('/') בנתיב המוחלט של מערכת דמוית UNIX.",
+                "example": "For example, in '/home/user/documents/report.txt', 'report' is the basename.",
+                "example_hebrew": "לדוגמה, ב-'/home/user/documents/report.txt', 'report' הוא שם הבסיס."
+            },
+            {
+                "definition": "In programming and scripting contexts, it can also refer to a variable name used as an identifier for storing values.",
+                "definition_hebrew": "בהקשרי תכנות ותסריט, זה יכול להתייחס גם לשם משתנה המשמש כמזהה לאחסון ערכים.",
+                "example": "For example, in Python, if we have a string named `basename`, this refers to the actual basename stored within that variable.",
+                "example_hebrew": "לדוגמה, ב-Python, אם יש לנו מחרוזת בשם `basename`, זה מתייחס לשם הבסיס האמיתי המאוחסן בתוך המשתנה הזה."
+            },
+            {
+                "definition": "Another context where 'basename' might be relevant is in URL parsing or web development, referring to the final part of a URL path.",
+                "definition_hebrew": "הקשר נוסף שבו 'basename' עשוי להיות רלוונטי הוא בניתוח כתובות אתרים או פיתוח אתרים, המתייחס לחלק האחרון של נתיב כתובת אתר.",
+                "example": "In the URL '/products/shoes', 'shoes' represents the basename.",
+                "example_hebrew": "בכתובת ה-URL '/products/shoes', 'shoes' מייצג את שם הבסיס."
+            }
+        ]
+    }
+]

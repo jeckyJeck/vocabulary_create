@@ -1,0 +1,40 @@
+[
+    {
+        "word": "rendering",
+        "word_hebrew": "טִיוּחַ",
+        "main_definition": "The process of transforming or converting something into a different form, such as changing the appearance or representation of an object or idea.",
+        "main_definition_hebrew": "תהליך של הפיכת או המרה של משהו לצורה אחרת, כגון שינוי המראה או הייצוג של אובייקט או רעיון.",
+        "meanings_and_examples": [
+            {
+                "definition": "To create (a picture, design, etc.) by drawing, painting, or using other methods.",
+                "definition_hebrew": "ליצור (תמונה, עיצוב וכו') על ידי ציור, ציור או שימוש בשיטות אחרות.",
+                "example": "The artist was rendering a beautiful landscape on canvas.",
+                "example_hebrew": "האמן עשה נוף יפהפה על קנבס."
+            },
+            {
+                "definition": "To cause someone to do something, especially through persuasion or influence.",
+                "definition_hebrew": "לגרום למישהו לעשות משהו, במיוחד באמצעות שכנוע או השפעה.",
+                "example": "His convincing argument rendered her speechless and she agreed with him.",
+                "example_hebrew": "הטיעון המשכנע שלו גרם לה ללא מילים והיא הסכימה איתו."
+            },
+            {
+                "definition": "The act of providing a service such as preparing food or performing construction work.",
+                "definition_hebrew": "פעולת מתן שירות כגון הכנת אוכל או ביצוע עבודות בנייה.",
+                "example": "After the renovation, they were looking forward to rendering their old house modern again.",
+                "example_hebrew": "לאחר השיפוץ, הם ציפו להפוך את ביתם הישן למודרני שוב."
+            },
+            {
+                "definition": "To provide financial services such as giving out loans and managing accounts.",
+                "definition_hebrew": "לספק שירותים פיננסיים כגון מתן הלוואות וניהול חשבונות.",
+                "example": "The banking institution rendered loan services for small businesses in the area.",
+                "example_hebrew": "המוסד הבנקאי נתן שירותי הלוואות לעסקים קטנים באזור."
+            },
+            {
+                "definition": "In computer graphics, to create a two-dimensional image or animation from a 3D model using shading and textures.",
+                "definition_hebrew": "בגרפיקה ממוחשבת, ליצור תמונה דו מימדית או אנימציה ממודל תלת מימד באמצעות הצללה ומרקמים.",
+                "example": "The animator was rendering the final frame of an animated film sequence by applying various effects.",
+                "example_hebrew": "האנימטור עבד את הפריים הסופי של רצף סרט אנימציה על ידי יישום אפקטים שונים."
+            }
+        ]
+    }
+]

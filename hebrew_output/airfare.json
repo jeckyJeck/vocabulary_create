@@ -1,0 +1,34 @@
+[
+    {
+        "word": "airfare",
+        "word_hebrew": "כרטיס טיסה",
+        "main_definition": "The cost of purchasing a ticket to travel by airplane from one location to another.",
+        "main_definition_hebrew": "עלות רכישת כרטיס לנסיעה במטוס ממקום אחד למשנהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Fare for an aircraft, including the base price and any additional fees or charges.",
+                "definition_hebrew": "תעריף עבור מטוס, כולל מחיר הבסיס וכל עמלות או חיובים נוספים.",
+                "example": "The total airfare for my flight included a $50 service fee.",
+                "example_hebrew": "עלות הטיסה הכוללת של הטיסה שלי כללה דמי שירות של 50$."
+            },
+            {
+                "definition": "A ticket that allows one to travel by air from point A to point B.",
+                "definition_hebrew": "כרטיס שמאפשר לנסוע בטיסה מנקודה א' לנקודה ב'.",
+                "example": "I just bought an economy class airfare for the trip to New York next month.",
+                "example_hebrew": "בדיוק קניתי כרטיס טיסה במחלקת תיירים לטיול בניו יורק בחודש הבא."
+            },
+            {
+                "definition": "The expense incurred when paying for a flight on an airline or private carrier.",
+                "definition_hebrew": "ההוצאה שנגרמה בעת תשלום עבור טיסה בחברת תעופה או במוביל פרטי.",
+                "example": "To save money, I decided to purchase my own airfare instead of using public transportation.",
+                "example_hebrew": "כדי לחסוך כסף, החלטתי לרכוש כרטיס טיסה משלי במקום להשתמש בתחבורה ציבורית."
+            },
+            {
+                "definition": "A document that grants permission to board an aircraft and travel internationally.",
+                "definition_hebrew": "מסמך המעניק אישור לעלות על מטוס ולנסוע בחו\"ל.",
+                "example": "After checking his passport and receiving the airfare confirmation, he was ready for takeoff.",
+                "example_hebrew": "לאחר בדיקת הדרכון שלו וקיבל את אישור הטיסה, הוא היה מוכן להמראה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "enabling",
+        "word_hebrew": "מאפשר",
+        "main_definition": "To empower, enable or facilitate something to happen by removing obstacles or providing the necessary means.",
+        "main_definition_hebrew": "להעצים, לאפשר או להקל על משהו לקרות על ידי הסרת מכשולים או מתן האמצעים הדרושים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In a personal context, to help someone overcome their limitations or dependencies.",
+                "definition_hebrew": "בהקשר אישי, לעזור למישהו להתגבר על המגבלות או התלות שלו.",
+                "example": "By seeking therapy and support groups, she enabled herself to quit smoking.",
+                "example_hebrew": "על ידי פנייה לטיפול וקבוצות תמיכה, היא אפשרה לעצמה להפסיק לעשן."
+            },
+            {
+                "definition": "To make possible through legislation or policy change.",
+                "definition_hebrew": "לאפשר באמצעות חקיקה או שינוי מדיניות.",
+                "example": "The new law enables equal access to education for all children regardless of their background.",
+                "example_hebrew": "החוק החדש מאפשר גישה שווה לחינוך לכל הילדים ללא קשר לרקע שלהם."
+            },
+            {
+                "definition": "In technology, to provide the necessary support for a system, application, or service to function properly.",
+                "definition_hebrew": "בטכנולוגיה, לספק את התמיכה הדרושה למערכת, אפליקציה או שירות לתפקוד תקין.",
+                "example": "Enabling cross-platform compatibility allows users to operate software on different operating systems seamlessly.",
+                "example_hebrew": "הפעלת תאימות בין פלטפורמות מאפשרת למשתמשים להפעיל תוכנות על מערכות הפעלה שונות בצורה חלקה."
+            },
+            {
+                "definition": "To allow or permit an action that was previously restricted.",
+                "definition_hebrew": "לאפשר או להתיר פעולה שהוגבלה בעבר.",
+                "example": "The update enables users to install third-party applications on the company's computers.",
+                "example_hebrew": "העדכון מאפשר למשתמשים להתקין אפליקציות צד שלישי במחשבי החברה."
+            }
+        ]
+    }
+]

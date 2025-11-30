@@ -1,0 +1,40 @@
+[
+    {
+        "word": "disorder",
+        "word_hebrew": "הפרעה",
+        "main_definition": "A state of confusion or lack of organization, often used to describe a medical condition or a situation that lacks order.",
+        "main_definition_hebrew": "מצב של בלבול או חוסר ארגון, המשמש לרוב לתיאור מצב רפואי או מצב חסר סדר.",
+        "meanings_and_examples": [
+            {
+                "definition": "a lack of harmony or consistency in mental or emotional state",
+                "definition_hebrew": "חוסר הרמוניה או עקביות במצב נפשי או רגשי",
+                "example": "She felt disordered after the traumatic event, struggling to maintain her composure.",
+                "example_hebrew": "היא הרגישה מופרעת לאחר האירוע הטראומטי, נאבקת לשמור על קור רוח."
+            },
+            {
+                "definition": "a disturbance or irregularity in a pattern or sequence",
+                "definition_hebrew": "הפרעה או אי-סדירות בתבנית או ברצף",
+                "example": "The sudden change in weather patterns created an atmospheric disorder that puzzled meteorologists.",
+                "example_hebrew": "השינוי הפתאומי בדפוסי מזג האוויר יצר הפרעה אטמוספרית שתמהה את המטאורולוגים."
+            },
+            {
+                "definition": "a state of confusion and lack of order, often referring to physical or mental conditions",
+                "definition_hebrew": "מצב של בלבול וחוסר סדר, המתייחס לרוב למצבים פיזיים או נפשיים",
+                "example": "He was diagnosed with a neurological disorder that affected his ability to speak clearly.",
+                "example_hebrew": "הוא אובחן עם הפרעה נוירולוגית שהשפיעה על יכולתו לדבר ברור."
+            },
+            {
+                "definition": "an unexpected change in the normal arrangement or functioning of something",
+                "definition_hebrew": "שינוי בלתי צפוי בסידור או בתפקוד הרגיל של משהו",
+                "example": "The disorder caused by the new software update led to several system crashes and errors.",
+                "example_hebrew": "ההפרעה שנגרמה על ידי עדכון התוכנה החדש הובילה למספר קריסות ושגיאות מערכת."
+            },
+            {
+                "definition": "a situation that lacks order, structure, or organization",
+                "definition_hebrew": "מצב חסר סדר, מבנה או ארגון",
+                "example": "The chaotic classroom was a clear example of an educational disorder where students seemed unable to focus on learning.",
+                "example_hebrew": "הכיתה הכאוטית הייתה דוגמה מובהקת להפרעה חינוכית שבה נדמה היה שהתלמידים אינם מסוגלים להתמקד בלמידה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "anonymous",
+        "word_hebrew": "בעילום שם",
+        "main_definition": "unknown or unacknowledged, often used to describe someone who is not identified by name.",
+        "main_definition_hebrew": "לא ידוע או לא מוכר, משמש לעתים קרובות לתיאור מישהו שאינו מזוהה בשמו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not revealed or disclosed; kept secret or hidden identity.",
+                "definition_hebrew": "לא נחשף או נחשף; זהות סודית או נסתרת.",
+                "example": "The anonymous donor contributed a large sum of money to the charity.",
+                "example_hebrew": "התורם האלמוני תרם סכום כסף גדול לצדקה."
+            },
+            {
+                "definition": "Without personal identification, such as name or signature.",
+                "definition_hebrew": "ללא זיהוי אישי, כגון שם או חתימה.",
+                "example": "She submitted her feedback anonymously on the online survey.",
+                "example_hebrew": "היא הגישה את המשוב שלה בעילום שם על הסקר המקוון."
+            },
+            {
+                "definition": "Expressing a thought without attributing it to anyone in particular; unattributed opinion or statement.",
+                "definition_hebrew": "הבעת מחשבה מבלי לייחס אותה לאיש מסוים; דעה או אמירה לא מיוחסת.",
+                "example": "The anonymous critic wrote scathingly about the latest movie, but never revealed themselves.",
+                "example_hebrew": "המבקר האלמוני כתב בחריפות על הסרט האחרון, אך מעולם לא חשף את עצמו."
+            }
+        ]
+    }
+]

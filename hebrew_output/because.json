@@ -1,0 +1,40 @@
+[
+    {
+        "word": "because",
+        "word_hebrew": "כי",
+        "main_definition": "The word 'because' is used to explain the reason or cause behind an event, action, or statement.",
+        "main_definition_hebrew": "המילה 'מפני' משמשת כדי להסביר את הסיבה או הסיבה מאחורי אירוע, פעולה או אמירה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To indicate a causal relationship between two events or statements. It explains why something happens or occurs in a particular way due to another factor.",
+                "definition_hebrew": "להצביע על קשר סיבתי בין שני אירועים או אמירות. זה מסביר מדוע משהו קורה או מתרחש בצורה מסוימת עקב גורם אחר.",
+                "example": "I couldn't attend the party because I had an early meeting.",
+                "example_hebrew": "לא יכולתי להשתתף במסיבה כי הייתה לי פגישה מוקדמת."
+            },
+            {
+                "definition": "Used as a conjunction to connect two clauses, where one clause provides the reason for the other. It introduces an explanation or justification that supports the statement made in the preceding clause.",
+                "definition_hebrew": "משמש כצירוף לחיבור שני סעיפים, כאשר סעיף אחד מספק את הסיבה לשני. הוא מציג הסבר או נימוק התומכים באמירה שנאמרה בסעיף הקודם.",
+                "example": "She didn't pass the exam because she didn't study enough.",
+                "example_hebrew": "היא לא עברה את הבחינה כי לא למדה מספיק."
+            },
+            {
+                "definition": "Used to introduce a rationale, motive, or reason behind a decision or action. It often precedes an explanation for why something was done in that particular manner.",
+                "definition_hebrew": "משמש כדי להציג רציונל, מניע או סיבה מאחורי החלטה או פעולה. לעתים קרובות זה קודם להסבר מדוע משהו נעשה בצורה המסוימת הזו.",
+                "example": "They chose this restaurant because it has the best reviews online.",
+                "example_hebrew": "הם בחרו במסעדה הזו כי יש לה את הביקורות הטובות ביותר באינטרנט."
+            },
+            {
+                "definition": "Sometimes used informally to express personal beliefs, opinions, or feelings about a situation as the reason behind one's actions. This usage is more subjective and less formal.",
+                "definition_hebrew": "לפעמים משמש באופן לא רשמי כדי להביע אמונות אישיות, דעות או רגשות לגבי מצב כסיבה מאחורי מעשיו. השימוש הזה יותר סובייקטיבי ופחות רשמי.",
+                "example": "I'm staying home because I feel like resting.",
+                "example_hebrew": "אני נשאר בבית כי בא לי לנוח."
+            },
+            {
+                "definition": "Used to introduce a cause in legal contexts, where it explains why something was done or not done according to the law.",
+                "definition_hebrew": "משמש להכנסת סיבה בהקשרים משפטיים, שבהם היא מסבירה מדוע משהו נעשה או לא נעשה על פי החוק.",
+                "example": "The court ruled against him because he violated the terms of his probation.",
+                "example_hebrew": "בית המשפט פסק נגדו משום שהפר את תנאי המאסר על תנאי."
+            }
+        ]
+    }
+]

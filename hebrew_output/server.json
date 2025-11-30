@@ -1,0 +1,34 @@
+[
+    {
+        "word": "server",
+        "word_hebrew": "שרת",
+        "main_definition": "A server is a person who provides services or facilities, especially in the context of computing where it refers to software that manages network resources.",
+        "main_definition_hebrew": "שרת הוא אדם המספק שירותים או מתקנים, במיוחד בהקשר של מחשוב שבו הוא מתייחס לתוכנה המנהלת משאבי רשת.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing, an individual computer system dedicated to providing data and services to other computers over a network",
+                "definition_hebrew": "בתחום המחשוב, מערכת מחשבים אינדיבידואלית המיועדת לאספקת נתונים ושירותים למחשבים אחרים דרך רשת",
+                "example": "The web server hosts the website's pages and responds to requests from internet users.",
+                "example_hebrew": "שרת האינטרנט מארח את דפי האתר ומשיב לבקשות של משתמשי אינטרנט."
+            },
+            {
+                "definition": "A person who provides food or beverages in a restaurant, cafeteria, or similar establishment",
+                "definition_hebrew": "אדם המספק מזון או משקאות במסעדה, קפיטריה או מפעל דומה",
+                "example": "She works as a server at an Italian bistro, taking orders and serving meals to customers.",
+                "example_hebrew": "היא עובדת כשרת בביסטרו איטלקי, מקבלת הזמנות ומגישה ארוחות ללקוחות."
+            },
+            {
+                "definition": "In hospitality, someone employed by a hotel or inn who assists guests with various needs during their stay",
+                "definition_hebrew": "באירוח, מישהו המועסק בבית מלון או בפונדק המסייע לאורחים בצרכים שונים במהלך שהותם",
+                "example": "The concierge is also responsible for serving as the front desk server in our hotel, helping guests check-in and out.",
+                "example_hebrew": "הקונסיירז' אחראי גם לשמש כשרת דלפק הקבלה במלון שלנו, ועוזר לאורחים לבצע צ'ק-אין ואאוט."
+            },
+            {
+                "definition": "A person whose job is to attend to customers' needs or requests by providing a service; often used in customer support",
+                "definition_hebrew": "אדם שתפקידו לתת מענה לצרכי הלקוחות או בקשותיהם באמצעות מתן שירות; משמש לעתים קרובות בתמיכת לקוחות",
+                "example": "The help desk server helps users troubleshoot issues with the software they are using.",
+                "example_hebrew": "שרת העזרה עוזר למשתמשים לפתור בעיות בתוכנה שבה הם משתמשים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "word": "time",
+        "word_hebrew": "זְמַן",
+        "main_definition": "Time is a continuous sequence that extends from the past through the present into the future, often measured by clocks or other timekeeping devices.",
+        "main_definition_hebrew": "זמן הוא רצף מתמשך שנמשך מהעבר דרך ההווה אל העתיד, לעתים קרובות נמדד על ידי שעונים או אמצעי שמירת זמן אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A period during which an activity, event, etc., continues",
+                "definition_hebrew": "תקופה שבה נמשכת פעילות, אירוע וכדומה",
+                "example": "We spent quality time together last weekend.",
+                "example_hebrew": "בילינו זמן איכות ביחד בסוף השבוע האחרון."
+            },
+            {
+                "definition": "The continuous passage of existence",
+                "definition_hebrew": "המעבר המתמשך של הקיום",
+                "example": "Time flies when you're having fun.",
+                "example_hebrew": "הזמן עף כשנהנים."
+            },
+            {
+                "definition": "An appointed period or interval for doing something",
+                "definition_hebrew": "תקופה או מרווח קבוע לביצוע משהו",
+                "example": "I have a doctor's appointment at 3 PM.",
+                "example_hebrew": "יש לי תור לרופא בשעה 15:00."
+            },
+            {
+                "definition": "The duration of time required to complete a task or event",
+                "definition_hebrew": "משך הזמן הנדרש להשלמת משימה או אירוע",
+                "example": "It takes about an hour to drive from New York to Boston.",
+                "example_hebrew": "לוקח כשעה לנסוע מניו יורק לבוסטון."
+            },
+            {
+                "definition": "A unit of measurement equal to 60 seconds, used for keeping track of the passage of time",
+                "definition_hebrew": "יחידת מדידה השווה ל-60 שניות, המשמשת למעקב אחר חלוף הזמן",
+                "example": "I set my watch to show the correct time.",
+                "example_hebrew": "כיוונתי את השעון שלי כך שיראה את השעה הנכונה."
+            },
+            {
+                "definition": "The chronological or sequential order in which events occur",
+                "definition_hebrew": "הסדר הכרונולוגי או הרציף שבו מתרחשים אירועים",
+                "example": "In history class, we learned about the timeline of World War II.",
+                "example_hebrew": "בשיעור היסטוריה למדנו על ציר הזמן של מלחמת העולם השנייה."
+            }
+        ]
+    }
+]

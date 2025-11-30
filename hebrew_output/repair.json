@@ -1,0 +1,34 @@
+[
+    {
+        "word": "repair",
+        "word_hebrew": "לְתַקֵן",
+        "main_definition": "To fix or restore something that is damaged, broken, or not working properly.",
+        "main_definition_hebrew": "כדי לתקן או לשחזר משהו פגום, שבור או שאינו פועל כהלכה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To mend or correct damage in a mechanical device",
+                "definition_hebrew": "לתקן או לתקן נזק במכשיר מכני",
+                "example": "I had to repair my car's engine because it stopped running.",
+                "example_hebrew": "הייתי צריך לתקן את המנוע של המכונית שלי כי הוא הפסיק לפעול."
+            },
+            {
+                "definition": "To fix and restore something damaged, such as furniture or clothing",
+                "definition_hebrew": "כדי לתקן ולשחזר משהו פגום, כגון רהיטים או בגדים",
+                "example": "She repaired her broken chair by gluing the pieces together.",
+                "example_hebrew": "היא תיקנה את הכיסא השבור שלה על ידי הדבקת החלקים זה לזה."
+            },
+            {
+                "definition": "To improve a relationship that has been strained",
+                "definition_hebrew": "לשפר מערכת יחסים שהייתה מתוחה",
+                "example": "They tried to repair their friendship after years of misunderstandings.",
+                "example_hebrew": "הם ניסו לתקן את הידידות שלהם לאחר שנים של אי הבנות."
+            },
+            {
+                "definition": "To restore an old object or building to its original condition",
+                "definition_hebrew": "לשחזר חפץ או בניין ישן למצבו המקורי",
+                "example": "The historical society worked on restoring the abandoned mansion to its former glory.",
+                "example_hebrew": "החברה ההיסטורית עמלה על החזרת האחוזה הנטושה ליושנה."
+            }
+        ]
+    }
+]

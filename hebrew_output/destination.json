@@ -1,0 +1,34 @@
+[
+    {
+        "word": "destination",
+        "word_hebrew": "יַעַד",
+        "main_definition": "The place to which someone or something is going or being sent.",
+        "main_definition_hebrew": "המקום שאליו מישהו או משהו הולך או נשלח.",
+        "meanings_and_examples": [
+            {
+                "definition": "Final goal or objective that one aims to achieve.",
+                "definition_hebrew": "מטרה או יעד סופיים שאדם שואף להשיג.",
+                "example": "After years of hard work, reaching the destination of homeownership was my ultimate dream.",
+                "example_hebrew": "אחרי שנים של עבודה קשה, להגיע ליעד של בעלות על הבית היה החלום האולטימטיבי שלי."
+            },
+            {
+                "definition": "The place where someone intends to travel and stay temporarily for leisure or business purposes.",
+                "definition_hebrew": "המקום שבו מישהו מתכוון לנסוע ולשהות זמנית למטרות פנאי או עסקים.",
+                "example": "We booked our flight tickets with a stopover at New York before heading to the Grand Canyon as our final destination.",
+                "example_hebrew": "הזמנו את כרטיסי הטיסה שלנו עם עצירת ביניים בניו יורק לפני שנסענו לגרנד קניון כיעד הסופי שלנו."
+            },
+            {
+                "definition": "The intended end point of any journey, trip, or transport process.",
+                "definition_hebrew": "נקודת הסיום המיועדת של כל מסע, טיול או תהליך הובלה.",
+                "example": "Our driver announced that we have arrived at our destination, and everyone in the car cheered with excitement.",
+                "example_hebrew": "הנהג שלנו הודיע שהגענו ליעד, וכולם באוטו הריעו בהתרגשות."
+            },
+            {
+                "definition": "A metaphorical destination representing a state of mind, emotional goal, or desired outcome.",
+                "definition_hebrew": "יעד מטפורי המייצג מצב נפשי, מטרה רגשית או תוצאה רצויה.",
+                "example": "After many years of struggle, she finally reached her personal destination of self-acceptance and peace.",
+                "example_hebrew": "לאחר שנים רבות של מאבק, היא סוף סוף הגיעה ליעדה האישי של קבלה עצמית ושלווה."
+            }
+        ]
+    }
+]

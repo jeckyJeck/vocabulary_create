@@ -1,0 +1,34 @@
+[
+    {
+        "word": "servers",
+        "word_hebrew": "שרתים",
+        "main_definition": "In computing, servers are powerful computers or computer programs designed to manage network resources and provide services over a network.",
+        "main_definition_hebrew": "בתחום המחשוב, שרתים הם מחשבים או תוכנות מחשב עוצמתיות שנועדו לנהל משאבי רשת ולספק שירותים דרך רשת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Computers in a data center",
+                "definition_hebrew": "מחשבים במרכז נתונים",
+                "example": "The company's financial records are stored on the banks of servers that work day and night.",
+                "example_hebrew": "הרישומים הכספיים של החברה נשמרים על גדות השרתים הפועלים יום ולילה."
+            },
+            {
+                "definition": "People who manage computer systems or networks",
+                "definition_hebrew": "אנשים שמנהלים מערכות מחשבים או רשתות",
+                "example": "The IT staff, including servers, maintained our office network to ensure smooth operations.",
+                "example_hebrew": "צוות ה-IT, כולל שרתים, תחזק את הרשת המשרדית שלנו כדי להבטיח תפעול חלק."
+            },
+            {
+                "definition": "Programs responsible for providing services such as data storage and retrieval in a network environment",
+                "definition_hebrew": "תוכניות האחראיות על אספקת שירותים כגון אחסון ואחזור נתונים בסביבת רשת",
+                "example": "When you access a website through your browser, it is the server-side programs that process your request.",
+                "example_hebrew": "כאשר אתה ניגש לאתר דרך הדפדפן שלך, התוכניות בצד השרת הן שמעבדות את הבקשה שלך."
+            },
+            {
+                "definition": "Equipment used to store and manage digital information in large amounts",
+                "definition_hebrew": "ציוד המשמש לאחסון וניהול מידע דיגיטלי בכמויות גדולות",
+                "example": "The servers housed thousands of client files for our law firm's attorneys and staff.",
+                "example_hebrew": "השרתים הכילו אלפי תיקי לקוחות עבור עורכי הדין והצוות של משרד עורכי הדין שלנו."
+            }
+        ]
+    }
+]

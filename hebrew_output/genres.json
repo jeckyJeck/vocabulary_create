@@ -1,0 +1,40 @@
+[
+    {
+        "word": "genres",
+        "word_hebrew": "ז'אנרים",
+        "main_definition": "Genres refer to categories or classifications used in literature, music, film, etc., based on distinctive characteristics.",
+        "main_definition_hebrew": "ז'אנרים מתייחסים לקטגוריות או סיווגים המשמשים בספרות, מוזיקה, קולנוע וכו', על סמך מאפיינים ייחודיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In literary context, genres are types of writing such as fiction, non-fiction, poetry, drama, and others. They categorize works according to their content, style, or form.",
+                "definition_hebrew": "בהקשר ספרותי, ז'אנרים הם סוגי כתיבה כמו סיפורת, עיון, שירה, דרמה ואחרים. הם מסווגים יצירות לפי התוכן, הסגנון או הצורה שלהן.",
+                "example": "The novel 'To Kill a Mockingbird' by Harper Lee is an example of Southern Gothic and Bildungsroman genre in literature.",
+                "example_hebrew": "הרומן \"להרוג ציפור מלגלגת\" מאת הארפר לי הוא דוגמה לז'אנר הגותי הדרומי וה-Bildungsroman בספרות."
+            },
+            {
+                "definition": "In music, genres are categories that group musical compositions with similar characteristics based on rhythm, structure, instrumentation, or cultural origin.",
+                "definition_hebrew": "במוזיקה, ז'אנרים הם קטגוריות המקבצות יצירות מוזיקליות בעלות מאפיינים דומים המבוססים על קצב, מבנה, נגינה או מוצא תרבותי.",
+                "example": "Jazz is a genre of music known for its distinctive swing feel and improvisation.",
+                "example_hebrew": "ג'אז הוא ז'אנר מוזיקה הידוע בתחושת הסווינג הייחודית שלו ובאימפרוביזציה."
+            },
+            {
+                "definition": "In film, genres are classifications that help audiences find movies with similar themes, styles, or narratives. Genres can be based on setting, tone, or subject matter.",
+                "definition_hebrew": "בקולנוע, ז'אנרים הם סיווגים שעוזרים לקהל למצוא סרטים עם נושאים, סגנונות או נרטיבים דומים. ז'אנרים יכולים להתבסס על תפאורה, טון או נושא.",
+                "example": "The 'Star Wars' series is a science fiction and space opera genre in the movie industry.",
+                "example_hebrew": "סדרת 'מלחמת הכוכבים' היא ז'אנר מדע בדיוני ואופרת חלל בתעשיית הקולנוע."
+            },
+            {
+                "definition": "Genres also apply to other forms of art such as television shows, video games, and comic books. They categorize these works based on themes, gameplay mechanics, or narrative style.",
+                "definition_hebrew": "ז'אנרים חלים גם על צורות אחרות של אמנות כמו תוכניות טלוויזיה, משחקי וידאו וחוברות קומיקס. הם מקטלגים את העבודות האלה על סמך נושאים, מכניקת משחק או סגנון נרטיבי.",
+                "example": "The 'Halo' series is a sci-fi action and first-person shooter genre in the gaming world.",
+                "example_hebrew": "סדרת 'Halo' היא ז'אנר מדע בדיוני אקשן ויריות מגוף ראשון בעולם המשחקים."
+            },
+            {
+                "definition": "More broadly, genres can be used to describe categories of any creative work that share common attributes or themes.",
+                "definition_hebrew": "באופן רחב יותר, ניתן להשתמש בז'אנרים כדי לתאר קטגוריות של כל יצירה יצירתית החולקת תכונות או נושאים משותפים.",
+                "example": "A romantic comedy is a genre of movies characterized by humor and love stories.",
+                "example_hebrew": "קומדיה רומנטית היא ז'אנר של סרטים המאופיין בהומור וסיפורי אהבה."
+            }
+        ]
+    }
+]

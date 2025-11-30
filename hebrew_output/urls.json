@@ -1,0 +1,28 @@
+[
+    {
+        "word": "urls",
+        "word_hebrew": "כתובות אתרים",
+        "main_definition": "URLs, also known as Uniform Resource Locators, are addresses used to access resources on the internet.",
+        "main_definition_hebrew": "כתובות URL, הידועות גם בשם Uniform Resource Locators, הן כתובות המשמשות לגישה למשאבים באינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing and web development context, 'urls' refers to strings of characters that specify the location of a resource on the Internet. They allow users and computers to retrieve specific documents or data from servers hosting these resources.",
+                "definition_hebrew": "בהקשר של מחשוב ופיתוח אתרים, 'כתובות אתרים' מתייחסות למחרוזות של תווים המציינות את המיקום של משאב באינטרנט. הם מאפשרים למשתמשים ולמחשבים לאחזר מסמכים או נתונים ספציפיים משרתים המארחים משאבים אלה.",
+                "example": "The URL for accessing this webpage is https://www.example.com/.",
+                "example_hebrew": "כתובת האתר לגישה לדף אינטרנט זה היא https://www.example.com/."
+            },
+            {
+                "definition": "'URLs' can also be used informally as a plural form of 'URL', referring to multiple addresses pointing to various web pages or online content.",
+                "definition_hebrew": "'כתובות אתרים' יכולות לשמש גם כצורת רבים של 'כתובת אתר', המתייחסת לכתובות מרובות המצביעות לדפי אינטרנט שונים או לתוכן מקוון.",
+                "example": "The website has several URLs that lead to different sections, such as /about, /contact, and /products.",
+                "example_hebrew": "לאתר יש מספר כתובות אתרים שמובילות לקטעים שונים, כגון /about, /contact ו-/products."
+            },
+            {
+                "definition": "'Urls' is sometimes mistakenly used in place of 'URLS', which can cause confusion. However, the correct term remains 'URL'.",
+                "definition_hebrew": "לעתים נעשה שימוש בטעות ב-'URL' במקום 'URLS', מה שעלול לגרום לבלבול. עם זאת, המונח הנכון נשאר 'URL'.",
+                "example": "Please ensure that all your links are correctly formatted URLs, not 'url' or 'urls'.",
+                "example_hebrew": "אנא ודא שכל הקישורים שלך הם כתובות אתרים בפורמט נכון, לא 'כתובת אתר' או 'כתובות אתרים'."
+            }
+        ]
+    }
+]

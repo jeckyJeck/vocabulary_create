@@ -1,0 +1,34 @@
+[
+    {
+        "word": "yes",
+        "word_hebrew": "כן",
+        "main_definition": "A positive affirmation or agreement to a statement, question, or request.",
+        "main_definition_hebrew": "אישור חיובי או הסכמה להצהרה, שאלה או בקשה.",
+        "meanings_and_examples": [
+            {
+                "definition": "An acknowledgment of understanding or acceptance of information or instructions.",
+                "definition_hebrew": "אישור על הבנה או קבלה של מידע או הוראות.",
+                "example": "Did you receive my message? Yes, I got it.",
+                "example_hebrew": "האם קיבלת את ההודעה שלי? כן, קיבלתי את זה."
+            },
+            {
+                "definition": "A confirmation to a question posed by someone else.",
+                "definition_hebrew": "אישור לשאלה שהציג מישהו אחר.",
+                "example": "Are we still meeting for dinner tonight? Yes, that time works perfectly for me.",
+                "example_hebrew": "אנחנו עדיין נפגשים לארוחת ערב הערב? כן, הזמן הזה עובד לי בצורה מושלמת."
+            },
+            {
+                "definition": "An affirmative response indicating agreement or approval of a proposal or idea.",
+                "definition_hebrew": "תגובה חיובית המעידה על הסכמה או אישור של הצעה או רעיון.",
+                "example": "Do you think this painting is good enough to display in the gallery? Yes, I love it!",
+                "example_hebrew": "האם לדעתך הציור הזה טוב מספיק כדי להציג אותו בגלריה? כן אני אוהב את זה!"
+            },
+            {
+                "definition": "A positive answer signaling consent, permission, or compliance with something requested or desired.",
+                "definition_hebrew": "תשובה חיובית המאותת על הסכמה, הרשאה או ציות למשהו מבוקש או רצוי.",
+                "example": "Can I borrow your car tomorrow for a trip? Yes, you can.",
+                "example_hebrew": "אני יכול לשאול את המכונית שלך מחר לטיול? כן אתה יכול."
+            }
+        ]
+    }
+]

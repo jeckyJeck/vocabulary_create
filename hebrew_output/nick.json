@@ -1,0 +1,28 @@
+[
+    {
+        "word": "nick",
+        "word_hebrew": "ניק",
+        "main_definition": "Nick is a verb that can refer to the act of cutting or denting something, an informal way of addressing someone, or giving someone a minor injury by scratching.",
+        "main_definition_hebrew": "ניק הוא פועל שיכול להתייחס לפעולת חיתוך או שקע במשהו, דרך לא רשמית לפנות למישהו, או לתת למישהו פציעה קלה על ידי גירוד.",
+        "meanings_and_examples": [
+            {
+                "definition": "To cut or dent something",
+                "definition_hebrew": "לחתוך או לשקע משהו",
+                "example": "He accidentally nick his car's fender while parking.",
+                "example_hebrew": "הוא חבט בטעות את הפגוש של המכונית שלו בזמן החניה."
+            },
+            {
+                "definition": "Informal way of addressing someone",
+                "definition_hebrew": "דרך לא פורמלית לפנות למישהו",
+                "example": "Hey you, get your shoes on before we leave!",
+                "example_hebrew": "היי אתה, תנעל את הנעליים שלך לפני שאנחנו עוזבים!"
+            },
+            {
+                "definition": "Giving a minor injury by scratching",
+                "definition_hebrew": "מתן פציעה קלה בשריטה",
+                "example": "She nick her finger while opening the letter.",
+                "example_hebrew": "היא חורצת את אצבעה בזמן פתיחת המכתב."
+            }
+        ]
+    }
+]

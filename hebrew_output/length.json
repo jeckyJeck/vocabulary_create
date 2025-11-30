@@ -1,0 +1,40 @@
+[
+    {
+        "word": "length",
+        "word_hebrew": "אורך",
+        "main_definition": "The measurement of the distance from one end to the other in a linear object, or the duration of time that something takes.",
+        "main_definition_hebrew": "מדידת המרחק מקצה אחד למשנהו באובייקט ליניארי, או משך הזמן שמשהו לוקח.",
+        "meanings_and_examples": [
+            {
+                "definition": "Distance along an object's longest side",
+                "definition_hebrew": "מרחק לאורך הצד הארוך ביותר של אובייקט",
+                "example": "The length of this rope is 10 meters.",
+                "example_hebrew": "אורכו של חבל זה 10 מטרים."
+            },
+            {
+                "definition": "Time taken for a process or event to complete",
+                "definition_hebrew": "הזמן שנדרש לסיום תהליך או אירוע",
+                "example": "The length of the movie was approximately two hours.",
+                "example_hebrew": "אורך הסרט היה כשעתיים."
+            },
+            {
+                "definition": "Extent or duration of an experience, emotion, etc.",
+                "definition_hebrew": "היקף או משך חוויה, רגש וכו'.",
+                "example": "Her sadness lasted several days; it seemed like a very long period for her to grieve.",
+                "example_hebrew": "העצב שלה נמשך כמה ימים; זה נראה כמו תקופה מאוד ארוכה בשבילה להתאבל."
+            },
+            {
+                "definition": "Size or amount in terms of the number of items",
+                "definition_hebrew": "גודל או כמות מבחינת מספר הפריטים",
+                "example": "We need lengthy instructions to assemble this furniture properly.",
+                "example_hebrew": "אנחנו צריכים הוראות ארוכות כדי להרכיב את הרהיט הזה כראוי."
+            },
+            {
+                "definition": "Degree or extent, often referring to a level of difficulty or challenge",
+                "definition_hebrew": "תואר או מידה, לעתים קרובות מתייחסים לרמת קושי או אתגר",
+                "example": "The marathon course is known for its extreme lengths; runners face grueling challenges.",
+                "example_hebrew": "מסלול המרתון ידוע באורכים המופלגים שלו; רצים מתמודדים עם אתגרים מפרכים."
+            }
+        ]
+    }
+]

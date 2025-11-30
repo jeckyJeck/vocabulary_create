@@ -1,0 +1,34 @@
+[
+    {
+        "word": "firewall",
+        "word_hebrew": "חומת אש",
+        "main_definition": "A firewall is a security system designed to prevent unauthorized access to or from a computer system or network, often utilizing multiple layers of defenses.",
+        "main_definition_hebrew": "חומת אש היא מערכת אבטחה שנועדה למנוע גישה לא מורשית למערכת מחשבים או לרשת, ולעתים קרובות תוך שימוש בשכבות הגנה מרובות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Computer Security Term",
+                "definition_hebrew": "מונח אבטחת מחשב",
+                "example": "The company installed a firewall on its servers to protect against external threats.",
+                "example_hebrew": "החברה התקינה חומת אש על השרתים שלה כדי להגן מפני איומים חיצוניים."
+            },
+            {
+                "definition": "Physical Barrier for Fire Prevention",
+                "definition_hebrew": "מחסום פיזי למניעת שריפות",
+                "example": "After the fire, it was clear that the wall had contained the flames and prevented further damage.",
+                "example_hebrew": "לאחר השריפה היה ברור שהקיר הכיל את הלהבות ומנע נזק נוסף."
+            },
+            {
+                "definition": "Network Security Device",
+                "definition_hebrew": "מכשיר אבטחת רשת",
+                "example": "The IT department set up a new firewall to monitor incoming traffic on their network.",
+                "example_hebrew": "מחלקת ה-IT הקימה חומת אש חדשה כדי לנטר את התעבורה הנכנסת ברשת שלהם."
+            },
+            {
+                "definition": "Software or Hardware Implementation of Network Filtering",
+                "definition_hebrew": "יישום תוכנה או חומרה של סינון רשת",
+                "example": "Our antivirus software includes a built-in firewall feature that automatically blocks suspicious connections.",
+                "example_hebrew": "תוכנת האנטי וירוס שלנו כוללת תכונת חומת אש מובנית החוסמת אוטומטית חיבורים חשודים."
+            }
+        ]
+    }
+]

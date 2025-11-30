@@ -1,0 +1,28 @@
+[
+    {
+        "word": "shark",
+        "word_hebrew": "כריש",
+        "main_definition": "Shark is a term with multiple meanings, some of which refer to the predatory fish species known for their sharp teeth and powerful hunting abilities. It can also be an idiom used in English language representing various concepts such as someone who hunts or exploits others relentlessly.",
+        "main_definition_hebrew": "כריש הוא מונח בעל משמעויות מרובות, שחלקן מתייחסות למיני הדגים הטורפים הידועים בשיניים החדות וביכולות הציד העוצמתיות שלהם. זה יכול להיות גם ניב המשמש בשפה האנגלית המייצג מושגים שונים כמו מישהו שצד או מנצל אחרים ללא הרף.",
+        "meanings_and_examples": [
+            {
+                "definition": "A predatory fish with a cartilaginous skeleton and five gills, known for its sharp teeth and powerful swimming capabilities",
+                "definition_hebrew": "דג טורף בעל שלד סחוס וחמישה זימים, הידוע בשיניו החדות וביכולות השחייה העוצמתיות שלו",
+                "example": "The great white shark is one of the most feared predators in the ocean.",
+                "example_hebrew": "הכריש הלבן הגדול הוא אחד הטורפים המפחידים ביותר באוקיינוס."
+            },
+            {
+                "definition": "An individual who preys on others or exploits them without mercy",
+                "definition_hebrew": "אדם שטורף אחרים או מנצל אותם ללא רחמים",
+                "example": "In business, he was often referred to as a 'shark' for his ruthless tactics.",
+                "example_hebrew": "בעסקים, הוא כונה לעתים קרובות כ'כריש' בשל הטקטיקות האכזריות שלו."
+            },
+            {
+                "definition": "A person who is relentlessly pursuing an opportunity or goal with aggressive determination",
+                "definition_hebrew": "אדם הרודף ללא הפוגה הזדמנות או מטרה בנחישות אגרסיבית",
+                "example": "The salesperson was considered a shark when it came to closing deals, always pushing hard for the best outcome.",
+                "example_hebrew": "איש המכירות נחשב כריש בכל הנוגע לסגירת עסקאות, ותמיד דוחף חזק לתוצאה הטובה ביותר."
+            }
+        ]
+    }
+]

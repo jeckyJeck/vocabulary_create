@@ -1,0 +1,40 @@
+[
+    {
+        "word": "technologies",
+        "word_hebrew": "טכנולוגיות",
+        "main_definition": "Technologies refer to various tools, systems, methods, or techniques developed through knowledge and ingenuity that enhance human capabilities and improve daily life.",
+        "main_definition_hebrew": "טכנולוגיות מתייחסות לכלים, מערכות, שיטות או טכניקות שונות שפותחו באמצעות ידע וכושר המצאה המשפרות את היכולות האנושיות ומשפרים את חיי היומיום.",
+        "meanings_and_examples": [
+            {
+                "definition": "Collective term for a range of devices or applications",
+                "definition_hebrew": "כינוי כולל למגוון מכשירים או יישומים",
+                "example": "The Internet is an example of modern technologies connecting the world.",
+                "example_hebrew": "האינטרנט הוא דוגמה לטכנולוגיות מודרניות המקשרות את העולם."
+            },
+            {
+                "definition": "Advancements in science and engineering fields",
+                "definition_hebrew": "התקדמות בתחומי המדע וההנדסה",
+                "example": "Renewable energy technologies are advancements aimed at reducing our reliance on fossil fuels.",
+                "example_hebrew": "טכנולוגיות אנרגיה מתחדשת הן התקדמות שמטרתן להפחית את ההסתמכות שלנו על דלקים מאובנים."
+            },
+            {
+                "definition": "Methods or techniques used to achieve a certain goal",
+                "definition_hebrew": "שיטות או טכניקות המשמשות להשגת מטרה מסוימת",
+                "example": "Artificial intelligence technologies can be used for various purposes like automating tasks and improving decision-making.",
+                "example_hebrew": "ניתן להשתמש בטכנולוגיות בינה מלאכותית למטרות שונות כמו אוטומציה של משימות ושיפור קבלת החלטות."
+            },
+            {
+                "definition": "Innovations in communication systems",
+                "definition_hebrew": "חידושים במערכות תקשורת",
+                "example": "Social media platforms are an example of communication technologies that have transformed how we connect with each other.",
+                "example_hebrew": "פלטפורמות מדיה חברתית הן דוגמה לטכנולוגיות תקשורת ששינו את האופן שבו אנו מתחברים זה לזה."
+            },
+            {
+                "definition": "Tools or applications developed to solve specific problems",
+                "definition_hebrew": "כלים או יישומים שפותחו כדי לפתור בעיות ספציפיות",
+                "example": "Blockchain technology is a tool designed to secure digital transactions and records.",
+                "example_hebrew": "טכנולוגיית בלוקצ'יין היא כלי שנועד לאבטח עסקאות ורשומות דיגיטליות."
+            }
+        ]
+    }
+]

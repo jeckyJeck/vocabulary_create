@@ -1,0 +1,40 @@
+[
+    {
+        "word": "website",
+        "word_hebrew": "אתר אינטרנט",
+        "main_definition": "A website is a collection of web pages that are accessible through the Internet, typically hosted by a domain name server and containing information about a specific entity or purpose.",
+        "main_definition_hebrew": "אתר אינטרנט הוא אוסף של דפי אינטרנט הנגישים דרך האינטרנט, המתארחים בדרך כלל על ידי שרת שמות דומיין ומכילים מידע על ישות או מטרה ספציפית.",
+        "meanings_and_examples": [
+            {
+                "definition": "An online platform for publishing content",
+                "definition_hebrew": "פלטפורמה מקוונת לפרסום תוכן",
+                "example": "The New York Times website provides news articles, videos, and interactive features to its readers.",
+                "example_hebrew": "אתר הניו יורק טיימס מספק מאמרי חדשות, סרטונים ותכונות אינטראקטיביות לקוראיו."
+            },
+            {
+                "definition": "A business's virtual storefront",
+                "definition_hebrew": "חלון ראווה וירטואלי של עסק",
+                "example": "Nike.com is a website where customers can browse and purchase athletic wear and equipment.",
+                "example_hebrew": "Nike.com הוא אתר שבו לקוחות יכולים לגלוש ולרכוש בגדים וציוד ספורט."
+            },
+            {
+                "definition": "An organization or group's online presence",
+                "definition_hebrew": "נוכחות מקוונת של ארגון או קבוצה",
+                "example": "The United Nations website offers information about its programs, events, and member countries.",
+                "example_hebrew": "אתר האומות המאוחדות מציע מידע על התוכניות, האירועים והמדינות החברות בו."
+            },
+            {
+                "definition": "A personal web page showcasing one's interests and activities",
+                "definition_hebrew": "דף אינטרנט אישי המציג את תחומי העניין והפעילויות של האדם",
+                "example": "Jane Doe's website features her photography work and blog posts.",
+                "example_hebrew": "האתר של ג'יין דו מציג את עבודות הצילום שלה ופוסטים בבלוג."
+            },
+            {
+                "definition": "An interactive platform for social networking or communication",
+                "definition_hebrew": "פלטפורמה אינטראקטיבית לרשתות חברתיות או תקשורת",
+                "example": "Facebook is a website where people can connect with friends, share updates, and join groups.",
+                "example_hebrew": "פייסבוק הוא אתר שבו אנשים יכולים להתחבר עם חברים, לשתף עדכונים ולהצטרף לקבוצות."
+            }
+        ]
+    }
+]

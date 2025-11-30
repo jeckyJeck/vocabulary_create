@@ -1,0 +1,40 @@
+[
+    {
+        "word": "specialists",
+        "word_hebrew": "מומחים",
+        "main_definition": "Specialists are individuals who have advanced knowledge, skills, or expertise in a specific field or subject matter.",
+        "main_definition_hebrew": "מומחים הם אנשים בעלי ידע, מיומנויות או מומחיות מתקדמים בתחום או נושא ספציפי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Professionals with specialized training and education in a particular area of study",
+                "definition_hebrew": "אנשי מקצוע בעלי הכשרה והשכלה מיוחדים בתחום לימוד מסוים",
+                "example": "A cardiologist is a medical specialist who diagnoses and treats heart-related illnesses.",
+                "example_hebrew": "קרדיולוג הוא מומחה רפואי המאבחן ומטפל במחלות הקשורות ללב."
+            },
+            {
+                "definition": "Experts called upon to give their expert opinion or advice on specific matters within their field",
+                "definition_hebrew": "מומחים שנקראו לתת חוות דעת מומחה או ייעוץ בנושאים ספציפיים בתחומם",
+                "example": "In a court case, an environmental specialist may be asked to provide testimony about pollution levels in the area.",
+                "example_hebrew": "במקרה של בית משפט, ניתן לבקש ממומחה איכות הסביבה למסור עדות על רמות הזיהום באזור."
+            },
+            {
+                "definition": "Companies that focus exclusively on providing products and services related to a single industry or market segment",
+                "definition_hebrew": "חברות המתמקדות אך ורק באספקת מוצרים ושירותים הקשורים לתעשייה או לפלח שוק בודד",
+                "example": "A software development company called Specialists Inc. specializes in creating custom mobile applications for healthcare providers.",
+                "example_hebrew": "חברת פיתוח תוכנה בשם Specialists Inc. מתמחה ביצירת יישומים מותאמים אישית לנייד עבור ספקי שירותי בריאות."
+            },
+            {
+                "definition": "An academic discipline with its own body of specialized terminology and concepts, usually studied at the college level",
+                "definition_hebrew": "דיסציפלינה אקדמית עם גוף משלה של טרמינולוגיה ומושגים מיוחדים, הנלמדת בדרך כלל ברמת המכללה",
+                "example": "The field of astrophysics is a branch of astronomy that focuses on studying celestial objects' properties, behavior, and interactions.",
+                "example_hebrew": "תחום האסטרופיזיקה הוא ענף באסטרונומיה המתמקד בחקר תכונות, התנהגות ואינטראקציות של עצמים שמימיים."
+            },
+            {
+                "definition": "A specific subset within a larger group or category with distinct characteristics or attributes",
+                "definition_hebrew": "תת-קבוצה ספציפית בתוך קבוצה או קטגוריה גדולה יותר עם מאפיינים או תכונות ברורים",
+                "example": "In the realm of art, impressionist painters like Monet and Renoir are considered specialists in capturing light and color effects.",
+                "example_hebrew": "בתחום האמנות, ציירים אימפרסיוניסטים כמו מונה ורנואר נחשבים מומחים בלכידת אפקטים של אור וצבע."
+            }
+        ]
+    }
+]

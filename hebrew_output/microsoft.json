@@ -1,0 +1,34 @@
+[
+    {
+        "word": "microsoft",
+        "word_hebrew": "מיקרוסופט",
+        "main_definition": "Microsoft is a multinational technology company known primarily for its software products, including the Windows operating system and Office suite.",
+        "main_definition_hebrew": "מיקרוסופט היא חברת טכנולוגיה רב לאומית הידועה בעיקר במוצרי התוכנה שלה, כולל מערכת ההפעלה Windows וחבילת Office.",
+        "meanings_and_examples": [
+            {
+                "definition": "A large American computer software corporation founded by Bill Gates and Paul Allen",
+                "definition_hebrew": "תאגיד תוכנות מחשב אמריקאי גדול שהוקם על ידי ביל גייטס ופול אלן",
+                "example": "Microsoft is one of the biggest players in the technology industry.",
+                "example_hebrew": "מיקרוסופט היא אחת השחקניות הגדולות בתעשיית הטכנולוגיה."
+            },
+            {
+                "definition": "The parent company of Microsoft, Redmond-based holding entity with various businesses including gaming (Xbox), cloud computing (Azure), hardware (Surface devices) and more",
+                "definition_hebrew": "חברת האם של מיקרוסופט, ישות אחזקה מבוססת רדמונד עם עסקים שונים כולל גיימינג (Xbox), מחשוב ענן (Azure), חומרה (מכשירי Surface) ועוד",
+                "example": "Microsoft's diverse portfolio extends beyond software to include Xbox games console.",
+                "example_hebrew": "הפורטפוליו המגוון של מיקרוסופט משתרע מעבר לתוכנה וכולל קונסולת משחקי Xbox."
+            },
+            {
+                "definition": "A term used metaphorically for a powerful entity or dominant presence in its field, inspired by Microsoft's dominance in the technology sector",
+                "definition_hebrew": "מונח המשמש באופן מטפורי לישות חזקה או נוכחות דומיננטית בתחומה, בהשראת הדומיננטיות של מיקרוסופט במגזר הטכנולוגי",
+                "example": "Just like Microsoft, Apple has become a 'Microsoft-like' giant in the smartphone market.",
+                "example_hebrew": "בדיוק כמו מיקרוסופט, אפל הפכה לענקית 'כמו מיקרוסופט' בשוק הסמארטפונים."
+            },
+            {
+                "definition": "An idiomatic expression referring to making a mistake or failure due to overconfidence or arrogance, inspired by historical events involving Bill Gates",
+                "definition_hebrew": "ביטוי אידיומטי המתייחס לטעות או כישלון עקב ביטחון עצמי או יהירות יתר, בהשראת אירועים היסטוריים שבהם מעורב ביל גייטס",
+                "example": "'That was Microsoft-esque when they assumed everyone would transition seamlessly from Windows XP without any issues.'",
+                "example_hebrew": "\"זה היה בסגנון של מיקרוסופט כשהם הניחו שכולם יעברו בצורה חלקה מ-Windows XP ללא בעיות.\""
+            }
+        ]
+    }
+]

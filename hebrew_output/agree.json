@@ -1,0 +1,34 @@
+[
+    {
+        "word": "agree",
+        "word_hebrew": "לְהַסכִּים",
+        "main_definition": "To have the same opinion or to come to a mutual understanding about something.",
+        "main_definition_hebrew": "לחוות את אותה דעה או להגיע להבנה הדדית לגבי משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To concur with someone's opinion, thoughts, or actions.",
+                "definition_hebrew": "להסכים עם דעה, מחשבות או פעולות של מישהו.",
+                "example": "We agree that climate change is an urgent issue.",
+                "example_hebrew": "אנחנו מסכימים ששינוי האקלים הוא נושא דחוף."
+            },
+            {
+                "definition": "To reach a consensus on a decision or plan of action.",
+                "definition_hebrew": "להגיע לקונצנזוס על החלטה או תוכנית פעולה.",
+                "example": "After hours of discussion, the team finally agreed on the budget allocation for next year's projects.",
+                "example_hebrew": "לאחר שעות של דיונים, הצוות סיכם לבסוף על הקצאת התקציב לפרויקטים של השנה הבאה."
+            },
+            {
+                "definition": "To express one's consent to an idea, proposal, or request made by someone else.",
+                "definition_hebrew": "להביע את הסכמתו לרעיון, הצעה או בקשה של מישהו אחר.",
+                "example": "She didn't want to go out in the rain, but I convinced her and she agreed to join me for a walk.",
+                "example_hebrew": "היא לא רצתה לצאת בגשם, אבל שכנעתי אותה והיא הסכימה להצטרף אלי לטיול."
+            },
+            {
+                "definition": "In legal terms, when parties agree on certain conditions of an agreement through negotiation.",
+                "definition_hebrew": "במונחים משפטיים, כאשר הצדדים מסכימים על תנאים מסוימים של הסכם באמצעות משא ומתן.",
+                "example": "The contract was signed after both companies agreed on all its terms.",
+                "example_hebrew": "החוזה נחתם לאחר ששתי החברות הסכימו על כל תנאיו."
+            }
+        ]
+    }
+]

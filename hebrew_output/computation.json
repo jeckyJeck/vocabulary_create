@@ -1,0 +1,40 @@
+[
+    {
+        "word": "computation",
+        "word_hebrew": "חישוב",
+        "main_definition": "The process of calculating or determining numerical values, results, or solutions using mathematical operations.",
+        "main_definition_hebrew": "תהליך חישוב או קביעת ערכים מספריים, תוצאות או פתרונות באמצעות פעולות מתמטיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A general term referring to the act of performing calculations.",
+                "definition_hebrew": "מונח כללי המתייחס לפעולת ביצוע חישובים.",
+                "example": "In mathematics, computation often involves addition, subtraction, multiplication, and division.",
+                "example_hebrew": "במתמטיקה, חישוב כולל לרוב חיבור, חיסור, כפל וחילוק."
+            },
+            {
+                "definition": "The process of converting data or information into a numerical form for analysis or processing.",
+                "definition_hebrew": "תהליך המרת נתונים או מידע לצורה מספרית לניתוח או עיבוד.",
+                "example": "Data compression is a type of computation that reduces the size of files without losing essential details.",
+                "example_hebrew": "דחיסת נתונים היא סוג של חישוב שמקטין את גודל הקבצים מבלי לאבד פרטים חיוניים."
+            },
+            {
+                "definition": "A specific algorithm used to solve a problem or perform an operation in mathematics, computer science, or other fields.",
+                "definition_hebrew": "אלגוריתם ספציפי המשמש לפתרון בעיה או ביצוע פעולה במתמטיקה, מדעי המחשב או תחומים אחרים.",
+                "example": "The Fast Fourier Transform (FFT) is a computation technique used for converting signals between the time and frequency domains.",
+                "example_hebrew": "טרנספורמציה פורייה מהירה (FFT) היא טכניקת חישוב המשמשת להמרת אותות בין תחומי הזמן והתדר."
+            },
+            {
+                "definition": "A mathematical process involving sequential steps to solve problems, typically using algebraic expressions and formulas.",
+                "definition_hebrew": "תהליך מתמטי הכולל שלבים עוקבים לפתרון בעיות, בדרך כלל באמצעות ביטויים ונוסחאות אלגבריות.",
+                "example": "To compute the area of a circle, one must multiply pi by the square of its radius (A = πr^2).",
+                "example_hebrew": "כדי לחשב את שטח המעגל, יש להכפיל את פי בריבוע הרדיוס שלו (A = πr^2)."
+            },
+            {
+                "definition": "The act of making calculations in computer programming or software development to achieve certain results or outcomes.",
+                "definition_hebrew": "הפעולה של ביצוע חישובים בתכנות מחשבים או פיתוח תוכנה כדי להשיג תוצאות או תוצאות מסוימות.",
+                "example": "A script written for a web application might include computations to display dynamic content based on user input.",
+                "example_hebrew": "סקריפט שנכתב עבור יישום אינטרנט עשוי לכלול חישובים להצגת תוכן דינמי המבוסס על קלט המשתמש."
+            }
+        ]
+    }
+]

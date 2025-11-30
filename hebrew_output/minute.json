@@ -1,0 +1,34 @@
+[
+    {
+        "word": "minute",
+        "word_hebrew": "דַקָה",
+        "main_definition": "A unit of time equal to 60 seconds, or a small amount of time.",
+        "main_definition_hebrew": "יחידת זמן השווה ל-60 שניות, או פרק זמן קטן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Time measurement unit equal to one sixtieth of an hour",
+                "definition_hebrew": "יחידת מדידת זמן שווה לשישים מהשעה",
+                "example": "The race lasted two minutes.",
+                "example_hebrew": "המרוץ נמשך שתי דקות."
+            },
+            {
+                "definition": "Extremely small or insignificant amount",
+                "definition_hebrew": "כמות קטנה במיוחד או לא משמעותית",
+                "example": "It's just a minute difference between the two prices.",
+                "example_hebrew": "זה רק הבדל של דקה בין שני המחירים."
+            },
+            {
+                "definition": "A formal complaint made about someone's behavior",
+                "definition_hebrew": "תלונה רשמית על התנהגות של מישהו",
+                "example": "She filed a minute against her boss for unfair treatment.",
+                "example_hebrew": "היא הגישה דקה נגד הבוס שלה בגין יחס לא הוגן."
+            },
+            {
+                "definition": "An opportunity or opening in time to do something important",
+                "definition_hebrew": "הזדמנות או פתיחה בזמן לעשות משהו חשוב",
+                "example": "When the door opened, there was only one minute before it closed again.",
+                "example_hebrew": "כשהדלת נפתחה, חלפה רק דקה אחת עד שהיא נסגרה שוב."
+            }
+        ]
+    }
+]

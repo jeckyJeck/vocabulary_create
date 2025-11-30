@@ -1,0 +1,40 @@
+[
+    {
+        "word": "failure",
+        "word_hebrew": "כישלון",
+        "main_definition": "Failure refers to the lack of success in achieving a desired goal, outcome, or standard.",
+        "main_definition_hebrew": "כישלון מתייחס לחוסר הצלחה בהשגת מטרה, תוצאה או סטנדרט רצויים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not meeting expectations or standards.",
+                "definition_hebrew": "לא עומד בציפיות או בסטנדרטים.",
+                "example": "The product launch was a failure due to poor planning and execution.",
+                "example_hebrew": "השקת המוצר נכשלה עקב תכנון וביצוע לקויים."
+            },
+            {
+                "definition": "An event that did not end in success, often after effort or attempts have been made.",
+                "definition_hebrew": "אירוע שלא הסתיים בהצלחה, לרוב לאחר שנעשו מאמצים או ניסיונות.",
+                "example": "Despite his efforts, John's attempt to repair the car engine was a failure as it broke down again immediately.",
+                "example_hebrew": "למרות מאמציו, ניסיונו של ג'ון לתקן את מנוע המכונית נכשל כיוון שהוא התקלקל שוב מיד."
+            },
+            {
+                "definition": "A missed opportunity for success or accomplishment.",
+                "definition_hebrew": "הזדמנות שהוחמצה להצלחה או הישג.",
+                "example": "The team experienced failure in securing sponsorship for their project because they did not submit their proposal on time.",
+                "example_hebrew": "הצוות חווה כישלון בהבטחת חסות לפרויקט שלהם מכיוון שלא הגישו את הצעתם בזמן."
+            },
+            {
+                "definition": "An outcome where the desired result was not achieved, despite having a goal and taking action towards it.",
+                "definition_hebrew": "תוצאה שבה התוצאה הרצויה לא הושגה, למרות שיש לה מטרה ופעולה לקראתה.",
+                "example": "Her application to college was deemed as failure when she didn't get accepted after submitting all her documents.",
+                "example_hebrew": "בקשתה למכללה נחשבה ככישלון כאשר היא לא התקבלה לאחר הגשת כל המסמכים שלה."
+            },
+            {
+                "definition": "A lesson learned from an unsuccessful attempt or experience that leads to growth or improvement.",
+                "definition_hebrew": "לקח שנלמד מניסיון או ניסיון לא מוצלח שמובילים לצמיחה או שיפור.",
+                "example": "The company's initial product launch might have been a failure, but they used it as a learning opportunity and eventually succeeded with their next release.",
+                "example_hebrew": "השקת המוצר הראשונית של החברה אולי הייתה כישלון, אבל הם השתמשו בה כהזדמנות למידה ובסופו של דבר הצליחו עם המהדורה הבאה שלהם."
+            }
+        ]
+    }
+]

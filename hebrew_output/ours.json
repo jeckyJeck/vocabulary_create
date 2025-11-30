@@ -1,0 +1,28 @@
+[
+    {
+        "word": "ours",
+        "word_hebrew": "שֶׁלָנוּ",
+        "main_definition": "Ours is a possessive pronoun used to indicate something that belongs to the speaker and one or more other people.",
+        "main_definition_hebrew": "שלנו הוא כינוי רכושני המשמש לציון משהו ששייך לדובר ולאדם אחד או יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Refers to something that belongs collectively to us (the speaker and at least one other person)",
+                "definition_hebrew": "מתייחס למשהו ששייך לנו ביחד (הדובר ולפחות אדם אחד נוסף)",
+                "example": "The car parked outside is ours.",
+                "example_hebrew": "המכונית שחונה בחוץ היא שלנו."
+            },
+            {
+                "definition": "Used as a shorthand for 'ours all', referring to ownership shared among multiple people",
+                "definition_hebrew": "משמש כקיצור של 'כולנו', המתייחס לבעלות המשותפת בין מספר אנשים",
+                "example": "Everything in the house is ours, so we should take good care of it.",
+                "example_hebrew": "הכל בבית הוא שלנו, אז כדאי שנטפל בו היטב."
+            },
+            {
+                "definition": "Signifying that something belongs not only to the speaker but also includes someone else mentioned beforehand",
+                "definition_hebrew": "מסמן שמשהו שייך לא רק לדובר אלא כולל גם מישהו אחר שהוזכר מראש",
+                "example": "John and I will share this book; once you finish reading your part, hand it back as it's ours.",
+                "example_hebrew": "ג'ון ואני נשתף את הספר הזה; לאחר שתסיים לקרוא את החלק שלך, החזיר אותו כפי שהוא שלנו."
+            }
+        ]
+    }
+]

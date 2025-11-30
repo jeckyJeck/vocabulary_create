@@ -1,0 +1,40 @@
+[
+    {
+        "word": "job",
+        "word_hebrew": "עבודה",
+        "main_definition": "A job is a regular activity performed in exchange for payment or other benefits, often as part of one's career or profession.",
+        "main_definition_hebrew": "עבודה היא פעילות קבועה המתבצעת בתמורה לתשלום או הטבות אחרות, לרוב במסגרת הקריירה או המקצוע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Employment opportunity",
+                "definition_hebrew": "אפשרות תעסוקה",
+                "example": "Finding a new job after being laid off.",
+                "example_hebrew": "מציאת עבודה חדשה לאחר פיטורין."
+            },
+            {
+                "definition": "Tasks to be completed within the scope of one's employment",
+                "definition_hebrew": "משימות שיש להשלים במסגרת העסקתו",
+                "example": "My Monday job involves organizing files and responding to emails.",
+                "example_hebrew": "העבודה שלי ביום שני כוללת ארגון קבצים ומענה למיילים."
+            },
+            {
+                "definition": "A position held by an individual in a company or organization",
+                "definition_hebrew": "תפקיד שמחזיק אדם בחברה או בארגון",
+                "example": "She has been working as a marketing manager for five years at her current job.",
+                "example_hebrew": "היא עובדת כמנהלת שיווק כבר חמש שנים בעבודה הנוכחית שלה."
+            },
+            {
+                "definition": "Earning money through work or employment",
+                "definition_hebrew": "להרוויח כסף דרך עבודה או עבודה",
+                "example": "He quit his part-time job to focus on studying full time.",
+                "example_hebrew": "הוא עזב את עבודתו החלקית כדי להתמקד בלימודים במשרה מלאה."
+            },
+            {
+                "definition": "A role within a team or group, where each person contributes to achieving a shared goal",
+                "definition_hebrew": "תפקיד בתוך צוות או קבוצה, שבו כל אדם תורם להשגת מטרה משותפת",
+                "example": "In our volunteer job at the animal shelter, we help take care of abandoned pets and find them new homes.",
+                "example_hebrew": "בעבודת ההתנדבות שלנו במקלט החיות, אנו עוזרים לטפל בחיות מחמד נטושות ולמצוא להן בתים חדשים."
+            }
+        ]
+    }
+]

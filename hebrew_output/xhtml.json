@@ -1,0 +1,28 @@
+[
+    {
+        "word": "xhtml",
+        "word_hebrew": "xhtml",
+        "main_definition": "XHTML, or XML eXtensible Hypertext Markup Language, is a stricter and cleaner version of HTML designed to facilitate the development of web pages with a focus on clean code structure and compatibility across various devices.",
+        "main_definition_hebrew": "XHTML, או XML eXtensible Hypertext Markup Language, היא גרסה מחמירה ונקייה יותר של HTML שנועדה להקל על פיתוח דפי אינטרנט תוך התמקדות במבנה קוד נקי ותאימות בין מכשירים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An abbreviation for XML eXtensible Hypertext Markup Language",
+                "definition_hebrew": "קיצור של XML eXtensible Hypertext Markup Language",
+                "example": "Many websites use XHTML as their markup language to ensure proper parsing by web browsers.",
+                "example_hebrew": "אתרים רבים משתמשים ב-XHTML כשפת הסימון שלהם כדי להבטיח ניתוח נכון על ידי דפדפני אינטרנט."
+            },
+            {
+                "definition": "A stricter version of HTML that adheres to XML syntax rules",
+                "definition_hebrew": "גרסה מחמירה יותר של HTML שמקפידה על כללי תחביר XML",
+                "example": "XHTML pages need to be well-formed, meaning they must follow specific document structure and use lowercase letters without using spaces in attribute values.",
+                "example_hebrew": "דפי XHTML צריכים להיות מעוצבים היטב, כלומר עליהם לעקוב אחר מבנה מסמך ספציפי ולהשתמש באותיות קטנות מבלי להשתמש ברווחים בערכי תכונות."
+            },
+            {
+                "definition": "An extension of HTML with features from XML for web development",
+                "definition_hebrew": "הרחבה של HTML עם תכונות מ-XML לפיתוח אתרים",
+                "example": "Developers often prefer XHTML over traditional HTML due to its support for structured data, cleaner code format, and greater compatibility across browsers and devices.",
+                "example_hebrew": "לעתים קרובות מפתחים מעדיפים XHTML על פני HTML מסורתי בשל התמיכה בנתונים מובנים, פורמט קוד נקי יותר ותאימות רבה יותר בין דפדפנים ומכשירים."
+            }
+        ]
+    }
+]

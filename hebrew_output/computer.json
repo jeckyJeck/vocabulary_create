@@ -1,0 +1,28 @@
+[
+    {
+        "word": "computer",
+        "word_hebrew": "מַחשֵׁב",
+        "main_definition": "A computer is an electronic device that can store, retrieve, and process data according to a set of instructions (programs) to perform tasks or solve problems.",
+        "main_definition_hebrew": "מחשב הוא מכשיר אלקטרוני שיכול לאחסן, לאחזר ולעבד נתונים לפי קבוצת הוראות (תוכניות) לביצוע משימות או לפתור בעיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "An electronic machine for storing, processing, and retrieving information",
+                "definition_hebrew": "מכונה אלקטרונית לאחסון, עיבוד ואחזור מידע",
+                "example": "My desktop computer helps me complete my work assignments quickly.",
+                "example_hebrew": "המחשב השולחני שלי עוזר לי להשלים את מטלות העבודה שלי במהירות."
+            },
+            {
+                "definition": "A person who uses computers to solve problems or perform tasks efficiently",
+                "definition_hebrew": "אדם שמשתמש במחשבים כדי לפתור בעיות או לבצע משימות ביעילות",
+                "example": "As a computer programmer, she writes code that tells the computer how to process data and display information.",
+                "example_hebrew": "כמתכנתת מחשבים היא כותבת קוד שאומר למחשב כיצד לעבד נתונים ולהציג מידע."
+            },
+            {
+                "definition": "A metaphor for an individual's ability to analyze situations, make decisions, and problem-solve",
+                "definition_hebrew": "מטאפורה ליכולתו של אדם לנתח מצבים, לקבל החלטות ולפתור בעיות",
+                "example": "John is like a computer, he analyzes problems quickly and comes up with effective solutions.",
+                "example_hebrew": "ג'ון הוא כמו מחשב, הוא מנתח בעיות במהירות ומביא פתרונות יעילים."
+            }
+        ]
+    }
+]

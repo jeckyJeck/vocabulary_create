@@ -1,0 +1,28 @@
+[
+    {
+        "word": "loops",
+        "word_hebrew": "לולאות",
+        "main_definition": "In programming, loops are structures that repeat a block of code until a certain condition is met. In idiomatic expressions, 'loops' refer to repetitive actions or situations.",
+        "main_definition_hebrew": "בתכנות, לולאות הן מבנים שחוזרים על גוש קוד עד לתנאי מסוים. בביטויים אידיומטיים, 'לולאות' מתייחסות לפעולות או מצבים שחוזרים על עצמם.",
+        "meanings_and_examples": [
+            {
+                "definition": "A programming construct used for repeated execution",
+                "definition_hebrew": "מבנה תכנות המשמש לביצוע חוזר",
+                "example": "In the given C++ code snippet, a for loop is used to iterate through an array.",
+                "example_hebrew": "בקטע הקוד הנתון של C++, לולאת for משמשת לחזרה דרך מערך."
+            },
+            {
+                "definition": "Repeating or cyclical action in daily life",
+                "definition_hebrew": "פעולה חוזרת או מחזורית בחיי היומיום",
+                "example": "She found herself caught in a loop of worrying about her performance at work every day.",
+                "example_hebrew": "היא מצאה את עצמה לכודה בלופ של דאגה לגבי הביצועים שלה בעבודה מדי יום."
+            },
+            {
+                "definition": "A physical circle or round object",
+                "definition_hebrew": "מעגל פיזי או חפץ עגול",
+                "example": "The children played by the loops made from jump ropes scattered on the ground.",
+                "example_hebrew": "הילדים שיחקו בלולאות העשויות מחבלי קפיצה הפזורים על הקרקע."
+            }
+        ]
+    }
+]

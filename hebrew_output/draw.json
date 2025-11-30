@@ -1,0 +1,40 @@
+[
+    {
+        "word": "draw",
+        "word_hebrew": "לצייר",
+        "main_definition": "To produce a line or mark by making it move across a surface, or to attract someone's attention.",
+        "main_definition_hebrew": "לייצר קו או סימן על ידי העברתם על פני משטח, או למשוך תשומת לב של מישהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To create a picture using lines and marks",
+                "definition_hebrew": "ליצירת תמונה באמצעות קווים וסימנים",
+                "example": "She will draw a beautiful landscape with vibrant colors.",
+                "example_hebrew": "היא תצייר נוף יפהפה עם צבעים מרהיבים."
+            },
+            {
+                "definition": "To win or tie in a game of chance by matching the same numbered pieces as another player",
+                "definition_hebrew": "לנצח או להשוות במשחק מזל על ידי התאמת כלים ממוספרים כמו שחקן אחר",
+                "example": "They drew five cards each, resulting in an evenly matched game.",
+                "example_hebrew": "הם שלפו חמישה קלפים כל אחד, מה שהביא למשחק שווה."
+            },
+            {
+                "definition": "To pull something towards oneself with force",
+                "definition_hebrew": "למשוך משהו כלפי עצמו בכוח",
+                "example": "The magnet will draw all iron objects toward itself.",
+                "example_hebrew": "המגנט ימשוך את כל חפצי הברזל כלפי עצמו."
+            },
+            {
+                "definition": "To engage or attract someone's attention",
+                "definition_hebrew": "למשוך או למשוך את תשומת הלב של מישהו",
+                "example": "His captivating story drew the audience into a spellbinding silence.",
+                "example_hebrew": "סיפורו הכובש משך את הקהל לשקט מרהיב."
+            },
+            {
+                "definition": "To remove liquid from an object by suction",
+                "definition_hebrew": "להוצאת נוזל מחפץ באמצעות יניקה",
+                "example": "She used her straw to draw juice out of the milkshake bottle.",
+                "example_hebrew": "היא השתמשה בקש שלה כדי לשאוב מיץ מבקבוק המילקשייק."
+            }
+        ]
+    }
+]

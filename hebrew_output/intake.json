@@ -1,0 +1,40 @@
+[
+    {
+        "word": "intake",
+        "word_hebrew": "הַכנָסָה",
+        "main_definition": "The process of taking in or consuming something, usually referring to the act of absorbing substances like air, water, food, medicines, or other chemicals.",
+        "main_definition_hebrew": "תהליך של נטילת או צריכת משהו, בדרך כלל מתייחס לפעולת ספיגת חומרים כמו אוויר, מים, מזון, תרופות או כימיקלים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In healthcare context, a patient's medical intake refers to their consumption of food and drink as well as any drugs they are prescribed to consume. Example: 'The nurse checked the patient's intake for accuracy before documenting it in the medical records.'",
+                "definition_hebrew": "בהקשר של שירותי בריאות, הצריכה הרפואית של המטופל מתייחסת לצריכת המזון והשתייה שלו, כמו גם לכל תרופה שהוא רושם לצרוך. דוגמה: 'האחות בדקה את דיוק הצריכה של המטופל לפני שתיעדה ברשומות הרפואיות'.",
+                "example": "He made sure his children had a proper dietary intake with balanced meals.",
+                "example_hebrew": "הוא דאג שלילדיו תהיה צריכה תזונתית נכונה עם ארוחות מאוזנות."
+            },
+            {
+                "definition": "In environmental science, air or water intake refers to the process of drawing these substances from an environment into a system for use. Example: 'The power plant has an extensive cooling tower that draws in large amounts of seawater.'",
+                "definition_hebrew": "במדעי הסביבה, צריכת אוויר או מים מתייחסת לתהליך של הוצאת חומרים אלו מסביבה לתוך מערכת לשימוש. דוגמה: 'בתחנת הכוח יש מגדל קירור נרחב השואב כמויות גדולות של מי ים'.",
+                "example": "During construction, they dug a well to provide clean drinking water intake.",
+                "example_hebrew": "במהלך הבנייה, הם חפרו באר כדי לספק צריכת מי שתייה נקיים."
+            },
+            {
+                "definition": "In automotive context, the car's air filter is responsible for its engine intake, ensuring that only clean air enters the combustion chamber. Example: 'It's essential to change your vehicle's air filter regularly to maintain proper intake.'",
+                "definition_hebrew": "בהקשר לרכב, מסנן האוויר של המכונית אחראי על צריכת המנוע שלו, ומבטיח שרק אוויר נקי ייכנס לתא הבעירה. דוגמה: 'חיוני להחליף את מסנן האוויר של הרכב שלך באופן קבוע כדי לשמור על צריכת הכנסה תקינה'.",
+                "example": "The hikers carried a water filtration device to purify their drinking water during the trek.",
+                "example_hebrew": "המטיילים נשאו במהלך הטרק מתקן סינון מים לטיהור מי השתייה."
+            },
+            {
+                "definition": "When referring to data or information, an organization might collect data through various means as part of its research intake. Example: 'The university's department has been actively seeking new research proposals and grant applications.'",
+                "definition_hebrew": "כאשר מתייחסים לנתונים או מידע, ארגון עשוי לאסוף נתונים באמצעים שונים כחלק מצריכת המחקר שלו. דוגמה: 'המחלקה של האוניברסיטה חיפשה באופן פעיל הצעות מחקר חדשות ובקשות למענקים'.",
+                "example": "As a journalist, she gathered all necessary details by thoroughly interviewing the subjects.",
+                "example_hebrew": "כעיתונאית, היא אספה את כל הפרטים הדרושים על ידי ראיון יסודי של הנבדקים."
+            },
+            {
+                "definition": "In manufacturing or production settings, an intake refers to the amount of raw material that is fed into a system for processing. Example: 'The factory's daily report showed a significant increase in steel intake due to high demand.'",
+                "definition_hebrew": "בהגדרות ייצור או ייצור, צריכה מתייחסת לכמות חומר הגלם המוזנת למערכת לעיבוד. דוגמה: 'הדוח היומי של המפעל הראה עלייה משמעותית בצריכת הפלדה עקב ביקוש גבוה'.",
+                "example": "The bakery had to adjust its flour intake based on the number of bread loaves they were producing.",
+                "example_hebrew": "המאפייה נאלצה להתאים את צריכת הקמח שלה בהתאם למספר כיכרות הלחם שהם ייצרו."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "freeze",
+        "word_hebrew": "הַקפָּאָה",
+        "main_definition": "To turn into ice or become solid due to cold temperatures, or in a metaphorical sense to stop an action or process suddenly.",
+        "main_definition_hebrew": "להפוך לקרח או להיות מוצק בגלל טמפרטורות קרות, או במובן מטפורי לעצור פעולה או תהליך בפתאומיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Cause something to become icy",
+                "definition_hebrew": "לגרום למשהו להיות קפוא",
+                "example": "When the temperature dropped below freezing, all of the water on the sidewalk froze.",
+                "example_hebrew": "כשהטמפרטורה ירדה מתחת לאפס, כל המים על המדרכה קפאו."
+            },
+            {
+                "definition": "Stop moving or functioning due to coldness",
+                "definition_hebrew": "הפסק לנוע או לתפקד עקב קור",
+                "example": "The car's engine began to freeze when we left it in the snow for too long without a blanket.",
+                "example_hebrew": "מנוע הרכב החל לקפוא כשהשארנו אותו בשלג זמן רב מדי ללא שמיכה."
+            },
+            {
+                "definition": "To become motionless suddenly, usually as a result of fear or surprise",
+                "definition_hebrew": "להיות חסר תנועה פתאום, בדרך כלל כתוצאה מפחד או הפתעה",
+                "example": "Upon seeing the snake, she froze with shock.",
+                "example_hebrew": "כשראתה את הנחש, היא קפאה מהלם."
+            },
+            {
+                "definition": "A sudden stop in growth or development",
+                "definition_hebrew": "עצירה פתאומית בצמיחה או בהתפתחות",
+                "example": "During the economic crisis, many industries seemed to freeze as they halted hiring new employees.",
+                "example_hebrew": "במהלך המשבר הכלכלי, נראה כי תעשיות רבות קפאו כשהן הפסיקו להעסיק עובדים חדשים."
+            }
+        ]
+    }
+]

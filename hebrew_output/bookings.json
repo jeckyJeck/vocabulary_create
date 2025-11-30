@@ -1,0 +1,40 @@
+[
+    {
+        "word": "bookings",
+        "word_hebrew": "הזמנות",
+        "main_definition": "Bookings refer to reservations or appointments made in advance, often for services such as accommodation, transportation, events, or professional engagements.",
+        "main_definition_hebrew": "הזמנות מתייחסות להזמנות או פגישות שנעשו מראש, לרוב עבור שירותים כגון לינה, תחבורה, אירועים או התקשרויות מקצועיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Reservations for hotel rooms or other lodging",
+                "definition_hebrew": "הזמנות לחדרי מלון או לינה אחרת",
+                "example": "We have successfully booked a suite at the Hilton Hotel for our upcoming conference.",
+                "example_hebrew": "הזמנו בהצלחה סוויטה במלון הילטון לכנס הקרוב שלנו."
+            },
+            {
+                "definition": "Appointments scheduled in advance, such as dentist appointments or medical consultations",
+                "definition_hebrew": "תורים שנקבעו מראש, כגון תור לרופא שיניים או ייעוץ רפואי",
+                "example": "I need to make a dentist appointment; let me check my calendar and book it online.",
+                "example_hebrew": "אני צריך לקבוע תור לרופא שיניים; תן לי לבדוק את היומן שלי ולהזמין אותו באינטרנט."
+            },
+            {
+                "definition": "Reservations for transportation services like flights, trains, buses, etc.",
+                "definition_hebrew": "הזמנות לשירותי תחבורה כמו טיסות, רכבות, אוטובוסים וכו'.",
+                "example": "Our flight is fully booked until next week. We'll need to wait or look for alternative dates.",
+                "example_hebrew": "הטיסה שלנו בתפוסה מלאה עד השבוע הבא. נצטרך לחכות או לחפש תאריכים חלופיים."
+            },
+            {
+                "definition": "Confirmed participation in events, conferences, workshops, or other gatherings",
+                "definition_hebrew": "אישור השתתפות באירועים, כנסים, סדנאות או מפגשים אחרים",
+                "example": "I just received confirmation that I am part of the panel discussion at the upcoming tech conference.",
+                "example_hebrew": "זה עתה קיבלתי אישור שאני חלק מהפאנל בכנס הטכנולוגיה הקרוב."
+            },
+            {
+                "definition": "Scheduled meetings or engagements with professionals, such as lawyers, accountants, etc.",
+                "definition_hebrew": "פגישות או התקשרויות מתוזמנות עם אנשי מקצוע, כגון עורכי דין, רואי חשבון וכו'.",
+                "example": "My attorney confirmed our appointment for next Tuesday to discuss my case further.",
+                "example_hebrew": "עורך הדין שלי אישר את המינוי שלנו ליום שלישי הבא כדי לדון בהמשך התיק שלי."
+            }
+        ]
+    }
+]

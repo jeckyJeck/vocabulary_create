@@ -1,0 +1,34 @@
+[
+    {
+        "word": "intent",
+        "word_hebrew": "כוונה",
+        "main_definition": "Intent refers to the purpose or objective someone has when they perform an action, often suggesting a deliberate plan or determination.",
+        "main_definition_hebrew": "כוונה מתייחסת למטרה או למטרה שיש למישהו כשהוא מבצע פעולה, לעתים קרובות מציעה תוכנית או קביעה מכוונת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Purposeful planning",
+                "definition_hebrew": "תכנון תכליתי",
+                "example": "She had every intention of completing her degree despite the difficulties.",
+                "example_hebrew": "הייתה לה כל כוונה לסיים את התואר למרות הקשיים."
+            },
+            {
+                "definition": "Intentional act",
+                "definition_hebrew": "מעשה מכוון",
+                "example": "The artist's intent was to provoke thought through his controversial artwork.",
+                "example_hebrew": "כוונתו של האמן הייתה לעורר מחשבה באמצעות יצירות האמנות השנויות במחלוקת שלו."
+            },
+            {
+                "definition": "Mental resolve or determination",
+                "definition_hebrew": "נחישות או נחישות נפשית",
+                "example": "His intent on winning the competition drove him to train rigorously every day.",
+                "example_hebrew": "כוונתו לזכות בתחרות גרמה לו להתאמן בקפדנות מדי יום."
+            },
+            {
+                "definition": "A legal term for criminal charges, indicating that an accused person intended to commit a crime",
+                "definition_hebrew": "מונח משפטי לאישומים פליליים, המצביע על כך שאדם נאשם התכוון לבצע פשע",
+                "example": "The suspect was charged with assault and faced trial as he had malicious intent towards his victim.",
+                "example_hebrew": "החשוד הואשם בתקיפה ועמד לדין כיוון שהיה לו כוונת זדון כלפי קורבנו."
+            }
+        ]
+    }
+]

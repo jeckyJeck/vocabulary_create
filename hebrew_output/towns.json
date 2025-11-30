@@ -1,0 +1,34 @@
+[
+    {
+        "word": "towns",
+        "word_hebrew": "עיירות",
+        "main_definition": "Towns are small to medium-sized urban areas with a local government that typically provide residential, commercial, and sometimes industrial facilities.",
+        "main_definition_hebrew": "עיירות הן אזורים עירוניים קטנים עד בינוניים עם שלטון מקומי המספק בדרך כלל מתקנים למגורים, מסחריים ולעיתים תעשייתיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A group of buildings or structures in close proximity",
+                "definition_hebrew": "קבוצה של מבנים או מבנים בסמיכות",
+                "example": "The town was mostly made up of wooden houses clustered together.",
+                "example_hebrew": "העיירה הייתה מורכבת ברובה מבתי עץ המקובצים יחדיו."
+            },
+            {
+                "definition": "In a figurative sense, referring to people living in the same area or community",
+                "definition_hebrew": "במובן פיגורטיבי, הכוונה לאנשים החיים באותו אזור או קהילה",
+                "example": "They were all from different towns but shared common interests and values.",
+                "example_hebrew": "כולם היו מעיירות שונות אך חלקו אינטרסים וערכים משותפים."
+            },
+            {
+                "definition": "A unit of local governance or administration for managing a specific geographic region",
+                "definition_hebrew": "יחידה של ממשל מקומי או מינהל לניהול אזור גיאוגרפי ספציפי",
+                "example": "The town council was responsible for making decisions about the town's infrastructure and services.",
+                "example_hebrew": "מועצת העיר הייתה אחראית לקבל החלטות לגבי התשתיות והשירותים של העיר."
+            },
+            {
+                "definition": "An area within a city that has its own identity, culture, or history distinct from surrounding areas",
+                "definition_hebrew": "אזור בתוך עיר שיש לו זהות, תרבות או היסטוריה משלו הנבדלים מהאזורים הסובבים אותו",
+                "example": "Despite being part of a larger city, this neighborhood retained its old-fashioned charm and traditions, making it unique.",
+                "example_hebrew": "למרות היותה חלק מעיר גדולה יותר, שכונה זו שמרה על הקסם והמסורות המיושנות שלה, מה שהופך אותה לייחודית."
+            }
+        ]
+    }
+]

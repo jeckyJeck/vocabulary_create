@@ -1,0 +1,40 @@
+[
+    {
+        "word": "production",
+        "word_hebrew": "הפקה",
+        "main_definition": "Production refers to the process of creating, manufacturing, or generating goods, services, or content.",
+        "main_definition_hebrew": "ייצור מתייחס לתהליך של יצירה, ייצור או ייצור של מוצרים, שירותים או תוכן.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of producing goods in a factory setting, often involving machinery and labor.",
+                "definition_hebrew": "פעולת ייצור סחורה במפעל, לעתים קרובות מעורבים מכונות ועבודה.",
+                "example": "The car production line was fully operational by 6 am.",
+                "example_hebrew": "קו הייצור של המכוניות פעל במלואו בשעה 6 בבוקר."
+            },
+            {
+                "definition": "Creating audio or video content for broadcasting or distribution purposes.",
+                "definition_hebrew": "יצירת תוכן אודיו או וידאו למטרות שידור או הפצה.",
+                "example": "The music production team worked tirelessly to record the album's tracks.",
+                "example_hebrew": "צוות הפקת המוזיקה עבד ללא לאות להקלטת רצועות האלבום."
+            },
+            {
+                "definition": "Generating agricultural products, such as crops and livestock.",
+                "definition_hebrew": "ייצור מוצרים חקלאיים, כגון יבולים ובעלי חיים.",
+                "example": "Corn production was expected to be high this year due to favorable weather conditions.",
+                "example_hebrew": "ייצור התירס היה צפוי להיות גבוה השנה בשל תנאי מזג אוויר נוחים."
+            },
+            {
+                "definition": "The process of creating literary or artistic works, such as books, movies, and plays.",
+                "definition_hebrew": "תהליך יצירת יצירות ספרותיות או אמנותיות, כגון ספרים, סרטים ומחזות.",
+                "example": "The novel's production involved researching the historical period and writing a compelling story.",
+                "example_hebrew": "הפקת הרומן כללה חקר התקופה ההיסטורית וכתיבת סיפור מרתק."
+            },
+            {
+                "definition": "Producing chemical substances through processes like fermentation or synthesis.",
+                "definition_hebrew": "ייצור חומרים כימיים באמצעות תהליכים כמו תסיסה או סינתזה.",
+                "example": "Biochemical production in this facility includes manufacturing insulin for diabetes patients.",
+                "example_hebrew": "ייצור ביוכימי במתקן זה כולל ייצור אינסולין לחולי סוכרת."
+            }
+        ]
+    }
+]

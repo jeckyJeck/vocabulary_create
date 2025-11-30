@@ -1,0 +1,34 @@
+[
+    {
+        "word": "saying",
+        "word_hebrew": "פִּתגָם",
+        "main_definition": "A saying is a short, memorable phrase or expression that conveys a general truth, idea, or piece of advice.",
+        "main_definition_hebrew": "אמירה היא ביטוי או ביטוי קצר ובלתי נשכח המעביר אמת כללית, רעיון או עצה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A proverb or adage expressing a universal truth or observation about life",
+                "definition_hebrew": "פתגם או פתגם המבטאים אמת או התבוננות אוניברסלית על החיים",
+                "example": "An apple a day keeps the doctor away.",
+                "example_hebrew": "תפוח אחד ביום מרחיק את הרופא."
+            },
+            {
+                "definition": "An idiom, an expression whose meaning is not predictable from the literal definition of its component words",
+                "definition_hebrew": "ניב, ביטוי שמשמעותו אינה ניתנת לחיזוי מההגדרה המילולית של המילים המרכיבות אותו",
+                "example": "The ball is in your court.",
+                "example_hebrew": "הכדור במגרש שלך."
+            },
+            {
+                "definition": "A well-known phrase or quotation attributed to a particular person or source",
+                "definition_hebrew": "ביטוי או ציטוט ידועים המיוחסים לאדם או מקור מסוים",
+                "example": "'Actions speak louder than words' - attributed to Aristotle",
+                "example_hebrew": "'מעשים מדברים חזק יותר ממילים' - מיוחס לאריסטו"
+            },
+            {
+                "definition": "An expression used frequently in conversation and writing that reflects common wisdom or advice",
+                "definition_hebrew": "ביטוי המשמש לעתים קרובות בשיחה ובכתיבה המשקף חוכמה או עצות נפוצות",
+                "example": "You can judge a man by the company he keeps.",
+                "example_hebrew": "אתה יכול לשפוט אדם לפי החברה שהוא מחזיק."
+            }
+        ]
+    }
+]

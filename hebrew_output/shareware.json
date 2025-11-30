@@ -1,0 +1,34 @@
+[
+    {
+        "word": "shareware",
+        "word_hebrew": "תוכנות שיתוף",
+        "main_definition": "A type of software distribution model where the program is provided to users free of charge, often with restrictions or limitations, usually allowing them to share it within a community.",
+        "main_definition_hebrew": "סוג של מודל הפצת תוכנה שבו התוכנית מסופקת למשתמשים ללא תשלום, לרוב עם הגבלות או מגבלות, המאפשרות להם בדרך כלל לשתף אותה בתוך קהילה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Software distributed for free use with permission to distribute",
+                "definition_hebrew": "תוכנה המופצת לשימוש חופשי עם אישור להפצה",
+                "example": "An author releases their music composition as shareware, allowing others to download and share the file.",
+                "example_hebrew": "מחבר משחרר את הרכב המוזיקה שלו בתור תוכנת שיתוף, ומאפשר לאחרים להוריד ולשתף את הקובץ."
+            },
+            {
+                "definition": "A trial version of software that grants limited functionality or a set period before requiring payment",
+                "definition_hebrew": "גרסת ניסיון של תוכנה המעניקה פונקציונליות מוגבלת או תקופה מוגדרת לפני דרישת תשלום",
+                "example": "A game developer offers a 30-day demo with basic features to attract potential buyers, after which full access is required for the complete product.",
+                "example_hebrew": "מפתח משחקים מציע הדגמה של 30 יום עם תכונות בסיסיות כדי למשוך קונים פוטנציאליים, ולאחר מכן נדרשת גישה מלאה למוצר השלם."
+            },
+            {
+                "definition": "Software provided by developers seeking feedback and support from users who share it",
+                "definition_hebrew": "תוכנה המסופקת על ידי מפתחים המחפשים משוב ותמיכה ממשתמשים המשתפים אותה",
+                "example": "A small startup releases their project management tool as shareware, encouraging early adopters to provide feedback in exchange for using a trial version of the software.",
+                "example_hebrew": "סטארט-אפ קטן משחרר את כלי ניהול הפרויקטים שלו בתור תוכנת שיתוף, ומעודד מאמצים מוקדמים לספק משוב בתמורה לשימוש בגרסת ניסיון של התוכנה."
+            },
+            {
+                "definition": "Software where sharing is part of its distribution model but with limitations on commercial use",
+                "definition_hebrew": "תוכנה שבה שיתוף הוא חלק ממודל ההפצה שלה אך עם מגבלות על שימוש מסחרי",
+                "example": "A photo editing application allows users to share edited photos they've created, but not for resale or advertising purposes.",
+                "example_hebrew": "אפליקציה לעריכת תמונות מאפשרת למשתמשים לשתף תמונות ערוכות שיצרו, אך לא למטרות מכירה חוזרת או פרסום."
+            }
+        ]
+    }
+]

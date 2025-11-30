@@ -1,0 +1,40 @@
+[
+    {
+        "word": "threshold",
+        "word_hebrew": "מפתן",
+        "main_definition": "Threshold is the point at which a particular event or change occurs, often used to refer to the level of stimulus necessary to provoke an action or response.",
+        "main_definition_hebrew": "סף הוא הנקודה שבה מתרחש אירוע או שינוי מסוים, לעתים קרובות משמש להתייחסות לרמת הגירוי הנחוצה כדי לעורר פעולה או תגובה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A level-setting criterion that determines when something happens or changes",
+                "definition_hebrew": "קריטריון להגדרת רמה שקובע מתי משהו קורה או משתנה",
+                "example": "The income threshold for qualifying for government assistance programs varies depending on family size.",
+                "example_hebrew": "סף ההכנסה לזכאות לתוכניות סיוע ממשלתיות משתנה בהתאם לגודל המשפחה."
+            },
+            {
+                "definition": "A door sill or bottom strip of a gate, doorway, etc., which one has to step over to enter a room or building",
+                "definition_hebrew": "סף דלת או רצועה תחתונה של שער, פתח וכו', שעליו צריך לדרוך כדי להיכנס לחדר או לבניין",
+                "example": "As I approached the threshold of my childhood home, memories flooded back with each creaking floorboard.",
+                "example_hebrew": "כשהתקרבתי לסף בית ילדותי, הזיכרונות הציפו בחזרה עם כל קרש רצפה חורק."
+            },
+            {
+                "definition": "A standard used for comparison in an effort to measure up to it",
+                "definition_hebrew": "תקן המשמש להשוואה במאמץ לעמוד בו",
+                "example": "The new employee felt as though he was at a performance threshold compared to his colleagues who had more experience.",
+                "example_hebrew": "העובד החדש הרגיש שהוא בסף ביצועים בהשוואה לעמיתיו שהיו להם יותר ניסיון."
+            },
+            {
+                "definition": "The minimum level of intensity or frequency required to produce a particular result",
+                "definition_hebrew": "רמת העוצמה או התדירות המינימלית הנדרשת להפקת תוצאה מסוימת",
+                "example": "Noise-canceling headphones must block out sounds below the decibel threshold that humans can hear.",
+                "example_hebrew": "אוזניות מבטלות רעש חייבות לחסום צלילים מתחת לסף הדציבלים שבני אדם יכולים לשמוע."
+            },
+            {
+                "definition": "A point of transition between two different states, conditions, or environments",
+                "definition_hebrew": "נקודת מעבר בין שני מצבים, תנאים או סביבות שונות",
+                "example": "The coral snake's venom becomes active at its physiological threshold temperature and is no longer inert below this level.",
+                "example_hebrew": "הארס של נחש האלמוגים הופך לפעיל בטמפרטורת הסף הפיזיולוגית שלו ואינו אינרטי עוד מתחת לרמה זו."
+            }
+        ]
+    }
+]

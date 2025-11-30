@@ -1,0 +1,28 @@
+[
+    {
+        "word": "serial",
+        "word_hebrew": "סידורי",
+        "main_definition": "Serial refers to a series of related things or events occurring in sequence, often used as an adjective to describe something that happens continuously over time.",
+        "main_definition_hebrew": "סדרתי מתייחסת לסדרה של דברים או אירועים קשורים המתרחשים ברצף, לעתים קרובות משמשת כשם תואר לתיאור משהו שקורה ברציפות לאורך זמן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to a series or set of items connected by common characteristics",
+                "definition_hebrew": "מתייחס לסדרה או לסט של פריטים המחוברים על ידי מאפיינים משותפים",
+                "example": "The TV show has a serial narrative, with each episode building on the last.",
+                "example_hebrew": "לתוכנית הטלוויזיה יש נרטיב סדרתי, כאשר כל פרק מתבסס על הפרק האחרון."
+            },
+            {
+                "definition": "Describing something that is released in successive installments or issues, such as books or television programs",
+                "definition_hebrew": "תיאור משהו ששוחרר בתשלומים או גיליונות עוקבים, כגון ספרים או תוכניות טלוויזיה",
+                "example": "He collects comic book series and enjoys reading them over time.",
+                "example_hebrew": "הוא אוסף סדרות קומיקס ונהנה לקרוא אותן לאורך זמן."
+            },
+            {
+                "definition": "Relating to data transmitted serially, one bit after another",
+                "definition_hebrew": "מתייחס לנתונים המועברים באופן סדרתי, בזה אחר זה",
+                "example": "The modem sends the data in a digital serial stream for processing.",
+                "example_hebrew": "המודם שולח את הנתונים בזרם סדרתי דיגיטלי לעיבוד."
+            }
+        ]
+    }
+]

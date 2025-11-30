@@ -1,0 +1,40 @@
+[
+    {
+        "word": "mean",
+        "word_hebrew": "מתכוון",
+        "main_definition": "To intend or signify; to express a particular idea, concept, or message through words, actions, or symbols.",
+        "main_definition_hebrew": "להתכוון או לסמן; להביע רעיון, מושג או מסר מסוים באמצעות מילים, פעולות או סמלים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To be unkind or cruel in one's attitude or behavior towards others.",
+                "definition_hebrew": "להיות לא אדיב או אכזרי בגישה או בהתנהגות שלו כלפי אחרים.",
+                "example": "His mean comments hurt her feelings.",
+                "example_hebrew": "הערותיו המרושעות פוגעות ברגשותיה."
+            },
+            {
+                "definition": "To calculate the average of a set of numbers by adding them together and dividing by the total count.",
+                "definition_hebrew": "כדי לחשב את הממוצע של קבוצת מספרים על ידי חיבורם יחד וחלוקה בספירה הכוללת.",
+                "example": "The mean score for the math test was 85 out of 100.",
+                "example_hebrew": "הציון הממוצע במבחן במתמטיקה היה 85 מתוך 100."
+            },
+            {
+                "definition": "To refer to something in the middle or center of a group, range, etc.",
+                "definition_hebrew": "להתייחס למשהו באמצע או במרכז קבוצה, טווח וכו'.",
+                "example": "In our family tree, he is right at the mean height of all his siblings.",
+                "example_hebrew": "באילן היוחסין שלנו, הוא נמצא בדיוק בגובה הממוצע של כל האחים שלו."
+            },
+            {
+                "definition": "Used as a verb to indicate that someone does not like another person and behaves in an unkind manner towards them.",
+                "definition_hebrew": "משמש כפועל לציון שמישהו לא אוהב אדם אחר ומתנהג כלפיו בצורה לא נחמדה.",
+                "example": "She always means to annoy her sister by borrowing things without asking.",
+                "example_hebrew": "היא תמיד מתכוונת לעצבן את אחותה על ידי השאלת דברים בלי לשאול."
+            },
+            {
+                "definition": "To interpret or understand the intended meaning behind words, actions, or symbols.",
+                "definition_hebrew": "לפרש או להבין את המשמעות המיועדת מאחורי מילים, פעולות או סמלים.",
+                "example": "It's difficult to mean what he is saying with his sarcastic remarks.",
+                "example_hebrew": "קשה להתכוון למה שהוא אומר באמירותיו הסרקסטיות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "recorded",
+        "word_hebrew": "מוּקלָט",
+        "main_definition": "Captured or documented information, data, or sound in a permanent form.",
+        "main_definition_hebrew": "מידע, נתונים או צליל שנלכדו או מתועד בצורה קבועה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To capture audio or video content for storage or playback purposes.",
+                "definition_hebrew": "כדי ללכוד תוכן אודיו או וידאו למטרות אחסון או השמעה.",
+                "example": "The concert was recorded and later released as a live album.",
+                "example_hebrew": "הקונצרט הוקלט ובהמשך יצא כאלבום חי."
+            },
+            {
+                "definition": "To document information, such as notes or observations, in written form.",
+                "definition_hebrew": "לתעד מידע, כגון הערות או תצפיות, בצורה כתובה.",
+                "example": "She recorded her thoughts and experiences during the trip in a journal.",
+                "example_hebrew": "היא רשמה את מחשבותיה וחוויותיה במהלך הטיול ביומן."
+            },
+            {
+                "definition": "The act of making an official copy of something for legal purposes, like court proceedings.",
+                "definition_hebrew": "הפעולה של יצירת עותק רשמי של משהו למטרות משפטיות, כמו הליכים משפטיים.",
+                "example": "All evidence was carefully recorded to ensure it could be presented in court.",
+                "example_hebrew": "כל הראיות נרשמו בקפידה כדי להבטיח שניתן יהיה להציגן בבית המשפט."
+            },
+            {
+                "definition": "To include a particular piece of information or data within a dataset, research study, etc. This can also refer to logging events for analysis purposes.",
+                "definition_hebrew": "לכלול פיסת מידע או נתונים מסוימים בתוך מערך נתונים, מחקר מחקר וכו'. זה יכול להתייחס גם לרישום אירועים למטרות ניתוח.",
+                "example": "The software automatically recorded user interactions for later analysis and improvement.",
+                "example_hebrew": "התוכנה רשמה אוטומטית אינטראקציות של משתמשים לצורך ניתוח ושיפור מאוחר יותר."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "temperature",
+        "word_hebrew": "טֶמפֶּרָטוּרָה",
+        "main_definition": "Temperature is a measure of the degree of heat or cold in a substance, environment, or system.",
+        "main_definition_hebrew": "טמפרטורה היא מדד למידת החום או הקור בחומר, סביבה או מערכת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical property related to heat energy",
+                "definition_hebrew": "תכונה פיזית הקשורה לאנרגיית חום",
+                "example": "The temperature outside today is 25 degrees Celsius.",
+                "example_hebrew": "הטמפרטורה בחוץ היום היא 25 מעלות צלזיוס."
+            },
+            {
+                "definition": "A tool used in weather forecasting and climate studies",
+                "definition_hebrew": "כלי המשמש בחיזוי מזג אוויר ובמחקרי אקלים",
+                "example": "Meteorologists use various instruments like thermometers to measure the temperature.",
+                "example_hebrew": "מטאורולוגים משתמשים במכשירים שונים כמו מדי חום כדי למדוד את הטמפרטורה."
+            },
+            {
+                "definition": "Metaphorical expression of a person's mood or emotional state",
+                "definition_hebrew": "ביטוי מטפורי של מצב רוחו או מצבו הרגשי של אדם",
+                "example": "His temper was as hot as the summer sun, showing his anger and irritability.",
+                "example_hebrew": "מזגו היה חם כמו שמש הקיץ, והראה את כעסו ועצבנותו."
+            }
+        ]
+    }
+]

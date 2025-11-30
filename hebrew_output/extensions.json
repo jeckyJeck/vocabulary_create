@@ -1,0 +1,40 @@
+[
+    {
+        "word": "extensions",
+        "word_hebrew": "הרחבות",
+        "main_definition": "Extensions can refer to the act of adding or increasing in length, variety, or scope; in language, they are phrases or expressions that enhance or modify a word's meaning.",
+        "main_definition_hebrew": "הרחבות יכולות להתייחס לפעולת ההוספה או הגדלה של אורך, מגוון או היקף; בשפה, הם ביטויים או ביטויים המשפרים או משנים את המשמעות של מילה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computer programming, extensions allow users to add functionality and customize user interfaces without modifying the core code.",
+                "definition_hebrew": "בתכנות מחשבים, הרחבות מאפשרות למשתמשים להוסיף פונקציונליות ולהתאים אישית ממשקי משתמש מבלי לשנות את קוד הליבה.",
+                "example": "The browser supports JavaScript extensions that enable users to save favorite websites.",
+                "example_hebrew": "הדפדפן תומך בהרחבות JavaScript המאפשרות למשתמשים לשמור אתרים מועדפים."
+            },
+            {
+                "definition": "Extensions can also refer to additional parts added to an object or device to increase its size, reach, or capability.",
+                "definition_hebrew": "הרחבות יכולות להתייחס גם לחלקים נוספים שנוספו לאובייקט או למכשיר כדי להגדיל את גודלו, טווח ההגעה או היכולת שלו.",
+                "example": "A paintbrush with longer bristles is often considered a type of extension for painting.",
+                "example_hebrew": "מברשת עם זיפים ארוכים יותר נחשבת לרוב לסוג של הרחבה לצביעה."
+            },
+            {
+                "definition": "In language usage, extensions are phrases that expand on the meaning of another word or phrase to provide further clarity or emphasis.",
+                "definition_hebrew": "בשימוש בשפה, הרחבות הן ביטויים המרחיבים את המשמעות של מילה או ביטוי אחר כדי לספק בהירות או הדגשה נוספת.",
+                "example": "The word 'just' can be extended with 'really' as in 'he was really busy', adding emphasis.",
+                "example_hebrew": "ניתן להרחיב את המילה 'סתם' עם 'באמת' כמו ב'הוא היה ממש עסוק', תוך הוספת הדגשה."
+            },
+            {
+                "definition": "In gardening, plant extensions are cuttings taken from a parent plant to grow new plants of the same species.",
+                "definition_hebrew": "בגינון, הרחבות צמחים הן ייחורים שנלקחו מצמח אב כדי לגדל צמחים חדשים מאותו המין.",
+                "example": "Gardeners often take stem cuttings as extensions to propagate rose bushes.",
+                "example_hebrew": "גננים לוקחים לעתים קרובות ייחורי גזע כהרחבות להפצת שיחי ורדים."
+            },
+            {
+                "definition": "Extensions can describe additional features or options that enhance a product, service, or experience.",
+                "definition_hebrew": "הרחבות יכולות לתאר תכונות או אפשרויות נוספות המשפרים מוצר, שירות או חוויה.",
+                "example": "Online shopping platforms offer extensions like wish lists and order history for improved user experience.",
+                "example_hebrew": "פלטפורמות קניות מקוונות מציעות הרחבות כמו רשימות משאלות והיסטוריית הזמנות לחוויית משתמש משופרת."
+            }
+        ]
+    }
+]

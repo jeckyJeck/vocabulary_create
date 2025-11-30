@@ -1,0 +1,28 @@
+[
+    {
+        "word": "gzip",
+        "word_hebrew": "gzip",
+        "main_definition": "Gzip is a compression utility used to compress files, typically in the context of web development and file management.",
+        "main_definition_hebrew": "Gzip הוא כלי דחיסה המשמש לדחיסת קבצים, בדרך כלל בהקשר של פיתוח אתרים וניהול קבצים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A computer software tool for data compression and decompression.",
+                "definition_hebrew": "כלי תוכנת מחשב לדחיסת נתונים ופירוק.",
+                "example": "The gzip command was used to compress all JavaScript and CSS files on the website.",
+                "example_hebrew": "הפקודה gzip שימשה לדחיסת כל קבצי JavaScript ו-CSS באתר."
+            },
+            {
+                "definition": "To reduce file size by applying a lossless data compression algorithm.",
+                "definition_hebrew": "להקטנת גודל הקובץ על ידי יישום אלגוריתם דחיסת נתונים ללא אובדן.",
+                "example": "By using gzip, I managed to decrease the size of my log files significantly without losing any information.",
+                "example_hebrew": "על ידי שימוש ב-gzip, הצלחתי להקטין את גודל קבצי היומן שלי באופן משמעותי מבלי לאבד מידע."
+            },
+            {
+                "definition": "An acronym for 'Garibaldi e ZIP International' or 'g/zip archive', but it doesn't actually represent those names.",
+                "definition_hebrew": "ראשי תיבות של 'Garibaldi e ZIP International' או 'g/zip archive', אבל זה לא מייצג את השמות האלה.",
+                "example": "Many people mistakenly think gzip is named after Garibaldi, when in fact its name stems from the '.gz' file extension used for compressed files.",
+                "example_hebrew": "אנשים רבים חושבים בטעות ש-gzip נקרא על שם גריבלדי, כאשר למעשה שמו נובע מסיומת הקובץ '.gz' המשמשת לקבצים דחוסים."
+            }
+        ]
+    }
+]

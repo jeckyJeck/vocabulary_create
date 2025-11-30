@@ -1,0 +1,28 @@
+[
+    {
+        "word": "database",
+        "word_hebrew": "מאגר מידע",
+        "main_definition": "A database is a structured collection of data that can be stored, accessed, managed, and updated electronically.",
+        "main_definition_hebrew": "מסד נתונים הוא אוסף מובנה של נתונים שניתן לאחסן, לגשת, לנהל ולעדכן באופן אלקטרוני.",
+        "meanings_and_examples": [
+            {
+                "definition": "Technical term in computing for organized collections of related data held in computer storage systems",
+                "definition_hebrew": "מונח טכני במחשוב עבור אוספים מאורגנים של נתונים קשורים המוחזקים במערכות אחסון מחשבים",
+                "example": "The company's customer database stores information like names, addresses, and purchase histories.",
+                "example_hebrew": "מאגר הלקוחות של החברה מאחסן מידע כמו שמות, כתובות והיסטוריית רכישות."
+            },
+            {
+                "definition": "A reference source that provides a wealth of detailed information on various subjects",
+                "definition_hebrew": "מקור עזר המספק שפע של מידע מפורט בנושאים שונים",
+                "example": "An encyclopedia serves as a database of knowledge covering diverse topics from history to science.",
+                "example_hebrew": "אנציקלופדיה משמשת כמאגר מידע המכסה נושאים מגוונים מהיסטוריה ועד מדע."
+            },
+            {
+                "definition": "An archive or storehouse where historical documents and records are kept",
+                "definition_hebrew": "ארכיון או מחסן שבו נשמרים מסמכים ורישומים היסטוריים",
+                "example": "The National Archives maintains a vast database of governmental records, including presidential papers.",
+                "example_hebrew": "הארכיון הלאומי מחזיק מאגר מידע עצום של רישומים ממשלתיים, כולל מסמכים נשיאותיים."
+            }
+        ]
+    }
+]

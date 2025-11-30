@@ -1,0 +1,28 @@
+[
+    {
+        "word": "stocks",
+        "word_hebrew": "מניות",
+        "main_definition": "Stocks refer to the shares of ownership in a company that investors buy, representing their claim on the company's assets and earnings.",
+        "main_definition_hebrew": "מניות מתייחסות למניות הבעלות בחברה שמשקיעים קונים, המייצגות את תביעתם על נכסי החברה ורווחיה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Investment security",
+                "definition_hebrew": "אבטחת השקעות",
+                "example": "I bought some stocks in Apple Inc. to diversify my portfolio.",
+                "example_hebrew": "קניתי כמה מניות ב- Apple Inc. כדי לגוון את תיק ההשקעות שלי."
+            },
+            {
+                "definition": "Company shares owned by an investor",
+                "definition_hebrew": "מניות החברה בבעלות משקיע",
+                "example": "She has a large number of stocks in various technology companies.",
+                "example_hebrew": "יש לה מספר רב של מניות בחברות טכנולוגיה שונות."
+            },
+            {
+                "definition": "Traditional phrase meaning 'to keep a reserve or store', especially food supplies",
+                "definition_hebrew": "ביטוי מסורתי שפירושו \"לשמור מילואים או חנות\", במיוחד אספקת מזון",
+                "example": "During the war, they kept extra stocks of food and medical supplies to ensure their survival.",
+                "example_hebrew": "במהלך המלחמה, הם החזיקו מלאי נוסף של מזון וציוד רפואי כדי להבטיח את הישרדותם."
+            }
+        ]
+    }
+]

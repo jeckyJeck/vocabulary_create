@@ -1,0 +1,34 @@
+[
+    {
+        "word": "quickly",
+        "word_hebrew": "בִּמְהִירוּת",
+        "main_definition": "to do something with speed or in a short amount of time",
+        "main_definition_hebrew": "לעשות משהו במהירות או בפרק זמן קצר",
+        "meanings_and_examples": [
+            {
+                "definition": "at high speed",
+                "definition_hebrew": "במהירות גבוהה",
+                "example": "The car quickly sped away from the accident scene.",
+                "example_hebrew": "המכונית התרחקה במהירות מזירת התאונה."
+            },
+            {
+                "definition": "happening fast or suddenly",
+                "definition_hebrew": "קורה מהר או פתאומי",
+                "example": "A rumor spread quickly throughout the school.",
+                "example_hebrew": "שמועה התפשטה במהירות ברחבי בית הספר."
+            },
+            {
+                "definition": "done with haste, without much thought or preparation",
+                "definition_hebrew": "נעשה בחיפזון, בלי הרבה מחשבה או הכנה",
+                "example": "She hastily finished her homework before going out to play.",
+                "example_hebrew": "היא סיימה בחופזה את שיעורי הבית שלה לפני שיצאה לשחק."
+            },
+            {
+                "definition": "with great urgency or anxiety",
+                "definition_hebrew": "בדחיפות רבה או בחרדה",
+                "example": "He quickly checked the expiration date on his medication due to a sudden health scare.",
+                "example_hebrew": "הוא בדק במהירות את תאריך התפוגה של התרופות שלו עקב פחד בריאותי פתאומי."
+            }
+        ]
+    }
+]

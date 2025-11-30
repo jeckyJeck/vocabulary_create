@@ -1,0 +1,34 @@
+[
+    {
+        "word": "edit",
+        "word_hebrew": "לַעֲרוֹך",
+        "main_definition": "To modify or make changes to a written, visual, or digital content with the intent of improving its accuracy, clarity, coherence, or overall quality.",
+        "main_definition_hebrew": "לשנות או לבצע שינויים בתוכן כתוב, חזותי או דיגיטלי מתוך כוונה לשפר את הדיוק, הבהירות, הקוהרנטיות או האיכות הכוללת שלו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To revise and correct errors in written text",
+                "definition_hebrew": "לתקן ולתקן שגיאות בטקסט כתוב",
+                "example": "The editor spent hours editing the manuscript to remove typos and grammatical mistakes.",
+                "example_hebrew": "העורך בילה שעות בעריכת כתב היד כדי להסיר שגיאות הקלדה וטעויות דקדוקיות."
+            },
+            {
+                "definition": "To make changes or alterations to a photo, video, or graphic design",
+                "definition_hebrew": "כדי לבצע שינויים או שינויים בתמונה, סרטון או עיצוב גרפי",
+                "example": "I edited my family photos using various filters before printing them out.",
+                "example_hebrew": "ערכתי את התמונות המשפחתיות שלי באמצעות מסננים שונים לפני שהדפסתי אותן."
+            },
+            {
+                "definition": "To add new content and remove unnecessary parts in a written text while maintaining the original meaning",
+                "definition_hebrew": "להוסיף תוכן חדש ולהסיר חלקים מיותרים בטקסט כתוב תוך שמירה על המשמעות המקורית",
+                "example": "The editor trimmed down the article by removing redundant information to improve its readability.",
+                "example_hebrew": "העורך חתך את המאמר על ידי הסרת מידע מיותר כדי לשפר את קריאותו."
+            },
+            {
+                "definition": "To control or manipulate media for specific purposes, such as video editing",
+                "definition_hebrew": "לשלוט או לתפעל מדיה למטרות ספציפיות, כגון עריכת וידאו",
+                "example": "She learned how to edit videos using professional software like Adobe Premiere Pro.",
+                "example_hebrew": "היא למדה כיצד לערוך סרטונים באמצעות תוכנות מקצועיות כמו Adobe Premiere Pro."
+            }
+        ]
+    }
+]

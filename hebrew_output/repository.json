@@ -1,0 +1,40 @@
+[
+    {
+        "word": "repository",
+        "word_hebrew": "מאגר",
+        "main_definition": "A repository is a central place where data, information, or resources are stored, managed, and accessed.",
+        "main_definition_hebrew": "מאגר הוא מקום מרכזי בו מאוחסנים, מנוהלים ונגישים נתונים, מידע או משאבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing, a repository refers to a storage location for software source code versions, typically hosted on servers accessible via version control systems like Git. Example: The company's project was stored in an online Git repository that allowed multiple developers to collaborate.",
+                "definition_hebrew": "במחשוב, מאגר מתייחס למיקום אחסון עבור גרסאות קוד מקור תוכנה, המתארחות בדרך כלל בשרתים הנגישים באמצעות מערכות בקרת גרסאות כמו Git. דוגמה: הפרויקט של החברה אוחסן במאגר Git מקוון שאפשר למספר מפתחים לשתף פעולה.",
+                "example": "We cloned the GitHub repository to our local machine so we could start working on the project.",
+                "example_hebrew": "שיבטנו את מאגר GitHub למחשב המקומי שלנו כדי שנוכל להתחיל לעבוד על הפרויקט."
+            },
+            {
+                "definition": "A data repository is a collection of structured or unstructured data stored and managed for analysis, processing, or reporting. Example: The university's research department maintains a large data repository containing years of collected data sets.",
+                "definition_hebrew": "מאגר נתונים הוא אוסף של נתונים מובנים או לא מובנים המאוחסנים ומנוהלים לצורך ניתוח, עיבוד או דיווח. דוגמה: מחלקת המחקר של האוניברסיטה מחזיקה מאגר נתונים גדול המכיל שנים של מערכי נתונים שנאספו.",
+                "example": "Researchers accessed the database to retrieve patient records for their study.",
+                "example_hebrew": "חוקרים ניגשו למסד הנתונים כדי לאחזר את רישומי המטופלים עבור המחקר שלהם."
+            },
+            {
+                "definition": "A code repository is a collection of computer programs, including source code and other related files. Example: Developers store their projects in private or public repositories on platforms like Bitbucket.",
+                "definition_hebrew": "מאגר קודים הוא אוסף של תוכנות מחשב, כולל קוד מקור וקבצים קשורים אחרים. דוגמה: מפתחים מאחסנים את הפרויקטים שלהם במאגרים פרטיים או ציבוריים בפלטפורמות כמו Bitbucket.",
+                "example": "The open-source project was hosted on SourceForge as a central code repository.",
+                "example_hebrew": "פרויקט הקוד הפתוח התארח ב-SourceForge כמאגר קוד מרכזי."
+            },
+            {
+                "definition": "In biology, an organism's genome can be stored and studied through a genomic database or repository. Example: Scientists accessed the human genome sequence data from NCBI GenBank to further their research.",
+                "definition_hebrew": "בביולוגיה, ניתן לאחסן ולחקור את הגנום של האורגניזם באמצעות מסד נתונים גנומי או מאגר. דוגמה: מדענים ניגשו לנתוני רצף הגנום האנושי מ-NCBI GenBank כדי לקדם את המחקר שלהם.",
+                "example": "The geneticist analyzed the DNA sequences in the repository for any mutations.",
+                "example_hebrew": "הגנטיקאי ניתח את רצפי ה-DNA במאגר עבור כל מוטציה."
+            },
+            {
+                "definition": "A library repository is a digital collection of books, articles, and other written materials that are available online. Example: The university's library provided access to its repository of e-books and academic journals.",
+                "definition_hebrew": "מאגר ספרייה הוא אוסף דיגיטלי של ספרים, מאמרים וחומרים כתובים אחרים הזמינים באינטרנט. דוגמה: ספריית האוניברסיטה סיפקה גישה למאגר שלה של ספרים אלקטרוניים וכתבי עת אקדמיים.",
+                "example": "Students were able to find the research papers they needed in the library's electronic resource repository.",
+                "example_hebrew": "התלמידים הצליחו למצוא את עבודות המחקר שהם היו צריכים במאגר המשאבים האלקטרוני של הספרייה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "supplier",
+        "word_hebrew": "ספק",
+        "main_definition": "A supplier is a person, company, or organization that provides products or services to another party.",
+        "main_definition_hebrew": "ספק הוא אדם, חברה או ארגון המספקים מוצרים או שירותים לצד אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Someone who sells goods",
+                "definition_hebrew": "מישהו שמוכר סחורה",
+                "example": "John's business is a food supplier, providing various groceries to local restaurants.",
+                "example_hebrew": "העסק של ג'ון הוא ספק מזון, המספק מצרכים שונים למסעדות מקומיות."
+            },
+            {
+                "definition": "A company that provides raw materials or components for manufacturing",
+                "definition_hebrew": "חברה המספקת חומרי גלם או רכיבים לייצור",
+                "example": "Our car assembly line relies on steel suppliers who provide the necessary metal parts.",
+                "example_hebrew": "קו הייצור של הרכב שלנו מסתמך על ספקי פלדה המספקים את חלקי המתכת הדרושים."
+            },
+            {
+                "definition": "An entity that delivers services, such as information technology support or maintenance.",
+                "definition_hebrew": "ישות המספקת שירותים, כגון תמיכה או תחזוקה בטכנולוגיית מידע.",
+                "example": "We hired a software supplier to maintain and update our company's computer systems.",
+                "example_hebrew": "שכרנו ספק תוכנה כדי לתחזק ולעדכן את מערכות המחשוב של החברה שלנו."
+            },
+            {
+                "definition": "A source of products or materials used by another party in their operations",
+                "definition_hebrew": "מקור של מוצרים או חומרים המשמשים צד אחר בפעילותם",
+                "example": "The pharmaceutical company outsourced its packaging needs to a trusted medical supplies supplier.",
+                "example_hebrew": "חברת התרופות העבירה את צרכי האריזה שלה במיקור חוץ לספק ציוד רפואי מהימן."
+            },
+            {
+                "definition": "An organization that provides resources, tools, or expertise for the development of projects",
+                "definition_hebrew": "ארגון המספק משאבים, כלים או מומחיות לפיתוח פרויקטים",
+                "example": "Our team collaborated with a project management software supplier to enhance our workflow efficiency.",
+                "example_hebrew": "הצוות שלנו שיתף פעולה עם ספק תוכנה לניהול פרויקטים כדי לשפר את יעילות זרימת העבודה שלנו."
+            }
+        ]
+    }
+]

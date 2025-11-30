@@ -1,0 +1,34 @@
+[
+    {
+        "word": "sin",
+        "word_hebrew": "חטא",
+        "main_definition": "Sin refers to an immoral act considered against divine law, particularly in Christianity.",
+        "main_definition_hebrew": "החטא מתייחס למעשה לא מוסרי הנחשב נגד החוק האלוהי, במיוחד בנצרות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A moral wrongdoing or offense committed by a person.",
+                "definition_hebrew": "עבירה מוסרית או עבירה שבוצעה על ידי אדם.",
+                "example": "Stealing money from someone is considered a sin.",
+                "example_hebrew": "גניבת כסף ממישהו נחשבת לחטא."
+            },
+            {
+                "definition": "An act of disobedience to God's laws as perceived in religious contexts, especially within Christianity and Judaism.",
+                "definition_hebrew": "מעשה של אי ציות לחוקי האל כפי שהם נתפסים בהקשרים דתיים, במיוחד בתוך הנצרות והיהדות.",
+                "example": "Lying to one's parents about an important matter can be seen as a sin.",
+                "example_hebrew": "ניתן לראות בשקר להורים בעניין חשוב כחטא."
+            },
+            {
+                "definition": "A deliberate action that goes against societal norms or legal statutes.",
+                "definition_hebrew": "פעולה מכוונת הנוגדת נורמות חברתיות או חוקים משפטיים.",
+                "example": "Cheating on exams is not only considered a sin in religious terms, but also morally and legally wrong.",
+                "example_hebrew": "בגידה בבחינות לא רק נחשבת לחטא במונחים דתיים, אלא גם פסולה מבחינה מוסרית ומשפטית."
+            },
+            {
+                "definition": "In some contexts, the term 'sin' can refer to a transgression against nature or environmental harm.",
+                "definition_hebrew": "בהקשרים מסוימים, המונח 'חטא' יכול להתייחס לעבירה על פגיעה בטבע או בסביבה.",
+                "example": "Polluting rivers and oceans could be described as sins due to their negative impact on nature.",
+                "example_hebrew": "ניתן לתאר נהרות ואוקיינוסים מזהמים כחטאים בשל השפעתם השלילית על הטבע."
+            }
+        ]
+    }
+]

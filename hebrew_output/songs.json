@@ -1,0 +1,34 @@
+[
+    {
+        "word": "songs",
+        "word_hebrew": "שירים",
+        "main_definition": "Songs refer to musical compositions with lyrics intended to be sung, expressing emotions, thoughts, or stories.",
+        "main_definition_hebrew": "שירים מתייחסים לחיבורים מוזיקליים עם מילים שנועדו לשיר, להביע רגשות, מחשבות או סיפורים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A collection of songs by a specific artist or group",
+                "definition_hebrew": "אוסף שירים של אמן או קבוצה ספציפיים",
+                "example": "The Beatles discography includes numerous iconic albums and singles.",
+                "example_hebrew": "הדיסקוגרפיה של הביטלס כוללת אלבומים וסינגלים איקוניים רבים."
+            },
+            {
+                "definition": "Songs with religious or spiritual themes",
+                "definition_hebrew": "שירים עם נושאים דתיים או רוחניים",
+                "example": "Gregorian chant is an example of ancient Christian songs, often used in liturgical settings.",
+                "example_hebrew": "הפזמון הגרגוריאני הוא דוגמה לשירים נוצריים עתיקים, המשמשים לעתים קרובות במסגרות ליטורגיות."
+            },
+            {
+                "definition": "A song written and performed as a tribute to someone or something",
+                "definition_hebrew": "שיר שנכתב ומבוצע כמחווה למישהו או משהו",
+                "example": "The song 'Hey Jude' by The Beatles was composed as a comforting message for John Lennon's son, Julian.",
+                "example_hebrew": "השיר 'Hey Jude' של הביטלס הולחן כמסר מנחם לבנו של ג'ון לנון, ג'וליאן."
+            },
+            {
+                "definition": "Songs that are part of traditional folk culture and passed down through generations",
+                "definition_hebrew": "שירים שהם חלק מהתרבות העממית המסורתית ועוברים בדורות",
+                "example": "African tribal songs often hold deep cultural significance and convey stories or rituals.",
+                "example_hebrew": "שירי שבטי אפריקאים מחזיקים לעתים קרובות במשמעות תרבותית עמוקה ומעבירים סיפורים או טקסים."
+            }
+        ]
+    }
+]

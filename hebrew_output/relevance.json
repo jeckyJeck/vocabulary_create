@@ -1,0 +1,34 @@
+[
+    {
+        "word": "relevance",
+        "word_hebrew": "רלוונטיות",
+        "main_definition": "The degree to which something is applicable or pertinent in a particular context.",
+        "main_definition_hebrew": "המידה שבה משהו ישים או רלוונטי בהקשר מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Importance or bearing on the subject at hand.",
+                "definition_hebrew": "חשיבות או נגיעה לנושא הנדון.",
+                "example": "Understanding the relevance of past events when making decisions for the future.",
+                "example_hebrew": "הבנת הרלוונטיות של אירועי העבר בעת קבלת החלטות לעתיד."
+            },
+            {
+                "definition": "The extent to which something is related or applicable to a particular topic, field, or situation.",
+                "definition_hebrew": "המידה שבה משהו קשור או ישים לנושא מסוים, תחום או מצב מסוים.",
+                "example": "In academic research, it's crucial to evaluate the relevance of sources and evidence to your thesis statement.",
+                "example_hebrew": "במחקר אקדמי, חיוני להעריך את הרלוונטיות של מקורות וראיות להצהרת התזה שלך."
+            },
+            {
+                "definition": "Being directly connected with what is being discussed or considered.",
+                "definition_hebrew": "להיות מחובר ישירות למה שנדון או נחשב.",
+                "example": "The teacher asked if any students could contribute examples that are relevant to our current discussion on climate change.",
+                "example_hebrew": "המורה שאלה אם תלמידים יכולים לתרום דוגמאות שרלוונטיות לדיון הנוכחי שלנו על שינויי אקלים."
+            },
+            {
+                "definition": "Currentness or timeliness of information in a given context.",
+                "definition_hebrew": "עדכניות או עדכניות של מידע בהקשר נתון.",
+                "example": "A newspaper article's relevance is often judged by its publication date, as newer articles may contain more up-to-date facts and events.",
+                "example_hebrew": "הרלוונטיות של כתבה בעיתון נשפטת לרוב לפי תאריך הפרסום שלה, שכן מאמרים חדשים יותר עשויים להכיל עובדות ואירועים עדכניים יותר."
+            }
+        ]
+    }
+]

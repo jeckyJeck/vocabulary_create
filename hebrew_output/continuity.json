@@ -1,0 +1,40 @@
+[
+    {
+        "word": "continuity",
+        "word_hebrew": "הֶמשֵׁכִיוּת",
+        "main_definition": "Continuity refers to the uninterrupted or seamless progression of something, often used in various contexts such as business operations, storytelling, physics, and more.",
+        "main_definition_hebrew": "המשכיות מתייחסת להתקדמות ללא הפרעה או חלקה של משהו, המשמשת לעתים קרובות בהקשרים שונים כגון פעולות עסקיות, סיפורים, פיזיקה ועוד.",
+        "meanings_and_examples": [
+            {
+                "definition": "In business and finance, continuity implies a company's ability to maintain uninterrupted operations despite challenges or disruptions.",
+                "definition_hebrew": "בעסקים ובפיננסים, המשכיות מרמזת על יכולתה של חברה לשמור על פעילות ללא הפרעה למרות אתגרים או שיבושים.",
+                "example": "The IT department ensured the office had backup systems for data continuity after unexpected hardware failures.",
+                "example_hebrew": "מחלקת ה-IT הבטיחה שלמשרד יהיו מערכות גיבוי להמשכיות נתונים לאחר תקלות חומרה בלתי צפויות."
+            },
+            {
+                "definition": "In storytelling, such as films and books, a plot with continuity means that events follow logically from one to another without confusion or inconsistency.",
+                "definition_hebrew": "בסיפור סיפורים, כמו סרטים וספרים, עלילה עם המשכיות פירושה שאירועים עוברים באופן הגיוני מאחד לשני ללא בלבול או חוסר עקביות.",
+                "example": "The film's narrative maintained high levels of continuity by avoiding sudden character changes and time jumps.",
+                "example_hebrew": "הנרטיב של הסרט שמר על רמות גבוהות של המשכיות על ידי הימנעות משינויי אופי פתאומיים וקפיצות זמן."
+            },
+            {
+                "definition": "In physics, particularly in the study of motion, continuity refers to the concept that at any given point along a line or curve, there is no abrupt change.",
+                "definition_hebrew": "בפיזיקה, במיוחד בחקר התנועה, המשכיות מתייחסת לתפיסה שבכל נקודה נתונה לאורך קו או עקומה, אין שינוי פתאומי.",
+                "example": "The water flow through a pipe exhibited continuity as it moved smoothly from one end without obstruction.",
+                "example_hebrew": "זרימת המים דרך צינור הפגינה המשכיות כאשר היא נעה בצורה חלקה מקצה אחד ללא הפרעה."
+            },
+            {
+                "definition": "In philosophy and ethics, continuity implies the persistence of an entity or state over time, maintaining its identity.",
+                "definition_hebrew": "בפילוסופיה ובאתיקה, המשכיות מרמזת על התמדה של ישות או מדינה לאורך זמן, תוך שמירה על זהותה.",
+                "example": "The philosophical debate about personal identity often centers on what conditions are necessary for bodily or psychological continuity.",
+                "example_hebrew": "הוויכוח הפילוסופי על זהות אישית מתרכז לרוב באילו תנאים נחוצים להמשכיות גופנית או פסיכולוגית."
+            },
+            {
+                "definition": "In environmental science and conservation, ecological continuity refers to the preservation of habitats so that ecosystems remain stable over time.",
+                "definition_hebrew": "במדעי הסביבה ובשימור, המשכיות אקולוגית מתייחסת לשימור בתי גידול כך שמערכות אקולוגיות יישארו יציבות לאורך זמן.",
+                "example": "The national park's strict protection policies aimed to maintain the biological continuity necessary for endangered species survival.",
+                "example_hebrew": "מדיניות ההגנה הקפדנית של הגן הלאומי נועדה לשמור על המשכיות הביולוגית הדרושה להישרדות מינים בסכנת הכחדה."
+            }
+        ]
+    }
+]

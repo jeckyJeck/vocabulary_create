@@ -1,0 +1,28 @@
+[
+    {
+        "word": "minutes",
+        "word_hebrew": "דקות",
+        "main_definition": "Minutes can refer to a unit of time or the written record of proceedings in meetings, conferences, etc.",
+        "main_definition_hebrew": "פרוטוקול יכול להתייחס ליחידת זמן או לתיעוד הכתוב של הליכים בפגישות, כנסים וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "A unit of time equal to 60 seconds",
+                "definition_hebrew": "יחידת זמן שווה ל-60 שניות",
+                "example": "I ran for 15 minutes.",
+                "example_hebrew": "רצתי 15 דקות."
+            },
+            {
+                "definition": "The written record of proceedings in meetings, conferences or other events",
+                "definition_hebrew": "התיעוד הכתוב של הליכים בפגישות, כנסים או אירועים אחרים",
+                "example": "Please submit your minutes from the last board meeting.",
+                "example_hebrew": "נא להגיש את הפרוטוקולים שלך מישיבת ההנהלה האחרונה."
+            },
+            {
+                "definition": "A small amount of time devoted to a particular activity",
+                "definition_hebrew": "כמות קטנה של זמן המוקדש לפעילות מסוימת",
+                "example": "She spent some minutes organizing her desk before starting work.",
+                "example_hebrew": "היא הקדישה כמה דקות לארגן את שולחן העבודה שלה לפני שהתחילה לעבוד."
+            }
+        ]
+    }
+]

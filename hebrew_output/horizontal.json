@@ -1,0 +1,40 @@
+[
+    {
+        "word": "horizontal",
+        "word_hebrew": "אופקי",
+        "main_definition": "A term used to describe a position or direction that is parallel to the horizon, indicating evenness, flatness, or lack of slope.",
+        "main_definition_hebrew": "מונח המשמש לתיאור מיקום או כיוון המקבילים לאופק, המצביעים על אחידות, שטוחות או חוסר שיפוע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Parallel to the horizon; level and flat",
+                "definition_hebrew": "במקביל לאופק; רמה ושטוחה",
+                "example": "When installing shelves, it's important they are horizontally aligned for proper support.",
+                "example_hebrew": "בעת התקנת מדפים, חשוב שהם מיושרים אופקית לתמיכה נכונה."
+            },
+            {
+                "definition": "Relating to or denoting a plane that is not vertical or perpendicular to any axis",
+                "definition_hebrew": "מתייחס למישור שאינו אנכי או מאונך לאף ציר או מציין אותו",
+                "example": "In graphic design, the horizontal axis typically represents time in a line chart.",
+                "example_hebrew": "בעיצוב גרפי, הציר האופקי מייצג בדרך כלל זמן בתרשים קווים."
+            },
+            {
+                "definition": "A term used to describe certain computer file systems where data is organized in rows and columns",
+                "definition_hebrew": "מונח המשמש לתיאור מערכות קבצי מחשב מסוימות שבהן הנתונים מאורגנים בשורות ובעמודות",
+                "example": "The Excel spreadsheet uses a horizontal structure for organizing data across multiple cells.",
+                "example_hebrew": "הגיליון האלקטרוני של Excel משתמש במבנה אופקי לארגון נתונים על פני מספר תאים."
+            },
+            {
+                "definition": "Relating to or denoting something that does not involve any up-and-down movement or elevation change",
+                "definition_hebrew": "מתייחס או מציין משהו שאינו כרוך בתנועה למעלה ולמטה או שינוי גובה",
+                "example": "A horizontally moving vehicle, like a train, travels along the ground without ascending or descending steeply.",
+                "example_hebrew": "רכב הנע אופקית, כמו רכבת, נוסע לאורך הקרקע מבלי לעלות או לרדת בתלילות."
+            },
+            {
+                "definition": "A level surface where an object can rest without tipping over",
+                "definition_hebrew": "משטח ישר שבו חפץ יכול לנוח מבלי להתהפך",
+                "example": "The table must be placed on a horizontal surface to ensure stability and prevent damage to its contents.",
+                "example_hebrew": "יש להניח את השולחן על משטח אופקי על מנת להבטיח יציבות ולמנוע פגיעה בתכולתו."
+            }
+        ]
+    }
+]

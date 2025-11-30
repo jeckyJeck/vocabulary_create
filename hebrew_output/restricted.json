@@ -1,0 +1,40 @@
+[
+    {
+        "word": "restricted",
+        "word_hebrew": "מוגבל",
+        "main_definition": "limited or controlled due to rules, regulations, or conditions",
+        "main_definition_hebrew": "מוגבל או נשלט עקב כללים, תקנות או תנאים",
+        "meanings_and_examples": [
+            {
+                "definition": "Limited in terms of availability or accessibility.",
+                "definition_hebrew": "מוגבל מבחינת זמינות או נגישות.",
+                "example": "The restricted-use pesticide can only be purchased with a special license.",
+                "example_hebrew": "ניתן לרכוש את חומר ההדברה לשימוש מוגבל רק ברישיון מיוחד."
+            },
+            {
+                "definition": "Constrained by certain rules, laws, or regulations.",
+                "definition_hebrew": "מוגבל על ידי כללים, חוקים או תקנות מסוימים.",
+                "example": "The amusement park has age restrictions and does not allow children under 12 to enter without an adult.",
+                "example_hebrew": "ללונה פארק יש מגבלות גיל ואינו מאפשר לילדים מתחת לגיל 12 להיכנס ללא מבוגר."
+            },
+            {
+                "definition": "Restricted in terms of quantity or amount allowed.",
+                "definition_hebrew": "מוגבל מבחינת הכמות או הכמות המותרת.",
+                "example": "Only a certain number of tickets are available for the concert, making it restricted access.",
+                "example_hebrew": "רק מספר מסוים של כרטיסים זמין לקונצרט, מה שהופך אותו לגישה מוגבלת."
+            },
+            {
+                "definition": "Having limitations on movement or travel due to restrictions imposed by authorities.",
+                "definition_hebrew": "הגבלות על תנועה או נסיעות עקב הגבלות שהוטלו על ידי הרשויות.",
+                "example": "Due to international travel restrictions, they were unable to visit their friends abroad.",
+                "example_hebrew": "בשל הגבלות נסיעות בינלאומיות, הם לא יכלו לבקר את חבריהם בחו\"ל."
+            },
+            {
+                "definition": "Confined within specific boundaries or limits in terms of behavior or expression.",
+                "definition_hebrew": "מוגבל בגבולות או גבולות ספציפיים מבחינת התנהגות או ביטוי.",
+                "example": "In the restricted area of a military base, civilians are not allowed to enter without permission.",
+                "example_hebrew": "בשטח המוגבל של בסיס צבאי אסור לאזרחים להיכנס ללא רשות."
+            }
+        ]
+    }
+]

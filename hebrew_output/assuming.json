@@ -1,0 +1,34 @@
+[
+    {
+        "word": "assuming",
+        "word_hebrew": "בהנחה",
+        "main_definition": "To take something as given, true, or valid without proof or evidence.",
+        "main_definition_hebrew": "לקחת משהו כנתון, נכון או תקף ללא הוכחות או ראיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Taking for granted or accepting without questioning",
+                "definition_hebrew": "לקבל כמובן מאליו או לקבל בלי לשאול שאלות",
+                "example": "Assuming he knows what to do is risky; it's better to guide him.",
+                "example_hebrew": "בהנחה שהוא יודע מה לעשות זה מסוכן; עדיף להדריך אותו."
+            },
+            {
+                "definition": "To believe something to be true based on evidence, though not certain",
+                "definition_hebrew": "להאמין שמשהו נכון על סמך ראיות, אם כי לא בטוח",
+                "example": "We are assuming that the package has arrived because we haven't received a delivery notification yet.",
+                "example_hebrew": "אנו מניחים שהחבילה הגיעה מכיוון שעדיין לא קיבלנו הודעת משלוח."
+            },
+            {
+                "definition": "Making an educated guess or inference about something without full information",
+                "definition_hebrew": "ניחוש מושכל או מסקנות לגבי משהו ללא מידע מלא",
+                "example": "Assuming she was late, I sent her an email to check if everything is okay.",
+                "example_hebrew": "בהנחה שהיא איחרה, שלחתי לה מייל לבדוק אם הכל בסדר."
+            },
+            {
+                "definition": "Presupposing a fact to be true in order to make logical conclusions",
+                "definition_hebrew": "מניחה שעובדה תהיה נכונה כדי להסיק מסקנות הגיוניות",
+                "example": "When we assume that all swans are white, we fail to account for black swans discovered later.",
+                "example_hebrew": "כאשר אנו מניחים שכל הברבורים לבנים, איננו מצליחים להסביר את הברבורים השחורים שהתגלו מאוחר יותר."
+            }
+        ]
+    }
+]

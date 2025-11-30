@@ -1,0 +1,40 @@
+[
+    {
+        "word": "logistics",
+        "word_hebrew": "לוֹגִיסטִיקָה",
+        "main_definition": "Logistics refers to the detailed organization and implementation of a complex operation involving the movement, storage, and processing of goods or resources.",
+        "main_definition_hebrew": "לוגיסטיקה מתייחסת לארגון ויישום מפורט של פעולה מורכבת הכוללת תנועה, אחסון ועיבוד של סחורות או משאבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The study of how things move from one place to another",
+                "definition_hebrew": "חקר איך דברים נעים ממקום אחד לאחר",
+                "example": "In logistics, we analyze supply chains to ensure timely delivery of products.",
+                "example_hebrew": "בלוגיסטיקה, אנו מנתחים שרשראות אספקה כדי להבטיח אספקה בזמן של מוצרים."
+            },
+            {
+                "definition": "Coordinating the procurement and distribution of resources needed for a project or operation",
+                "definition_hebrew": "תיאום רכש וחלוקת משאבים הדרושים לפרויקט או מבצע",
+                "example": "The logistics team managed the sourcing and transportation of materials for building a new office complex.",
+                "example_hebrew": "הצוות הלוגיסטי ניהל את המקור והובלה של חומרים לבניית מתחם משרדים חדש."
+            },
+            {
+                "definition": "Managing warehousing, inventory control, and order fulfillment processes to support business activities",
+                "definition_hebrew": "ניהול תהליכי אחסנה, בקרת מלאי ומימוש הזמנות לתמיכה בפעילות העסקית",
+                "example": "Our company's logistics department oversees the storage and distribution of our products worldwide.",
+                "example_hebrew": "מחלקת הלוגיסטיקה של החברה שלנו מפקחת על האחסון וההפצה של המוצרים שלנו ברחבי העולם."
+            },
+            {
+                "definition": "Planning and executing efficient transportation routes for goods or personnel",
+                "definition_hebrew": "תכנון וביצוע נתיבי הובלה יעילים עבור סחורות או כוח אדם",
+                "example": "The logistician developed a plan to optimize delivery times by adjusting shipping routes.",
+                "example_hebrew": "הלוגיסטי פיתח תוכנית לייעול זמני האספקה על ידי התאמת נתיבי המשלוח."
+            },
+            {
+                "definition": "Ensuring the availability of essential resources, such as fuel, food, and medical supplies during emergencies or disasters",
+                "definition_hebrew": "הבטחת זמינותם של משאבים חיוניים, כגון דלק, מזון וציוד רפואי בזמן חירום או אסונות",
+                "example": "During the hurricane relief efforts, logistics teams were crucial in providing aid to affected areas.",
+                "example_hebrew": "במהלך מאמצי הסיוע להוריקן, צוותי לוגיסטיקה היו מכריעים במתן סיוע לאזורים שנפגעו."
+            }
+        ]
+    }
+]

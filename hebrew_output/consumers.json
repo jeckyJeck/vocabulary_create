@@ -1,0 +1,34 @@
+[
+    {
+        "word": "consumers",
+        "word_hebrew": "צרכנים",
+        "main_definition": "Consumers are individuals or groups who purchase goods and services for personal use or consumption.",
+        "main_definition_hebrew": "צרכנים הם יחידים או קבוצות הרוכשים סחורות ושירותים לשימוש אישי או לצריכה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Individuals in a market economy",
+                "definition_hebrew": "יחידים בכלכלת שוק",
+                "example": "In a retail setting, consumers browse through products to make purchases.",
+                "example_hebrew": "בסביבה קמעונאית, צרכנים גולשים במוצרים כדי לבצע רכישות."
+            },
+            {
+                "definition": "Entities that use or purchase services",
+                "definition_hebrew": "ישויות המשתמשות או רוכשות שירותים",
+                "example": "Companies act as consumers when they subscribe to cloud computing services for their business operations.",
+                "example_hebrew": "חברות פועלות כצרכנים כאשר הן מנויות לשירותי מחשוב ענן עבור הפעילות העסקית שלהן."
+            },
+            {
+                "definition": "Organizations responsible for the consumption of natural resources",
+                "definition_hebrew": "ארגונים האחראים על צריכת משאבי טבע",
+                "example": "Government agencies serve as consumers of water and energy, managing these resources on behalf of citizens.",
+                "example_hebrew": "סוכנויות ממשלתיות משמשות כצרכניות מים ואנרגיה, ומנהלות משאבים אלה בשם האזרחים."
+            },
+            {
+                "definition": "In ecology, organisms that consume other organisms or organic matter for energy",
+                "definition_hebrew": "באקולוגיה, אורגניזמים הצורכים אורגניזמים אחרים או חומר אורגני לאנרגיה",
+                "example": "Lions are considered consumers in an African savanna food chain as they hunt and eat prey animals.",
+                "example_hebrew": "אריות נחשבים לצרכנים בשרשרת מזון בסוואנה אפריקאית כשהם צדים ואוכלים חיות טרף."
+            }
+        ]
+    }
+]

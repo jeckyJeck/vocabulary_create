@@ -1,0 +1,40 @@
+[
+    {
+        "word": "screening",
+        "word_hebrew": "סְרִיקָה",
+        "main_definition": "The process of examining or testing something to identify potential problems, defects, or issues.",
+        "main_definition_hebrew": "התהליך של בדיקה או בדיקה של משהו כדי לזהות בעיות, פגמים או בעיות פוטנציאליות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Medical check-up for early detection of diseases",
+                "definition_hebrew": "בדיקה רפואית לגילוי מוקדם של מחלות",
+                "example": "Annual health screening at the doctor's office includes blood pressure measurement and cholesterol tests.",
+                "example_hebrew": "בדיקת בריאות שנתית במשרד הרופא כוללת מדידת לחץ דם ובדיקות כולסטרול."
+            },
+            {
+                "definition": "Film projection process",
+                "definition_hebrew": "תהליך הקרנת סרט",
+                "example": "The movie was first screened to a small audience before its official release.",
+                "example_hebrew": "הסרט הוקרן לראשונה בפני קהל קטן לפני יציאתו לאקרנים."
+            },
+            {
+                "definition": "Testing or examination for job applicants",
+                "definition_hebrew": "בדיקה או בחינה למועמדים לעבודה",
+                "example": "Before hiring, all candidates undergo a thorough screening of their resumes and work experience.",
+                "example_hebrew": "לפני הגיוס, כל המועמדים עוברים בדיקה יסודית של קורות החיים וניסיון העבודה שלהם."
+            },
+            {
+                "definition": "Security check to detect prohibited items at borders or events",
+                "definition_hebrew": "בידוק בטחוני לאיתור פריטים אסורים בגבולות או באירועים",
+                "example": "Travelers pass through metal detectors as part of the airport's security screening process.",
+                "example_hebrew": "מטיילים עוברים דרך גלאי מתכות כחלק מתהליך המיון הביטחוני של שדה התעופה."
+            },
+            {
+                "definition": "Process of evaluating software code for errors and potential issues",
+                "definition_hebrew": "תהליך של הערכת קוד תוכנה עבור שגיאות ובעיות פוטנציאליות",
+                "example": "The developers performed a thorough screening of the new application's source code to ensure its stability.",
+                "example_hebrew": "המפתחים ביצעו סינון יסודי של קוד המקור של האפליקציה החדשה כדי להבטיח את יציבותו."
+            }
+        ]
+    }
+]

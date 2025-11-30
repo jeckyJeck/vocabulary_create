@@ -1,0 +1,28 @@
+[
+    {
+        "word": "username",
+        "word_hebrew": "שם משתמש",
+        "main_definition": "A unique identifier that represents a user's identity when creating an account or logging into a system.",
+        "main_definition_hebrew": "מזהה ייחודי המייצג את זהות המשתמש בעת יצירת חשבון או כניסה למערכת.",
+        "meanings_and_examples": [
+            {
+                "definition": "An alias for online accounts",
+                "definition_hebrew": "כינוי לחשבונות מקוונים",
+                "example": "My username on social media is 'TravelBlogger123'",
+                "example_hebrew": "שם המשתמש שלי במדיה החברתית הוא 'TravelBlogger123'"
+            },
+            {
+                "definition": "A combination of letters, numbers or symbols used to identify a user's account uniquely",
+                "definition_hebrew": "שילוב של אותיות, מספרים או סמלים המשמשים לזיהוי חשבון משתמש באופן ייחודי",
+                "example": "The username for my email account is 'john.doe@example.com'",
+                "example_hebrew": "שם המשתמש של חשבון הדוא\"ל שלי הוא 'john.doe@example.com'"
+            },
+            {
+                "definition": "An identifier that distinguishes one user from another in an online community or system",
+                "definition_hebrew": "מזהה שמבדיל בין משתמש אחד למשנהו בקהילה או במערכת מקוונת",
+                "example": "I forgot to log out of the forum, but I can still access it with my username",
+                "example_hebrew": "שכחתי להתנתק מהפורום, אבל אני עדיין יכול לגשת אליו עם שם המשתמש שלי"
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "ppc",
+        "word_hebrew": "ppc",
+        "main_definition": "Programmable Peripheral Component is a standard interface used to connect various devices like printers, scanners, and network adapters to computers.",
+        "main_definition_hebrew": "רכיב היקפי ניתן לתכנות הוא ממשק סטנדרטי המשמש לחיבור מכשירים שונים כמו מדפסות, סורקים ומתאמי רשת למחשבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An abbreviation for Programmable Peripheral Component",
+                "definition_hebrew": "קיצור של Programmable Peripheral Component",
+                "example": "A PPc is commonly used in office settings to connect printers to a computer.",
+                "example_hebrew": "PPc משמש בדרך כלל בהגדרות משרדיות לחיבור מדפסות למחשב."
+            },
+            {
+                "definition": "A type of computing hardware architecture",
+                "definition_hebrew": "סוג של ארכיטקטורת חומרת מחשוב",
+                "example": "The IBM PC AT utilized the Intel 80286 processor and was compatible with PPc standards, allowing for expansion with additional peripherals.",
+                "example_hebrew": "ה-IBM PC AT השתמש במעבד Intel 80286 והיה תואם לתקני PPc, מה שמאפשר הרחבה עם ציוד היקפי נוסף."
+            },
+            {
+                "definition": "An interface used in telecommunications and networking",
+                "definition_hebrew": "ממשק המשמש בתקשורת ורשתות",
+                "example": "A network adapter that uses the PPc standard to connect devices within a local area network (LAN).",
+                "example_hebrew": "מתאם רשת המשתמש בתקן PPc כדי לחבר התקנים בתוך רשת מקומית (LAN)."
+            }
+        ]
+    }
+]

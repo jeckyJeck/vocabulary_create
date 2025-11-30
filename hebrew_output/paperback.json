@@ -1,0 +1,28 @@
+[
+    {
+        "word": "paperback",
+        "word_hebrew": "בִּכְּרִיכָה רָכָּה",
+        "main_definition": "A type of book with a flexible cover made from paper, usually less expensive than hardcover books.",
+        "main_definition_hebrew": "סוג של ספר עם כריכה גמישה עשוי מנייר, בדרך כלל זול יותר מספרים בכריכה קשה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Flexible backed book",
+                "definition_hebrew": "ספר מגובה גמיש",
+                "example": "I prefer to read my novels in the comfort of a cozy chair using my favorite paperback edition.",
+                "example_hebrew": "אני מעדיף לקרוא את הרומנים שלי בנוחות של כיסא נעים באמצעות המהדורה האהובה עלי בכריכה רכה."
+            },
+            {
+                "definition": "A less expensive alternative to hardcover books",
+                "definition_hebrew": "חלופה פחות יקרה לספרים בכריכה קשה",
+                "example": "The paperback version of 'To Kill A Mockingbird' by Harper Lee is more affordable and still provides an engaging reading experience.",
+                "example_hebrew": "הגרסה בכריכה רכה של 'To Kill A Mockingbird' מאת הארפר לי משתלמת יותר ועדיין מספקת חווית קריאה מרתקת."
+            },
+            {
+                "definition": "First edition of a novel, often associated with the original printing press format",
+                "definition_hebrew": "מהדורה ראשונה של רומן, המשויכת לרוב לפורמט הדפוס המקורי",
+                "example": "'The Catcher in The Rye' was first published as a paperback before its later hardcover editions were released.",
+                "example_hebrew": "'התפסן בשדה השיפון' פורסם לראשונה בכריכה רכה לפני שיצאו מהדורות הכריכה הקשה המאוחרות שלו."
+            }
+        ]
+    }
+]

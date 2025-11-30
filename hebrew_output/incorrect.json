@@ -1,0 +1,34 @@
+[
+    {
+        "word": "incorrect",
+        "word_hebrew": "לֹא נָכוֹן",
+        "main_definition": "Not accurate, wrong or misleading in its nature, form, or content.",
+        "main_definition_hebrew": "לא מדויק, שגוי או מטעה באופיו, בצורתו או בתוכן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Wrongly done or made; not correct or true.",
+                "definition_hebrew": "נעשה או שנעשה בטעות; לא נכון או נכון.",
+                "example": "The student gave an incorrect answer to the math problem.",
+                "example_hebrew": "התלמיד נתן תשובה לא נכונה לבעיה המתמטית."
+            },
+            {
+                "definition": "Not in accordance with fact or truth; false.",
+                "definition_hebrew": "לא בהתאם לעובדה או לאמת; שֶׁקֶר.",
+                "example": "His statement was based on incorrect information.",
+                "example_hebrew": "דבריו התבססו על מידע שגוי."
+            },
+            {
+                "definition": "Inappropriate or not suitable for a particular purpose or situation.",
+                "definition_hebrew": "לא מתאים או לא מתאים למטרה או מצב מסוים.",
+                "example": "That color choice is incorrect for the room's decor.",
+                "example_hebrew": "בחירת הצבע אינה נכונה לעיצוב החדר."
+            },
+            {
+                "definition": "Unacceptable; not in compliance with standards, rules, or norms.",
+                "definition_hebrew": "לא מקובל; לא עומד בסטנדרטים, כללים או נורמות.",
+                "example": "His behavior was deemed incorrect at the formal event.",
+                "example_hebrew": "התנהגותו נחשבה לא נכונה באירוע הרשמי."
+            }
+        ]
+    }
+]

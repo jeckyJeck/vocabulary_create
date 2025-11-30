@@ -1,0 +1,34 @@
+[
+    {
+        "word": "english",
+        "word_hebrew": "אנגלית",
+        "main_definition": "The English language, the primary language spoken in England, the United States, and many other countries.",
+        "main_definition_hebrew": "השפה האנגלית, השפה העיקרית המדוברת באנגליה, ארצות הברית ומדינות רבות אחרות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Referring to something related to or characteristic of England or its people (not necessarily the language itself)",
+                "definition_hebrew": "הכוונה למשהו שקשור או מאפיין לאנגליה או תושביה (לאו דווקא השפה עצמה)",
+                "example": "English breakfast tea is a traditional beverage enjoyed in England.",
+                "example_hebrew": "תה ארוחת בוקר אנגלית הוא משקה מסורתי שנהנה ממנו באנגליה."
+            },
+            {
+                "definition": "The form or dialect of English that is standard and widely understood, often taught as a second language",
+                "definition_hebrew": "הצורה או הניב של האנגלית סטנדרטית ומובן באופן נרחב, נלמד לעתים קרובות כשפה שנייה",
+                "example": "In schools worldwide, students learn 'standard' English for communication with people from various countries.",
+                "example_hebrew": "בבתי ספר ברחבי העולם, התלמידים לומדים אנגלית 'סטנדרטית' לתקשורת עם אנשים ממדינות שונות."
+            },
+            {
+                "definition": "A phrase used to describe someone who is clumsy or awkward in their movements, originating from the stereotype of British people being stiff and uncoordinated",
+                "definition_hebrew": "ביטוי המשמש לתיאור מישהו מגושם או מביך בתנועותיו, שמקורו בסטריאוטיפ של אנשים בריטים הנוקשים וחסרי התיאום",
+                "example": "He tripped over his own feet while trying to catch a ball; he's quite an English!",
+                "example_hebrew": "הוא מעד על רגליו בזמן שניסה לתפוס כדור; הוא די אנגלי!"
+            },
+            {
+                "definition": "'To be in good/bad form', meaning 'to behave well or poorly, respectively', often used in British contexts",
+                "definition_hebrew": "\"להיות במצב טוב/רע\", כלומר \"להתנהג טוב או גרוע, בהתאמה\", משמש לעתים קרובות בהקשרים בריטיים",
+                "example": "After attending the party, she was in very good form and had a great time.",
+                "example_hebrew": "לאחר שהשתתפה במסיבה, היא הייתה במצב טוב מאוד ונהנתה."
+            }
+        ]
+    }
+]

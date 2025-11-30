@@ -1,0 +1,52 @@
+[
+    {
+        "word": "graph",
+        "word_hebrew": "גרָף",
+        "main_definition": "A graph is a visual representation of data or information, often using lines, bars, or points to show relationships between variables.",
+        "main_definition_hebrew": "גרף הוא ייצוג חזותי של נתונים או מידע, לעתים קרובות באמצעות קווים, פסים או נקודות כדי להציג קשרים בין משתנים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In mathematics, a graph refers to the set of vertices (or nodes) and edges that connect pairs of these vertices.",
+                "definition_hebrew": "במתמטיקה, גרף מתייחס לקבוצת הקודקודים (או הצמתים) והקצוות המחברים זוגות של קודקודים אלה.",
+                "example": "The complete graph with 5 vertices is represented as K5.",
+                "example_hebrew": "הגרף המלא עם 5 קודקודים מיוצג כ-K5."
+            },
+            {
+                "definition": "A line graph or line chart displays information as a series of data points connected by straight lines, showing trends over time.",
+                "definition_hebrew": "גרף קו או תרשים קווים מציג מידע כסדרה של נקודות נתונים המחוברות בקווים ישרים, המציגים מגמות לאורך זמן.",
+                "example": "A temperature record for the past week can be shown using a line graph with days on the x-axis and temperatures on the y-axis.",
+                "example_hebrew": "ניתן להציג שיא טמפרטורה עבור השבוע האחרון באמצעות גרף קו עם ימים על ציר x וטמפרטורות על ציר y."
+            },
+            {
+                "definition": "In computing, a graph is an abstract data type that represents a collection of objects (nodes) connected by edges.",
+                "definition_hebrew": "במחשוב, גרף הוא סוג נתונים מופשט המייצג אוסף של אובייקטים (צמתים) המחוברים בקצוות.",
+                "example": "Social networks like Facebook can be represented as graphs where users are nodes and friendships or connections are the edges.",
+                "example_hebrew": "רשתות חברתיות כמו פייסבוק יכולות להיות מיוצגות כגרפים שבהם המשתמשים הם צמתים וחברות או קשרים הם הקצוות."
+            },
+            {
+                "definition": "A bar graph uses rectangular bars to show comparisons among categories. The length of each bar is proportional to the value it represents.",
+                "definition_hebrew": "גרף עמודות משתמש בפסים מלבניים כדי להציג השוואות בין קטגוריות. אורכו של כל פס הוא פרופורציונלי לערך שהוא מייצג.",
+                "example": "A bar graph could be used to compare the sales of different smartphone models across various quarters.",
+                "example_hebrew": "ניתן להשתמש בגרף עמודות כדי להשוות את המכירות של דגמי סמארטפונים שונים על פני רבעונים שונים."
+            },
+            {
+                "definition": "In physics, a displacement-time graph shows how an object's position changes over time.",
+                "definition_hebrew": "בפיזיקה, גרף זמן תזוזה מראה כיצד מיקומו של עצם משתנה לאורך זמן.",
+                "example": "The distance traveited by a car on a highway could be represented in a displacement-time graph with time along the x-axis and displacement along the y-axis.",
+                "example_hebrew": "המרחק שעובר מכונית בכביש מהיר יכול להיות מיוצג בגרף זמן תזוזה עם הזמן לאורך ציר ה-x ותזוזה לאורך ציר ה-y."
+            },
+            {
+                "definition": "In statistics, a histogram is a type of bar graph that represents data distribution over discrete intervals.",
+                "definition_hebrew": "בסטטיסטיקה, היסטוגרמה היא סוג של גרף עמודות המייצג את התפלגות הנתונים על פני מרווחים נפרדים.",
+                "example": "A histogram can show the frequency of test scores in a classroom with score ranges on the x-axis and frequency on the y-axis.",
+                "example_hebrew": "היסטוגרמה יכולה להראות את תדירות ציוני המבחנים בכיתה עם טווחי ציון על ציר ה-x ותדירות על ציר ה-y."
+            },
+            {
+                "definition": "In logistics, a route map or network diagram is used to display transportation routes between different locations.",
+                "definition_hebrew": "בלוגיסטיקה, מפת מסלול או דיאגרמת רשת משמשת להצגת נתיבי תחבורה בין מיקומים שונים.",
+                "example": "A delivery company might use a graph to plan efficient driving routes for its fleet of trucks.",
+                "example_hebrew": "חברת משלוחים עשויה להשתמש בגרף כדי לתכנן מסלולי נסיעה יעילים עבור צי המשאיות שלה."
+            }
+        ]
+    }
+]

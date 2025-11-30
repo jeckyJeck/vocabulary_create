@@ -1,0 +1,28 @@
+[
+    {
+        "word": "comp",
+        "word_hebrew": "comp",
+        "main_definition": "Comp is a short form of 'comparison' or can also refer to a reward given as compensation.",
+        "main_definition_hebrew": "Comp היא צורה קצרה של 'השוואה' או יכולה להתייחס גם לתגמול שניתן כפיצוי.",
+        "meanings_and_examples": [
+            {
+                "definition": "To compare two things in terms of their similarities and differences.",
+                "definition_hebrew": "להשוות בין שני דברים מבחינת הדמיון והשוני ביניהם.",
+                "example": "In the debate, they were asked to comp each other's arguments.",
+                "example_hebrew": "בוויכוח הם התבקשו להשוות זה את טיעוניו של זה."
+            },
+            {
+                "definition": "A payment or reward given for a service performed or as compensation.",
+                "definition_hebrew": "תשלום או תגמול שניתן עבור שירות שבוצע או כפיצוי.",
+                "example": "The company decided to offer a comp of $1000 for completing the project ahead of schedule.",
+                "example_hebrew": "החברה החליטה להציע שכר של 1000 דולר עבור השלמת הפרויקט לפני המועד המתוכנן."
+            },
+            {
+                "definition": "An abbreviation used in some contexts, such as 'computational' relating to computer calculations or processing.",
+                "definition_hebrew": "קיצור המשמש בהקשרים מסוימים, כגון 'חישובי' הקשור לחישובים או עיבוד ממוחשב.",
+                "example": "The software development team is working on a new comp program that will automate data analysis tasks.",
+                "example_hebrew": "צוות פיתוח התוכנה עובד על תוכנית comp חדשה שתהפוך משימות ניתוח נתונים לאוטומטיות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "trigger",
+        "word_hebrew": "הדק",
+        "main_definition": "A trigger is an action, object, or event that sets off a particular response or reaction.",
+        "main_definition_hebrew": "טריגר הוא פעולה, אובייקט או אירוע שמפעיל תגובה או תגובה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "To initiate or cause something to happen",
+                "definition_hebrew": "ליזום או לגרום למשהו לקרות",
+                "example": "Pulling the string on the old rifle triggered the gunpowder and made it fire.",
+                "example_hebrew": "משיכת החוט של הרובה הישן הפעילה את אבק השריפה וגרם לו לירות."
+            },
+            {
+                "definition": "A mechanism in a firearm that releases the firing pin when depressed, causing the bullet to be fired from the chamber.",
+                "definition_hebrew": "מנגנון בכלי יריה המשחרר את סיכת הירי בלחיצה וגורם לירי מהתא.",
+                "example": "When he pulled the trigger, the shotgun emitted a loud bang as bullets were released into the air.",
+                "example_hebrew": "כשהוא לחץ על ההדק, הרובה פלט חבטה חזקה כשכדורים שוחררו לאוויר."
+            },
+            {
+                "definition": "A psychological or emotional response elicited by an event, thought, or sensation that causes distress.",
+                "definition_hebrew": "תגובה פסיכולוגית או רגשית הנגררת כתוצאה מאירוע, מחשבה או תחושה שגורמת למצוקה.",
+                "example": "The sight of blood triggered her anxiety and made her feel faint.",
+                "example_hebrew": "מראה הדם עורר בה את החרדה וגרם לה להרגיש עילפון."
+            },
+            {
+                "definition": "An element in a situation that leads to the start of something",
+                "definition_hebrew": "אלמנט במצב שמוביל להתחלה של משהו",
+                "example": "His remark about the performance was the trigger for an argument among colleagues.",
+                "example_hebrew": "ההערה שלו על הביצוע הייתה הטריגר לוויכוח בין עמיתים."
+            },
+            {
+                "definition": "A device or mechanism used to activate, release, or initiate another process.",
+                "definition_hebrew": "מכשיר או מנגנון המשמשים להפעלה, שחרור או התחלת תהליך אחר.",
+                "example": "The button on her remote control serves as a trigger to turn the television off.",
+                "example_hebrew": "הכפתור בשלט הרחוק שלה משמש כטריגר לכיבוי הטלוויזיה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "vacancies",
+        "word_hebrew": "משרות פנויות",
+        "main_definition": "Vacancies refer to unoccupied positions or spaces that are available for someone else to fill.",
+        "main_definition_hebrew": "משרות פנויות מתייחסות למשרות או מקומות פנויים שפנו למישהו אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Unfilled job positions in an organization",
+                "definition_hebrew": "משרות לא מאוישות בארגון",
+                "example": "The company posted several vacancies for software engineers on their website.",
+                "example_hebrew": "החברה פרסמה באתר האינטרנט שלה מספר משרות פנויות למהנדסי תוכנה."
+            },
+            {
+                "definition": "Empty seats or spaces in a vehicle, theater, or other venues",
+                "definition_hebrew": "מושבים או חללים ריקים ברכב, בתיאטרון או במקומות אחרים",
+                "example": "There were many vacancies left at the cinema after only a few tickets sold for the evening show.",
+                "example_hebrew": "נותרו מקומות פנויים רבים בקולנוע לאחר שנמכרו כרטיסים בודדים בלבד למופע הערב."
+            },
+            {
+                "definition": "Incomplete areas within an object or pattern",
+                "definition_hebrew": "אזורים לא שלמים בתוך אובייקט או תבנית",
+                "example": "The painting had several vacancies where colors did not blend smoothly, making it look unfinished.",
+                "example_hebrew": "לציור היו מספר מקומות פנויים שבהם הצבעים לא השתלבו בצורה חלקה, מה שגרם לו להיראות לא גמור."
+            },
+            {
+                "definition": "A term used in statistics and probability to describe the number of missing values in a dataset",
+                "definition_hebrew": "מונח המשמש בסטטיסטיקה והסתברות לתיאור מספר הערכים החסרים במערך נתונים",
+                "example": "During data cleaning, the analyst reported several vacancies that needed addressing before analysis could proceed.",
+                "example_hebrew": "במהלך ניקוי הנתונים, האנליסט דיווח על מספר משרות פנויות שדרשו טיפול לפני שהניתוח יוכל להמשיך."
+            }
+        ]
+    }
+]

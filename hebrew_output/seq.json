@@ -1,0 +1,28 @@
+[
+    {
+        "word": "seq",
+        "word_hebrew": "seq",
+        "main_definition": "In simple English, 'seq' is often a shortened form of the word sequence or related to sequences in various contexts.",
+        "main_definition_hebrew": "באנגלית פשוטה, 'seq' הוא לרוב צורה מקוצרת של המילה רצף או קשורה לרצפים בהקשרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A series of items arranged one after another.",
+                "definition_hebrew": "סדרה של פריטים מסודרים בזה אחר זה.",
+                "example": "The number sequence 1, 2, 3, 4 is a simple example of arranging numbers sequentially.",
+                "example_hebrew": "רצף המספרים 1, 2, 3, 4 הוא דוגמה פשוטה לסידור מספרים ברצף."
+            },
+            {
+                "definition": "In programming and computing, 'seq' can refer to the command or function used to generate sequences of data.",
+                "definition_hebrew": "בתכנות ובמחשוב, 'seq' יכול להתייחס לפקודה או לפונקציה המשמשת ליצירת רצפים של נתונים.",
+                "example": "In Python, the 'range()' function generates a sequence of numbers from 0 up to but not including the specified number.",
+                "example_hebrew": "ב-Python, הפונקציה 'range()' מייצרת רצף של מספרים מ-0 עד אבל לא כולל את המספר שצוין."
+            },
+            {
+                "definition": "Sequential order in various contexts such as music where notes follow one after another.",
+                "definition_hebrew": "סדר רציף בהקשרים שונים כגון מוזיקה שבה תווים עוקבים בזה אחר זה.",
+                "example": "A sequential pattern of chords can create a smooth transition between two sections of a song.",
+                "example_hebrew": "תבנית רציפה של אקורדים יכולה ליצור מעבר חלק בין שני קטעים של שיר."
+            }
+        ]
+    }
+]

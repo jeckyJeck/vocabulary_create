@@ -1,0 +1,40 @@
+[
+    {
+        "word": "provider",
+        "word_hebrew": "ספק",
+        "main_definition": "A provider is someone or something that supplies a particular product, service, or resource.",
+        "main_definition_hebrew": "ספק הוא מישהו או משהו שמספק מוצר, שירות או משאב מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual who offers goods or services for payment or other exchange. For example, 'John works as an insurance provider.'",
+                "definition_hebrew": "אדם המציע סחורות או שירותים לתשלום או להחלפה אחרת. לדוגמה, 'ג'ון עובד כספק ביטוח'.",
+                "example": "'I rely on my healthcare provider to keep me well.'",
+                "example_hebrew": "\"אני סומך על ספק שירותי הבריאות שלי שישמור עלי טוב.\""
+            },
+            {
+                "definition": "A company that supplies a specific product or service. For example, 'Walmart is one of the largest retail providers in the United States.'",
+                "definition_hebrew": "חברה המספקת מוצר או שירות ספציפי. לדוגמה, 'וולמארט היא אחת מספקיות הקמעונאות הגדולות בארצות הברית'.",
+                "example": "'The internet service provider will fix your connection issue within 24 hours.'",
+                "example_hebrew": "'ספק שירותי האינטרנט יתקן את בעיית החיבור שלך תוך 24 שעות'."
+            },
+            {
+                "definition": "A source that supplies a particular resource or commodity. For example, 'Fossil fuels are major energy providers in the world today.'",
+                "definition_hebrew": "מקור המספק משאב או סחורה מסוימת. לדוגמה, 'דלקים מאובנים הם ספקי אנרגיה עיקריים בעולם כיום'.",
+                "example": "'The river is our primary water provider for the village.'",
+                "example_hebrew": "'הנהר הוא ספק המים העיקרי שלנו לכפר'."
+            },
+            {
+                "definition": "An organization offering financial assistance such as loans or grants. For example, 'The government acts as a social welfare provider by giving support to those in need.'",
+                "definition_hebrew": "ארגון המציע סיוע פיננסי כגון הלוואות או מענקים. למשל, 'הממשלה פועלת כספק רווחה על ידי מתן תמיכה לנזקקים'.",
+                "example": "'I applied for student loans through the education provider at my college.'",
+                "example_hebrew": "'הגשתי בקשה להלוואות לסטודנטים דרך ספק החינוך במכללה שלי'."
+            },
+            {
+                "definition": "A platform that provides access or services over the internet. For example, 'Netflix is a popular streaming provider of movies and TV shows.'",
+                "definition_hebrew": "פלטפורמה המספקת גישה או שירותים דרך האינטרנט. לדוגמה, 'נטפליקס היא ספקית סטרימינג פופולרית של סרטים ותוכניות טלוויזיה'.",
+                "example": "'The company's website serves as an online provider for customers to purchase products directly.'",
+                "example_hebrew": "\"אתר החברה משמש כספק מקוון ללקוחות לרכישת מוצרים ישירות\"."
+            }
+        ]
+    }
+]

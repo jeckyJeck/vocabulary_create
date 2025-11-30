@@ -1,0 +1,34 @@
+[
+    {
+        "word": "groups",
+        "word_hebrew": "קבוצות",
+        "main_definition": "Groups refer to collections of individuals or objects that are considered together due to shared characteristics, common goals, or organizational structure.",
+        "main_definition_hebrew": "קבוצות מתייחסות לאוספים של יחידים או אובייקטים הנחשבים יחד בשל מאפיינים משותפים, מטרות משותפות או מבנה ארגוני.",
+        "meanings_and_examples": [
+            {
+                "definition": "Social Groups",
+                "definition_hebrew": "קבוצות חברתיות",
+                "example": "A group of friends who often meet for coffee and chat.",
+                "example_hebrew": "קבוצת חברים שנפגשת לעתים קרובות לקפה ולפטפט."
+            },
+            {
+                "definition": "Organizational Units",
+                "definition_hebrew": "יחידות ארגוניות",
+                "example": "Departments in a company, such as marketing or finance, which form groups based on their function.",
+                "example_hebrew": "מחלקות בחברה, כמו שיווק או פיננסים, היוצרות קבוצות על סמך תפקידן."
+            },
+            {
+                "definition": "Mathematical Groups",
+                "definition_hebrew": "קבוצות מתמטיות",
+                "example": "A set of numbers with an operation that combines any two elements to form a third element, satisfying certain properties like closure, associativity, identity, and invertibility (e.g., the integers under addition).",
+                "example_hebrew": "קבוצה של מספרים עם פעולה המשלבת כל שני אלמנטים ליצירת אלמנט שלישי, המספקת מאפיינים מסוימים כמו סגירה, אסוציאטיביות, זהות והיפוך (למשל, המספרים השלמים בחיבור)."
+            },
+            {
+                "definition": "Aggregate Data",
+                "definition_hebrew": "נתונים מצטברים",
+                "example": "When analyzing survey responses, researchers might group the data by age ranges to identify trends.",
+                "example_hebrew": "בעת ניתוח תשובות לסקר, החוקרים עשויים לקבץ את הנתונים לפי טווחי גילאים כדי לזהות מגמות."
+            }
+        ]
+    }
+]

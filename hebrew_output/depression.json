@@ -1,0 +1,34 @@
+[
+    {
+        "word": "depression",
+        "word_hebrew": "דִכָּאוֹן",
+        "main_definition": "Depression is a mental health condition characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities that one once enjoyed. It can also refer to physical low points or periods of emotional lows.",
+        "main_definition_hebrew": "דיכאון הוא מצב בריאותי נפשי המאופיין ברגשות מתמשכים של עצב, חוסר תקווה ואובדן עניין בפעילויות שאדם נהנה פעם. זה יכול להתייחס גם לנקודות שפל פיזיות או לתקופות של שפל רגשי.",
+        "meanings_and_examples": [
+            {
+                "definition": "A mental state involving a deep sense of melancholy and despondency",
+                "definition_hebrew": "מצב נפשי הכרוך בתחושה עמוקה של מלנכוליה ודכדוך",
+                "example": "After losing her job, she fell into a deep depression.",
+                "example_hebrew": "לאחר שאיבדה את עבודתה, היא נקלעה לדיכאון עמוק."
+            },
+            {
+                "definition": "A medical condition affecting mood and energy levels causing physical symptoms such as fatigue or changes in appetite",
+                "definition_hebrew": "מצב רפואי המשפיע על מצב הרוח ורמות האנרגיה הגורם לתסמינים גופניים כגון עייפות או שינויים בתיאבון",
+                "example": "He was diagnosed with major depressive disorder after experiencing prolonged periods of sadness and lethargy.",
+                "example_hebrew": "הוא אובחן כסובל מהפרעת דיכאון מג'ורי לאחר שחווה תקופות ממושכות של עצב ותרדמה."
+            },
+            {
+                "definition": "A geological feature characterized by a sunken area on the Earth's surface, often formed due to tectonic activity",
+                "definition_hebrew": "מאפיין גיאולוגי המאופיין בשטח שקוע על פני כדור הארץ, הנוצר לעתים קרובות עקב פעילות טקטונית",
+                "example": "The Great Rift Valley in Africa is an example of a depression caused by crustal movements.",
+                "example_hebrew": "עמק השבר הגדול באפריקה הוא דוגמה לשקע הנגרם על ידי תנועות קרום."
+            },
+            {
+                "definition": "A decrease or lowering in economic activity, prices, and wages",
+                "definition_hebrew": "ירידה או ירידה בפעילות הכלכלית, המחירים והשכר",
+                "example": "During the recession, many businesses faced severe financial depression.",
+                "example_hebrew": "במהלך המיתון, עסקים רבים התמודדו עם דיכאון כלכלי חמור."
+            }
+        ]
+    }
+]

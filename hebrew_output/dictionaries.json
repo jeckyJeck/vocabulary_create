@@ -1,0 +1,40 @@
+[
+    {
+        "word": "dictionaries",
+        "word_hebrew": "מילונים",
+        "main_definition": "Dictionaries are reference books that provide a collection of words, their meanings, pronunciations, and sometimes additional information such as etymology or usage examples.",
+        "main_definition_hebrew": "מילונים הם ספרי עיון המספקים אוסף של מילים, משמעויותיהן, הגייתן ולעיתים מידע נוסף כגון אטימולוגיה או דוגמאות שימוש.",
+        "meanings_and_examples": [
+            {
+                "definition": "A book containing an alphabetical list of words with their definitions, often including information on spelling, pronunciation, and origin.",
+                "definition_hebrew": "ספר המכיל רשימה אלפביתית של מילים עם הגדרותיהן, לרוב כולל מידע על איות, הגייה ומקור.",
+                "example": "When writing her novel, she referred to the English dictionary for accurate spellings.",
+                "example_hebrew": "כשכתבה את הרומן שלה, היא התייחסה למילון האנגלי לאיתות מדויקות."
+            },
+            {
+                "definition": "An online resource or database that provides word meanings and related linguistic information.",
+                "definition_hebrew": "משאב או מסד נתונים מקוונים המספקים משמעויות של מילים ומידע לשוני קשור.",
+                "example": "He used an online dictionary to find the correct definition of a complex term he encountered while reading.",
+                "example_hebrew": "הוא השתמש במילון מקוון כדי למצוא את ההגדרה הנכונה של מונח מורכב שנתקל בו בזמן הקריאה."
+            },
+            {
+                "definition": "A set of guidelines for spelling, usage, and pronunciation in a specific language.",
+                "definition_hebrew": "קבוצה של הנחיות לאיות, שימוש והגייה בשפה ספציפית.",
+                "example": "The French dictionary provided rules for accents and gender agreements that are unique to the French language.",
+                "example_hebrew": "המילון הצרפתי סיפק כללים למבטאים והסכמי מגדר שהם ייחודיים לשפה הצרפתית."
+            },
+            {
+                "definition": "In computing or software development, dictionaries refer to data structures used to store key-value pairs, where each word represents a key.",
+                "definition_hebrew": "בפיתוח מחשוב או תוכנה, מילונים מתייחסים למבני נתונים המשמשים לאחסון צמדי מפתח-ערך, כאשר כל מילה מייצגת מפתח.",
+                "example": "The programmer created a dictionary in Python to associate product names with their prices for an e-commerce application.",
+                "example_hebrew": "המתכנת יצר מילון ב-Python כדי לשייך שמות מוצרים למחיריהם עבור אפליקציית מסחר אלקטרוני."
+            },
+            {
+                "definition": "A collection of terms and definitions specific to a field or subject area, such as law, medicine, or engineering.",
+                "definition_hebrew": "אוסף של מונחים והגדרות ספציפיים לתחום או תחום נושא, כגון משפטים, רפואה או הנדסה.",
+                "example": "Legal dictionaries contain explanations of legal terminology used in courtrooms and contracts.",
+                "example_hebrew": "מילונים משפטיים מכילים הסברים על מינוח משפטי המשמש באולמות משפט וחוזים."
+            }
+        ]
+    }
+]

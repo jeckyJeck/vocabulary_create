@@ -1,0 +1,34 @@
+[
+    {
+        "word": "interest",
+        "word_hebrew": "ריבית",
+        "main_definition": "Interest refers to the emotional or mental engagement someone has with a particular subject, topic, or activity.",
+        "main_definition_hebrew": "עניין מתייחס למעורבות הרגשית או הנפשית שיש למישהו בנושא, נושא או פעילות מסוימים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Financial charge for borrowing money",
+                "definition_hebrew": "חיוב כספי עבור הלוואת כסף",
+                "example": "The interest on my loan is 5% annually.",
+                "example_hebrew": "הריבית על ההלוואה שלי היא 5% בשנה."
+            },
+            {
+                "definition": "Curiosity or fascination about something",
+                "definition_hebrew": "סקרנות או קסם לגבי משהו",
+                "example": "I have a strong interest in astronomy, and I spend hours stargazing every night.",
+                "example_hebrew": "יש לי עניין חזק באסטרונומיה, ואני מבלה שעות בכוכבים בכל לילה."
+            },
+            {
+                "definition": "The degree to which someone is engaged with an activity or subject",
+                "definition_hebrew": "המידה שבה מישהו עוסק בפעילות או נושא",
+                "example": "Her interest in learning new languages led her to study abroad for six months.",
+                "example_hebrew": "העניין שלה בלימוד שפות חדשות הוביל אותה ללמוד בחו\"ל במשך שישה חודשים."
+            },
+            {
+                "definition": "A person who has a keen curiosity or enthusiasm about something",
+                "definition_hebrew": "אדם שיש לו סקרנות או התלהבות חריפה לגבי משהו",
+                "example": "He's such a history buff; his interests range from ancient civilizations to modern warfare.",
+                "example_hebrew": "הוא כזה חובב היסטוריה; תחומי העניין שלו נעים בין תרבויות עתיקות למלחמה מודרנית."
+            }
+        ]
+    }
+]

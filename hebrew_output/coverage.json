@@ -1,0 +1,40 @@
+[
+    {
+        "word": "coverage",
+        "word_hebrew": "כיסוי",
+        "main_definition": "Coverage refers to the extent of protection, coverage area or range, or representation by a service or media outlet.",
+        "main_definition_hebrew": "כיסוי מתייחס להיקף ההגנה, אזור הכיסוי או הטווח, או ייצוג על ידי שירות או כלי תקשורת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Insurance coverage",
+                "definition_hebrew": "כיסוי ביטוחי",
+                "example": "The car insurance coverage provides financial protection against accidents and damages.",
+                "example_hebrew": "כיסוי ביטוח הרכב מעניק הגנה כלכלית מפני תאונות ונזקים."
+            },
+            {
+                "definition": "Media coverage",
+                "definition_hebrew": "סיקור תקשורתי",
+                "example": "The newspaper extensively covered the local election, including interviews with all candidates.",
+                "example_hebrew": "העיתון סיקר רבות את הבחירות המקומיות, כולל ראיונות עם כל המתמודדים."
+            },
+            {
+                "definition": "Coverage area for services or utilities",
+                "definition_hebrew": "אזור כיסוי עבור שירותים או שירותים",
+                "example": "Our telephone service has coverage up to 5 miles radius from our central office.",
+                "example_hebrew": "לשירות הטלפוני שלנו יש כיסוי של עד 5 מיילים ברדיוס מהמשרד המרכזי שלנו."
+            },
+            {
+                "definition": "Inclusivity of a policy, agreement, or service",
+                "definition_hebrew": "הכללה של מדיניות, הסכם או שירות",
+                "example": "The company's health insurance covers pre-existing conditions without additional cost.",
+                "example_hebrew": "ביטוח הבריאות של החברה מכסה תנאים קיימים ללא עלות נוספת."
+            },
+            {
+                "definition": "Extent of testing or quality assurance in manufacturing",
+                "definition_hebrew": "היקף הבדיקה או הבטחת האיכות בייצור",
+                "example": "Our product passed all tests with 100% coverage, meaning every possible scenario was checked.",
+                "example_hebrew": "המוצר שלנו עבר את כל הבדיקות עם 100% כיסוי, כלומר כל תרחיש אפשרי נבדק."
+            }
+        ]
+    }
+]

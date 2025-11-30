@@ -1,0 +1,40 @@
+[
+    {
+        "word": "understand",
+        "word_hebrew": "מבין",
+        "main_definition": "To perceive the intended meaning of (words, phrases, or body language) or to comprehend a concept or idea.",
+        "main_definition_hebrew": "לתפוס את המשמעות המיועדת של (מילים, ביטויים או שפת גוף) או להבין מושג או רעיון.",
+        "meanings_and_examples": [
+            {
+                "definition": "To grasp the meaning of something communicated verbally",
+                "definition_hebrew": "לתפוס את המשמעות של משהו שנמסר מילולית",
+                "example": "I didn't understand what he was trying to say.",
+                "example_hebrew": "לא הבנתי מה הוא ניסה להגיד."
+            },
+            {
+                "definition": "To recognize or comprehend an idea, fact, or situation",
+                "definition_hebrew": "לזהות או להבין רעיון, עובדה או מצב",
+                "example": "After studying for hours, I finally understood the complex theory.",
+                "example_hebrew": "אחרי שלמדתי שעות, סוף סוף הבנתי את התיאוריה המורכבת."
+            },
+            {
+                "definition": "To make oneself aware of a particular point, feeling, or opinion",
+                "definition_hebrew": "לעשות את עצמו מודע לנקודה, תחושה או דעה מסוימת",
+                "example": "It took her time to understand why he was so upset with her actions.",
+                "example_hebrew": "לקח לה זמן להבין מדוע הוא כל כך כועס על מעשיה."
+            },
+            {
+                "definition": "To come to have knowledge about something previously unknown",
+                "definition_hebrew": "להגיע לידע על משהו שלא היה ידוע קודם לכן",
+                "example": "She understood the game rules after watching a few matches.",
+                "example_hebrew": "היא הבינה את חוקי המשחק לאחר צפייה בכמה משחקים."
+            },
+            {
+                "definition": "To become conscious of one's thoughts or feelings",
+                "definition_hebrew": "להיות מודע למחשבות או לרגשות של האדם",
+                "example": "He had trouble understanding his own emotions during that difficult time.",
+                "example_hebrew": "הוא התקשה להבין את רגשותיו שלו בתקופה הקשה ההיא."
+            }
+        ]
+    }
+]

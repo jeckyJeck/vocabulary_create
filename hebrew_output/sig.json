@@ -1,0 +1,28 @@
+[
+    {
+        "word": "sig",
+        "word_hebrew": "סיג",
+        "main_definition": "In simple English, 'sig' is a shortened form of the word 'signature'. It refers to a person's handwritten name or a unique symbol that represents someone.",
+        "main_definition_hebrew": "באנגלית פשוטה, 'sig' היא צורה מקוצרת של המילה 'חתימה'. זה מתייחס לשם של אדם בכתב ידו או לסמל ייחודי המייצג מישהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A personal identifier in written form",
+                "definition_hebrew": "מזהה אישי בכתב",
+                "example": "Please sign at the bottom right corner of this document.",
+                "example_hebrew": "אנא חתום בפינה הימנית התחתונה של מסמך זה."
+            },
+            {
+                "definition": "A person's handwritten name used to authenticate documents",
+                "definition_hebrew": "שמו של אדם בכתב ידו משמש לאימות מסמכים",
+                "example": "I cannot accept this contract without a valid signature from John Doe.",
+                "example_hebrew": "אני לא יכול לקבל חוזה זה ללא חתימה תקפה מג'ון דו."
+            },
+            {
+                "definition": "The unique symbol or initials that represent someone, often as an alternative to their full signature",
+                "definition_hebrew": "הסמל או ראשי התיבות הייחודיים המייצגים מישהו, לעתים קרובות כחלופה לחתימתו המלאה",
+                "example": "Please use your sig ('JD') instead of writing out your full name on the form.",
+                "example_hebrew": "אנא השתמש בסימן שלך ('JD') במקום לכתוב את שמך המלא בטופס."
+            }
+        ]
+    }
+]

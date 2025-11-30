@@ -1,0 +1,34 @@
+[
+    {
+        "word": "geo",
+        "word_hebrew": "גיאוגרפי",
+        "main_definition": "The prefix 'geo' is derived from the Greek word 'ge', which means 'earth'. It is used in various terms related to Earth, geography, or planetary science.",
+        "main_definition_hebrew": "הקידומת 'גיאו' נגזרת מהמילה היוונית 'גע', שפירושה 'אדמה'. הוא משמש במונחים שונים הקשורים לכדור הארץ, גיאוגרפיה או מדע פלנטרי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Related to Earth and its physical features",
+                "definition_hebrew": "קשור לכדור הארץ ולמאפייניו הפיזיים",
+                "example": "Geology - the study of rocks and Earth's structure",
+                "example_hebrew": "גיאולוגיה - חקר הסלעים ומבנה כדור הארץ"
+            },
+            {
+                "definition": "Concerning or pertaining to geography or mapping",
+                "definition_hebrew": "בקשר או בקשר לגיאוגרפיה או למיפוי",
+                "example": "Cartography - the science and art of making maps, also known as geomapping",
+                "example_hebrew": "קרטוגרפיה - המדע והאומנות של יצירת מפות, המכונה גם מיפוי גיאוגרפי"
+            },
+            {
+                "definition": "Pertaining to planetary science and celestial bodies",
+                "definition_hebrew": "הנוגע למדע הפלנטרי ולגופים שמימיים",
+                "example": "Geocentric model - an ancient astronomical model where Earth is at the center of the universe",
+                "example_hebrew": "מודל גיאוצנטרי - מודל אסטרונומי עתיק שבו כדור הארץ נמצא במרכז היקום"
+            },
+            {
+                "definition": "Related to geothermal energy or heat from within the Earth",
+                "definition_hebrew": "קשור לאנרגיה גיאותרמית או לחום מתוך כדור הארץ",
+                "example": "Geothermal power plant - a facility that generates electricity using heat from within the Earth",
+                "example_hebrew": "תחנת כוח גיאותרמית - מתקן המייצר חשמל באמצעות חום מתוך כדור הארץ"
+            }
+        ]
+    }
+]

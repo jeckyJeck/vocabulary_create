@@ -1,0 +1,40 @@
+[
+    {
+        "word": "count",
+        "word_hebrew": "לספור",
+        "main_definition": "To determine the total number of items in a group, or to measure the quantity of something.",
+        "main_definition_hebrew": "כדי לקבוע את המספר הכולל של פריטים בקבוצה, או למדוד את הכמות של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To calculate the number of items in a set",
+                "definition_hebrew": "כדי לחשב את מספר הפריטים בסט",
+                "example": "I will count how many apples are in the basket.",
+                "example_hebrew": "אני אספור כמה תפוחים יש בסל."
+            },
+            {
+                "definition": "The act of verifying or checking something to determine its existence, presence, or importance",
+                "definition_hebrew": "הפעולה של אימות או בדיקה של משהו כדי לקבוע את קיומו, נוכחותו או חשיבותו",
+                "example": "She counted on her instincts to make a decision.",
+                "example_hebrew": "היא סמכה על האינסטינקטים שלה כדי לקבל החלטה."
+            },
+            {
+                "definition": "To tally up the points in a game or competition",
+                "definition_hebrew": "כדי לאסוף את הנקודות במשחק או בתחרות",
+                "example": "The referee will count the fouls committed by each team.",
+                "example_hebrew": "השופט יספור את העבירות שביצעה כל קבוצה."
+            },
+            {
+                "definition": "A unit of currency, especially used to measure economic value",
+                "definition_hebrew": "יחידת מטבע, המשמשת במיוחד למדידת ערך כלכלי",
+                "example": "I have a hundred dollars in my bank account.",
+                "example_hebrew": "יש לי מאה דולר בחשבון הבנק שלי."
+            },
+            {
+                "definition": "To give careful consideration or attention to something",
+                "definition_hebrew": "לתת תשומת לב או תשומת לב למשהו",
+                "example": "Let's count the number of times we encounter this issue and find a solution.",
+                "example_hebrew": "בואו נספור את מספר הפעמים שנתקלנו בבעיה הזו ונמצא פתרון."
+            }
+        ]
+    }
+]

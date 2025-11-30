@@ -1,0 +1,34 @@
+[
+    {
+        "word": "floors",
+        "word_hebrew": "קומות",
+        "main_definition": "The plural form of 'floor', referring to the surface covering a room or building, as well as an idiom used in various contexts.",
+        "main_definition_hebrew": "צורת הרבים של 'רצפה', המתייחסת למשטח המכסה חדר או בניין, וכן לניב המשמש בהקשרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A level surface inside a building that people walk on.",
+                "definition_hebrew": "משטח ישר בתוך בניין שאנשים הולכים עליו.",
+                "example": "She tripped over something on the third floor of her office.",
+                "example_hebrew": "היא מעדה על משהו בקומה השלישית של משרדה."
+            },
+            {
+                "definition": "The action of going down from one level to another in a multi-story building, often as part of an argument or punishment.",
+                "definition_hebrew": "הפעולה של ירידה מרמה אחת לאחרת בבניין רב קומות, לרוב כחלק מוויכוח או עונש.",
+                "example": "He floored his sister when he refused to do his chores.",
+                "example_hebrew": "הוא ריצפה את אחותו כשסירב לבצע את המטלות שלו."
+            },
+            {
+                "definition": "A term used in business and sports contexts to describe the number of consecutive wins by a team or individual.",
+                "definition_hebrew": "מונח המשמש בהקשרים עסקיים וספורטיביים כדי לתאר את מספר הזכיות הרצופות של קבוצה או יחיד.",
+                "example": "The company has been on fire, winning floor after floor in sales this quarter.",
+                "example_hebrew": "החברה עלתה באש, וניצחה קומה אחר קומה במכירות ברבעון זה."
+            },
+            {
+                "definition": "An idiomatic expression referring to an insulting gesture used to express anger or frustration towards someone.",
+                "definition_hebrew": "ביטוי אידיומטי המתייחס למחווה מעליבה המשמשת להבעת כעס או תסכול כלפי מישהו.",
+                "example": "When he saw his boss walking by, he floored the car and sped away.",
+                "example_hebrew": "כשראה את הבוס שלו עובר על פניו, הוא ריצף את המכונית ומיהר משם."
+            }
+        ]
+    }
+]

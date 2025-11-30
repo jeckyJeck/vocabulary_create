@@ -1,0 +1,28 @@
+[
+    {
+        "word": "its",
+        "word_hebrew": "שֶׁלָה",
+        "main_definition": "Its is a possessive pronoun used to indicate ownership or association of an object, person, place, etc., by someone previously mentioned or easily identified in context.",
+        "main_definition_hebrew": "זהו כינוי רכושני המשמש לציון בעלות או שיוך של חפץ, אדם, מקום וכו', על ידי מישהו שהוזכר קודם לכן או מזוהה בקלות בהקשר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Refers to the belongingness or possession of something by another entity",
+                "definition_hebrew": "הכוונה לשייכות או החזקה של משהו על ידי ישות אחרת",
+                "example": "The cat licked its paw after jumping off the table.",
+                "example_hebrew": "החתול ליקק את כפו לאחר שקפץ מהשולחן."
+            },
+            {
+                "definition": "Used as a gender-neutral singular pronoun when referring back to a person whose gender is unknown or irrelevant",
+                "definition_hebrew": "משמש ככינוי יחיד נייטרלי מגדר כאשר מתייחסים חזרה לאדם שמינו אינו ידוע או לא רלוונטי",
+                "example": "Everyone should do their homework before leaving school.",
+                "example_hebrew": "כל אחד צריך לעשות שיעורי בית לפני שהוא עוזב את בית הספר."
+            },
+            {
+                "definition": "Refers to the associated group, organization, or community previously mentioned in context",
+                "definition_hebrew": "מתייחס לקבוצה, הארגון או הקהילה המשויכים שהוזכרו קודם לכן בהקשר",
+                "example": "The team celebrated its victory after a long season of hard work and dedication.",
+                "example_hebrew": "הקבוצה חגגה את ניצחונה לאחר עונה ארוכה של עבודה קשה ומסירות."
+            }
+        ]
+    }
+]

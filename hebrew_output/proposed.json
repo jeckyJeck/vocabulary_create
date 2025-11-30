@@ -1,0 +1,34 @@
+[
+    {
+        "word": "proposed",
+        "word_hebrew": "מוּצָע",
+        "main_definition": "To suggest or put forward an idea, plan, or amendment for consideration by others.",
+        "main_definition_hebrew": "להציע או להעלות רעיון, תוכנית או תיקון לבחינת אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To present a suggestion formally to someone in authority with the intention of having it accepted and implemented.",
+                "definition_hebrew": "להציג הצעה רשמית לגורם בעל סמכות מתוך כוונה לקבל אותה וליישמה.",
+                "example": "The committee proposed new regulations for environmental protection.",
+                "example_hebrew": "הוועדה הציעה תקנות חדשות להגנת הסביבה."
+            },
+            {
+                "definition": "To offer or suggest something, usually as a possible solution to a problem or challenge.",
+                "definition_hebrew": "להציע או להציע משהו, בדרך כלל כפתרון אפשרי לבעיה או אתגר.",
+                "example": "She proposed an innovative approach to solving the company's declining sales figures.",
+                "example_hebrew": "היא הציעה גישה חדשנית לפתרון נתוני המכירות היורדים של החברה."
+            },
+            {
+                "definition": "In mathematics and propositional logic, to state that a particular proposition is true without proof.",
+                "definition_hebrew": "במתמטיקה ובהיגיון טענה, לקבוע שטענה מסוימת נכונה ללא הוכחה.",
+                "example": "The theorem was proven by stating it as a 'proposed lemma.'",
+                "example_hebrew": "המשפט הוכח בהצהרתו כ'למה מוצעת'."
+            },
+            {
+                "definition": "To ask or invite someone for an event such as a dance or social gathering.",
+                "definition_hebrew": "לבקש או להזמין מישהו לאירוע כמו ריקוד או מפגש חברתי.",
+                "example": "He proposed to his girlfriend during their anniversary dinner.",
+                "example_hebrew": "הוא הציע נישואין לחברתו במהלך ארוחת יום השנה שלהם."
+            }
+        ]
+    }
+]

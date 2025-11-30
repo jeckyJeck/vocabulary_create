@@ -1,0 +1,40 @@
+[
+    {
+        "word": "instrument",
+        "word_hebrew": "כלי",
+        "main_definition": "An instrument is a tool, device, or implement used to achieve an objective, often related to music or measurements.",
+        "main_definition_hebrew": "מכשיר הוא כלי, מכשיר או מכשיר המשמשים להשגת מטרה, הקשורים לעתים קרובות למוזיקה או מדידות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A musical instrument, a device designed to make musical sounds when played",
+                "definition_hebrew": "כלי נגינה, מכשיר שנועד להשמיע צלילים מוזיקליים בעת הנגינה",
+                "example": "The piano is a popular string and percussion musical instrument.",
+                "example_hebrew": "הפסנתר הוא כלי מיתר וכלי הקשה פופולרי."
+            },
+            {
+                "definition": "An implement used for carrying out measurements or calculations in various fields such as science and engineering",
+                "definition_hebrew": "מכשיר המשמש לביצוע מדידות או חישובים בתחומים שונים כגון מדע והנדסה",
+                "example": "A thermometer is an instrument that measures temperature.",
+                "example_hebrew": "מדחום הוא מכשיר שמודד טמפרטורה."
+            },
+            {
+                "definition": "A legal instrument, a formal written document which serves as proof of certain actions or agreements between parties",
+                "definition_hebrew": "מכשיר משפטי, מסמך רשמי בכתב המשמש כהוכחה לפעולות או הסכמים מסוימים בין הצדדים",
+                "example": "A deed is a legal instrument used to transfer ownership of property from one party to another.",
+                "example_hebrew": "שטר הוא מכשיר משפטי המשמש להעברת בעלות על נכס מצד אחד למשנהו."
+            },
+            {
+                "definition": "An apparatus designed for surgical procedures and manipulations, including tools like scalpels and forceps",
+                "definition_hebrew": "מכשיר המיועד להליכים ומניפולציות כירורגיות, כולל כלים כמו אזמלים ומלקחיים",
+                "example": "Surgical instruments are essential in performing medical operations such as amputations.",
+                "example_hebrew": "מכשירים כירורגיים חיוניים בביצוע פעולות רפואיות כגון קטיעות."
+            },
+            {
+                "definition": "A device or mechanism that is used to control or manipulate another object's movement or behavior",
+                "definition_hebrew": "מכשיר או מנגנון המשמשים לשליטה או מניפולציה של תנועה או התנהגות של אובייקט אחר",
+                "example": "The steering wheel is an instrument for controlling the direction of a vehicle.",
+                "example_hebrew": "ההגה הוא מכשיר לשליטה בכיוון הרכב."
+            }
+        ]
+    }
+]

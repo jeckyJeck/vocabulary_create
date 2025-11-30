@@ -1,0 +1,28 @@
+[
+    {
+        "word": "purchasing",
+        "word_hebrew": "רכישה",
+        "main_definition": "The act of acquiring goods or services by paying a specified amount, often as part of business operations.",
+        "main_definition_hebrew": "הפעולה של רכישת סחורות או שירותים על ידי תשלום סכום מוגדר, לעתים קרובות כחלק מפעילות עסקית.",
+        "meanings_and_examples": [
+            {
+                "definition": "The process of buying items for personal use",
+                "definition_hebrew": "תהליך קניית פריטים לשימוש אישי",
+                "example": "I went purchasing groceries at the local supermarket.",
+                "example_hebrew": "הלכתי לקנות מצרכים בסופר המקומי."
+            },
+            {
+                "definition": "An activity related to business transactions where goods or services are bought on behalf of an organization",
+                "definition_hebrew": "פעילות הקשורה לעסקאות עסקיות שבהן סחורות או שירותים נרכשים מטעם ארגון",
+                "example": "The purchasing department is responsible for ordering office supplies and equipment.",
+                "example_hebrew": "מחלקת הרכש אחראית על הזמנת ציוד משרדי וציוד."
+            },
+            {
+                "definition": "A specific financial role within a company that manages the procurement process",
+                "definition_hebrew": "תפקיד פיננסי ספציפי בתוך חברה המנהלת את תהליך הרכש",
+                "example": "She has been promoted to head of purchasing, overseeing all buying activities in her division.",
+                "example_hebrew": "היא קודמה לתפקיד ראש תחום רכש, המפקחת על כל פעילויות הקנייה בחטיבה שלה."
+            }
+        ]
+    }
+]

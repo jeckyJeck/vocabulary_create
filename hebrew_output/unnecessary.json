@@ -1,0 +1,34 @@
+[
+    {
+        "word": "unnecessary",
+        "word_hebrew": "מְיוּתָר",
+        "main_definition": "Something that is not needed or superfluous.",
+        "main_definition_hebrew": "משהו שלא נחוץ או מיותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not required or essential",
+                "definition_hebrew": "לא חובה או חיונית",
+                "example": "It was unnecessary to buy a new car when the old one still worked well.",
+                "example_hebrew": "זה היה מיותר לקנות מכונית חדשה כשהישן עדיין עבד טוב."
+            },
+            {
+                "definition": "Unwanted or superfluous",
+                "definition_hebrew": "לא רצוי או מיותר",
+                "example": "His constant complaints were an unnecessary burden on everyone's mood.",
+                "example_hebrew": "תלונותיו הקבועות היוו עומס מיותר על מצב הרוח של כולם."
+            },
+            {
+                "definition": "Not contributing to the desired outcome",
+                "definition_hebrew": "לא תורם לתוצאה הרצויה",
+                "example": "The additional features added by the developer seemed unnecessary for the project's success.",
+                "example_hebrew": "התכונות הנוספות שהוסיף היזם נראו מיותרות להצלחת הפרויקט."
+            },
+            {
+                "definition": "Unnecessary expenditure of time or effort",
+                "definition_hebrew": "הוצאה מיותרת של זמן או מאמץ",
+                "example": "Checking emails every hour is an unnecessary use of your workday.",
+                "example_hebrew": "בדיקת מיילים כל שעה היא שימוש מיותר ביום העבודה שלך."
+            }
+        ]
+    }
+]

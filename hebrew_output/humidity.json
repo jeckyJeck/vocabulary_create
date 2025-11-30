@@ -1,0 +1,34 @@
+[
+    {
+        "word": "humidity",
+        "word_hebrew": "לחות",
+        "main_definition": "Humidity refers to the amount of water vapor present in the air or a specific environment.",
+        "main_definition_hebrew": "לחות מתייחסת לכמות אדי המים הקיימת באוויר או בסביבה ספציפית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Measurement of moisture content in the atmosphere",
+                "definition_hebrew": "מדידת תכולת הלחות באטמוספרה",
+                "example": "The humidity level today is around 80%, which means there's a high amount of water vapor in the air.",
+                "example_hebrew": "רמת הלחות כיום היא בסביבות 80%, מה שאומר שיש כמות גבוהה של אדי מים באוויר."
+            },
+            {
+                "definition": "Sensation or feeling caused by excessive moisture in the air",
+                "definition_hebrew": "תחושה או תחושה הנגרמת על ידי לחות מוגזמת באוויר",
+                "example": "During summer, many people feel sticky and uncomfortable due to the high humidity.",
+                "example_hebrew": "במהלך הקיץ, אנשים רבים מרגישים דביקים ואי נוחות בשל הלחות הגבוהה."
+            },
+            {
+                "definition": "Ability of the atmosphere to hold water vapor at a certain temperature",
+                "definition_hebrew": "יכולת האטמוספירה להחזיק אדי מים בטמפרטורה מסוימת",
+                "example": "The dew point is an indicator of how much moisture air can contain before it becomes saturated, also known as its humidity level.",
+                "example_hebrew": "נקודת הטל היא אינדיקטור לכמות הלחות שהאוויר יכול להכיל לפני שהוא הופך לרווי, המכונה גם רמת הלחות שלו."
+            },
+            {
+                "definition": "Effect on plants and animals due to the amount of water vapor in the environment",
+                "definition_hebrew": "השפעה על צמחים ובעלי חיים עקב כמות אדי המים בסביבה",
+                "example": "High humidity levels can lead to mold growth inside homes and affect people with respiratory issues.",
+                "example_hebrew": "רמות לחות גבוהות עלולות להוביל לצמיחת עובש בבתים ולהשפיע על אנשים עם בעיות נשימה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "scenario",
+        "word_hebrew": "תַרחִישׁ",
+        "main_definition": "A scenario is a situation or sequence of events that may be imagined, planned, or enacted in various contexts like storytelling, simulations, or business planning.",
+        "main_definition_hebrew": "תרחיש הוא מצב או רצף של אירועים שניתן לדמיין, לתכנן או לממש בהקשרים שונים כמו סיפורים, סימולציות או תכנון עסקי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Narrative description",
+                "definition_hebrew": "תיאור סיפורי",
+                "example": "The author crafted a scenario depicting the challenges faced by an astronaut on Mars.",
+                "example_hebrew": "המחבר יצר תרחיש המתאר את האתגרים העומדים בפני אסטרונאוט על מאדים."
+            },
+            {
+                "definition": "Potential sequence of events in storytelling or filmmaking",
+                "definition_hebrew": "רצף אירועים פוטנציאלי בסיפור סיפורים או ביצירת סרטים",
+                "example": "The screenplay included several possible scenarios for how to handle unexpected plot twists.",
+                "example_hebrew": "התסריט כלל כמה תרחישים אפשריים כיצד להתמודד עם תפניות בלתי צפויות בעלילה."
+            },
+            {
+                "definition": "A set of conditions used in simulations, games, and training exercises",
+                "definition_hebrew": "סט של תנאים המשמשים בסימולציות, משחקים ותרגילי אימון",
+                "example": "The flight simulator provided multiple scenarios to train pilots on emergency procedures.",
+                "example_hebrew": "סימולטור הטיסה סיפק מספר תרחישים להכשרת טייסים על נהלי חירום."
+            },
+            {
+                "definition": "Description of possible future developments or trends",
+                "definition_hebrew": "תיאור של התפתחויות או מגמות עתידיות אפשריות",
+                "example": "Business analysts created several scenarios for the company's growth in different market conditions.",
+                "example_hebrew": "אנליסטים עסקיים יצרו מספר תרחישים לצמיחת החברה בתנאי שוק שונים."
+            },
+            {
+                "definition": "A hypothetical situation used for discussion, decision-making, or problem-solving",
+                "definition_hebrew": "מצב היפותטי המשמש לדיון, קבלת החלטות או פתרון בעיות",
+                "example": "Management considered various scenarios to address potential risks and opportunities.",
+                "example_hebrew": "ההנהלה שקלה תרחישים שונים כדי להתמודד עם סיכונים והזדמנויות פוטנציאליות."
+            }
+        ]
+    }
+]

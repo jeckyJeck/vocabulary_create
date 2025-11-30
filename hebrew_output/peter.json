@@ -1,0 +1,28 @@
+[
+    {
+        "word": "peter",
+        "word_hebrew": "פיטר",
+        "main_definition": "Pete is a common name, but as an idiom or phrase it can have different meanings related to diminishing, avoidance, or incompetence.",
+        "main_definition_hebrew": "פיט הוא שם נפוץ, אבל בתור ביטוי או ביטוי יכולים להיות לו משמעויות שונות הקשורות לירידה, הימנעות או חוסר יכולת.",
+        "meanings_and_examples": [
+            {
+                "definition": "To gradually decrease; reduce in amount, size, or degree",
+                "definition_hebrew": "להפחית בהדרגה; להפחית בכמות, בגודל או בדרגה",
+                "example": "After the company's profits dropped significantly, they decided to peter out their expenses.",
+                "example_hebrew": "לאחר שרווחי החברה ירדו באופן משמעותי, הם החליטו לדחות את הוצאותיהם."
+            },
+            {
+                "definition": "Avoidance of responsibility or action",
+                "definition_hebrew": "הימנעות מאחריות או פעולה",
+                "example": "He always peters out from taking initiative in group projects and leaves everything to others.",
+                "example_hebrew": "הוא תמיד מתרחק מנטילת יוזמה בפרויקטים קבוצתיים ומשאיר הכל לאחרים."
+            },
+            {
+                "definition": "Incompetence or failure; not performing up to expectations",
+                "definition_hebrew": "חוסר יכולת או כישלון; לא עומד בציפיות",
+                "example": "The team's performance was so poor that it seemed as if they were petering away at the task.",
+                "example_hebrew": "הביצועים של הקבוצה היו כל כך גרועים, עד שנראה כאילו הם מתעקשים במשימה."
+            }
+        ]
+    }
+]

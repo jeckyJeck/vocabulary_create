@@ -1,0 +1,40 @@
+[
+    {
+        "word": "configure",
+        "word_hebrew": "להגדיר",
+        "main_definition": "To set up, adjust, or adapt something according to specific requirements or preferences.",
+        "main_definition_hebrew": "להגדיר, להתאים או להתאים משהו לפי דרישות או העדפות ספציפיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To arrange or organize the elements of a system or device in a particular order or manner",
+                "definition_hebrew": "לארגן או לארגן את הרכיבים של מערכת או מכשיר בסדר או באופן מסוים",
+                "example": "I need to configure my router settings for optimal Wi-Fi coverage.",
+                "example_hebrew": "אני צריך להגדיר את הגדרות הנתב שלי לכיסוי Wi-Fi אופטימלי."
+            },
+            {
+                "definition": "To set up, establish parameters and controls on software applications or programs",
+                "definition_hebrew": "כדי להגדיר, קבע פרמטרים ופקדים על יישומי תוכנה או תוכניות",
+                "example": "She had to configure the project management tool according to her team's workflow.",
+                "example_hebrew": "היא נאלצה להגדיר את כלי ניהול הפרויקטים בהתאם לזרימת העבודה של הצוות שלה."
+            },
+            {
+                "definition": "To adjust settings or options of a device, machine, or system for optimal performance",
+                "definition_hebrew": "כדי להתאים הגדרות או אפשרויות של מכשיר, מכונה או מערכת לביצועים מיטביים",
+                "example": "The technician configured the printer with my preferred paper size and quality level.",
+                "example_hebrew": "הטכנאי הגדיר את המדפסת עם גודל הנייר ורמת האיכות המועדפת עלי."
+            },
+            {
+                "definition": "To plan or design something according to specific needs or requirements",
+                "definition_hebrew": "לתכנן או לעצב משהו לפי צרכים או דרישות ספציפיות",
+                "example": "We need to configure our website layout to improve user experience and accessibility.",
+                "example_hebrew": "עלינו להגדיר את פריסת האתר שלנו כדי לשפר את חווית המשתמש והנגישות."
+            },
+            {
+                "definition": "To adapt a piece of software, hardware, or system to meet particular requirements or standards",
+                "definition_hebrew": "כדי להתאים פיסת תוכנה, חומרה או מערכת כדי לעמוד בדרישות או תקנים מסוימים",
+                "example": "The IT department was responsible for configuring the company's computers with necessary security updates.",
+                "example_hebrew": "מחלקת ה-IT הייתה אחראית על קביעת התצורה של מחשבי החברה עם עדכוני אבטחה נחוצים."
+            }
+        ]
+    }
+]

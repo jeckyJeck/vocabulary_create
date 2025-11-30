@@ -1,0 +1,40 @@
+[
+    {
+        "word": "targets",
+        "word_hebrew": "מטרות",
+        "main_definition": "Targets refer to the objects, individuals, or entities that are aimed at in various contexts such as shooting, business strategy, or problem-solving.",
+        "main_definition_hebrew": "מטרות מתייחסות לאובייקטים, ליחידים או לגופים שמכוונים אליהם בהקשרים שונים כגון ירי, אסטרטגיה עסקית או פתרון בעיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In a military or law enforcement context, targets are people or locations designated for attack or surveillance.",
+                "definition_hebrew": "בהקשר צבאי או אכיפת חוק, מטרות הן אנשים או מקומות המיועדים לתקיפה או מעקב.",
+                "example": "The police were monitoring the suspects as their primary targets.",
+                "example_hebrew": "המשטרה עקבה אחר החשודים כמטרותיהם העיקריות."
+            },
+            {
+                "definition": "When referring to firearms, shooting practice targets are objects used by shooters to improve accuracy and aiming skills.",
+                "definition_hebrew": "כאשר מתייחסים לנשק חם, מטרות תרגול ירי הם חפצים המשמשים את היורים לשיפור הדיוק וכישורי הכוונה.",
+                "example": "He spent hours practicing at the shooting range with his new rifle and various targets.",
+                "example_hebrew": "הוא בילה שעות בתרגול במטווח עם הרובה החדש שלו ומטרות שונות."
+            },
+            {
+                "definition": "In business or marketing contexts, a target refers to a specific group of consumers that a company aims to reach through its products or services.",
+                "definition_hebrew": "בהקשרים עסקיים או שיווקיים, יעד מתייחס לקבוצה מסוימת של צרכנים שאליה חברה שואפת להגיע באמצעות המוצרים או השירותים שלה.",
+                "example": "The advertising campaign was designed to appeal to the young adults aged 18-24 as their main targets.",
+                "example_hebrew": "קמפיין הפרסום נועד לפנות לצעירים בגילאי 18-24 כמטרותיהם העיקריות."
+            },
+            {
+                "definition": "In problem-solving, particularly in mathematics and computer science, a target can represent an objective or solution that needs to be achieved.",
+                "definition_hebrew": "בפתרון בעיות, במיוחד במתמטיקה ומדעי המחשב, יעד יכול לייצג יעד או פתרון שצריך להשיג.",
+                "example": "The algorithm's purpose is to find the shortest path between two points, with each node as a potential target.",
+                "example_hebrew": "מטרת האלגוריתם היא למצוא את הנתיב הקצר ביותר בין שתי נקודות, כאשר כל צומת הוא יעד פוטנציאלי."
+            },
+            {
+                "definition": "In sports such as archery or golf, targets are physical objects used for scoring and measuring performance levels.",
+                "definition_hebrew": "בענפי ספורט כגון חץ וקשת או גולף, מטרות הן חפצים פיזיים המשמשים לניקוד ולמדידה של רמות ביצועים.",
+                "example": "During practice sessions, the athletes were required to hit various sizes of targets representing different point values.",
+                "example_hebrew": "במהלך אימונים, הספורטאים נדרשו לפגוע בגדלים שונים של מטרות המייצגות ערכי נקודות שונים."
+            }
+        ]
+    }
+]

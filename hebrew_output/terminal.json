@@ -1,0 +1,28 @@
+[
+    {
+        "word": "terminal",
+        "word_hebrew": "מָסוֹף",
+        "main_definition": "Terminal can refer to a point or end of something, an electronic device used to connect with remote computers or services, or a location where passengers embark or disembark from transportation.",
+        "main_definition_hebrew": "טרמינל יכול להתייחס לנקודה או לקצה של משהו, מכשיר אלקטרוני המשמש לחיבור עם מחשבים או שירותים מרוחקים, או מיקום שבו נוסעים עולים או יורדים מתחבורה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Referring to the end or extremity",
+                "definition_hebrew": "הכוונה לסוף או לקיצוניות",
+                "example": "The terminal illness of her grandmother was heartbreaking for everyone.",
+                "example_hebrew": "המחלה הסופנית של סבתה הייתה קורעת לב לכולם."
+            },
+            {
+                "definition": "A device used to connect with remote computers or services, often in a network context",
+                "definition_hebrew": "מכשיר המשמש לחיבור עם מחשבים או שירותים מרוחקים, לרוב בהקשר רשת",
+                "example": "He connected his laptop to the internet using an Ethernet terminal at the library.",
+                "example_hebrew": "הוא חיבר את המחשב הנייד שלו לאינטרנט באמצעות מסוף אתרנט בספרייה."
+            },
+            {
+                "definition": "A place where passengers board (embark) and disembark from transportation such as airplanes or trains",
+                "definition_hebrew": "מקום בו נוסעים עולים (עולים) ויורדים מתחבורה כגון מטוסים או רכבות",
+                "example": "We arrived at the train terminal after a long journey, ready to embark on our vacation.",
+                "example_hebrew": "הגענו למסוף הרכבת לאחר מסע ארוך, מוכנים לצאת לחופשה."
+            }
+        ]
+    }
+]

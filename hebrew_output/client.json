@@ -1,0 +1,34 @@
+[
+    {
+        "word": "client",
+        "word_hebrew": "לָקוּחַ",
+        "main_definition": "A person or organization that receives advice, services, or products from a professional or business.",
+        "main_definition_hebrew": "אדם או ארגון המקבל ייעוץ, שירותים או מוצרים מבעל מקצוע או מעסק.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual who uses the services of a professional such as an attorney, accountant, or consultant.",
+                "definition_hebrew": "אדם המשתמש בשירותיו של איש מקצוע כגון עורך דין, רואה חשבון או יועץ.",
+                "example": "John hired a financial advisor to manage his investments; John is the client.",
+                "example_hebrew": "ג'ון שכר יועץ פיננסי לניהול השקעותיו; ג'ון הוא הלקוח."
+            },
+            {
+                "definition": "A customer of a business or company that provides goods or services.",
+                "definition_hebrew": "לקוח של עסק או חברה המספקים סחורות או שירותים.",
+                "example": "Sarah went shopping at her favorite clothing store and made several purchases. The store's customers, like Sarah, are clients.",
+                "example_hebrew": "שרה הלכה לקניות בחנות הבגדים האהובה עליה וביצעה מספר רכישות. לקוחות החנות, כמו שרה, הם לקוחות."
+            },
+            {
+                "definition": "An individual who receives treatment from healthcare professionals such as doctors or therapists.",
+                "definition_hebrew": "אדם המקבל טיפול מאנשי מקצוע בתחום הבריאות כגון רופאים או מטפלים.",
+                "example": "After the surgery, Emily was referred to a physiotherapy clinic; she became their client for rehabilitation.",
+                "example_hebrew": "לאחר הניתוח הופנתה אמילי למרפאת פיזיותרפיה; היא הפכה ללקוחה שלהם לשיקום."
+            },
+            {
+                "definition": "A member of an organization who receives products from that company's production or manufacturing.",
+                "definition_hebrew": "חבר בארגון המקבל מוצרים מייצור או ייצור של אותה חברה.",
+                "example": "The local bakery supplies fresh bread and pastries to the nearby schools. The schools are clients of the bakery.",
+                "example_hebrew": "המאפייה המקומית מספקת לחם טרי ומאפים לבתי הספר הסמוכים. בתי הספר הם לקוחות המאפייה."
+            }
+        ]
+    }
+]

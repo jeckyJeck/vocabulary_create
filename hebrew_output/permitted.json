@@ -1,0 +1,34 @@
+[
+    {
+        "word": "permitted",
+        "word_hebrew": "מוּתָר",
+        "main_definition": "Allowed or authorized by rules, laws, or an authority.",
+        "main_definition_hebrew": "מותר או מורשה לפי כללים, חוקים או רשות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Able to be done without facing consequences",
+                "definition_hebrew": "ניתן לעשות זאת מבלי להתמודד עם השלכות",
+                "example": "Children are permitted to play outside after completing their homework.",
+                "example_hebrew": "לילדים מותר לשחק בחוץ לאחר השלמת שיעורי הבית."
+            },
+            {
+                "definition": "Allowed by law or regulation",
+                "definition_hebrew": "מותר על פי חוק או תקנה",
+                "example": "Smoking is not permitted in public places according to the local smoking ban.",
+                "example_hebrew": "עישון אסור במקומות ציבוריים בהתאם לאיסור העישון המקומי."
+            },
+            {
+                "definition": "Given explicit consent for action or behavior",
+                "definition_hebrew": "ניתנה הסכמה מפורשת לפעולה או התנהגות",
+                "example": "The company's policy permits employees to work from home when necessary.",
+                "example_hebrew": "מדיניות החברה מתירה לעובדים לעבוד מהבית בעת הצורך."
+            },
+            {
+                "definition": "Allowed within certain limits or boundaries",
+                "definition_hebrew": "מותר בגבולות או גבולות מסוימים",
+                "example": "A driver is permitted to use the left lane on highways with three lanes for passing traffic.",
+                "example_hebrew": "נהג רשאי להשתמש בנתיב השמאלי בכבישים מהירים עם שלושה נתיבים לתנועה חולפת."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "census",
+        "word_hebrew": "מִפקָד",
+        "main_definition": "A census is a systematic process of collecting, analyzing, and publishing demographic data about the population of a specific area.",
+        "main_definition_hebrew": "מפקד אוכלוסין הוא תהליך שיטתי של איסוף, ניתוח ופרסום נתונים דמוגרפיים על אוכלוסיית אזור מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A survey that measures various characteristics of a population such as age, gender, race, income, employment status etc.,",
+                "definition_hebrew": "סקר המודד מאפיינים שונים של אוכלוסייה כמו גיל, מין, גזע, הכנסה, מצב תעסוקתי וכו',",
+                "example": "The government conducts a census every ten years to understand the demographic makeup of its citizens.",
+                "example_hebrew": "הממשלה עורכת מדי עשר שנים מפקד אוכלוסין כדי להבין את ההרכב הדמוגרפי של אזרחיה."
+            },
+            {
+                "definition": "An act or process of counting and recording systematically each person in the population of a country, province, region, city, etc.,",
+                "definition_hebrew": "מעשה או תהליך של ספירה ורישום שיטתי של כל אדם באוכלוסיית מדינה, מחוז, אזור, עיר וכו',",
+                "example": "The United States Census Bureau is responsible for conducting the decennial census to determine the number of people living in different parts of the country.",
+                "example_hebrew": "לשכת מפקד האוכלוסין של ארצות הברית אחראית על ביצוע מפקד האוכלוסין העשרה על מנת לקבוע את מספר האנשים החיים בחלקים שונים של המדינה."
+            },
+            {
+                "definition": "A formal count or survey of a population, typically recording various details of individuals.",
+                "definition_hebrew": "ספירה רשמית או סקר של אוכלוסייה, בדרך כלל מתעדת פרטים שונים של פרטים.",
+                "example": "In some countries, an ethnicity-based census may be conducted to understand more about cultural diversity within their borders.",
+                "example_hebrew": "במדינות מסוימות, ניתן לערוך מפקד אוכלוסין על בסיס אתני כדי להבין יותר על המגוון התרבותי בגבולותיהן."
+            },
+            {
+                "definition": "The process by which every individual in the country is identified and recorded for official data collection purposes.",
+                "definition_hebrew": "התהליך שבו כל אדם במדינה מזוהה ומתועד למטרות איסוף נתונים רשמיים.",
+                "example": "During a census, each household receives a questionnaire that contains questions related to various aspects of life, such as family composition, housing, and employment.",
+                "example_hebrew": "במהלך מפקד אוכלוסין, כל משק בית מקבל שאלון המכיל שאלות הקשורות להיבטים שונים של החיים, כמו הרכב המשפחה, דיור ותעסוקה."
+            }
+        ]
+    }
+]

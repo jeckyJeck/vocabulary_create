@@ -1,0 +1,34 @@
+[
+    {
+        "word": "works",
+        "word_hebrew": "עובד",
+        "main_definition": "When used as a verb, 'works' means to function properly or operate successfully. As an idiom, it can have multiple meanings depending on the context.",
+        "main_definition_hebrew": "כאשר משתמשים בו כפועל, 'עובד' פירושו לתפקד כראוי או לפעול בהצלחה. בתור ניב, זה יכול להיות בעל משמעויות מרובות בהתאם להקשר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Functions properly",
+                "definition_hebrew": "מתפקד כמו שצריך",
+                "example": "The machine works perfectly after being repaired.",
+                "example_hebrew": "המכונה עובדת בצורה מושלמת לאחר תיקון."
+            },
+            {
+                "definition": "To be in operation or action",
+                "definition_hebrew": "להיות במבצע או בפעולה",
+                "example": "I'm working on my thesis to finish it before the deadline.",
+                "example_hebrew": "אני עובד על התזה שלי כדי לסיים אותה לפני המועד האחרון."
+            },
+            {
+                "definition": "Acknowledges a request or suggestion",
+                "definition_hebrew": "מאשר בקשה או הצעה",
+                "example": "When asked for feedback, she says 'It works for me.'",
+                "example_hebrew": "כשהיא מבקשת משוב, היא אומרת 'זה עובד לי'."
+            },
+            {
+                "definition": "Is effective in achieving desired results",
+                "definition_hebrew": "יעיל בהשגת תוצאות רצויות",
+                "example": "This new marketing strategy really works and has increased sales.",
+                "example_hebrew": "אסטרטגיית שיווק חדשה זו באמת עובדת והגדילה את המכירות."
+            }
+        ]
+    }
+]

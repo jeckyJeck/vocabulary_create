@@ -1,0 +1,46 @@
+[
+    {
+        "word": "patterns",
+        "word_hebrew": "דפוסים",
+        "main_definition": "Patterns refer to the repetition of a set sequence, design or behavior that is observable in various contexts such as nature, art, mathematics, language, and human activity.",
+        "main_definition_hebrew": "דפוסים מתייחסים לחזרה על רצף, עיצוב או התנהגות מוגדרים הניתנים לצפייה בהקשרים שונים כגון טבע, אמנות, מתמטיקה, שפה ופעילות אנושית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Design or arrangement of elements in a repeating manner",
+                "definition_hebrew": "עיצוב או סידור של אלמנטים באופן חוזר",
+                "example": "The patterns on the butterfly's wings are symmetrical.",
+                "example_hebrew": "הדוגמאות על כנפי הפרפר סימטריות."
+            },
+            {
+                "definition": "A way something behaves that repeats over time",
+                "definition_hebrew": "דרך שבה משהו מתנהג שחוזרת על עצמה לאורך זמן",
+                "example": "There is a pattern to his daily routine: he wakes up, goes for a run, and then comes home to have breakfast with his family.",
+                "example_hebrew": "יש דפוס לשגרת יומו: הוא מתעורר, יוצא לריצה ואז חוזר הביתה לאכול ארוחת בוקר עם משפחתו."
+            },
+            {
+                "definition": "Set of rules in mathematics that describe the structure of objects",
+                "definition_hebrew": "מערכת כללים במתמטיקה המתארת את מבנה העצמים",
+                "example": "In geometry, patterns can be found in the shapes' arrangements following certain mathematical principles.",
+                "example_hebrew": "בגיאומטריה ניתן למצוא תבניות בסידורי הצורות בהתאם לעקרונות מתמטיים מסוימים."
+            },
+            {
+                "definition": "A set or arrangement used to match similarities between data points in various fields like statistics and computer science",
+                "definition_hebrew": "קבוצה או סידור המשמשים להתאמת קווי דמיון בין נקודות נתונים בתחומים שונים כמו סטטיסטיקה ומדעי המחשב",
+                "example": "Machine learning algorithms often use patterns in large datasets to make predictions.",
+                "example_hebrew": "אלגוריתמים של למידת מכונה משתמשים לעתים קרובות בדפוסים במערכי נתונים גדולים כדי לבצע תחזיות."
+            },
+            {
+                "definition": "Regular, repeated rhythmic sequences found in poetry, music, and other art forms",
+                "definition_hebrew": "רצפים קצביים קבועים ונשנים שנמצאים בשירה, במוזיקה ובצורות אמנות אחרות",
+                "example": "The poet used a specific pattern of stressed and unstressed syllables known as iambic pentameter throughout the sonnet.",
+                "example_hebrew": "המשורר השתמש בדפוס מסוים של הברות מודגשות ובלתי מודגשות המכונה מחומש יאמבי לאורך הסונטה."
+            },
+            {
+                "definition": "A linguistic term referring to recurring sequences of sounds in speech or writing",
+                "definition_hebrew": "מונח לשוני המתייחס לרצפים חוזרים של צלילים בדיבור או בכתיבה",
+                "example": "In English, alliteration is a pattern where words close together begin with the same sound, like 'Peter Piper picked a peck of pickled peppers.'",
+                "example_hebrew": "באנגלית, אליטרציה היא תבנית שבה מילים קרובות זו לזו מתחילות באותו צליל, כמו 'פיטר פייפר קטף פיק של פלפלים חמוצים'."
+            }
+        ]
+    }
+]

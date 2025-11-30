@@ -1,0 +1,28 @@
+[
+    {
+        "word": "demonstration",
+        "word_hebrew": "הפגנה",
+        "main_definition": "A public display of group opinion or emotion, often involving protests, marches, or gatherings to support a cause.",
+        "main_definition_hebrew": "הצגה פומבית של דעה או רגשות קבוצתיים, לעתים קרובות כרוכה בהפגנות, צעדות או התכנסויות לתמיכה במטרה.",
+        "meanings_and_examples": [
+            {
+                "definition": "An organized public display of support for a particular idea or action",
+                "definition_hebrew": "תצוגה ציבורית מאורגנת של תמיכה ברעיון או פעולה מסוימים",
+                "example": "The students held a demonstration in front of the city hall demanding better environmental policies.",
+                "example_hebrew": "התלמידים ערכו הפגנה מול בניין העירייה בדרישה למדיניות סביבתית טובה יותר."
+            },
+            {
+                "definition": "A teaching method that uses real-life examples to show how something works or should be done",
+                "definition_hebrew": "שיטת הוראה המשתמשת בדוגמאות מהחיים האמיתיים כדי להראות איך משהו עובד או צריך להיעשות",
+                "example": "During her presentation, she gave practical demonstrations on using statistical software for data analysis.",
+                "example_hebrew": "במהלך המצגת שלה, היא העבירה הדגמות מעשיות על שימוש בתוכנה סטטיסטית לניתוח נתונים."
+            },
+            {
+                "definition": "An official statement showing one's intentions and willingness to act on a certain issue",
+                "definition_hebrew": "הצהרה רשמית המעידה על כוונותיו ונכונותו לפעול בנושא מסוים",
+                "example": "The government issued a formal demonstration of its commitment to reducing carbon emissions by 2030.",
+                "example_hebrew": "הממשלה פרסמה הדגמה רשמית של מחויבותה לצמצום פליטת פחמן עד 2030."
+            }
+        ]
+    }
+]

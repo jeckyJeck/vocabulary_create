@@ -1,0 +1,40 @@
+[
+    {
+        "word": "sum",
+        "word_hebrew": "סְכוּם",
+        "main_definition": "The total obtained by adding two or more numbers together.",
+        "main_definition_hebrew": "הסכום המתקבל על ידי חיבור של שני מספרים או יותר יחד.",
+        "meanings_and_examples": [
+            {
+                "definition": "A mathematical operation of adding numbers to get a result.",
+                "definition_hebrew": "פעולה מתמטית של הוספת מספרים כדי לקבל תוצאה.",
+                "example": "If you add 2 and 3, the sum is 5.",
+                "example_hebrew": "אם מוסיפים 2 ו-3, הסכום הוא 5."
+            },
+            {
+                "definition": "The end or conclusion reached after consideration or examination of all aspects.",
+                "definition_hebrew": "הסוף או המסקנה שהושגו לאחר בחינה או בחינה של כל ההיבטים.",
+                "example": "After careful deliberation, they agreed to the sum result: a compromise that satisfied both parties.",
+                "example_hebrew": "לאחר התלבטות מדוקדקת, הם הסכימו לתוצאה הכוללת: פשרה שסיפקה את שני הצדדים."
+            },
+            {
+                "definition": "A total amount when referring to combining different values or amounts.",
+                "definition_hebrew": "סכום כולל כאשר מתייחסים לשילוב ערכים או סכומים שונים.",
+                "example": "Their combined salaries add up to $100,000 per year.",
+                "example_hebrew": "המשכורות המשולבות שלהם מסתכמות ב-100,000 דולר בשנה."
+            },
+            {
+                "definition": "An expression of the cumulative effect or impact of individual factors.",
+                "definition_hebrew": "ביטוי להשפעה או ההשפעה המצטברת של גורמים בודדים.",
+                "example": "The sum of her talents made her a valuable asset to any team.",
+                "example_hebrew": "סך הכישרונות שלה הפך אותה לנכס יקר ערך לכל קבוצה."
+            },
+            {
+                "definition": "A figurative use referring to bringing together separate elements for an overall result.",
+                "definition_hebrew": "שימוש פיגורטיבי המתייחס להכנסת אלמנטים נפרדים לתוצאה כוללת.",
+                "example": "In politics, reaching the sum of different parties' demands often requires negotiation and compromise.",
+                "example_hebrew": "בפוליטיקה, הגעה לסכום הדרישות של מפלגות שונות דורשת לעתים קרובות משא ומתן ופשרה."
+            }
+        ]
+    }
+]

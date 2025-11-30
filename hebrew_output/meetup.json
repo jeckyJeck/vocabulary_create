@@ -1,0 +1,28 @@
+[
+    {
+        "word": "meetup",
+        "word_hebrew": "להיפגש",
+        "main_definition": "A planned gathering or event where people with shared interests come together to socialize, discuss common topics, or engage in activities.",
+        "main_definition_hebrew": "מפגש או אירוע מתוכנן שבו אנשים עם תחומי עניין משותפים מתכנסים כדי להתרועע, לדון בנושאים משותפים או לעסוק בפעילויות.",
+        "meanings_and_examples": [
+            {
+                "definition": "An informal social event for members of a group",
+                "definition_hebrew": "אירוע חברתי לא רשמי לחברי קבוצה",
+                "example": "The local photography enthusiasts organize monthly meetups where they share their work and exchange tips.",
+                "example_hebrew": "חובבי הצילום המקומיים מארגנים מפגשים חודשיים שבהם הם חולקים את עבודתם ומחליפים טיפים."
+            },
+            {
+                "definition": "A scheduled gathering of people with similar interests or goals",
+                "definition_hebrew": "מפגש מתוכנן של אנשים עם תחומי עניין או מטרות דומות",
+                "example": "Online communities often have virtual meetups to connect members from different parts of the world who love reading science fiction novels.",
+                "example_hebrew": "קהילות מקוונות מקיימות לעתים קרובות מפגשים וירטואליים כדי לחבר חברים ממקומות שונים בעולם שאוהבים לקרוא רומני מדע בדיוני."
+            },
+            {
+                "definition": "The act of coming together physically for a specific purpose or activity",
+                "definition_hebrew": "הפעולה של התכנסות פיזית למטרה או פעילות ספציפית",
+                "example": "A coding bootcamp includes regular in-person meetups where students work on projects and collaborate with peers.",
+                "example_hebrew": "Bootcamp בקידוד כולל מפגשים אישיים קבועים שבהם התלמידים עובדים על פרויקטים ומשתפים פעולה עם עמיתים."
+            }
+        ]
+    }
+]

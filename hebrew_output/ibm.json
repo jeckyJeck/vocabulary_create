@@ -1,0 +1,34 @@
+[
+    {
+        "word": "ibm",
+        "word_hebrew": "ibm",
+        "main_definition": "IBM stands for International Business Machines, a multinational technology company that designs and manufactures computer hardware and software.",
+        "main_definition_hebrew": "IBM ראשי תיבות של International Business Machines, חברת טכנולוגיה רב לאומית המתכננת ומייצרת חומרה ותוכנה למחשבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Internet backbone provider",
+                "definition_hebrew": "ספק עמוד שדרה אינטרנט",
+                "example": "IBM was once known for providing internet backbone infrastructure services.",
+                "example_hebrew": "יבמ הייתה ידועה פעם במתן שירותי תשתית אינטרנט."
+            },
+            {
+                "definition": "A company name",
+                "definition_hebrew": "שם חברה",
+                "example": "IBM is a well-known multinational technology corporation that designs and manufactures computer hardware and software.",
+                "example_hebrew": "IBM היא תאגיד טכנולוגיה רב לאומי ידוע המתכנן ומייצרת חומרה ותוכנה למחשבים."
+            },
+            {
+                "definition": "Bell Labs' scientific breakthroughs",
+                "definition_hebrew": "פריצות הדרך המדעיות של מעבדות בל",
+                "example": "In the mid-20th century, IBM (then known as 'IBM') was a leading force behind Bell Labs, where numerous significant technological advancements were made.",
+                "example_hebrew": "באמצע המאה ה-20, IBM (שנודעה אז בשם 'IBM') הייתה כוח מוביל מאחורי מעבדות בל, שבהן בוצעו התקדמות טכנולוגיות משמעותיות רבות."
+            },
+            {
+                "definition": "International Business Machines Corporation",
+                "definition_hebrew": "תאגיד מכונות עסקיות בינלאומיות",
+                "example": "IBM is an American multinational technology company that provides hardware, software, and IT services. It was founded in 1911 as the Computing-Tabulating-Recording Company (CTR) before being reorganized into IBM.",
+                "example_hebrew": "IBM היא חברת טכנולוגיה רב לאומית אמריקאית המספקת שירותי חומרה, תוכנה ו-IT. היא נוסדה בשנת 1911 כחברת מחשוב-טבלאות-הקלטות (CTR) לפני שאורגנה מחדש ל-IBM."
+            }
+        ]
+    }
+]

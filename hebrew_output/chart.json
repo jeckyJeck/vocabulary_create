@@ -1,0 +1,34 @@
+[
+    {
+        "word": "chart",
+        "word_hebrew": "טבלה",
+        "main_definition": "A visual representation of data, typically in the form of a graph or table.",
+        "main_definition_hebrew": "ייצוג חזותי של נתונים, בדרך כלל בצורה של גרף או טבלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To plan and track progress over time",
+                "definition_hebrew": "לתכנן ולעקוב אחר ההתקדמות לאורך זמן",
+                "example": "The project manager will chart our team's milestones to monitor our progress.",
+                "example_hebrew": "מנהל הפרויקט יתווה את אבני הדרך של הצוות שלנו כדי לעקוב אחר ההתקדמות שלנו."
+            },
+            {
+                "definition": "A visual representation of data or statistics",
+                "definition_hebrew": "ייצוג חזותי של נתונים או סטטיסטיקה",
+                "example": "She used a pie chart to display the sales distribution among different regions.",
+                "example_hebrew": "היא השתמשה בתרשים עוגה כדי להציג את התפלגות המכירות בין אזורים שונים."
+            },
+            {
+                "definition": "To make an inventory list",
+                "definition_hebrew": "כדי להכין רשימת מלאי",
+                "example": "Before starting his new job, he had to chart all the items in stock at the warehouse.",
+                "example_hebrew": "לפני תחילת עבודתו החדשה, היה עליו לשרטט את כל הפריטים במלאי במחסן."
+            },
+            {
+                "definition": "A navigational tool on a ship or aircraft",
+                "definition_hebrew": "כלי ניווט בספינה או במטוס",
+                "example": "The captain used the nautical chart to navigate through the stormy seas.",
+                "example_hebrew": "הקפטן השתמש במפה הימי כדי לנווט בים הסוער."
+            }
+        ]
+    }
+]

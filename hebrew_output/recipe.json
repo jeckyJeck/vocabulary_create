@@ -1,0 +1,34 @@
+[
+    {
+        "word": "recipe",
+        "word_hebrew": "מתכון",
+        "main_definition": "A recipe is a set of instructions that explain how to prepare or make something, usually food.",
+        "main_definition_hebrew": "מתכון הוא סט של הוראות המסבירות כיצד להכין או להכין משהו, בדרך כלל אוכל.",
+        "meanings_and_examples": [
+            {
+                "definition": "Cooking directions for preparing a dish",
+                "definition_hebrew": "הוראות בישול להכנת מנה",
+                "example": "The recipe called for 2 cups of flour and 1 cup of sugar.",
+                "example_hebrew": "המתכון דרש 2 כוסות קמח ו-1 כוס סוכר."
+            },
+            {
+                "definition": "A list or sequence of steps to be followed in order to achieve a desired result",
+                "definition_hebrew": "רשימה או רצף של שלבים שיש לבצע על מנת להשיג תוצאה רצויה",
+                "example": "She wrote down the recipe for her grandmother's famous apple pie.",
+                "example_hebrew": "היא רשמה את המתכון לעוגת התפוחים המפורסמת של סבתה שלה."
+            },
+            {
+                "definition": "An algorithmic procedure, especially one that can be executed by a computer program",
+                "definition_hebrew": "הליך אלגוריתמי, במיוחד כזה שניתן לבצע על ידי תוכנת מחשב",
+                "example": "The chemistry lab used an automated recipe to mix solutions and analyze results.",
+                "example_hebrew": "מעבדת הכימיה השתמשה במתכון אוטומטי כדי לערבב פתרונות ולנתח תוצאות."
+            },
+            {
+                "definition": "A prescription for making something in specific quantities or proportions",
+                "definition_hebrew": "מרשם להכנת משהו בכמויות או פרופורציות ספציפיות",
+                "example": "This is the chemical formula, which acts as a recipe for creating new compounds in the lab.",
+                "example_hebrew": "זוהי הנוסחה הכימית, המשמשת כמתכון ליצירת תרכובות חדשות במעבדה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "reserve",
+        "word_hebrew": "לְהַזמִין",
+        "main_definition": "To set aside or keep back something, typically for future use or as a form of precaution.",
+        "main_definition_hebrew": "לשים בצד או לשמור משהו, בדרך כלל לשימוש עתידי או כאמצעי זהירות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In finance and banking, to hold funds in an account that is not available for immediate withdrawal but can be used later upon request.",
+                "definition_hebrew": "בפיננסים ובבנקאות, להחזיק כספים בחשבון שאינו זמין למשיכה מיידית אך ניתן להשתמש בו מאוחר יותר לפי בקשה.",
+                "example": "She made regular deposits into her savings account as a reserve fund for emergencies.",
+                "example_hebrew": "היא הפקידה הפקדות קבועות לחשבון החיסכון שלה כקרן מילואים למקרי חירום."
+            },
+            {
+                "definition": "To keep a portion of something, such as wine or food, in storage to preserve freshness until needed.",
+                "definition_hebrew": "לשמור חלק ממשהו, כמו יין או מזון, באחסון כדי לשמור על טריות עד הצורך.",
+                "example": "The restaurant kept a special reserve of oysters in the refrigerator to serve throughout the day.",
+                "example_hebrew": "המסעדה שמרה במקרר מאגר מיוחד של צדפות להגשה לאורך כל היום."
+            },
+            {
+                "definition": "In ecology and environmental science, referring to an area that is protected from human interference or development, typically for conservation purposes.",
+                "definition_hebrew": "באקולוגיה ובמדעי הסביבה, הכוונה לאזור המוגן מהפרעות או התפתחות אנושית, בדרך כלל למטרות שימור.",
+                "example": "The government declared a reserve around the national park to protect its unique biodiversity.",
+                "example_hebrew": "הממשלה הכריזה על שמורה מסביב לגן הלאומי כדי להגן על המגוון הביולוגי הייחודי שלו."
+            },
+            {
+                "definition": "To make a reservation, usually in the context of booking accommodations, tickets, or services ahead of time.",
+                "definition_hebrew": "כדי לבצע הזמנה, בדרך כלל בהקשר של הזמנת מקומות לינה, כרטיסים או שירותים מבעוד מועד.",
+                "example": "They called ahead to reserve two seats at the popular restaurant for their anniversary dinner.",
+                "example_hebrew": "הם התקשרו מראש כדי לשריין שני מושבים במסעדה הפופולרית לארוחת יום השנה שלהם."
+            },
+            {
+                "definition": "In military and strategic terms, referring to a set amount of forces that are held back from immediate deployment but can be deployed when necessary.",
+                "definition_hebrew": "במונחים צבאיים ואסטרטגיים, הכוונה לכמות מוגדרת של כוחות המונעים מהיערכות מיידית אך ניתן לפרוס אותם בעת הצורך.",
+                "example": "The general ordered his troops to hold in reserve while the main force advanced towards the enemy position.",
+                "example_hebrew": "הגנרל הורה לכוחותיו להחזיק במילואים בזמן שהכוח העיקרי מתקדם לעבר עמדת האויב."
+            }
+        ]
+    }
+]

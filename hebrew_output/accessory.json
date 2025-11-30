@@ -1,0 +1,40 @@
+[
+    {
+        "word": "accessory",
+        "word_hebrew": "אבזר",
+        "main_definition": "An accessory is an item that adds to or complements another object, person, or situation.",
+        "main_definition_hebrew": "אביזר הוא פריט שמוסיף או משלים חפץ, אדם או מצב אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "A supplementary item often used with a larger piece of equipment or clothing",
+                "definition_hebrew": "פריט משלים המשמש לעתים קרובות עם חלק גדול יותר של ציוד או לבוש",
+                "example": "The leather belt is an accessory for the pants.",
+                "example_hebrew": "חגורת העור היא אביזר למכנסיים."
+            },
+            {
+                "definition": "In fashion, it refers to items that are worn with main outfits to enhance appearance and style.",
+                "definition_hebrew": "באופנה, זה מתייחס לפריטים שנלבשים עם תלבושות עיקריות כדי לשפר את המראה והסגנון.",
+                "example": "She wore a statement necklace as an eye-catching accessory to her evening gown.",
+                "example_hebrew": "היא ענדה שרשרת סטייטמנט כאביזר מושך עין לשמלת הערב שלה."
+            },
+            {
+                "definition": "A person who assists or collaborates in the commission of a crime",
+                "definition_hebrew": "אדם המסייע או משתף פעולה בביצוע פשע",
+                "example": "The bank robber's accomplice was known as his 'accessory'.",
+                "example_hebrew": "שותפו של שודד הבנק היה ידוע כ\"אבזר\" שלו."
+            },
+            {
+                "definition": "In electronics, it refers to devices that are used alongside main hardware for additional functionality.",
+                "definition_hebrew": "באלקטרוניקה, הכוונה היא להתקנים המשמשים לצד החומרה הראשית לפונקציונליות נוספת.",
+                "example": "A phone case and screen protector can be considered accessories to a smartphone.",
+                "example_hebrew": "נרתיק לטלפון ומגן מסך יכולים להיחשב אביזרים לסמארטפון."
+            },
+            {
+                "definition": "In legal terms, an individual who assists in the execution of a crime but is not the principal actor",
+                "definition_hebrew": "במונחים משפטיים, אדם המסייע בביצוע פשע אך אינו השחקן הראשי",
+                "example": "The person who provided the getaway car was charged as an accomplice or accessory to the crime.",
+                "example_hebrew": "האדם שסיפק את רכב המילוט הואשם כשותף או כעזר לפשע."
+            }
+        ]
+    }
+]

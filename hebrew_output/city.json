@@ -1,0 +1,52 @@
+[
+    {
+        "word": "city",
+        "word_hebrew": "עִיר",
+        "main_definition": "A city is a large, densely populated urban area that serves as an important center for culture, economy, and governance.",
+        "main_definition_hebrew": "עיר היא אזור עירוני גדול וצפוף המשמש מרכז חשוב לתרבות, כלכלה וממשל.",
+        "meanings_and_examples": [
+            {
+                "definition": "A metropolitan area with significant population density and vast infrastructure",
+                "definition_hebrew": "מטרופולין עם צפיפות אוכלוסין משמעותית ותשתיות עצומות",
+                "example": "New York City is known for its iconic skyline and diverse cultural scene.",
+                "example_hebrew": "העיר ניו יורק ידועה בקו הרקיע האייקוני שלה ובסצנה התרבותית המגוונת שלה."
+            },
+            {
+                "definition": "A community of people living in an urban environment, typically characterized by high-rise buildings and various services and amenities",
+                "definition_hebrew": "קהילה של אנשים החיים בסביבה עירונית, המאופיינת בדרך כלל בבניינים רבי קומות ובשירותים ושירותים שונים",
+                "example": "The citizens of Tokyo enjoy access to world-class shopping, dining, and entertainment options.",
+                "example_hebrew": "אזרחי טוקיו נהנים מגישה לאפשרויות קניות, אוכל ובילוי ברמה עולמית."
+            },
+            {
+                "definition": "A formal political entity governed by a set of laws, regulations, and institutions that oversee the administration of its territory",
+                "definition_hebrew": "ישות פוליטית רשמית הנשלטת על ידי מערכת חוקים, תקנות ומוסדות המפקחים על הניהול של שטחה",
+                "example": "London is a city with an extensive history and influential global role in politics, finance, and law.",
+                "example_hebrew": "לונדון היא עיר עם היסטוריה ענפה ותפקיד עולמי רב השפעה בפוליטיקה, פיננסים ומשפטים."
+            },
+            {
+                "definition": "A hub for businesses and commerce, often featuring skyscrapers and corporate headquarters",
+                "definition_hebrew": "מרכז לעסקים ומסחר, לעתים קרובות כולל גורדי שחקים ומטה תאגידי",
+                "example": "San Francisco's Financial District is home to many major banks and tech companies.",
+                "example_hebrew": "הרובע הפיננסי של סן פרנסיסקו הוא ביתם של בנקים וחברות טכנולוגיה גדולות רבות."
+            },
+            {
+                "definition": "An area with a rich cultural scene, including museums, theaters, galleries, and various forms of arts",
+                "definition_hebrew": "אזור עם סצנה תרבותית עשירה הכוללת מוזיאונים, תיאטראות, גלריות וצורות שונות של אומנויות",
+                "example": "Paris is renowned for its world-class museums like the Louvre and vibrant artistic culture.",
+                "example_hebrew": "פריז ידועה במוזיאונים ברמה עולמית כמו הלובר ובתרבות האמנותית התוססת."
+            },
+            {
+                "definition": "A place where people live in close proximity to one another, sharing public spaces such as parks, streets, and transportation systems",
+                "definition_hebrew": "מקום בו אנשים חיים בקרבה זה לזה, חולקים שטחים ציבוריים כגון פארקים, רחובות ומערכות תחבורה",
+                "example": "Amsterdam is known for its picturesque canals and bicycle-friendly infrastructure.",
+                "example_hebrew": "אמסטרדם ידועה בתעלות הציוריות שלה ובתשתית הידידותית לאופניים."
+            },
+            {
+                "definition": "A center of learning with numerous educational institutions like universities and colleges",
+                "definition_hebrew": "מרכז למידה עם מוסדות חינוך רבים כמו אוניברסיטאות ומכללות",
+                "example": "Cambridge in the UK is famous as a university city, home to some of the world's leading academic institutions.",
+                "example_hebrew": "קיימברידג' בבריטניה מפורסמת כעיר אוניברסיטאית, ביתם של כמה מהמוסדות האקדמיים המובילים בעולם."
+            }
+        ]
+    }
+]

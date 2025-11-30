@@ -1,0 +1,40 @@
+[
+    {
+        "word": "integration",
+        "word_hebrew": "שילוב",
+        "main_definition": "The process of combining or incorporating different elements into a unified whole, often used in mathematics to refer to the summing up of individual functions over an interval.",
+        "main_definition_hebrew": "תהליך של שילוב או שילוב של אלמנטים שונים לתוך שלם מאוחד, המשמש לעתים קרובות במתמטיקה כדי להתייחס לסיכום של פונקציות בודדות על פני מרווח.",
+        "meanings_and_examples": [
+            {
+                "definition": "In general terms, integration refers to the act of uniting separate parts into one cohesive entity. For example, integrating various departments within a company to work collaboratively towards common goals.",
+                "definition_hebrew": "במונחים כלליים, אינטגרציה מתייחסת לפעולת איחוד חלקים נפרדים לישות מלוכדת אחת. למשל, שילוב מחלקות שונות בחברה כדי לעבוד בשיתוף פעולה לקראת מטרות משותפות.",
+                "example": "The HR department is working on integration with marketing and sales teams.",
+                "example_hebrew": "מחלקת משאבי אנוש עובדת על אינטגרציה עם צוותי שיווק ומכירות."
+            },
+            {
+                "definition": "In mathematics, specifically calculus, integration refers to the process of finding the area underneath a curve by summing up infinitely small portions.",
+                "definition_hebrew": "במתמטיקה, במיוחד בחשבון, אינטגרציה מתייחסת לתהליך של מציאת השטח שמתחת לעקומה על ידי סיכום של חלקים קטנים עד אינסוף.",
+                "example": "To find the area under the curve y = x^2 from 0 to 3, we integrate the function.",
+                "example_hebrew": "כדי למצוא את השטח מתחת לעקומה y = x^2 מ-0 עד 3, נשלב את הפונקציה."
+            },
+            {
+                "definition": "In technology and computing, integration refers to combining different systems or software so they can work together seamlessly. For example, integrating a payment gateway into an e-commerce website.",
+                "definition_hebrew": "בטכנולוגיה ובמחשוב, אינטגרציה מתייחסת לשילוב מערכות או תוכנות שונות כך שיוכלו לעבוד יחד בצורה חלקה. לדוגמה, שילוב שער תשלום באתר מסחר אלקטרוני.",
+                "example": "The online store integrated their new payment system to accept multiple types of payments.",
+                "example_hebrew": "החנות המקוונת שילבה את מערכת התשלומים החדשה שלה כדי לקבל סוגים רבים של תשלומים."
+            },
+            {
+                "definition": "In sociology and anthropology, integration is the process where individuals or groups become part of a larger community. For example, immigrants integrating into a new country's culture.",
+                "definition_hebrew": "בסוציולוגיה ואנתרופולוגיה, אינטגרציה היא התהליך שבו אנשים או קבוצות הופכים לחלק מקהילה גדולה יותר. למשל, מהגרים המשתלבים בתרבות של מדינה חדשה.",
+                "example": "The refugees were trying to integrate into their host country by learning the local language and customs.",
+                "example_hebrew": "הפליטים ניסו להשתלב במדינה המארחת שלהם על ידי לימוד השפה והמנהגים המקומיים."
+            },
+            {
+                "definition": "In education, integration refers to providing support for students with special needs in mainstream classrooms. For example, a student with dyslexia receiving tailored resources while attending regular classes.",
+                "definition_hebrew": "בחינוך, שילוב מתייחס למתן תמיכה לתלמידים עם צרכים מיוחדים בכיתות רגילות. לדוגמה, תלמיד עם דיסלקציה מקבל משאבים מותאמים תוך כדי השתתפות בשיעורים רגילים.",
+                "example": "The school's program focuses on integrating children with learning disabilities into regular educational settings.",
+                "example_hebrew": "תכנית בית הספר מתמקדת בשילוב ילדים עם לקויות למידה במסגרות חינוכיות רגילות."
+            }
+        ]
+    }
+]

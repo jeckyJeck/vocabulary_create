@@ -1,0 +1,34 @@
+[
+    {
+        "word": "determine",
+        "word_hebrew": "לקבוע",
+        "main_definition": "To find out, decide or establish something with certainty.",
+        "main_definition_hebrew": "כדי לברר, להחליט או לקבוע משהו בוודאות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To ascertain the result or outcome of something.",
+                "definition_hebrew": "כדי לברר את התוצאה או התוצאה של משהו.",
+                "example": "The weather report can determine whether it will rain tomorrow.",
+                "example_hebrew": "דוח מזג האוויר יכול לקבוע אם מחר יירד גשם."
+            },
+            {
+                "definition": "To decide upon a course of action after considering various factors.",
+                "definition_hebrew": "להחליט על דרך פעולה לאחר שקילת גורמים שונים.",
+                "example": "She determined that her best option was to study abroad for her master's degree.",
+                "example_hebrew": "היא קבעה שהאופציה הטובה ביותר שלה היא ללמוד בחו\"ל לתואר שני."
+            },
+            {
+                "definition": "To establish or define the nature, boundaries, or quality of something.",
+                "definition_hebrew": "לקבוע או להגדיר את הטבע, הגבולות או האיכות של משהו.",
+                "example": "Scientists are trying to determine the exact chemical composition of a newly discovered mineral.",
+                "example_hebrew": "מדענים מנסים לקבוע את ההרכב הכימי המדויק של מינרל שהתגלה לאחרונה."
+            },
+            {
+                "definition": "To resolve an issue by reaching a conclusion based on evidence or reasoning.",
+                "definition_hebrew": "לפתור בעיה על ידי הגעה למסקנה המבוססת על ראיות או נימוקים.",
+                "example": "The jury was tasked with determining whether the defendant is guilty beyond a reasonable doubt.",
+                "example_hebrew": "על חבר המושבעים הוטל לקבוע אם הנאשם אשם מעבר לכל ספק סביר."
+            }
+        ]
+    }
+]

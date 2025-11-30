@@ -1,0 +1,40 @@
+[
+    {
+        "word": "performer",
+        "word_hebrew": "שַׂחְקָן",
+        "main_definition": "A person who presents a public performance, such as in theater, music or dance.",
+        "main_definition_hebrew": "אדם המציג מופע פומבי, כגון בתיאטרון, מוזיקה או ריקוד.",
+        "meanings_and_examples": [
+            {
+                "definition": "Someone who acts on stage",
+                "definition_hebrew": "מישהו שפועל על הבמה",
+                "example": "The actor was a skilled performer, captivating the audience with his powerful portrayal.",
+                "example_hebrew": "השחקן היה פרפורמר מיומן, שכבש את הקהל עם גילום העוצמה שלו."
+            },
+            {
+                "definition": "A musician or singer in a concert",
+                "definition_hebrew": "מוזיקאי או זמר בהופעה",
+                "example": "During the live performance, the singer's expressive voice and stage presence were mesmerizing.",
+                "example_hebrew": "במהלך ההופעה החיה, קולו האקספרסיבי ונוכחות הבמה של הזמרת היו מהפנטים."
+            },
+            {
+                "definition": "An individual who participates in dance performances",
+                "definition_hebrew": "אדם שמשתתף במופעי מחול",
+                "example": "The ballet performer gracefully moved across the stage with precision and elegance.",
+                "example_hebrew": "שחקנית הבלט עברה בחינניות על הבמה בדיוק ואלגנטיות."
+            },
+            {
+                "definition": "A professional involved in creating visual effects for films or live events",
+                "definition_hebrew": "איש מקצוע העוסק ביצירת אפקטים חזותיים לסרטים או לאירועים חיים",
+                "example": "The special effects performer used their expertise to create a realistic tornado scene on set.",
+                "example_hebrew": "מבצע האפקטים המיוחדים השתמש במומחיותם כדי ליצור סצנת טורנדו מציאותית על הסט."
+            },
+            {
+                "definition": "A presenter or host who engages an audience during public speaking or presentation",
+                "definition_hebrew": "מגיש או מארח שמושכים קהל במהלך דיבור או מצגת",
+                "example": "During the conference, the speaker captivated the attendees with his dynamic and informative performance.",
+                "example_hebrew": "במהלך הכנס, הדובר ריתק את הנוכחים בביצועיו הדינמיים והאינפורמטיביים."
+            }
+        ]
+    }
+]

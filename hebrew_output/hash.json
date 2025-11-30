@@ -1,0 +1,34 @@
+[
+    {
+        "word": "hash",
+        "word_hebrew": "בְּלִיל",
+        "main_definition": "Hash refers to a state of confusion, disorder or the process of converting information into a fixed-size string of characters, typically using a hash function.",
+        "main_definition_hebrew": "Hash מתייחס למצב של בלבול, אי סדר או תהליך של המרת מידע למחרוזת תווים בגודל קבוע, בדרך כלל באמצעות פונקציית Hash.",
+        "meanings_and_examples": [
+            {
+                "definition": "A state of confusion or turmoil",
+                "definition_hebrew": "מצב של בלבול או מהומה",
+                "example": "After losing her wallet and keys, she found herself in a bit of a hash.",
+                "example_hebrew": "אחרי שאיבדה את הארנק והמפתחות שלה, היא מצאה את עצמה קצת בהלם."
+            },
+            {
+                "definition": "To mix or stir something vigorously",
+                "definition_hebrew": "לערבב או לערבב משהו במרץ",
+                "example": "She used the back of the spoon to hash the ingredients together in the bowl.",
+                "example_hebrew": "היא השתמשה בחלק האחורי של הכף כדי לערבב את החומרים יחד בקערה."
+            },
+            {
+                "definition": "A cryptographic process for converting information into a fixed-size string of characters",
+                "definition_hebrew": "תהליך קריפטוגרפי להמרת מידע למחרוזת תווים בגודל קבוע",
+                "example": "The password was converted into a hash before being stored in the database, ensuring its security.",
+                "example_hebrew": "הסיסמה הומרה ל-hash לפני שאוחסנה במסד הנתונים, מה שמבטיח את אבטחתה."
+            },
+            {
+                "definition": "A type of fingerprinting technique used to verify data integrity or authenticity",
+                "definition_hebrew": "סוג של טכניקת טביעת אצבע המשמשת לאימות שלמות או מקוריות הנתונים",
+                "example": "Digital signatures often use hashing algorithms to confirm that files have not been tampered with.",
+                "example_hebrew": "חתימות דיגיטליות משתמשות לעתים קרובות באלגוריתמי גיבוב כדי לאשר שלא טופלו קבצים."
+            }
+        ]
+    }
+]

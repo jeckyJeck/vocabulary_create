@@ -1,0 +1,34 @@
+[
+    {
+        "word": "sheets",
+        "word_hebrew": "גיליונות",
+        "main_definition": "In general, 'sheets' refers to a flat piece of material, but in an idiomatic context, it is often used to refer to paper or plastic sheets.",
+        "main_definition_hebrew": "באופן כללי, 'סדינים' מתייחסים לפיסת חומר שטוחה, אך בהקשר אידיומטי, הוא משמש לעתים קרובות להתייחסות ליריעות נייר או פלסטיק.",
+        "meanings_and_examples": [
+            {
+                "definition": "A single sheet of paper",
+                "definition_hebrew": "דף נייר בודד",
+                "example": "Please print your document on regular sheets.",
+                "example_hebrew": "אנא הדפס את המסמך שלך על גיליונות רגילים."
+            },
+            {
+                "definition": "A flat, thin material for covering a bed or surface",
+                "definition_hebrew": "חומר שטוח ודק לכיסוי מיטה או משטח",
+                "example": "She changed the bedsheets every week to keep them clean and fresh.",
+                "example_hebrew": "היא החליפה את המצעים מדי שבוע כדי לשמור אותם נקיים ורעננים."
+            },
+            {
+                "definition": "In computing, multiple adjacent pages of data stored as a single unit",
+                "definition_hebrew": "במחשוב, מספר דפים סמוכים של נתונים המאוחסנים כיחידה אחת",
+                "example": "The spreadsheet consisted of several sheets containing different types of information.",
+                "example_hebrew": "הגיליון האלקטרוני כלל מספר גיליונות המכילים סוגים שונים של מידע."
+            },
+            {
+                "definition": "A large piece of paper used for drawing or writing, often with pre-printed lines and grids",
+                "definition_hebrew": "פיסת נייר גדולה המשמשת לציור או כתיבה, לרוב עם קווים ורשתות מודפסות מראש",
+                "example": "He sketched his design on a sheet of graph paper to ensure proper proportions.",
+                "example_hebrew": "הוא שרטט את העיצוב שלו על דף נייר גרפי כדי להבטיח פרופורציות נכונות."
+            }
+        ]
+    }
+]

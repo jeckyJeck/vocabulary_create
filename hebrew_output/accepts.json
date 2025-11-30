@@ -1,0 +1,40 @@
+[
+    {
+        "word": "accepts",
+        "word_hebrew": "מקבל",
+        "main_definition": "To agree to or receive something willingly.",
+        "main_definition_hebrew": "להסכים או לקבל משהו ברצון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Admitting or acknowledging the truth, validity, or fact of an idea, action, or situation.",
+                "definition_hebrew": "הודאה או הכרה באמיתות, בתקפות או בעובדה של רעיון, פעולה או מצב.",
+                "example": "After seeing the evidence, she finally accepts that her friend is telling the truth.",
+                "example_hebrew": "לאחר שראתה את הראיות, היא סוף סוף מקבלת שחברתה דוברת אמת."
+            },
+            {
+                "definition": "To take in or receive something offered.",
+                "definition_hebrew": "לקלוט או לקבל משהו שהוצע.",
+                "example": "The restaurant accepts both cash and credit card payments.",
+                "example_hebrew": "המסעדה מקבלת תשלומים במזומן ובכרטיסי אשראי."
+            },
+            {
+                "definition": "To behave in a way consistent with what one believes is right, good, or desirable.",
+                "definition_hebrew": "להתנהג בצורה שתואמת את מה שמאמין שהוא נכון, טוב או רצוי.",
+                "example": "Despite the temptation, she decides to accept her job offer from a reputable company.",
+                "example_hebrew": "למרות הפיתוי, היא מחליטה לקבל את הצעת העבודה שלה מחברה מוכרת."
+            },
+            {
+                "definition": "To agree upon something that someone proposes as an end result or compromise.",
+                "definition_hebrew": "להסכים על משהו שמישהו מציע כתוצאה סופית או כפשרה.",
+                "example": "The couple accepted the terms of their divorce settlement after negotiations with their lawyer.",
+                "example_hebrew": "בני הזוג קיבלו את תנאי הסדר הגירושין שלהם לאחר משא ומתן עם עורך דינם."
+            },
+            {
+                "definition": "In programming, to include a specific piece of code within a larger program without duplication.",
+                "definition_hebrew": "בתכנות, לכלול פיסת קוד ספציפית בתוך תוכנית גדולה יותר ללא כפילות.",
+                "example": "She accepts the new library into her project so she can use its functions.",
+                "example_hebrew": "היא מקבלת את הספרייה החדשה לפרויקט שלה כדי שתוכל להשתמש בפונקציות שלה."
+            }
+        ]
+    }
+]

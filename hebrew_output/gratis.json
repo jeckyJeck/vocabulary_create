@@ -1,0 +1,40 @@
+[
+    {
+        "word": "gratis",
+        "word_hebrew": "חִנָם",
+        "main_definition": "To be given or received something without any cost or payment.",
+        "main_definition_hebrew": "לתת או לקבל משהו ללא כל עלות או תשלום.",
+        "meanings_and_examples": [
+            {
+                "definition": "Giving something for free of charge.",
+                "definition_hebrew": "נותן משהו בחינם.",
+                "example": "The museum offered the first week's admission to its exhibits as gratis.",
+                "example_hebrew": "המוזיאון הציע את הכניסה של השבוע הראשון לתערוכות שלו בחינם."
+            },
+            {
+                "definition": "Receiving a service or benefit without having to pay.",
+                "definition_hebrew": "קבלת שירות או הטבה ללא צורך בתשלום.",
+                "example": "She was pleasantly surprised when her friend provided a ride home as a gratis favor.",
+                "example_hebrew": "היא הופתעה לטובה כשחברתה סיפקה טרמפ הביתה בתור טובה בחינם."
+            },
+            {
+                "definition": "Unpaid or voluntary work done for the sake of helping others, often by professionals.",
+                "definition_hebrew": "עבודה ללא תשלום או התנדבותי שנעשתה למען עזרה לזולת, לרוב על ידי אנשי מקצוע.",
+                "example": "Many doctors and lawyers offer their time to provide legal counseling or healthcare services on a gratis basis in developing countries.",
+                "example_hebrew": "רופאים ועורכי דין רבים מציעים מזמנם לספק ייעוץ משפטי או שירותי בריאות בחינם במדינות מתפתחות."
+            },
+            {
+                "definition": "An event or opportunity that is provided without cost as part of promotional activities.",
+                "definition_hebrew": "אירוע או הזדמנות הניתנים ללא עלות כחלק מפעילויות קידום מכירות.",
+                "example": "The company hosted a free webinar about financial planning, offering it gratis to attract potential customers.",
+                "example_hebrew": "החברה אירחה סמינר מקוון בחינם על תכנון פיננסי, והציעה אותו בחינם כדי למשוך לקוחות פוטנציאליים."
+            },
+            {
+                "definition": "A term used in auctions when the seller agrees not to sell an item for any bid price and instead donates or gives it away.",
+                "definition_hebrew": "מונח המשמש במכירות פומביות כאשר המוכר מסכים לא למכור פריט במחיר הצעה כלשהו ובמקום זאת תורם או מוסר אותו.",
+                "example": "At the charity auction, the antique vase was sold gratis, with all proceeds going towards supporting local arts education.",
+                "example_hebrew": "במכירה הפומבית של הצדקה, האגרטל העתיק נמכר בחינם, כאשר כל ההכנסות יועברו לתמיכה בחינוך לאמנויות מקומי."
+            }
+        ]
+    }
+]

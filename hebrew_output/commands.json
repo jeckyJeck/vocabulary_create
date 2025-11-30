@@ -1,0 +1,34 @@
+[
+    {
+        "word": "commands",
+        "word_hebrew": "פקודות",
+        "main_definition": "Commands refer to orders or instructions given by someone in authority, as well as the act of commanding or having control over others.",
+        "main_definition_hebrew": "פקודות מתייחסות לפקודות או הוראות שניתנו על ידי בעל סמכות, וכן לפעולת הפקודה או השליטה על אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Orders issued from a position of authority",
+                "definition_hebrew": "צווים שניתנו מעמדת סמכות",
+                "example": "The general gave commands for his troops to advance and secure the area.",
+                "example_hebrew": "הגנרל נתן פקודות לחייליו להתקדם ולאבטח את האזור."
+            },
+            {
+                "definition": "The ability to give orders or direct someone to do something",
+                "definition_hebrew": "היכולת לתת פקודות או לכוון מישהו לעשות משהו",
+                "example": "As the captain, she could command her crew with confidence and respect.",
+                "example_hebrew": "כקברניט, היא יכלה לפקד על הצוות שלה בביטחון ובכבוד."
+            },
+            {
+                "definition": "A computer programming language that allows users to control the behavior of a machine",
+                "definition_hebrew": "שפת תכנות מחשב המאפשרת למשתמשים לשלוט בהתנהגות של מכונה",
+                "example": "The programmer wrote commands in Python to automate repetitive tasks on his server.",
+                "example_hebrew": "המתכנת כתב פקודות ב-Python כדי להפוך משימות חוזרות ונשנות בשרת שלו."
+            },
+            {
+                "definition": "To issue an order with authority or power",
+                "definition_hebrew": "להוציא צו עם סמכות או סמכות",
+                "example": "When threatened, he had no choice but to command his bodyguard to defend him.",
+                "example_hebrew": "כשאיים עליו, לא הייתה לו ברירה אלא לפקד על שומר הראש שלו להגן עליו."
+            }
+        ]
+    }
+]

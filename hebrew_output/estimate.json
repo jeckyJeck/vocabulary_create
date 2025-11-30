@@ -1,0 +1,34 @@
+[
+    {
+        "word": "estimate",
+        "word_hebrew": "לְהַעֲרִיך",
+        "main_definition": "To make a rough calculation or judgment of the value, number, quantity, or extent of something.",
+        "main_definition_hebrew": "לעשות חישוב גס או שיפוט של הערך, המספר, הכמות או ההיקף של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A preliminary assessment based on available information.",
+                "definition_hebrew": "הערכה ראשונית המבוססת על מידע זמין.",
+                "example": "The carpenter gave an estimate for repairing my kitchen cabinets.",
+                "example_hebrew": "הנגר נתן הערכה לתיקון ארונות המטבח שלי."
+            },
+            {
+                "definition": "An approximation of a quantity, number, or value that is not precise but sufficient for the purpose at hand.",
+                "definition_hebrew": "קירוב של כמות, מספר או ערך שאינם מדויקים אך מספיקים למטרה שלפנינו.",
+                "example": "She estimated there were about 100 people in the crowd based on her view from the balcony.",
+                "example_hebrew": "היא העריכה שהיו כ-100 אנשים בקהל בהתבסס על הנוף שלה מהמרפסת."
+            },
+            {
+                "definition": "To express an opinion of the approximate cost, number, or quantity of something without being exact.",
+                "definition_hebrew": "להביע דעה על העלות המשוערת, המספר או הכמות של משהו מבלי להיות מדויקים.",
+                "example": "The contractor provided a price estimate for painting my living room at $500.",
+                "example_hebrew": "הקבלן נתן הערכת מחיר לצביעת הסלון שלי ב-500$."
+            },
+            {
+                "definition": "A statement indicating that it is impossible to provide an exact figure due to uncertainties and variables involved.",
+                "definition_hebrew": "הצהרה המעידה על כך שאי אפשר לספק נתון מדויק עקב אי ודאויות ומשתנים מעורבים.",
+                "example": "Our company cannot give you an exact figure on the time required for this project as there are too many unknown factors.",
+                "example_hebrew": "החברה שלנו לא יכולה לתת לך נתון מדויק על הזמן הנדרש לפרויקט זה מכיוון שיש יותר מדי גורמים לא ידועים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "maximum",
+        "word_hebrew": "מַקסִימוּם",
+        "main_definition": "The highest or greatest amount, degree, or quantity possible.",
+        "main_definition_hebrew": "הכמות, התואר או הכמות הגבוהה ביותר או הגדולה ביותר האפשרית.",
+        "meanings_and_examples": [
+            {
+                "definition": "The extreme limit of something in terms of size, quantity, extent, value, etc., that is not expected to exceed this level.",
+                "definition_hebrew": "הגבול הקיצוני של משהו מבחינת גודל, כמות, היקף, ערך וכו', שלא צפוי לחרוג מהרמה הזו.",
+                "example": "After running for an hour, my heart rate reached its maximum.",
+                "example_hebrew": "לאחר ריצה של שעה, קצב הלב שלי הגיע למקסימום."
+            },
+            {
+                "definition": "An amount or number that cannot be increased any further.",
+                "definition_hebrew": "סכום או מספר שלא ניתן להגדיל עוד.",
+                "example": "The product's price was raised to the maximum allowed by law.",
+                "example_hebrew": "מחיר המוצר הועלה למקסימום המותר בחוק."
+            },
+            {
+                "definition": "A principled stance taken on an issue; a firm commitment not to compromise in one's beliefs or values.",
+                "definition_hebrew": "עמדה עקרונית שננקטה בנושא; מחויבות נחרצת לא להתפשר על האמונות או הערכים של האדם.",
+                "example": "She stood by her principles, refusing to speak with anyone who criticized them.",
+                "example_hebrew": "היא עמדה על העקרונות שלה, וסירבה לדבר עם כל מי שביקר אותם."
+            },
+            {
+                "definition": "The most effective level of something that can be achieved without causing negative effects or risks.",
+                "definition_hebrew": "הרמה היעילה ביותר של משהו שניתן להשיג מבלי לגרום להשפעות שליליות או סיכונים.",
+                "example": "He set the dosage at a maximum safe amount for the patient.",
+                "example_hebrew": "הוא קבע את המינון בכמות בטוחה מקסימלית עבור המטופל."
+            }
+        ]
+    }
+]

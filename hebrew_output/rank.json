@@ -1,0 +1,40 @@
+[
+    {
+        "word": "rank",
+        "word_hebrew": "דַרגָה",
+        "main_definition": "Rank refers to a position in an ordered sequence or hierarchy, often associated with status, importance, or level.",
+        "main_definition_hebrew": "דירוג מתייחס למיקום ברצף או בהיררכיה מסודרת, הקשורים לעתים קרובות למעמד, חשיבות או רמה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A position within a system of organization and classification, particularly based on power, authority, or merit",
+                "definition_hebrew": "תפקיד בתוך מערכת של ארגון וסיווג, בייחוד המבוסס על כוח, סמכות או כשרון",
+                "example": "In the military, soldiers are ranked by their years of service and responsibilities.",
+                "example_hebrew": "בצבא, החיילים מדורגים לפי שנות השירות והאחריות שלהם."
+            },
+            {
+                "definition": "The relative importance or value of someone or something in comparison to others",
+                "definition_hebrew": "החשיבות או הערך היחסיים של מישהו או משהו בהשוואה לאחרים",
+                "example": "Aspiring actors often have to wait for a rank amongst peers before being considered for lead roles.",
+                "example_hebrew": "שחקנים שואפים נאלצים לעתים קרובות להמתין לדרגה בקרב בני גילם לפני שהם נשקלים לתפקידים ראשיים."
+            },
+            {
+                "definition": "To arrange or order things according to their level, position, or status",
+                "definition_hebrew": "לסדר או לסדר דברים לפי רמתם, מיקומם או מעמדם",
+                "example": "The company decided to rank its employees based on sales performance and tenure.",
+                "example_hebrew": "החברה החליטה לדרג את עובדיה על סמך ביצועי מכירות וקביעות."
+            },
+            {
+                "definition": "A measure of the quality or intensity of a substance, typically referring to smell or taste",
+                "definition_hebrew": "מדד לאיכות או עוצמתו של חומר, מתייחס בדרך כלל לריח או לטעם",
+                "example": "Honey is known for its sweet and distinctive rank that differentiates it from other sweeteners.",
+                "example_hebrew": "הדבש ידוע בדרגתו המתוקה והייחודית המבדילה אותו משאר הממתיקים."
+            },
+            {
+                "definition": "An expression used in gambling contexts indicating the sequence or importance of cards (e.g., aces are typically ranked highest)",
+                "definition_hebrew": "ביטוי המשמש בהקשרי הימורים המציין את הרצף או החשיבות של הקלפים (למשל, האסים מדורגים בדרך כלל הגבוה ביותר)",
+                "example": "In poker, knowing the ranks of your hand is crucial to determining its strength.",
+                "example_hebrew": "בפוקר, הכרת דרגות היד שלך היא קריטית לקביעת החוזק שלה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "possible",
+        "word_hebrew": "אפשרי",
+        "main_definition": "Allowable or able to happen, exist, be done, etc.",
+        "main_definition_hebrew": "מותר או יכול לקרות, להתקיים, להיעשות וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "Capable of being accomplished or achieved",
+                "definition_hebrew": "מסוגל להגשים או להשיג",
+                "example": "It's possible that she will complete the project by tomorrow.",
+                "example_hebrew": "ייתכן שהיא תסיים את הפרויקט עד מחר."
+            },
+            {
+                "definition": "Not impossible; able to occur, come into existence, etc.",
+                "definition_hebrew": "לא בלתי אפשרי; מסוגל להתרחש, להתקיים וכו'.",
+                "example": "Traveling to Mars is still considered a possibility for future space missions.",
+                "example_hebrew": "נסיעה למאדים עדיין נחשבת לאפשרות למשימות חלל עתידיות."
+            },
+            {
+                "definition": "Offering an alternative or solution",
+                "definition_hebrew": "מציע חלופה או פתרון",
+                "example": "Let's think of possible solutions to fix the computer issue.",
+                "example_hebrew": "בואו נחשוב על פתרונות אפשריים לתיקון בעיית המחשב."
+            },
+            {
+                "definition": "Likely, but not certain; probable",
+                "definition_hebrew": "סביר, אבל לא בטוח; מִסתַבֵּר",
+                "example": "There is a possibility that it will rain tomorrow, according to the weather forecast.",
+                "example_hebrew": "קיימת אפשרות שיירד גשם מחר, לפי תחזית מזג האוויר."
+            },
+            {
+                "definition": "An option or choice among others",
+                "definition_hebrew": "אפשרות או בחירה בין היתר",
+                "example": "We have several possible outcomes for this event, but we cannot predict with certainty which one will occur.",
+                "example_hebrew": "יש לנו כמה תוצאות אפשריות לאירוע הזה, אבל אנחנו לא יכולים לחזות בוודאות איזו מהן תתרחש."
+            }
+        ]
+    }
+]

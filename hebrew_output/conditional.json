@@ -1,0 +1,34 @@
+[
+    {
+        "word": "conditional",
+        "word_hebrew": "מותנה",
+        "main_definition": "A statement expressing that something is dependent on a certain condition or set of conditions being met.",
+        "main_definition_hebrew": "הצהרה המבטאת שמשהו תלוי בהתקיים תנאי מסוים או מערכת תנאים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to the concept of conditional probability in mathematics, where the occurrence of an event depends on another related event.",
+                "definition_hebrew": "מתייחס למושג הסתברות מותנית במתמטיקה, כאשר התרחשות אירוע תלויה באירוע קשור אחר.",
+                "example": "The probability that it will rain today is conditionally dependent on whether there are clouds in the sky.",
+                "example_hebrew": "ההסתברות שיירד גשם היום תלויה מותנית בשאלה האם יש עננים בשמיים."
+            },
+            {
+                "definition": "An agreement or promise made by one party to do something if a specific situation arises, often used in legal contexts.",
+                "definition_hebrew": "הסכם או הבטחה של צד אחד לעשות משהו אם מתעורר מצב ספציפי, המשמשים לעתים קרובות בהקשרים משפטיים.",
+                "example": "She signed an insurance policy with a conditional clause that covers her car only when she has full coverage on all other vehicles.",
+                "example_hebrew": "היא חתמה על פוליסת ביטוח עם סעיף מותנה המכסה את רכבה רק כאשר יש לה כיסוי מלא על כל שאר הרכבים."
+            },
+            {
+                "definition": "A statement or phrase typically starting with 'if' and indicating that something is true under certain circumstances, but not necessarily others.",
+                "definition_hebrew": "הצהרה או ביטוי שמתחילים בדרך כלל ב'אם' ומציינים שמשהו נכון בנסיבות מסוימות, אך לא בהכרח אחרות.",
+                "example": "I will attend the meeting if I finish my work before noon.",
+                "example_hebrew": "אשתתף בפגישה אם אסיים את עבודתי לפני הצהריים."
+            },
+            {
+                "definition": "A type of sentence in grammar expressing a situation where one thing depends on another for its truth or validity.",
+                "definition_hebrew": "סוג של משפט בדקדוק המבטא מצב שבו דבר אחד תלוי באמיתותו או תקפותו.",
+                "example": "If you study hard, you may pass the exam; this is conditional because passing the exam depends on studying hard.",
+                "example_hebrew": "אם אתה לומד קשה, אתה עשוי לעבור את הבחינה; זה מותנה כי מעבר הבחינה תלוי בלימוד קשה."
+            }
+        ]
+    }
+]

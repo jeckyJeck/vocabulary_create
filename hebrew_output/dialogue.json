@@ -1,0 +1,34 @@
+[
+    {
+        "word": "dialogue",
+        "word_hebrew": "דו שיח",
+        "main_definition": "Dialogue is a conversation or exchange of ideas between two or more people, often used to convey thoughts, opinions, or information.",
+        "main_definition_hebrew": "דיאלוג הוא שיחה או חילופי רעיונות בין שני אנשים או יותר, המשמשים לרוב להעברת מחשבות, דעות או מידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "A verbal exchange between two or more individuals.",
+                "definition_hebrew": "חילופי מילים בין שני אנשים או יותר.",
+                "example": "The diplomats engaged in a dialogue about trade agreements.",
+                "example_hebrew": "הדיפלומטים ניהלו דיאלוג על הסכמי סחר."
+            },
+            {
+                "definition": "Conversation that takes place within literature, film, theater, etc., to advance the plot or characters.",
+                "definition_hebrew": "שיחה המתקיימת בתוך ספרות, קולנוע, תיאטרון וכדומה, לקידום העלילה או הדמויות.",
+                "example": "In Shakespeare's play 'Julius Caesar', Brutus and Cassius have a dialogue about their loyalty to Rome.",
+                "example_hebrew": "במחזה 'יוליוס קיסר' של שייקספיר, ברוטוס וקסיוס מנהלים דיאלוג על נאמנותם לרומא."
+            },
+            {
+                "definition": "A discussion intended for mutual understanding or problem-solving in conflict resolution.",
+                "definition_hebrew": "דיון המיועד להבנה הדדית או לפתרון בעיות בפתרון סכסוכים.",
+                "example": "The mediator facilitated a dialogue between the disputing parties to reach an agreement.",
+                "example_hebrew": "המגשר איפשר דיאלוג בין הצדדים במחלוקת כדי להגיע להסכמה."
+            },
+            {
+                "definition": "An ongoing and interactive exchange that may include written communication as well.",
+                "definition_hebrew": "חילופי דברים מתמשכים ואינטראקטיביים שעשויים לכלול גם תקשורת בכתב.",
+                "example": "Two friends have been exchanging emails in a friendly dialogue about their weekend plans.",
+                "example_hebrew": "שני חברים החליפו אימיילים בדיאלוג ידידותי על תוכניות סוף השבוע שלהם."
+            }
+        ]
+    }
+]

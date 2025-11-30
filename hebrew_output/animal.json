@@ -1,0 +1,28 @@
+[
+    {
+        "word": "animal",
+        "word_hebrew": "בעל חיים",
+        "main_definition": "An animal is a living organism that belongs to the kingdom Animalia, characterized by multicellularity, heterotrophy (obtaining food through ingestion), and lack of cell walls.",
+        "main_definition_hebrew": "בעל חיים הוא אורגניזם חי השייך לממלכת Animalia, המתאפיין בריבוי תאי, הטרוטרופיה (השגת מזון באמצעות בליעה) והיעדר דפנות תאים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A non-human vertebrate organism",
+                "definition_hebrew": "אורגניזם בעל חוליות לא אנושי",
+                "example": "The lion is a large carnivorous animal native to Africa.",
+                "example_hebrew": "האריה הוא בעל חיים טורף גדול שמקורו באפריקה."
+            },
+            {
+                "definition": "Any living creature that does not belong to the plant kingdom and has sensory organs, nervous system, and reproduces sexually",
+                "definition_hebrew": "כל יצור חי שאינו שייך לממלכת הצמחים ויש לו איברי חישה, מערכת עצבים ומתרבה מינית",
+                "example": "Dogs are common pets that display characteristics of animals such as playfulness and loyalty.",
+                "example_hebrew": "כלבים הם חיות מחמד נפוצות המציגות מאפיינים של בעלי חיים כמו שובבות ונאמנות."
+            },
+            {
+                "definition": "A term used informally to describe something wild or untamed, often in a metaphorical sense",
+                "definition_hebrew": "מונח המשמש באופן לא פורמלי כדי לתאר משהו פראי או לא מאולף, לעתים קרובות במובן מטפורי",
+                "example": "His behavior was so erratic it seemed like he had gone 'animal on us.'",
+                "example_hebrew": "ההתנהגות שלו הייתה כל כך לא יציבה שנראה כאילו הוא \"הלך עלינו חיה\"."
+            }
+        ]
+    }
+]

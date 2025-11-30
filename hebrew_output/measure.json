@@ -1,0 +1,40 @@
+[
+    {
+        "word": "measure",
+        "word_hebrew": "מידה",
+        "main_definition": "A measure is an action or process of determining the size, amount, degree, or capacity of something using a standard unit.",
+        "main_definition_hebrew": "מידה היא פעולה או תהליך של קביעת הגודל, הכמות, התואר או הקיבולת של משהו באמצעות יחידה סטנדרטית.",
+        "meanings_and_examples": [
+            {
+                "definition": "To determine the length, quantity, or capacity of something",
+                "definition_hebrew": "כדי לקבוע את האורך, הכמות או הקיבולת של משהו",
+                "example": "She measured the length of the room with a tape measure.",
+                "example_hebrew": "היא מדדה את אורך החדר בעזרת סרט מדידה."
+            },
+            {
+                "definition": "An amount used as a standard for comparison in measuring,",
+                "definition_hebrew": "כמות המשמשת כתקן להשוואה במדידה,",
+                "example": "The speed limit is 60 miles per hour, which is our current measure.",
+                "example_hebrew": "המהירות המותרת היא 60 מייל לשעה, וזו המדד הנוכחי שלנו."
+            },
+            {
+                "definition": "A system or way of determining the value or worth",
+                "definition_hebrew": "מערכת או דרך לקביעת הערך או השווי",
+                "example": "They use a strict measure to determine employee performance.",
+                "example_hebrew": "הם משתמשים במדד קפדני כדי לקבוע את ביצועי העובדים."
+            },
+            {
+                "definition": "To check or assess something by using standard units or criteria",
+                "definition_hebrew": "לבדוק או להעריך משהו באמצעות יחידות או קריטריונים סטנדרטיים",
+                "example": "The teacher will measure our understanding of math concepts through quizzes and tests.",
+                "example_hebrew": "המורה ימדוד את ההבנה שלנו במושגים מתמטיים באמצעות חידונים ומבחנים."
+            },
+            {
+                "definition": "A word or phrase used to convey a particular meaning, often non-literal",
+                "definition_hebrew": "מילה או ביטוי המשמשים להעברת משמעות מסוימת, לרוב לא מילולית",
+                "example": "He is the black sheep of the family. This phrase measures his outcast status in the family.",
+                "example_hebrew": "הוא הכבשה השחורה של המשפחה. ביטוי זה מודד את מעמדו המנודה במשפחה."
+            }
+        ]
+    }
+]

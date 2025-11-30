@@ -1,0 +1,40 @@
+[
+    {
+        "word": "replace",
+        "word_hebrew": "החלף",
+        "main_definition": "To substitute or change something with another thing, typically due to a need for improvement or repair.",
+        "main_definition_hebrew": "להחליף או לשנות משהו בדבר אחר, בדרך כלל עקב צורך בשיפור או תיקון.",
+        "meanings_and_examples": [
+            {
+                "definition": "To take the place of someone or something else in a particular role or position.",
+                "definition_hebrew": "לתפוס את מקומו של מישהו או משהו אחר בתפקיד או תפקיד מסוים.",
+                "example": "When Sarah moved away, she was replaced by her colleague as team leader.",
+                "example_hebrew": "כאשר שרה עזבה, היא הוחלפה על ידי עמיתה כראש צוות."
+            },
+            {
+                "definition": "To substitute an old item with a new one that is more efficient, functional, or desirable.",
+                "definition_hebrew": "להחליף פריט ישן בפריט חדש שהוא יעיל, פונקציונלי או רצוי יותר.",
+                "example": "I need to replace my old refrigerator with a newer model because it's not cooling properly anymore.",
+                "example_hebrew": "אני צריך להחליף את המקרר הישן שלי בדגם חדש יותר כי הוא כבר לא מתקרר כמו שצריך."
+            },
+            {
+                "definition": "In sports, to substitute an athlete who has been injured or removed from the game by their coach.",
+                "definition_hebrew": "בספורט, להחליף ספורטאי שנפצע או הוצא מהמשחק על ידי מאמנו.",
+                "example": "During the soccer match, the injured player was replaced by a reserve on the bench when he came off due to a sprain.",
+                "example_hebrew": "במהלך משחק הכדורגל הוחלף השחקן הפצוע במילואים על הספסל כשירד עקב נקע."
+            },
+            {
+                "definition": "To substitute one word for another in order to convey similar meaning but with different emphasis or clarity.",
+                "definition_hebrew": "להחליף מילה אחת במילה אחרת כדי להעביר משמעות דומה אך בהדגשה או בהירות שונה.",
+                "example": "The phrase 'kill two birds with one stone' can be replaced by 'achieve two objectives simultaneously.'",
+                "example_hebrew": "ניתן להחליף את הביטוי 'להרוג שתי ציפורים במכה אחת' ב'להשיג שתי מטרות בו-זמנית'."
+            },
+            {
+                "definition": "In computing, to swap out an older version of a program or software with the latest update or version.",
+                "definition_hebrew": "במחשוב, כדי להחליף גרסה ישנה יותר של תוכנית או תוכנה עם העדכון או הגרסה העדכנית ביותר.",
+                "example": "My computer requires me to replace the old operating system with the newest version available.",
+                "example_hebrew": "המחשב שלי דורש ממני להחליף את מערכת ההפעלה הישנה בגרסה הכי חדשה שיש."
+            }
+        ]
+    }
+]

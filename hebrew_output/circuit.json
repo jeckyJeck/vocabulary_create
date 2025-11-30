@@ -1,0 +1,34 @@
+[
+    {
+        "word": "circuit",
+        "word_hebrew": "מעגל חשמלי",
+        "main_definition": "A path or route followed by something, particularly an electrical current in a closed loop.",
+        "main_definition_hebrew": "נתיב או מסלול ואחריו משהו, במיוחד זרם חשמלי בלולאה סגורה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Electrical circuit - A series of connected devices that allow electricity to flow through them",
+                "definition_hebrew": "מעגל חשמלי - סדרה של מכשירים מחוברים המאפשרים זרימת חשמל דרכם",
+                "example": "The lights turned on when the battery completed the circuit.",
+                "example_hebrew": "האורות נדלקו כשהסוללה השלימה את המעגל."
+            },
+            {
+                "definition": "Legal jurisdiction or court circuit - The act of a judge visiting multiple locations to hear cases",
+                "definition_hebrew": "סמכות משפטית או מעגל בית משפט - מעשה של שופט המבקר במספר מקומות כדי לדון בתיקים",
+                "example": "Judge Roberts is currently traveling around the county, hearing legal cases in various courthouses during his circuit.",
+                "example_hebrew": "השופט רוברטס מסתובב כעת ברחבי המחוז, ודן בתיקים משפטיים בבתי משפט שונים במהלך דרכו."
+            },
+            {
+                "definition": "Flight path for aircraft - A predetermined route flown by planes or helicopters",
+                "definition_hebrew": "מסלול טיסה למטוסים - מסלול קבוע מראש המוטס במטוסים או מסוקים",
+                "example": "The pilot followed a specific circuit when flying over the mountain range.",
+                "example_hebrew": "הטייס עקב אחר מעגל מסוים כשהוא טס מעל רכס ההרים."
+            },
+            {
+                "definition": "Social event where people visit different places in one night - Similar to attending multiple parties or gatherings",
+                "definition_hebrew": "אירוע חברתי שבו אנשים מבקרים במקומות שונים בלילה אחד - בדומה להשתתפות במספר מסיבות או מפגשים",
+                "example": "They decided to go on a party circuit, visiting three clubs throughout the evening.",
+                "example_hebrew": "הם החליטו לצאת לסיבוב מסיבות, וביקרו בשלושה מועדונים לאורך הערב."
+            }
+        ]
+    }
+]

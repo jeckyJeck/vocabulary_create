@@ -1,0 +1,34 @@
+[
+    {
+        "word": "terrain",
+        "word_hebrew": "פְּנֵי הַשֵׁטַח",
+        "main_definition": "Terrain refers to the physical features of a land surface, including its relief, geography, and natural or man-made structures.",
+        "main_definition_hebrew": "שטח מתייחס למאפיינים הפיזיים של פני הקרקע, לרבות תבליט, גיאוגרפיה ומבנים טבעיים או מעשה ידי אדם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Nature's landscape or topography",
+                "definition_hebrew": "הנוף או הטופוגרפיה של הטבע",
+                "example": "The terrain in the Amazon rainforest is dense with uneven ground covered by vegetation.",
+                "example_hebrew": "השטח ביער הגשם של האמזונס צפוף עם קרקע לא אחידה מכוסה בצמחייה."
+            },
+            {
+                "definition": "Type of land surface suitable for a particular purpose, such as agriculture or military operations",
+                "definition_hebrew": "סוג משטח הקרקע המתאים למטרה מסוימת, כגון חקלאות או פעולות צבאיות",
+                "example": "Mountainous terrain can be challenging for farming but ideal for ski resorts and outdoor activities.",
+                "example_hebrew": "שטח הררי יכול להיות מאתגר לחקלאות אך אידיאלי עבור אתרי סקי ופעילויות חוצות."
+            },
+            {
+                "definition": "Area that needs to be crossed during travel or exploration, taking into account obstacles like mountains or rivers",
+                "definition_hebrew": "אזור שצריך לחצות במהלך נסיעה או חקר, תוך התחשבות במכשולים כמו הרים או נהרות",
+                "example": "The hikers had a difficult time navigating through the rough terrain of the Rocky Mountains.",
+                "example_hebrew": "למטיילים היה קשה לנווט בשטח הקשה של הרי הרוקי."
+            },
+            {
+                "definition": "Nature's physical features that influence battle strategies and troop movements in military context",
+                "definition_hebrew": "תכונות פיזיות של הטבע המשפיעות על אסטרטגיות קרב ותנועות חיילים בהקשר צבאי",
+                "example": "During World War II, German forces used the rough terrain to their advantage by launching surprise attacks on enemy troops.",
+                "example_hebrew": "במהלך מלחמת העולם השנייה, הכוחות הגרמניים השתמשו בשטח הקשה לטובתם על ידי שיגור התקפות פתע על חיילי האויב."
+            }
+        ]
+    }
+]

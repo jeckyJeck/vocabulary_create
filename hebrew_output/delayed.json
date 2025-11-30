@@ -1,0 +1,34 @@
+[
+    {
+        "word": "delayed",
+        "word_hebrew": "מוּשׁהֶה",
+        "main_definition": "A situation where something happens later than planned or expected, often resulting in inconvenience or problems.",
+        "main_definition_hebrew": "מצב שבו משהו קורה מאוחר מהמתוכנן או הצפוי, ולעתים קרובות גורם לאי נוחות או לבעיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Postponed to a future time or date",
+                "definition_hebrew": "נדחה לשעה או לתאריך עתידיים",
+                "example": "The train was delayed due to heavy rain.",
+                "example_hebrew": "הרכבת התעכבה עקב גשם כבד."
+            },
+            {
+                "definition": "Lacking promptness or taking more time than necessary",
+                "definition_hebrew": "חוסר זריזות או לוקח יותר זמן מהנדרש",
+                "example": "His response to the email showed a tendency towards delay in replying.",
+                "example_hebrew": "תגובתו למייל הראתה נטייה לעיכוב בתשובה."
+            },
+            {
+                "definition": "A product that is released later than originally scheduled, often due to technical issues",
+                "definition_hebrew": "מוצר ששוחרר מאוחר מהתוכנן המקורי, לעתים קרובות עקב בעיות טכניות",
+                "example": "The new smartphone model was delayed for several months because of software bugs.",
+                "example_hebrew": "דגם הסמארטפון החדש התעכב במספר חודשים בגלל באגים בתוכנה."
+            },
+            {
+                "definition": "Experiencing a delay in growth or development",
+                "definition_hebrew": "חווה עיכוב בצמיחה או התפתחות",
+                "example": "Due to the lack of nutrients, her hair has been delayed in reaching full length.",
+                "example_hebrew": "בשל המחסור בחומרים מזינים, השיער שלה התעכב להגיע לאורך מלא."
+            }
+        ]
+    }
+]

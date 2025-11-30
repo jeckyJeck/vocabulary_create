@@ -1,0 +1,34 @@
+[
+    {
+        "word": "pixels",
+        "word_hebrew": "פיקסלים",
+        "main_definition": "Pixels refer to the smallest units of a digital image or display, representing points in an electronic image.",
+        "main_definition_hebrew": "פיקסלים מתייחסים ליחידות הקטנות ביותר של תמונה או תצוגה דיגיטלית, המייצגות נקודות בתמונה אלקטרונית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Elemental unit of digital images and displays",
+                "definition_hebrew": "יחידה יסודית של תמונות ותצוגות דיגיטליות",
+                "example": "The photo had millions of pixels that made it incredibly detailed.",
+                "example_hebrew": "לתמונה היו מיליוני פיקסלים שהפכו אותה למפורטת להפליא."
+            },
+            {
+                "definition": "Adjusting the sharpness or clarity of a digital image by manipulating individual pixels",
+                "definition_hebrew": "התאמת החדות או הבהירות של תמונה דיגיטלית על ידי מניפולציה של פיקסלים בודדים",
+                "example": "She used an editing software to increase the number of pixels for sharper images.",
+                "example_hebrew": "היא השתמשה בתוכנת עריכה כדי להגדיל את מספר הפיקסלים לתמונות חדות יותר."
+            },
+            {
+                "definition": "A measure of image resolution, with higher pixel counts indicating more detail",
+                "definition_hebrew": "מדד של רזולוציית תמונה, עם ספירת פיקסלים גבוהה יותר המציינת יותר פרטים",
+                "example": "The 1080p TV has a high pixel count compared to standard definition screens.",
+                "example_hebrew": "לטלוויזיית 1080p יש ספירת פיקסלים גבוהה בהשוואה למסכים סטנדרטיים."
+            },
+            {
+                "definition": "In gaming or animation, the pixels that make up each frame in an animated sequence",
+                "definition_hebrew": "במשחקים או באנימציה, הפיקסלים המרכיבים כל פריים ברצף מונפש",
+                "example": "Each frame of the animation is composed of thousands of individual pixels.",
+                "example_hebrew": "כל פריים של האנימציה מורכב מאלפי פיקסלים בודדים."
+            }
+        ]
+    }
+]

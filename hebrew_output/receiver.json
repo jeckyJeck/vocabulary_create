@@ -1,0 +1,34 @@
+[
+    {
+        "word": "receiver",
+        "word_hebrew": "מַקְלֵט",
+        "main_definition": "The person or thing that is intended to receive something, especially a message, signal, or package.",
+        "main_definition_hebrew": "האדם או הדבר שנועד לקבל משהו, במיוחד הודעה, אות או חבילה.",
+        "meanings_and_examples": [
+            {
+                "definition": "One who receives signals in radio communication systems and converts them into electrical impulses for further processing. Examples: 'The receiver picked up the weak transmission.'",
+                "definition_hebrew": "מי שמקבל אותות במערכות תקשורת רדיו וממיר אותם לדחפים חשמליים להמשך עיבוד. דוגמאות: 'המקלט קלט את השידור החלש'.",
+                "example": "In a broadcasting studio, there are various equipment including receivers that help pick up signals from different sources.",
+                "example_hebrew": "באולפן שידור קיים ציוד מגוון כולל מקלטים המסייעים בקליטת אותות ממקורות שונים."
+            },
+            {
+                "definition": "A person or device set to receive something as sent by another. Examples: 'As the mailman handed him the package, John knew his eagerly awaited gift had finally arrived; the receiver of the parcel was now in his hands.'",
+                "definition_hebrew": "אדם או מכשיר מוגדרים לקבל משהו כפי שנשלח על ידי אחר. דוגמאות: ״כשהדוור הושיט לו את החבילה, ג׳ון ידע שהמתנה שלו ממתין לו בכיליון עיניים הגיעה סוף סוף; הכונס של החבילה היה עכשיו בידיו״.",
+                "example": "In a game of telephone, one player acts as the receiver and attempts to accurately report back what they heard from their previous partner.",
+                "example_hebrew": "במשחק טלפון, שחקן אחד משמש כמקלט ומנסה לדווח במדויק על מה ששמע מבן זוגו הקודם."
+            },
+            {
+                "definition": "A person who accepts or takes on something given by someone else. Examples: 'The charity organization focused on supporting local communities that were most in need of assistance, serving as the receiver of donated goods and services.'",
+                "definition_hebrew": "אדם שמקבל או לוקח על עצמו משהו שניתן על ידי מישהו אחר. דוגמאות: 'ארגון הצדקה התמקד בתמיכה בקהילות מקומיות שהיו זקוקות ביותר לסיוע, ושימש כקבלן של סחורות ושירותים שנתרמו'.",
+                "example": "When I handed her the book, she thanked me and said she would be a good receiver for it.",
+                "example_hebrew": "כשהגשתי לה את הספר, היא הודתה לי ואמרה שהיא תהיה מקבלת טוב עבורו."
+            },
+            {
+                "definition": "The device or mechanism by which an electric current is transformed into another form. Examples: 'The power plant uses receivers to convert solar energy into electrical power.'",
+                "definition_hebrew": "המכשיר או המנגנון שבאמצעותו הופך זרם חשמלי לצורה אחרת. דוגמאות: 'תחנת הכוח משתמשת במקלטים כדי להמיר אנרגיה סולארית לכוח חשמלי'.",
+                "example": "In the field of photography, a camera's receiver is responsible for turning light signals into a digital image.",
+                "example_hebrew": "בתחום הצילום, מקלט מצלמה אחראי על הפיכת אותות אור לתמונה דיגיטלית."
+            }
+        ]
+    }
+]

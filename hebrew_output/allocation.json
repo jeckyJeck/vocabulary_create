@@ -1,0 +1,40 @@
+[
+    {
+        "word": "allocation",
+        "word_hebrew": "הַקצָאָה",
+        "main_definition": "Allocation refers to the process of distributing or assigning resources, such as money, time, or goods, according to a set plan or criteria.",
+        "main_definition_hebrew": "הקצאה מתייחסת לתהליך של הפצה או הקצאת משאבים, כגון כסף, זמן או סחורות, על פי תוכנית או קריטריונים מוגדרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of distributing or apportioning something among recipients",
+                "definition_hebrew": "הפעולה של הפצה או חלוקה של משהו בין הנמענים",
+                "example": "In project management, allocation refers to the distribution of tasks and resources among team members.",
+                "example_hebrew": "בניהול פרויקטים, הקצאה מתייחסת לחלוקת המשימות והמשאבים בין חברי הצוות."
+            },
+            {
+                "definition": "The assignment of funds for a specific purpose within an organization's budget",
+                "definition_hebrew": "הקצאת כספים למטרה מסוימת במסגרת תקציב הארגון",
+                "example": "The company allocated $10,000 for marketing efforts in Q3 2021.",
+                "example_hebrew": "החברה הקצתה 10,000 דולר למאמצי שיווק ברבעון השלישי של 2021."
+            },
+            {
+                "definition": "Distributing available resources to meet certain demands or requirements",
+                "definition_hebrew": "הפצת משאבים זמינים כדי לעמוד בדרישות או דרישות מסוימות",
+                "example": "Allocation of hospital beds based on the number of patients and their conditions during a health crisis.",
+                "example_hebrew": "הקצאת מיטות אשפוז בהתאם למספר החולים ומצבם בעת משבר בריאותי."
+            },
+            {
+                "definition": "The process of designating specific roles, responsibilities, or tasks for individuals in an organization or group setting",
+                "definition_hebrew": "התהליך של ייעוד תפקידים, אחריות או משימות ספציפיים עבור אנשים בארגון או בקבוצה",
+                "example": "Allocation of duties within a team project where each member is assigned a role to fulfill according to their skills and expertise.",
+                "example_hebrew": "הקצאת חובות במסגרת פרויקט צוות שבו מוקצה לכל חבר תפקיד למלא בהתאם לכישוריו ומומחיותו."
+            },
+            {
+                "definition": "The decision-making process related to the distribution and use of resources, including financial capital, assets, or personnel",
+                "definition_hebrew": "תהליך קבלת ההחלטות הקשור לחלוקה ושימוש במשאבים, לרבות הון פיננסי, נכסים או כוח אדם",
+                "example": "A government's allocation decisions regarding education funding can impact schools in various regions differently.",
+                "example_hebrew": "החלטות הממשלה בנוגע להקצאה לגבי מימון חינוך יכולות להשפיע באופן שונה על בתי ספר באזורים שונים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "authorized",
+        "word_hebrew": "מורשה",
+        "main_definition": "Permitted or given official approval to do something.",
+        "main_definition_hebrew": "מותר או קיבל אישור רשמי לעשות משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Given legal power or permission to act in a particular way, typically by someone with authority over an individual.",
+                "definition_hebrew": "ניתן סמכות משפטית או הרשאה לפעול בדרך מסוימת, בדרך כלל על ידי מישהו בעל סמכות על אדם.",
+                "example": "Only authorized personnel can access the secure server room.",
+                "example_hebrew": "רק צוות מורשה יכול לגשת לחדר השרתים המאובטח."
+            },
+            {
+                "definition": "Endorsed or approved officially for use, such as documents, forms, or designs.",
+                "definition_hebrew": "מאושר או מאושר רשמית לשימוש, כגון מסמכים, טפסים או עיצובים.",
+                "example": "The company requires all employees to have their ID cards authorized before using the building's facilities.",
+                "example_hebrew": "החברה דורשת מכל העובדים באישור תעודות זהות לפני השימוש במתקני הבניין."
+            },
+            {
+                "definition": "Allowed by a person in authority; permitted under certain conditions.",
+                "definition_hebrew": "מותר על ידי בעל סמכות; מותר בתנאים מסוימים.",
+                "example": "Drivers are authorized to use their own vehicle for official business as long as it meets safety standards.",
+                "example_hebrew": "נהגים מורשים להשתמש ברכב שלהם עבור עסקים רשמיים כל עוד הוא עומד בתקני הבטיחות."
+            },
+            {
+                "definition": "Empowered or legally allowed to perform an action, typically because of special qualifications or authority.",
+                "definition_hebrew": "מוסמך או מורשה חוקית לבצע פעולה, בדרך כלל בגלל כישורים או סמכות מיוחדים.",
+                "example": "Only authorized agents can sign contracts on behealf of the company.",
+                "example_hebrew": "רק סוכנים מורשים יכולים לחתום על חוזים בשם החברה."
+            }
+        ]
+    }
+]

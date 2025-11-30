@@ -1,0 +1,40 @@
+[
+    {
+        "word": "computing",
+        "word_hebrew": "מחשוב",
+        "main_definition": "The process of using computers to perform calculations or manage data.",
+        "main_definition_hebrew": "תהליך השימוש במחשבים לביצוע חישובים או ניהול נתונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The study and design of computer systems and algorithms for processing information.",
+                "definition_hebrew": "לימוד ועיצוב מערכות מחשוב ואלגוריתמים לעיבוד מידע.",
+                "example": "Computer science is a field that focuses on computing, including the development of new programming languages.",
+                "example_hebrew": "מדעי המחשב הוא תחום המתמקד במחשוב, כולל פיתוח שפות תכנות חדשות."
+            },
+            {
+                "definition": "A task or workload performed by a person or group using computers to analyze data and solve problems.",
+                "definition_hebrew": "משימה או עומס עבודה המבוצעים על ידי אדם או קבוצה באמצעות מחשבים לניתוח נתונים ופתרון בעיות.",
+                "example": "The IT department's main job in our company is computing, which involves analyzing network performance and finding solutions for any issues.",
+                "example_hebrew": "תפקידה העיקרי של מחלקת ה-IT בחברתנו הוא מחשוב הכולל ניתוח ביצועי רשת ומציאת פתרונות לכל בעיה."
+            },
+            {
+                "definition": "To calculate or process information using computational methods.",
+                "definition_hebrew": "לחשב או לעבד מידע באמצעות שיטות חישוביות.",
+                "example": "When we compute the total sales from different departments, we use a software program to perform the calculations accurately and quickly.",
+                "example_hebrew": "כאשר אנו מחשבים את סך המכירות ממחלקות שונות, אנו משתמשים בתוכנה כדי לבצע את החישובים בצורה מדויקת ומהירה."
+            },
+            {
+                "definition": "The act of utilizing computer technology for various purposes such as business operations, research, entertainment, etc.",
+                "definition_hebrew": "פעולת ניצול טכנולוגיית המחשב למטרות שונות כגון פעילות עסקית, מחקר, בידור וכו'.",
+                "example": "Many people rely on computing devices like smartphones and laptops for daily tasks, work, and leisure activities.",
+                "example_hebrew": "אנשים רבים מסתמכים על מכשירי מחשוב כמו סמארטפונים ומחשבים ניידים עבור משימות יומיומיות, עבודה ופעילויות פנאי."
+            },
+            {
+                "definition": "The practice of managing computer systems to ensure they are functioning properly and efficiently.",
+                "definition_hebrew": "הפרקטיקה של ניהול מערכות מחשוב כדי להבטיח שהן פועלות בצורה תקינה ויעילה.",
+                "example": "IT professionals specialize in the maintenance and computing aspect of our company's network infrastructure.",
+                "example_hebrew": "מומחי IT מתמחים בהיבט התחזוקה והמחשוב של תשתית הרשת של החברה שלנו."
+            }
+        ]
+    }
+]

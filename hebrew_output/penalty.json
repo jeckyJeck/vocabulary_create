@@ -1,0 +1,34 @@
+[
+    {
+        "word": "penalty",
+        "word_hebrew": "עוֹנֶשׁ",
+        "main_definition": "A punishment imposed on a person or team for breaking rules, especially in sports or games.",
+        "main_definition_hebrew": "עונש שהוטל על אדם או קבוצה בגין הפרת כללים, במיוחד בספורט או במשחקים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Fine imposed as punishment",
+                "definition_hebrew": "קנס שהוטל כעונש",
+                "example": "John received a penalty of $1000 for not paying his parking fine on time.",
+                "example_hebrew": "ג'ון קיבל קנס של 1000 דולר על שלא שילם את קנס החניה שלו בזמן."
+            },
+            {
+                "definition": "Forfeiture of something (usually points or score) in a game or competition due to rule violation",
+                "definition_hebrew": "חילוט של משהו (בדרך כלל נקודות או ניקוד) במשחק או בתחרות עקב הפרת כללים",
+                "example": "The soccer team received a penalty of 2 points because they used an ineligible player during the match.",
+                "example_hebrew": "קבוצת הכדורגל קיבלה עונש של 2 נקודות בגלל שהשתמשה בשחקן לא כשיר במהלך המשחק."
+            },
+            {
+                "definition": "A punishment for breaking laws or rules, often involving jail time or fines",
+                "definition_hebrew": "עונש על הפרת חוקים או כללים, לעתים קרובות כרוך במאסר או קנסות",
+                "example": "After being caught speeding, Jane was given a three-day penalty and had to pay a fine of $200.",
+                "example_hebrew": "לאחר שנתפסה נוהגת במהירות מופרזת, ג'יין קיבלה עונש של שלושה ימים ונאלצה לשלם קנס של 200 דולר."
+            },
+            {
+                "definition": "An adverse effect as the result of failure to comply with rules or regulations",
+                "definition_hebrew": "השפעה שלילית כתוצאה מאי עמידה בכללים או תקנות",
+                "example": "The company faced significant penalties for not following environmental protection laws, including hefty fines and mandatory cleanup operations.",
+                "example_hebrew": "החברה עמדה בפני עונשים משמעותיים על אי ציות לחוקי הגנת הסביבה, כולל קנסות גבוהים ופעולות ניקיון חובה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "coding",
+        "word_hebrew": "סִמוּל",
+        "main_definition": "Coding refers to the process of creating instructions (code) that a computer can execute, or it may also refer to programming activities such as writing programs in various programming languages.",
+        "main_definition_hebrew": "קידוד מתייחס לתהליך של יצירת הוראות (קוד) שמחשב יכול לבצע, או שהוא עשוי להתייחס גם לפעילויות תכנות כמו כתיבת תוכניות בשפות תכנות שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of translating human-readable code into machine language",
+                "definition_hebrew": "הפעולה של תרגום קוד קריא אנושי לשפת מכונה",
+                "example": "He spent the entire day coding JavaScript functions for his website.",
+                "example_hebrew": "הוא בילה את כל היום בקידוד פונקציות JavaScript עבור האתר שלו."
+            },
+            {
+                "definition": "Programming activities involving writing scripts or algorithms in a programming language",
+                "definition_hebrew": "פעילויות תכנות הכוללות כתיבת סקריפטים או אלגוריתמים בשפת תכנות",
+                "example": "She is proficient in Python and spends her weekends coding new features into her software project.",
+                "example_hebrew": "היא בקיאה ב-Python ומבלה את סופי השבוע שלה בקידוד תכונות חדשות בפרויקט התוכנה שלה."
+            },
+            {
+                "definition": "The process of creating visual representations (coding) for digital content like graphics, animations or videos",
+                "definition_hebrew": "תהליך יצירת ייצוגים חזותיים (קידוד) לתוכן דיגיטלי כמו גרפיקה, אנימציות או סרטונים",
+                "example": "Coding the interactive elements on a website is an important part of web design.",
+                "example_hebrew": "קידוד האלמנטים האינטראקטיביים באתר הוא חלק חשוב בעיצוב אתרים."
+            },
+            {
+                "definition": "A technique used to solve problems by breaking them down into smaller tasks that can be addressed individually",
+                "definition_hebrew": "טכניקה המשמשת לפתרון בעיות על ידי פירוקן למשימות קטנות יותר שניתן לטפל בהן בנפרד",
+                "example": "The coding problem was solved using a divide-and-conquer strategy, tackling each subtask separately.",
+                "example_hebrew": "בעיית הקידוד נפתרה באמצעות אסטרטגיית חלוקה-וכבש, תוך התמודדות עם כל תת-מטלה בנפרד."
+            }
+        ]
+    }
+]

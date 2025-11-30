@@ -1,0 +1,34 @@
+[
+    {
+        "word": "around",
+        "word_hebrew": "סְבִיב",
+        "main_definition": "The word 'around' is used as a preposition or adverb to indicate movement in a circular direction, proximity, timeframe, or uncertainty.",
+        "main_definition_hebrew": "המילה 'מסביב' משמשת מילת יחס או מילת יחס לציון תנועה בכיוון מעגלי, קרבה, מסגרת זמן או אי ודאות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In a circular direction",
+                "definition_hebrew": "בכיוון מעגלי",
+                "example": "We walked around the lake.",
+                "example_hebrew": "טיילנו סביב האגם."
+            },
+            {
+                "definition": "Proximity or nearness to something",
+                "definition_hebrew": "קרבה או קרבה למשהו",
+                "example": "The park is right around the corner from my house.",
+                "example_hebrew": "הפארק נמצא ממש מעבר לפינה מהבית שלי."
+            },
+            {
+                "definition": "Relating to a time period, often indicating an approximate duration or range of dates",
+                "definition_hebrew": "מתייחס לתקופת זמן, לעתים קרובות מציינת משך או טווח תאריכים משוער",
+                "example": "We will be back in about two weeks. We are going to stay around there for that long.",
+                "example_hebrew": "נחזור בעוד כשבועיים. אנחנו הולכים להישאר שם כל כך הרבה זמן."
+            },
+            {
+                "definition": "Indicating uncertainty or lack of knowledge",
+                "definition_hebrew": "מצביע על אי ודאות או חוסר ידע",
+                "example": "I don't know where my keys are, they might have been left around here somewhere.",
+                "example_hebrew": "אני לא יודע איפה המפתחות שלי, אולי הם הושארו כאן איפשהו."
+            }
+        ]
+    }
+]

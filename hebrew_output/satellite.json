@@ -1,0 +1,28 @@
+[
+    {
+        "word": "satellite",
+        "word_hebrew": "לוויין",
+        "main_definition": "A satellite can refer to an object in space that orbits a larger celestial body, or it can be used metaphorically to describe something closely associated with another entity.",
+        "main_definition_hebrew": "לוויין יכול להתייחס לעצם בחלל המקיף גוף שמימי גדול יותר, או שניתן להשתמש בו באופן מטפורי כדי לתאר משהו הקשור קשר הדוק עם ישות אחרת.",
+        "meanings_and_examples": [
+            {
+                "definition": "An artificial device placed into orbit around the Earth or other planets for various purposes such as communication, observation, and research",
+                "definition_hebrew": "מכשיר מלאכותי המוצב במסלול סביב כדור הארץ או כוכבי לכת אחרים למטרות שונות כגון תקשורת, תצפית ומחקר",
+                "example": "The Hubble Space Telescope is a well-known Earth-orbiting satellite.",
+                "example_hebrew": "טלסקופ החלל האבל הוא לוויין ידוע המקיף את כדור הארץ."
+            },
+            {
+                "definition": "A smaller object that revolves around a larger one in space, typically due to gravitational pull",
+                "definition_hebrew": "עצם קטן יותר שמסתובב סביב אובייקט גדול יותר בחלל, בדרך כלל עקב משיכה כבידה",
+                "example": "The Moon acts as a natural satellite for the Earth, orbiting it every 27.3 days.",
+                "example_hebrew": "הירח משמש כלוויין טבעי לכדור הארץ, ומקיף אותו כל 27.3 ימים."
+            },
+            {
+                "definition": "Something closely related or subordinate to another entity",
+                "definition_hebrew": "משהו הקשור קשר הדוק או כפוף לישות אחרת",
+                "example": "In a business context, subsidiaries are considered satellites of their parent company.",
+                "example_hebrew": "בהקשר עסקי, חברות בנות נחשבות לוויינים של חברת האם שלהן."
+            }
+        ]
+    }
+]

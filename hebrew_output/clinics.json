@@ -1,0 +1,40 @@
+[
+    {
+        "word": "clinics",
+        "word_hebrew": "מרפאות",
+        "main_definition": "Clinics are healthcare facilities where medical professionals provide outpatient services, diagnoses, treatments, and sometimes preventive care to patients.",
+        "main_definition_hebrew": "מרפאות הן מתקני בריאות שבהם אנשי מקצוע רפואיים מספקים שירותי חוץ, אבחונים, טיפולים ולעיתים טיפול מונע לחולים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Healthcare facilities for minor injuries or illnesses",
+                "definition_hebrew": "שירותי בריאות לפציעות או מחלות קלות",
+                "example": "The local clinic treated my sprained ankle.",
+                "example_hebrew": "המרפאה המקומית טיפלה בקרסול הנקע שלי."
+            },
+            {
+                "definition": "Specialized medical care centers focusing on specific patient groups like children, women, or veterans",
+                "definition_hebrew": "מרכזי טיפול רפואי מיוחדים המתמקדים בקבוצות מטופלים ספציפיות כמו ילדים, נשים או חיילים משוחררים",
+                "example": "Children's clinics offer pediatric care to young patients.",
+                "example_hebrew": "מרפאות ילדים מציעות טיפול בילדים למטופלים צעירים."
+            },
+            {
+                "definition": "Medical facilities offering preventive services and health education",
+                "definition_hebrew": "מתקנים רפואיים המציעים שירותי מניעה וחינוך לבריאות",
+                "example": "The community health clinic provided free vaccinations for children during a flu season.",
+                "example_hebrew": "מרפאת הבריאות הקהילתית סיפקה חיסונים חינם לילדים במהלך עונת שפעת."
+            },
+            {
+                "definition": "Clinics that provide mental health services, such as counseling or therapy",
+                "definition_hebrew": "מרפאות המספקות שירותי בריאות הנפש, כגון ייעוץ או טיפול",
+                "example": "She visited the psychological clinic to receive treatment for her anxiety disorder.",
+                "example_hebrew": "היא ביקרה במרפאה הפסיכולוגית כדי לקבל טיפול בהפרעת החרדה שלה."
+            },
+            {
+                "definition": "Outpatient facilities associated with a larger hospital or medical center",
+                "definition_hebrew": "מתקני חוץ הקשורים לבית חולים או מרכז רפואי גדול יותר",
+                "example": "The outpatient clinics of the city hospital provide various specialized services like cardiology and neurology.",
+                "example_hebrew": "מרפאות החוץ של בית החולים בעיר מספקות שירותים מיוחדים שונים כמו קרדיולוגיה ונוירולוגיה."
+            }
+        ]
+    }
+]

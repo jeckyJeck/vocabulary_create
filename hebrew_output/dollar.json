@@ -1,0 +1,28 @@
+[
+    {
+        "word": "dollar",
+        "word_hebrew": "דוֹלָר",
+        "main_definition": "A unit of currency used in several countries, as well as a slang term to describe value or worth.",
+        "main_definition_hebrew": "יחידת מטבע המשמשת במספר מדינות, כמו גם מונח סלנג לתיאור ערך או שווי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Currency: A coin-like object that is used as money in the United States and some other countries. It represents value and can be exchanged for goods and services.",
+                "definition_hebrew": "מטבע: חפץ דמוי מטבע המשמש ככסף בארצות הברית ובכמה מדינות אחרות. הוא מייצג ערך וניתן להחלפה בסחורות ושירותים.",
+                "example": "She paid $5 for a cup of coffee with dollar bills.",
+                "example_hebrew": "היא שילמה 5 דולר עבור כוס קפה עם שטרות דולרים."
+            },
+            {
+                "definition": "Value: The worth or importance that something has, often used in comparison to other things.\n",
+                "definition_hebrew": "ערך: הערך או החשיבות שיש למשהו, משמש לעתים קרובות בהשוואה לדברים אחרים.\n",
+                "example": "That new phone model is considered quite valuable because it offers advanced features at an affordable price.",
+                "example_hebrew": "דגם הטלפון החדש הזה נחשב ליקר למדי מכיוון שהוא מציע תכונות מתקדמות במחיר סביר."
+            },
+            {
+                "definition": "Slang term for good quality or value.",
+                "definition_hebrew": "כינוי סלנג לאיכות טובה או ערך טוב.",
+                "example": "This shirt was a dollar, but the fabric feels great and the stitching is solid. It's a real dollar piece!",
+                "example_hebrew": "החולצה הזו הייתה דולר, אבל הבד מרגיש נהדר והתפירה מוצקה. זה חתיכת דולר אמיתי!"
+            }
+        ]
+    }
+]

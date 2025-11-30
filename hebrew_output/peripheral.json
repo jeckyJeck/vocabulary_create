@@ -1,0 +1,34 @@
+[
+    {
+        "word": "peripheral",
+        "word_hebrew": "שׁוּלִי",
+        "main_definition": "Peripheral refers to something that is related to, or situated at the edges of a particular area or object, often less central or primary in importance.",
+        "main_definition_hebrew": "היקפי מתייחס למשהו שקשור או ממוקם בקצוות של אזור או אובייקט מסוים, לעתים קרובות פחות מרכזי או ראשוני בחשיבותו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to or situated on the edge; outermost part",
+                "definition_hebrew": "מתייחס או ממוקם בקצה; החלק החיצוני ביותר",
+                "example": "The peripheral devices include printers and webcams connected to a computer.",
+                "example_hebrew": "ההתקנים ההיקפיים כוללים מדפסות ומצלמות אינטרנט המחוברות למחשב."
+            },
+            {
+                "definition": "Not directly involved in, but still related to, an event or process",
+                "definition_hebrew": "לא מעורב ישירות באירוע או תהליך, אבל עדיין קשור אליו",
+                "example": "These are the peripheral symptoms that might indicate a more serious health issue.",
+                "example_hebrew": "אלו הם התסמינים ההיקפיים שעשויים להצביע על בעיה בריאותית חמורה יותר."
+            },
+            {
+                "definition": "In computing, referring to devices or components connected to a computer system but not part of its core processing elements",
+                "definition_hebrew": "במחשוב, הכוונה להתקנים או רכיבים המחוברים למערכת מחשב אך אינם חלק ממרכיבי העיבוד המרכזיים שלה",
+                "example": "Mouse and keyboard are common examples of peripheral devices in a personal computer setup.",
+                "example_hebrew": "עכבר ומקלדת הם דוגמאות נפוצות להתקנים היקפיים במערך מחשב אישי."
+            },
+            {
+                "definition": "Marginal; bordering on unimportant or insignificant",
+                "definition_hebrew": "שׁוּלִי; על גבול לא חשוב או לא משמעותי",
+                "example": "His peripheral knowledge about the topic didn't contribute much to the discussion.",
+                "example_hebrew": "הידע ההיקפי שלו על הנושא לא תרם הרבה לדיון."
+            }
+        ]
+    }
+]

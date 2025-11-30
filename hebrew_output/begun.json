@@ -1,0 +1,34 @@
+[
+    {
+        "word": "begun",
+        "word_hebrew": "התחילה",
+        "main_definition": "To have started or initiated an action, process, or event.",
+        "main_definition_hebrew": "התחלת או התחלת פעולה, תהליך או אירוע.",
+        "meanings_and_examples": [
+            {
+                "definition": "To start a particular activity or task.",
+                "definition_hebrew": "כדי להתחיל פעילות או משימה מסוימת.",
+                "example": "The meeting has just begun, and we are about to discuss the new project.",
+                "example_hebrew": "הפגישה רק החלה, ואנחנו עומדים לדון בפרויקט החדש."
+            },
+            {
+                "definition": "To commence an event, such as a concert or ceremony.",
+                "definition_hebrew": "כדי להתחיל אירוע, כגון קונצרט או טקס.",
+                "example": "The concert began at 8 PM with an opening act by local singer-songwriter Jenny.",
+                "example_hebrew": "הקונצרט החל בשעה 20:00 במופע פתיחה של הזמרת והיוצרת המקומית ג'ני."
+            },
+            {
+                "definition": "The start of a process or production line in manufacturing.",
+                "definition_hebrew": "תחילתו של תהליך או פס ייצור בייצור.",
+                "example": "The factory's assembly line has begun, and products are being produced to meet demand.",
+                "example_hebrew": "קו הייצור של המפעל החל, ומוצרים מיוצרים בהתאם לביקוש."
+            },
+            {
+                "definition": "Initiating an action as part of following steps in a sequence.",
+                "definition_hebrew": "התחלת פעולה כחלק מביצוע שלבים ברצף.",
+                "example": "After the preparation stage was completed, we began the testing phase for our software product.",
+                "example_hebrew": "לאחר סיום שלב ההכנה, התחלנו את שלב הבדיקות למוצר התוכנה שלנו."
+            }
+        ]
+    }
+]

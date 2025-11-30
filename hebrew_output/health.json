@@ -1,0 +1,28 @@
+[
+    {
+        "word": "health",
+        "word_hebrew": "בְּרִיאוּת",
+        "main_definition": "Health refers to the overall state of a person's physical, mental, and social well-being.",
+        "main_definition_hebrew": "בריאות מתייחסת למצב הכללי של הרווחה הפיזית, הנפשית והחברתית של האדם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical well-being without illness or injury",
+                "definition_hebrew": "רווחה גופנית ללא מחלה או פציעה",
+                "example": "Maintaining good health requires regular exercise and a balanced diet.",
+                "example_hebrew": "שמירה על בריאות טובה דורשת פעילות גופנית סדירה ותזונה מאוזנת."
+            },
+            {
+                "definition": "Absence of mental distress or disorders",
+                "definition_hebrew": "היעדר מצוקה נפשית או הפרעות",
+                "example": "His psychological health improved after seeking therapy for his anxiety.",
+                "example_hebrew": "בריאותו הפסיכולוגית השתפרה לאחר שפנה לטיפול בחרדה שלו."
+            },
+            {
+                "definition": "The quality of life that is free from social and environmental challenges",
+                "definition_hebrew": "איכות חיים נקייה מאתגרים חברתיים וסביבתיים",
+                "example": "Community programs aimed at enhancing the social health of its residents.",
+                "example_hebrew": "תוכניות קהילתיות שמטרתן לשפר את הבריאות החברתית של תושביה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "archived",
+        "word_hebrew": "בארכיון",
+        "main_definition": "The act of storing or keeping records, files, documents, etc., in an organized manner for future reference or long-term preservation.",
+        "main_definition_hebrew": "פעולת אחסון או שמירת רישומים, תיקים, מסמכים וכדומה, בצורה מסודרת לעיון עתידי או לשימור ארוך טווח.",
+        "meanings_and_examples": [
+            {
+                "definition": "To remove from active access and store away",
+                "definition_hebrew": "כדי להסיר מגישה פעילה ולאחסן",
+                "example": "Once the email is no longer needed, it was archived to free up space in my inbox.",
+                "example_hebrew": "ברגע שהמייל כבר לא נחוץ, הוא הועבר לארכיון כדי לפנות מקום בתיבת הדואר הנכנס שלי."
+            },
+            {
+                "definition": "Stored records kept for legal or historical purposes",
+                "definition_hebrew": "רישומים מאוחסנים שנשמרו למטרות משפטיות או היסטוריות",
+                "example": "The company's financial records have been archived and are available for audit if necessary.",
+                "example_hebrew": "הרישומים הכספיים של החברה הועברו לארכיון וזמינים לביקורת במידת הצורך."
+            },
+            {
+                "definition": "To preserve something in a permanent, unalterable state",
+                "definition_hebrew": "לשמר משהו במצב קבוע, בלתי ניתן לשינוי",
+                "example": "His extensive collection of vintage comic books has been carefully archived to maintain their condition over time.",
+                "example_hebrew": "האוסף הנרחב שלו של ספרי קומיקס וינטג' הועבר לארכיון בקפידה כדי לשמור על מצבם לאורך זמן."
+            }
+        ]
+    }
+]

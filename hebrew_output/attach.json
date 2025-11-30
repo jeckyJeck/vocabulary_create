@@ -1,0 +1,40 @@
+[
+    {
+        "word": "attach",
+        "word_hebrew": "לְצַרֵף",
+        "main_definition": "To fasten or connect one thing to another, typically with a physical connection.",
+        "main_definition_hebrew": "להדק או לחבר דבר אחד למשנהו, בדרך כלל עם חיבור פיזי.",
+        "meanings_and_examples": [
+            {
+                "definition": "To physically join two objects together using some form of bonding material or mechanism.",
+                "definition_hebrew": "חיבור פיזי של שני אובייקטים יחד באמצעות צורה כלשהי של חומר מליטה או מנגנון.",
+                "example": "She used glue to attach the picture frame to the wall.",
+                "example_hebrew": "היא השתמשה בדבק כדי להצמיד את מסגרת התמונה לקיר."
+            },
+            {
+                "definition": "To add a document, file, or item as an attachment in electronic communications such as emails and messages.",
+                "definition_hebrew": "כדי להוסיף מסמך, קובץ או פריט כקובץ מצורף בתקשורת אלקטרונית כגון מיילים והודעות.",
+                "example": "I will attach my report to this email for you to review.",
+                "example_hebrew": "אצרף את הדוח שלי לדוא\"ל זה כדי שתוכל לעיין בו."
+            },
+            {
+                "definition": "To make something of importance known or public; draw attention to it.",
+                "definition_hebrew": "לעשות משהו בעל חשיבות ידוע או פומבי; למשוך את תשומת הלב אליו.",
+                "example": "The news article aimed to attach the politician's controversial statement to widespread media coverage.",
+                "example_hebrew": "הכתבה נועדה לצרף את האמירה השנויה במחלוקת של הפוליטיקאי לסיקור תקשורתי נרחב."
+            },
+            {
+                "definition": "To set a condition, requirement, or stipulation that must be met for something else to happen or be valid.",
+                "definition_hebrew": "לקבוע תנאי, דרישה או תניה שחייבים להתקיים כדי שמשהו אחר יקרה או יהיה תקף.",
+                "example": "If you want your application accepted, you need to attach all the required documents before submitting it.",
+                "example_hebrew": "אם אתה רוצה שהבקשה שלך תתקבל, עליך לצרף את כל המסמכים הנדרשים לפני הגשתה."
+            },
+            {
+                "definition": "To become emotionally attached or connected to someone or something; develop a bond or affection.",
+                "definition_hebrew": "להיות מחובר רגשית למישהו או משהו; לפתח קשר או חיבה.",
+                "example": "She could not help but attach herself to every puppy she saw at the shelter.",
+                "example_hebrew": "היא לא יכלה שלא לצרף את עצמה לכל גור שראתה במקלט."
+            }
+        ]
+    }
+]

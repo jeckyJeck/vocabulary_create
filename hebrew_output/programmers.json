@@ -1,0 +1,34 @@
+[
+    {
+        "word": "programmers",
+        "word_hebrew": "מתכנתים",
+        "main_definition": "Programmers are individuals who develop, maintain, or modify computer programs and software systems.",
+        "main_definition_hebrew": "מתכנתים הם אנשים שמפתחים, מתחזקים או משנים תוכניות מחשב ומערכות תוכנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Individuals skilled in coding languages and creating software applications.",
+                "definition_hebrew": "אנשים מיומנים בקידוד שפות ויצירת יישומי תוכנה.",
+                "example": "Jane is a programmer who writes code to create mobile apps.",
+                "example_hebrew": "ג'יין היא מתכנתת שכותבת קוד ליצירת אפליקציות לנייד."
+            },
+            {
+                "definition": "People responsible for maintaining existing computer programs or systems by fixing bugs, updating features, and optimizing performance.",
+                "definition_hebrew": "אנשים האחראים לתחזוקת תוכניות מחשב או מערכות קיימות על ידי תיקון באגים, עדכון תכונות ואופטימיזציה של ביצועים.",
+                "example": "The team of programmers worked overnight to fix the issue in the bank's online transaction system.",
+                "example_hebrew": "צוות המתכנתים עבד בן לילה כדי לתקן את הבעיה במערכת העסקאות המקוונת של הבנק."
+            },
+            {
+                "definition": "Those who specialize in a particular programming language or area of software development.",
+                "definition_hebrew": "אלו שמתמחים בשפת תכנות מסוימת או בתחום פיתוח תוכנה.",
+                "example": "Mark is an expert programmer who focuses on developing artificial intelligence algorithms.",
+                "example_hebrew": "מארק הוא מתכנת מומחה המתמקד בפיתוח אלגוריתמים של בינה מלאכותית."
+            },
+            {
+                "definition": "A group of people collaborating to develop new technologies, tools, and innovations in the field of computer science.",
+                "definition_hebrew": "קבוצת אנשים המשתפת פעולה לפיתוח טכנולוגיות, כלים וחידושים חדשים בתחום מדעי המחשב.",
+                "example": "The research programmers at a tech company are working together to create groundbreaking machine learning solutions.",
+                "example_hebrew": "מתכנתי המחקר בחברת טכנולוגיה עובדים יחד כדי ליצור פתרונות למידת מכונה פורצי דרך."
+            }
+        ]
+    }
+]

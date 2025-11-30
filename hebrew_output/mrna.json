@@ -1,0 +1,34 @@
+[
+    {
+        "word": "mrna",
+        "word_hebrew": "mrna",
+        "main_definition": "The abbreviation of messenger RNA, which is a type of RNA that carries genetic information from DNA to the ribosome for protein synthesis.",
+        "main_definition_hebrew": "הקיצור של RNA שליח, שהוא סוג של RNA הנושא מידע גנטי מה-DNA אל הריבוזום לצורך סינתזת חלבון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Messenger Ribonucleic Acid (mRNA)",
+                "definition_hebrew": "Messenger Ribonucleic Acid (mRNA)",
+                "example": "In eukaryotic cells, mRNA is transcribed from DNA and carries the genetic information to the ribosomes for protein synthesis.",
+                "example_hebrew": "בתאים איקריוטים, mRNA מועתק מ-DNA ונושא את המידע הגנטי לריבוזומים לצורך סינתזת חלבון."
+            },
+            {
+                "definition": "mRNA Sequences in Virology",
+                "definition_hebrew": "רצפי mRNA בווירולוגיה",
+                "example": "The SARS-CoV-2 virus uses mRNA sequences to create its spike proteins, which are crucial for the virus's ability to infect host cells.",
+                "example_hebrew": "נגיף ה-SARS-CoV-2 משתמש ברצפי mRNA כדי ליצור חלבוני ספייק שלו, שהם חיוניים ליכולתו של הנגיף להדביק תאי מארח."
+            },
+            {
+                "definition": "mRNA Therapeutics",
+                "definition_hebrew": "mRNA Therapeutics",
+                "example": "Moderna and Pfizer/BioNTech COVID-19 vaccines use synthetic mRNA to instruct cells to produce a protein that triggers an immune response against the virus.",
+                "example_hebrew": "חיסוני Moderna ו-Pfizer/BioNTech COVID-19 משתמשים ב-mRNA סינתטי כדי להורות לתאים לייצר חלבון שמפעיל תגובה חיסונית נגד הנגיף."
+            },
+            {
+                "definition": "mRNA in Genetics Research",
+                "definition_hebrew": "mRNA בחקר גנטיקה",
+                "example": "Scientists create artificial mRNA molecules, known as exogenous mRNAs, to study gene function and regulation within cells.",
+                "example_hebrew": "מדענים יוצרים מולקולות mRNA מלאכותיות, הידועות כ-mRNA אקסוגניות, כדי לחקור תפקוד גנים וויסות בתוך תאים."
+            }
+        ]
+    }
+]

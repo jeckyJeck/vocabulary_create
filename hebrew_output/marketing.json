@@ -1,0 +1,40 @@
+[
+    {
+        "word": "marketing",
+        "word_hebrew": "שיווק",
+        "main_definition": "Marketing is the process of promoting, selling, and distributing a product or service to customers.",
+        "main_definition_hebrew": "שיווק הוא תהליך של קידום, מכירה והפצה של מוצר או שירות ללקוחות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of identifying customer needs and wants.",
+                "definition_hebrew": "פעולת זיהוי צרכי הלקוח ורצונותיו.",
+                "example": "A company conducts market research to determine what products their target audience prefers.",
+                "example_hebrew": "חברה עורכת מחקר שוק כדי לקבוע אילו מוצרים קהל היעד שלה מעדיף."
+            },
+            {
+                "definition": "Creating a brand image and identity for a product or service.",
+                "definition_hebrew": "יצירת תדמית וזהות מותג למוצר או שירות.",
+                "example": "A new coffee shop designs its logo, color scheme, and overall store look to create a distinctive brand image.",
+                "example_hebrew": "בית קפה חדש מעצב את הלוגו, ערכת הצבעים ומראה החנות שלו כדי ליצור תדמית ייחודית של המותג."
+            },
+            {
+                "definition": "Developing strategies to reach targeted customers through various channels such as advertising, public relations, and social media.",
+                "definition_hebrew": "פיתוח אסטרטגיות להגיע ללקוחות ממוקדים בערוצים שונים כגון פרסום, יחסי ציבור ומדיה חברתית.",
+                "example": "A clothing company runs an online ad campaign on Instagram to attract young adults interested in fashion.",
+                "example_hebrew": "חברת בגדים מפעילה קמפיין מודעות מקוון באינסטגרם כדי למשוך צעירים המתעניינים באופנה."
+            },
+            {
+                "definition": "Creating marketing materials like brochures, flyers, or website content that promote the product or service.",
+                "definition_hebrew": "יצירת חומרים שיווקיים כמו עלונים, פליירים או תוכן אתר המקדם את המוצר או השירות.",
+                "example": "An electronics company designs a brochure with detailed specifications and comparisons of its latest smartphone model.",
+                "example_hebrew": "חברת אלקטרוניקה מעצבת חוברת עם מפרטים מפורטים והשוואות של דגם הסמארטפון האחרון שלה."
+            },
+            {
+                "definition": "Building and maintaining relationships with customers to encourage repeat business and loyalty.",
+                "definition_hebrew": "בנייה ותחזוקה של קשרים עם לקוחות כדי לעודד עסקים חוזרים ונאמנות.",
+                "example": "A customer service representative follows up with clients after their purchase, ensuring they are satisfied with the product or service.",
+                "example_hebrew": "נציג שירות לקוחות עוקב אחר הלקוחות לאחר רכישתם, ומבטיח שהם מרוצים מהמוצר או השירות."
+            }
+        ]
+    }
+]

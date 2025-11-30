@@ -1,0 +1,34 @@
+[
+    {
+        "word": "offline",
+        "word_hebrew": "במצב לא מקוון",
+        "main_definition": "Not connected to the internet or not accessible through online platforms.",
+        "main_definition_hebrew": "לא מחובר לאינטרנט או לא נגיש דרך פלטפורמות מקוונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Away from network connectivity, including the Internet.",
+                "definition_hebrew": "הרחק מקישוריות רשת, כולל האינטרנט.",
+                "example": "I can't access my email while I'm offline on this trip.",
+                "example_hebrew": "אני לא יכול לגשת לאימייל שלי בזמן שאני במצב לא מקוון בטיול הזה."
+            },
+            {
+                "definition": "Not available online or not present in digital form.",
+                "definition_hebrew": "לא זמין באינטרנט או לא קיים בצורה דיגיטלית.",
+                "example": "The bookstore has a collection of classic novels that are only sold offline.",
+                "example_hebrew": "בחנות הספרים יש אוסף של רומנים קלאסיים שנמכרים רק במצב לא מקוון."
+            },
+            {
+                "definition": "Separate from the electronic world, often used to describe activities without internet usage.",
+                "definition_hebrew": "נפרד מהעולם האלקטרוני, משמש לעתים קרובות לתיאור פעילויות ללא שימוש באינטרנט.",
+                "example": "During our family gathering, we enjoyed games and conversations in an offline environment, away from phones and screens.",
+                "example_hebrew": "במהלך המפגש המשפחתי שלנו, נהנינו ממשחקים ושיחות בסביבה לא מקוונת, הרחק מטלפונים ומסכים."
+            },
+            {
+                "definition": "Refers to software or systems that operate without needing an Internet connection.",
+                "definition_hebrew": "הכוונה לתוכנות או למערכות הפועלות ללא צורך בחיבור לאינטרנט.",
+                "example": "Some word processors allow you to work entirely offline, saving changes locally until you're back online.",
+                "example_hebrew": "מעבדי תמלילים מסוימים מאפשרים לך לעבוד באופן לא מקוון לחלוטין, ולשמור שינויים באופן מקומי עד שתחזור לאינטרנט."
+            }
+        ]
+    }
+]

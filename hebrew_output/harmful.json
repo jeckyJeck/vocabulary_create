@@ -1,0 +1,40 @@
+[
+    {
+        "word": "harmful",
+        "word_hebrew": "מַזִיק",
+        "main_definition": "causing damage or negative effects to living organisms, property, or the environment.",
+        "main_definition_hebrew": "גרימת נזק או השפעות שליליות לאורגניזמים חיים, לרכוש או לסביבה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Dangerous and likely to cause injury or harm.",
+                "definition_hebrew": "מסוכן ועלול לגרום לפציעה או נזק.",
+                "example": "Smoking is harmful to your health.",
+                "example_hebrew": "עישון מזיק לבריאות שלך."
+            },
+            {
+                "definition": "Having a negative impact on the environment, causing ecological damage.",
+                "definition_hebrew": "השפעה שלילית על הסביבה, גרימת נזק אקולוגי.",
+                "example": "Pesticides can be harmful to the ecosystem by killing beneficial insects and contaminating water sources.",
+                "example_hebrew": "חומרי הדברה יכולים להזיק למערכת האקולוגית על ידי הרג חרקים מועילים וזיהום מקורות מים."
+            },
+            {
+                "definition": "Detrimental to one's physical or mental health.",
+                "definition_hebrew": "פוגע בבריאות הפיזית או הנפשית של האדם.",
+                "example": "Excessive consumption of alcohol is harmful to your liver and overall well-being.",
+                "example_hebrew": "צריכה מופרזת של אלכוהול מזיקה לכבד שלך ולרווחה הכללית."
+            },
+            {
+                "definition": "Negatively affecting the financial status or economy.",
+                "definition_hebrew": "השפעה שלילית על המצב הפיננסי או הכלכלה.",
+                "example": "A market crash can be extremely harmful to a country's economic stability.",
+                "example_hebrew": "קריסת שוק עלולה להזיק מאוד ליציבות הכלכלית של מדינה."
+            },
+            {
+                "definition": "Causing damage to property, buildings, or infrastructure.",
+                "definition_hebrew": "גרימת נזק לרכוש, מבנים או תשתיות.",
+                "example": "Hailstorms are often harmful to cars and roofs.",
+                "example_hebrew": "סופות ברד מזיקות לרוב למכוניות ולגגות."
+            }
+        ]
+    }
+]

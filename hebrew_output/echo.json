@@ -1,0 +1,34 @@
+[
+    {
+        "word": "echo",
+        "word_hebrew": "הֵד",
+        "main_definition": "Echo refers to the repetition or reflection of sound, a phenomenon where an original sound is reproduced in a similar form, often after bouncing off surfaces.",
+        "main_definition_hebrew": "אקו מתייחס לחזרה או השתקפות של צליל, תופעה שבה צליל מקורי מוחזר בצורה דומה, לעתים קרובות לאחר הקפצת משטחים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To repeat or reflect sound",
+                "definition_hebrew": "כדי לחזור או לשקף צליל",
+                "example": "The echo of our shouts could be heard throughout the valley.",
+                "example_hebrew": "הד הצעקות שלנו נשמע ברחבי העמק."
+            },
+            {
+                "definition": "A phenomenon where a sound is repeated after bouncing off surfaces",
+                "definition_hebrew": "תופעה שבה צליל חוזר על עצמו לאחר הקפצת משטחים",
+                "example": "When we yelled in that empty canyon, we were amazed by the strong echoes.",
+                "example_hebrew": "כשצעקנו בקניון הריק הזה, נדהמנו מההדים החזקים."
+            },
+            {
+                "definition": "An imitation or resemblance of something else",
+                "definition_hebrew": "חיקוי או דמיון של משהו אחר",
+                "example": "His performance was an echo of his previous success, but with a unique twist.",
+                "example_hebrew": "ההופעה שלו הייתה הד להצלחתו הקודמת, אבל עם טוויסט ייחודי."
+            },
+            {
+                "definition": "To receive and amplify signals in telecommunication systems",
+                "definition_hebrew": "לקבל ולהגביר אותות במערכות טלקומוניקציה",
+                "example": "The engineer tested the new cellphone's ability to pick up weak signals from far away locations.",
+                "example_hebrew": "המהנדס בדק את יכולתו של הסלולרי החדש לקלוט אותות חלשים ממקומות רחוקים."
+            }
+        ]
+    }
+]

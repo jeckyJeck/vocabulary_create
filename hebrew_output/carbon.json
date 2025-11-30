@@ -1,0 +1,46 @@
+[
+    {
+        "word": "carbon",
+        "word_hebrew": "פַּחמָן",
+        "main_definition": "Carbon is a chemical element with the symbol 'C' that exists in various forms, including as an essential component of organic compounds.",
+        "main_definition_hebrew": "פחמן הוא יסוד כימי עם הסמל 'C' הקיים בצורות שונות, כולל כמרכיב חיוני של תרכובות אורגניות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A carbon atom or its presence",
+                "definition_hebrew": "אטום פחמן או נוכחותו",
+                "example": "In the molecule of methane (CH4), a single carbon atom is present.",
+                "example_hebrew": "במולקולת המתאן (CH4), קיים אטום פחמן בודד."
+            },
+            {
+                "definition": "Carbon-based compounds",
+                "definition_hebrew": "תרכובות על בסיס פחמן",
+                "example": "Hydrocarbons like methane, ethane, and propane are examples of carbon-based compounds.",
+                "example_hebrew": "פחמימנים כמו מתאן, אתאן ופרופאן הם דוגמאות לתרכובות מבוססות פחמן."
+            },
+            {
+                "definition": "Black residue formed during combustion processes",
+                "definition_hebrew": "שאריות שחורות שנוצרו במהלך תהליכי בעירה",
+                "example": "Soot is a dark black powdery or flaky substance consisting mainly of carbon collected on filters and the surfaces of heating appliances from which hydrocarbon fuels are burned.",
+                "example_hebrew": "פיח הוא חומר אבקתי שחור כהה או מתקלף המורכב בעיקר מפחמן שנאסף על מסננים ומשטחים של מכשירי חימום שמהם שורפים דלקים פחמימניים."
+            },
+            {
+                "definition": "The economic activity related to the extraction, processing, and trading of coal",
+                "definition_hebrew": "הפעילות הכלכלית הקשורה להפקה, עיבוד ומסחר של פחם",
+                "example": "Coal mining is a major part of carbon-based industries that involve extracting carbon from coal deposits.",
+                "example_hebrew": "כריית פחם היא חלק מרכזי בתעשיות המבוססות על פחמן הכוללות הפקת פחמן ממרבצי פחם."
+            },
+            {
+                "definition": "An adjective describing something with properties or qualities similar to those found in carbon compounds or materials.",
+                "definition_hebrew": "שם תואר המתאר משהו בעל תכונות או תכונות דומות לאלה המצויים בתרכובות או בחומרים של פחמן.",
+                "example": "The material used for the surface coating was described as a carbon-based polymer due to its durability and resilience.",
+                "example_hebrew": "החומר המשמש לציפוי פני השטח תואר כפולימר על בסיס פחמן בשל עמידותו וגמישותו."
+            },
+            {
+                "definition": "A term related to climate change, referring to the amount of carbon dioxide released into the atmosphere",
+                "definition_hebrew": "מונח הקשור לשינויי אקלים, המתייחס לכמות הפחמן הדו חמצני המשתחרר לאטמוספירה",
+                "example": "Reducing our carbon footprint is essential for combating global warming.",
+                "example_hebrew": "הקטנת טביעת הרגל הפחמנית שלנו חיונית למלחמה בהתחממות הגלובלית."
+            }
+        ]
+    }
+]

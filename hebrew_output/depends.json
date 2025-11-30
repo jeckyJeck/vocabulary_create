@@ -1,0 +1,34 @@
+[
+    {
+        "word": "depends",
+        "word_hebrew": "תלוי",
+        "main_definition": "To rely upon or be influenced by something; the outcome is contingent upon certain factors.",
+        "main_definition_hebrew": "לסמוך על משהו או להיות מושפע ממנו; התוצאה מותנית בגורמים מסוימים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Subject to change based on other conditions or variables",
+                "definition_hebrew": "כפוף לשינויים בהתבסס על תנאים או משתנים אחרים",
+                "example": "Whether it rains tomorrow depends on the weather forecast.",
+                "example_hebrew": "האם מחר יורד גשם תלוי בתחזית מזג האוויר."
+            },
+            {
+                "definition": "Requires something else before proceeding",
+                "definition_hebrew": "דורש משהו אחר לפני שתמשיך",
+                "example": "I can't go out tonight; I depend on my parents to give me permission first.",
+                "example_hebrew": "אני לא יכול לצאת הלילה; אני תלוי בהוריי שיתנו לי אישור קודם."
+            },
+            {
+                "definition": "Contingent or reliant upon a particular factor or person",
+                "definition_hebrew": "תלוי או תלוי בגורם או אדם מסוים",
+                "example": "Your success in this project depends on your ability to collaborate with the team.",
+                "example_hebrew": "הצלחתך בפרויקט זה תלויה ביכולתך לשתף פעולה עם הצוות."
+            },
+            {
+                "definition": "The outcome is uncertain and may vary based on certain factors",
+                "definition_hebrew": "התוצאה אינה ודאית ועשויה להשתנות בהתאם לגורמים מסוימים",
+                "example": "Deciding where to eat dinner for tonight largely depends on what's available nearby.",
+                "example_hebrew": "ההחלטה היכן לאכול ארוחת ערב להערב תלויה במידה רבה במה שזמין בקרבת מקום."
+            }
+        ]
+    }
+]

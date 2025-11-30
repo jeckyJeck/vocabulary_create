@@ -1,0 +1,34 @@
+[
+    {
+        "word": "gps",
+        "word_hebrew": "ג'י.פי. אס",
+        "main_definition": "Global Positioning System (GPS) is a satellite-based navigation system that provides location, velocity, and time information anywhere on Earth.",
+        "main_definition_hebrew": "מערכת מיקום גלובלית (GPS) היא מערכת ניווט מבוססת לווין המספקת מידע על מיקום, מהירות וזמן בכל מקום על פני כדור הארץ.",
+        "meanings_and_examples": [
+            {
+                "definition": "A technology or service used for navigating by providing real-time positioning",
+                "definition_hebrew": "טכנולוגיה או שירות המשמשים לניווט על ידי מתן מיקום בזמן אמת",
+                "example": "He used his GPS device to navigate through the unfamiliar city.",
+                "example_hebrew": "הוא השתמש במכשיר ה-GPS שלו כדי לנווט בעיר הלא מוכרת."
+            },
+            {
+                "definition": "The Global Positioning System, a satellite navigation system operated by the United States government",
+                "definition_hebrew": "מערכת המיקום הגלובלית, מערכת ניווט לוויינית המופעלת על ידי ממשלת ארצות הברית",
+                "example": "Drivers rely on their car's GPS for accurate directions and turn-by-turn instructions.",
+                "example_hebrew": "נהגים מסתמכים על ה-GPS של המכונית שלהם לקבלת הנחיות מדויקות והנחיות מפורטות."
+            },
+            {
+                "definition": "A unit of measurement representing one percent or 1/100th part of a whole, often used in relation to directional guidance",
+                "definition_hebrew": "יחידת מדידה המייצגת אחוז אחד או 1/100 חלק של שלם, משמשת לעתים קרובות ביחס להנחיה כיוונית",
+                "example": "The device showed a percentage indicating the distance remaining until reaching the destination.",
+                "example_hebrew": "המכשיר הראה אחוז המציין את המרחק שנותר עד הגעה ליעד."
+            },
+            {
+                "definition": "Garbage Collection Performance Score (GPS), an indicator of how efficiently a garbage collection system operates",
+                "definition_hebrew": "ציון ביצועי איסוף אשפה (GPS), אינדיקטור למידת היעילות של מערכת איסוף אשפה פועלת",
+                "example": "City officials monitored their GPS to determine the effectiveness of their waste management program.",
+                "example_hebrew": "פקידי העירייה עקבו אחר ה-GPS שלהם כדי לקבוע את היעילות של תוכנית ניהול הפסולת שלהם."
+            }
+        ]
+    }
+]

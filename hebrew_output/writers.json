@@ -1,0 +1,40 @@
+[
+    {
+        "word": "writers",
+        "word_hebrew": "סופרים",
+        "main_definition": "Writers are individuals who create written works, whether it be literature, articles, or other forms of writing.",
+        "main_definition_hebrew": "סופרים הם אנשים שיוצרים יצירות כתובות, בין אם מדובר בספרות, מאמרים או צורות כתיבה אחרות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Authors who produce novels and short stories",
+                "definition_hebrew": "מחברים שמפיקים רומנים וסיפורים קצרים",
+                "example": "J.K. Rowling is a renowned writer known for the Harry Potter series.",
+                "example_hebrew": "J.K. רולינג היא סופרת מפורסמת הידועה בסדרת הארי פוטר."
+            },
+            {
+                "definition": "People who write journalistic articles or opinion pieces in newspapers, magazines, or online platforms",
+                "definition_hebrew": "אנשים שכותבים מאמרים עיתונאיים או מאמרי דעה בעיתונים, מגזינים או פלטפורמות מקוונות",
+                "example": "Amy Chua is an author and journalist who wrote the controversial parenting book 'Battle Hymn of the Tiger Mother'.",
+                "example_hebrew": "איימי צ'ואה היא סופרת ועיתונאית שכתבה את ספר ההורות השנוי במחלוקת 'מזמור הקרב של אם הנמרה'."
+            },
+            {
+                "definition": "Individuals responsible for writing scripts for films, television shows, or plays",
+                "definition_hebrew": "אנשים האחראים על כתיבת תסריטים לסרטים, תוכניות טלוויזיה או הצגות",
+                "example": "Joss Whedon is a famous screenwriter and director known for creating works like 'The Avengers' and 'Buffy the Vampire Slayer'.",
+                "example_hebrew": "ג'וס ווידון הוא תסריטאי ובמאי מפורסם הידוע ביצירת יצירות כמו \"הנוקמים\" ו\"באפי קוטלת הערפדים\"."
+            },
+            {
+                "definition": "Writers who specialize in non-fiction, such as historians, biographers or researchers",
+                "definition_hebrew": "סופרים המתמחים בעיון, כגון היסטוריונים, ביוגרפים או חוקרים",
+                "example": "'American Revolutionary' by Emma Thompson is a historical novel written by an acclaimed author and historian.",
+                "example_hebrew": "'מהפכן אמריקאי' מאת אמה תומפסון הוא רומן היסטורי שנכתב על ידי סופרת והיסטוריון עטור שבחים."
+            },
+            {
+                "definition": "Poets who create works of art through verse and rhythm",
+                "definition_hebrew": "משוררים היוצרים יצירות אמנות באמצעות פסוק וקצב",
+                "example": "William Shakespeare was not only a playwright but also a renowned poet known for his sonnets.",
+                "example_hebrew": "ויליאם שייקספיר היה לא רק מחזאי אלא גם משורר נודע הידוע בסונטות שלו."
+            }
+        ]
+    }
+]

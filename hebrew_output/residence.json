@@ -1,0 +1,34 @@
+[
+    {
+        "word": "residence",
+        "word_hebrew": "מגורים",
+        "main_definition": "A place where someone lives, or the legal status of living in a certain location.",
+        "main_definition_hebrew": "מקום שבו מישהו גר, או הסטטוס החוקי של מגורים במקום מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The home or dwelling of an individual or family.",
+                "definition_hebrew": "בית או דירה של אדם או משפחה.",
+                "example": "John's residence is a cozy two-bedroom house in the suburbs.",
+                "example_hebrew": "בית המגורים של ג'ון הוא בית נעים עם שני חדרי שינה בפרברים."
+            },
+            {
+                "definition": "A place designated by law as where one can reside, often for immigration purposes.",
+                "definition_hebrew": "מקום שנקבע בחוק כמקום בו ניתן לגור, לעתים קרובות למטרות הגירה.",
+                "example": "She obtained a permanent residence visa to live and work in Canada.",
+                "example_hebrew": "היא השיגה אשרת שהייה קבועה כדי לחיות ולעבוד בקנדה."
+            },
+            {
+                "definition": "The status of being domiciled at a specific location or institution.",
+                "definition_hebrew": "הסטטוס של מקום מגורים במקום או במוסד ספציפי.",
+                "example": "He is the head resident of the dormitory, managing its day-to-day operations.",
+                "example_hebrew": "הוא הדייר הראשי של המעונות, המנהל את פעילותו השוטפת."
+            },
+            {
+                "definition": "A place where one lives temporarily due to circumstances such as traveling or living with family.",
+                "definition_hebrew": "מקום בו מתגוררים באופן זמני עקב נסיבות כגון נסיעה או מגורים עם המשפחה.",
+                "example": "During his business trip in France, he stayed at a rented residence.",
+                "example_hebrew": "במהלך נסיעת העסקים שלו בצרפת, הוא שהה במעון שכור."
+            }
+        ]
+    }
+]

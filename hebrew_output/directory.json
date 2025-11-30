@@ -1,0 +1,40 @@
+[
+    {
+        "word": "directory",
+        "word_hebrew": "מַדרִיך",
+        "main_definition": "A directory is a system or structure used to organize, store, and manage information or resources, often in the form of lists or catalogs.",
+        "main_definition_hebrew": "ספרייה היא מערכת או מבנה המשמשים לארגון, אחסון וניהול מידע או משאבים, לרוב בצורה של רשימות או קטלוגים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing, a directory refers to an organized collection of files on a computer's storage device that are grouped together for ease of access and management.",
+                "definition_hebrew": "במחשוב, ספרייה מתייחסת לאוסף מאורגן של קבצים בהתקן האחסון של המחשב המקובצים יחדיו כדי להקל על הגישה והניהול.",
+                "example": "To navigate through the files on my computer, I opened the file explorer and browsed through various directories.",
+                "example_hebrew": "כדי לנווט בין הקבצים במחשב, פתחתי את סייר הקבצים ודפדפתי בספריות שונות."
+            },
+            {
+                "definition": "A telephone directory is an alphabetical listing of individuals' names along with their corresponding contact information, such as phone numbers.",
+                "definition_hebrew": "ספריית טלפונים היא רשימה אלפביתית של שמות אנשים יחד עם פרטי הקשר התואמים להם, כגון מספרי טלפון.",
+                "example": "I looked up a number in the yellow pages to find the address for a local business.",
+                "example_hebrew": "חיפשתי מספר בדפי זהב כדי למצוא את הכתובת של עסק מקומי."
+            },
+            {
+                "definition": "In office settings or administrative contexts, a directory can be a document that lists employees' names, positions, contact information, and other pertinent details.",
+                "definition_hebrew": "בהגדרות משרדיות או בהקשרים אדמיניסטרטיביים, ספרייה יכולה להיות מסמך המפרט את שמות העובדים, התפקידים, פרטי הקשר ופרטים רלוונטיים אחרים של העובדים.",
+                "example": "The HR department provided me with an employee directory to help me get in touch with the right person within the company.",
+                "example_hebrew": "מחלקת משאבי אנוש סיפקה לי מדריך עובדים שיעזור לי ליצור קשר עם האדם הנכון בחברה."
+            },
+            {
+                "definition": "A library catalog or card catalog is a type of directory that lists available books, their authors, and other resources for easy access and research.",
+                "definition_hebrew": "קטלוג ספרייה או קטלוג כרטיסים הוא סוג של ספרייה המפרטת ספרים זמינים, מחבריהם ומשאבים אחרים לגישה קלה ולמחקר.",
+                "example": "I went to the library's front desk and asked for the card catalog to find information about specific books I wanted to check out.",
+                "example_hebrew": "הלכתי לדלפק הקבלה של הספרייה וביקשתי את קטלוג הכרטיסים כדי למצוא מידע על ספרים ספציפיים שרציתי לבדוק."
+            },
+            {
+                "definition": "In project management or organizational contexts, a directory can be used to outline tasks, resources, and responsibilities related to a particular project or department.",
+                "definition_hebrew": "בניהול פרויקטים או בהקשרים ארגוניים, ניתן להשתמש בספרייה כדי לשרטט משימות, משאבים ואחריות הקשורים לפרויקט או למחלקה מסוימת.",
+                "example": "The project manager created a task directory for the team to track progress on various aspects of the initiative.",
+                "example_hebrew": "מנהל הפרויקט יצר עבור הצוות ספריית משימות כדי לעקוב אחר התקדמות בהיבטים שונים של היוזמה."
+            }
+        ]
+    }
+]

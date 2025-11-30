@@ -1,0 +1,40 @@
+[
+    {
+        "word": "filter",
+        "word_hebrew": "לְסַנֵן",
+        "main_definition": "A filter is a device or process that separates or removes unwanted elements from a substance, such as air, water, or information.",
+        "main_definition_hebrew": "מסנן הוא מכשיר או תהליך המפריד או מסיר אלמנטים לא רצויים מחומר, כגון אוויר, מים או מידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "To remove undesired parts from a liquid",
+                "definition_hebrew": "כדי להסיר חלקים לא רצויים מנוזל",
+                "example": "They used a coffee filter to strain the grounds out of the freshly brewed coffee.",
+                "example_hebrew": "הם השתמשו במסנן קפה כדי לסנן את האדמה מהקפה הטרי."
+            },
+            {
+                "definition": "A device that separates impurities or particles from air, water, or other substances",
+                "definition_hebrew": "מכשיר המפריד בין זיהומים או חלקיקים מאוויר, מים או חומרים אחרים",
+                "example": "The air conditioning system uses a HEPA filter to clean the indoor air.",
+                "example_hebrew": "מערכת מיזוג האוויר משתמשת במסנן HEPA לניקוי האוויר הפנימי."
+            },
+            {
+                "definition": "To sift through information and discard what is not relevant",
+                "definition_hebrew": "לנפות מידע ולהשליך את מה שלא רלוונטי",
+                "example": "Before writing her report, she filtered out irrelevant details from the vast amount of research material available online.",
+                "example_hebrew": "לפני כתיבת הדו\"ח שלה, היא סיננה פרטים לא רלוונטיים מהכמות העצומה של חומר המחקר הזמין באינטרנט."
+            },
+            {
+                "definition": "The process or device that removes unwanted substances or components",
+                "definition_hebrew": "התהליך או המכשיר שמסיר חומרים או רכיבים לא רצויים",
+                "example": "Activated charcoal is used as a filter in water purification systems to remove contaminants.",
+                "example_hebrew": "פחם פעיל משמש כמסנן במערכות טיהור מים להסרת מזהמים."
+            },
+            {
+                "definition": "To apply criteria and discard items that do not meet the set standards",
+                "definition_hebrew": "ליישם קריטריונים ולזרוק פריטים שאינם עומדים בסטנדרטים שנקבעו",
+                "example": "The company has a strict email filtering system that blocks spam messages before they reach employees' inboxes.",
+                "example_hebrew": "לחברה מערכת סינון דוא\"ל קפדנית שחוסמת הודעות ספאם לפני שהן מגיעות לתיבות הדואר הנכנס של העובדים."
+            }
+        ]
+    }
+]

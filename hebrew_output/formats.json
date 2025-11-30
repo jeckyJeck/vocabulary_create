@@ -1,0 +1,40 @@
+[
+    {
+        "word": "formats",
+        "word_hebrew": "פורמטים",
+        "main_definition": "The act of arranging or organizing something in a particular way, or the standards by which data is structured and presented.",
+        "main_definition_hebrew": "הפעולה של סידור או ארגון משהו בצורה מסוימת, או הסטנדרטים שלפיהם נתונים בנויים ומוצגים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To arrange information or documents in an organized manner",
+                "definition_hebrew": "לסדר מידע או מסמכים בצורה מסודרת",
+                "example": "I need to format my resume according to the company's guidelines.",
+                "example_hebrew": "אני צריך לעצב את קורות החיים שלי לפי הנחיות החברה."
+            },
+            {
+                "definition": "The process of converting data into a specific file type with standardized structure and layout",
+                "definition_hebrew": "תהליך המרת הנתונים לסוג קובץ מסוים עם מבנה ופריסה סטנדרטיים",
+                "example": "The document was formatted as a PDF for easy sharing across different platforms.",
+                "example_hebrew": "המסמך עוצב כ-PDF לשיתוף קל בין פלטפורמות שונות."
+            },
+            {
+                "definition": "Adjusting the appearance or style of content, such as text and images in digital media",
+                "definition_hebrew": "התאמת המראה או הסגנון של תוכן, כגון טקסט ותמונות במדיה דיגיטלית",
+                "example": "I changed the formatting of my presentation slides to make them more visually appealing.",
+                "example_hebrew": "שיניתי את העיצוב של שקופיות המצגת שלי כדי להפוך אותן למושכות יותר מבחינה ויזואלית."
+            },
+            {
+                "definition": "A set of rules that dictate how data should be structured and presented",
+                "definition_hebrew": "מערכת כללים שמכתיבה כיצד יש לבנות ולהציג נתונים",
+                "example": "The CSV file format specifies a particular way to organize data in rows and columns.",
+                "example_hebrew": "פורמט קובץ ה-CSV מציין דרך מסוימת לארגן נתונים בשורות ובעמודות."
+            },
+            {
+                "definition": "To adjust the layout or style of content, such as text and images on a webpage",
+                "definition_hebrew": "כדי להתאים את הפריסה או הסגנון של תוכן, כגון טקסט ותמונות בדף אינטרנט",
+                "example": "I formatted my website's HTML code to improve readability and user experience.",
+                "example_hebrew": "פירמטתי את קוד ה-HTML של האתר שלי כדי לשפר את הקריאות וחווית המשתמש."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "attempted",
+        "word_hebrew": "ניסיתי",
+        "main_definition": "to have tried to do something, but not necessarily successful in doing it.",
+        "main_definition_hebrew": "ניסיתי לעשות משהו, אבל לא בהכרח הצליח לעשות אותו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To make an effort or start a process with the intention of achieving a particular result. It implies initiating an action that may lead to success or failure.",
+                "definition_hebrew": "להתאמץ או להתחיל תהליך מתוך כוונה להגיע לתוצאה מסוימת. זה מרמז על ייזום פעולה שעשויה להוביל להצלחה או לכישלון.",
+                "example": "She attempted to fix her computer by herself but ended up making it worse.",
+                "example_hebrew": "היא ניסתה לתקן את המחשב שלה בעצמה אבל בסופו של דבר החמירה אותו."
+            },
+            {
+                "definition": "When used in legal contexts, 'attempted' means having the intention and actions toward committing a crime, although not completing the act. This can be related to both tried but unsuccessful criminal activity or simply planning without execution.",
+                "definition_hebrew": "בשימוש בהקשרים משפטיים, 'ניסיון' פירושו שיש כוונה ופעולות לביצוע פשע, אם כי לא השלמת המעשה. זה יכול להיות קשור הן לפעילות פלילית שנשפטה אך לא מוצלחת או פשוט לתכנון ללא ביצוע.",
+                "example": "He was arrested for attempted burglary after trying to break into an empty house.",
+                "example_hebrew": "הוא נעצר על ניסיון פריצה לאחר שניסה לפרוץ לבית ריק."
+            },
+            {
+                "definition": "In a more general sense, 'attempted' also means the act of trying something out. This can apply to various contexts such as sports, learning new skills, or any endeavors.",
+                "definition_hebrew": "במובן כללי יותר, 'ניסיון' פירושו גם הפעולה של לנסות משהו. זה יכול לחול בהקשרים שונים כגון ספורט, לימוד מיומנויות חדשות או כל מאמץ.",
+                "example": "The basketball player attempted a difficult shot during the game.",
+                "example_hebrew": "הכדורסלן ניסה זריקה קשה במהלך המשחק."
+            },
+            {
+                "definition": "Used in idiomatic expressions, 'attempted' often describes an unsuccessful action or effort to achieve something. It highlights that the intention was there but did not reach fruition.",
+                "definition_hebrew": "בשימוש בביטויים אידיומטיים, 'ניסיון' מתאר לעתים קרובות פעולה לא מוצלחת או מאמץ להשיג משהו. זה מדגיש שהכוונה הייתה שם אבל לא הגיעה למימוש.",
+                "example": "Her attempts to quit smoking were thwarted by her strong cravings.",
+                "example_hebrew": "ניסיונותיה להפסיק לעשן סוכלו על ידי תשוקותיה העזות."
+            }
+        ]
+    }
+]

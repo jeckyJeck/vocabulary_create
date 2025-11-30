@@ -1,0 +1,40 @@
+[
+    {
+        "word": "device",
+        "word_hebrew": "התקן",
+        "main_definition": "A device is an object or instrument used to perform a particular task, function, or operation.",
+        "main_definition_hebrew": "מכשיר הוא חפץ או מכשיר המשמש לביצוע משימה, פונקציה או פעולה מסוימים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A tool or piece of equipment designed for a specific purpose.",
+                "definition_hebrew": "כלי או ציוד המיועד למטרה מסוימת.",
+                "example": "A smartphone is a versatile device with various functions such as calling, texting, and internet browsing.",
+                "example_hebrew": "סמארטפון הוא מכשיר רב-תכליתי עם פונקציות שונות כמו שיחות, הודעות טקסט וגלישה באינטרנט."
+            },
+            {
+                "definition": "An apparatus used to accomplish a particular task.",
+                "definition_hebrew": "מכשיר המשמש לביצוע משימה מסוימת.",
+                "example": "A coffee machine is an electrical device that brews coffee by heating water and forcing it through ground coffee beans.",
+                "example_hebrew": "מכונת קפה היא מכשיר חשמלי שמבשל קפה על ידי חימום מים ודחיפה דרך פולי קפה טחונים."
+            },
+            {
+                "definition": "A gadget or contraption designed for entertainment purposes.",
+                "definition_hebrew": "גאדג'ט או מתקן שנועד למטרות בידור.",
+                "example": "A remote control car is a small, motorized vehicle operated by handheld controllers to simulate driving experiences.",
+                "example_hebrew": "מכונית שלט רחוק היא רכב קטן וממונע המופעל על ידי בקרים כף יד כדי לדמות חוויות נהיגה."
+            },
+            {
+                "definition": "An instrument used in scientific experiments or measurements.",
+                "definition_hebrew": "מכשיר המשמש בניסויים או מדידות מדעיות.",
+                "example": "A microscope is an optical device that magnifies small objects for detailed observation and analysis.",
+                "example_hebrew": "מיקרוסקופ הוא מכשיר אופטי המגדיל עצמים קטנים לצורך תצפית וניתוח מפורטים."
+            },
+            {
+                "definition": "A mechanical, electrical, or electronic component with a specific function within a system.",
+                "definition_hebrew": "רכיב מכני, חשמלי או אלקטרוני עם פונקציה מסוימת בתוך מערכת.",
+                "example": "Resistor and capacitor are electronic components used to control the flow of electricity in an electrical circuit.",
+                "example_hebrew": "נגד וקבלים הם רכיבים אלקטרוניים המשמשים לשליטה בזרימת החשמל במעגל חשמלי."
+            }
+        ]
+    }
+]

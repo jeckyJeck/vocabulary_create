@@ -1,0 +1,34 @@
+[
+    {
+        "word": "preceding",
+        "word_hebrew": "קוֹדֵם",
+        "main_definition": "Refers to something that comes before or is prior in time, order, or position.",
+        "main_definition_hebrew": "מתייחס למשהו שבא לפני או קודם בזמן, בסדר או בתפקיד.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to events that happened earlier or before the current situation or event.",
+                "definition_hebrew": "התייחסות לאירועים שהתרחשו קודם לכן או לפני המצב או האירוע הנוכחי.",
+                "example": "The storm preceding the wedding brought a lot of damage.",
+                "example_hebrew": "הסערה שקדמה לחתונה גרמה לנזקים רבים."
+            },
+            {
+                "definition": "A position, rank, or status that comes directly before another in sequence.",
+                "definition_hebrew": "עמדה, דרגה או סטטוס שמגיעים ישירות לפני אחר ברצף.",
+                "example": "In a military hierarchy, the officer succeeding his predecessor is responsible for maintaining order and discipline.",
+                "example_hebrew": "בהיררכיה צבאית, הקצין המחליף את קודמו אחראי על שמירת הסדר והמשמעת."
+            },
+            {
+                "definition": "The letters, numbers, or words that come immediately before a given character within an alphabetical list.",
+                "definition_hebrew": "האותיות, המספרים או המילים שמגיעות מיד לפני תו נתון ברשימה אלפביתית.",
+                "example": "If we are looking up 'apple' in the dictionary, 'apricot' would be preceding it since it comes first in the order.",
+                "example_hebrew": "אם אנו מחפשים את 'תפוח' במילון, 'משמש' יקדים אותו מכיוון שהוא מגיע ראשון בסדר."
+            },
+            {
+                "definition": "A condition or situation that is considered to precede a particular event or development, especially one of significant consequence.",
+                "definition_hebrew": "מצב או מצב הנחשבים כמקדימים לאירוע או התפתחות מסויימים, במיוחד מצב בעל השלכות משמעותיות.",
+                "example": "The economic recession preceding the global financial crisis had devastating effects on many countries.",
+                "example_hebrew": "למיתון הכלכלי שקדם למשבר הפיננסי העולמי היו השפעות הרסניות על מדינות רבות."
+            }
+        ]
+    }
+]

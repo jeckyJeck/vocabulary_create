@@ -1,0 +1,40 @@
+[
+    {
+        "word": "entered",
+        "word_hebrew": "נכנס",
+        "main_definition": "to come or go into a place, position, or situation",
+        "main_definition_hebrew": "לבוא או להיכנס למקום, לתפקיד או למצב",
+        "meanings_and_examples": [
+            {
+                "definition": "To physically move into a location",
+                "definition_hebrew": "לעבור פיזית למקום",
+                "example": "She entered the room quietly to avoid waking her roommates.",
+                "example_hebrew": "היא נכנסה לחדר בשקט כדי לא להעיר את חבריה לחדר."
+            },
+            {
+                "definition": "To be registered or enrolled in an institution",
+                "definition_hebrew": "להירשם או להירשם למוסד",
+                "example": "He entered college as a freshman after completing high school.",
+                "example_hebrew": "הוא נכנס לקולג' כתלמיד ראשון לאחר שסיים תיכון."
+            },
+            {
+                "definition": "To become part of something, such as history, record books or the list of known entities",
+                "definition_hebrew": "להפוך לחלק ממשהו, כגון היסטוריה, ספרי תקליטים או רשימת הישויות המוכרות",
+                "example": "The discovery was so significant that it 'entered' into scientific literature as one of the most important findings in recent years.",
+                "example_hebrew": "התגלית הייתה כה משמעותית ש'נכנסה' לספרות המדעית כאחד הממצאים החשובים ביותר בשנים האחרונות."
+            },
+            {
+                "definition": "To begin an activity with vigor and commitment",
+                "definition_hebrew": "להתחיל פעילות במרץ ומחויבות",
+                "example": "They entered the marathon determined to finish, despite their lack of training.",
+                "example_hebrew": "הם נכנסו למרתון נחושים לסיים, למרות חוסר האימונים שלהם."
+            },
+            {
+                "definition": "In accounting, referring to when a transaction is recorded in financial statements or books",
+                "definition_hebrew": "בחשבונאות, הכוונה למועד שבו עסקה נרשמה בדוחות כספיים או בספרים",
+                "example": "The expense was entered into our company's ledger on January 15th.",
+                "example_hebrew": "ההוצאה נרשמה לפנקס החשבונות של החברה שלנו ב-15 בינואר."
+            }
+        ]
+    }
+]

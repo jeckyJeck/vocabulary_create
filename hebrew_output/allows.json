@@ -1,0 +1,40 @@
+[
+    {
+        "word": "allows",
+        "word_hebrew": "מאפשר",
+        "main_definition": "To give permission or make something possible.",
+        "main_definition_hebrew": "לתת רשות או לאפשר משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Gives permission to do something.",
+                "definition_hebrew": "נותן רשות לעשות משהו.",
+                "example": "My parents allow me to go out with my friends on weekends.",
+                "example_hebrew": "ההורים שלי מרשים לי לצאת עם החברים שלי בסופי שבוע."
+            },
+            {
+                "definition": "Makes it possible for something to happen or be done.",
+                "definition_hebrew": "מאפשר שמשהו יקרה או ייעשה.",
+                "example": "The new policy allows employees to work from home twice a week.",
+                "example_hebrew": "המדיניות החדשה מאפשרת לעובדים לעבוד מהבית פעמיים בשבוע."
+            },
+            {
+                "definition": "Allows room for growth, development, or change.",
+                "definition_hebrew": "מאפשר מקום לצמיחה, התפתחות או שינוי.",
+                "example": "She allowed herself time to recover after the injury before returning to training.",
+                "example_hebrew": "היא הרשתה לעצמה זמן להתאושש לאחר הפציעה לפני שחזרה לאימונים."
+            },
+            {
+                "definition": "Permits something that is generally not permitted by default.",
+                "definition_hebrew": "מתיר משהו שבדרך כלל אינו מותר כברירת מחדל.",
+                "example": "The emergency allows breaking of traffic rules in case of urgent situations.",
+                "example_hebrew": "מצב החירום מאפשר שבירת חוקי התנועה במקרה של מצבים דחופים."
+            },
+            {
+                "definition": "Refers to the capacity or ability of a system, device, or entity to function properly under certain conditions.",
+                "definition_hebrew": "מתייחס ליכולת או ליכולת של מערכת, מכשיר או ישות לתפקד כראוי בתנאים מסוימים.",
+                "example": "The new software update allows for faster processing speeds on older devices.",
+                "example_hebrew": "עדכון התוכנה החדש מאפשר מהירויות עיבוד מהירות יותר במכשירים ישנים יותר."
+            }
+        ]
+    }
+]

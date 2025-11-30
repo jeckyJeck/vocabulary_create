@@ -1,0 +1,46 @@
+[
+    {
+        "word": "scale",
+        "word_hebrew": "סוּלָם",
+        "main_definition": "Scale refers to a system or set of markings used for measuring or comparing the size, weight, quantity, or value of an object.",
+        "main_definition_hebrew": "קנה מידה מתייחס למערכת או לסט של סימונים המשמשים למדידה או השוואה של גודל, משקל, כמות או ערכו של אובייקט.",
+        "meanings_and_examples": [
+            {
+                "definition": "A series of graduated marks on a ruler or similar instrument for measuring length or distance",
+                "definition_hebrew": "סדרה של סימנים מדורגים על סרגל או מכשיר דומה למדידת אורך או מרחק",
+                "example": "She used a metal scale to measure the length of the ribbon.",
+                "example_hebrew": "היא השתמשה בסולם מתכת כדי למדוד את אורך הסרט."
+            },
+            {
+                "definition": "An incremental increase in size, quantity, or level",
+                "definition_hebrew": "עלייה מצטברת בגודל, בכמות או ברמה",
+                "example": "The company's revenue has been scaling up steadily over the past few years.",
+                "example_hebrew": "הכנסות החברה גדלו בהתמדה במהלך השנים האחרונות."
+            },
+            {
+                "definition": "A method of weighing an object by balancing it against known weights",
+                "definition_hebrew": "שיטה לשקילת חפץ על ידי איזונו כנגד משקלים ידועים",
+                "example": "To determine the weight of a new package, they used a scale to compare its mass with standard kilogram weights.",
+                "example_hebrew": "כדי לקבוע את משקלה של חבילה חדשה, הם השתמשו בסולם כדי להשוות את המסה שלה למשקולות סטנדרטיות של קילוגרם."
+            },
+            {
+                "definition": "The process or capability of adjusting or changing in size according to need or circumstance",
+                "definition_hebrew": "התהליך או היכולת של התאמה או שינוי בגודל בהתאם לצורך או לנסיבות",
+                "example": "This fabric can be easily scaled up for large projects without compromising quality.",
+                "example_hebrew": "בד זה ניתן להגדלה בקלות עבור פרויקטים גדולים מבלי להתפשר על האיכות."
+            },
+            {
+                "definition": "An instrument used for weighing, especially one that is part of a mechanical system",
+                "definition_hebrew": "מכשיר המשמש לשקילה, במיוחד כזה שהוא חלק ממערכת מכנית",
+                "example": "The pharmacy's laboratory has an electronic scale to measure the precise amounts of medication.",
+                "example_hebrew": "במעבדת בית המרקחת יש משקל אלקטרוני למדידת כמויות התרופות המדויקות."
+            },
+            {
+                "definition": "A graded series or range in music or other auditory elements",
+                "definition_hebrew": "סדרה מדורגת או טווח במוזיקה או באלמנטים שמיעתיים אחרים",
+                "example": "The composer used a descending musical scale to create a sense of tension and resolution in the piece.",
+                "example_hebrew": "המלחין השתמש בסולם מוזיקלי יורד כדי ליצור תחושת מתח ורזולוציה ביצירה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "shop",
+        "word_hebrew": "לִקְנוֹת",
+        "main_definition": "A shop refers to a place where goods or services are sold, typically with an organized layout of merchandise.",
+        "main_definition_hebrew": "חנות מתייחסת למקום בו נמכרים סחורות או שירותים, בדרך כלל עם פריסה מאורגנת של סחורה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical retail store location for selling products",
+                "definition_hebrew": "מיקום חנות קמעונאית פיזית למכירת מוצרים",
+                "example": "I went shopping at the mall and bought a new pair of shoes.",
+                "example_hebrew": "הלכתי לקניות בקניון וקניתי זוג נעליים חדשות."
+            },
+            {
+                "definition": "An online platform or website where goods are sold",
+                "definition_hebrew": "פלטפורמה או אתר אינטרנט שבו נמכרים סחורה",
+                "example": "She prefers to shop online because it's more convenient than going to physical stores.",
+                "example_hebrew": "היא מעדיפה לקנות באינטרנט כי זה יותר נוח מאשר ללכת לחנויות פיזיות."
+            },
+            {
+                "definition": "To engage in a transaction, typically for the purchase of goods",
+                "definition_hebrew": "לעסוק בעסקה, בדרך כלל לרכישת סחורה",
+                "example": "I need to go shopping this weekend; I want to buy some groceries and clothes.",
+                "example_hebrew": "אני צריך ללכת לקניות בסוף השבוע הזה; אני רוצה לקנות מצרכים ובגדים."
+            },
+            {
+                "definition": "A place where one can obtain services or advice (e.g., an auto repair shop)",
+                "definition_hebrew": "מקום בו ניתן לקבל שירותים או ייעוץ (למשל, חנות לתיקון רכב)",
+                "example": "The mechanic at the shop fixed my car's engine issue within a few hours.",
+                "example_hebrew": "המכונאי בחנות תיקן את בעיית המנוע של המכונית שלי תוך כמה שעות."
+            }
+        ]
+    }
+]

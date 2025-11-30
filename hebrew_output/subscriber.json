@@ -1,0 +1,40 @@
+[
+    {
+        "word": "subscriber",
+        "word_hebrew": "מָנוּי",
+        "main_definition": "A person who regularly receives updates or access to content by paying a recurring fee.",
+        "main_definition_hebrew": "אדם שמקבל באופן שוטף עדכונים או גישה לתכנים באמצעות תשלום אגרה חוזרת.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of newspapers, magazines, and online publications, a subscriber is an individual who purchases a subscription for regular delivery of these materials.",
+                "definition_hebrew": "בהקשר של עיתונים, מגזינים ופרסומים מקוונים, מנוי הוא אדם הרוכש מנוי למשלוח קבוע של חומרים אלה.",
+                "example": "John subscribes to The New York Times daily newspaper.",
+                "example_hebrew": "ג'ון מנוי לעיתון היומי של הניו יורק טיימס."
+            },
+            {
+                "definition": "A user or customer who has signed up to receive updates from a website, service, or company via email or other means as part of an ongoing subscription.",
+                "definition_hebrew": "משתמש או לקוח שנרשם לקבלת עדכונים מאתר, שירות או חברה באמצעות דואר אלקטרוני או אמצעים אחרים במסגרת מנוי שוטף.",
+                "example": "Anna is a subscriber to the monthly newsletter sent by Apple.",
+                "example_hebrew": "אנה היא מנויה לניוזלטר החודשי שנשלח על ידי אפל."
+            },
+            {
+                "definition": "In telecommunication and broadcasting, a subscriber refers to an individual who holds a contract with a service provider (like cable or internet company) for regular access to communication services.",
+                "definition_hebrew": "בתקשורת ובשידור, מנוי מתייחס לאדם המחזיק בחוזה עם ספק שירות (כמו חברת כבלים או אינטרנט) לגישה קבועה לשירותי תקשורת.",
+                "example": "The Smiths are broadband subscribers at Comcast.",
+                "example_hebrew": "הסמית'ס הם מנויי פס רחב בקומקאסט."
+            },
+            {
+                "definition": "In marketing and sales, a subscriber can be someone who has signed up for promotional materials, such as catalogues or product samples.",
+                "definition_hebrew": "בשיווק ומכירות, מנוי יכול להיות מישהו שנרשם לחומרי קידום מכירות, כגון קטלוגים או דוגמאות מוצרים.",
+                "example": "As a special offer, we will send three free sample products to all new customers like you.",
+                "example_hebrew": "כהצעה מיוחדת, נשלח שלושה מוצרים לדוגמה בחינם לכל הלקוחות החדשים כמוך."
+            },
+            {
+                "definition": "In the context of social media and online platforms, a subscriber is someone who opts into receiving notifications about updates from friends or content creators.",
+                "definition_hebrew": "בהקשר של מדיה חברתית ופלטפורמות מקוונות, מנוי הוא מישהו שבוחר לקבל הודעות על עדכונים מחברים או יוצרי תוכן.",
+                "example": "Emma has 100+ Twitter followers, making her an influential subscriber on that platform.",
+                "example_hebrew": "לאמה יש יותר מ-100 עוקבים בטוויטר, מה שהופך אותה למנוי רב השפעה בפלטפורמה זו."
+            }
+        ]
+    }
+]

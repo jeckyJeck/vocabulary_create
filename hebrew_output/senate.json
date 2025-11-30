@@ -1,0 +1,34 @@
+[
+    {
+        "word": "senate",
+        "word_hebrew": "סֵנָט",
+        "main_definition": "The senate is a deliberative assembly, often part of a bicameral legislature or an upper house in some governments.",
+        "main_definition_hebrew": "הסנאט הוא אסיפה דיונית, לעתים קרובות חלק מבית מחוקקים דו-בתי או בית עליון בממשלות מסוימות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A governing body or assembly that makes laws and oversees government actions.",
+                "definition_hebrew": "גוף או אסיפה שלטונית החוקקת חוקים ומפקחת על פעולות הממשלה.",
+                "example": "The United States Senate is one of the two chambers of Congress, responsible for making federal laws.",
+                "example_hebrew": "הסנאט של ארצות הברית הוא אחד משני הלשכות של הקונגרס, האחראי על ביצוע חוקים פדרליים."
+            },
+            {
+                "definition": "An upper house in a bicameral legislature, typically with different powers or functions from the lower house.",
+                "definition_hebrew": "בית עליון בבית מחוקקים דו-בתי, בדרך כלל בעל סמכויות או תפקידים שונים מהבית התחתון.",
+                "example": "In Australia, the Parliament consists of an upper house called the Senate and a lower house known as the House of Representatives.",
+                "example_hebrew": "באוסטרליה, הפרלמנט מורכב מבית עליון הנקרא הסנאט ומבית תחתון המכונה בית הנבחרים."
+            },
+            {
+                "definition": "A symbol of democracy in ancient Rome, representing the aristocratic element of government composed of elected officials.",
+                "definition_hebrew": "סמל של דמוקרטיה ברומא העתיקה, המייצג את האלמנט האריסטוקרטי של השלטון המורכב מנבחרי ציבור.",
+                "example": "The Roman Senate was made up of patricians who advised and consented to actions taken by magistrates or elected leaders.",
+                "example_hebrew": "הסנאט הרומי היה מורכב מפטריציים שייעצו והסכימו לפעולות שננקטו על ידי שופטים או מנהיגים נבחרים."
+            },
+            {
+                "definition": "A smaller body within an organization that serves as a steering committee, providing guidance on major decisions.",
+                "definition_hebrew": "גוף קטן יותר בתוך ארגון המשמש כוועדת היגוי, הנותן הנחיות לגבי החלטות מרכזיות.",
+                "example": "Many corporations have a 'senate' of directors who meet regularly to discuss and decide on important company issues.",
+                "example_hebrew": "לתאגידים רבים יש 'סנאט' של דירקטורים שנפגשים בקביעות כדי לדון ולהחליט בנושאים חשובים של החברה."
+            }
+        ]
+    }
+]

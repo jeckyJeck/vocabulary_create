@@ -1,0 +1,34 @@
+[
+    {
+        "word": "indoor",
+        "word_hebrew": "בתוך הבית",
+        "main_definition": "Relating to or being situated within a building, particularly referring to an environment where one is not exposed to the elements of nature.",
+        "main_definition_hebrew": "התייחסות לבניין או הימצאות בו, במיוחד בהתייחס לסביבה שבה האדם אינו חשוף לאלמנטים של הטבע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Within the confines of a building structure such as homes, offices, and other enclosed spaces",
+                "definition_hebrew": "בגבולות מבנה מבנה כגון בתים, משרדים וחללים סגורים אחרים",
+                "example": "The children enjoyed playing indoor games during rainy weather.",
+                "example_hebrew": "הילדים נהנו לשחק במשחקים בפנים במזג אוויר גשום."
+            },
+            {
+                "definition": "Not exposed to or occurring outside",
+                "definition_hebrew": "לא נחשף או מתרחש בחוץ",
+                "example": "Due to the bad weather, we had an indoor wedding ceremony at a banquet hall.",
+                "example_hebrew": "בגלל מזג האוויר הגרוע, ערכנו טקס חתונה מקורה באולם אירועים."
+            },
+            {
+                "definition": "Refers to activities or spaces that are not in direct contact with outdoor elements like sunshine, rain, etc.",
+                "definition_hebrew": "הכוונה לפעילויות או חללים שאינם במגע ישיר עם אלמנטים חיצוניים כמו שמש, גשם וכו'.",
+                "example": "She enjoys gardening but spends most of her time indoors tending to her plants near a window.",
+                "example_hebrew": "היא נהנית מגינון אבל מבלה את רוב זמנה בבית בטיפול בצמחיה ליד חלון."
+            },
+            {
+                "definition": "Pertains to an environment created by human-made structures that shield against the natural elements",
+                "definition_hebrew": "מתייחס לסביבה שנוצרה על ידי מבנים מעשה ידי אדם המסוככים מפני האלמנטים הטבעיים",
+                "example": "The office space was designed with large windows to ensure ample natural light, yet it still felt cozy and indoor.",
+                "example_hebrew": "חלל המשרד תוכנן עם חלונות גדולים כדי להבטיח שפע של אור טבעי, אך הוא עדיין הרגיש נעים ומקורה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "query",
+        "word_hebrew": "שאילתא",
+        "main_definition": "A query is an act of asking questions or requesting information, often in a formal context such as database systems or computer programming.",
+        "main_definition_hebrew": "שאילתה היא פעולה של שאילת שאלות או בקשת מידע, לעתים קרובות בהקשר רשמי כגון מערכות מסד נתונים או תכנות מחשב.",
+        "meanings_and_examples": [
+            {
+                "definition": "A question asked to obtain information.",
+                "definition_hebrew": "שאלה שנשאלה כדי לקבל מידע.",
+                "example": "I have a query about the upcoming project deadline.",
+                "example_hebrew": "יש לי שאלה לגבי המועד האחרון לפרויקט הקרוב."
+            },
+            {
+                "definition": "A search request made in computer systems, such as databases or networks.",
+                "definition_hebrew": "בקשת חיפוש שנעשתה במערכות מחשב, כגון מסדי נתונים או רשתות.",
+                "example": "The user submitted a query to retrieve all customer records with their contact information.",
+                "example_hebrew": "המשתמש שלח שאילתה לאחזור כל רישומי הלקוחות עם פרטי הקשר שלו."
+            },
+            {
+                "definition": "A formal request for information from an official source, like the government or legal department.",
+                "definition_hebrew": "בקשה רשמית למידע ממקור רשמי, כמו הממשלה או המחלקה המשפטית.",
+                "example": "She sent in a query to the tax office asking about her eligibility for certain deductions.",
+                "example_hebrew": "היא שלחה שאילתה למשרד המס וביקשה לגבי זכאותה לניכויים מסוימים."
+            }
+        ]
+    }
+]

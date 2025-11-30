@@ -1,0 +1,40 @@
+[
+    {
+        "word": "rights",
+        "word_hebrew": "זכויות",
+        "main_definition": "Rights refer to the entitlements or privileges that individuals possess, which can be legal, moral, or social in nature.",
+        "main_definition_hebrew": "זכויות מתייחסות לזכויות או הרשאות שיש לאנשים, שיכולות להיות חוקיות, מוסריות או חברתיות באופיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Legal rights, referring to the protections and freedoms granted by law",
+                "definition_hebrew": "זכויות משפטיות, המתייחסות להגנות ולחירויות הניתנות בחוק",
+                "example": "The First Amendment of the United States Constitution guarantees freedom of speech as a legal right.",
+                "example_hebrew": "התיקון הראשון לחוקת ארצות הברית מבטיח את חופש הביטוי כזכות חוקית."
+            },
+            {
+                "definition": "Human rights, encompassing fundamental entitlements inherent to all human beings regardless of nationality, ethnicity, or other factors",
+                "definition_hebrew": "זכויות אדם, הכוללות זכויות יסוד הגלומות לכל בני האדם ללא קשר ללאום, אתני או גורמים אחרים",
+                "example": "The Universal Declaration of Human Rights outlines 30 articles that form the basis for recognizing and protecting human rights globally.",
+                "example_hebrew": "ההצהרה האוניברסלית בדבר זכויות האדם מתארת 30 מאמרים המהווים את הבסיס להכרה והגנה על זכויות אדם ברחבי העולם."
+            },
+            {
+                "definition": "Rights to property, including ownership over possessions and real estate",
+                "definition_hebrew": "זכויות ברכוש, לרבות בעלות על נכסים ומקרקעין",
+                "example": "Property laws establish an individual's right to own land or objects such as cars and houses.",
+                "example_hebrew": "חוקי הקניין קובעים את זכותו של אדם להחזיק בקרקע או בחפצים כגון מכוניות ובתים."
+            },
+            {
+                "definition": "Economic rights, concerning the entitlement of individuals to participate in economic activities and enjoy certain benefits",
+                "definition_hebrew": "זכויות כלכליות, הנוגעות לזכאות של יחידים להשתתף בפעילות כלכלית וליהנות מהטבות מסוימות",
+                "example": "The International Covenant on Economic, Social, and Cultural Rights recognizes the right to work, social security, and an adequate standard of living.",
+                "example_hebrew": "האמנה הבינלאומית בדבר זכויות כלכליות, חברתיות ותרבותיות מכירה בזכות לעבודה, לביטחון סוציאלי ולרמת חיים נאותה."
+            },
+            {
+                "definition": "Social rights, referring to entitlements related to societal well-being and welfare",
+                "definition_hebrew": "זכויות סוציאליות, הכוונה לזכויות הקשורות לרווחה ורווחה חברתית",
+                "example": "Some countries have policies in place that guarantee the right to education, healthcare, and social services for their citizens.",
+                "example_hebrew": "לחלק מהמדינות יש מדיניות המבטיחה לאזרחיהן את הזכות לחינוך, בריאות ושירותים חברתיים."
+            }
+        ]
+    }
+]

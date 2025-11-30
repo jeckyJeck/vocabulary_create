@@ -1,0 +1,46 @@
+[
+    {
+        "word": "marker",
+        "word_hebrew": "סַמָן",
+        "main_definition": "A marker is an object, tool or phrase used to indicate, designate or symbolize something.",
+        "main_definition_hebrew": "סמן הוא אובייקט, כלי או ביטוי המשמשים לציון, לייעד או לסמל משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A writing instrument made of porous material that leaves a colored mark on surfaces like paper or whiteboard",
+                "definition_hebrew": "כלי כתיבה העשוי מחומר נקבובי שמותיר סימן צבעוני על משטחים כמו נייר או לוח לבן",
+                "example": "She used a red marker to highlight important dates on the calendar.",
+                "example_hebrew": "היא השתמשה בטוש אדום כדי להדגיש תאריכים חשובים בלוח השנה."
+            },
+            {
+                "definition": "An object, place, or thing that distinguishes something else as being different or special",
+                "definition_hebrew": "חפץ, מקום או דבר שמבדילים משהו אחר כשונה או מיוחד",
+                "example": "The Eiffel Tower is often referred to as the 'marker' of Paris.",
+                "example_hebrew": "מגדל אייפל מכונה לעתים קרובות \"הסמן\" של פריז."
+            },
+            {
+                "definition": "A term used in statistics and probability to represent a category or classifying variable that divides data into groups",
+                "definition_hebrew": "מונח המשמש בסטטיסטיקה והסתברות כדי לייצג קטגוריה או משתנה סיווג המחלק נתונים לקבוצות",
+                "example": "Age can be considered as a marker for demographic analysis, where different age groups are studied separately.",
+                "example_hebrew": "גיל יכול להיחשב כסמן לניתוח דמוגרפי, שבו קבוצות גיל שונות נלמדות בנפרד."
+            },
+            {
+                "definition": "An indicator or sign of a particular quality, characteristic, condition or attribute",
+                "definition_hebrew": "אינדיקטור או סימן של איכות, מאפיין, מצב או תכונה מסוימת",
+                "example": "His constant eye twitching was a clear marker of his nervousness.",
+                "example_hebrew": "עוויתות עינו המתמדת היו סימן ברור לעצבנותו."
+            },
+            {
+                "definition": "A person who helps to identify and classify things in various fields such as biology (taxonomist), linguistics (lexicographer) or music theory",
+                "definition_hebrew": "אדם שעוזר לזהות ולסווג דברים בתחומים שונים כמו ביולוגיה (טקסונום), בלשנות (לקסיקוגרף) או תורת המוזיקה",
+                "example": "The renowned lexicographer, Samuel Johnson, made significant contributions to English dictionary.",
+                "example_hebrew": "הלקסיקוגרף הנודע, סמואל ג'ונסון, תרם תרומה משמעותית למילון האנגלי."
+            },
+            {
+                "definition": "A symbol that is used in sports to indicate a boundary between two teams' territories on the field",
+                "definition_hebrew": "סמל המשמש בספורט לציון גבול בין הטריטוריות של שתי קבוצות במגרש",
+                "example": "During soccer games, yellow markers are placed at each corner of the pitch.",
+                "example_hebrew": "במהלך משחקי כדורגל, סמנים צהובים ממוקמים בכל פינה של המגרש."
+            }
+        ]
+    }
+]

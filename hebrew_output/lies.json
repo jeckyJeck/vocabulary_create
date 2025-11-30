@@ -1,0 +1,40 @@
+[
+    {
+        "word": "lies",
+        "word_hebrew": "שקרים",
+        "main_definition": "To intentionally say something that is not true, or to deceive someone by giving false information.",
+        "main_definition_hebrew": "לומר בכוונה משהו שאינו נכון, או לרמות מישהו על ידי מסירת מידע כוזב.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of telling untruths or deceptive statements.",
+                "definition_hebrew": "מעשה אמירת שקר או אמירות מטעות.",
+                "example": "He constantly lies about his whereabouts.",
+                "example_hebrew": "הוא כל הזמן משקר לגבי מקום הימצאו."
+            },
+            {
+                "definition": "An intentional false statement made by a person to deceive others.",
+                "definition_hebrew": "הצהרה שקרית מכוונת על ידי אדם כדי להונות אחרים.",
+                "example": "She accused her coworker of lying, but he insisted that all his statements were true.",
+                "example_hebrew": "היא האשימה את עמיתתה לעבודה בשקר, אך הוא התעקש שכל הצהרותיו נכונות."
+            },
+            {
+                "definition": "The positioning or alignment in relation to an object's original orientation; often used figuratively when referring to people's behavior.",
+                "definition_hebrew": "המיקום או היישור ביחס לכיוון המקורי של אובייקט; משמש לעתים קרובות באופן פיגורטיבי כאשר מתייחסים להתנהגות של אנשים.",
+                "example": "His lies became so many, they formed a web of deceit around his life.",
+                "example_hebrew": "השקרים שלו הפכו כל כך רבים, שהם יצרו רשת של הונאה סביב חייו."
+            },
+            {
+                "definition": "To intentionally misrepresent or distort the truth for one's advantage.",
+                "definition_hebrew": "בכוונה להציג מצג שווא או לעוות את האמת לטובת האדם.",
+                "example": "The politician was known to lie about campaign finances in order to win votes.",
+                "example_hebrew": "ידוע כי הפוליטיקאי שיקר לגבי כספי הקמפיין כדי לזכות בקולות."
+            },
+            {
+                "definition": "A false narrative or story told without basis, often fabricated entirely.",
+                "definition_hebrew": "נרטיב שקרי או סיפור שסופר ללא בסיס, לעתים קרובות מפוברק לחלוטין.",
+                "example": "The rumor that she had stolen the money is just a lie spread by her jealous colleagues.",
+                "example_hebrew": "השמועה שהיא גנבה את הכסף היא רק שקר שהפיצו עמיתיה הקנאים."
+            }
+        ]
+    }
+]

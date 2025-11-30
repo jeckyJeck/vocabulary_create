@@ -1,0 +1,40 @@
+[
+    {
+        "word": "households",
+        "word_hebrew": "משקי בית",
+        "main_definition": "Households refers to a group of people living together in one dwelling unit, often sharing resources like food, chores, and finances.",
+        "main_definition_hebrew": "משקי בית מתייחסים לקבוצה של אנשים שחיים יחד ביחידת דיור אחת, ולרוב חולקים משאבים כמו מזון, מטלות וכספים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The total number of households in an area",
+                "definition_hebrew": "המספר הכולל של משקי בית באזור",
+                "example": "The town has 500 households.",
+                "example_hebrew": "בעיירה 500 בתי אב."
+            },
+            {
+                "definition": "A household containing multiple generations or extended family members",
+                "definition_hebrew": "משק בית המכיל דורות מרובים או בני משפחה מורחבת",
+                "example": "Grandma, grandpa and their three children form a large household.",
+                "example_hebrew": "סבתא, סבא ושלושת ילדיהם מהווים משק בית גדול."
+            },
+            {
+                "definition": "The collective living arrangements of people in an area, including single-person households as well as those with several occupants",
+                "definition_hebrew": "הסדרי המגורים הקולקטיביים של אנשים באזור, לרבות משקי בית של יחידים וכן של אלה עם מספר דיירים",
+                "example": "In the city, there are both small households consisting of one person and larger ones comprising families.",
+                "example_hebrew": "בעיר יש גם משקי בית קטנים המורכבים מאדם אחד וגם גדולים יותר הכוללים משפחות."
+            },
+            {
+                "definition": "A group of individuals sharing a living space, often for social or economic reasons",
+                "definition_hebrew": "קבוצה של פרטים החולקים מרחב מחיה, לרוב מסיבות חברתיות או כלכליות",
+                "example": "Refugees from war-torn countries form various households in the neighboring country's cities.",
+                "example_hebrew": "פליטים ממדינות מוכות מלחמה יוצרים משקי בית שונים בערי המדינה השכנה."
+            },
+            {
+                "definition": "The set of all people who live together under one roof and share responsibilities such as cooking, cleaning, and managing finances",
+                "definition_hebrew": "האוסף של כל האנשים שחיים יחד תחת קורת גג אחת וחולקים אחריות כמו בישול, ניקיון וניהול כספים",
+                "example": "In this household, both partners contribute equally to the chores and bills.",
+                "example_hebrew": "במשק בית זה, שני בני הזוג תורמים במידה שווה למטלות ולחשבונות."
+            }
+        ]
+    }
+]

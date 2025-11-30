@@ -1,0 +1,40 @@
+[
+    {
+        "word": "settings",
+        "word_hebrew": "הגדרות",
+        "main_definition": "Settings refer to the various options or configurations that can be adjusted in a system, device, application, or environment to customize its behavior.",
+        "main_definition_hebrew": "הגדרות מתייחסות לאפשרויות או לתצורות השונות שניתן להתאים במערכת, במכשיר, באפליקציה או בסביבה כדי להתאים אישית את ההתנהגות שלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Adjustable parameters within a software program",
+                "definition_hebrew": "פרמטרים ניתנים להתאמה בתוכנה",
+                "example": "In Adobe Photoshop, the 'settings' include options like resolution and contrast that can be adjusted by the user.",
+                "example_hebrew": "ב-Adobe Photoshop, ה'הגדרות' כוללות אפשרויות כמו רזולוציה וניגודיות שניתן להתאים על ידי המשתמש."
+            },
+            {
+                "definition": "Options on a device or appliance to control its operation",
+                "definition_hebrew": "אפשרויות במכשיר או מכשיר לשלוט על פעולתו",
+                "example": "The settings on your air conditioner allow you to set the temperature and mode (cool/heat).",
+                "example_hebrew": "ההגדרות במזגן מאפשרות לך להגדיר את הטמפרטורה והמצב (קירור/חום)."
+            },
+            {
+                "definition": "Configuration options within an operating system",
+                "definition_hebrew": "אפשרויות תצורה בתוך מערכת הפעלה",
+                "example": "Windows 10 has numerous 'settings' such as display, privacy, and network that help customize your computer experience.",
+                "example_hebrew": "ל-Windows 10 יש 'הגדרות' רבות כמו תצוגה, פרטיות ורשת שעוזרות להתאים אישית את חוויית המחשב שלך."
+            },
+            {
+                "definition": "Variables or controls in a game that modify its rules or behavior",
+                "definition_hebrew": "משתנים או פקדים במשחק שמשנים את הכללים או ההתנהגות שלו",
+                "example": "In chess, the settings might include options like time control per move, which can be adjusted by players for different levels of play.",
+                "example_hebrew": "בשחמט, ההגדרות עשויות לכלול אפשרויות כמו בקרת זמן לכל מהלך, שניתן להתאים על ידי שחקנים לרמות שונות של משחק."
+            },
+            {
+                "definition": "The specific arrangement or configuration of elements within an environment or system",
+                "definition_hebrew": "הסידור או התצורה הספציפיים של אלמנטים בתוך סביבה או מערכת",
+                "example": "When you change your router's 'settings', it alters how the network operates and connects to devices.",
+                "example_hebrew": "כאשר אתה משנה את 'הגדרות' הנתב שלך, זה משנה את אופן הפעולה של הרשת ומתחבר למכשירים."
+            }
+        ]
+    }
+]

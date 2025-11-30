@@ -1,0 +1,34 @@
+[
+    {
+        "word": "subdivision",
+        "word_hebrew": "תַת מַחלָקָה",
+        "main_definition": "A subdivision refers to a part of something that is divided into smaller segments, or the process of dividing an area, territory, organization, or other entity into smaller parts.",
+        "main_definition_hebrew": "תת-חלוקה מתייחסת לחלק של משהו שמחולק למקטעים קטנים יותר, או לתהליך של חלוקת אזור, טריטוריה, ארגון או ישות אחרת לחלקים קטנים יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "In geography, a subdivision is a portion of land that has been divided from larger parcels for development or sale. It typically includes residential properties, such as houses and apartments.",
+                "definition_hebrew": "בגיאוגרפיה, חלוקה היא חלק מהקרקע שחולק מחבילות גדולות יותר לצורך פיתוח או מכירה. זה כולל בדרך כלל נכסים למגורים, כגון בתים ודירות.",
+                "example": "The new housing complex was built on the outskirts of town in a spacious area known as a subdivision.",
+                "example_hebrew": "מתחם הדיור החדש נבנה בפאתי העיר בשטח רחב ידיים המכונה חלוקה."
+            },
+            {
+                "definition": "In linguistics or literature, a subdivision refers to a smaller section within a larger text or work. It helps organize and break down complex material into more digestible parts.",
+                "definition_hebrew": "בבלשנות או בספרות, חלוקה משנה מתייחסת לקטע קטן יותר בתוך טקסט או עבודה גדולים יותר. זה עוזר לארגן ולפרק חומר מורכב לחלקים ניתנים לעיכול יותר.",
+                "example": "The essay was divided into four subdivisions: introduction, background, analysis, and conclusion.",
+                "example_hebrew": "החיבור חולק לארבע חלוקות משנה: מבוא, רקע, ניתוח ומסקנה."
+            },
+            {
+                "definition": "In mathematics and computer science, a subdivision is the division of a geometric figure or data set into smaller pieces. This concept is often used in algorithms for mesh generation and numerical simulations.",
+                "definition_hebrew": "במתמטיקה ומדעי המחשב, תת-חלוקה היא חלוקה של דמות גיאומטרית או מערך נתונים לחתיכות קטנות יותר. מושג זה משמש לעתים קרובות באלגוריתמים ליצירת רשת וסימולציות מספריות.",
+                "example": "The engineer applied a subdivision algorithm to refine the 3D model by breaking it down into finer polygons.",
+                "example_hebrew": "המהנדס יישם אלגוריתם חלוקה כדי לחדד את המודל התלת מימדי על ידי פירוקו למצולעים עדינים יותר."
+            },
+            {
+                "definition": "In law or administrative contexts, a subdivision can refer to a division within an organization or government entity. It often involves creating specialized departments or units.",
+                "definition_hebrew": "בהקשרים משפטיים או מנהליים, תת-חלוקה יכולה להתייחס לחטיבה בתוך ארגון או ישות ממשלתית. לעתים קרובות זה כרוך ביצירת מחלקות או יחידות מיוחדות.",
+                "example": "The large corporation underwent restructuring, resulting in the formation of several new divisions and subdivisions.",
+                "example_hebrew": "התאגיד הגדול עבר ארגון מחדש, וכתוצאה מכך נוצרו מספר חטיבות ותת חטיבות חדשות."
+            }
+        ]
+    }
+]

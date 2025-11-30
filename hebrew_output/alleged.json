@@ -1,0 +1,28 @@
+[
+    {
+        "word": "alleged",
+        "word_hebrew": "כִּביָכוֹל",
+        "main_definition": "accused or claimed to be true without proof; purported or asserted.",
+        "main_definition_hebrew": "מואשם או נטען שהוא אמת ללא הוכחה; התיימר או נטען.",
+        "meanings_and_examples": [
+            {
+                "definition": "Accusation of wrongdoing, typically criminal in nature, but not proven. ",
+                "definition_hebrew": "האשמה בעוולה, בדרך כלל פלילית במהותה, אך לא הוכחה. ",
+                "example": "The alleged thief was apprehended by the police.",
+                "example_hebrew": "הגנב לכאורה נתפס על ידי המשטרה."
+            },
+            {
+                "definition": "Something claimed without proof.",
+                "definition_hebrew": "משהו שנטען ללא הוכחה.",
+                "example": "He is an alleged billionaire who has never been verified to have that much wealth.",
+                "example_hebrew": "הוא מיליארדר לכאורה שמעולם לא אומתה שיש לו כל כך הרבה עושר."
+            },
+            {
+                "definition": "Used to describe a claim or statement made by someone about something, but not confirmed. ",
+                "definition_hebrew": "משמש לתיאור טענה או הצהרה של מישהו לגבי משהו, אך לא אושרו. ",
+                "example": "The witness gave several alleged facts about the incident, but they weren't corroborated.",
+                "example_hebrew": "העד מסר מספר עובדות לכאורה על האירוע, אך הן לא אושרו."
+            }
+        ]
+    }
+]

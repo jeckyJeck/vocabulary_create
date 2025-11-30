@@ -1,0 +1,34 @@
+[
+    {
+        "word": "transcription",
+        "word_hebrew": "תַעֲתוּק",
+        "main_definition": "Transcription refers to the process of converting spoken language into written text, or vice versa.",
+        "main_definition_hebrew": "תמלול מתייחס לתהליך של המרת שפה מדוברת לטקסט כתוב, או להיפך.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of copying and typing out audio recordings or speech into a written format.",
+                "definition_hebrew": "פעולת העתקה והקלדה של הקלטות אודיו או דיבור לפורמט כתוב.",
+                "example": "After listening to the lecture, the transcriptionist began converting it into an official document.",
+                "example_hebrew": "לאחר האזנה להרצאה, החל המתמלל להמיר אותה למסמך רשמי."
+            },
+            {
+                "definition": "A written version of spoken language, often used for documentation or analysis purposes.",
+                "definition_hebrew": "גרסה כתובה של שפה מדוברת, המשמשת לעתים קרובות למטרות תיעוד או ניתוח.",
+                "example": "The court reporter produced a verbatim transcription of the trial proceedings for the record.",
+                "example_hebrew": "כתב בית המשפט הוציא תמלול מילה במילה של הליך המשפט לפרוטוקול."
+            },
+            {
+                "definition": "In genetics, transcription is the process by which DNA is converted into RNA.",
+                "definition_hebrew": "בגנטיקה, שעתוק הוא התהליך שבו DNA הופך ל-RNA.",
+                "example": "Transcription in biology refers to creating an RNA copy from a segment of DNA.",
+                "example_hebrew": "שעתוק בביולוגיה מתייחס ליצירת עותק RNA מקטע של DNA."
+            },
+            {
+                "definition": "The translation and reproduction of artistic or creative works such as plays, songs, etc., from one medium (e.g., live performance) into another.",
+                "definition_hebrew": "תרגום ושעתוק של יצירות אמנותיות או יצירתיות כגון מחזות, שירים וכו', ממדיום אחד (למשל, הופעה חיה) לאחר.",
+                "example": "The film's transcription involved converting the scripted dialogue for actors back into a written format.",
+                "example_hebrew": "התמלול של הסרט כלל המרת הדיאלוג התסריטאי לשחקנים בחזרה לפורמט כתוב."
+            }
+        ]
+    }
+]

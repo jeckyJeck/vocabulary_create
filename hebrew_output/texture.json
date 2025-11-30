@@ -1,0 +1,34 @@
+[
+    {
+        "word": "texture",
+        "word_hebrew": "מרקם",
+        "main_definition": "Texture refers to the tactile quality or feel of a surface, as well as its visual appearance.",
+        "main_definition_hebrew": "מרקם מתייחס לאיכות המישוש או לתחושה של משטח, כמו גם למראה החזותי שלו.",
+        "meanings_and_examples": [
+            {
+                "definition": "The physical sensation or feel of an object when touched",
+                "definition_hebrew": "התחושה הפיזית או התחושה של חפץ בעת מגע",
+                "example": "Running my fingers over the bumpy texture of tree bark.",
+                "example_hebrew": "מעביר את אצבעותיי על המרקם המגבשוש של קליפת העץ."
+            },
+            {
+                "definition": "The visual appearance and quality of a surface, such as smoothness, roughness, shininess, etc.",
+                "definition_hebrew": "המראה החזותי והאיכות של משטח, כגון חלקות, חספוס, ברק וכו'.",
+                "example": "The silk fabric has a soft, velvety texture that feels pleasant against the skin.",
+                "example_hebrew": "בד המשי מרקם רך וקטיפתי המרגיש נעים על העור."
+            },
+            {
+                "definition": "A characteristic or attribute related to how materials interact with light",
+                "definition_hebrew": "מאפיין או תכונה הקשורים לאופן שבו חומרים מתקשרים עם אור",
+                "example": "The granite countertop exhibits a coarse texture due to its rough surface and irregularities.",
+                "example_hebrew": "משטח הגרניט מפגין מרקם גס בשל פני השטח המחוספס שלו ואי סדרים."
+            },
+            {
+                "definition": "In the context of art, texture refers to the perceived surface quality in an artwork",
+                "definition_hebrew": "בהקשר של אמנות, מרקם מתייחס לאיכות פני השטח הנתפסת ביצירת אמנות",
+                "example": "The painting has a thick impasto texture created by applying paint heavily onto the canvas with brushstrokes.",
+                "example_hebrew": "לציור מרקם אימפסטו עבה שנוצר על ידי מריחת צבע כבדה על הבד במשיכות מכחול."
+            }
+        ]
+    }
+]

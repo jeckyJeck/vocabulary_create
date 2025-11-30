@@ -1,0 +1,28 @@
+[
+    {
+        "word": "logos",
+        "word_hebrew": "לוגואים",
+        "main_definition": "Logos is a Greek word with several meanings, including 'word,' 'speech,' 'reason,' or 'principle.' In modern usage, it often refers to the persuasive use of language in rhetoric.",
+        "main_definition_hebrew": "לוגו היא מילה יוונית עם מספר משמעויות, כולל 'מילה', 'דיבור', 'סיבה' או 'עיקרון'. בשימוש מודרני, זה מתייחס לעתים קרובות לשימוש משכנע בשפה ברטוריקה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Word",
+                "definition_hebrew": "מִלָה",
+                "example": "In Greek mythology, Logos is considered as an entity or personification of speech and words.",
+                "example_hebrew": "במיתולוגיה היוונית, לוגוס נחשב כישות או האנשה של דיבור ומילים."
+            },
+            {
+                "definition": "Reasoning or argument",
+                "definition_hebrew": "נימוק או טיעון",
+                "example": "Logical reasoning forms the basis of scientific theories; it refers to how ideas are structured in a logical manner.",
+                "example_hebrew": "חשיבה לוגית מהווה בסיס לתיאוריות מדעיות; זה מתייחס לאופן שבו רעיונות בנויים בצורה הגיונית."
+            },
+            {
+                "definition": "The principle underlying a word, phrase, sentence, or text",
+                "definition_hebrew": "העיקרון העומד בבסיס מילה, ביטוי, משפט או טקסט",
+                "example": "In rhetoric, understanding the 'logos' behind a speech can help analyze its persuasive power.",
+                "example_hebrew": "ברטוריקה, הבנת ה'לוגו' מאחורי נאום יכולה לעזור לנתח את כוח השכנוע שלו."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "removed",
+        "word_hebrew": "הוסר",
+        "main_definition": "to take away or eliminate something from a position, place, group, or context.",
+        "main_definition_hebrew": "לקחת או לסלק משהו מעמדה, מקום, קבוצה או הקשר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To have something physically taken off one's body.",
+                "definition_hebrew": "שיורידו משהו פיזית מהגוף.",
+                "example": "After the accident, his broken arm was removed by doctors.",
+                "example_hebrew": "לאחר התאונה, זרועו השבורה הוסרה על ידי הרופאים."
+            },
+            {
+                "definition": "To eliminate or exclude someone from a position or role, often due to incompetence or misbehavior.",
+                "definition_hebrew": "לחסל או להוציא מישהו מתפקיד או תפקיד, לעתים קרובות בגלל חוסר יכולת או התנהגות לא נכונה.",
+                "example": "The manager decided to remove John from his supervisory role because of frequent tardiness and poor performance.",
+                "example_hebrew": "המנהל החליט להסיר את ג'ון מתפקידו הפיקוח בגלל איחור תכוף וביצועים גרועים."
+            },
+            {
+                "definition": "To take something out of a collection, group, or set. For example, when editing photos, you might remove unwanted elements.",
+                "definition_hebrew": "להוציא משהו מאוסף, קבוצה או סט. לדוגמה, בעת עריכת תמונות, ייתכן שתסיר אלמנטים לא רצויים.",
+                "example": "The editor removed the background clutter from the image to enhance its focus on the subject.",
+                "example_hebrew": "העורך הסיר את העומס ברקע מהתמונה כדי לשפר את המיקוד שלו בנושא."
+            },
+            {
+                "definition": "In sports, it can mean removing a player from an active team due to injury or poor performance.",
+                "definition_hebrew": "בספורט, זה יכול להיות הוצאת שחקן מקבוצה פעילה עקב פציעה או ביצועים גרועים.",
+                "example": "Due to his knee injury, he was removed from the soccer team for this season.",
+                "example_hebrew": "עקב פציעתו בברכו, הוא הורחק מקבוצת הכדורגל לעונה זו."
+            },
+            {
+                "definition": "To withdraw something that has been placed in another context. For instance, removing a bookmark from a page of a book.",
+                "definition_hebrew": "לסגת משהו שהוצב בהקשר אחר. לדוגמה, הסרת סימניה מעמוד של ספר.",
+                "example": "She carefully removed her red hair tie before putting on her cap.",
+                "example_hebrew": "היא הסירה בזהירות את עניבת שיערה האדומה לפני שחבשה את הכובע."
+            }
+        ]
+    }
+]

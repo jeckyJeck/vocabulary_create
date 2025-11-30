@@ -1,0 +1,28 @@
+[
+    {
+        "word": "excluded",
+        "word_hebrew": "לא נכלל",
+        "main_definition": "To leave out or not include something or someone.",
+        "main_definition_hebrew": "להשאיר או לא לכלול משהו או מישהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not allowed to participate in an activity, group, or event.",
+                "definition_hebrew": "אסור להשתתף בפעילות, קבוצה או אירוע.",
+                "example": "The children who misbehaved were excluded from the field trip.",
+                "example_hebrew": "הילדים שלא התנהגו כראוי הוצאו מהטיול."
+            },
+            {
+                "definition": "To not consider something as relevant or important when making a decision or judgment.",
+                "definition_hebrew": "לא לשקול משהו כרלוונטי או חשוב בעת קבלת החלטה או שיפוט.",
+                "example": "In our analysis, we decided to exclude outliers that did not fit into the normal range of data.",
+                "example_hebrew": "בניתוח שלנו, החלטנו לא לכלול חריגים שאינם מתאימים לטווח הרגיל של נתונים."
+            },
+            {
+                "definition": "Not taking part in an action or activity due to being left aside or ignored.",
+                "definition_hebrew": "אי נטילת חלק בפעולה או פעילות עקב השארתן בצד או התעלמות.",
+                "example": "She felt excluded from conversations at work because her ideas were often overlooked.",
+                "example_hebrew": "היא הרגישה מודרת משיחות בעבודה כי לעתים קרובות התעלמו מהרעיונות שלה."
+            }
+        ]
+    }
+]

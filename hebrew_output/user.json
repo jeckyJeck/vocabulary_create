@@ -1,0 +1,40 @@
+[
+    {
+        "word": "user",
+        "word_hebrew": "מִשׁתַמֵשׁ",
+        "main_definition": "A person who utilizes a product, service, or system.",
+        "main_definition_hebrew": "אדם שמשתמש במוצר, שירות או מערכת.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual who interacts with computer software or applications.",
+                "definition_hebrew": "אדם המקיים אינטראקציה עם תוכנות מחשב או יישומים.",
+                "example": "The user clicked on the 'Submit' button to send their form.",
+                "example_hebrew": "המשתמש לחץ על כפתור 'שלח' כדי לשלוח את הטופס שלו."
+            },
+            {
+                "definition": "A person who utilizes a specific product or service, such as an electronic device or appliance.",
+                "definition_hebrew": "אדם שמשתמש במוצר או שירות ספציפי, כגון מכשיר אלקטרוני או מכשיר.",
+                "example": "I am the user of this smartphone and enjoy its features.",
+                "example_hebrew": "אני המשתמש של הטלפון החכם הזה ונהנה מהתכונות שלו."
+            },
+            {
+                "definition": "Someone who participates in online communities or platforms by creating accounts to engage with content or other users.",
+                "definition_hebrew": "מישהו שמשתתף בקהילות או פלטפורמות מקוונות על ידי יצירת חשבונות כדי לתקשר עם תוכן או משתמשים אחרים.",
+                "example": "He is an active member of several social media sites as a regular user, sharing his thoughts on various topics.",
+                "example_hebrew": "הוא חבר פעיל במספר אתרי מדיה חברתית כמשתמש רגיל, משתף את מחשבותיו בנושאים שונים."
+            },
+            {
+                "definition": "A person who accesses and uses a particular website or online service regularly.",
+                "definition_hebrew": "אדם הניגש ומשתמש באתר או בשירות מקוון מסוים באופן קבוע.",
+                "example": "As a frequent user of this online banking platform, I prefer its convenience for managing my finances.",
+                "example_hebrew": "כמשתמש תכוף בפלטפורמת בנקאות מקוונת זו, אני מעדיף את הנוחות שלה לניהול הכספים שלי."
+            },
+            {
+                "definition": "In legal terms, it refers to an individual who has rights under a law or contract.",
+                "definition_hebrew": "במונחים משפטיים, זה מתייחס לאדם שיש לו זכויות על פי חוק או חוזה.",
+                "example": "The statute grants certain benefits exclusively to users of the product in question.",
+                "example_hebrew": "החוק מעניק הטבות מסוימות אך ורק למשתמשים במוצר הנדון."
+            }
+        ]
+    }
+]

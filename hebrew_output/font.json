@@ -1,0 +1,34 @@
+[
+    {
+        "word": "font",
+        "word_hebrew": "גוֹפָן",
+        "main_definition": "Font is a term used in typography to refer to the style, design, or appearance of a specific typeface or the physical representation of letters and symbols.",
+        "main_definition_hebrew": "גופן הוא מונח המשמש בטיפוגרפיה כדי להתייחס לסגנון, לעיצוב או למראה של גופן ספציפי או לייצוג פיזי של אותיות וסמלים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Style or design of lettering",
+                "definition_hebrew": "סגנון או עיצוב של אותיות",
+                "example": "The bold, sans-serif font used in this poster gives it a modern look.",
+                "example_hebrew": "הגופן המודגש והלא-סריף המשמש בפוסטר זה נותן לו מראה מודרני."
+            },
+            {
+                "definition": "Physical representation of letters and symbols on paper or screen",
+                "definition_hebrew": "ייצוג פיזי של אותיות וסמלים על נייר או מסך",
+                "example": "When printing a document, the chosen font determines how each letter appears on the page.",
+                "example_hebrew": "בעת הדפסת מסמך, הגופן הנבחר קובע כיצד כל אות מופיעה בעמוד."
+            },
+            {
+                "definition": "Collection of glyphs representing specific characters in a certain typeface",
+                "definition_hebrew": "אוסף גליפים המייצגים תווים ספציפיים בגופן מסוים",
+                "example": "The Times New Roman is a popular font known for its classic serif style.",
+                "example_hebrew": "The Times New Roman הוא גופן פופולרי הידוע בסגנון הסריף הקלאסי שלו."
+            },
+            {
+                "definition": "Variations of a particular character design within the same typeface",
+                "definition_hebrew": "וריאציות של עיצוב תו מסוים בתוך אותו גופן",
+                "example": "In some fonts, there are different weights or styles for each letter (e.g., bold, light, italic).",
+                "example_hebrew": "בחלק מהגופנים, ישנם משקלים או סגנונות שונים עבור כל אות (למשל, מודגש, בהיר, נטוי)."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "link",
+        "word_hebrew": "קישור",
+        "main_definition": "A connection or relationship between two or more things, often used metaphorically in language to describe a bond or association.",
+        "main_definition_hebrew": "קשר או מערכת יחסים בין שני דברים או יותר, המשמשים לעתים קרובות באופן מטפורי בשפה כדי לתאר קשר או אסוציאציה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To connect one thing with another",
+                "definition_hebrew": "לחבר דבר אחד עם דבר אחר",
+                "example": "I will link the presentation slides together for better flow.",
+                "example_hebrew": "אקשר את שקופיות המצגת יחד לזרימה טובה יותר."
+            },
+            {
+                "definition": "A connection on the internet between two web pages or resources",
+                "definition_hebrew": "חיבור באינטרנט בין שני דפי אינטרנט או משאבים",
+                "example": "The 'Shop All Products' button is a hyperlink to our online store.",
+                "example_hebrew": "כפתור 'קנה את כל המוצרים' הוא היפר קישור לחנות המקוונת שלנו."
+            },
+            {
+                "definition": "To provide information, usually by joining together different sources of content",
+                "definition_hebrew": "לספק מידע, בדרך כלל על ידי צירוף מקורות תוכן שונים",
+                "example": "This article serves as a link between the scientific research and its practical applications.",
+                "example_hebrew": "מאמר זה משמש כמקשר בין המחקר המדעי ליישומיו המעשיים."
+            },
+            {
+                "definition": "A figurative term used to describe two people or things that are closely related or connected in some way",
+                "definition_hebrew": "מונח פיגורטיבי המשמש לתיאור שני אנשים או דברים הקשורים בקשר הדוק או קשור בדרך כלשהי",
+                "example": "The friendship is like a strong, unbreakable link.",
+                "example_hebrew": "הידידות היא כמו חוליה חזקה ובלתי ניתנת לשבירה."
+            },
+            {
+                "definition": "To join together or connect pieces of something",
+                "definition_hebrew": "להתחבר יחד או לחבר חלקים של משהו",
+                "example": "We will link the puzzle pieces to complete the picture.",
+                "example_hebrew": "נקשר את חלקי הפאזל להשלמת התמונה."
+            }
+        ]
+    }
+]

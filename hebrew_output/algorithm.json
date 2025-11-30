@@ -1,0 +1,34 @@
+[
+    {
+        "word": "algorithm",
+        "word_hebrew": "אַלגוֹרִיתְם",
+        "main_definition": "An algorithm is a step-by-step procedure or formula for solving a problem or accomplishing a task, especially in computer science and mathematics.",
+        "main_definition_hebrew": "אלגוריתם הוא הליך או נוסחה שלב אחר שלב לפתרון בעיה או ביצוע משימה, במיוחד במדעי המחשב ובמתמטיקה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A set of rules to be followed in calculations or other problem-solving operations, especially by a computer.",
+                "definition_hebrew": "מערכת כללים שיש לפעול לפיהם בחישובים או בפעולות אחרות לפתרון בעיות, במיוחד במחשב.",
+                "example": "The sorting algorithm arranges data into a specific order.",
+                "example_hebrew": "אלגוריתם המיון מסדר נתונים לפי סדר מסוים."
+            },
+            {
+                "definition": "An established method for solving a particular class of problems, often with efficient performance and predictable outcomes.",
+                "definition_hebrew": "שיטה מבוססת לפתרון סוג מסוים של בעיות, לעתים קרובות עם ביצועים יעילים ותוצאות צפויות.",
+                "example": "Searching algorithms like binary search can quickly find an item in a sorted list.",
+                "example_hebrew": "אלגוריתמי חיפוש כמו חיפוש בינארי יכולים למצוא במהירות פריט ברשימה ממוינת."
+            },
+            {
+                "definition": "A sequence of instructions designed to perform a specific task or solve a problem by breaking it down into smaller, manageable steps.",
+                "definition_hebrew": "רצף של הוראות שנועדו לבצע משימה ספציפית או לפתור בעיה על ידי פירוקה לשלבים קטנים יותר וניתנים לניהול.",
+                "example": "The algorithm for converting temperatures from Celsius to Fahrenheit involves several arithmetic operations.",
+                "example_hebrew": "האלגוריתם להמרת טמפרטורות מצלזיוס לפרנהייט כולל מספר פעולות אריתמטיות."
+            },
+            {
+                "definition": "In the context of data processing and analysis, an algorithm refers to a set of instructions that automates the process of data manipulation and extraction.",
+                "definition_hebrew": "בהקשר של עיבוד וניתוח נתונים, אלגוריתם מתייחס לסט של הוראות הממכן את תהליך המניפולציה והחילוץ של נתונים.",
+                "example": "Machine learning algorithms use statistical techniques to draw inferences from data.",
+                "example_hebrew": "אלגוריתמים של למידת מכונה משתמשים בטכניקות סטטיסטיות כדי להסיק מסקנות מנתונים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "cylinder",
+        "word_hebrew": "צִילִינדֶר",
+        "main_definition": "A cylindrical shape or object, often used in mechanical engineering to describe a component with circular cross-section.",
+        "main_definition_hebrew": "צורה או אובייקט גלילי, המשמשים לעתים קרובות בהנדסת מכונות לתיאור רכיב בעל חתך עגול.",
+        "meanings_and_examples": [
+            {
+                "definition": "In mathematics, a geometric figure with two parallel bases connected by a curved surface at a constant distance from each other",
+                "definition_hebrew": "במתמטיקה, דמות גיאומטרית עם שני בסיסים מקבילים המחוברים על ידי משטח מעוקל במרחק קבוע זה מזה",
+                "example": "The can of soda has a cylindrical shape.",
+                "example_hebrew": "לפחית הסודה יש צורה גלילית."
+            },
+            {
+                "definition": "A component in automotive engines that surrounds the piston, sealing it within the combustion chamber",
+                "definition_hebrew": "רכיב במנועי רכב המקיף את הבוכנה, אוטם אותה בתוך תא הבעירה",
+                "example": "The engine's cylinders are essential for its functioning.",
+                "example_hebrew": "הצילינדרים של המנוע חיוניים לתפקודו."
+            },
+            {
+                "definition": "In cartography, a series of concentric circles or arcs with common center and different radii used to measure distance along meridians",
+                "definition_hebrew": "בקרטוגרפיה, סדרה של מעגלים או קשתות קונצנטריות עם מרכז משותף ורדיוסים שונים המשמשות למדידת מרחק לאורך המרידיאנים",
+                "example": "He used the great circle method on his map, tracing cylinders across it.",
+                "example_hebrew": "הוא השתמש בשיטת המעגל הגדול על המפה שלו, כשהוא מתחקה אחרי גלילים על פניה."
+            },
+            {
+                "definition": "In finance, a type of financial instrument that pays out based on changes in a reference interest rate or index",
+                "definition_hebrew": "בפיננסים, סוג של מכשיר פיננסי המשולם על סמך שינויים בריבית ייחוס או במדד",
+                "example": "The investor bought some inflation-indexed bonds, which are essentially insurance policies against inflation but have cylindrical payment structures.",
+                "example_hebrew": "המשקיע קנה כמה איגרות חוב צמודות לאינפלציה, שהן בעצם פוליסות ביטוח נגד אינפלציה אך בעלות מבני תשלום גליליים."
+            }
+        ]
+    }
+]

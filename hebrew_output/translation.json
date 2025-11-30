@@ -1,0 +1,40 @@
+[
+    {
+        "word": "translation",
+        "word_hebrew": "תִרגוּם",
+        "main_definition": "Translation refers to the process of converting written or spoken text from one language into another, as well as a specific instance of this conversion.",
+        "main_definition_hebrew": "תרגום מתייחס לתהליך של המרת טקסט כתוב או מדובר משפה אחת לשפה אחרת, כמו גם מופע ספציפי של המרה זו.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of changing words and expressions from one language into equivalent words and expressions in another language.",
+                "definition_hebrew": "הפעולה של שינוי מילים וביטויים משפה אחת למילים וביטויים שווים בשפה אחרת.",
+                "example": "The translation of the French phrase 'C'est la vie' to English is 'That's life'.",
+                "example_hebrew": "התרגום של הביטוי הצרפתי 'C'est la vie' לאנגלית הוא 'זה החיים'."
+            },
+            {
+                "definition": "A written or spoken rendering of a text in a different language from the original, preserving its meaning and style as much as possible.",
+                "definition_hebrew": "עיבוד כתוב או מדובר של טקסט בשפה שונה מהמקור, תוך שמירה על משמעותו וסגנונו ככל האפשר.",
+                "example": "The Spanish novel was translated into English by a skilled translator, allowing readers to appreciate its rich narrative.",
+                "example_hebrew": "הרומן הספרדי תורגם לאנגלית על ידי מתרגם מיומן, המאפשר לקוראים להעריך את הנרטיב העשיר שלו."
+            },
+            {
+                "definition": "A device used to change the direction of something (e.g., an electrical signal) from one circuit or channel to another.",
+                "definition_hebrew": "מכשיר המשמש לשינוי כיוון של משהו (למשל, אות חשמלי) ממעגל או ערוץ אחד למשנהו.",
+                "example": "The audio equipment included a translation box that converted analog signals into digital format.",
+                "example_hebrew": "ציוד האודיו כלל תיבת תרגום שהמירה אותות אנלוגיים לפורמט דיגיטלי."
+            },
+            {
+                "definition": "In mathematics, it refers to expressing the same mathematical statement using different notation while preserving its meaning.",
+                "definition_hebrew": "במתמטיקה, הכוונה היא להבעת אותה אמירה מתמטית באמצעות סימון שונה תוך שמירה על משמעותה.",
+                "example": "Although 'sin x' and 'sin(x)' are two ways of writing a sine function in calculus, they translate to the same concept.",
+                "example_hebrew": "למרות ש'sin x' ו'sin(x)' הן שתי דרכים לכתיבת פונקציית סינוס בחשבון, הן מתורגמות לאותו מושג."
+            },
+            {
+                "definition": "A representation or depiction that conveys information about an object or event.",
+                "definition_hebrew": "ייצוג או תיאור המעבירים מידע על חפץ או אירוע.",
+                "example": "The translation of ancient hieroglyphics into modern language allows us to understand Egyptian history and culture better.",
+                "example_hebrew": "תרגום הירוגליפים עתיקים לשפה מודרנית מאפשר לנו להבין טוב יותר את ההיסטוריה והתרבות המצרית."
+            }
+        ]
+    }
+]

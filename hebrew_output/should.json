@@ -1,0 +1,34 @@
+[
+    {
+        "word": "should",
+        "word_hebrew": "צריך",
+        "main_definition": "Should expresses an obligation, duty or correctness.",
+        "main_definition_hebrew": "צריך מבטא התחייבות, חובה או נכונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Advice or recommendation (often used to suggest what is right or proper):",
+                "definition_hebrew": "עצה או המלצה (משמשים לעתים קרובות כדי להציע מה נכון או ראוי):",
+                "example": "You should apologize for your mistake.",
+                "example_hebrew": "אתה צריך להתנצל על הטעות שלך."
+            },
+            {
+                "definition": "Obligation, moral duty, or correctness:",
+                "definition_hebrew": "חובה, חובה מוסרית או נכונות:",
+                "example": "It's my responsibility to take care of the environment.",
+                "example_hebrew": "זו האחריות שלי לדאוג לסביבה."
+            },
+            {
+                "definition": "In hypothetical situations (used with 'if'):",
+                "definition_hebrew": "במצבים היפותטיים (בשימוש עם 'אם'):",
+                "example": "If you study hard, you should pass the exam.",
+                "example_hebrew": "אם אתה לומד קשה, אתה צריך לעבור את הבחינה."
+            },
+            {
+                "definition": "Conveying a warning or discouragement:",
+                "definition_hebrew": "העברת אזהרה או ייאוש:",
+                "example": "You shouldn't smoke. It's bad for your health.",
+                "example_hebrew": "אתה לא צריך לעשן. זה לא טוב לבריאות שלך."
+            }
+        ]
+    }
+]

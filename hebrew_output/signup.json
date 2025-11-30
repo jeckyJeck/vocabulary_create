@@ -1,0 +1,40 @@
+[
+    {
+        "word": "signup",
+        "word_hebrew": "הירשם",
+        "main_definition": "To register or enroll in a program, service, website, or event by providing personal information.",
+        "main_definition_hebrew": "כדי להירשם או להירשם לתוכנית, שירות, אתר או אירוע על ידי מסירת מידע אישי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Register for an online account or subscription",
+                "definition_hebrew": "הירשם לחשבון מקוון או מנוי",
+                "example": "After reading the blog's terms of service, I decided to sign up and start a free trial.",
+                "example_hebrew": "לאחר קריאת תנאי השירות של הבלוג, החלטתי להירשם ולהתחיל ניסיון חינם."
+            },
+            {
+                "definition": "Join a program by providing necessary details",
+                "definition_hebrew": "הצטרף לתוכנית על ידי מתן הפרטים הדרושים",
+                "example": "To participate in the cooking class, we had to fill out a signup form with our names and contact information.",
+                "example_hebrew": "כדי להשתתף בשיעור הבישול, היינו צריכים למלא טופס הרשמה עם השמות ופרטי ההתקשרות שלנו."
+            },
+            {
+                "definition": "Register for an event or conference",
+                "definition_hebrew": "הרשמה לאירוע או כנס",
+                "example": "The organizers asked attendees to sign up online before attending the annual tech conference.",
+                "example_hebrew": "המארגנים ביקשו מהמשתתפים להירשם באינטרנט לפני ההשתתפות בכנס הטכנולוגיה השנתי."
+            },
+            {
+                "definition": "Add a new user account to a system",
+                "definition_hebrew": "הוסף חשבון משתמש חדש למערכת",
+                "example": "To improve customer experience, we implemented a new feature that allows users to easily signup and create an account on our app.",
+                "example_hebrew": "כדי לשפר את חווית הלקוח, הטמענו תכונה חדשה המאפשרת למשתמשים להירשם בקלות וליצור חשבון באפליקציה שלנו."
+            },
+            {
+                "definition": "Commit to a membership or subscription service",
+                "definition_hebrew": "התחייב לשירות חברות או מנוי",
+                "example": "Once I signed up for the gym membership, I received my access card in the mail.",
+                "example_hebrew": "לאחר שנרשמתי למנוי בחדר הכושר, קיבלתי את כרטיס הגישה שלי בדואר."
+            }
+        ]
+    }
+]

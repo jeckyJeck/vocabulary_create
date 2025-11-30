@@ -1,0 +1,40 @@
+[
+    {
+        "word": "teach",
+        "word_hebrew": "לְלַמֵד",
+        "main_definition": "To impart knowledge, skills or information to someone by instruction or example.",
+        "main_definition_hebrew": "להקנות ידע, מיומנויות או מידע למישהו על ידי הוראה או דוגמה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To instruct in a particular subject or skill",
+                "definition_hebrew": "להדריך בנושא או מיומנות מסוימת",
+                "example": "The teacher will teach the students how to solve quadratic equations.",
+                "example_hebrew": "המורה ילמד את התלמידים כיצד לפתור משוואות ריבועיות."
+            },
+            {
+                "definition": "To show someone how to do something by demonstration",
+                "definition_hebrew": "להראות למישהו איך לעשות משהו על ידי הדגמה",
+                "example": "She taught her friend how to ride a bicycle by guiding him through each step.",
+                "example_hebrew": "היא לימדה את חבר שלה איך לרכוב על אופניים בכך שהדריכה אותו בכל שלב."
+            },
+            {
+                "definition": "To influence or change behavior through example and instruction",
+                "definition_hebrew": "להשפיע או לשנות התנהגות באמצעות דוגמה והדרכה",
+                "example": "The mentor taught the young athlete about discipline, ethics, and hard work in sports.",
+                "example_hebrew": "המנטור לימד את הספורטאי הצעיר על משמעת, אתיקה ועבודה קשה בספורט."
+            },
+            {
+                "definition": "To provide guidance on moral values or principles",
+                "definition_hebrew": "לספק הנחיות לגבי ערכים או עקרונות מוסריים",
+                "example": "Parents teach their children right from wrong through daily interactions and stories.",
+                "example_hebrew": "הורים מלמדים את ילדיהם בין טוב לרע באמצעות אינטראקציות וסיפורים יומיומיים."
+            },
+            {
+                "definition": "To lead someone towards a particular goal or understanding",
+                "definition_hebrew": "להוביל מישהו לעבר מטרה או הבנה מסוימת",
+                "example": "The coach taught the team that winning isn't everything, but learning is.",
+                "example_hebrew": "המאמן לימד את הקבוצה שניצחון זה לא הכל, אבל למידה כן."
+            }
+        ]
+    }
+]

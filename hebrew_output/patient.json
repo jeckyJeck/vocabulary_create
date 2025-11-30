@@ -1,0 +1,34 @@
+[
+    {
+        "word": "patient",
+        "word_hebrew": "סבלני",
+        "main_definition": "Patient refers to an individual who is under medical care or treatment, and also denotes a person's ability to remain calm and tolerant while waiting or enduring a difficult situation.",
+        "main_definition_hebrew": "מטופל מתייחס לאדם שנמצא בטיפול רפואי או בטיפול, וכן מציין את יכולתו של אדם להישאר רגוע וסובלני בזמן ההמתנה או סיום מצב קשה.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual receiving medical attention",
+                "definition_hebrew": "אדם המקבל טיפול רפואי",
+                "example": "The patient was given medication for their high fever.",
+                "example_hebrew": "המטופל קיבל תרופות נגד החום הגבוה."
+            },
+            {
+                "definition": "The ability to stay calm and tolerant in difficult or frustrating situations",
+                "definition_hebrew": "היכולת להישאר רגוע וסובלני במצבים קשים או מתסכלים",
+                "example": "She showed great patience when dealing with the long queue at the bank.",
+                "example_hebrew": "היא גילתה סבלנות רבה כשהתמודדה עם התור הארוך בבנק."
+            },
+            {
+                "definition": "A person who is being treated for a particular condition, typically in a hospital setting",
+                "definition_hebrew": "אדם שמטופל במצב מסוים, בדרך כלל בבית חולים",
+                "example": "The oncologist discussed treatment options with his patient suffering from cancer.",
+                "example_hebrew": "האונקולוג דן באפשרויות הטיפול עם מטופלו הסובל מסרטן."
+            },
+            {
+                "definition": "An ability to wait or endure without complaint",
+                "definition_hebrew": "יכולת לחכות או להחזיק מעמד ללא תלונות",
+                "example": "Despite the delay, he remained patient and continued waiting for his flight's boarding call.",
+                "example_hebrew": "למרות העיכוב, הוא נשאר סבלני והמשיך להמתין לקריאת העלייה לטיסתו."
+            }
+        ]
+    }
+]

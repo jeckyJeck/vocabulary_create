@@ -1,0 +1,40 @@
+[
+    {
+        "word": "half",
+        "word_hebrew": "חֲצִי",
+        "main_definition": "Half refers to one of two equal parts or portions into which something can be divided, often symbolizing a 50% division.",
+        "main_definition_hebrew": "חצי מתייחס לאחד משני חלקים או חלקים שווים שאליהם ניתן לחלק משהו, לעתים קרובות מסמל חלוקה של 50%.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mathematical division by 2",
+                "definition_hebrew": "חלוקה מתמטית ב-2",
+                "example": "If you have 8 apples and divide them equally among two people, each person gets half of the apples, which is 4.",
+                "example_hebrew": "אם יש לך 8 תפוחים ומחלקים אותם שווה בשווה בין שני אנשים, כל אחד מקבל מחצית מהתפוחים, שהם 4."
+            },
+            {
+                "definition": "A period or segment lasting for one of a pair of equal time intervals",
+                "definition_hebrew": "תקופה או קטע הנמשכים לאחד מזוג מרווחי זמן שווים",
+                "example": "The first half of the concert started at 7 PM and ended at 8:30 PM.",
+                "example_hebrew": "המחצית הראשונה של הקונצרט התחילה ב-19:00 והסתיימה ב-20:30."
+            },
+            {
+                "definition": "A portion representing 50% of a whole, often used in expressions or idioms",
+                "definition_hebrew": "חלק המייצג 50% מהשלם, משמש לעתים קרובות בביטויים או ניבים",
+                "example": "She only got half of her homework done before the bell rang.",
+                "example_hebrew": "היא הספיקה רק חצי משיעורי הבית שלה לפני שהפעמון צלצל."
+            },
+            {
+                "definition": "A division between male and female members of a group",
+                "definition_hebrew": "חלוקה בין גברים ונשים חברים בקבוצה",
+                "example": "In sports teams with equal numbers, there's often a half team for each gender.",
+                "example_hebrew": "בקבוצות ספורט עם מספרים שווים, לרוב יש חצי צוות לכל מגדר."
+            },
+            {
+                "definition": "An expression denoting that something is only partially present or achieved",
+                "definition_hebrew": "ביטוי המציין שמשהו קיים או מושג באופן חלקי בלבד",
+                "example": "They have made progress in the project, but it's still not complete; we are at the halfway mark.",
+                "example_hebrew": "הם התקדמו בפרויקט, אבל הוא עדיין לא הושלם; אנחנו בחצי הדרך."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "genes",
+        "word_hebrew": "גנים",
+        "main_definition": "Genes are segments of DNA that carry genetic information responsible for inherited traits in living organisms.",
+        "main_definition_hebrew": "גנים הם מקטעים של DNA הנושאים מידע גנטי האחראי על תכונות תורשתיות באורגניזמים חיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Biological units carrying hereditary information",
+                "definition_hebrew": "יחידות ביולוגיות הנושאות מידע תורשתי",
+                "example": "Humans have approximately 20,000-25,000 genes.",
+                "example_hebrew": "לבני אדם יש כ-20,000-25,000 גנים."
+            },
+            {
+                "definition": "Elements of DNA responsible for specific traits or functions in an organism",
+                "definition_hebrew": "אלמנטים של DNA האחראים על תכונות או תפקודים ספציפיים באורגניזם",
+                "example": "The gene for blue eye color is located on chromosome 1.",
+                "example_hebrew": "הגן לצבע עיניים כחול ממוקם על כרומוזום 1."
+            },
+            {
+                "definition": "A unit of inheritance that encodes a functional product, usually proteins",
+                "definition_hebrew": "יחידת תורשה המקודדת למוצר פונקציונלי, בדרך כלל חלבונים",
+                "example": "Dominant genes overpower recessive ones in determining physical traits.",
+                "example_hebrew": "גנים דומיננטיים גוברים על רצסיביים בקביעת תכונות פיזיות."
+            },
+            {
+                "definition": "The biological process through which traits are passed from parents to offspring",
+                "definition_hebrew": "התהליך הביולוגי שבאמצעותו מועברות תכונות מההורים לצאצאים",
+                "example": "Genetic recombination occurs during sexual reproduction, leading to variation among offspring.",
+                "example_hebrew": "ריקומבינציה גנטית מתרחשת במהלך רבייה מינית, מה שמוביל לשונות בין הצאצאים."
+            },
+            {
+                "definition": "'Gene' in popular culture and everyday language often refers metaphorically to the origin of a characteristic or feature",
+                "definition_hebrew": "'גן' בתרבות הפופולרית ובשפה היומיומית מתייחס לרוב באופן מטפורי למקור של מאפיין או תכונה",
+                "example": "His genes for athleticism were evident from his high school track records.",
+                "example_hebrew": "הגנים שלו לאתלטיות ניכרו מהרשומות שלו בתיכון."
+            }
+        ]
+    }
+]

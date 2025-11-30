@@ -1,0 +1,34 @@
+[
+    {
+        "word": "arts",
+        "word_hebrew": "אומנויות",
+        "main_definition": "Arts is a term used to describe creative activities that express human imagination, skill, and emotions through various forms such as visual arts (painting, sculpture), performing arts (music, dance, theater), literary arts (poetry, novels) and decorative arts (crafts, design).",
+        "main_definition_hebrew": "אמנויות הוא מונח המשמש לתיאור פעילויות יצירתיות המבטאות את הדמיון, המיומנות והרגשות האנושיים באמצעות צורות שונות כגון אמנות חזותית (ציור, פיסול), אמנויות הבמה (מוזיקה, מחול, תיאטרון), אמנויות ספרותיות (שירה, רומנים) ודקורטיביות. אומנויות (אומנות, עיצוב).",
+        "meanings_and_examples": [
+            {
+                "definition": "Visual Arts",
+                "definition_hebrew": "אמנות חזותית",
+                "example": "A painting by Vincent van Gogh showcasing his unique brushwork technique.",
+                "example_hebrew": "ציור של וינסנט ואן גוך המציג את טכניקת עבודת המכחול הייחודית שלו."
+            },
+            {
+                "definition": "Performing Arts",
+                "definition_hebrew": "אמנויות במה",
+                "example": "An opera performance where actors, singers and musicians come together to bring a story to life on stage.",
+                "example_hebrew": "מופע אופרה שבו שחקנים, זמרים ומוזיקאים מתאחדים כדי להחיות סיפור על הבמה."
+            },
+            {
+                "definition": "Literary Arts",
+                "definition_hebrew": "אמנויות ספרותיות",
+                "example": "A novel by Jane Austen that explores themes of love, social class and human nature in 19th century England.",
+                "example_hebrew": "רומן מאת ג'יין אוסטן החוקר נושאים של אהבה, מעמד חברתי וטבע אנושי באנגליה של המאה ה-19."
+            },
+            {
+                "definition": "Decorative Arts",
+                "definition_hebrew": "אומנויות דקורטיביות",
+                "example": "The intricately designed jewelry worn by royalty throughout history.",
+                "example_hebrew": "התכשיטים המעוצבים בצורה מורכבת שנענדו על ידי בני המלוכה לאורך ההיסטוריה."
+            }
+        ]
+    }
+]

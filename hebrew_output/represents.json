@@ -1,0 +1,40 @@
+[
+    {
+        "word": "represents",
+        "word_hebrew": "מייצג",
+        "main_definition": "To stand for or symbolize something; to act as a sign of, emblem, or metaphor.",
+        "main_definition_hebrew": "לעמוד או לסמל משהו; לשמש כסימן של, סמל או מטאפורה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To stand for or symbolize an idea, concept, or object",
+                "definition_hebrew": "לעמוד או לסמל רעיון, מושג או אובייקט",
+                "example": "The dove represents peace.",
+                "example_hebrew": "היונה מייצגת שלום."
+            },
+            {
+                "definition": "To act as a sign or metaphor that conveys a particular meaning",
+                "definition_hebrew": "לפעול כסימן או מטפורה המעבירים משמעות מסוימת",
+                "example": "His silence represents his deep regret for what he had done.",
+                "example_hebrew": "שתיקתו מייצגת את החרטה העמוקה שלו על מה שעשה."
+            },
+            {
+                "definition": "To represent in terms of numbers or quantities, often used in statistics and mathematics",
+                "definition_hebrew": "לייצג במונחים של מספרים או כמויות, משמש לעתים קרובות בסטטיסטיקה ובמתמטיקה",
+                "example": "The average age of the group represents 35 years.",
+                "example_hebrew": "הגיל הממוצע של הקבוצה מייצג 35 שנים."
+            },
+            {
+                "definition": "To officially select a person to act on behalf of others; to appoint as an ambassador, delegate, or representative",
+                "definition_hebrew": "לבחור רשמית אדם לפעול בשם אחרים; למנות כשגריר, נציג או נציג",
+                "example": "She was chosen to represent her country at the international conference.",
+                "example_hebrew": "היא נבחרה לייצג את מדינתה בוועידה הבינלאומית."
+            },
+            {
+                "definition": "In business, to depict in terms of market share or percentage of a particular segment or industry",
+                "definition_hebrew": "בעסק, לתאר במונחים של נתח שוק או אחוז של פלח או ענף מסוים",
+                "example": "This brand represents 20% of the global smartphone market.",
+                "example_hebrew": "מותג זה מייצג 20% משוק הסמארטפונים העולמי."
+            }
+        ]
+    }
+]

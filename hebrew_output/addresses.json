@@ -1,0 +1,40 @@
+[
+    {
+        "word": "addresses",
+        "word_hebrew": "כתובות",
+        "main_definition": "To deal with or discuss a particular issue, concern, or subject in various contexts such as communication, action, or problem-solving.",
+        "main_definition_hebrew": "לעסוק או לדון בנושא מסוים, דאגה או נושא מסוים בהקשרים שונים כגון תקשורת, פעולה או פתרון בעיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In conversation, refers to talking about something specific",
+                "definition_hebrew": "בשיחה, מתייחס לדבר על משהו ספציפי",
+                "example": "The politician's speech addressed the concerns of climate change.",
+                "example_hebrew": "נאומו של הפוליטיקאי התייחס לחששות משינויי האקלים."
+            },
+            {
+                "definition": "When used with a noun, means providing specific location information like an address on a map or letter",
+                "definition_hebrew": "בשימוש עם שם עצם, פירושו לספק מידע מיקום ספציפי כמו כתובת על מפה או מכתב",
+                "example": "Please provide your full mailing address for our records.",
+                "example_hebrew": "אנא ספק את כתובת הדואר המלאה שלך לתיעוד שלנו."
+            },
+            {
+                "definition": "Refers to taking action against a problem, such as implementing measures to solve it",
+                "definition_hebrew": "הכוונה לנקיטת פעולה נגד בעיה, כגון יישום אמצעים לפתרון אותה",
+                "example": "The government implemented policies that addressed the issue of unemployment.",
+                "example_hebrew": "הממשלה הטמיעה מדיניות שהתייחסה לנושא האבטלה."
+            },
+            {
+                "definition": "In literature or media, refers to directing attention towards something within a narrative or dialogue",
+                "definition_hebrew": "בספרות או במדיה, מתייחס להפניית תשומת הלב למשהו בתוך נרטיב או דיאלוג",
+                "example": "The author used flashbacks to address past events in the story.",
+                "example_hebrew": "המחבר השתמש בפלאשבקים כדי להתייחס לאירועי העבר בסיפור."
+            },
+            {
+                "definition": "In computer science and programming, indicates interacting with an object's properties or methods through code",
+                "definition_hebrew": "במדעי המחשב ובתכנות, מציין אינטראקציה עם תכונות או שיטות של אובייקט באמצעות קוד",
+                "example": "Calling a function that addresses database connections.",
+                "example_hebrew": "קריאה לפונקציה הנותנת מענה לחיבורי מסד נתונים."
+            }
+        ]
+    }
+]

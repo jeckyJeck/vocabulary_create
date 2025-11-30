@@ -1,0 +1,34 @@
+[
+    {
+        "word": "optional",
+        "word_hebrew": "אופציונאלי",
+        "main_definition": "Something that is not required or mandatory; can be chosen to include or exclude at one's discretion.",
+        "main_definition_hebrew": "משהו שאינו חובה או חובה; ניתן לבחור לכלול או לא לכלול לפי שיקול דעתו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Available for selection, but not necessary.",
+                "definition_hebrew": "זמין לבחירה, אך לא הכרחי.",
+                "example": "Choosing optional extras on a car rental agreement.",
+                "example_hebrew": "בחירת תוספות אופציונליות בהסכם השכרת רכב."
+            },
+            {
+                "definition": "Additional information or features that are not essential to the main content.",
+                "definition_hebrew": "מידע נוסף או תכונות שאינם חיוניים לתוכן הראשי.",
+                "example": "An optional survey after completing an online form.",
+                "example_hebrew": "סקר אופציונלי לאחר מילוי טופס מקוון."
+            },
+            {
+                "definition": "Not compulsory; can be omitted without causing any problem or issue.",
+                "definition_hebrew": "לא חובה; ניתן להשמיט מבלי לגרום לבעיה או בעיה כלשהי.",
+                "example": "Optional classes in a school curriculum that students may choose to attend.",
+                "example_hebrew": "שיעורים אופציונליים בתוכנית לימודים של בית ספר, שתלמידים יכולים לבחור להשתתף בהם."
+            },
+            {
+                "definition": "A choice or alternative option provided for convenience, but not required.",
+                "definition_hebrew": "אפשרות בחירה או חלופית מסופקת מטעמי נוחות, אך לא חובה.",
+                "example": "An optional side dish at a restaurant menu.",
+                "example_hebrew": "תוספת אופציונלית בתפריט מסעדה."
+            }
+        ]
+    }
+]

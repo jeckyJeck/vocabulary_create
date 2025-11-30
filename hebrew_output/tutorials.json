@@ -1,0 +1,34 @@
+[
+    {
+        "word": "tutorials",
+        "word_hebrew": "הדרכות",
+        "main_definition": "A series of educational lessons or instructions, often presented in video format, that guide learners through a specific topic or skill.",
+        "main_definition_hebrew": "סדרה של שיעורים או הנחיות חינוכיות, המוצגות לרוב בפורמט וידאו, המנחות את הלומדים דרך נושא או מיומנות ספציפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Educational videos explaining how to do something",
+                "definition_hebrew": "סרטונים חינוכיים המסבירים איך לעשות משהו",
+                "example": "This cooking tutorials series teaches viewers step-by-step how to prepare various dishes.",
+                "example_hebrew": "סדרת הדרכות בישול זו מלמדת את הצופים שלב אחר שלב כיצד להכין מנות שונות."
+            },
+            {
+                "definition": "Instructional guides for software or programming languages",
+                "definition_hebrew": "מדריכי הדרכה לתוכנה או לשפות תכנות",
+                "example": "The coding tutorials on this website help beginners learn HTML and CSS through practical examples.",
+                "example_hebrew": "מדריכי הקידוד באתר זה עוזרים למתחילים ללמוד HTML ו-CSS באמצעות דוגמאות מעשיות."
+            },
+            {
+                "definition": "Interactive learning modules to acquire new skills",
+                "definition_hebrew": "מודולי למידה אינטראקטיביים לרכישת מיומנויות חדשות",
+                "example": "Online marketing tutorials provide interactive lessons for aspiring digital marketers.",
+                "example_hebrew": "הדרכות שיווק מקוונות מספקות שיעורים אינטראקטיביים למשווקים דיגיטליים שואפים."
+            },
+            {
+                "definition": "In-depth overviews of academic or professional topics",
+                "definition_hebrew": "סקירה מעמיקה של נושאים אקדמיים או מקצועיים",
+                "example": "These historical tutorials offer comprehensive insights into different periods and events in world history.",
+                "example_hebrew": "מדריכים היסטוריים אלו מציעים תובנות מקיפות על תקופות ואירועים שונים בהיסטוריה העולמית."
+            }
+        ]
+    }
+]

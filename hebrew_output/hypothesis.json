@@ -1,0 +1,34 @@
+[
+    {
+        "word": "hypothesis",
+        "word_hebrew": "הַשׁעָרָה",
+        "main_definition": "A hypothesis is a proposed explanation or educated guess that serves as the starting point for further investigation, experimentation, or study.",
+        "main_definition_hebrew": "השערה היא הסבר מוצע או ניחוש מושכל המשמש כנקודת מוצא להמשך חקירה, ניסוי או מחקר.",
+        "meanings_and_examples": [
+            {
+                "definition": "In scientific research, it refers to an initial assumption made before conducting experiments and analyzing data",
+                "definition_hebrew": "במחקר מדעי, זה מתייחס להנחה ראשונית שנעשתה לפני ביצוע ניסויים וניתוח נתונים",
+                "example": "The scientist formulated a hypothesis that increased sunlight would accelerate the growth of plants.",
+                "example_hebrew": "המדען ניסח השערה שאור שמש מוגבר יאיץ את צמיחת הצמחים."
+            },
+            {
+                "definition": "As an idea or theory suggesting something without firm evidence",
+                "definition_hebrew": "כרעיון או תיאוריה שמציעה משהו ללא ראיות מוצקות",
+                "example": "He has a hypothesis that listening to classical music enhances concentration while studying.",
+                "example_hebrew": "יש לו השערה שהאזנה למוזיקה קלאסית מגבירה את הריכוז בזמן הלימודים."
+            },
+            {
+                "definition": "In logic and philosophy, it represents a tentative principle used in reasoning and argumentation",
+                "definition_hebrew": "בלוגיקה ופילוסופיה, הוא מייצג עיקרון טנטטיבי המשמש בהיגיון ובטיעון",
+                "example": "The philosopher proposed the hypothesis that all human actions are motivated by self-interest.",
+                "example_hebrew": "הפילוסוף הציע את ההשערה שכל פעולות האדם מונעות מאינטרס אישי."
+            },
+            {
+                "definition": "As an alternative or counterargument to another perspective",
+                "definition_hebrew": "כאלטרנטיבה או טיעון נגד לנקודת מבט אחרת",
+                "example": "She challenged her friend's hypothesis about climate change being solely caused by natural factors, suggesting that human activity plays a significant role too.",
+                "example_hebrew": "היא ערערה על ההשערה של חברתה לגבי שינויי האקלים שנגרמים אך ורק על ידי גורמים טבעיים, מה שמרמז שגם לפעילות אנושית יש תפקיד משמעותי."
+            }
+        ]
+    }
+]

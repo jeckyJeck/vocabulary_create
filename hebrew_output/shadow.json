@@ -1,0 +1,34 @@
+[
+    {
+        "word": "shadow",
+        "word_hebrew": "צֵל",
+        "main_definition": "A shadow is an area of darkness that occurs when an object blocks light, or a metaphorical representation of influence or association.",
+        "main_definition_hebrew": "צל הוא אזור של חושך המתרחש כאשר אובייקט חוסם אור, או ייצוג מטפורי של השפעה או אסוציאציה.",
+        "meanings_and_examples": [
+            {
+                "definition": "An area where direct sunlight is blocked by the presence of an object",
+                "definition_hebrew": "אזור שבו אור שמש ישיר נחסם על ידי נוכחות של חפץ",
+                "example": "As the tree grew taller, its shadow stretched across the lawn.",
+                "example_hebrew": "כשהעץ גדל, הצל שלו נמתח על פני הדשא."
+            },
+            {
+                "definition": "A metaphorical reference to someone's influence or impact on another person",
+                "definition_hebrew": "התייחסות מטפורית להשפעה או השפעה של מישהו על אדם אחר",
+                "example": "The corrupt politician left a dark shadow over his former colleagues.",
+                "example_hebrew": "הפוליטיקאי המושחת הותיר צל אפל על עמיתיו לשעבר."
+            },
+            {
+                "definition": "An individual who closely follows the actions and decisions of another, often out of admiration or desire for guidance",
+                "definition_hebrew": "אדם שעוקב מקרוב אחר מעשיו והחלטותיו של אחר, לרוב מתוך הערצה או רצון להדרכה",
+                "example": "She was said to be in the shadow of her successful older sister.",
+                "example_hebrew": "אמרו שהיא נמצאת בצילה של אחותה הגדולה והמצליחה."
+            },
+            {
+                "definition": "A figurative expression describing a situation where someone's presence affects others negatively",
+                "definition_hebrew": "ביטוי פיגורטיבי המתאר מצב בו נוכחות של מישהו משפיעה על אחרים לרעה",
+                "example": "His constant criticism cast a long shadow over the team's morale.",
+                "example_hebrew": "הביקורת המתמדת שלו הטילה צל ארוך על המורל של הקבוצה."
+            }
+        ]
+    }
+]

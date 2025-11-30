@@ -1,0 +1,34 @@
+[
+    {
+        "word": "detection",
+        "word_hebrew": "איתור",
+        "main_definition": "The act of discovering or identifying something, often through careful observation or analysis.",
+        "main_definition_hebrew": "הפעולה של גילוי או זיהוי משהו, לעתים קרובות באמצעות התבוננות או ניתוח מדוקדקים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Identification of a signal in communication systems or other data streams.",
+                "definition_hebrew": "זיהוי אות במערכות תקשורת או זרמי נתונים אחרים.",
+                "example": "The detection of an anomaly in network traffic that could indicate a cyber attack.",
+                "example_hebrew": "זיהוי חריגה בתעבורת הרשת שעלולה להעיד על מתקפת סייבר."
+            },
+            {
+                "definition": "Recognition of the presence or existence of a particular substance, such as contraband at airport security.",
+                "definition_hebrew": "הכרה בנוכחות או בקיומו של חומר מסוים, כגון סחורה באבטחה בשדה התעופה.",
+                "example": "Security personnel using scanning devices to detect illegal drugs in passengers' luggage.",
+                "example_hebrew": "אנשי אבטחה משתמשים במכשירי סריקה לאיתור סמים לא חוקיים בכבודת הנוסעים."
+            },
+            {
+                "definition": "The process of finding errors or problems within data, documents, or systems.",
+                "definition_hebrew": "תהליך מציאת שגיאות או בעיות בתוך נתונים, מסמכים או מערכות.",
+                "example": "A software program that performs detection to find and correct typing mistakes in a document.",
+                "example_hebrew": "תוכנה המבצעת איתור לאיתור ותיקון שגיאות הקלדה במסמך."
+            },
+            {
+                "definition": "The act of discovering the truth or uncovering hidden facts or information.",
+                "definition_hebrew": "פעולת גילוי האמת או חשיפת עובדות או מידע נסתרים.",
+                "example": "Investigative journalists working tirelessly to detect corruption within government agencies.",
+                "example_hebrew": "עיתונאים חוקרים פועלים ללא לאות לאיתור שחיתות בתוך סוכנויות ממשלתיות."
+            }
+        ]
+    }
+]

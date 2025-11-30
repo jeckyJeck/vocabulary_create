@@ -1,0 +1,34 @@
+[
+    {
+        "word": "reliability",
+        "word_hebrew": "מהימנות",
+        "main_definition": "The quality of being trustworthy or able to be depended upon.",
+        "main_definition_hebrew": "האיכות של להיות אמין או שאפשר לסמוך עליו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Consistency in performance and quality over time.",
+                "definition_hebrew": "עקביות בביצועים ובאיכות לאורך זמן.",
+                "example": "A reliable car is one that starts reliably every morning without fail.",
+                "example_hebrew": "מכונית אמינה היא מכונית שמתניעה באופן אמין בכל בוקר ללא תקלות."
+            },
+            {
+                "definition": "The ability to be counted on for accurate results or information.",
+                "definition_hebrew": "היכולת לסמוך על תוצאות או מידע מדויקים.",
+                "example": "In scientific research, the reliability of data refers to its consistency when measurements are repeated under identical conditions.",
+                "example_hebrew": "במחקר מדעי, מהימנות הנתונים מתייחסת לעקביות שלהם כאשר המדידות חוזרות על עצמן בתנאים זהים."
+            },
+            {
+                "definition": "Trustworthiness in delivering a promised outcome or service.",
+                "definition_hebrew": "אמינות במתן תוצאה או שירות שהובטחו.",
+                "example": "A reliable contractor always completes projects on time and within budget specifications.",
+                "example_hebrew": "קבלן אמין תמיד מסיים פרויקטים בזמן ובמפרט התקציב."
+            },
+            {
+                "definition": "Dependability as a person who behaves in a trustworthy manner.",
+                "definition_hebrew": "מהימנות כאדם שמתנהג בצורה אמינה.",
+                "example": "You can rely on your friend to keep their promises, like showing up when they say they will.",
+                "example_hebrew": "אתה יכול לסמוך על החבר שלך שיקיים את ההבטחות שלו, כמו להופיע כשהם אומרים שכן."
+            }
+        ]
+    }
+]

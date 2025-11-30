@@ -1,0 +1,46 @@
+[
+    {
+        "word": "name",
+        "word_hebrew": "שֵׁם",
+        "main_definition": "A name is a term used to identify, refer to or describe something, such as a person, animal, place, thing, or concept.",
+        "main_definition_hebrew": "שם הוא מונח המשמש לזיהוי, התייחסות או תיאור של משהו, כגון אדם, חיה, מקום, דבר או מושג.",
+        "meanings_and_examples": [
+            {
+                "definition": "A label given to an individual at birth for identification purposes",
+                "definition_hebrew": "תווית שניתנת לאדם בלידה לצורכי זיהוי",
+                "example": "John Doe's name is written on his birth certificate.",
+                "example_hebrew": "שמו של ג'ון דו כתוב בתעודת הלידה שלו."
+            },
+            {
+                "definition": "The title used by a person to identify themselves in social situations",
+                "definition_hebrew": "התואר שבו משתמש אדם כדי לזהות את עצמו במצבים חברתיים",
+                "example": "I am called James, and you can call me Jim if you prefer.",
+                "example_hebrew": "קוראים לי ג'יימס, ואתה יכול לקרוא לי ג'ים אם אתה מעדיף."
+            },
+            {
+                "definition": "A name given to something as an identifier or for identification",
+                "definition_hebrew": "שם שניתן למשהו כמזהה או לשם זיהוי",
+                "example": "Mount Everest's official name is Chomolungma in Tibetan language.",
+                "example_hebrew": "שמו הרשמי של הר האוורסט הוא Chomolungma בשפה הטיבטית."
+            },
+            {
+                "definition": "The title used by a person, institution, or company to refer to themselves and distinguish from others",
+                "definition_hebrew": "הכותרת המשמשת אדם, מוסד או חברה כדי להתייחס לעצמם ולהבדיל מאחרים",
+                "example": "IBM Corporation is known as International Business Machines.",
+                "example_hebrew": "תאגיד יבמ ידוע בתור מכונות עסקיות בינלאומיות."
+            },
+            {
+                "definition": "A name given to an object or thing for identification",
+                "definition_hebrew": "שם שניתן לחפץ או לדבר לצורך זיהוי",
+                "example": "The chemical element named after Niels Bohr, called Bohrium.",
+                "example_hebrew": "היסוד הכימי על שם נילס בוהר, הנקרא בוהריום."
+            },
+            {
+                "definition": "A term used in storytelling and literature to refer to a person's true identity",
+                "definition_hebrew": "מונח המשמש בסיפורים ובספרות כדי להתייחס לזהותו האמיתית של אדם",
+                "example": "In many fairy tales, the 'real name' of magical creatures is revealed when they are defeated or overcome their fears.",
+                "example_hebrew": "בסיפורי אגדות רבים, 'שם האמיתי' של יצורים קסומים מתגלה כאשר הם מובסים או מתגברים על פחדיהם."
+            }
+        ]
+    }
+]

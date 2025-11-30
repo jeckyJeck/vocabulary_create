@@ -1,0 +1,40 @@
+[
+    {
+        "word": "tagged",
+        "word_hebrew": "מתויג",
+        "main_definition": "To label or identify something, often used in various contexts like social media, games, security systems, etc.",
+        "main_definition_hebrew": "כדי לתייג או לזהות משהו, משמש לעתים קרובות בהקשרים שונים כמו מדיה חברתית, משחקים, מערכות אבטחה וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "In social media and online forums, to add a label or keyword to a post, image, or comment",
+                "definition_hebrew": "במדיה חברתית ובפורומים מקוונים, להוסיף תווית או מילת מפתח לפוסט, תמונה או תגובה",
+                "example": "She tagged her friends in the photo she posted on Instagram.",
+                "example_hebrew": "היא תייגה את חבריה בתמונה שפרסמה באינסטגרם."
+            },
+            {
+                "definition": "In games, especially multiplayer ones like 'Mario Kart' or e-sports, when an item is obtained that provides a power-up or advantage",
+                "definition_hebrew": "במשחקים, במיוחד מרובי משתתפים כמו 'Mario Kart' או e-sports, כאשר מתקבל פריט המספק כוח-אפ או יתרון",
+                "example": "When he collected the tagged mushroom in Mario Kart, his character could drive faster for a short period.",
+                "example_hebrew": "כשהוא אסף את הפטרייה המתויגת ב-Mario Kart, הדמות שלו יכלה לנהוג מהר יותר לתקופה קצרה."
+            },
+            {
+                "definition": "In security and surveillance systems, to mark an individual as someone of interest based on certain criteria or behaviors",
+                "definition_hebrew": "במערכות אבטחה ומעקב, לסמן אדם כאדם בעל עניין בהתבסס על קריטריונים או התנהגויות מסוימות",
+                "example": "The security team tagged the person entering repeatedly despite being denied access multiple times.",
+                "example_hebrew": "צוות האבטחה תייג את האדם שנכנס שוב ושוב למרות שנמנעה ממנו גישה מספר פעמים."
+            },
+            {
+                "definition": "In retail, when a customer is recognized by store's system and greeted personally",
+                "definition_hebrew": "בקמעונאות, כאשר לקוח מזוהה על ידי מערכת החנות ומקבל את פניו באופן אישי",
+                "example": "Upon his return, the store tagged him to welcome back as a regular customer.",
+                "example_hebrew": "עם שובו, החנות תייגה אותו לקבל בחזרה כלקוח קבוע."
+            },
+            {
+                "definition": "To identify or mark items for inventory purposes in logistics and supply chain management",
+                "definition_hebrew": "לזהות או לסמן פריטים לצורכי מלאי בלוגיסטיקה וניהול שרשרת אספקה",
+                "example": "The warehouse staff used barcodes to tag each product before packing them for shipping.",
+                "example_hebrew": "צוות המחסן השתמש בברקודים כדי לתייג כל מוצר לפני אריזתם למשלוח."
+            }
+        ]
+    }
+]

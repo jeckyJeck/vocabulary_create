@@ -1,0 +1,40 @@
+[
+    {
+        "word": "beach",
+        "word_hebrew": "החוף",
+        "main_definition": "A beach is a landform alongside a body of water which consists of loose particles, such as sand, gravel, or cobblestones.",
+        "main_definition_hebrew": "חוף הוא צורת קרקע לצד גוף מים המורכב מחלקיקים רופפים, כגון חול, חצץ או אבנים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An area where people go to relax and enjoy the sun, sea, and sand",
+                "definition_hebrew": "אזור שאליו אנשים הולכים להירגע וליהנות מהשמש, הים והחול",
+                "example": "After a long week of work, Sarah decided to spend her Saturday at the beach with friends.",
+                "example_hebrew": "אחרי שבוע ארוך של עבודה, שרה החליטה לבלות את השבת שלה בחוף הים עם חברים."
+            },
+            {
+                "definition": "A designated public space for swimming in seawater or freshwater",
+                "definition_hebrew": "מרחב ציבורי ייעודי לשחייה במי ים או מים מתוקים",
+                "example": "The lifeguard was vigilant on duty, watching over swimmers along the crowded beach.",
+                "example_hebrew": "המציל היה ערני בתפקיד, משגיח על שחיינים לאורך החוף הצפוף."
+            },
+            {
+                "definition": "An area of a river or coastline that is composed of sand and pebbles deposited by water currents",
+                "definition_hebrew": "אזור של נהר או קו חוף המורכב מחול וחלוקי נחל שהופקדו על ידי זרמי מים",
+                "example": "During low tide, we could walk on the beach to explore the tidal pools and see tiny marine creatures.",
+                "example_hebrew": "בזמן השפל, יכולנו ללכת על החוף כדי לחקור את בריכות הגאות ולראות יצורים ימיים זעירים."
+            },
+            {
+                "definition": "A term used in sports, specifically referring to a line marking a boundary or limit",
+                "definition_hebrew": "מונח המשמש בספורט, המתייחס ספציפית לקו המסמן גבול או גבול",
+                "example": "The soccer team practiced staying within their half of the field during games.",
+                "example_hebrew": "קבוצת הכדורגל התאמנה להישאר בחצי המגרש שלה במהלך המשחקים."
+            },
+            {
+                "definition": "In finance, beach refers to an area where one's assets are at risk due to market fluctuations",
+                "definition_hebrew": "בפיננסים, חוף מתייחס לאזור שבו נכסיו נמצאים בסיכון עקב תנודות בשוק",
+                "example": "During a recession, investors might be considered as having their 'beach' invaded by volatile stock prices.",
+                "example_hebrew": "במהלך מיתון, משקיעים עשויים להיחשב כמי ש\"החוף\" שלהם פלש על ידי מחירי מניות תנודתיים."
+            }
+        ]
+    }
+]

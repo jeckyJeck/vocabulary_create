@@ -1,0 +1,34 @@
+[
+    {
+        "word": "photograph",
+        "word_hebrew": "תַצלוּם",
+        "main_definition": "A photograph is a visual representation of an object or scene, captured by recording light or other electromagnetic radiation through an optical system.",
+        "main_definition_hebrew": "צילום הוא ייצוג חזותי של אובייקט או סצנה, הנלכד על ידי הקלטת אור או קרינה אלקטרומגנטית אחרת דרך מערכת אופטית.",
+        "meanings_and_examples": [
+            {
+                "definition": "An image taken with a camera",
+                "definition_hebrew": "תמונה שצולמה במצלמה",
+                "example": "I clicked the shutter button and got my first photograph.",
+                "example_hebrew": "לחצתי על כפתור הצמצם וקיבלתי את התמונה הראשונה שלי."
+            },
+            {
+                "definition": "A frozen moment in time captured on film or digitally",
+                "definition_hebrew": "רגע קפוא בזמן שנקלט בסרט או בדיגיטל",
+                "example": "She framed the perfect photograph of the sunset over the ocean.",
+                "example_hebrew": "היא מיסגרה את התצלום המושלם של השקיעה מעל האוקיינוס."
+            },
+            {
+                "definition": "The act of taking a picture using a camera",
+                "definition_hebrew": "פעולת צילום תמונה באמצעות מצלמה",
+                "example": "He was busy photographing the beautiful architecture around him.",
+                "example_hebrew": "הוא היה עסוק בצילום האדריכלות היפה סביבו."
+            },
+            {
+                "definition": "A record or evidence of an event",
+                "definition_hebrew": "תיעוד או עדות לאירוע",
+                "example": "The photograph from their wedding day serves as proof of their commitment to each other.",
+                "example_hebrew": "התצלום מיום חתונתם משמש כהוכחה למחויבותם זה לזה."
+            }
+        ]
+    }
+]

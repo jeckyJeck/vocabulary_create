@@ -1,0 +1,34 @@
+[
+    {
+        "word": "lambda",
+        "word_hebrew": "למבדה",
+        "main_definition": "Lambda is a term used in various fields such as mathematics, physics, computer science, and programming languages with specific meanings related to functions or variables.",
+        "main_definition_hebrew": "למבדה הוא מונח המשמש בתחומים שונים כמו מתמטיקה, פיזיקה, מדעי המחשב ושפות תכנות עם משמעויות ספציפיות הקשורות לפונקציות או למשתנים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In mathematics and logic, lambda represents an anonymous function or procedure without a name. It's used in the lambda calculus, which forms the basis for functional programming languages like Python, Lisp, Haskell etc.",
+                "definition_hebrew": "במתמטיקה ולוגיקה, למבדה מייצגת פונקציה או פרוצדורה אנונימית ללא שם. הוא משמש בחשבון למבדה, המהווה את הבסיס לשפות תכנות פונקציונליות כמו Python, Lisp, Haskell וכו'.",
+                "example": "The expression (lambda x: x * 2) is a simple example of a lambda function that takes one argument and returns its double.",
+                "example_hebrew": "הביטוי (lambda x: x * 2) הוא דוגמה פשוטה לפונקציית למבדה שלוקחת ארגומנט אחד ומחזירה את הכפול שלו."
+            },
+            {
+                "definition": "In physics, lambda is the symbol for wavelength - the spatial period of a wave or oscillation. It's used to describe the properties of waves such as light, sound, or radio.",
+                "definition_hebrew": "בפיזיקה, למבדה היא הסמל של אורך הגל - התקופה המרחבית של גל או תנודה. הוא משמש לתיאור המאפיינים של גלים כגון אור, קול או רדיו.",
+                "example": "The red color we see in an object comes from the specific wavelengths (lambda) that are being reflected.",
+                "example_hebrew": "הצבע האדום שאנו רואים באובייקט מגיע מאורכי הגל הספציפיים (למבדה) שמשתקפים."
+            },
+            {
+                "definition": "In computer science and programming, lambda is used to denote anonymous functions. It's commonly seen in functional programming languages or with certain APIs like Python's map(), filter() functions etc.",
+                "definition_hebrew": "במדעי המחשב ובתכנות, למבדה משמשת לציון פונקציות אנונימיות. זה נראה בדרך כלל בשפות תכנות פונקציונליות או עם ממשקי API מסוימים כמו המפה של Python(), פונקציות filter() וכו'.",
+                "example": "The following code uses a lambda function within the Python built-in map() function: list(map(lambda x: x * 2, [1, 2, 3]))",
+                "example_hebrew": "הקוד הבא משתמש בפונקציית lambda בתוך פונקציית ה-map() המובנית של Python: list(map(lambda x: x * 2, [1, 2, 3]))"
+            },
+            {
+                "definition": "In engineering and physics, Lambda (λ) is used to represent the decay constant in radioactive decay.",
+                "definition_hebrew": "בהנדסה ובפיזיקה, למבדה (λ) משמשת לייצוג קבוע הדעיכה בהתפרקות רדיואקטיבית.",
+                "example": "The half-life of a substance can be calculated using its decay constant, denoted by lambda.",
+                "example_hebrew": "ניתן לחשב את זמן מחצית החיים של חומר באמצעות קבוע הדעיכה שלו, המסומן בלמבדה."
+            }
+        ]
+    }
+]

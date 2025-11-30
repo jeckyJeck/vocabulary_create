@@ -1,0 +1,28 @@
+[
+    {
+        "word": "fridge",
+        "word_hebrew": "מְקָרֵר",
+        "main_definition": "A refrigerator is an appliance used to store food at a low temperature to preserve it.",
+        "main_definition_hebrew": "מקרר הוא מכשיר המשמש לאחסון מזון בטמפרטורה נמוכה כדי לשמר אותו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Refrigeration device for preserving perishable food items",
+                "definition_hebrew": "מכשיר קירור לשימור מוצרי מזון מתכלים",
+                "example": "I put the milk in the fridge so it stays fresh longer.",
+                "example_hebrew": "הכנסתי את החלב למקרר כדי שיישאר טרי יותר."
+            },
+            {
+                "definition": "A slang term referring to a person's stomach or appetite, suggesting that they have an empty or unsatisfied feeling",
+                "definition_hebrew": "מונח סלנג המתייחס לבטן או לתיאבון של אדם, המצביע על כך שיש לו תחושה ריקה או לא מסופקת",
+                "example": "After not eating all day, he felt like his fridge was completely empty.",
+                "example_hebrew": "אחרי שלא אכל כל היום, הוא הרגיש שהמקרר שלו ריק לגמרי."
+            },
+            {
+                "definition": "An idiomatic expression for a person's cold and uncaring attitude",
+                "definition_hebrew": "ביטוי אידיומטי לגישה הקרה והבלתי אכפתית של האדם",
+                "example": "She always has a fridge demeanor when talking about people she doesn't know well, showing no warmth or empathy.",
+                "example_hebrew": "תמיד יש לה התנהגות של מקרר כשהיא מדברת על אנשים שהיא לא מכירה היטב, ללא חום או אמפתיה."
+            }
+        ]
+    }
+]

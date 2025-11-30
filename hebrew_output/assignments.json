@@ -1,0 +1,34 @@
+[
+    {
+        "word": "assignments",
+        "word_hebrew": "משימות",
+        "main_definition": "Assignments refer to tasks or duties given to someone, often in an educational context but also applicable elsewhere.",
+        "main_definition_hebrew": "מטלות מתייחסות למשימות או לחובות שניתנו למישהו, לרוב בהקשר חינוכי אך ישים גם במקומות אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In education, a set of tasks or projects assigned by a teacher to students for learning and practice.",
+                "definition_hebrew": "בחינוך, אוסף של משימות או פרויקטים שמקצה מורה לתלמידים לצורך למידה ותרגול.",
+                "example": "For the math class, Mrs. Johnson gave her students several assignments on algebra problems.",
+                "example_hebrew": "לשיעור המתמטיקה, גברת ג'ונסון נתנה לתלמידיה מספר מטלות על בעיות אלגברה."
+            },
+            {
+                "definition": "Jobs or duties given in an office setting, often with deadlines.",
+                "definition_hebrew": "משרות או חובות הניתנות במסגרת משרדית, לרוב עם מועדים.",
+                "example": "The manager assigned weekly reports to his team members as part of their regular work tasks.",
+                "example_hebrew": "המנהל הקצה דוחות שבועיים לחברי הצוות שלו כחלק ממשימות העבודה הרגילות שלהם."
+            },
+            {
+                "definition": "In a software development context, specific tasks given to developers by project managers for code completion or bug fixes.",
+                "definition_hebrew": "בהקשר של פיתוח תוכנה, משימות ספציפיות שניתנו למפתחים על ידי מנהלי פרויקטים לצורך השלמת קוד או תיקוני באגים.",
+                "example": "To improve the application's performance, the senior developer assigned debugging assignments to the junior programmers.",
+                "example_hebrew": "כדי לשפר את ביצועי האפליקציה, המפתח הבכיר הקצה מטלות ניפוי באגים למתכנתים הזוטרים."
+            },
+            {
+                "definition": "Tasks delegated in various other scenarios like research projects, group activities, and more.",
+                "definition_hebrew": "משימות שהועברו בתרחישים שונים אחרים כמו פרויקטי מחקר, פעילויות קבוצתיות ועוד.",
+                "example": "The scientists were given separate assignments for conducting experiments on different aspects of climate change.",
+                "example_hebrew": "המדענים קיבלו משימות נפרדות לביצוע ניסויים בהיבטים שונים של שינויי אקלים."
+            }
+        ]
+    }
+]

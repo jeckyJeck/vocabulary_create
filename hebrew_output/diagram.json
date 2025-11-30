@@ -1,0 +1,40 @@
+[
+    {
+        "word": "diagram",
+        "word_hebrew": "תרשים",
+        "main_definition": "A diagram is a visual representation of information, data, or concepts to make it easier to understand.",
+        "main_definition_hebrew": "דיאגרמה היא ייצוג חזותי של מידע, נתונים או מושגים כדי להקל על ההבנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Visual explanation of an idea, process, etc., using symbols placed on a specially designed background",
+                "definition_hebrew": "הסבר ויזואלי של רעיון, תהליך וכו', באמצעות סמלים המוצבים על רקע מעוצב במיוחד",
+                "example": "A flowchart diagram illustrating the steps involved in software development.",
+                "example_hebrew": "תרשים זרימה הממחיש את השלבים הכרוכים בפיתוח תוכנה."
+            },
+            {
+                "definition": "A pictorial representation of numerical data or statistics",
+                "definition_hebrew": "ייצוג ציורי של נתונים מספריים או סטטיסטיקה",
+                "example": "A bar chart diagram showing the population growth over the last decade.",
+                "example_hebrew": "תרשים עמודות המציג את גידול האוכלוסייה בעשור האחרון."
+            },
+            {
+                "definition": "A drawing used to explain something or display information clearly and concisely through symbols, shapes, lines, etc.",
+                "definition_hebrew": "ציור המשמש כדי להסביר משהו או להציג מידע בצורה ברורה ותמציתית באמצעות סמלים, צורות, קווים וכו'.",
+                "example": "An electrical circuit diagram displaying how different components are connected.",
+                "example_hebrew": "תרשים מעגל חשמלי המציג כיצד רכיבים שונים מחוברים."
+            },
+            {
+                "definition": "A map-like representation showing geographical data",
+                "definition_hebrew": "ייצוג דמוי מפה המראה נתונים גיאוגרפיים",
+                "example": "A topographic diagram indicating elevation levels and landforms of a region.",
+                "example_hebrew": "דיאגרמה טופוגרפית המציינת רמות גובה וצורות קרקע של אזור."
+            },
+            {
+                "definition": "A graphical illustration that represents complex information in a simplified form to aid understanding",
+                "definition_hebrew": "איור גרפי המייצג מידע מורכב בצורה פשוטה כדי לסייע בהבנה",
+                "example": "A pie chart diagram displaying the market share of different companies within an industry.",
+                "example_hebrew": "תרשים תרשים עוגה המציג את נתח השוק של חברות שונות בתעשייה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "metabolism",
+        "word_hebrew": "חילוף חומרים",
+        "main_definition": "Metabolism is the set of life-sustaining chemical reactions in organisms that allow them to grow, reproduce, maintain their structures, and respond to their environments.",
+        "main_definition_hebrew": "מטבוליזם הוא מכלול התגובות הכימיות המקיימות חיים באורגניזמים המאפשרות להם לגדול, להתרבות, לשמור על המבנים שלהם ולהגיב לסביבתם.",
+        "meanings_and_examples": [
+            {
+                "definition": "The process by which living beings convert food into energy and basic materials for the body's use",
+                "definition_hebrew": "התהליך שבו יצורים חיים ממירים מזון לאנרגיה וחומרים בסיסיים לשימוש הגוף",
+                "example": "Humans need metabolism to break down carbohydrates, fats, and proteins from their diet into energy.",
+                "example_hebrew": "בני אדם זקוקים לחילוף חומרים כדי לפרק פחמימות, שומנים וחלבונים מהתזונה שלהם לאנרגיה."
+            },
+            {
+                "definition": "The sum of all chemical processes that occur within an organism",
+                "definition_hebrew": "סכום כל התהליכים הכימיים המתרחשים בתוך אורגניזם",
+                "example": "Metabolism includes not only digestion but also the synthesis of cellular components and the elimination of waste products.",
+                "example_hebrew": "חילוף החומרים כולל לא רק עיכול אלא גם סינתזה של רכיבים תאיים וסילוק חומרי פסולת."
+            },
+            {
+                "definition": "A state in which an organism's energy production is balanced with its energy expenditure",
+                "definition_hebrew": "מצב בו ייצור האנרגיה של האורגניזם מאוזן עם ההוצאה האנרגטית שלו",
+                "example": "An athlete has a high metabolic rate because their body needs more energy to maintain physical activity levels.",
+                "example_hebrew": "לספורטאי יש קצב חילוף חומרים גבוה מכיוון שגופו זקוק ליותר אנרגיה כדי לשמור על רמות הפעילות הגופנית."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "officer",
+        "word_hebrew": "קָצִין",
+        "main_definition": "An officer is a person who holds a position of authority or responsibility, often in a governmental, military, or law enforcement context.",
+        "main_definition_hebrew": "קצין הוא אדם המחזיק בתפקיד של סמכות או אחריות, לעתים קרובות בהקשר שלטוני, צבאי או אכיפת חוק.",
+        "meanings_and_examples": [
+            {
+                "definition": "A rank in the police force",
+                "definition_hebrew": "דרגה במשטרה",
+                "example": "The detective was promoted to officer after years of service.",
+                "example_hebrew": "הבלש הועלה לתפקיד קצין לאחר שנים של שירות."
+            },
+            {
+                "definition": "A member of a military unit with authority over subordinates",
+                "definition_hebrew": "חבר ביחידה צבאית בעל סמכות על הכפופים",
+                "example": "The sergeant is an important non-commissioned officer in the army.",
+                "example_hebrew": "הסמל הוא תת-קצין חשוב בצבא."
+            },
+            {
+                "definition": "A government official responsible for enforcing laws or regulations",
+                "definition_hebrew": "פקיד ממשלתי האחראי על אכיפת חוקים או תקנות",
+                "example": "The building inspector, as an officer of the city, ensured all new constructions met safety codes.",
+                "example_hebrew": "מפקח הבניין, כקצין העירייה, דאג שכל המבנים החדשים עומדים בקודי הבטיחות."
+            },
+            {
+                "definition": "A person who is in charge of a particular function or duty at work",
+                "definition_hebrew": "אדם הממונה על תפקיד או חובה מסוימת בעבודה",
+                "example": "The office manager oversees daily operations and delegates tasks to staff members.",
+                "example_hebrew": "מנהל המשרד מפקח על התפעול היומיומי ומאציל משימות לאנשי הצוות."
+            },
+            {
+                "definition": "An individual responsible for maintaining discipline and order in an institution like school, prison, etc.",
+                "definition_hebrew": "אדם האחראי על שמירת המשמעת והסדר במוסד כמו בית ספר, כלא וכו'.",
+                "example": "High school principals are officers who ensure that students abide by the school's rules.",
+                "example_hebrew": "מנהלי בתי ספר תיכוניים הם קצינים המבטיחים שהתלמידים יצייתו לכללי בית הספר."
+            }
+        ]
+    }
+]

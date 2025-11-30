@@ -1,0 +1,40 @@
+[
+    {
+        "word": "periods",
+        "word_hebrew": "תקופות",
+        "main_definition": "Periods can refer to different concepts, mainly related to time divisions or menstrual cycles in biology.",
+        "main_definition_hebrew": "תקופות יכולות להתייחס למושגים שונים, הקשורים בעיקר לחלוקות זמן או מחזורי הווסת בביולוגיה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Time intervals: A period is a specific length of time. For example, the 'period' from 2 PM to 3 PM represents an hour on a clock.",
+                "definition_hebrew": "מרווחי זמן: תקופה היא פרק זמן מסוים. לדוגמה, ה'תקופה' מ-14:00 עד 15:00 מייצגת שעה בשעון.",
+                "example": "The school bell rings at 9 AM and marks the start of my favorite classes for one hour, that's when I look forward to learning.",
+                "example_hebrew": "פעמון בית הספר מצלצל ב-9 בבוקר ומציין את תחילת השיעורים האהובים עלי למשך שעה אחת, אז אני מצפה ללמוד."
+            },
+            {
+                "definition": "Menstrual cycle: In biology, 'periods' refers to a woman's monthly menstrual cycles. For example, women may experience physical and emotional changes during their period.",
+                "definition_hebrew": "מחזור חודשי: בביולוגיה, 'מחזורים' מתייחס למחזורי הווסת החודשיים של האישה. לדוגמה, נשים עשויות לחוות שינויים פיזיים ורגשיים במהלך הווסת.",
+                "example": "She felt tired and had mood swings because her period was coming up.",
+                "example_hebrew": "היא הרגישה עייפה והיו לה שינויים במצב הרוח כי המחזור שלה מתקרב."
+            },
+            {
+                "definition": "Music or poetry: In music and poetry, 'periods' often refer to punctuation marks that indicate a pause or the end of a phrase. For example, in music, a period might signify the completion of a musical phrase.",
+                "definition_hebrew": "מוזיקה או שירה: במוזיקה ובשירה, 'נקודות' מתייחסות לרוב לסימני פיסוק המציינים הפסקה או סוף של ביטוי. לדוגמה, במוזיקה, תקופה עשויה להעיד על השלמת ביטוי מוזיקלי.",
+                "example": "The pianist struck a period on his sheet music, signaling him to take a brief rest.",
+                "example_hebrew": "הפסנתרן רשם נקודה על דפי התווים שלו, וסימן לו לקחת מנוחה קצרה."
+            },
+            {
+                "definition": "Mathematics: In mathematics, particularly trigonometry, 'periods' describe the length over which an oscillating function (like sine or cosine) repeats its values. For example, in the sine wave equation y = sin(x), the period is 2π.",
+                "definition_hebrew": "מתמטיקה: במתמטיקה, במיוחד בטריגונומטריה, 'תקופות' מתארות את האורך שבו חוזרת פונקציה מתנודדת (כמו סינוס או קוסינוס) על ערכיה. לדוגמה, במשוואת גלי הסינוס y = sin(x), התקופה היא 2π.",
+                "example": "The graph of a sine function has a period of 360 degrees, meaning it completes one full cycle every time x increases by 360.",
+                "example_hebrew": "לגרף של פונקציית סינוס יש תקופה של 360 מעלות, כלומר הוא משלים מחזור שלם אחד בכל פעם ש-x גדל ב-360."
+            },
+            {
+                "definition": "Economic cycles: In economics, 'periods' may refer to intervals of economic activity or recession. For example, an economic downturn might last for several years and is often referred to as a period.",
+                "definition_hebrew": "מחזורים כלכליים: בכלכלה, 'תקופות' עשויות להתייחס למרווחי פעילות כלכלית או מיתון. לדוגמה, מיתון כלכלי עשוי להימשך מספר שנים ולעתים קרובות מכונה תקופה.",
+                "example": "The Great Depression was a severe worldwide economic period that took place during the 1930s.",
+                "example_hebrew": "השפל הגדול היה תקופה כלכלית עולמית קשה שהתרחשה במהלך שנות ה-30."
+            }
+        ]
+    }
+]

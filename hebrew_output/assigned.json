@@ -1,0 +1,40 @@
+[
+    {
+        "word": "assigned",
+        "word_hebrew": "שהוקצה",
+        "main_definition": "To allocate or designate a particular task, responsibility, or role to someone.",
+        "main_definition_hebrew": "להקצות או לייעד משימה, אחריות או תפקיד מסוים למישהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Allocating something for a specific purpose or use.",
+                "definition_hebrew": "הקצאת משהו למטרה או שימוש ספציפי.",
+                "example": "The teacher assigned homework to the students.",
+                "example_hebrew": "המורה הקצה שיעורי בית לתלמידים."
+            },
+            {
+                "definition": "Dedicating someone to perform a particular task or duty.",
+                "definition_hebrew": "הקדשת מישהו לביצוע משימה או חובה מסוימת.",
+                "example": "A project manager was assigned to oversee the completion of the new software development.",
+                "example_hebrew": "מנהל פרויקט הוצב לפקח על השלמת פיתוח התוכנה החדש."
+            },
+            {
+                "definition": "Designating an individual for a specific role in a group setting, such as an organization or team.",
+                "definition_hebrew": "ייעוד אדם לתפקיד ספציפי במסגרת קבוצתית, כגון ארגון או צוות.",
+                "example": "The company's board members were assigned various roles within their departments.",
+                "example_hebrew": "לחברי דירקטוריון החברה הוטלו תפקידים שונים במחלקותיהם."
+            },
+            {
+                "definition": "Assigning numbers or codes to items for identification purposes.",
+                "definition_hebrew": "הקצאת מספרים או קודים לפריטים למטרות זיהוי.",
+                "example": "When you receive a package in the mail, it has an assigned tracking number that allows you to track its delivery progress.",
+                "example_hebrew": "כאשר אתה מקבל חבילה בדואר, יש לה מספר מעקב המאפשר לך לעקוב אחר התקדמות המסירה שלה."
+            },
+            {
+                "definition": "Allocating someone with a particular task through a process like assignment by lottery or selection.",
+                "definition_hebrew": "הקצאת מישהו עם משימה מסוימת באמצעות תהליך כמו הקצאה בהגרלה או בחירה.",
+                "example": "The college assigns students into different dormitories based on the lottery system.",
+                "example_hebrew": "המכללה מקצה סטודנטים למעונות שונים על בסיס מערכת ההגרלות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "investment",
+        "word_hebrew": "הַשׁקָעָה",
+        "main_definition": "An investment refers to the allocation of resources, typically money, with an expectation of generating income or profit over time.",
+        "main_definition_hebrew": "השקעה מתייחסת להקצאת משאבים, בדרך כלל כסף, עם ציפייה לייצר הכנסה או רווח לאורך זמן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Financial commitment towards a project or asset for potential future benefit",
+                "definition_hebrew": "התחייבות פיננסית כלפי פרויקט או נכס לטובת תועלת עתידית פוטנציאלית",
+                "example": "John invested $10,000 in stocks to potentially earn higher returns.",
+                "example_hebrew": "ג'ון השקיע 10,000 דולר במניות כדי להשיג תשואות גבוהות יותר."
+            },
+            {
+                "definition": "Allocation of funds into various assets (like real estate, bonds, stocks) with the goal of increasing wealth over time",
+                "definition_hebrew": "הקצאת כספים לנכסים שונים (כמו נדל\"ן, אג\"ח, מניות) במטרה להגדיל את העושר לאורך זמן",
+                "example": "Sarah decided to diversify her portfolio by investing in both real estate and technology companies.",
+                "example_hebrew": "שרה החליטה לגוון את תיק ההשקעות שלה על ידי השקעה הן בחברות נדל\"ן והן בחברות טכנולוגיה."
+            },
+            {
+                "definition": "Placement of capital into a business venture or enterprise for profit generation",
+                "definition_hebrew": "השקת הון במיזם עסקי או במפעל להפקת רווחים",
+                "example": "The company made an investment in the new startup, hoping to see a return on their funds as it grows.",
+                "example_hebrew": "החברה השקיעה בסטארט-אפ החדש, בתקווה לראות תשואה על הכספים שלה ככל שיגדלו."
+            },
+            {
+                "definition": "Using money or resources with the expectation that they will increase in value over time",
+                "definition_hebrew": "שימוש בכסף או במשאבים מתוך ציפייה שהם יעלו בערכם עם הזמן",
+                "example": "Saving and investing early can help people reach financial independence due to the power of compounding interest.",
+                "example_hebrew": "חיסכון והשקעה מוקדמים יכולים לעזור לאנשים להגיע לעצמאות כלכלית בשל כוחה של שילוב ריבית."
+            },
+            {
+                "definition": "The act of putting trust, support, or energy into something for future gain",
+                "definition_hebrew": "הפעולה של הכנסת אמון, תמיכה או אנרגיה במשהו לרווח עתידי",
+                "example": "She considered her time at university as an educational investment in her personal and professional growth.",
+                "example_hebrew": "היא ראתה את תקופתה באוניברסיטה כהשקעה חינוכית בצמיחתה האישית והמקצועית."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "expenditure",
+        "word_hebrew": "הוצאה",
+        "main_definition": "Expenditure refers to the act of spending money, or using resources in order to achieve a particular goal.",
+        "main_definition_hebrew": "הוצאה מתייחסת לפעולה של הוצאת כסף, או שימוש במשאבים על מנת להשיג מטרה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Act of spending money on goods and services",
+                "definition_hebrew": "פעולה של הוצאת כסף על סחורות ושירותים",
+                "example": "The company's expenditure increased by 10% this quarter due to investments in new technology.",
+                "example_hebrew": "הוצאות החברה גדלו ב-10% ברבעון זה בשל השקעות בטכנולוגיה חדשה."
+            },
+            {
+                "definition": "Total amount spent during a particular period, often used in financial contexts like budgeting or accounting.",
+                "definition_hebrew": "הסכום הכולל שהוצא במהלך תקופה מסוימת, משמש לעתים קרובות בהקשרים פיננסיים כמו תקציב או חשבונאות.",
+                "example": "In the annual report, we detail our total expenditure for the fiscal year, which amounts to $5 million.",
+                "example_hebrew": "בדוח השנתי אנו מפרטים את סך ההוצאות שלנו לשנת הכספים, המסתכמת ב-5 מיליון דולר."
+            },
+            {
+                "definition": "Expenses related specifically to a project, program, or initiative",
+                "definition_hebrew": "הוצאות הקשורות ספציפית לפרויקט, תוכנית או יוזמה",
+                "example": "The government's housing development plan has seen an increase in its capital expenditure due to construction costs.",
+                "example_hebrew": "תוכנית פיתוח הדיור הממשלתית ראתה עלייה בהוצאות ההון שלה בשל עלויות הבנייה."
+            }
+        ]
+    }
+]

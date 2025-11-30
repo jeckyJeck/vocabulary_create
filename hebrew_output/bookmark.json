@@ -1,0 +1,34 @@
+[
+    {
+        "word": "bookmark",
+        "word_hebrew": "סימניה",
+        "main_definition": "A bookmark is a tool used to mark one's place in a physical or digital book, allowing easy return without losing the location.",
+        "main_definition_hebrew": "סימניה היא כלי המשמש לסימון מקומו בספר פיזי או דיגיטלי, המאפשר החזרה קלה מבלי לאבד את המיקום.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical object placed between pages of a book",
+                "definition_hebrew": "חפץ פיזי ממוקם בין דפי ספר",
+                "example": "She inserted a brightly colored paperbookmark between the chapters she wanted to read.",
+                "example_hebrew": "היא הכניסה סימניית נייר בצבע עז בין הפרקים שרצתה לקרוא."
+            },
+            {
+                "definition": "Digital marker in electronic documents or webpages",
+                "definition_hebrew": "סמן דיגיטלי במסמכים אלקטרוניים או בדפי אינטרנט",
+                "example": "The website's feature allows users to add bookmarks for easy access to frequently visited pages.",
+                "example_hebrew": "התכונה של האתר מאפשרת למשתמשים להוסיף סימניות לגישה נוחה לדפים שבהם אתה מבקר לעתים קרובות."
+            },
+            {
+                "definition": "Another term used metaphorically to describe setting aside a task to be continued later",
+                "definition_hebrew": "מונח אחר המשמש באופן מטפורי לתיאור הצבת משימה שתמשיך בהמשך",
+                "example": "I have to put this report on hold; I’ll come back to it after I finish the other project. This is like bookmarking my work.",
+                "example_hebrew": "אני חייב להשהות את הדוח הזה; אני אחזור אליו אחרי שאסיים את הפרויקט השני. זה כמו לסמן את העבודה שלי."
+            },
+            {
+                "definition": "A symbol of achievement or milestone in a personal journey or career",
+                "definition_hebrew": "סמל להישג או אבן דרך במסע או קריירה אישיים",
+                "example": "Reaching his goal weight was her first 'bookmark' on the road to better health, signaling progress and motivation for future goals.",
+                "example_hebrew": "השגת משקל היעד שלו הייתה ה'סימנייה' הראשונה שלה בדרך לבריאות טובה יותר, מסמנת התקדמות ומוטיבציה למטרות עתידיות."
+            }
+        ]
+    }
+]

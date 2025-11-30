@@ -1,0 +1,40 @@
+[
+    {
+        "word": "heroes",
+        "word_hebrew": "גיבורים",
+        "main_definition": "Heroes are individuals who display exceptional courage, bravery, or noble qualities that inspire admiration and respect from others.",
+        "main_definition_hebrew": "גיבורים הם אנשים המפגינים אומץ, אומץ או תכונות נעלות יוצאות דופן המעוררות הערצה וכבוד מאחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Fictional characters with heroic qualities",
+                "definition_hebrew": "דמויות בדיוניות בעלות תכונות הרואיות",
+                "example": "Superman is a popular fictional hero who possesses extraordinary powers and fights for justice.",
+                "example_hebrew": "סופרמן הוא גיבור בדיוני פופולרי בעל כוחות יוצאי דופן ונלחם למען הצדק."
+            },
+            {
+                "definition": "Real-life individuals recognized for their brave or noble actions",
+                "definition_hebrew": "אנשים מהחיים האמיתיים המוכרים במעשיהם האמיצים או האצילים",
+                "example": "Nelson Mandela, the former president of South Africa, is considered a hero due to his fight against apartheid and advocacy for equality.",
+                "example_hebrew": "נלסון מנדלה, נשיא דרום אפריקה לשעבר, נחשב לגיבור בשל מאבקו באפרטהייד והסברה לשוויון."
+            },
+            {
+                "definition": "Heroes in sports who achieve remarkable feats",
+                "definition_hebrew": "גיבורים בספורט שמגיעים להישגים יוצאי דופן",
+                "example": "Usain Bolt, known as the fastest man alive, has been hailed as a sports hero for his record-breaking performances in track and field events.",
+                "example_hebrew": "יוסיין בולט, הידוע כאיש המהיר ביותר בחיים, הוכתר כגיבור ספורט על ביצועיו שוברי השיאים באירועי מסלול ושטח."
+            },
+            {
+                "definition": "People who risk their lives to save others or protect society",
+                "definition_hebrew": "אנשים שמסכנים את חייהם כדי להציל אחרים או להגן על החברה",
+                "example": "Firefighters are often seen as heroes because they put themselves in danger to rescue people from burning buildings.",
+                "example_hebrew": "כבאים נתפסים לעתים קרובות כגיבורים מכיוון שהם מעמידים את עצמם בסכנה כדי לחלץ אנשים מבניינים בוערים."
+            },
+            {
+                "definition": "Heroes of social movements fighting for change and justice",
+                "definition_hebrew": "גיבורי תנועות חברתיות הנלחמות למען שינוי וצדק",
+                "example": "Martin Luther King Jr. is considered a hero due to his leadership in the civil rights movement, advocating for racial equality and nonviolent protests.",
+                "example_hebrew": "מרטין לותר קינג ג'וניור נחשב לגיבור בשל מנהיגותו בתנועת זכויות האזרח, הדוגל בשוויון גזעי והפגנות לא אלימות."
+            }
+        ]
+    }
+]

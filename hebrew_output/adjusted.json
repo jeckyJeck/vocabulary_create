@@ -1,0 +1,34 @@
+[
+    {
+        "word": "adjusted",
+        "word_hebrew": "מוּתאָם",
+        "main_definition": "Changed or altered to improve performance, accuracy, or fit.",
+        "main_definition_hebrew": "שונה או שונה כדי לשפר את הביצועים, הדיוק או ההתאמה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Reflecting a change in value after accounting for some factor.",
+                "definition_hebrew": "משקף שינוי בערך לאחר התחשבות בגורם כלשהו.",
+                "example": "The adjusted gross income of the company is higher due to recent tax deductions.",
+                "example_hebrew": "ההכנסה הברוטו המתואמת של החברה גבוהה יותר עקב ניכויי מס לאחרונה."
+            },
+            {
+                "definition": "Adapting or modifying something to fit better within its surroundings or environment.",
+                "definition_hebrew": "התאמה או שינוי של משהו כדי להשתלב טוב יותר בסביבתו או בסביבתו.",
+                "example": "She adjusted her glasses frequently as she tried on different hats for the event.",
+                "example_hebrew": "היא התאימה את המשקפיים שלה לעתים קרובות כשניסתה כובעים שונים לאירוע."
+            },
+            {
+                "definition": "Modified in response to feedback or new information, especially in terms of personal behavior or attitudes.",
+                "definition_hebrew": "שונה בתגובה למשוב או מידע חדש, במיוחד במונחים של התנהגות או עמדות אישיות.",
+                "example": "After receiving constructive criticism, he adjusted his work style to be more collaborative.",
+                "example_hebrew": "לאחר שספג ביקורת בונה, הוא התאים את סגנון עבודתו כך שיהיה יותר שיתופי."
+            },
+            {
+                "definition": "Adapting a measurement or statistic for comparison or standardization purposes.",
+                "definition_hebrew": "התאמת מדידה או סטטיסטיקה למטרות השוואה או סטנדרטיזציה.",
+                "example": "The inflation-adjusted GDP shows the economy's growth after accounting for changes in price levels.",
+                "example_hebrew": "התוצר המותאם לאינפלציה מציג את צמיחת המשק לאחר התחשבות בשינויים ברמות המחירים."
+            }
+        ]
+    }
+]

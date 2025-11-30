@@ -1,0 +1,40 @@
+[
+    {
+        "word": "entity",
+        "word_hebrew": "יֵשׁוּת",
+        "main_definition": "Entity refers to something that exists as a distinct and separate unit, such as an individual person, organization, or thing.",
+        "main_definition_hebrew": "ישות מתייחסת למשהו שקיים כיחידה מובחנת ונפרדת, כגון אדם בודד, ארגון או דבר.",
+        "meanings_and_examples": [
+            {
+                "definition": "An independent being, capable of acting or exerting power",
+                "definition_hebrew": "ישות עצמאית, המסוגלת לפעול או להפעיל כוח",
+                "example": "Humans are considered legal entities with rights and responsibilities.",
+                "example_hebrew": "בני אדם נחשבים לישויות משפטיות עם זכויות וחובות."
+            },
+            {
+                "definition": "A thing that has objective reality and can be distinctly identified",
+                "definition_hebrew": "דבר שיש לו מציאות אובייקטיבית וניתן לזהותו באופן מובהק",
+                "example": "The entity known as the Earth revolves around the Sun.",
+                "example_hebrew": "הישות המכונה כדור הארץ סובבת סביב השמש."
+            },
+            {
+                "definition": "An organization, particularly in business or legal contexts",
+                "definition_hebrew": "ארגון, במיוחד בהקשרים עסקיים או משפטיים",
+                "example": "Microsoft is a well-known technology company that operates globally.",
+                "example_hebrew": "מיקרוסופט היא חברת טכנולוגיה ידועה הפועלת ברחבי העולם."
+            },
+            {
+                "definition": "A mathematical abstraction representing a quantity with its own identity and properties",
+                "definition_hebrew": "הפשטה מתמטית המייצגת כמות בעלת זהות ותכונות משלה",
+                "example": "In physics, an entity like force can be measured in newtons.",
+                "example_hebrew": "בפיזיקה, ניתן למדוד ישות כמו כוח בניוטון."
+            },
+            {
+                "definition": "Anything that exists or happens; something real or substantial",
+                "definition_hebrew": "כל דבר שקיים או קורה; משהו אמיתי או מהותי",
+                "example": "The universe is composed of countless entities ranging from planets to subatomic particles.",
+                "example_hebrew": "היקום מורכב מאינספור ישויות החל מכוכבי לכת ועד לחלקיקים תת-אטומיים."
+            }
+        ]
+    }
+]

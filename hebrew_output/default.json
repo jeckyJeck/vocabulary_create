@@ -1,0 +1,46 @@
+[
+    {
+        "word": "default",
+        "word_hebrew": "בְּרִירַת מֶחדָל",
+        "main_definition": "Default refers to a pre-set option or standard choice that is applied automatically unless otherwise specified.",
+        "main_definition_hebrew": "ברירת מחדל מתייחסת לאפשרות מוגדרת מראש או לבחירה סטנדרטית המוחלת באופן אוטומטי אלא אם צוין אחרת.",
+        "meanings_and_examples": [
+            {
+                "definition": "A predetermined, automatic setting in software applications or systems when no alternative value has been specified by the user.",
+                "definition_hebrew": "הגדרה קבועה מראש, אוטומטית ביישומי תוכנה או מערכות כאשר לא צוין ערך חלופי על ידי המשתמש.",
+                "example": "If you forget to choose a file format for an email attachment, it will be saved as a default PDF.",
+                "example_hebrew": "אם תשכח לבחור פורמט קובץ לקובץ מצורף לדוא\"ל, הוא יישמר כ-PDF כברירת מחדל."
+            },
+            {
+                "definition": "The terms and conditions set forth by a company in a contract that are binding unless explicitly changed or waived by the parties involved.",
+                "definition_hebrew": "התנאים וההגבלות שנקבעו על ידי חברה בחוזה המחייבים אלא אם כן השתנו או ויתרו במפורש על ידי הצדדים המעורבים.",
+                "example": "If you don't respond to our payment request within 30 days, your account will be charged with the default interest rate.",
+                "example_hebrew": "אם לא תגיב לבקשת התשלום שלנו בתוך 30 יום, חשבונך יחויב בריבית ברירת המחדל."
+            },
+            {
+                "definition": "The amount of money set as a requirement that is payable in case one fails to meet their obligations or fulfill commitments.",
+                "definition_hebrew": "סכום הכסף שהוגדר כדרישה שיש לשלם במקרה של אי עמידה בהתחייבויות או מילוי התחייבויות.",
+                "example": "If you don't make timely mortgage payments, your lender may apply the default interest rate.",
+                "example_hebrew": "אם אינך משלם תשלומי משכנתא בזמן, המלווה שלך עשוי להחיל את ריבית ברירת המחדל."
+            },
+            {
+                "definition": "The choice of a standard value for an attribute that is used if no other value has been provided by the user.",
+                "definition_hebrew": "הבחירה של ערך סטנדרטי עבור תכונה המשמשת אם לא סופק ערך אחר על ידי המשתמש.",
+                "example": "A new computer will have its operating system set to the default Windows 10 unless you choose another option during setup.",
+                "example_hebrew": "מערכת ההפעלה של מחשב חדש תהיה מוגדרת לברירת המחדל של Windows 10 אלא אם תבחר באפשרות אחרת במהלך ההגדרה."
+            },
+            {
+                "definition": "The failure of a party in financial terms, typically referring to an inability or unwillingness to fulfill monetary obligations.",
+                "definition_hebrew": "כישלון של צד במונחים פיננסיים, מתייחס בדרך כלל לחוסר יכולת או חוסר רצון לעמוד בהתחייבויות כספיות.",
+                "example": "If I don't pay my credit card bill on time, it will result in default charges.",
+                "example_hebrew": "אם לא אשלם את חשבון כרטיס האשראי שלי בזמן, זה יגרום לחיובי ברירת מחדל."
+            },
+            {
+                "definition": "The state of something being the most basic or fundamental level.",
+                "definition_hebrew": "המצב של משהו הוא הרמה הבסיסית או הבסיסית ביותר.",
+                "example": "In music production, the default track is often the backing track that remains even if other layers are removed.",
+                "example_hebrew": "בהפקה מוזיקלית, רצועת ברירת המחדל היא לרוב רצועת הגיבוי שנשארת גם אם יוסרו שכבות אחרות."
+            }
+        ]
+    }
+]

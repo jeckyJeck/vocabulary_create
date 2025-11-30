@@ -1,0 +1,28 @@
+[
+    {
+        "word": "each",
+        "word_hebrew": "כל אחד",
+        "main_definition": "referring to every individual member of a set or group, or indicating that something applies individually to all members.",
+        "main_definition_hebrew": "מתייחס לכל חבר בודד של קבוצה או קבוצה, או מציין שמשהו חל בנפרד על כל החברים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Indicating that something is applied individually to all members of a group.",
+                "definition_hebrew": "מציין שמשהו מוחל בנפרד על כל חברי הקבוצה.",
+                "example": "Each student must submit their own assignment.",
+                "example_hebrew": "על כל תלמיד להגיש מטלה משלו."
+            },
+            {
+                "definition": "Refers to every individual member within a collective or set.",
+                "definition_hebrew": "מתייחס לכל חבר בודד בתוך קולקטיב או קבוצה.",
+                "example": "We checked each item on the grocery list before leaving the store.",
+                "example_hebrew": "בדקנו כל פריט ברשימת המכולת לפני שיצאנו מהחנות."
+            },
+            {
+                "definition": "Used in expressions like 'each other' and 'one another', indicating reciprocal action between two or more entities.",
+                "definition_hebrew": "משמש בביטויים כמו 'זה את זה' ו'זה את זה', המצביעים על פעולה הדדית בין שתי ישויות או יותר.",
+                "example": "The neighbors helped each other during the storm recovery process.",
+                "example_hebrew": "השכנים עזרו זה לזה במהלך תהליך ההתאוששות מהסערה."
+            }
+        ]
+    }
+]

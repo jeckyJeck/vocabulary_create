@@ -1,0 +1,40 @@
+[
+    {
+        "word": "sets",
+        "word_hebrew": "סטים",
+        "main_definition": "In English, the word 'sets' can have multiple meanings depending on the context in which it is used. It primarily refers to a group of similar items or objects arranged together, but also has idiomatic uses.",
+        "main_definition_hebrew": "באנגלית, למילה 'סט' יכולות להיות מספר משמעויות בהתאם להקשר שבו היא משמשת. זה מתייחס בעיקר לקבוצה של פריטים או חפצים דומים המסודרים יחד, אך יש לו גם שימושים אידיומטיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A collection or arrangement of related things",
+                "definition_hebrew": "אוסף או סידור של דברים קשורים",
+                "example": "She collected different sets of vintage stamps.",
+                "example_hebrew": "היא אספה סטים שונים של בולי וינטג'."
+            },
+            {
+                "definition": "The act of putting items together in a group for a specific purpose, like exercising with weights",
+                "definition_hebrew": "הפעולה של הרכבת פריטים בקבוצה למטרה מסוימת, כמו התעמלות עם משקולות",
+                "example": "He goes to the gym every day and does a set of bench presses before moving on to other exercises.",
+                "example_hebrew": "הוא הולך לחדר כושר כל יום ועושה סט של לחיצות ספסל לפני שהוא עובר לתרגילים אחרים."
+            },
+            {
+                "definition": "In card games, a complete cycle or sequence of cards dealt in one hand",
+                "definition_hebrew": "במשחקי קלפים, מחזור שלם או רצף קלפים המחולקים ביד אחת",
+                "example": "She won with a royal flush, which consists of five cards of the same suit in descending order (ace through 10).",
+                "example_hebrew": "היא ניצחה עם שטיפה מלכותית, המורכבת מחמישה קלפים מאותה סדרה בסדר יורד (אס עד 10)."
+            },
+            {
+                "definition": "A group of items designed to work together and produce a desired result or outcome",
+                "definition_hebrew": "קבוצת פריטים המיועדים לעבוד יחד ולהפיק תוצאה או תוצאה רצויה",
+                "example": "He assembled various sets for his home gym, including dumbbells, kettlebells, and resistance bands.",
+                "example_hebrew": "הוא הרכיב סטים שונים עבור חדר הכושר הביתי שלו, כולל משקולות, קטלבלס ורצועות התנגדות."
+            },
+            {
+                "definition": "In sports, a pre-determined number of repetitions to be performed as part of an exercise routine",
+                "definition_hebrew": "בספורט, מספר קבוע מראש של חזרות לביצוע כחלק משגרת פעילות גופנית",
+                "example": "She completed three sets of 12 squats each during her workout session.",
+                "example_hebrew": "היא השלימה שלושה סטים של 12 סקוואטים כל אחד במהלך האימון שלה."
+            }
+        ]
+    }
+]

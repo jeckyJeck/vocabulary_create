@@ -1,0 +1,40 @@
+[
+    {
+        "word": "transform",
+        "word_hebrew": "שינוי צורה",
+        "main_definition": "To change or alter something significantly, often in a way that makes it look different or function differently.",
+        "main_definition_hebrew": "לשנות או לשנות משהו באופן משמעותי, לעתים קרובות באופן שגורם לו להיראות שונה או לתפקד אחרת.",
+        "meanings_and_examples": [
+            {
+                "definition": "To convert or change the shape, form, or nature of something completely.",
+                "definition_hebrew": "להמיר או לשנות את הצורה, הצורה או הטבע של משהו לחלוטין.",
+                "example": "The caterpillar will transform into a butterfly through metamorphosis.",
+                "example_hebrew": "הזחל יהפוך לפרפר באמצעות מטמורפוזה."
+            },
+            {
+                "definition": "To cause to undergo a marked and profound change in character or appearance.",
+                "definition_hebrew": "לגרום לעבור שינוי ניכר ועמוק באופי או במראה.",
+                "example": "After years of hard work, he transformed from a shy teenager into a confident adult.",
+                "example_hebrew": "אחרי שנים של עבודה קשה, הוא הפך מנער ביישן למבוגר בטוח בעצמו."
+            },
+            {
+                "definition": "To turn something into another form or state.",
+                "definition_hebrew": "להפוך משהו לצורה או מדינה אחרת.",
+                "example": "The old factory was transformed into luxury apartments.",
+                "example_hebrew": "המפעל הישן הפך לדירות יוקרה."
+            },
+            {
+                "definition": "To change the function, purpose, or nature of something.",
+                "definition_hebrew": "לשנות את הפונקציה, המטרה או הטבע של משהו.",
+                "example": "Through technological advancements, coal-fired power plants can be transformed to generate clean energy.",
+                "example_hebrew": "באמצעות התקדמות טכנולוגית, ניתן להפוך תחנות כוח פחמיות להפקת אנרגיה נקייה."
+            },
+            {
+                "definition": "In computing and programming, to convert data from one format into another.",
+                "definition_hebrew": "במחשוב ובתכנות, להמיר נתונים מפורמט אחד לאחר.",
+                "example": "The software will transform the raw text file into a readable document.",
+                "example_hebrew": "התוכנה תהפוך את קובץ הטקסט הגולמי למסמך קריא."
+            }
+        ]
+    }
+]

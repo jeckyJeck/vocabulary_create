@@ -1,0 +1,34 @@
+[
+    {
+        "word": "retailers",
+        "word_hebrew": "קמעונאים",
+        "main_definition": "Retailers are businesses or individuals that sell goods directly to consumers, usually in small quantities.",
+        "main_definition_hebrew": "קמעונאים הם עסקים או אנשים פרטיים שמוכרים מוצרים ישירות לצרכנים, בדרך כלל בכמויות קטנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Businesses selling products directly to end customers",
+                "definition_hebrew": "עסקים המוכרים מוצרים ישירות ללקוחות קצה",
+                "example": "A local clothing store is a retailer.",
+                "example_hebrew": "חנות בגדים מקומית היא קמעונאית."
+            },
+            {
+                "definition": "An individual or small business that sells goods to the public without going through wholesalers or distributors",
+                "definition_hebrew": "עסק פרטי או קטן שמוכר סחורה לציבור מבלי לעבור דרך סיטונאים או מפיצים",
+                "example": "The independent bookshop owner acts as a retailer by selling books directly to customers.",
+                "example_hebrew": "בעל חנות הספרים העצמאי פועל כקמעונאי על ידי מכירת ספרים ישירות ללקוחות."
+            },
+            {
+                "definition": "A point of sale in which physical products are sold",
+                "definition_hebrew": "נקודת מכירה בה נמכרים מוצרים פיזיים",
+                "example": "An online marketplace, such as Amazon or eBay, can be considered a platform for various retailers.",
+                "example_hebrew": "שוק מקוון, כמו אמזון או איביי, יכול להיחשב כפלטפורמה עבור קמעונאים שונים."
+            },
+            {
+                "definition": "The final link in the distribution chain before reaching consumers",
+                "definition_hebrew": "החוליה האחרונה בשרשרת ההפצה לפני הגעה לצרכנים",
+                "example": "Electronics stores and department stores are examples of places where products made by manufacturers or wholesalers reach consumers through retailers.",
+                "example_hebrew": "חנויות אלקטרוניקה וחנויות כלבו הן דוגמאות למקומות שבהם מוצרים מתוצרת יצרנים או סיטונאים מגיעים לצרכנים דרך קמעונאים."
+            }
+        ]
+    }
+]

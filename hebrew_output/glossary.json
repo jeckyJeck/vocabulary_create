@@ -1,0 +1,28 @@
+[
+    {
+        "word": "glossary",
+        "word_hebrew": "מילון מונחים",
+        "main_definition": "A list of terms in a particular field of knowledge with definitions for those terms.",
+        "main_definition_hebrew": "רשימה של מונחים בתחום ידע מסוים עם הגדרות לאותם מונחים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A collection of specialized words and phrases used within a specific industry, subject area, or region",
+                "definition_hebrew": "אוסף של מילים וביטויים מיוחדים המשמשים בתעשייה, תחום נושא או אזור ספציפיים",
+                "example": "The glossary at the end of my science textbook includes definitions for terms like photosynthesis and mitochondria.",
+                "example_hebrew": "מילון המונחים בסוף ספר הלימוד המדעי שלי כולל הגדרות למונחים כמו פוטוסינתזה ומיטוכונדריה."
+            },
+            {
+                "definition": "A section in a book that explains specialized vocabulary used within it",
+                "definition_hebrew": "קטע בספר המסביר אוצר מילים מיוחד המשמש בו",
+                "example": "In this novel, I found it helpful to refer to the glossary at the back for explanations of words like 'quixotic' and 'defenestration.'",
+                "example_hebrew": "ברומן זה, מצאתי שזה מועיל להתייחס למילון המונחים בחלק האחורי להסברים של מילים כמו 'קיזוטית' ו'הגנתה'."
+            },
+            {
+                "definition": "A list or dictionary of technical terms used in a particular field",
+                "definition_hebrew": "רשימה או מילון של מונחים טכניים המשמשים בתחום מסוים",
+                "example": "The software development handbook includes a comprehensive glossary with definitions for programming concepts like classes, inheritance, and polymorphism.",
+                "example_hebrew": "מדריך פיתוח התוכנה כולל מילון מונחים מקיף עם הגדרות למושגי תכנות כמו מחלקות, ירושה ופולימורפיזם."
+            }
+        ]
+    }
+]

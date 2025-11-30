@@ -1,0 +1,40 @@
+[
+    {
+        "word": "condition",
+        "word_hebrew": "מַצָב",
+        "main_definition": "The state or quality of something; a situation or circumstance.",
+        "main_definition_hebrew": "המצב או האיכות של משהו; מצב או נסיבות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A physical, mental, or emotional state",
+                "definition_hebrew": "מצב פיזי, נפשי או רגשי",
+                "example": "Her condition was stable after the surgery.",
+                "example_hebrew": "מצבה היה יציב לאחר הניתוח."
+            },
+            {
+                "definition": "The terms of an agreement",
+                "definition_hebrew": "תנאי ההסכם",
+                "example": "They signed a contract with the stipulation that all parties must adhere to its conditions.",
+                "example_hebrew": "הם חתמו על חוזה עם התניה כי על כל הצדדים לעמוד בתנאיו."
+            },
+            {
+                "definition": "A requirement or standard for something to be accepted, validated, or considered suitable",
+                "definition_hebrew": "דרישה או תקן כדי שמשהו יתקבל, יאושר או ייחשב מתאים",
+                "example": "The car's condition had to pass inspection before it could be registered.",
+                "example_hebrew": "מצב המכונית נאלץ לעבור בדיקה לפני שניתן היה לרשום אותה."
+            },
+            {
+                "definition": "An individual's ability to carry out daily tasks and activities; their health status",
+                "definition_hebrew": "יכולתו של אדם לבצע משימות ופעילויות יומיומיות; המצב הבריאותי שלהם",
+                "example": "His poor condition made it difficult for him to perform his job duties.",
+                "example_hebrew": "מצבו הירוד הקשה עליו בביצוע תפקידיו."
+            },
+            {
+                "definition": "The state of something relative to other things at the same time or in general, often used when discussing weather or properties",
+                "definition_hebrew": "המצב של משהו ביחס לדברים אחרים בו-זמנית או באופן כללי, משמש לעתים קרובות כאשר דנים במזג אוויר או במאפיינים",
+                "example": "The car's exterior condition was good despite its age.",
+                "example_hebrew": "מצבה החיצוני של המכונית היה טוב למרות גילה."
+            }
+        ]
+    }
+]

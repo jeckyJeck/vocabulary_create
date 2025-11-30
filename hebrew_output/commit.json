@@ -1,0 +1,40 @@
+[
+    {
+        "word": "commit",
+        "word_hebrew": "לְבַצֵעַ",
+        "main_definition": "To carry out or perform an action, especially one involving moral wrongdoing or error.",
+        "main_definition_hebrew": "לבצע או לבצע פעולה, במיוחד כזו הכרוכה בעוולה או טעות מוסרית.",
+        "meanings_and_examples": [
+            {
+                "definition": "To pledge oneself to a certain course of action or behavior, often with negative connotations such as committing a crime or sin.",
+                "definition_hebrew": "להתחייב לדרך פעולה או התנהגות מסוימת, לעתים קרובות עם קונוטציות שליליות כמו ביצוע פשע או חטא.",
+                "example": "He committed theft by stealing from his neighbor.",
+                "example_hebrew": "הוא ביצע גניבה על ידי גניבה משכנו."
+            },
+            {
+                "definition": "To firmly decide on an option or choice and stick to it.",
+                "definition_hebrew": "להחליט בתקיפות על אפשרות או בחירה ולהיצמד אליה.",
+                "example": "She committed herself to finish her education, no matter what obstacles she faced.",
+                "example_hebrew": "היא התחייבה לסיים את לימודיה, לא משנה באילו מכשולים היא התמודדה."
+            },
+            {
+                "definition": "In sports, to score a goal by using one's hands in soccer (football) or footwork in basketball.",
+                "definition_hebrew": "בספורט, להבקיע שער על ידי שימוש בידיים בכדורגל (כדורגל) או בעבודת רגליים בכדורסל.",
+                "example": "The striker committed the offense and received a red card during the match.",
+                "example_hebrew": "החלוץ ביצע את העבירה וספג כרטיס אדום במהלך המשחק."
+            },
+            {
+                "definition": "To make a formal agreement with another party, often involving legal implications.",
+                "definition_hebrew": "לערוך הסכם רשמי עם צד אחר, לעתים קרובות כרוך בהשלכות משפטיות.",
+                "example": "They signed a commitment to build an eco-friendly housing complex.",
+                "example_hebrew": "הם חתמו על התחייבות לבנות מתחם דיור ידידותי לסביבה."
+            },
+            {
+                "definition": "In programming and computing, to permanently store data or instructions in non-volatile memory.",
+                "definition_hebrew": "בתכנות ובמחשוב, לאחסן לצמיתות נתונים או הוראות בזיכרון לא נדיף.",
+                "example": "The software developer committed the changes to the repository for version control.",
+                "example_hebrew": "מפתח התוכנה ביצע את השינויים במאגר לצורך בקרת גרסאות."
+            }
+        ]
+    }
+]

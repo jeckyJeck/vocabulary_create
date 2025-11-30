@@ -1,0 +1,34 @@
+[
+    {
+        "word": "deployment",
+        "word_hebrew": "פְּרִיסָה",
+        "main_definition": "The process of positioning, distributing or sending out resources (like troops, equipment, software) to a specific location for use.",
+        "main_definition_hebrew": "תהליך המיקום, הפצה או שליחת משאבים (כמו חיילים, ציוד, תוכנה) למיקום ספציפי לשימוש.",
+        "meanings_and_examples": [
+            {
+                "definition": "In military context, the act of moving armed forces into an operational area",
+                "definition_hebrew": "בהקשר צבאי, פעולת העברת כוחות מזוינים לאזור מבצעי",
+                "example": "The army's deployment involved positioning tanks and infantry at strategic points along the border.",
+                "example_hebrew": "היערכות הצבא כללה מיקום טנקים וחי\"ר בנקודות אסטרטגיות לאורך הגבול."
+            },
+            {
+                "definition": "In technology, the process of setting up software or applications to operate in a live environment",
+                "definition_hebrew": "בטכנולוגיה, תהליך הקמת תוכנות או אפליקציות לפעול בסביבה חיה",
+                "example": "After successful testing, the new CRM system was deployed across all company's sales departments.",
+                "example_hebrew": "לאחר בדיקה מוצלחת, מערכת ה-CRM החדשה נפרסה בכל מחלקות המכירות של החברה."
+            },
+            {
+                "definition": "The act of placing assets for their intended purpose in business and logistics",
+                "definition_hebrew": "פעולת הצבת נכסים לייעודם בעסקים ובלוגיסטיקה",
+                "example": "The deployment of additional warehouses aimed to improve distribution efficiency in our supply chain.",
+                "example_hebrew": "פריסת מחסנים נוספים נועדה לשפר את יעילות ההפצה בשרשרת האספקה שלנו."
+            },
+            {
+                "definition": "In marketing, the launch or release of a product to the public",
+                "definition_hebrew": "בשיווק, השקה או שחרור של מוצר לציבור",
+                "example": "The company planned an extensive campaign for the deployment of its newest smartphone model.",
+                "example_hebrew": "החברה תכננה קמפיין נרחב לפריסת דגם הסמארטפון החדש ביותר שלה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "sas",
+        "word_hebrew": "sas",
+        "main_definition": "SAS stands for Special Air Service, a special forces unit of the British Army.",
+        "main_definition_hebrew": "SAS ראשי תיבות של Special Air Service, יחידת כוחות מיוחדים של הצבא הבריטי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Special air service (military)",
+                "definition_hebrew": "שירות אווירי מיוחד (צבאי)",
+                "example": "The SAS is renowned for its expertise in counter-terrorism and hostage rescue operations.",
+                "example_hebrew": "ה-SAS ידועה במומחיותה בפעולות סיכול טרור וחילוץ בני ערובה."
+            },
+            {
+                "definition": "Sensitive area restriction",
+                "definition_hebrew": "הגבלת אזור רגיש",
+                "example": "To restrict access to a sensitive area, such as an embassy or military base, due to security concerns.",
+                "example_hebrew": "להגביל את הגישה לאזור רגיש, כגון שגרירות או בסיס צבאי, בשל חששות ביטחוניים."
+            },
+            {
+                "definition": "Special assessment statute",
+                "definition_hebrew": "חוק הערכה מיוחד",
+                "example": "A legal provision that allows local governments to impose additional taxes for specific public projects. For instance, a city might implement SAS to fund the construction of a new stadium or sports complex.",
+                "example_hebrew": "הוראה חוקית המאפשרת לרשויות מקומיות להטיל מיסים נוספים עבור פרויקטים ציבוריים ספציפיים. לדוגמה, עיר עשויה ליישם את SAS כדי לממן בניית אצטדיון חדש או מתחם ספורט."
+            },
+            {
+                "definition": "Software as service (SaaS)",
+                "definition_hebrew": "תוכנה כשירות (SaaS)",
+                "example": "A cloud-based software model where customers access and use software over the internet on a subscription basis, like Microsoft Office 365.",
+                "example_hebrew": "מודל תוכנה מבוסס ענן שבו לקוחות ניגשים ומשתמשים בתוכנה דרך האינטרנט על בסיס מנוי, כמו Microsoft Office 365."
+            }
+        ]
+    }
+]

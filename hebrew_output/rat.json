@@ -1,0 +1,28 @@
+[
+    {
+        "word": "rat",
+        "word_hebrew": "עכברוש",
+        "main_definition": "A rat is a common rodent, typically associated with negative connotations such as being sneaky or untrustworthy.",
+        "main_definition_hebrew": "חולדה היא מכרסם נפוץ, הקשור בדרך כלל לקונוטציות שליליות כמו היותו ערמומי או לא מהימן.",
+        "meanings_and_examples": [
+            {
+                "definition": "An animal belonging to the genus Rattus, known for their long tails and strong teeth.",
+                "definition_hebrew": "בעל חיים השייך לסוג Rattus, הידוע בזנבותיו הארוכים והשיניים החזקות.",
+                "example": "The brown rat is a common household pest.",
+                "example_hebrew": "החולדה החומה היא מזיק ביתי נפוץ."
+            },
+            {
+                "definition": "A person who betrays trust or loyalty, often used figuratively in phrases like 'traitor' or 'rat out'.",
+                "definition_hebrew": "אדם שבוגד באמון או בנאמנות, משמש לעתים קרובות באופן פיגורטיבי בביטויים כמו 'בוגד' או 'עכברוש'.",
+                "example": "He was labeled as a rat when he leaked confidential information to the media.",
+                "example_hebrew": "הוא תויג כחולדה כשהדליף מידע סודי לתקשורת."
+            },
+            {
+                "definition": "A phrase meaning to catch someone in an act of wrongdoing, originating from prison slang where rats were used for such purposes.",
+                "definition_hebrew": "ביטוי שמשמעותו לתפוס מישהו במעשה פסול, שמקורו בסלנג של הכלא שבו עכברושים שימשו למטרות כאלה.",
+                "example": "The police are said to have 'rat' out some criminals during their investigation.",
+                "example_hebrew": "על פי הדיווחים, המשטרה \"חיללה\" כמה פושעים במהלך חקירתה."
+            }
+        ]
+    }
+]

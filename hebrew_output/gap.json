@@ -1,0 +1,40 @@
+[
+    {
+        "word": "gap",
+        "word_hebrew": "פער",
+        "main_definition": "A gap is an empty space or a separation between two things.",
+        "main_definition_hebrew": "פער הוא חלל ריק או הפרדה בין שני דברים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A hole or missing part in something (e.g., clothing, teeth).",
+                "definition_hebrew": "חור או חלק חסר במשהו (למשל, בגדים, שיניים).",
+                "example": "He had a gap in his front tooth.",
+                "example_hebrew": "היה לו רווח בשן הקדמית."
+            },
+            {
+                "definition": "An interval of time between two events.",
+                "definition_hebrew": "מרווח זמן בין שני אירועים.",
+                "example": "There was a three-month gap before she found another job.",
+                "example_hebrew": "היה פער של שלושה חודשים לפני שהיא מצאה עבודה אחרת."
+            },
+            {
+                "definition": "A shortfall or deficiency in something (e.g., skills, money).",
+                "definition_hebrew": "מחסור או מחסור במשהו (למשל, כישורים, כסף).",
+                "example": "She has a financial gap that needs to be filled with savings.",
+                "example_hebrew": "יש לה פער כלכלי שצריך להשלים בחסכונות."
+            },
+            {
+                "definition": "The difference between two things (e.g., sizes, amounts).",
+                "definition_hebrew": "ההבדל בין שני דברים (למשל, גדלים, כמויות).",
+                "example": "There is a 10-year age gap between the twins.",
+                "example_hebrew": "יש פער גילאים של 10 שנים בין התאומים."
+            },
+            {
+                "definition": "A break or pause in an activity (e.g., conversation, music).",
+                "definition_hebrew": "הפסקה או הפסקה בפעילות (למשל, שיחה, מוזיקה).",
+                "example": "The comedian took a brief gap before continuing with his jokes.",
+                "example_hebrew": "הקומיקאי לקח פער קצר לפני שהמשיך בבדיחותיו."
+            }
+        ]
+    }
+]

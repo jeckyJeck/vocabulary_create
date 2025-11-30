@@ -1,0 +1,22 @@
+[
+    {
+        "word": "digit",
+        "word_hebrew": "סִפְרָה",
+        "main_definition": "A digit is a numerical symbol from 0 to 9, or the fingers of one's hands that are used in counting.",
+        "main_definition_hebrew": "ספרה היא סמל מספרי מ-0 עד 9, או אצבעות הידיים המשמשות בספירה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Any of the symbols '0', '1', '2', '3', '4', '5', '6', '7', '8', or '9'",
+                "definition_hebrew": "כל אחד מהסמלים '0', '1', '2', '3', '4', '5', '6', '7', '8' או '9'",
+                "example": "The number 7 is a digit.",
+                "example_hebrew": "המספר 7 הוא ספרה."
+            },
+            {
+                "definition": "Each finger on one of the hands, used for counting and representing numbers in our base-10 numeral system",
+                "definition_hebrew": "כל אצבע על אחת הידיים, משמשת לספירה וייצוג של מספרים במערכת הספרות הבסיסית 10 שלנו",
+                "example": "When I count using my fingers, each hand has five digits (fingers).",
+                "example_hebrew": "כשאני סופר באמצעות האצבעות שלי, לכל יד יש חמש ספרות (אצבעות)."
+            }
+        ]
+    }
+]

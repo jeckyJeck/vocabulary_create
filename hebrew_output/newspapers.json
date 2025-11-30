@@ -1,0 +1,28 @@
+[
+    {
+        "word": "newspapers",
+        "word_hebrew": "עיתונים",
+        "main_definition": "Newspapers are printed publications containing news, articles, advertisements, and other information that is periodically issued to the public.",
+        "main_definition_hebrew": "עיתונים הם פרסומים מודפסים המכילים חדשות, מאמרים, פרסומות ומידע אחר המופק מעת לעת לציבור.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical print media for disseminating news",
+                "definition_hebrew": "מדיה מודפסת פיזית להפצת חדשות",
+                "example": "John bought a daily newspaper from the local vendor.",
+                "example_hebrew": "ג'ון קנה עיתון יומי מהספק המקומי."
+            },
+            {
+                "definition": "A source of information and updates on current events",
+                "definition_hebrew": "מקור מידע ועדכונים על אירועים אקטואליים",
+                "example": "She reads several newspapers every morning to stay informed about world affairs.",
+                "example_hebrew": "היא קוראת כמה עיתונים מדי בוקר כדי להתעדכן בענייני העולם."
+            },
+            {
+                "definition": "Metaphorical, referring to a situation or aspect that is outdated or no longer in vogue",
+                "definition_hebrew": "מטפורי, מתייחס למצב או היבט מיושן או שכבר לא באופנה",
+                "example": "The company's old policies can be considered as yesterday's newspapers.",
+                "example_hebrew": "ניתן לראות בפוליסות הישנות של החברה כעיתונים של אתמול."
+            }
+        ]
+    }
+]

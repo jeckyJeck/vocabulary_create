@@ -1,0 +1,28 @@
+[
+    {
+        "word": "keywords",
+        "word_hebrew": "מילות מפתח",
+        "main_definition": "Keywords are significant or important words used in various contexts such as search engine optimization (SEO), programming, and general communication to convey specific meanings or purposes.",
+        "main_definition_hebrew": "מילות מפתח הן מילים משמעותיות או חשובות המשמשות בהקשרים שונים כמו אופטימיזציה למנועי חיפוש (SEO), תכנות ותקשורת כללית כדי להעביר משמעויות או מטרות ספציפיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In Search Engine Optimization",
+                "definition_hebrew": "באופטימיזציה למנועי חיפוש",
+                "example": "When creating a webpage, using relevant keywords like 'best coffee shops' can help the page rank higher in search engine results.",
+                "example_hebrew": "בעת יצירת דף אינטרנט, שימוש במילות מפתח רלוונטיות כמו 'בתי הקפה הטובים ביותר' יכול לעזור לדף לדרג גבוה יותר בתוצאות מנוע החיפוש."
+            },
+            {
+                "definition": "In Programming",
+                "definition_hebrew": "בתכנות",
+                "example": "A programmer might use keywords such as 'def', 'if', and 'else' to write a conditional statement in Python.",
+                "example_hebrew": "מתכנת עשוי להשתמש במילות מפתח כגון 'def', 'if' ו-'else' כדי לכתוב משפט מותנה ב-Python."
+            },
+            {
+                "definition": "General Communication",
+                "definition_hebrew": "תקשורת כללית",
+                "example": "When writing an essay, using appropriate keywords like 'climate change' or 'global warming' can help convey the main idea more effectively.",
+                "example_hebrew": "בעת כתיבת חיבור, שימוש במילות מפתח מתאימות כמו 'שינוי אקלים' או 'התחממות כדור הארץ' יכול לעזור בהעברת הרעיון המרכזי בצורה יעילה יותר."
+            }
+        ]
+    }
+]

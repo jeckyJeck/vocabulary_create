@@ -1,0 +1,34 @@
+[
+    {
+        "word": "verse",
+        "word_hebrew": "פָּסוּק",
+        "main_definition": "A part of a larger piece of writing, typically a poem or song, that is separated from other parts by line breaks.",
+        "main_definition_hebrew": "חלק מיצירה גדולה יותר, בדרך כלל שיר או שיר, המופרדים מחלקים אחרים על ידי מעברי שורות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A single metrical line in poetry; the smallest division of a poem",
+                "definition_hebrew": "שורה מטרית אחת בשירה; החלוקה הקטנה ביותר של שיר",
+                "example": "The first verse of Robert Frost's 'Stopping by Woods on a Snowy Evening' is: 'Whose woods these are I think I know.'",
+                "example_hebrew": "הפסוק הראשון של 'Stopping by Woods on a Snowy Evening' של רוברט פרוסט הוא: 'של מי היערות האלה אני חושב שאני מכיר'."
+            },
+            {
+                "definition": "A set or series of poems that address the same theme or idea",
+                "definition_hebrew": "סט או סדרה של שירים העוסקים באותו נושא או רעיון",
+                "example": "William Wordsworth wrote an 18-verse epic poem called 'The Prelude'.",
+                "example_hebrew": "ויליאם וורדסוורת' כתב שיר אפי בן 18 פסוקים בשם 'הקדמה'."
+            },
+            {
+                "definition": "An extended passage in a song, typically used to convey a specific message or emotion",
+                "definition_hebrew": "קטע מורחב בשיר, המשמש בדרך כלל להעברת מסר או רגש ספציפיים",
+                "example": "In Bob Dylan's song 'Blowin' in the Wind', there are several verses that discuss peace and freedom.",
+                "example_hebrew": "בשיר 'Blowin' in the Wind' של בוב דילן, יש כמה פסוקים הדנים בשלום ובחופש."
+            },
+            {
+                "definition": "A portion of scripture from the Bible, typically consisting of multiple lines of text",
+                "definition_hebrew": "חלק מכתבי הקודש מהתנ\"ך, המורכב בדרך כלל ממספר שורות טקסט",
+                "example": "John 3:16 is a well-known verse from the New Testament in the Christian Bible.",
+                "example_hebrew": "יוחנן 3:16 הוא פסוק ידוע מהברית החדשה בתנ\"ך הנוצרי."
+            }
+        ]
+    }
+]

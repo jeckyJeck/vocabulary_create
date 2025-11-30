@@ -1,0 +1,40 @@
+[
+    {
+        "word": "dealer",
+        "word_hebrew": "סוֹחֵר",
+        "main_definition": "A person or entity involved in the buying, selling, or distribution of goods, particularly illegal ones.",
+        "main_definition_hebrew": "אדם או ישות המעורבים בקנייה, מכירה או הפצה של סחורות, במיוחד לא חוקיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Someone who deals with drugs",
+                "definition_hebrew": "מישהו שמתעסק בסמים",
+                "example": "The dealer was arrested for trafficking narcotics.",
+                "example_hebrew": "הסוחר נעצר בגין סחר בסמים."
+            },
+            {
+                "definition": "A person involved in illegal gambling",
+                "definition_hebrew": "אדם המעורב בהימורים בלתי חוקיים",
+                "example": "He's been accused of being a card game dealer who runs an underground casino.",
+                "example_hebrew": "הוא הואשם בכך שהוא סוחר משחקי קלפים שמנהל קזינו תת קרקעי."
+            },
+            {
+                "definition": "An automotive salesperson or dealership",
+                "definition_hebrew": "איש מכירות או סוכנות רכב",
+                "example": "She bought her new car from the local Toyota dealer.",
+                "example_hebrew": "היא קנתה את המכונית החדשה שלה מסוחר טויוטה המקומי."
+            },
+            {
+                "definition": "A person who sells illegal weapons or ammunition",
+                "definition_hebrew": "אדם שמוכר נשק או תחמושת בלתי חוקיים",
+                "example": "The gun dealer was fined for violating federal firearms regulations.",
+                "example_hebrew": "סוחר הנשק נקנס על הפרת תקנות הנשק הפדרליות."
+            },
+            {
+                "definition": "Someone dealing cards in a game (as opposed to a card-game player)",
+                "definition_hebrew": "מישהו שחולק קלפים במשחק (בניגוד לשחקן קלפים)",
+                "example": "He was caught red-handed, holding the deck as he dealt cards during poker night.",
+                "example_hebrew": "הוא נתפס על חם, מחזיק את החפיסה בזמן שחילק קלפים במהלך ליל הפוקר."
+            }
+        ]
+    }
+]

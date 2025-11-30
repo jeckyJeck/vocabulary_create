@@ -1,0 +1,28 @@
+[
+    {
+        "word": "terms",
+        "word_hebrew": "תנאים",
+        "main_definition": "Terms refer to the specific language or phrases used in a particular context, such as legal agreements or idioms.",
+        "main_definition_hebrew": "מונחים מתייחסים לשפה או לביטויים הספציפיים המשמשים בהקשר מסוים, כגון הסכמים משפטיים או ניבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In contract law, terms are conditions and stipulations outlined in an agreement between parties.",
+                "definition_hebrew": "בדיני חוזים, תנאים הם תנאים והתניות המפורטים בהסכם בין הצדדים.",
+                "example": "The lease agreement specified the monthly rental term as well as other terms like security deposit.",
+                "example_hebrew": "הסכם השכירות ציין את תקופת השכירות החודשית וכן תנאים אחרים כמו פיקדון."
+            },
+            {
+                "definition": "Terms can also refer to synonyms or words with similar meanings within a language.",
+                "definition_hebrew": "מונחים יכולים להתייחס גם למילים נרדפות או למילים בעלות משמעויות דומות בתוך שפה.",
+                "example": "Different terms for 'happy' include glad, content, and joyful.",
+                "example_hebrew": "מונחים שונים ל'שמח' כוללים שמח, מרוצה ושמח."
+            },
+            {
+                "definition": "An idiomatic term is an expression that has a figurative meaning different from its literal interpretation.",
+                "definition_hebrew": "מונח אידיומטי הוא ביטוי בעל משמעות פיגורטיבית השונה מהפירוש המילולי שלו.",
+                "example": "Break the ice",
+                "example_hebrew": "לשבור את הקרח"
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "fox",
+        "word_hebrew": "שׁוּעָל",
+        "main_definition": "Fox is a small to medium-sized omnivorous mammal belonging to the Canidae family, known for its cunning nature, pointed snout, bushy tail with a white tip, and silvery fur.",
+        "main_definition_hebrew": "שועל הוא יונק אוכל-כל קטן עד בינוני השייך למשפחת ה-Canidae, הידוע באופיו הערמומי, חוטם מחודד, זנב עבות עם קצה לבן ופרווה כסופה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A sly or cunning person",
+                "definition_hebrew": "אדם ערמומי או ערמומי",
+                "example": "He's such a fox; he always finds a way to get out of trouble.",
+                "example_hebrew": "הוא כזה שועל; הוא תמיד מוצא דרך להיחלץ מצרות."
+            },
+            {
+                "definition": "A difficult situation that is hard to escape from, like a trap",
+                "definition_hebrew": "מצב קשה שקשה לברוח ממנו, כמו מלכודת",
+                "example": "They are in quite the predicament; it feels like they have fallen into a metaphorical fox's den.",
+                "example_hebrew": "הם נמצאים במצוקה למדי; זה מרגיש כאילו הם נפלו לתוך מאורה של שועלים מטפורית."
+            },
+            {
+                "definition": "An idiomatic expression referring to an untrustworthy person or entity, similar to 'wolf in sheep's clothing',",
+                "definition_hebrew": "ביטוי אידיומטי המתייחס לאדם או ישות לא מהימנים, בדומה ל'זאב בעור כבש',",
+                "example": "The company seemed reputable, but it turned out to be a fox; they had hidden their true intentions.",
+                "example_hebrew": "החברה נראתה מוכרת, אבל התברר שהיא שועל; הם הסתירו את כוונותיהם האמיתיות."
+            }
+        ]
+    }
+]

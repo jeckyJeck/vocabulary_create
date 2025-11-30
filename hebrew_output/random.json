@@ -1,0 +1,40 @@
+[
+    {
+        "word": "random",
+        "word_hebrew": "אַקרַאִי",
+        "main_definition": "unpredictable or without a definite pattern, order, or method.",
+        "main_definition_hebrew": "בלתי צפוי או ללא דפוס, סדר או שיטה מוגדרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "causing something to happen without any reason or purpose:",
+                "definition_hebrew": "לגרום למשהו לקרות ללא כל סיבה או מטרה:",
+                "example": "The lottery numbers were completely random.",
+                "example_hebrew": "המספרים בהגרלות היו אקראיים לחלוטין."
+            },
+            {
+                "definition": "unplanned or unforeseen occurrence that happens by chance, not due to a plan or design.",
+                "definition_hebrew": "התרחשות בלתי מתוכננת או בלתי צפויה המתרחשת במקרה, שלא בשל תוכנית או עיצוב.",
+                "example": "She met her future husband at a restaurant in what seemed like a totally random encounter.",
+                "example_hebrew": "היא פגשה את בעלה לעתיד במסעדה במה שנראה כמו מפגש אקראי לחלוטין."
+            },
+            {
+                "definition": "having no particular pattern or predictability; lacking order or method",
+                "definition_hebrew": "ללא דפוס או יכולת חיזוי מסוימת; חסר סדר או שיטה",
+                "example": "The results of the experiment were completely random, making it impossible to draw any conclusions from them.",
+                "example_hebrew": "תוצאות הניסוי היו אקראיות לחלוטין, מה שלא ניתן להסיק מהן מסקנות כלשהן."
+            },
+            {
+                "definition": "selected by chance rather than intentionally:",
+                "definition_hebrew": "נבחר במקרה ולא בכוונה:",
+                "example": "A player chooses a card at random from a deck.",
+                "example_hebrew": "שחקן בוחר קלף באקראי מחפיסה."
+            },
+            {
+                "definition": "lacking reason or purpose; haphazardly done or occurring without any pattern or system.",
+                "definition_hebrew": "חסר סיבה או מטרה; נעשה באופן אקראי או מתרחש ללא כל דפוס או מערכת.",
+                "example": "The artist's work is often praised for its seemingly random elements that create an unexpected beauty.",
+                "example_hebrew": "עבודתו של האמן זוכה לא פעם לשבחים על מרכיביה האקראיים לכאורה היוצרים יופי בלתי צפוי."
+            }
+        ]
+    }
+]

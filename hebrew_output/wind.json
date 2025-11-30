@@ -1,0 +1,40 @@
+[
+    {
+        "word": "wind",
+        "word_hebrew": "רוּחַ",
+        "main_definition": "Wind refers to the natural movement of air, particularly when it is strong or variable in direction.",
+        "main_definition_hebrew": "רוח מתייחסת לתנועה הטבעית של האוויר, במיוחד כאשר הוא חזק או משתנה בכיוון.",
+        "meanings_and_examples": [
+            {
+                "definition": "A general term for moving air; a breeze that can be felt and often heard",
+                "definition_hebrew": "מונח כללי לתנועת אוויר; משב רוח שניתן להרגיש ולשמוע לעתים קרובות",
+                "example": "The wind was blowing gently as I walked along the beach.",
+                "example_hebrew": "הרוח נשבה בעדינות כשהלכתי לאורך החוף."
+            },
+            {
+                "definition": "The rotation of Earth on its axis, causing day and night cycles",
+                "definition_hebrew": "סיבוב כדור הארץ על צירו, גורם למחזורי יום ולילה",
+                "example": "The daily wind cycle brings different temperatures during the day and cooler air at night.",
+                "example_hebrew": "מחזור הרוחות היומי מביא טמפרטורות שונות במהלך היום ואוויר קריר יותר בלילה."
+            },
+            {
+                "definition": "A change or variation in something; a shift from one state to another",
+                "definition_hebrew": "שינוי או וריאציה במשהו; מעבר ממדינה אחת לאחרת",
+                "example": "There has been a significant wind of change within the company, leading to new policies and procedures.",
+                "example_hebrew": "חלה רוח משמעותית של שינויים בתוך החברה, שהובילה למדיניות ונהלים חדשים."
+            },
+            {
+                "definition": "The process of winding up or unwinding an object with cords or strings",
+                "definition_hebrew": "תהליך פיתול או פיתול של חפץ באמצעות מיתרים או חוטים",
+                "example": "I had to unwind the spool carefully so as not to damage the thread inside it.",
+                "example_hebrew": "נאלצתי לפרוק את הסליל בזהירות כדי לא לפגוע בחוט שבתוכו."
+            },
+            {
+                "definition": "A person's ability to influence others; power or authority over people",
+                "definition_hebrew": "יכולתו של אדם להשפיע על אחרים; כוח או סמכות על אנשים",
+                "example": "The king wielded great wind, allowing him to make decisions that affected everyone in his kingdom.",
+                "example_hebrew": "המלך הניף רוח גדולה, ואיפשר לו לקבל החלטות שהשפיעו על כל אחד בממלכתו."
+            }
+        ]
+    }
+]

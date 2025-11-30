@@ -1,0 +1,34 @@
+[
+    {
+        "word": "shepherd",
+        "word_hebrew": "רועה",
+        "main_definition": "A person who tends to, feeds, herds, or guards sheep.",
+        "main_definition_hebrew": "אדם שמטפל, מאכיל, רועה או שומר כבשים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Someone who leads and takes care of a group of people in an organization, team or community",
+                "definition_hebrew": "מישהו שמוביל ודואג לקבוצת אנשים בארגון, צוות או קהילה",
+                "example": "As the project shepherd, Mark ensures that all members work together towards achieving their goals.",
+                "example_hebrew": "כרועה הפרויקט, מארק מבטיח שכל החברים יעבדו יחד להשגת מטרותיהם."
+            },
+            {
+                "definition": "A person responsible for controlling or managing something (not limited to physical objects)",
+                "definition_hebrew": "אדם שאחראי על שליטה או ניהול של משהו (לא מוגבל לאובייקטים פיזיים)",
+                "example": "In his role as data shepherd, John oversees the flow and security of sensitive information within the company.",
+                "example_hebrew": "בתפקידו כרועה נתונים, ג'ון מפקח על הזרימה והאבטחה של מידע רגיש בתוך החברה."
+            },
+            {
+                "definition": "One who guides others in a metaphorical sense",
+                "definition_hebrew": "כזה שמנחה אחרים במובן מטפורי",
+                "example": "The experienced mentor acted as a shepherd to guide the new interns through their first month on the job.",
+                "example_hebrew": "המנטור המנוסה שימש כרועה כדי להדריך את המתמחים החדשים בחודש הראשון שלהם בעבודה."
+            },
+            {
+                "definition": "A person or entity that provides support and guidance, often seen with a nurturing role",
+                "definition_hebrew": "אדם או ישות המספקים תמיכה והכוונה, לרוב רואים בתפקיד מטפח",
+                "example": "Our school counselor works as a shepherd for students, guiding them through academic and personal challenges.",
+                "example_hebrew": "יועצת בית הספר שלנו עובדת כרועה לתלמידים, מנחה אותם באתגרים לימודיים ואישיים."
+            }
+        ]
+    }
+]

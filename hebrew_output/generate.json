@@ -1,0 +1,40 @@
+[
+    {
+        "word": "generate",
+        "word_hebrew": "לִיצוֹר",
+        "main_definition": "To create, produce or bring into existence.",
+        "main_definition_hebrew": "ליצור, לייצר או להביא לידי קיום.",
+        "meanings_and_examples": [
+            {
+                "definition": "To create something using a particular method, process or technology.",
+                "definition_hebrew": "ליצור משהו באמצעות שיטה, תהליך או טכנולוגיה מסוימת.",
+                "example": "A power plant generates electricity by converting energy from coal.",
+                "example_hebrew": "תחנת כוח מייצרת חשמל על ידי המרת אנרגיה מפחם."
+            },
+            {
+                "definition": "To produce income or revenue through various means such as investments or sales.",
+                "definition_hebrew": "לייצר הכנסה או הכנסה באמצעים שונים כגון השקעות או מכירות.",
+                "example": "Investing in stocks can generate substantial returns over time.",
+                "example_hebrew": "השקעה במניות יכולה להניב תשואות משמעותיות לאורך זמן."
+            },
+            {
+                "definition": "To create ideas, thoughts or concepts spontaneously and without external stimuli.",
+                "definition_hebrew": "ליצור רעיונות, מחשבות או מושגים באופן ספונטני וללא גירויים חיצוניים.",
+                "example": "Sometimes when brainstorming, creative thoughts simply seem to generate on their own.",
+                "example_hebrew": "לפעמים כשעורכים סיעור מוחות, נראה שמחשבות יצירתיות פשוט נוצרות מעצמן."
+            },
+            {
+                "definition": "To produce a natural phenomenon as part of the Earth's processes.",
+                "definition_hebrew": "לייצר תופעת טבע כחלק מתהליכי כדור הארץ.",
+                "example": "Rainfall is generated through the process of condensation and precipitation in clouds.",
+                "example_hebrew": "גשמים נוצרים בתהליך של עיבוי ומשקעים בעננים."
+            },
+            {
+                "definition": "To create or give rise to something, especially an undesirable outcome.",
+                "definition_hebrew": "ליצור או להוליד משהו, במיוחד תוצאה לא רצויה.",
+                "example": "The lack of regulation can generate a host of environmental problems.",
+                "example_hebrew": "היעדר רגולציה עלול ליצור שורה של בעיות סביבתיות."
+            }
+        ]
+    }
+]

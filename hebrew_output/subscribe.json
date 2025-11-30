@@ -1,0 +1,34 @@
+[
+    {
+        "word": "subscribe",
+        "word_hebrew": "להירשם",
+        "main_definition": "To sign up or express agreement to receive regular updates, newsletters, or other communications from an organization or service.",
+        "main_definition_hebrew": "להירשם או להביע הסכמה לקבלת עדכונים שוטפים, ניוזלטרים או הודעות אחרות מארגון או שירות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To commit to regularly receiving and reading content such as articles or videos",
+                "definition_hebrew": "להתחייב לקבל ולקרוא באופן קבוע תוכן כגון מאמרים או סרטונים",
+                "example": "I decided to subscribe to the magazine's monthly newsletter.",
+                "example_hebrew": "החלטתי להירשם לניוזלטר החודשי של המגזין."
+            },
+            {
+                "definition": "To provide payment in exchange for access to a service, product, or information",
+                "definition_hebrew": "לספק תשלום בתמורה לגישה לשירות, מוצר או מידע",
+                "example": "She chose to subscribe to an online learning platform that offers courses on various subjects.",
+                "example_hebrew": "היא בחרה להירשם לפלטפורמת למידה מקוונת המציעה קורסים בנושאים שונים."
+            },
+            {
+                "definition": "To express support for or alignment with someone's ideas, beliefs, or opinions",
+                "definition_hebrew": "להביע תמיכה או התאמה לרעיונות, אמונות או דעות של מישהו",
+                "example": "By subscribing to his blog, you are showing your interest and agreement with his thoughts.",
+                "example_hebrew": "על ידי הרשמה לבלוג שלו, אתה מראה עניין והסכמה עם מחשבותיו."
+            },
+            {
+                "definition": "To add a person as a recurring contact in an address book application for easy future access",
+                "definition_hebrew": "כדי להוסיף אדם כאיש קשר חוזר ביישום פנקס כתובות לגישה קלה בעתיד",
+                "example": "I added my colleague's number to my contacts list by subscribing it from the app's interface.",
+                "example_hebrew": "הוספתי את המספר של עמית שלי לרשימת אנשי הקשר שלי על ידי הרשמה אליו מהממשק של האפליקציה."
+            }
+        ]
+    }
+]

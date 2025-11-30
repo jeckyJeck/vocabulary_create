@@ -1,0 +1,34 @@
+[
+    {
+        "word": "projectors",
+        "word_hebrew": "מקרנים",
+        "main_definition": "Projectors are devices that produce a beam of light to display images, presentations or videos onto surfaces such as walls or screens.",
+        "main_definition_hebrew": "מקרנים הם מכשירים המייצרים אלומת אור כדי להציג תמונות, מצגות או סרטונים על משטחים כגון קירות או מסכים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A type of movie screening device",
+                "definition_hebrew": "סוג של מכשיר להקרנת סרטים",
+                "example": "The theater used a projector to show movies on a large screen.",
+                "example_hebrew": "התיאטרון השתמש במקרן כדי להציג סרטים על מסך גדול."
+            },
+            {
+                "definition": "An educational tool for presentations and visual learning",
+                "definition_hebrew": "כלי חינוכי למצגות ולמידה חזותית",
+                "example": "During class, the teacher used a projector to display diagrams related to biology.",
+                "example_hebrew": "במהלך השיעור, המורה השתמש במקרן כדי להציג דיאגרמות הקשורות לביולוגיה."
+            },
+            {
+                "definition": "A device that projects holographic images in some futuristic technology applications",
+                "definition_hebrew": "מכשיר שמקרין תמונות הולוגרפיות בכמה יישומי טכנולוגיה עתידניים",
+                "example": "In sci-fi movies, characters use handheld projectors to create 3D holographic images of objects.",
+                "example_hebrew": "בסרטי מדע בדיוני, דמויות משתמשות במקרנים כף יד כדי ליצור תמונות הולוגרפיות תלת-ממדיות של אובייקטים."
+            },
+            {
+                "definition": "A tool used for remote presentations or virtual meetings",
+                "definition_hebrew": "כלי המשמש למצגות מרחוק או פגישות וירטואליות",
+                "example": "The company implemented a system where employees could give presentations from their home office using a projector and video conferencing software.",
+                "example_hebrew": "החברה הטמיעה מערכת שבה העובדים יכלו להציג מצגות מהמשרד הביתי שלהם באמצעות מקרן ותוכנת ועידת וידאו."
+            }
+        ]
+    }
+]

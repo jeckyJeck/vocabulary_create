@@ -1,0 +1,40 @@
+[
+    {
+        "word": "uncertainty",
+        "word_hebrew": "חוסר ודאות",
+        "main_definition": "The state of being not sure or lacking confidence in something, often related to future outcomes or conditions.",
+        "main_definition_hebrew": "המצב של חוסר ביטחון או חוסר אמון במשהו, לעתים קרובות קשור לתוצאות או תנאים עתידיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Lack of certainty about a situation's outcome",
+                "definition_hebrew": "חוסר ודאות לגבי התוצאה של המצב",
+                "example": "The uncertainty surrounding the election results caused widespread anxiety.",
+                "example_hebrew": "חוסר הוודאות סביב תוצאות הבחירות גרם לחרדה רחבה."
+            },
+            {
+                "definition": "Not knowing what will happen next or being unable to predict an event's result",
+                "definition_hebrew": "לא לדעת מה יקרה אחר כך או לא להיות מסוגל לחזות תוצאה של אירוע",
+                "example": "The unpredictability of stock market fluctuations can create a lot of uncertainty for investors.",
+                "example_hebrew": "חוסר הניבוי של תנודות בבורסה עלול ליצור אי ודאות רבה עבור המשקיעים."
+            },
+            {
+                "definition": "Having doubts about the truth, accuracy, or reliability of information or knowledge",
+                "definition_hebrew": "יש ספקות לגבי האמת, הדיוק או המהימנות של מידע או ידע",
+                "example": "Scientists face uncertainty when trying to predict the effects of climate change due to complex variables involved.",
+                "example_hebrew": "מדענים מתמודדים עם אי ודאות כאשר מנסים לחזות את ההשפעות של שינויי האקלים בשל משתנים מורכבים המעורבים."
+            },
+            {
+                "definition": "Feeling unsure about one's abilities or decisions",
+                "definition_hebrew": "תחושת חוסר ביטחון לגבי היכולות או ההחלטות של האדם",
+                "example": "The student felt a sense of uncertainty before taking the final exam, despite studying hard.",
+                "example_hebrew": "התלמיד חש תחושת חוסר ודאות לפני שניגשו לבחינה הסופית, למרות שלמד קשה."
+            },
+            {
+                "definition": "A psychological state where there is an inability to make firm decisions due to conflicting thoughts or emotions",
+                "definition_hebrew": "מצב פסיכולוגי שבו יש חוסר יכולת לקבל החלטות מוצקות עקב מחשבות או רגשות סותרים",
+                "example": "During her job search, Jane experienced a great deal of uncertainty as she weighed the pros and cons of various offers.",
+                "example_hebrew": "במהלך חיפוש העבודה שלה, ג'יין חוותה אי ודאות רבה כאשר שקלה את היתרונות והחסרונות של הצעות שונות."
+            }
+        ]
+    }
+]

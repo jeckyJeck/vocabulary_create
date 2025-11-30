@@ -1,0 +1,46 @@
+[
+    {
+        "word": "strings",
+        "word_hebrew": "מחרוזות",
+        "main_definition": "Strings can refer to cords used by musicians, the plural form of a string in various contexts such as music or text, or idiomatic expressions that involve manipulation or control.",
+        "main_definition_hebrew": "מיתרים יכולים להתייחס למיתרים המשמשים מוזיקאים, צורת הרבים של מיתר בהקשרים שונים כגון מוזיקה או טקסט, או ביטויים אידיומטיים הכוללים מניפולציה או שליטה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Musical strings",
+                "definition_hebrew": "מיתרים מוזיקליים",
+                "example": "The violin has four strings tuned to the notes G3, D4, A4, and E5.",
+                "example_hebrew": "לכינור יש ארבעה מיתרים המכוונים לתווים G3, D4, A4 ו-E5."
+            },
+            {
+                "definition": "Strings in text processing",
+                "definition_hebrew": "מחרוזות בעיבוד טקסט",
+                "example": "In programming, 'strings' are sequences of characters used to store and manipulate text data.",
+                "example_hebrew": "בתכנות, 'מחרוזות' הן רצפים של תווים המשמשים לאחסון ולטפל בנתוני טקסט."
+            },
+            {
+                "definition": "Idiomatic expressions involving manipulation or control",
+                "definition_hebrew": "ביטויים אידיומטיים הכוללים מניפולציה או שליטה",
+                "example": "She pulled all the strings to ensure her project got approved on time.",
+                "example_hebrew": "היא משכה בכל החוטים כדי להבטיח שהפרויקט שלה יאושר בזמן."
+            },
+            {
+                "definition": "A group of cords used as a bow for playing string instruments like violins, cellos, or guitars",
+                "definition_hebrew": "קבוצת מיתרים המשמשת כקשת לנגינה בכלי מיתר כמו כינורות, צ'לו או גיטרות",
+                "example": "The musician skillfully drew the bow across the strings to produce beautiful melodies.",
+                "example_hebrew": "המוזיקאי משך במיומנות את הקשת על פני המיתרים כדי להפיק מנגינות יפות."
+            },
+            {
+                "definition": "The individual segments that make up text in computer programming and software development",
+                "definition_hebrew": "הקטעים הבודדים המרכיבים טקסט בתכנות מחשבים ופיתוח תוכנה",
+                "example": "She debugged her code by printing each string variable's value, one after another.",
+                "example_hebrew": "היא איפתה באגים בקוד שלה על ידי הדפסת ערך של כל משתנה מחרוזת, בזה אחר זה."
+            },
+            {
+                "definition": "A figurative expression used to describe someone who orchestrates events or people with skillful influence",
+                "definition_hebrew": "ביטוי פיגורטיבי המשמש לתיאור מישהו שמתזמר אירועים או אנשים בעלי השפעה מיומנת",
+                "example": "He was known for his ability to pull all the strings in the corporate world without ever leaving his desk.",
+                "example_hebrew": "הוא היה ידוע ביכולתו למשוך בכל החוטים בעולם התאגידים מבלי לעזוב את שולחנו."
+            }
+        ]
+    }
+]

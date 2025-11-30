@@ -1,0 +1,34 @@
+[
+    {
+        "word": "messenger",
+        "word_hebrew": "שָׁלִיחַ",
+        "main_definition": "A messenger is a person or thing that carries, delivers, or transmits information, news, messages, or packages from one place to another.",
+        "main_definition_hebrew": "שליח הוא אדם או דבר הנושא, מוסר או מעביר מידע, חדשות, הודעות או חבילות ממקום אחד לאחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual who conveys messages and orders between people",
+                "definition_hebrew": "אדם המעביר מסרים ופקודות בין אנשים",
+                "example": "The medieval town crier served as the messenger of the local government.",
+                "example_hebrew": "זועק העיר מימי הביניים שימש כשליח השלטון המקומי."
+            },
+            {
+                "definition": "A courier or delivery service that transports goods from one location to another",
+                "definition_hebrew": "שליח או שירות משלוחים המעביר סחורה ממקום למקום",
+                "example": "I used a messenger app on my phone to schedule package pick-up and delivery with FedEx.",
+                "example_hebrew": "השתמשתי באפליקציית מסנג'ר בטלפון שלי כדי לתזמן איסוף ומשלוח חבילה עם FedEx."
+            },
+            {
+                "definition": "A person who delivers mail, packages, or messages as part of their job",
+                "definition_hebrew": "אדם המעביר דואר, חבילות או הודעות כחלק מתפקידו",
+                "example": "My neighbor is a postal worker, so she acts as the messenger for our letters and parcels.",
+                "example_hebrew": "השכנה שלי היא עובדת דואר, אז היא משמשת כשליחת המכתבים והחבילות שלנו."
+            },
+            {
+                "definition": "An entity that transmits information electronically (e.g., data packets in computer networks)",
+                "definition_hebrew": "ישות המעבירה מידע באופן אלקטרוני (לדוגמה, מנות נתונים ברשתות מחשבים)",
+                "example": "The software acted as a digital messenger, transferring files across different devices within my network.",
+                "example_hebrew": "התוכנה פעלה כשליח דיגיטלי, והעבירה קבצים בין מכשירים שונים ברשת שלי."
+            }
+        ]
+    }
+]

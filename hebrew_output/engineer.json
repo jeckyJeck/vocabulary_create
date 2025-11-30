@@ -1,0 +1,40 @@
+[
+    {
+        "word": "engineer",
+        "word_hebrew": "מהנדס",
+        "main_definition": "An engineer is a professional who applies scientific knowledge, mathematics, and ingenuity to develop solutions for existing problems or to create new ones in various fields such as civil engineering, mechanical engineering, electrical engineering, etc.",
+        "main_definition_hebrew": "מהנדס הוא איש מקצוע המיישם ידע מדעי, מתמטיקה וכושר המצאה לפיתוח פתרונות לבעיות קיימות או ליצירת פתרונות חדשים בתחומים שונים כגון הנדסה אזרחית, הנדסת מכונות, הנדסת חשמל וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "A person who designs, builds, or maintains engines, machines, or public works",
+                "definition_hebrew": "אדם המתכנן, בונה או מתחזק מנועים, מכונות או עבודות ציבוריות",
+                "example": "John is an automotive engineer responsible for designing and improving car engines.",
+                "example_hebrew": "ג'ון הוא מהנדס רכב האחראי על תכנון ושיפור מנועי מכוניות."
+            },
+            {
+                "definition": "A professional trained in the science of applied mathematics and mechanics who deals with the design, construction, and use of machines and structures.",
+                "definition_hebrew": "איש מקצוע בעל הכשרה במדע המתמטיקה השימושית והמכניקה העוסק בתכנון, בנייה ושימוש במכונות ומבנים.",
+                "example": "As a mechanical engineer, Sarah designs industrial machinery for manufacturing processes.",
+                "example_hebrew": "כמהנדסת מכונות, שרה מעצבת מכונות תעשייתיות לתהליכי ייצור."
+            },
+            {
+                "definition": "An individual skilled at using computers to create or modify software programs",
+                "definition_hebrew": "אדם מיומן בשימוש במחשבים כדי ליצור או לשנות תוכנות",
+                "example": "Mike is a computer engineer who develops mobile apps and websites.",
+                "example_hebrew": "מייק הוא מהנדס מחשבים שמפתח אפליקציות ואתרי אינטרנט לנייד."
+            },
+            {
+                "definition": "A person responsible for planning, designing, overseeing the construction of buildings or other structures, roads, canals, dams, bridges, etc.",
+                "definition_hebrew": "אחראי על תכנון, עיצוב, פיקוח על הקמת מבנים או מבנים אחרים, כבישים, תעלות, סכרים, גשרים וכו'.",
+                "example": "Emily works as a civil engineer, supervising the construction of a new bridge.",
+                "example_hebrew": "אמילי עובדת כמהנדסת אזרחית, מפקחת על בניית גשר חדש."
+            },
+            {
+                "definition": "A professional who uses scientific and mathematical principles to solve problems related to energy production, conversion, and distribution",
+                "definition_hebrew": "איש מקצוע המשתמש בעקרונות מדעיים ומתמטיים כדי לפתור בעיות הקשורות לייצור, המרה והפצה של אנרגיה",
+                "example": "Alex is an electrical engineer working on renewable energy solutions.",
+                "example_hebrew": "אלכס הוא מהנדס חשמל העוסק בפתרונות אנרגיה מתחדשת."
+            }
+        ]
+    }
+]

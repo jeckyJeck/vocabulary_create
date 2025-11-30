@@ -1,0 +1,40 @@
+[
+    {
+        "word": "strange",
+        "word_hebrew": "מוּזָר",
+        "main_definition": "Something that is unusual, uncommon or not familiar.",
+        "main_definition_hebrew": "משהו שהוא יוצא דופן, לא שכיח או לא מוכר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Unfamiliar and hard to understand",
+                "definition_hebrew": "לא מוכר וקשה להבנה",
+                "example": "It was strange how the machine worked without any visible wires.",
+                "example_hebrew": "זה היה מוזר איך המכונה עבדה בלי שום חוטים גלויים."
+            },
+            {
+                "definition": "Odd or peculiar in nature",
+                "definition_hebrew": "מוזר או מוזר באופיו",
+                "example": "The cat's odd behavior of meowing at night puzzled its owner.",
+                "example_hebrew": "ההתנהגות המוזרה של החתול של מיאו בלילה תמהה את בעליו."
+            },
+            {
+                "definition": "Unusual and not easily explainable",
+                "definition_hebrew": "יוצא דופן ולא קל להסבר",
+                "example": "Finding a four-leaf clover is considered strange because it rarely happens.",
+                "example_hebrew": "מציאת תלתן בעל ארבעה עלים נחשבת מוזרה מכיוון שזה קורה לעתים רחוקות."
+            },
+            {
+                "definition": "Different from what one expects or norms in society",
+                "definition_hebrew": "שונה ממה שמצפים או מהנורמות בחברה",
+                "example": "His style of dressing was strange compared to his peers' fashion sense.",
+                "example_hebrew": "סגנון הלבוש שלו היה מוזר בהשוואה לחוש האופנתי של בני גילו."
+            },
+            {
+                "definition": "Eccentric or unconventional behavior",
+                "definition_hebrew": "התנהגות אקסצנטרית או לא שגרתית",
+                "example": "She often engages in strange rituals that others find unusual.",
+                "example_hebrew": "לעתים קרובות היא עוסקת בטקסים מוזרים שאחרים מוצאים שהם יוצאי דופן."
+            }
+        ]
+    }
+]

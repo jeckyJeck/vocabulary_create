@@ -1,0 +1,28 @@
+[
+    {
+        "word": "threads",
+        "word_hebrew": "חוטים",
+        "main_definition": "Threads can refer to various concepts, including physical strands of material used in sewing or weaving, metaphorical concepts related to ideas or discussions (threads of thought), and the number of concurrent operations within a program.",
+        "main_definition_hebrew": "חוטים יכולים להתייחס למושגים שונים, כולל גדילים פיזיים של חומר המשמשים בתפירה או אריגה, מושגים מטפוריים הקשורים לרעיונות או דיונים (חוטי מחשבה), ומספר הפעולות במקביל בתוך תוכנית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical strands of material used for sewing or weaving",
+                "definition_hebrew": "גדילים פיזיים של חומר המשמשים לתפירה או אריגה",
+                "example": "She picked up the golden thread to stitch the torn fabric.",
+                "example_hebrew": "היא הרימה את חוט הזהב כדי לתפור את הבד הקרוע."
+            },
+            {
+                "definition": "Metaphorical threads representing a series of related ideas, discussions, or thoughts",
+                "definition_hebrew": "חוטים מטפוריים המייצגים סדרה של רעיונות, דיונים או מחשבות קשורים",
+                "example": "The conversation began with one thread but quickly expanded into several different topics (threads).",
+                "example_hebrew": "השיחה התחילה בשרשור אחד אך התרחבה במהירות למספר נושאים שונים (שרשורים)."
+            },
+            {
+                "definition": "In computing, the number of concurrent operations or processes within an application or system",
+                "definition_hebrew": "במחשוב, מספר הפעולות או התהליכים במקביל בתוך יישום או מערכת",
+                "example": "Optimizing the program to reduce the threads required for processing can lead to better performance.",
+                "example_hebrew": "אופטימיזציה של התוכנית כדי לצמצם את השרשורים הנדרשים לעיבוד יכולה להוביל לביצועים טובים יותר."
+            }
+        ]
+    }
+]

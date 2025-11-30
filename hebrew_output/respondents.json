@@ -1,0 +1,34 @@
+[
+    {
+        "word": "respondents",
+        "word_hebrew": "מגיבים",
+        "main_definition": "Respondents are individuals or groups who provide answers, opinions, or feedback in response to surveys, questionnaires, interviews, or studies.",
+        "main_definition_hebrew": "המשיבים הם יחידים או קבוצות המספקים תשובות, דעות או משוב בתגובה לסקרים, שאלונים, ראיונות או מחקרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Participants in a survey",
+                "definition_hebrew": "משתתפים בסקר",
+                "example": "In the customer satisfaction survey, 500 respondents shared their opinions on various products.",
+                "example_hebrew": "בסקר שביעות רצון הלקוחות, 500 נשאלים שיתפו את דעתם על מוצרים שונים."
+            },
+            {
+                "definition": "Individuals providing feedback or answers to questions",
+                "definition_hebrew": "אנשים המספקים משוב או תשובות לשאלות",
+                "example": "The research team collected responses from participants after conducting an online questionnaire about environmental awareness.",
+                "example_hebrew": "צוות המחקר אסף תגובות מהמשתתפים לאחר ביצוע שאלון מקוון על מודעות סביבתית."
+            },
+            {
+                "definition": "Persons who answer a poll or survey in qualitative social science research",
+                "definition_hebrew": "אנשים שעונים על סקר או סקר במחקר איכותני במדעי החברה",
+                "example": "In the sociological study, 100 respondents were interviewed to understand community dynamics and perceptions.",
+                "example_hebrew": "במחקר הסוציולוגי רואיינו 100 נשאלים כדי להבין את הדינמיקה והתפיסות של הקהילה."
+            },
+            {
+                "definition": "Those selected for participating in an experiment or observation as subjects",
+                "definition_hebrew": "אלו שנבחרו להשתתפות בניסוי או בתצפית כנבדקים",
+                "example": "The clinical trial enrolled 200 respondents to test the effectiveness of a new medication on patients with hypertension.",
+                "example_hebrew": "בניסוי הקליני נרשמו 200 נשאלים כדי לבדוק את היעילות של תרופה חדשה על חולים עם יתר לחץ דם."
+            }
+        ]
+    }
+]

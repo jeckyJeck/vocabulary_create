@@ -1,0 +1,28 @@
+[
+    {
+        "word": "argument",
+        "word_hebrew": "טַעֲנָה",
+        "main_definition": "An argument is a disagreement or dispute, usually involving an exchange of reasoned opinions in support of opposing positions.",
+        "main_definition_hebrew": "ויכוח הוא מחלוקת או מחלוקת, הכרוכה בדרך כלל בהחלפת דעות מנומקות לתמיכה בעמדות מנוגדות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A verbal confrontation between people expressing opposing views",
+                "definition_hebrew": "עימות מילולי בין אנשים המביעים דעות מנוגדות",
+                "example": "During the meeting, their argument became heated as each side defended its position.",
+                "example_hebrew": "במהלך הפגישה, הוויכוח שלהם התלהט כאשר כל צד הגן על עמדתו."
+            },
+            {
+                "definition": "A set of reasons or evidence in support of an idea, action, or theory",
+                "definition_hebrew": "קבוצה של סיבות או ראיות התומכות ברעיון, פעולה או תיאוריה",
+                "example": "The lawyer presented a strong argument to persuade the jury about his client's innocence based on lack of evidence.",
+                "example_hebrew": "עורך הדין הציג טיעון חזק כדי לשכנע את חבר המושבעים על חפותו של הלקוח שלו בהתבסס על חוסר ראיות."
+            },
+            {
+                "definition": "An attempt to refute or challenge someone's point of view using reasoning",
+                "definition_hebrew": "ניסיון להפריך או לערער על נקודת המבט של מישהו באמצעות נימוקים",
+                "example": "She raised an objection as she believed her colleague's argument was flawed and unsupported by facts.",
+                "example_hebrew": "היא העלתה התנגדות מאחר שלדעתה הטיעון של עמיתה פגום ואינו נתמך בעובדות."
+            }
+        ]
+    }
+]

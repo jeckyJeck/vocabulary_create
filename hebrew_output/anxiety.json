@@ -1,0 +1,40 @@
+[
+    {
+        "word": "anxiety",
+        "word_hebrew": "חֲרָדָה",
+        "main_definition": "Anxiety is a feeling of worry, nervousness or unease about something with an uncertain outcome.",
+        "main_definition_hebrew": "חרדה היא תחושה של דאגה, עצבנות או אי נוחות לגבי משהו עם תוצאה לא ברורה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Generalized anxiety disorder (GAD)",
+                "definition_hebrew": "הפרעת חרדה כללית (GAD)",
+                "example": "Sarah constantly worries about various aspects of her life such as work, health, and family issues.",
+                "example_hebrew": "שרה מודאגת כל הזמן מהיבטים שונים בחייה כמו עבודה, בריאות ובעיות משפחה."
+            },
+            {
+                "definition": "Performance anxiety",
+                "definition_hebrew": "חרדת ביצוע",
+                "example": "John feels anxious before giving a public speech or performing on stage because he fears being judged by others.",
+                "example_hebrew": "ג'ון חש חרדה לפני שנשא נאום פומבי או הופעה על הבמה כי הוא חושש שישפטו אותו על ידי אחרים."
+            },
+            {
+                "definition": "Social anxiety disorder (SAD)",
+                "definition_hebrew": "הפרעת חרדה חברתית (SAD)",
+                "example": "Emma avoids social gatherings and parties due to intense fear of interacting with strangers and experiencing embarrassment or humiliation.",
+                "example_hebrew": "אמה נמנעת ממפגשים חברתיים ומסיבות עקב פחד עז מאינטראקציה עם זרים ולחוות מבוכה או השפלה."
+            },
+            {
+                "definition": "Test anxiety",
+                "definition_hebrew": "חרדת בחינות",
+                "example": "Tom experiences severe nervousness, worry, and physical discomfort before taking exams, which affects his ability to perform well.",
+                "example_hebrew": "טום חווה עצבנות חמורה, דאגה ואי נוחות גופנית לפני ביצוע מבחנים, מה שמשפיע על יכולתו לבצע ביצועים טובים."
+            },
+            {
+                "definition": "Specific phobia related to anxiety",
+                "definition_hebrew": "פוביה ספציפית הקשורה לחרדה",
+                "example": "Lisa is afraid of elevators due to a traumatic experience in the past that left her feeling helpless and anxious while stuck inside one.",
+                "example_hebrew": "ליסה מפחדת ממעליות עקב חוויה טראומטית בעבר שגרמה לה להרגיש חסרת אונים וחרדה כשהיא תקועה בתוך אחת."
+            }
+        ]
+    }
+]

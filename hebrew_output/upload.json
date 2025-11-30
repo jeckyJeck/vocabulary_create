@@ -1,0 +1,28 @@
+[
+    {
+        "word": "upload",
+        "word_hebrew": "להעלות",
+        "main_definition": "to transfer data from a local computer or device to an online server, usually through the internet.",
+        "main_definition_hebrew": "להעברת נתונים ממחשב או מכשיר מקומי לשרת מקוון, בדרך כלל דרך האינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "To send files or information stored on one's device to another location via the internet.",
+                "definition_hebrew": "לשלוח קבצים או מידע המאוחסן במכשיר של אדם למקום אחר באמצעות האינטרנט.",
+                "example": "I need to upload my project report onto the company's shared drive.",
+                "example_hebrew": "אני צריך להעלות את דוח הפרויקט שלי לאחסון השיתופי של החברה."
+            },
+            {
+                "definition": "The process of transferring data from a local computer to an online platform for storage, sharing, or other purposes.",
+                "definition_hebrew": "תהליך העברת נתונים ממחשב מקומי לפלטפורמה מקוונת לאחסון, שיתוף או למטרות אחרות.",
+                "example": "Uploading photos to social media platforms like Instagram and Facebook is common today.",
+                "example_hebrew": "העלאת תמונות לפלטפורמות מדיה חברתית כמו אינסטגרם ופייסבוק היא נפוצה כיום."
+            },
+            {
+                "definition": "To make available on the internet, often in relation to digital content or documents.",
+                "definition_hebrew": "להפוך זמין באינטרנט, לעתים קרובות ביחס לתוכן דיגיטלי או מסמכים.",
+                "example": "The artist plans to upload his latest painting as a high-resolution image for online galleries.",
+                "example_hebrew": "האמן מתכנן להעלות את הציור האחרון שלו כתמונה ברזולוציה גבוהה לגלריות מקוונות."
+            }
+        ]
+    }
+]

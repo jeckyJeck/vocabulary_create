@@ -1,0 +1,34 @@
+[
+    {
+        "word": "requirement",
+        "word_hebrew": "דְרִישָׁה",
+        "main_definition": "A requirement is a condition or rule that must be met, often in relation to standards, needs, or expectations.",
+        "main_definition_hebrew": "דרישה היא תנאי או כלל שיש לעמוד בהם, לרוב ביחס לסטנדרטים, צרכים או ציפיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "An essential need for something",
+                "definition_hebrew": "צורך חיוני במשהו",
+                "example": "Accessibility requirements are needed to accommodate individuals with disabilities.",
+                "example_hebrew": "דרישות נגישות נדרשות כדי להתאים לאנשים עם מוגבלויות."
+            },
+            {
+                "definition": "A standard that must be met",
+                "definition_hebrew": "תקן שצריך לעמוד בו",
+                "example": "The requirement of a minimum GPA is set by the university for admission.",
+                "example_hebrew": "הדרישה למינימום GPA נקבעת על ידי האוניברסיטה לקבלה."
+            },
+            {
+                "definition": "A prerequisite or condition that has to be fulfilled before proceeding with something",
+                "definition_hebrew": "תנאי מוקדם או תנאי שיש למלא לפני שממשיכים במשהו",
+                "example": "To apply for this job, you need to meet certain requirements such as having a specific degree and work experience.",
+                "example_hebrew": "כדי להגיש מועמדות למשרה זו, עליך לעמוד בדרישות מסוימות כגון בעל תואר ספציפי וניסיון בעבודה."
+            },
+            {
+                "definition": "Specified criteria that must be met by products, systems or services",
+                "definition_hebrew": "קריטריונים מוגדרים שעליהם לעמוד על ידי מוצרים, מערכות או שירותים",
+                "example": "The product has passed all the required quality assurance tests.",
+                "example_hebrew": "המוצר עבר את כל מבחני אבטחת האיכות הנדרשים."
+            }
+        ]
+    }
+]

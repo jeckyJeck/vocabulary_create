@@ -1,0 +1,40 @@
+[
+    {
+        "word": "gate",
+        "word_hebrew": "שַׁעַר",
+        "main_definition": "A barrier, typically with hinged panels or gates that can be opened to allow passage through an entrance of a building, structure, or enclosure.",
+        "main_definition_hebrew": "מחסום, בדרך כלל עם לוחות צירים או שערים הניתנים לפתיחה כדי לאפשר מעבר דרך כניסה של בניין, מבנה או מתחם.",
+        "meanings_and_examples": [
+            {
+                "definition": "An opening in a wall or fence for moving people and vehicles",
+                "definition_hebrew": "פתח בחומה או בגדר להעברת אנשים וכלי רכב",
+                "example": "The large wooden gate allowed us easy access into the castle grounds.",
+                "example_hebrew": "שער העץ הגדול אפשר לנו גישה נוחה אל שטחי הטירה."
+            },
+            {
+                "definition": "A security measure to control entry to a specific area",
+                "definition_hebrew": "אמצעי אבטחה לשליטה בכניסה לאזור מסוים",
+                "example": "All visitors must pass through the entrance gate before entering the military base.",
+                "example_hebrew": "על כל המבקרים לעבור בשער הכניסה לפני הכניסה לבסיס הצבאי."
+            },
+            {
+                "definition": "The start or end of an enclosed area, such as in a stadium or concert hall",
+                "definition_hebrew": "ההתחלה או הסוף של אזור סגור, כגון באצטדיון או אולם קונצרטים",
+                "example": "We found great seats close to the gate at the football stadium.",
+                "example_hebrew": "מצאנו מושבים נהדרים קרוב לשער באצטדיון הכדורגל."
+            },
+            {
+                "definition": "A symbolic or ceremonial entrance used during special occasions, like weddings",
+                "definition_hebrew": "כניסה סמלית או טקסית המשמשת באירועים מיוחדים, כמו חתונות",
+                "example": "The bride and groom walked through the gates of love as they exchanged their vows.",
+                "example_hebrew": "החתן והכלה עברו בשערי האהבה כשהם מחליפים את נדריהם."
+            },
+            {
+                "definition": "In chess, a move that puts the opponent's king in check",
+                "definition_hebrew": "בשחמט, מהלך שמעמיד את מלך היריב בשליטה",
+                "example": "He executed a brilliant gate maneuver, leaving his opponent no choice but to surrender.",
+                "example_hebrew": "הוא ביצע תמרון שער מבריק, ולא הותיר ליריבו ברירה אלא להיכנע."
+            }
+        ]
+    }
+]

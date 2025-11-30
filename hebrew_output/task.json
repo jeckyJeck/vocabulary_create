@@ -1,0 +1,34 @@
+[
+    {
+        "word": "task",
+        "word_hebrew": "מְשִׁימָה",
+        "main_definition": "A task refers to an activity or duty that needs to be completed, often as part of a larger goal or project.",
+        "main_definition_hebrew": "משימה מתייחסת לפעילות או חובה שיש להשלים, לרוב כחלק ממטרה או פרויקט גדולים יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "An assigned job or responsibility",
+                "definition_hebrew": "תפקיד או אחריות שהוקצו",
+                "example": "My daily task at work is to answer customer inquiries.",
+                "example_hebrew": "המשימה היומית שלי בעבודה היא לענות לפניות לקוחות."
+            },
+            {
+                "definition": "A specific objective that needs to be achieved",
+                "definition_hebrew": "מטרה ספציפית שצריך להשיג",
+                "example": "The primary tasks for this project are research, design, and implementation.",
+                "example_hebrew": "המשימות העיקריות לפרויקט זה הן מחקר, עיצוב ויישום."
+            },
+            {
+                "definition": "A small or medium-sized piece of work within a larger task or job",
+                "definition_hebrew": "יצירה קטנה או בינונית בתוך משימה או עבודה גדולה יותר",
+                "example": "One of my first tasks today is to send out the monthly newsletter.",
+                "example_hebrew": "אחת המשימות הראשונות שלי היום היא לשלוח את הניוזלטר החודשי."
+            },
+            {
+                "definition": "An item on a list of priorities that needs attention",
+                "definition_hebrew": "פריט ברשימת סדרי עדיפויות שדורש תשומת לב",
+                "example": "Before I can start studying for my exams, this task of organizing my notes must be completed.",
+                "example_hebrew": "לפני שאוכל להתחיל ללמוד למבחנים שלי, יש להשלים את המשימה הזו של ארגון ההערות שלי."
+            }
+        ]
+    }
+]

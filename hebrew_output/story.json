@@ -1,0 +1,40 @@
+[
+    {
+        "word": "story",
+        "word_hebrew": "כַּתָבָה",
+        "main_definition": "A narrative, either true or fictional, that is told through words to convey a message, entertain, or impart wisdom.",
+        "main_definition_hebrew": "נרטיב, אמיתי או בדיוני, המסופר באמצעות מילים כדי להעביר מסר, לבדר או להקנות חוכמה.",
+        "meanings_and_examples": [
+            {
+                "definition": "An account of events or experiences, often in the form of a written or spoken piece",
+                "definition_hebrew": "תיאור של אירועים או חוויות, לעתים קרובות בצורה של יצירה כתובה או מדוברת",
+                "example": "Her grandmother shared an inspiring story about her childhood.",
+                "example_hebrew": "סבתה שיתפה סיפור מעורר השראה על ילדותה."
+            },
+            {
+                "definition": "A narrative created for entertainment purposes, typically involving imaginary characters and plots",
+                "definition_hebrew": "נרטיב שנוצר למטרות בידור, הכולל בדרך כלל דמויות ועלילות דמיוניות",
+                "example": "The children gathered around to hear the fantasy story their friend had just written.",
+                "example_hebrew": "הילדים התאספו כדי לשמוע את סיפור הפנטזיה שחברם זה עתה כתב."
+            },
+            {
+                "definition": "An anecdote or brief account used to illustrate a point during communication",
+                "definition_hebrew": "אנקדוטה או תיאור קצר המשמש להמחשת נקודה במהלך תקשורת",
+                "example": "He shared some interesting stories that highlighted the challenges of living in different cultures.",
+                "example_hebrew": "הוא שיתף כמה סיפורים מעניינים שהדגישו את האתגרים של חיים בתרבויות שונות."
+            },
+            {
+                "definition": "A historical or cultural narrative, often passed down through generations and serving as a piece of collective memory",
+                "definition_hebrew": "נרטיב היסטורי או תרבותי, המועבר לרוב בדורות ומשמש פיסת זיכרון קולקטיבי",
+                "example": "The local legend is an important story that explains the origins of their town.",
+                "example_hebrew": "האגדה המקומית היא סיפור חשוב המסביר את מקורות עיירתם."
+            },
+            {
+                "definition": "An explanation or interpretation of something, sometimes used in academic or analytical contexts to provide insight into complex subjects",
+                "definition_hebrew": "הסבר או פרשנות של משהו, לעתים בשימוש בהקשרים אקדמיים או אנליטיים כדי לספק תובנה בנושאים מורכבים",
+                "example": "In his book, the author offers a compelling story to illustrate the economic theories he discusses.",
+                "example_hebrew": "בספרו מציע המחבר סיפור מרתק כדי להמחיש את התיאוריות הכלכליות בהן הוא דן."
+            }
+        ]
+    }
+]

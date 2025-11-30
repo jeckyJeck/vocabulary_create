@@ -1,0 +1,40 @@
+[
+    {
+        "word": "mining",
+        "word_hebrew": "כְּרִיָה",
+        "main_definition": "Mining refers to the process of extracting valuable minerals, metals or other geological materials from the earth.",
+        "main_definition_hebrew": "כרייה מתייחסת לתהליך של הפקת מינרלים יקרי ערך, מתכות או חומרים גיאולוגיים אחרים מכדור הארץ.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of searching for and extracting natural resources like coal, gold, diamonds etc.",
+                "definition_hebrew": "פעולת חיפוש והפקת משאבי טבע כמו פחם, זהב, יהלומים וכו'.",
+                "example": "During the Gold Rush in California, many people engaged in mining to find valuable nuggets.",
+                "example_hebrew": "במהלך הבהלה לזהב בקליפורניה, אנשים רבים עסקו בכרייה כדי למצוא נאגטס יקרי ערך."
+            },
+            {
+                "definition": "A type of software that allows users to search through large sets of data for specific information or patterns",
+                "definition_hebrew": "סוג של תוכנה המאפשרת למשתמשים לחפש בקבוצות גדולות של נתונים אחר מידע או דפוסים ספציפיים",
+                "example": "The company uses specialized mining tools to analyze their customer database and identify trends.",
+                "example_hebrew": "החברה משתמשת בכלי כרייה מיוחדים כדי לנתח את מסד הנתונים של הלקוחות שלהם ולזהות מגמות."
+            },
+            {
+                "definition": "Refers to the process of digging underground tunnels, shafts or pits as part of a construction project.",
+                "definition_hebrew": "הכוונה לתהליך של חפירת מנהרות תת קרקעיות, פירים או בורות כחלק מפרויקט בנייה.",
+                "example": "Before building the new subway line, extensive mining was done to create space for the tracks.",
+                "example_hebrew": "לפני בניית קו הרכבת התחתית החדש, נעשתה כרייה נרחבת כדי ליצור מקום למסילות."
+            },
+            {
+                "definition": "The economic activity related to finding and extracting valuable resources from the earth's surface or underground",
+                "definition_hebrew": "הפעילות הכלכלית קשורה באיתור והפקה של משאבים יקרי ערך מפני כדור הארץ או מתחת לאדמה",
+                "example": "Mining plays a significant role in our country's economy as it provides jobs and contributes to GDP.",
+                "example_hebrew": "הכרייה ממלאת תפקיד משמעותי בכלכלת ארצנו שכן היא מספקת מקומות עבודה ותורמת לתמ\"ג."
+            },
+            {
+                "definition": "A type of computer process that involves scanning through vast amounts of digital data, searching for specific information.",
+                "definition_hebrew": "סוג של תהליך מחשב הכולל סריקה דרך כמויות עצומות של נתונים דיגיטליים, חיפוש אחר מידע ספציפי.",
+                "example": "The analyst used mining software to extract relevant financial data from the company's database.",
+                "example_hebrew": "האנליסט השתמש בתוכנת כרייה כדי לחלץ נתונים פיננסיים רלוונטיים ממסד הנתונים של החברה."
+            }
+        ]
+    }
+]

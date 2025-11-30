@@ -1,0 +1,40 @@
+[
+    {
+        "word": "select",
+        "word_hebrew": "בחר",
+        "main_definition": "To carefully choose or pick out something from a group based on specific criteria.",
+        "main_definition_hebrew": "לבחור בקפידה או לבחור משהו מקבוצה על סמך קריטריונים ספציפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To choose deliberately, particularly for an important purpose or event.",
+                "definition_hebrew": "לבחור בכוונה, במיוחד למטרה או אירוע חשוב.",
+                "example": "She will select her outfit for the wedding.",
+                "example_hebrew": "היא תבחר את התלבושת שלה לחתונה."
+            },
+            {
+                "definition": "To pick out from a larger group based on certain qualities or characteristics.",
+                "definition_hebrew": "לבחור מתוך קבוצה גדולה יותר על סמך תכונות או מאפיינים מסוימים.",
+                "example": "The committee will select finalists from hundreds of applicants.",
+                "example_hebrew": "הוועדה תבחר פיינליסטים מתוך מאות מועמדים."
+            },
+            {
+                "definition": "To use with special equipment to identify something, often in the context of data analysis or research.",
+                "definition_hebrew": "להשתמש בציוד מיוחד כדי לזהות משהו, לעתים קרובות בהקשר של ניתוח נתונים או מחקר.",
+                "example": "Scientists will select a random sample from the population for their study.",
+                "example_hebrew": "מדענים יבחרו מדגם אקראי מהאוכלוסייה למחקר שלהם."
+            },
+            {
+                "definition": "To exercise control over which items are kept and discarded. This term is commonly used when referring to sorting mail or packages, or choosing stocks in investing.",
+                "definition_hebrew": "להפעיל שליטה על הפריטים שנשמרים והושלכו. מונח זה משמש בדרך כלל כאשר מתייחסים למיון דואר או חבילות, או בחירת מניות בהשקעה.",
+                "example": "The post office will select the letters that need special handling for international delivery.",
+                "example_hebrew": "הדואר יבחר את המכתבים הזקוקים לטיפול מיוחד למשלוח בינלאומי."
+            },
+            {
+                "definition": "To choose from a group of options with some restrictions or conditions applied.",
+                "definition_hebrew": "כדי לבחור מתוך קבוצת אפשרויות עם כמה הגבלות או תנאים שהוחלו.",
+                "example": "She can only select two colors to paint her room, blue and green.",
+                "example_hebrew": "היא יכולה לבחור רק שני צבעים לצבוע את החדר שלה, כחול וירוק."
+            }
+        ]
+    }
+]

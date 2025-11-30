@@ -1,0 +1,34 @@
+[
+    {
+        "word": "panel",
+        "word_hebrew": "לוּחַ",
+        "main_definition": "A panel can refer to a flat or rectangular surface, a group of experts discussing a topic, an electrical component in electronics, or a construction element made up of several connected parts.",
+        "main_definition_hebrew": "פאנל יכול להתייחס למשטח שטוח או מלבני, קבוצת מומחים הדנה בנושא, רכיב חשמלי באלקטרוניקה או אלמנט בנייה המורכב מכמה חלקים מחוברים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A flat or rectangular surface",
+                "definition_hebrew": "משטח שטוח או מלבני",
+                "example": "The wooden panel on the wall was scratched and needed to be replaced.",
+                "example_hebrew": "לוח העץ על הקיר נשרט והיה צורך להחליפו."
+            },
+            {
+                "definition": "A group of experts discussing a topic",
+                "definition_hebrew": "קבוצת מומחים דנה בנושא",
+                "example": "The committee held an open panel discussion with various industry leaders about climate change.",
+                "example_hebrew": "הוועדה קיימה דיון פאנל פתוח עם מנהיגים שונים בתעשייה על שינויי אקלים."
+            },
+            {
+                "definition": "An electrical component in electronics",
+                "definition_hebrew": "רכיב חשמלי באלקטרוניקה",
+                "example": "The circuit board had several panels for different voltage levels.",
+                "example_hebrew": "בלוח המעגלים היו מספר לוחות לרמות מתח שונות."
+            },
+            {
+                "definition": "A construction element made up of several connected parts",
+                "definition_hebrew": "אלמנט בנייה המורכב מכמה חלקים מחוברים",
+                "example": "The house's roof was composed of individual wooden panels that were nailed together to form the structure.",
+                "example_hebrew": "גג הבית הורכב מלוחות עץ בודדים שנוסרו יחדיו כדי ליצור את המבנה."
+            }
+        ]
+    }
+]

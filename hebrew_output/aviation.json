@@ -1,0 +1,34 @@
+[
+    {
+        "word": "aviation",
+        "word_hebrew": "תְעוּפָה",
+        "main_definition": "Aviation refers to the operation of aircraft, as well as the science and art concerned with managing flight and operating aircraft.",
+        "main_definition_hebrew": "תעופה מתייחסת לתפעול מטוסים, כמו גם למדע ולאמנות העוסקים בניהול טיסה והפעלת מטוסים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The field or industry related to air travel, including designing, building, flying, maintaining, and regulating aircraft.",
+                "definition_hebrew": "התחום או התעשייה הקשורים לנסיעות אוויריות, לרבות תכנון, בנייה, הטסה, תחזוקה וויסות מטוסים.",
+                "example": "After completing her degree in aviation engineering, Emily joined a team responsible for developing new jet engines.",
+                "example_hebrew": "לאחר שסיימה את התואר בהנדסת תעופה, הצטרפה אמילי לצוות האחראי לפיתוח מנועי סילון חדשים."
+            },
+            {
+                "definition": "The act of operating or piloting an airplane or other aircraft.",
+                "definition_hebrew": "פעולת ההפעלה או הטיסה של מטוס או כלי טיס אחר.",
+                "example": "As a commercial pilot, John has extensive experience in aviation and flies passengers to various destinations safely.",
+                "example_hebrew": "כטייס מסחרי, לג'ון ניסיון רב בתעופה ומטיס נוסעים ליעדים שונים בבטחה."
+            },
+            {
+                "definition": "The study and science concerned with the design and development of aerial vehicles.",
+                "definition_hebrew": "המחקר והמדע העוסקים בתכנון ופיתוח של כלי טיס.",
+                "example": "Aerospace engineering is an essential part of aviation that focuses on creating safe, efficient, and reliable aircraft.",
+                "example_hebrew": "הנדסת תעופה וחלל היא חלק חיוני בתעופה המתמקדת ביצירת מטוסים בטוחים, יעילים ואמינים."
+            },
+            {
+                "definition": "The history and evolution of air travel and aircrafts.",
+                "definition_hebrew": "ההיסטוריה וההתפתחות של נסיעות אוויריות ומטוסים.",
+                "example": "Historical accounts show the significant advancements in aviation from the Wright brothers' first flight to modern supersonic jets.",
+                "example_hebrew": "דיווחים היסטוריים מראים את ההתקדמות המשמעותית בתעופה מהטיסה הראשונה של האחים רייט ועד למטוסים על-קוליים מודרניים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "exercise",
+        "word_hebrew": "תרגיל",
+        "main_definition": "Exercise refers to physical activity or the act of practicing something in order to improve skills, health, or mental well-being.",
+        "main_definition_hebrew": "פעילות גופנית מתייחסת לפעילות גופנית או לפעולה של תרגול משהו על מנת לשפר מיומנויות, בריאות או רווחה נפשית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical activity aimed at improving fitness and overall health",
+                "definition_hebrew": "פעילות גופנית שמטרתה שיפור הכושר והבריאות הכללית",
+                "example": "I go for a run every morning as part of my exercise routine.",
+                "example_hebrew": "אני יוצא לריצה כל בוקר כחלק משגרת האימונים שלי."
+            },
+            {
+                "definition": "An action or practice done to develop or maintain skill, knowledge, or competence in any field",
+                "definition_hebrew": "פעולה או תרגול שנעשו כדי לפתח או לשמור על מיומנות, ידע או מיומנות בכל תחום",
+                "example": "She spends an hour each day practicing her Spanish by repeating new vocabulary and grammar rules - this is a form of exercise for language learning.",
+                "example_hebrew": "היא משקיעה שעה בכל יום בתרגול הספרדית שלה על ידי חזרה על אוצר מילים וחוקי דקדוק חדשים - זוהי צורה של תרגיל ללימוד שפה."
+            },
+            {
+                "definition": "A mental or cognitive activity done to stimulate thinking, problem-solving, or creativity",
+                "definition_hebrew": "פעילות מנטלית או קוגניטיבית הנעשית כדי לעורר חשיבה, פתרון בעיות או יצירתיות",
+                "example": "To stay sharp, he exercises his brain by solving crossword puzzles every evening.",
+                "example_hebrew": "כדי להישאר חד, הוא מפעיל את מוחו על ידי פתרון תשבצים מדי ערב."
+            },
+            {
+                "definition": "The act of applying a concept, rule, or law repeatedly in order to understand it better",
+                "definition_hebrew": "הפעולה של יישום מושג, כלל או חוק שוב ושוב על מנת להבין אותם טוב יותר",
+                "example": "In calculus class, we were given several problems to exercise our understanding of derivatives.",
+                "example_hebrew": "בשיעור החשבון, קיבלנו מספר בעיות כדי לממש את ההבנה שלנו בנגזרות."
+            }
+        ]
+    }
+]

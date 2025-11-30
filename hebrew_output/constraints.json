@@ -1,0 +1,34 @@
+[
+    {
+        "word": "constraints",
+        "word_hebrew": "אילוצים",
+        "main_definition": "Constraints are limitations or restrictions that can affect actions, decisions, or processes.",
+        "main_definition_hebrew": "אילוצים הם מגבלות או הגבלות שיכולות להשפיע על פעולות, החלטות או תהליכים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Forces that limit or restrict one's freedom of choice and action.",
+                "definition_hebrew": "כוחות המגבילים או מגבילים את חופש הבחירה והפעולה של האדם.",
+                "example": "The constraints of a tight budget forced the company to cut down on unnecessary expenses.",
+                "example_hebrew": "אילוצי התקציב המצומצם אילצו את החברה לצמצם בהוצאות מיותרות."
+            },
+            {
+                "definition": "Boundaries set by rules, regulations, or conditions.",
+                "definition_hebrew": "גבולות שנקבעו על ידי כללים, תקנות או תנאים.",
+                "example": "Legal constraints prevent businesses from engaging in certain competitive practices.",
+                "example_hebrew": "אילוצים משפטיים מונעים מעסקים לעסוק בפרקטיקות תחרותיות מסוימות."
+            },
+            {
+                "definition": "Limitations imposed on resources such as time and materials.",
+                "definition_hebrew": "מגבלות המוטלות על משאבים כגון זמן וחומרים.",
+                "example": "The project's constraints of having only two weeks to complete it made the team work overtime.",
+                "example_hebrew": "אילוצי הפרויקט של שבועיים בלבד להשלמתו גרמו לצוות לעבוד שעות נוספות."
+            },
+            {
+                "definition": "Conditions or requirements that must be met for a particular purpose.",
+                "definition_hebrew": "תנאים או דרישות שיש לעמוד בהם למטרה מסוימת.",
+                "example": "To solve this problem, we need to consider all relevant constraints and find feasible solutions.",
+                "example_hebrew": "כדי לפתור בעיה זו, עלינו לשקול את כל האילוצים הרלוונטיים ולמצוא פתרונות אפשריים."
+            }
+        ]
+    }
+]

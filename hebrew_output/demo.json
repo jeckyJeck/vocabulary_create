@@ -1,0 +1,40 @@
+[
+    {
+        "word": "demo",
+        "word_hebrew": "הַדגָמָה",
+        "main_definition": "A demonstration or presentation, often used in various contexts such as technology, politics, and marketing to showcase a product, idea, or concept.",
+        "main_definition_hebrew": "הדגמה או מצגת, המשמשת לעתים קרובות בהקשרים שונים כגון טכנולוגיה, פוליטיקה ושיווק כדי להציג מוצר, רעיון או קונספט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Short for 'demonstration', referring to an event where something is shown or proven. For example, A tech company might hold a software demo at a conference.",
+                "definition_hebrew": "קיצור של 'הדגמה', הכוונה לאירוע שבו משהו מוצג או מוכח. לדוגמה, חברת טכנולוגיה עשויה לקיים הדגמת תוכנה בכנס.",
+                "example": "The gaming console company held a demo of their latest game.",
+                "example_hebrew": "חברת קונסולות המשחקים ערכה הדגמה של המשחק האחרון שלהם."
+            },
+            {
+                "definition": "Short for 'demonstration', in the context of politics or social activism. For example, A protest group may organize a peaceful demonstration to advocate for change.",
+                "definition_hebrew": "קיצור של 'הפגנה', בהקשר של פוליטיקה או אקטיביזם חברתי. לדוגמה, קבוצת מחאה עשויה לארגן הפגנה שלווה כדי לתמוך בשינוי.",
+                "example": "The environmental organization organized a demo against deforestation.",
+                "example_hebrew": "הארגון הסביבתי ארגן הדגמה נגד כריתת יערות."
+            },
+            {
+                "definition": "Shortened form of 'demonstrator', referring to someone who participates in a demonstration or protest. For example, The anti-war protestors were the main demos at the city square.",
+                "definition_hebrew": "צורה מקוצרת של 'מפגין', הכוונה למי שמשתתף בהפגנה או מחאה. לדוגמה, המפגינים נגד המלחמה היו ההדגמות העיקריות בכיכר העיר.",
+                "example": "The activists acted as demos during the climate march.",
+                "example_hebrew": "הפעילים פעלו כהדגמות במהלך צעדת האקלים."
+            },
+            {
+                "definition": "Short for 'demo', referring to a software development term where developers create an early version of a product (often called a 'minimum viable product' or MVP) to demonstrate its potential. For example, The startup released a demo app to attract investors.",
+                "definition_hebrew": "קיצור של 'הדגמה', הכוונה למונח פיתוח תוכנה שבו מפתחים יוצרים גרסה מוקדמת של מוצר (המכונה לעתים קרובות 'מוצר מינימלי בר-קיימא' או MVP) כדי להדגים את הפוטנציאל שלו. לדוגמה, הסטארט-אפ הוציא אפליקציית הדגמה כדי למשוך משקיעים.",
+                "example": "The team built a web app demo to showcase their new service.",
+                "example_hebrew": "הצוות בנה הדגמה של אפליקציית אינטרנט כדי להציג את השירות החדש שלהם."
+            },
+            {
+                "definition": "Refers to an abbreviated form of 'demonstration', often used in marketing and sales contexts. For example, A company might offer a free product demo to potential customers.",
+                "definition_hebrew": "מתייחס לצורה מקוצרת של 'הדגמה', המשמשת לעתים קרובות בהקשרי שיווק ומכירות. לדוגמה, חברה עשויה להציע הדגמת מוצר בחינם ללקוחות פוטנציאליים.",
+                "example": "The car dealership offered test drives as a free demo to interested buyers.",
+                "example_hebrew": "סוכנות הרכב הציעה נסיעות מבחן כהדגמה חינם לקונים המעוניינים."
+            }
+        ]
+    }
+]

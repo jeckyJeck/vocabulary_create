@@ -1,0 +1,34 @@
+[
+    {
+        "word": "xml",
+        "word_hebrew": "xml",
+        "main_definition": "XML stands for Extensible Markup Language, a versatile text-based format used to store and transport data in a structured manner.",
+        "main_definition_hebrew": "XML ראשי תיבות של Extensible Markup Language, פורמט מבוסס טקסט רב-תכליתי המשמש לאחסון והעברה של נתונים בצורה מובנית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A markup language",
+                "definition_hebrew": "שפת סימון",
+                "example": "HTML is another example of a markup language.",
+                "example_hebrew": "HTML הוא דוגמה נוספת לשפת סימון."
+            },
+            {
+                "definition": "A file format for storing data in a text-based, structured manner",
+                "definition_hebrew": "פורמט קובץ לאחסון נתונים בצורה מבוססת טקסט ומובנית",
+                "example": "The contents of an XML file are enclosed within start and end tags like <person>John Doe</person>",
+                "example_hebrew": "התוכן של קובץ XML מוקף בתגי התחלה וסיום כמו <person>John Doe</person>"
+            },
+            {
+                "definition": "A language used to define custom markup elements",
+                "definition_hebrew": "שפה המשמשת להגדרת רכיבי סימון מותאמים אישית",
+                "example": "<note>This is a custom tag defined in the XML document.</note>",
+                "example_hebrew": "<note>זהו תג מותאם אישית המוגדר במסמך ה-XML.</note>"
+            },
+            {
+                "definition": "An industry standard for exchanging data on the internet",
+                "definition_hebrew": "תקן תעשייתי להחלפת נתונים באינטרנט",
+                "example": "XML is widely used for web services and APIs due to its ability to represent complex data structures.",
+                "example_hebrew": "XML נמצא בשימוש נרחב עבור שירותי אינטרנט וממשקי API בשל יכולתו לייצג מבני נתונים מורכבים."
+            }
+        ]
+    }
+]

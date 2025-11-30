@@ -1,0 +1,40 @@
+[
+    {
+        "word": "recorder",
+        "word_hebrew": "מַקלִיט",
+        "main_definition": "A device or person that records information, sound, events, or data.",
+        "main_definition_hebrew": "מכשיר או אדם שמתעד מידע, קול, אירועים או נתונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An ancient mechanical instrument used to record music and sounds by marking grooves on a medium like wax cylinders or discs.",
+                "definition_hebrew": "כלי מכני עתיק המשמש להקלטת מוזיקה וצלילים על ידי סימון חריצים על מדיום כמו גלילי שעווה או דיסקים.",
+                "example": "The child played the recorder in their school band, learning how its bell-shaped mouthpiece produces sound.",
+                "example_hebrew": "הילד ניגן בתקליט בלהקת בית הספר שלו, למד כיצד הפיה בצורת פעמון מפיקה צליל."
+            },
+            {
+                "definition": "A tool used to record data or information digitally for later retrieval and analysis.",
+                "definition_hebrew": "כלי המשמש להקלטת נתונים או מידע דיגיטלי לצורך אחזור וניתוח מאוחר יותר.",
+                "example": "Historians use a digital recorder to capture interviews with witnesses of significant events, preserving firsthand accounts for research purposes.",
+                "example_hebrew": "היסטוריונים משתמשים במקליט דיגיטלי כדי ללכוד ראיונות עם עדים לאירועים משמעותיים, תוך שימור חשבונות ממקור ראשון למטרות מחקר."
+            },
+            {
+                "definition": "A person who takes notes during meetings or lectures as a form of active participation and later review.",
+                "definition_hebrew": "אדם הרושם הערות במהלך פגישות או הרצאות כצורה של השתתפות פעילה וסקירה מאוחרת יותר.",
+                "example": "The student was assigned the role of recorder in the group project to document all decisions made by the team members.",
+                "example_hebrew": "לתלמיד הוטל תפקיד מקליט בפרויקט הקבוצתי לתיעוד כל ההחלטות שקיבלו חברי הצוות."
+            },
+            {
+                "definition": "An electronic device that captures spoken words for use in transcription or closed captioning services.",
+                "definition_hebrew": "מכשיר אלקטרוני הלוכד מילים מדוברות לשימוש בתמלול או שירותי כתוביות סגורות.",
+                "example": "The court reporter used a voice-activated recorder to ensure accurate transcriptions of witness testimonies during the trial.",
+                "example_hebrew": "כתב בית המשפט השתמש במקליט מופעל על מנת להבטיח תמלול מדויק של עדויות עדים במהלך המשפט."
+            },
+            {
+                "definition": "A feature in some video recording devices that allows for later playback and review, often found on camcorders.",
+                "definition_hebrew": "תכונה בחלק ממכשירי הקלטת וידאו המאפשרת השמעה וסקירה מאוחרת יותר, שנמצאת לעתים קרובות במצלמות וידיאו.",
+                "example": "The couple used their digital camcorder's recorder function to store videos of their wedding ceremony.",
+                "example_hebrew": "בני הזוג השתמשו בפונקציית ההקלטה של מצלמת הווידאו הדיגיטלית שלהם כדי לאחסן סרטונים של טקס החתונה שלהם."
+            }
+        ]
+    }
+]

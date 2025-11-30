@@ -1,0 +1,34 @@
+[
+    {
+        "word": "browser",
+        "word_hebrew": "דפדפן",
+        "main_definition": "A browser is a software application used to access, retrieve, and view information resources on the World Wide Web.",
+        "main_definition_hebrew": "דפדפן הוא יישום תוכנה המשמש לגישה, אחזור והצגה של משאבי מידע ברשת העולמית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Computer program for retrieving and displaying content from the Internet",
+                "definition_hebrew": "תוכנת מחשב לאחזור והצגת תכנים מהאינטרנט",
+                "example": "Chrome, Firefox, Safari, or Edge are common web browsers.",
+                "example_hebrew": "Chrome, Firefox, Safari או Edge הם דפדפני אינטרנט נפוצים."
+            },
+            {
+                "definition": "An animal that hunts other animals for food",
+                "definition_hebrew": "חיה שצדה חיות אחרות לצורך מזון",
+                "example": "A lion can be considered a browser in the wild as it preys on herbivores like zebras and wildebeests.",
+                "example_hebrew": "אריה יכול להיחשב כדפדפן בטבע שכן הוא טורף אוכלי עשב כמו זברות וגנו."
+            },
+            {
+                "definition": "One who looks or peers at something with curiosity or skepticism",
+                "definition_hebrew": "אחד שמסתכל או מציץ במשהו בסקרנות או בספקנות",
+                "example": "The investigator was seen as a browser, carefully examining the evidence to uncover the truth.",
+                "example_hebrew": "החוקר נתפס כדפדפן, הבוחן בקפידה את הראיות כדי לחשוף את האמת."
+            },
+            {
+                "definition": "A user interface that allows users to navigate and interact with data in a structured manner",
+                "definition_hebrew": "ממשק משתמש המאפשר למשתמשים לנווט ולתקשר עם נתונים בצורה מובנית",
+                "example": "Microsoft Excel's ribbon browser helps users access tools and functions easily.",
+                "example_hebrew": "דפדפן הסרט של Microsoft Excel מסייע למשתמשים לגשת לכלים ופונקציות בקלות."
+            }
+        ]
+    }
+]

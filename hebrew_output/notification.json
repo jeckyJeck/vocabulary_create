@@ -1,0 +1,40 @@
+[
+    {
+        "word": "notification",
+        "word_hebrew": "הוֹדָעָה",
+        "main_definition": "A message or alert that informs someone about a particular event, update, or action.",
+        "main_definition_hebrew": "הודעה או התראה המודיעים למישהו על אירוע, עדכון או פעולה מסוימים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An automated system to alert individuals of updates or events relevant to them.",
+                "definition_hebrew": "מערכת אוטומטית להתריע בפני אנשים על עדכונים או אירועים הרלוונטיים להם.",
+                "example": "The company sent a notification on their phone regarding the status change in project management.",
+                "example_hebrew": "החברה שלחה הודעה בטלפון על שינוי הסטטוס בניהול הפרויקט."
+            },
+            {
+                "definition": "A message from one person to another, usually conveying information about an event, task, or requirement.",
+                "definition_hebrew": "הודעה מאדם אחד למשנהו, בדרך כלל מעבירה מידע על אירוע, משימה או דרישה.",
+                "example": "I received a notification that my order has been shipped and will arrive tomorrow.",
+                "example_hebrew": "קיבלתי הודעה שההזמנה שלי נשלחה ותגיע מחר."
+            },
+            {
+                "definition": "An alert sent by a service provider informing users about important updates, changes, or events related to their subscriptions or services.",
+                "definition_hebrew": "התראה שנשלחה על ידי ספק שירות ומודיעה למשתמשים על עדכונים חשובים, שינויים או אירועים הקשורים למנויים או לשירותים שלהם.",
+                "example": "The email I received was a notification from Netflix, notifying me of the new season release.",
+                "example_hebrew": "המייל שקיבלתי היה הודעה מנטפליקס, שהודיעה לי על יציאת העונה החדשה."
+            },
+            {
+                "definition": "A prompt on a digital interface that signals an action or response is required.",
+                "definition_hebrew": "נדרשת הנחיה בממשק דיגיטלי המאותת על פעולה או תגובה.",
+                "example": "As soon as you click 'OK' on the notification pop-up, it will proceed with logging out your session.",
+                "example_hebrew": "ברגע שתלחץ על 'אישור' בחלון ההודעה הקופץ, זה ימשיך ביציאה מההפעלה שלך."
+            },
+            {
+                "definition": "An electronic mail message used to inform users about critical information or updates.",
+                "definition_hebrew": "הודעת דואר אלקטרוני המשמשת ליידע משתמשים לגבי מידע או עדכונים קריטיים.",
+                "example": "The IT department sent a notification email regarding an urgent security patch that needed immediate installation.",
+                "example_hebrew": "מחלקת ה-IT שלחה הודעת דוא\"ל לגבי תיקון אבטחה דחוף שהצריך התקנה מיידית."
+            }
+        ]
+    }
+]

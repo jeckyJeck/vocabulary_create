@@ -1,0 +1,28 @@
+[
+    {
+        "word": "elementary",
+        "word_hebrew": "יְסוֹדִי",
+        "main_definition": "Pertaining to the basic or fundamental level of knowledge, particularly in a subject.",
+        "main_definition_hebrew": "הנוגע לרמה הבסיסית או הבסיסית של הידע, במיוחד בנושא.",
+        "meanings_and_examples": [
+            {
+                "definition": "Basic or simple",
+                "definition_hebrew": "בסיסי או פשוט",
+                "example": "This math problem is elementary.",
+                "example_hebrew": "בעיית מתמטיקה זו היא יסודית."
+            },
+            {
+                "definition": "Intuitive and obvious",
+                "definition_hebrew": "אינטואיטיבי ומובן מאליו",
+                "example": "The solution to the puzzle was so elementary that it took me no time at all.",
+                "example_hebrew": "הפתרון לחידה היה כל כך אלמנטרי שלא לקח לי זמן בכלל."
+            },
+            {
+                "definition": "Related to primary or early education level",
+                "definition_hebrew": "קשור לרמת השכלה יסודית או מוקדמת",
+                "example": "Elementary school students are learning about multiplication tables.",
+                "example_hebrew": "תלמידי בית ספר יסודי לומדים על לוחות הכפל."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "mistakes",
+        "word_hebrew": "טעויות",
+        "main_definition": "Mistakes are errors or incorrect actions made unintentionally, often due to misunderstanding or lack of knowledge.",
+        "main_definition_hebrew": "טעויות הן שגיאות או פעולות לא נכונות שנעשות שלא במתכוון, לרוב עקב אי הבנה או חוסר ידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Errors in judgment or decision-making",
+                "definition_hebrew": "טעויות בשיפוט או בקבלת החלטות",
+                "example": "A common mistake could be buying an expensive item without considering the budget first.",
+                "example_hebrew": "טעות נפוצה יכולה להיות קניית פריט יקר מבלי להתחשב קודם בתקציב."
+            },
+            {
+                "definition": "Wrong actions performed by someone",
+                "definition_hebrew": "פעולות שגויות שבוצעו על ידי מישהו",
+                "example": "John made a mistake by forgetting to lock the door before leaving home, which led to his house being burglarized.",
+                "example_hebrew": "ג'ון עשה טעות כששכח לנעול את הדלת לפני שיצא מהבית, מה שהוביל לפריצת ביתו."
+            },
+            {
+                "definition": "Actions that lead to an undesired outcome or negative consequence",
+                "definition_hebrew": "פעולות המובילות לתוצאה לא רצויה או לתוצאה שלילית",
+                "example": "Making mistakes in calculations can result in incorrect financial projections for a company.",
+                "example_hebrew": "ביצוע טעויות בחישובים עלול לגרום לתחזיות פיננסיות שגויות לחברה."
+            },
+            {
+                "definition": "Errors made during learning process, often referred to as 'learning mistakes'",
+                "definition_hebrew": "שגיאות שנעשו במהלך תהליך הלמידה, המכונה לעתים קרובות \"טעויות למידה\"",
+                "example": "Students frequently make mistakes while practicing math problems before they finally grasp the concept.",
+                "example_hebrew": "תלמידים טועים לעתים קרובות בזמן תרגול בעיות מתמטיקה לפני שהם תופסים סוף סוף את הרעיון."
+            }
+        ]
+    }
+]

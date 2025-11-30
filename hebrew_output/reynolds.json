@@ -1,0 +1,34 @@
+[
+    {
+        "word": "reynolds",
+        "word_hebrew": "ריינולדס",
+        "main_definition": "Reynolds is a surname, the name of various scientific terms, or an adjective related to force per unit density times velocity.",
+        "main_definition_hebrew": "ריינולדס הוא שם משפחה, שם של מונחים מדעיים שונים, או שם תואר הקשור לכוח ליחידה צפיפות כפול מהירות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Surname",
+                "definition_hebrew": "שֵׁם מִשׁפָּחָה",
+                "example": "James Reynolds, a well-known British lawyer.",
+                "example_hebrew": "ג'יימס ריינולדס, עורך דין בריטי ידוע."
+            },
+            {
+                "definition": "Reynolds number (Re), a dimensionless quantity used in fluid mechanics to predict flow patterns in different fluid flow situations.",
+                "definition_hebrew": "מספר ריינולדס (Re), כמות חסרת מימד המשמשת במכניקת נוזלים כדי לחזות דפוסי זרימה במצבי זרימת נוזלים שונים.",
+                "example": "The Reynolds number is calculated as Re = density x velocity x length/viscosity.",
+                "example_hebrew": "מספר ריינולדס מחושב כ-Re = צפיפות x מהירות x אורך/צמיגות."
+            },
+            {
+                "definition": "An adjective describing the force per unit area exerted by a moving fluid on objects",
+                "definition_hebrew": "שם תואר המתאר את הכוח ליחידת שטח שמפעיל נוזל נע על עצמים",
+                "example": "In aerodynamics, the Reynolds effect describes how air flows around an object such as an aircraft wing.",
+                "example_hebrew": "באווירודינמיקה, אפקט ריינולדס מתאר כיצד אוויר זורם סביב עצם כמו כנף מטוס."
+            },
+            {
+                "definition": "Reynolds stress tensor, which represents turbulent stresses in a fluid flow.",
+                "definition_hebrew": "טנסור מתח של ריינולדס, המייצג מתחים סוערים בזרימת נוזל.",
+                "example": "The Reynolds stress tensor helps engineers understand and model complex turbulent flows.",
+                "example_hebrew": "טנסור המתח של ריינולדס עוזר למהנדסים להבין ולדגמן זרימות סוערות מורכבות."
+            }
+        ]
+    }
+]

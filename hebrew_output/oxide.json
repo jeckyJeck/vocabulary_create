@@ -1,0 +1,34 @@
+[
+    {
+        "word": "oxide",
+        "word_hebrew": "תַחמוֹצֶת",
+        "main_definition": "Oxides refer to chemical compounds that consist of an oxygen atom bonded with another element, often a metal or non-metal.",
+        "main_definition_hebrew": "תחמוצות מתייחסות לתרכובות כימיות המורכבות מאטום חמצן הקשור ליסוד אחר, לרוב מתכת או לא מתכת.",
+        "meanings_and_examples": [
+            {
+                "definition": "A binary compound made up of the elements oxygen and one other element (usually a metal) where the oxygen is in a negative oxidation state.",
+                "definition_hebrew": "תרכובת בינארית המורכבת מהיסודות חמצן ויסוד אחד נוסף (בדרך כלל מתכת) כאשר החמצן נמצא במצב חמצון שלילי.",
+                "example": "Copper Oxide, CuO",
+                "example_hebrew": "תחמוצת נחושת, CuO"
+            },
+            {
+                "definition": "An ionic compound containing an oxygen atom bonded to a positively charged ion or cation.",
+                "definition_hebrew": "תרכובת יונית המכילה אטום חמצן הקשור ליון או קטיון בעל מטען חיובי.",
+                "example": "Sodium Oxide, Na2O",
+                "example_hebrew": "סודיום אוקסיד, Na2O"
+            },
+            {
+                "definition": "A chemical term used in the context of environmental science and pollution control for particulate matter composed mainly of metal oxides.",
+                "definition_hebrew": "מונח כימי המשמש בהקשר של מדע הסביבה ובקרת זיהום עבור חומר חלקיקי המורכב בעיקר מתחמוצות מתכות.",
+                "example": "Fine Particulate Matter (PM2.5) containing iron and titanium dioxide",
+                "example_hebrew": "חלקיקים עדינים (PM2.5) המכילים ברזל וטיטניום דו חמצני"
+            },
+            {
+                "definition": "In jewelry, a type of stone or mineral that contains oxygen in its chemical composition, often associated with opaque varieties.",
+                "definition_hebrew": "בתכשיטים, סוג של אבן או מינרל המכילים חמצן בהרכבו הכימי, הקשור לרוב לזנים אטומים.",
+                "example": "Turquoise is not technically an oxide but has been mistakenly referred to as such due to its color and appearance.",
+                "example_hebrew": "טורקיז אינו תחמוצת מבחינה טכנית, אך הוא מכונה בטעות ככזה בשל צבעו ומראהו."
+            }
+        ]
+    }
+]

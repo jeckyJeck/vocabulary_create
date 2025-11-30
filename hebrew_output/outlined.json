@@ -1,0 +1,34 @@
+[
+    {
+        "word": "outlined",
+        "word_hebrew": "מתואר",
+        "main_definition": "To sketch or draw the main features of something, often using a pencil to create a clear boundary or shape.",
+        "main_definition_hebrew": "לשרטט או לצייר את התכונות העיקריות של משהו, לעתים קרובות באמצעות עיפרון כדי ליצור גבול ברור או צורה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In general usage, it means providing a summary or overview of complex ideas or topics.",
+                "definition_hebrew": "בשימוש כללי, זה אומר לספק סיכום או סקירה של רעיונות או נושאים מורכבים.",
+                "example": "The professor outlined the key concepts for the upcoming exam.",
+                "example_hebrew": "הפרופסור תיאר את מושגי המפתח לבחינה הקרובה."
+            },
+            {
+                "definition": "Used in design and art to describe creating a preliminary version of an image with clear, defined lines.",
+                "definition_hebrew": "משמש בעיצוב ואמנות לתיאור יצירת גרסה ראשונית של תמונה עם קווים ברורים ומוגדרים.",
+                "example": "She used an outline to sketch her initial design before adding details.",
+                "example_hebrew": "היא השתמשה בקו מתאר כדי לשרטט את העיצוב הראשוני שלה לפני שהוסיפה פרטים."
+            },
+            {
+                "definition": "Refers to the act of defining or explaining something clearly and precisely in conversation or writing.",
+                "definition_hebrew": "מתייחס למעשה של הגדרה או הסבר של משהו בצורה ברורה ומדויקת בשיחה או בכתיבה.",
+                "example": "The author outlined his argument step by step, making it easy for readers to follow along.",
+                "example_hebrew": "המחבר תיאר את טיעונו צעד אחר צעד, והקל על הקוראים לעקוב אחריו."
+            },
+            {
+                "definition": "In programming, 'outlined' can mean specifying data structures with clear boundaries before filling them with content.",
+                "definition_hebrew": "בתכנות, 'מתואר' יכול להיות ציון מבני נתונים עם גבולות ברורים לפני מילוים בתוכן.",
+                "example": "He outlined the structure of the database table before populating it with records.",
+                "example_hebrew": "הוא תיאר את המבנה של טבלת מסד הנתונים לפני שאכלס אותה ברשומות."
+            }
+        ]
+    }
+]

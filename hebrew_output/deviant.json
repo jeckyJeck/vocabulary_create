@@ -1,0 +1,34 @@
+[
+    {
+        "word": "deviant",
+        "word_hebrew": "סוֹטֶה",
+        "main_definition": "Someone or something that deviates from the norm, standard, or expected behavior.",
+        "main_definition_hebrew": "מישהו או משהו שחורגים מהנורמה, הסטנדרטית או ההתנהגות הצפויה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Unusual or abnormal in terms of behavior or characteristics",
+                "definition_hebrew": "חריג או חריג מבחינת התנהגות או מאפיינים",
+                "example": "His deviant behavior at school led to his suspension.",
+                "example_hebrew": "התנהגותו החריגה בבית הספר הביאה להשעייתו."
+            },
+            {
+                "definition": "Straying from a prescribed path or rule",
+                "definition_hebrew": "סוטה מדרך או כלל שנקבעו",
+                "example": "The new project was considered deviant because it didn't follow the company's usual procedures.",
+                "example_hebrew": "הפרויקט החדש נחשב לסטייה משום שלא פעל לפי הנהלים הרגילים של החברה."
+            },
+            {
+                "definition": "Violating social norms and values, often carrying negative connotations",
+                "definition_hebrew": "הפרת נורמות וערכים חברתיים, לרוב נושאת קונוטציות שליליות",
+                "example": "She faced criticism for her deviant lifestyle choices that contradicted societal expectations.",
+                "example_hebrew": "היא התמודדה עם ביקורת על בחירות אורח החיים החריגות שלה שסתרו את הציפיות החברתיות."
+            },
+            {
+                "definition": "In statistics, a data point or result that significantly differs from the overall pattern of data",
+                "definition_hebrew": "בסטטיסטיקה, נקודת נתונים או תוצאה השונה באופן משמעותי מהדפוס הכולל של הנתונים",
+                "example": "The outlier in this dataset is considered a statistical deviation due to its extreme values.",
+                "example_hebrew": "החריג במערך הנתונים הזה נחשב לסטייה סטטיסטית בשל ערכיו הקיצוניים."
+            }
+        ]
+    }
+]

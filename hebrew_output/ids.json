@@ -1,0 +1,28 @@
+[
+    {
+        "word": "ids",
+        "word_hebrew": "id",
+        "main_definition": "In some contexts, 'ids' refers to the acronym 'individuals designated as such,' typically used in computing or information management.",
+        "main_definition_hebrew": "בהקשרים מסוימים, 'ID' מתייחס לראשי התיבות 'יחידים המיועדים ככאלה', המשמשים בדרך כלל במחשוב או בניהול מידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Acronym for individuals designated by a system",
+                "definition_hebrew": "ראשי תיבות של אנשים המוגדרים על ידי מערכת",
+                "example": "In database systems, ids are unique identifiers assigned to each record.",
+                "example_hebrew": "במערכות מסד נתונים, מזהים הם מזהים ייחודיים המוקצים לכל רשומה."
+            },
+            {
+                "definition": "An abbreviation in digital media or internet slang",
+                "definition_hebrew": "קיצור במדיה דיגיטלית או בסלנג אינטרנטי",
+                "example": "The user 'ids' on social networking sites is known for sharing controversial opinions.",
+                "example_hebrew": "ה'מזהים' של המשתמש באתרי רשתות חברתיות ידועים בשיתוף דעות שנויות במחלוקת."
+            },
+            {
+                "definition": "A shorthand notation used by statisticians and researchers",
+                "definition_hebrew": "סימון קצר המשמש סטטיסטיקאים וחוקרים",
+                "example": "In a survey, each respondent was assigned an id to maintain confidentiality.",
+                "example_hebrew": "בסקר, כל משיב הוקצה מזהה כדי לשמור על סודיות."
+            }
+        ]
+    }
+]

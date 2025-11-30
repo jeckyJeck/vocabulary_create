@@ -1,0 +1,34 @@
+[
+    {
+        "word": "cancelled",
+        "word_hebrew": "מבוטל",
+        "main_definition": "To revoke or annul a previously arranged event, agreement, or arrangement.",
+        "main_definition_hebrew": "לבטל או לבטל אירוע, הסכם או הסדר שנקבעו קודם לכן.",
+        "meanings_and_examples": [
+            {
+                "definition": "A rescheduled or postponed event due to unforeseen circumstances",
+                "definition_hebrew": "אירוע שנקבע מחדש או נדחה עקב נסיבות בלתי צפויות",
+                "example": "The concert was cancelled due to severe weather conditions.",
+                "example_hebrew": "הקונצרט בוטל עקב תנאי מזג אוויר קשים."
+            },
+            {
+                "definition": "The termination of a service, subscription, or membership agreement",
+                "definition_hebrew": "סיום שירות, מנוי או הסכם חברות",
+                "example": "I accidentally clicked the 'cancel' button on my streaming account and lost access to all shows.",
+                "example_hebrew": "לחצתי בטעות על כפתור 'ביטול' בחשבון הסטרימינג שלי ואיבדתי גישה לכל התוכניות."
+            },
+            {
+                "definition": "Rejecting or refusing something that was previously agreed upon",
+                "definition_hebrew": "דחייה או סירוב למשהו שסוכם קודם לכן",
+                "example": "When they found out about his dishonesty, their dinner plans were cancelled.",
+                "example_hebrew": "כשנודע להם על חוסר הגינות שלו, תוכניות ארוחת הערב שלהם בוטלו."
+            },
+            {
+                "definition": "An agreement to terminate a contractual obligation before its due date",
+                "definition_hebrew": "הסכם לסיום התחייבות חוזית לפני מועד פירעונו",
+                "example": "The parties mutually decided to cancel the lease agreement after discovering major defects in the property.",
+                "example_hebrew": "הצדדים החליטו באופן הדדי לבטל את הסכם השכירות לאחר שגילו ליקויים גדולים בנכס."
+            }
+        ]
+    }
+]

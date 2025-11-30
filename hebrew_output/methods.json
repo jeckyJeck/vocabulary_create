@@ -1,0 +1,40 @@
+[
+    {
+        "word": "methods",
+        "word_hebrew": "שיטות",
+        "main_definition": "Methods refer to systematic approaches or procedures used to accomplish a task, solve problems, achieve goals, or gain knowledge.",
+        "main_definition_hebrew": "שיטות מתייחסות לגישות או נהלים שיטתיים המשמשים לביצוע משימה, לפתור בעיות, להשיג מטרות או להשיג ידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Techniques and strategies for performing tasks efficiently and effectively",
+                "definition_hebrew": "טכניקות ואסטרטגיות לביצוע משימות בצורה יעילה ואפקטיבית",
+                "example": "The scientific method involves observation, hypothesis formulation, experimentation, and conclusion to understand natural phenomena.",
+                "example_hebrew": "השיטה המדעית כוללת תצפית, ניסוח השערות, ניסויים ומסקנה להבנת תופעות טבע."
+            },
+            {
+                "definition": "Standardized procedures used in a particular field or industry",
+                "definition_hebrew": "נהלים סטנדרטיים המשמשים בתחום או בתעשייה מסוימת",
+                "example": "In software development, agile methods such as Scrum or Kanban provide frameworks for managing projects.",
+                "example_hebrew": "בפיתוח תוכנה, שיטות זריזות כמו Scrum או Kanban מספקות מסגרות לניהול פרויקטים."
+            },
+            {
+                "definition": "A set of rules or steps to follow when conducting research",
+                "definition_hebrew": "קבוצה של כללים או שלבים שיש לעקוב אחריהם בעת ביצוע מחקר",
+                "example": "The historical method involves using evidence and reasoning to study past events and draw conclusions about history.",
+                "example_hebrew": "השיטה ההיסטורית כוללת שימוש בראיות ובנימוקים כדי ללמוד אירועי עבר ולהסיק מסקנות לגבי ההיסטוריה."
+            },
+            {
+                "definition": "Systematic approaches used in education, such as teaching methods",
+                "definition_hebrew": "גישות שיטתיות בשימוש בחינוך, כגון שיטות הוראה",
+                "example": "Active learning methods like group discussions or hands-on activities are often more effective than traditional lecture-based instruction.",
+                "example_hebrew": "שיטות למידה אקטיביות כמו דיונים קבוצתיים או פעילויות מעשית הן לרוב יעילות יותר מהדרכה מסורתית מבוססת הרצאה."
+            },
+            {
+                "definition": "Practices for analyzing and managing business processes",
+                "definition_hebrew": "שיטות ניתוח וניהול תהליכים עסקיים",
+                "example": "Business process management (BPM) involves identifying, analyzing, improving, and automating business processes to increase efficiency and effectiveness.",
+                "example_hebrew": "ניהול תהליכים עסקיים (BPM) כולל זיהוי, ניתוח, שיפור ואוטומציה של תהליכים עסקיים כדי להגביר את היעילות והאפקטיביות."
+            }
+        ]
+    }
+]

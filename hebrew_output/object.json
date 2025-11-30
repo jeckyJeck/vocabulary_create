@@ -1,0 +1,40 @@
+[
+    {
+        "word": "object",
+        "word_hebrew": "לְהִתְנַגֵד",
+        "main_definition": "An object is a thing that can be seen or touched, either in the physical world or as an abstract concept.",
+        "main_definition_hebrew": "חפץ הוא דבר שניתן לראות או לגעת בו, או בעולם הפיזי או כמושג מופשט.",
+        "meanings_and_examples": [
+            {
+                "definition": "A material thing that you can see and touch.",
+                "definition_hebrew": "דבר חומרי שאפשר לראות ולגעת בו.",
+                "example": "The red ball was an easy object to spot among the green leaves.",
+                "example_hebrew": "הכדור האדום היה חפץ שקל לזהות בין העלים הירוקים."
+            },
+            {
+                "definition": "Something with a specific purpose or function in society, organization, or system.",
+                "definition_hebrew": "משהו עם מטרה או פונקציה ספציפית בחברה, בארגון או במערכת.",
+                "example": "An object of study for historians is ancient civilizations and their cultural artifacts.",
+                "example_hebrew": "מושא מחקר להיסטוריונים הוא תרבויות עתיקות וחפצי התרבות שלהן."
+            },
+            {
+                "definition": "In grammar, an object refers to the noun phrase that receives the action of a verb.",
+                "definition_hebrew": "בדקדוק, אובייקט מתייחס לביטוי העצם המקבל את הפעולה של פועל.",
+                "example": "The cat chased its little mouse. In this sentence, 'mouse' is the object of the verb 'chased.'",
+                "example_hebrew": "החתול רדף אחרי העכבר הקטן שלו. במשפט זה, 'עכבר' הוא מושא הפועל 'רדף'."
+            },
+            {
+                "definition": "A term in computer programming used to describe an instance of data or a variable that can be manipulated.",
+                "definition_hebrew": "מונח בתכנות מחשב המשמש לתיאור מופע של נתונים או משתנה שניתן לתמרן.",
+                "example": "In JavaScript, you might create an object to store information about a person, like their name and age.",
+                "example_hebrew": "ב-JavaScript, אתה עשוי ליצור אובייקט לאחסון מידע על אדם, כמו שמו וגילו."
+            },
+            {
+                "definition": "An expression in logic representing some physical or abstract entity; the content of thought or statement.",
+                "definition_hebrew": "ביטוי בלוגיקה המייצג ישות פיזית או מופשטת כלשהי; תוכן המחשבה או ההצהרה.",
+                "example": "The sentence 'Snow is cold' contains the logical object 'cold.'",
+                "example_hebrew": "המשפט 'שלג קר' מכיל את האובייקט הלוגי 'קר'."
+            }
+        ]
+    }
+]

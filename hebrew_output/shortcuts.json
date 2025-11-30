@@ -1,0 +1,34 @@
+[
+    {
+        "word": "shortcuts",
+        "word_hebrew": "קיצורי דרך",
+        "main_definition": "Shortcuts refer to quicker or more efficient methods, routes, or strategies used to accomplish a task or reach a destination with less effort, time, or distance.",
+        "main_definition_hebrew": "קיצורי דרך מתייחסים לשיטות, מסלולים או אסטרטגיות מהירות או יעילות יותר המשמשות לביצוע משימה או להגיע ליעד בפחות מאמץ, זמן או מרחק.",
+        "meanings_and_examples": [
+            {
+                "definition": "A route that is not the main road and often takes less direct path but saves traveling time.",
+                "definition_hebrew": "מסלול שאינו הכביש הראשי ולעיתים לוקח בדרך פחות ישירה אך חוסך זמן נסיעה.",
+                "example": "I took a shortcut through the park to get home faster.",
+                "example_hebrew": "עשיתי קיצור דרך בפארק כדי להגיע הביתה מהר יותר."
+            },
+            {
+                "definition": "An easier or quicker way of doing something, typically involving bypassing some steps in order to save time.",
+                "definition_hebrew": "דרך קלה יותר או מהירה יותר לעשות משהו, בדרך כלל כוללת עקיפת כמה שלבים על מנת לחסוך זמן.",
+                "example": "To install this software, you can use a shortcut that skips unnecessary setup procedures.",
+                "example_hebrew": "כדי להתקין תוכנה זו, אתה יכול להשתמש בקיצור המדלג על הליכי הגדרה מיותרים."
+            },
+            {
+                "definition": "A simplified version or method used to achieve an outcome without following the complete process or instructions.",
+                "definition_hebrew": "גרסה פשוטה או שיטה המשמשת להשגת תוצאה מבלי לבצע את התהליך או ההוראות המלאות.",
+                "example": "For beginners in cooking, there are many shortcut recipes available that simplify complex dishes.",
+                "example_hebrew": "למתחילים בבישול, ישנם מתכוני קיצור רבים זמינים המפשטים מנות מורכבות."
+            },
+            {
+                "definition": "In computing and technology, a shortcut is a link or icon on a computer's desktop or file system which provides quick access to files, programs, or folders.",
+                "definition_hebrew": "בתחום המחשוב והטכנולוגיה, קיצור דרך הוא קישור או סמל בשולחן העבודה או במערכת הקבצים של המחשב המספקים גישה מהירה לקבצים, תוכניות או תיקיות.",
+                "example": "I created a shortcut for my frequently used software on the desktop so I can open it quickly.",
+                "example_hebrew": "יצרתי קיצור דרך עבור התוכנה הנפוצה שלי בשולחן העבודה כדי שאוכל לפתוח אותה במהירות."
+            }
+        ]
+    }
+]

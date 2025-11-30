@@ -1,0 +1,40 @@
+[
+    {
+        "word": "vitamin",
+        "word_hebrew": "וִיטָמִין",
+        "main_definition": "A vitamin is an organic compound that our bodies need in small amounts to function properly, often obtained through diet.",
+        "main_definition_hebrew": "ויטמין הוא תרכובת אורגנית שגופנו זקוק לה בכמויות קטנות לתפקוד תקין, המתקבלת לרוב באמצעות תזונה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Originally referred to essential nutrients required for health",
+                "definition_hebrew": "במקור הכוונה לחומרי תזונה חיוניים הדרושים לבריאות",
+                "example": "Vitamins are necessary for the body's growth and overall well-being.",
+                "example_hebrew": "ויטמינים נחוצים לצמיחת הגוף ולרווחתו הכללית."
+            },
+            {
+                "definition": "Used metaphorically to represent something that is beneficial but not necessarily essential",
+                "definition_hebrew": "משמש באופן מטפורי כדי לייצג משהו שהוא מועיל אבל לא בהכרח חיוני",
+                "example": "A good education acts like a vitamin, enriching your life even though it isn't absolutely necessary for survival.",
+                "example_hebrew": "חינוך טוב פועל כמו ויטמין, ומעשיר את חייך למרות שהוא אינו הכרחי לחלוטין להישרדות."
+            },
+            {
+                "definition": "Specifically refers to any of various fat-soluble or water-soluble organic compounds required in small amounts by living cells",
+                "definition_hebrew": "מתייחס באופן ספציפי לכל אחת מהתרכובות האורגניות המסיסות בשומן או המסיסות במים הנדרשות בכמויות קטנות על ידי תאים חיים",
+                "example": "Folic acid is a type of B vitamin that helps our body function properly.",
+                "example_hebrew": "חומצה פולית היא סוג של ויטמין B המסייע לגוף שלנו לתפקד כראוי."
+            },
+            {
+                "definition": "A term used colloquially to refer to minor but important things or activities, similar to 'icing on the cake'",
+                "definition_hebrew": "מונח המשמש בשפה הרווחת כדי להתייחס לדברים או פעילויות פעוטות אך חשובות, בדומה ל\"דובדבן שבקצפת\"",
+                "example": "His skills in public speaking were an extra 'vitamin' that made him stand out during interviews.",
+                "example_hebrew": "כישוריו בדיבור בפני קהל היו 'ויטמין' נוסף שגרם לו להתבלט במהלך ראיונות."
+            },
+            {
+                "definition": "Used in a joking manner to describe something that is considered unnecessary or trivial but brings pleasure",
+                "definition_hebrew": "משמש בצורה מבודחת כדי לתאר משהו שנחשב מיותר או טריוויאלי אבל מביא עונג",
+                "example": "Taking a short break from work can be seen as a vitamin for the mind, even though it may not directly contribute to productivity.",
+                "example_hebrew": "הפסקה קצרה מהעבודה יכולה להיחשב כוויטמין לנפש, למרות שהיא עשויה שלא לתרום ישירות לפרודוקטיביות."
+            }
+        ]
+    }
+]

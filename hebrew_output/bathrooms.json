@@ -1,0 +1,34 @@
+[
+    {
+        "word": "bathrooms",
+        "word_hebrew": "חדרי אמבטיה",
+        "main_definition": "Bathrooms refer to rooms in a building that are specifically designed and equipped with facilities such as sinks, toilets, showers, or bathtubs for personal hygiene.",
+        "main_definition_hebrew": "חדרי רחצה מתייחסים לחדרים בבניין אשר תוכננו במיוחד ומצוידים במתקנים כגון כיורים, שירותים, מקלחות או אמבטיות להיגיינה אישית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Room where people wash themselves using water",
+                "definition_hebrew": "חדר שבו אנשים שוטפים את עצמם באמצעות מים",
+                "example": "The hotel has a luxurious bathroom with a large whirlpool bathtub.",
+                "example_hebrew": "במלון חדר רחצה מפואר עם אמבט ג'קוזי גדול."
+            },
+            {
+                "definition": "A room equipped with a toilet and a sink for personal hygiene",
+                "definition_hebrew": "חדר מאובזר בשירותים ובכיור להיגיינה אישית",
+                "example": "I need to refill the soap in the bathroom's dispenser.",
+                "example_hebrew": "אני צריך למלא מחדש את הסבון במתקן של חדר האמבטיה."
+            },
+            {
+                "definition": "Room that contains both a shower and a bathtub for people to clean themselves",
+                "definition_hebrew": "חדר המכיל גם מקלחת וגם אמבטיה שאנשים יוכלו לנקות את עצמם",
+                "example": "The house has two bathrooms, one with a bathtub and another with a walk-in shower.",
+                "example_hebrew": "בבית שני חדרי רחצה, אחד עם אמבטיה ואחר עם מקלחון."
+            },
+            {
+                "definition": "A shared space in public places like restaurants or hotels where facilities are available for all guests' use",
+                "definition_hebrew": "חלל משותף במקומות ציבוריים כמו מסעדות או בתי מלון שבהם מתקנים זמינים לשימוש כל האורחים",
+                "example": "We used the restaurant's bathroom before heading to our next appointment.",
+                "example_hebrew": "השתמשנו בחדר האמבטיה של המסעדה לפני שהלכנו לפגישה הבאה שלנו."
+            }
+        ]
+    }
+]

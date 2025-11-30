@@ -1,0 +1,40 @@
+[
+    {
+        "word": "memory",
+        "word_hebrew": "זיכרון",
+        "main_definition": "Memory refers to the ability of an entity (human or machine) to store, retain, and recall information or experiences.",
+        "main_definition_hebrew": "זיכרון מתייחס ליכולת של ישות (אדם או מכונה) לאחסן, לשמור ולהיזכר במידע או חוויות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The mental faculty that enables a person to retain past experiences or events",
+                "definition_hebrew": "הכשרון המנטלי המאפשר לאדם לשמור על חוויות או אירועים בעבר",
+                "example": "Her vivid memory of her first day at school is still very clear.",
+                "example_hebrew": "הזיכרון החי שלה מהיום הראשון שלה בבית הספר עדיין ברור מאוד."
+            },
+            {
+                "definition": "A system used by computers and electronic devices to store information for later use",
+                "definition_hebrew": "מערכת המשמשת מחשבים ומכשירים אלקטרוניים לאחסון מידע לשימוש מאוחר יותר",
+                "example": "When I save a document, it is stored in the computer's memory.",
+                "example_hebrew": "כשאני שומר מסמך, הוא נשמר בזיכרון המחשב."
+            },
+            {
+                "definition": "Annual event or gathering that takes place at an educational institution to celebrate its alumni and educators",
+                "definition_hebrew": "אירוע שנתי או מפגש המתקיים במוסד חינוכי לציון בוגריו ומחנכיו",
+                "example": "The University of Oxford hosts a grand memory event every year for its graduates.",
+                "example_hebrew": "אוניברסיטת אוקספורד מארחת מדי שנה אירוע זיכרון מפואר עבור בוגריה."
+            },
+            {
+                "definition": "A recollection, reminisced by individuals about significant past events or experiences",
+                "definition_hebrew": "זיכרון, שנזכר על ידי אנשים על אירועים או חוויות משמעותיות בעבר",
+                "example": "They often shared fond memories of their childhood during family gatherings.",
+                "example_hebrew": "לעתים קרובות הם חלקו זיכרונות נעימים מילדותם במהלך מפגשים משפחתיים."
+            },
+            {
+                "definition": "The ability to recognize and remember familiar faces and places",
+                "definition_hebrew": "היכולת לזהות ולזכור פנים ומקומות מוכרים",
+                "example": "Having a good memory for faces is useful in social situations.",
+                "example_hebrew": "זיכרון טוב לפנים שימושי במצבים חברתיים."
+            }
+        ]
+    }
+]

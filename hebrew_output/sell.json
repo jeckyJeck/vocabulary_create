@@ -1,0 +1,40 @@
+[
+    {
+        "word": "sell",
+        "word_hebrew": "מכירה",
+        "main_definition": "To exchange goods or services for money.",
+        "main_definition_hebrew": "כדי להחליף סחורות או שירותים בכסף.",
+        "meanings_and_examples": [
+            {
+                "definition": "To transfer ownership of an item in return for payment.",
+                "definition_hebrew": "להעברת בעלות על פריט בתמורה לתשלום.",
+                "example": "I sold my old laptop to a friend yesterday.",
+                "example_hebrew": "מכרתי את המחשב הנייד הישן שלי לחבר אתמול."
+            },
+            {
+                "definition": "To convince someone to purchase something by promoting its benefits or features.",
+                "definition_hebrew": "לשכנע מישהו לרכוש משהו על ידי קידום היתרונות או התכונות שלו.",
+                "example": "The salesperson tried to sell the customer on the idea of buying an expensive car insurance policy.",
+                "example_hebrew": "איש המכירות ניסה למכור את הלקוח מתוך רעיון של רכישת פוליסת ביטוח רכב יקר."
+            },
+            {
+                "definition": "To distribute products in large quantities, often through a retail outlet or online platform.",
+                "definition_hebrew": "להפיץ מוצרים בכמויות גדולות, לרוב דרך חנות קמעונאית או פלטפורמה מקוונת.",
+                "example": "She sold her homemade cookies at the local farmer's market.",
+                "example_hebrew": "היא מכרה את העוגיות הביתיות שלה בשוק האיכרים המקומי."
+            },
+            {
+                "definition": "To give up control of something for money or other valuable consideration.",
+                "definition_hebrew": "לוותר על שליטה במשהו תמורת כסף או תמורה בעלת ערך אחר.",
+                "example": "He had to sell his shares in the company due to financial difficulties.",
+                "example_hebrew": "הוא נאלץ למכור את מניותיו בחברה עקב קשיים כלכליים."
+            },
+            {
+                "definition": "To use cunning, persuasion, or deception to obtain an advantage or benefit.",
+                "definition_hebrew": "להשתמש בערמומיות, שכנוע או הונאה כדי להשיג יתרון או תועלת.",
+                "example": "The politician was accused of selling votes by promising favors and benefits.",
+                "example_hebrew": "הפוליטיקאי הואשם במכירת קולות על ידי הבטחת טובות הנאה והטבות."
+            }
+        ]
+    }
+]

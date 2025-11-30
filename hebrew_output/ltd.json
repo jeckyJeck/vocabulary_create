@@ -1,0 +1,22 @@
+[
+    {
+        "word": "ltd",
+        "word_hebrew": "בע\"מ",
+        "main_definition": "Ltd stands for 'limited company' which is a type of business entity.",
+        "main_definition_hebrew": "Ltd קיצור של 'חברה מוגבלת' שהיא סוג של ישות עסקית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A legal structure for a private limited company, where liability is limited to the amount invested by shareholders",
+                "definition_hebrew": "מבנה משפטי לחברה מוגבלת פרטית, כאשר האחריות מוגבלת לסכום שהושקעו על ידי בעלי המניות",
+                "example": "My friend started his own tech startup and registered it as XYZ Ltd.",
+                "example_hebrew": "חבר שלי הקים סטארט-אפ טכנולוגי משלו ורשם אותו בתור XYZ Ltd."
+            },
+            {
+                "definition": "The abbreviation 'ltd' used in UK business names or on company documents to indicate a limited company status",
+                "definition_hebrew": "הקיצור 'ltd' המשמש בשמות עסקים בבריטניה או במסמכי החברה כדי לציין סטטוס של חברה בע\"מ",
+                "example": "Ltd is often seen at the end of corporate titles, such as Director of ABC Ltd",
+                "example_hebrew": "Ltd נראה לעתים קרובות בסוף כותרות תאגיד, כגון דירקטור של ABC Ltd"
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "spam",
+        "word_hebrew": "ספאם",
+        "main_definition": "Spam refers to unsolicited, often irrelevant or repetitive messages sent over the internet, especially in email communications.",
+        "main_definition_hebrew": "דואר זבל מתייחס להודעות לא רצויות, לעתים קרובות לא רלוונטיות או חוזרות ונשנות שנשלחות דרך האינטרנט, במיוחד בתקשורת בדוא\"ל.",
+        "meanings_and_examples": [
+            {
+                "definition": "Unsolicited bulk electronic communication",
+                "definition_hebrew": "תקשורת אלקטרונית בתפזורת לא רצויה",
+                "example": "John received a barrage of spam emails advertising weight loss pills.",
+                "example_hebrew": "ג'ון קיבל מטח של הודעות דואר זבל המפרסמות כדורים לירידה במשקל."
+            },
+            {
+                "definition": "Repetitive or irrelevant content in communication channels",
+                "definition_hebrew": "תוכן חוזר או לא רלוונטי בערוצי תקשורת",
+                "example": "The news feed on her social media was filled with spam posts from unknown accounts.",
+                "example_hebrew": "עדכון החדשות ברשתות החברתיות שלה היה מלא בפוסטים ספאם מחשבונות לא ידועים."
+            },
+            {
+                "definition": "Purchased email list for marketing purposes",
+                "definition_hebrew": "רשימת מיילים שנרכשה למטרות שיווק",
+                "example": "An online company uses a purchased database to send out promotional emails, which is considered spamming.",
+                "example_hebrew": "חברה מקוונת משתמשת במסד נתונים שנרכש כדי לשלוח מיילים פרסומיים, מה שנחשב כספאם."
+            }
+        ]
+    }
+]

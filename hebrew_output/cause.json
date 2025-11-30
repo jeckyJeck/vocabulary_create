@@ -1,0 +1,34 @@
+[
+    {
+        "word": "cause",
+        "word_hebrew": "גורם",
+        "main_definition": "To bring about or result in something; to be the reason behind an event, action, or situation.",
+        "main_definition_hebrew": "להביא או לגרום למשהו; להיות הסיבה מאחורי אירוע, פעולה או מצב.",
+        "meanings_and_examples": [
+            {
+                "definition": "The agent that brings about an effect. For example: 'Pollution is a major cause of global warming.'",
+                "definition_hebrew": "הסוכן שמביא להשפעה. לדוגמה: 'זיהום הוא גורם מרכזי להתחממות כדור הארץ'.",
+                "example": "Smoking can be the cause of lung cancer.",
+                "example_hebrew": "עישון יכול להיות הגורם לסרטן הריאות."
+            },
+            {
+                "definition": "To give rise to or produce something, often in a direct and immediate way. For example: 'The heavy rain caused flooding in the streets.'",
+                "definition_hebrew": "להוליד או לייצר משהו, לרוב בצורה ישירה ומיידית. למשל: 'הגשם הרב גרם להצפות ברחובות'.",
+                "example": "A faulty engine is causing the car not to start.",
+                "example_hebrew": "מנוע פגום גורם למכונית לא להתניע."
+            },
+            {
+                "definition": "The origin or source of an event or condition. For example: 'Fear was the cause of his hesitation.'",
+                "definition_hebrew": "המקור או המקור של אירוע או מצב. למשל: 'פחד היה הגורם להיסוס שלו'.",
+                "example": "Her lack of sleep was the cause of her poor performance in school.",
+                "example_hebrew": "חוסר השינה שלה היה הגורם לביצועים הגרועים שלה בבית הספר."
+            },
+            {
+                "definition": "To bring about through action, effort, or influence. For example: 'Volunteering can cause positive change in a community.'",
+                "definition_hebrew": "להביא לידי פעולה, מאמץ או השפעה. לדוגמה: 'התנדבות יכולה לגרום לשינוי חיובי בקהילה'.",
+                "example": "His encouragement caused her to pursue her dreams.",
+                "example_hebrew": "העידוד שלו גרם לה להגשים את חלומותיה."
+            }
+        ]
+    }
+]

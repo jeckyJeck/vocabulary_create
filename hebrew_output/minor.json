@@ -1,0 +1,34 @@
+[
+    {
+        "word": "minor",
+        "word_hebrew": "קַטִין",
+        "main_definition": "A person under the age of legal adulthood, or a lesser version/element within something.",
+        "main_definition_hebrew": "אדם מתחת לגיל בגרות חוקית, או גרסה/אלמנט פחותה בתוך משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Below average in importance, seriousness or quality.",
+                "definition_hebrew": "מתחת לממוצע בחשיבות, ברצינות או באיכות.",
+                "example": "Her injury was minor compared to others.",
+                "example_hebrew": "הפציעה שלה הייתה קלה בהשוואה לאחרים."
+            },
+            {
+                "definition": "A person under the legal age of adulthood.",
+                "definition_hebrew": "אדם מתחת לגיל הבגרות החוקי.",
+                "example": "He decided to drop out of college because he felt too young and inexperienced at 19.",
+                "example_hebrew": "הוא החליט לעזוב את הקולג' כי הרגיש צעיר מדי וחסר ניסיון בגיל 19."
+            },
+            {
+                "definition": "Lesser or secondary version of something",
+                "definition_hebrew": "גרסה קטנה או משנית של משהו",
+                "example": "This minor problem won't affect the overall performance of our system.",
+                "example_hebrew": "בעיה קלה זו לא תשפיע על הביצועים הכוללים של המערכת שלנו."
+            },
+            {
+                "definition": "Small detail that does not change the main outcome.",
+                "definition_hebrew": "פרט קטן שלא משנה את התוצאה העיקרית.",
+                "example": "The typo in his speech was a minor error, but it didn't impact its effectiveness.",
+                "example_hebrew": "שגיאת ההקלדה בנאומו הייתה טעות קלה, אך היא לא השפיעה על יעילותה."
+            }
+        ]
+    }
+]

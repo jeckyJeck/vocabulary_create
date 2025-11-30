@@ -1,0 +1,28 @@
+[
+    {
+        "word": "toll",
+        "word_hebrew": "אַגרָה",
+        "main_definition": "Toll refers to the financial charge or fee imposed by a government authority, organization, or private company for passage over a road, bridge, or other infrastructure; it can also denote the impact or effect of an event. Additionally, 'toll' signifies the number of deaths caused by something.",
+        "main_definition_hebrew": "אגרה מתייחסת לחיוב או אגרה כספיים המוטלים על ידי רשות ממשלתית, ארגון או חברה פרטית עבור מעבר על כביש, גשר או תשתית אחרת; זה יכול גם לציין את ההשפעה או ההשפעה של אירוע. בנוסף, 'אגרה' מסמלת את מספר ההרוגים שנגרמו ממשהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A fee charged for passage over a road or bridge",
+                "definition_hebrew": "אגרה הנגבית עבור מעבר על כביש או גשר",
+                "example": "I paid the toll to cross the Golden Gate Bridge.",
+                "example_hebrew": "שילמתי את האגרה כדי לחצות את גשר שער הזהב."
+            },
+            {
+                "definition": "The impact or effect of an event, particularly one that causes deaths",
+                "definition_hebrew": "ההשפעה או ההשפעה של אירוע, במיוחד כזה שגורם למוות",
+                "example": "The earthquake had a devastating toll on the population, with thousands losing their lives.",
+                "example_hebrew": "רעידת האדמה גבתה מחיר הרסני על האוכלוסייה, ואלפים איבדו את חייהם."
+            },
+            {
+                "definition": "A quantity or number of times something happens or occurs",
+                "definition_hebrew": "כמות או מספר פעמים שמשהו קורה או מתרחש",
+                "example": "The accident had a heavy toll on his mental health as he experienced it multiple times.",
+                "example_hebrew": "התאונה השפיעה רבות על בריאותו הנפשית, שכן הוא חווה אותה מספר פעמים."
+            }
+        ]
+    }
+]

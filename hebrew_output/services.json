@@ -1,0 +1,40 @@
+[
+    {
+        "word": "services",
+        "word_hebrew": "שירותים",
+        "main_definition": "Services refer to the actions or activities performed by individuals or organizations that provide assistance, support, or expertise in various fields without necessarily producing a tangible product.",
+        "main_definition_hebrew": "שירותים מתייחסים לפעולות או פעילויות המבוצעות על ידי אנשים או ארגונים המספקים סיוע, תמיכה או מומחיות בתחומים שונים מבלי לייצר בהכרח מוצר מוחשי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Professional assistance",
+                "definition_hebrew": "סיוע מקצועי",
+                "example": "The plumbing service was called to fix the leaky pipes.",
+                "example_hebrew": "שירות האינסטלציה נקרא לתקן את הצנרת הדולפת."
+            },
+            {
+                "definition": "Healthcare provision",
+                "definition_hebrew": "מתן שירותי בריאות",
+                "example": "General practitioners offer medical services, including diagnosing and treating illnesses.",
+                "example_hebrew": "רופאים כלליים מציעים שירותים רפואיים, לרבות אבחון וטיפול במחלות."
+            },
+            {
+                "definition": "Business support",
+                "definition_hebrew": "תמיכה עסקית",
+                "example": "A consulting service helped the company improve its marketing strategies.",
+                "example_hebrew": "שירות ייעוץ עזר לחברה לשפר את אסטרטגיות השיווק שלה."
+            },
+            {
+                "definition": "Educational offerings",
+                "definition_hebrew": "הצעות חינוכיות",
+                "example": "Online tutoring services provide academic assistance to students struggling with certain subjects.",
+                "example_hebrew": "שירותי שיעורים מקוונים מספקים סיוע אקדמי לסטודנטים הנאבקים בנושאים מסוימים."
+            },
+            {
+                "definition": "Public amenities",
+                "definition_hebrew": "שירותים ציבוריים",
+                "example": "The city offers various public services, such as garbage collection and street cleaning.",
+                "example_hebrew": "העיר מציעה שירותים ציבוריים שונים, כמו איסוף אשפה וניקיון רחובות."
+            }
+        ]
+    }
+]

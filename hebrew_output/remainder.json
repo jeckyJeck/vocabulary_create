@@ -1,0 +1,28 @@
+[
+    {
+        "word": "remainder",
+        "word_hebrew": "היתרה",
+        "main_definition": "Remainder refers to what is left over after a part has been taken away or used, in various contexts such as division of numbers, leftover items, or unresolved issues.",
+        "main_definition_hebrew": "השאר מתייחס למה שנשאר לאחר שחלק נלקח או נעשה בו שימוש, בהקשרים שונים כמו חלוקת מספרים, שאריות פריטים או בעיות לא פתורות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In mathematics, the remainder is what remains after dividing one number by another.",
+                "definition_hebrew": "במתמטיקה, השאר הוא מה שנשאר לאחר חלוקת מספר אחד במספר אחר.",
+                "example": "When 10 is divided by 3, the remainder is 1.",
+                "example_hebrew": "כאשר 10 מחולק ב-3, השאר הוא 1."
+            },
+            {
+                "definition": "The portion of a group or collection that remains when part has been removed or used.",
+                "definition_hebrew": "החלק של קבוצה או אוסף שנותר כאשר חלק הוסר או נעשה בו שימוש.",
+                "example": "After eating half of the pizza, there remain fewer slices for us to enjoy.",
+                "example_hebrew": "לאחר אכילת חצי מהפיצה, נותרו פחות פרוסות להנאתנו."
+            },
+            {
+                "definition": "Unresolved issues or matters that are yet to be addressed after an event or process.",
+                "definition_hebrew": "בעיות או עניינים לא פתורים שטרם טופלו לאחר אירוע או תהליך.",
+                "example": "Despite completing most tasks on time, the project still has a few remaining items before it can be considered finished.",
+                "example_hebrew": "למרות השלמת רוב המשימות בזמן, לפרויקט עדיין נותרו מספר פריטים לפני שניתן לראותו כגמור."
+            }
+        ]
+    }
+]

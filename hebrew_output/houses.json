@@ -1,0 +1,28 @@
+[
+    {
+        "word": "houses",
+        "word_hebrew": "בתים",
+        "main_definition": "The plural form of 'house' which typically refers to buildings where people live, but can also be used as an idiom with different meanings.",
+        "main_definition_hebrew": "צורת הרבים של 'בית', המתייחסת בדרך כלל לבניינים שבהם גרים אנשים, אך יכולה לשמש גם כביטוי בעל משמעויות שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A group of residential buildings",
+                "definition_hebrew": "קבוצה של בנייני מגורים",
+                "example": "There are houses on every corner in this neighborhood.",
+                "example_hebrew": "יש בתים בכל פינה בשכונה הזו."
+            },
+            {
+                "definition": "To provide shelter or protection for something",
+                "definition_hebrew": "לספק מחסה או הגנה למשהו",
+                "example": "The umbrella houses the baby from the rain.",
+                "example_hebrew": "המטריה מאכסנת את התינוק מהגשם."
+            },
+            {
+                "definition": "A collection of ideas, solutions, or approaches to address a problem",
+                "definition_hebrew": "אוסף של רעיונות, פתרונות או גישות לטיפול בבעיה",
+                "example": "We have several different houses to consider when choosing a solution to this issue.",
+                "example_hebrew": "יש לנו כמה בתים שונים שיש לקחת בחשבון בבחירת פתרון לבעיה זו."
+            }
+        ]
+    }
+]

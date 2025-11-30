@@ -1,0 +1,34 @@
+[
+    {
+        "word": "driving",
+        "word_hebrew": "נְהִיגָה",
+        "main_definition": "Driving refers to the act of operating a vehicle or controlling its movement.",
+        "main_definition_hebrew": "נהיגה מתייחסת לפעולת הפעלת כלי רכב או שליטה בתנועתו.",
+        "meanings_and_examples": [
+            {
+                "definition": "The process of steering and maneuvering a vehicle on roads or other pathways",
+                "definition_hebrew": "תהליך היגוי ותמרון רכב בכבישים או שבילים אחרים",
+                "example": "John is learning how to drive a car. He practices turning the wheel and using pedals.",
+                "example_hebrew": "ג'ון לומד איך לנהוג במכונית. הוא מתרגל לסובב את ההגה ולהשתמש בפדלים."
+            },
+            {
+                "definition": "A driving force that propels an object forward, often used metaphorically",
+                "definition_hebrew": "כוח מניע שמניע אובייקט קדימה, משמש לעתים קרובות באופן מטפורי",
+                "example": "The entrepreneur's passion for his business was the driving force behind its success.",
+                "example_hebrew": "התשוקה של היזם לעסק שלו הייתה הכוח המניע מאחורי הצלחתו."
+            },
+            {
+                "definition": "To motivate or encourage someone to take action",
+                "definition_hebrew": "להניע או לעודד מישהו לפעול",
+                "example": "Her enthusiasm and encouragement were a real driving factor in her team's performance.",
+                "example_hebrew": "ההתלהבות והעידוד שלה היו גורם מניע אמיתי בתפקוד הצוות שלה."
+            },
+            {
+                "definition": "A skill or ability, often used metaphorically when discussing personal attributes or talents",
+                "definition_hebrew": "מיומנות או יכולת, המשמשים לעתים קרובות באופן מטפורי כאשר דנים בתכונות או כישרונות אישיים",
+                "example": "His natural talent for public speaking is one of his key driving skills as a leader.",
+                "example_hebrew": "הכישרון הטבעי שלו לדבר בפני קהל הוא אחד מכישורי הנהיגה המרכזיים שלו כמנהיג."
+            }
+        ]
+    }
+]

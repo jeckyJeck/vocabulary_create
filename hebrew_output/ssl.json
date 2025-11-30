@@ -1,0 +1,28 @@
+[
+    {
+        "word": "ssl",
+        "word_hebrew": "ssl",
+        "main_definition": "Secure Sockets Layer (SSL) is a security protocol used to establish an encrypted link between a web server and a browser, ensuring secure transmission of information over the internet.",
+        "main_definition_hebrew": "Secure Sockets Layer (SSL) הוא פרוטוקול אבטחה המשמש ליצירת קישור מוצפן בין שרת אינטרנט לדפדפן, המבטיח העברה מאובטחת של מידע דרך האינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Internet Security",
+                "definition_hebrew": "בטיחות אינטרנט",
+                "example": "An SSL certificate was installed on the website's server to protect users' data during online transactions.",
+                "example_hebrew": "תעודת SSL הותקנה על שרת האתר כדי להגן על נתוני המשתמשים במהלך עסקאות מקוונות."
+            },
+            {
+                "definition": "Encryption Standard",
+                "definition_hebrew": "תקן הצפנה",
+                "example": "SSL uses encryption algorithms like RSA and SHA to secure communication between clients and servers.",
+                "example_hebrew": "SSL משתמש באלגוריתמי הצפנה כמו RSA ו-SHA כדי לאבטח תקשורת בין לקוחות ושרתים."
+            },
+            {
+                "definition": "Website Security Feature",
+                "definition_hebrew": "תכונת אבטחת אתר",
+                "example": "When you visit an e-commerce site, the browser checks for SSL in the URL (https://) indicating a secured connection.",
+                "example_hebrew": "כאשר אתה מבקר באתר מסחר אלקטרוני, הדפדפן בודק SSL בכתובת ה-URL (https://) המציינת חיבור מאובטח."
+            }
+        ]
+    }
+]

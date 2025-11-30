@@ -1,0 +1,28 @@
+[
+    {
+        "word": "adapter",
+        "word_hebrew": "מַתאֵם",
+        "main_definition": "An adapter is a device, person, or process that enables compatibility between two different systems by modifying one of them.",
+        "main_definition_hebrew": "מתאם הוא התקן, אדם או תהליך המאפשר תאימות בין שתי מערכות שונות על ידי שינוי אחת מהן.",
+        "meanings_and_examples": [
+            {
+                "definition": "A hardware component used to connect devices with incompatible plugs/sockets",
+                "definition_hebrew": "רכיב חומרה המשמש לחיבור מכשירים עם תקעים/שקעים לא תואמים",
+                "example": "An AC power adapter converts the high-voltage alternating current from a wall outlet into low-voltage direct current for electronic devices.",
+                "example_hebrew": "מתאם מתח AC ממיר את זרם החילופין במתח גבוה משקע בקיר לזרם ישר במתח נמוך עבור מכשירים אלקטרוניים."
+            },
+            {
+                "definition": "A person who adjusts or modifies their behavior to fit new environments or situations",
+                "definition_hebrew": "אדם שמתאים או משנה את התנהגותו כדי להתאים לסביבות או מצבים חדשים",
+                "example": "As an expatriate, John is learning the local customs and language; he's acting as a cultural adapter in his new country.",
+                "example_hebrew": "בתור גולה, ג'ון לומד את המנהגים והשפה המקומיים; הוא פועל כמתאם תרבותי בארצו החדשה."
+            },
+            {
+                "definition": "The process of modifying software or systems so that they can work together effectively",
+                "definition_hebrew": "תהליך של שינוי תוכנות או מערכות כך שיוכלו לעבוד יחד ביעילות",
+                "example": "In order to share data between two different office applications, an adapter was created to translate the formats and protocols used by each program.",
+                "example_hebrew": "על מנת לשתף נתונים בין שני יישומי משרד שונים, נוצר מתאם לתרגום הפורמטים והפרוטוקולים שבהם משתמשים כל תוכנה."
+            }
+        ]
+    }
+]

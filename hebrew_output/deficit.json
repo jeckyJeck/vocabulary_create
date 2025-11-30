@@ -1,0 +1,34 @@
+[
+    {
+        "word": "deficit",
+        "word_hebrew": "גֵרָעוֹן",
+        "main_definition": "A situation in which there is a shortfall or lack of something, typically money or resources.",
+        "main_definition_hebrew": "מצב שבו יש מחסור או חוסר במשהו, בדרך כלל כסף או משאבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Economic deficit, when government spending exceeds revenue",
+                "definition_hebrew": "גירעון כלכלי, כאשר ההוצאה הממשלתית עולה על ההכנסות",
+                "example": "The country has been experiencing an economic deficit for the past five years.",
+                "example_hebrew": "המדינה חווה גירעון כלכלי בחמש השנים האחרונות."
+            },
+            {
+                "definition": "Shortage of a necessary substance or nutrient in a person's diet",
+                "definition_hebrew": "מחסור בחומר או רכיב תזונתי הכרחי בתזונה של אדם",
+                "example": "A vitamin D deficit can lead to health problems like weakened bones.",
+                "example_hebrew": "מחסור בוויטמין D יכול להוביל לבעיות בריאות כמו עצמות מוחלשות."
+            },
+            {
+                "definition": "When one side falls behind the other in a competition, game, or match",
+                "definition_hebrew": "כאשר צד אחד נופל מאחורי השני בתחרות, משחק או משחק",
+                "example": "In the last quarter of the basketball game, our team fell into a 10-point deficit against their rivals.",
+                "example_hebrew": "ברבע האחרון של משחק הכדורסל הקבוצה שלנו נקלעה לפיגור של 10 נקודות מול יריבותיה."
+            },
+            {
+                "definition": "The amount by which something is less than expected or required",
+                "definition_hebrew": "הסכום שבו משהו קטן מהצפוי או הנדרש",
+                "example": "There was a significant deficit in the project's budget due to unexpected expenses.",
+                "example_hebrew": "נרשם גירעון משמעותי בתקציב הפרויקט עקב הוצאות בלתי צפויות."
+            }
+        ]
+    }
+]

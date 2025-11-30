@@ -1,0 +1,40 @@
+[
+    {
+        "word": "group",
+        "word_hebrew": "קְבוּצָה",
+        "main_definition": "A collection of people or things that are considered together because they share common characteristics or are related in some way.",
+        "main_definition_hebrew": "אוסף של אנשים או דברים שנחשבים יחד כי הם חולקים מאפיינים משותפים או קשורים בדרך כלשהי.",
+        "meanings_and_examples": [
+            {
+                "definition": "An assortment of individuals who come together for a specific purpose, such as a project or activity",
+                "definition_hebrew": "מבחר של אנשים שמתכנסים למטרה מסוימת, כגון פרויקט או פעילות",
+                "example": "The study group meets every Thursday to discuss their assignments.",
+                "example_hebrew": "קבוצת הלימוד מתכנסת מדי יום חמישי כדי לדון במטלות שלהם."
+            },
+            {
+                "definition": "A collection of objects that are organized based on common attributes or functions",
+                "definition_hebrew": "אוסף של אובייקטים שמאורגנים על סמך תכונות או פונקציות משותפות",
+                "example": "This computer store sells various electronic components in groups, such as processors and graphics cards.",
+                "example_hebrew": "חנות מחשבים זו מוכרת רכיבים אלקטרוניים שונים בקבוצות, כגון מעבדים וכרטיסים גרפיים."
+            },
+            {
+                "definition": "People who share a specific characteristic, interest, or affiliation",
+                "definition_hebrew": "אנשים שחולקים מאפיין, עניין או השתייכות ספציפיים",
+                "example": "The environmental group advocates for policies to protect endangered species.",
+                "example_hebrew": "הקבוצה הסביבתית דוגלת במדיניות להגנה על מינים בסכנת הכחדה."
+            },
+            {
+                "definition": "A set of items that are grouped together due to their similar nature or purpose",
+                "definition_hebrew": "קבוצה של פריטים המקובצים יחד בשל טבעם או מטרתם הדומים",
+                "example": "In the kitchen drawer, we keep our silverware in groups by utensil type (forks, knives, spoons).",
+                "example_hebrew": "במגירת המטבח אנו שומרים את כלי הכסף שלנו בקבוצות לפי סוג הכלים (מזלגות, סכינים, כפיות)."
+            },
+            {
+                "definition": "People who work together as a team within an organization or company",
+                "definition_hebrew": "אנשים שעובדים יחד כצוות בתוך ארגון או חברה",
+                "example": "The marketing department forms small groups to brainstorm creative ideas for new campaigns.",
+                "example_hebrew": "מחלקת השיווק מקימה קבוצות קטנות לסיעור מוחות של רעיונות יצירתיים לקמפיינים חדשים."
+            }
+        ]
+    }
+]

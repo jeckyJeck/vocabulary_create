@@ -1,0 +1,40 @@
+[
+    {
+        "word": "audio",
+        "word_hebrew": "שֶׁמַע",
+        "main_definition": "Audio refers to sound or the transmission, reception, and reproduction of sound signals.",
+        "main_definition_hebrew": "אודיו מתייחס לצליל או לשידור, קליטה ושחזור של אותות קול.",
+        "meanings_and_examples": [
+            {
+                "definition": "The range of sounds that can be heard by humans, typically from 20 Hz to 20 kHz",
+                "definition_hebrew": "טווח הצלילים שניתן לשמוע על ידי בני אדם, בדרך כלל מ-20 הרץ עד 20 קילו-הרץ",
+                "example": "Most music recordings are made with the human audio frequency range in mind.",
+                "example_hebrew": "רוב הקלטות המוזיקה נעשות מתוך מחשבה על טווח תדרי האודיו האנושי."
+            },
+            {
+                "definition": "A medium or device used for sound recording and playback",
+                "definition_hebrew": "מדיום או מכשיר המשמשים להקלטת קול והשמעה",
+                "example": "I use my smartphone's built-in microphone to make an audio call.",
+                "example_hebrew": "אני משתמש במיקרופון המובנה של הטלפון החכם שלי כדי לבצע שיחת שמע."
+            },
+            {
+                "definition": "Relating to the study of sound waves, their properties, and effects on human beings",
+                "definition_hebrew": "המתייחס לחקר גלי קול, תכונותיהם והשפעותיהם על בני אדם",
+                "example": "The audiology department conducts various tests to assess a person's hearing ability.",
+                "example_hebrew": "המחלקה האודיולוגית עורכת בדיקות שונות להערכת כושר השמיעה של האדם."
+            },
+            {
+                "definition": "A collection or compilation of sounds typically organized in some manner for easy access or reference",
+                "definition_hebrew": "אוסף או אוסף של צלילים המאורגנים בדרך כלל בצורה כלשהי לגישה קלה או התייחסות",
+                "example": "This audiobook is an anthology of speeches by famous world leaders.",
+                "example_hebrew": "ספר שמע זה הוא אנתולוגיה של נאומים של מנהיגים מפורסמים בעולם."
+            },
+            {
+                "definition": "Sound information transmitted through electronic media, such as radio waves or digital signals",
+                "definition_hebrew": "מידע קולי המועבר באמצעות מדיה אלקטרונית, כגון גלי רדיו או אותות דיגיטליים",
+                "example": "The news broadcast aired on the local AM station this morning was purely audio without visuals.",
+                "example_hebrew": "שידור החדשות ששודר בתחנת AM המקומית הבוקר היה אך ורק אודיו ללא חזותיים."
+            }
+        ]
+    }
+]

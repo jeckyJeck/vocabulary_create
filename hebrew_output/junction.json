@@ -1,0 +1,34 @@
+[
+    {
+        "word": "junction",
+        "word_hebrew": "צוֹמֶת",
+        "main_definition": "A place or point where two or more things are joined or connected, especially roads or railway lines at a common point.",
+        "main_definition_hebrew": "מקום או נקודה שבה שני דברים או יותר מחוברים או מחוברים, במיוחד כבישים או קווי רכבת בנקודה משותפת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Point of intersection in transportation networks",
+                "definition_hebrew": "נקודת צומת ברשתות תחבורה",
+                "example": "The junction where the highway meets Main Street is quite busy.",
+                "example_hebrew": "הצומת שבו הכביש המהיר פוגש את הרחוב הראשי עמוס למדי."
+            },
+            {
+                "definition": "Meeting place or assembly point for organizations, individuals or groups",
+                "definition_hebrew": "מקום מפגש או נקודת כינוס לארגונים, יחידים או קבוצות",
+                "example": "The community center serves as a junction for various local social events.",
+                "example_hebrew": "המרכז הקהילתי משמש כצומת לאירועי חברה מקומיים שונים."
+            },
+            {
+                "definition": "A complex or situation where decisions need to be made based on different options or possibilities",
+                "definition_hebrew": "תסביך או מצב שבו יש לקבל החלטות על סמך אפשרויות או אפשרויות שונות",
+                "example": "Finding the right career path is often seen as a personal junction, with multiple directions one can take.",
+                "example_hebrew": "מציאת מסלול הקריירה הנכון נתפסת לעתים קרובות כצומת אישי, עם מספר כיוונים שניתן לקחת."
+            },
+            {
+                "definition": "An electrical connection point in circuitry or electronics",
+                "definition_hebrew": "נקודת חיבור חשמלית במעגלים או אלקטרוניקה",
+                "example": "The junction box contains several wires that connect different parts of the home's electrical system.",
+                "example_hebrew": "קופסת החיבורים מכילה מספר חוטים המחברים בין חלקים שונים של מערכת החשמל בבית."
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "word": "engineering",
+        "word_hebrew": "הַנדָסָה",
+        "main_definition": "Engineering is the application of scientific, mathematical, and empirical principles to design, develop, build, and maintain structures, machines, systems, or processes that meet specific requirements or solve problems.",
+        "main_definition_hebrew": "הנדסה היא יישום של עקרונות מדעיים, מתמטיים ואמפיריים כדי לתכנן, לפתח, לבנות ולתחזק מבנים, מכונות, מערכות או תהליכים העונים על דרישות ספציפיות או לפתור בעיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A broad field encompassing various disciplines",
+                "definition_hebrew": "תחום רחב הכולל דיסציפלינות שונות",
+                "example": "Civil engineering involves designing and constructing infrastructure such as roads, bridges, and buildings.",
+                "example_hebrew": "הנדסה אזרחית כוללת תכנון ובניית תשתיות כגון כבישים, גשרים ומבנים."
+            },
+            {
+                "definition": "The use of scientific knowledge to create solutions for real-world problems",
+                "definition_hebrew": "השימוש בידע מדעי ליצירת פתרונות לבעיות בעולם האמיתי",
+                "example": "Mechanical engineering applies physics and materials science principles to design mechanical systems like engines or robots.",
+                "example_hebrew": "הנדסת מכונות מיישמת עקרונות פיזיקה ומדעי החומרים לתכנון מערכות מכניות כמו מנועים או רובוטים."
+            },
+            {
+                "definition": "A systematic approach involving research, testing, and development",
+                "definition_hebrew": "גישה שיטתית הכוללת מחקר, בדיקות ופיתוח",
+                "example": "Software engineering is the process of creating software applications by following a structured methodology, including requirements gathering, design, implementation, and maintenance.",
+                "example_hebrew": "הנדסת תוכנה היא תהליך של יצירת יישומי תוכנה על ידי ביצוע מתודולוגיה מובנית, כולל איסוף דרישות, עיצוב, הטמעה ותחזוקה."
+            },
+            {
+                "definition": "The practice of innovation in technology or processes",
+                "definition_hebrew": "הפרקטיקה של חדשנות בטכנולוגיה או תהליכים",
+                "example": "Aerospace engineering involves research, design, development, testing, and production of aircraft, spacecraft, satellites, and missiles.",
+                "example_hebrew": "הנדסת תעופה וחלל כוללת מחקר, תכנון, פיתוח, בדיקות וייצור של מטוסים, חלליות, לוויינים וטילים."
+            },
+            {
+                "definition": "The study and application of mathematics to solve practical problems",
+                "definition_hebrew": "לימוד ויישום מתמטיקה לפתרון בעיות מעשיות",
+                "example": "Electrical engineering focuses on the study and use of electricity, electronics, and electromagnetism to design and develop various electronic devices and systems.",
+                "example_hebrew": "הנדסת חשמל מתמקדת בלימוד ושימוש בחשמל, אלקטרוניקה ואלקטרומגנטיות לתכנון ופיתוח מכשירים ומערכות אלקטרוניות שונות."
+            },
+            {
+                "definition": "A profession centered around creating solutions in a specific field",
+                "definition_hebrew": "מקצוע שבמרכזו יצירת פתרונות בתחום ספציפי",
+                "example": "Environmental engineering is dedicated to finding sustainable ways to improve the environment by developing technologies for water, air, soil, and waste management.",
+                "example_hebrew": "הנדסה סביבתית מוקדשת למציאת דרכים בנות קיימא לשיפור הסביבה על ידי פיתוח טכנולוגיות לניהול מים, אוויר, קרקע ופסולת."
+            }
+        ]
+    }
+]

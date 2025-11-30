@@ -1,0 +1,40 @@
+[
+    {
+        "word": "bits",
+        "word_hebrew": "ביטים",
+        "main_definition": "In simple English, 'bits' refers to small pieces or fragments of something, often used in computing as a unit of data or in conversation to indicate parts of information.",
+        "main_definition_hebrew": "באנגלית פשוטה, 'bits' מתייחס לחתיכות קטנות או קטעים של משהו, המשמשים לעתים קרובות במחשוב כיחידת נתונים או בשיחה כדי לציין חלקי מידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Small pieces or fragments",
+                "definition_hebrew": "חתיכות קטנות או שברים",
+                "example": "After breaking the vase, there were many little bits of porcelain scattered on the floor.",
+                "example_hebrew": "לאחר שבירת האגרטל, היו הרבה חתיכות קטנות של פורצלן מפוזרות על הרצפה."
+            },
+            {
+                "definition": "Computing term for a group of binary digits (bits), typically eight in number",
+                "definition_hebrew": "מונח חישוב לקבוצה של ספרות בינאריות (סיביות), בדרך כלל שמונה במספר",
+                "example": "A single file can contain thousands or millions of bits when stored on a computer's hard drive.",
+                "example_hebrew": "קובץ בודד יכול להכיל אלפי או מיליוני ביטים כאשר הוא מאוחסן בכונן הקשיח של המחשב."
+            },
+            {
+                "definition": "Pieces of information that make up larger data sets",
+                "definition_hebrew": "פיסות מידע המרכיבות מערכי נתונים גדולים יותר",
+                "example": "The journalist compiled various bits of evidence to build a comprehensive report on the case.",
+                "example_hebrew": "העיתונאי אסף פיסות ראיות שונות כדי לבנות דו\"ח מקיף על המקרה."
+            },
+            {
+                "definition": "A small amount or quantity, often used informally",
+                "definition_hebrew": "כמות או כמות קטנה, לעתים קרובות בשימוש לא רשמי",
+                "example": "He only had a few crumbs left, which were just enough for his pet bird.",
+                "example_hebrew": "נותרו לו רק כמה פירורים, שהספיקו בדיוק לציפור המחמד שלו."
+            },
+            {
+                "definition": "Small parts of something, such as woodworking pieces",
+                "definition_hebrew": "חלקים קטנים של משהו, כגון יצירות עץ",
+                "example": "The furniture was made from various bits and bobs collected during the renovation.",
+                "example_hebrew": "הרהיטים נוצרו מביטים שונים שנאספו במהלך השיפוץ."
+            }
+        ]
+    }
+]

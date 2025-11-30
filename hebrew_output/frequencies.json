@@ -1,0 +1,34 @@
+[
+    {
+        "word": "frequencies",
+        "word_hebrew": "תדרים",
+        "main_definition": "Frequencies refer to the rate at which something occurs or is repeated over a particular period of time, often used in various contexts such as sound waves, data analysis, and occurrences.",
+        "main_definition_hebrew": "תדרים מתייחסים לקצב שבו משהו מתרחש או חוזר על עצמו במשך פרק זמן מסוים, המשמש לעתים קרובות בהקשרים שונים כגון גלי קול, ניתוח נתונים והתרחשויות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In physics, specifically acoustics, it refers to the number of times a wave oscillates per second, measured in Hertz (Hz).",
+                "definition_hebrew": "בפיזיקה, במיוחד אקוסטיקה, זה מתייחס למספר הפעמים שגל מתנודד בשנייה, הנמדד בהרץ (הרץ).",
+                "example": "The frequency of this sound is 440 Hz, which corresponds to the musical note A above middle C.",
+                "example_hebrew": "התדר של צליל זה הוא 440 הרץ, התואם את התו המוזיקלי A מעל האמצע C."
+            },
+            {
+                "definition": "In statistics and data analysis, it refers to how often a particular value or category appears in a dataset.",
+                "definition_hebrew": "בסטטיסטיקה ובניתוח נתונים, זה מתייחס לתדירות שבה מופיעים ערך או קטגוריה מסוימת במערך נתונים.",
+                "example": "Looking at the frequency distribution of test scores, we found that most students scored between 70-80 marks.",
+                "example_hebrew": "בהסתכלות על התפלגות התדירות של ציוני המבחנים, מצאנו שרוב התלמידים השיגו בין 70-80 ציונים."
+            },
+            {
+                "definition": "In communication studies and telecommunications, it refers to the rate at which data is transmitted or received over a network.",
+                "definition_hebrew": "במחקרי תקשורת וטלקומוניקציה, זה מתייחס לקצב שבו נתונים מועברים או מתקבלים ברשת.",
+                "example": "The transmission frequency of this WiFi router is set to 2.4 GHz.",
+                "example_hebrew": "תדר השידור של נתב WiFi זה מוגדר ל-2.4 GHz."
+            },
+            {
+                "definition": "In psychology and social sciences, it often pertains to the occurrence rate of specific behaviors or phenomena in a given population over time.",
+                "definition_hebrew": "בפסיכולוגיה ובמדעי החברה, זה נוגע לעתים קרובות לשיעור ההתרחשות של התנהגויות או תופעות ספציפיות באוכלוסייה נתונה לאורך זמן.",
+                "example": "The researchers studied the frequency of smoking among teenagers in urban areas.",
+                "example_hebrew": "החוקרים חקרו את תדירות העישון בקרב בני נוער באזורים עירוניים."
+            }
+        ]
+    }
+]

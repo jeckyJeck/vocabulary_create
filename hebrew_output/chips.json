@@ -1,0 +1,28 @@
+[
+    {
+        "word": "chips",
+        "word_hebrew": "צ'יפס",
+        "main_definition": "A snack food made from sliced potatoes that have been fried or baked, also a slang term referring to small parts of something broken off.",
+        "main_definition_hebrew": "חטיף העשוי מתפוחי אדמה פרוסים שטוגנו או נאפו, גם הוא מונח סלנג המתייחס לחלקים קטנים של משהו שנשבר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Snack food made from deep-fried thinly sliced potatoes",
+                "definition_hebrew": "חטיפים העשוי מתפוחי אדמה פרוסים דק מטוגנים בשמן עמוק",
+                "example": "She enjoyed some crispy chips with her beer.",
+                "example_hebrew": "היא נהנתה מכמה צ'יפס פריך עם הבירה שלה."
+            },
+            {
+                "definition": "Small fragments or pieces that have been broken off from a larger whole",
+                "definition_hebrew": "שברים קטנים או חתיכות שנשברו ממכלול גדול יותר",
+                "example": "There were several small chip marks on the edge of the glass vase after it fell to the floor.",
+                "example_hebrew": "היו כמה סימני שבבים קטנים בקצה אגרטל הזכוכית לאחר שנפל על הרצפה."
+            },
+            {
+                "definition": "In computing, refers to the data storage in chips found inside electronic devices such as computers and smartphones.",
+                "definition_hebrew": "במחשוב, מתייחס לאחסון הנתונים בשבבים הנמצאים בתוך מכשירים אלקטרוניים כגון מחשבים וסמארטפונים.",
+                "example": "The new processor has twice the number of chips for increased performance.",
+                "example_hebrew": "למעבד החדש יש פי שניים של שבבים להגברת הביצועים."
+            }
+        ]
+    }
+]

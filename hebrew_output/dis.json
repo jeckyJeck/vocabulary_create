@@ -1,0 +1,28 @@
+[
+    {
+        "word": "dis",
+        "word_hebrew": "דיס",
+        "main_definition": "The prefix 'dis-' is used to indicate negation, removal, or reversal of the action represented by a base word.",
+        "main_definition_hebrew": "הקידומת 'dis-' משמשת לציון שלילה, הסרה או היפוך של הפעולה המיוצגת על ידי מילת בסיס.",
+        "meanings_and_examples": [
+            {
+                "definition": "Negate an adjective or verb",
+                "definition_hebrew": "שלל שם תואר או פועל",
+                "example": "Disapprove means to have an unfavorable opinion towards something.",
+                "example_hebrew": "לא לאשר פירושו להיות בעל דעה לא חיובית כלפי משהו."
+            },
+            {
+                "definition": "Reverse the action of a base word",
+                "definition_hebrew": "הפוך את הפעולה של מילת בסיס",
+                "example": "Disarm means to remove weapons from someone.",
+                "example_hebrew": "פרוק מנשק פירושו להסיר נשק ממישהו."
+            },
+            {
+                "definition": "Remove or eliminate",
+                "definition_hebrew": "הסר או הסר",
+                "example": "Destroy means to completely ruin something, and 'destro' can be broken down into 'dis-' and 'tro', indicating the removal of an object.",
+                "example_hebrew": "להשמיד פירושו להרוס משהו לגמרי, ו'הרס' יכול להתפרק ל'דיס-' ו'טרו', מה שמצביע על הסרה של חפץ."
+            }
+        ]
+    }
+]

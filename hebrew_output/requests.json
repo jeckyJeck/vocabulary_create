@@ -1,0 +1,34 @@
+[
+    {
+        "word": "requests",
+        "word_hebrew": "בקשות",
+        "main_definition": "An act of asking politely or formally for something to be done, provided, or allowed.",
+        "main_definition_hebrew": "פעולה של בקשה בנימוס או רשמי לעשות משהו, לספק או להתיר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To ask for permission or information in a polite manner.",
+                "definition_hebrew": "לבקש רשות או מידע בצורה מנומסת.",
+                "example": "She requested an extension on her project deadline.",
+                "example_hebrew": "היא ביקשה להאריך את מועד הפרויקט שלה."
+            },
+            {
+                "definition": "A formal demand made to a higher authority, often in writing.",
+                "definition_hebrew": "דרישה רשמית שהופנתה לסמכות גבוהה יותר, לרוב בכתב.",
+                "example": "The employees submitted their requests for pay raises to the management.",
+                "example_hebrew": "העובדים הגישו את בקשותיהם להעלאת שכר להנהלה."
+            },
+            {
+                "definition": "An appeal or petition put forward by an individual or group, typically with specific demands or conditions attached.",
+                "definition_hebrew": "ערעור או עצומה שהועלו על ידי אדם או קבוצה, בדרך כלל עם דרישות או תנאים ספציפיים מצורפים.",
+                "example": "The citizens filed a request for better public transportation options in their city.",
+                "example_hebrew": "האזרחים הגישו בקשה לאפשרויות תחבורה ציבורית טובות יותר בעירם."
+            },
+            {
+                "definition": "A formal process of making a demand or application to access resources such as services, information, or materials.",
+                "definition_hebrew": "תהליך רשמי של הגשת דרישה או בקשה לגישה למשאבים כגון שירותים, מידע או חומרים.",
+                "example": "He submitted his online request for medical records from the hospital.",
+                "example_hebrew": "הוא הגיש את בקשתו המקוונת לתיעוד רפואי מבית החולים."
+            }
+        ]
+    }
+]

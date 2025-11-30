@@ -1,0 +1,28 @@
+[
+    {
+        "word": "uniprotkb",
+        "word_hebrew": "uniprotkb",
+        "main_definition": "UniProt Knowledgebase (UniProtKB) is a central hub of protein sequence and annotation data, providing information about the function, structure, and evolutionary relationships of proteins.",
+        "main_definition_hebrew": "UniProt Knowledgebase (UniProtKB) הוא מרכז מרכזי של רצף חלבונים ונתוני הערות, המספק מידע על התפקוד, המבנה והיחסים האבולוציוניים של חלבונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A comprehensive database",
+                "definition_hebrew": "מאגר מידע מקיף",
+                "example": "Researchers can use UniProtKB to retrieve detailed protein sequences and functional information.",
+                "example_hebrew": "חוקרים יכולים להשתמש ב-UniProtKB כדי לאחזר רצפי חלבון מפורטים ומידע תפקודי."
+            },
+            {
+                "definition": "Unique Protein Knowledgebase",
+                "definition_hebrew": "מאגר ידע ייחודי של חלבונים",
+                "example": "UniProtKB stands for 'Unique Protein Knowledgebase' indicating its focus on providing unique protein-related data.",
+                "example_hebrew": "UniProtKB מייצג 'בסיס ידע ייחודי של חלבון', המציין את התמקדותו במתן נתונים ייחודיים הקשורים לחלבון."
+            },
+            {
+                "definition": "Uniprot Consortium Database",
+                "definition_hebrew": "מסד הנתונים של קונסורציום Uniprot",
+                "example": "The UniProt database is managed by the International UniProt Consortium, comprising of scientific institutions worldwide.",
+                "example_hebrew": "מסד הנתונים של UniProt מנוהל על ידי קונסורציום UniProt הבינלאומי, המורכב ממוסדות מדעיים ברחבי העולם."
+            }
+        ]
+    }
+]

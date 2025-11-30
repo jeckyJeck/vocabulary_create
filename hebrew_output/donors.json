@@ -1,0 +1,34 @@
+[
+    {
+        "word": "donors",
+        "word_hebrew": "תורמים",
+        "main_definition": "Individuals or entities that provide financial contributions, goods, or services to support a cause, organization, or project.",
+        "main_definition_hebrew": "אנשים או ישויות המספקים תרומות כספיות, סחורות או שירותים לתמיכה במטרה, ארגון או פרויקט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Charitable individuals who donate money for non-profit organizations",
+                "definition_hebrew": "ארגוני צדקה שתורמים כסף לארגונים ללא מטרות רווח",
+                "example": "John is a generous donor who regularly contributes to the local food bank.",
+                "example_hebrew": "ג'ון הוא תורם נדיב אשר תורם באופן קבוע לבנק המזון המקומי."
+            },
+            {
+                "definition": "Organizations that receive contributions from various sources",
+                "definition_hebrew": "ארגונים המקבלים תרומות ממקורות שונים",
+                "example": "The cancer research foundation relies on numerous donors for funding their work.",
+                "example_hebrew": "הקרן לחקר הסרטן מסתמכת על תורמים רבים למימון עבודתם."
+            },
+            {
+                "definition": "Entities, such as corporations or government agencies, providing financial support to causes or projects",
+                "definition_hebrew": "ישויות, כגון תאגידים או סוכנויות ממשלתיות, המספקות תמיכה כספית למטרות או פרויקטים",
+                "example": "A pharmaceutical company acts as a major donor by sponsoring medical research programs.",
+                "example_hebrew": "חברת תרופות פועלת כתורם מרכזי על ידי חסות לתוכניות מחקר רפואי."
+            },
+            {
+                "definition": "Individuals who give blood at blood banks for those in need",
+                "definition_hebrew": "אנשים שנותנים דם בבנקי דם לנזקקים",
+                "example": "Sarah is a regular blood donor, contributing to the community's healthcare system.",
+                "example_hebrew": "שרה היא תורמת דם קבועה, תורמת למערכת הבריאות של הקהילה."
+            }
+        ]
+    }
+]

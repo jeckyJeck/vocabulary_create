@@ -1,0 +1,40 @@
+[
+    {
+        "word": "session",
+        "word_hebrew": "מוֹשָׁב",
+        "main_definition": "A session refers to a period of time during which activities take place, typically in the context of meetings, discussions, or computer-based interactions.",
+        "main_definition_hebrew": "מפגש מתייחס לפרק זמן שבמהלכו מתקיימות פעילויות, בדרך כלל בהקשר של פגישות, דיונים או אינטראקציות מבוססות מחשב.",
+        "meanings_and_examples": [
+            {
+                "definition": "Meeting or gathering",
+                "definition_hebrew": "פגישה או התכנסות",
+                "example": "The marketing team had their weekly session to discuss new strategies.",
+                "example_hebrew": "צוות השיווק ערך את הפגישה השבועית שלו כדי לדון באסטרטגיות חדשות."
+            },
+            {
+                "definition": "Time allocated for study, work, or a specific activity",
+                "definition_hebrew": "זמן שהוקצה ללימודים, עבודה או פעילות ספציפית",
+                "example": "She has three sessions of calculus class every Monday and Wednesday evening.",
+                "example_hebrew": "יש לה שלושה מפגשים של שיעור חשבון בכל שני ורביעי בערב."
+            },
+            {
+                "definition": "Period of time spent using software applications like web browsers",
+                "definition_hebrew": "פרק הזמן המושקע בשימוש ביישומי תוכנה כמו דפדפני אינטרנט",
+                "example": "The computer session lasted for two hours while the user worked on a project.",
+                "example_hebrew": "סשן המחשב נמשך שעתיים בזמן שהמשתמש עבד על פרויקט."
+            },
+            {
+                "definition": "A group therapy or counseling session",
+                "definition_hebrew": "טיפול קבוצתי או פגישת ייעוץ",
+                "example": "He attends weekly sessions with his psychologist to address personal issues.",
+                "example_hebrew": "הוא משתתף במפגשים שבועיים עם הפסיכולוג שלו כדי לטפל בבעיות אישיות."
+            },
+            {
+                "definition": "Period for performing a task or process, such as in computing or legislative bodies",
+                "definition_hebrew": "תקופה לביצוע משימה או תהליך, כגון בגופי מחשוב או חקיקה",
+                "example": "The committee will hold multiple public sessions before voting on the new bill.",
+                "example_hebrew": "הוועדה תקיים מספר מושבים ציבוריים לפני ההצבעה על הצעת החוק החדשה."
+            }
+        ]
+    }
+]

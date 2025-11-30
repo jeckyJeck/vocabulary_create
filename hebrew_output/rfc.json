@@ -1,0 +1,28 @@
+[
+    {
+        "word": "rfc",
+        "word_hebrew": "rfc",
+        "main_definition": "RFC stands for Request For Comments, which refers to a document series created by the Internet Engineering Task Force (IETF) and various organizations that describe methods, behaviors, research, or innovations applicable to the working of the Internet and the Internet community.",
+        "main_definition_hebrew": "RFC ראשי תיבות של Request For Comments, המתייחס לסדרת מסמכים שנוצרה על ידי ה-Internet Engineering Task Force (IETF) וארגונים שונים המתארים שיטות, התנהגויות, מחקרים או חידושים החלים על פעולת האינטרנט וקהילת האינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Technical Standard",
+                "definition_hebrew": "תקן טכני",
+                "example": "RFC 2616 is a document that describes the Hypertext Transfer Protocol (HTTP) version 1.1.",
+                "example_hebrew": "RFC 2616 הוא מסמך המתאר את פרוטוקול העברת ההיפרטקסט (HTTP) גרסה 1.1."
+            },
+            {
+                "definition": "Internet Request For Comments",
+                "definition_hebrew": "בקשה באינטרנט להערות",
+                "example": "The RFC for the Domain Name System (DNS) protocol, DNSSEC, and various other internet-related technical specifications.",
+                "example_hebrew": "ה-RFC עבור פרוטוקול מערכת שמות הדומיין (DNS), DNSSEC ומפרטים טכניים שונים אחרים הקשורים לאינטרנט."
+            },
+            {
+                "definition": "Suggestion or Proposal for Consideration",
+                "definition_hebrew": "הצעה או הצעה לשיקול",
+                "example": "RFC 3704 proposes guidelines on using email authentication methods to combat spam.",
+                "example_hebrew": "RFC 3704 מציע הנחיות לשימוש בשיטות אימות דואר אלקטרוני כדי להילחם בספאם."
+            }
+        ]
+    }
+]

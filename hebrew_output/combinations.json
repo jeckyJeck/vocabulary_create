@@ -1,0 +1,34 @@
+[
+    {
+        "word": "combinations",
+        "word_hebrew": "שילובים",
+        "main_definition": "Combinations refer to the different ways items or elements can be selected, arranged, or used together without considering their order.",
+        "main_definition_hebrew": "שילובים מתייחסים לדרכים השונות שבהן ניתן לבחור, לסדר או להשתמש בפריטים או אלמנטים יחד מבלי להתחשב בסדר שלהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Different arrangements of objects",
+                "definition_hebrew": "סידורים שונים של חפצים",
+                "example": "When we say there are 10 combinations of choosing 3 balls from a set of 5 different colored balls, it means the balls can be arranged in 120 distinct ways.",
+                "example_hebrew": "כשאנחנו אומרים שיש 10 שילובים של בחירה של 3 כדורים מתוך סט של 5 כדורים בצבעים שונים, זה אומר שניתן לסדר את הכדורים ב-120 דרכים שונות."
+            },
+            {
+                "definition": "Various possible selections from a group",
+                "definition_hebrew": "בחירות אפשריות שונות מקבוצה",
+                "example": "If you have to choose a committee of 4 people out of 10 candidates, there are 210 different combinations or selections that can be made.",
+                "example_hebrew": "אם אתה צריך לבחור ועדה של 4 אנשים מתוך 10 מועמדים, יש 210 שילובים או בחירות שונות שניתן לבצע."
+            },
+            {
+                "definition": "All possible ways two or more things can be combined",
+                "definition_hebrew": "כל הדרכים האפשריות ניתן לשלב שני דברים או יותר",
+                "example": "In a board game where you roll dice and move your piece according to the number rolled, each combination of numbers has a unique outcome for gameplay progression.",
+                "example_hebrew": "במשחק לוח שבו אתה מטיל קוביות ומזיז את הכלי שלך לפי המספר שהוטל, לכל שילוב של מספרים יש תוצאה ייחודית להתקדמות המשחק."
+            },
+            {
+                "definition": "Sequences with specific characteristics in mathematics or computer science",
+                "definition_hebrew": "רצפים עם מאפיינים ספציפיים במתמטיקה או במדעי המחשב",
+                "example": "Permutations are a type of combinations where order matters. For example, there are 6 permutations (combinations) of the word 'CAT' ('CAT', 'CTA', 'ACT', 'ATC', 'TCA', 'TAC').",
+                "example_hebrew": "תמורות הן סוג של שילובים שבהם הסדר חשוב. לדוגמה, יש 6 תמורות (שילובים) של המילה 'CAT' ('CAT', 'CTA', 'ACT', 'ATC', 'TCA', 'TAC')."
+            }
+        ]
+    }
+]

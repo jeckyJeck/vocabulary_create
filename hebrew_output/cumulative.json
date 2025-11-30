@@ -1,0 +1,34 @@
+[
+    {
+        "word": "cumulative",
+        "word_hebrew": "מִצטַבֵּר",
+        "main_definition": "Describing something that is added together over time, typically resulting in an increasing total or sum.",
+        "main_definition_hebrew": "תיאור של משהו שמתחבר לאורך זמן, בדרך כלל גורם להגדלת סך או סכום.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to the accumulation of effects, benefits, or costs over a period",
+                "definition_hebrew": "המתייחס להצטברות של השפעות, יתרונות או עלויות לאורך תקופה",
+                "example": "The cumulative cost of living increases has made it difficult for families to make ends meet.",
+                "example_hebrew": "עליית יוקר המחיה המצטברת הקשתה על משפחות להסתדר."
+            },
+            {
+                "definition": "Concerning or involving a total that is gradually increased by successive additions",
+                "definition_hebrew": "לגבי או כולל סך המוגדל בהדרגה על ידי תוספות עוקבות",
+                "example": "His performance in the marathon was impressive, with his cumulative time being the fastest among all participants.",
+                "example_hebrew": "הביצועים שלו במרתון היו מרשימים, כאשר הזמן המצטבר שלו היה המהיר ביותר מבין כל המשתתפים."
+            },
+            {
+                "definition": "Pertaining to something that grows larger over time through continuous addition",
+                "definition_hebrew": "נוגע למשהו שגדל עם הזמן באמצעות הוספה מתמשכת",
+                "example": "The company's cumulative revenue has been steadily increasing since its inception.",
+                "example_hebrew": "ההכנסות המצטברות של החברה גדלו בהתמדה מאז הקמתה."
+            },
+            {
+                "definition": "Refers to the total amount of a particular resource or quantity obtained by accumulating smaller amounts over time",
+                "definition_hebrew": "מתייחס לכמות הכוללת של משאב או כמות מסוימת שהושגה על ידי צבירת כמויות קטנות יותר לאורך זמן",
+                "example": "She saved $10 every week, and after 52 weeks her cumulative savings reached $520.",
+                "example_hebrew": "היא חסכה 10 דולר בכל שבוע, ולאחר 52 שבועות החסכון המצטבר שלה הגיע ל-520 דולר."
+            }
+        ]
+    }
+]

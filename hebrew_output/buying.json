@@ -1,0 +1,34 @@
+[
+    {
+        "word": "buying",
+        "word_hebrew": "קְנִיָה",
+        "main_definition": "To purchase something in exchange for money.",
+        "main_definition_hebrew": "לרכוש משהו בתמורה לכסף.",
+        "meanings_and_examples": [
+            {
+                "definition": "To acquire a product or service by paying the seller.",
+                "definition_hebrew": "לרכוש מוצר או שירות באמצעות תשלום למוכר.",
+                "example": "I'm buying groceries at the supermarket.",
+                "example_hebrew": "אני קונה מצרכים בסופר."
+            },
+            {
+                "definition": "The act of spending money to obtain something desired.",
+                "definition_hebrew": "הפעולה של הוצאת כסף כדי להשיג משהו רצוי.",
+                "example": "She is buying new clothes for the upcoming season.",
+                "example_hebrew": "היא קונה בגדים חדשים לעונה הקרובה."
+            },
+            {
+                "definition": "To make a transaction where one party pays another in exchange for an item or service.",
+                "definition_hebrew": "לבצע עסקה שבה צד אחד משלם לאחר בתמורה לפריט או שירות.",
+                "example": "He bought a car from the dealership today.",
+                "example_hebrew": "הוא קנה מכונית מהסוכנות היום."
+            },
+            {
+                "definition": "A financial obligation resulting from purchasing goods or services.",
+                "definition_hebrew": "התחייבות פיננסית הנובעת מרכישת מוצרים או שירותים.",
+                "example": "His credit card bill is high because he's been buying things frequently.",
+                "example_hebrew": "חשבון כרטיס האשראי שלו גבוה כי הוא קונה דברים לעתים קרובות."
+            }
+        ]
+    }
+]

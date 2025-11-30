@@ -1,0 +1,40 @@
+[
+    {
+        "word": "grid",
+        "word_hebrew": "רֶשֶׁת",
+        "main_definition": "A framework of intersecting lines, or a system used to organize information in a structured manner.",
+        "main_definition_hebrew": "מסגרת של קווים מצטלבים, או מערכת המשמשת לארגון מידע בצורה מובנית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A structure made up of horizontal and vertical lines that form squares or rectangles",
+                "definition_hebrew": "מבנה המורכב מקווים אופקיים ואנכיים היוצרים ריבועים או מלבנים",
+                "example": "The solar panels were installed on the rooftop, creating an intricate grid pattern.",
+                "example_hebrew": "הפאנלים הסולאריים הותקנו על הגג, ויצרו דפוס רשת מורכב."
+            },
+            {
+                "definition": "An arrangement of intersecting parallel lines to organize data in a table format",
+                "definition_hebrew": "סידור של קווים מקבילים מצטלבים לארגון נתונים בפורמט טבלה",
+                "example": "The newspaper used a grid layout for its daily horoscope section, with columns for zodiac signs and rows for daytime predictions.",
+                "example_hebrew": "העיתון השתמש בפריסת רשת עבור מדור ההורוסקופ היומי שלו, עם עמודות למזלות ושורות לחיזוי היום."
+            },
+            {
+                "definition": "A systematic way to divide an area into smaller sections using lines or boundaries",
+                "definition_hebrew": "דרך שיטתית לחלק אזור למקטעים קטנים יותר באמצעות קווים או גבולות",
+                "example": "To plant crops efficiently, farmers often use a grid pattern when preparing the fields.",
+                "example_hebrew": "כדי לשתול יבולים ביעילות, חקלאים משתמשים לרוב בתבנית רשת בעת הכנת השדות."
+            },
+            {
+                "definition": "The arrangement of squares on a chessboard that guides game strategy",
+                "definition_hebrew": "סידור המשבצות על לוח שחמט המנחה את אסטרטגיית המשחק",
+                "example": "During their intense match, both players were mindful of the potential moves available within the 8x8 grid.",
+                "example_hebrew": "במהלך המשחק האינטנסיבי שלהם, שני השחקנים היו מודעים למהלכים הפוטנציאליים הזמינים ברשת 8x8."
+            },
+            {
+                "definition": "A network of interconnected lines or cells in certain technologies like batteries and solar arrays",
+                "definition_hebrew": "רשת של קווים או תאים מחוברים בטכנולוגיות מסוימות כמו סוללות ומערכים סולאריים",
+                "example": "The lithium-ion battery has a grid of cells, each contributing to the overall energy storage capacity.",
+                "example_hebrew": "לסוללת הליתיום-יון יש רשת של תאים, שכל אחד מהם תורם לקיבולת אחסון האנרגיה הכוללת."
+            }
+        ]
+    }
+]

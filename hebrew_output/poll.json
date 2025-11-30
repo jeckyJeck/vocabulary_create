@@ -1,0 +1,34 @@
+[
+    {
+        "word": "poll",
+        "word_hebrew": "מִשׁאָל",
+        "main_definition": "A method of collecting opinions or data from a group, usually used to determine the most popular choice among several options.",
+        "main_definition_hebrew": "שיטה לאיסוף דעות או נתונים מקבוצה, המשמשת בדרך כלל לקביעת הבחירה הפופולרית ביותר מבין מספר אפשרויות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To ask people for their opinion on a particular topic, question, or issue",
+                "definition_hebrew": "לשאול אנשים לדעתם על נושא מסוים, שאלה או נושא מסוים",
+                "example": "The political party decided to poll its voters about their stance on environmental policies.",
+                "example_hebrew": "המפלגה הפוליטית החליטה לסקר את מצביעיה לגבי עמדתם לגבי מדיניות סביבתית."
+            },
+            {
+                "definition": "An official count of votes in an election to determine the winner",
+                "definition_hebrew": "ספירה רשמית של הקולות בבחירות לקביעת הזוכה",
+                "example": "The final results of the mayoral race were announced after a close and highly anticipated vote count.",
+                "example_hebrew": "התוצאות הסופיות של המירוץ לראשות העיר פורסמו לאחר ספירת קולות צמודה ומצופה."
+            },
+            {
+                "definition": "A survey or questionnaire designed to gather information about public opinion on various subjects",
+                "definition_hebrew": "סקר או שאלון שנועדו לאסוף מידע על דעת הקהל בנושאים שונים",
+                "example": "To understand consumer preferences, the market research firm conducted an extensive poll on food choices among different age groups.",
+                "example_hebrew": "כדי להבין את העדפות הצרכנים, חברת מחקרי השוק ערכה סקר נרחב על בחירת מזון בקרב קבוצות גיל שונות."
+            },
+            {
+                "definition": "The process of selecting individuals from a larger group by using some criteria or voting method",
+                "definition_hebrew": "תהליך בחירת יחידים מקבוצה גדולה יותר על ידי שימוש בקריטריונים מסוימים או שיטת הצבעה",
+                "example": "In college elections, candidates were chosen through a fair and transparent polling system.",
+                "example_hebrew": "בבחירות למכללות נבחרו המועמדים באמצעות מערכת סקרים הוגנת ושקופה."
+            }
+        ]
+    }
+]

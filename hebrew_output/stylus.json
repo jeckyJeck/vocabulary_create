@@ -1,0 +1,34 @@
+[
+    {
+        "word": "stylus",
+        "word_hebrew": "חֶרֶט",
+        "main_definition": "A thin, pointed tool used to write or make marks on a surface, particularly in the context of using digital devices.",
+        "main_definition_hebrew": "כלי דק ומחודד המשמש לכתיבה או יצירת סימנים על משטח, במיוחד בהקשר של שימוש במכשירים דיגיטליים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A writing implement for ancient Roman styluses",
+                "definition_hebrew": "כלי כתיבה לסגנונות רומיים עתיקים",
+                "example": "The Romans would use a stylus with a metal nib to inscribe letters on wax tablets.",
+                "example_hebrew": "הרומאים היו משתמשים בחרט עם ציפורן מתכת כדי לרשום אותיות על לוחות שעווה."
+            },
+            {
+                "definition": "A pointed tool used in traditional calligraphy or hand-drawn art",
+                "definition_hebrew": "כלי מחודד המשמש בקליגרפיה מסורתית או אמנות מצוירת ביד",
+                "example": "An artist uses a stylus to create intricate designs on a touchscreen drawing pad.",
+                "example_hebrew": "אמן משתמש בחרט כדי ליצור עיצובים מורכבים על משטח ציור עם מסך מגע."
+            },
+            {
+                "definition": "The metal part of a computer mouse that makes contact with the surface it's used on",
+                "definition_hebrew": "החלק המתכתי של עכבר מחשב היוצר מגע עם המשטח עליו הוא משמש",
+                "example": "When I press down on my laptop's stylus, it registers as a click just like my finger would on the touchpad.",
+                "example_hebrew": "כאשר אני לוחץ על העט של המחשב הנייד שלי, הוא נרשם כלחיצה בדיוק כמו האצבע שלי על משטח המגע."
+            },
+            {
+                "definition": "A tool in modern tablet computers or e-readers for interacting with content",
+                "definition_hebrew": "כלי במחשבי טאבלט מודרניים או בקוראי אלקטרוני לאינטראקציה עם תוכן",
+                "example": "I use the stylus to navigate through the book's features and annotations without smudging the screen.",
+                "example_hebrew": "אני משתמש בחרט כדי לנווט בין התכונות וההערות של הספר מבלי להכתים את המסך."
+            }
+        ]
+    }
+]

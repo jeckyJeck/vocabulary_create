@@ -1,0 +1,40 @@
+[
+    {
+        "word": "ranking",
+        "word_hebrew": "דירוג",
+        "main_definition": "Ranking refers to the process of arranging or ordering items, individuals, or entities according to their relative importance, value, quality, or performance.",
+        "main_definition_hebrew": "דירוג מתייחס לתהליך של סידור או הזמנת פריטים, יחידים או ישויות לפי חשיבותם היחסית, ערכם, איכותם או ביצועיהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Order based on positions in a list",
+                "definition_hebrew": "סדר לפי מיקומים ברשימה",
+                "example": "The annual ranking of universities by QS World University Ranking.",
+                "example_hebrew": "הדירוג השנתי של אוניברסיטאות לפי QS World University Ranking."
+            },
+            {
+                "definition": "Ranking according to performance or achievement",
+                "definition_hebrew": "דירוג לפי ביצועים או הישגים",
+                "example": "Athletes are ranked after each race based on their times in a swimming competition.",
+                "example_hebrew": "הספורטאים מדורגים לאחר כל מרוץ על סמך הזמנים שלהם בתחרות שחייה."
+            },
+            {
+                "definition": "Order of importance among items or concepts",
+                "definition_hebrew": "סדר חשיבות בין פריטים או מושגים",
+                "example": "In film reviews, movies can be ranked by critics according to the perceived quality and impact.",
+                "example_hebrew": "בביקורות סרטים ניתן לדרג סרטים על ידי המבקרים לפי האיכות וההשפעה הנתפסים."
+            },
+            {
+                "definition": "Ranking based on popularity or preference",
+                "definition_hebrew": "דירוג מבוסס על פופולריות או העדפה",
+                "example": "Music artists often have rankings of songs based on their popularity among fans, as seen in music charts like Billboard Hot 100.",
+                "example_hebrew": "לאמני מוזיקה יש לעתים קרובות דירוג של שירים על סמך הפופולריות שלהם בקרב מעריצים, כפי שניתן לראות במצעדי מוזיקה כמו Billboard Hot 100."
+            },
+            {
+                "definition": "Classification system to organize and prioritize data for analysis",
+                "definition_hebrew": "מערכת סיווג לארגון ותעדוף נתונים לניתוח",
+                "example": "A business might use customer ranking systems to identify key clients based on sales volume or revenue contribution.",
+                "example_hebrew": "עסק עשוי להשתמש במערכות דירוג לקוחות כדי לזהות לקוחות מפתח על סמך נפח מכירות או תרומת הכנסות."
+            }
+        ]
+    }
+]

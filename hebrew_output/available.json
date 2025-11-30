@@ -1,0 +1,34 @@
+[
+    {
+        "word": "available",
+        "word_hebrew": "זמין",
+        "main_definition": "Easily obtainable or at one's disposal.",
+        "main_definition_hebrew": "ניתן להשיג בקלות או לרשות האדם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Present in a location, time, or condition where someone can access or use it.",
+                "definition_hebrew": "הצג במיקום, זמן או מצב שבו מישהו יכול לגשת אליו או להשתמש בו.",
+                "example": "The coffee shop is available until 10 PM.",
+                "example_hebrew": "בית הקפה זמין עד 22:00."
+            },
+            {
+                "definition": "Ready and able to be used; not already committed or taken.",
+                "definition_hebrew": "מוכן ויכול לשמש; לא כבר מחויב או נלקח.",
+                "example": "After the meeting ended, my schedule was available for new appointments.",
+                "example_hebrew": "לאחר שהפגישה הסתיימה, לוח הזמנים שלי היה זמין לפגישות חדשות."
+            },
+            {
+                "definition": "Accessible in terms of time or resources when needed.",
+                "definition_hebrew": "נגיש במונחים של זמן או משאבים בעת הצורך.",
+                "example": "The online support services are available 24/7 to assist customers.",
+                "example_hebrew": "שירותי התמיכה המקוונים זמינים 24/7 כדי לסייע ללקוחות."
+            },
+            {
+                "definition": "Not occupied; not currently being used by someone else.",
+                "definition_hebrew": "לא תפוס; לא נמצא כעת בשימוש על ידי מישהו אחר.",
+                "example": "His phone number is available, so we can reach him anytime.",
+                "example_hebrew": "מספר הטלפון שלו זמין, כך שנוכל להשיג אותו בכל עת."
+            }
+        ]
+    }
+]

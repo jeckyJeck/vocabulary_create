@@ -1,0 +1,40 @@
+[
+    {
+        "word": "within",
+        "word_hebrew": "בְּתוֹך",
+        "main_definition": "Within means 'inside' or 'limited to a certain area, boundary, or time frame'.",
+        "main_definition_hebrew": "בתוך פירושו 'בפנים' או 'מוגבל לאזור, גבול או מסגרת זמן מסוימים'.",
+        "meanings_and_examples": [
+            {
+                "definition": "Inside of boundaries",
+                "definition_hebrew": "בתוך הגבולות",
+                "example": "The park is open within the city limits.",
+                "example_hebrew": "הפארק פתוח בגבולות העיר."
+            },
+            {
+                "definition": "Temporally limited",
+                "definition_hebrew": "מוגבל זמנית",
+                "example": "We have one week within which to complete the project.",
+                "example_hebrew": "יש לנו שבוע אחד להשלים את הפרויקט."
+            },
+            {
+                "definition": "Restricted area",
+                "definition_hebrew": "אזור מוגבל",
+                "example": "Access is restricted within certain parts of the facility for safety reasons.",
+                "example_hebrew": "הגישה מוגבלת בחלקים מסוימים של המתקן מטעמי בטיחות."
+            },
+            {
+                "definition": "Within a specific range or quantity",
+                "definition_hebrew": "בטווח או כמות ספציפיים",
+                "example": "The recommended daily intake of sugar should not exceed 10% of your total calorie consumption, which means it's typically advised to keep your sugar intake within certain limits.",
+                "example_hebrew": "הצריכה היומית המומלצת של סוכר לא תעלה על 10% מסך צריכת הקלוריות שלך, מה שאומר שבדרך כלל מומלץ לשמור על צריכת הסוכר שלך בגבולות מסוימים."
+            },
+            {
+                "definition": "Within legal restrictions or rules",
+                "definition_hebrew": "במסגרת הגבלות או כללים חוקיים",
+                "example": "Smoking is prohibited within this building as per the fire safety regulations.",
+                "example_hebrew": "עישון אסור בבניין זה בהתאם לתקנות בטיחות האש."
+            }
+        ]
+    }
+]

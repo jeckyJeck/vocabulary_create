@@ -1,0 +1,28 @@
+[
+    {
+        "word": "infection",
+        "word_hebrew": "הַדבָּקָה",
+        "main_definition": "An infection refers to the invasion and multiplication of microorganisms, such as bacteria, viruses, or parasites, within a host organism leading to harmful effects on that organism's health.",
+        "main_definition_hebrew": "זיהום מתייחס לפלישה והתרבות של מיקרואורגניזמים, כגון חיידקים, וירוסים או טפילים, בתוך אורגניזם מארח המוביל להשפעות מזיקות על בריאותו של אותו אורגניזם.",
+        "meanings_and_examples": [
+            {
+                "definition": "A disease caused by the presence and multiplication of pathogenic microorganisms in a host organism",
+                "definition_hebrew": "מחלה הנגרמת על ידי נוכחות והתרבות של מיקרואורגניזמים פתוגניים באורגניזם מארח",
+                "example": "She was diagnosed with bacterial infection after presenting symptoms like fever and inflammation.",
+                "example_hebrew": "היא אובחנה עם זיהום חיידקי לאחר שהציגה תסמינים כמו חום ודלקת."
+            },
+            {
+                "definition": "The spread of an infectious agent to new hosts through contact, airborne particles or bodily fluids",
+                "definition_hebrew": "התפשטות גורם זיהומי למארחים חדשים באמצעות מגע, חלקיקים הנישאים באוויר או נוזלי גוף",
+                "example": "During the flu season, it's essential to wash hands frequently to prevent infection from spreading.",
+                "example_hebrew": "במהלך עונת השפעת, חיוני לשטוף ידיים לעתים קרובות כדי למנוע את התפשטות הזיהום."
+            },
+            {
+                "definition": "The process of introducing a beneficial microorganism into an organism to combat harmful ones",
+                "definition_hebrew": "תהליך החדרת מיקרואורגניזם מועיל לאורגניזם כדי להילחם במזיקים",
+                "example": "A probiotic supplement can introduce good bacteria, helping the body fight against harmful infections.",
+                "example_hebrew": "תוסף פרוביוטיקה יכול להכניס חיידקים טובים, לעזור לגוף להילחם נגד זיהומים מזיקים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "library",
+        "word_hebrew": "סִפְרִיָה",
+        "main_definition": "A library is a collection of books, resources, and other materials organized for use, study, and research.",
+        "main_definition_hebrew": "ספרייה היא אוסף של ספרים, משאבים וחומרים אחרים המאורגנים לשימוש, לימוד ומחקר.",
+        "meanings_and_examples": [
+            {
+                "definition": "An institution that provides access to books and information.",
+                "definition_hebrew": "מוסד המעניק גישה לספרים ומידע.",
+                "example": "I spent the afternoon at the local public library reading novels.",
+                "example_hebrew": "ביליתי את אחר הצהריים בספרייה הציבורית המקומית בקריאת רומנים."
+            },
+            {
+                "definition": "A collection of digital resources, often available online or through an app.",
+                "definition_hebrew": "אוסף של משאבים דיגיטליים, זמינים לרוב באינטרנט או דרך אפליקציה.",
+                "example": "The university's e-library allows students to access scholarly articles and research papers remotely.",
+                "example_hebrew": "הספרייה האלקטרונית של האוניברסיטה מאפשרת לסטודנטים לגשת למאמרים ולעבודות מחקר מרחוק."
+            },
+            {
+                "definition": "In computing, a library is a set of precompiled routines that a program can use.",
+                "definition_hebrew": "במחשוב, ספריה היא קבוצה של שגרות מהודרות מראש שבהן תוכנית יכולה להשתמש.",
+                "example": "The math library in our computer program helps us perform complex calculations quickly.",
+                "example_hebrew": "ספריית המתמטיקה בתוכנת המחשב שלנו עוזרת לנו לבצע חישובים מורכבים במהירות."
+            }
+        ]
+    }
+]

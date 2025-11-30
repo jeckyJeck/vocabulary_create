@@ -1,0 +1,34 @@
+[
+    {
+        "word": "deny",
+        "word_hebrew": "לְהַכּחִישׁ",
+        "main_definition": "to refuse to accept or believe something, usually a statement or accusation.",
+        "main_definition_hebrew": "לסרב לקבל או להאמין במשהו, בדרך כלל הצהרה או האשמה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To reject the validity of an assertion, often made forcefully or in defiance of evidence supporting it.",
+                "definition_hebrew": "לדחות את תקפותה של קביעה, לעתים קרובות בתוקף או בניגוד לראיות התומכות בה.",
+                "example": "The suspect continued to deny any involvement in the crime despite overwhelming proof.",
+                "example_hebrew": "החשוד המשיך להכחיש כל מעורבות בפשע למרות הוכחות מוחצות."
+            },
+            {
+                "definition": "To refuse a request for something explicitly or verbally.",
+                "definition_hebrew": "לסרב לבקשה למשהו במפורש או בעל פה.",
+                "example": "She denied my friend's request to borrow her car because she was concerned about his driving record.",
+                "example_hebrew": "היא דחתה את בקשתה של חברתי לשאול את המכונית שלה, כי היא דאגה לרקורד הנהיגה שלו."
+            },
+            {
+                "definition": "Not to admit the existence of an unpleasant truth, fact, or opinion, often by refusing to acknowledge it directly.",
+                "definition_hebrew": "לא להודות בקיומם של אמת, עובדה או דעה לא נעימות, לעתים קרובות על ידי סירוב להכיר בכך ישירות.",
+                "example": "He denied that he had ever been involved with her, but his evasive answers suggested otherwise.",
+                "example_hebrew": "הוא הכחיש שאי פעם היה מעורב איתה, אבל תשובותיו המתחמקות העלו אחרת."
+            },
+            {
+                "definition": "To refuse to recognize the existence of a claim, demand, right, or truth as true.",
+                "definition_hebrew": "לסרב להכיר בקיומה של טענה, דרישה, זכות או אמת כאמת.",
+                "example": "The company denied all allegations of environmental violations and promised an internal investigation.",
+                "example_hebrew": "החברה הכחישה את כל הטענות להפרות סביבתיות והבטיחה חקירה פנימית."
+            }
+        ]
+    }
+]

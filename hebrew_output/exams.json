@@ -1,0 +1,34 @@
+[
+    {
+        "word": "exams",
+        "word_hebrew": "בחינות",
+        "main_definition": "Exams are assessments used to evaluate a person's knowledge, skills, or abilities in various subjects or areas.",
+        "main_definition_hebrew": "בחינות הן הערכות המשמשות להערכת הידע, הכישורים או היכולות של אדם בנושאים או תחומים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Assessment of students' academic performance at the end of an instructional unit like a course or semester",
+                "definition_hebrew": "הערכת הביצועים האקדמיים של התלמידים בתום יחידת הוראה כמו קורס או סמסטר",
+                "example": "The final exams for high school seniors are scheduled for June.",
+                "example_hebrew": "בחינות הגמר לבוגרי תיכון מתוכננות ליוני."
+            },
+            {
+                "definition": "Tests that measure proficiency in specific skills or knowledge areas, such as language tests or certification examinations",
+                "definition_hebrew": "מבחנים המודדים בקיאות במיומנויות או תחומי ידע ספציפיים, כגון מבחני שפה או בחינות הסמכה",
+                "example": "She passed the English language proficiency test and obtained her TOEFL certificate.",
+                "example_hebrew": "היא עברה את מבחן השליטה בשפה האנגלית וקיבלה את תעודת ה-TOEFL שלה."
+            },
+            {
+                "definition": "Competitive exams used for selection into institutions like universities or programs",
+                "definition_hebrew": "בחינות תחרותיות המשמשות לבחירה למוסדות כמו אוניברסיטאות או תוכניות",
+                "example": "He was among the top scorers in the competitive examination for admission to MIT.",
+                "example_hebrew": "הוא היה בין הניקוד הגבוה ביותר בבחינה התחרותית לקבלת קבלה ל-MIT."
+            },
+            {
+                "definition": "Informal term referring to any test taken during an educational period, not necessarily at the end of a course",
+                "definition_hebrew": "מונח לא פורמלי המתייחס לכל מבחן שנערך במהלך תקופת לימודים, לאו דווקא בסוף קורס",
+                "example": "She had multiple quizzes and exams throughout the semester to prepare her for the final exam.",
+                "example_hebrew": "היו לה מספר מבחנים ומבחנים במהלך הסמסטר כדי להכין אותה לבחינה הסופית."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "sample",
+        "word_hebrew": "לִטעוֹם",
+        "main_definition": "A small part or quantity intended to show what the whole is like; an example, a piece of something taken as representative of the whole.",
+        "main_definition_hebrew": "חלק או כמות קטנה שנועדה להראות איך השלם הוא; דוגמה, חלק ממשהו שנלקח כמייצג של המכלול.",
+        "meanings_and_examples": [
+            {
+                "definition": "In science and research, a sample refers to a small portion selected from a larger population that represents the whole. It's used for analysis or testing purposes.",
+                "definition_hebrew": "במדע ובמחקר, מדגם מתייחס לחלק קטן שנבחר מאוכלוסיה גדולה יותר המייצגת את השלם. הוא משמש למטרות ניתוח או בדיקה.",
+                "example": "A lab technician collected water samples from different sources to test for pollutants.",
+                "example_hebrew": "טכנאי מעבדה אסף דגימות מים ממקורות שונים כדי לבדוק מזהמים."
+            },
+            {
+                "definition": "In marketing, a sample is a product provided free of charge to potential customers to try before they buy. It's used as a promotional tool.",
+                "definition_hebrew": "בשיווק, מדגם הוא מוצר שניתן בחינם ללקוחות פוטנציאליים כדי לנסות לפני שהם קונים. זה משמש ככלי קידום מכירות.",
+                "example": "The cosmetic company handed out samples of their new shampoo at the beauty expo.",
+                "example_hebrew": "חברת הקוסמטיקה חילקה דוגמיות של השמפו החדש שלהם בתערוכת היופי."
+            },
+            {
+                "definition": "In statistics, sampling refers to selecting a subset from a larger population for the purpose of analysis. It's used to make inferences about the whole group.",
+                "definition_hebrew": "בסטטיסטיקה, דגימה מתייחסת לבחירת תת-קבוצה מאוכלוסיה גדולה יותר לצורך ניתוח. הוא משמש להסקת מסקנות לגבי כל הקבוצה.",
+                "example": "The researcher conducted a survey by sampling 500 residents in an urban area.",
+                "example_hebrew": "החוקר ערך סקר על ידי דגימה של 500 תושבים באזור עירוני."
+            },
+            {
+                "definition": "In music, a sample is a short snippet or excerpt from a sound recording that is reused in another song. It's used as part of the composition process.",
+                "definition_hebrew": "במוזיקה, דגימה היא קטע קצר או קטע מהקלטת קול שעושים שימוש חוזר בשיר אחר. הוא משמש כחלק מתהליך הקומפוזיציה.",
+                "example": "The hip-hop artist incorporated samples of old jazz records into his new track.",
+                "example_hebrew": "אמן ההיפ הופ שילב דגימות של תקליטי ג'אז ישנים ברצועה החדשה שלו."
+            },
+            {
+                "definition": "In education, a sample lesson or activity demonstrates how to approach a subject or skill. It's used as an instructional tool.",
+                "definition_hebrew": "בחינוך, שיעור או פעילות לדוגמה מדגימים כיצד לגשת לנושא או מיומנות. זה משמש ככלי הדרכה.",
+                "example": "A math teacher showed the class a sample problem-solving strategy for complex equations.",
+                "example_hebrew": "מורה למתמטיקה הראה לכיתה אסטרטגיה לדוגמה לפתרון בעיות עבור משוואות מורכבות."
+            }
+        ]
+    }
+]

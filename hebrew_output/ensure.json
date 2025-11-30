@@ -1,0 +1,34 @@
+[
+    {
+        "word": "ensure",
+        "word_hebrew": "לְהַבטִיחַ",
+        "main_definition": "To make certain that something happens or is the case.",
+        "main_definition_hebrew": "כדי לוודא שמשהו קורה או קורה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To guarantee success or achievement of a goal.",
+                "definition_hebrew": "להבטיח הצלחה או השגת מטרה.",
+                "example": "We need to ensure our project meets all its deadlines.",
+                "example_hebrew": "אנחנו צריכים להבטיח שהפרויקט שלנו עומד בכל המועדים שלו."
+            },
+            {
+                "definition": "To make certain that something is done correctly, completely, or in full.",
+                "definition_hebrew": "כדי לוודא שמשהו נעשה בצורה נכונה, מלאה או מלא.",
+                "example": "The audit was conducted to ensure financial compliance with regulations.",
+                "example_hebrew": "הביקורת נערכה על מנת להבטיח עמידה פיננסית בתקנות."
+            },
+            {
+                "definition": "To take steps to keep something from happening; prevent undesired outcomes.",
+                "definition_hebrew": "לנקוט בצעדים כדי שמשהו לא יקרה; למנוע תוצאות לא רצויות.",
+                "example": "I always double-check my work to ensure there are no mistakes.",
+                "example_hebrew": "אני תמיד בודק את העבודה שלי כדי לוודא שאין טעויות."
+            },
+            {
+                "definition": "To make sure that people have the things they need, especially during emergencies or shortages.",
+                "definition_hebrew": "כדי לוודא שלאנשים יש את הדברים שהם צריכים, במיוחד בזמן חירום או מחסור.",
+                "example": "The government is working hard to ensure food and medical supplies reach those in need.",
+                "example_hebrew": "הממשלה פועלת קשה כדי להבטיח שאוכל וציוד רפואי יגיעו לנזקקים."
+            }
+        ]
+    }
+]

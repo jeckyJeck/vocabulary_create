@@ -1,0 +1,40 @@
+[
+    {
+        "word": "organisations",
+        "word_hebrew": "ארגונים",
+        "main_definition": "Organisations refer to entities or structures created by individuals with the purpose of achieving specific goals, working together efficiently and effectively.",
+        "main_definition_hebrew": "ארגונים מתייחסים לגופים או מבנים שנוצרו על ידי יחידים במטרה להשיג מטרות ספציפיות, לעבוד יחד ביעילות וביעילות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Social organisations",
+                "definition_hebrew": "ארגונים חברתיים",
+                "example": "A charity that provides aid to underprivileged communities.",
+                "example_hebrew": "ארגון צדקה המעניק סיוע לקהילות מוחלשות."
+            },
+            {
+                "definition": "Business organisations",
+                "definition_hebrew": "ארגונים עסקיים",
+                "example": "Apple Inc., a technology company known for its products such as the iPhone and MacBook.",
+                "example_hebrew": "אפל בע\"מ, חברת טכנולוגיה הידועה במוצרים שלה כמו אייפון ומקבוק."
+            },
+            {
+                "definition": "Governmental organisations",
+                "definition_hebrew": "ארגונים ממשלתיים",
+                "example": "The United Nations, an international organization that promotes peace and cooperation among nations.",
+                "example_hebrew": "האומות המאוחדות, ארגון בינלאומי המקדם שלום ושיתוף פעולה בין מדינות."
+            },
+            {
+                "definition": "Non-profit organisations",
+                "definition_hebrew": "ארגונים ללא מטרות רווח",
+                "example": "Red Cross, a humanitarian organisation dedicated to providing aid in times of crisis.",
+                "example_hebrew": "הצלב האדום, ארגון הומניטרי המוקדש למתן סיוע בעתות משבר."
+            },
+            {
+                "definition": "Fraternal organisations",
+                "definition_hebrew": "ארגוני אחים",
+                "example": "Alpha Phi Alpha, the first intercollegiate Greek-letter fraternity established for African American men.",
+                "example_hebrew": "אלפא פי אלפא, אחוות האותיות היווניות הראשונה שהוקמה עבור גברים אפרו-אמריקאים."
+            }
+        ]
+    }
+]

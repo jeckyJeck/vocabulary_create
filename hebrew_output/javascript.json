@@ -1,0 +1,34 @@
+[
+    {
+        "word": "javascript",
+        "word_hebrew": "javascript",
+        "main_definition": "JavaScript is a high-level, dynamic, untyped, and interpreted programming language that is commonly used to create interactive effects within web browsers.",
+        "main_definition_hebrew": "JavaScript היא שפת תכנות ברמה גבוהה, דינמית, לא מודפסת ומפורשת המשמשת בדרך כלל ליצירת אפקטים אינטראקטיביים בדפדפני אינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "A programming language for creating websites and web applications",
+                "definition_hebrew": "שפת תכנות ליצירת אתרים ואפליקציות אינטרנט",
+                "example": "To add interactivity to a website using JavaScript, you can write code like this: `document.getElementById('myButton').addEventListener('click', function() { alert('Hello World!'); });`",
+                "example_hebrew": "כדי להוסיף אינטראקטיביות לאתר באמצעות JavaScript, אתה יכול לכתוב קוד כך: `document.getElementById('myButton').addEventListener('click', function() { alert('Hello World!'); });`"
+            },
+            {
+                "definition": "An acronym for 'JavaScript Extended Language'",
+                "definition_hebrew": "ראשי תיבות של 'JavaScript Extended Language'",
+                "example": "The term JavaScript was originally referred to as JScript by Microsoft, but it evolved into the widely-used language we know today.",
+                "example_hebrew": "המונח JavaScript נקרא במקור JScript על ידי מיקרוסופט, אך הוא התפתח לשפה הנפוצה שאנו מכירים כיום."
+            },
+            {
+                "definition": "A scripting language that is executed in web browsers",
+                "definition_hebrew": "שפת סקריפטים המופעלת בדפדפני אינטרנט",
+                "example": "When a user clicks on a button on a webpage, JavaScript can be used to show an alert message by executing code like this: `alert('Button clicked!');`",
+                "example_hebrew": "כאשר משתמש לוחץ על כפתור בדף אינטרנט, ניתן להשתמש ב-JavaScript כדי להציג הודעת התראה על ידי ביצוע קוד כזה: `alert('Button clicked!');`"
+            },
+            {
+                "definition": "An object-oriented scripting language that is interpreted rather than compiled",
+                "definition_hebrew": "שפת סקריפט מונחה עצמים שמתפרשת במקום קומפילציה",
+                "example": "JavaScript's flexibility comes from its ability to be interpreted at runtime, allowing developers to quickly iterate and test their code.",
+                "example_hebrew": "הגמישות של JavaScript נובעת מהיכולת שלה להתפרש בזמן ריצה, מה שמאפשר למפתחים לחזור ולבדוק במהירות את הקוד שלהם."
+            }
+        ]
+    }
+]

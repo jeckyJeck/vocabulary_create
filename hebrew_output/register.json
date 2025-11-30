@@ -1,0 +1,40 @@
+[
+    {
+        "word": "register",
+        "word_hebrew": "הירשם",
+        "main_definition": "To record or enroll something, often in a list or database, including activities, events, names, etc.",
+        "main_definition_hebrew": "להקליט או לרשום משהו, לעתים קרובות ברשימה או במסד נתונים, כולל פעילויות, אירועים, שמות וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "To record information formally, such as data or details about an event or transaction",
+                "definition_hebrew": "כדי להקליט מידע באופן רשמי, כגון נתונים או פרטים על אירוע או עסקה",
+                "example": "The student had to register for classes before the semester started.",
+                "example_hebrew": "הסטודנט היה צריך להירשם לשיעורים לפני תחילת הסמסטר."
+            },
+            {
+                "definition": "To enter or sign up for a course, program, competition, etc.",
+                "definition_hebrew": "להיכנס או להירשם לקורס, תכנית, תחרות וכו'.",
+                "example": "She registered her name at the beginning of every marathon race.",
+                "example_hebrew": "היא רשמה את שמה בתחילת כל מרוץ מרתון."
+            },
+            {
+                "definition": "To acknowledge and accept an official record or notice",
+                "definition_hebrew": "כדי לאשר ולקבל רשומה או הודעה רשמית",
+                "example": "The couple had to register their marriage with the state authorities.",
+                "example_hebrew": "בני הזוג נאלצו לרשום את נישואיהם ברשויות המדינה."
+            },
+            {
+                "definition": "To become a member of, especially by enrolling or signing up in advance",
+                "definition_hebrew": "כדי להיות חבר, במיוחד על ידי הרשמה או הרשמה מראש",
+                "example": "Visitors need to register at the entrance of the national park.",
+                "example_hebrew": "המבקרים צריכים להירשם בכניסה לגן הלאומי."
+            },
+            {
+                "definition": "To arrange in sequence according to number or order; list or record items systematically",
+                "definition_hebrew": "לסדר ברצף לפי מספר או סדר; לרשום או להקליט פריטים באופן שיטתי",
+                "example": "The librarian had to register the new books in alphabetical order by author's last name.",
+                "example_hebrew": "הספרן נאלץ לרשום את הספרים החדשים בסדר אלפביתי לפי שם המשפחה של המחבר."
+            }
+        ]
+    }
+]

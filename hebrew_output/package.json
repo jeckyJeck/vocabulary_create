@@ -1,0 +1,40 @@
+[
+    {
+        "word": "package",
+        "word_hebrew": "חֲבִילָה",
+        "main_definition": "A package refers to a bundle or collection of items, often wrapped or contained together for ease of transportation or storage.",
+        "main_definition_hebrew": "חבילה מתייחסת לחבילה או לאוסף של פריטים, לרוב עטופים או כלולים יחד כדי להקל על ההובלה או האחסון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Packaging material used to protect and contain products during shipment",
+                "definition_hebrew": "חומר אריזה המשמש להגנה ולהכיל מוצרים במהלך המשלוח",
+                "example": "The electronics were carefully packaged in bubble wrap before being shipped.",
+                "example_hebrew": "האלקטרוניקה נארזה בקפידה בניילון בועות לפני שנשלחה."
+            },
+            {
+                "definition": "A set of software or program components bundled together for easy installation and use",
+                "definition_hebrew": "קבוצה של רכיבי תוכנה או תוכנית המצורפים יחד להתקנה ושימוש קלים",
+                "example": "I just installed a new package that includes the latest updates to my operating system.",
+                "example_hebrew": "זה עתה התקנתי חבילה חדשה הכוללת את העדכונים האחרונים למערכת ההפעלה שלי."
+            },
+            {
+                "definition": "A collection of goods wrapped or boxed for sale or delivery",
+                "definition_hebrew": "אוסף של סחורה עטופה או בארגז למכירה או משלוח",
+                "example": "The online store offers various packages with different items, such as cosmetics and clothing bundles.",
+                "example_hebrew": "החנות המקוונת מציעה חבילות שונות עם פריטים שונים, כמו מוצרי קוסמטיקה וחבילות ביגוד."
+            },
+            {
+                "definition": "An event in which a product is introduced to the public, often involving demonstrations and promotions",
+                "definition_hebrew": "אירוע בו מוצר מוצג לציבור, ולרוב כולל הדגמות ומבצעים",
+                "example": "The company hosted a package launch for their new line of kitchen appliances.",
+                "example_hebrew": "החברה אירחה השקת חבילה לקו החדש של מוצרי חשמל למטבח."
+            },
+            {
+                "definition": "A group or set of related items delivered together",
+                "definition_hebrew": "קבוצה או קבוצה של פריטים קשורים שנמסרו יחד",
+                "example": "I received my daily newspaper package in the mail today.",
+                "example_hebrew": "קיבלתי את חבילת העיתון היומית שלי בדואר היום."
+            }
+        ]
+    }
+]

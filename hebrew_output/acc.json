@@ -1,0 +1,28 @@
+[
+    {
+        "word": "acc",
+        "word_hebrew": "אcc",
+        "main_definition": "ACC stands commonly for 'accuracy' or is an abbreviation for accidents, acquisitions, access control, etc., depending on the context.",
+        "main_definition_hebrew": "ACC מייצג בדרך כלל 'דיוק' או הוא קיצור של תאונות, רכישות, בקרת גישה וכו', בהתאם להקשר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Accuracy (in measurements): The quality of being correct and precise in measurement.",
+                "definition_hebrew": "דיוק (במידות): האיכות של להיות נכון ומדויק במדידה.",
+                "example": "The scientist's report was praised for its high accuracy.",
+                "example_hebrew": "הדו\"ח של המדען זכה לשבחים על הדיוק הגבוה שלו."
+            },
+            {
+                "definition": "Accident: An unexpected event, typically with undesirable consequences.",
+                "definition_hebrew": "תאונה: אירוע בלתי צפוי, בדרך כלל עם השלכות לא רצויות.",
+                "example": "Driving under the influence greatly increases the risk of a car accident.",
+                "example_hebrew": "נהיגה תחת השפעה מעלה מאוד את הסיכון לתאונת דרכים."
+            },
+            {
+                "definition": "Access Control (in security systems): The process or system that restricts access to resources.",
+                "definition_hebrew": "בקרת גישה (במערכות אבטחה): התהליך או המערכת המגבילים את הגישה למשאבים.",
+                "example": "The office building uses an advanced access control system to regulate entry.",
+                "example_hebrew": "בניין המשרדים משתמש במערכת בקרת כניסה מתקדמת להסדרת הכניסה."
+            }
+        ]
+    }
+]

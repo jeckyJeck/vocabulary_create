@@ -1,0 +1,34 @@
+[
+    {
+        "word": "artwork",
+        "word_hebrew": "עבודת אומנות",
+        "main_definition": "Artwork refers to any piece of art or creative work that is created by an artist, often showcased in galleries, museums, or other public spaces.",
+        "main_definition_hebrew": "יצירות אמנות מתייחסות לכל יצירת אמנות או יצירה שנוצרת על ידי אמן, המוצגת לרוב בגלריות, מוזיאונים או חללים ציבוריים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A visual representation produced through painting, drawing, printmaking, sculpture, photography, and various digital media",
+                "definition_hebrew": "ייצוג חזותי המופק באמצעות ציור, רישום, הדפס, פיסול, צילום ומדיה דיגיטלית מגוונת",
+                "example": "The Mona Lisa is a famous oil painting by Leonardo da Vinci.",
+                "example_hebrew": "המונה ליזה היא ציור שמן מפורסם של ליאונרדו דה וינצ'י."
+            },
+            {
+                "definition": "An artistic creation that can be displayed in an exhibition or public setting, such as statues, installations, or mixed-media works",
+                "definition_hebrew": "יצירה אמנותית שניתן להציג בתערוכה או בסביבה ציבורית, כגון פסלים, מיצבים או עבודות מדיה מעורבת",
+                "example": "Yayoi Kusama's Infinity Rooms are immersive installation pieces showcased in museums around the world.",
+                "example_hebrew": "חדרי האינפיניטי של Yayoi Kusama הם יצירות התקנה סוחפות המוצגות במוזיאונים ברחבי העולם."
+            },
+            {
+                "definition": "Any creative work that is considered artistic and can include both traditional and contemporary forms of expression, such as music, dance, or film",
+                "definition_hebrew": "כל יצירה הנחשבת לאמנותית ויכולה לכלול צורות ביטוי מסורתיות ועכשוויות כאחד, כגון מוזיקה, מחול או קולנוע",
+                "example": "The movie 'Inception' directed by Christopher Nolan is often praised for its innovative storytelling techniques.",
+                "example_hebrew": "הסרט \"Inception\" בבימויו של כריסטופר נולאן זוכה לעתים קרובות לשבחים על טכניקות הסיפור החדשניות שלו."
+            },
+            {
+                "definition": "An item made by a skilled craftsman or artist that carries significant artistic value and can be purchased as a collectible",
+                "definition_hebrew": "פריט שנעשה על ידי אומן או אמן מיומן בעל ערך אמנותי משמעותי וניתן לרכוש אותו כפריט אספנות",
+                "example": "The handcrafted vase on display at the auction house is considered a valuable piece of artwork.",
+                "example_hebrew": "האגרטל בעבודת יד המוצג בבית המכירות הפומביות נחשב ליצירת אמנות בעלת ערך רב."
+            }
+        ]
+    }
+]

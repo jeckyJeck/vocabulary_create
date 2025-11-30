@@ -1,0 +1,34 @@
+[
+    {
+        "word": "corporations",
+        "word_hebrew": "תאגידים",
+        "main_definition": "Corporations refer to large companies or business entities that are legally separate from their owners, offering limited liability protection and possessing certain rights similar to individuals.",
+        "main_definition_hebrew": "תאגידים מתייחסים לחברות גדולות או גופים עסקיים הנפרדים מבחינה משפטית מבעליהם, המציעים הגנה על אחריות מוגבלת ומחזיקים בזכויות מסוימות הדומות ליחידים.",
+        "meanings_and_examples": [
+            {
+                "definition": "General term for a company",
+                "definition_hebrew": "מונח כללי לחברה",
+                "example": "Examples of corporations include Apple Inc., Google LLC, and Microsoft Corporation.",
+                "example_hebrew": "דוגמאות לתאגידים כוללות Apple Inc., Google LLC ו-Microsoft Corporation."
+            },
+            {
+                "definition": "Legal entity with rights and responsibilities distinct from those of its owners",
+                "definition_hebrew": "ישות משפטית עם זכויות וחובות שונות מאלה של בעליה",
+                "example": "As a legal entity, the corporation can enter into contracts, sue or be sued, and hold assets in its name.",
+                "example_hebrew": "כישות משפטית, התאגיד יכול להתקשר בחוזים, לתבוע או להיתבע ולהחזיק נכסים על שמו."
+            },
+            {
+                "definition": "Business structure providing limited liability to shareholders",
+                "definition_hebrew": "מבנה עסקי המעניק אחריות מוגבלת לבעלי המניות",
+                "example": "If a corporation is involved in litigation, its shareholders' personal assets are protected from legal claims against the company.",
+                "example_hebrew": "אם תאגיד מעורב בליטיגציה, הנכסים האישיים של בעלי המניות שלו מוגנים מפני תביעות משפטיות נגד החברה."
+            },
+            {
+                "definition": "Publicly traded companies listed on stock exchanges",
+                "definition_hebrew": "חברות ציבוריות הנסחרות בבורסות",
+                "example": "Apple Inc. and Amazon.com, Inc. are examples of public corporations whose shares can be bought by investors.",
+                "example_hebrew": "Apple Inc. ו-Amazon.com, Inc. הם דוגמאות לתאגידים ציבוריים אשר משקיעים יכולים לקנות את מניותיהם."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "computed",
+        "word_hebrew": "מחושבים",
+        "main_definition": "Determined or calculated using mathematical methods, algorithms, or formulas.",
+        "main_definition_hebrew": "נקבע או מחושב באמצעות שיטות מתמטיות, אלגוריתמים או נוסחאות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To calculate a value using specific methods or formulas.",
+                "definition_hebrew": "כדי לחשב ערך באמצעות שיטות או נוסחאות ספציפיות.",
+                "example": "The area of the rectangle was computed by multiplying its length and width.",
+                "example_hebrew": "שטח המלבן חושב על ידי הכפלת אורכו ורוחבו."
+            },
+            {
+                "definition": "Finding an answer to a problem after analysis or thoughtful consideration.",
+                "definition_hebrew": "מציאת תשובה לבעיה לאחר ניתוח או שיקול דעת.",
+                "example": "After careful calculation, they were able to compute the total cost of their vacation.",
+                "example_hebrew": "לאחר חישוב מדוקדק, הם הצליחו לחשב את העלות הכוללת של החופשה שלהם."
+            },
+            {
+                "definition": "The process of analyzing data and obtaining results using mathematical methods.",
+                "definition_hebrew": "תהליך ניתוח הנתונים והשגת תוצאות בשיטות מתמטיות.",
+                "example": "Scientists computed various parameters in order to understand the climate change patterns.",
+                "example_hebrew": "מדענים חישבו פרמטרים שונים על מנת להבין את דפוסי שינוי האקלים."
+            }
+        ]
+    }
+]

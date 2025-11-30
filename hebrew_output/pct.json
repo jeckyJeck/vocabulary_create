@@ -1,0 +1,34 @@
+[
+    {
+        "word": "pct",
+        "word_hebrew": "pct",
+        "main_definition": "Percentage, a way to express a number as a fraction of 100.",
+        "main_definition_hebrew": "אחוז, דרך לבטא מספר כשבריר מ-100.",
+        "meanings_and_examples": [
+            {
+                "definition": "A symbol used to represent percentage (%).",
+                "definition_hebrew": "סמל המשמש לייצוג אחוז (%).",
+                "example": "In the report, it was stated that sales increased by 25%.",
+                "example_hebrew": "בדוח צוין כי המכירות עלו ב-25%."
+            },
+            {
+                "definition": "A unit of measurement for expressing a proportion or ratio as a fraction of 100.",
+                "definition_hebrew": "יחידת מדידה לביטוי פרופורציה או יחס כשבריר של 100.",
+                "example": "If you scored 80 out of 100 on the test, your score is at 80%.",
+                "example_hebrew": "אם קיבלת 80 מתוך 100 במבחן, הציון שלך הוא 80%."
+            },
+            {
+                "definition": "A tool used in statistical analysis to express proportion or ratio.",
+                "definition_hebrew": "כלי המשמש בניתוח סטטיסטי לביטוי פרופורציה או יחס.",
+                "example": "In a survey of 1,000 people, if 560 respondents chose option A, the percentage who preferred it would be calculated as (560/1000) * 100.",
+                "example_hebrew": "בסקר של 1,000 איש, אם 560 נשאלים יבחרו באפשרות א', האחוז שהעדיפו אותה יחושב כ- (560/1000) * 100."
+            },
+            {
+                "definition": "A common abbreviation for 'percent', often used in informal communication and writing.",
+                "definition_hebrew": "קיצור נפוץ של 'אחוזים', המשמש לעתים קרובות בתקשורת וכתיבה בלתי פורמליות.",
+                "example": "The weather forecast predicts a 20% chance of rain tomorrow.",
+                "example_hebrew": "תחזית מזג האוויר צופה סיכוי של 20% לגשם מחר."
+            }
+        ]
+    }
+]

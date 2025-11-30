@@ -1,0 +1,40 @@
+[
+    {
+        "word": "input",
+        "word_hebrew": "קֶלֶט",
+        "main_definition": "The act of providing data or signals to a system, machine, or process for processing, or the result produced by such a process.",
+        "main_definition_hebrew": "הפעולה של אספקת נתונים או אותות למערכת, למכונה או לתהליך לצורך עיבוד, או התוצאה המופקת בתהליך כזה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To provide information or material into a system or device",
+                "definition_hebrew": "לספק מידע או חומר לתוך מערכת או מכשיר",
+                "example": "She typed her name and password as input on the computer keyboard.",
+                "example_hebrew": "היא הקלידה את השם והסיסמה שלה כקלט במקלדת המחשב."
+            },
+            {
+                "definition": "A signal, message, or data sent to an electronic device for processing",
+                "definition_hebrew": "אות, הודעה או נתונים שנשלחו למכשיר אלקטרוני לצורך עיבוד",
+                "example": "The barcode is scanned at the checkout counter; it serves as input for the cash register system.",
+                "example_hebrew": "הברקוד נסרק בדלפק הקופה; הוא משמש כקלט למערכת הקופה."
+            },
+            {
+                "definition": "Initial or starting data used by a computer program or machine",
+                "definition_hebrew": "נתוני התחלה או התחלה המשמשים תוכנית מחשב או מכונה",
+                "example": "Before running the simulation, you need to provide all the necessary initial parameters as input.",
+                "example_hebrew": "לפני הפעלת הסימולציה, עליך לספק את כל הפרמטרים הראשוניים הדרושים כקלט."
+            },
+            {
+                "definition": "In business and finance, referring to monetary funds invested into an enterprise for it to generate profits",
+                "definition_hebrew": "בעסקים ובפיננסים, הכוונה לכספים כספיים שהושקעו במיזם כדי שייצר רווחים",
+                "example": "The company increased its revenue by investing more capital in marketing efforts.",
+                "example_hebrew": "החברה הגדילה את הכנסותיה על ידי השקעת הון נוסף במאמצי שיווק."
+            },
+            {
+                "definition": "An essential element or factor that contributes towards achieving a particular goal or result",
+                "definition_hebrew": "מרכיב או גורם חיוני התורם להשגת מטרה או תוצאה מסוימת",
+                "example": "Feedback from customers is crucial input for improving our product design.",
+                "example_hebrew": "משוב מלקוחות הוא תשומה חיונית לשיפור עיצוב המוצר שלנו."
+            }
+        ]
+    }
+]

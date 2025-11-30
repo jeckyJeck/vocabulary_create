@@ -1,0 +1,40 @@
+[
+    {
+        "word": "trader",
+        "word_hebrew": "סוחר",
+        "main_definition": "A trader is an individual or entity that buys and sells financial instruments, commodities, or other goods with the intention of making a profit.",
+        "main_definition_hebrew": "סוחר הוא אדם או ישות שקונה ומוכר מכשירים פיננסיים, סחורות או מוצרים אחרים מתוך כוונה להרוויח.",
+        "meanings_and_examples": [
+            {
+                "definition": "Financial market participant",
+                "definition_hebrew": "משתתף בשוק הפיננסי",
+                "example": "John works as a trader in a stock exchange, buying and selling shares to earn profits.",
+                "example_hebrew": "ג'ון עובד כסוחר בבורסה, קונה ומוכר מניות כדי להרוויח רווחים."
+            },
+            {
+                "definition": "Commodity markets participant",
+                "definition_hebrew": "משתתף בשוקי הסחורות",
+                "example": "Jane is a commodities trader who specializes in the trade of agricultural products like wheat and corn.",
+                "example_hebrew": "ג'יין היא סוחרת סחורות המתמחה בסחר במוצרים חקלאיים כמו חיטה ותירס."
+            },
+            {
+                "definition": "Currency exchange operator",
+                "definition_hebrew": "מפעיל המרת מטבע",
+                "example": "The currency traders at the airport help travelers buy local currency for their trips abroad.",
+                "example_hebrew": "סוחרי המטבעות בשדה התעופה עוזרים לנוסעים לקנות מטבע מקומי לנסיעותיהם לחו\"ל."
+            },
+            {
+                "definition": "Foreign exchange speculator",
+                "definition_hebrew": "ספקולנט במט\"ח",
+                "example": "Sarah is a forex trader who profits from fluctuations in currency exchange rates between different countries' currencies.",
+                "example_hebrew": "שרה היא סוחרת מט\"ח שמרוויחה מתנודות בשערי המטבעות בין המטבעות של מדינות שונות."
+            },
+            {
+                "definition": "Trade deal negotiator",
+                "definition_hebrew": "מנהל עסקאות סחר",
+                "example": "The company hired James as an international trade trader to negotiate deals with suppliers overseas.",
+                "example_hebrew": "החברה שכרה את ג'יימס כסוחר סחר בינלאומי כדי לנהל משא ומתן על עסקאות עם ספקים מעבר לים."
+            }
+        ]
+    }
+]

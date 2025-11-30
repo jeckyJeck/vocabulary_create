@@ -1,0 +1,28 @@
+[
+    {
+        "word": "transcripts",
+        "word_hebrew": "תמלילים",
+        "main_definition": "Transcripts refer to written or typed copies of spoken dialogue, official documents detailing academic coursework, or records of gene sequences in genetics.",
+        "main_definition_hebrew": "תמלילים מתייחסים להעתקים כתובים או מודפסים של דיאלוג מדובר, מסמכים רשמיים המפרטים את הקורסים האקדמיים, או רישומים של רצפי גנים בגנטיקה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Written record of spoken language",
+                "definition_hebrew": "תיעוד כתוב של השפה המדוברת",
+                "example": "The court reporter provided the transcripts of the witness's testimony during the trial.",
+                "example_hebrew": "כתב בית המשפט מסר את תמלילי עדותו של העד במהלך המשפט."
+            },
+            {
+                "definition": "Official academic records of courses taken at a university or college",
+                "definition_hebrew": "רישומים אקדמיים רשמיים של קורסים שנלמדו באוניברסיטה או מכללה",
+                "example": "Students need to submit their final year transcripts for graduation verification.",
+                "example_hebrew": "התלמידים צריכים להגיש את תמלול השנה האחרונה שלהם לאימות סיום הלימודים."
+            },
+            {
+                "definition": "Sequences and representations of genetic information",
+                "definition_hebrew": "רצפים וייצוגים של מידע גנטי",
+                "example": "The researcher analyzed the DNA transcripts to understand gene expression patterns in cancer cells.",
+                "example_hebrew": "החוקר ניתח את תעתיקי ה-DNA כדי להבין דפוסי ביטוי גנים בתאי סרטן."
+            }
+        ]
+    }
+]

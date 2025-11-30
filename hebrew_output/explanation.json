@@ -1,0 +1,40 @@
+[
+    {
+        "word": "explanation",
+        "word_hebrew": "הֶסבֵּר",
+        "main_definition": "An explanation is a statement or account that makes something clear by describing the relevant structure or operation in detail.",
+        "main_definition_hebrew": "הסבר הוא הצהרה או חשבון שמבהיר משהו על ידי תיאור המבנה או הפעולה הרלוונטיים בפירוט.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of making something understandable or clear to someone else.",
+                "definition_hebrew": "הפעולה של הפיכת משהו מובן או ברור למישהו אחר.",
+                "example": "She gave an explanation about how the project worked, which helped everyone grasp its complexity.",
+                "example_hebrew": "היא נתנה הסבר על איך הפרויקט עבד, מה שעזר לכולם להבין את המורכבות שלו."
+            },
+            {
+                "definition": "A detailed account that explains the reasons behind a particular event or phenomenon.",
+                "definition_hebrew": "תיאור מפורט המסביר את הסיבות מאחורי אירוע או תופעה מסוימת.",
+                "example": "The professor provided an explanation for the unexpected results in our experiment.",
+                "example_hebrew": "הפרופסור סיפק הסבר לתוצאות הבלתי צפויות בניסוי שלנו."
+            },
+            {
+                "definition": "An attempt to clarify something by describing its elements and their relationships.",
+                "definition_hebrew": "ניסיון להבהיר משהו על ידי תיאור מרכיביו ויחסיהם.",
+                "example": "He offered an explanation of how different departments within a company interact with each other.",
+                "example_hebrew": "הוא הציע הסבר כיצד מחלקות שונות בחברה מקיימות אינטראקציה זו עם זו."
+            },
+            {
+                "definition": "The process of breaking down complex concepts into simpler parts for easier understanding.",
+                "definition_hebrew": "תהליך פירוק מושגים מורכבים לחלקים פשוטים יותר להבנה קלה יותר.",
+                "example": "Her clear explanations made it possible for the students to understand advanced mathematical theories.",
+                "example_hebrew": "הסבריה הברורים אפשרו לתלמידים להבין תיאוריות מתמטיות מתקדמות."
+            },
+            {
+                "definition": "A description or elucidation that clarifies a previously unclear situation, problem, or idea.",
+                "definition_hebrew": "תיאור או הבהרה המבהירים מצב, בעיה או רעיון לא ברורים בעבר.",
+                "example": "The mechanic's explanation of the car issue helped us understand why our vehicle was making strange noises.",
+                "example_hebrew": "ההסבר של המכונאי על בעיית הרכב עזר לנו להבין מדוע הרכב שלנו משמיע קולות מוזרים."
+            }
+        ]
+    }
+]

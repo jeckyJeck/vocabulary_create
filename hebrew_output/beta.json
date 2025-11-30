@@ -1,0 +1,40 @@
+[
+    {
+        "word": "beta",
+        "word_hebrew": "בטא",
+        "main_definition": "In various contexts, 'beta' can refer to a second-rate or substandard item, person, or concept; it is also used in technical fields such as electronics and software development.",
+        "main_definition_hebrew": "בהקשרים שונים, 'בטא' יכול להתייחס לפריט, אדם או מושג מדרגה שנייה או תת-סטנדרטית; הוא משמש גם בתחומים טכניים כמו אלקטרוניקה ופיתוח תוכנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Second-rate or inferior quality",
+                "definition_hebrew": "איכות מדרגה שנייה או נחותה",
+                "example": "The product received poor reviews because of its low beta performance.",
+                "example_hebrew": "המוצר קיבל ביקורות גרועות בגלל ביצועי הבטא הנמוכים שלו."
+            },
+            {
+                "definition": "A person who is not confident in their abilities, often considered a follower rather than a leader",
+                "definition_hebrew": "אדם שאינו בטוח ביכולותיו, נחשב לעתים קרובות לחסיד ולא למנהיג",
+                "example": "He's just a beta guy; he doesn't really take charge like the others do.",
+                "example_hebrew": "הוא רק בחור בטא; הוא לא באמת לוקח אחריות כמו האחרים."
+            },
+            {
+                "definition": "In electronics and computing, Beta testing is a phase of software development where a pre-release version of a product is tested by users to find any bugs or issues",
+                "definition_hebrew": "בתחום האלקטרוניקה והמחשוב, בדיקות בטא הן שלב של פיתוח תוכנה שבו גרסה מוקדמת של מוצר נבדקת על ידי משתמשים כדי למצוא באגים או בעיות",
+                "example": "Before its launch, we conducted beta testing for the new mobile app.",
+                "example_hebrew": "לפני השקתו, ערכנו בדיקות בטא עבור האפליקציה החדשה לנייד."
+            },
+            {
+                "definition": "In astronomy, Beta refers to one of the brightest stars in a constellation.",
+                "definition_hebrew": "באסטרונומיה, בטא מתייחס לאחד הכוכבים הבהירים ביותר בקבוצת כוכבים.",
+                "example": "Beta Andromedae is also known as Almak and it's part of the Perseus-Andromeda Galaxy Cluster.",
+                "example_hebrew": "בטא אנדרומדה ידוע גם בשם אלמק והוא חלק מאשבר הגלקסיות של פרסאוס-אנדרומדה."
+            },
+            {
+                "definition": "In statistics, Beta refers to one of two parameters used in hypothesis testing.",
+                "definition_hebrew": "בסטטיסטיקה, בטא מתייחס לאחד משני פרמטרים המשמשים בבדיקת השערות.",
+                "example": "The researchers calculated a beta value of 0.82 for their study's power analysis.",
+                "example_hebrew": "החוקרים חישבו ערך בטא של 0.82 עבור ניתוח ההספק של המחקר שלהם."
+            }
+        ]
+    }
+]

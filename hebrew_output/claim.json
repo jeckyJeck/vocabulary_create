@@ -1,0 +1,40 @@
+[
+    {
+        "word": "claim",
+        "word_hebrew": "תְבִיעָה",
+        "main_definition": "To assert ownership, right, or validity of something; to demand payment or compensation.",
+        "main_definition_hebrew": "לטעון בעלות, זכות או תוקף של משהו; לדרוש תשלום או פיצוי.",
+        "meanings_and_examples": [
+            {
+                "definition": "To state that something is true without providing proof immediately",
+                "definition_hebrew": "לקבוע שמשהו נכון מבלי לספק הוכחה מיידית",
+                "example": "She claimed she had seen a UFO last night.",
+                "example_hebrew": "היא טענה שראתה עב\"ם אתמול בלילה."
+            },
+            {
+                "definition": "To assert ownership over property or rights",
+                "definition_hebrew": "לטעון בעלות על רכוש או זכויות",
+                "example": "He claimed the land as his own, despite it being disputed territory.",
+                "example_hebrew": "הוא טען שהקרקע היא שלו, למרות היותה שטח שנוי במחלוקת."
+            },
+            {
+                "definition": "A demand for payment or compensation based on a debt or grievance",
+                "definition_hebrew": "דרישת תשלום או פיצוי על סמך חוב או טרוניה",
+                "example": "The tenant made a claim against her landlord for unpaid rent.",
+                "example_hebrew": "השוכרת הגישה תביעה נגד בעל הדירה בגין דמי שכירות שלא שולמו."
+            },
+            {
+                "definition": "To take up space, typically in a line of argument",
+                "definition_hebrew": "כדי לתפוס מקום, בדרך כלל בקו טיעון",
+                "example": "His constant claims about the benefits of his product annoyed everyone at the meeting.",
+                "example_hebrew": "הטענות הקבועות שלו לגבי היתרונות של המוצר שלו הרגיזו את כולם בפגישה."
+            },
+            {
+                "definition": "An assertion that something is true without providing proof, often used to challenge someone else's claim",
+                "definition_hebrew": "קביעה שמשהו נכון בלי לספק הוכחה, משמשת לעתים קרובות כדי לערער על הטענה של מישהו אחר",
+                "example": "She challenged his claim by presenting evidence to the contrary.",
+                "example_hebrew": "היא ערערה על טענתו בהצגת ראיות הפוכות."
+            }
+        ]
+    }
+]

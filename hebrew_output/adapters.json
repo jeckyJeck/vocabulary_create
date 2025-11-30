@@ -1,0 +1,28 @@
+[
+    {
+        "word": "adapters",
+        "word_hebrew": "מתאמים",
+        "main_definition": "Adapters refer to devices or tools used for adjusting, converting, or connecting one form of technology or equipment to another in order to facilitate compatibility or functionality.",
+        "main_definition_hebrew": "מתאמים מתייחסים להתקנים או לכלים המשמשים להתאמה, המרה או חיבור של צורה אחת של טכנולוגיה או ציוד לאחר על מנת להקל על תאימות או פונקציונליות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Devices that enable connection between different technologies",
+                "definition_hebrew": "מכשירים המאפשרים חיבור בין טכנולוגיות שונות",
+                "example": "An HDMI-to-VGA adapter allows you to connect a modern display device with VGA output to your computer's HDMI port.",
+                "example_hebrew": "מתאם HDMI ל-VGA מאפשר לך לחבר התקן תצוגה מודרני עם פלט VGA ליציאת HDMI של המחשב שלך."
+            },
+            {
+                "definition": "A person who helps others adjust or modify behavior, beliefs, or attitudes",
+                "definition_hebrew": "אדם שעוזר לאחרים להתאים או לשנות התנהגות, אמונות או עמדות",
+                "example": "When starting at a new school, it can be helpful to have an adopter guide you through the social environment and teach you how to fit in.",
+                "example_hebrew": "כאשר מתחילים בבית ספר חדש, זה יכול להיות מועיל שמאמץ ידריך אותך בסביבה החברתית וילמד אותך כיצד להשתלב."
+            },
+            {
+                "definition": "A software tool that adapts data structures for use with different programming languages or systems",
+                "definition_hebrew": "כלי תוכנה המתאים מבני נתונים לשימוש עם שפות או מערכות תכנות שונות",
+                "example": "An adapter class in Java allows developers to work seamlessly between object-oriented code written in one language and interfaces designed for another.",
+                "example_hebrew": "כיתת מתאם בג'אווה מאפשרת למפתחים לעבוד בצורה חלקה בין קוד מונחה עצמים שנכתב בשפה אחת לבין ממשקים המיועדים לשפה אחרת."
+            }
+        ]
+    }
+]

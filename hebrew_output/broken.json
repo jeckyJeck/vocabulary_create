@@ -1,0 +1,40 @@
+[
+    {
+        "word": "broken",
+        "word_hebrew": "שָׁבוּר",
+        "main_definition": "In a general sense, 'broken' refers to something that is damaged or not working properly.",
+        "main_definition_hebrew": "במובן כללי, 'שבור' מתייחס למשהו פגום או שאינו פועל כראוי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physically damaged beyond repair; no longer in one piece.",
+                "definition_hebrew": "ניזוק פיזית ללא תקנה; כבר לא במקשה אחת.",
+                "example": "After the accident, his car was completely broken and could not be driven.",
+                "example_hebrew": "לאחר התאונה מכוניתו הייתה שבורה לחלוטין ולא ניתן היה לנהוג בה."
+            },
+            {
+                "definition": "Emotionally hurt or affected negatively by an event or situation.",
+                "definition_hebrew": "נפגע רגשית או מושפע לרעה מאירוע או מצב.",
+                "example": "She felt very broken after her heart was shattered in a recent breakup.",
+                "example_hebrew": "היא הרגישה שבורה מאוד לאחר שהלב שלה התנפץ בפרידה האחרונה."
+            },
+            {
+                "definition": "Not functioning properly; malfunctioning.",
+                "definition_hebrew": "לא מתפקד כראוי; תקלה.",
+                "example": "The glass bottle slipped from his hand and broke, spilling the contents everywhere.",
+                "example_hebrew": "בקבוק הזכוכית חמק מידו ונשבר, נשפך את התכולה לכל עבר."
+            },
+            {
+                "definition": "Lacking in strength or integrity; weak or fragile.",
+                "definition_hebrew": "חוסר כוח או יושרה; חלש או שביר.",
+                "example": "Despite their strong appearance, some old bridges can be quite broken if not maintained properly.",
+                "example_hebrew": "למרות המראה החזק שלהם, כמה גשרים ישנים יכולים להישבר למדי אם לא מתחזקים כראוי."
+            },
+            {
+                "definition": "Not adhering to a rule or standard, often used in sports when a play is invalidated due to improper execution of the rules.",
+                "definition_hebrew": "אי הקפדה על כלל או תקן, משמש לעתים קרובות בספורט כאשר משחק נפסל עקב ביצוע לא תקין של החוקים.",
+                "example": "The soccer player committed a foul and had his shot disallowed because he broke the rules.",
+                "example_hebrew": "שחקן הכדורגל ביצע עבירה והזריקה שלו נפסלה בגלל שהוא עבר על החוקים."
+            }
+        ]
+    }
+]

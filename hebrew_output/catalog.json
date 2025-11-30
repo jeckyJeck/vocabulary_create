@@ -1,0 +1,34 @@
+[
+    {
+        "word": "catalog",
+        "word_hebrew": "קָטָלוֹג",
+        "main_definition": "A comprehensive list of items, usually arranged systematically for easy reference.",
+        "main_definition_hebrew": "רשימה מקיפה של פריטים, בדרך כלל מסודרת באופן שיטתי לעיון קל.",
+        "meanings_and_examples": [
+            {
+                "definition": "To create a complete list or inventory of items.",
+                "definition_hebrew": "ליצירת רשימה מלאה או מלאי של פריטים.",
+                "example": "The librarian will catalog all the books in the new acquisitions section.",
+                "example_hebrew": "הספרנית תקטלג את כל הספרים במדור הרכישות החדשות."
+            },
+            {
+                "definition": "A record-keeping system, especially one used by businesses to track sales and stock.",
+                "definition_hebrew": "מערכת רישום, במיוחד כזו המשמשת עסקים למעקב אחר מכירות ומלאי.",
+                "example": "The company uses a point-of-sale (POS) system for inventory cataloging.",
+                "example_hebrew": "החברה משתמשת במערכת נקודות מכירה (POS) לקטלוג מלאי."
+            },
+            {
+                "definition": "A list of items with details such as price or description in retail contexts, particularly used by online stores.",
+                "definition_hebrew": "רשימה של פריטים עם פרטים כגון מחיר או תיאור בהקשרים קמעונאיים, במיוחד בשימוש בחנויות מקוונות.",
+                "example": "Visit our product catalog to see all the latest gadgets and accessories we offer.",
+                "example_hebrew": "בקר בקטלוג המוצרים שלנו כדי לראות את כל הגאדג'טים והאביזרים העדכניים ביותר שאנו מציעים."
+            },
+            {
+                "definition": "To classify something systematically based on a predetermined criterion or set of criteria.",
+                "definition_hebrew": "לסווג משהו באופן שיטתי על סמך קריטריון או סט קריטריונים שנקבעו מראש.",
+                "example": "The museum's archaeologists will catalog ancient artifacts by their estimated date of origin.",
+                "example_hebrew": "הארכיאולוגים של המוזיאון יקטלגו חפצים עתיקים לפי תאריך מקורם המשוער."
+            }
+        ]
+    }
+]

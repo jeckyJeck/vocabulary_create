@@ -1,0 +1,34 @@
+[
+    {
+        "word": "transactions",
+        "word_hebrew": "עסקאות",
+        "main_definition": "Transactions refer to the exchange or transfer of goods, services, funds, or information between parties.",
+        "main_definition_hebrew": "עסקאות מתייחסות להחלפה או העברה של סחורות, שירותים, כספים או מידע בין צדדים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Financial transactions involving money",
+                "definition_hebrew": "עסקאות פיננסיות הכוללות כסף",
+                "example": "She completed several financial transactions at the bank today, including depositing her paycheck and withdrawing cash.",
+                "example_hebrew": "היא השלימה היום כמה עסקאות פיננסיות בבנק, כולל הפקדת תלוש המשכורת ומשיכת מזומן."
+            },
+            {
+                "definition": "Business deals or contracts",
+                "definition_hebrew": "עסקאות או חוזים",
+                "example": "The company signed multiple business transactions with suppliers to secure raw materials for production.",
+                "example_hebrew": "החברה חתמה על מספר עסקאות עסקיות עם ספקים לאבטחת חומרי גלם לייצור."
+            },
+            {
+                "definition": "A sequence of actions between two entities, typically involving exchange",
+                "definition_hebrew": "רצף של פעולות בין שתי ישויות, הכרוכות בדרך כלל בהחלפה",
+                "example": "Online shopping platforms facilitate numerous transaction processes where customers buy products and pay sellers in return.",
+                "example_hebrew": "פלטפורמות קניות מקוונות מאפשרות תהליכי עסקה רבים שבהם לקוחות קונים מוצרים ומשלמים למוכרים בתמורה."
+            },
+            {
+                "definition": "Legal or administrative acts that establish rights or obligations",
+                "definition_hebrew": "פעולות משפטיות או מנהליות הקובעות זכויות או חובות",
+                "example": "He filed several legal transactions to transfer ownership of the property among family members after his passing.",
+                "example_hebrew": "הוא הגיש מספר עסקאות משפטיות להעברת הבעלות על הנכס בין בני משפחה לאחר פטירתו."
+            }
+        ]
+    }
+]

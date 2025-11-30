@@ -1,0 +1,40 @@
+[
+    {
+        "word": "may",
+        "word_hebrew": "מאי",
+        "main_definition": "May is a modal verb used to express permission, possibility, or probability.",
+        "main_definition_hebrew": "מאי הוא פועל מודאלי המשמש להבעת הרשאה, אפשרות או הסתברות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Expressing permission",
+                "definition_hebrew": "הבעת רשות",
+                "example": "You may leave the room when you're ready.",
+                "example_hebrew": "אתה יכול לצאת מהחדר כשתהיה מוכן."
+            },
+            {
+                "definition": "Indicating a high degree of possibility",
+                "definition_hebrew": "מעיד על רמה גבוהה של אפשרות",
+                "example": "It may rain later today.",
+                "example_hebrew": "ייתכן גשם מאוחר יותר היום."
+            },
+            {
+                "definition": "Used to indicate that something is allowed or permitted by law, regulation, custom, or decision",
+                "definition_hebrew": "משמש לציון שמשהו מותר או מותר על פי חוק, תקנה, מנהג או החלטה",
+                "example": "You are not allowed to park here; it's against the rules.",
+                "example_hebrew": "אסור לחנות כאן; זה בניגוד לכללים."
+            },
+            {
+                "definition": "Suggesting a mild doubt or uncertainty about an event occurring",
+                "definition_hebrew": "הצעה של ספק קל או אי ודאות לגבי התרחשות אירוע",
+                "example": "There may be a slight chance of traffic delays due to construction work.",
+                "example_hebrew": "ייתכנו סיכוי קל לעיכובים בתנועה עקב עבודות בנייה."
+            },
+            {
+                "definition": "Used in the context of mathematics and probability theory, often as part of a conditional statement",
+                "definition_hebrew": "משמש בהקשר של מתמטיקה ותורת ההסתברות, לעתים קרובות כחלק מהצהרה מותנית",
+                "example": "If it is raining, you may need an umbrella.",
+                "example_hebrew": "אם יורד גשם, ייתכן שתצטרך מטריה."
+            }
+        ]
+    }
+]

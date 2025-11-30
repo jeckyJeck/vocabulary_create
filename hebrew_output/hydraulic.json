@@ -1,0 +1,40 @@
+[
+    {
+        "word": "hydraulic",
+        "word_hebrew": "הידראולי",
+        "main_definition": "Relating to or using fluid pressure in mechanical systems, especially involving the use of liquid to transmit power.",
+        "main_definition_hebrew": "התייחסות או שימוש בלחץ נוזלים במערכות מכניות, במיוחד הכוללות שימוש בנוזל להעברת כוח.",
+        "meanings_and_examples": [
+            {
+                "definition": "Involving or relating to a system where fluid (usually water) is used for energy generation",
+                "definition_hebrew": "מעורבות או קשורה למערכת שבה משתמשים בנוזל (בדרך כלל מים) לייצור אנרגיה",
+                "example": "A hydroelectric dam uses hydraulic power to generate electricity.",
+                "example_hebrew": "סכר הידרואלקטרי משתמש בכוח הידראולי לייצור חשמל."
+            },
+            {
+                "definition": "Relating to the study of fluids in motion and their effects on structures or systems",
+                "definition_hebrew": "התייחסות לחקר נוזלים בתנועה והשפעותיהם על מבנים או מערכות",
+                "example": "Hydraulic engineering is a branch of civil engineering that deals with the flow and conveyance of fluids, especially water.",
+                "example_hebrew": "הנדסה הידראולית היא ענף של הנדסה אזרחית העוסק בזרימה והובלה של נוזלים ובעיקר מים."
+            },
+            {
+                "definition": "Using fluid pressure to perform mechanical work, often in machinery or devices",
+                "definition_hebrew": "שימוש בלחץ נוזלים לביצוע עבודה מכנית, לרוב במכונות או מכשירים",
+                "example": "A hydraulic press uses hydraulics to generate large amounts of force to compress materials like metal.",
+                "example_hebrew": "מכבש הידראולי משתמש בהידראוליקה כדי ליצור כמויות גדולות של כוח לדחיסת חומרים כמו מתכת."
+            },
+            {
+                "definition": "Describing a system that utilizes fluids for power transmission and control, often in automotive applications",
+                "definition_hebrew": "תיאור מערכת המנצלת נוזלים להעברת כוח ובקרה, לעתים קרובות ביישומי רכב",
+                "example": "Hydraulic brakes are used in many vehicles to slow or stop motion by applying hydraulic pressure on the wheels.",
+                "example_hebrew": "בלמים הידראוליים משתמשים בכלי רכב רבים כדי להאט או לעצור תנועה על ידי הפעלת לחץ הידראולי על הגלגלים."
+            },
+            {
+                "definition": "Concerning machines that use liquid under pressure as a means of transferring power",
+                "definition_hebrew": "לגבי מכונות המשתמשות בנוזל בלחץ כאמצעי להעברת כוח",
+                "example": "A construction crane uses hydraulics to lift and move heavy loads.",
+                "example_hebrew": "מנוף בנייה משתמש בהידראוליקה כדי להרים ולהעביר משאות כבדים."
+            }
+        ]
+    }
+]

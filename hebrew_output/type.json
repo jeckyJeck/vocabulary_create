@@ -1,0 +1,40 @@
+[
+    {
+        "word": "type",
+        "word_hebrew": "סוּג",
+        "main_definition": "Type refers to a category or classification of something, often based on shared characteristics or purpose.",
+        "main_definition_hebrew": "סוג מתייחס לקטגוריה או סיווג של משהו, לעתים קרובות מבוסס על מאפיינים או מטרה משותפים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A particular kind of person or thing having distinctive qualities",
+                "definition_hebrew": "סוג מסוים של אדם או דבר בעל תכונות ייחודיות",
+                "example": "The type of customer that the store caters to is mainly young adults aged 18-25.",
+                "example_hebrew": "סוג הלקוחות אליו פונה החנות הוא בעיקר צעירים בגילאי 18-25."
+            },
+            {
+                "definition": "A category in a classification system",
+                "definition_hebrew": "קטגוריה במערכת סיווג",
+                "example": "In the animal kingdom, birds are categorized under the type 'avian'.",
+                "example_hebrew": "בממלכת החיות, ציפורים מסווגות תחת הסוג 'עופות'."
+            },
+            {
+                "definition": "The act of distinguishing one thing from another based on distinct characteristics",
+                "definition_hebrew": "פעולת ההבחנה בין דבר אחד למשנהו על סמך מאפיינים ברורים",
+                "example": "She had trouble differentiating between the types of apples at the market; red and green ones looked quite similar to her.",
+                "example_hebrew": "היא התקשתה להבדיל בין סוגי התפוחים בשוק; האדומים והירוקים נראו די דומים לה."
+            },
+            {
+                "definition": "A category or group within a taxonomy, used especially in biology or computer science",
+                "definition_hebrew": "קטגוריה או קבוצה בתוך טקסונומיה, המשמשת במיוחד בביולוגיה או מדעי המחשב",
+                "example": "There are three main types of mammals: monotremes, marsupials, and placental mammals.",
+                "example_hebrew": "ישנם שלושה סוגים עיקריים של יונקים: מונוטרמים, חיות כיס ויונקים שליה."
+            },
+            {
+                "definition": "A standard model or pattern upon which others can be copied or developed",
+                "definition_hebrew": "דגם או דפוס סטנדרטיים שעליהם ניתן להעתיק או לפתח אחרים",
+                "example": "This new smartphone follows the type of design set by previous models from the company.",
+                "example_hebrew": "הסמארטפון החדש הזה עוקב אחר סוג העיצוב שנקבע על ידי דגמים קודמים של החברה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "voluntary",
+        "word_hebrew": "מִרָצוֹן",
+        "main_definition": "Willingly done, without being forced or under compulsion.",
+        "main_definition_hebrew": "נעשה ברצון, ללא כפייה או כפייה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Done by choice; not mandatory or obligatory.",
+                "definition_hebrew": "נעשה מבחירה; לא חובה או חובה.",
+                "example": "He volunteered to help clean up the park.",
+                "example_hebrew": "הוא התנדב לעזור בניקוי הפארק."
+            },
+            {
+                "definition": "Relating to a person's free will in action, especially in reference to laws and regulations.",
+                "definition_hebrew": "התייחסות לרצונו החופשי של אדם בפעולה, במיוחד בהתייחס לחוקים ולתקנות.",
+                "example": "The court found that his actions were voluntary, not coerced by others.",
+                "example_hebrew": "בית המשפט מצא כי מעשיו היו מרצון, ולא נכפו על ידי אחרים."
+            },
+            {
+                "definition": "Participation in an activity or program without being required to do so; such as volunteering.",
+                "definition_hebrew": "השתתפות בפעילות או בתוכנית מבלי להידרש לכך; כמו התנדבות.",
+                "example": "She joined the charity's voluntary committee and started fundraising events.",
+                "example_hebrew": "היא הצטרפה לוועדה ההתנדבותית של הצדקה והחלה באירועי גיוס כספים."
+            },
+            {
+                "definition": "Offered willingly, typically by a lawyer representing oneself in court (pro se).",
+                "definition_hebrew": "מוצע ברצון, בדרך כלל על ידי עורך דין המייצג את עצמו בבית המשפט (פרו סה).",
+                "example": "The defendant chose to be pro se for his own defense during the trial.",
+                "example_hebrew": "הנאשם בחר להגן על עצמו במהלך המשפט."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "ict",
+        "word_hebrew": "ict",
+        "main_definition": "In the context of education, 'ict' refers to Information and Communication Technology which encompasses various digital tools used in learning environments.",
+        "main_definition_hebrew": "בהקשר של חינוך, 'ict' מתייחס לטכנולוגיית מידע ותקשורת המקיפה כלים דיגיטליים שונים המשמשים בסביבות למידה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Information Technology (IT)",
+                "definition_hebrew": "טכנולוגיית מידע (IT)",
+                "example": "The school upgraded its IT infrastructure by installing new computers for each student.",
+                "example_hebrew": "בית הספר שדרג את תשתית ה-IT שלו על ידי התקנת מחשבים חדשים לכל תלמיד."
+            },
+            {
+                "definition": "Communication Technology",
+                "definition_hebrew": "טכנולוגיית תקשורת",
+                "example": "Through communication technology like video conferencing, students can collaborate with peers from around the world.",
+                "example_hebrew": "באמצעות טכנולוגיית תקשורת כמו ועידת וידאו, התלמידים יכולים לשתף פעולה עם עמיתים מכל העולם."
+            },
+            {
+                "definition": "'ICT' is a term often used interchangeably with 'computer science', referring to the study of computers and computational systems.",
+                "definition_hebrew": "'ICT' הוא מונח המשמש לעתים קרובות להחלפה עם 'מדעי המחשב', המתייחס לחקר מחשבים ומערכות חישוביות.",
+                "example": "The school offers an ICT course where students learn about programming languages like Python and Java.",
+                "example_hebrew": "בית הספר מציע קורס ICT שבו התלמידים לומדים על שפות תכנות כמו Python ו-Java."
+            }
+        ]
+    }
+]

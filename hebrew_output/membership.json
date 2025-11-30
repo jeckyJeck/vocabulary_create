@@ -1,0 +1,40 @@
+[
+    {
+        "word": "membership",
+        "word_hebrew": "חֲבֵרוּת",
+        "main_definition": "The state of being a member or participant in an organization, group, or collective body.",
+        "main_definition_hebrew": "מצב היות חבר או משתתף בארגון, קבוצה או גוף קיבוצי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Participation in an organized entity or association",
+                "definition_hebrew": "השתתפות בגוף או עמותה מאורגנת",
+                "example": "After paying the annual dues, I officially became a membership of my local gym.",
+                "example_hebrew": "לאחר ששילמתי את התשלום השנתי, הפכתי רשמית לחבר בחדר הכושר המקומי שלי."
+            },
+            {
+                "definition": "Inclusion in a group for a particular purpose or benefit",
+                "definition_hebrew": "הכללה בקבוצה למטרה או תועלת מסוימת",
+                "example": "The museum offered free entry to members on Thursdays. It's a great way to enjoy the exhibits without spending money each visit.",
+                "example_hebrew": "המוזיאון הציע כניסה חינם לחברים בימי חמישי. זוהי דרך מצוינת ליהנות מהתערוכות מבלי לבזבז כסף בכל ביקור."
+            },
+            {
+                "definition": "A right granted by an organization, typically involving specific privileges or access rights",
+                "definition_hebrew": "זכות המוענקת על ידי ארגון, הכוללת בדרך כלל הרשאות או זכויות גישה ספציפיות",
+                "example": "As part of my library membership, I have unlimited borrowing and can attend book clubs and author talks.",
+                "example_hebrew": "כחלק מהחברות שלי בספרייה, יש לי השאלות ללא הגבלה ויכול להשתתף במועדוני ספרים והרצאות סופרים."
+            },
+            {
+                "definition": "The act of belonging to a group with shared interests or goals",
+                "definition_hebrew": "פעולת השתייכות לקבוצה עם תחומי עניין או מטרות משותפים",
+                "example": "Having a membership in the chess club allows me to participate in weekly games, tournaments, and social events.",
+                "example_hebrew": "חברות במועדון השחמט מאפשרת לי להשתתף במשחקים שבועיים, טורנירים ואירועים חברתיים."
+            },
+            {
+                "definition": "A fee-based service that provides access to goods, services, or information",
+                "definition_hebrew": "שירות מבוסס עמלות המספק גישה לסחורות, שירותים או מידע",
+                "example": "Subscribing to the newspaper's online membership grants unlimited access to news articles and digital archives.",
+                "example_hebrew": "הרשמה לחברות המקוונת של העיתון מעניקה גישה בלתי מוגבלת לכתבות חדשות ולארכיונים דיגיטליים."
+            }
+        ]
+    }
+]

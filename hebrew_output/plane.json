@@ -1,0 +1,34 @@
+[
+    {
+        "word": "plane",
+        "word_hebrew": "מָטוֹס",
+        "main_definition": "In English, the term 'plane' can refer to several concepts including an aircraft designed for air travel, a flat or level surface, a tool used in carpentry (known as a hand plane), and an idiom meaning without any problems. Here are examples for each usage:",
+        "main_definition_hebrew": "באנגלית, המונח 'מטוס' יכול להתייחס למספר מושגים כולל מטוס המיועד לנסיעות אוויריות, משטח שטוח או ישר, כלי המשמש בנגרות (המכונה מטוס יד), ומשמעות ניב ללא כל בעיה. להלן דוגמאות לכל שימוש:",
+        "meanings_and_examples": [
+            {
+                "definition": "An aircraft that is designed to transport people or cargo through the air, typically propelled by engines.",
+                "definition_hebrew": "מטוס שנועד להעביר אנשים או מטען באוויר, בדרך כלל מונע על ידי מנועים.",
+                "example": "I'm going on a flight in an Airbus plane next week.",
+                "example_hebrew": "אני יוצא לטיסה במטוס איירבוס בשבוע הבא."
+            },
+            {
+                "definition": "A flat surface or area with no significant inclines or declines.",
+                "definition_hebrew": "משטח או שטח שטוחים ללא שיפועים או ירידות משמעותיים.",
+                "example": "The floor of the room is almost completely level, like a perfectly smooth plane.",
+                "example_hebrew": "רצפת החדר מפולסת כמעט לחלוטין, כמו מישור חלק לחלוטין."
+            },
+            {
+                "definition": "A tool used in woodworking for shaping wood by hand. It has a straight edge and a handle, often made of metal.",
+                "definition_hebrew": "כלי המשמש בעיבוד עץ לעיצוב עץ בעבודת יד. יש לו קצה ישר וידית, לעתים קרובות עשוי מתכת.",
+                "example": "He used a hand plane to flatten the wooden plank before painting it.",
+                "example_hebrew": "הוא השתמש במטוס יד כדי לשטח את קרש העץ לפני שצבע אותו."
+            },
+            {
+                "definition": "An idiom meaning 'without any problems' or 'flawless'.",
+                "definition_hebrew": "ניב שמשמעותו 'ללא בעיות' או 'ללא רבב'.",
+                "example": "The event went off without a hitch; everything was just fine, like there were no planes in sight!",
+                "example_hebrew": "האירוע התנהל ללא תקלות; הכל היה בסדר, כאילו לא היו מטוסים באופק!"
+            }
+        ]
+    }
+]

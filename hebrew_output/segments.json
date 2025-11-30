@@ -1,0 +1,40 @@
+[
+    {
+        "word": "segments",
+        "word_hebrew": "קטעים",
+        "main_definition": "Segments refer to individual parts or sections that form a whole, often used in various contexts such as geometry, marketing, or communication.",
+        "main_definition_hebrew": "פלחים מתייחסים לחלקים בודדים או לקטעים היוצרים שלם, המשמשים לעתים קרובות בהקשרים שונים כגון גיאומטריה, שיווק או תקשורת.",
+        "meanings_and_examples": [
+            {
+                "definition": "In mathematics and geometry, segments are portions of line segments between two points.",
+                "definition_hebrew": "במתמטיקה ובגיאומטריה, מקטעים הם חלקים מקטעי קו בין שתי נקודות.",
+                "example": "The distance between point A (3 units from the origin) and point B (6 units from the origin) forms a segment with a length of 3 units.",
+                "example_hebrew": "המרחק בין נקודה A (3 יחידות מהמקור) לנקודה B (6 יחידות מהמקור) יוצר קטע באורך של 3 יחידות."
+            },
+            {
+                "definition": "In marketing, segments are groups of consumers or potential customers who share similar characteristics.",
+                "definition_hebrew": "בשיווק, סגמנטים הם קבוצות של צרכנים או לקוחות פוטנציאליים החולקים מאפיינים דומים.",
+                "example": "A car manufacturer may create different product segments for economy cars, luxury vehicles, and sports cars to target specific consumer needs.",
+                "example_hebrew": "יצרן רכב עשוי ליצור פלחי מוצרים שונים עבור מכוניות חסכוניות, רכבי יוקרה ומכוניות ספורט כדי למקד את צרכי הצרכן הספציפיים."
+            },
+            {
+                "definition": "In telecommunications, segments refer to subdivisions of a network or system that perform distinct functions.",
+                "definition_hebrew": "בתקשורת, מקטעים מתייחסים לחלוקות משנה של רשת או מערכת המבצעות פונקציות שונות.",
+                "example": "A cable company's internet service may have separate voice segment and data segment components for handling phone calls and data transmission.",
+                "example_hebrew": "לשירות האינטרנט של חברת כבלים עשוי להיות רכיבי קטע קול וקטע נתונים נפרדים לטיפול בשיחות טלפון והעברת נתונים."
+            },
+            {
+                "definition": "In broadcasting, segments are parts of a program divided into smaller chunks of content or topics to cater to diverse interests.",
+                "definition_hebrew": "בשידור, קטעים הם חלקים של תוכנית המחולקים לגושים קטנים יותר של תוכן או נושאים כדי לתת מענה לתחומי עניין מגוונים.",
+                "example": "A morning talk show may have segments dedicated to news, interviews with celebrities, and lifestyle advice.",
+                "example_hebrew": "תוכנית אירוח של בוקר עשויה לכלול קטעים המוקדשים לחדשות, ראיונות עם מפורסמים וייעוץ לסגנון חיים."
+            },
+            {
+                "definition": "In journalism, segments are sections within a larger article that focus on specific aspects or details related to the topic.",
+                "definition_hebrew": "בעיתונאות, קטעים הם קטעים בתוך מאמר גדול יותר המתמקדים בהיבטים או פרטים ספציפיים הקשורים לנושא.",
+                "example": "An investigative report about environmental issues may have segments discussing pollution in water sources, deforestation effects, and renewable energy solutions.",
+                "example_hebrew": "דוח חקירה על סוגיות סביבתיות עשוי לכלול קטעים הדנים בזיהום במקורות מים, השפעות כריתת יערות ופתרונות אנרגיה מתחדשת."
+            }
+        ]
+    }
+]

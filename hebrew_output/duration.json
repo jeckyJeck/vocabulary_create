@@ -1,0 +1,34 @@
+[
+    {
+        "word": "duration",
+        "word_hebrew": "מֶשֶׁך",
+        "main_definition": "Duration refers to the length of time that an event or activity lasts.",
+        "main_definition_hebrew": "משך מתייחס למשך הזמן שאירוע או פעילות נמשכים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The amount of time taken by a particular phenomenon, process, or event to occur.",
+                "definition_hebrew": "משך הזמן שלוקח תופעה, תהליך או אירוע מסוים להתרחש.",
+                "example": "The duration of the concert was three hours.",
+                "example_hebrew": "משך הקונצרט היה שלוש שעות."
+            },
+            {
+                "definition": "The length of an interval between two events or points in time.",
+                "definition_hebrew": "אורך מרווח בין שני אירועים או נקודות זמן.",
+                "example": "The duration between his appointments is one hour.",
+                "example_hebrew": "משך הזמן בין הפגישות שלו הוא שעה."
+            },
+            {
+                "definition": "A period of continuous action, effort, or performance without interruption.",
+                "definition_hebrew": "תקופה של פעולה, מאמץ או ביצוע מתמשכים ללא הפרעה.",
+                "example": "She dedicated a full year to the duration of her studies abroad.",
+                "example_hebrew": "היא הקדישה שנה שלמה למשך לימודיה בחו\"ל."
+            },
+            {
+                "definition": "The time taken by an object in motion from start to finish, often used in physics and engineering.",
+                "definition_hebrew": "הזמן שלוקח אובייקט בתנועה מתחילתו ועד סופו, משמש לעתים קרובות בפיזיקה והנדסה.",
+                "example": "Calculating the duration it takes for light to travel one meter is essential in certain experiments.",
+                "example_hebrew": "חישוב משך הזמן שלוקח לאור לעבור מטר אחד חיוני בניסויים מסוימים."
+            }
+        ]
+    }
+]

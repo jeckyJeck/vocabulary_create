@@ -1,0 +1,40 @@
+[
+    {
+        "word": "distribution",
+        "word_hebrew": "הפצה",
+        "main_definition": "The process of spreading or allocating items, resources, or information to different locations, people, or groups.",
+        "main_definition_hebrew": "תהליך ההפצה או הקצאה של פריטים, משאבים או מידע למיקומים, אנשים או קבוצות שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A statistical measure that shows the dispersion of data points in a dataset from their mean value.",
+                "definition_hebrew": "מדד סטטיסטי המראה את פיזור נקודות הנתונים במערך נתונים מהערך הממוצע שלהן.",
+                "example": "The standard deviation is one way to describe the distribution of scores on an exam.",
+                "example_hebrew": "סטיית התקן היא אחת הדרכים לתאר את התפלגות הציונים בבחינה."
+            },
+            {
+                "definition": "The act of delivering or providing something, such as goods, services, or information, to various destinations or recipients.",
+                "definition_hebrew": "הפעולה של מסירה או אספקה של משהו, כגון סחורה, שירותים או מידע, ליעדים או לנמענים שונים.",
+                "example": "The company's warehouse workers are responsible for the efficient distribution of products across the country.",
+                "example_hebrew": "עובדי המחסנים של החברה אחראים להפצה יעילה של המוצרים ברחבי הארץ."
+            },
+            {
+                "definition": "The proportion of a total that is given away by one party to another.",
+                "definition_hebrew": "שיעור הסכום הנמסר על ידי צד אחד לאחר.",
+                "example": "In business, the cost of goods sold and operating expenses must be deducted from revenue before determining profit. The resulting amount is called distributable income.",
+                "example_hebrew": "בעסק, יש לנכות את עלות הסחורה הנמכרת והוצאות התפעול מההכנסות לפני קביעת הרווח. הסכום המתקבל נקרא הכנסה לחלוקה."
+            },
+            {
+                "definition": "A system or network used for transmitting data across different locations through various channels.",
+                "definition_hebrew": "מערכת או רשת המשמשת להעברת נתונים בין מיקומים שונים בערוצים שונים.",
+                "example": "Streaming services like Netflix use a complex distribution infrastructure to deliver content to millions of subscribers worldwide.",
+                "example_hebrew": "שירותי סטרימינג כמו נטפליקס משתמשים בתשתית הפצה מורכבת כדי לספק תוכן למיליוני מנויים ברחבי העולם."
+            },
+            {
+                "definition": "The allocation of funds, assets, or other resources among multiple recipients or uses within an organization or group.",
+                "definition_hebrew": "הקצאת כספים, נכסים או משאבים אחרים בין מספר נמענים או שימושים בתוך ארגון או קבוצה.",
+                "example": "Non-profit organizations often have specific guidelines for the distribution of donations to ensure fairness and transparency.",
+                "example_hebrew": "לעמותות יש לרוב הנחיות ספציפיות לחלוקת תרומות כדי להבטיח הוגנות ושקיפות."
+            }
+        ]
+    }
+]

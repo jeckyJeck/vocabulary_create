@@ -1,0 +1,34 @@
+[
+    {
+        "word": "passengers",
+        "word_hebrew": "נוסעים",
+        "main_definition": "Passengers are people who travel in a vehicle, such as an airplane, train, or bus, without driving it themselves.",
+        "main_definition_hebrew": "נוסעים הם אנשים שנוסעים ברכב, כגון מטוס, רכבת או אוטובוס, מבלי לנהוג בו בעצמם.",
+        "meanings_and_examples": [
+            {
+                "definition": "People on board vehicles like cars, trains, planes, etc., for the purpose of transportation",
+                "definition_hebrew": "אנשים על סיפון כלי רכב כמו מכוניות, רכבות, מטוסים וכו', לצורך תחבורה",
+                "example": "The airline staff counted 235 passengers at the gate before departure.",
+                "example_hebrew": "צוות חברת התעופה מנה 235 נוסעים בשער לפני ההמראה."
+            },
+            {
+                "definition": "Individuals traveling in a mode of public or private transportation to reach their destination",
+                "definition_hebrew": "אנשים הנוסעים בדרך של תחבורה ציבורית או פרטית כדי להגיע ליעדם",
+                "example": "Due to high demand, there were no available seats for additional passengers on the last train home.",
+                "example_hebrew": "בשל הביקוש הרב, לא היו מושבים פנויים לנוסעים נוספים ברכבת האחרונה הביתה."
+            },
+            {
+                "definition": "Customers using a service that involves movement from one place to another (e.g., public transit) and paying for it",
+                "definition_hebrew": "לקוחות המשתמשים בשירות הכרוך בתנועה ממקום אחד לאחר (למשל, תחבורה ציבורית) ותשלום עבורו",
+                "example": "The bus company introduced a new pricing strategy to cater to more passengers during rush hour.",
+                "example_hebrew": "חברת האוטובוסים הציגה אסטרטגיית תמחור חדשה כדי לתת מענה ליותר נוסעים בשעות העומס."
+            },
+            {
+                "definition": "Individuals who are not driving but are on board a vehicle, often as part of their work or leisure activities",
+                "definition_hebrew": "אנשים שאינם נוהגים אך נמצאים על סיפונה של רכב, לרוב כחלק מפעילויות העבודה או הפנאי שלהם",
+                "example": "Sightseeing tourists excitedly waiting for the next bus to take them around downtown.",
+                "example_hebrew": "תיירים מטיילים מחכים בהתרגשות לאוטובוס הבא שיסיע אותם במרכז העיר."
+            }
+        ]
+    }
+]

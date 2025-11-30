@@ -1,0 +1,40 @@
+[
+    {
+        "word": "verify",
+        "word_hebrew": "תאשר",
+        "main_definition": "To establish the truth or accuracy of something, typically by examining evidence or conducting tests.",
+        "main_definition_hebrew": "לקבוע את האמת או הדיוק של משהו, בדרך כלל על ידי בחינת ראיות או עריכת בדיקות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To confirm the authenticity or validity of information, documents, or claims.",
+                "definition_hebrew": "כדי לאשר את האותנטיות או התקפות של מידע, מסמכים או טענות.",
+                "example": "The bank needs to verify your identity before processing a loan application.",
+                "example_hebrew": "הבנק צריך לאמת את זהותך לפני טיפול בבקשת הלוואה."
+            },
+            {
+                "definition": "To check for accuracy or correctness in measurements, calculations, or data entry.",
+                "definition_hebrew": "כדי לבדוק דיוק או נכונות במדידות, בחישובים או בהזנת נתונים.",
+                "example": "Before publishing the results, scientists must verify their findings through repeated experiments.",
+                "example_hebrew": "לפני פרסום התוצאות, על המדענים לאמת את ממצאיהם באמצעות ניסויים חוזרים."
+            },
+            {
+                "definition": "To ensure that a particular process or condition is met before proceeding with it.",
+                "definition_hebrew": "כדי להבטיח שתהליך או תנאי מסוים מתקיימים לפני שתמשיך איתו.",
+                "example": "Employers often require job applicants to provide references for verification of past employment and qualifications.",
+                "example_hebrew": "לעתים קרובות מעסיקים דורשים ממועמדים לעבודה לספק אסמכתאות לאימות תעסוקה וכישורים בעבר."
+            },
+            {
+                "definition": "To authenticate or confirm the identity of someone, usually by using an official document such as a passport or ID card.",
+                "definition_hebrew": "כדי לאמת או לאשר את זהותו של מישהו, בדרך כלל באמצעות מסמך רשמי כגון דרכון או תעודת זהות.",
+                "example": "The security officer asked me to verify my identification at the entrance checkpoint.",
+                "example_hebrew": "קצין הביטחון ביקש ממני לאמת את זיהויי במחסום הכניסה."
+            },
+            {
+                "definition": "To validate information through investigation or cross-referencing with reliable sources.",
+                "definition_hebrew": "לאמת מידע באמצעות חקירה או הצלבה עם מקורות אמינים.",
+                "example": "Detectives must verify alibis and other details provided by suspects during an interrogation.",
+                "example_hebrew": "על הבלשים לאמת אליביס ופרטים נוספים שסיפקו חשודים במהלך חקירה."
+            }
+        ]
+    }
+]

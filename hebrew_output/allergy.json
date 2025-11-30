@@ -1,0 +1,34 @@
+[
+    {
+        "word": "allergy",
+        "word_hebrew": "אַלֶרגִיָה",
+        "main_definition": "An allergy is a hypersensitive reaction to a substance that is typically harmless to most people, causing various symptoms in those affected.",
+        "main_definition_hebrew": "אלרגיה היא תגובה רגישות יתר לחומר שבדרך כלל אינו מזיק לרוב האנשים, הגורמת לתסמינים שונים אצל הנפגעים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A medical condition where the immune system reacts abnormally to an ordinarily harmless substance",
+                "definition_hebrew": "מצב רפואי שבו מערכת החיסון מגיבה בצורה חריגה לחומר לא מזיק בדרך כלל",
+                "example": "She has a peanut allergy, which means her body reacts negatively when she eats anything containing peanuts.",
+                "example_hebrew": "יש לה אלרגיה לבוטנים, כלומר הגוף שלה מגיב לרעה כשהיא אוכלת כל דבר שמכיל בוטנים."
+            },
+            {
+                "definition": "An allergic reaction",
+                "definition_hebrew": "תגובה אלרגית",
+                "example": "His sneezing and itchy eyes were symptoms of his pollen allergy after he walked through a field of flowers.",
+                "example_hebrew": "התעטשות ועיניו המגרדות היו סימפטומים של אלרגיה לאבקנים שלו לאחר שעבר בשדה פרחים."
+            },
+            {
+                "definition": "A specific type of hypersensitivity involving an immune response to foreign substances",
+                "definition_hebrew": "סוג ספציפי של רגישות יתר הכוללת תגובה חיסונית לחומרים זרים",
+                "example": "She is allergic to latex, so she always checks for medical supplies that use non-latex alternatives.",
+                "example_hebrew": "היא אלרגית ללטקס, אז היא תמיד בודקת ציוד רפואי המשתמש בחלופות שאינן לטקס."
+            },
+            {
+                "definition": "An adverse reaction triggered by contact with a particular allergen",
+                "definition_hebrew": "תגובה שלילית המופעלת ממגע עם אלרגן מסוים",
+                "example": "The man experienced hives and swelling after touching poison ivy, indicating an allergic reaction to the plant's sap.",
+                "example_hebrew": "האיש חווה כוורות ונפיחות לאחר שנגע בקיסוס רעיל, דבר המעיד על תגובה אלרגית למוהל הצמח."
+            }
+        ]
+    }
+]

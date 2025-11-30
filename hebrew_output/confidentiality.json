@@ -1,0 +1,28 @@
+[
+    {
+        "word": "confidentiality",
+        "word_hebrew": "סודיות",
+        "main_definition": "The act of keeping information secret or private, typically to respect someone's privacy or protect sensitive data.",
+        "main_definition_hebrew": "הפעולה של שמירת מידע בסוד או פרטי, בדרך כלל כדי לכבד את הפרטיות של מישהו או להגן על נתונים רגישים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Maintaining the secrecy of personal or sensitive information shared with an individual or organization.",
+                "definition_hebrew": "שמירה על סודיות המידע האישי או הרגיש המשותף עם אדם או ארגון.",
+                "example": "A doctor has a duty of confidentiality and cannot share a patient's medical records without their consent.",
+                "example_hebrew": "על רופא חלה חובת סודיות ואינו יכול לשתף את התיעוד הרפואי של מטופל ללא הסכמתו."
+            },
+            {
+                "definition": "The obligation to protect private communication, such as letters or emails, from unauthorized access.",
+                "definition_hebrew": "החובה להגן על תקשורת פרטית, כגון מכתבים או מיילים, מפני גישה לא מורשית.",
+                "example": "In legal proceedings, attorneys must maintain the confidentiality of client-attorney communications.",
+                "example_hebrew": "בהליכים משפטיים, על עורכי הדין לשמור על סודיות התקשורת של לקוח-עורך דין."
+            },
+            {
+                "definition": "Keeping business information like trade secrets or financial data secure and not disclosed to competitors or unauthorized parties.",
+                "definition_hebrew": "שמירת מידע עסקי כמו סודות מסחריים או נתונים פיננסיים מאובטחת ולא נחשפת למתחרים או לגורמים לא מורשים.",
+                "example": "A company implements strict confidentiality policies to prevent employees from leaking proprietary product details.",
+                "example_hebrew": "חברה מיישמת מדיניות סודיות קפדנית כדי למנוע מעובדים דליפת פרטי מוצר קנייניים."
+            }
+        ]
+    }
+]

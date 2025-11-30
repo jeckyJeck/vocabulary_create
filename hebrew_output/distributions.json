@@ -1,0 +1,28 @@
+[
+    {
+        "word": "distributions",
+        "word_hebrew": "הפצות",
+        "main_definition": "In various contexts, 'distributions' refers to the act of spreading or allocating something among different recipients or locations, as well as mathematical functions that describe how data points are dispersed over a range.",
+        "main_definition_hebrew": "בהקשרים שונים, 'הפצות' מתייחס לפעולת הפצה או הקצאה של משהו בין נמענים או מיקומים שונים, כמו גם פונקציות מתמטיות המתארות כיצד נקודות נתונים מפוזרות על פני טווח.",
+        "meanings_and_examples": [
+            {
+                "definition": "The process of dividing and assigning goods, services, or information to various people or places.",
+                "definition_hebrew": "תהליך חלוקה והקצאה של סחורות, שירותים או מידע לאנשים או למקומות שונים.",
+                "example": "After the event, volunteers were tasked with the distributions of food packages to families in need.",
+                "example_hebrew": "לאחר האירוע הוטל על המתנדבים לחלק חבילות מזון למשפחות נזקקות."
+            },
+            {
+                "definition": "In statistics, a collection of data points that represent how values are spread across a range or interval.",
+                "definition_hebrew": "בסטטיסטיקה, אוסף של נקודות נתונים המייצגות את אופן התפזרות הערכים על פני טווח או מרווח.",
+                "example": "The histogram shows the distributions of heights for high school students within a region.",
+                "example_hebrew": "ההיסטוגרמה מציגה את התפלגות הגבהים עבור תלמידי תיכון בתוך אזור."
+            },
+            {
+                "definition": "In finance and economics, referring to the allocation of resources like investments among different assets or securities.",
+                "definition_hebrew": "בתחום הפיננסים והכלכלה, הכוונה להקצאת משאבים כמו השקעות בין נכסים או ניירות ערך שונים.",
+                "example": "The portfolio manager carefully adjusted the stock, bond, and real estate distributions to manage risk efficiently.",
+                "example_hebrew": "מנהל התיקים התאים בקפידה את חלוקת המניות, האג\"ח והנדל\"ן כדי לנהל סיכונים ביעילות."
+            }
+        ]
+    }
+]

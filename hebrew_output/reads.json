@@ -1,0 +1,34 @@
+[
+    {
+        "word": "reads",
+        "word_hebrew": "קורא",
+        "main_definition": "To understand and interpret the written or printed text.",
+        "main_definition_hebrew": "להבין ולפרש את הטקסט הכתוב או המודפס.",
+        "meanings_and_examples": [
+            {
+                "definition": "To comprehend information from a source, such as books, articles, or emails.",
+                "definition_hebrew": "כדי להבין מידע ממקור, כגון ספרים, מאמרים או מיילים.",
+                "example": "She reads novels to relax in her free time.",
+                "example_hebrew": "היא קוראת רומנים כדי להירגע בזמנה הפנוי."
+            },
+            {
+                "definition": "To check the content of something written, like a document or message.",
+                "definition_hebrew": "כדי לבדוק את התוכן של משהו שנכתב, כמו מסמך או הודעה.",
+                "example": "The manager reads the contract before signing it.",
+                "example_hebrew": "המנהל קורא את החוזה לפני החתימה עליו."
+            },
+            {
+                "definition": "A person who engages in the activity of reading regularly.",
+                "definition_hebrew": "אדם העוסק בפעילות הקריאה באופן קבוע.",
+                "example": "He is an avid reader and spends hours at the library each week.",
+                "example_hebrew": "הוא קורא נלהב ומבלה שעות בספרייה מדי שבוע."
+            },
+            {
+                "definition": "In literature, when a character reads or refers to text within the narrative.",
+                "definition_hebrew": "בספרות, כאשר דמות קוראת או מתייחסת לטקסט בתוך הנרטיב.",
+                "example": "The detective reads the old letter which might hold clues about the mystery.",
+                "example_hebrew": "הבלש קורא את המכתב הישן שעשוי להכיל רמזים על התעלומה."
+            }
+        ]
+    }
+]

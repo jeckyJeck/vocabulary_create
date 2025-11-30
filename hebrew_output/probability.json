@@ -1,0 +1,28 @@
+[
+    {
+        "word": "probability",
+        "word_hebrew": "הִסתַבְּרוּת",
+        "main_definition": "Probability is the measure of the likelihood that an event will occur, expressed as a number between 0 and 1.",
+        "main_definition_hebrew": "הסתברות היא המדד של הסבירות שאירוע יתרחש, מבוטא כמספר בין 0 ל-1.",
+        "meanings_and_examples": [
+            {
+                "definition": "The extent to which something is likely or possible",
+                "definition_hebrew": "המידה שבה משהו סביר או אפשרי",
+                "example": "There's a high probability it will rain tomorrow.",
+                "example_hebrew": "יש סבירות גבוהה שיירד גשם מחר."
+            },
+            {
+                "definition": "A numerical value indicating the chance of occurrence of an event",
+                "definition_hebrew": "ערך מספרי המציין את הסיכוי להתרחשות של אירוע",
+                "example": "If we roll a die, there's a 1 in 6 probability that the number rolled is six.",
+                "example_hebrew": "אם נטיל קובייה, יש הסתברות של 1 ל-6 שהמספר שהוטל הוא שש."
+            },
+            {
+                "definition": "The mathematical discipline concerned with quantifying uncertainty and determining how likely various outcomes are to occur",
+                "definition_hebrew": "הדיסציפלינה המתמטית עוסקת בכימות אי ודאות וקביעת הסבירות להתרחשות תוצאות שונות",
+                "example": "Statistics heavily relies on probability to analyze data trends.",
+                "example_hebrew": "סטטיסטיקה מסתמכת במידה רבה על הסתברות לניתוח מגמות נתונים."
+            }
+        ]
+    }
+]

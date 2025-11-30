@@ -1,0 +1,34 @@
+[
+    {
+        "word": "purchases",
+        "word_hebrew": "רכישות",
+        "main_definition": "Purchases refers to the act of buying or acquiring goods, services, or other items by paying a certain price in exchange.",
+        "main_definition_hebrew": "רכישות מתייחסות לפעולה של קנייה או רכישה של סחורות, שירותים או פריטים אחרים על ידי תשלום מחיר מסוים בתמורה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The total amount spent on buying goods",
+                "definition_hebrew": "הסכום הכולל שהוצא על קניית סחורה",
+                "example": "I made several purchases at the grocery store today and ended up spending over $100.",
+                "example_hebrew": "ביצעתי מספר רכישות במכולת היום ובסופו של דבר הוצאתי מעל 100 דולר."
+            },
+            {
+                "definition": "Transactions in which items are acquired by paying money",
+                "definition_hebrew": "עסקאות שבהן פריטים נרכשים באמצעות תשלום כסף",
+                "example": "Our company recorded 50 new transactions as purchases yesterday.",
+                "example_hebrew": "החברה שלנו רשמה אתמול 50 עסקאות חדשות כרכישות."
+            },
+            {
+                "definition": "Items or products bought on credit and to be paid for later",
+                "definition_hebrew": "פריטים או מוצרים שנקנו באשראי ולתשלום מאוחר יותר",
+                "example": "The store allows customers to purchase items on installment, meaning they can pay over time instead of immediately.",
+                "example_hebrew": "החנות מאפשרת ללקוחות לרכוש פריטים בתשלומים, כלומר הם יכולים לשלם לאורך זמן במקום באופן מיידי."
+            },
+            {
+                "definition": "A record of the goods that have been sold by a retailer or wholesaler",
+                "definition_hebrew": "רישום של הסחורה שנמכרה על ידי קמעונאי או סיטונאי",
+                "example": "Before making any purchases, I like to check my suppliers' purchase orders to see what items are available.",
+                "example_hebrew": "לפני ביצוע רכישות, אני אוהב לבדוק את הזמנות הרכש של הספקים שלי כדי לראות אילו פריטים זמינים."
+            }
+        ]
+    }
+]

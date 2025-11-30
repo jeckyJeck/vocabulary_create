@@ -1,0 +1,34 @@
+[
+    {
+        "word": "nano",
+        "word_hebrew": "ננו",
+        "main_definition": "Nano refers to a prefix used in science and technology fields, representing one-billionth of a unit or scale.",
+        "main_definition_hebrew": "ננו מתייחס לקידומת המשמשת בתחומי מדע וטכנולוגיה, המייצגת מיליארדית מיחידה או קנה מידה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A field of study called nanotechnology which deals with materials on an atomic, molecular, and supramolecular scale.",
+                "definition_hebrew": "תחום מחקר הנקרא ננוטכנולוגיה העוסק בחומרים בקנה מידה אטומי, מולקולרי ועל-מולקולרי.",
+                "example": "Nanomedicine is a branch of medical science that uses the principles of nanotechnology.",
+                "example_hebrew": "ננו-רפואה היא ענף של מדע הרפואה המשתמש בעקרונות הננוטכנולוגיה."
+            },
+            {
+                "definition": "A unit prefix in the metric system denoting one-billionth (10^-9) of a base unit.",
+                "definition_hebrew": "קידומת יחידה במערכת המטרית המציינת מיליארדית (10^-9) מיחידת בסיס.",
+                "example": "A nanometer, which is commonly used to measure very small lengths like wavelengths of light.",
+                "example_hebrew": "ננומטר, המשמש בדרך כלל למדידת אורכים קטנים מאוד כמו אורכי גל של אור."
+            },
+            {
+                "definition": "Nanoparticles or nanocomposites are materials engineered on a molecular scale and have unique properties compared to their larger counterparts.",
+                "definition_hebrew": "ננו-חלקיקים או ננו-מרוכבים הם חומרים שהונדסו בקנה מידה מולקולרי ובעלי תכונות ייחודיות בהשוואה לעמיתיהם הגדולים יותר.",
+                "example": "Carbon nanotubes, which are used in various applications due to their exceptional strength and electrical conductivity.",
+                "example_hebrew": "ננו-צינורות פחמן, המשמשים ביישומים שונים בשל חוזקם יוצא דופן ומוליכותם החשמלית."
+            },
+            {
+                "definition": "Nanotechnology refers to the manipulation of matter at an atomic or molecular scale for innovative purposes.",
+                "definition_hebrew": "ננוטכנולוגיה מתייחסת למניפולציה של חומר בקנה מידה אטומי או מולקולרי למטרות חדשניות.",
+                "example": "Researchers use nanotechnology to create stronger, lighter materials for construction and aerospace applications.",
+                "example_hebrew": "חוקרים משתמשים בננוטכנולוגיה כדי ליצור חומרים חזקים וקלים יותר ליישומי בנייה ותעופה וחלל."
+            }
+        ]
+    }
+]

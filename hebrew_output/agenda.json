@@ -1,0 +1,34 @@
+[
+    {
+        "word": "agenda",
+        "word_hebrew": "סֵדֶר הַיוֹם",
+        "main_definition": "An agenda is a list of items or tasks to be discussed, addressed, or accomplished during a meeting or event.",
+        "main_definition_hebrew": "סדר יום הוא רשימה של פריטים או משימות שיש לדון, לטפל או לבצע במהלך פגישה או אירוע.",
+        "meanings_and_examples": [
+            {
+                "definition": "A document outlining the topics for discussion in a meeting",
+                "definition_hebrew": "מסמך המפרט את הנושאים לדיון בפגישה",
+                "example": "The project manager handed out an agenda before starting the team meeting to ensure everyone was prepared.",
+                "example_hebrew": "מנהל הפרויקט חילק סדר יום לפני תחילת ישיבת הצוות כדי לוודא שכולם מוכנים."
+            },
+            {
+                "definition": "Person's personal goals or objectives they wish to achieve",
+                "definition_hebrew": "המטרות האישיות של האדם או היעדים שהם רוצים להשיג",
+                "example": "Her long-term agenda includes obtaining a master's degree and working abroad for two years.",
+                "example_hebrew": "סדר היום שלה לטווח ארוך כולל השגת תואר שני ועבודה בחו\"ל במשך שנתיים."
+            },
+            {
+                "definition": "The course of action, plan, or sequence of events that one intends to pursue in life",
+                "definition_hebrew": "מהלך הפעולה, התוכנית או רצף האירועים שאדם מתכוון להמשיך בחיים",
+                "example": "His political agenda focused on healthcare reform and education improvements.",
+                "example_hebrew": "האג'נדה הפוליטית שלו התמקדה ברפורמה בבריאות ובשיפורי חינוך."
+            },
+            {
+                "definition": "An organized list of items needed or tasks to be completed during a specific event or activity",
+                "definition_hebrew": "רשימה מאורגנת של פריטים הדרושים או משימות שיש להשלים במהלך אירוע או פעילות ספציפיים",
+                "example": "The wedding planner provided us with an agenda for the day, including when each vendor would arrive and depart.",
+                "example_hebrew": "מתכנן החתונות סיפק לנו סדר יום לאותו יום, כולל מתי כל ספק יגיע ויעזוב."
+            }
+        ]
+    }
+]

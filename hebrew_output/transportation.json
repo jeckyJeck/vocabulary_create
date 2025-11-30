@@ -1,0 +1,40 @@
+[
+    {
+        "word": "transportation",
+        "word_hebrew": "הוֹבָלָה",
+        "main_definition": "The act of moving people or goods from one place to another, typically using various modes such as cars, trains, planes, boats, etc.",
+        "main_definition_hebrew": "פעולת העברה של אנשים או סחורות ממקום אחד לאחר, בדרך כלל תוך שימוש באופנים שונים כגון מכוניות, רכבות, מטוסים, סירות וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "Moving goods and products from a production site to the consumer",
+                "definition_hebrew": "העברת סחורות ומוצרים מאתר ייצור לצרכן",
+                "example": "The company's transportation department is responsible for delivering raw materials to their factory.",
+                "example_hebrew": "מחלקת ההובלה של החברה אחראית על אספקת חומרי הגלם למפעלם."
+            },
+            {
+                "definition": "Methods or systems used for moving people or goods between locations",
+                "definition_hebrew": "שיטות או מערכות המשמשות להעברת אנשים או סחורות בין מיקומים",
+                "example": "Public transportation, such as buses and trains, offers an alternative to personal vehicles.",
+                "example_hebrew": "תחבורה ציבורית, כמו אוטובוסים ורכבות, מציעה אלטרנטיבה לרכבים אישיים."
+            },
+            {
+                "definition": "The process of shifting a vehicle from one location to another",
+                "definition_hebrew": "תהליך העברת רכב ממקום אחד למשנהו",
+                "example": "I used my car's automatic transmission system to easily move it into the garage.",
+                "example_hebrew": "השתמשתי במערכת ההילוכים האוטומטית של המכונית שלי כדי להעביר אותה בקלות למוסך."
+            },
+            {
+                "definition": "A means or method for relocating individuals, typically referring to people moving to a new place",
+                "definition_hebrew": "אמצעי או שיטה להעברת אנשים, בדרך כלל מתייחסים לאנשים שעוברים למקום חדש",
+                "example": "After graduation, I had to find transportation to my new job in another city.",
+                "example_hebrew": "לאחר סיום הלימודים, נאלצתי למצוא הסעות לעבודה החדשה שלי בעיר אחרת."
+            },
+            {
+                "definition": "The act of shipping goods across large distances, often involving multiple modes of transport and logistical planning",
+                "definition_hebrew": "הפעולה של משלוח סחורות למרחקים גדולים, לעתים קרובות כרוכה במספר דרכי תחבורה ותכנון לוגיסטי",
+                "example": "The company specializes in international transportation, providing services for overseas shipments.",
+                "example_hebrew": "החברה מתמחה בהובלה בינלאומית, במתן שירותים למשלוחים לחו\"ל."
+            }
+        ]
+    }
+]

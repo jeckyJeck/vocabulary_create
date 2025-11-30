@@ -1,0 +1,40 @@
+[
+    {
+        "word": "namespace",
+        "word_hebrew": "מרחב שמות",
+        "main_definition": "In programming, a namespace is a container that holds a set of identifiers or names to organize code elements like classes, functions, variables, etc., avoiding naming conflicts.",
+        "main_definition_hebrew": "בתכנות, מרחב שמות הוא מיכל שמכיל קבוצה של מזהים או שמות לארגון רכיבי קוד כמו מחלקות, פונקציות, משתנים וכו', תוך הימנעות מתנגשויות שמות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Programming construct for grouping related items",
+                "definition_hebrew": "מבנה תכנות לקיבוץ פריטים קשורים",
+                "example": "In C++, the namespace std contains all of the standard library's definitions. Example: using namespace std;",
+                "example_hebrew": "ב-C++, מרחב השמות std מכיל את כל ההגדרות של הספרייה הסטנדרטית. דוגמה: שימוש במרחב שמות std;"
+            },
+            {
+                "definition": "A concept in Visual Basic to organize code into logical units",
+                "definition_hebrew": "מושג ב-Visual Basic לארגון קוד ליחידות לוגיות",
+                "example": "Defining a namespace 'MyApp' and encapsulating its classes, such as Customer and Order within it.",
+                "example_hebrew": "הגדרת מרחב שמות 'MyApp' והכלת המחלקות שלו, כגון לקוח והזמנה בתוכו."
+            },
+            {
+                "definition": "In file systems, a namespace is an extension of directory paths that help in locating files uniquely",
+                "definition_hebrew": "במערכות קבצים, מרחב שמות הוא הרחבה של נתיבי ספרייה המסייעים באיתור קבצים באופן ייחודי",
+                "example": "Windows uses drive letters like C: as namespaces for directories. Example: D:\folder\file.txt",
+                "example_hebrew": "Windows משתמש באותיות כונן כמו C: כמרחבי שמות עבור ספריות. דוגמה: D: ile.txt ישן יותר"
+            },
+            {
+                "definition": "A term used in software design patterns to group related classes and interfaces",
+                "definition_hebrew": "מונח המשמש בדפוסי עיצוב תוכנה לקיבוץ כיתות וממשקים קשורים",
+                "example": "The Factory Method pattern can have a namespace 'CreationalPatterns' containing the factory method class.",
+                "example_hebrew": "לתבנית שיטת המפעל יכול להיות מרחב שמות 'CreationalPatterns' המכיל את מחלקת שיטת המפעל."
+            },
+            {
+                "definition": "In XML, namespaces are used to avoid name conflicts by qualifying element or attribute names with unique identifiers",
+                "definition_hebrew": "ב-XML, מרחבי שמות משמשים כדי למנוע התנגשויות שמות על ידי שמות אלמנטים או מאפיינים מתאימים עם מזהים ייחודיים",
+                "example": "Defining an XML element like <book xmlns='http://example.com/books'>",
+                "example_hebrew": "הגדרת רכיב XML כמו <book xmlns='http://example.com/books'>"
+            }
+        ]
+    }
+]

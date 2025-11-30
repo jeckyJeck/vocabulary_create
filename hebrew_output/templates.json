@@ -1,0 +1,46 @@
+[
+    {
+        "word": "templates",
+        "word_hebrew": "תבניות",
+        "main_definition": "Templates are predefined formats or structures that can be used repeatedly to create new instances with similar characteristics.",
+        "main_definition_hebrew": "תבניות הן פורמטים או מבנים מוגדרים מראש שניתן להשתמש בהם שוב ושוב כדי ליצור מופעים חדשים עם מאפיינים דומים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Design templates in software applications",
+                "definition_hebrew": "עיצוב תבניות ביישומי תוכנה",
+                "example": "In Adobe Photoshop, the 'Layers' template provides a structure for organizing image layers.",
+                "example_hebrew": "ב-Adobe Photoshop, התבנית 'שכבות' מספקת מבנה לארגון שכבות תמונה."
+            },
+            {
+                "definition": "Programming language templates",
+                "definition_hebrew": "תבניות שפת תכנות",
+                "example": "C++ uses function and class templates to generate code based on type parameters at compile time.",
+                "example_hebrew": "C++ משתמש בתבניות פונקציות ומחלקות כדי ליצור קוד המבוסס על פרמטרי סוג בזמן הקומפילציה."
+            },
+            {
+                "definition": "Templates in document formatting",
+                "definition_hebrew": "תבניות בעיצוב מסמכים",
+                "example": "Microsoft Word allows users to create a 'header' template for consistent page headers across multiple documents.",
+                "example_hebrew": "Microsoft Word מאפשרת למשתמשים ליצור תבנית 'כותרת' עבור כותרות עמוד עקביות על פני מספר מסמכים."
+            },
+            {
+                "definition": "Web templates used by content management systems (CMS)",
+                "definition_hebrew": "תבניות אינטרנט המשמשות מערכות ניהול תוכן (CMS)",
+                "example": "Joomla and Drupal allow web designers to use HTML/CSS templates for building websites with similar layouts and features.",
+                "example_hebrew": "ג'ומלה ודרופל מאפשרות למעצבי אתרים להשתמש בתבניות HTML/CSS לבניית אתרים עם פריסות ותכונות דומות."
+            },
+            {
+                "definition": "Legal documents or contracts",
+                "definition_hebrew": "מסמכים משפטיים או חוזים",
+                "example": "A standard employment agreement template can be customized for each new job applicant's hiring process.",
+                "example_hebrew": "ניתן להתאים תבנית הסכם עבודה סטנדרטית עבור כל מועמד חדש לעבודה."
+            },
+            {
+                "definition": "Template language in data management and databases",
+                "definition_hebrew": "שפת תבניות בניהול נתונים ומסדי נתונים",
+                "example": "SQL provides a templating system to manipulate and query relational database structures efficiently.",
+                "example_hebrew": "SQL מספקת מערכת תבניות לביצוע מניפולציות ושאילתות של מבני מסד נתונים יחסיים ביעילות."
+            }
+        ]
+    }
+]

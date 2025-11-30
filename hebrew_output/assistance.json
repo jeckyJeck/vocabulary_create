@@ -1,0 +1,40 @@
+[
+    {
+        "word": "assistance",
+        "word_hebrew": "סִיוּעַ",
+        "main_definition": "Help or support given to someone in need, especially by offering skills, resources, or guidance.",
+        "main_definition_hebrew": "עזרה או תמיכה שניתנות למישהו במצוקה, במיוחד על ידי מתן מיומנויות, משאבים או הדרכה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Human aid during emergencies or crises.",
+                "definition_hebrew": "סיוע אנושי בשעת חירום או משברים.",
+                "example": "The Red Cross provided assistance to the victims of the earthquake.",
+                "example_hebrew": "הצלב האדום העניק סיוע לנפגעי רעידת האדמה."
+            },
+            {
+                "definition": "Help in completing a task or solving a problem.",
+                "definition_hebrew": "עזרה בהשלמת משימה או בפתרון בעיה.",
+                "example": "I asked my colleague for assistance with compiling the report.",
+                "example_hebrew": "ביקשתי מעמיתי סיוע בחיבור הדו\"ח."
+            },
+            {
+                "definition": "Financial aid given to someone who cannot afford something.",
+                "definition_hebrew": "סיוע כספי שניתן למי שאינו יכול להרשות לעצמו משהו.",
+                "example": "The charity organization offered financial assistance to families in need of housing.",
+                "example_hebrew": "ארגון הצדקה הציע סיוע כספי למשפחות הזקוקות לדיור."
+            },
+            {
+                "definition": "Expert advice or guidance provided by professionals.",
+                "definition_hebrew": "ייעוץ או הכוונה של מומחים הניתנים על ידי אנשי מקצוע.",
+                "example": "She received professional assistance from a lawyer when filing for divorce.",
+                "example_hebrew": "היא קיבלה סיוע מקצועי מעורך דין בעת הגשת תביעת גירושין."
+            },
+            {
+                "definition": "Use of tools, equipment, or technology to aid in an activity or process.",
+                "definition_hebrew": "שימוש בכלים, ציוד או טכנולוגיה כדי לסייע בפעילות או בתהליך.",
+                "example": "The new software provides assistance with data analysis and visualization.",
+                "example_hebrew": "התוכנה החדשה מספקת סיוע בניתוח נתונים והדמיה."
+            }
+        ]
+    }
+]

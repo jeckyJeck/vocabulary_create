@@ -1,0 +1,34 @@
+[
+    {
+        "word": "equations",
+        "word_hebrew": "משוואות",
+        "main_definition": "Equations are mathematical statements that assert the equality of two expressions, typically involving variables representing unknown values.",
+        "main_definition_hebrew": "משוואות הן הצהרות מתמטיות הקובעות את השוויון של שני ביטויים, הכוללים בדרך כלל משתנים המייצגים ערכים לא ידועים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mathematical statements expressing relationships between quantities and variables",
+                "definition_hebrew": "משפטים מתמטיים המבטאים קשרים בין כמויות ומשתנים",
+                "example": "The equation 2x + 3 = 9 represents a relationship where twice an unknown quantity 'x' plus three equals nine.",
+                "example_hebrew": "המשוואה 2x + 3 = 9 מייצגת קשר שבו פעמיים כמות לא ידועה 'x' ועוד שלוש שווה לתשע."
+            },
+            {
+                "definition": "Symbolic representation of the balance or equality between two expressions",
+                "definition_hebrew": "ייצוג סמלי של האיזון או השוויון בין שני ביטויים",
+                "example": "In physics, Newton's second law is often expressed as F = ma, which relates force (F), mass (m), and acceleration (a).",
+                "example_hebrew": "בפיזיקה, החוק השני של ניוטון מתבטא לעתים קרובות כ-F = ma, המקשר בין כוח (F), מסה (m) ותאוצה (a)."
+            },
+            {
+                "definition": "Formulas used to describe natural phenomena or patterns in various scientific fields",
+                "definition_hebrew": "נוסחאות המשמשות לתיאור תופעות או דפוסי טבע בתחומים מדעיים שונים",
+                "example": "The equation E=mc^2, known as Einstein's mass-energy equivalence formula, describes the relationship between energy (E), mass (m), and speed of light squared (c).",
+                "example_hebrew": "המשוואה E=mc^2, המכונה נוסחת שקילות המסה-אנרגיה של איינשטיין, מתארת את הקשר בין אנרגיה (E), מסה (m) ומהירות האור בריבוע (c)."
+            },
+            {
+                "definition": "Set of rules or operations applied to manipulate expressions in algebra",
+                "definition_hebrew": "מערכת כללים או פעולות המיושמות כדי לתפעל ביטויים באלגברה",
+                "example": "To solve an equation like 3x - 7 = 11, one would apply the addition operation by adding 7 to both sides and then division to isolate x.",
+                "example_hebrew": "כדי לפתור משוואה כמו 3x - 7 = 11, יש ליישם את פעולת החיבור על ידי הוספת 7 לשני הצדדים ואז חלוקה כדי לבודד את x."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "block",
+        "word_hebrew": "לַחסוֹם",
+        "main_definition": "Block refers to a solid piece of hard material, often used in construction or as an obstruction.",
+        "main_definition_hebrew": "בלוק מתייחס לפיסת חומר קשיחה מוצקה, המשמשת לעתים קרובות בבנייה או כחסימה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To obstruct or prevent movement or progress",
+                "definition_hebrew": "כדי לחסום או למנוע תנועה או התקדמות",
+                "example": "The traffic jam blocked our way home for hours.",
+                "example_hebrew": "הפקק חסם את הדרך הביתה במשך שעות."
+            },
+            {
+                "definition": "A large piece of hard material, often used in construction",
+                "definition_hebrew": "חתיכה גדולה של חומר קשיח, המשמשת לעתים קרובות בבנייה",
+                "example": "The workers laid bricks to build the new wall.",
+                "example_hebrew": "העובדים הניחו לבנים לבניית החומה החדשה."
+            },
+            {
+                "definition": "To prevent something from working properly or functioning correctly",
+                "definition_hebrew": "כדי למנוע ממשהו לפעול כראוי או לתפקד כראוי",
+                "example": "Having a bad software block can render your computer unusable.",
+                "example_hebrew": "חסימת תוכנה גרועה יכולה להפוך את המחשב שלך לבלתי שמיש."
+            },
+            {
+                "definition": "A division of space in a building, typically separated by walls and floors",
+                "definition_hebrew": "חלוקת שטח בבניין, בדרך כלל מופרדת על ידי קירות ורצפות",
+                "example": "I live on the second floor, across from the third block.",
+                "example_hebrew": "אני גר בקומה השנייה, מול הבלוק השלישי."
+            }
+        ]
+    }
+]

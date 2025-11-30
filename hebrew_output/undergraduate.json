@@ -1,0 +1,28 @@
+[
+    {
+        "word": "undergraduate",
+        "word_hebrew": "סטודנט לתואר ראשון",
+        "main_definition": "An individual who is pursuing a degree at an undergraduate level, typically not yet holding a bachelor's degree.",
+        "main_definition_hebrew": "אדם שרודף תואר ברמת תואר ראשון, בדרך כלל עדיין לא בעל תואר ראשון.",
+        "meanings_and_examples": [
+            {
+                "definition": "A student studying for the first two years of university or college after high school completion",
+                "definition_hebrew": "סטודנט הלומד בשנתיים הראשונות של האוניברסיטה או המכללה לאחר סיום התיכון",
+                "example": "John is an undergraduate at his local state university, majoring in biology.",
+                "example_hebrew": "ג'ון הוא בוגר תואר ראשון באוניברסיטה הממלכתית המקומית שלו, מתמחה בביולוגיה."
+            },
+            {
+                "definition": "Related to courses and programs taken up until just before a bachelor's degree is awarded",
+                "definition_hebrew": "קשור לקורסים ותכניות שנלקחו עד רגע לפני מתן תואר ראשון",
+                "example": "She completed her undergraduate studies with a focus on environmental science, preparing her for graduate work.",
+                "example_hebrew": "היא השלימה את לימודי התואר הראשון שלה עם התמקדות במדעי הסביבה, והכינה אותה לעבודה לתואר שני."
+            },
+            {
+                "definition": "Refers to the level of study below a master's or doctoral degree",
+                "definition_hebrew": "מתייחס לרמת הלימודים מתחת לתואר שני או דוקטורט",
+                "example": "The university offers various undergraduate programs in engineering, such as mechanical and electrical.",
+                "example_hebrew": "האוניברסיטה מציעה תכניות שונות לתואר ראשון בהנדסה, כגון מכונות וחשמל."
+            }
+        ]
+    }
+]

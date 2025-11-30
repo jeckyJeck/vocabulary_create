@@ -1,0 +1,40 @@
+[
+    {
+        "word": "terrorism",
+        "word_hebrew": "טֵרוֹר",
+        "main_definition": "Terrorism refers to the use of violence, threats, or intimidation in pursuit of political aims, especially by non-state actors against civilians as a means to instill fear and influence behavior.",
+        "main_definition_hebrew": "טרור מתייחס לשימוש באלימות, איומים או הפחדה בחתירה למטרות פוליטיות, במיוחד על ידי גורמים לא ממלכתיים נגד אזרחים כאמצעי להחדיר פחד ולהשפיע על התנהגות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Political violence targeting civilian populations",
+                "definition_hebrew": "אלימות פוליטית נגד אוכלוסיות אזרחיות",
+                "example": "The 9/11 attacks in the United States are an example of terrorism where commercial airplanes were hijacked and flown into buildings to cause mass casualties.",
+                "example_hebrew": "פיגועי ה-11 בספטמבר בארצות הברית הם דוגמה לטרור שבו מטוסים מסחריים נחטפו והוטסו לתוך מבנים כדי לגרום לנפגעים המוניים."
+            },
+            {
+                "definition": "A strategy employed by non-state actors",
+                "definition_hebrew": "אסטרטגיה המופעלת על ידי שחקנים לא ממלכתיים",
+                "example": "The Irish Republican Army (IRA) used bombings and assassinations during The Troubles in Northern Ireland as a form of terrorism aimed at political goals.",
+                "example_hebrew": "הצבא הרפובליקאי האירי (IRA) השתמש בהפצצות והתנקשויות במהלך הצרות בצפון אירלנד כסוג של טרור שמטרתו מטרות פוליטיות."
+            },
+            {
+                "definition": "Terrorism for ideological reasons",
+                "definition_hebrew": "טרור מסיבות אידיאולוגיות",
+                "example": "Neo-Nazi groups may engage in acts of violence or intimidation against minority communities to spread their extremist beliefs, which can be considered terrorism.",
+                "example_hebrew": "קבוצות ניאו-נאציות עשויות לעסוק במעשי אלימות או הפחדה נגד קהילות מיעוטים כדי להפיץ את אמונותיהן הקיצוניות, שיכולות להיחשב כטרור."
+            },
+            {
+                "definition": "State-sponsored terrorism",
+                "definition_hebrew": "טרור בחסות המדינה",
+                "example": "In the past, certain countries have been accused of supporting terrorist groups as a means to destabilize rival nations or achieve political objectives, exemplified by alleged support for Hamas.",
+                "example_hebrew": "בעבר, מדינות מסוימות הואשמו בתמיכה בקבוצות טרור כאמצעי לערער את היציבות במדינות יריבות או להשיג מטרות פוליטיות, דוגמת תמיכה לכאורה בחמאס."
+            },
+            {
+                "definition": "Terrorism in pursuit of social change",
+                "definition_hebrew": "טרור במרדף אחר שינוי חברתי",
+                "example": "Protest movements that resort to violence against symbols of authority, like the Black Panthers' confrontations with police, could be seen as terrorism by some perspectives even if they argue for broader civil rights.",
+                "example_hebrew": "תנועות מחאה הנוקטות באלימות נגד סמלי סמכות, כמו העימותים של הפנתרים השחורים עם המשטרה, יכולות להיתפס כטרור לפי נקודות מבט מסוימות, גם אם הן טוענות לזכויות אזרח רחבות יותר."
+            }
+        ]
+    }
+]

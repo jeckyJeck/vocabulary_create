@@ -1,0 +1,34 @@
+[
+    {
+        "word": "shipments",
+        "word_hebrew": "משלוחים",
+        "main_definition": "The act of sending goods or products from one place to another, usually involving transportation services.",
+        "main_definition_hebrew": "פעולת שליחת סחורה או מוצרים ממקום למקום, בדרך כלל כרוכה בשירותי הובלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The process of preparing and arranging goods for shipping.",
+                "definition_hebrew": "תהליך הכנה וסידור סחורה למשלוח.",
+                "example": "Before the shipments were ready for pickup, they underwent a final inspection.",
+                "example_hebrew": "לפני שהמשלוחים היו מוכנים לאיסוף, הם עברו בדיקה אחרונה."
+            },
+            {
+                "definition": "Goods or products that are being transported by various means (e.g., truck, train, plane).",
+                "definition_hebrew": "סחורות או מוצרים המועברים באמצעים שונים (כגון משאית, רכבת, מטוס).",
+                "example": "The company received an update on the status of their shipments traveling overseas via air freight.",
+                "example_hebrew": "החברה קיבלה עדכון על סטטוס המשלוחים שלהם הנוסעים לחו\"ל באמצעות הובלה אווירית."
+            },
+            {
+                "definition": "A quantity or batch of items being sent to a particular destination.",
+                "definition_hebrew": "כמות או אצווה של פריטים הנשלחים ליעד מסוים.",
+                "example": "The warehouse prepared five different shipments for delivery to various retailers across the region.",
+                "example_hebrew": "המחסן הכין חמישה משלוחים שונים למשלוח לקמעונאים שונים ברחבי האזור."
+            },
+            {
+                "definition": "Comprehensive term encompassing all aspects related to sending goods, including packaging, transportation, and tracking.",
+                "definition_hebrew": "מונח מקיף המקיף את כל ההיבטים הקשורים לשליחת סחורות, כולל אריזה, הובלה ומעקב.",
+                "example": "The logistics manager oversaw every step of the shipments process from packaging to delivery confirmation.",
+                "example_hebrew": "המנהל הלוגיסטי פיקח על כל שלב בתהליך המשלוחים מהאריזה ועד אישור המסירה."
+            }
+        ]
+    }
+]

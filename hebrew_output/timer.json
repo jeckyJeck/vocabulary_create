@@ -1,0 +1,40 @@
+[
+    {
+        "word": "timer",
+        "word_hebrew": "שָׁעוֹן עֶצֶר",
+        "main_definition": "A timer is a device or concept used to measure the duration of an event, activity, or period of time, often with specific applications in various fields.",
+        "main_definition_hebrew": "טיימר הוא מכשיר או מושג המשמש למדידת משך אירוע, פעילות או פרק זמן, לרוב עם יישומים ספציפיים בתחומים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An instrument for measuring time intervals",
+                "definition_hebrew": "מכשיר למדידת מרווחי זמן",
+                "example": "The kitchen timer beeped after 30 minutes to indicate the pasta was done.",
+                "example_hebrew": "טיימר המטבח צפצף לאחר 30 דקות כדי לציין שהפסטה מוכנה."
+            },
+            {
+                "definition": "A device used in athletics or sports events to measure race times",
+                "definition_hebrew": "מכשיר המשמש באתלטיקה או אירועי ספורט למדידת זמני מירוץ",
+                "example": "Runners checked their times on the electronic timing system, which displayed results from a stopwatch timer.",
+                "example_hebrew": "הרצים בדקו את הזמנים שלהם במערכת התזמון האלקטרונית, שהציגה תוצאות מטיימר שעון עצר."
+            },
+            {
+                "definition": "The period of time allocated for an activity before it must be started or completed",
+                "definition_hebrew": "פרק הזמן המוקצה לפעילות לפני שהיא חייבת להתחיל או להשלים",
+                "example": "She set a 10-minute timer to remind her to check on the baking cookies in the oven.",
+                "example_hebrew": "היא קבעה טיימר של 10 דקות כדי להזכיר לה לבדוק את עוגיות האפייה בתנור."
+            },
+            {
+                "definition": "A countdown leading up to an event or action, often with urgency",
+                "definition_hebrew": "ספירה לאחור לקראת אירוע או פעולה, לעתים קרובות בדחיפות",
+                "example": "The countdown began as they prepared for liftoff; the rocket's timer showed 10 seconds remaining before launch.",
+                "example_hebrew": "הספירה לאחור החלה כשהם התכוננו להמריא; הטיימר של הרקטה הראה שנותרו 10 שניות לפני השיגור."
+            },
+            {
+                "definition": "An idiom referring to a limited amount of time or opportunity in which something must be accomplished, often used metapromptly",
+                "definition_hebrew": "ניב המתייחס לכמות מוגבלת של זמן או הזדמנות שבה משהו חייב להיעשות, לעתים קרובות בשימוש מדוייק",
+                "example": "I only had an hour-timer left to finish the project; it felt like there wasn't enough time.",
+                "example_hebrew": "נותר לי רק שעון עצר לסיים את הפרויקט; זה הרגיש כאילו אין מספיק זמן."
+            }
+        ]
+    }
+]

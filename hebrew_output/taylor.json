@@ -1,0 +1,28 @@
+[
+    {
+        "word": "taylor",
+        "word_hebrew": "טיילור",
+        "main_definition": "Taylor can be a surname, a given name, or an engineering term related to the method of determining a curve or surface that fits a set of data points.",
+        "main_definition_hebrew": "טיילור יכול להיות שם משפחה, שם פרטי או מונח הנדסי הקשור לשיטת קביעת עקומה או משטח שמתאימים לקבוצה של נקודות נתונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Surname",
+                "definition_hebrew": "שֵׁם מִשׁפָּחָה",
+                "example": "Michael Taylor is a renowned British actor.",
+                "example_hebrew": "מייקל טיילור הוא שחקן בריטי נודע."
+            },
+            {
+                "definition": "Given name",
+                "definition_hebrew": "שם פרטי",
+                "example": "Taylor Swift is an American singer and songwriter.",
+                "example_hebrew": "טיילור סוויפט היא זמרת וכותבת שירים אמריקאית."
+            },
+            {
+                "definition": "Engineering term (from the method of adjusting a curve or surface to fit data points)",
+                "definition_hebrew": "מונח הנדסי (מתוך השיטה של התאמת עקומה או משטח להתאמת נקודות נתונים)",
+                "example": "In statistics, the Taylor series expansion allows us to approximate functions using polynomials based on their derivatives at a specific point.",
+                "example_hebrew": "בסטטיסטיקה, הרחבת סדרת טיילור מאפשרת לנו להעריך פונקציות באמצעות פולינומים על סמך הנגזרות שלהם בנקודה מסוימת."
+            }
+        ]
+    }
+]

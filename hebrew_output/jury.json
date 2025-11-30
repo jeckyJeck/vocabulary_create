@@ -1,0 +1,34 @@
+[
+    {
+        "word": "jury",
+        "word_hebrew": "חֶבֶר מוּשׁבַּעִים",
+        "main_definition": "A jury is a group of people sworn to render a verdict in a trial based on the evidence presented, or it can refer to a body that advises on specific matters.",
+        "main_definition_hebrew": "חבר מושבעים הוא קבוצה של אנשים שנשבעו לתת פסק דין במשפט על סמך הראיות שהוצגו, או שהוא יכול להתייחס לגוף שמייעץ בעניינים ספציפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Legal term for a panel of citizens who hear and decide cases in a courtroom",
+                "definition_hebrew": "קדנציה משפטית להרכב של אזרחים השומעים ומחליטים בתיקים באולם בית המשפט",
+                "example": "The jury listened attentively as the prosecutor presented their case against the defendant.",
+                "example_hebrew": "חבר המושבעים הקשיב בתשומת לב כשהתובע הציג את תביעתם נגד הנאשם."
+            },
+            {
+                "definition": "A group that makes decisions based on collective judgment or consensus",
+                "definition_hebrew": "קבוצה שמקבלת החלטות על סמך שיפוט קולקטיבי או קונצנזוס",
+                "example": "In corporate decision-making, a strategic committee serves as a jury by evaluating various proposals and reaching an agreement.",
+                "example_hebrew": "בקבלת החלטות תאגידית, ועדה אסטרטגית משמשת כחבר מושבעים על ידי הערכת הצעות שונות והגעה להסכמה."
+            },
+            {
+                "definition": "An advisory body providing expert opinions in non-legal contexts such as business or research",
+                "definition_hebrew": "גוף מייעץ המספק חוות דעת מומחים בהקשרים לא משפטיים כגון עסקים או מחקר",
+                "example": "The board of directors acted like a corporate jury, weighing the pros and cons before approving the new project plan.",
+                "example_hebrew": "הדירקטוריון פעל כמו חבר מושבעים תאגידי, שקל את היתרונות והחסרונות לפני שאישר את תוכנית הפרויקט החדשה."
+            },
+            {
+                "definition": "In sports, particularly American football, refers to a team that scores points by reaching the opponent's end zone",
+                "definition_hebrew": "בספורט, במיוחד כדורגל אמריקאי, הכוונה לקבוצה שצוברת נקודות על ידי הגעה לאזור הקצה של היריב",
+                "example": "The winning quarterback was like a jury in the game, deciding which play would lead his team to victory.",
+                "example_hebrew": "הקוורטרבק המנצח היה כמו חבר מושבעים במשחק, שהחליט איזה משחק יוביל את קבוצתו לניצחון."
+            }
+        ]
+    }
+]

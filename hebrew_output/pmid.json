@@ -1,0 +1,28 @@
+[
+    {
+        "word": "pmid",
+        "word_hebrew": "pmid",
+        "main_definition": "PubMed Identifier (PMID) is a unique identifier assigned to research articles in the PubMed database, which helps in referencing and locating them.",
+        "main_definition_hebrew": "PubMed Identifier (PMID) הוא מזהה ייחודי המוקצה למאמרי מחקר במסד הנתונים של PubMed, המסייע בהפניה ואיתורם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Unique identifier for a scientific article",
+                "definition_hebrew": "מזהה ייחודי למאמר מדעי",
+                "example": "The PMID of the study titled 'Effects of Exercise on Mental Health' is 12345678.",
+                "example_hebrew": "ה-PMID של המחקר שכותרתו 'השפעות פעילות גופנית על בריאות הנפש' הוא 12345678."
+            },
+            {
+                "definition": "Reference number in PubMed database",
+                "definition_hebrew": "מספר סימוכין במסד הנתונים של PubMed",
+                "example": "To access the article, you can search for its PMID: 98765432.",
+                "example_hebrew": "כדי לגשת למאמר, אתה יכול לחפש את ה-PMID שלו: 98765432."
+            },
+            {
+                "definition": "A numerical code representing a specific medical journal entry",
+                "definition_hebrew": "קוד מספרי המייצג ערך ספציפי ביומן רפואי",
+                "example": "The PMID of an article published in The Lancet is usually found at the bottom of the citation.",
+                "example_hebrew": "ה-PMID של מאמר שפורסם ב-The Lancet נמצא בדרך כלל בתחתית הציטוט."
+            }
+        ]
+    }
+]

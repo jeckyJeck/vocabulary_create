@@ -1,0 +1,34 @@
+[
+    {
+        "word": "replication",
+        "word_hebrew": "שכפול",
+        "main_definition": "Replication refers to the process of duplicating or reproducing something, particularly in scientific contexts like DNA replication or copying ideas/concepts.",
+        "main_definition_hebrew": "שכפול מתייחס לתהליך של שכפול או שחזור של משהו, במיוחד בהקשרים מדעיים כמו שכפול DNA או העתקת רעיונות/מושגים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Scientific replication (DNA replication)",
+                "definition_hebrew": "שכפול מדעי (שכפול DNA)",
+                "example": "In the process of cell division, DNA replication is a vital biological mechanism where a double-stranded DNA molecule splits into two identical strands.",
+                "example_hebrew": "בתהליך חלוקת התא, שכפול DNA הוא מנגנון ביולוגי חיוני שבו מולקולת DNA דו-גדילית מתפצלת לשני גדילים זהים."
+            },
+            {
+                "definition": "Replicating an experiment",
+                "definition_hebrew": "שכפול ניסוי",
+                "example": "To ensure validity, scientists often replicate experiments by repeating the study's procedures to see if they can achieve consistent results.",
+                "example_hebrew": "כדי להבטיח תקפות, לעתים קרובות מדענים משכפלים ניסויים על ידי חזרה על נהלי המחקר כדי לראות אם הם יכולים להשיג תוצאות עקביות."
+            },
+            {
+                "definition": "Copying or duplication of a document or work",
+                "definition_hebrew": "העתקה או שכפול של מסמך או עבודה",
+                "example": "In publishing, a manuscript undergoes replication when its content is copied and printed in various editions.",
+                "example_hebrew": "בהוצאה לאור, כתב יד עובר שכפול כאשר תוכנו מועתק ומודפס במהדורות שונות."
+            },
+            {
+                "definition": "Reproducing an idea or concept",
+                "definition_hebrew": "שחזור רעיון או רעיון",
+                "example": "An academic paper's influence can be measured by how extensively other scholars replicate the study to test hypotheses derived from it.",
+                "example_hebrew": "ניתן למדוד את השפעתו של מאמר אקדמי לפי מידת ההרחבה של חוקרים אחרים משכפלים את המחקר כדי לבדוק השערות הנגזרות ממנו."
+            }
+        ]
+    }
+]

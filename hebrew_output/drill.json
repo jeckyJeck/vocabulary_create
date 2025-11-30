@@ -1,0 +1,28 @@
+[
+    {
+        "word": "drill",
+        "word_hebrew": "תרגיל",
+        "main_definition": "A method of instruction that involves repetitive practice to reinforce learning or teach a skill, as well as the act of making holes in materials using a rotary cutting tool.",
+        "main_definition_hebrew": "שיטת הדרכה הכוללת תרגול חוזר על מנת לחזק למידה או ללמד מיומנות, וכן פעולת יצירת חורים בחומרים באמצעות כלי חיתוך סיבובי.",
+        "meanings_and_examples": [
+            {
+                "definition": "To instruct someone repeatedly on a particular subject",
+                "definition_hebrew": "להדריך מישהו שוב ושוב בנושא מסוים",
+                "example": "The coach will drill his players on their free-throw technique to improve their shooting accuracy.",
+                "example_hebrew": "המאמן יתחיל את שחקניו בטכניקת הזריקה החופשית שלהם כדי לשפר את דיוק הקליעה שלהם."
+            },
+            {
+                "definition": "A repetitive practice or exercise used for training purposes",
+                "definition_hebrew": "תרגול חוזר או תרגיל המשמש למטרות אימון",
+                "example": "In the military, soldiers undergo intense physical and tactical drills during basic training.",
+                "example_hebrew": "בצבא, חיילים עוברים תרגילים פיזיים וטקטיים אינטנסיביים במהלך אימונים בסיסיים."
+            },
+            {
+                "definition": "The act of using a tool to create holes in materials like wood, metal, or plastic",
+                "definition_hebrew": "פעולת השימוש בכלי ליצירת חורים בחומרים כמו עץ, מתכת או פלסטיק",
+                "example": "The carpenter used a power drill to make precise holes for the screws in the wooden frame.",
+                "example_hebrew": "הנגר השתמש במקדחה חשמלית כדי ליצור חורים מדויקים לברגים שבמסגרת העץ."
+            }
+        ]
+    }
+]

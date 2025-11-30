@@ -1,0 +1,22 @@
+[
+    {
+        "word": "ftp",
+        "word_hebrew": "ftp",
+        "main_definition": "FTP stands for File Transfer Protocol, which is a standard network protocol used to transfer files from one host to another over a TCP-based network such as the Internet.",
+        "main_definition_hebrew": "FTP ראשי תיבות של File Transfer Protocol, שהוא פרוטוקול רשת סטנדרטי המשמש להעברת קבצים ממארח אחד למשנהו על גבי רשת מבוססת TCP כגון האינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "A common acronym for File Transfer Protocol",
+                "definition_hebrew": "ראשי תיבות נפוצים של פרוטוקול העברת קבצים",
+                "example": "The IT department uses FTP to share large project documents among team members.",
+                "example_hebrew": "מחלקת ה-IT משתמשת ב-FTP כדי לשתף מסמכי פרויקט גדולים בין חברי הצוות."
+            },
+            {
+                "definition": "An optional feature in some operating systems and applications used for transferring files between a client computer and a server",
+                "definition_hebrew": "תכונה אופציונלית בחלק ממערכות הפעלה ויישומים המשמשים להעברת קבצים בין מחשב לקוח לשרת",
+                "example": "After installing the software, I was able to connect my computer to the remote server using FTP.",
+                "example_hebrew": "לאחר התקנת התוכנה, הצלחתי לחבר את המחשב שלי לשרת המרוחק באמצעות FTP."
+            }
+        ]
+    }
+]

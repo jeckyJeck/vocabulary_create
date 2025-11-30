@@ -1,0 +1,34 @@
+[
+    {
+        "word": "emission",
+        "word_hebrew": "פְּלִיטָה",
+        "main_definition": "Emission refers to the act of releasing or sending out something, often in a physical form.",
+        "main_definition_hebrew": "פליטה מתייחסת לפעולת שחרור או שליחת משהו, לעתים קרובות בצורה פיזית.",
+        "meanings_and_examples": [
+            {
+                "definition": "The release of gases into the atmosphere, usually as byproducts of industrial processes or combustion.",
+                "definition_hebrew": "שחרור גזים לאטמוספירה, בדרך כלל כתוצרי לוואי של תהליכים תעשייתיים או בעירה.",
+                "example": "Coal-fired power plants are major sources of greenhouse gas emissions.",
+                "example_hebrew": "תחנות כוח פחמיות הן המקורות העיקריים לפליטת גזי חממה."
+            },
+            {
+                "definition": "The discharge of light, sound, heat, or radiation from a source.",
+                "definition_hebrew": "פריקת אור, קול, חום או קרינה ממקור.",
+                "example": "The sun's emission of intense solar energy is responsible for Earth's warmth and climate.",
+                "example_hebrew": "פליטת השמש של אנרגיית שמש אינטנסיבית אחראית לחום ולאקלים של כדור הארץ."
+            },
+            {
+                "definition": "The release of particles or substances into the air, water, or soil, often as pollutants.",
+                "definition_hebrew": "שחרור של חלקיקים או חומרים לאוויר, למים או לאדמה, לרוב כמזהמים.",
+                "example": "Dumping chemical waste improperly leads to hazardous emissions that can harm the environment.",
+                "example_hebrew": "השלכת פסולת כימית בצורה לא נכונה מובילה לפליטות מסוכנות העלולות לפגוע בסביבה."
+            },
+            {
+                "definition": "In finance and economics, emission refers to the issuance of new shares or securities by a company.",
+                "definition_hebrew": "בתחום הפיננסים והכלכלה, פליטה מתייחסת להנפקת מניות או ניירות ערך חדשים על ידי חברה.",
+                "example": "The company's decision to increase capital through stock market emission allowed it to fund expansion projects.",
+                "example_hebrew": "החלטת החברה להגדיל את ההון באמצעות פליטת שוק המניות אפשרה לה לממן פרויקטי התרחבות."
+            }
+        ]
+    }
+]

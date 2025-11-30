@@ -1,0 +1,40 @@
+[
+    {
+        "word": "template",
+        "word_hebrew": "תבנית",
+        "main_definition": "A pre-designed format or model used as a starting point for creating something, often in the context of documents, design, or programming.",
+        "main_definition_hebrew": "פורמט או מודל מתוכננים מראש המשמשים כנקודת מוצא ליצירת משהו, לרוב בהקשר של מסמכים, עיצוב או תכנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A pre-formatted structure for building or organizing content",
+                "definition_hebrew": "מבנה מעוצב מראש לבנייה או ארגון תוכן",
+                "example": "An HTML template can be used to create multiple web pages with a consistent layout.",
+                "example_hebrew": "ניתן להשתמש בתבנית HTML ליצירת דפי אינטרנט מרובים עם פריסה עקבית."
+            },
+            {
+                "definition": "A blueprint or design that serves as a starting point",
+                "definition_hebrew": "שרטוט או עיצוב המשמשים כנקודת מוצא",
+                "example": "Graphic designers use templates for logos, business cards, and other marketing materials.",
+                "example_hebrew": "מעצבים גרפיים משתמשים בתבניות עבור לוגואים, כרטיסי ביקור וחומרי שיווק אחרים."
+            },
+            {
+                "definition": "An example file used to guide the creation of similar files",
+                "definition_hebrew": "קובץ לדוגמה המשמש להנחיית יצירת קבצים דומים",
+                "example": "A resume template provides a standard format that individuals can customize with their information.",
+                "example_hebrew": "תבנית קורות חיים מספקת פורמט סטנדרטי שאנשים יכולים להתאים אישית עם המידע שלהם."
+            },
+            {
+                "definition": "A pre-written code or structure in programming",
+                "definition_hebrew": "קוד או מבנה כתובים מראש בתכנות",
+                "example": "Web developers often use JavaScript templates to speed up the creation of dynamic web pages.",
+                "example_hebrew": "מפתחי אינטרנט משתמשים לעתים קרובות בתבניות JavaScript כדי להאיץ את היצירה של דפי אינטרנט דינמיים."
+            },
+            {
+                "definition": "An established pattern for solving a problem or achieving an objective",
+                "definition_hebrew": "דפוס מבוסס לפתרון בעיה או השגת יעד",
+                "example": "In project management, using a template for organizing tasks and milestones can streamline planning.",
+                "example_hebrew": "בניהול פרויקטים, שימוש בתבנית לארגון משימות ואבני דרך יכול לייעל את התכנון."
+            }
+        ]
+    }
+]

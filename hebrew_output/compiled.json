@@ -1,0 +1,28 @@
+[
+    {
+        "word": "compiled",
+        "word_hebrew": "מלוקט",
+        "main_definition": "To gather or organize information, code or data into a single format or structure.",
+        "main_definition_hebrew": "לאסוף או לארגן מידע, קוד או נתונים בפורמט או מבנה אחד.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing, to combine various pieces of code and other resources into one executable file using a compiler.",
+                "definition_hebrew": "במחשוב, לשלב חלקי קוד שונים ומשאבים אחרים לקובץ הפעלה אחד באמצעות מהדר.",
+                "example": "The programmers compiled the source code into an executable application.",
+                "example_hebrew": "המתכנתים הידור קוד המקור לתוך יישום בר הפעלה."
+            },
+            {
+                "definition": "To collect information or data from different sources for analysis or decision making.",
+                "definition_hebrew": "לאסוף מידע או נתונים ממקורות שונים לצורך ניתוח או קבלת החלטות.",
+                "example": "A market research team compiled data on consumer preferences from surveys, social media, and sales reports.",
+                "example_hebrew": "צוות מחקרי שוק אסף נתונים על העדפות צרכנים מסקרים, מדיה חברתית ודוחות מכירות."
+            },
+            {
+                "definition": "In the context of writing, to gather various ideas or sections together into a cohesive piece of work.",
+                "definition_hebrew": "בהקשר של כתיבה, לאסוף רעיונות או קטעים שונים לכדי יצירה מגובשת.",
+                "example": "The author compiled his thoughts and research into an organized manuscript for publication.",
+                "example_hebrew": "המחבר ריכז את מחשבותיו ומחקריו לכתב יד מאורגן לפרסום."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "begin",
+        "word_hebrew": "התחל",
+        "main_definition": "To start or initiate something, such as an action, process, event, period of time, etc.",
+        "main_definition_hebrew": "להתחיל או ליזום משהו, כגון פעולה, תהליך, אירוע, פרק זמן וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "Starting a physical activity or task",
+                "definition_hebrew": "התחלת פעילות גופנית או משימה",
+                "example": "She began her workout with some stretching exercises.",
+                "example_hebrew": "היא התחילה את האימון שלה עם כמה תרגילי מתיחה."
+            },
+            {
+                "definition": "Initiating the start of an event or occurrence",
+                "definition_hebrew": "ייזום התחלה של אירוע או התרחשות",
+                "example": "The concert will begin at 7 PM sharp, so make sure to arrive early.",
+                "example_hebrew": "הקונצרט יתחיל בשעה 19:00, אז הקפידו להגיע מוקדם."
+            },
+            {
+                "definition": "Commencing a new period of time or phase in life",
+                "definition_hebrew": "התחלת תקופה חדשה או שלב בחיים",
+                "example": "They began their college education after high school.",
+                "example_hebrew": "הם התחילו את לימודיהם בקולג' לאחר התיכון."
+            },
+            {
+                "definition": "Starting something from scratch, often used when referring to building or creating something",
+                "definition_hebrew": "התחלה של משהו מאפס, משמש לעתים קרובות כאשר מתייחסים לבנייה או יצירת משהו",
+                "example": "He began constructing his own computer by assembling individual components.",
+                "example_hebrew": "הוא החל לבנות מחשב משלו על ידי הרכבת רכיבים בודדים."
+            },
+            {
+                "definition": "Beginning a series of steps in an algorithm or process",
+                "definition_hebrew": "התחלת סדרה של שלבים באלגוריתם או בתהליך",
+                "example": "The first step is to begin collecting data for the research study.",
+                "example_hebrew": "הצעד הראשון הוא להתחיל באיסוף נתונים למחקר המחקר."
+            }
+        ]
+    }
+]

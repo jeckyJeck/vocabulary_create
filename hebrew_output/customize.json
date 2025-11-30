@@ -1,0 +1,40 @@
+[
+    {
+        "word": "customize",
+        "word_hebrew": "להתאים אישית",
+        "main_definition": "To modify or alter something according to specific preferences, requirements, or needs.",
+        "main_definition_hebrew": "לשנות או לשנות משהו בהתאם להעדפות, דרישות או צרכים ספציפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Adjusting a product's features based on individual preference.",
+                "definition_hebrew": "התאמת תכונות המוצר על סמך העדפה אישית.",
+                "example": "I want to customize my car by adding a spoiler and upgrading the sound system.",
+                "example_hebrew": "אני רוצה להתאים אישית את המכונית שלי על ידי הוספת ספוילר ושדרוג מערכת הקול."
+            },
+            {
+                "definition": "Personalizing an experience or service to match specific needs.",
+                "definition_hebrew": "התאמה אישית של חוויה או שירות כדי להתאים לצרכים ספציפיים.",
+                "example": "The online store allows you to customize your product order, choosing different colors and materials.",
+                "example_hebrew": "החנות המקוונת מאפשרת לך להתאים אישית את הזמנת המוצר שלך, בבחירת צבעים וחומרים שונים."
+            },
+            {
+                "definition": "Creating a tailored solution for software development by incorporating unique requirements.",
+                "definition_hebrew": "יצירת פתרון מותאם לפיתוח תוכנה על ידי שילוב דרישות ייחודיות.",
+                "example": "We need to customize the existing e-commerce application to handle our inventory management system efficiently.",
+                "example_hebrew": "עלינו להתאים אישית את אפליקציית המסחר האלקטרוני הקיימת כדי לטפל במערכת ניהול המלאי שלנו ביעילות."
+            },
+            {
+                "definition": "Modifying or altering an item's design, appearance, or functionality based on user preferences.",
+                "definition_hebrew": "שינוי או שינוי עיצוב, מראה או פונקציונליות של פריט על סמך העדפות המשתמש.",
+                "example": "I would like to customize my phone with a new case and wallpaper.",
+                "example_hebrew": "אני רוצה להתאים אישית את הטלפון שלי עם נרתיק וטפט חדשים."
+            },
+            {
+                "definition": "Adapting content or presentations to suit the audience or event specifics.",
+                "definition_hebrew": "התאמת תוכן או מצגות כך שיתאימו לקהל או לאירוע ספציפי.",
+                "example": "The speaker customized his presentation for different audiences, including one focusing on marketing strategies.",
+                "example_hebrew": "הדובר התאים את המצגת שלו לקהלים שונים, כולל אחת המתמקדת באסטרטגיות שיווקיות."
+            }
+        ]
+    }
+]

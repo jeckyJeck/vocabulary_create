@@ -1,0 +1,40 @@
+[
+    {
+        "word": "game",
+        "word_hebrew": "מִשְׂחָק",
+        "main_definition": "A game is an activity or form of entertainment that usually involves rules, competition, and a goal to achieve.",
+        "main_definition_hebrew": "משחק הוא פעילות או צורת בידור הכוללת בדרך כלל חוקים, תחרות ומטרה להשגה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Sports event",
+                "definition_hebrew": "אירוע ספורט",
+                "example": "The NBA Finals are one of the most popular annual sports events in America.",
+                "example_hebrew": "גמר ה-NBA הוא אחד מאירועי הספורט השנתיים הפופולריים ביותר באמריקה."
+            },
+            {
+                "definition": "A form of entertainment with set rules and objectives",
+                "definition_hebrew": "סוג של בידור עם חוקים ויעדים מוגדרים",
+                "example": "Playing chess requires strategy, planning, and critical thinking to win against an opponent.",
+                "example_hebrew": "משחק שח מצריך אסטרטגיה, תכנון וחשיבה ביקורתית כדי לנצח מול יריב."
+            },
+            {
+                "definition": "An interactive activity in which participants compete for a reward or prize",
+                "definition_hebrew": "פעילות אינטראקטיבית בה מתחרים המשתתפים על פרס או פרס",
+                "example": "In Monopoly, players roll dice and move their pieces around the board while buying properties and collecting rent from other players.",
+                "example_hebrew": "במונופול, שחקנים מטילים קוביות ומעבירים את החלקים שלהם על הלוח תוך רכישת נכסים וגביית שכר דירה משחקנים אחרים."
+            },
+            {
+                "definition": "A competitive pursuit of skill",
+                "definition_hebrew": "מרדף תחרותי אחר מיומנות",
+                "example": "Professional gamers compete in eSports tournaments for cash prizes, sponsorships, and recognition.",
+                "example_hebrew": "גיימרים מקצועיים מתחרים בטורנירי eSports על פרסים כספיים, חסויות והכרה."
+            },
+            {
+                "definition": "An activity or exercise intended to improve one's abilities or skills",
+                "definition_hebrew": "פעילות או תרגיל שנועדו לשפר את היכולות או הכישורים של האדם",
+                "example": "A child may play a game of 'Simon Says' with friends to enhance their listening and following instructions capabilities.",
+                "example_hebrew": "ילד יכול לשחק משחק 'סיימון אומר' עם חברים כדי לשפר את יכולות ההקשבה וביצוע ההוראות שלהם."
+            }
+        ]
+    }
+]

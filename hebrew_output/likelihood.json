@@ -1,0 +1,34 @@
+[
+    {
+        "word": "likelihood",
+        "word_hebrew": "סְבִירוּת",
+        "main_definition": "The probability or chance that something will happen or is true.",
+        "main_definition_hebrew": "ההסתברות או הסיכוי שמשהו יקרה או שהוא נכון.",
+        "meanings_and_examples": [
+            {
+                "definition": "High probability of occurrence",
+                "definition_hebrew": "סבירות גבוהה להתרחשות",
+                "example": "Given the current data, there is a high likelihood of rain tomorrow.",
+                "example_hebrew": "בהתחשב בנתונים הנוכחיים, יש סבירות גבוהה לגשם מחר."
+            },
+            {
+                "definition": "The chance or possibility that something will happen",
+                "definition_hebrew": "הסיכוי או האפשרות שמשהו יקרה",
+                "example": "With her extensive knowledge in finance, she has a good likelihood of securing the job offer.",
+                "example_hebrew": "עם הידע הנרחב שלה בפיננסים, יש לה סיכוי טוב להבטיח את הצעת העבודה."
+            },
+            {
+                "definition": "Likelihood as an adjective to describe degree of probability",
+                "definition_hebrew": "סבירות כשם תואר לתיאור מידת ההסתברות",
+                "example": "The likelihood that the patient's condition will improve is moderate based on current treatments.",
+                "example_hebrew": "הסבירות שמצבו של המטופל ישתפר בינונית בהתבסס על הטיפולים הנוכחיים."
+            },
+            {
+                "definition": "A statistical term indicating how likely it is for a certain event or outcome to occur",
+                "definition_hebrew": "מונח סטטיסטי המציין את הסבירות שאירוע או תוצאה מסוימים יתרחשו",
+                "example": "In statistics, calculating the likelihood of different outcomes can help in decision-making processes.",
+                "example_hebrew": "בסטטיסטיקה, חישוב הסבירות לתוצאות שונות יכול לעזור בתהליכי קבלת החלטות."
+            }
+        ]
+    }
+]

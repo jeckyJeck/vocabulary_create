@@ -1,0 +1,34 @@
+[
+    {
+        "word": "mile",
+        "word_hebrew": "מִיל",
+        "main_definition": "A unit of measurement equal to 5280 feet or about 1.60934 kilometers, often used to express distance traveled.",
+        "main_definition_hebrew": "יחידת מדידה השווה ל-5280 רגל או כ-1.60934 קילומטרים, משמשת לעתים קרובות לביטוי מרחק שעבר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Figuratively referring to a long journey or significant amount of effort",
+                "definition_hebrew": "הכוונה ציורית למסע ארוך או כמות משמעותית של מאמץ",
+                "example": "After running five miles, she felt exhausted.",
+                "example_hebrew": "לאחר ריצה של חמישה קילומטרים, היא הרגישה מותשת."
+            },
+            {
+                "definition": "A metaphorical expression indicating great achievement in an area such as music, sports, or art",
+                "definition_hebrew": "ביטוי מטפורי המצביע על הישג גדול בתחום כמו מוזיקה, ספורט או אמנות",
+                "example": "He's a mile away from being considered one of the greatest guitarists in history.",
+                "example_hebrew": "הוא רחוק קילומטר מלהיחשב לאחד הגיטריסטים הגדולים בהיסטוריה."
+            },
+            {
+                "definition": "An idiomatic phrase meaning 'a long way to go', often used when speaking about distance travelled",
+                "definition_hebrew": "ביטוי אידיומטי שמשמעותו \"דרך ארוכה לפניך\", משמש לעתים קרובות כאשר מדברים על מרחק שעבר",
+                "example": "We have a long road ahead of us before we can finish this project.",
+                "example_hebrew": "יש לנו דרך ארוכה לפנינו עד שנוכל לסיים את הפרויקט הזה."
+            },
+            {
+                "definition": "In sports, specifically in track and field events like the mile run, it refers to running exactly one mile.",
+                "definition_hebrew": "בספורט, במיוחד באירועי מסלול ושטח כמו ריצת המייל, הכוונה היא לריצה של מייל אחד בדיוק.",
+                "example": "The athlete trained for months preparing to win the 1500-meter race (approximately a mile).",
+                "example_hebrew": "הספורטאי התאמן במשך חודשים בהתכונן לזכייה במירוץ ל-1500 מטר (בערך מייל)."
+            }
+        ]
+    }
+]

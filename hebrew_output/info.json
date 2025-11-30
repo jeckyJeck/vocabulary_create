@@ -1,0 +1,34 @@
+[
+    {
+        "word": "info",
+        "word_hebrew": "מידע",
+        "main_definition": "Information, particularly in the context of data, facts, or knowledge about a specific topic.",
+        "main_definition_hebrew": "מידע, במיוחד בהקשר של נתונים, עובדות או ידע על נושא מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "General information about any subject",
+                "definition_hebrew": "מידע כללי על כל נושא",
+                "example": "I need some info on how to fix my car's engine.",
+                "example_hebrew": "אני צריך קצת מידע על איך לתקן את המנוע של המכונית שלי."
+            },
+            {
+                "definition": "Up-to-date knowledge or news on a specific topic",
+                "definition_hebrew": "ידע או חדשות עדכניות בנושא ספציפי",
+                "example": "The newest sports info is available in this magazine.",
+                "example_hebrew": "מידע הספורט החדש ביותר זמין במגזין זה."
+            },
+            {
+                "definition": "Information provided by an informant or insider source",
+                "definition_hebrew": "מידע הנמסר על ידי מודיע או מקור פנימי",
+                "example": "She gave me some valuable inside info about the company's plans.",
+                "example_hebrew": "היא נתנה לי מידע פנימי חשוב על תוכניות החברה."
+            },
+            {
+                "definition": "Abbreviation for 'information', used in digital communications and computing contexts",
+                "definition_hebrew": "קיצור של 'מידע', המשמש בהקשרי תקשורת דיגיטלית ומחשוב",
+                "example": "Please send me the latest news via email. I need all the relevant info.",
+                "example_hebrew": "אנא שלח לי את החדשות האחרונות באימייל. אני צריך את כל המידע הרלוונטי."
+            }
+        ]
+    }
+]

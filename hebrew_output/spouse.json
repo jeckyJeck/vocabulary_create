@@ -1,0 +1,22 @@
+[
+    {
+        "word": "spouse",
+        "word_hebrew": "בן זוג",
+        "main_definition": "A spouse is a person's partner in marriage.",
+        "main_definition_hebrew": "בן זוג הוא שותפו של אדם לנישואין.",
+        "meanings_and_examples": [
+            {
+                "definition": "Married partner (of either gender)",
+                "definition_hebrew": "בן זוג נשוי (משני המינים)",
+                "example": "John and Mary are married and considered each other's spouses.",
+                "example_hebrew": "ג'ון ומרי נשואים ונחשבים זה לבני זוגו של זה."
+            },
+            {
+                "definition": "Partner in a same-sex marriage or civil partnership",
+                "definition_hebrew": "שותף בנישואים חד מיניים או שותפות אזרחית",
+                "example": "Alex and Jamie are engaged and will become legal spouses once they marry.",
+                "example_hebrew": "אלכס וג'יימי מאורסים ויהפכו לבני זוג חוקיים ברגע שיתחתנו."
+            }
+        ]
+    }
+]

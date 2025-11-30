@@ -1,0 +1,34 @@
+[
+    {
+        "word": "playlist",
+        "word_hebrew": "רשימת השמעה",
+        "main_definition": "A playlist is a collection of songs or audio files organized in a specific order to be played sequentially, often used with digital music services.",
+        "main_definition_hebrew": "רשימת השמעה היא אוסף של שירים או קובצי אודיו המאורגנים בסדר מסוים להפעלה ברצף, לעתים קרובות בשימוש עם שירותי מוזיקה דיגיטלית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Digital Music Collection",
+                "definition_hebrew": "אוסף מוזיקה דיגיטלית",
+                "example": "I created a Spotify playlist with my favorite pop and rock songs.",
+                "example_hebrew": "יצרתי רשימת השמעה של Spotify עם שירי הפופ והרוק האהובים עלי."
+            },
+            {
+                "definition": "Movie or TV Show Soundtrack",
+                "definition_hebrew": "פסקול של סרט או תוכנית טלוויזיה",
+                "example": "When watching this movie, the soundtrack was featured as a separate playlist on Netflix.",
+                "example_hebrew": "בעת צפייה בסרט זה, הפסקול הוצג כפלייליסט נפרד בנטפליקס."
+            },
+            {
+                "definition": "Academic or Educational Collection",
+                "definition_hebrew": "אוסף אקדמי או חינוכי",
+                "example": "The professor shared an educational playlist with recorded lectures and supplemental audio material.",
+                "example_hebrew": "הפרופסור שיתף פלייליסט חינוכי עם הרצאות מוקלטות וחומרי שמע משלימים."
+            },
+            {
+                "definition": "Workout or Exercise Playlist",
+                "definition_hebrew": "רשימת השמעה של אימון או פעילות גופנית",
+                "example": "I have a dedicated workout playlist on my Apple Music that helps me stay motivated during exercise sessions.",
+                "example_hebrew": "יש לי פלייליסט ייעודי לאימון ב-Apple Music שלי שעוזר לי לשמור על מוטיבציה במהלך אימונים."
+            }
+        ]
+    }
+]

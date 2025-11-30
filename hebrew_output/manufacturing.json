@@ -1,0 +1,28 @@
+[
+    {
+        "word": "manufacturing",
+        "word_hebrew": "ייצור",
+        "main_definition": "Manufacturing refers to the process of producing goods, typically in large quantities, by using machinery and labor.",
+        "main_definition_hebrew": "ייצור מתייחס לתהליך של ייצור סחורות, בדרך כלל בכמויות גדולות, על ידי שימוש במכונות ועבודה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of creating or assembling products on a large scale using machines and human workers",
+                "definition_hebrew": "הפעולה של יצירה או הרכבה של מוצרים בקנה מידה גדול באמצעות מכונות ועובדים אנושיים",
+                "example": "The factory engaged in automobile manufacturing produced thousands of cars each month.",
+                "example_hebrew": "המפעל שעסק בייצור רכב ייצר אלפי מכוניות מדי חודש."
+            },
+            {
+                "definition": "A specific process involved in producing goods, often referring to the steps taken to transform raw materials into finished products",
+                "definition_hebrew": "תהליך ספציפי הכרוך בייצור סחורה, לעתים קרובות מתייחס לצעדים שננקטו כדי להפוך חומרי גלם למוצרים מוגמרים",
+                "example": "In textile manufacturing, fabric is dyed and woven before being cut and sewn into clothing items.",
+                "example_hebrew": "בייצור טקסטיל, בד נצבע ונארג לפני חיתוך ותפירה לפריטי לבוש."
+            },
+            {
+                "definition": "The industry that encompasses all activities related to producing goods for sale in the marketplace",
+                "definition_hebrew": "הענף המקיף את כל הפעילויות הקשורות לייצור סחורות למכירה בשוק",
+                "example": "Many economies rely heavily on their manufacturing sector as a significant source of employment and export revenue.",
+                "example_hebrew": "כלכלות רבות מסתמכות במידה רבה על מגזר הייצור שלהן כמקור משמעותי לתעסוקה ויצוא."
+            }
+        ]
+    }
+]

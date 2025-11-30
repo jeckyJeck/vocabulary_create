@@ -1,0 +1,28 @@
+[
+    {
+        "word": "hydrogen",
+        "word_hebrew": "מֵימָן",
+        "main_definition": "Hydrogen is a chemical element with the symbol H, atomic number 1, and it is the lightest and most abundant element in the universe.",
+        "main_definition_hebrew": "מימן הוא יסוד כימי עם הסמל H, מספר אטומי 1, והוא היסוד הקל והנפוץ ביותר ביקום.",
+        "meanings_and_examples": [
+            {
+                "definition": "A gas used as fuel for combustion engines",
+                "definition_hebrew": "גז המשמש כדלק למנועי בעירה",
+                "example": "Hydrogen-powered vehicles are being developed to reduce carbon emissions.",
+                "example_hebrew": "כלי רכב המונעים במימן מפותחים כדי להפחית את פליטת הפחמן."
+            },
+            {
+                "definition": "An idiom representing the idea of something essential or fundamental",
+                "definition_hebrew": "ניב המייצג את הרעיון של משהו מהותי או יסודי",
+                "example": "The hydrogen that makes up most of the universe's mass is essential for life as we know it.",
+                "example_hebrew": "המימן המרכיב את רוב מסת היקום חיוני לחיים כפי שאנו מכירים אותם."
+            },
+            {
+                "definition": "A component in water, where two hydrogen atoms combine with one oxygen atom to form H2O (water)",
+                "definition_hebrew": "רכיב במים, שבו שני אטומי מימן מתחברים עם אטום חמצן אחד ויוצרים H2O (מים)",
+                "example": "Water consists of two hydrogen atoms and one oxygen atom.",
+                "example_hebrew": "מים מורכבים משני אטומי מימן ואטום חמצן אחד."
+            }
+        ]
+    }
+]

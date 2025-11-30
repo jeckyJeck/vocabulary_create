@@ -1,0 +1,40 @@
+[
+    {
+        "word": "costs",
+        "word_hebrew": "עלויות",
+        "main_definition": "Costs refer to the amount of money that is required or spent in order to obtain, maintain, or use something.",
+        "main_definition_hebrew": "עלויות מתייחסות לסכום הכסף שנדרש או הוצא כדי להשיג, לתחזק או להשתמש במשהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Financial expense for acquiring an item or service",
+                "definition_hebrew": "הוצאה כספית לרכישת פריט או שירות",
+                "example": "The costs of building a new house can be quite high.",
+                "example_hebrew": "העלויות של בניית בית חדש יכולות להיות גבוהות למדי."
+            },
+            {
+                "definition": "Amount paid to acquire goods, services, or resources",
+                "definition_hebrew": "סכום ששולם לרכישת סחורות, שירותים או משאבים",
+                "example": "She incurred extra costs due to the unexpected repairs on her car.",
+                "example_hebrew": "היא נגרמה בעלויות נוספות עקב התיקונים הבלתי צפויים במכוניתה."
+            },
+            {
+                "definition": "Price assigned by an employer for a specific job or task",
+                "definition_hebrew": "מחיר שנקבע על ידי מעסיק עבור עבודה או משימה ספציפית",
+                "example": "The cost of labor is calculated based on the hourly wage and number of hours worked.",
+                "example_hebrew": "עלות העבודה מחושבת על פי השכר השעתי ומספר שעות העבודה."
+            },
+            {
+                "definition": "Value attributed to something in terms of sacrifice or effort required",
+                "definition_hebrew": "ערך המיוחס למשהו במונחים של הקרבה או מאמץ נדרש",
+                "example": "Learning a new language can be quite expensive, both time-wise and monetarily.",
+                "example_hebrew": "לימוד שפה חדשה יכול להיות די יקר, הן מבחינה זמן והן מבחינה כספית."
+            },
+            {
+                "definition": "The price that is paid by the customer when purchasing goods or services",
+                "definition_hebrew": "המחיר שמשלמים הלקוח בעת רכישת סחורה או שירותים",
+                "example": "The costs of this software are $99 per month.",
+                "example_hebrew": "העלויות של תוכנה זו הן $99 לחודש."
+            }
+        ]
+    }
+]

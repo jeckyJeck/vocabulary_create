@@ -1,0 +1,40 @@
+[
+    {
+        "word": "surname",
+        "word_hebrew": "שֵׁם מִשׁפָּחָה",
+        "main_definition": "A surname, also known as a family name or last name, is the part of a personal name that signifies one's family lineage and is passed down from generation to generation.",
+        "main_definition_hebrew": "שם משפחה, הידוע גם כשם משפחה או שם משפחה, הוא החלק של שם אישי המסמל את שושלת המשפחה של האדם ועובר מדור לדור.",
+        "meanings_and_examples": [
+            {
+                "definition": "Family name indicating ancestral origin",
+                "definition_hebrew": "שם משפחה המעיד על מוצא אבות",
+                "example": "The surname 'Smith' indicates English ancestry.",
+                "example_hebrew": "שם המשפחה 'סמית' מצביע על מוצא אנגלי."
+            },
+            {
+                "definition": "Last part of a person's full name used to identify family lineage",
+                "definition_hebrew": "החלק האחרון בשמו המלא של אדם המשמש לזיהוי שושלת משפחה",
+                "example": "John Doe is known as J.D., where 'Doe' serves as his surname.",
+                "example_hebrew": "ג'ון דו ידוע בתור J.D., כאשר 'איילה' משמש כשם המשפחה שלו."
+            },
+            {
+                "definition": "The portion of a name that differentiates individuals with the same first and middle names, typically inherited from their parents",
+                "definition_hebrew": "החלק של השם שמבדיל אנשים בעלי אותו שם פרטי ושם אמצעי, בדרך כלל בירושה מהוריהם",
+                "example": "Emily Johnson and Emily Brown share the same first and middle names but are distinguished by 'Johnson' and 'Brown' as their respective surnames.",
+                "example_hebrew": "אמילי ג'ונסון ואמילי בראון חולקים את אותם שמות פרטיים ואמצעיים, אך נבדלות על ידי 'ג'ונסון' ו'בראון' בתור שמות המשפחה שלהם."
+            },
+            {
+                "definition": "A surname used in certain cultures to indicate clan or tribe membership",
+                "definition_hebrew": "שם משפחה המשמש בתרבויות מסוימות כדי לציין חברות בשבט או שבט",
+                "example": "The Clan MacDonald is a Scottish surname denoting lineage from the Donald line of a particular clan.",
+                "example_hebrew": "שבט מקדונלד הוא שם משפחה סקוטי המציין שושלת משושלת דונלד של שבט מסוים."
+            },
+            {
+                "definition": "Used to identify individuals as members of an extended family, especially in legal documents and official records",
+                "definition_hebrew": "משמש לזיהוי אנשים כבני משפחה מורחבת, במיוחד במסמכים משפטיים וברישומים רשמיים",
+                "example": "In property deeds or wills, surnames such as 'Jones' may denote ownership by multiple heirs sharing the same last name.",
+                "example_hebrew": "בכתבי רכוש או בצוואות, שמות משפחה כגון 'ג'ונס' עשויים לציין בעלות של מספר יורשים החולקים את אותו שם משפחה."
+            }
+        ]
+    }
+]

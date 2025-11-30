@@ -1,0 +1,40 @@
+[
+    {
+        "word": "gallery",
+        "word_hebrew": "גלריה",
+        "main_definition": "A gallery is a space where artworks, such as paintings, photographs, or sculptures, are displayed for public viewing.",
+        "main_definition_hebrew": "גלריה היא חלל שבו יצירות אמנות, כגון ציורים, תצלומים או פסלים, מוצגות לצפייה ציבורית.",
+        "meanings_and_examples": [
+            {
+                "definition": "An exhibition room for displaying works of art",
+                "definition_hebrew": "חדר תצוגה להצגת יצירות אמנות",
+                "example": "The annual impressionist gallery showcased beautiful oil paintings and modern sculptures.",
+                "example_hebrew": "הגלריה האימפרסיוניסטית השנתית הציגה ציורי שמן יפהפיים ופסלים מודרניים."
+            },
+            {
+                "definition": "A place where portraits or pictures are displayed",
+                "definition_hebrew": "מקום בו מוצגים פורטרטים או תמונות",
+                "example": "Visitors walked through the history gallery, admiring ancient maps and old photographs.",
+                "example_hebrew": "המבקרים טיילו בגלריה ההיסטורית, התפעלו ממפות עתיקות ותצלומים ישנים."
+            },
+            {
+                "definition": "A room in a building containing works of art",
+                "definition_hebrew": "חדר בבניין המכיל יצירות אמנות",
+                "example": "The children were amazed by the vibrant colors and shapes they saw at the modern art gallery.",
+                "example_hebrew": "הילדים נדהמו מהצבעים והצורות התוססים שראו בגלריה לאמנות מודרנית."
+            },
+            {
+                "definition": "An area or collection of rooms designated for displaying objects, especially fine arts",
+                "definition_hebrew": "אזור או אוסף של חדרים המיועדים להצגת חפצים, במיוחד אמנויות",
+                "example": "The city's cultural district boasts a variety of galleries, each with its own unique focus on different types of artwork.",
+                "example_hebrew": "רובע התרבות של העיר מתגאה במגוון של גלריות, שלכל אחת מהן התמקדות ייחודית משלה בסוגים שונים של יצירות אמנות."
+            },
+            {
+                "definition": "A large hall used for the exhibition of works of art or curiosities",
+                "definition_hebrew": "אולם גדול המשמש לתערוכת יצירות אומנות או קוריוזים",
+                "example": "The natural history gallery was filled with dinosaur fossils and rare minerals.",
+                "example_hebrew": "הגלריה לתולדות הטבע הייתה מלאה במאובני דינוזאורים ומינרלים נדירים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "feature",
+        "word_hebrew": "תכונה",
+        "main_definition": "A distinguishing attribute or aspect of something, often used in various contexts such as technology, media, and language.",
+        "main_definition_hebrew": "תכונה או היבט מבדיל של משהו, המשמשים לעתים קרובות בהקשרים שונים כגון טכנולוגיה, מדיה ושפה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In general terms, a characteristic that makes something notable or interesting",
+                "definition_hebrew": "במונחים כלליים, מאפיין שעושה משהו ראוי לציון או מעניין",
+                "example": "The new smartphone's feature of a triple-lens camera is impressive.",
+                "example_hebrew": "התכונה של הסמארטפון החדש של מצלמה משולשת עדשה מרשימה."
+            },
+            {
+                "definition": "An important part of an object, system, or piece of work",
+                "definition_hebrew": "חלק חשוב מחפץ, מערכת או יצירה",
+                "example": "One of the most appealing features of this hotel is its ocean view.",
+                "example_hebrew": "אחד המאפיינים המושכים ביותר של מלון זה הוא הנוף שלו לאוקיינוס."
+            },
+            {
+                "definition": "A prominent element in a movie that contributes to the plot or characters",
+                "definition_hebrew": "מרכיב בולט בסרט שתורם לעלילה או לדמויות",
+                "example": "The protagonist's dilemma was an unexpected feature of the film's storyline.",
+                "example_hebrew": "הדילמה של הגיבור הייתה תכונה בלתי צפויה בקו העלילה של הסרט."
+            },
+            {
+                "definition": "An attribute or aspect highlighted by marketers as beneficial for consumers",
+                "definition_hebrew": "תכונה או היבט שהודגשו על ידי משווקים כמועילים לצרכנים",
+                "example": "The car's fuel efficiency is a key feature that sets it apart from competitors.",
+                "example_hebrew": "יעילות הדלק של המכונית היא תכונה מרכזית המייחדת אותה מהמתחרים."
+            },
+            {
+                "definition": "In software development, an implemented capability of the system",
+                "definition_hebrew": "בפיתוח תוכנה, יכולת מיושמת של המערכת",
+                "example": "Our app has several unique features like real-time collaboration and customizable layout options.",
+                "example_hebrew": "לאפליקציה שלנו מספר תכונות ייחודיות כמו שיתוף פעולה בזמן אמת ואפשרויות פריסה הניתנות להתאמה אישית."
+            }
+        ]
+    }
+]

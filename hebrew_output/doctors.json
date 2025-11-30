@@ -1,0 +1,28 @@
+[
+    {
+        "word": "doctors",
+        "word_hebrew": "רופאים",
+        "main_definition": "Doctors are professionals who specialize in the field of medicine, diagnosing and treating illnesses, injuries, and diseases.",
+        "main_definition_hebrew": "רופאים הם אנשי מקצוע המתמחים בתחום הרפואה, אבחון וטיפול במחלות, פציעות ומחלות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To act as a physician or medical practitioner",
+                "definition_hebrew": "לפעול כרופא או כרופא",
+                "example": "The doctor examined the patient and prescribed medication for their condition.",
+                "example_hebrew": "הרופא בדק את המטופל ורשם תרופות למצבו."
+            },
+            {
+                "definition": "A group of medical professionals working together",
+                "definition_hebrew": "קבוצה של אנשי מקצוע רפואיים שעובדים יחד",
+                "example": "The doctors in the hospital collaborated to provide comprehensive care to patients.",
+                "example_hebrew": "הרופאים בבית החולים שיתפו פעולה כדי להעניק טיפול מקיף לחולים."
+            },
+            {
+                "definition": "Experts or authorities in a specific field, not limited to medicine",
+                "definition_hebrew": "מומחים או רשויות בתחום ספציפי, לא מוגבל לרפואה",
+                "example": "He is considered one of the world's top doctors in renewable energy research.",
+                "example_hebrew": "הוא נחשב לאחד מהרופאים המובילים בעולם בחקר אנרגיה מתחדשת."
+            }
+        ]
+    }
+]

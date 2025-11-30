@@ -1,0 +1,34 @@
+[
+    {
+        "word": "weekly",
+        "word_hebrew": "שְׁבוּעִי",
+        "main_definition": "occurring or done once every week, relating to a period of seven days",
+        "main_definition_hebrew": "מתרחש או נעשה פעם בשבוע, המתייחס לתקופה של שבעה ימים",
+        "meanings_and_examples": [
+            {
+                "definition": "Happening every week",
+                "definition_hebrew": "קורה כל שבוע",
+                "example": "She attends the yoga class on a weekly basis.",
+                "example_hebrew": "היא משתתפת בשיעור היוגה על בסיס שבועי."
+            },
+            {
+                "definition": "A publication released once a week",
+                "definition_hebrew": "פרסום שיוצא פעם בשבוע",
+                "example": "The 'Weekly News' is a popular local newspaper that comes out every Thursday.",
+                "example_hebrew": "'החדשות השבועיות' הוא עיתון מקומי פופולרי שיוצא מדי יום חמישי."
+            },
+            {
+                "definition": "An event or meeting scheduled to occur regularly on a weekly basis",
+                "definition_hebrew": "אירוע או פגישה המתוכננים להתקיים באופן קבוע על בסיס שבועי",
+                "example": "Our team has a weekly project update meeting every Wednesday afternoon.",
+                "example_hebrew": "הצוות שלנו מקיים פגישת עדכון שבועית בכל יום רביעי אחר הצהריים."
+            },
+            {
+                "definition": "A payment schedule that is made once per week",
+                "definition_hebrew": "פריסת תשלומים שמתבצעת פעם בשבוע",
+                "example": "He pays his rent in installments, with the first day being a weekly deadline.",
+                "example_hebrew": "הוא משלם את שכר הדירה שלו בתשלומים, כשהיום הראשון הוא מועד אחרון שבועי."
+            }
+        ]
+    }
+]

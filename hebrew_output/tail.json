@@ -1,0 +1,34 @@
+[
+    {
+        "word": "tail",
+        "word_hebrew": "זָנָב",
+        "main_definition": "The rear end or appendage of an animal, especially a quadruped, which extends from the body behind the torso.",
+        "main_definition_hebrew": "הקצה האחורי או התוספת של בעל חיים, במיוחד בעל ארבע, המשתרע מהגוף מאחורי הגו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A part of clothing such as a scarf that hangs down",
+                "definition_hebrew": "חלק מהבגדים כמו צעיף תלוי למטה",
+                "example": "She wrapped her tail around her neck to keep warm.",
+                "example_hebrew": "היא כרכה את זנבה סביב צווארה כדי להתחמם."
+            },
+            {
+                "definition": "The end or appendage of an object, particularly in engineering and design contexts",
+                "definition_hebrew": "הסוף או התוספת של אובייקט, במיוחד בהקשרים הנדסיים ועיצוביים",
+                "example": "He attached the metal piece known as a 'tail' to secure it in place.",
+                "example_hebrew": "הוא חיבר את חלק המתכת המכונה 'זנב' כדי לאבטח אותו במקומו."
+            },
+            {
+                "definition": "A sequence used in programming languages such as Python",
+                "definition_hebrew": "רצף המשמש בשפות תכנות כגון Python",
+                "example": "The for loop is often used to iterate over each item in the tail of a list.",
+                "example_hebrew": "לולאת for משמשת לעתים קרובות כדי לחזור על כל פריט בזנב הרשימה."
+            },
+            {
+                "definition": "To follow or pursue someone, typically with malicious intent",
+                "definition_hebrew": "לעקוב אחר מישהו או לרדוף אחריו, בדרך כלל מתוך כוונה זדונית",
+                "example": "He decided to tail the suspect from a safe distance.",
+                "example_hebrew": "הוא החליט לעקוב אחרי החשוד ממרחק בטוח."
+            }
+        ]
+    }
+]

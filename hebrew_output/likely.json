@@ -1,0 +1,34 @@
+[
+    {
+        "word": "likely",
+        "word_hebrew": "סָבִיר",
+        "main_definition": "The degree of probability that an event will occur or a statement is true.",
+        "main_definition_hebrew": "מידת ההסתברות שאירוע יתרחש או אמירה נכונה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Approximately certain, probably to happen",
+                "definition_hebrew": "בטוח בערך, כנראה יקרה",
+                "example": "Given the weather forecast, it's likely going to rain tomorrow.",
+                "example_hebrew": "בהתחשב בתחזית מזג האוויר, צפוי לרדת גשם מחר."
+            },
+            {
+                "definition": "Having a high probability or chance of happening",
+                "definition_hebrew": "בעל סבירות או סיכוי גבוה לקרות",
+                "example": "With his extensive experience in the field, he is likely to get the job.",
+                "example_hebrew": "עם הניסיון הרב שלו בתחום, הוא צפוי לקבל את התפקיד."
+            },
+            {
+                "definition": "Considered probable based on available evidence",
+                "definition_hebrew": "נחשב סביר בהתבסס על ראיות זמינות",
+                "example": "She is likely guilty because there are strong circumstantial indicators pointing towards her involvement.",
+                "example_hebrew": "היא ככל הנראה אשמה כי ישנם אינדיקטורים נסיבתיים חזקים המצביעים על מעורבותה."
+            },
+            {
+                "definition": "Agreement or likelihood in a conversation, often indicating that one person believes the other's statement might be true",
+                "definition_hebrew": "הסכמה או סבירות בשיחה, לעתים קרובות מצביעים על כך שאדם אחד מאמין שההצהרה של האחר עשויה להיות נכונה",
+                "example": "I think we agree; it's likely you were at the party last night.",
+                "example_hebrew": "אני חושב שאנחנו מסכימים; סביר להניח שהיית במסיבה אתמול בלילה."
+            }
+        ]
+    }
+]

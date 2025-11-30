@@ -1,0 +1,40 @@
+[
+    {
+        "word": "loss",
+        "word_hebrew": "הֶפסֵד",
+        "main_definition": "Loss refers to the state of being deprived of or no longer having something that is valuable, needed, or desired.",
+        "main_definition_hebrew": "אובדן מתייחס למצב של מניעת או אין לו עוד משהו בעל ערך, נחוץ או רצוי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Monetary loss due to financial transactions or business activities",
+                "definition_hebrew": "הפסד כספי עקב עסקאות פיננסיות או פעילויות עסקיות",
+                "example": "The company suffered a significant loss after the stock market crash.",
+                "example_hebrew": "החברה ספגה הפסד משמעותי לאחר מפולת הבורסה."
+            },
+            {
+                "definition": "Physical objects that are missing or cannot be found",
+                "definition_hebrew": "חפצים פיזיים שחסרים או שלא ניתן למצוא",
+                "example": "He experienced great sadness and anxiety when he lost his wedding ring during a jog.",
+                "example_hebrew": "הוא חווה עצב וחרדה גדולה כאשר איבד את טבעת הנישואין שלו במהלך ריצה."
+            },
+            {
+                "definition": "A decrease in quantity, value, or importance of something",
+                "definition_hebrew": "ירידה בכמות, בערך או בחשיבות של משהו",
+                "example": "The team faced a substantial loss after losing their star player to an injury.",
+                "example_hebrew": "הקבוצה עמדה בפני הפסד משמעותי לאחר שאיבדה את השחקן הכוכב שלה מפציעה."
+            },
+            {
+                "definition": "Loss of life during wars, natural disasters, etc.",
+                "definition_hebrew": "אובדן חיים במהלך מלחמות, אסונות טבע וכו'.",
+                "example": "The devastating hurricane resulted in the tragic loss of many lives and homes.",
+                "example_hebrew": "ההוריקן ההרסני הביא לאובדן טרגי של חיים ובתים רבים."
+            },
+            {
+                "definition": "Feeling of sadness or grief due to an emotional event",
+                "definition_hebrew": "תחושת עצב או אבל עקב אירוע רגשי",
+                "example": "She felt a deep sense of loss after her grandmother passed away.",
+                "example_hebrew": "היא חשה תחושת אובדן עמוקה לאחר שסבתה נפטרה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "inns",
+        "word_hebrew": "פונדקים",
+        "main_definition": "An inn is a business that provides lodging, food, and other services to travelers.",
+        "main_definition_hebrew": "פונדק הוא עסק המספק לינה, אוכל ושירותים נוספים למטיילים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Historical establishments providing accommodation for weary travelers along roads or in rural areas",
+                "definition_hebrew": "מפעלים היסטוריים המספקים לינה למטיילים עייפים לאורך כבישים או באזורים כפריים",
+                "example": "The old inn on the outskirts of town had been serving travelers since medieval times.",
+                "example_hebrew": "הפונדק הישן בפאתי העיר שימש מטיילים מאז ימי הביניים."
+            },
+            {
+                "definition": "A place where horses are boarded and cared for, often with an attached restaurant or lodging facility",
+                "definition_hebrew": "מקום בו עולים ומטפלים בסוסים, לעתים קרובות עם מסעדה צמודה או מתקן לינה",
+                "example": "After our long horseback ride, we decided to stay at the equestrian inn, which also served a hearty breakfast.",
+                "example_hebrew": "לאחר רכיבת הסוסים הארוכה שלנו, החלטנו להתארח בפונדק הרכיבה, שהגיש גם ארוחת בוקר דשנה."
+            },
+            {
+                "definition": "A colloquial term used in some regions for a small hotel offering basic accommodations and food services",
+                "definition_hebrew": "מונח עממי המשמש באזורים מסוימים למלון קטן המציע מקומות לינה ושירותי מזון בסיסיים",
+                "example": "The tourists checked into an inn before heading to their next destination.",
+                "example_hebrew": "התיירים נכנסו לפונדק לפני שהלכו ליעד הבא שלהם."
+            }
+        ]
+    }
+]

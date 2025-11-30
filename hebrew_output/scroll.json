@@ -1,0 +1,40 @@
+[
+    {
+        "word": "scroll",
+        "word_hebrew": "גְלִילָה",
+        "main_definition": "A scroll is a long, narrow document made from papyrus or parchment that has been written upon with ink. It also refers to the act of scrolling through content such as web pages or social media feeds using a device like a computer mouse.",
+        "main_definition_hebrew": "מגילה היא מסמך ארוך וצר עשוי מפפירוס או קלף שנכתב עליו בדיו. זה מתייחס גם לפעולת הגלילה בין תוכן כגון דפי אינטרנט או עדכוני מדיה חברתית באמצעות מכשיר כמו עכבר מחשב.",
+        "meanings_and_examples": [
+            {
+                "definition": "An ancient form of document storage, typically consisting of a long strip of material (like papyrus or parchment) with text written along its length",
+                "definition_hebrew": "צורה עתיקה של אחסון מסמכים, המורכבת בדרך כלל מרצועה ארוכה של חומר (כמו פפירוס או קלף) עם טקסט כתוב לאורכה",
+                "example": "The historian examined the old scroll containing a map from the Middle Ages.",
+                "example_hebrew": "ההיסטוריון בחן את המגילה הישנה המכילה מפה מימי הביניים."
+            },
+            {
+                "definition": "To move through content horizontally on a digital screen using a device like a mouse, touchpad, or finger swipe",
+                "definition_hebrew": "כדי לעבור בין תוכן אופקית על מסך דיגיטלי באמצעות מכשיר כמו עכבר, משטח מגע או החלקת אצבע",
+                "example": "She scrolled down her news feed to see the latest articles.",
+                "example_hebrew": "היא גלגלה את עדכון החדשות שלה כדי לראות את המאמרים האחרונים."
+            },
+            {
+                "definition": "A tool used in graphic design and image editing to create smooth transitions between images or video frames by moving an image horizontally on a digital canvas",
+                "definition_hebrew": "כלי המשמש בעיצוב גרפי ועריכת תמונות ליצירת מעברים חלקים בין תמונות או מסגרות וידאו על ידי הזזת תמונה אופקית על קנבס דיגיטלי",
+                "example": "The animator created an engaging slideshow using the scroll feature in Photoshop.",
+                "example_hebrew": "האנימטור יצר מצגת שקופיות מרתקת באמצעות תכונת הגלילה בפוטושופ."
+            },
+            {
+                "definition": "A scrolling function or interface element that enables users to move through content vertically or horizontally, typically found within software applications and websites",
+                "definition_hebrew": "פונקציית גלילה או רכיב ממשק המאפשרים למשתמשים לנוע בתוכן בצורה אנכית או אופקית, הנמצאים בדרך כלל בתוך יישומי תוכנה ואתרי אינטרנט",
+                "example": "The user accessed different sections of the website by clicking on the scroll bar at the bottom of the page.",
+                "example_hebrew": "המשתמש ניגש לחלקים שונים באתר על ידי לחיצה על פס הגלילה בתחתית העמוד."
+            },
+            {
+                "definition": "An action performed when a web browser's viewport moves up or down to reveal new content as it enters the screen",
+                "definition_hebrew": "פעולה המבוצעת כאשר נקודת התצוגה של דפדפן האינטרנט נעה למעלה או למטה כדי לחשוף תוכן חדש כשהוא נכנס למסך",
+                "example": "The user couldn't find the requested information, so they had to scroll down several pages of search results.",
+                "example_hebrew": "המשתמש לא הצליח למצוא את המידע המבוקש, ולכן הוא נאלץ לגלול מטה מספר דפים של תוצאות חיפוש."
+            }
+        ]
+    }
+]

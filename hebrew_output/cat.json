@@ -1,0 +1,28 @@
+[
+    {
+        "word": "cat",
+        "word_hebrew": "חתול",
+        "main_definition": "The term 'cat' can refer to a domesticated feline animal, an idiomatic expression that implies something unexpected or unforeseen, and also the act of pretending not to understand what is being said in order to avoid responsibility.",
+        "main_definition_hebrew": "המונח 'חתול' יכול להתייחס לחיה חתולית מבויתת, ביטוי אידיומטי המרמז על משהו בלתי צפוי או בלתי צפוי, וגם פעולת העמדת פנים שאינה מבינה את הנאמר כדי להימנע מאחריות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A small carnivorous mammal with soft fur, retractable claws, and a keen sense of hearing and smell",
+                "definition_hebrew": "יונק טורף קטן עם פרווה רכה, טפרים נשלפים וחוש שמיעה וריח חדים",
+                "example": "The friendly neighborhood cat sat on the windowsill watching birds.",
+                "example_hebrew": "חתול השכונה הידידותי ישב על אדן החלון והתבונן בציפורים."
+            },
+            {
+                "definition": "Used to describe an unexpected or surprising event that occurs without warning",
+                "definition_hebrew": "משמש לתיאור אירוע בלתי צפוי או מפתיע המתרחש ללא אזהרה",
+                "example": "Out of nowhere, it started raining heavily during our picnic.",
+                "example_hebrew": "משום מקום, התחיל לרדת גשם כבד במהלך הפיקניק שלנו."
+            },
+            {
+                "definition": "The act of pretending not to understand something in order to avoid responsibility or gain advantage",
+                "definition_hebrew": "מעשה העמדת פנים שאינו מבין משהו כדי להימנע מאחריות או להשיג יתרון",
+                "example": "He continued to 'cat' around the issue until his boss finally addressed him directly about the problem.",
+                "example_hebrew": "הוא המשיך 'להסתובב' סביב הנושא עד שהבוס שלו פנה אליו לבסוף ישירות לגבי הבעיה."
+            }
+        ]
+    }
+]

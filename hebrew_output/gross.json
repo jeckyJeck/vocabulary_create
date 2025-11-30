@@ -1,0 +1,40 @@
+[
+    {
+        "word": "gross",
+        "word_hebrew": "דוחה",
+        "main_definition": "Gross can refer to the total amount of something, an unpleasant or offensive thing, or a lack of sophistication or refinement.",
+        "main_definition_hebrew": "גס יכול להתייחס לכמות הכוללת של משהו, דבר לא נעים או פוגעני, או חוסר תחכום או עידון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Total sum before deductions",
+                "definition_hebrew": "סכום כולל לפני ניכויים",
+                "example": "The gross income of the company was $5 million last year.",
+                "example_hebrew": "הרווח הגולמי של החברה היה 5 מיליון דולר בשנה שעברה."
+            },
+            {
+                "definition": "Unpleasant or offensive",
+                "definition_hebrew": "לא נעים או פוגע",
+                "example": "She felt disgusted by the sight of the spoiled food, which had a foul and gross smell.",
+                "example_hebrew": "היא חשה גועל למראה האוכל המקולקל, שהיה לו ריח רע וגועש."
+            },
+            {
+                "definition": "Lacking sophistication or refinement",
+                "definition_hebrew": "חסר תחכום או עידון",
+                "example": "His tasteless comment about her dress was just gross.",
+                "example_hebrew": "ההערה חסרת הטעם שלו על השמלה שלה הייתה פשוט גסה."
+            },
+            {
+                "definition": "Relating to the gross motor skills of the body",
+                "definition_hebrew": "התייחסות למוטוריקה הגסה של הגוף",
+                "example": "The doctor assessed his patient's gross motor skills by observing their ability to walk and coordinate movements.",
+                "example_hebrew": "הרופא העריך את מיומנויות המוטוריקה הגסה של המטופל שלו על ידי התבוננות ביכולתו ללכת ולתאם תנועות."
+            },
+            {
+                "definition": "Not divided into smaller parts or categories",
+                "definition_hebrew": "לא מחולק לחלקים קטנים יותר או לקטגוריות",
+                "example": "When dealing with a complex issue, it's often necessary to consider the gross aspects before delving into specifics.",
+                "example_hebrew": "כאשר מתמודדים עם נושא מורכב, לעתים קרובות יש צורך לשקול את ההיבטים הגסים לפני התעמקות בפרטים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "lessons",
+        "word_hebrew": "שיעורים",
+        "main_definition": "Lessons refer to the knowledge, skills or experiences gained through learning or teaching.",
+        "main_definition_hebrew": "שיעורים מתייחסים לידע, מיומנויות או חוויות שנרכשו באמצעות למידה או הוראה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Instructive examples or illustrations that provide a deeper understanding of a subject",
+                "definition_hebrew": "דוגמאות או המחשות מאלפות המספקות הבנה מעמיקה יותר של נושא",
+                "example": "The teacher used real-life lessons to help students understand the theory.",
+                "example_hebrew": "המורה השתמש בשיעורים מהחיים האמיתיים כדי לעזור לתלמידים להבין את התיאוריה."
+            },
+            {
+                "definition": "A unit of instruction given by a teacher in an educational setting",
+                "definition_hebrew": "יחידת הוראה הניתנת על ידי מורה במסגרת חינוכית",
+                "example": "Mathematics 101 is my favorite class, and each week we have new lessons on different topics.",
+                "example_hebrew": "מתמטיקה 101 היא השיעור האהוב עלי, ובכל שבוע יש לנו שיעורים חדשים בנושאים שונים."
+            },
+            {
+                "definition": "Insights or understanding gained through experiences, whether personal or professional",
+                "definition_hebrew": "תובנות או הבנה שנרכשו באמצעות התנסויות, בין אם אישיות או מקצועיות",
+                "example": "Through his career in finance, he learned many valuable lessons about risk management.",
+                "example_hebrew": "במהלך הקריירה שלו בתחום הפיננסים, הוא למד שיעורים רבים וחשובים על ניהול סיכונים."
+            }
+        ]
+    }
+]

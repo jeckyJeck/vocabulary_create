@@ -1,0 +1,34 @@
+[
+    {
+        "word": "weeks",
+        "word_hebrew": "שבועות",
+        "main_definition": "Weeks refer to a unit of time equivalent to seven days, often used to measure the duration or span between events.",
+        "main_definition_hebrew": "שבועות מתייחסים ליחידת זמן השווה לשבעה ימים, המשמשת לעתים קרובות למדידת משך או טווח בין אירועים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A period of seven consecutive days",
+                "definition_hebrew": "תקופה של שבעה ימים רצופים",
+                "example": "The project will take two weeks to complete.",
+                "example_hebrew": "הפרויקט יימשך שבועיים."
+            },
+            {
+                "definition": "Used in planning and scheduling",
+                "definition_hebrew": "משמש בתכנון ותזמון",
+                "example": "She set aside three weeks for her vacation.",
+                "example_hebrew": "היא הקדישה שלושה שבועות לחופשה."
+            },
+            {
+                "definition": "A term used in agriculture, particularly in reference to plant growth cycles",
+                "definition_hebrew": "מונח המשמש בחקלאות, במיוחד בהתייחס למחזורי גידול צמחים",
+                "example": "Farmers wait until the third week of the season before harvesting crops.",
+                "example_hebrew": "חקלאים ממתינים עד לשבוע השלישי של העונה לפני קצירת היבולים."
+            },
+            {
+                "definition": "Used when referring to recurring events or activities that happen on a weekly basis",
+                "definition_hebrew": "משמש כאשר מתייחסים לאירועים או פעילויות חוזרים המתרחשים על בסיס שבועי",
+                "example": "The local farmers market takes place every Saturday from 9 am to 1 pm.",
+                "example_hebrew": "שוק האיכרים המקומי מתקיים מדי שבת בין השעות 9:00-13:00."
+            }
+        ]
+    }
+]

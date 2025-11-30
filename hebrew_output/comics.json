@@ -1,0 +1,34 @@
+[
+    {
+        "word": "comics",
+        "word_hebrew": "קומיקס",
+        "main_definition": "Comics are visual storytelling medium that combines textual and pictorial elements to convey a narrative, often in the form of comic books or strips.",
+        "main_definition_hebrew": "קומיקס הוא מדיום סיפור חזותי המשלב אלמנטים טקסטואליים וציוריים כדי להעביר נרטיב, לרוב בצורה של ספרי קומיקס או רצועות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A literary genre consisting of works told primarily through sequential panels of artwork",
+                "definition_hebrew": "ז'אנר ספרותי המורכב מיצירות המסופרות בעיקר באמצעות פאנלים עוקבים של יצירות אמנות",
+                "example": "The 'Calvin and Hobbes' comic strip by Bill Watterson.",
+                "example_hebrew": "רצועת הקומיקס 'קלווין והובס' מאת ביל ווטרסון."
+            },
+            {
+                "definition": "Graphic novels that narrate a story in the form of comics",
+                "definition_hebrew": "רומנים גרפיים המספרים סיפור בצורה של קומיקס",
+                "example": "Marvel's 'Avengers: Infinity War', which is available both as a film and as a graphic novel adaptation.",
+                "example_hebrew": "'הנוקמים: מלחמת האינסוף' של מארוול, שזמין גם כסרט וגם כעיבוד לרומן גרפי."
+            },
+            {
+                "definition": "Short, often humorous stories presented in comic strip format",
+                "definition_hebrew": "סיפורים קצרים, לעתים קרובות הומוריסטיים, המוצגים בפורמט קומיקס",
+                "example": "Peanuts by Charles M. Schulz, featuring the lovable characters such as Charlie Brown and Snoopy.",
+                "example_hebrew": "בוטנים מאת צ'ארלס מ. שולץ, בהשתתפות הדמויות החביבות כמו צ'רלי בראון וסנופי."
+            },
+            {
+                "definition": "Commercial advertisements that use a combination of images and text to convey an idea or sell a product",
+                "definition_hebrew": "פרסומות מסחריות המשתמשות בשילוב של תמונות וטקסט כדי להעביר רעיון או למכור מוצר",
+                "example": "The 'Got Milk?' ad campaign with famous comic book characters promoting milk consumption.",
+                "example_hebrew": "ה'יש חלב?' מסע פרסום עם דמויות קומיקס מפורסמות המקדמות צריכת חלב."
+            }
+        ]
+    }
+]

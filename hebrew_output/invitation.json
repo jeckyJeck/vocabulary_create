@@ -1,0 +1,40 @@
+[
+    {
+        "word": "invitation",
+        "word_hebrew": "הַזמָנָה",
+        "main_definition": "An invitation is a request, often in the form of an offer or a formal proposal, to attend an event, participate in an activity, or engage with someone socially.",
+        "main_definition_hebrew": "הזמנה היא בקשה, לרוב בצורה של הצעה או הצעה רשמית, להשתתף באירוע, להשתתף בפעילות או לתקשר עם מישהו חברתית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A written or verbal message that asks someone to join you for an event such as a party, dinner, or wedding",
+                "definition_hebrew": "הודעה בכתב או בעל פה המבקשת ממישהו להצטרף אליך לאירוע כגון מסיבה, ארוחת ערב או חתונה",
+                "example": "Sara received an invitation in the mail asking her to attend her cousin's birthday celebration.",
+                "example_hebrew": "שרה קיבלה הזמנה בדואר שביקשה ממנה להשתתף בחגיגת יום ההולדת של בן דודה."
+            },
+            {
+                "definition": "A formal request extended by an organization, institution, or group for someone to take part in a specific event, like a conference or seminar",
+                "definition_hebrew": "בקשה רשמית המורחבת על ידי ארגון, מוסד או קבוצה למישהו לקחת חלק באירוע מסוים, כמו כנס או סמינר",
+                "example": "The university sent out invitations to various scholars and professionals for its annual academic symposium.",
+                "example_hebrew": "האוניברסיטה שלחה הזמנות לחוקרים ואנשי מקצוע שונים לסימפוזיון האקדמי השנתי שלה."
+            },
+            {
+                "definition": "An offer extended by an individual or group to someone for participation in social activities such as joining a club or community organization",
+                "definition_hebrew": "הצעה המוענקת על ידי אדם או קבוצה למישהו לצורך השתתפות בפעילויות חברתיות כגון הצטרפות למועדון או ארגון קהילתי",
+                "example": "After moving to a new city, John received an invitation from the local book club to join their next meeting.",
+                "example_hebrew": "לאחר שעבר לעיר חדשה, ג'ון קיבל הזמנה ממועדון הספרים המקומי להצטרף לפגישה הבאה שלהם."
+            },
+            {
+                "definition": "A polite way of requesting someone's presence at your home for dinner or a meal",
+                "definition_hebrew": "דרך מנומסת לבקש נוכחות של מישהו בביתך לארוחת ערב או ארוחה",
+                "example": "For her 50th birthday party, Mary personally handed out invitations asking guests to come over for an evening celebration.",
+                "example_hebrew": "למסיבת יום הולדתה ה-50, מרי חילקה באופן אישי הזמנות שביקשה מהאורחים לבוא לחגיגת ערב."
+            },
+            {
+                "definition": "A digital message sent via email or social media platforms requesting someone's attendance at a virtual event",
+                "definition_hebrew": "הודעה דיגיטלית הנשלחת באמצעות דואר אלקטרוני או פלטפורמות מדיה חברתית המבקשת השתתפות של מישהו באירוע וירטואלי",
+                "example": "The company issued a mass email invitation to its employees, encouraging them to join the virtual town hall meeting.",
+                "example_hebrew": "החברה פרסמה הזמנה המונית במייל לעובדיה, עודדה אותם להצטרף לישיבת העירייה הוירטואלית."
+            }
+        ]
+    }
+]

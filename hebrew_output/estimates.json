@@ -1,0 +1,40 @@
+[
+    {
+        "word": "estimates",
+        "word_hebrew": "הערכות",
+        "main_definition": "Estimates refer to approximate calculations or judgments about the value, number, quantity, or extent of something based on limited information.",
+        "main_definition_hebrew": "הערכות מתייחסות לחישובים או שיפוטים משוערים לגבי הערך, המספר, הכמות או ההיקף של משהו על סמך מידע מוגבל.",
+        "meanings_and_examples": [
+            {
+                "definition": "An educated guess regarding a quantity or cost",
+                "definition_hebrew": "ניחוש מושכל לגבי כמות או עלות",
+                "example": "The construction company provided an estimate for the total cost of building the house.",
+                "example_hebrew": "חברת הבנייה מסרה אומדן לעלות הכוללת של בניית הבית."
+            },
+            {
+                "definition": "A rough calculation made to determine potential value or size",
+                "definition_hebrew": "חישוב גס שנעשה כדי לקבוע ערך או גודל פוטנציאליים",
+                "example": "To estimate the number of attendees, we surveyed a sample group and extrapolated the data.",
+                "example_hebrew": "כדי להעריך את מספר המשתתפים, סקרנו קבוצת מדגם והפקנו את הנתונים."
+            },
+            {
+                "definition": "An approximate assessment for future planning purposes",
+                "definition_hebrew": "הערכה משוערת לצורכי תכנון עתידיים",
+                "example": "Before starting the project, they estimated the time it would take to complete each phase.",
+                "example_hebrew": "לפני תחילת הפרויקט, הם העריכו את הזמן שייקח להשלים כל שלב."
+            },
+            {
+                "definition": "A provisional financial statement used in business transactions",
+                "definition_hebrew": "דוח כספי זמני המשמש בעסקאות עסקיות",
+                "example": "The buyer requested a breakdown of the estimates for tax purposes before signing the contract.",
+                "example_hebrew": "הקונה ביקשה פירוט האומדנים לצרכי מס לפני חתימת החוזה."
+            },
+            {
+                "definition": "An approximation made when exact data is unavailable, often based on previous experience or similar cases",
+                "definition_hebrew": "קירוב שנעשה כאשר נתונים מדויקים אינם זמינים, לעתים קרובות מבוסס על ניסיון קודם או מקרים דומים",
+                "example": "Based on historical trends, they estimated that sales would increase by 10% this year.",
+                "example_hebrew": "בהתבסס על מגמות היסטוריות, הם העריכו שהמכירות יגדלו ב-10% השנה."
+            }
+        ]
+    }
+]

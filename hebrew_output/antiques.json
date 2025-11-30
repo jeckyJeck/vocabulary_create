@@ -1,0 +1,28 @@
+[
+    {
+        "word": "antiques",
+        "word_hebrew": "עַתִיקוֹת",
+        "main_definition": "Antiques are old items that have value due to their age, rarity, condition, utility, or craftsmanship.",
+        "main_definition_hebrew": "עתיקות הן פריטים ישנים שיש להם ערך בשל גילם, נדירותם, מצבם, השימוש בהם או אומנותם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Items of historical interest",
+                "definition_hebrew": "פריטים בעלי עניין היסטורי",
+                "example": "The antique desk in the museum is from the early 19th century.",
+                "example_hebrew": "השולחן העתיק במוזיאון הוא מתחילת המאה ה-19."
+            },
+            {
+                "definition": "Collectible objects that are valued for their age and rarity",
+                "definition_hebrew": "חפצי אספנות המוערכים בשל גילם ונדירותם",
+                "example": "She inherited a collection of antiques, including vintage china and silverware.",
+                "example_hebrew": "היא ירשה אוסף של עתיקות, כולל כלי חרסינה וינטג' וכלי כסף."
+            },
+            {
+                "definition": "Old items that may have sentimental value to the owner",
+                "definition_hebrew": "פריטים ישנים שאולי יש להם ערך סנטימנטלי לבעלים",
+                "example": "The family heirloom clock has been passed down for generations.",
+                "example_hebrew": "שעון הירושה המשפחתי הועבר לדורות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "den",
+        "word_hebrew": "גוֹב",
+        "main_definition": "A small house or shelter, often used to refer to the home of an animal, or in some cases, a person's living space.",
+        "main_definition_hebrew": "בית קטן או מקלט, המשמשים לעתים קרובות להתייחסות לבית של בעל חיים, או במקרים מסוימים, למרחב המחיה של אדם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Animal habitat or dwelling place",
+                "definition_hebrew": "בית גידול לבעלי חיים או מקום מגורים",
+                "example": "The bear built its den for hibernation.",
+                "example_hebrew": "הדוב בנה את המאורה שלו לתרדמת חורף."
+            },
+            {
+                "definition": "A hidden or secluded place where someone lives, especially a small and humble home",
+                "definition_hebrew": "מקום נסתר או מבודד בו גר מישהו, במיוחד בית קטן וצנוע",
+                "example": "After losing his job, he moved into an old man's den to save money on rent.",
+                "example_hebrew": "לאחר שאיבד את עבודתו, הוא עבר לגור במאורה של זקן כדי לחסוך כסף בשכר דירה."
+            },
+            {
+                "definition": "The inside of a cave, often used metaphorically or in folklore",
+                "definition_hebrew": "החלק הפנימי של מערה, משמש לעתים קרובות באופן מטפורי או בפולקלור",
+                "example": "She ventured deep into the ancient den where the treasure was said to be hidden.",
+                "example_hebrew": "היא העזה עמוק לתוך המאורה העתיקה שבה אמרו שהאוצר חבוי."
+            },
+            {
+                "definition": "A place set aside for animals to live or breed, such as a birdhouse",
+                "definition_hebrew": "מקום שהוקצה לבעלי חיים לחיות או להתרבות, כגון בית ציפורים",
+                "example": "The backyard had several wooden dens built specifically for various birds to nest in.",
+                "example_hebrew": "בחצר האחורית היו כמה מאורות עץ שנבנו במיוחד עבור ציפורים שונות לקנן בהן."
+            },
+            {
+                "definition": "An informal term referring to an isolated living space, often lacking modern amenities",
+                "definition_hebrew": "מונח לא רשמי המתייחס למרחב מגורים מבודד, לעתים קרובות חסר מתקני נוחות מודרניים",
+                "example": "He spent his childhood days playing in the den of a local family who allowed him to stay there when they traveled for work.",
+                "example_hebrew": "את ימי ילדותו הוא בילה במאורה של משפחה מקומית שאפשרה לו להישאר שם כשנסעו לעבודה."
+            }
+        ]
+    }
+]

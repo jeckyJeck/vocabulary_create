@@ -1,0 +1,40 @@
+[
+    {
+        "word": "third",
+        "word_hebrew": "שְׁלִישִׁי",
+        "main_definition": "The ordinal position in a sequence or the fraction representing one part of three equal parts.",
+        "main_definition_hebrew": "המיקום הסידורי ברצף או השבר המייצג חלק אחד משלושה חלקים שווים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Ordinal number indicating third place, after second and before fourth.",
+                "definition_hebrew": "מספר סידורי המציין את המקום השלישי, אחרי השני ולפני הרביעי.",
+                "example": "In the race, Sarah finished in third place.",
+                "example_hebrew": "במרוץ סיימה שרה במקום השלישי."
+            },
+            {
+                "definition": "A fraction representing one part of three equal parts when dividing something into three equal portions.",
+                "definition_hebrew": "שבר המייצג חלק אחד מתוך שלושה חלקים שווים כאשר מחלקים משהו לשלושה חלקים שווים.",
+                "example": "If you split a pizza among three friends, each person gets a third of the pizza.",
+                "example_hebrew": "אם אתה מחלק פיצה בין שלושה חברים, כל אחד מקבל שליש מהפיצה."
+            },
+            {
+                "definition": "The ordinal number used in time to indicate the third hour past an agreed reference point (e.g., midnight).",
+                "definition_hebrew": "המספר הסידורי המשמש בזמן לציון השעה השלישית לאחר נקודת התייחסות מוסכמת (למשל, חצות).",
+                "example": "It is now 3 o'clock, which means it is the third hour after midnight.",
+                "example_hebrew": "עכשיו השעה 3, מה שאומר שזו השעה השלישית אחרי חצות."
+            },
+            {
+                "definition": "A term used in music theory for a specific type of interval or chord structure.",
+                "definition_hebrew": "מונח המשמש בתורת המוזיקה לסוג מסוים של מרווח או מבנה אקורד.",
+                "example": "The minor third consists of three semitones (half steps) between two notes.",
+                "example_hebrew": "השליש המינורי מורכב משלושה חצאי טונים (חצי צעדים) בין שני צלילים."
+            },
+            {
+                "definition": "Describing something as the least preferred or unattractive option among a set of choices.",
+                "definition_hebrew": "תיאור משהו כאפשרות הכי פחות מועדפת או לא אטרקטיבית מבין קבוצת אפשרויות.",
+                "example": "This brand is often considered to be the third choice due to its lower quality and higher price point.",
+                "example_hebrew": "מותג זה נחשב לרוב לבחירה השלישית בשל האיכות הנמוכה יותר ונקודת המחיר הגבוהה יותר."
+            }
+        ]
+    }
+]

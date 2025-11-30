@@ -1,0 +1,40 @@
+[
+    {
+        "word": "prototype",
+        "word_hebrew": "אב טיפוס",
+        "main_definition": "A preliminary model of something, especially a product or design used to test its conceptual feasibility.",
+        "main_definition_hebrew": "מודל ראשוני של משהו, במיוחד מוצר או עיצוב המשמש לבדיקת היתכנות רעיונית שלו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Early sample or model built to test a concept or process",
+                "definition_hebrew": "מדגם מוקדם או מודל שנבנה כדי לבדוק מושג או תהליך",
+                "example": "The company created a prototype for their new smartwatch before starting mass production.",
+                "example_hebrew": "החברה יצרה אב טיפוס לשעון החכם החדש שלהם לפני תחילת הייצור ההמוני."
+            },
+            {
+                "definition": "Initial version of something that may be changed or improved upon in later versions",
+                "definition_hebrew": "גרסה ראשונית של משהו שעשוי להשתנות או לשפר בגרסאות מאוחרות יותר",
+                "example": "The first video game console released by the manufacturer had many updates, with each subsequent model serving as a prototype for improvements and new features.",
+                "example_hebrew": "לקונסולת משחקי הווידאו הראשונה שהוציאה היצרנית היו עדכונים רבים, כאשר כל דגם עוקב שימש אב טיפוס לשיפורים ותכונות חדשות."
+            },
+            {
+                "definition": "A preliminary test to evaluate how well something works before finalizing it",
+                "definition_hebrew": "מבחן ראשוני כדי להעריך עד כמה משהו עובד לפני שמסיימים אותו",
+                "example": "Engineers tested several prototypes of an aircraft engine design in different conditions to ensure its reliability and performance.",
+                "example_hebrew": "מהנדסים בדקו מספר אבות טיפוס של עיצוב מנוע מטוס בתנאים שונים כדי להבטיח את אמינותו וביצועיו."
+            },
+            {
+                "definition": "An initial version used for demonstration or presenting a concept to potential investors or stakeholders",
+                "definition_hebrew": "גרסה ראשונית המשמשת להדגמה או הצגת קונספט למשקיעים או לבעלי עניין פוטנציאליים",
+                "example": "The entrepreneur presented a high-fidelity prototype of their mobile app during the pitch meeting with venture capitalists.",
+                "example_hebrew": "היזם הציג אב טיפוס בנאמנות גבוהה של האפליקציה לנייד שלהם במהלך מפגש הפיץ' עם משקיעי הון סיכון."
+            },
+            {
+                "definition": "A model representing an initial idea or design that may be altered based on feedback and testing",
+                "definition_hebrew": "מודל המייצג רעיון או עיצוב ראשוני שעשוי להשתנות על סמך משוב ובדיקה",
+                "example": "Art students often create sculptures as prototypes to experiment with materials and techniques before finalizing their designs.",
+                "example_hebrew": "סטודנטים לאמנות יוצרים לעתים קרובות פסלים כאב-טיפוס כדי להתנסות בחומרים ובטכניקות לפני שמסיימים את העיצובים שלהם."
+            }
+        ]
+    }
+]

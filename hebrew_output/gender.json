@@ -1,0 +1,34 @@
+[
+    {
+        "word": "gender",
+        "word_hebrew": "מִין",
+        "main_definition": "Gender refers to the range of characteristics pertaining to, and differentiating between, masculinity and femininity in humans, animals, and entities. It can be social or biological.",
+        "main_definition_hebrew": "מגדר מתייחס למגוון המאפיינים הנוגעים ומבדל בין גבריות לנשיות בבני אדם, בבעלי חיים ובישויות. זה יכול להיות חברתי או ביולוגי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Social gender",
+                "definition_hebrew": "מגדר חברתי",
+                "example": "In many societies, individuals are assigned a gender based on their birth sex, such as male or female.",
+                "example_hebrew": "בחברות רבות, יחידים מקבלים מגדר המבוסס על מין הלידה שלהם, כגון זכר או נקבה."
+            },
+            {
+                "definition": "Biological gender",
+                "definition_hebrew": "מגדר ביולוגי",
+                "example": "Male and Female animals have distinct biological genders determined by reproductive organs.",
+                "example_hebrew": "לזכרים ולנקבות יש מגדר ביולוגי ברור שנקבע על ידי איברי רבייה."
+            },
+            {
+                "definition": "Gender identity",
+                "definition_hebrew": "זהות מגדרית",
+                "example": "Someone who was assigned female at birth but identifies as male has a male gender identity.",
+                "example_hebrew": "מישהי שהוקצתה לנקבה בלידה אך מזדהה כזכר היא בעלת זהות מגדרית גברית."
+            },
+            {
+                "definition": "Gender roles and expectations",
+                "definition_hebrew": "תפקידי מגדר וציפיות",
+                "example": "Traditionally, men were expected to be strong, assertive, and the primary breadwinners while women were expected to take care of household chores and children.",
+                "example_hebrew": "באופן מסורתי, ציפו מגברים להיות חזקים, אסרטיביים והמפרנסים העיקריים, בעוד שנשים היו אמורות לטפל במטלות הבית והילדים."
+            }
+        ]
+    }
+]

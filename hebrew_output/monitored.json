@@ -1,0 +1,34 @@
+[
+    {
+        "word": "monitored",
+        "word_hebrew": "מנוטר",
+        "main_definition": "Observed or watched over, typically in a controlled manner to ensure compliance or record data.",
+        "main_definition_hebrew": "נצפה או נשמר, בדרך כלל בצורה מבוקרת כדי להבטיח תאימות או להקליט נתונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Regularly observed or checked for progress or performance",
+                "definition_hebrew": "נצפה או נבדק באופן קבוע לגבי התקדמות או ביצועים",
+                "example": "The patient's vital signs were monitored throughout the night.",
+                "example_hebrew": "הסימנים החיוניים של המטופל נוטרו לאורך כל הלילה."
+            },
+            {
+                "definition": "Subject to surveillance, especially in a workplace environment",
+                "definition_hebrew": "כפוף למעקב, במיוחד בסביבת מקום עבודה",
+                "example": "Employees' online activities are closely monitored for security purposes.",
+                "example_hebrew": "הפעילות המקוונת של העובדים מנוטרת מקרוב לצורכי אבטחה."
+            },
+            {
+                "definition": "Reviewed or examined systematically over time for changes or trends",
+                "definition_hebrew": "נבדק או נבדק באופן שיטתי לאורך זמן לאיתור שינויים או מגמות",
+                "example": "The company monitors its sales data to identify seasonal patterns and growth opportunities.",
+                "example_hebrew": "החברה עוקבת אחר נתוני המכירות שלה כדי לזהות דפוסים עונתיים והזדמנויות צמיחה."
+            },
+            {
+                "definition": "Under the supervision of a monitor, such as in an educational setting",
+                "definition_hebrew": "בהשגחת מוניטור כמו למשל במסגרת חינוכית",
+                "example": "Students who require additional support are placed under close monitoring by special education teachers.",
+                "example_hebrew": "תלמידים הזקוקים לתמיכה נוספת נמצאים במעקב צמוד של מורים לחינוך מיוחד."
+            }
+        ]
+    }
+]

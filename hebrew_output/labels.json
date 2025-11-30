@@ -1,0 +1,40 @@
+[
+    {
+        "word": "labels",
+        "word_hebrew": "תוויות",
+        "main_definition": "Labels are words or phrases that denote categories, classifications, or descriptions of people, things, or ideas.",
+        "main_definition_hebrew": "תוויות הן מילים או ביטויים המציינים קטגוריות, סיווגים או תיאורים של אנשים, דברים או רעיונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Descriptive words used to categorize a person based on their traits or characteristics",
+                "definition_hebrew": "מילים תיאוריות המשמשות לסווג אדם על סמך תכונותיו או תכונותיו",
+                "example": "He was labeled as lazy by his peers because he often took long breaks.",
+                "example_hebrew": "הוא תויג כעצלן על ידי בני גילו מכיוון שלעתים קרובות לקח הפסקות ארוכות."
+            },
+            {
+                "definition": "Words used to indicate the quality, features, or attributes of an object",
+                "definition_hebrew": "מילים המשמשות לציון האיכות, התכונות או התכונות של אובייקט",
+                "example": "The box has labels indicating its weight and dimensions.",
+                "example_hebrew": "לקופסה יש תוויות המעידות על משקלה ומידותיה."
+            },
+            {
+                "definition": "Marks or symbols placed on products for identification, pricing, or information",
+                "definition_hebrew": "סימנים או סמלים המוצבים על מוצרים לצורך זיהוי, תמחור או מידע",
+                "example": "The cereal boxes have barcodes and nutrition facts as labels.",
+                "example_hebrew": "לקופסאות הדגנים יש ברקודים ועובדות תזונה כתוויות."
+            },
+            {
+                "definition": "Assignments of titles or stereotypes based on societal norms or expectations",
+                "definition_hebrew": "הקצאות של כותרות או סטריאוטיפים המבוססים על נורמות או ציפיות חברתיות",
+                "example": "She was often labeled a 'nerd' because she loved science and technology.",
+                "example_hebrew": "לעתים קרובות היא זכתה לתווית 'חנונית' כי היא אהבה מדע וטכנולוגיה."
+            },
+            {
+                "definition": "A system or method for organizing items, such as in libraries or databases",
+                "definition_hebrew": "מערכת או שיטה לארגון פריטים, כגון בספריות או מסדי נתונים",
+                "example": "The library uses the Dewey Decimal System to label and categorize books.",
+                "example_hebrew": "הספרייה משתמשת ב-Dewey Decimal System כדי לתייג ולסווג ספרים."
+            }
+        ]
+    }
+]

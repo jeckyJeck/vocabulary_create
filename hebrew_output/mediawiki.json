@@ -1,0 +1,28 @@
+[
+    {
+        "word": "mediawiki",
+        "word_hebrew": "mediawiki",
+        "main_definition": "MediaWiki is an open-source wiki software, a type of website that allows collaborative editing by multiple users.",
+        "main_definition_hebrew": "MediaWiki היא תוכנת ויקי בקוד פתוח, סוג של אתר המאפשר עריכה משותפת על ידי מספר משתמשים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The name of the free and open-source wiki software",
+                "definition_hebrew": "שם תוכנת הוויקי החינמית וקוד פתוח",
+                "example": "The Wikipedia online encyclopedia uses MediaWiki for its content management.",
+                "example_hebrew": "האנציקלופדיה המקוונת של ויקיפדיה משתמשת ב-MediaWiki לניהול התוכן שלה."
+            },
+            {
+                "definition": "An instance or site powered by MediaWiki",
+                "definition_hebrew": "מופע או אתר המופעל על ידי MediaWiki",
+                "example": "MediaWiki is used to operate various community-driven websites, such as the English version of Wikipedia and Wikihow.",
+                "example_hebrew": "MediaWiki משמשת להפעלת אתרים שונים המונעים על ידי קהילה, כמו הגרסה האנגלית של ויקיפדיה וויקיהאו."
+            },
+            {
+                "definition": "The software package that supports wiki functionality",
+                "definition_hebrew": "חבילת התוכנה התומכת בפונקציונליות של ויקי",
+                "example": "When setting up a new online collaborative platform, administrators may choose MediaWiki to facilitate its development.",
+                "example_hebrew": "בעת הקמת פלטפורמת שיתופיות מקוונת חדשה, מנהלי מערכת עשויים לבחור ב-MediaWiki כדי להקל על פיתוחה."
+            }
+        ]
+    }
+]

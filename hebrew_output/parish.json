@@ -1,0 +1,34 @@
+[
+    {
+        "word": "parish",
+        "word_hebrew": "קהילה",
+        "main_definition": "A parish is a local administrative district typically associated with a church or religious community, but can also refer to the area served by a particular priest or clergy member.",
+        "main_definition_hebrew": "קהילה היא מחוז מינהלי מקומי המשויך בדרך כלל לכנסייה או לקהילה דתית, אך יכול להתייחס גם לאזור המשרת כומר או חבר כומר מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Religious Community",
+                "definition_hebrew": "קהילה דתית",
+                "example": "In the Catholic Church, each parish is led by a priest who oversees religious activities and services within that community.",
+                "example_hebrew": "בכנסייה הקתולית, כל קהילה מנוהלת על ידי כומר המפקח על פעילויות ושירותים דתיים בתוך אותה קהילה."
+            },
+            {
+                "definition": "Local Administrative District",
+                "definition_hebrew": "מחוז מינהלי מקומי",
+                "example": "The town council of Greenfield consists of elected officials responsible for managing local affairs in their respective parishes.",
+                "example_hebrew": "מועצת העיר גרינפילד מורכבת מנבחרי ציבור האחראים על ניהול העניינים המקומיים בקהילות שלהם."
+            },
+            {
+                "definition": "Area served by a Priest or Clergy Member",
+                "definition_hebrew": "אזור המשרת כומר או חבר כומר",
+                "example": "Reverend Thomas is the pastor who serves two parishes, St. Mary's and St. Joseph's, providing spiritual guidance to their congregations.",
+                "example_hebrew": "הכומר תומס הוא הכומר המשרת שתי קהילות, סנט מרי וסנט ג'וזף, המספק הדרכה רוחנית לקהילותיהן."
+            },
+            {
+                "definition": "Geographical Region in England",
+                "definition_hebrew": "אזור גיאוגרפי באנגליה",
+                "example": "In rural areas of England, a parish can refer to an ecclesiastical jurisdiction overseen by a rector or vicar.",
+                "example_hebrew": "באזורים כפריים של אנגליה, קהילה יכולה להתייחס לתחום שיפוט כנסייתי המפוקח על ידי רקטור או כומר."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "diff",
+        "word_hebrew": "הבדל",
+        "main_definition": "To compare two versions of files or data, often through a visual representation that highlights differences.",
+        "main_definition_hebrew": "להשוות בין שתי גרסאות של קבצים או נתונים, לעתים קרובות באמצעות ייצוג חזותי שמדגיש הבדלים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A tool for comparing changes between different versions of files (usually source code).",
+                "definition_hebrew": "כלי להשוואת שינויים בין גרסאות שונות של קבצים (בדרך כלל קוד מקור).",
+                "example": "When developers make updates to their project's codebase, they often use a 'diff' command-line tool to see the exact changes made.",
+                "example_hebrew": "כאשר מפתחים מבצעים עדכונים לבסיס הקוד של הפרויקט שלהם, הם משתמשים לעתים קרובות בכלי שורת פקודה 'שונה' כדי לראות את השינויים המדויקים שבוצעו."
+            },
+            {
+                "definition": "A difference or discrepancy between two things.",
+                "definition_hebrew": "הבדל או אי התאמה בין שני דברים.",
+                "example": "After reviewing both versions of the report, I found a few minor 'differences' in formatting and content.",
+                "example_hebrew": "לאחר שעיינתי בשתי הגרסאות של הדוח, מצאתי כמה 'הבדלים' קלים בעיצוב ובתוכן."
+            },
+            {
+                "definition": "To make something different or to alter it from its original state.",
+                "definition_hebrew": "לעשות משהו שונה או לשנות אותו ממצבו המקורי.",
+                "example": "'She didn't like her dress, so she decided to 'diff' it with new accessories and a jacket for the party.",
+                "example_hebrew": "\"היא לא אהבה את השמלה שלה, אז היא החליטה 'לחלוק' אותה עם אביזרים חדשים וז'קט למסיבה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "dsc",
+        "word_hebrew": "dsc",
+        "main_definition": "The term 'DSC' is not a standard idiom or phrase with multiple meanings in English. However, it can be an abbreviation that stands for different terms depending on the context.",
+        "main_definition_hebrew": "המונח 'DSC' אינו ניב או ביטוי סטנדרטיים עם משמעויות מרובות באנגלית. עם זאת, זה יכול להיות קיצור המייצג מונחים שונים בהתאם להקשר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Digital Still Camera",
+                "definition_hebrew": "מצלמת סטילס דיגיטלית",
+                "example": "I purchased a DSC to capture high-quality images of my travels.",
+                "example_hebrew": "רכשתי DSC כדי לצלם תמונות באיכות גבוהה של הנסיעות שלי."
+            },
+            {
+                "definition": "Data Stream Cipher",
+                "definition_hebrew": "צופן זרם נתונים",
+                "example": "The security team used a DSC algorithm for encrypting sensitive information during transmission.",
+                "example_hebrew": "צוות האבטחה השתמש באלגוריתם DSC להצפנת מידע רגיש במהלך השידור."
+            },
+            {
+                "definition": "Digital Signature Code",
+                "definition_hebrew": "קוד חתימה דיגיטלית",
+                "example": "I added my digital signature (DSC) to the contract document before sending it electronically.",
+                "example_hebrew": "הוספתי את החתימה הדיגיטלית שלי (DSC) למסמך החוזה לפני שליחתו באופן אלקטרוני."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "itunes",
+        "word_hebrew": "iTunes",
+        "main_definition": "iTunes is an American media company that develops, sells, and manages digital multimedia software products primarily designed to store, organize, and play music, videos, and other content on personal computers.",
+        "main_definition_hebrew": "iTunes היא חברת מדיה אמריקאית המפתחת, מוכרת ומנהלת מוצרי תוכנות מולטימדיה דיגיטליות המיועדות בעיקר לאחסון, ארגון והשמעת מוזיקה, סרטונים ותוכן אחר במחשבים אישיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Music and video download service",
+                "definition_hebrew": "שירות הורדת מוזיקה ווידאו",
+                "example": "I just downloaded the latest album from iTunes.",
+                "example_hebrew": "הורדתי את האלבום האחרון מ-iTunes."
+            },
+            {
+                "definition": "Media player software for Mac and Windows",
+                "definition_hebrew": "תוכנת נגן מדיה עבור Mac ו-Windows",
+                "example": "iTunes is used to play music, videos, and podcasts on my computer.",
+                "example_hebrew": "iTunes משמש להשמעת מוזיקה, סרטונים ופודקאסטים במחשב שלי."
+            },
+            {
+                "definition": "Account created by Apple Inc. for managing purchased media content",
+                "definition_hebrew": "חשבון שנוצר על ידי Apple Inc. לניהול תוכן מדיה שנרכש",
+                "example": "I have an iTunes account where I store all of my downloaded songs and movies.",
+                "example_hebrew": "יש לי חשבון iTunes שבו אני מאחסן את כל השירים והסרטים שהורדתי."
+            },
+            {
+                "definition": "Library of digital music, videos, books, and more",
+                "definition_hebrew": "ספריית מוזיקה דיגיטלית, סרטונים, ספרים ועוד",
+                "example": "My iTunes library contains thousands of songs and hundreds of movies.",
+                "example_hebrew": "ספריית ה-iTunes שלי מכילה אלפי שירים ומאות סרטים."
+            }
+        ]
+    }
+]

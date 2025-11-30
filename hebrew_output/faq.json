@@ -1,0 +1,34 @@
+[
+    {
+        "word": "faq",
+        "word_hebrew": "שאלות נפוצות",
+        "main_definition": "Frequently Asked Questions, a section where common queries are answered in various fields like customer support or informational websites.",
+        "main_definition_hebrew": "שאלות נפוצות, קטע שבו מענה לשאלות נפוצות בתחומים שונים כמו תמיכת לקוחות או אתרי מידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "A resource on the internet containing answers to commonly asked questions about a particular subject.",
+                "definition_hebrew": "משאב באינטרנט המכיל תשובות לשאלות נפוצות בנושא מסוים.",
+                "example": "The FAQ page on the airline's website provides information about baggage policies and ticket changes.",
+                "example_hebrew": "עמוד השאלות הנפוצות באתר האינטרנט של חברת התעופה מספק מידע על מדיניות כבודה ושינויי כרטיסים."
+            },
+            {
+                "definition": "An abbreviation for 'Frequently Asked Questions', referring to a list of commonly asked questions related to a specific topic or field.",
+                "definition_hebrew": "קיצור של 'שאלות נפוצות', המתייחס לרשימה של שאלות נפוצות הקשורות לנושא או תחום ספציפי.",
+                "example": "The electronics FAQ section on the manufacturer's website answers queries about product features and installation.",
+                "example_hebrew": "מדור השאלות הנפוצות בתחום האלקטרוניקה באתר היצרן עונה על שאלות לגבי תכונות המוצר וההתקנה."
+            },
+            {
+                "definition": "A section in printed materials, such as books or manuals, where frequently asked questions are addressed to assist readers with common issues.",
+                "definition_hebrew": "קטע בחומרים מודפסים, כגון ספרים או מדריכים, שבו פונים לשאלות נפוצות כדי לסייע לקוראים בבעיות נפוצות.",
+                "example": "The user guide for a software application includes an FAQ section that answers typical problems users may encounter while using the product.",
+                "example_hebrew": "המדריך למשתמש עבור יישום תוכנה כולל סעיף שאלות נפוצות המענה על בעיות טיפוסיות שמשתמשים עלולים להיתקל בהם בעת השימוש במוצר."
+            },
+            {
+                "definition": "A tool used in customer service and support settings, providing quick and standardized responses to frequently asked questions from customers.",
+                "definition_hebrew": "כלי המשמש בהגדרות שירות לקוחות ותמיכה, המספק תשובות מהירות וסטנדרטיות לשאלות נפוצות של לקוחות.",
+                "example": "The call center uses a pre-written FAQ script when answering common questions about their products' return policies.",
+                "example_hebrew": "המרכז הטלפוני משתמש בסקריפט שאלות נפוצות כתוב מראש כאשר הוא עונה על שאלות נפוצות לגבי מדיניות ההחזרה של המוצרים שלהם."
+            }
+        ]
+    }
+]

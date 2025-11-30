@@ -1,0 +1,40 @@
+[
+    {
+        "word": "broker",
+        "word_hebrew": "סַרְסוּר",
+        "main_definition": "A broker is a person or firm that acts as an intermediary between buyers and sellers, typically in the context of financial markets, real estate, insurance, or other businesses.",
+        "main_definition_hebrew": "ברוקר הוא אדם או חברה הפועלים כמתווך בין קונים למוכרים, בדרך כלל בהקשר של שווקים פיננסיים, נדל\"ן, ביטוח או עסקים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In finance, a broker is an individual or firm that buys and sells securities on behalf of clients. They do not own the assets themselves but earn commissions for facilitating transactions.",
+                "definition_hebrew": "בפיננסים, ברוקר הוא אדם או חברה שקונה ומוכר ניירות ערך בשם לקוחות. הם אינם הבעלים של הנכסים עצמם, אך מרוויחים עמלות עבור סיוע בעסקאות.",
+                "example": "John Doe was hired as a stockbroker to manage his client's portfolio by buying and selling shares in various companies.",
+                "example_hebrew": "ג'ון דו נשכר כסוכן מניות כדי לנהל את תיק הלקוח שלו על ידי קנייה ומכירה של מניות בחברות שונות."
+            },
+            {
+                "definition": "In real estate, a broker is a licensed professional who represents buyers or sellers of property. They help clients negotiate sales contracts and facilitate the transaction process.",
+                "definition_hebrew": "בתחום הנדל\"ן, מתווך הוא איש מקצוע מורשה המייצג קונים או מוכרים של נכסים. הם עוזרים ללקוחות לנהל משא ומתן על חוזי מכירה ומקלים על תהליך העסקה.",
+                "example": "Sarah Smith works as a real estate broker, helping people find their dream homes to purchase.",
+                "example_hebrew": "שרה סמית עובדת כמתווכת נדל\"ן ועוזרת לאנשים למצוא את בתי החלומות שלהם לרכישה."
+            },
+            {
+                "definition": "In insurance, an insurance broker is a professional who advises clients on different insurance products and services. They work for the client rather than any specific insurer.",
+                "definition_hebrew": "בביטוח, מתווך ביטוח הוא איש מקצוע המייעץ ללקוחות לגבי מוצרי ושירותי ביטוח שונים. הם עובדים עבור הלקוח ולא עבור כל מבטח ספציפי.",
+                "example": "David Brown assisted his client in selecting various insurance policies to protect their assets and family.",
+                "example_hebrew": "דיוויד בראון סייע ללקוח שלו בבחירת פוליסות ביטוח שונות כדי להגן על נכסיו ומשפחתו."
+            },
+            {
+                "definition": "In business negotiations, a broker can refer to an intermediary who facilitates discussions between parties looking for partnership or collaboration.",
+                "definition_hebrew": "במשא ומתן עסקי, מתווך יכול להתייחס למתווך שמאפשר דיונים בין צדדים המחפשים שותפות או שיתוף פעולה.",
+                "example": "The tech startup sought the help of a business broker to find potential investors and strategic partners.",
+                "example_hebrew": "הסטארט-אפ הטכנולוגי ביקש את עזרתו של מתווך עסקי כדי למצוא משקיעים פוטנציאליים ושותפים אסטרטגיים."
+            },
+            {
+                "definition": "In sports betting, a bookmaker's broker is someone who places bets on behalf of clients. The role differs from that of an insurance broker as the primary objective is to place wagers rather than provide advice.",
+                "definition_hebrew": "בהימורים בספורט, ברוקר של סופרי הימורים הוא מישהו שמבצע הימורים בשם לקוחות. התפקיד שונה מזה של מתווך ביטוח שכן המטרה העיקרית היא להמר במקום לספק ייעוץ.",
+                "example": "Mike Johnson works as a bookie's broker, placing bets for his customers on football games.",
+                "example_hebrew": "מייק ג'ונסון עובד כמתווך של סוכנויות הימורים, מהמר עבור לקוחותיו על משחקי כדורגל."
+            }
+        ]
+    }
+]

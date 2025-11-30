@@ -1,0 +1,46 @@
+[
+    {
+        "word": "native",
+        "word_hebrew": "יָלִיד",
+        "main_definition": "Native refers to something originating in a particular place or belonging naturally to it, often used as an adjective or part of idioms.",
+        "main_definition_hebrew": "יליד מתייחס למשהו שמקורו במקום מסוים או שייך לו באופן טבעי, המשמש לעתים קרובות כשם תואר או חלק מניבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Belonging to the country where one was born and usually where they live",
+                "definition_hebrew": "שייך למדינה שבה נולד ובדרך כלל היכן שהוא חי",
+                "example": "She is proud of her native American roots.",
+                "example_hebrew": "היא גאה בשורשים האינדיאנים שלה."
+            },
+            {
+                "definition": "Inherent or natural characteristic or quality",
+                "definition_hebrew": "מאפיין או איכות אינהרנטית או טבעית",
+                "example": "The company's success has its native strength in innovation and customer service.",
+                "example_hebrew": "להצלחת החברה יש את החוזק המקורי שלה בחדשנות ובשירות לקוחות."
+            },
+            {
+                "definition": "A person who is born in a particular place, as opposed to an immigrant",
+                "definition_hebrew": "אדם שנולד במקום מסוים, בניגוד לעולה",
+                "example": "He was curious about the customs of his native country after living abroad for many years.",
+                "example_hebrew": "הוא היה סקרן לגבי מנהגי ארץ הולדתו לאחר שחי שנים רבות בחו\"ל."
+            },
+            {
+                "definition": "Native plant or animal species that naturally occurs in a certain area without human introduction",
+                "definition_hebrew": "מיני צמחים או בעלי חיים מקומיים המופיעים באופן טבעי באזור מסוים ללא הכנסת אדם",
+                "example": "The national park is home to many native bird species.",
+                "example_hebrew": "הפארק הלאומי הוא ביתם של מינים רבים של ציפורים מקומיות."
+            },
+            {
+                "definition": "Original language of a text, document, or speech",
+                "definition_hebrew": "שפת מקור של טקסט, מסמך או נאום",
+                "example": "Her grandfather wrote the novel in his native French before translating it into English.",
+                "example_hebrew": "סבה כתב את הרומן בשפת האם שלו בצרפתית לפני שתרגם אותו לאנגלית."
+            },
+            {
+                "definition": "A term used to describe software that operates on hardware without modification",
+                "definition_hebrew": "מונח המשמש לתיאור תוכנה הפועלת על חומרה ללא שינוי",
+                "example": "Native applications are designed specifically for a particular platform and can directly utilize system resources.",
+                "example_hebrew": "יישומים מקוריים מתוכננים במיוחד עבור פלטפורמה מסוימת ויכולים להשתמש ישירות במשאבי המערכת."
+            }
+        ]
+    }
+]

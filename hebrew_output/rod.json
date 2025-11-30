@@ -1,0 +1,40 @@
+[
+    {
+        "word": "rod",
+        "word_hebrew": "מוֹט",
+        "main_definition": "A long, slender, cylindrical object used for various purposes such as construction, sports equipment or idiomatic expressions.",
+        "main_definition_hebrew": "חפץ ארוך, דק וגליל המשמש למטרות שונות כגון בנייה, ציוד ספורט או ביטויים אידיומטיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Construction tool made of metal",
+                "definition_hebrew": "כלי בנייה עשוי מתכת",
+                "example": "The carpenter used a steel rod to reinforce the joints.",
+                "example_hebrew": "הנגר השתמש במוט פלדה לחיזוק המפרקים."
+            },
+            {
+                "definition": "A long, straight bar in sports equipment",
+                "definition_hebrew": "מוט ארוך וישר בציוד ספורט",
+                "example": "The pitcher held the baseball bat tightly as he swung with all his might.",
+                "example_hebrew": "המגיש החזיק בחוזקה את מחבט הבייסבול כשהניף בכל כוחו."
+            },
+            {
+                "definition": "An idiomatic expression used to describe a person's character or behavior",
+                "definition_hebrew": "ביטוי אידיומטי המשמש לתיאור אופיו או התנהגותו של אדם",
+                "example": "She has been called a rod for her own back due to always taking responsibility for others' problems.",
+                "example_hebrew": "היא כונתה מוט לגב שלה בשל לקיחת אחריות תמידית על בעיות של אחרים."
+            },
+            {
+                "definition": "A slender pole, often found in nature as the central support of plants like bamboo or reeds",
+                "definition_hebrew": "מוט דק, שנמצא לרוב בטבע כתמיכה המרכזית של צמחים כמו במבוק או קנים",
+                "example": "The tall grass swayed gently in the wind, its flexible rod-like stems moving gracefully.",
+                "example_hebrew": "העשב הגבוה התנדנד בעדינות ברוח, גבעוליו דמויי המוט הגמישים נעים בחן."
+            },
+            {
+                "definition": "A long cylindrical object used for measuring distance, typically by sighting along it",
+                "definition_hebrew": "חפץ גלילי ארוך המשמש למדידת מרחק, בדרך כלל על ידי ראייה לאורכו",
+                "example": "He used a measuring rod to determine the length of the field accurately.",
+                "example_hebrew": "הוא השתמש במוט מדידה כדי לקבוע את אורך השדה במדויק."
+            }
+        ]
+    }
+]

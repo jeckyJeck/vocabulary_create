@@ -1,0 +1,28 @@
+[
+    {
+        "word": "genome",
+        "word_hebrew": "גנום",
+        "main_definition": "The complete set of genetic information in an organism's DNA, including all its genes.",
+        "main_definition_hebrew": "הסט השלם של מידע גנטי ב-DNA של אורגניזם, כולל כל הגנים שלו.",
+        "meanings_and_examples": [
+            {
+                "definition": "In human biology, the full complement of genes present within a cell of an individual.",
+                "definition_hebrew": "בביולוגיה האנושית, השלמה המלאה של הגנים המצויים בתוך תא של אדם.",
+                "example": "The human genome consists of approximately 20,000-25,000 genes.",
+                "example_hebrew": "הגנום האנושי מורכב מכ-20,000-25,000 גנים."
+            },
+            {
+                "definition": "A term used in comparative genomics to describe the entirety of an organism's DNA sequences that are capable of being expressed into proteins.",
+                "definition_hebrew": "מונח המשמש בגנומיקה השוואתית כדי לתאר את מכלול רצפי ה-DNA של אורגניזם המסוגלים לבוא לידי ביטוי בחלבונים.",
+                "example": "The yeast Saccharomyces cerevisiae has a genome consisting mostly of protein-coding regions.",
+                "example_hebrew": "לשמרים Saccharomyces cerevisiae יש גנום המורכב ברובו מאזורים מקודדי חלבון."
+            },
+            {
+                "definition": "A metaphorical term used to describe the totality of data or information that defines an entity's nature.",
+                "definition_hebrew": "מונח מטפורי המשמש לתיאור מכלול הנתונים או המידע המגדירים את טבעה של ישות.",
+                "example": "The company's 'genome' includes its products, services, and customer relationships.",
+                "example_hebrew": "ה'גנום' של החברה כולל את המוצרים, השירותים ויחסי הלקוחות שלה."
+            }
+        ]
+    }
+]

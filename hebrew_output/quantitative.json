@@ -1,0 +1,34 @@
+[
+    {
+        "word": "quantitative",
+        "word_hebrew": "כמותי",
+        "main_definition": "Refers to the measurement or expression of quantities, often used in the context of data that can be measured numerically.",
+        "main_definition_hebrew": "הכוונה למדידה או ביטוי של כמויות, המשמשות לעתים קרובות בהקשר של נתונים שניתן למדוד באופן מספרי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Related to numerical measurements and calculations.",
+                "definition_hebrew": "קשור למדידות וחישובים מספריים.",
+                "example": "The research study utilized quantitative analysis to determine statistical significance.",
+                "example_hebrew": "מחקר המחקר השתמש בניתוח כמותי כדי לקבוע מובהקות סטטיסטית."
+            },
+            {
+                "definition": "Concerning the quantity or magnitude of something, rather than its qualities or characteristics.",
+                "definition_hebrew": "לגבי הכמות או הגודל של משהו, ולא לאיכויותיו או מאפייניו.",
+                "example": "In marketing, understanding customer behavior often requires both qualitative and quantitative approaches.",
+                "example_hebrew": "בשיווק, הבנת התנהגות הלקוחות דורשת לעתים קרובות גישות איכותיות וכמותיות."
+            },
+            {
+                "definition": "Pertaining to data that can be counted or expressed in numerical terms.",
+                "definition_hebrew": "הנוגע לנתונים שניתן לספור או לבטא במונחים מספריים.",
+                "example": "The scientist collected quantitative evidence through laboratory experiments.",
+                "example_hebrew": "המדען אסף ראיות כמותיות באמצעות ניסויי מעבדה."
+            },
+            {
+                "definition": "Involving the use of numbers and statistical analysis to draw conclusions about a topic.",
+                "definition_hebrew": "כולל שימוש במספרים וניתוח סטטיסטי להסקת מסקנות לגבי נושא.",
+                "example": "Quantitative research methods involve gathering large amounts of numerical data for analysis.",
+                "example_hebrew": "שיטות מחקר כמותיות כוללות איסוף כמויות גדולות של נתונים מספריים לניתוח."
+            }
+        ]
+    }
+]

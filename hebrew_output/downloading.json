@@ -1,0 +1,34 @@
+[
+    {
+        "word": "downloading",
+        "word_hebrew": "מוריד",
+        "main_definition": "The process of transferring data or software from a remote computer, server, or storage device to a local computer or device.",
+        "main_definition_hebrew": "תהליך העברת נתונים או תוכנה ממחשב, שרת או התקן אחסון מרוחק למחשב או מכשיר מקומי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Acquiring digital content such as music, videos, books, etc., from the internet onto your personal device",
+                "definition_hebrew": "רכישת תוכן דיגיטלי כגון מוזיקה, סרטונים, ספרים וכו' מהאינטרנט אל המכשיר האישי שלך",
+                "example": "I was downloading my favorite album by Taylor Swift on my phone.",
+                "example_hebrew": "הורדתי את האלבום האהוב עליי מאת טיילור סוויפט לטלפון שלי."
+            },
+            {
+                "definition": "Transferring software or applications from a remote server to your computer for use",
+                "definition_hebrew": "העברת תוכנות או יישומים משרת מרוחק למחשב שלך לשימוש",
+                "example": "The IT department helped us download the latest version of our office suite onto all company laptops.",
+                "example_hebrew": "מחלקת ה-IT עזרה לנו להוריד את הגרסה העדכנית ביותר של חבילת המשרד שלנו לכל המחשבים הניידים של החברה."
+            },
+            {
+                "definition": "Retrieving files that were previously stored in cloud storage services like Google Drive, Dropbox, etc.",
+                "definition_hebrew": "אחזור קבצים שנשמרו בעבר בשירותי אחסון בענן כמו Google Drive, Dropbox וכו'.",
+                "example": "I needed to download a presentation I had saved on my Google Drive before the meeting started.",
+                "example_hebrew": "הייתי צריך להוריד מצגת ששמרתי ב-Google Drive לפני שהפגישה התחילה."
+            },
+            {
+                "definition": "Downloading content from peer-to-peer networks",
+                "definition_hebrew": "הורדת תוכן מרשתות עמית לעמית",
+                "example": "Illegal downloading of copyrighted music files is against federal law, but many still engage in it.",
+                "example_hebrew": "הורדה בלתי חוקית של קבצי מוזיקה המוגנים בזכויות יוצרים היא בניגוד לחוק הפדרלי, אך רבים עדיין עוסקים בכך."
+            }
+        ]
+    }
+]

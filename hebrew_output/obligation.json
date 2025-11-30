@@ -1,0 +1,34 @@
+[
+    {
+        "word": "obligation",
+        "word_hebrew": "חוֹבָה",
+        "main_definition": "An obligation refers to a duty or commitment that one is morally, legally, or socially bound to fulfill.",
+        "main_definition_hebrew": "התחייבות מתייחסת לחובה או מחויבות שאדם מחויב מוסרית, משפטית או חברתית למלא.",
+        "meanings_and_examples": [
+            {
+                "definition": "A legal obligation arising from law",
+                "definition_hebrew": "חובה משפטית הנובעת מהחוק",
+                "example": "John was under the obligation to pay taxes on his income as per the government regulations.",
+                "example_hebrew": "ג'ון היה מחויב לשלם מסים על הכנסתו בהתאם לתקנות הממשלה."
+            },
+            {
+                "definition": "An ethical or moral duty",
+                "definition_hebrew": "חובה אתית או מוסרית",
+                "example": "Helping an elderly person cross the street is considered a moral obligation for many people.",
+                "example_hebrew": "עזרה לקשיש לחצות את הרחוב נחשבת לחובה מוסרית עבור אנשים רבים."
+            },
+            {
+                "definition": "A social or familial responsibility",
+                "definition_hebrew": "אחריות חברתית או משפחתית",
+                "example": "As a daughter, Jane feels obliged to take care of her aging parents.",
+                "example_hebrew": "כבת, ג'יין מרגישה מחויבת לדאוג להוריה המזדקנים."
+            },
+            {
+                "definition": "An agreement between parties that creates an obligation to do something",
+                "definition_hebrew": "הסכם בין צדדים היוצר חובה לעשות משהו",
+                "example": "The contractual obligation requires the company to deliver products by the agreed-upon date.",
+                "example_hebrew": "ההתחייבות החוזית מחייבת את החברה לספק מוצרים עד למועד המוסכם."
+            }
+        ]
+    }
+]

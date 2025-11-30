@@ -1,0 +1,28 @@
+[
+    {
+        "word": "metal",
+        "word_hebrew": "מַתֶכֶת",
+        "main_definition": "Metal is a solid material characterized by its strength, malleability, ductility, and conductivity of electricity and heat.",
+        "main_definition_hebrew": "מתכת היא חומר מוצק המאופיין בחוזקה, בגמישותו, בגמישותו ובמוליכותו של חשמל וחום.",
+        "meanings_and_examples": [
+            {
+                "definition": "A substance with high electrical and thermal conductivity",
+                "definition_hebrew": "חומר בעל מוליכות חשמלית ותרמית גבוהה",
+                "example": "Copper is a metal known for its excellent conductivity.",
+                "example_hebrew": "נחושת היא מתכת הידועה במוליכות המעולה שלה."
+            },
+            {
+                "definition": "Materials that are typically hard, shiny, malleable, fusible, and ductile metals include gold, silver, iron, aluminum, and platinum",
+                "definition_hebrew": "חומרים שהם בדרך כלל קשים, מבריקים, ניתנים לגייסה, מתכתים ומתכתים, כוללים זהב, כסף, ברזל, אלומיניום ופלטינה",
+                "example": "Gold is a precious metal often used in jewelry.",
+                "example_hebrew": "זהב הוא מתכת יקרה המשמשת לעתים קרובות בתכשיטים."
+            },
+            {
+                "definition": "A figurative expression referring to strength, resilience, or toughness",
+                "definition_hebrew": "ביטוי פיגורטיבי המתייחס לחוזק, חוסן או קשיחות",
+                "example": "He has got steel in his spine when facing challenges.",
+                "example_hebrew": "יש לו פלדה בעמוד השדרה כשהוא מתמודד עם אתגרים."
+            }
+        ]
+    }
+]

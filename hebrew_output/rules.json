@@ -1,0 +1,40 @@
+[
+    {
+        "word": "rules",
+        "word_hebrew": "כללים",
+        "main_definition": "Rules are established guidelines or principles that govern behavior, actions, and processes in various contexts.",
+        "main_definition_hebrew": "כללים הם קווים מנחים או עקרונות קבועים השולטים בהתנהגות, פעולות ותהליכים בהקשרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Guidelines for proper conduct or behavior",
+                "definition_hebrew": "הנחיות להתנהלות או התנהגות נכונה",
+                "example": "In a classroom, the rules dictate that students should raise their hands before speaking.",
+                "example_hebrew": "בכיתה, הכללים מכתיבים שתלמידים צריכים להרים ידיים לפני שהם מדברים."
+            },
+            {
+                "definition": "Authority's established regulations in games or sports",
+                "definition_hebrew": "תקנות קבועות של הרשות במשחקים או בספורט",
+                "example": "The rules of chess determine how each piece can move and interact on the board.",
+                "example_hebrew": "חוקי השחמט קובעים כיצד כל כלי יכול לנוע ולקיים אינטראקציה על הלוח."
+            },
+            {
+                "definition": "Standards for correct or acceptable procedure in a particular field",
+                "definition_hebrew": "תקנים להליך נכון או מקובל בתחום מסוים",
+                "example": "In programming, following coding standards is crucial to maintain code readability and efficiency.",
+                "example_hebrew": "בתכנות, הקפדה על תקני קידוד היא חיונית כדי לשמור על קריאות ויעילות הקוד."
+            },
+            {
+                "definition": "Principles governing the structure of an organization",
+                "definition_hebrew": "עקרונות השולטים במבנה הארגון",
+                "example": "A company's rules may include dress codes for employees in a professional setting.",
+                "example_hebrew": "חוקי חברה עשויים לכלול קודי לבוש לעובדים במסגרת מקצועית."
+            },
+            {
+                "definition": "Mathematical or logical constraints on variables and expressions",
+                "definition_hebrew": "אילוצים מתמטיים או לוגיים על משתנים וביטויים",
+                "example": "In algebra, the rule states that you cannot divide by zero; it is undefined.",
+                "example_hebrew": "באלגברה, הכלל קובע שאי אפשר לחלק באפס; זה לא מוגדר."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "warehouse",
+        "word_hebrew": "מַחסָן",
+        "main_definition": "A large building where goods are stored, especially before they are distributed to retailers or customers.",
+        "main_definition_hebrew": "בניין גדול שבו מאוחסנים סחורות, במיוחד לפני שהם מחולקים לקמעונאים או ללקוחות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A place for storing products and materials waiting for further processing or distribution.",
+                "definition_hebrew": "מקום לאחסון מוצרים וחומרים הממתינים להמשך עיבוד או הפצה.",
+                "example": "The electronics company kept its inventory in a massive warehouse.",
+                "example_hebrew": "חברת האלקטרוניקה שמרה את המלאי שלה במחסן ענק."
+            },
+            {
+                "definition": "An area where goods are held temporarily before they reach the market.",
+                "definition_hebrew": "אזור שבו סחורות מוחזקות באופן זמני לפני שהן מגיעות לשוק.",
+                "example": "The local grocery store receives shipments of produce from various suppliers at their warehouse.",
+                "example_hebrew": "המכולת המקומית מקבלת במחסן משלוחי תוצרת מספקים שונים."
+            },
+            {
+                "definition": "A facility used for storing and handling materials or products, often as part of a manufacturing process.",
+                "definition_hebrew": "מתקן המשמש לאחסון וטיפול בחומרים או מוצרים, לרוב כחלק מתהליך ייצור.",
+                "example": "The car parts factory has an on-site warehouse to store the components before they are assembled into finished vehicles.",
+                "example_hebrew": "למפעל חלפי רכב יש מחסן במקום לאחסון הרכיבים לפני הרכבתם לרכבים מוגמרים."
+            },
+            {
+                "definition": "An establishment that offers storage services for other businesses or individuals, typically charging fees based on square footage.",
+                "definition_hebrew": "מוסד המציע שירותי אחסון לעסקים או ליחידים אחרים, בדרך כלל גובה עמלות על סמך מדה רבועים.",
+                "example": "The small business outsourced its warehousing needs to a local facility due to limited space.",
+                "example_hebrew": "העסק הקטן העביר את צרכי האחסנה שלו למיקור חוץ למתקן מקומי בגלל שטח מוגבל."
+            },
+            {
+                "definition": "A place where items are stored for the purpose of sale or distribution, often managed by third-party logistics providers.",
+                "definition_hebrew": "מקום שבו מאוחסנים פריטים למטרת מכירה או הפצה, המנוהלים לרוב על ידי ספקי לוגיסטיקה של צד שלישי.",
+                "example": "The retail company outsourced its warehousing and distribution operations to a professional logistics provider.",
+                "example_hebrew": "החברה הקמעונאית העבירה את פעולות האחסנה וההפצה שלה לספק לוגיסטי מקצועי."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "description",
+        "word_hebrew": "תיאור",
+        "main_definition": "A description is a spoken or written account of someone or something, including all the relevant features and characteristics.",
+        "main_definition_hebrew": "תיאור הוא תיאור מדובר או כתוב של מישהו או משהו, כולל כל התכונות והמאפיינים הרלוונטיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An explanation that provides details about an object's appearance, function, qualities, etc.",
+                "definition_hebrew": "הסבר המספק פרטים על מראהו של חפץ, תפקודו, תכונותיו וכו'.",
+                "example": "The description of the painting included its color palette, brush strokes, and subject matter.",
+                "example_hebrew": "תיאור הציור כלל את לוח הצבעים שלו, משיכות המכחול והנושא."
+            },
+            {
+                "definition": "A written or spoken account that gives information about something to help others understand it better.",
+                "definition_hebrew": "חשבון כתוב או מדובר המספק מידע על משהו כדי לעזור לאחרים להבין אותו טוב יותר.",
+                "example": "He gave a detailed description of his new car's features at the dealership.",
+                "example_hebrew": "הוא נתן תיאור מפורט של תכונות המכונית החדשה שלו בסוכנות."
+            },
+            {
+                "definition": "The act of describing someone or something in detail, often used as an adjective.",
+                "definition_hebrew": "הפעולה של תיאור מישהו או משהו בפירוט, משמשת לעתים קרובות כשם תואר.",
+                "example": "Her vivid description of the sunset left everyone in awe.",
+                "example_hebrew": "התיאור החי שלה של השקיעה הותיר את כולם ביראה."
+            },
+            {
+                "definition": "A brief statement that highlights key points about a person, thing, event, etc., using specific details.",
+                "definition_hebrew": "אמירה קצרה המדגישה נקודות מפתח לגבי אדם, דבר, אירוע וכו', תוך שימוש בפרטים ספציפיים.",
+                "example": "The job listing included a concise description outlining responsibilities and qualifications.",
+                "example_hebrew": "רישום המשרה כלל תיאור תמציתי המתאר את האחריות והכישורים."
+            }
+        ]
+    }
+]

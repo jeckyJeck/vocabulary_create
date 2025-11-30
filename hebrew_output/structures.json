@@ -1,0 +1,40 @@
+[
+    {
+        "word": "structures",
+        "word_hebrew": "מבנים",
+        "main_definition": "Structures refers to physical or conceptual arrangements of interconnected parts, elements, or components that form a unified whole.",
+        "main_definition_hebrew": "מבנים מתייחסים לסידורים פיזיים או מושגיים של חלקים, אלמנטים או רכיבים המחוברים ביניהם היוצרים שלם מאוחד.",
+        "meanings_and_examples": [
+            {
+                "definition": "In architecture and engineering, structures are the arrangement of building materials used to create physical spaces. These can range from small objects like furniture to large buildings and complex systems.",
+                "definition_hebrew": "באדריכלות ובהנדסה, מבנים הם סידור חומרי בניין המשמשים ליצירת חללים פיזיים. אלה יכולים לנוע מחפצים קטנים כמו רהיטים ועד מבנים גדולים ומערכות מורכבות.",
+                "example": "The Eiffel Tower is a famous iron lattice structure designed by Gustave Eiffel.",
+                "example_hebrew": "מגדל אייפל הוא מבנה סריג ברזל מפורסם שתוכנן על ידי גוסטב אייפל."
+            },
+            {
+                "definition": "In linguistics, structures refer to the arrangement of words in sentences that convey meaning. They encompass syntax, grammar, and word order.",
+                "definition_hebrew": "בבלשנות, מבנים מתייחסים לסידור מילים במשפטים המעבירים משמעות. הם כוללים תחביר, דקדוק וסדר מילים.",
+                "example": "The phrase 'Colorless green ideas sleep furiously' is an example of a sentence with unusual but grammatically correct structure.",
+                "example_hebrew": "הביטוי 'רעיונות ירוקים חסרי צבע ישנים בזעם' הוא דוגמה למשפט בעל מבנה חריג אך נכון מבחינה דקדוקית."
+            },
+            {
+                "definition": "In biology, structures can refer to the organization of living organisms, including their organs and tissues.",
+                "definition_hebrew": "בביולוגיה, מבנים יכולים להתייחס לארגון של אורגניזמים חיים, כולל האיברים והרקמות שלהם.",
+                "example": "The human skeletal system provides structural support for the body, protects vital organs, and facilitates movement.",
+                "example_hebrew": "מערכת השלד האנושית מספקת תמיכה מבנית לגוף, מגנה על איברים חיוניים ומקלה על התנועה."
+            },
+            {
+                "definition": "In mathematics and computer science, structures are systems of organized entities that interact according to certain rules or principles.",
+                "definition_hebrew": "במתמטיקה ובמדעי המחשב, מבנים הם מערכות של ישויות מאורגנות המקיימות אינטראקציה על פי כללים או עקרונות מסוימים.",
+                "example": "A graph in mathematics is a structure consisting of vertices (or nodes) connected by edges.",
+                "example_hebrew": "גרף במתמטיקה הוא מבנה המורכב מקודקודים (או צמתים) המחוברים בקצוות."
+            },
+            {
+                "definition": "Social structures refer to the complex pattern of social relationships and institutions that shape society, including class systems, family units, and power hierarchies.",
+                "definition_hebrew": "מבנים חברתיים מתייחסים לדפוס המורכב של יחסים ומוסדות חברתיים המעצבים את החברה, לרבות מערכות מעמדיות, יחידות משפחתיות והיררכיות כוח.",
+                "example": "The caste system in India is an example of a rigid social structure with long-lasting effects on individual opportunities and interactions.",
+                "example_hebrew": "מערכת הקסטות בהודו היא דוגמה למבנה חברתי נוקשה עם השפעות ארוכות טווח על הזדמנויות ואינטראקציות אינדיבידואליות."
+            }
+        ]
+    }
+]

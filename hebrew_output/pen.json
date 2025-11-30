@@ -1,0 +1,34 @@
+[
+    {
+        "word": "pen",
+        "word_hebrew": "עֵט",
+        "main_definition": "A pen is a writing instrument used to apply ink to a surface, usually paper, for the purpose of writing or drawing.",
+        "main_definition_hebrew": "עט הוא כלי כתיבה המשמש להנחת דיו על משטח, בדרך כלל נייר, לצורך כתיבה או ציור.",
+        "meanings_and_examples": [
+            {
+                "definition": "Tool for writing",
+                "definition_hebrew": "כלי לכתיבה",
+                "example": "I need to buy a new pen because my old one ran out of ink.",
+                "example_hebrew": "אני צריך לקנות עט חדש כי הישן שלי נגמר הדיו."
+            },
+            {
+                "definition": "A long, narrow piece of land extending into a lake or the sea",
+                "definition_hebrew": "פיסת אדמה צרה וארוכה הנמשכת לתוך אגם או ים",
+                "example": "The boat docked at the edge of the pen near the island.",
+                "example_hebrew": "הסירה עגנה בקצה הדיר ליד האי."
+            },
+            {
+                "definition": "Penalty for breaking rules or laws",
+                "definition_hebrew": "עונש על הפרת כללים או חוקים",
+                "example": "After cheating on the exam, he received a one-week penalty in the form of detention.",
+                "example_hebrew": "לאחר שבגד בבחינה, הוא קיבל עונש של שבוע בצורת מעצר."
+            },
+            {
+                "definition": "A device used to confine animals such as pigs or chickens",
+                "definition_hebrew": "מכשיר המשמש לריתוק בעלי חיים כמו חזירים או תרנגולות",
+                "example": "The farmer built pens for his cattle and hens so they could be kept safely.",
+                "example_hebrew": "האיכר בנה מכלאות לבהמות ולתרנגולות שלו כדי שיוכלו להישמר בבטחה."
+            }
+        ]
+    }
+]

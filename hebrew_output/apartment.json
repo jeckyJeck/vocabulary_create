@@ -1,0 +1,34 @@
+[
+    {
+        "word": "apartment",
+        "word_hebrew": "דִירָה",
+        "main_definition": "An apartment is an individual living space within a building, typically rented or leased by tenants.",
+        "main_definition_hebrew": "דירה היא שטח מגורים בודד בתוך בניין, בדרך כלל מושכרת או מושכרת על ידי דיירים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A self-contained residential unit in a multi-unit building",
+                "definition_hebrew": "יחידת דיור עצמאית בבניין רב יחידות",
+                "example": "She lives alone in a luxurious studio apartment on the 20th floor.",
+                "example_hebrew": "היא גרה לבדה בדירת סטודיו מפוארת בקומה ה-20."
+            },
+            {
+                "definition": "Renting or leasing an individual living space within a larger structure",
+                "definition_hebrew": "השכרה או השכרה של שטח מגורים בודד בתוך מבנה גדול יותר",
+                "example": "He is looking for an affordable one-bedroom apartment to rent near his workplace.",
+                "example_hebrew": "הוא מחפש דירת חדר שינה אחד במחיר משתלם להשכרה בקרבת מקום עבודתו."
+            },
+            {
+                "definition": "A dwelling that consists of multiple apartments within the same building, often sharing common areas",
+                "definition_hebrew": "דירת מגורים המורכבת ממספר דירות בתוך אותו בניין, לרוב חולקת שטחים משותפים",
+                "example": "The old courthouse now houses several small apartments for employees and visitors.",
+                "example_hebrew": "בית המשפט הישן מכיל כיום כמה דירות קטנות לעובדים ולמבקרים."
+            },
+            {
+                "definition": "An urban residence typically characterized by its high-rise living situation",
+                "definition_hebrew": "בית מגורים עירוני המאופיין בדרך כלל במצב המגורים הגבוה שלו",
+                "example": "In the city center, you can find many people living in tall apartment buildings.",
+                "example_hebrew": "במרכז העיר ניתן למצוא אנשים רבים המתגוררים בבנייני דירות גבוהים."
+            }
+        ]
+    }
+]

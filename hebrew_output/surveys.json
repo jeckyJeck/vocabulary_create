@@ -1,0 +1,34 @@
+[
+    {
+        "word": "surveys",
+        "word_hebrew": "סקרים",
+        "main_definition": "Surveys refer to systematic collections of information, usually through questionnaires or interviews, used in various fields such as research, social studies, statistics, and marketing.",
+        "main_definition_hebrew": "סקרים מתייחסים לאיסוף מידע שיטתי, בדרך כלל באמצעות שאלונים או ראיונות, המשמשים בתחומים שונים כגון מחקר, מחקרים חברתיים, סטטיסטיקה ושיווק.",
+        "meanings_and_examples": [
+            {
+                "definition": "A method for gathering data about a population by asking questions",
+                "definition_hebrew": "שיטה לאיסוף נתונים על אוכלוסייה על ידי שאילת שאלות",
+                "example": "The annual consumer satisfaction survey conducted by the company to understand their customer's opinions.",
+                "example_hebrew": "סקר שביעות רצון הצרכנים השנתי שערכה החברה כדי להבין את חוות הדעת של הלקוחות שלהם."
+            },
+            {
+                "definition": "An extensive examination or inquiry into something, often done by experts in a particular field",
+                "definition_hebrew": "בדיקה מקיפה או חקירה של משהו, לרוב על ידי מומחים בתחום מסוים",
+                "example": "A comprehensive health survey was carried out on a sample of citizens to assess the overall wellberaning and lifestyle patterns.",
+                "example_hebrew": "סקר בריאות מקיף בוצע על מדגם של אזרחים כדי להעריך את דפוסי הרווחה ואורח החיים הכוללים."
+            },
+            {
+                "definition": "A statistical analysis based on data collected from samples, used to infer insights about a larger population",
+                "definition_hebrew": "ניתוח סטטיסטי המבוסס על נתונים שנאספו ממדגמים, המשמש להסקת תובנות לגבי אוכלוסייה גדולה יותר",
+                "example": "Polling agencies use surveys to estimate election results before the actual voting takes place by collecting data from representative groups of voters.",
+                "example_hebrew": "סוכנויות הסקרים משתמשות בסקרים כדי להעריך את תוצאות הבחירות לפני ההצבעה בפועל על ידי איסוף נתונים מקבוצות מייצגות של בוחרים."
+            },
+            {
+                "definition": "A method for gathering opinions and feedback on products, services or experiences",
+                "definition_hebrew": "שיטה לאיסוף דעות ומשוב על מוצרים, שירותים או חוויות",
+                "example": "The hotel chain conducted a customer survey asking guests about their stay to improve service quality.",
+                "example_hebrew": "רשת המלונות ערכה סקר לקוחות בו נשאל האורחים על שהותם כדי לשפר את איכות השירות."
+            }
+        ]
+    }
+]

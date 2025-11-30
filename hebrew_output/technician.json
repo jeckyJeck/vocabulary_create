@@ -1,0 +1,34 @@
+[
+    {
+        "word": "technician",
+        "word_hebrew": "טכנאי",
+        "main_definition": "A technician is a skilled worker who specializes in the maintenance, installation, or repair of equipment, systems, or components.",
+        "main_definition_hebrew": "טכנאי הוא עובד מיומן המתמחה בתחזוקה, התקנה או תיקון של ציוד, מערכות או רכיבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual who maintains and repairs electrical systems",
+                "definition_hebrew": "אדם מטפל ותיקון מערכות חשמל",
+                "example": "The electrician technician fixed the faulty wiring in the building.",
+                "example_hebrew": "טכנאי החשמלאי תיקן את החיווט התקול בבניין."
+            },
+            {
+                "definition": "A person responsible for installing, testing, and calibrating equipment or instruments",
+                "definition_hebrew": "אדם האחראי על התקנה, בדיקה וכיול של ציוד או מכשירים",
+                "example": "The laboratory technician installed the new microscope and ensured it was working properly.",
+                "example_hebrew": "טכנאי המעבדה התקין את המיקרוסקופ החדש ודאג שהוא תקין."
+            },
+            {
+                "definition": "An expert in a specific field of technology who provides technical advice or services",
+                "definition_hebrew": "מומחה בתחום ספציפי של טכנולוגיה המספק ייעוץ או שירותים טכניים",
+                "example": "The IT technician helped resolve the computer issues for the office staff.",
+                "example_hebrew": "טכנאי ה-IT עזר לפתור את בעיות המחשב עבור צוות המשרד."
+            },
+            {
+                "definition": "A professional skilled at troubleshooting and repairing mechanical systems, such as vehicles",
+                "definition_hebrew": "בעל מקצוע מיומן בפתרון תקלות ותיקון מערכות מכניות, כגון רכבים",
+                "example": "The automotive technician diagnosed and repaired the engine problem in the customer's car.",
+                "example_hebrew": "טכנאי הרכב איבחן ותיקן את בעיית המנוע ברכב הלקוח."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "investigate",
+        "word_hebrew": "לַחקוֹר",
+        "main_definition": "To systematically examine or analyze something in detail to discover facts, gather information, or solve a problem.",
+        "main_definition_hebrew": "לבחון או לנתח באופן שיטתי משהו בפירוט כדי לגלות עובדות, לאסוף מידע או לפתור בעיה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To look into an issue or event for the purpose of understanding it better or uncovering more details",
+                "definition_hebrew": "לבחון נושא או אירוע במטרה להבין אותם טוב יותר או לחשוף פרטים נוספים",
+                "example": "The police were called in to investigate the mysterious disappearance of the valuable artifact.",
+                "example_hebrew": "המשטרה הוזעקה לחקור את היעלמותו המסתורית של החפץ היקר."
+            },
+            {
+                "definition": "To conduct a thorough inquiry, often by using scientific methods to gather evidence and information",
+                "definition_hebrew": "לערוך חקירה יסודית, לרוב באמצעות שיטות מדעיות לאיסוף ראיות ומידע",
+                "example": "Scientists are investigating the cause of climate change by examining temperature records from various sources.",
+                "example_hebrew": "מדענים חוקרים את הסיבה לשינויי האקלים על ידי בחינת שיאי טמפרטורה ממקורות שונים."
+            },
+            {
+                "definition": "To examine closely in order to determine or ascertain something; study thoroughly",
+                "definition_hebrew": "לבחון מקרוב כדי לקבוע או לברר משהו; ללמוד ביסודיות",
+                "example": "The journalist decided to investigate the company's financial statements for any irregularities before publishing their article.",
+                "example_hebrew": "העיתונאי החליט לחקור את הדוחות הכספיים של החברה לאיתור אי-סדרים לפני פרסום כתבתו."
+            },
+            {
+                "definition": "To scrutinize, check and verify information meticulously",
+                "definition_hebrew": "כדי לבחון, לבדוק ולאמת מידע בקפדנות",
+                "example": "Our IT department will investigate the source of a security breach by examining network logs and system access records.",
+                "example_hebrew": "מחלקת ה-IT שלנו תחקור את המקור לפרצת אבטחה על ידי בחינת יומני רשת ורשומות גישה למערכת."
+            },
+            {
+                "definition": "To examine carefully in order to understand or explain something; probe into",
+                "definition_hebrew": "לבחון היטב כדי להבין או להסביר משהו; לחקור לתוך",
+                "example": "The detective decided to investigate further into the suspect's alibi during the time of the crime.",
+                "example_hebrew": "הבלש החליט לחקור עוד את האליבי של החשוד בזמן הפשע."
+            }
+        ]
+    }
+]

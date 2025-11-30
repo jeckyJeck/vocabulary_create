@@ -1,0 +1,40 @@
+[
+    {
+        "word": "ordered",
+        "word_hebrew": "הורה",
+        "main_definition": "To request or command something to be made, supplied, or delivered in a specified manner.",
+        "main_definition_hebrew": "לבקש או לצוות להכין, לספק או למסור משהו בצורה מוגדרת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Acknowledged and accepted by the recipient as valid and binding.",
+                "definition_hebrew": "מאושר ומתקבל על ידי הנמען כתקף ומחייב.",
+                "example": "I ordered pizza for dinner.",
+                "example_hebrew": "הזמנתי פיצה לארוחת ערב."
+            },
+            {
+                "definition": "To arrange or design in a particular way according to someone's instructions or specifications.",
+                "definition_hebrew": "לארגן או לעצב בצורה מסוימת לפי הוראות או מפרטים של מישהו.",
+                "example": "The interior designer ordered new furniture that matched the room's color scheme.",
+                "example_hebrew": "מעצבת הפנים הזמינה רהיטים חדשים שתואמים לצבעוניות החדר."
+            },
+            {
+                "definition": "To instruct or command with authority for something to be done as specified.",
+                "definition_hebrew": "להורות או לפקד בסמכות על משהו שייעשה כמפורט.",
+                "example": "The manager ordered all staff members to complete their reports by noon.",
+                "example_hebrew": "המנהל הורה לכל אנשי הצוות להשלים את הדוחות שלהם עד הצהריים."
+            },
+            {
+                "definition": "To ask someone to make a payment in advance.",
+                "definition_hebrew": "לבקש ממישהו לבצע תשלום מראש.",
+                "example": "I ordered the meal but paid cash upon receiving it.",
+                "example_hebrew": "הזמנתי את הארוחה אבל שילמתי במזומן עם קבלתה."
+            },
+            {
+                "definition": "In mathematics, to arrange or sequence elements in an ascending or descending order based on their value or other attributes.",
+                "definition_hebrew": "במתמטיקה, לסדר או לרצף אלמנטים בסדר עולה או יורד על סמך ערכם או תכונות אחרות.",
+                "example": "The teacher asked students to order the numbers from smallest to largest.",
+                "example_hebrew": "המורה ביקשה מהתלמידים לסדר את המספרים מהקטן לגדול ביותר."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "gif",
+        "word_hebrew": "gif",
+        "main_definition": "A digital image format that supports animation and is commonly used in internet communication.",
+        "main_definition_hebrew": "פורמט תמונה דיגיטלי התומך באנימציה ונמצא בשימוש נפוץ בתקשורת באינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Graphics Interchange Format, a widely-used image file format for graphics on the web.",
+                "definition_hebrew": "Graphics Interchange Format, פורמט קבצי תמונה בשימוש נרחב עבור גרפיקה באינטרנט.",
+                "example": "I saved the funny cat video as a .gif file to share it online.",
+                "example_hebrew": "שמרתי את סרטון החתול המצחיק כקובץ gif כדי לשתף אותו באינטרנט."
+            },
+            {
+                "definition": "A compressed image that maintains transparency and allows for animation.",
+                "definition_hebrew": "תמונה דחוסה השומרת על שקיפות ומאפשרת אנימציה.",
+                "example": "The gif of the dancing baby became popular on social media platforms due to its humorous animation.",
+                "example_hebrew": "ה-GIF של התינוק הרוקד הפך פופולרי בפלטפורמות המדיה החברתית בגלל האנימציה ההומוריסטית שלו."
+            },
+            {
+                "definition": "A type of online communication or shared content format, often used in memes.",
+                "definition_hebrew": "סוג של תקשורת מקוונת או פורמט תוכן משותף, המשמש לעתים קרובות בממים.",
+                "example": "She posted a hilarious meme as an animated gif image on her Facebook profile.",
+                "example_hebrew": "היא פרסמה מם מצחיק כתמונת GIF מונפשת בפרופיל הפייסבוק שלה."
+            }
+        ]
+    }
+]

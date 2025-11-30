@@ -1,0 +1,34 @@
+[
+    {
+        "word": "solution",
+        "word_hebrew": "פִּתָרוֹן",
+        "main_definition": "A solution is a means of resolving or addressing a problem, difficulty, or challenge.",
+        "main_definition_hebrew": "פתרון הוא אמצעי לפתרון או טיפול בבעיה, קושי או אתגר.",
+        "meanings_and_examples": [
+            {
+                "definition": "The answer to a question or problem",
+                "definition_hebrew": "התשובה לשאלה או בעיה",
+                "example": "The mathematical equation was solved by finding the value of x.",
+                "example_hebrew": "המשוואה המתמטית נפתרה על ידי מציאת הערך של x."
+            },
+            {
+                "definition": "A liquid substance that is used for cleaning, dissolving another substance, or as an ingredient in various products",
+                "definition_hebrew": "חומר נוזלי המשמש לניקוי, המסת חומר אחר או כמרכיב במוצרים שונים",
+                "example": "She poured some bleach into the bucket to clean the white shirt stain.",
+                "example_hebrew": "היא שפכה מעט אקונומיקה לתוך הדלי כדי לנקות את כתם החולצה הלבנה."
+            },
+            {
+                "definition": "The process of making something better by improving it or fixing a problem",
+                "definition_hebrew": "התהליך של שיפור משהו על ידי שיפורו או תיקון בעיה",
+                "example": "We discussed several solutions for reducing traffic congestion in the city.",
+                "example_hebrew": "דנו בכמה פתרונות להפחתת עומסי התנועה בעיר."
+            },
+            {
+                "definition": "A remedy or treatment that relieves symptoms or cures an illness",
+                "definition_hebrew": "תרופה או טיפול המקל על תסמינים או מרפא מחלה",
+                "example": "The doctor prescribed a new medication as a solution to her chronic headaches.",
+                "example_hebrew": "הרופא רשם לה תרופה חדשה כפתרון לכאבי הראש הכרוניים שלה."
+            }
+        ]
+    }
+]

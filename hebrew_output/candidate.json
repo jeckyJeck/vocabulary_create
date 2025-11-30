@@ -1,0 +1,40 @@
+[
+    {
+        "word": "candidate",
+        "word_hebrew": "מוּעֲמָד",
+        "main_definition": "A person who applies for a job, position, or nomination.",
+        "main_definition_hebrew": "אדם שמגיש מועמדות למשרה, תפקיד או מועמדות.",
+        "meanings_and_examples": [
+            {
+                "definition": "One who is seeking election to public office",
+                "definition_hebrew": "מי שמחפש בחירה לתפקידים ציבוריים",
+                "example": "The three candidates running for mayor are John Doe, Jane Smith, and Alex Johnson.",
+                "example_hebrew": "שלושת המועמדים המתמודדים לראשות העיר הם ג'ון דו, ג'יין סמית' ואלכס ג'ונסון."
+            },
+            {
+                "definition": "A person applying for a job or position",
+                "definition_hebrew": "אדם המגיש מועמדות למשרה או תפקיד",
+                "example": "After years of experience in the industry, Mike is excited to submit his resume as a candidate for a senior management role.",
+                "example_hebrew": "לאחר שנים של ניסיון בתעשייה, מייק נרגש להגיש את קורות החיים שלו כמועמד לתפקיד ניהולי בכיר."
+            },
+            {
+                "definition": "An individual who has applied for admission to an educational institution",
+                "definition_hebrew": "אדם שהגיש בקשה להתקבל למוסד חינוכי",
+                "example": "Sarah submitted her application to be considered as a student candidate at Harvard University.",
+                "example_hebrew": "שרה הגישה את בקשתה להיחשב כמועמדת לסטודנטים באוניברסיטת הרווארד."
+            },
+            {
+                "definition": "A participant in an event or competition",
+                "definition_hebrew": "משתתף באירוע או בתחרות",
+                "example": "During the talent show, all contestants eagerly awaited their turn on stage. They were both nervous and excited to compete for the title of 'Best Candidate'.",
+                "example_hebrew": "במהלך מופע הכישרונות, כל המתמודדים חיכו בקוצר רוח לתורם על הבמה. שניהם היו עצבניים ונרגשים להתמודד על התואר 'המועמד הטוב ביותר'."
+            },
+            {
+                "definition": "A person who expresses his/her opinion or views openly",
+                "definition_hebrew": "אדם המביע את דעתו או השקפותיו בגלוי",
+                "example": "The journalist asked for candidacy from all parties involved, hoping to hear their unfiltered thoughts and perspectives.",
+                "example_hebrew": "העיתונאי ביקש מועמדות מכל הצדדים המעורבים, בתקווה לשמוע את מחשבותיהם ונקודות המבט הבלתי מסוננים שלהם."
+            }
+        ]
+    }
+]

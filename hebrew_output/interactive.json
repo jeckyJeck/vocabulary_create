@@ -1,0 +1,40 @@
+[
+    {
+        "word": "interactive",
+        "word_hebrew": "אינטראקטיבי",
+        "main_definition": "Involving active participation or engagement from all parties involved.",
+        "main_definition_hebrew": "כרוך בהשתתפות או מעורבות פעילה של כל הצדדים המעורבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to communication that involves both sending and receiving input",
+                "definition_hebrew": "מתייחס לתקשורת הכוללת גם שליחה וגם קבלה של קלט",
+                "example": "The interactive whiteboard allowed students and teachers to write, draw, and discuss together in real-time.",
+                "example_hebrew": "הלוח האינטראקטיבי אפשר לתלמידים ולמורים לכתוב, לצייר ולדון יחד בזמן אמת."
+            },
+            {
+                "definition": "A system or process where two or more parties can communicate with each other",
+                "definition_hebrew": "מערכת או תהליך שבו שני צדדים או יותר יכולים לתקשר זה עם זה",
+                "example": "Online gaming platforms are highly interactive as players from around the world can join games and chat with one another.",
+                "example_hebrew": "פלטפורמות המשחקים המקוונות הן מאוד אינטראקטיביות מכיוון ששחקנים מרחבי העולם יכולים להצטרף למשחקים ולשוחח זה עם זה."
+            },
+            {
+                "definition": "Involving actions that respond to user input or behavior in real-time",
+                "definition_hebrew": "כרוך בפעולות המגיבות לקלט או התנהגות של המשתמש בזמן אמת",
+                "example": "Interactive fiction stories change their plot based on the choices a reader makes within the story.",
+                "example_hebrew": "סיפורים בדיוניים אינטראקטיביים משנים את עלילתם על סמך הבחירות שעושה הקורא בתוך הסיפור."
+            },
+            {
+                "definition": "A system, software, or activity where users can provide feedback, modify content, or make decisions that affect outcomes",
+                "definition_hebrew": "מערכת, תוכנה או פעילות שבה משתמשים יכולים לספק משוב, לשנות תוכן או לקבל החלטות המשפיעות על התוצאות",
+                "example": "An interactive tutorial in an e-learning course allows students to practice skills and receive instant corrections from the program.",
+                "example_hebrew": "הדרכה אינטראקטיבית בקורס מתוקשב מאפשרת לסטודנטים לתרגל מיומנויות ולקבל תיקונים מיידיים מהתוכנית."
+            },
+            {
+                "definition": "A method of learning that involves a dialogue between instructor and student, where both contribute actively to the process",
+                "definition_hebrew": "שיטת למידה הכוללת דיאלוג בין מדריך לתלמיד, כאשר שניהם תורמים באופן אקטיבי לתהליך",
+                "example": "The interactive class discussion allowed each student to voice their thoughts on the topic being discussed.",
+                "example_hebrew": "הדיון האינטראקטיבי בכיתה אפשר לכל תלמיד להשמיע את מחשבותיו על הנושא הנדון."
+            }
+        ]
+    }
+]

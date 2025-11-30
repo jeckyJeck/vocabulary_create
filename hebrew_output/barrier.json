@@ -1,0 +1,34 @@
+[
+    {
+        "word": "barrier",
+        "word_hebrew": "מַחסוֹם",
+        "main_definition": "A barrier is an obstacle or impediment that prevents movement, access, or progress.",
+        "main_definition_hebrew": "מחסום הוא מכשול או מכשול המונע תנועה, גישה או התקדמות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A physical structure designed to block passage from one area to another",
+                "definition_hebrew": "מבנה פיזי שנועד לחסום מעבר מאזור אחד לאחר",
+                "example": "The concrete wall acted as a barrier between the two neighborhoods.",
+                "example_hebrew": "קיר הבטון שימש מחסום בין שתי השכונות."
+            },
+            {
+                "definition": "Anything that obstructs or hinders progress or communication",
+                "definition_hebrew": "כל דבר שמפריע או מעכב התקדמות או תקשורת",
+                "example": "Language differences can be a major barrier in international business negotiations.",
+                "example_hebrew": "הבדלי שפה יכולים להוות מחסום מרכזי במשא ומתן עסקי בינלאומי."
+            },
+            {
+                "definition": "A condition or situation that makes it difficult for people to achieve their goals or aspirations",
+                "definition_hebrew": "מצב או מצב המקשים על אנשים להשיג את מטרותיהם או שאיפותיהם",
+                "example": "The lack of access to education is a significant barrier to social and economic development.",
+                "example_hebrew": "היעדר גישה לחינוך מהווה חסם משמעותי להתפתחות חברתית וכלכלית."
+            },
+            {
+                "definition": "An emotional defense mechanism that prevents individuals from experiencing certain feelings",
+                "definition_hebrew": "מנגנון הגנה רגשי המונע מאנשים לחוות רגשות מסוימים",
+                "example": "His dismissive attitude towards her ideas was a barrier to resolving the conflict between them.",
+                "example_hebrew": "יחסו המזלזל כלפי רעיונותיה היווה מחסום לפתרון הסכסוך ביניהם."
+            }
+        ]
+    }
+]

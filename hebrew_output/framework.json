@@ -1,0 +1,34 @@
+[
+    {
+        "word": "framework",
+        "word_hebrew": "מִסגֶרֶת",
+        "main_definition": "A framework is a structure or system that provides guidelines, rules, or components to support the development of something, such as an idea, project, or product.",
+        "main_definition_hebrew": "מסגרת היא מבנה או מערכת המספקים קווים מנחים, כללים או רכיבים לתמיכה בפיתוח של משהו, כגון רעיון, פרויקט או מוצר.",
+        "meanings_and_examples": [
+            {
+                "definition": "In general context",
+                "definition_hebrew": "בהקשר כללי",
+                "example": "The new software framework was designed to simplify coding for developers.",
+                "example_hebrew": "מסגרת התוכנה החדשה תוכננה כדי לפשט את הקידוד עבור מפתחים."
+            },
+            {
+                "definition": "A set of standards and tools for building applications",
+                "definition_hebrew": "סט תקנים וכלים לבניית אפליקציות",
+                "example": "Java is a popular programming language that uses the Java framework to build robust web applications.",
+                "example_hebrew": "Java היא שפת תכנות פופולרית המשתמשת במסגרת Java לבניית יישומי אינטרנט חזקים."
+            },
+            {
+                "definition": "A theoretical structure within which something exists or can be studied",
+                "definition_hebrew": "מבנה תיאורטי שבתוכו משהו קיים או ניתן ללמוד אותו",
+                "example": "Sociologists use various frameworks, such as structural functionalism and conflict theory, to understand society.",
+                "example_hebrew": "סוציולוגים משתמשים במסגרות שונות, כמו פונקציונליזם מבני ותיאוריית קונפליקטים, כדי להבין את החברה."
+            },
+            {
+                "definition": "An abstract concept that provides a foundation for analysis or development",
+                "definition_hebrew": "מושג מופשט המספק בסיס לניתוח או פיתוח",
+                "example": "The scientific community uses the research framework of hypothesis testing to advance knowledge.",
+                "example_hebrew": "הקהילה המדעית משתמשת במסגרת המחקרית של בדיקת השערות כדי לקדם ידע."
+            }
+        ]
+    }
+]

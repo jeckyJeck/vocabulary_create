@@ -1,0 +1,28 @@
+[
+    {
+        "word": "screw",
+        "word_hebrew": "לִדפּוֹק",
+        "main_definition": "Screw is a word with multiple meanings, including a type of fastener or an idiom to express disapproval.",
+        "main_definition_hebrew": "בורג היא מילה בעלת משמעויות מרובות, כולל סוג של אטב או ניב להבעת אי הסכמה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A threaded cylindrical metal fastener",
+                "definition_hebrew": "אטב מתכת גלילי מושחל",
+                "example": "He used a screw to attach the picture frame to the wall.",
+                "example_hebrew": "הוא השתמש בבורג כדי לחבר את מסגרת התמונה לקיר."
+            },
+            {
+                "definition": "To tighten or loosen something using a screw mechanism",
+                "definition_hebrew": "כדי להדק או לשחרר משהו באמצעות מנגנון בורג",
+                "example": "She had to turn the screw clockwise to secure the lid on the jar.",
+                "example_hebrew": "היא נאלצה לסובב את הבורג בכיוון השעון כדי לאבטח את המכסה על הצנצנת."
+            },
+            {
+                "definition": "A slang term used as an idiomatic expression to express strong disapproval, disbelief or annoyance.",
+                "definition_hebrew": "מונח סלנג המשמש כביטוי אידיומטי כדי להביע אי הסכמה חזקה, חוסר אמון או רוגז.",
+                "example": "Are you seriously telling me that? You're screwing with me!",
+                "example_hebrew": "אתה ברצינות אומר לי את זה? אתה מתעסק איתי!"
+            }
+        ]
+    }
+]

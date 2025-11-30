@@ -1,0 +1,34 @@
+[
+    {
+        "word": "executed",
+        "word_hebrew": "יצא לפועל",
+        "main_definition": "To carry out or perform, especially a task or order; to put into effect.",
+        "main_definition_hebrew": "לבצע או לבצע, במיוחד משימה או הזמנה; להוציא לפועל.",
+        "meanings_and_examples": [
+            {
+                "definition": "To complete the execution of something, such as a plan, program, or command.",
+                "definition_hebrew": "להשלמת ביצוע של משהו, כגון תוכנית, תוכנית או פקודה.",
+                "example": "The team successfully executed their marketing campaign.",
+                "example_hebrew": "הצוות ביצע בהצלחה את הקמפיין השיווקי שלו."
+            },
+            {
+                "definition": "To carry out a death sentence legally through methods like lethal injection or shooting.",
+                "definition_hebrew": "לבצע גזר דין מוות באופן חוקי באמצעות שיטות כמו זריקה קטלנית או ירי.",
+                "example": "After being found guilty of murder, the convicted person was executed by the state.",
+                "example_hebrew": "לאחר שנמצא אשם ברצח, המורשע הוצא להורג על ידי המדינה."
+            },
+            {
+                "definition": "In computing, to run a command or program in order to achieve a specific outcome or process data.",
+                "definition_hebrew": "במחשוב, להפעיל פקודה או תוכנית על מנת להשיג תוצאה ספציפית או לעבד נתונים.",
+                "example": "The user executed a script that updated their system's security settings.",
+                "example_hebrew": "המשתמש ביצע סקריפט שעדכן את הגדרות האבטחה של המערכת שלו."
+            },
+            {
+                "definition": "To accomplish or fulfill something with precision and effectiveness.",
+                "definition_hebrew": "להשיג או להגשים משהו בדיוק וביעילות.",
+                "example": "She was able to execute the dance routine flawlessly during her performance.",
+                "example_hebrew": "היא הצליחה לבצע את שגרת הריקודים ללא רבב במהלך ההופעה שלה."
+            }
+        ]
+    }
+]

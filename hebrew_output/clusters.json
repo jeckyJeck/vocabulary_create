@@ -1,0 +1,40 @@
+[
+    {
+        "word": "clusters",
+        "word_hebrew": "אשכולות",
+        "main_definition": "Clusters refer to groups or concentrations of similar objects, ideas, or things that are closely associated with one another.",
+        "main_definition_hebrew": "אשכולות מתייחסים לקבוצות או ריכוזים של חפצים, רעיונות או דברים דומים הקשורים זה לזה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of data analysis and statistics, clusters represent a group of similar data points gathered together based on their characteristics. For example, in geographical clustering, cities might form clusters due to shared economic activities or demographics.",
+                "definition_hebrew": "בהקשר של ניתוח נתונים וסטטיסטיקה, אשכולות מייצגים קבוצה של נקודות נתונים דומות שנאספו יחד על סמך המאפיינים שלהן. לדוגמה, במקבץ גיאוגרפי, ערים עשויות ליצור אשכולות עקב פעילויות כלכליות משותפות או דמוגרפיה.",
+                "example": "The cluster of tech companies in Silicon Valley indicates a high concentration of businesses within the technology sector.",
+                "example_hebrew": "אשכול חברות הטכנולוגיה בעמק הסיליקון מצביע על ריכוז גבוה של עסקים במגזר הטכנולוגי."
+            },
+            {
+                "definition": "In botany and forestry, 'clusters' refer to groups of leaves that grow together on one stem. For instance, grapes form clusters on vines.",
+                "definition_hebrew": "בבוטניקה וביערות, 'אשכולות' מתייחסים לקבוצות של עלים הצומחות יחד על גבעול אחד. למשל, ענבים יוצרים אשכולות על גפנים.",
+                "example": "The grapevine produces several tight bunches or clusters of fruit.",
+                "example_hebrew": "הגפן מייצרת כמה צרורות הדוקות או אשכולות של פירות."
+            },
+            {
+                "definition": "In astronomy and meteorology, 'clusters' can describe a group of stars that are gravitationally bound to each other. An example is the globular cluster in the Milky Way.",
+                "definition_hebrew": "באסטרונומיה ובמטאורולוגיה, 'צבירים' יכולים לתאר קבוצת כוכבים הקשורים זה לזה מבחינה כבידה. דוגמה לכך היא הצביר הכדורי בשביל החלב.",
+                "example": "The Andromeda Galaxy contains several star clusters, including a famous one known as M11.",
+                "example_hebrew": "גלקסיית אנדרומדה מכילה כמה צבירי כוכבים, כולל אחד מפורסם הידוע בשם M11."
+            },
+            {
+                "definition": "In everyday language, 'clusters' can refer to small groups of related items or events. For instance, there may be clusters of restaurants in a city.",
+                "definition_hebrew": "בשפה היומיומית, 'אשכולות' יכולים להתייחס לקבוצות קטנות של פריטים או אירועים קשורים. לדוגמה, ייתכן שיש אשכולות של מסעדות בעיר.",
+                "example": "The downtown area has several restaurant clusters where you can find diverse cuisines.",
+                "example_hebrew": "באזור המרכז יש כמה אשכולות מסעדות שבהם תוכלו למצוא מאכלים מגוונים."
+            },
+            {
+                "definition": "In manufacturing and industry, 'clusters' denote groups of similar facilities or processes that are located close to one another. For example, an automotive cluster would be a collection of car factories in the same region.",
+                "definition_hebrew": "בתעשייה ובתעשייה, 'אשכולות' מציינים קבוצות של מתקנים או תהליכים דומים הממוקמים קרוב זה לזה. לדוגמה, אשכול רכב יהיה אוסף של מפעלי רכב באותו אזור.",
+                "example": "The industrial park hosts various clusters including electronics, textiles, and automotive manufacturing.",
+                "example_hebrew": "פארק התעשייה מארח אשכולות שונים כולל מוצרי אלקטרוניקה, טקסטיל וייצור רכב."
+            }
+        ]
+    }
+]

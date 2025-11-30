@@ -1,0 +1,28 @@
+[
+    {
+        "word": "bedroom",
+        "word_hebrew": "חדר שינה",
+        "main_definition": "A bedroom is a room in a house or other dwelling where one sleeps, typically containing a bed, furniture, and storage.",
+        "main_definition_hebrew": "חדר שינה הוא חדר בבית או בדירה אחרת שבה ישנים, ובדרך כלל מכיל מיטה, ריהוט ומחסן.",
+        "meanings_and_examples": [
+            {
+                "definition": "The physical room in a residence designated for sleeping",
+                "definition_hebrew": "החדר הפיזי במעון המיועד לשינה",
+                "example": "She walked into her bedroom to get ready for the night.",
+                "example_hebrew": "היא נכנסה לחדר השינה שלה כדי להתכונן ללילה."
+            },
+            {
+                "definition": "A metaphorical concept used to describe an intimate or private space, often related to relationships or personal life",
+                "definition_hebrew": "מושג מטפורי המשמש לתיאור מרחב אינטימי או פרטי, הקשור לרוב למערכות יחסים או לחיים אישיים",
+                "example": "Their conversation became more serious and intense like they were in a bedroom.",
+                "example_hebrew": "השיחה שלהם הפכה רצינית ואינטנסיבית יותר כאילו היו בחדר שינה."
+            },
+            {
+                "definition": "An area specifically allocated for storing clothes and accessories typically found within a bedroom",
+                "definition_hebrew": "אזור שהוקצה במיוחד לאחסון בגדים ואביזרים שנמצאים בדרך כלל בתוך חדר שינה",
+                "example": "She hung her dresses on the hangers in the wardrobe, which is located in her bedroom.",
+                "example_hebrew": "היא תלתה את השמלות שלה על הקולבים בארון הבגדים, שנמצא בחדר השינה שלה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "daughter",
+        "word_hebrew": "בַּת",
+        "main_definition": "Daughter is a term that primarily refers to the female offspring of parents, but it can also be used metaphorically in various idiomatic expressions.",
+        "main_definition_hebrew": "בת הוא מונח המתייחס בעיקר לצאצאים הנשיים של ההורים, אך ניתן להשתמש בו גם באופן מטפורי בביטויים אידיומטיים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Female child",
+                "definition_hebrew": "ילדה",
+                "example": "Her daughter is now 10 years old.",
+                "example_hebrew": "בתה כיום בת 10."
+            },
+            {
+                "definition": "Metaphorical term representing a subordinate or someone who follows another's lead",
+                "definition_hebrew": "מונח מטפורי המייצג כפוף או מישהו שהולך בעקבות אחר",
+                "example": "As his daughter, he often followed her advice and guidance in life decisions.",
+                "example_hebrew": "כבתו, הוא עקב לעתים קרובות אחר עצתה והדרכה בהחלטות החיים."
+            },
+            {
+                "definition": "A part that has been divided off from the whole; something smaller derived from a larger entity",
+                "definition_hebrew": "חלק שנפרד מהשלם; משהו קטן יותר שנגזר מישות גדולה יותר",
+                "example": "The garden's layout included multiple 'daughter gardens', each with its own unique design.",
+                "example_hebrew": "פריסת הגן כללה מספר 'גני בת', כל אחד עם עיצוב ייחודי משלו."
+            },
+            {
+                "definition": "Term used in computer programming to represent a copy of an object or data structure, typically used when duplicating the content of another",
+                "definition_hebrew": "מונח המשמש בתכנות מחשב כדי לייצג עותק של אובייקט או מבנה נתונים, המשמש בדרך כלל בעת שכפול תוכן של אחר",
+                "example": "The function created a new array 'daughter' that contained all elements from the original array.",
+                "example_hebrew": "הפונקציה יצרה מערך חדש 'בת' שהכיל את כל האלמנטים מהמערך המקורי."
+            },
+            {
+                "definition": "In some cultures and languages, it refers to an adopted daughter or someone who has been taken under one's wing",
+                "definition_hebrew": "בתרבויות ושפות מסוימות, זה מתייחס לבת מאומצת או מישהו שנלקח תחת חסותו",
+                "example": "As her 'daughter', she considered him as her own family member and treated him like a son.",
+                "example_hebrew": "כ'בתה', היא ראתה בו כבן משפחתה והתייחסה אליו כאל בן."
+            }
+        ]
+    }
+]

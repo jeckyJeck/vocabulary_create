@@ -1,0 +1,34 @@
+[
+    {
+        "word": "mortgages",
+        "word_hebrew": "משכנתאות",
+        "main_definition": "A mortgage is a legal agreement in which a bank or other financial institution lends money to an individual, who uses their property as collateral until the loan is paid off.",
+        "main_definition_hebrew": "משכנתא היא הסכם משפטי שבו בנק או מוסד פיננסי אחר מלווה כסף לאדם פרטי, המשתמש בנכס שלו כבטוחה עד לפירעון ההלוואה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A long-term loan used for purchasing real estate",
+                "definition_hebrew": "הלוואה לטווח ארוך המשמשת לרכישת נדל\"ן",
+                "example": "John took out a 30-year mortgage to buy his first home.",
+                "example_hebrew": "ג'ון לקח משכנתא ל-30 שנה כדי לקנות את ביתו הראשון."
+            },
+            {
+                "definition": "The money that is borrowed to finance the purchase of property",
+                "definition_hebrew": "הכסף שנלווה למימון רכישת נכס",
+                "example": "The total amount of her mortgage was $250,000 for a new house.",
+                "example_hebrew": "הסכום הכולל של המשכנתא שלה היה 250,000 דולר עבור בית חדש."
+            },
+            {
+                "definition": "A legal document outlining the terms and conditions of the loan",
+                "definition_hebrew": "מסמך משפטי המפרט את תנאי ההלוואה",
+                "example": "She carefully reviewed all the details in her mortgage agreement before signing it.",
+                "example_hebrew": "היא בחנה היטב את כל הפרטים בהסכם המשכנתא שלה בטרם חתמה עליו."
+            },
+            {
+                "definition": "The interest rate charged on a mortgage loan",
+                "definition_hebrew": "הריבית הנגבית על הלוואת משכנתא",
+                "example": "His fixed-rate mortgage has an annual interest rate of 3.5%.",
+                "example_hebrew": "למשכנתא בריבית קבועה שלו ריבית שנתית של 3.5%."
+            }
+        ]
+    }
+]

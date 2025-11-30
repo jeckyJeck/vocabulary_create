@@ -1,0 +1,40 @@
+[
+    {
+        "word": "origins",
+        "word_hebrew": "מקורות",
+        "main_definition": "Origins refers to the source, beginning, or cause of something.",
+        "main_definition_hebrew": "מקורות מתייחסים למקור, התחלה או סיבה של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "The geographical location where a word, phrase, or custom comes from and began to be used.",
+                "definition_hebrew": "המיקום הגיאוגרפי שממנו מגיעים מילה, ביטוי או מנהג והחל להשתמש בו.",
+                "example": "The origins of pizza can be traced back to Italy.",
+                "example_hebrew": "ניתן לאתר את מקורות הפיצה באיטליה."
+            },
+            {
+                "definition": "The starting point or cause that leads to the existence or development of something.",
+                "definition_hebrew": "נקודת ההתחלה או הסיבה שמובילה לקיומו או להתפתחות של משהו.",
+                "example": "The origins of democracy date back to ancient Greece.",
+                "example_hebrew": "מקורות הדמוקרטיה מתחילים ביוון העתיקה."
+            },
+            {
+                "definition": "The beginning of a tradition, custom, or practice in a particular group or culture.",
+                "definition_hebrew": "תחילתה של מסורת, מנהג או נוהג בקבוצה או תרבות מסוימת.",
+                "example": "The origins of Halloween can be found in the Celtic festival of Samhain.",
+                "example_hebrew": "את מקורות ליל כל הקדושים ניתן למצוא בפסטיבל הקלטי של Samhain."
+            },
+            {
+                "definition": "In genetics, referring to where specific traits are inherited from parents.",
+                "definition_hebrew": "בגנטיקה, הכוונה למקום שבו תכונות ספציפיות עוברות בתורשה מההורים.",
+                "example": "His red hair originates from his grandfather's side.",
+                "example_hebrew": "מקורו של שיערו האדום מהצד של סבו."
+            },
+            {
+                "definition": "The initial conditions or parameters that affect a process, system, or phenomenon.",
+                "definition_hebrew": "התנאים או הפרמטרים ההתחלתיים המשפיעים על תהליך, מערכת או תופעה.",
+                "example": "In physics, understanding the origins of an object can help explain its trajectory and behavior.",
+                "example_hebrew": "בפיזיקה, הבנת מקורותיו של עצם יכולה לעזור להסביר את מסלולו והתנהגותו."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "loan",
+        "word_hebrew": "לְהַלווֹת",
+        "main_definition": "A loan is a sum of money that one person or entity lends to another, typically with an agreement for the borrower to pay back the amount over time, often with interest.",
+        "main_definition_hebrew": "הלוואה היא סכום כסף שאדם או גוף אחד מלווים לאחר, בדרך כלל עם הסכם של הלווה להחזיר את הסכום לאורך זמן, לרוב עם ריבית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Financial assistance provided by someone who allows you to borrow money",
+                "definition_hebrew": "סיוע כספי הניתן על ידי מי שמאפשר לך ללוות כסף",
+                "example": "I took out a loan from the bank to buy my first car.",
+                "example_hebrew": "לקחתי הלוואה מהבנק לקניית הרכב הראשון שלי."
+            },
+            {
+                "definition": "A temporary transfer of property or rights, with an expectation of return",
+                "definition_hebrew": "העברה זמנית של רכוש או זכויות, עם ציפייה להחזרה",
+                "example": "The museum loaned its rare artifacts for display at another institution.",
+                "example_hebrew": "המוזיאון השאיל את חפציו הנדירים לתצוגה במוסד אחר."
+            },
+            {
+                "definition": "To borrow in a non-financial context, such as books from a library",
+                "definition_hebrew": "לשאול בהקשר לא פיננסי, כגון ספרים מספרייה",
+                "example": "I decided to loan the book '1984' by George Orwell to my friend until I finished reading it.",
+                "example_hebrew": "החלטתי להשאיל את הספר '1984' מאת ג'ורג' אורוול לידידי עד שאסיים לקרוא אותו."
+            }
+        ]
+    }
+]

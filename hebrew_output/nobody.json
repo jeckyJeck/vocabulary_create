@@ -1,0 +1,34 @@
+[
+    {
+        "word": "nobody",
+        "word_hebrew": "אף אחד",
+        "main_definition": "Nobody refers to the absence of any person or implies that there is no one present in a certain situation.",
+        "main_definition_hebrew": "אף אחד לא מתייחס להעדרו של אדם כלשהו או רומז שאין אדם נוכח במצב מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "No individual; an empty or non-existent entity.",
+                "definition_hebrew": "אין יחיד; ישות ריקה או לא קיימת.",
+                "example": "When I knocked on the door, nobody answered.",
+                "example_hebrew": "כשדפקתי בדלת, אף אחד לא ענה."
+            },
+            {
+                "definition": "Not a single person present in a particular place or situation.",
+                "definition_hebrew": "אף אדם לא נוכח במקום או במצב מסוים.",
+                "example": "There was nobody at the bus stop when I arrived.",
+                "example_hebrew": "לא היה אף אחד בתחנת האוטובוס כשהגעתי."
+            },
+            {
+                "definition": "No one to blame for something negative that happened; not anyone responsible.",
+                "definition_hebrew": "אין מי להאשים במשהו שלילי שקרה; לא אף אחד אחראי.",
+                "example": "Nobody is accountable for the accident on the highway.",
+                "example_hebrew": "אף אחד לא אחראי לתאונה בכביש המהיר."
+            },
+            {
+                "definition": "Not worth attention or consideration because there is no person involved with a particular issue.",
+                "definition_hebrew": "לא שווה תשומת לב או התייחסות כי אין אדם המעורב בנושא מסוים.",
+                "example": "The company's recent PR crisis received little notice, as nobody was directly implicated.",
+                "example_hebrew": "משבר יחסי הציבור האחרון של החברה זכה לתשומת לב מועטה, מכיוון שאיש לא היה מעורב ישירות."
+            }
+        ]
+    }
+]

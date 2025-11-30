@@ -1,0 +1,34 @@
+[
+    {
+        "word": "quantities",
+        "word_hebrew": "כמיות",
+        "main_definition": "Quantities refers to the amount, volume, or number of something, often in relation to counting or measuring.",
+        "main_definition_hebrew": "כמויות מתייחסות לכמות, לנפח או למספר של משהו, לעתים קרובות ביחס לספירה או מדידה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The total amount or extent of a particular thing that is present or involved",
+                "definition_hebrew": "הסכום הכולל או ההיקף של דבר מסוים שנמצא או מעורב",
+                "example": "In the store, we have various quantities of apples available for purchase.",
+                "example_hebrew": "בחנות יש לנו כמויות שונות של תפוחים לרכישה."
+            },
+            {
+                "definition": "A large number or amount of something",
+                "definition_hebrew": "מספר גדול או כמות גדולה של משהו",
+                "example": "There were thousands of people at the concert last night. The quantity was overwhelming.",
+                "example_hebrew": "היו אלפי אנשים בהופעה אתמול בערב. הכמות הייתה עצומה."
+            },
+            {
+                "definition": "An expression in mathematics representing a multiplication of numbers or quantities",
+                "definition_hebrew": "ביטוי במתמטיקה המייצג כפל של מספרים או כמויות",
+                "example": "If you have 3 apples and each apple weighs 2 pounds, then the total weight is represented by '3 times 2', which equals 6.",
+                "example_hebrew": "אם יש לך 3 תפוחים וכל תפוח שוקל 2 פאונד, אז המשקל הכולל מיוצג על ידי '3 כפול 2', השווה ל-6."
+            },
+            {
+                "definition": "A term used in inventory management to refer to a specific quantity of products that are tracked for sales or supply",
+                "definition_hebrew": "מונח המשמש בניהול מלאי כדי להתייחס לכמות מסוימת של מוצרים שעוקבים אחריהם לצורך מכירות או אספקה",
+                "example": "The warehouse tracks quantities of each product on hand, to ensure there is enough stock for customer orders.",
+                "example_hebrew": "המחסן עוקב אחר כמויות של כל מוצר בהישג יד, כדי להבטיח שיש מספיק מלאי להזמנות לקוחות."
+            }
+        ]
+    }
+]

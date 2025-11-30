@@ -1,0 +1,34 @@
+[
+    {
+        "word": "finite",
+        "word_hebrew": "סוֹפִי",
+        "main_definition": "In simple terms, finite refers to something that has limits or bounds; it is not infinite or endless.",
+        "main_definition_hebrew": "במילים פשוטות, סופי מתייחס למשהו שיש לו גבולות או גבולות; זה לא אינסופי או אינסופי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Existing for a limited time or having an end",
+                "definition_hebrew": "קיים לזמן מוגבל או שיש לו סוף",
+                "example": "The human lifespan is considered finite as we only live for approximately 80 to 100 years.",
+                "example_hebrew": "תוחלת החיים של האדם נחשבת סופית מכיוון שאנו חיים רק כ-80 עד 100 שנים."
+            },
+            {
+                "definition": "Having measurable quantity with boundaries",
+                "definition_hebrew": "בעל כמות מדידה עם גבולות",
+                "example": "A box of pencils has a finite number of items, not an infinite amount.",
+                "example_hebrew": "לקופסת עפרונות יש מספר סופי של פריטים, לא כמות אינסופית."
+            },
+            {
+                "definition": "Enduring or capable of being measured",
+                "definition_hebrew": "מתמשך או מסוגל למדוד",
+                "example": "Time is considered finite because it can be divided into measurable units like seconds, minutes, and hours.",
+                "example_hebrew": "הזמן נחשב סופי מכיוון שניתן לחלק אותו ליחידות מדידות כמו שניות, דקות ושעות."
+            },
+            {
+                "definition": "Having a limited number or extent",
+                "definition_hebrew": "בעל מספר או היקף מוגבל",
+                "example": "The amount of money in my bank account is finite as I don't have an unlimited supply of funds.",
+                "example_hebrew": "כמות הכסף בחשבון הבנק שלי היא סופית מכיוון שאין לי מלאי בלתי מוגבל של כספים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "word": "models",
+        "word_hebrew": "דגמים",
+        "main_definition": "In various contexts, 'models' refer to representations or examples that are used as a standard or guide.",
+        "main_definition_hebrew": "בהקשרים שונים, 'מודלים' מתייחסים לייצוגים או דוגמאות המשמשים כתקן או מדריך.",
+        "meanings_and_examples": [
+            {
+                "definition": "Fashion models - individuals who model clothing and accessories for the fashion industry",
+                "definition_hebrew": "דוגמניות אופנה - יחידים המדגמנים ביגוד ואביזרים לתעשיית האופנה",
+                "example": "The latest runway show featured several top-tier fashion models walking down the catwalk in designer outfits.",
+                "example_hebrew": "תצוגת המסלול האחרונה כללה כמה דוגמניות אופנה מהשורה הראשונה שצעדו על המסלול בלבוש מעצבים."
+            },
+            {
+                "definition": "Statistical models - mathematical constructs used to represent real-world phenomena and analyze data",
+                "definition_hebrew": "מודלים סטטיסטיים - מבנים מתמטיים המשמשים לייצוג תופעות בעולם האמיתי ולניתוח נתונים",
+                "example": "Economists may use a statistical model to predict future trends based on historical economic data.",
+                "example_hebrew": "כלכלנים עשויים להשתמש במודל סטטיסטי כדי לחזות מגמות עתידיות על סמך נתונים כלכליים היסטוריים."
+            },
+            {
+                "definition": "Architectural or engineering models - physical or digital representations of buildings, infrastructure, etc.",
+                "definition_hebrew": "מודלים אדריכליים או הנדסיים - ייצוגים פיזיים או דיגיטליים של מבנים, תשתיות וכו'.",
+                "example": "The engineers created an architectural model of the new bridge to test its design and functionality before construction began.",
+                "example_hebrew": "המהנדסים יצרו דגם אדריכלי של הגשר החדש כדי לבחון את העיצוב והפונקציונליות שלו לפני תחילת הבנייה."
+            },
+            {
+                "definition": "Miniature models - small-scale representations often used for display or hobby purposes",
+                "definition_hebrew": "דגמים מיניאטוריים - ייצוגים בקנה מידה קטן המשמשים לעתים קרובות לצורכי תצוגה או תחביבים",
+                "example": "A collector displayed his impressive collection of miniature ship models on a shelf in his living room.",
+                "example_hebrew": "אספן הציג את האוסף המרשים שלו של דגמי ספינות מיניאטוריות על מדף בסלון שלו."
+            },
+            {
+                "definition": "Scientific and biological models - simplified representations of complex systems to understand their workings",
+                "definition_hebrew": "מודלים מדעיים וביולוגיים - ייצוגים מפושטים של מערכות מורכבות להבנת פעולתן",
+                "example": "Biologists use cellular models to study the behavior of cells under different conditions and treatments.",
+                "example_hebrew": "ביולוגים משתמשים במודלים תאיים כדי לחקור את התנהגות התאים בתנאים וטיפולים שונים."
+            },
+            {
+                "definition": "Software or computer modeling - creating virtual simulations for testing, analysis, and visualization purposes",
+                "definition_hebrew": "דוגמנות תוכנה או מחשב - יצירת הדמיות וירטואליות למטרות בדיקה, ניתוח והדמיה",
+                "example": "Game developers create software models of their game's world to test mechanics and physics before launching the final product.",
+                "example_hebrew": "מפתחי משחקים יוצרים מודלים של תוכנה של עולם המשחק שלהם כדי לבדוק מכניקה ופיזיקה לפני השקת המוצר הסופי."
+            }
+        ]
+    }
+]

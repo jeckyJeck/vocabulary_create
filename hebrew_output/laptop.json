@@ -1,0 +1,28 @@
+[
+    {
+        "word": "laptop",
+        "word_hebrew": "מחשב נייד",
+        "main_definition": "A portable personal computer with a screen, keyboard, and trackpad or touchpad that can be used while moving around.",
+        "main_definition_hebrew": "מחשב אישי נייד עם מסך, מקלדת ומשטח עקיבה או משטח מגע שניתן להשתמש בו תוך כדי תנועה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A type of computer designed for mobility and convenience in terms of size and weight",
+                "definition_hebrew": "סוג מחשב המיועד לניידות ונוחות מבחינת גודל ומשקל",
+                "example": "I use my laptop to work on the go because it's lightweight and easy to carry.",
+                "example_hebrew": "אני משתמש במחשב הנייד שלי כדי לעבוד בדרכים מכיוון שהוא קל משקל וקל לנשיאה."
+            },
+            {
+                "definition": "The physical device that houses a personal computer, with an integrated screen and keyboard",
+                "definition_hebrew": "המכשיר הפיזי שמכיל מחשב אישי, עם מסך ומקלדת משולבים",
+                "example": "My laptop has a 15-inch touchscreen display for better viewing experience while watching movies or working.",
+                "example_hebrew": "המחשב הנייד שלי כולל מסך מגע בגודל 15 אינץ' לחוויית צפייה טובה יותר בזמן צפייה בסרטים או עבודה."
+            },
+            {
+                "definition": "A term used to describe the act of using a laptop as a personal computer, often implying mobility and convenience",
+                "definition_hebrew": "מונח המשמש לתיאור פעולת השימוש במחשב נייד כמחשב אישי, מרמז לרוב על ניידות ונוחות",
+                "example": "I prefer to take notes on my laptop during meetings for easy access and organization.",
+                "example_hebrew": "אני מעדיף לרשום הערות במחשב הנייד שלי במהלך פגישות לגישה קלה וארגון."
+            }
+        ]
+    }
+]

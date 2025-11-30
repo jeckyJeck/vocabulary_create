@@ -1,0 +1,28 @@
+[
+    {
+        "word": "defendant",
+        "word_hebrew": "נֶאְשָׁם",
+        "main_definition": "A defendant is an individual or entity accused of committing a crime in a court of law.",
+        "main_definition_hebrew": "נאשם הוא אדם או ישות שהואשם בביצוע פשע בבית משפט.",
+        "meanings_and_examples": [
+            {
+                "definition": "In criminal proceedings, a person who has been charged with a crime and stands trial",
+                "definition_hebrew": "בהליך פלילי, מי שהואשם בפלילים ועומד לדין",
+                "example": "John was arrested as the defendant in a burglary case.",
+                "example_hebrew": "ג'ון נעצר כנאשם בתיק פריצה."
+            },
+            {
+                "definition": "A legal party accused or sued in court",
+                "definition_hebrew": "צד משפטי הנאשם או נתבע בבית המשפט",
+                "example": "The company became the defendant in a lawsuit over patent infringement.",
+                "example_hebrew": "החברה הפכה לנתבעת בתביעה בגין הפרת פטנטים."
+            },
+            {
+                "definition": "An individual who denies allegations made against them and enters into legal defense",
+                "definition_hebrew": "אדם המכחיש טענות שהועלו נגדו ונכנס להגנה משפטית",
+                "example": "When accused of embezzlement, Sarah became her own defendant by hiring an attorney to defend her.",
+                "example_hebrew": "כאשר הואשמה במעילה, שרה הפכה לנאשמת משלה על ידי שכירת עורך דין שיגן עליה."
+            }
+        ]
+    }
+]

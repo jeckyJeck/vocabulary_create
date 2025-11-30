@@ -1,0 +1,40 @@
+[
+    {
+        "word": "schedule",
+        "word_hebrew": "לוח זמנים",
+        "main_definition": "A schedule is a plan or list of activities to be done at specified times, often used in organizing work, events, or tasks.",
+        "main_definition_hebrew": "לוח זמנים הוא תוכנית או רשימה של פעילויות שיש לבצע בזמנים מוגדרים, המשמשת לעתים קרובות בארגון עבודה, אירועים או משימות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To arrange planned activities for specific days and times",
+                "definition_hebrew": "לארגן פעילויות מתוכננות לימים וזמנים ספציפיים",
+                "example": "I will schedule meetings with my team next week.",
+                "example_hebrew": "אקבע פגישות עם הצוות שלי בשבוע הבא."
+            },
+            {
+                "definition": "A list or chart showing a sequence of events, tasks, or appointments in chronological order",
+                "definition_hebrew": "רשימה או תרשים המציגים רצף של אירועים, משימות או פגישות בסדר כרונולוגי",
+                "example": "Please check your calendar for the schedule of this month's conferences and seminars.",
+                "example_hebrew": "אנא בדוק את לוח השנה שלך עבור לוח הזמנים של הכנסים והסמינרים של החודש."
+            },
+            {
+                "definition": "The time set aside for performing certain activities or duties",
+                "definition_hebrew": "הזמן שהוקצה לביצוע פעילויות או חובות מסוימות",
+                "example": "This project has a strict schedule that must be followed to meet deadlines.",
+                "example_hebrew": "לפרויקט זה יש לוח זמנים קפדני שיש לעמוד בו כדי לעמוד בלוחות זמנים."
+            },
+            {
+                "definition": "An official list of events, such as games, performances, etc., and the times at which they occur",
+                "definition_hebrew": "רשימה רשמית של אירועים, כגון משחקים, הופעות וכו', והמועדים שבהם הם מתרחשים",
+                "example": "The concert schedule for this weekend includes five different music acts.",
+                "example_hebrew": "לוח ההופעות לסוף השבוע הזה כולל חמישה מופעי מוזיקה שונים."
+            },
+            {
+                "definition": "To allocate or assign a specific time slot to an event or task",
+                "definition_hebrew": "כדי להקצות או להקצות משבצת זמן ספציפית לאירוע או משימה",
+                "example": "Our boss will schedule us in the conference room at 2 PM tomorrow.",
+                "example_hebrew": "הבוס שלנו יקבע אותנו בחדר הישיבות מחר בשעה 14:00."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "newbie",
+        "word_hebrew": "חדש",
+        "main_definition": "A person who is new to a particular activity or organization, often lacking experience.",
+        "main_definition_hebrew": "אדם חדש בפעילות או ארגון מסוים, לרוב חסר ניסיון.",
+        "meanings_and_examples": [
+            {
+                "definition": "A beginner or novice in any field.",
+                "definition_hebrew": "מתחיל או טירון בכל תחום.",
+                "example": "As a newbie in photography, she still struggled with the basics of composition.",
+                "example_hebrew": "בתור חדשה בצילום, היא עדיין נאבקה ביסודות הקומפוזיציה."
+            },
+            {
+                "definition": "Someone who is freshly recruited or recently joined an organization or group.",
+                "definition_hebrew": "מישהו שגויס טרי או הצטרף לאחרונה לארגון או קבוצה.",
+                "example": "The company welcomed its first set of newbies to the sales department this month.",
+                "example_hebrew": "החברה קיבלה בברכה את מערך החדשים הראשון שלה למחלקת המכירות החודש."
+            },
+            {
+                "definition": "An inexperienced person, especially one just starting out with a hobby or sport.",
+                "definition_hebrew": "אדם חסר ניסיון, במיוחד אחד שרק מתחיל עם תחביב או ספורט.",
+                "example": "In the world of coding, every newbie starts by learning HTML and CSS before moving on to more advanced languages like JavaScript.",
+                "example_hebrew": "בעולם הקידוד, כל חדש מתחיל בלימוד HTML ו-CSS לפני שהוא עובר לשפות מתקדמות יותר כמו JavaScript."
+            }
+        ]
+    }
+]

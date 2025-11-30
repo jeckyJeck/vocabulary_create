@@ -1,0 +1,28 @@
+[
+    {
+        "word": "chemical",
+        "word_hebrew": "כִּימִי",
+        "main_definition": "A substance with a distinct molecular composition that is produced by or used in a chemical process, often having a specific purpose in various industries.",
+        "main_definition_hebrew": "חומר בעל הרכב מולקולרי מובהק המיוצר או בשימוש בתהליך כימי, לרוב בעל ייעוד ספציפי בתעשיות שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to chemistry and the properties of matter",
+                "definition_hebrew": "התייחסות לכימיה ולתכונות החומר",
+                "example": "The laboratory was full of chemicals being tested for purity.",
+                "example_hebrew": "המעבדה הייתה מלאה בכימיקלים שנבדקו לטוהר."
+            },
+            {
+                "definition": "A manufactured product containing substances that have effects on living organisms or materials, often used in industries such as agriculture, pharmaceuticals, and personal care",
+                "definition_hebrew": "מוצר מיוצר המכיל חומרים בעלי השפעות על אורגניזמים חיים או חומרים, המשמשים לעתים קרובות בתעשיות כגון חקלאות, תרופות וטיפוח אישי",
+                "example": "Pesticides are chemicals designed to kill pests.",
+                "example_hebrew": "חומרי הדברה הם כימיקלים שנועדו להרוג מזיקים."
+            },
+            {
+                "definition": "A legal term for a substance that is regulated by the government due to its potential effects on health or safety",
+                "definition_hebrew": "מונח משפטי לחומר המוסדר על ידי הממשלה בשל השפעותיו הפוטנציאליות על בריאות או בטיחות",
+                "example": "Illegal drugs like cocaine and heroin fall under the category of controlled chemicals.",
+                "example_hebrew": "סמים לא חוקיים כמו קוקאין והרואין נכנסים לקטגוריה של כימיקלים מבוקרים."
+            }
+        ]
+    }
+]

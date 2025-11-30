@@ -1,0 +1,40 @@
+[
+    {
+        "word": "acute",
+        "word_hebrew": "חַד",
+        "main_definition": "Acute refers to something sharp, severe, or intense in nature, often used to describe symptoms, angles, or conditions.",
+        "main_definition_hebrew": "אקוטי מתייחס למשהו חד, חמור או אינטנסיבי באופיו, המשמש לעתים קרובות לתיאור סימפטומים, זוויות או מצבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In medical contexts, acute means a condition that is sudden and severe but of short duration.",
+                "definition_hebrew": "בהקשרים רפואיים, אקוטי פירושו מצב שהוא פתאומי וחמור אך קצר.",
+                "example": "He suffered from an acute migraine attack.",
+                "example_hebrew": "הוא סבל מהתקף מיגרנה חריף."
+            },
+            {
+                "definition": "When describing angles, acute refers to an angle less than 90 degrees.",
+                "definition_hebrew": "כאשר מתארים זוויות, חריפה מתייחסת לזווית פחות מ-90 מעלות.",
+                "example": "An acute angle measures exactly 45 degrees.",
+                "example_hebrew": "זווית חדה נמדדת בדיוק 45 מעלות."
+            },
+            {
+                "definition": "Acute can describe a sharp or intense pain sensation.",
+                "definition_hebrew": "חריפה יכולה לתאר תחושת כאב חדה או עזה.",
+                "example": "She experienced an acute pain in her chest when she took deep breaths.",
+                "example_hebrew": "היא חוותה כאב חריף בחזה כשלקחה נשימות עמוקות."
+            },
+            {
+                "definition": "In geometry, an acute triangle is one where all three interior angles are less than 90 degrees.",
+                "definition_hebrew": "בגיאומטריה, משולש חד הוא כזה שבו כל שלוש הזוויות הפנימיות קטנות מ-90 מעלות.",
+                "example": "The shape of the kite we made was an acute triangle.",
+                "example_hebrew": "צורת העפיפון שיצרנו הייתה משולש חד."
+            },
+            {
+                "definition": "Acute can be used to describe a problem or situation that requires immediate attention and action due to its urgency.",
+                "definition_hebrew": "אקוטי יכול לשמש לתיאור בעיה או מצב הדורשים טיפול ופעולה מיידית בשל דחיפותם.",
+                "example": "The government declared it an 'acute economic crisis' requiring swift intervention.",
+                "example_hebrew": "הממשלה הכריזה על \"משבר כלכלי חריף\" הדורש התערבות מהירה."
+            }
+        ]
+    }
+]

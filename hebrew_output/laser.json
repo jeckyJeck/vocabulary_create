@@ -1,0 +1,34 @@
+[
+    {
+        "word": "laser",
+        "word_hebrew": "לייזר",
+        "main_definition": "A device that emits light through a process of optical amplification based on the stimulated emission of electromagnetic radiation.",
+        "main_definition_hebrew": "מכשיר הפולט אור בתהליך של הגברה אופטית המבוסס על פליטה מעוררת של קרינה אלקטרומגנטית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A highly focused beam of light used in various applications like cutting, measuring, and medical procedures.",
+                "definition_hebrew": "אלומת אור ממוקדת ביותר המשמשת ביישומים שונים כמו חיתוך, מדידה והליכים רפואיים.",
+                "example": "The surgeon used a laser to remove the tumor without affecting surrounding tissues.",
+                "example_hebrew": "המנתח השתמש בלייזר כדי להסיר את הגידול מבלי להשפיע על הרקמות הסובבות."
+            },
+            {
+                "definition": "An acronym for Light Amplification by Stimulated Emission of Radiation",
+                "definition_hebrew": "ראשי תיבות של Light Amplification by Stimulated Emission of Radiation",
+                "example": "This device is commonly referred to as LASER, which stands for Light Amplification by Stimulated Emission of Radiation.",
+                "example_hebrew": "מכשיר זה מכונה בדרך כלל LASER, ראשי תיבות של Light Amplification by Stimulated Emission of Radiation."
+            },
+            {
+                "definition": "A metaphorical term used in slang to describe someone who focuses on a task or goal with intense concentration.",
+                "definition_hebrew": "מונח מטפורי המשמש בסלנג כדי לתאר מישהו שמתמקד במשימה או במטרה עם ריכוז אינטנסיבי.",
+                "example": "He was so laser-focused on winning the chess match that he didn't notice his opponent making moves.",
+                "example_hebrew": "הוא היה כל כך ממוקד בלייזר בניצחון במשחק השחמט עד שהוא לא שם לב ליריבו מבצע מהלכים."
+            },
+            {
+                "definition": "A type of light source used in various industries, from manufacturing to entertainment",
+                "definition_hebrew": "סוג של מקור אור המשמש בתעשיות שונות, מייצור ועד בידור",
+                "example": "The concert stage was lit up by several laser lights creating a mesmerizing atmosphere for the audience.",
+                "example_hebrew": "במת הקונצרטים מוארה במספר נורות לייזר שיצרו אווירה מהפנטת לקהל."
+            }
+        ]
+    }
+]

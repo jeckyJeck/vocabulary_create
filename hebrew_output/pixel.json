@@ -1,0 +1,34 @@
+[
+    {
+        "word": "pixel",
+        "word_hebrew": "פיקסל",
+        "main_definition": "A pixel is the smallest controllable element of a picture represented on a screen.",
+        "main_definition_hebrew": "פיקסל הוא האלמנט הקטן ביותר שניתן לשליטה בתמונה המיוצגת על מסך.",
+        "meanings_and_examples": [
+            {
+                "definition": "Image or video display unit",
+                "definition_hebrew": "יחידת תצוגת תמונה או וידאו",
+                "example": "The resolution of my monitor is 1920x1080 pixels.",
+                "example_hebrew": "הרזולוציה של המסך שלי היא 1920x1080 פיקסלים."
+            },
+            {
+                "definition": "Element in a digital image or graphic",
+                "definition_hebrew": "אלמנט בתמונה דיגיטלית או בגרפיקה",
+                "example": "Each pixel contributes to the overall color and shape of an image.",
+                "example_hebrew": "כל פיקסל תורם לצבע ולצורה הכלליים של תמונה."
+            },
+            {
+                "definition": "Unit of measure for screen resolution",
+                "definition_hebrew": "יחידת מידה לרזולוציית מסך",
+                "example": "A higher number of pixels generally means better image quality on screens.",
+                "example_hebrew": "מספר גבוה יותר של פיקסלים פירושו בדרך כלל איכות תמונה טובה יותר במסכים."
+            },
+            {
+                "definition": "Originating from 'picture element'",
+                "definition_hebrew": "מקורו ב'אלמנט תמונה'",
+                "example": "Digital cameras capture images as a matrix of pixel values.",
+                "example_hebrew": "מצלמות דיגיטליות לוכדות תמונות כמטריצה של ערכי פיקסלים."
+            }
+        ]
+    }
+]

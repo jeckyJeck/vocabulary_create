@@ -1,0 +1,28 @@
+[
+    {
+        "word": "www",
+        "word_hebrew": "www",
+        "main_definition": "The abbreviation 'www' stands for the word 'World Wide Web', a system of interconnected hypertext documents accessed via the internet.",
+        "main_definition_hebrew": "הקיצור 'www' מייצג את המילה 'World Wide Web', מערכת של מסמכי היפר-טקסט מחוברים ביניהם באמצעות האינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Abbreviation for World Wide Web",
+                "definition_hebrew": "קיצור של World Wide Web",
+                "example": "I visited www.google.com to search for information.",
+                "example_hebrew": "ביקרתי ב-www.google.com כדי לחפש מידע."
+            },
+            {
+                "definition": "A domain name extension commonly used for websites",
+                "definition_hebrew": "סיומת שם דומיין בשימוש נפוץ עבור אתרי אינטרנט",
+                "example": "Their website address is https://www.facebook.com.",
+                "example_hebrew": "כתובת האתר שלהם היא https://www.facebook.com."
+            },
+            {
+                "definition": "An informal phrase implying the presence of irrelevant content or gossip",
+                "definition_hebrew": "ביטוי לא רשמי המרמז על נוכחות של תוכן או רכילות לא רלוונטיים",
+                "example": "I don't want to hear any more 'www' about your personal life.",
+                "example_hebrew": "אני לא רוצה לשמוע עוד 'www' על החיים האישיים שלך."
+            }
+        ]
+    }
+]

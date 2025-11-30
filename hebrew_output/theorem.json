@@ -1,0 +1,28 @@
+[
+    {
+        "word": "theorem",
+        "word_hebrew": "מִשׁפָּט",
+        "main_definition": "A theorem is a statement or proposition that has been proven to be true through rigorous logical reasoning, often in the field of mathematics.",
+        "main_definition_hebrew": "משפט הוא משפט או הצעה שהוכחו כנכונים באמצעות חשיבה לוגית קפדנית, לרוב בתחום המתמטיקה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mathematical concept",
+                "definition_hebrew": "מושג מתמטי",
+                "example": "The Pythagorean Theorem states that in a right-angled triangle, the square of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides.",
+                "example_hebrew": "משפט פיתגורס קובע שבמשולש ישר זווית, ריבוע ההיפותנוסה (הצלע המנוגדת לזווית הישרה) שווה לסכום הריבועים של שתי הצלעות האחרות."
+            },
+            {
+                "definition": "General idea or principle",
+                "definition_hebrew": "רעיון כללי או עיקרון",
+                "example": "The Law of Gravity states that every particle attracts every other particle with a force directly proportional to the product of their masses and inversely proportional to the square of the distance between them.",
+                "example_hebrew": "חוק הכבידה קובע שכל חלקיק מושך כל חלקיק אחר בכוח פרופורציונלי ישירות למכפלת המסות שלהם ובפרופורציה הפוך לריבוע המרחק ביניהם."
+            },
+            {
+                "definition": "Authoritative statement",
+                "definition_hebrew": "אמירה סמכותית",
+                "example": "In philosophy, an axiom is considered a theorem that is universally accepted without proof as a foundational principle upon which other ideas are based.",
+                "example_hebrew": "בפילוסופיה, אקסיומה נחשבת למשפט המקובל באופן אוניברסאלי ללא הוכחה כעיקרון יסוד שעליו מתבססים רעיונות אחרים."
+            }
+        ]
+    }
+]

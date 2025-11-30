@@ -1,0 +1,40 @@
+[
+    {
+        "word": "transmission",
+        "word_hebrew": "הפצה",
+        "main_definition": "Transmission refers to the act of passing or transmitting something from one place, person, or medium to another.",
+        "main_definition_hebrew": "שידור מתייחס לפעולה של העברה או שידור של משהו ממקום, אדם או מדיום אחד לאחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "The process by which power is transferred from an engine's moving parts",
+                "definition_hebrew": "התהליך בו מועבר כוח מחלקים נעים של המנוע",
+                "example": "In a manual car, the transmission allows you to change gears and control speed.",
+                "example_hebrew": "במכונית ידנית תיבת ההילוכים מאפשרת להחליף הילוכים ולשלוט במהירות."
+            },
+            {
+                "definition": "A system that relays audio signals for playback through speakers or headphones",
+                "definition_hebrew": "מערכת המעבירה אותות שמע להשמעה דרך רמקולים או אוזניות",
+                "example": "The radio transmission broadcasted music throughout the room.",
+                "example_hebrew": "שידור הרדיו שידר מוזיקה בכל החדר."
+            },
+            {
+                "definition": "The transfer of disease-causing organisms from one host to another",
+                "definition_hebrew": "העברת אורגניזמים גורמי מחלות ממארח אחד לאחר",
+                "example": "Transmission of HIV can occur through sharing needles or unprotected sex.",
+                "example_hebrew": "העברת HIV יכולה להתרחש באמצעות שיתוף מחטים או מין לא מוגן."
+            },
+            {
+                "definition": "Passing information, ideas, or instructions between individuals",
+                "definition_hebrew": "העברת מידע, רעיונות או הוראות בין אנשים",
+                "example": "The teacher transmitted the lesson plan to all the students using a video conference.",
+                "example_hebrew": "המורה העבירה את מערך השיעור לכל התלמידים באמצעות ועידת וידאו."
+            },
+            {
+                "definition": "A written message sent through mail as part of official communication",
+                "definition_hebrew": "הודעה כתובה שנשלחה בדואר כחלק מתקשורת רשמית",
+                "example": "She received an important transmission from her lawyer regarding legal proceedings.",
+                "example_hebrew": "היא קיבלה שידור חשוב מעורך הדין שלה בנוגע להליכים משפטיים."
+            }
+        ]
+    }
+]

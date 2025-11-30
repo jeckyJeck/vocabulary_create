@@ -1,0 +1,40 @@
+[
+    {
+        "word": "foul",
+        "word_hebrew": "מְגוּנֶה",
+        "main_definition": "Foul can refer to something that is offensive, unpleasant or violating rules in various contexts such as sports, language, or general behavior.",
+        "main_definition_hebrew": "עבירה יכולה להתייחס למשהו פוגעני, לא נעים או מפר כללים בהקשרים שונים כגון ספורט, שפה או התנהגות כללית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Offensive smell",
+                "definition_hebrew": "ריח פוגע",
+                "example": "The foul odor coming from the garbage bin.",
+                "example_hebrew": "הריח המגעיל שמגיע מפח האשפה."
+            },
+            {
+                "definition": "Violating rules in sports",
+                "definition_hebrew": "הפרת חוקים בספורט",
+                "example": "In football, a player commits a foul by tripping an opponent intentionally.",
+                "example_hebrew": "בכדורגל, שחקן מבצע עבירה על ידי הכאת יריב בכוונה."
+            },
+            {
+                "definition": "Offensive language or speech",
+                "definition_hebrew": "שפה או דיבור פוגעני",
+                "example": "Using profanity and insults during an argument can be considered using foul language.",
+                "example_hebrew": "שימוש בניבולי פה ועלבונות במהלך ויכוח ניתן לשקול שימוש בשפה גסה."
+            },
+            {
+                "definition": "Unhealthy physical contact or behavior",
+                "definition_hebrew": "מגע או התנהגות פיזית לא בריאה",
+                "example": "A wrestler's move that involves violating another wrestler's personal space could be labeled as a foul in the sport of wrestling.",
+                "example_hebrew": "מהלך של מתאבק הכרוך בהפרת המרחב האישי של מתאבק אחר יכול להיות מתויג כעבירה בספורט ההיאבקות."
+            },
+            {
+                "definition": "Illegal action, especially in sports or games",
+                "definition_hebrew": "פעולה לא חוקית, במיוחד בספורט או במשחקים",
+                "example": "In tennis, hitting an opponent's racket may result in a warning or penalty for committing a fault.",
+                "example_hebrew": "בטניס, פגיעה במחבט של יריב עלולה לגרום לאזהרה או עונש על ביצוע תקלה."
+            }
+        ]
+    }
+]

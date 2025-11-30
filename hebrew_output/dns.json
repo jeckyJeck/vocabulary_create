@@ -1,0 +1,34 @@
+[
+    {
+        "word": "dns",
+        "word_hebrew": "dns",
+        "main_definition": "Domain Name System (DNS) is a hierarchical naming system used to identify computers connected to the Internet. It translates domain names, which are easily memorable by humans, into IP addresses that machines use for locating and identifying devices.",
+        "main_definition_hebrew": "מערכת שמות דומיין (DNS) היא מערכת שמות היררכית המשמשת לזיהוי מחשבים המחוברים לאינטרנט. הוא מתרגם שמות דומיין, אשר ניתנים לזיכרון בקלות על ידי בני אדם, לכתובות IP שבהן מכונות משתמשות לאיתור וזיהוי מכשירים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Domain Name System (DNS)",
+                "definition_hebrew": "מערכת שמות דומיין (DNS)",
+                "example": "When you enter a website address like www.google.com in your browser, DNS servers are responsible for translating it into an IP address that the computer can use to connect to Google's server.",
+                "example_hebrew": "כאשר אתה מזין כתובת אתר כמו www.google.com בדפדפן שלך, שרתי DNS אחראים לתרגם אותה לכתובת IP שבה המחשב יכול להשתמש כדי להתחבר לשרת של גוגל."
+            },
+            {
+                "definition": "A type of cyberattack",
+                "definition_hebrew": "סוג של מתקפת סייבר",
+                "example": "In a DDoS (Distributed Denial of Service) attack, multiple systems flood the targeted system or network with traffic, disrupting normal function. These attacks often involve DNS servers as part of their strategy.",
+                "example_hebrew": "בהתקפת DDoS (Distributed Denial of Service), מספר מערכות מציפות את המערכת או הרשת הממוקדים בתעבורה, ומשבשות את התפקוד הרגיל. התקפות אלו מערבות לרוב שרתי DNS כחלק מהאסטרטגיה שלהם."
+            },
+            {
+                "definition": "A domain name registrar",
+                "definition_hebrew": "רשם שמות מתחם",
+                "example": "DNS is also a company that provides services for registering and managing domain names, such as GoDaddy or Namecheap. They are responsible for maintaining the DNS records associated with your website's domain.",
+                "example_hebrew": "DNS היא גם חברה המספקת שירותים לרישום וניהול שמות דומיין, כמו GoDaddy או Namecheap. הם אחראים לתחזוקת רשומות ה-DNS המשויכות לדומיין של האתר שלך."
+            },
+            {
+                "definition": "Domain Name System (DNS) service",
+                "definition_hebrew": "שירות מערכת שמות דומיין (DNS).",
+                "example": "A DNSSRV record is used by a computer to specify which DNS server it should use when resolving domain names. This can be useful if you want to use custom or third-party DNS services.",
+                "example_hebrew": "רשומת DNSSRV משמשת מחשב כדי לציין באיזה שרת DNS עליו להשתמש בעת פתרון שמות דומיין. זה יכול להיות שימושי אם אתה רוצה להשתמש בשירותי DNS מותאמים אישית או של צד שלישי."
+            }
+        ]
+    }
+]

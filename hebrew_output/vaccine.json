@@ -1,0 +1,28 @@
+[
+    {
+        "word": "vaccine",
+        "word_hebrew": "תַרכִּיב",
+        "main_definition": "A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease by stimulating the body's immune system to produce antibodies against the pathogen.",
+        "main_definition_hebrew": "חיסון הוא תכשיר ביולוגי המספק חסינות נרכשת פעילה למחלה זיהומית מסוימת על ידי גירוי המערכת החיסונית של הגוף לייצר נוגדנים נגד הפתוגן.",
+        "meanings_and_examples": [
+            {
+                "definition": "In medical context, refers to substances used to confer immunity against specific diseases",
+                "definition_hebrew": "בהקשר רפואי, מתייחס לחומרים המשמשים להענקת חסינות נגד מחלות ספציפיות",
+                "example": "The COVID-19 vaccine has been developed and administered worldwide to protect people from the virus.",
+                "example_hebrew": "החיסון נגד COVID-19 פותח וניתן ברחבי העולם כדי להגן על אנשים מפני הנגיף."
+            },
+            {
+                "definition": "Used metaphorically in contexts such as cybersecurity, to describe a preventive measure against threats",
+                "definition_hebrew": "משמש באופן מטפורי בהקשרים כמו אבטחת סייבר, כדי לתאר אמצעי מניעה נגד איומים",
+                "example": "Firewalls are like vaccines for computer networks, providing immunity against malware attacks.",
+                "example_hebrew": "חומות אש הן כמו חיסונים לרשתות מחשבים, ומספקות חסינות מפני התקפות תוכנות זדוניות."
+            },
+            {
+                "definition": "Often used colloquially in the context of education or personal development as an 'innovation' to stimulate learning and growth",
+                "definition_hebrew": "משמש לעתים קרובות בדיבור בהקשר של חינוך או התפתחות אישית כ'חדשנות' כדי לעורר למידה וצמיחה",
+                "example": "The innovative teaching methods acted like a vaccine, improving student engagement and performance.",
+                "example_hebrew": "שיטות הלימוד החדשניות פעלו כמו חיסון, שיפרו את מעורבות התלמידים וביצועיהם."
+            }
+        ]
+    }
+]

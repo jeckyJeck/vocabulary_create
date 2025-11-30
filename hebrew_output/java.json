@@ -1,0 +1,28 @@
+[
+    {
+        "word": "java",
+        "word_hebrew": "java",
+        "main_definition": "Java is a programming language, an island in Indonesia, and the name of coffee produced from that island.",
+        "main_definition_hebrew": "ג'אווה היא שפת תכנות, אי באינדונזיה, ושם הקפה המופק מאותו אי.",
+        "meanings_and_examples": [
+            {
+                "definition": "A type of coffee bean grown on the Indonesian island of Java.",
+                "definition_hebrew": "סוג של פולי קפה שגדל באי האינדונזי ג'אווה.",
+                "example": "I prefer the rich taste of Javanese coffee.",
+                "example_hebrew": "אני מעדיף את הטעם העשיר של קפה ג'אווה."
+            },
+            {
+                "definition": "An island in Indonesia.",
+                "definition_hebrew": "אי באינדונזיה.",
+                "example": "My friend visited Java last summer and enjoyed its beautiful beaches.",
+                "example_hebrew": "חברי ביקר בג'אווה בקיץ שעבר ונהנה מהחופים היפים שלה."
+            },
+            {
+                "definition": "A programming language developed by Sun Microsystems.",
+                "definition_hebrew": "שפת תכנות שפותחה על ידי Sun Microsystems.",
+                "example": "The software company decided to use Java for their new project due to its robustness and versatility.",
+                "example_hebrew": "חברת התוכנה החליטה להשתמש ב-Java עבור הפרויקט החדש שלה בגלל החוסן והרבגוניות שלה."
+            }
+        ]
+    }
+]

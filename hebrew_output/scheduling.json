@@ -1,0 +1,40 @@
+[
+    {
+        "word": "scheduling",
+        "word_hebrew": "תזמון",
+        "main_definition": "Scheduling refers to the process of planning and organizing events, tasks or activities within a specified timeframe.",
+        "main_definition_hebrew": "תזמון מתייחס לתהליך של תכנון וארגון אירועים, משימות או פעילויות במסגרת זמן מוגדרת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Allocating resources for specific purposes",
+                "definition_hebrew": "הקצאת משאבים למטרות ספציפיות",
+                "example": "The project manager is scheduling employees' work hours to ensure that all necessary tasks are completed on time.",
+                "example_hebrew": "מנהל הפרויקט מתזמן את שעות העבודה של העובדים על מנת להבטיח שכל המשימות הדרושות יושלמו בזמן."
+            },
+            {
+                "definition": "Determining when and where events will occur",
+                "definition_hebrew": "קביעה מתי והיכן יתרחשו אירועים",
+                "example": "A concert organizer needs to schedule the different performances throughout the day at various locations in the venue.",
+                "example_hebrew": "מארגן קונצרטים צריך לתזמן את ההופעות השונות לאורך היום במקומות שונים במקום."
+            },
+            {
+                "definition": "Arranging activities or tasks in chronological order",
+                "definition_hebrew": "סידור פעילויות או משימות בסדר כרונולוגי",
+                "example": "The teacher is scheduling the classroom activities for the day, starting with a math lesson followed by an English grammar exercise.",
+                "example_hebrew": "המורה מתזמן את הפעילויות בכיתה להיום, החל משיעור מתמטיקה ולאחריו תרגיל דקדוק באנגלית."
+            },
+            {
+                "definition": "Planning and coordinating meetings",
+                "definition_hebrew": "תכנון ותיאום פגישות",
+                "example": "The HR manager is scheduling weekly team meetings to ensure that all employees are aware of company updates and changes.",
+                "example_hebrew": "מנהל משאבי האנוש קובע פגישות צוות שבועיות כדי לוודא שכל העובדים מודעים לעדכונים ושינויים בחברה."
+            },
+            {
+                "definition": "Creating a calendar or timetable for events, tasks or activities",
+                "definition_hebrew": "יצירת לוח שנה או לוח זמנים לאירועים, משימות או פעילויות",
+                "example": "A wedding planner uses a scheduling tool to create an itinerary for the day-of-the-event, including ceremony time and reception schedule.",
+                "example_hebrew": "מתכנן חתונות משתמש בכלי תזמון כדי ליצור מסלול ליום האירוע, כולל שעת הטקס ולוח הזמנים של קבלת הפנים."
+            }
+        ]
+    }
+]

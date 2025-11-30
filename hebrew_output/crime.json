@@ -1,0 +1,34 @@
+[
+    {
+        "word": "crime",
+        "word_hebrew": "פֶּשַׁע",
+        "main_definition": "Crime refers to an illegal act or offense against the law that can be punishable by fines, imprisonment, or other penalties.",
+        "main_definition_hebrew": "פשע מתייחס למעשה או עבירה בלתי חוקית על החוק שעלולים להיענש בקנסות, מאסר או עונשים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A criminal offense committed within the jurisdiction of a governmental legal system",
+                "definition_hebrew": "עבירה פלילית הנעשית בתחום השיפוט של מערכת משפטית שלטונית",
+                "example": "The burglary at John's house was considered a crime under local law.",
+                "example_hebrew": "הפריצה לביתו של ג'ון נחשבה לפשע לפי החוק המקומי."
+            },
+            {
+                "definition": "An act or omission that constitutes an offense and is punishable by law",
+                "definition_hebrew": "מעשה או מחדל המהווים עבירה והעונשים על פי חוק",
+                "example": "Shoplifting is a common example of a minor crime in many countries.",
+                "example_hebrew": "גניבה מחנויות היא דוגמה נפוצה לפשע קל במדינות רבות."
+            },
+            {
+                "definition": "The study of crime, criminal behavior, and the laws related to it",
+                "definition_hebrew": "חקר הפשע, ההתנהגות הפלילית והחוקים הקשורים לכך",
+                "example": "She decided to major in criminology to learn more about criminal acts and their causes.",
+                "example_hebrew": "היא החליטה להתמחות בקרימינולוגיה כדי ללמוד עוד על מעשים פליליים וסיבותיהם."
+            },
+            {
+                "definition": "A mistake or error made unintentionally that may result in legal consequences",
+                "definition_hebrew": "טעות או שגיאה שנעשתה שלא במתכוון ועלולה לגרום לתוצאות משפטיות",
+                "example": "John's failure to pay his taxes on time was considered a civil crime, not a felony.",
+                "example_hebrew": "כישלונו של ג'ון לשלם את המיסים שלו בזמן נחשב לפשע אזרחי, לא לפשע."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "charger",
+        "word_hebrew": "מַטעֵן",
+        "main_definition": "A device or person that supplies power to a battery, typically used in the context of charging mobile devices such as phones or electric vehicles.",
+        "main_definition_hebrew": "מכשיר או אדם המספקים חשמל לסוללה, המשמשים בדרך כלל בהקשר של טעינת מכשירים ניידים כגון טלפונים או רכבים חשמליים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To fill (a container) with liquid by using a pouring utensil",
+                "definition_hebrew": "למילוי (מיכל) בנוזל באמצעות כלי מזיגה",
+                "example": "She charged her glass with orange juice.",
+                "example_hebrew": "היא הטעינה את הכוס שלה במיץ תפוזים."
+            },
+            {
+                "definition": "A person or company that provides power to charge electronic devices, such as smartphones or laptops",
+                "definition_hebrew": "אדם או חברה המספקים כוח לטעינת מכשירים אלקטרוניים, כגון סמארטפונים או מחשבים ניידים",
+                "example": "I bought an adapter so I can use my European charger in America.",
+                "example_hebrew": "קניתי מתאם כדי שאוכל להשתמש במטען האירופאי שלי באמריקה."
+            },
+            {
+                "definition": "To increase the intensity of something, often referring to adding more effort or energy",
+                "definition_hebrew": "להגביר את עוצמתו של משהו, לעתים קרובות הכוונה להוספת עוד מאמץ או אנרגיה",
+                "example": "He charged into battle with all his strength.",
+                "example_hebrew": "הוא יצא לקרב בכל כוחו."
+            },
+            {
+                "definition": "In computing and technology, a charger is a device that supplies electricity to recharge batteries in various devices like mobile phones, laptops, and other portable electronics.",
+                "definition_hebrew": "בתחום המחשוב והטכנולוגיה, מטען הוא מכשיר המספק חשמל לטעינת סוללות במכשירים שונים כמו טלפונים ניידים, מחשבים ניידים ואלקטרוניקה ניידת אחרת.",
+                "example": "He unplugged his phone from the wall charger after it was fully charged.",
+                "example_hebrew": "הוא ניתק את הטלפון שלו מהמטען בקיר לאחר שהוא נטען במלואו."
+            }
+        ]
+    }
+]

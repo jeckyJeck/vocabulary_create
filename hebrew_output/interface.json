@@ -1,0 +1,40 @@
+[
+    {
+        "word": "interface",
+        "word_hebrew": "מִמְשָׁק",
+        "main_definition": "An interface is a shared boundary across which two or more systems, devices, or components can communicate with one another.",
+        "main_definition_hebrew": "ממשק הוא גבול משותף ששני או יותר מערכות, התקנים או רכיבים יכולים לתקשר זה עם זה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing and technology, an 'user interface' refers to the means through which users interact with computer hardware. This includes the display screens, keyboards, and touchscreens among other input/output devices that allow humans to communicate effectively with electronic systems.",
+                "definition_hebrew": "בתחום המחשוב והטכנולוגיה, 'ממשק משתמש' מתייחס לאמצעים שבאמצעותם משתמשים מקיימים אינטראקציה עם חומרת מחשב. זה כולל את מסכי התצוגה, המקלדות ומסכי המגע בין התקני קלט/פלט אחרים המאפשרים לבני אדם לתקשר ביעילות עם מערכות אלקטרוניות.",
+                "example": "The smartphone has a user-friendly interface allowing people to navigate easily.",
+                "example_hebrew": "לסמארטפון יש ממשק ידידותי למשתמש המאפשר לאנשים לנווט בקלות."
+            },
+            {
+                "definition": "In software development, 'API' stands for Application Programming Interface. It is an interface that defines how different software components should interact and exchange information.",
+                "definition_hebrew": "בפיתוח תוכנה, 'API' מייצג ממשק תכנות יישומים. זהו ממשק המגדיר כיצד רכיבי תוכנה שונים צריכים לתקשר ולהחליף מידע.",
+                "example": "The company’s website has a well-designed API which allows third-party developers to integrate their services seamlessly.",
+                "example_hebrew": "לאתר החברה יש API מעוצב היטב המאפשר למפתחי צד שלישי לשלב את השירותים שלהם בצורה חלקה."
+            },
+            {
+                "definition": "In social sciences, 'social interaction' refers to the way people act and react with each other. Here, an interface can mean the point where two or more individuals meet for communication.",
+                "definition_hebrew": "במדעי החברה, 'אינטראקציה חברתית' מתייחסת לדרך שבה אנשים פועלים ומגיבים זה עם זה. כאן, ממשק יכול להיות הנקודה שבה שני אנשים או יותר נפגשים לתקשורת.",
+                "example": "The classroom was their daily interface, a place to exchange ideas and learn together.",
+                "example_hebrew": "הכיתה הייתה הממשק היומי שלהם, מקום להחלפת רעיונות וללמוד ביחד."
+            },
+            {
+                "definition": "In engineering and design, 'product interface' refers to how different parts of a product connect with each other. It is the area where components come into contact.",
+                "definition_hebrew": "בהנדסה ועיצוב, 'ממשק מוצר' מתייחס לאופן שבו חלקים שונים של מוצר מתחברים זה לזה. זה האזור שבו רכיבים באים במגע.",
+                "example": "The car’s dashboard and steering wheel have an intuitive interface that makes driving comfortable.",
+                "example_hebrew": "ללוח המחוונים וההגה של המכונית יש ממשק אינטואיטיבי שהופך את הנהיגה לנוחה."
+            },
+            {
+                "definition": "In ecology, 'ecosystem interface' refers to the boundary between two distinct habitats or communities in nature. It is where different species interact with each other.",
+                "definition_hebrew": "באקולוגיה, 'ממשק מערכת אקולוגית' מתייחס לגבול בין שני בתי גידול או קהילות נפרדים בטבע. זה המקום שבו מינים שונים מקיימים אינטראקציה זה עם זה.",
+                "example": "The river delta serves as an important interface for various aquatic and terrestrial organisms.",
+                "example_hebrew": "דלתת הנהר משמשת ממשק חשוב עבור אורגניזמים מימיים ויבשתיים שונים."
+            }
+        ]
+    }
+]

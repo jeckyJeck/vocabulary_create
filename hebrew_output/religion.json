@@ -1,0 +1,40 @@
+[
+    {
+        "word": "religion",
+        "word_hebrew": "דָת",
+        "main_definition": "Religion refers to a system of faith, worship, and practices based on the belief in supernatural beings or powers.",
+        "main_definition_hebrew": "דת מתייחסת למערכת של אמונה, פולחן ומנהגים המבוססים על האמונה ביצורים או כוחות על טבעיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A set of spiritual beliefs and rituals that guide individuals' moral values and behavior",
+                "definition_hebrew": "אוסף של אמונות וטקסים רוחניים המנחים את ערכי המוסר והתנהגותם של אנשים",
+                "example": "Christianity guides its followers through Bible teachings on love, forgiveness, and charity.",
+                "example_hebrew": "הנצרות מנחה את חסידיה באמצעות תורות התנ\"ך על אהבה, סליחה וצדקה."
+            },
+            {
+                "definition": "Social institution comprising organized communities or groups of practitioners who share sacred beliefs and symbols",
+                "definition_hebrew": "מוסד חברתי הכולל קהילות מאורגנות או קבוצות של מתרגלים החולקים אמונות וסמלים מקודשים",
+                "example": "Buddhism is a religion with temples, monasteries, festivals, and rituals that bring its followers together.",
+                "example_hebrew": "בודהיזם היא דת עם מקדשים, מנזרים, פסטיבלים וטקסים המפגישים את חסידיה."
+            },
+            {
+                "definition": "A code of ethics based on the supernatural or divine authority",
+                "definition_hebrew": "קוד אתי המבוסס על הסמכות העל טבעית או האלוהית",
+                "example": "In Islam, the Quran serves as a moral guide for Muslims to live their lives according to Allah's commandments.",
+                "example_hebrew": "באיסלאם, הקוראן משמש מדריך מוסרי למוסלמים לחיות את חייהם על פי מצוות אללה."
+            },
+            {
+                "definition": "An organized set of beliefs and practices regarding the cause, nature, and purpose of the universe",
+                "definition_hebrew": "קבוצה מאורגנת של אמונות ופרקטיקות בנוגע לסיבה, טבעו ותכלית היקום",
+                "example": "Hinduism offers diverse paths (margas) for spiritual growth such as Bhakti yoga, Karma Yoga, and Jnana yoga.",
+                "example_hebrew": "ההינדואיזם מציע מסלולים מגוונים (מרגות) לצמיחה רוחנית כגון יוגה בהאקטי, קארמה יוגה ויוגה ג'נאנה."
+            },
+            {
+                "definition": "A system that provides a framework for understanding life's purpose and meaning",
+                "definition_hebrew": "מערכת המספקת מסגרת להבנת מטרת החיים ומשמעותם",
+                "example": "Judaism teaches the importance of living righteously as part of serving God according to His will.",
+                "example_hebrew": "היהדות מלמדת את החשיבות של חיים ישרים כחלק מעבודת ה' על פי רצונו."
+            }
+        ]
+    }
+]

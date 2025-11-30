@@ -1,0 +1,34 @@
+[
+    {
+        "word": "hacker",
+        "word_hebrew": "האקר",
+        "main_definition": "A person skilled in the art of computer programming who may use their knowledge to break into systems or networks, often with malicious intent.",
+        "main_definition_hebrew": "אדם מיומן באמנות תכנות המחשב, שעשוי להשתמש בידע שלו כדי לפרוץ למערכות או רשתות, לרוב מתוך כוונה זדונית.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual proficient in computer programming and system understanding",
+                "definition_hebrew": "בעל שליטה אישית בתכנות מחשבים והבנת מערכות",
+                "example": "John is considered a hacker because of his expertise in coding.",
+                "example_hebrew": "ג'ון נחשב להאקר בגלל המומחיות שלו בקידוד."
+            },
+            {
+                "definition": "A person who illegally gains unauthorized access to computer systems, networks or data",
+                "definition_hebrew": "אדם אשר מקבל גישה בלתי מורשית למערכות מחשב, רשתות או נתונים שלא כדין",
+                "example": "The company suffered a security breach when an unknown hacker accessed their confidential information.",
+                "example_hebrew": "החברה סבלה מפרצת אבטחה כאשר האקר לא ידוע ניגש למידע הסודי שלהם."
+            },
+            {
+                "definition": "Someone who modifies software for personal gain or curiosity, often without malicious intent",
+                "definition_hebrew": "מישהו שמשנה תוכנה למען רווח אישי או סקרנות, לרוב ללא כוונת זדון",
+                "example": "She is known in her community as a 'hacker' because she loves to explore and modify old video games.",
+                "example_hebrew": "היא ידועה בקהילה שלה כ'האקר' כי היא אוהבת לחקור ולשנות משחקי וידאו ישנים."
+            },
+            {
+                "definition": "A term used pejoratively to describe individuals who engage in unethical hacking activities",
+                "definition_hebrew": "מונח המשמש כמזיד כדי לתאר אנשים שעוסקים בפעילויות פריצה לא אתיות",
+                "example": "'That guy was arrested for cybercrimes; he's a hacker.'",
+                "example_hebrew": "״הבחור ההוא נעצר על פשעי סייבר; הוא האקר.'"
+            }
+        ]
+    }
+]

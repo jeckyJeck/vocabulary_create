@@ -1,0 +1,34 @@
+[
+    {
+        "word": "analytical",
+        "word_hebrew": "אנליטיים",
+        "main_definition": "Using logical reasoning to understand complex information or problems by breaking them down into smaller components.",
+        "main_definition_hebrew": "שימוש בהיגיון לוגי כדי להבין מידע או בעיות מורכבות על ידי פירוקם לרכיבים קטנים יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Involving analysis and critical thinking, especially in solving problems or interpreting data.",
+                "definition_hebrew": "כרוך בניתוח וחשיבה ביקורתית, במיוחד בפתרון בעיות או בפירוש נתונים.",
+                "example": "His analytical approach helped him quickly identify the root cause of the company's declining sales.",
+                "example_hebrew": "הגישה האנליטית שלו עזרה לו לזהות במהירות את הגורם השורשי לירידה במכירות של החברה."
+            },
+            {
+                "definition": "Characterized by detailed examination and careful thought.",
+                "definition_hebrew": "מאופיין בבדיקה מפורטת ומחשבה מדוקדקת.",
+                "example": "Her analytical skills allowed her to dissect a complicated mathematical proof effectively.",
+                "example_hebrew": "הכישורים האנליטיים שלה אפשרו לה לנתח הוכחה מתמטית מסובכת ביעילות."
+            },
+            {
+                "definition": "Relating to or using analysis, especially in the context of interpreting information or making decisions.",
+                "definition_hebrew": "התייחסות או שימוש בניתוח, במיוחד בהקשר של פרשנות מידע או קבלת החלטות.",
+                "example": "The manager's analytical mindset helped him evaluate various options and choose the most efficient strategy for his team.",
+                "example_hebrew": "הלך הרוח האנליטי של המנהל עזר לו להעריך אפשרויות שונות ולבחור את האסטרטגיה היעילה ביותר עבור הצוות שלו."
+            },
+            {
+                "definition": "Pertaining to a method of examination that involves breaking down complex ideas into simpler parts.",
+                "definition_hebrew": "הנוגע לשיטת בחינה הכוללת פירוק רעיונות מורכבים לחלקים פשוטים יותר.",
+                "example": "The scientist employed an analytical approach to study the behavior of particles in quantum mechanics, dividing the problem into smaller sub-problems.",
+                "example_hebrew": "המדען השתמש בגישה אנליטית כדי לחקור את התנהגותם של חלקיקים במכניקת הקוונטים, תוך חלוקת הבעיה לתת-בעיות קטנות יותר."
+            }
+        ]
+    }
+]

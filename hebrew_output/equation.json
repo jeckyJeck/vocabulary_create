@@ -1,0 +1,28 @@
+[
+    {
+        "word": "equation",
+        "word_hebrew": "משוואה",
+        "main_definition": "An equation is a mathematical statement that shows the equality of two expressions by connecting them with an equal sign.",
+        "main_definition_hebrew": "משוואה היא משפט מתמטי המראה את השוויון של שני ביטויים על ידי חיבורם בסימן שוויון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mathematical expression involving numbers and operations to find unknown values",
+                "definition_hebrew": "ביטוי מתמטי הכולל מספרים ופעולות למציאת ערכים לא ידועים",
+                "example": "The equation 2x + 3 = 9 represents a mathematical problem where x is the unknown value we need to solve for.",
+                "example_hebrew": "המשוואה 2x + 3 = 9 מייצגת בעיה מתמטית שבה x הוא הערך הלא ידוע שעלינו לפתור."
+            },
+            {
+                "definition": "Comparison or relationship between two things, often symbolized by an equal sign",
+                "definition_hebrew": "השוואה או יחס בין שני דברים, לעתים קרובות מסומלים בסימן שוויון",
+                "example": "His work-life balance equation is difficult because he spends too much time at the office.",
+                "example_hebrew": "משוואת האיזון בין העבודה לחיים שלו קשה כי הוא מבלה יותר מדי זמן במשרד."
+            },
+            {
+                "definition": "Symbolic representation of a situation or problem in various non-mathematical contexts",
+                "definition_hebrew": "ייצוג סמלי של מצב או בעיה בהקשרים שונים שאינם מתמטיים",
+                "example": "Their relationship was an equation that they could not solve, as there were unresolved issues between them.",
+                "example_hebrew": "מערכת היחסים שלהם הייתה משוואה שהם לא יכלו לפתור, שכן היו ביניהם בעיות לא פתורות."
+            }
+        ]
+    }
+]

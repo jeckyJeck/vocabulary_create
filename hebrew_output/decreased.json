@@ -1,0 +1,40 @@
+[
+    {
+        "word": "decreased",
+        "word_hebrew": "ירד",
+        "main_definition": "To become less in amount, size, or degree.",
+        "main_definition_hebrew": "להיות פחות בכמות, בגודל או בדרגה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Reduction in quantity or number",
+                "definition_hebrew": "הפחתה בכמות או במספר",
+                "example": "The company experienced a decreased revenue due to the economic downturn.",
+                "example_hebrew": "החברה חוותה ירידה בהכנסות עקב השפל הכלכלי."
+            },
+            {
+                "definition": "Lessening of intensity, severity, or strength",
+                "definition_hebrew": "הפחתת עוצמה, חומרה או כוח",
+                "example": "After taking medication for his cold, he felt a decreased congestion in his sinuses.",
+                "example_hebrew": "לאחר שנטל תרופות להצטננות, הוא חש ירידה בגודש בסינוסים."
+            },
+            {
+                "definition": "Decrease in value, importance, or popularity",
+                "definition_hebrew": "ירידה בערך, בחשיבות או בפופולריות",
+                "example": "The older model of the smartphone saw a decreased demand after its successor was released.",
+                "example_hebrew": "הדגם הישן יותר של הסמארטפון ראה ירידה בביקוש לאחר פרסום יורשו."
+            },
+            {
+                "definition": "Lowering of temperature or heat level",
+                "definition_hebrew": "הורדת טמפרטורה או רמת חום",
+                "example": "Without insulation, the room's air conditioner could not keep up and led to a decreased temperature during summer afternoons.",
+                "example_hebrew": "ללא בידוד, מזגן החדר לא עמד בקצב והוביל לירידה בטמפרטורה בשעות אחר הצהריים של הקיץ."
+            },
+            {
+                "definition": "Decrease in speed or velocity",
+                "definition_hebrew": "ירידה במהירות או מהירות",
+                "example": "The car decelerated as it approached the traffic light, causing a decreased travel time for other drivers on the road.",
+                "example_hebrew": "המכונית האטה כשהתקרבה לרמזור, מה שגרם לקיצור זמן הנסיעה של נהגים אחרים בכביש."
+            }
+        ]
+    }
+]

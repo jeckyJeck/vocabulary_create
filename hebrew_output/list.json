@@ -1,0 +1,40 @@
+[
+    {
+        "word": "list",
+        "word_hebrew": "רשימה",
+        "main_definition": "A list is a collection of items or elements that are typically arranged in a specific order, often used to organize information, tasks, or objects.",
+        "main_definition_hebrew": "רשימה היא אוסף של פריטים או אלמנטים המסודרים בדרך כלל בסדר מסוים, המשמשים לעתים קרובות לארגון מידע, משימות או אובייקטים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An enumerated set of items",
+                "definition_hebrew": "קבוצה מסופרת של פריטים",
+                "example": "The grocery list included apples, bread, and milk.",
+                "example_hebrew": "רשימת המכולת כללה תפוחים, לחם וחלב."
+            },
+            {
+                "definition": "A record of names or items",
+                "definition_hebrew": "רישום של שמות או פריטים",
+                "example": "She has a long contact list with her friends' phone numbers.",
+                "example_hebrew": "יש לה רשימת אנשי קשר ארוכה עם מספרי הטלפון של חבריה."
+            },
+            {
+                "definition": "A compilation of tasks to be completed",
+                "definition_hebrew": "אוסף של משימות שיש לבצע",
+                "example": "He made a to-do list for the day, including cleaning and laundry.",
+                "example_hebrew": "הוא הכין רשימת מטלות להיום, כולל ניקיון וכביסה."
+            },
+            {
+                "definition": "An ordered sequence of data elements",
+                "definition_hebrew": "רצף מסודר של רכיבי נתונים",
+                "example": "The database contained a list of customer names and their purchase history.",
+                "example_hebrew": "המאגר הכיל רשימה של שמות לקוחות והיסטוריית הרכישות שלהם."
+            },
+            {
+                "definition": "A compilation of items or objects grouped together for specific purposes",
+                "definition_hebrew": "אוסף של פריטים או אובייקטים המקובצים יחד למטרות ספציפיות",
+                "example": "She created a playlist, which is essentially a music 'list'.",
+                "example_hebrew": "היא יצרה רשימת השמעה, שהיא בעצם 'רשימה' מוזיקלית."
+            }
+        ]
+    }
+]

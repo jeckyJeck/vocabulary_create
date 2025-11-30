@@ -1,0 +1,40 @@
+[
+    {
+        "word": "questionnaire",
+        "word_hebrew": "שְׁאֵלוֹן",
+        "main_definition": "A document containing a series of questions used to gather information, opinions or feedback from individuals.",
+        "main_definition_hebrew": "מסמך המכיל סדרה של שאלות המשמשות לאיסוף מידע, דעות או משוב מאנשים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An instrument for collecting data by asking a series of predefined questions.",
+                "definition_hebrew": "מכשיר לאיסוף נתונים על ידי שאילת סדרה של שאלות מוגדרות מראש.",
+                "example": "The survey consisted of 20 questions designed to understand customer satisfaction with our services.",
+                "example_hebrew": "הסקר כלל 20 שאלות שנועדו להבין את שביעות רצון הלקוחות מהשירותים שלנו."
+            },
+            {
+                "definition": "A tool used in research or studies to obtain structured information from respondents.",
+                "definition_hebrew": "כלי המשמש במחקר או במחקרים כדי לקבל מידע מובנה מהמשיבים.",
+                "example": "For the market research study, participants were asked to fill out a detailed questionnaire about their shopping habits.",
+                "example_hebrew": "לצורך מחקר שוק, המשתתפים התבקשו למלא שאלון מפורט על הרגלי הקניות שלהם."
+            },
+            {
+                "definition": "An online form containing questions that individuals can answer at their convenience.",
+                "definition_hebrew": "טופס מקוון המכיל שאלות שאנשים יכולים לענות עליהן כשנוח להם.",
+                "example": "The university sent an online questionnaire via email for alumni feedback on job placements after graduation.",
+                "example_hebrew": "האוניברסיטה שלחה שאלון מקוון בדוא\"ל לקבלת משוב של בוגרים על מיקומי עבודה לאחר סיום הלימודים."
+            },
+            {
+                "definition": "A set of written or electronic queries used to probe a subject matter in-depth, often employed in interviews.",
+                "definition_hebrew": "קבוצה של שאילתות כתובות או אלקטרוניות המשמשות לבדיקה מעמיקה של נושא, המועסקות לעתים קרובות בראיונות.",
+                "example": "During the interview process, candidates were asked a series of open-ended questions as part of the questionnaire.",
+                "example_hebrew": "במהלך תהליך הראיון, נשאלו המועמדים סדרה של שאלות פתוחות במסגרת השאלון."
+            },
+            {
+                "definition": "A list of specific questions designed for educational assessment or evaluation purposes.",
+                "definition_hebrew": "רשימה של שאלות ספציפיות המיועדות למטרות הערכה או הערכה חינוכית.",
+                "example": "The teacher handed out a questionnaire to each student to evaluate their understanding of the new topic discussed in class.",
+                "example_hebrew": "המורה חילקה שאלון לכל תלמיד כדי להעריך את הבנתו בנושא החדש שנדון בכיתה."
+            }
+        ]
+    }
+]

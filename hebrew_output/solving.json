@@ -1,0 +1,40 @@
+[
+    {
+        "word": "solving",
+        "word_hebrew": "פְּתִירָה",
+        "main_definition": "Solving refers to the process of finding a solution or resolution to a problem, puzzle, equation, or challenge.",
+        "main_definition_hebrew": "פתרון מתייחס לתהליך של מציאת פתרון או פתרון לבעיה, חידה, משוואה או אתגר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Finding an answer or outcome for a mathematical equation or problem",
+                "definition_hebrew": "מציאת תשובה או תוצאה עבור משוואה או בעיה מתמטית",
+                "example": "She was able to solve the quadratic equation using the quadratic formula.",
+                "example_hebrew": "היא הצליחה לפתור את המשוואה הריבועית באמצעות הנוסחה הריבועית."
+            },
+            {
+                "definition": "Resolving conflicts, issues, or disputes between individuals or groups",
+                "definition_hebrew": "פתרון קונפליקטים, בעיות או מחלוקות בין יחידים או קבוצות",
+                "example": "The mediator helped in solving the long-standing feud between two neighbors over a property boundary.",
+                "example_hebrew": "המגשר עזר בפתרון הסכסוך הממושך בין שני שכנים על גבול הנכס."
+            },
+            {
+                "definition": "Addressing and fixing technical problems with machines or systems",
+                "definition_hebrew": "טיפול ותיקון בעיות טכניות במכונות או מערכות",
+                "example": "Our IT team worked diligently to solve the server outage issue that affected our online services.",
+                "example_hebrew": "צוות ה-IT שלנו עבד במרץ כדי לפתור את בעיית הפסקת השרת שהשפיעה על השירותים המקוונים שלנו."
+            },
+            {
+                "definition": "Understanding complex concepts by breaking them down into simpler parts",
+                "definition_hebrew": "הבנת מושגים מורכבים על ידי פירוקם לחלקים פשוטים יותר",
+                "example": "The teacher used a step-by-step approach to help students understand and solve advanced mathematical problems.",
+                "example_hebrew": "המורה השתמש בגישה צעד אחר צעד כדי לעזור לתלמידים להבין ולפתור בעיות מתמטיות מתקדמות."
+            },
+            {
+                "definition": "Finding solutions or remedies for challenges in life, such as personal issues or obstacles",
+                "definition_hebrew": "מציאת פתרונות או תרופות לאתגרים בחיים, כגון בעיות אישיות או מכשולים",
+                "example": "After struggling with time management, she developed strategies that helped her solve the problem effectively.",
+                "example_hebrew": "לאחר מאבק בניהול זמן, היא פיתחה אסטרטגיות שעזרו לה לפתור את הבעיה ביעילות."
+            }
+        ]
+    }
+]

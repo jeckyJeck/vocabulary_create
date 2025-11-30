@@ -1,0 +1,40 @@
+[
+    {
+        "word": "saves",
+        "word_hebrew": "חוסך",
+        "main_definition": "To prevent from being harmed or lost, or to preserve something in its original state.",
+        "main_definition_hebrew": "למנוע פגיעה או אובדן, או לשמר משהו במצבו המקורי.",
+        "meanings_and_examples": [
+            {
+                "definition": "To rescue someone or something from a dangerous situation",
+                "definition_hebrew": "לחלץ מישהו או משהו ממצב מסוכן",
+                "example": "The lifeguard saved the drowning child by pulling them out of the water.",
+                "example_hebrew": "המציל הציל את הילד הטובע בכך שהוציא אותם מהמים."
+            },
+            {
+                "definition": "To keep money in a bank account instead of spending it, to preserve its value over time",
+                "definition_hebrew": "לשמור כסף בחשבון בנק במקום לבזבז אותו, לשמר את ערכו לאורך זמן",
+                "example": "By putting her savings into a high-yield account, she can watch her money grow with interest.",
+                "example_hebrew": "על ידי הכנסת חסכונותיה לחשבון עם תשואה גבוהה, היא יכולה לראות את הכסף שלה גדל בריבית."
+            },
+            {
+                "definition": "To maintain the quality or condition of something by preventing damage or decay",
+                "definition_hebrew": "לשמור על האיכות או המצב של משהו על ידי מניעת נזק או ריקבון",
+                "example": "Regularly cleaning and polishing your car will save it from rust and deterioration.",
+                "example_hebrew": "ניקוי והברקה קבועים של המכונית שלכם יחסכו אותו מחלודה והידרדרות."
+            },
+            {
+                "definition": "To successfully avoid a negative outcome, often in games or competitions",
+                "definition_hebrew": "כדי למנוע בהצלחה תוצאה שלילית, לעתים קרובות במשחקים או בתחרויות",
+                "example": "The goalkeeper made an incredible diving catch to save his team's win by preventing the ball from entering the net.",
+                "example_hebrew": "השוער ביצע תפיסת צלילה מדהימה כדי להציל את הניצחון של קבוצתו על ידי מניעת כניסת הכדור לרשת."
+            },
+            {
+                "definition": "A digital storage format that saves data without requiring constant power",
+                "definition_hebrew": "פורמט אחסון דיגיטלי ששומר נתונים ללא צורך בכוח קבוע",
+                "example": "This flash drive can store hundreds of songs and will work even when you turn off your computer.",
+                "example_hebrew": "כונן הבזק זה יכול לאחסן מאות שירים ויעבוד גם כאשר אתה מכבה את המחשב שלך."
+            }
+        ]
+    }
+]

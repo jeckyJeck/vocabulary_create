@@ -1,0 +1,40 @@
+[
+    {
+        "word": "status",
+        "word_hebrew": "סטָטוּס",
+        "main_definition": "Status refers to the current condition or situation of a person, object, or process.",
+        "main_definition_hebrew": "סטטוס מתייחס למצב או למצב הנוכחי של אדם, חפץ או תהליך.",
+        "meanings_and_examples": [
+            {
+                "definition": "A position in society or social standing.",
+                "definition_hebrew": "תפקיד בחברה או במעמד חברתי.",
+                "example": "His high-status job as a CEO brought him wealth and respect.",
+                "example_hebrew": "עבודתו בעלת המעמד הגבוה כמנכ\"ל הביאה לו עושר וכבוד."
+            },
+            {
+                "definition": "The current state of affairs, progress, or development.",
+                "definition_hebrew": "מצב העניינים הנוכחי, ההתקדמות או ההתפתחות.",
+                "example": "We need to update the status of our project after reviewing recent changes.",
+                "example_hebrew": "עלינו לעדכן את סטטוס הפרויקט שלנו לאחר בחינת השינויים האחרונים."
+            },
+            {
+                "definition": "A record or information about a person's background and career.",
+                "definition_hebrew": "תיעוד או מידע על הרקע והקריירה של אדם.",
+                "example": "She submitted her CV to showcase her professional status for job applications.",
+                "example_hebrew": "היא הגישה את קורות החיים שלה כדי להציג את מעמדה המקצועי להגשת מועמדות לעבודה."
+            },
+            {
+                "definition": "The condition of a website, system, or process in terms of functionality.",
+                "definition_hebrew": "המצב של אתר אינטרנט, מערכת או תהליך מבחינת פונקציונליות.",
+                "example": "There was an error in the server's status that caused downtime.",
+                "example_hebrew": "אירעה שגיאה במצב השרת שגרמה להשבתה."
+            },
+            {
+                "definition": "A designation given by authorities to denote something as legal, official, or authorized.",
+                "definition_hebrew": "ייעוד שניתן על ידי הרשויות כדי לציין משהו כחוקי, רשמי או מורשה.",
+                "example": "He received a certificate of completion, confirming his project's approved status.",
+                "example_hebrew": "הוא קיבל תעודת סיום המאשרת את הסטטוס המאושר של הפרויקט שלו."
+            }
+        ]
+    }
+]

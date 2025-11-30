@@ -1,0 +1,40 @@
+[
+    {
+        "word": "pay",
+        "word_hebrew": "לְשַׁלֵם",
+        "main_definition": "To give someone money in exchange for goods or services, as a form of compensation.",
+        "main_definition_hebrew": "לתת למישהו כסף תמורת סחורה או שירותים, כסוג של פיצוי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Exchange monetary value for goods or services.",
+                "definition_hebrew": "החלפת ערך כספי עבור סחורות או שירותים.",
+                "example": "I will pay $10 for the groceries at the supermarket.",
+                "example_hebrew": "אני אשלם 10 דולר עבור המצרכים בסופר."
+            },
+            {
+                "definition": "Make a financial contribution to support something, such as an event or cause.",
+                "definition_hebrew": "תרום תרומה כספית כדי לתמוך במשהו, כגון אירוע או מטרה.",
+                "example": "She paid a donation to help fund the local food bank's operations.",
+                "example_hebrew": "היא שילמה תרומה כדי לסייע במימון הפעילות של בנק המזון המקומי."
+            },
+            {
+                "definition": "To suffer punishment or consequences for one's actions.",
+                "definition_hebrew": "לסבול מעונש או תוצאות על מעשיו.",
+                "example": "The young boy had to pay for breaking his mother's favorite vase by doing extra chores.",
+                "example_hebrew": "הילד הצעיר נאלץ לשלם על שבירת האגרטל האהוב על אמו על ידי ביצוע מטלות נוספות."
+            },
+            {
+                "definition": "In gambling, it refers to the loss of money bet on a game or event.",
+                "definition_hebrew": "בהימורים, זה מתייחס לאובדן כסף הימור על משחק או אירוע.",
+                "example": "He lost all his money after several rounds of poker at the casino.",
+                "example_hebrew": "הוא הפסיד את כל כספו לאחר מספר סיבובי פוקר בקזינו."
+            },
+            {
+                "definition": "To receive an allowance or fixed amount regularly.",
+                "definition_hebrew": "לקבל קצבה או סכום קבוע באופן קבוע.",
+                "example": "She gets paid every Friday for her part-time job at the bookstore.",
+                "example_hebrew": "היא מקבלת שכר מדי יום שישי עבור העבודה החלקית שלה בחנות הספרים."
+            }
+        ]
+    }
+]

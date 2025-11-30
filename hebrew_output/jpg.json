@@ -1,0 +1,28 @@
+[
+    {
+        "word": "jpg",
+        "word_hebrew": "jpg",
+        "main_definition": "JPG is a file format used to store digital images, particularly those taken by cameras or scanners.",
+        "main_definition_hebrew": "JPG הוא פורמט קובץ המשמש לאחסון תמונות דיגיטליות, במיוחד אלה שצולמו על ידי מצלמות או סורקים.",
+        "meanings_and_examples": [
+            {
+                "definition": "File extension for image files",
+                "definition_hebrew": "סיומת קובץ לקבצי תמונות",
+                "example": "I have several photos saved as .jpg on my computer.",
+                "example_hebrew": "יש לי מספר תמונות שמורות כ-.jpg במחשב שלי."
+            },
+            {
+                "definition": "Joint Photographic Experts Group (used in the context of JPG format)",
+                "definition_hebrew": "קבוצת מומחי צילום המשותפת (בשימוש בהקשר של פורמט JPG)",
+                "example": "The compression algorithm used by JPEG is developed by the Joint Photographic Experts Group.",
+                "example_hebrew": "אלגוריתם הדחיסה בשימוש JPEG פותח על ידי קבוצת המומחים לצילום Joint Photographic."
+            },
+            {
+                "definition": "Abbreviation for 'jumping jaguar'",
+                "definition_hebrew": "קיצור של 'יגואר קופץ'",
+                "example": "There seems to be no logical reason behind using '.jpg' as a file extension, it could have been something like '.jumpy' instead.",
+                "example_hebrew": "נראה שאין סיבה הגיונית מאחורי השימוש ב'.jpg' בתור סיומת קובץ, זה יכול היה להיות משהו כמו '.jumpy' במקום זאת."
+            }
+        ]
+    }
+]

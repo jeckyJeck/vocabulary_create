@@ -1,0 +1,40 @@
+[
+    {
+        "word": "math",
+        "word_hebrew": "מתמטיקה",
+        "main_definition": "Math is a field of study that deals with numbers, quantities, shapes, structures, and their relationships and operations.",
+        "main_definition_hebrew": "מתמטיקה היא תחום מחקר העוסק במספרים, כמויות, צורות, מבנים, ויחסיהם ופעולותיהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "The academic subject focused on the study of quantity, structure, space, and change.",
+                "definition_hebrew": "המקצוע האקדמי התמקד בחקר כמות, מבנה, מרחב ושינוי.",
+                "example": "She excels in math class, solving complex equations with ease.",
+                "example_hebrew": "היא מצטיינת בשיעורי מתמטיקה, פותרת משוואות מורכבות בקלות."
+            },
+            {
+                "definition": "A person who works professionally in mathematics or studies it at an advanced level.",
+                "definition_hebrew": "אדם העוסק באופן מקצועי במתמטיקה או לומד אותה ברמה מתקדמת.",
+                "example": "The renowned mathematician was awarded the Fields Medal for his contributions to number theory.",
+                "example_hebrew": "למתמטיקאי הנודע הוענק מדליית פילדס על תרומתו לתורת המספרים."
+            },
+            {
+                "definition": "Mathematical reasoning and problem-solving skills used outside of formal education, often as a means of solving practical problems.",
+                "definition_hebrew": "חשיבה מתמטית וכישורי פתרון בעיות המשמשים מחוץ לחינוך הפורמלי, לרוב כאמצעי לפתרון בעיות מעשיות.",
+                "example": "He uses mathematical principles in his job to optimize manufacturing processes.",
+                "example_hebrew": "הוא משתמש בעקרונות מתמטיים בתפקידו כדי לייעל את תהליכי הייצור."
+            },
+            {
+                "definition": "An informal term for the act of counting or calculating something quickly and roughly.",
+                "definition_hebrew": "מונח לא פורמלי לפעולת ספירה או חישוב של משהו במהירות ובגסות.",
+                "example": "I'll do some math. It's about 50 miles from here, so we should reach our destination in two hours if we maintain a steady pace.",
+                "example_hebrew": "אני אעשה קצת מתמטיקה. זה בערך 50 מייל מכאן, אז אנחנו אמורים להגיע ליעד שלנו תוך שעתיים אם נשמור על קצב קבוע."
+            },
+            {
+                "definition": "A mathematical concept or principle that is commonly known and used by people without formal education.",
+                "definition_hebrew": "מושג או עיקרון מתמטי המוכר ומשתמשים בו אנשים ללא השכלה פורמלית.",
+                "example": "The Pythagorean theorem is an example of math that anyone can understand, even without studying it formally.",
+                "example_hebrew": "משפט פיתגורס הוא דוגמה למתמטיקה שכל אחד יכול להבין, גם בלי ללמוד אותה באופן רשמי."
+            }
+        ]
+    }
+]

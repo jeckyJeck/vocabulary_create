@@ -1,0 +1,40 @@
+[
+    {
+        "word": "cent",
+        "word_hebrew": "סֶנט",
+        "main_definition": "A cent is a monetary unit, equal to one hundredth of a dollar.",
+        "main_definition_hebrew": "סנט הוא יחידה כספית, השווה למאית הדולר.",
+        "meanings_and_examples": [
+            {
+                "definition": "The plural form of 'cent', referring to multiple units of currency that are worth one-hundredth of a dollar each",
+                "definition_hebrew": "צורת הרבים של 'סנט', המתייחסת ליחידות מטבע מרובות ששוות מאה דולר כל אחת",
+                "example": "I have two cents; I would like some change.",
+                "example_hebrew": "יש לי שני סנטים; הייתי רוצה קצת שינוי."
+            },
+            {
+                "definition": "A term used in sports, specifically baseball, to denote the number of runs batted in by a player",
+                "definition_hebrew": "מונח המשמש בספורט, במיוחד בייסבול, כדי לציין את מספר הריצות שחבט שחקן",
+                "example": "The player ended his season with 80 cents in RBIs.",
+                "example_hebrew": "השחקן סיים את העונה שלו עם 80 סנט ב-RBIs."
+            },
+            {
+                "definition": "In astronomy, 'cent' refers to one-hundredth of a degree on a celestial sphere",
+                "definition_hebrew": "באסטרונומיה, 'סנט' מתייחס למאה המעלה בכדור שמימי",
+                "example": "A star is located at 45 degrees and 25 centesimal angular distance from the celestial equator.",
+                "example_hebrew": "כוכב נמצא במרחק של 45 מעלות ובמרחק זוויתי של 25 סנטסימלי מקו המשווה השמימי."
+            },
+            {
+                "definition": "In geometry, 'cent' can refer to one-hundredth of a unit circle or any shape",
+                "definition_hebrew": "בגיאומטריה, 'סנט' יכול להתייחס למאה ממעגל יחידה או לכל צורה",
+                "example": "A quarter circle has an area that is one-fourth of pi times the radius squared, and it covers 75 centesimal degrees.",
+                "example_hebrew": "לרבע עיגול יש שטח שהוא רבע מהפי כפול הרדיוס בריבוע, והוא מכסה 75 מעלות סנטסימל."
+            },
+            {
+                "definition": "In computing and digital storage, 'cent' may denote a hundred bytes or units",
+                "definition_hebrew": "במחשוב ובאחסון דיגיטלי, 'סנט' עשוי לציין מאה בתים או יחידות",
+                "example": "This file size was originally stated as 10 cents but is actually equal to 100 bytes when converted.",
+                "example_hebrew": "גודל קובץ זה צוין במקור כ-10 סנט, אך הוא למעשה שווה ל-100 בתים בעת ההמרה."
+            }
+        ]
+    }
+]

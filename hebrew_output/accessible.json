@@ -1,0 +1,34 @@
+[
+    {
+        "word": "accessible",
+        "word_hebrew": "נגיש",
+        "main_definition": "Easy to approach, reach, enter, or use.",
+        "main_definition_hebrew": "קל לגשת, להגיע, להיכנס או להשתמש.",
+        "meanings_and_examples": [
+            {
+                "definition": "Easily available and obtainable.",
+                "definition_hebrew": "זמין וניתן להשגה בקלות.",
+                "example": "The library is accessible online for anyone with an internet connection.",
+                "example_hebrew": "הספרייה נגישה באופן מקוון לכל מי שיש לו חיבור לאינטרנט."
+            },
+            {
+                "definition": "Physically reachable, especially by those who have disabilities.",
+                "definition_hebrew": "נגיש פיזית, במיוחד לבעלי מוגבלויות.",
+                "example": "The entrance ramp at the building makes it accessible to wheelchair users.",
+                "example_hebrew": "רמפת הכניסה בבניין מנגישה אותו לבעלי כיסא גלגלים."
+            },
+            {
+                "definition": "Easy for people to understand or use due to simplicity and clarity.",
+                "definition_hebrew": "קל לאנשים להבין או להשתמש בשל הפשטות והבהירות.",
+                "example": "The instructions on how to assemble this furniture are very accessible, even for beginners.",
+                "example_hebrew": "ההוראות כיצד להרכיב את הרהיט הזה נגישות מאוד, אפילו למתחילים."
+            },
+            {
+                "definition": "Can be reached through a particular pathway or means.",
+                "definition_hebrew": "ניתן להגיע דרך מסלול או אמצעי מסוים.",
+                "example": "This product is accessible via multiple online platforms and retail stores.",
+                "example_hebrew": "מוצר זה נגיש באמצעות מספר פלטפורמות מקוונות וחנויות קמעונאיות."
+            }
+        ]
+    }
+]

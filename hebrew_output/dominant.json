@@ -1,0 +1,40 @@
+[
+    {
+        "word": "dominant",
+        "word_hebrew": "דוֹמִינָנטִי",
+        "main_definition": "Dominant refers to something or someone that is most influential, powerful, or prevalent in a particular context.",
+        "main_definition_hebrew": "דומיננטי מתייחס למשהו או מישהו שהכי משפיע, חזק או נפוץ בהקשר מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In genetics, it relates to the allele that expresses itself over another when present",
+                "definition_hebrew": "בגנטיקה, זה מתייחס לאלל שמתבטא על פני אחר כשהוא קיים",
+                "example": "A dominant gene for brown eyes will mask a recessive gene for blue eyes.",
+                "example_hebrew": "גן דומיננטי לעיניים חומות יסווה גן רצסיבי לעיניים כחולות."
+            },
+            {
+                "definition": "Pertaining to a leader or entity which has control and influence in a particular area",
+                "definition_hebrew": "נוגע למנהיג או ישות שיש להם שליטה והשפעה בתחום מסוים",
+                "example": "The dominant company in the market controls prices due to its large share.",
+                "example_hebrew": "החברה הדומיננטית בשוק שולטת במחירים בשל חלקה הגדול."
+            },
+            {
+                "definition": "Referring to an element that stands out in appearance, such as color",
+                "definition_hebrew": "הכוונה לאלמנט הבולט במראה, כגון צבע",
+                "example": "In terms of flowers, red is often a dominant color over white or yellow petals.",
+                "example_hebrew": "מבחינת פרחים, אדום הוא לעתים קרובות צבע דומיננטי על עלי כותרת לבנים או צהובים."
+            },
+            {
+                "definition": "In statistics, it describes the highest frequency among all other frequencies within a dataset",
+                "definition_hebrew": "בסטטיסטיקה, הוא מתאר את התדירות הגבוהה ביותר מבין כל שאר התדרים בתוך מערך נתונים",
+                "example": "The most common score on the test was 85%, making it the dominant score.",
+                "example_hebrew": "הציון הנפוץ ביותר במבחן היה 85%, מה שהופך אותו לציון הדומיננטי."
+            },
+            {
+                "definition": "In chess or games involving strategy, it refers to moves that control key positions",
+                "definition_hebrew": "בשחמט או במשחקים הכוללים אסטרטגיה, זה מתייחס למהלכים השולטים בעמדות מפתח",
+                "example": "Castling is a dominant move in chess as it helps protect the king and position pawns effectively.",
+                "example_hebrew": "הטלה היא מהלך דומיננטי בשחמט מכיוון שהוא עוזר להגן על המלך ולמקם פיונים ביעילות."
+            }
+        ]
+    }
+]

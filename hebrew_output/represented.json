@@ -1,0 +1,40 @@
+[
+    {
+        "word": "represented",
+        "word_hebrew": "מיוצג",
+        "main_definition": "To act or speak on behalf of someone or something, to symbolize a particular idea, concept, group, or situation.",
+        "main_definition_hebrew": "לפעול או לדבר בשם מישהו או משהו, כדי לסמל רעיון, מושג, קבוצה או מצב מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Acting as an official spokesperson for someone",
+                "definition_hebrew": "פועל כדובר רשמי של מישהו",
+                "example": "She was represented by a lawyer in the court.",
+                "example_hebrew": "היא יוצגה על ידי עורך דין בבית המשפט."
+            },
+            {
+                "definition": "Symbolizing or embodying something, often with visual elements",
+                "definition_hebrew": "מסמל או מגלם משהו, לעתים קרובות עם אלמנטים ויזואליים",
+                "example": "The dove is commonly used to represent peace.",
+                "example_hebrew": "היונה משמשת בדרך כלל לייצג שלום."
+            },
+            {
+                "definition": "Portraying or depicting a certain group of people in media or literature",
+                "definition_hebrew": "הצגת או תיאור של קבוצה מסוימת של אנשים בתקשורת או בספרות",
+                "example": "In the novel, minority groups were represented by diverse characters.",
+                "example_hebrew": "ברומן, קבוצות מיעוט היו מיוצגות על ידי דמויות מגוונות."
+            },
+            {
+                "definition": "To show up in a statistical representation such as percentages or figures",
+                "definition_hebrew": "להופיע בייצוג סטטיסטי כגון אחוזים או נתונים",
+                "example": "The poll showed that 60% of voters supported Candidate A.",
+                "example_hebrew": "הסקר הראה כי 60% מהמצביעים תמכו במועמד א'."
+            },
+            {
+                "definition": "In mathematics, to express one set by using another set's elements",
+                "definition_hebrew": "במתמטיקה, לבטא קבוצה אחת על ידי שימוש באלמנטים של קבוצה אחרת",
+                "example": "A function f(x) represents the relationship between x and y values in a graph.",
+                "example_hebrew": "פונקציה f(x) מייצגת את הקשר בין ערכי x ו-y בגרף."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "except",
+        "word_hebrew": "מלבד",
+        "main_definition": "A conjunction used to indicate exclusion or something left out.",
+        "main_definition_hebrew": "צירוף המשמש לציון הדרה או משהו שנשאר בחוץ.",
+        "meanings_and_examples": [
+            {
+                "definition": "To exclude someone or something from a group, list, etc.",
+                "definition_hebrew": "להוציא מישהו או משהו מקבוצה, רשימה וכו'.",
+                "example": "Everyone was invited to the party except John.",
+                "example_hebrew": "כולם הוזמנו למסיבה מלבד ג'ון."
+            },
+            {
+                "definition": "Used as an adverbial phrase meaning 'only'",
+                "definition_hebrew": "משמש כביטוי ערכי שמשמעותו 'רק'",
+                "example": "The concert tickets cost $50 except for VIP seats which are $100.",
+                "example_hebrew": "הכרטיסים להופעה עולים 50$ למעט מושבי VIP שהם 100$."
+            },
+            {
+                "definition": "To not consider a particular factor or situation when making a decision or judgment",
+                "definition_hebrew": "לא לשקול גורם או מצב מסוים בעת קבלת החלטה או שיפוט",
+                "example": "I don't care about the weather; I will go hiking regardless.",
+                "example_hebrew": "לא אכפת לי ממזג האוויר; אני אלך לטייל בלי קשר."
+            },
+            {
+                "definition": "Used to indicate an exception to a general rule or statement",
+                "definition_hebrew": "משמש לציון חריג לכלל כללי או להצהרה",
+                "example": "All cars are required to stop at this intersection, except emergency vehicles.",
+                "example_hebrew": "כל המכוניות נדרשות לעצור בצומת זה, למעט רכבי חירום."
+            }
+        ]
+    }
+]

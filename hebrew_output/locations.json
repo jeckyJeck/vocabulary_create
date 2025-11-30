@@ -1,0 +1,28 @@
+[
+    {
+        "word": "locations",
+        "word_hebrew": "מיקומים",
+        "main_definition": "The term 'locations' can refer to various meanings, including specific geographical places or addresses; also in context with idioms, it implies different concepts depending on usage.",
+        "main_definition_hebrew": "המונח 'מיקומים' יכול להתייחס למשמעויות שונות, לרבות מקומות גיאוגרפיים ספציפיים או כתובות; גם בהקשר עם ניבים, זה מרמז על מושגים שונים בהתאם לשימוש.",
+        "meanings_and_examples": [
+            {
+                "definition": "Specific geographical places",
+                "definition_hebrew": "מקומות גיאוגרפיים ספציפיים",
+                "example": "The cities of New York and Paris are popular travel destinations.",
+                "example_hebrew": "הערים ניו יורק ופריז הן יעדי טיול פופולריים."
+            },
+            {
+                "definition": "Addresses or points where events occur",
+                "definition_hebrew": "כתובות או נקודות שבהן מתרחשים אירועים",
+                "example": "The locations where the concerts were held this year include Madison Square Garden in New York City and The O2 Arena in London.",
+                "example_hebrew": "המקומות שבהם נערכו הקונצרטים השנה כוללים את מדיסון סקוור גארדן בניו יורק ואת ה-O2 ארנה בלונדון."
+            },
+            {
+                "definition": "In idiomatic expressions, it can refer to different concepts such as specific data points or positions within a larger context",
+                "definition_hebrew": "בביטויים אידיומטיים, זה יכול להתייחס למושגים שונים כמו נקודות נתונים ספציפיות או מיקומים בהקשר גדול יותר",
+                "example": "During the meeting, they discussed several key locations related to the project's progress.",
+                "example_hebrew": "במהלך הפגישה, הם דנו בכמה מיקומים מרכזיים הקשורים להתקדמות הפרויקט."
+            }
+        ]
+    }
+]

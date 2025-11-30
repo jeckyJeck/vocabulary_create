@@ -1,0 +1,40 @@
+[
+    {
+        "word": "orders",
+        "word_hebrew": "הזמנות",
+        "main_definition": "Orders refer to commands or instructions given by someone, usually in a structured context such as military, business, or food service.",
+        "main_definition_hebrew": "פקודות מתייחסות לפקודות או הוראות שניתנו על ידי מישהו, בדרך כלל בהקשר מובנה כגון צבא, עסקים או שירות מזון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Military command",
+                "definition_hebrew": "פיקוד צבאי",
+                "example": "The general issued orders for the troops to advance.",
+                "example_hebrew": "הגנרל הוציא פקודות לכוחות להתקדם."
+            },
+            {
+                "definition": "Business instructions",
+                "definition_hebrew": "הנחיות עסקיות",
+                "example": "The manager gave new orders to the employees about productivity improvements.",
+                "example_hebrew": "המנהל נתן פקודות חדשות לעובדים לגבי שיפורי פרודוקטיביות."
+            },
+            {
+                "definition": "Food service requests",
+                "definition_hebrew": "בקשות לשירות אוכל",
+                "example": "I placed an order for pizza and salad at the restaurant.",
+                "example_hebrew": "הזמנתי פיצה וסלט במסעדה."
+            },
+            {
+                "definition": "Legal mandate or court-issued directive",
+                "definition_hebrew": "מנדט משפטי או הנחיה מבית המשפט",
+                "example": "The judge issued orders to stop contemptuous behavior in the courtroom.",
+                "example_hebrew": "השופט הוציא צווים להפסיק התנהגות מבזה באולם."
+            },
+            {
+                "definition": "Arrangement or plan of action",
+                "definition_hebrew": "הסדר או תוכנית פעולה",
+                "example": "She laid out her orders for the day, starting with a meeting at 9 am.",
+                "example_hebrew": "היא פרשה את הפקודות שלה להיום, החל בפגישה בשעה 9 בבוקר."
+            }
+        ]
+    }
+]

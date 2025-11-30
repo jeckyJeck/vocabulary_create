@@ -1,0 +1,34 @@
+[
+    {
+        "word": "award",
+        "word_hebrew": "פרס",
+        "main_definition": "An award is a prize or other form of recognition given to someone in acknowledgment of their achievements, skills, or contributions.",
+        "main_definition_hebrew": "פרס הוא פרס או צורה אחרת של הכרה שניתן למישהו מתוך הכרה בהישגיו, כישוריו או תרומתו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A physical object representing honor or distinction, such as a trophy or medal.",
+                "definition_hebrew": "חפץ פיזי המייצג כבוד או הצטיינות, כגון גביע או מדליה.",
+                "example": "The Olympic gold medal is an award given to the winners of each event in the Games.",
+                "example_hebrew": "מדליית הזהב האולימפית היא פרס המוענק לזוכים בכל אירוע במשחקים."
+            },
+            {
+                "definition": "An accolade granted by organizations, institutions, or other groups for exceptional performance, achievement, or contribution.",
+                "definition_hebrew": "אות הוקרה המוענק על ידי ארגונים, מוסדות או קבוצות אחרות על ביצועים, הישגים או תרומה יוצאי דופן.",
+                "example": "She received a prestigious MacArthur fellowship award for her groundbreaking research in neuroscience.",
+                "example_hebrew": "היא קיבלה פרס מלגת מקארתור יוקרתי על מחקריה פורצי הדרך במדעי המוח."
+            },
+            {
+                "definition": "A title or honor granted as recognition of someone's excellence or distinction in a particular field.",
+                "definition_hebrew": "תואר או כבוד המוענק כהכרה במצוינות או הצטיינות של מישהו בתחום מסוים.",
+                "example": "The Pulitzer Prize is an award given to journalists and authors for distinguished work in American letters.",
+                "example_hebrew": "פרס פוליצר הוא פרס המוענק לעיתונאים וסופרים על עבודה מכובדת באותיות אמריקאיות."
+            },
+            {
+                "definition": "An official certificate acknowledging completion of a course, degree, or training program.",
+                "definition_hebrew": "תעודה רשמית המעידה על סיום קורס, תואר או תוכנית הכשרה.",
+                "example": "Upon graduation, each student receives an academic diploma as an award for their successful completion of the program.",
+                "example_hebrew": "בסיום הלימודים, כל סטודנט מקבל דיפלומה אקדמית כפרס על סיומו המוצלח של התכנית."
+            }
+        ]
+    }
+]

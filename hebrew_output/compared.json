@@ -1,0 +1,28 @@
+[
+    {
+        "word": "compared",
+        "word_hebrew": "בהשוואה",
+        "main_definition": "To examine or consider the similarities and differences between two things.",
+        "main_definition_hebrew": "לבחון או לשקול את הדמיון וההבדלים בין שני דברים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To evaluate the similarities and differences of two objects, actions, ideas, etc., often for comparison purposes.",
+                "definition_hebrew": "להעריך את הדמיון וההבדלים של שני אובייקטים, פעולות, רעיונות וכו', לעתים קרובות למטרות השוואה.",
+                "example": "When comparing two cars, we look at their price, fuel efficiency, and features.",
+                "example_hebrew": "כאשר משווים בין שתי מכוניות, אנו בוחנים את המחיר, יעילות הדלק והתכונות שלהן."
+            },
+            {
+                "definition": "Used as a verb to describe the act of evaluating one thing against another in order to determine similarities or differences.",
+                "definition_hebrew": "משמש כפועל לתיאור פעולת הערכת דבר אחד מול דבר אחר על מנת לקבוע קווי דמיון או הבדלים.",
+                "example": "His performance this year was compared to his performance last year, showing significant improvement.",
+                "example_hebrew": "הביצועים שלו השנה הושוו לביצועיו בשנה שעברה, והראה שיפור משמעותי."
+            },
+            {
+                "definition": "Used informally when two things are considered roughly equal or almost the same in some respects.",
+                "definition_hebrew": "משמש באופן לא רשמי כאשר שני דברים נחשבים בערך שווים או כמעט זהים במובנים מסוימים.",
+                "example": "The two products have similar qualities; they're basically compared on price and durability.",
+                "example_hebrew": "לשני המוצרים איכויות דומות; הם בעצם מושווים על מחיר ועמידות."
+            }
+        ]
+    }
+]

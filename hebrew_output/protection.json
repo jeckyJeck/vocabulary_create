@@ -1,0 +1,40 @@
+[
+    {
+        "word": "protection",
+        "word_hebrew": "הֲגָנָה",
+        "main_definition": "The act of keeping someone or something safe from harm, damage, or loss.",
+        "main_definition_hebrew": "הפעולה של שמירה על מישהו או משהו בטוח מפני נזק, נזק או אובדן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Guarding against physical harm or danger",
+                "definition_hebrew": "שמירה מפני פגיעה פיזית או סכנה",
+                "example": "Having a security guard protect the premises.",
+                "example_hebrew": "יש מאבטח להגן על המקום."
+            },
+            {
+                "definition": "Preventing unauthorized access to personal data",
+                "definition_hebrew": "מניעת גישה בלתי מורשית לנתונים אישיים",
+                "example": "Using antivirus software to protect your computer from malware.",
+                "example_hebrew": "שימוש בתוכנת אנטי וירוס כדי להגן על המחשב מפני תוכנות זדוניות."
+            },
+            {
+                "definition": "Ensuring safety during travel or transportation",
+                "definition_hebrew": "הבטחת בטיחות במהלך נסיעה או הובלה",
+                "example": "Wearing a seatbelt in a car for protection while driving.",
+                "example_hebrew": "חגורת בטיחות ברכב להגנה בזמן נהיגה."
+            },
+            {
+                "definition": "Legal measures to safeguard rights and interests",
+                "definition_hebrew": "אמצעים משפטיים לשמירה על זכויות ואינטרסים",
+                "example": "Copyright laws protect authors' creative works from unauthorized use.",
+                "example_hebrew": "חוקי זכויות יוצרים מגנים על יצירות יצירתיות של מחברים מפני שימוש לא מורשה."
+            },
+            {
+                "definition": "Safeguarding natural resources or environment",
+                "definition_hebrew": "שמירה על משאבי הטבע או הסביבה",
+                "example": "Establishing a national park to protect wildlife and their habitats.",
+                "example_hebrew": "הקמת פארק לאומי להגנה על חיות הבר ובתי הגידול שלהן."
+            }
+        ]
+    }
+]

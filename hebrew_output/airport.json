@@ -1,0 +1,34 @@
+[
+    {
+        "word": "airport",
+        "word_hebrew": "שדה תעופה",
+        "main_definition": "An airport is a facility where aircraft regularly take off and land, and it provides services such as passenger processing, baggage handling, and maintenance for the planes.",
+        "main_definition_hebrew": "שדה תעופה הוא מתקן שבו מטוסים ממריאים ונוחתים באופן קבוע, והוא מספק שירותים כמו עיבוד נוסעים, טיפול בכבודה ותחזוקה למטוסים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A place for commercial aviation operations",
+                "definition_hebrew": "מקום לפעילות תעופה מסחרית",
+                "example": "The passengers were excited to board the plane at New York's JFK airport.",
+                "example_hebrew": "הנוסעים היו נרגשים לעלות למטוס בנמל התעופה JFK בניו יורק."
+            },
+            {
+                "definition": "An area with facilities like terminal buildings, parking lots and hangars",
+                "definition_hebrew": "אזור עם מתקנים כמו מבני טרמינלים, חניונים והאנגרים",
+                "example": "We arrived late because we couldn't find a parking spot near the airport.",
+                "example_hebrew": "הגענו באיחור כי לא מצאנו מקום חניה ליד שדה התעופה."
+            },
+            {
+                "definition": "A location where people gather to greet departing or arriving travelers",
+                "definition_hebrew": "מיקום שבו אנשים מתאספים כדי לקבל את פני המטיילים היוצאים או המגיעים",
+                "example": "The family gathered at the arrivals lounge to welcome their loved one back from abroad.",
+                "example_hebrew": "המשפחה התכנסה בטרקלין ההגעה כדי לקבל את פני יקירם בחזרה מחו\"ל."
+            },
+            {
+                "definition": "An aviation hub used for connecting flights and international travel",
+                "definition_hebrew": "מרכז תעופה המשמש לטיסות המשך ולנסיעות בינלאומיות",
+                "example": "Most of our flights are through London Heathrow airport, a major transit point in Europe.",
+                "example_hebrew": "רוב הטיסות שלנו הן דרך נמל התעופה הית'רו בלונדון, נקודת מעבר מרכזית באירופה."
+            }
+        ]
+    }
+]

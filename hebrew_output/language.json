@@ -1,0 +1,40 @@
+[
+    {
+        "word": "language",
+        "word_hebrew": "שפה",
+        "main_definition": "Language refers to systems of communication that use symbols, sounds, or gestures to convey meanings among individuals.",
+        "main_definition_hebrew": "שפה מתייחסת למערכות תקשורת המשתמשות בסמלים, צלילים או מחוות כדי להעביר משמעויות בין אנשים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A structured system of words and rules used for communication by a community",
+                "definition_hebrew": "מערכת מובנית של מילים וכללים המשמשת לתקשורת על ידי קהילה",
+                "example": "English is the primary language spoken in many countries around the world.",
+                "example_hebrew": "אנגלית היא השפה העיקרית המדוברת במדינות רבות ברחבי העולם."
+            },
+            {
+                "definition": "The ability to use words, both verbal or written, effectively to communicate with others.",
+                "definition_hebrew": "היכולת להשתמש במילים, הן בעל פה והן בכתב, ביעילות כדי לתקשר עם אחרים.",
+                "example": "She excels in languages and can fluently speak three: English, Spanish, and French.",
+                "example_hebrew": "היא מצטיינת בשפות ויכולה לדבר בשטף שלוש: אנגלית, ספרדית וצרפתית."
+            },
+            {
+                "definition": "A group of people who are united by a common language",
+                "definition_hebrew": "קבוצה של אנשים המאוחדים בשפה משותפת",
+                "example": "The Germanic languages include German, Dutch, Swedish, and Norwegian.",
+                "example_hebrew": "השפות הגרמניות כוללות גרמנית, הולנדית, שוודית ונורבגית."
+            },
+            {
+                "definition": "The collection of words in a specific dialect or form used by a particular country, region, or social group.",
+                "definition_hebrew": "אוסף המילים בניב או צורה ספציפיים המשמשים מדינה, אזור או קבוצה חברתית מסוימת.",
+                "example": "British English has different vocabulary and spelling from American English.",
+                "example_hebrew": "לאנגלית בריטית יש אוצר מילים ואיות שונים מאנגלית אמריקאית."
+            },
+            {
+                "definition": "A symbolic system that allows for the expression of abstract concepts and emotions",
+                "definition_hebrew": "מערכת סמלית המאפשרת ביטוי של מושגים ורגשות מופשטים",
+                "example": "Artists often use language in their work, whether through poetry or visual symbols.",
+                "example_hebrew": "אמנים מרבים להשתמש בשפה בעבודתם, בין אם באמצעות שירה או סמלים חזותיים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "themes",
+        "word_hebrew": "ערכות נושא",
+        "main_definition": "Themes are central topics, subjects, or messages that recur throughout a piece of literature, art, music, or any form of creative work.",
+        "main_definition_hebrew": "נושאים הם נושאים, נושאים או מסרים מרכזיים שחוזרים על עצמם בכל יצירה ספרותית, אמנות, מוזיקה או כל צורה של עבודה יצירתית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Topics explored in a literary work",
+                "definition_hebrew": "נושאים שנחקרו ביצירה ספרותית",
+                "example": "In the novel 'To Kill a Mockingbird', one of the central themes is racial inequality.",
+                "example_hebrew": "ברומן 'להרוג ציפור מלגלג', אחד הנושאים המרכזיים הוא אי שוויון גזעי."
+            },
+            {
+                "definition": "Recurring motifs or symbols that contribute to a story's meaning",
+                "definition_hebrew": "מוטיבים או סמלים חוזרים התורמים למשמעות הסיפור",
+                "example": "The green light in F. Scott Fitzgerald's 'The Great Gatsby' serves as a recurring symbol associated with themes of hope and the American Dream.",
+                "example_hebrew": "האור הירוק ב\"גטסבי הגדול\" של פ. סקוט פיצג'רלד משמש כסמל חוזר הקשור לנושאים של תקווה והחלום האמריקאי."
+            },
+            {
+                "definition": "Underlying ideas or messages conveyed by an artistic work",
+                "definition_hebrew": "רעיונות או מסרים העומדים בבסיס יצירה אמנותית",
+                "example": "In Vincent van Gogh's painting 'Starry Night', one can interpret nature as a central theme, depicting beauty in simplicity and the power of imagination.",
+                "example_hebrew": "בציור 'ליל כוכבים' של וינסנט ואן גוך אפשר לפרש את הטבע כנושא מרכזי, המתאר יופי בפשטות וכוח הדמיון."
+            },
+            {
+                "definition": "Subject matter or focus that unifies different parts of a creative work",
+                "definition_hebrew": "נושא או מיקוד המאחד חלקים שונים של יצירה יצירתית",
+                "example": "In Shakespeare's play 'Hamlet', the theme of revenge connects various scenes, characters, and plot developments.",
+                "example_hebrew": "במחזה 'המלט' של שייקספיר, נושא הנקמה מחבר בין סצנות, דמויות והתפתחויות עלילתיות שונות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "aid",
+        "word_hebrew": "סיוע",
+        "main_definition": "To provide assistance or support, either financially, physically, or otherwise.",
+        "main_definition_hebrew": "לספק סיוע או תמיכה, כלכלית, פיזית או אחרת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Financial assistance to help someone in need.",
+                "definition_hebrew": "סיוע כספי לעזרה למישהו במצוקה.",
+                "example": "The government provided financial aid to the families affected by natural disasters.",
+                "example_hebrew": "הממשלה העניקה סיוע כספי למשפחות שנפגעו מאסונות טבע."
+            },
+            {
+                "definition": "Providing tools, resources or knowledge to solve a problem or achieve a goal.",
+                "definition_hebrew": "מתן כלים, משאבים או ידע לפתרון בעיה או השגת מטרה.",
+                "example": "The charity organization offered technical aid to farmers in developing countries by teaching them modern agricultural techniques.",
+                "example_hebrew": "ארגון הצדקה הציע סיוע טכני לחקלאים במדינות מתפתחות בכך שלימד אותם טכניקות חקלאיות מודרניות."
+            },
+            {
+                "definition": "Offering help during emergencies such as natural disasters, wars, or accidents.",
+                "definition_hebrew": "מתן עזרה במצבי חירום כגון אסונות טבע, מלחמות או תאונות.",
+                "example": "International relief agencies sent medical and logistical aid to the earthquake-stricken area.",
+                "example_hebrew": "סוכנויות סיוע בינלאומיות שלחו סיוע רפואי ולוגיסטי לאזור מוכה רעידת האדמה."
+            },
+            {
+                "definition": "Providing physical support or assistance with daily tasks.",
+                "definition_hebrew": "מתן תמיכה פיזית או סיוע במשימות יומיומיות.",
+                "example": "The volunteers offered their hands-on aid by helping elderly people with grocery shopping and home chores.",
+                "example_hebrew": "המתנדבים הציעו את עזרתם המעשית על ידי עזרה לקשישים בקניית מצרכים ובמטלות הבית."
+            }
+        ]
+    }
+]

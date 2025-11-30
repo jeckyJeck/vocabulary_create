@@ -1,0 +1,34 @@
+[
+    {
+        "word": "clinical",
+        "word_hebrew": "קלינית",
+        "main_definition": "Relating to medical practice or procedures, often in a detached or impersonal manner.",
+        "main_definition_hebrew": "מתייחסים לפרקטיקה או לפרוצדורות רפואיות, לרוב באופן מנותק או לא אישי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Detached and objective",
+                "definition_hebrew": "מנותק ואובייקטיבי",
+                "example": "The doctor gave a clinical diagnosis of the patient's condition.",
+                "example_hebrew": "הרופא נתן אבחנה קלינית של מצבו של המטופל."
+            },
+            {
+                "definition": "Relating to medical research or experiments",
+                "definition_hebrew": "הנוגע למחקר רפואי או ניסויים",
+                "example": "Clinical trials are essential for testing new drugs.",
+                "example_hebrew": "ניסויים קליניים חיוניים לבדיקת תרופות חדשות."
+            },
+            {
+                "definition": "Related to a hospital or healthcare environment",
+                "definition_hebrew": "קשור לבית חולים או לסביבה רפואית",
+                "example": "She works in the clinical setting of an emergency room.",
+                "example_hebrew": "היא עובדת במסגרת הקלינית של חדר מיון."
+            },
+            {
+                "definition": "Lacking emotion or warmth",
+                "definition_hebrew": "חסר רגש או חום",
+                "example": "His clinical demeanor made it hard for others to connect with him on a personal level.",
+                "example_hebrew": "ההתנהגות הקלינית שלו הקשתה על אחרים להתחבר אליו ברמה האישית."
+            }
+        ]
+    }
+]

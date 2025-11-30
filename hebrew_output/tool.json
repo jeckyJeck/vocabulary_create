@@ -1,0 +1,28 @@
+[
+    {
+        "word": "tool",
+        "word_hebrew": "כְּלִי",
+        "main_definition": "A tool is an instrument, device, or piece of equipment designed to perform a specific task or function.",
+        "main_definition_hebrew": "כלי הוא מכשיר, מכשיר או ציוד שנועד לבצע משימה או פונקציה ספציפית.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of physical objects",
+                "definition_hebrew": "בהקשר של חפצים פיזיים",
+                "example": "A hammer is a tool used for driving nails into wood.",
+                "example_hebrew": "פטיש הוא כלי המשמש לנעילת מסמרים לתוך עץ."
+            },
+            {
+                "definition": "In computing and technology, refers to a software program that helps perform a specific task or function",
+                "definition_hebrew": "בתחום המחשוב והטכנולוגיה, הכוונה לתוכנה המסייעת בביצוע משימה או פונקציה ספציפית",
+                "example": "Google Chrome is a tool for browsing the internet. It allows you to search for information online and view web pages.",
+                "example_hebrew": "Google Chrome הוא כלי לגלישה באינטרנט. זה מאפשר לך לחפש מידע באינטרנט ולצפות בדפי אינטרנט."
+            },
+            {
+                "definition": "Used in idiomatic expressions to signify something metaphorically as a means of accomplishing a task",
+                "definition_hebrew": "משמש בביטויים אידיומטיים כדי לסמן משהו באופן מטפורי כאמצעי לביצוע משימה",
+                "example": "He is a valuable tool in our team, providing us with the necessary skills to achieve our goals.",
+                "example_hebrew": "הוא כלי רב ערך בצוות שלנו, המספק לנו את הכישורים הדרושים כדי להשיג את המטרות שלנו."
+            }
+        ]
+    }
+]

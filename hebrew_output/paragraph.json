@@ -1,0 +1,34 @@
+[
+    {
+        "word": "paragraph",
+        "word_hebrew": "פסקה",
+        "main_definition": "A paragraph is a distinct section of a piece of writing, usually dealing with one particular point or idea and separated from other paragraphs by blank lines.",
+        "main_definition_hebrew": "פסקה היא קטע מובחן של כתבה, העוסקת בדרך כלל בנקודה או רעיון מסוים ומופרדת מפסקאות אחרות בשורות ריקות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Literal meaning referring to the part of text",
+                "definition_hebrew": "משמעות מילולית המתייחסת לחלק של הטקסט",
+                "example": "In this article, each major idea is presented in its own separate paragraph.",
+                "example_hebrew": "במאמר זה, כל רעיון מרכזי מוצג בפסקה נפרדת משלו."
+            },
+            {
+                "definition": "An individual unit that forms a part of a larger body or whole (in literature and writing)",
+                "definition_hebrew": "יחידה אינדיבידואלית המהווה חלק מגוף או שלם גדול יותר (בספרות ובכתיבה)",
+                "example": "The essay was divided into several well-structured paragraphs to improve readability.",
+                "example_hebrew": "החיבור חולק למספר פסקאות מובנות היטב כדי לשפר את הקריאות."
+            },
+            {
+                "definition": "A group of sentences on a similar subject",
+                "definition_hebrew": "קבוצת משפטים בנושא דומה",
+                "example": "She wrote a detailed paragraph about the history of computers, explaining their evolution over time.",
+                "example_hebrew": "היא כתבה פסקה מפורטת על ההיסטוריה של מחשבים, והסבירה את התפתחותם לאורך זמן."
+            },
+            {
+                "definition": "A unit of prose used to organize writing and structure thoughts within it",
+                "definition_hebrew": "יחידת פרוזה המשמשת לארגון כתיבה ומבנה מחשבות בתוכה",
+                "example": "The teacher asked her students to write clear and concise paragraphs for their assignments.",
+                "example_hebrew": "המורה ביקשה מתלמידיה לכתוב פסקאות ברורות ותמציתיות עבור המטלות שלהם."
+            }
+        ]
+    }
+]

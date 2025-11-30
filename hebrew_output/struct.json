@@ -1,0 +1,34 @@
+[
+    {
+        "word": "struct",
+        "word_hebrew": "struct",
+        "main_definition": "In computer programming, 'struct' is a keyword used to define a data structure that allows storing different types of data together in one single unit.",
+        "main_definition_hebrew": "בתכנות מחשבים, 'struct' היא מילת מפתח המשמשת להגדרת מבנה נתונים המאפשר אחסון סוגים שונים של נתונים יחד ביחידה אחת.",
+        "meanings_and_examples": [
+            {
+                "definition": "A term used in the C and C++ programming languages to describe a user-defined data type.",
+                "definition_hebrew": "מונח המשמש בשפות התכנות C ו-C++ לתיאור סוג נתונים המוגדר על ידי המשתמש.",
+                "example": "struct student { int id; string name; float grade; };",
+                "example_hebrew": "struct student { int id; שם מחרוזת; ציון כיתה; };"
+            },
+            {
+                "definition": "In computer science, it refers to an abstract representation of a set of variables that group together data of different types under one name.",
+                "definition_hebrew": "במדעי המחשב, זה מתייחס לייצוג מופשט של קבוצה של משתנים המקבצים יחד נתונים מסוגים שונים תחת שם אחד.",
+                "example": "A struct in programming can contain members like integers and strings.",
+                "example_hebrew": "מבנה בתכנות יכול להכיל איברים כמו מספרים שלמים ומחרוזות."
+            },
+            {
+                "definition": "An object-oriented term for grouping related properties and methods into a single entity or class.",
+                "definition_hebrew": "מונח מונחה עצמים לקיבוץ מאפיינים ושיטות קשורים לישות או מחלקה אחת.",
+                "example": "In Java, we can use 'struct' to create classes that encapsulate data and operations in one unit. However, it should be noted that traditional 'struct' is not used in modern Java development.",
+                "example_hebrew": "ב-Java, אנו יכולים להשתמש ב-'struct' כדי ליצור מחלקות שמקיפות נתונים ופעולות ביחידה אחת. עם זאת, יש לציין כי ה'struct' המסורתי אינו משמש בפיתוח Java המודרני."
+            },
+            {
+                "definition": "A low-level programming concept wherein a structure defines the layout of memory for different types of variables.",
+                "definition_hebrew": "תפיסת תכנות ברמה נמוכה שבה מבנה מגדיר את פריסת הזיכרון עבור סוגים שונים של משתנים.",
+                "example": "Defining a struct to hold an integer and a float, like this: 'struct my_data { int i; float f; };'",
+                "example_hebrew": "הגדרת מבנה שיחזיק מספר שלם וצוף, כך: 'struct my_data { int i; לצוף f; };'"
+            }
+        ]
+    }
+]

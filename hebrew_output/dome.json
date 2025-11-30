@@ -1,0 +1,40 @@
+[
+    {
+        "word": "dome",
+        "word_hebrew": "כיפה",
+        "main_definition": "A dome is a rounded vault forming the roof of a building or structure, typically with a circular base.",
+        "main_definition_hebrew": "כיפה היא קמרון מעוגל היוצר גג של בניין או מבנה, בדרך כלל עם בסיס עגול.",
+        "meanings_and_examples": [
+            {
+                "definition": "In architecture, a domed ceiling or roof in buildings",
+                "definition_hebrew": "באדריכלות, תקרה מכוסה או גג בבניינים",
+                "example": "The Pantheon in Rome is renowned for its massive concrete dome.",
+                "example_hebrew": "הפנתיאון ברומא ידוע בכיפת הבטון האדירה שלו."
+            },
+            {
+                "definition": "A protective covering of glass and metal on top of a building",
+                "definition_hebrew": "כיסוי מגן מזכוכית ומתכת על גבי בניין",
+                "example": "Many modern skyscrapers have domes made of reinforced glass to shield them from the elements.",
+                "example_hebrew": "לגורדי שחקים מודרניים רבים יש כיפות עשויות זכוכית מחוזקת כדי להגן עליהם מפני פגעי מזג האוויר."
+            },
+            {
+                "definition": "In geology, an overarching natural feature resembling a dome shape formed by folding layers of rock",
+                "definition_hebrew": "בגיאולוגיה, תכונה טבעית כוללת הדומה לצורת כיפה שנוצרה על ידי קיפול שכבות של סלע",
+                "example": "The Black Hills in South Dakota have distinctive domed mountain shapes due to their layered composition.",
+                "example_hebrew": "לגבעות השחורות בדרום דקוטה יש צורות הרים כיפות ייחודיות בשל הרכב השכבות שלהן."
+            },
+            {
+                "definition": "An idiomatic expression for an area or territory under the control of a government, often with specific characteristics",
+                "definition_hebrew": "ביטוי אידיומטי לאזור או טריטוריה שבשליטת ממשלה, לרוב עם מאפיינים ספציפיים",
+                "example": "Under President Putin's rule, Russia expanded its sphere of influence into eastern Europe, like domes encompassing surrounding nations.",
+                "example_hebrew": "תחת שלטונו של הנשיא פוטין, רוסיה הרחיבה את תחום ההשפעה שלה למזרח אירופה, כמו כיפות המקיפות את המדינות הסובבות אותה."
+            },
+            {
+                "definition": "In astronomy, an astronomical dome or observatory dome housing telescopes",
+                "definition_hebrew": "באסטרונומיה, כיפה אסטרונומית או כיפת מצפה כוכבים המכילה טלסקופים",
+                "example": "The Royal Greenwich Observatory features a large metal and glass dome where the main telescope is housed.",
+                "example_hebrew": "מצפה הכוכבים המלכותי של גריניץ' כולל כיפת מתכת וזכוכית גדולה שבה שוכן הטלסקופ הראשי."
+            }
+        ]
+    }
+]

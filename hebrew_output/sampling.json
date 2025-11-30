@@ -1,0 +1,34 @@
+[
+    {
+        "word": "sampling",
+        "word_hebrew": "דְגִימָה",
+        "main_definition": "Sampling refers to the process of selecting a subset of individuals, items, or data points from a larger population in order to gather information about it.",
+        "main_definition_hebrew": "דגימה מתייחסת לתהליך של בחירת תת-קבוצה של פרטים, פריטים או נקודות נתונים מאוכלוסיה גדולה יותר על מנת לאסוף מידע עליה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Statistical Sampling",
+                "definition_hebrew": "דגימה סטטיסטית",
+                "example": "A market researcher conducts statistical sampling by randomly selecting 500 consumers from the city's population to estimate their buying preferences.",
+                "example_hebrew": "חוקר שוק מבצע דגימה סטטיסטית על ידי בחירה אקראית של 500 צרכנים מאוכלוסיית העיר כדי להעריך את העדפות הקנייה שלהם."
+            },
+            {
+                "definition": "Sound Sampling",
+                "definition_hebrew": "דגימת סאונד",
+                "example": "In music production, sound sampling involves taking a portion of an existing sound recording and reusing it in a different composition or track.",
+                "example_hebrew": "בהפקה מוזיקלית, דגימת סאונד כוללת לקיחת חלק מהקלטת קול קיימת ושימוש חוזר בה בהרכב או ברצועה אחרת."
+            },
+            {
+                "definition": "Artistic Sampling",
+                "definition_hebrew": "דגימה אמנותית",
+                "example": "An artist creates a piece of digital art by sampling visual elements from various photographs and videos to create new, unique images.",
+                "example_hebrew": "אמן יוצר יצירת אמנות דיגיטלית על ידי דגימת אלמנטים חזותיים מתצלומים וסרטונים שונים כדי ליצור תמונות חדשות וייחודיות."
+            },
+            {
+                "definition": "Software Sampling",
+                "definition_hebrew": "דגימת תוכנה",
+                "example": "A developer tests the performance of an application by running it on a small set of predefined test cases or scenarios.",
+                "example_hebrew": "מפתח בודק את הביצועים של יישום על ידי הפעלתו על קבוצה קטנה של מקרי בדיקה או תרחישים מוגדרים מראש."
+            }
+        ]
+    }
+]

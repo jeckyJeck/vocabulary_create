@@ -1,0 +1,28 @@
+[
+    {
+        "word": "gmt",
+        "word_hebrew": "שעון גריניץ",
+        "main_definition": "Greenwich Mean Time (GMT) is the mean solar time at the Royal Observatory in Greenwich, London, used as a standard reference point for timekeeping and coordinating global activities.",
+        "main_definition_hebrew": "זמן גריניץ' (GMT) הוא זמן השמש הממוצע במצפה הכוכבים המלכותי בגריניץ', לונדון, המשמש כנקודת התייחסות סטנדרטית לשמירה על זמן ותיאום פעילויות גלובליות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Time zone designator",
+                "definition_hebrew": "מציין אזור זמן",
+                "example": "The meeting was scheduled at 3 PM GMT to ensure all participants were in the same time.",
+                "example_hebrew": "הפגישה נקבעה בשעה 15:00 GMT כדי להבטיח שכל המשתתפים יהיו באותו זמן."
+            },
+            {
+                "definition": "Coordinated Universal Time (UTC)",
+                "definition_hebrew": "זמן אוניברסלי מתואם (UTC)",
+                "example": "When discussing international flights, pilots often refer to departure and arrival times using Coordinated Universal Time (UTC), which is equivalent to Greenwich Mean Time (GMT).",
+                "example_hebrew": "כאשר דנים בטיסות בינלאומיות, טייסים מתייחסים לעתים קרובות לזמני יציאה והגעה באמצעות זמן אוניברסלי מתואם (UTC), המקביל לזמן גריניץ' (GMT)."
+            },
+            {
+                "definition": "Aviation standard time",
+                "definition_hebrew": "זמן תעופה סטנדרטי",
+                "example": "The pilot announced that the flight would depart at 2:30 PM GMT, aligning with aviation'utc'.",
+                "example_hebrew": "הטייס הודיע שהטיסה תצא בשעה 14:30 GMT, בהתאם ל-aviation'utc'."
+            }
+        ]
+    }
+]

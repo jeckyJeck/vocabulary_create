@@ -1,0 +1,40 @@
+[
+    {
+        "word": "application",
+        "word_hebrew": "יישום",
+        "main_definition": "Application refers to the process of submitting a formal request or a proposal, as well as being used to describe something that is put into action or utilized in practice.",
+        "main_definition_hebrew": "בקשה מתייחסת לתהליך של הגשת בקשה רשמית או הצעה, כמו גם שימוש לתיאור משהו שיוצא לפועל או מנוצל בפועל.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of applying for permission or approval",
+                "definition_hebrew": "מעשה הגשת בקשה לאישור או אישור",
+                "example": "She submitted her job application to the company.",
+                "example_hebrew": "היא הגישה את בקשתה לעבודה לחברה."
+            },
+            {
+                "definition": "A formal request made to an authority, organization, institution, or business entity",
+                "definition_hebrew": "בקשה רשמית שהוגשה לרשות, ארגון, מוסד או גוף עסקי",
+                "example": "He filled out a loan application with his bank.",
+                "example_hebrew": "הוא מילא בקשה להלוואה בבנק שלו."
+            },
+            {
+                "definition": "The use of something in order to achieve a particular purpose",
+                "definition_hebrew": "השימוש במשהו על מנת להשיג מטרה מסוימת",
+                "example": "She applied the principles of physics in her experiment.",
+                "example_hebrew": "היא יישמה את עקרונות הפיזיקה בניסוי שלה."
+            },
+            {
+                "definition": "A written document where one seeks or applies for admission, employment, membership, etc.",
+                "definition_hebrew": "מסמך כתוב בו מבקשים או מבקשים קבלה, העסקה, חברות וכו'.",
+                "example": "He sent his college application before the deadline.",
+                "example_hebrew": "הוא שלח את בקשתו למכללה לפני המועד האחרון."
+            },
+            {
+                "definition": "Software designed to run specific tasks on a computer",
+                "definition_hebrew": "תוכנה המיועדת להפעלת משימות ספציפיות במחשב",
+                "example": "She used a graphic design software application to create an image.",
+                "example_hebrew": "היא השתמשה בתוכנת עיצוב גרפי כדי ליצור תמונה."
+            }
+        ]
+    }
+]

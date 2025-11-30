@@ -1,0 +1,40 @@
+[
+    {
+        "word": "thread",
+        "word_hebrew": "פְּתִיל",
+        "main_definition": "A thread is a long, thin strand of material such as cotton or metal that can be woven into fabric or used to connect pieces together.",
+        "main_definition_hebrew": "חוט הוא גדיל ארוך ודק של חומר כגון כותנה או מתכת שניתן לארוג לתוך בד או להשתמש בו כדי לחבר חלקים זה לזה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing and technology, a thread refers to a sequence of programmed instructions that the computer's CPU can execute. It is often used to describe concurrent processes in multi-threaded applications.",
+                "definition_hebrew": "בתחום המחשוב והטכנולוגיה, חוט מתייחס לרצף של הוראות מתוכנתות שה-CPU של המחשב יכול לבצע. הוא משמש לעתים קרובות לתיאור תהליכים מקבילים ביישומים מרובי הליכי.",
+                "example": "The web browser uses multiple threads to handle different tasks simultaneously.",
+                "example_hebrew": "דפדפן האינטרנט משתמש במספר שרשורים כדי לטפל במשימות שונות בו זמנית."
+            },
+            {
+                "definition": "In sewing, a thread is a thin strand of material typically made from cotton or synthetic fibers used for stitching fabric together.",
+                "definition_hebrew": "בתפירה, חוט הוא גדיל דק של חומר העשוי בדרך כלל מכותנה או מסיבים סינתטיים המשמשים לתפירת בד.",
+                "example": "She picked up the spool of blue thread and began to sew her dress.",
+                "example_hebrew": "היא הרימה את סליל החוט הכחול והחלה לתפור את שמלתה."
+            },
+            {
+                "definition": "When discussing conversations, a thread can refer to a series of related messages that form a continuous discussion or topic.",
+                "definition_hebrew": "כאשר דנים בשיחות, שרשור יכול להתייחס לסדרה של הודעות קשורות היוצרות דיון או נושא מתמשך.",
+                "example": "The email chain is known as a conversation thread because it maintains the order and context of exchanges between participants.",
+                "example_hebrew": "שרשרת הדואר האלקטרוני ידועה בתור שרשור שיחה מכיוון שהיא שומרת על הסדר וההקשר של חילופי דברים בין המשתתפים."
+            },
+            {
+                "definition": "In storytelling and plot development, a thread can mean an underlying element or subplot that weaves through the main narrative.",
+                "definition_hebrew": "בסיפור סיפור ובפיתוח עלילה, חוט יכול להיות אלמנט או עלילת משנה ששוזרת דרך הנרטיב הראשי.",
+                "example": "The mysterious disappearance of the protagonist's friend is one of several threads running throughout the novel.",
+                "example_hebrew": "היעלמותו המסתורית של חברו של הגיבורה היא אחד מכמה חוטים העוברים לאורך הרומן."
+            },
+            {
+                "definition": "In jewelry, a thread can describe thin metal wires used for connecting beads or other decorative elements.",
+                "definition_hebrew": "בתכשיטים, חוט יכול לתאר חוטי מתכת דקים המשמשים לחיבור חרוזים או אלמנטים דקורטיביים אחרים.",
+                "example": "The necklace featured delicate silver threads holding the pearls together.",
+                "example_hebrew": "השרשרת כללה חוטי כסף עדינים שהחזיקו את הפנינים יחד."
+            }
+        ]
+    }
+]

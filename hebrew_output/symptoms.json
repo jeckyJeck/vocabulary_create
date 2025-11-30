@@ -1,0 +1,34 @@
+[
+    {
+        "word": "symptoms",
+        "word_hebrew": "סימפטומים",
+        "main_definition": "Symptoms are observable indications or signs that may signal the presence of a disease, disorder, or other medical conditions.",
+        "main_definition_hebrew": "הסימפטומים הם אינדיקציות או סימנים הניתנים לצפייה שעשויים לאותת על נוכחות של מחלה, הפרעה או מצבים רפואיים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical manifestations indicating the onset or progression of an illness",
+                "definition_hebrew": "ביטויים גופניים המעידים על הופעתה או התקדמות של מחלה",
+                "example": "The symptoms of flu include fever, body aches, and fatigue.",
+                "example_hebrew": "התסמינים של שפעת כוללים חום, כאבי גוף ועייפות."
+            },
+            {
+                "definition": "Signs that might suggest a psychological or emotional issue",
+                "definition_hebrew": "סימנים שעשויים לרמז על בעיה פסיכולוגית או רגשית",
+                "example": "Feeling sad for extended periods can be a symptom of depression.",
+                "example_hebrew": "תחושת עצב לתקופות ממושכות יכול להיות סימפטום של דיכאון."
+            },
+            {
+                "definition": "Indications of system malfunctioning in technology or machinery",
+                "definition_hebrew": "אינדיקציות לתקלה במערכת בטכנולוגיה או במכונות",
+                "example": "Error messages and unusual noises may be symptoms of hardware failure.",
+                "example_hebrew": "הודעות שגיאה ורעשים חריגים עשויים להיות סימפטומים של כשל בחומרה."
+            },
+            {
+                "definition": "Signs used to describe a problem within the environment, such as climate change effects",
+                "definition_hebrew": "סימנים המשמשים לתיאור בעיה בסביבה, כגון השפעות של שינויי אקלים",
+                "example": "Droughts and extreme weather events are often referred to as symptoms of global warming.",
+                "example_hebrew": "בצורת ואירועי מזג אוויר קיצוניים מכונים לעתים קרובות כתסמינים של התחממות כדור הארץ."
+            }
+        ]
+    }
+]

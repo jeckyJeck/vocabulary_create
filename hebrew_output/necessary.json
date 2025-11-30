@@ -1,0 +1,40 @@
+[
+    {
+        "word": "necessary",
+        "word_hebrew": "נחוץ",
+        "main_definition": "Something that is required, essential, or unavoidable.",
+        "main_definition_hebrew": "משהו שנדרש, חיוני או בלתי נמנע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Absolutely important and must be done: e.g., Wearing a seatbelt while driving is necessary for safety.",
+                "definition_hebrew": "חשוב בהחלט וחייב להיעשות: למשל, חגורת חגורת בטיחות בזמן נהיגה הכרחית לבטיחות.",
+                "example": "It's not safe to drive without wearing your seatbelt; it's absolutely necessary.",
+                "example_hebrew": "זה לא בטוח לנהוג בלי לחגור את חגורת הבטיחות; זה הכרחי לחלוטין."
+            },
+            {
+                "definition": "Something that cannot be avoided or disregarded: e.g., Paying taxes is a necessary part of being a citizen.",
+                "definition_hebrew": "משהו שאי אפשר להימנע ממנו או להתעלם ממנו: למשל, תשלום מיסים הוא חלק הכרחי בלהיות אזרח.",
+                "example": "Everyone must pay their income taxes, which is a necessary duty for citizenship.",
+                "example_hebrew": "כל אחד חייב לשלם את מס ההכנסה שלו, שזו חובה הכרחית לאזרחות."
+            },
+            {
+                "definition": "Required to fulfill a particular purpose or function: e.g., A minimum level of education is often considered necessary for employment in many fields.",
+                "definition_hebrew": "נדרש למלא מטרה או פונקציה מסוימת: למשל, רמת השכלה מינימלית נחשבת לעתים קרובות הכרחית לתעסוקה בתחומים רבים.",
+                "example": "Having at least a high school diploma can be seen as necessary qualifications for most jobs.",
+                "example_hebrew": "ניתן לראות בעלות תעודת בגרות לפחות ככישורים הכרחיים לרוב המשרות."
+            },
+            {
+                "definition": "Something that is not optional but must be provided or done: e.g., Water and food are basic necessities for life.",
+                "definition_hebrew": "משהו שאינו אופציונלי אבל חייב להינתן או לעשותו: למשל, מים ומזון הם צרכים בסיסיים לחיים.",
+                "example": "Access to clean water and nutritious food is a non-negotiable necessity for survival.",
+                "example_hebrew": "גישה למים נקיים ומזון מזין היא הכרח בלתי ניתן למשא ומתן להישרדות."
+            },
+            {
+                "definition": "Pertaining to things that are essential, often in the context of needs or requirements: e.g., Healthcare accessibility is an important necessary topic in public policy discussions.",
+                "definition_hebrew": "בנוגע לדברים חיוניים, לעתים קרובות בהקשר של צרכים או דרישות: למשל, נגישות שירותי בריאות היא נושא הכרחי חשוב בדיונים על מדיניות ציבורית.",
+                "example": "Ensuring everyone has access to healthcare is a crucial necessary matter.",
+                "example_hebrew": "הבטחת לכולם תהיה גישה לשירותי בריאות היא עניין הכרחי מכריע."
+            }
+        ]
+    }
+]

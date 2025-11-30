@@ -1,0 +1,28 @@
+[
+    {
+        "word": "screenshot",
+        "word_hebrew": "צילום מסך",
+        "main_definition": "A screenshot is an image captured by a computer program that shows the content of a monitor or screen at a particular moment in time.",
+        "main_definition_hebrew": "צילום מסך הוא תמונה שצולמה על ידי תוכנת מחשב המציגה את התוכן של צג או מסך ברגע מסוים בזמן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Capturing visual information from a computer display for record-keeping",
+                "definition_hebrew": "לכידת מידע חזותי מתצוגת מחשב לצורך רישום",
+                "example": "To save an image of her favorite website, she took a screenshot using the 'Print Screen' button on her keyboard.",
+                "example_hebrew": "כדי לשמור תמונה של האתר האהוב עליה, היא צילמה צילום מסך באמצעות כפתור 'הדפס מסך' במקלדת שלה."
+            },
+            {
+                "definition": "A digital copy of what appears on a screen used to share information or explain something visually",
+                "definition_hebrew": "עותק דיגיטלי של מה שמופיע על מסך המשמש לשיתוף מידע או הסבר חזותי של משהו",
+                "example": "He shared his screenshot with colleagues to demonstrate how to use a new software feature.",
+                "example_hebrew": "הוא שיתף את צילום המסך שלו עם עמיתיו כדי להדגים כיצד להשתמש בתכונת תוכנה חדשה."
+            },
+            {
+                "definition": "The act of taking an image that captures the contents displayed in one's monitor, tablet, or phone screen",
+                "definition_hebrew": "הפעולה של צילום תמונה הלוכדת את התוכן המוצג במסך, בטאבלט או בטלפון של האדם",
+                "example": "After watching the tutorial video, she took several screenshots to help her remember the steps better.",
+                "example_hebrew": "לאחר צפייה בסרטון ההדרכה, היא צילמה מספר צילומי מסך כדי לעזור לה לזכור את השלבים טוב יותר."
+            }
+        ]
+    }
+]

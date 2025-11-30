@@ -1,0 +1,40 @@
+[
+    {
+        "word": "defects",
+        "word_hebrew": "פגמים",
+        "main_definition": "Flaws or imperfections found in a product, material, or individual that hinder its performance or functioning.",
+        "main_definition_hebrew": "פגמים או פגמים שנמצאו במוצר, בחומר או באדם שמפריעים לביצועים או לתפקוד שלו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical imperfections or flaws in manufactured products",
+                "definition_hebrew": "פגמים או פגמים פיזיים במוצרים מיוצרים",
+                "example": "The batch of cars was rejected due to defects such as faulty brakes and loose wiring.",
+                "example_hebrew": "קבוצת המכוניות נדחתה עקב ליקויים כמו בלמים פגומים וחיווט רופף."
+            },
+            {
+                "definition": "Abnormalities or deviations from a standard in living beings, particularly humans",
+                "definition_hebrew": "חריגות או חריגות מסטנדרט אצל יצורים חיים, במיוחד בני אדם",
+                "example": "He struggled with learning difficulties, which were considered intellectual defects that affected his education.",
+                "example_hebrew": "הוא נאבק בקשיי למידה, שנחשבו לליקויים אינטלקטואליים שהשפיעו על השכלתו."
+            },
+            {
+                "definition": "Failures to meet established standards of quality, such as in insurance claims or financial reporting",
+                "definition_hebrew": "אי עמידה בתקני איכות קבועים, כגון בתביעות ביטוח או דיווח כספי",
+                "example": "The company had a history of fraudulent practices and was known for inflating its profits through misrepresenting defects.",
+                "example_hebrew": "לחברה הייתה היסטוריה של שיטות הונאה והיא הייתה ידועה בכך שהיא מנפחת את רווחיה באמצעות מצג שווא של פגמים."
+            },
+            {
+                "definition": "Missing or damaged parts on playing cards",
+                "definition_hebrew": "חלקים חסרים או פגומים בקלפי משחק",
+                "example": "Before the game, one player discovered that several cards in his deck had defects like missing corners and stains.",
+                "example_hebrew": "לפני המשחק, שחקן אחד גילה שלכמה קלפים בחפיסה שלו יש פגמים כמו פינות חסרות וכתמים."
+            },
+            {
+                "definition": "In biology, genetic mutations or abnormalities",
+                "definition_hebrew": "בביולוגיה, מוטציות גנטיות או חריגות",
+                "example": "The scientist was studying the effects of certain defects on plant growth caused by changes in their DNA.",
+                "example_hebrew": "המדען חקר את ההשפעות של פגמים מסוימים על צמיחת הצמחים הנגרמים משינויים ב-DNA שלהם."
+            }
+        ]
+    }
+]

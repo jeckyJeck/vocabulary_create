@@ -1,0 +1,22 @@
+[
+    {
+        "word": "kurt",
+        "word_hebrew": "קורט",
+        "main_definition": "Kurt is not a commonly used idiom in English; it appears to be related to the concept of curvature, particularly extreme or sharp curvature.",
+        "main_definition_hebrew": "קורט אינו ניב נפוץ באנגלית; נראה שהוא קשור למושג עקמומיות, במיוחד עקמומיות קיצוניות או חדות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Extreme curvature or bending",
+                "definition_hebrew": "עקמומיות או כיפוף קיצוניים",
+                "example": "The stock market experienced a kurt curve when prices plummeted rapidly.",
+                "example_hebrew": "שוק המניות חוו עקומת קורט כאשר המחירים צנחו במהירות."
+            },
+            {
+                "definition": "A statistical term referring to extreme positive skewness in data distribution, often associated with outlier values",
+                "definition_hebrew": "מונח סטטיסטי המתייחס להטיה חיובית קיצונית בהפצת הנתונים, הקשור לעתים קרובות לערכים חריגים",
+                "example": "In the dataset, there was a kurtosis indicating an unusually high occurrence of very large numbers compared to smaller ones.",
+                "example_hebrew": "במערך הנתונים, היה קורטוזיס המצביע על מופע גבוה בצורה יוצאת דופן של מספרים גדולים מאוד בהשוואה לקטנים יותר."
+            }
+        ]
+    }
+]

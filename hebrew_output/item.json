@@ -1,0 +1,40 @@
+[
+    {
+        "word": "item",
+        "word_hebrew": "פריט",
+        "main_definition": "An object, product, or piece of information that is considered individually.",
+        "main_definition_hebrew": "חפץ, מוצר או פיסת מידע שנחשבים בנפרד.",
+        "meanings_and_examples": [
+            {
+                "definition": "A tangible object used for a particular purpose",
+                "definition_hebrew": "חפץ מוחשי המשמש למטרה מסוימת",
+                "example": "The red pen was the item I needed to sign my documents.",
+                "example_hebrew": "העט האדום היה הפריט שהייתי צריך כדי לחתום על המסמכים שלי."
+            },
+            {
+                "definition": "An individual piece of information in a list or set",
+                "definition_hebrew": "פיסת מידע בודדת ברשימה או סט",
+                "example": "In my shopping list, 'item' referred to apples, bread, and milk as separate items.",
+                "example_hebrew": "ברשימת הקניות שלי, 'פריט' התייחס לתפוחים, לחם וחלב כפריטים נפרדים."
+            },
+            {
+                "definition": "A unit in an inventory or catalogue for sale",
+                "definition_hebrew": "יחידה במלאי או בקטלוג למכירה",
+                "example": "The store clerk handed me a receipt with the price of each item I purchased.",
+                "example_hebrew": "פקיד החנות מסר לי קבלה עם המחיר של כל פריט שרכשתי."
+            },
+            {
+                "definition": "One part of a list, discussion, or argument",
+                "definition_hebrew": "חלק אחד של רשימה, דיון או טיעון",
+                "example": "Each 'item' on our agenda included different aspects to consider during the meeting.",
+                "example_hebrew": "כל 'פריט' בסדר היום שלנו כלל היבטים שונים שיש לקחת בחשבון במהלך הפגישה."
+            },
+            {
+                "definition": "A product available for purchase in a retail setting",
+                "definition_hebrew": "מוצר זמין לרכישה בסביבה קמעונאית",
+                "example": "The electronics section displayed various items such as TVs, laptops, and headphones.",
+                "example_hebrew": "מדור האלקטרוניקה הציג פריטים שונים כמו טלוויזיות, מחשבים ניידים ואוזניות."
+            }
+        ]
+    }
+]

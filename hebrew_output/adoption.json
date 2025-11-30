@@ -1,0 +1,40 @@
+[
+    {
+        "word": "adoption",
+        "word_hebrew": "אימוץ",
+        "main_definition": "The act of legally taking another person's child into one's family, or the process of accepting a foreign law, culture, or system.",
+        "main_definition_hebrew": "הפעולה של קבלה חוקית של ילד של אדם אחר למשפחתו, או תהליך קבלת חוק, תרבות או שיטה זרה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In legal terms, the process whereby an individual becomes the parent(s) of a child not biologically their own through a court order. This often involves home studies and interviews to ensure it is in the best interest of the child.",
+                "definition_hebrew": "במונחים משפטיים, התהליך שבו אדם הופך להורה/ים של ילד שאינו שלהם מבחינה ביולוגית באמצעות צו בית משפט. זה כרוך לעתים קרובות בלימודי בית וראיונות כדי להבטיח שזה לטובת הילד.",
+                "example": "After much consideration, they completed the adoption process for their niece.",
+                "example_hebrew": "לאחר שיקולים רבים, הם השלימו את תהליך האימוץ עבור האחיינית שלהם."
+            },
+            {
+                "definition": "The acceptance or decision to adopt laws or practices from another country's legal system. This can be seen when a state in one country decides to apply another nation's statutory provisions.",
+                "definition_hebrew": "הקבלה או ההחלטה לאמץ חוקים או שיטות עבודה ממערכת המשפט של מדינה אחרת. ניתן לראות זאת כאשר מדינה במדינה אחת מחליטה להחיל את הוראות החוק של מדינה אחרת.",
+                "example": "When the US adopted EU data protection standards, it meant that they had incorporated some of Europe's privacy rules.",
+                "example_hebrew": "כאשר ארה\"ב אימצה תקני הגנת מידע של האיחוד האירופי, זה אומר שהם שילבו חלק מכללי הפרטיות של אירופה."
+            },
+            {
+                "definition": "In technology and software development, adopting a new system or framework to improve efficiency or productivity. This often involves transition from an older methodology.",
+                "definition_hebrew": "בפיתוח טכנולוגיה ותוכנה, אימוץ מערכת או מסגרת חדשה לשיפור היעילות או הפרודוקטיביות. זה כרוך לעתים קרובות במעבר מתודולוגיה ישנה יותר.",
+                "example": "The company decided to adopt Agile practices for their software development team.",
+                "example_hebrew": "החברה החליטה לאמץ שיטות Agile עבור צוות פיתוח התוכנה שלה."
+            },
+            {
+                "definition": "Adoption in the context of corporate culture, refers to a new organization's approach or set of values that are embraced by its members. This often involves changing behavior and attitudes.",
+                "definition_hebrew": "אימוץ בהקשר של תרבות ארגונית, מתייחס לגישה של ארגון חדש או למערכת ערכים שמאומצת על ידי חבריו. זה כרוך לעתים קרובות בשינוי התנהגות ועמדות.",
+                "example": "The startup decided to adopt a remote work policy.",
+                "example_hebrew": "הסטארטאפ החליט לאמץ מדיניות עבודה מרחוק."
+            },
+            {
+                "definition": "Adoption in social context, refers to the acceptance or integration of certain behaviors, customs, or traditions that are not originally part of one's culture. This can be voluntary and may occur gradually.",
+                "definition_hebrew": "אימוץ בהקשר חברתי, מתייחס לקבלה או שילוב של התנהגויות, מנהגים או מסורות מסוימים שאינם חלק מהתרבות של האדם במקור. זה יכול להיות מרצון ועלול להתרחש בהדרגה.",
+                "example": "After traveling around Asia, she started adopting some Asian eating habits.",
+                "example_hebrew": "לאחר שטיילה ברחבי אסיה, היא החלה לאמץ כמה הרגלי אכילה אסייתיים."
+            }
+        ]
+    }
+]

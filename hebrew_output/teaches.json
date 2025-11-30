@@ -1,0 +1,28 @@
+[
+    {
+        "word": "teaches",
+        "word_hebrew": "מלמד",
+        "main_definition": "To impart knowledge or skill to someone through instruction, explanation, or example.",
+        "main_definition_hebrew": "להקנות ידע או מיומנות למישהו באמצעות הוראה, הסבר או דוגמה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To formally instruct or educate a person in a specific subject or skill.",
+                "definition_hebrew": "להדריך או לחנך באופן רשמי אדם בנושא או מיומנות ספציפיים.",
+                "example": "The teacher teaches math every day.",
+                "example_hebrew": "המורה מלמד מתמטיקה כל יום."
+            },
+            {
+                "definition": "To influence someone's understanding of something by providing information or examples.",
+                "definition_hebrew": "להשפיע על ההבנה של מישהו לגבי משהו על ידי מתן מידע או דוגמאות.",
+                "example": "Her experience taught her the importance of patience.",
+                "example_hebrew": "הניסיון שלה לימד אותה את חשיבותה של סבלנות."
+            },
+            {
+                "definition": "To demonstrate a particular behavior, skill, or concept to others as an example.",
+                "definition_hebrew": "כדי להדגים התנהגות, מיומנות או מושג מסוים לאחרים כדוגמה.",
+                "example": "The coach teaches new techniques through practice sessions.",
+                "example_hebrew": "המאמן מלמד טכניקות חדשות באמצעות מפגשי תרגול."
+            }
+        ]
+    }
+]

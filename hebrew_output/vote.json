@@ -1,0 +1,40 @@
+[
+    {
+        "word": "vote",
+        "word_hebrew": "הַצבָּעָה",
+        "main_definition": "To express a choice or opinion by casting a ballot in an election, referendum, or other decision-making process.",
+        "main_definition_hebrew": "להביע בחירה או דעה באמצעות הצבעה בבחירות, במשאל עם או בתהליך קבלת החלטות אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Participating in an election to choose among candidates or options",
+                "definition_hebrew": "השתתפות בבחירות לבחירה בין מועמדים או אפשרויות",
+                "example": "I will vote for the candidate who supports education reform.",
+                "example_hebrew": "אצביע עבור המועמד שתומך ברפורמה בחינוך."
+            },
+            {
+                "definition": "A decision reached by voting, especially in a group or assembly setting",
+                "definition_hebrew": "החלטה שהתקבלה בהצבעה, במיוחד במסגרת קבוצתית או באסיפה",
+                "example": "The board of directors voted unanimously to approve the new policy.",
+                "example_hebrew": "הדירקטוריון הצביע פה אחד על אישור המדיניות החדשה."
+            },
+            {
+                "definition": "To give or cast one's vote as an opinion on a matter, issue, or decision",
+                "definition_hebrew": "לתת או להצביע כדעה על עניין, נושא או החלטה",
+                "example": "She decided to vote against the proposed budget cuts in her community.",
+                "example_hebrew": "היא החליטה להצביע נגד הקיצוץ המוצע בתקציב בקהילה שלה."
+            },
+            {
+                "definition": "A way of making decisions collectively by using majority rule through voting",
+                "definition_hebrew": "דרך לקבל החלטות באופן קולקטיבי באמצעות שלטון רוב באמצעות הצבעה",
+                "example": "The student council used a vote to decide on the theme for prom night.",
+                "example_hebrew": "מועצת התלמידים השתמשה בהצבעה כדי להחליט על נושא ליל הנשף."
+            },
+            {
+                "definition": "An expression or endorsement in favor of something, typically publicly stated",
+                "definition_hebrew": "ביטוי או תמיכה בעד משהו, הנאמר בדרך כלל בפומבי",
+                "example": "His support for renewable energy sources was clear when he voted pro-green policies at town hall meetings.",
+                "example_hebrew": "תמיכתו במקורות אנרגיה מתחדשים הייתה ברורה כאשר הצביע על מדיניות פרו-ירוקה בישיבות העירייה."
+            }
+        ]
+    }
+]

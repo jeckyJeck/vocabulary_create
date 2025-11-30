@@ -1,0 +1,40 @@
+[
+    {
+        "word": "heating",
+        "word_hebrew": "הַסָקָה",
+        "main_definition": "The process of increasing the temperature or warmth of an object, space, or substance.",
+        "main_definition_hebrew": "תהליך הגברת הטמפרטורה או החום של חפץ, חלל או חומר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To provide warmth by applying heat to a space or area.",
+                "definition_hebrew": "לספק חום על ידי הפעלת חום על חלל או אזור.",
+                "example": "Heating the house before guests arrive.",
+                "example_hebrew": "חימום הבית לפני הגעת האורחים."
+            },
+            {
+                "definition": "An increase in temperature, especially when it becomes uncomfortably hot for humans or animals.",
+                "definition_hebrew": "עלייה בטמפרטורה, במיוחד כאשר הוא הופך להיות חם לא נוח עבור בני אדם או בעלי חיים.",
+                "example": "During summer days, the room can become very heating due to sunlight entering through the windows.",
+                "example_hebrew": "במהלך ימי הקיץ, החדר יכול להתחמם מאוד בגלל כניסת אור השמש דרך החלונות."
+            },
+            {
+                "definition": "In cooking, using heat to prepare food by applying heat directly to it.",
+                "definition_hebrew": "בבישול, שימוש בחום להכנת מזון על ידי הפעלת חום ישירות עליו.",
+                "example": "She was frying chicken in a pan on the stove. The process involved heating the oil first before adding the meat.",
+                "example_hebrew": "היא טיגנה עוף במחבת על הכיריים. התהליך כלל חימום השמן תחילה לפני הוספת הבשר."
+            },
+            {
+                "definition": "The act of warming up water or another liquid for use, often as part of home comfort.",
+                "definition_hebrew": "פעולת חימום מים או נוזל אחר לשימוש, לרוב כחלק מהנוחות הביתית.",
+                "example": "Heating the tap water so that it's warm enough to make a cup of tea.",
+                "example_hebrew": "מחממים את מי הברז כך שיהיו חמים מספיק כדי להכין כוס תה."
+            },
+            {
+                "definition": "A device or system designed to generate heat, such as heaters and central heating systems.",
+                "definition_hebrew": "מכשיר או מערכת המיועדים להפקת חום, כגון תנורי חימום ומערכות הסקה מרכזיות.",
+                "example": "The central heating unit was turned on because it had become very cold outside.",
+                "example_hebrew": "יחידת ההסקה המרכזית הופעלה כי בחוץ נעשה קר מאוד."
+            }
+        ]
+    }
+]

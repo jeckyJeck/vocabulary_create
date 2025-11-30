@@ -1,0 +1,28 @@
+[
+    {
+        "word": "induction",
+        "word_hebrew": "הַשׁרָאָה",
+        "main_definition": "Induction is a process or method used in various contexts, such as initiation into a group or organization, the beginning phase of an electrical current flowing through a conductor, and explaining or presenting information to someone.",
+        "main_definition_hebrew": "אינדוקציה היא תהליך או שיטה המשמשים בהקשרים שונים, כגון חניכה לקבוצה או ארגון, שלב ההתחלה של זרם חשמלי הזורם דרך מוליך, והסבר או הצגת מידע למישהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of initiating or welcoming someone into a group, profession, or society",
+                "definition_hebrew": "הפעולה של ייזום או קבלת פנים של מישהו לקבוצה, מקצוע או חברה",
+                "example": "After completing their training, the new employee was given an induction ceremony.",
+                "example_hebrew": "לאחר סיום ההכשרה, העובד החדש קיבל טקס חניכה."
+            },
+            {
+                "definition": "In electrical engineering, it refers to the process of generating electric current in a conductor by applying a changing magnetic field.",
+                "definition_hebrew": "בהנדסת חשמל, זה מתייחס לתהליך של יצירת זרם חשמלי במוליך על ידי הפעלת שדה מגנטי משתנה.",
+                "example": "The transformer initiated the flow of electricity through its winding coils.",
+                "example_hebrew": "השנאי יזם את זרימת החשמל דרך סליליו המתפתלים."
+            },
+            {
+                "definition": "When used in education or presentations, induction means explaining and introducing new information to someone for understanding",
+                "definition_hebrew": "בשימוש בחינוך או במצגות, אינדוקציה פירושה הסבר והחדרת מידע חדש למישהו לצורך הבנה",
+                "example": "During her lecture, Professor Johnson provided an induction into quantum mechanics for the students.",
+                "example_hebrew": "במהלך הרצאתה סיפקה פרופסור ג'ונסון אינדוקציה למכניקת הקוונטים עבור הסטודנטים."
+            }
+        ]
+    }
+]

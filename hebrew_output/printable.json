@@ -1,0 +1,40 @@
+[
+    {
+        "word": "printable",
+        "word_hebrew": "ניתן להדפסה",
+        "main_definition": "Something capable of being printed or able to be converted into a format suitable for printing.",
+        "main_definition_hebrew": "משהו שניתן להדפיס או להמיר אותו לפורמט המתאים להדפסה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Able to be printed on paper or other surfaces.",
+                "definition_hebrew": "ניתן להדפיס על נייר או משטחים אחרים.",
+                "example": "The document is printable and can be directly sent to the printer.",
+                "example_hebrew": "המסמך ניתן להדפסה וניתן לשלוח אותו ישירות למדפסת."
+            },
+            {
+                "definition": "A file format that contains text, graphics, and possibly color information suitable for printing.",
+                "definition_hebrew": "פורמט קובץ המכיל טקסט, גרפיקה ואולי מידע צבע המתאים להדפסה.",
+                "example": "PDF files are often used as printables because they maintain high quality when printed.",
+                "example_hebrew": "קבצי PDF משמשים לעתים קרובות כחומרי הדפסה מכיוון שהם שומרים על איכות גבוהה בעת ההדפסה."
+            },
+            {
+                "definition": "An electronic device or a software function to physically produce printed material from digital sources.",
+                "definition_hebrew": "מכשיר אלקטרוני או פונקציית תוכנה להפקה פיזית של חומר מודפס ממקורות דיגיטליים.",
+                "example": "A printer is an essential piece of equipment for creating printable materials.",
+                "example_hebrew": "מדפסת היא ציוד חיוני ליצירת חומרים להדפסה."
+            },
+            {
+                "definition": "Capable of being reproduced on paper, such as in photocopying or laser printing.",
+                "definition_hebrew": "מסוגל לשכפל על נייר, כמו צילום או הדפסת לייזר.",
+                "example": "This flyer has been designed to be easily printed at the office using a standard copier.",
+                "example_hebrew": "פלייר זה תוכנן להדפיס בקלות במשרד באמצעות מכונת צילום רגילה."
+            },
+            {
+                "definition": "Able to undergo the process of printing without causing damage or degradation.",
+                "definition_hebrew": "מסוגל לעבור תהליך של הדפסה מבלי לגרום נזק או השפלה.",
+                "example": "The fabric is printable and can handle various textile dyeing processes.",
+                "example_hebrew": "הבד ניתן להדפסה ויכול להתמודד עם תהליכי צביעת טקסטיל שונים."
+            }
+        ]
+    }
+]

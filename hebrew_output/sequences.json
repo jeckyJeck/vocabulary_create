@@ -1,0 +1,34 @@
+[
+    {
+        "word": "sequences",
+        "word_hebrew": "רצפים",
+        "main_definition": "Sequences refer to ordered lists or sets of elements, where the position of each element matters.",
+        "main_definition_hebrew": "רצפים מתייחסים לרשימות מסודרות או לקבוצות של אלמנטים, כאשר המיקום של כל אלמנט חשוב.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mathematical term for an ordered list of numbers or objects with a specific pattern.",
+                "definition_hebrew": "מונח מתמטי לרשימה מסודרת של מספרים או עצמים עם דפוס מסוים.",
+                "example": "The Fibonacci sequence is a famous example: 1, 1, 2, 3, 5, 8, ...",
+                "example_hebrew": "רצף פיבונאצ'י הוא דוגמה מפורסמת: 1, 1, 2, 3, 5, 8, ..."
+            },
+            {
+                "definition": "In biology, the term sequences refers to the ordered arrangement of DNA or RNA nucleotides.",
+                "definition_hebrew": "בביולוגיה, המונח רצפים מתייחס לסידור המסודר של נוקלאוטידים של DNA או RNA.",
+                "example": "The human genome is made up of over three billion base pairs in a specific sequence.",
+                "example_hebrew": "הגנום האנושי מורכב מלמעלה משלושה מיליארד זוגות בסיסים ברצף מסוים."
+            },
+            {
+                "definition": "Sequences can also refer to a series of images that are displayed in a particular order, such as frames in a movie or scenes in a video.",
+                "definition_hebrew": "רצפים יכולים גם להתייחס לסדרה של תמונות המוצגות בסדר מסוים, כגון פריימים בסרט או סצנות בסרטון.",
+                "example": "The animation begins with frame one and continues through the sequence until it reaches frame 24.",
+                "example_hebrew": "האנימציה מתחילה בפריים 1 וממשיכה ברצף עד שהיא מגיעה לפריים 24."
+            },
+            {
+                "definition": "In storytelling, sequences can refer to events that follow each other in a specific order, forming part of a larger narrative.",
+                "definition_hebrew": "בסיפור סיפורים, רצפים יכולים להתייחס לאירועים שעוקבים זה אחר זה בסדר מסוים, מהווים חלק מנרטיב גדול יותר.",
+                "example": "The hero's journey begins with his ordinary world, moves through various trials and adventures, and finally returns home transformed.",
+                "example_hebrew": "מסעו של הגיבור מתחיל בעולמו הרגיל, עובר מבחנים והרפתקאות שונים, ולבסוף חוזר הביתה עם שינוי צורה."
+            }
+        ]
+    }
+]

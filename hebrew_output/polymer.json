@@ -1,0 +1,34 @@
+[
+    {
+        "word": "polymer",
+        "word_hebrew": "פּוֹלִימֵר",
+        "main_definition": "A polymer is a large molecule composed of repeating subunits called monomers, which are covalently bonded together in long chains.",
+        "main_definition_hebrew": "פולימר הוא מולקולה גדולה המורכבת מתת-יחידות חוזרות הנקראות מונומרים, הקשורות זו לזו בקוולנטית בשרשראות ארוכות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Chemistry term referring to a macromolecular chain made up of many similar or identical building blocks (monomers).",
+                "definition_hebrew": "מונח כימיה המתייחס לשרשרת מקרומולקולרית המורכבת מאבני בניין דומות או זהות רבות (מונומרים).",
+                "example": "Polyethylene is a common polymer used in making plastic bags.",
+                "example_hebrew": "פוליאתילן הוא פולימר נפוץ המשמש לייצור שקיות ניילון."
+            },
+            {
+                "definition": "In materials science, the term 'polymer' can refer to any material with high molecular weight consisting of long-chain molecules or large macromolecules.",
+                "definition_hebrew": "במדעי החומרים, המונח 'פולימר' יכול להתייחס לכל חומר בעל משקל מולקולרי גבוה המורכב ממולקולות ארוכות שרשרת או מקרומולקולות גדולות.",
+                "example": "Natural rubber is a polymer made from the monomer isoprene.",
+                "example_hebrew": "גומי טבעי הוא פולימר העשוי מהמונומר איזופרן."
+            },
+            {
+                "definition": "In an idiomatic sense, 'polymer' may not be used directly but refers to diverse elements that come together like building blocks in some contexts.",
+                "definition_hebrew": "במובן אידיומטי, \"פולימר\" עשוי שלא לשמש ישירות, אלא מתייחס לאלמנטים מגוונים שמתחברים יחד כמו אבני בניין בהקשרים מסוימים.",
+                "example": "The team was a true polymer of talents and skills, each member bringing their unique expertise.",
+                "example_hebrew": "הצוות היה פולימר אמיתי של כישרונות ומיומנויות, כל חבר הביא את המומחיות הייחודית שלו."
+            },
+            {
+                "definition": "In the field of biology, 'polymers' refer to natural compounds consisting of large molecules made from smaller units linked by covalent chemical bonds. Examples include DNA and proteins.",
+                "definition_hebrew": "בתחום הביולוגיה, 'פולימרים' מתייחסים לתרכובות טבעיות המורכבות ממולקולות גדולות העשויות מיחידות קטנות יותר המקושרות בקשרים כימיים קוולנטיים. דוגמאות כוללות DNA וחלבונים.",
+                "example": "DNA is a polymer that carries genetic information in living organisms.",
+                "example_hebrew": "DNA הוא פולימר הנושא מידע גנטי באורגניזמים חיים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "bio",
+        "word_hebrew": "ביו",
+        "main_definition": "Bio can refer to life or living organisms, as well as information related to an individual's biography.",
+        "main_definition_hebrew": "ביו יכול להתייחס לחיים או לאורגניזמים חיים, כמו גם מידע הקשור לביוגרפיה של אדם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to the study of living things, their functions and interactions",
+                "definition_hebrew": "המתייחס לחקר יצורים חיים, תפקידיהם ואינטראקציות שלהם",
+                "example": "The field of microbiology is a branch of bio that focuses on studying tiny organisms.",
+                "example_hebrew": "תחום המיקרוביולוגיה הוא ענף של ביו המתמקד בחקר אורגניזמים זעירים."
+            },
+            {
+                "definition": "A brief account or story of someone's life",
+                "definition_hebrew": "תיאור קצר או סיפור חייו של מישהו",
+                "example": "She wrote a compelling bio for her website, detailing her journey from childhood to present day.",
+                "example_hebrew": "היא כתבה ביוגרפיה משכנעת לאתר שלה, המפרטת את המסע שלה מילדות ועד היום."
+            },
+            {
+                "definition": "Biography or biographical information about an individual",
+                "definition_hebrew": "ביוגרפיה או מידע ביוגרפי על אדם",
+                "example": "The book 'Bio of My Father' is a memoir written by the author sharing personal stories and experiences with his father.",
+                "example_hebrew": "הספר 'ביו של אבי' הוא ספר זיכרונות שכתב המחבר וחולק סיפורים וחוויות אישיים עם אביו."
+            },
+            {
+                "definition": "A term used in chemistry to describe substances derived from living matter, such as proteins or carbohydrits",
+                "definition_hebrew": "מונח המשמש בכימיה לתיאור חומרים שמקורם בחומר חי, כגון חלבונים או פחמימות",
+                "example": "Enzymes are bio molecules that help speed up chemical reactions in the body.",
+                "example_hebrew": "אנזימים הם מולקולות ביו המסייעות להאיץ תגובות כימיות בגוף."
+            }
+        ]
+    }
+]

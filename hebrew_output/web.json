@@ -1,0 +1,34 @@
+[
+    {
+        "word": "web",
+        "word_hebrew": "אינטרנט",
+        "main_definition": "A complex structure or network that connects different elements together.",
+        "main_definition_hebrew": "מבנה או רשת מורכבים המחברים אלמנטים שונים יחדיו.",
+        "meanings_and_examples": [
+            {
+                "definition": "The interconnected system of the World Wide Web, a collection of websites and resources linked by hyperlinks.",
+                "definition_hebrew": "המערכת המקושרת של ה-World Wide Web, אוסף של אתרים ומשאבים המקושרים באמצעות היפר-קישורים.",
+                "example": "He spent hours browsing the web for information on his research.",
+                "example_hebrew": "הוא בילה שעות בגלישה באינטרנט כדי לקבל מידע על המחקר שלו."
+            },
+            {
+                "definition": "A trap or entanglement used to catch prey in nature, especially spiders' intricate silk nets.",
+                "definition_hebrew": "מלכודת או הסתבכות המשמשת לתפוס טרף בטבע, במיוחד רשתות המשי המורכבות של העכבישים.",
+                "example": "The children were careful not to disturb the spider as it wove its web to capture insects.",
+                "example_hebrew": "הילדים נזהרו לא להפריע לעכביש כשהיא טווה את רשתו כדי ללכוד חרקים."
+            },
+            {
+                "definition": "An arrangement of items or components that are connected or related in some way, often forming a complex structure.",
+                "definition_hebrew": "סידור של פריטים או רכיבים הקשורים או קשורים בדרך כלשהי, ולעתים קרובות יוצרים מבנה מורכב.",
+                "example": "A web-based application allows users to interact with data through various interconnected features.",
+                "example_hebrew": "אפליקציה מבוססת אינטרנט מאפשרת למשתמשים ליצור אינטראקציה עם נתונים באמצעות תכונות שונות הקשורות זו לזו."
+            },
+            {
+                "definition": "The space within which events occur and objects exist; the world as experienced by an individual.",
+                "definition_hebrew": "המרחב שבתוכו מתרחשים אירועים ומתקיימים חפצים; העולם כפי שנחווה על ידי אדם.",
+                "example": "We live in a small corner of the vast web of humanity, each person connected to countless others.",
+                "example_hebrew": "אנו חיים בפינה קטנה של הרשת העצומה של האנושות, כל אדם מחובר לאינספור אחרים."
+            }
+        ]
+    }
+]

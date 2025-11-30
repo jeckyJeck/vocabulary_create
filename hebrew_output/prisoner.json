@@ -1,0 +1,34 @@
+[
+    {
+        "word": "prisoner",
+        "word_hebrew": "אָסִיר",
+        "main_definition": "A person who is confined in a prison or detention facility, either by law due to committing a crime or as a political prisoner.",
+        "main_definition_hebrew": "אדם הכלוא בכלא או במתקן מעצר, בין על פי חוק עקב ביצוע פשע או כאסיר פוליטי.",
+        "meanings_and_examples": [
+            {
+                "definition": "One who has been captured during war and held against their will",
+                "definition_hebrew": "אחד שנלכד בזמן מלחמה והוחזק בניגוד לרצונו",
+                "example": "After the battle, many prisoners were taken by both sides.",
+                "example_hebrew": "לאחר הקרב נלקחו שבויים רבים על ידי שני הצדדים."
+            },
+            {
+                "definition": "A person held in custody due to a criminal conviction",
+                "definition_hebrew": "אדם המוחזק במעצר עקב הרשעה פלילית",
+                "example": "The prisoner was sentenced to 10 years for burglary.",
+                "example_hebrew": "האסיר נידון ל-10 שנים בגין פריצה."
+            },
+            {
+                "definition": "Someone detained or imprisoned as part of political repression, often without fair trial",
+                "definition_hebrew": "מישהו עצור או נכלא כחלק מדיכוי פוליטי, לרוב ללא משפט הוגן",
+                "example": "Political prisoners were arrested during the regime change in their country.",
+                "example_hebrew": "אסירים פוליטיים נעצרו במהלך חילופי המשטר בארצם."
+            },
+            {
+                "definition": "An individual who has voluntarily chosen to live under house arrest",
+                "definition_hebrew": "אדם שבחר מרצונו לחיות במעצר בית",
+                "example": "The celebrity decided to become a prisoner in her own home due to personal reasons.",
+                "example_hebrew": "המפורסמת החליטה להיות אסירה בביתה בשל סיבות אישיות."
+            }
+        ]
+    }
+]

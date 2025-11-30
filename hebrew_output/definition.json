@@ -1,0 +1,34 @@
+[
+    {
+        "word": "definition",
+        "word_hebrew": "הַגדָרָה",
+        "main_definition": "The explanation or meaning of a word, phrase, or concept.",
+        "main_definition_hebrew": "ההסבר או המשמעות של מילה, ביטוי או מושג.",
+        "meanings_and_examples": [
+            {
+                "definition": "A precise description or characterization of the essence or nature of something.",
+                "definition_hebrew": "תיאור או אפיון מדויק של המהות או הטבע של משהו.",
+                "example": "The definition of happiness is different for everyone.",
+                "example_hebrew": "ההגדרה של אושר שונה עבור כל אחד."
+            },
+            {
+                "definition": "An explanation of a word's meaning, often found in dictionaries.",
+                "definition_hebrew": "הסבר למשמעות של מילה, שנמצא לעתים קרובות במילונים.",
+                "example": "Looking up 'apple' in the dictionary provides its definition as a fruit.",
+                "example_hebrew": "חיפוש 'תפוח' במילון מספק את הגדרתו כפרי."
+            },
+            {
+                "definition": "A term used to describe how a concept or phenomenon is understood within a specific context.",
+                "definition_hebrew": "מונח המשמש לתיאור כיצד מושג או תופעה מובנים בהקשר מסוים.",
+                "example": "In literature, the definition of a metaphor may vary based on genre or author's style.",
+                "example_hebrew": "בספרות, ההגדרה של מטפורה עשויה להשתנות בהתאם לז'אנר או לסגנון המחבר."
+            },
+            {
+                "definition": "The act of clarifying and setting forth in precise terms what something signifies.",
+                "definition_hebrew": "פעולת הבירור וההגדרה במדויק מה מסמל משהו.",
+                "example": "The teacher provided definitions for all the new vocabulary words to ensure understanding.",
+                "example_hebrew": "המורה סיפקה הגדרות לכל מילות אוצר המילים החדשות כדי להבטיח הבנה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "customer",
+        "word_hebrew": "צרכן",
+        "main_definition": "A customer is an individual or entity that purchases goods or services from a business.",
+        "main_definition_hebrew": "לקוח הוא אדם או ישות הרוכשים מוצרים או שירותים מעסק.",
+        "meanings_and_examples": [
+            {
+                "definition": "Regular patron of a store, shop, or service provider",
+                "definition_hebrew": "פטרון קבוע של חנות, חנות או ספק שירות",
+                "example": "John has been a loyal customer at his local coffee shop for over 10 years.",
+                "example_hebrew": "ג'ון היה לקוח נאמן בבית הקפה המקומי שלו כבר למעלה מ-10 שנים."
+            },
+            {
+                "definition": "A person who uses the products or services offered by a company",
+                "definition_hebrew": "אדם המשתמש במוצרים או בשירותים שמציעה חברה",
+                "example": "The smartphone user is considered as customers of the tech company.",
+                "example_hebrew": "משתמש הסמארטפון נחשב כלקוח של חברת הטכנולוגיה."
+            },
+            {
+                "definition": "Someone who engages in commercial transactions with businesses",
+                "definition_hebrew": "מי שעוסק בעסקאות מסחריות עם עסקים",
+                "example": "Online shopping websites are designed for customer convenience, allowing them to purchase products from anywhere at any time.",
+                "example_hebrew": "אתרי קניות מקוונות נועדו לנוחות הלקוחות, ומאפשרים להם לרכוש מוצרים מכל מקום ובכל זמן."
+            },
+            {
+                "definition": "A party involved in a contractual agreement between two or more entities",
+                "definition_hebrew": "צד המעורב בהסכם חוזי בין שני גופים או יותר",
+                "example": "The contract specifies the obligations of both the supplier and customers in their business relationship.",
+                "example_hebrew": "החוזה מפרט את התחייבויות הספק והלקוחות ביחסיהם העסקיים."
+            },
+            {
+                "definition": "An individual who receives goods, services, or products from another entity",
+                "definition_hebrew": "אדם שמקבל סחורות, שירותים או מוצרים מגורם אחר",
+                "example": "As a customer, she had access to special discounts and offers provided by the retail store.",
+                "example_hebrew": "כלקוחה, הייתה לה גישה להנחות והצעות מיוחדות שסופקו על ידי החנות הקמעונאית."
+            }
+        ]
+    }
+]

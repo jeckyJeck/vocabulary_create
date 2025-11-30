@@ -1,0 +1,28 @@
+[
+    {
+        "word": "suicide",
+        "word_hebrew": "הִתאַבְּדוּת",
+        "main_definition": "Suicide is the act of intentionally causing one's own death.",
+        "main_definition_hebrew": "התאבדות היא פעולה של גרימת מוות בכוונה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The intentional taking of one's own life due to despair or hopelessness.",
+                "definition_hebrew": "לקיחת חייו בכוונה עקב ייאוש או חוסר תקווה.",
+                "example": "After losing his job and family, John decided to end his life through suicide.",
+                "example_hebrew": "לאחר שאיבד את עבודתו ומשפחתו, ג'ון החליט לשים קץ לחייו באמצעות התאבדות."
+            },
+            {
+                "definition": "A term used in statistics to describe the number of deaths resulting from self-inflicted harm.",
+                "definition_hebrew": "מונח המשמש בסטטיסטיקה כדי לתאר את מספר מקרי המוות כתוצאה מפגיעה עצמית.",
+                "example": "The annual report revealed a 5% increase in suicides among teenagers.",
+                "example_hebrew": "הדוח השנתי חשף עלייה של 5% בהתאבדויות בקרב בני נוער."
+            },
+            {
+                "definition": "An act that can be legal or illegal depending on circumstances and location.",
+                "definition_hebrew": "מעשה שיכול להיות חוקי או בלתי חוקי בהתאם לנסיבות ולמיקום.",
+                "example": "In some countries, physician-assisted suicide is allowed under certain conditions as an alternative to euthanasia.",
+                "example_hebrew": "במדינות מסוימות, התאבדות בעזרת רופא מותרת בתנאים מסוימים כחלופה להמתת חסד."
+            }
+        ]
+    }
+]

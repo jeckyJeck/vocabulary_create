@@ -1,0 +1,34 @@
+[
+    {
+        "word": "structured",
+        "word_hebrew": "מובנית",
+        "main_definition": "Organized in a systematic or orderly manner, often involving a clear framework or arrangement.",
+        "main_definition_hebrew": "מאורגן בצורה שיטתית או מסודרת, לעתים קרובות כולל מסגרת או הסדר ברורים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Following an established format or plan.",
+                "definition_hebrew": "בהתאם לפורמט או תוכנית שנקבעו.",
+                "example": "The project was structured with specific phases and milestones.",
+                "example_hebrew": "הפרויקט נבנה עם שלבים ואבני דרך ספציפיים."
+            },
+            {
+                "definition": "Having a clear organization of elements, such as data or information.",
+                "definition_hebrew": "ארגון ברור של אלמנטים, כגון נתונים או מידע.",
+                "example": "Structured databases are easier to query than unstructured ones.",
+                "example_hebrew": "מסדי נתונים מובנים קלים יותר לשאילתה מאשר נתונים לא מובנים."
+            },
+            {
+                "definition": "Designed with specific components that fit together in an organized manner.",
+                "definition_hebrew": "מעוצב עם רכיבים ספציפיים המשתלבים יחד בצורה מאורגנת.",
+                "example": "The building was structured with a central courtyard surrounded by wings.",
+                "example_hebrew": "המבנה היה בנוי עם חצר מרכזית מוקפת אגפים."
+            },
+            {
+                "definition": "Having clear, defined relationships between parts or elements.",
+                "definition_hebrew": "בעל קשרים ברורים ומוגדרים בין חלקים או אלמנטים.",
+                "example": "A structured essay has well-defined thesis and supporting arguments.",
+                "example_hebrew": "לחיבור מובנה יש תזה מוגדרת היטב וטיעונים תומכים."
+            }
+        ]
+    }
+]

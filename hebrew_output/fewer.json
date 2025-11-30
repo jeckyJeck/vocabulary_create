@@ -1,0 +1,28 @@
+[
+    {
+        "word": "fewer",
+        "word_hebrew": "פחות",
+        "main_definition": "Fewer means a smaller number or less quantity of something compared to another.",
+        "main_definition_hebrew": "פחות פירושו מספר קטן יותר או פחות כמות של משהו בהשוואה לאחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Comparing two quantities and indicating that one has a lower count than the other.",
+                "definition_hebrew": "משווים בין שתי כמויות ומציינים שלאחת יש ספירה נמוכה יותר מהשנייה.",
+                "example": "There are fewer apples in this basket than there were yesterday.",
+                "example_hebrew": "יש בסל הזה פחות תפוחים ממה שהיו אתמול."
+            },
+            {
+                "definition": "Used to express a decrease or reduction in amount, number, or degree of something over time or between different instances.",
+                "definition_hebrew": "משמש לביטוי ירידה או הפחתה בכמות, במספר או בדרגה של משהו לאורך זמן או בין מקרים שונים.",
+                "example": "The company has experienced a few fewer sales this quarter compared to the last one.",
+                "example_hebrew": "החברה חוותה כמה פחות מכירות ברבעון זה בהשוואה לרבעון הקודם."
+            },
+            {
+                "definition": "Informal usage, often used when comparing two options and indicating that one option is preferred due to having less of an undesirable attribute or element.",
+                "definition_hebrew": "שימוש לא פורמלי, משמש לעתים קרובות כאשר משווים בין שתי אפשרויות ומציין שאופציה אחת מועדפת בגלל שיש פחות תכונה או אלמנט לא רצויים.",
+                "example": "I'd like a smaller portion; fewer calories would be better for my diet.",
+                "example_hebrew": "אני רוצה מנה קטנה יותר; פחות קלוריות יהיו טובות יותר לתזונה שלי."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "linear",
+        "word_hebrew": "ליניארי",
+        "main_definition": "Linear refers to a straight or direct relationship, arrangement, progression, or concept.",
+        "main_definition_hebrew": "ליניארי מתייחס לקשר ישר או ישיר, סידור, התקדמות או מושג.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to a line in geometry; having a constant rate of change.",
+                "definition_hebrew": "מתייחס לקו בגיאומטריה; בעל קצב שינוי קבוע.",
+                "example": "The graph of the linear function y = 2x is a straight line.",
+                "example_hebrew": "הגרף של הפונקציה הליניארית y = 2x הוא קו ישר."
+            },
+            {
+                "definition": "Not curved or bent, as an object or surface.",
+                "definition_hebrew": "לא מעוקל או כפוף, כחפץ או משטח.",
+                "example": "A linear staircase has steps that are all the same width and height.",
+                "example_hebrew": "לגרם מדרגות ליניארי יש מדרגות שכולן באותו רוחב וגובה."
+            },
+            {
+                "definition": "Moving in a single direction without any deviation or interruption.",
+                "definition_hebrew": "נעים בכיוון אחד ללא כל סטייה או הפרעה.",
+                "example": "The linear motion of a train on its tracks.",
+                "example_hebrew": "תנועה ליניארית של רכבת על פסיה."
+            },
+            {
+                "definition": "Describing an arrangement where elements are sequentially ordered, one after another.",
+                "definition_hebrew": "תיאור סידור שבו אלמנטים מסודרים ברצף, בזה אחר זה.",
+                "example": "In the linear sequence 2, 4, 6, 8..., each number is followed by the next consecutive even number.",
+                "example_hebrew": "ברצף הליניארי 2, 4, 6, 8..., אחרי כל מספר מגיע המספר הזוגי הבא ברציפות."
+            },
+            {
+                "definition": "A term used in programming to describe a data structure that stores elements in a sequential manner.",
+                "definition_hebrew": "מונח המשמש בתכנות לתיאור מבנה נתונים המאחסן אלמנטים באופן רציף.",
+                "example": "An array is an example of a linear data structure where items are stored contiguously in memory.",
+                "example_hebrew": "מערך הוא דוגמה למבנה נתונים ליניארי שבו פריטים מאוחסנים ברציפות בזיכרון."
+            }
+        ]
+    }
+]

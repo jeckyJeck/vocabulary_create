@@ -1,0 +1,34 @@
+[
+    {
+        "word": "checkout",
+        "word_hebrew": "לבדוק",
+        "main_definition": "To complete a transaction, typically at a store or online, by paying for items or services and leaving the establishment.",
+        "main_definition_hebrew": "להשלמת עסקה, בדרך כלל בחנות או באינטרנט, על ידי תשלום עבור פריטים או שירותים ועזיבה של המפעל.",
+        "meanings_and_examples": [
+            {
+                "definition": "The process of finalizing payment for goods purchased in a store",
+                "definition_hebrew": "תהליך סיום התשלום עבור סחורה שנרכשה בחנות",
+                "example": "After selecting her groceries, Lisa headed to the checkout counter to pay.",
+                "example_hebrew": "לאחר שבחרה את המצרכים שלה, פנתה ליסה לדלפק הקופה לשלם."
+            },
+            {
+                "definition": "To leave an establishment after purchasing items or services",
+                "definition_hebrew": "לעזוב מוסד לאחר רכישת פריטים או שירותים",
+                "example": "Once John finished at the deli, he checked out and left with his sandwiches.",
+                "example_hebrew": "לאחר שג'ון סיים במעדנייה, הוא עזב ויצא עם הכריכים שלו."
+            },
+            {
+                "definition": "A computer function that allows users to access files stored on a server",
+                "definition_hebrew": "פונקציית מחשב המאפשרת למשתמשים לגשת לקבצים המאוחסנים בשרת",
+                "example": "To edit her document, Jane clicked on 'checkout' in the cloud storage service.",
+                "example_hebrew": "כדי לערוך את המסמך שלה, ג'יין לחצה על 'תשלום' בשירות האחסון בענן."
+            },
+            {
+                "definition": "The act of reviewing and approving work or processes for correctness before implementation",
+                "definition_hebrew": "פעולת הבדיקה והאישור של עבודה או תהליכים לתקינות לפני היישום",
+                "example": "Before launching a new product line, the management team did thorough checkout to ensure all quality standards were met.",
+                "example_hebrew": "לפני השקת קו מוצרים חדש, צוות ההנהלה ערך בדיקה יסודית כדי להבטיח שכל תקני האיכות עמדו."
+            }
+        ]
+    }
+]

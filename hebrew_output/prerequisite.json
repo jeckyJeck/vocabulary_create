@@ -1,0 +1,34 @@
+[
+    {
+        "word": "prerequisite",
+        "word_hebrew": "תְנַאִי מוּקדָם",
+        "main_definition": "A requirement that must be fulfilled before something else can happen or be done.",
+        "main_definition_hebrew": "דרישה שיש למלא לפני שמשהו אחר יכול לקרות או להיעשות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Conditions necessary for a particular event to occur or take effect.",
+                "definition_hebrew": "תנאים הדרושים כדי שאירוע מסוים יתרחש או ייכנס לתוקף.",
+                "example": "To apply for college, you need to meet the prerequisites of having a high school diploma.",
+                "example_hebrew": "כדי להגיש מועמדות למכללה, עליך לעמוד בדרישות הקדם לבעלות תעודת בגרות."
+            },
+            {
+                "definition": "A subject or course that must be taken before enrolling in another class.",
+                "definition_hebrew": "נושא או קורס שיש ללמוד לפני ההרשמה לשיעור אחר.",
+                "example": "Math 101 is often a prerequisite for taking Calculus I.",
+                "example_hebrew": "מתמטיקה 101 היא לעתים קרובות תנאי מוקדם ללקיחת חשבון I."
+            },
+            {
+                "definition": "An essential condition required by law, custom, or practice before something can happen.",
+                "definition_hebrew": "תנאי חיוני הנדרש על פי חוק, מנהג או נוהג לפני שמשהו יכול לקרות.",
+                "example": "A driver's license is a prerequisite to legally operating a motor vehicle on public roads.",
+                "example_hebrew": "רישיון נהיגה הוא תנאי הכרחי להפעלת רכב מנועי כחוק בכבישים ציבוריים."
+            },
+            {
+                "definition": "Something that needs to be done in advance of another event, action, or process.",
+                "definition_hebrew": "משהו שצריך לעשות לפני אירוע, פעולה או תהליך אחר.",
+                "example": "Buying tickets for an exhibition usually requires fulfilling the prerequisites by registering beforehand.",
+                "example_hebrew": "רכישת כרטיסים לתערוכה מצריכה בדרך כלל מילוי התנאים המוקדמים על ידי הרשמה מראש."
+            }
+        ]
+    }
+]

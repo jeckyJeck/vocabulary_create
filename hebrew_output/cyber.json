@@ -1,0 +1,40 @@
+[
+    {
+        "word": "cyber",
+        "word_hebrew": "סייבר",
+        "main_definition": "Relating to computers, information technology or virtual reality.",
+        "main_definition_hebrew": "מתייחס למחשבים, טכנולוגיית מידע או מציאות מדומה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Pertaining to the realm of computers and electronic networks.",
+                "definition_hebrew": "הנוגע לתחום המחשבים והרשתות האלקטרוניות.",
+                "example": "The rise in cyber-attacks has become a major concern for businesses worldwide.",
+                "example_hebrew": "העלייה במתקפות סייבר הפכה לדאגה מרכזית עבור עסקים ברחבי העולם."
+            },
+            {
+                "definition": "Relating to or involving cyberspace, an area in which people interact using computer-mediated devices.",
+                "definition_hebrew": "קשור או מעורב במרחב הקיברנטי, תחום שבו אנשים מקיימים אינטראקציה באמצעות מכשירים בתיווך מחשב.",
+                "example": "Cyberbullying is the use of digital technologies to harass or threaten others online.",
+                "example_hebrew": "בריונות ברשת היא שימוש בטכנולוגיות דיגיטליות כדי להטריד או לאיים על אחרים באינטרנט."
+            },
+            {
+                "definition": "Involving activities conducted over the internet, such as hacking and online fraud.",
+                "definition_hebrew": "כרוך בפעילויות הנערכות דרך האינטרנט, כגון פריצה והונאה מקוונת.",
+                "example": "The company suffered a significant loss due to a sophisticated cyber heist.",
+                "example_hebrew": "החברה ספגה הפסד משמעותי עקב שוד סייבר מתוחכם."
+            },
+            {
+                "definition": "Relating to virtual environments or simulations created by computer graphics technology.",
+                "definition_hebrew": "התייחסות לסביבות וירטואליות או סימולציות שנוצרו על ידי טכנולוגיית גרפיקה ממוחשבת.",
+                "example": "Virtual reality headsets immerse users in a cyber world of digital experiences.",
+                "example_hebrew": "אוזניות מציאות מדומה מטביעות את המשתמשים בעולם סייבר של חוויות דיגיטליות."
+            },
+            {
+                "definition": "Refers to the use, development and cultural impacts of computers and information systems.",
+                "definition_hebrew": "מתייחס לשימוש, פיתוח והשפעות תרבותיות של מחשבים ומערכות מידע.",
+                "example": "Cybersecurity experts work tirelessly to protect sensitive data from potential threats.",
+                "example_hebrew": "מומחי אבטחת סייבר פועלים ללא לאות כדי להגן על נתונים רגישים מפני איומים פוטנציאליים."
+            }
+        ]
+    }
+]

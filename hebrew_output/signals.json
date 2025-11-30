@@ -1,0 +1,34 @@
+[
+    {
+        "word": "signals",
+        "word_hebrew": "אותות",
+        "main_definition": "Signals are indications or messages conveyed through various forms to communicate information, intentions, or actions.",
+        "main_definition_hebrew": "אותות הם אינדיקציות או מסרים המועברים באמצעות צורות שונות כדי להעביר מידע, כוונות או פעולות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Communication methods using visual or auditory cues",
+                "definition_hebrew": "שיטות תקשורת באמצעות רמזים חזותיים או שמיעתיים",
+                "example": "The traffic lights use red, yellow, and green signals to guide drivers.",
+                "example_hebrew": "הרמזורים משתמשים באותות אדומים, צהובים וירוקים כדי להדריך את הנהגים."
+            },
+            {
+                "definition": "A series of gestures or body language indicating a particular message",
+                "definition_hebrew": "סדרה של מחוות או שפת גוף המציינת מסר מסוים",
+                "example": "Two people might signal each other by waving their hands when they are apart.",
+                "example_hebrew": "שני אנשים עשויים לסמן זה לזה על ידי הנפת ידיים כשהם נפרדים."
+            },
+            {
+                "definition": "Alerts from electronic devices to indicate specific statuses or actions",
+                "definition_hebrew": "התראות ממכשירים אלקטרוניים לציון סטטוסים או פעולות ספציפיות",
+                "example": "My phone sends me an alert signaling a new email has arrived in my inbox.",
+                "example_hebrew": "הטלפון שלי שולח לי התראה המאותת שהודעה חדשה הגיעה לתיבת הדואר הנכנס שלי."
+            },
+            {
+                "definition": "Instructions given by one party to another, often for coordination of activities",
+                "definition_hebrew": "הנחיות שניתנו על ידי צד אחד לאחר, לעתים קרובות לתיאום פעילויות",
+                "example": "The coach gave the team signals on where they should position themselves during the game.",
+                "example_hebrew": "המאמן נתן לקבוצה איתותים היכן עליהם להתמקם במהלך המשחק."
+            }
+        ]
+    }
+]

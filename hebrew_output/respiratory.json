@@ -1,0 +1,34 @@
+[
+    {
+        "word": "respiratory",
+        "word_hebrew": "מערכת הנשימה",
+        "main_definition": "Relating to the process of inhaling oxygen and exhaling carbon dioxide, or any structure involved in breathing.",
+        "main_definition_hebrew": "הנוגע לתהליך שאיפת חמצן ונשיפה של פחמן דו חמצני, או כל מבנה המעורב בנשימה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Pertaining to respiration, specifically involving the lungs and airways",
+                "definition_hebrew": "הנוגע לנשימה, במיוחד הקשור לריאות ודרכי הנשימה",
+                "example": "The patient's respiratory function was assessed using a spirometer.",
+                "example_hebrew": "תפקוד הנשימה של המטופל הוערך באמצעות ספירומטר."
+            },
+            {
+                "definition": "Relating to any organ or system that facilitates breathing in humans or animals",
+                "definition_hebrew": "מתייחס לכל איבר או מערכת המקלים על הנשימה של בני אדם או בעלי חיים",
+                "example": "Invertebrates, such as insects, have different respiratory systems from vertebrates but still fall under the category of respiratory.",
+                "example_hebrew": "לחסרי חוליות, כמו חרקים, יש מערכות נשימה שונות מבעלי חוליות, אך עדיין נופלים בקטגוריה של דרכי נשימה."
+            },
+            {
+                "definition": "A term used to describe diseases affecting the lungs and breathing process",
+                "definition_hebrew": "מונח המשמש לתיאור מחלות המשפיעות על הריאות ועל תהליך הנשימה",
+                "example": "The doctor diagnosed a respiratory infection based on the patient's symptoms.",
+                "example_hebrew": "הרופא אבחן זיהום בדרכי הנשימה על סמך תסמיני החולה."
+            },
+            {
+                "definition": "Refers to methods or equipment that support or enhance human breathing",
+                "definition_hebrew": "הכוונה לשיטות או ציוד התומכים או משפרים את הנשימה האנושית",
+                "example": "Asthma patients often use bronchodilators, which are respiratory aids, to alleviate their symptoms.",
+                "example_hebrew": "חולי אסטמה משתמשים לעתים קרובות במרחיבי סימפונות, שהם עזרי נשימה, כדי להקל על הסימפטומים שלהם."
+            }
+        ]
+    }
+]

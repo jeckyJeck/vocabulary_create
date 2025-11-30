@@ -1,0 +1,40 @@
+[
+    {
+        "word": "processing",
+        "word_hebrew": "מעבד",
+        "main_definition": "The act of handling or dealing with something to convert it into a useful form, typically in reference to data, tasks, or operations.",
+        "main_definition_hebrew": "הפעולה של טיפול או התמודדות עם משהו כדי להמיר אותו לצורה שימושית, בדרך כלל בהתייחס לנתונים, משימות או פעולות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing and information technology, processing refers to the manipulation of raw data by software programs or hardware devices to transform them into meaningful formats.",
+                "definition_hebrew": "בטכנולוגיית מחשוב ומידע, עיבוד מתייחס למניפולציה של נתונים גולמיים על ידי תוכנות או התקני חומרה כדי להפוך אותם לפורמטים משמעותיים.",
+                "example": "The computer system processes large amounts of text files quickly and efficiently.",
+                "example_hebrew": "מערכת המחשב מעבדת כמויות גדולות של קבצי טקסט במהירות וביעילות."
+            },
+            {
+                "definition": "Processing can also refer to an individual's ability to understand, interpret, and respond to information received from their senses or environment.",
+                "definition_hebrew": "עיבוד יכול גם להתייחס ליכולת של אדם להבין, לפרש ולהגיב למידע המתקבל מהחושים או מסביבתו.",
+                "example": "After hearing the news about the accident, he needed time to process what had happened before reacting.",
+                "example_hebrew": "לאחר ששמע את החדשות על התאונה, הוא נזקק לזמן כדי לעבד את מה שקרה לפני שהגיב."
+            },
+            {
+                "definition": "In a manufacturing context, processing means converting raw materials into finished products through various stages of production.",
+                "definition_hebrew": "בהקשר ייצור, עיבוד פירושו המרת חומרי גלם למוצרים מוגמרים בשלבי ייצור שונים.",
+                "example": "The factory processes metal sheets into automobile parts using advanced machinery and skilled workers.",
+                "example_hebrew": "המפעל מעבד יריעות מתכת לחלקי רכב באמצעות מכונות מתקדמות ועובדים מיומנים."
+            },
+            {
+                "definition": "Processing in the human body refers to the series of actions taken by organs or systems to maintain homeostasis, such as digestion.",
+                "definition_hebrew": "עיבוד בגוף האדם מתייחס לסדרת הפעולות שננקטות על ידי איברים או מערכות כדי לשמור על הומאוסטזיס, כגון עיכול.",
+                "example": "The liver processes nutrients from food and detoxifies harmful substances.",
+                "example_hebrew": "הכבד מעבד חומרים מזינים מהמזון ומנקה חומרים מזיקים."
+            },
+            {
+                "definition": "In a legal setting, processing might involve the steps taken to handle cases, including investigation, documentation, and trial preparation.",
+                "definition_hebrew": "במסגרת משפטית, עיבוד עשוי לכלול את הצעדים הננקטים לטיפול בתיקים, לרבות חקירה, תיעוד והכנה למשפט.",
+                "example": "The police department processed the evidence collected at the crime scene for further analysis.",
+                "example_hebrew": "מחלקת המשטרה עיבדה את הראיות שנאספו בזירת הפשע לצורך ניתוח נוסף."
+            }
+        ]
+    }
+]

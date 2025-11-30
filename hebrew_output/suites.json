@@ -1,0 +1,28 @@
+[
+    {
+        "word": "suites",
+        "word_hebrew": "סוויטות",
+        "main_definition": "A set of connected rooms or facilities, often used in the context of hotels, resorts, or other lodging establishments.",
+        "main_definition_hebrew": "קבוצה של חדרים או מתקנים מחוברים, המשמשים לעתים קרובות בהקשר של בתי מלון, אתרי נופש או מפעלי לינה אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In a hotel, multiple connected rooms designed for guests to use together as one unit. These rooms typically share common areas like bathrooms and sometimes living spaces.",
+                "definition_hebrew": "בבית מלון, מספר חדרים מחוברים המיועדים לאורחים לשימוש יחד כיחידה אחת. חדרים אלה חולקים בדרך כלל אזורים משותפים כמו חדרי אמבטיה ולפעמים חללי מגורים.",
+                "example": "The luxury hotel's suites offered spacious bedrooms with their own sitting area, kitchenette, and stunning views of the city.",
+                "example_hebrew": "הסוויטות של מלון היוקרה הציעו חדרי שינה מרווחים עם פינת ישיבה משלהם, מטבחון ונוף מדהים של העיר."
+            },
+            {
+                "definition": "In a restaurant or dining context, it refers to an entire meal prepared by the chef as opposed to individual appetizers or desserts.",
+                "definition_hebrew": "בהקשר של מסעדה או אוכל, הכוונה היא לארוחה שלמה שהוכנה על ידי השף, בניגוד למנות ראשונות או קינוחים בודדים.",
+                "example": "The evening special included two suites: a starter and a main course.",
+                "example_hebrew": "ספיישל הערב כלל שתי סוויטות: מנה ראשונה ומנה עיקרית."
+            },
+            {
+                "definition": "In computing, suite is a collection of related software programs designed to work together.",
+                "definition_hebrew": "בתחום המחשוב, Suite הוא אוסף של תוכנות קשורות שנועדו לעבוד יחד.",
+                "example": "Microsoft Office Suite includes Word, Excel, PowerPoint, Outlook, etc., which are used for various office tasks.",
+                "example_hebrew": "Microsoft Office Suite כוללת את Word, Excel, PowerPoint, Outlook וכו', המשמשים למשימות משרדיות שונות."
+            }
+        ]
+    }
+]

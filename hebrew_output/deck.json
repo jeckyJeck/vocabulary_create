@@ -1,0 +1,40 @@
+[
+    {
+        "word": "deck",
+        "word_hebrew": "סִיפּוּן",
+        "main_definition": "A deck is a structured arrangement or collection of items, usually related in some way.",
+        "main_definition_hebrew": "סיפון הוא סידור או אוסף מובנה של פריטים, בדרך כלל קשורים בדרך כלשהי.",
+        "meanings_and_examples": [
+            {
+                "definition": "a set of cards used for playing games",
+                "definition_hebrew": "סט קלפים המשמש למשחקים",
+                "example": "The players shuffled the standard 52-card deck before starting a game of poker.",
+                "example_hebrew": "השחקנים ערבבו את החפיסה הסטנדרטית של 52 קלפים לפני שהחלו במשחק פוקר."
+            },
+            {
+                "definition": "the floor or platform where various events take place",
+                "definition_hebrew": "הקומה או הבמה שבה מתקיימים אירועים שונים",
+                "example": "A wedding reception was held on the outdoor deck, overlooking the lake.",
+                "example_hebrew": "קבלת פנים לחתונה נערכה על הסיפון החיצוני, המשקיף על האגם."
+            },
+            {
+                "definition": "a series of related topics or subjects grouped together",
+                "definition_hebrew": "סדרה של נושאים או נושאים קשורים המקובצים יחדיו",
+                "example": "The seminar covered a wide deck of topics ranging from economics to environmental issues.",
+                "example_hebrew": "הסמינר עסק בסיפון רחב של נושאים החל מכלכלה ועד לנושאי סביבה."
+            },
+            {
+                "definition": "the outer covering or surface of a ship, aircraft, or similar structure",
+                "definition_hebrew": "הכיסוי החיצוני או פני השטח של ספינה, כלי טיס או מבנה דומה",
+                "example": "Marine biologists conducted research on the deck of the oceanographic vessel.",
+                "example_hebrew": "ביולוגים ימיים ערכו מחקר על סיפון הספינה האוקינוגרפית."
+            },
+            {
+                "definition": "a collection of equipment or tools used for a particular purpose",
+                "definition_hebrew": "אוסף של ציוד או כלים המשמשים למטרה מסוימת",
+                "example": "The construction crew unloaded their deck of power tools and materials from the truck.",
+                "example_hebrew": "צוות הבנייה פרק את סיפון הכלים והחומרים החשמליים שלו מהמשאית."
+            }
+        ]
+    }
+]

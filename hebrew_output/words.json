@@ -1,0 +1,34 @@
+[
+    {
+        "word": "words",
+        "word_hebrew": "מילים",
+        "main_definition": "A group of letters or sounds representing a concept, idea, or object used in speech or writing as part of a language.",
+        "main_definition_hebrew": "קבוצה של אותיות או צלילים המייצגים מושג, רעיון או אובייקט המשמשים בדיבור או בכתיבה כחלק משפה.",
+        "meanings_and_examples": [
+            {
+                "definition": "General terms for spoken or written communication",
+                "definition_hebrew": "תנאים כלליים לתקשורת בדיבור או בכתב",
+                "example": "He spoke with such eloquence and clarity; his words were captivating.",
+                "example_hebrew": "הוא דיבר בכזו רהוט ובבהירות; המילים שלו היו שובות לב."
+            },
+            {
+                "definition": "A collection of syllables forming a coherent linguistic expression used to convey an idea or feeling",
+                "definition_hebrew": "אוסף של הברות היוצרות ביטוי לשוני קוהרנטי המשמש להעברת רעיון או תחושה",
+                "example": "The poet's choice of words painted a vivid picture in my mind.",
+                "example_hebrew": "בחירת המילים של המשוררת ציירה במוחי תמונה חיה."
+            },
+            {
+                "definition": "Expressions that have a figurative meaning beyond their literal interpretation",
+                "definition_hebrew": "ביטויים בעלי משמעות פיגורטיבית מעבר לפרשנותם המילולית",
+                "example": "He spilled the beans to his friend, revealing the secret by 'spilling' information.",
+                "example_hebrew": "הוא שפך את השעועית לחברו, חשף את הסוד על ידי 'שפיכת' מידע."
+            },
+            {
+                "definition": "A set of words used in an idiom or phrase with a non-literal meaning",
+                "definition_hebrew": "קבוצה של מילים המשמשות בביטוי או בביטוי עם משמעות לא מילולית",
+                "example": "When she said 'let the cat out of the bag', it meant someone revealed a surprise unintentionally.",
+                "example_hebrew": "כשהיא אמרה 'תן לחתול לצאת מהשק', זה אומר שמישהו חשף הפתעה בלי כוונה."
+            }
+        ]
+    }
+]

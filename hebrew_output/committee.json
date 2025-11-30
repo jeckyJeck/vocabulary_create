@@ -1,0 +1,34 @@
+[
+    {
+        "word": "committee",
+        "word_hebrew": "וַעֲדָה",
+        "main_definition": "A group of people appointed to perform a specific function, typically involving deliberation or decision-making.",
+        "main_definition_hebrew": "קבוצה של אנשים שמונתה למלא תפקיד מסוים, הכוללת בדרך כלל התלבטות או קבלת החלטות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Formal body for managing tasks or making decisions",
+                "definition_hebrew": "גוף רשמי לניהול משימות או קבלת החלטות",
+                "example": "The town's planning committee reviews and approves building projects.",
+                "example_hebrew": "ועדת התכנון של העיר בוחנת ומאשרת פרויקטים לבנייה."
+            },
+            {
+                "definition": "A subset of a larger organization tasked with specific responsibilities",
+                "definition_hebrew": "תת-קבוצה של ארגון גדול יותר עם מטלות ספציפיות",
+                "example": "The finance subcommittee focuses on overseeing the budget within the school board.",
+                "example_hebrew": "ועדת המשנה לכספים מתמקדת בפיקוח על התקציב במסגרת מועצת בית הספר."
+            },
+            {
+                "definition": "A group formed temporarily to address a particular issue or problem",
+                "definition_hebrew": "קבוצה שהוקמה באופן זמני כדי לטפל בבעיה או בעיה מסוימת",
+                "example": "An emergency committee was convened to coordinate relief efforts after the natural disaster.",
+                "example_hebrew": "כונסה ועדת חירום לתיאום מאמצי הסיוע לאחר אסון הטבע."
+            },
+            {
+                "definition": "Jury of experts who give advice on specialized matters",
+                "definition_hebrew": "חבר מושבעים של מומחים שנותנים עצות בנושאים מיוחדים",
+                "example": "The scientific advisory committee provides guidance on environmental policies.",
+                "example_hebrew": "הוועדה המדעית המייעצת מספקת הנחיות לגבי מדיניות סביבתית."
+            }
+        ]
+    }
+]

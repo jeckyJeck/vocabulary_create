@@ -1,0 +1,28 @@
+[
+    {
+        "word": "addition",
+        "word_hebrew": "חיבור",
+        "main_definition": "Addition refers to the mathematical operation of combining two or more numbers to find their total sum, as well as extending something by including additional elements.",
+        "main_definition_hebrew": "חיבור מתייחס לפעולה מתמטית של שילוב שני מספרים או יותר כדי למצוא את הסכום הכולל שלהם, כמו גם הארכת משהו על ידי הכללת אלמנטים נוספים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mathematical operation",
+                "definition_hebrew": "פעולה מתמטית",
+                "example": "In mathematics, when you add 5 and 3, the result is 8. This process of combining numbers to find their total is called addition.",
+                "example_hebrew": "במתמטיקה, כאשר מוסיפים 5 ו-3, התוצאה היא 8. תהליך זה של שילוב מספרים כדי למצוא את הסכום הכולל שלהם נקרא חיבור."
+            },
+            {
+                "definition": "The act of including more or additional items",
+                "definition_hebrew": "הפעולה של הכללת יותר או פריטים נוספים",
+                "example": "When planning a party, adding desserts like cake and ice cream can enhance the guests' experience.",
+                "example_hebrew": "כאשר מתכננים מסיבה, הוספת קינוחים כמו עוגה וגלידה יכולה לשפר את חווית האורחים."
+            },
+            {
+                "definition": "Another term for 'in addition'",
+                "definition_hebrew": "מונח נוסף ל'נוסף'",
+                "example": "The company offers free shipping on all orders. In addition to this benefit, they also provide a 10% discount on your next purchase.",
+                "example_hebrew": "החברה מציעה משלוח חינם על כל ההזמנות. בנוסף להטבה זו, הם גם מעניקים 10% הנחה על הרכישה הבאה שלך."
+            }
+        ]
+    }
+]

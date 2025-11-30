@@ -1,0 +1,40 @@
+[
+    {
+        "word": "fails",
+        "word_hebrew": "נכשל",
+        "main_definition": "To not meet expectations or standards, resulting in a lack of success.",
+        "main_definition_hebrew": "לא לעמוד בציפיות או בסטנדרטים, וכתוצאה מכך לחוסר הצלחה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Does not succeed or achieve the desired outcome.",
+                "definition_hebrew": "לא מצליח ולא משיג את התוצאה הרצויה.",
+                "example": "The student failed to pass the exam.",
+                "example_hebrew": "התלמיד לא הצליח לעמוד בבחינה."
+            },
+            {
+                "definition": "Inability to perform or accomplish a task effectively.",
+                "definition_hebrew": "חוסר יכולת לבצע או לבצע משימה ביעילות.",
+                "example": "His car's engine fails when he tries to start it on cold days.",
+                "example_hebrew": "מנוע המכונית שלו מתקלקל כשהוא מנסה להתניע אותו בימים קרים."
+            },
+            {
+                "definition": "Lack of success in achieving goals, objectives, or expectations.",
+                "definition_hebrew": "חוסר הצלחה בהשגת יעדים, יעדים או ציפיות.",
+                "example": "The project failed due to poor planning and execution.",
+                "example_hebrew": "הפרויקט נכשל עקב תכנון וביצוע לקויים."
+            },
+            {
+                "definition": "Not living up to a certain standard or expectation.",
+                "definition_hebrew": "לא עומד בסטנדרט או ציפייה מסוימת.",
+                "example": "Her performance at work fails to meet the company's quality standards.",
+                "example_hebrew": "הביצועים שלה בעבודה אינם עומדים בתקני האיכות של החברה."
+            },
+            {
+                "definition": "A device or mechanism that stops working when put under stress, strain, or pressure.",
+                "definition_hebrew": "מכשיר או מנגנון שמפסיקים לעבוד כאשר הם נתונים ללחץ, מאמץ או לחץ.",
+                "example": "The safety valve on a boiler will fail if it is not properly maintained.",
+                "example_hebrew": "שסתום הבטיחות בדוד ייכשל אם הוא לא יתוחזק כראוי."
+            }
+        ]
+    }
+]

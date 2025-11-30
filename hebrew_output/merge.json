@@ -1,0 +1,40 @@
+[
+    {
+        "word": "merge",
+        "word_hebrew": "לְמַזֵג",
+        "main_definition": "To combine or blend two or more entities, typically ideas, organizations, or resources.",
+        "main_definition_hebrew": "לשלב או למזג שתי ישויות או יותר, בדרך כלל רעיונות, ארגונים או משאבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In business, to unite companies or assets for operational efficiency and growth.",
+                "definition_hebrew": "בעסק, לאחד חברות או נכסים להתייעלות תפעולית וצמיחה.",
+                "example": "After years of independent operations, Company A and B decided to merge.",
+                "example_hebrew": "לאחר שנים של פעילות עצמאית החליטו חברה א' ו-ב' להתמזג."
+            },
+            {
+                "definition": "In computing, to combine two files into one by combining their contents.",
+                "definition_hebrew": "במחשוב, לשלב שני קבצים לאחד על ידי שילוב תוכנם.",
+                "example": "The software merged the text from both documents into a single output file.",
+                "example_hebrew": "התוכנה מיזגה את הטקסט משני המסמכים לקובץ פלט אחד."
+            },
+            {
+                "definition": "To incorporate or integrate ideas from different sources in problem-solving or creative processes.",
+                "definition_hebrew": "לשלב או לשלב רעיונות ממקורות שונים בתהליכי פתרון בעיות או יצירתיות.",
+                "example": "When designing the new product, the team sought to merge innovative technologies with traditional methods.",
+                "example_hebrew": "בעת תכנון המוצר החדש, הצוות ביקש למזג טכנולוגיות חדשניות עם שיטות מסורתיות."
+            },
+            {
+                "definition": "In transportation and logistics, when two vehicles move together on a shared route.",
+                "definition_hebrew": "בתחום התחבורה והלוגיסטיקה, כאשר שני כלי רכב נעים יחד במסלול משותף.",
+                "example": "The train merged onto the main freight line at the junction station.",
+                "example_hebrew": "הרכבת התמזגה בקו המשא הראשי בתחנת הצומת."
+            },
+            {
+                "definition": "To combine different types of media or elements into one piece for artistic expression.",
+                "definition_hebrew": "לשלב סוגים שונים של מדיה או אלמנטים למקשה אחת לביטוי אמנותי.",
+                "example": "The artist decided to merge painting with digital animation in her latest work.",
+                "example_hebrew": "האמנית החליטה למזג ציור עם אנימציה דיגיטלית בעבודתה האחרונה."
+            }
+        ]
+    }
+]

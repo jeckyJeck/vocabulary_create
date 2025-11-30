@@ -1,0 +1,40 @@
+[
+    {
+        "word": "calendars",
+        "word_hebrew": "לוחות שנה",
+        "main_definition": "Calendars are either physical or metaphorical representations used to organize, schedule, or track time-based events.",
+        "main_definition_hebrew": "לוחות שנה הם ייצוגים פיזיים או מטפוריים המשמשים לארגון, תזמון או מעקב אחר אירועים מבוססי זמן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical calendars that display the days, weeks, and months of a year",
+                "definition_hebrew": "לוחות שנה פיזיים המציגים את הימים, השבועות והחודשים בשנה",
+                "example": "I hung up my wall calendar in January to keep track of important dates.",
+                "example_hebrew": "ניתקתי את יומן הקיר שלי בינואר כדי לעקוב אחר תאריכים חשובים."
+            },
+            {
+                "definition": "Planning documents used by businesses or organizations for scheduling events, meetings, projects etc.",
+                "definition_hebrew": "מסמכי תכנון המשמשים עסקים או ארגונים לתזמון אירועים, פגישות, פרויקטים וכו'.",
+                "example": "The project manager prepared a series of calendars to plan out the timeline for different phases of the project.",
+                "example_hebrew": "מנהל הפרויקט הכין סדרה של לוחות שנה כדי לתכנן את ציר הזמן עבור שלבים שונים של הפרויקט."
+            },
+            {
+                "definition": "A type of software that allows users to create and manage their personal or professional schedules",
+                "definition_hebrew": "סוג של תוכנה המאפשרת למשתמשים ליצור ולנהל את לוחות הזמנים האישיים או המקצועיים שלהם",
+                "example": "I use Google Calendar to schedule my appointments, set reminders, and keep track of recurring events.",
+                "example_hebrew": "אני משתמש ביומן Google כדי לתזמן את הפגישות שלי, להגדיר תזכורות ולעקוב אחר אירועים חוזרים."
+            },
+            {
+                "definition": "An organized system for marking days on a yearly basis, often used for religious purposes",
+                "definition_hebrew": "מערכת מאורגנת לציון ימים על בסיס שנתי, המשמשת לרוב למטרות דתיות",
+                "example": "The church uses an elaborate calendar that marks feast days and saints' days throughout the liturgical year.",
+                "example_hebrew": "הכנסייה משתמשת בלוח שנה משוכלל המציין ימי חג וימי קדושים לאורך כל השנה הליטורגית."
+            },
+            {
+                "definition": "A metaphorical term to describe something or someone who is very organized in their approach or planning",
+                "definition_hebrew": "מונח מטפורי לתיאור משהו או מישהו שמאוד מאורגן בגישה או בתכנון שלהם",
+                "example": "My boss is like a master of calendars - she always knows what needs to be done and when it's due.",
+                "example_hebrew": "הבוס שלי הוא כמו מאסטר של לוחות שנה - היא תמיד יודעת מה צריך לעשות ומתי זה אמור להגיע."
+            }
+        ]
+    }
+]

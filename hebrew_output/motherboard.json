@@ -1,0 +1,34 @@
+[
+    {
+        "word": "motherboard",
+        "word_hebrew": "לוח אם",
+        "main_definition": "The motherboard is the main circuit board in a computer, providing connectivity between all of the crucial components like the central processing unit (CPU), memory, storage devices, and peripherals.",
+        "main_definition_hebrew": "לוח האם הוא לוח המעגלים הראשי במחשב, המספק קישוריות בין כל הרכיבים החיוניים כמו יחידת העיבוד המרכזית (CPU), זיכרון, התקני אחסון וציוד היקפי.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing, the motherboard refers to the main printed circuit board (PCB) inside a computer or other system that connects all of its components together.",
+                "definition_hebrew": "במחשוב, לוח האם מתייחס ללוח המעגלים המודפסים הראשי (PCB) בתוך מחשב או מערכת אחרת המחבר את כל הרכיבים שלו יחד.",
+                "example": "When assembling a desktop PC, I carefully mounted the CPU onto the motherboard.",
+                "example_hebrew": "בעת הרכבת מחשב שולחני, הרכבתי בזהירות את המעבד על לוח האם."
+            },
+            {
+                "definition": "Metaphorically, 'motherboard' can be used to represent something fundamental and essential to an organization or system that holds everything together.",
+                "definition_hebrew": "באופן מטפורי, 'לוח אם' יכול לשמש כדי לייצג משהו מהותי וחיוני לארגון או מערכת שמחזיקה הכל ביחד.",
+                "example": "The company's new management strategy acts as its motherboard, integrating different departments for smoother operations.",
+                "example_hebrew": "אסטרטגיית הניהול החדשה של החברה פועלת כלוח האם שלה, ומשלבת מחלקות שונות לפעילות חלקה יותר."
+            },
+            {
+                "definition": "In a more general sense, 'motherboard' can be used to describe any central structure that provides essential connectivity and control within a system.",
+                "definition_hebrew": "במובן כללי יותר, 'לוח אם' יכול לשמש לתיאור כל מבנה מרכזי המספק קישוריות ושליטה חיונית בתוך מערכת.",
+                "example": "'The city's subway motherboard is designed to ensure efficient transportation across various neighborhoods.'",
+                "example_hebrew": "'לוח האם של הרכבת התחתית בעיר נועד להבטיח תחבורה יעילה על פני שכונות שונות'."
+            },
+            {
+                "definition": "Historically, 'motherboard' may refer to the early main printed circuit boards that were used in computing devices before modern PCB technology.",
+                "definition_hebrew": "היסטורית, 'לוח אם' עשוי להתייחס ללוחות המעגלים המודפסים הראשיים המוקדמים שהיו בשימוש בהתקני מחשוב לפני טכנולוגיית ה-PCB המודרנית.",
+                "example": "'In the 1970s, computer engineers built powerful machines using large and complex motherboards.'",
+                "example_hebrew": "'בשנות ה-70 מהנדסי מחשבים בנו מכונות חזקות באמצעות לוחות אם גדולים ומורכבים'."
+            }
+        ]
+    }
+]

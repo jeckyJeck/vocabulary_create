@@ -1,0 +1,34 @@
+[
+    {
+        "word": "actual",
+        "word_hebrew": "מַמָשִׁי",
+        "main_definition": "Real, existing in fact or reality rather than supposedly.",
+        "main_definition_hebrew": "אמיתי, קיים למעשה או מציאות ולא כביכול.",
+        "meanings_and_examples": [
+            {
+                "definition": "Happening as a matter of fact; real and not hypothetical or theoretical.",
+                "definition_hebrew": "קורה למעשה; אמיתי ולא היפותטי או תיאורטי.",
+                "example": "The actual number of people attending the event was much higher than expected.",
+                "example_hebrew": "מספר האנשים שהשתתפו באירוע היה גבוה בהרבה מהצפוי."
+            },
+            {
+                "definition": "Existing in reality; tangible or concrete.",
+                "definition_hebrew": "קיים במציאות; מוחשי או קונקרטי.",
+                "example": "She showed me the actual contract that outlined all the details.",
+                "example_hebrew": "היא הראתה לי את החוזה הממשי שמתאר את כל הפרטים."
+            },
+            {
+                "definition": "Based on fact and experience rather than theory or speculation.",
+                "definition_hebrew": "מבוסס על עובדה וניסיון ולא על תיאוריה או ספקולציות.",
+                "example": "We rely on actual data to make informed decisions, not just guesses.",
+                "example_hebrew": "אנו מסתמכים על נתונים ממשיים כדי לקבל החלטות מושכלות, לא רק ניחושים."
+            },
+            {
+                "definition": "Concrete; having a definite physical form; solid.",
+                "definition_hebrew": "בֵּטוֹן; בעל צורה פיזיקלית מוגדרת; מוצק.",
+                "example": "The artist created sculptures with actual clay instead of digital models.",
+                "example_hebrew": "האמן יצר פסלים עם חימר ממשי במקום מודלים דיגיטליים."
+            }
+        ]
+    }
+]

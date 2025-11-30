@@ -1,0 +1,34 @@
+[
+    {
+        "word": "assume",
+        "word_hebrew": "לְהַנִיחַ",
+        "main_definition": "To take something as true or certain, often without sufficient evidence.",
+        "main_definition_hebrew": "לקחת משהו כאמת או בטוח, לעתים קרובות ללא הוכחות מספיקות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To suppose that something is the case based on limited information.",
+                "definition_hebrew": "להניח שמשהו קורה בהתבסס על מידע מוגבל.",
+                "example": "I assume you'll be at the meeting because your name was on the list.",
+                "example_hebrew": "אני מניח שתהיה בפגישה כי שמך היה ברשימה."
+            },
+            {
+                "definition": "To take control or responsibility for a situation without explicit authorization.",
+                "definition_hebrew": "לקחת שליטה או אחריות על מצב ללא אישור מפורש.",
+                "example": "When she noticed no one else in charge, Sarah assumed command of the project team.",
+                "example_hebrew": "כשהיא לא הבחינה באף אחד אחר שאחראי, שרה קיבלה את הפיקוד על צוות הפרויקט."
+            },
+            {
+                "definition": "In statistics and mathematics, to estimate a value based on sample data when an exact measurement is not available.",
+                "definition_hebrew": "בסטטיסטיקה ובמתמטיקה, להעריך ערך על סמך נתוני מדגם כאשר מדידה מדויקת אינה זמינה.",
+                "example": "To assume that the population mean is 50, we will perform a hypothesis test using our sample data.",
+                "example_hebrew": "כדי להניח שממוצע האוכלוסייה הוא 50, נבצע מבחן השערה באמצעות נתוני המדגם שלנו."
+            },
+            {
+                "definition": "To take for granted without questioning or doubting.",
+                "definition_hebrew": "לקחת כמובן מאליו בלי לשאול או להטיל ספק.",
+                "example": "We shouldn't assume that he didn't show up because of laziness; there might be other reasons.",
+                "example_hebrew": "אל לנו להניח שהוא לא הופיע בגלל עצלות; יכולות להיות סיבות אחרות."
+            }
+        ]
+    }
+]

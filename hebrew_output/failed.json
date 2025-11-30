@@ -1,0 +1,40 @@
+[
+    {
+        "word": "failed",
+        "word_hebrew": "נִכשָׁל",
+        "main_definition": "To not achieve a desired goal or result, resulting in an unsuccessful outcome.",
+        "main_definition_hebrew": "לא להשיג מטרה או תוצאה רצויה, וכתוצאה מכך תוצאה לא מוצלחת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not accomplishing something you set out to do successfully.",
+                "definition_hebrew": "לא להשיג משהו שרצית לעשות בהצלחה.",
+                "example": "The project failed because we didn't meet the deadline.",
+                "example_hebrew": "הפרויקט נכשל כי לא עמדנו בדדליין."
+            },
+            {
+                "definition": "To not pass an exam or assessment.",
+                "definition_hebrew": "לא לעבור בחינה או הערכה.",
+                "example": "He failed his math test after studying hard for it.",
+                "example_hebrew": "הוא נכשל במבחן במתמטיקה לאחר שלמד אליו קשה."
+            },
+            {
+                "definition": "Not meeting expectations in a personal relationship, leading to disappointment.",
+                "definition_hebrew": "אי עמידה בציפיות בקשר אישי, מה שמוביל לאכזבה.",
+                "example": "She felt her friendship with Jane had failed due to constant misunderstandings.",
+                "example_hebrew": "היא הרגישה שהחברות שלה עם ג'יין נכשלה בגלל אי הבנות תמידיות."
+            },
+            {
+                "definition": "A machine or process that does not function properly and doesn't produce the intended result.",
+                "definition_hebrew": "מכונה או תהליך שאינם פועלים כראוי ואינם מניבים את התוצאה המיועדת.",
+                "example": "The engine of my car has failed, so I need to get it repaired immediately.",
+                "example_hebrew": "המנוע של המכונית שלי כשל, אז אני צריך לתקן אותו מיד."
+            },
+            {
+                "definition": "To be unsuccessful in a competitive event against others.",
+                "definition_hebrew": "להיות לא מוצלח באירוע תחרותי מול אחרים.",
+                "example": "Despite their best efforts, the team's performance at the championship was a failure.",
+                "example_hebrew": "למרות מאמציהם, הביצועים של הקבוצה באליפות היו כישלון."
+            }
+        ]
+    }
+]

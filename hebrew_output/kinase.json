@@ -1,0 +1,34 @@
+[
+    {
+        "word": "kinase",
+        "word_hebrew": "קינאז",
+        "main_definition": "Kinase is a type of enzyme that modifies other proteins by transferring a phosphate group from ATP to an amino acid side chain.",
+        "main_definition_hebrew": "קינאז הוא סוג של אנזים שמשנה חלבונים אחרים על ידי העברת קבוצת פוספט מ-ATP לשרשרת צדדית של חומצות אמינו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A protein in the body responsible for adding phosphate groups to other molecules, particularly proteins",
+                "definition_hebrew": "חלבון בגוף האחראי על הוספת קבוצות פוספט למולקולות אחרות, במיוחד חלבונים",
+                "example": "Tyrosine kinase adds a phosphate group to tyrosine residues on target proteins.",
+                "example_hebrew": "טירוזין קינאז מוסיף קבוצת פוספט לשאריות טירוזין על חלבוני המטרה."
+            },
+            {
+                "definition": "An enzyme involved in signaling pathways within cells by modifying the activity of other cellular proteins through phosphorylation",
+                "definition_hebrew": "אנזים המעורב בנתיבי איתות בתוך תאים על ידי שינוי הפעילות של חלבונים תאיים אחרים באמצעות זרחון",
+                "example": "Receptor kinases are a family of protein kinases that regulate various physiological processes including growth and differentiation.",
+                "example_hebrew": "קינאזות הקולטנים הן משפחה של קינאזות חלבון המווסתות תהליכים פיזיולוגיים שונים כולל גדילה והתמיינות."
+            },
+            {
+                "definition": "A class of enzymes that play crucial roles in cell signaling, metabolism, transcription, translation, cell cycle progression, and other vital processes",
+                "definition_hebrew": "סוג של אנזימים הממלאים תפקידים מכריעים באיתות תאים, חילוף חומרים, שעתוק, תרגום, התקדמות מחזור התא ותהליכים חיוניים אחרים",
+                "example": "Phosphoinositide 3-kinase (PI3K) is involved in multiple cellular functions such as cell growth and survival.",
+                "example_hebrew": "Phosphoinositide 3-kinase (PI3K) מעורב בתפקודים תאיים מרובים כמו צמיחת תאים והישרדות."
+            },
+            {
+                "definition": "A type of enzyme that facilitates the transfer of phosphate groups from ATP to specific amino acids on target proteins, often impacting their function",
+                "definition_hebrew": "סוג של אנזים המקל על העברת קבוצות פוספט מ-ATP לחומצות אמינו ספציפיות על חלבוני המטרה, ולעתים קרובות משפיע על תפקודם",
+                "example": "Phosphoacetyl-CoA synthase is a kinase involved in fatty acid metabolism.",
+                "example_hebrew": "Phosphoacetyl-CoA synthase הוא קינאז המעורב במטבוליזם של חומצות שומן."
+            }
+        ]
+    }
+]

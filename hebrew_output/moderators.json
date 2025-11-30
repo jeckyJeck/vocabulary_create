@@ -1,0 +1,40 @@
+[
+    {
+        "word": "moderators",
+        "word_hebrew": "מנחים",
+        "main_definition": "Moderators are individuals or entities responsible for overseeing, managing, and regulating various activities, discussions, or communities to ensure adherence to rules and guidelines.",
+        "main_definition_hebrew": "מנחים הם יחידים או ישויות האחראים לפיקוח, ניהול והסדרה של פעילויות, דיונים או קהילות שונות כדי להבטיח עמידה בכללים והנחיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Online forum moderators",
+                "definition_hebrew": "מנהלי פורומים מקוונים",
+                "example": "The moderators of the Reddit community oversee posts and comments, ensuring they follow the site's rules.",
+                "example_hebrew": "המנחים של קהילת Reddit מפקחים על פוסטים ותגובות, ומבטיחים שהם פועלים לפי כללי האתר."
+            },
+            {
+                "definition": "Moderators in a meeting or discussion group",
+                "definition_hebrew": "מנחים בפגישה או בקבוצת דיון",
+                "example": "During an academic conference panel discussion, the moderator guides the conversation to cover all topics on the agenda.",
+                "example_hebrew": "במהלך דיון פאנל בכנס אקדמי, המנחה מנחה את השיחה לכיסוי כל הנושאים שעל סדר היום."
+            },
+            {
+                "definition": "Social media platform administrators",
+                "definition_hebrew": "מנהלי פלטפורמת מדיה חברתית",
+                "example": "Twitter's team of moderators reviews and manages reported content to enforce community standards.",
+                "example_hebrew": "צוות המנחים של טוויטר סוקר ומנהל תוכן מדווח כדי לאכוף תקנים קהילתיים."
+            },
+            {
+                "definition": "Church or religious group leaders responsible for guidance and management",
+                "definition_hebrew": "מנהיגי כנסייה או קבוצות דתיות האחראים על הדרכה וניהול",
+                "example": "The pastor serves as the moderator in church meetings, guiding discussions according to doctrine.",
+                "example_hebrew": "הכומר משמש כמנחה בישיבות הכנסייה, מנחה דיונים על פי הדוקטרינה."
+            },
+            {
+                "definition": "Peer reviewers who oversee the quality of scientific papers before publication",
+                "definition_hebrew": "סוקרים עמיתים המפקחים על איכותם של מאמרים מדעיים לפני פרסום",
+                "example": "In a peer-reviewed journal, editors and senior scientists act as moderators by examining manuscripts for accuracy and relevance.",
+                "example_hebrew": "בכתב עת בעל ביקורת עמיתים, עורכים ומדענים בכירים פועלים כמנחים על ידי בחינת כתבי יד לצורך דיוק ורלוונטיות."
+            }
+        ]
+    }
+]

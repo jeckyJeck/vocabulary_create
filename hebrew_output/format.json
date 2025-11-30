@@ -1,0 +1,34 @@
+[
+    {
+        "word": "format",
+        "word_hebrew": "פוּרמָט",
+        "main_definition": "To arrange, organize or present information in a specified manner.",
+        "main_definition_hebrew": "לארגן, לארגן או להציג מידע באופן מוגדר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To change the appearance of something (e.g., text, data) to meet specific standards or requirements.",
+                "definition_hebrew": "כדי לשנות את המראה של משהו (למשל, טקסט, נתונים) כדי לעמוד בסטנדרטים או דרישות ספציפיות.",
+                "example": "He formatted his computer's hard drive for better organization.",
+                "example_hebrew": "הוא פירמט את הכונן הקשיח של המחשב שלו לארגון טוב יותר."
+            },
+            {
+                "definition": "To prepare a document in accordance with predefined rules or styles, such as margins, font size, and color scheme.",
+                "definition_hebrew": "הכנת מסמך בהתאם לכללים או סגנונות מוגדרים מראש, כגון שוליים, גודל גופן וערכת צבעים.",
+                "example": "She meticulously formatted her report to match the company's guidelines.",
+                "example_hebrew": "היא עיצבה בקפידה את הדו\"ח שלה כך שיתאים להנחיות החברה."
+            },
+            {
+                "definition": "To adjust something so that it matches a particular standard or format required by an institution or organization.",
+                "definition_hebrew": "להתאים משהו כך שיתאים לסטנדרט או פורמט מסוים הנדרש על ידי מוסד או ארגון.",
+                "example": "The student had to reformat his essay according to MLA citation style before submitting it to the professor.",
+                "example_hebrew": "הסטודנט היה צריך לעצב מחדש את החיבור שלו בהתאם לסגנון הציטוט של MLA לפני הגשתו לפרופסור."
+            },
+            {
+                "definition": "In computing, to process data into a specific structure for storage or transmission purposes.",
+                "definition_hebrew": "במחשוב, לעבד נתונים למבנה ספציפי למטרות אחסון או שידור.",
+                "example": "When I save my document in 'PDF format', the text is converted into a portable and print-friendly file type.",
+                "example_hebrew": "כאשר אני שומר את המסמך שלי ב'פורמט PDF', הטקסט מומר לסוג קובץ נייד וידידותי להדפסה."
+            }
+        ]
+    }
+]

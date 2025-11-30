@@ -1,0 +1,40 @@
+[
+    {
+        "word": "enabled",
+        "word_hebrew": "מופעל",
+        "main_definition": "To make something possible or easier to happen by providing support, assistance, or authorization.",
+        "main_definition_hebrew": "לגרום למשהו אפשרי או קל יותר לקרות על ידי מתן תמיכה, סיוע או אישור.",
+        "meanings_and_examples": [
+            {
+                "definition": "Allowing a feature, function, or process to be active and operational within a system.",
+                "definition_hebrew": "מתן אפשרות לתכונה, פונקציה או תהליך להיות פעילים ותפעוליים בתוך מערכת.",
+                "example": "Enabling the accessibility features on your computer screen for visually impaired users.",
+                "example_hebrew": "הפעלת תכונות הנגישות במסך המחשב עבור משתמשים לקויי ראייה."
+            },
+            {
+                "definition": "Making it possible for someone to do something they were previously unable to do.",
+                "definition_hebrew": "לאפשר למישהו לעשות משהו שהוא לא היה מסוגל לעשות בעבר.",
+                "example": "The scholarship enabled her family to afford her college tuition.",
+                "example_hebrew": "המלגה אפשרה למשפחתה להרשות לעצמה את שכר הלימוד בקולג'."
+            },
+            {
+                "definition": "To give authority or power to a person or group to take certain actions.",
+                "definition_hebrew": "לתת סמכות או כוח לאדם או לקבוצה לבצע פעולות מסוימות.",
+                "example": "The mayor's decision to enable the police force to enforce stricter laws on public gatherings.",
+                "example_hebrew": "החלטת ראש העיר לאפשר למשטרה לאכוף חוקים מחמירים על התכנסויות ציבוריות."
+            },
+            {
+                "definition": "To provide support, encouragement, or resources that make progress possible.",
+                "definition_hebrew": "לספק תמיכה, עידוד או משאבים המאפשרים התקדמות.",
+                "example": "The new training program enabled employees to learn new skills and advance in their careers.",
+                "example_hebrew": "תוכנית ההכשרה החדשה אפשרה לעובדים ללמוד מיומנויות חדשות ולהתקדם בקריירה שלהם."
+            },
+            {
+                "definition": "Allowing a system or technology to operate at its fullest potential by enabling specific settings or features.",
+                "definition_hebrew": "מתן אפשרות למערכת או לטכנולוגיה לפעול במלוא הפוטנציאל שלה על ידי הפעלת הגדרות או תכונות ספציפיות.",
+                "example": "Enabling the Wi-Fi on your device allows you to connect to wireless networks.",
+                "example_hebrew": "הפעלת ה-Wi-Fi במכשיר שלך מאפשרת לך להתחבר לרשתות אלחוטיות."
+            }
+        ]
+    }
+]

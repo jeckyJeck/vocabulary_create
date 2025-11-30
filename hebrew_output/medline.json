@@ -1,0 +1,28 @@
+[
+    {
+        "word": "medline",
+        "word_hebrew": "מדליין",
+        "main_definition": "Medline is a term related to the publication of medical literature, specifically referring to one of the largest databases of biomedical literature.",
+        "main_definition_hebrew": "Medline הוא מונח הקשור לפרסום ספרות רפואית, המתייחס ספציפית לאחד ממאגרי המידע הגדולים ביותר של ספרות ביו-רפואית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A database containing bibliographic information and abstracts of articles from life sciences journals",
+                "definition_hebrew": "מאגר מידע המכיל מידע ביבליוגרפי ותקצירים של מאמרים מכתבי עת למדעי החיים",
+                "example": "The Medline database is used by researchers worldwide to access medical studies and papers.",
+                "example_hebrew": "מסד הנתונים של Medline משמש חוקרים ברחבי העולם כדי לגשת למחקרים ומאמרים רפואיים."
+            },
+            {
+                "definition": "A reference index for biomedical literature",
+                "definition_hebrew": "אינדקס התייחסות לספרות ביו-רפואית",
+                "example": "Medline indexes over 26 million citations and abstracts from more than 5,000 peer-reviewed journals in the fields of medicine, nursing, dentistry, veterinary medicine, healthcare systems, and preclinical sciences.",
+                "example_hebrew": "Medline מצרפת למעלה מ-26 מיליון ציטוטים ותקצירים מיותר מ-5,000 כתבי עת שנבדקו על ידי עמיתים בתחומי הרפואה, הסיעוד, רפואת השיניים, הוטרינריה, מערכות הבריאות והמדעים הפרה-קליניים."
+            },
+            {
+                "definition": "An online service for accessing medical literature",
+                "definition_hebrew": "שירות מקוון לגישה לספרות רפואית",
+                "example": "Researchers use Medline Online to find relevant articles on a specific topic in the biomedical field.",
+                "example_hebrew": "חוקרים משתמשים ב-Medline Online כדי למצוא מאמרים רלוונטיים בנושא ספציפי בתחום הביו-רפואי."
+            }
+        ]
+    }
+]

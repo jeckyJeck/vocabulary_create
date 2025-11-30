@@ -1,0 +1,34 @@
+[
+    {
+        "word": "suburban",
+        "word_hebrew": "פַּרבַרִי",
+        "main_definition": "Relating to or situated in a suburb, which is a residential area on the outskirts of a city.",
+        "main_definition_hebrew": "קשור או ממוקם בפרבר, שהוא אזור מגורים בפאתי עיר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Located in a suburban area",
+                "definition_hebrew": "ממוקם באזור פרברי",
+                "example": "She moved to a beautiful house located in the suburbs.",
+                "example_hebrew": "היא עברה לבית יפהפה שנמצא בפרברים."
+            },
+            {
+                "definition": "Characterized by low-density housing, single-family homes, and ample open space",
+                "definition_hebrew": "מאופיין בדיור בצפיפות נמוכה, בתים צמודי קרקע ומרחב פתוח בשפע",
+                "example": "The neighborhood has well-maintained lawns, spacious houses with garages, and a sense of community.",
+                "example_hebrew": "בשכונה מדשאות מטופחות, בתים מרווחים עם מוסכים ותחושת קהילה."
+            },
+            {
+                "definition": "A social or cultural attitude favoring suburban life over urban living",
+                "definition_hebrew": "גישה חברתית או תרבותית המעדיפה את חיי הפרברים על פני החיים העירוניים",
+                "example": "Some people prefer the quietness and safety of the suburbs to the hustle and bustle of city life.",
+                "example_hebrew": "יש אנשים שמעדיפים את השקט והבטיחות של הפרברים על ההמולה של חיי העיר."
+            },
+            {
+                "definition": "The economic condition characterized by growth in suburban areas, often at the expense of urban centers",
+                "definition_hebrew": "המצב הכלכלי המאופיין בצמיחה באזורים פרבריים, לרוב על חשבון מרכזים עירוניים",
+                "example": "Suburban sprawl has led to an increase in car usage as people commute from outlying residential areas into city centers.",
+                "example_hebrew": "התפשטות הפרברים הובילה לעלייה בשימוש במכוניות כאשר אנשים נוסעים מאזורי מגורים מרוחקים למרכזי ערים."
+            }
+        ]
+    }
+]

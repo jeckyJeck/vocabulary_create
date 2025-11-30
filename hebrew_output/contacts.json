@@ -1,0 +1,34 @@
+[
+    {
+        "word": "contacts",
+        "word_hebrew": "אנשי קשר",
+        "main_definition": "Contacts refer to the connections or relationships with people, typically used in professional settings, as well as physical means of communication between objects.",
+        "main_definition_hebrew": "אנשי קשר מתייחסים לקשרים או ליחסים עם אנשים, המשמשים בדרך כלל במסגרות מקצועיות, כמו גם לאמצעי תקשורת פיזיים בין אובייקטים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Professional connections and acquaintances",
+                "definition_hebrew": "קשרים והכרות מקצועיים",
+                "example": "I have many contacts in the industry that can help me find a job.",
+                "example_hebrew": "יש לי הרבה אנשי קשר בתעשייה שיכולים לעזור לי למצוא עבודה."
+            },
+            {
+                "definition": "Means of communication between people or objects",
+                "definition_hebrew": "אמצעי תקשורת בין אנשים או חפצים",
+                "example": "The two magnets made contact when they were brought close together.",
+                "example_hebrew": "שני המגנטים יצרו מגע כאשר הם היו קרובים זה לזה."
+            },
+            {
+                "definition": "A list of individuals in one's professional network",
+                "definition_hebrew": "רשימה של אנשים ברשת המקצועית של האדם",
+                "example": "She maintains a detailed contacts list, including her colleagues and mentors.",
+                "example_hebrew": "היא מנהלת רשימת אנשי קשר מפורטת, הכוללת את הקולגות והמנטורים שלה."
+            },
+            {
+                "definition": "The physical contact points on objects that allow them to interact with each other",
+                "definition_hebrew": "נקודות המגע הפיזיות על עצמים המאפשרות להם אינטראקציה זה עם זה",
+                "example": "The robot's sensors detected the presence of another object when they made contact.",
+                "example_hebrew": "חיישני הרובוט זיהו נוכחות של חפץ אחר כאשר יצרו מגע."
+            }
+        ]
+    }
+]

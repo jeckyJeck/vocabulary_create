@@ -1,0 +1,34 @@
+[
+    {
+        "word": "bench",
+        "word_hebrew": "סַפְסָל",
+        "main_definition": "A long seat designed for multiple people, usually found outdoors in parks or along streets, and can also refer to a period of not playing a sport due to injury.",
+        "main_definition_hebrew": "מושב ארוך המיועד למספר אנשים, נמצא בדרך כלל בחוץ בפארקים או לאורך רחובות, ויכול להתייחס גם לתקופה של אי עיסוק בספורט עקב פציעה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Furniture consisting of a flat horizontal surface supported by legs",
+                "definition_hebrew": "ריהוט המורכב ממשטח אופקי שטוח הנתמך ברגליים",
+                "example": "The wooden bench in the park was worn out from years of use.",
+                "example_hebrew": "ספסל העץ בפארק היה בלוי משנים של שימוש."
+            },
+            {
+                "definition": "A place where people sit or rest, typically provided for public convenience",
+                "definition_hebrew": "מקום שבו אנשים יושבים או נחים, בדרך כלל מסופק לנוחות הציבור",
+                "example": "We sat on the stone bench while waiting for our friends to arrive.",
+                "example_hebrew": "ישבנו על ספסל האבן בזמן שחיכינו שיגיעו חברינו."
+            },
+            {
+                "definition": "The time period during which an athlete does not participate in a sport due to injury",
+                "definition_hebrew": "פרק הזמן שבו ספורטאי אינו משתתף בספורט עקב פציעה",
+                "example": "After his knee surgery, he spent several months on the bench before returning to play soccer.",
+                "example_hebrew": "לאחר ניתוח הברך שלו, הוא בילה מספר חודשים על הספסל לפני שחזר לשחק כדורגל."
+            },
+            {
+                "definition": "A measure of performance often used in sports and competitions, indicating how many games or matches an athlete has missed due to injury",
+                "definition_hebrew": "מדד לביצועים המשמש לעתים קרובות בספורט ובתחרויות, המציין כמה משחקים או משחקים החמיץ אתלט עקב פציעה",
+                "example": "His bench time this season was one game less than last year's total.",
+                "example_hebrew": "זמן הספסל שלו העונה היה משחק אחד פחות מהסך הכל בשנה שעברה."
+            }
+        ]
+    }
+]

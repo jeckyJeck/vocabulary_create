@@ -1,0 +1,34 @@
+[
+    {
+        "word": "hotel",
+        "word_hebrew": "מלון",
+        "main_definition": "A hotel is a commercial establishment providing lodging, meals, and various other services for travelers and tourists.",
+        "main_definition_hebrew": "מלון הוא מוסד מסחרי המספק לינה, ארוחות ושירותים שונים נוספים למטיילים ולתיירים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Lodging facility offering temporary accommodation to guests",
+                "definition_hebrew": "מתקן לינה המציע אירוח זמני לאורחים",
+                "example": "The Hilton Hotel in New York provides comfortable rooms and amenities for its guests.",
+                "example_hebrew": "מלון הילטון בניו יורק מספק חדרים נוחים ומתקנים עבור אורחיו."
+            },
+            {
+                "definition": "Place where people can obtain travel information, plan their trips, or book reservations",
+                "definition_hebrew": "מקום שבו אנשים יכולים לקבל מידע על נסיעות, לתכנן את הנסיעות שלהם או להזמין הזמנות",
+                "example": "At the hotel's front desk, we helped a family with flight arrangements and provided them with local tourism brochures.",
+                "example_hebrew": "בדלפק הקבלה של המלון עזרנו למשפחה בסידורי טיסות וסיפקנו לה חוברות תיירות מקומיות."
+            },
+            {
+                "definition": "A temporary residence for individuals who are away from home due to work or travel",
+                "definition_hebrew": "מקום מגורים זמני ליחידים הנעדרים מהבית עקב עבודה או נסיעות",
+                "example": "The business traveler stayed at the hotel near his office while attending a conference in town.",
+                "example_hebrew": "הנוסע העסקי שהה במלון ליד משרדו בזמן שהשתתף בכנס בעיר."
+            },
+            {
+                "definition": "An establishment with various facilities and services aimed at providing convenience, comfort, and entertainment for its guests",
+                "definition_hebrew": "מוסד עם מתקנים ושירותים שונים שמטרתם לספק נוחות, נוחות ובידור לאורחיו",
+                "example": "The luxury hotel offered spa treatments, gourmet dining options, and an array of recreational activities.",
+                "example_hebrew": "המלון היוקרתי הציע טיפולי ספא, אפשרויות לסעודה גורמה ומגוון פעילויות פנאי."
+            }
+        ]
+    }
+]

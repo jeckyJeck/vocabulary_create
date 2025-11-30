@@ -1,0 +1,40 @@
+[
+    {
+        "word": "dry",
+        "word_hebrew": "יָבֵשׁ",
+        "main_definition": "The state of not containing or being devoid of moisture, water, or other liquids.",
+        "main_definition_hebrew": "המצב של אי-הכיל או נטול לחות, מים או נוזלים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Lacking in moisture or humidity; not wet.",
+                "definition_hebrew": "חוסר לחות או לחות; לא רטוב.",
+                "example": "After a long walk on the desert sand, his feet were completely dry.",
+                "example_hebrew": "לאחר הליכה ארוכה על חול המדבר, רגליו היו יבשות לחלוטין."
+            },
+            {
+                "definition": "Not conveying emotions strongly; matter-of-fact, unemotional speech or writing.",
+                "definition_hebrew": "לא להעביר רגשות בצורה חזקה; דיבור או כתיבה ענייניים, חסרי רגשות.",
+                "example": "His comment about her new haircut was so dry that it made no impression on anyone in the room.",
+                "example_hebrew": "ההערה שלו על התספורת החדשה שלה הייתה כל כך יבשה שהיא לא עשתה רושם על אף אחד בחדר."
+            },
+            {
+                "definition": "Without any flavor; tasteless and bland, especially when referring to food.",
+                "definition_hebrew": "ללא כל טעם; חסר טעם ותפל, במיוחד כאשר מתייחסים לאוכל.",
+                "example": "The stew had been cooking for hours but seemed quite dry despite being thoroughly spiced.",
+                "example_hebrew": "התבשיל התבשל במשך שעות אבל נראה יבש למדי למרות שהוא מתובל ביסודיות."
+            },
+            {
+                "definition": "Devoid of excitement or interest; lacking enthusiasm or passion.",
+                "definition_hebrew": "נטול התרגשות או עניין; חסר התלהבות או תשוקה.",
+                "example": "Her speech was so dry that it failed to capture the attention of her audience during the conference.",
+                "example_hebrew": "הנאום שלה היה כל כך יבש שהוא לא הצליח ללכוד את תשומת הלב של הקהל שלה במהלך הכנס."
+            },
+            {
+                "definition": "Relating to an area where there is little precipitation, causing arid conditions.",
+                "definition_hebrew": "מתייחס לאזור שבו יש מעט משקעים, מה שגורם לתנאים צחיחים.",
+                "example": "The climate in the middle of a desert can be extremely dry for most of the year.",
+                "example_hebrew": "האקלים באמצע מדבר יכול להיות יבש במיוחד במשך רוב ימות השנה."
+            }
+        ]
+    }
+]

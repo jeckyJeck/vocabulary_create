@@ -1,0 +1,40 @@
+[
+    {
+        "word": "sender",
+        "word_hebrew": "שׁוֹלֵחַ",
+        "main_definition": "A sender is an individual or entity that initiates a message, communication, or transfer of goods from one place to another.",
+        "main_definition_hebrew": "שולח הוא אדם או ישות היוזמים הודעה, תקשורת או העברה של סחורה ממקום אחד לאחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "One who sends electronic messages like emails or SMS",
+                "definition_hebrew": "כזה ששולח הודעות אלקטרוניות כמו מיילים או SMS",
+                "example": "John is the sender in our team's group chat.",
+                "example_hebrew": "ג'ון הוא השולח בצ'אט הקבוצתי של הצוות שלנו."
+            },
+            {
+                "definition": "A person or entity that dispatches packages through a postal service or courier company",
+                "definition_hebrew": "אדם או ישות ששולחים חבילות באמצעות שירות דואר או חברת שליחויות",
+                "example": "The online shopping store acts as the sender when it ships your order to you.",
+                "example_hebrew": "חנות הקניות המקוונת פועלת כשלוחה כאשר היא שולחת אליך את ההזמנה."
+            },
+            {
+                "definition": "An organizer who initiates and sends out invitations for an event or gathering",
+                "definition_hebrew": "מארגן יוזם ושולח הזמנות לאירוע או התכנסות",
+                "example": "Samantha is responsible for being the sender of our wedding invitation list.",
+                "example_hebrew": "סמנתה אחראית להיות השולחת של רשימת ההזמנות לחתונה שלנו."
+            },
+            {
+                "definition": "A program or function in computer programming that triggers another action or process",
+                "definition_hebrew": "תוכנית או פונקציה בתכנות מחשב שמפעילה פעולה או תהליך אחר",
+                "example": "The 'send_data' function acts as a sender by transmitting information to the server.",
+                "example_hebrew": "הפונקציה 'send_data' פועלת כשלוח על ידי העברת מידע לשרת."
+            },
+            {
+                "definition": "An individual who initiates communication or request within an organizational context, such as submitting reports or requests for resources",
+                "definition_hebrew": "אדם שיוזם תקשורת או בקשה בהקשר ארגוני, כגון הגשת דוחות או בקשות למשאבים",
+                "example": "As part of our team's workflow, each member has their designated sender role when making project requests to management.",
+                "example_hebrew": "כחלק מתהליך העבודה של הצוות שלנו, לכל חבר יש את תפקיד השולח המיועד לו בעת הגשת בקשות לפרויקט להנהלה."
+            }
+        ]
+    }
+]

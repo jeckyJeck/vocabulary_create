@@ -1,0 +1,28 @@
+[
+    {
+        "word": "shannon",
+        "word_hebrew": "שאנון",
+        "main_definition": "The Shannon is a unit of measure used to quantify information, communication capacity or channel noise in telecommunications.",
+        "main_definition_hebrew": "השנון היא יחידת מידה המשמשת לכימות מידע, קיבולת תקשורת או רעש ערוץ בתקשורת.",
+        "meanings_and_examples": [
+            {
+                "definition": "A place name and river in Ireland",
+                "definition_hebrew": "שם מקום ונהר באירלנד",
+                "example": "Shannon is the longest river on the island of Ireland.",
+                "example_hebrew": "שאנון הוא הנהר הארוך ביותר באי אירלנד."
+            },
+            {
+                "definition": "The Shannon Estuary",
+                "definition_hebrew": "שפך שאנון",
+                "example": "The Shannon estuary serves as a natural boundary between counties Clare and Limerick in Ireland.",
+                "example_hebrew": "שפך שאנון משמש כגבול טבעי בין המחוזות קלייר ולימריק באירלנד."
+            },
+            {
+                "definition": "Shannon model of information flow",
+                "definition_hebrew": "מודל שאנון של זרימת מידע",
+                "example": "In the Shannon model, communication effectiveness is determined by factors such as noise and distortion.",
+                "example_hebrew": "במודל שאנון, יעילות התקשורת נקבעת על ידי גורמים כמו רעש ועיוות."
+            }
+        ]
+    }
+]

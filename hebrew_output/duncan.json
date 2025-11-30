@@ -1,0 +1,34 @@
+[
+    {
+        "word": "duncan",
+        "word_hebrew": "דאנקן",
+        "main_definition": "Duncan can be a surname, a place name, an epithet from Scottish history, or an idiomatic phrase with various meanings.",
+        "main_definition_hebrew": "דאנקן יכול להיות שם משפחה, שם מקום, כינוי מההיסטוריה הסקוטית, או ביטוי אידיומטי בעל משמעויות שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Surname",
+                "definition_hebrew": "שֵׁם מִשׁפָּחָה",
+                "example": "Alexander Duncan is a common variant of the Scottish surname 'Duncan'.",
+                "example_hebrew": "אלכסנדר דאנקן הוא גרסה נפוצה של שם המשפחה הסקוטי 'דנקן'."
+            },
+            {
+                "definition": "Place name",
+                "definition_hebrew": "שם המקום",
+                "example": "Duncan, Idaho is an unincorporated community in Shoshone County, United States.",
+                "example_hebrew": "דאנקן, איידהו היא קהילה לא מאוגדת במחוז שושון, ארצות הברית."
+            },
+            {
+                "definition": "Epithet from Scottish history",
+                "definition_hebrew": "כינוי מההיסטוריה הסקוטית",
+                "example": "'Bonnie Dounces' was a phrase used to refer to the members of William Wallace's rebel army during the First War of Scottish Independence in 1297.",
+                "example_hebrew": "'בוני דאנס' היה ביטוי ששימש להתייחסות לאנשי צבא המורדים של ויליאם וואלאס במהלך מלחמת העצמאות הראשונה של סקוטלנד ב-1297."
+            },
+            {
+                "definition": "Idiomatic phrase meaning to take something seriously or earnestly",
+                "definition_hebrew": "ביטוי אידיומטי שפירושו לקחת משהו ברצינות או ברצינות",
+                "example": "'I don't want to duncan your efforts, but could you please pay attention?' The speaker wanted the listener to take their request seriously.",
+                "example_hebrew": "\"אני לא רוצה לבטל את מאמציך, אבל תוכל בבקשה לשים לב?\" הדובר רצה שהמאזין יתייחס לבקשתו ברצינות."
+            }
+        ]
+    }
+]

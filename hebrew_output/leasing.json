@@ -1,0 +1,40 @@
+[
+    {
+        "word": "leasing",
+        "word_hebrew": "הַחכָּרָה",
+        "main_definition": "Leasing is the process of renting or hiring equipment, property, or services for a specific period in exchange for periodic payments.",
+        "main_definition_hebrew": "ליסינג הוא תהליך של השכרה או שכירת ציוד, נכס או שירותים לתקופה מסוימת בתמורה לתשלומים תקופתיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Business practice of obtaining access to assets",
+                "definition_hebrew": "פרקטיקה עסקית של השגת גישה לנכסים",
+                "example": "The company decided to lease office space instead of buying it outright.",
+                "example_hebrew": "החברה החליטה לשכור שטחי משרדים במקום לקנות אותם על הסף."
+            },
+            {
+                "definition": "Renting vehicles or equipment for a fixed period",
+                "definition_hebrew": "השכרת רכבים או ציוד לתקופה קצובה",
+                "example": "I need to lease a car until my old one is repaired.",
+                "example_hebrew": "אני צריך לשכור רכב עד שהישן שלי יתוקן."
+            },
+            {
+                "definition": "Leasing of property, such as real estate",
+                "definition_hebrew": "השכרה של נכס, כגון מקרקעין",
+                "example": "The company entered into a long-term lease agreement for their new office building.",
+                "example_hebrew": "החברה התקשרה בהסכם שכירות לטווח ארוך עבור בניין המשרדים החדש שלהם."
+            },
+            {
+                "definition": "Entering into an agreement to use someone's intellectual property rights temporarily",
+                "definition_hebrew": "התקשרות בהסכם לשימוש זמני בזכויות הקניין הרוחני של מישהו",
+                "example": "A musician may choose to lease a song from another artist for use in a commercial or movie.",
+                "example_hebrew": "מוזיקאי יכול לבחור לשכור שיר מאמן אחר לשימוש בפרסומת או בסרט."
+            },
+            {
+                "definition": "Leasing of software applications and services",
+                "definition_hebrew": "השכרה של יישומי תוכנה ושירותים",
+                "example": "The company decided to subscribe to a cloud-based software solution rather than purchasing it outright.",
+                "example_hebrew": "החברה החליטה להירשם לפתרון תוכנה מבוסס ענן במקום לרכוש אותו על הסף."
+            }
+        ]
+    }
+]

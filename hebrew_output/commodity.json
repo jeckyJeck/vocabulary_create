@@ -1,0 +1,28 @@
+[
+    {
+        "word": "commodity",
+        "word_hebrew": "סְחוֹרָה",
+        "main_definition": "A commodity is a basic good used in commerce that is interchangeable with other goods of the same type.",
+        "main_definition_hebrew": "סחורה היא סחורה בסיסית המשמשת במסחר הניתנת להחלפה עם מוצרים אחרים מאותו סוג.",
+        "meanings_and_examples": [
+            {
+                "definition": "Raw material or primary agricultural product that can be bought and sold",
+                "definition_hebrew": "חומר גלם או מוצר חקלאי ראשוני שניתן לקנות ולמכור",
+                "example": "Corn, wheat, and coffee are examples of commodities.",
+                "example_hebrew": "תירס, חיטה וקפה הם דוגמאות לסחורות."
+            },
+            {
+                "definition": "A good for which there is a large demand but limited supply, often leading to price fluctuations",
+                "definition_hebrew": "מוצר שיש לו ביקוש גדול אך היצע מוגבל, מה שמוביל לרוב לתנודות במחיר",
+                "example": "Gold can be considered as such because its value varies based on market conditions.",
+                "example_hebrew": "זהב יכול להיחשב ככזה מכיוון שערכו משתנה בהתאם לתנאי השוק."
+            },
+            {
+                "definition": "Anything that holds economic value and has an exchangeable value in the market",
+                "definition_hebrew": "כל דבר בעל ערך כלכלי ובעל ערך החלפה בשוק",
+                "example": "Art, collectibles like stamps or coins, are also commodities since they can be bought and sold.",
+                "example_hebrew": "אמנות, פריטי אספנות כמו בולים או מטבעות, הם גם סחורות מכיוון שניתן לקנות ולמכור אותם."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "subsidiaries",
+        "word_hebrew": "חברות בנות",
+        "main_definition": "Subsidiaries are companies that are owned or controlled by another company, known as the parent company.",
+        "main_definition_hebrew": "חברות בנות הן חברות שנמצאות בבעלות או בשליטה של חברה אחרת, המכונה חברת האם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Companies within a corporate group controlled by an overarching company",
+                "definition_hebrew": "חברות בתוך קבוצה תאגידית הנשלטת על ידי חברה כוללת",
+                "example": "Apple Inc. has several subsidiaries like Beats Electronics and Shazam.",
+                "example_hebrew": "לאפל בע\"מ יש כמה חברות בת כמו Beats Electronics ו-Shazam."
+            },
+            {
+                "definition": "Business entities that are legally separate but operate under the guidance of a controlling corporation",
+                "definition_hebrew": "ישויות עסקיות נפרדות מבחינה משפטית אך פועלות בהנחיית תאגיד שולט",
+                "example": "General Electric's GE Healthcare is one of its subsidiaries, offering medical imaging and diagnostics products.",
+                "example_hebrew": "GE Healthcare של ג'נרל אלקטריק היא אחת מחברות הבת שלה, המציעה מוצרי הדמיה ודיאגנוסטיקה רפואית."
+            },
+            {
+                "definition": "Secondary businesses owned by an organization or conglomerate that diversify the original company's operations",
+                "definition_hebrew": "עסקים משניים בבעלות ארגון או קונגלומרט המגוונים את פעילות החברה המקורית",
+                "example": "The Walt Disney Company has a range of subsidiaries such as Pixar Animation Studios and Marvel Entertainment.",
+                "example_hebrew": "לחברת וולט דיסני יש מגוון של חברות בנות כמו Pixar Animation Studios ו-Marvel Entertainment."
+            },
+            {
+                "definition": "Smaller companies acquired by larger corporations to expand their market reach or capabilities",
+                "definition_hebrew": "חברות קטנות יותר שנרכשו על ידי תאגידים גדולים יותר כדי להרחיב את טווח השוק או היכולות שלהן",
+                "example": "AT&T's acquisition of Time Warner led to Time Warner becoming a subsidiary under AT&T.",
+                "example_hebrew": "רכישת טיים וורנר על ידי AT&T הובילה לכך ש-Time Warner הפכה לחברה בת תחת AT&T."
+            },
+            {
+                "definition": "Divisions within an organization that are not fully independent but operate with certain autonomy and specialize in specific areas",
+                "definition_hebrew": "חטיבות בתוך ארגון שאינן עצמאיות לחלוטין אך פועלות באוטונומיה מסוימת ומתמחות בתחומים ספציפיים",
+                "example": "Amazon's AWS (Amazon Web Services) is a division or subsidiary offering cloud computing services.",
+                "example_hebrew": "ה-AWS (Amazon Web Services) של אמזון היא חטיבה או חברת בת המציעה שירותי מחשוב ענן."
+            }
+        ]
+    }
+]

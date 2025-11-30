@@ -1,0 +1,34 @@
+[
+    {
+        "word": "transfers",
+        "word_hebrew": "העברות",
+        "main_definition": "To move from one place, person, or form to another; to convey or hand over something or someone.",
+        "main_definition_hebrew": "לעבור ממקום, אדם או צורה אחת לאחרת; להעביר או למסור משהו או מישהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Exchanging money in a bank or financial institution",
+                "definition_hebrew": "המרת כסף בבנק או במוסד פיננסי",
+                "example": "He went to the bank and transferred $500 from his checking account into his savings account.",
+                "example_hebrew": "הוא הלך לבנק והעביר 500 דולר מחשבון העובר ושב שלו לחשבון החיסכון שלו."
+            },
+            {
+                "definition": "Moving data or information between different storage devices or locations",
+                "definition_hebrew": "העברת נתונים או מידע בין התקני אחסון או מיקומים שונים",
+                "example": "She used a USB drive to transfer her photos from her computer to another one.",
+                "example_hebrew": "היא השתמשה בכונן USB כדי להעביר את התמונות שלה מהמחשב שלה למחשב אחר."
+            },
+            {
+                "definition": "Shifting the responsibility for something to someone else",
+                "definition_hebrew": "העברת האחריות על משהו למישהו אחר",
+                "example": "The manager decided to transfer some of his workload to his assistant in order to focus on other tasks.",
+                "example_hebrew": "המנהל החליט להעביר חלק מעומס העבודה שלו לעוזרו על מנת להתמקד במשימות אחרות."
+            },
+            {
+                "definition": "Relocating or moving from one place, person, or group to another",
+                "definition_hebrew": "העברה או מעבר ממקום, אדם או קבוצה אחד לאחר",
+                "example": "Due to the job opportunity, she transferred to a new city and started working at a different company.",
+                "example_hebrew": "עקב הזדמנות העבודה היא עברה לעיר חדשה והחלה לעבוד בחברה אחרת."
+            }
+        ]
+    }
+]

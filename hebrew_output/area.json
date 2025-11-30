@@ -1,0 +1,40 @@
+[
+    {
+        "word": "area",
+        "word_hebrew": "אֵזוֹר",
+        "main_definition": "Area refers to a specific region or space, often used in contexts such as geography, mathematics, and everyday language.",
+        "main_definition_hebrew": "אזור מתייחס לאזור או למרחב ספציפי, המשמש לעתים קרובות בהקשרים כמו גיאוגרפיה, מתמטיקה ושפה יומיומית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A physical location on the Earth's surface; an expanse of land with defined boundaries",
+                "definition_hebrew": "מיקום פיזי על פני כדור הארץ; מרחב אדמה עם גבולות מוגדרים",
+                "example": "The Amazon rainforest is a vast area known for its biodiversity.",
+                "example_hebrew": "יער הגשם באמזונס הוא אזור עצום הידוע במגוון הביולוגי שלו."
+            },
+            {
+                "definition": "In mathematics, an area denotes the amount of space within the boundary of a two-dimensional shape. It is measured in square units.",
+                "definition_hebrew": "במתמטיקה, אזור מציין את כמות החלל בתוך הגבול של צורה דו-ממדית. הוא נמדד ביחידות ריבועיות.",
+                "example": "Calculate the area of a rectangle with length 5 cm and width 3 cm (Area = 15 sq cm).",
+                "example_hebrew": "חשב את שטחו של מלבן באורך 5 ס\"מ ורוחב 3 ס\"מ (שטח = 15 ס\"מ רבוע)."
+            },
+            {
+                "definition": "In business, an area can refer to a specific division or department within a company. For example, sales area might encompass all sales-related functions.",
+                "definition_hebrew": "בעסק, תחום יכול להתייחס לחטיבה או מחלקה ספציפית בתוך חברה. לדוגמה, אזור מכירות עשוי להכיל את כל הפונקציות הקשורות למכירות.",
+                "example": "The Marketing Area of the company was responsible for advertising and promotions.",
+                "example_hebrew": "תחום השיווק של החברה היה אחראי על פרסום וקידום מכירות."
+            },
+            {
+                "definition": "In everyday language, an 'area' can refer to a region or district with a particular characteristic, such as a shopping area in a city.",
+                "definition_hebrew": "בשפה היומיומית, 'אזור' יכול להתייחס לאזור או למחוז עם מאפיין מסוים, כמו אזור קניות בעיר.",
+                "example": "The downtown shopping area offers a variety of stores and restaurants.",
+                "example_hebrew": "אזור הקניות במרכז העיר מציע מגוון חנויות ומסעדות."
+            },
+            {
+                "definition": "In urban planning, an area may represent zones for residential, commercial, or industrial purposes within the city layout.",
+                "definition_hebrew": "בתכנון עירוני, אזור עשוי לייצג אזורים למטרות מגורים, מסחר או תעשייה בתוך מתווה העיר.",
+                "example": "The zoning map shows different areas designated for homes, businesses, and factories.",
+                "example_hebrew": "מפת הייעוד מציגה אזורים שונים המיועדים לבתים, עסקים ומפעלים."
+            }
+        ]
+    }
+]

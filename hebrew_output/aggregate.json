@@ -1,0 +1,34 @@
+[
+    {
+        "word": "aggregate",
+        "word_hebrew": "לְקַבֵּץ",
+        "main_definition": "Aggregate refers to the total or combined amount, quantity, or sum of individual elements or parts.",
+        "main_definition_hebrew": "מצטבר מתייחס לכמות הכוללת או המשולבת, הכמות או הסכום של אלמנטים או חלקים בודדים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To collect or gather together",
+                "definition_hebrew": "לאסוף או לאסוף ביחד",
+                "example": "The company will aggregate data from various sources for analysis.",
+                "example_hebrew": "החברה תצבור נתונים ממקורות שונים לצורך ניתוח."
+            },
+            {
+                "definition": "A whole formed by combining several separate elements",
+                "definition_hebrew": "שלם שנוצר על ידי שילוב של כמה אלמנטים נפרדים",
+                "example": "Granite is an aggregate of quartz, feldspar, and mica minerals.",
+                "example_hebrew": "גרניט הוא מצרף של מינרלים של קוורץ, פלדספאט ומיקה."
+            },
+            {
+                "definition": "A statistical measure that represents the sum or total of a group of numbers",
+                "definition_hebrew": "מדד סטטיסטי המייצג את הסכום או הכולל של קבוצת מספרים",
+                "example": "The average income for the city was calculated as the aggregate of all households' incomes.",
+                "example_hebrew": "ההכנסה הממוצעת לעיר חושבה כמצטבר של כל ההכנסות של משקי הבית."
+            },
+            {
+                "definition": "A collection of things held together by some bond or function",
+                "definition_hebrew": "אוסף של דברים המוחזקים יחד על ידי קשר או פונקציה כלשהי",
+                "example": "Concrete is made up of an aggregate of sand, gravel, and cement.",
+                "example_hebrew": "בטון מורכב ממצרף של חול, חצץ ומלט."
+            }
+        ]
+    }
+]

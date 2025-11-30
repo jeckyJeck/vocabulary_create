@@ -1,0 +1,34 @@
+[
+    {
+        "word": "bike",
+        "word_hebrew": "אופניים",
+        "main_definition": "A bicycle or any vehicle propelled by human power through pedaling.",
+        "main_definition_hebrew": "אופניים או כל רכב המונע בכוח אנושי באמצעות דיווש.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of riding a bike.",
+                "definition_hebrew": "מעשה הרכיבה על אופניים.",
+                "example": "I love the feeling of freedom when I ride my bike on the weekends.",
+                "example_hebrew": "אני אוהב את תחושת החופש כשאני רוכב על אופניים בסופי שבוע."
+            },
+            {
+                "definition": "A bicycle, specifically for kids or those with disabilities.",
+                "definition_hebrew": "אופניים, במיוחד לילדים או לבעלי מוגבלויות.",
+                "example": "She received her first tricycle as a birthday present and has been riding it every day since then.",
+                "example_hebrew": "היא קיבלה את התלת אופן הראשון שלה כמתנת יום הולדת ומאז היא רוכבת עליו כל יום."
+            },
+            {
+                "definition": "To teach someone how to ride a bike.",
+                "definition_hebrew": "ללמד מישהו איך לרכוב על אופניים.",
+                "example": "My father spent hours with me until I finally learned to pedal without falling down.",
+                "example_hebrew": "אבי בילה איתי שעות עד שלבסוף למדתי לדווש מבלי ליפול."
+            },
+            {
+                "definition": "An informal term for cycling or biking as a recreational activity.",
+                "definition_hebrew": "מונח לא פורמלי לרכיבה על אופניים או רכיבה על אופניים כפעילות פנאי.",
+                "example": "I'm planning a bike trip across the country next summer.",
+                "example_hebrew": "אני מתכנן טיול אופניים ברחבי הארץ בקיץ הבא."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "consultation",
+        "word_hebrew": "יִעוּץ",
+        "main_definition": "A formal meeting or discussion to seek advice, information, or expertise from someone with relevant knowledge or experience.",
+        "main_definition_hebrew": "פגישה רשמית או דיון כדי לבקש עצה, מידע או מומחיות ממישהו בעל ידע או ניסיון רלוונטי.",
+        "meanings_and_examples": [
+            {
+                "definition": "A professional meeting between a patient and a doctor to discuss symptoms, diagnosis, treatment options, etc.",
+                "definition_hebrew": "מפגש מקצועי בין מטופל לרופא לדיון בתסמינים, אבחון, אפשרויות טיפול וכו'.",
+                "example": "She scheduled an appointment for consultation with her cardiologist.",
+                "example_hebrew": "היא קבעה תור להתייעצות עם הקרדיולוג שלה."
+            },
+            {
+                "definition": "An advisory session where individuals or groups seek expert opinion on specific issues",
+                "definition_hebrew": "פגישת ייעוץ שבה אנשים או קבוצות מבקשים חוות דעת מומחים בנושאים ספציפיים",
+                "example": "The board of directors held a consultation with the environmental scientists to discuss sustainable practices.",
+                "example_hebrew": "הדירקטוריון קיים התייעצות עם מדעני הסביבה כדי לדון בפרקטיקות ברות קיימא."
+            },
+            {
+                "definition": "A meeting for collaborative problem-solving between different departments, organizations, or countries",
+                "definition_hebrew": "מפגש לפתרון בעיות שיתופי בין מחלקות, ארגונים או מדינות שונות",
+                "example": "The two companies arranged a consultation to resolve their ongoing dispute and find a mutual agreement.",
+                "example_hebrew": "שתי החברות קבעו פגישת ייעוץ כדי לפתור את המחלוקת המתמשכת ביניהן ולמצוא הסכם הדדי."
+            },
+            {
+                "definition": "Seeking advice from someone with specialized knowledge in a particular field",
+                "definition_hebrew": "מבקש ייעוץ מאדם בעל ידע מיוחד בתחום מסוים",
+                "example": "Before making the investment, he sought consultation from his financial advisor.",
+                "example_hebrew": "לפני ביצוע ההשקעה, הוא ביקש להתייעץ עם היועץ הפיננסי שלו."
+            },
+            {
+                "definition": "A formal discussion or hearing where legal issues are presented and debated",
+                "definition_hebrew": "דיון או דיון רשמי שבו מוצגות ודונים בנושאים משפטיים",
+                "example": "The court ordered a mandatory consultation with both parties' attorneys before proceeding to trial.",
+                "example_hebrew": "בית המשפט הורה על התייעצות חובה עם עורכי הדין של שני הצדדים לפני המשך משפט."
+            }
+        ]
+    }
+]

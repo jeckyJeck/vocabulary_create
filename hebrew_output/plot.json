@@ -1,0 +1,28 @@
+[
+    {
+        "word": "plot",
+        "word_hebrew": "עלילה",
+        "main_definition": "A plot can refer to a secret plan or scheme, the sequence of events in a story, or the physical arrangement of land or buildings.",
+        "main_definition_hebrew": "עלילה יכולה להתייחס לתוכנית או לתוכנית סודית, לרצף האירועים בסיפור או לסידור הפיזי של קרקע או מבנים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Secret plan or scheme",
+                "definition_hebrew": "תוכנית או תוכנית סודית",
+                "example": "The group plotted to surprise their friend with a birthday party.",
+                "example_hebrew": "הקבוצה זממה להפתיע את חברם במסיבת יום הולדת."
+            },
+            {
+                "definition": "Sequence of events in a story, play, movie, or other narrative",
+                "definition_hebrew": "רצף אירועים בסיפור, מחזה, סרט או נרטיב אחר",
+                "example": "The plot of the novel revolved around a young girl's journey to find her long-lost brother.",
+                "example_hebrew": "עלילת הרומן נסבה סביב מסעה של נערה צעירה למצוא את אחיה שאבד זה מכבר."
+            },
+            {
+                "definition": "A piece of land divided into sections for farming, development, etc.",
+                "definition_hebrew": "חלקת אדמה מחולקת למקטעים לחקלאות, פיתוח וכו'.",
+                "example": "They bought a parcel of land with different plots suitable for both residential and agricultural use.",
+                "example_hebrew": "הם קנו חלקת אדמה עם חלקות שונות המתאימות גם למגורים וגם לחקלאות."
+            }
+        ]
+    }
+]

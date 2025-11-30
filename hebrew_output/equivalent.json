@@ -1,0 +1,34 @@
+[
+    {
+        "word": "equivalent",
+        "word_hebrew": "שווה ערך",
+        "main_definition": "Something that is equal in value, function, or meaning to another thing.",
+        "main_definition_hebrew": "משהו ששווה בערכו, בתפקוד או במשמעותו לדבר אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Having the same numerical value or quantity as something else when compared by measurement.",
+                "definition_hebrew": "בעל אותו ערך מספרי או כמות כמו משהו אחר בהשוואה לפי מדידה.",
+                "example": "Two liters of water are equivalent to 67.6 fluid ounces.",
+                "example_hebrew": "שני ליטר מים שווים ל-67.6 אונקיות נוזליות."
+            },
+            {
+                "definition": "Being similar in effect, purpose, or nature despite having different forms or appearances.",
+                "definition_hebrew": "להיות דומה באפקט, במטרה או בטבע למרות שיש לו צורות או מראה שונים.",
+                "example": "A pen and a pencil can be considered equivalent tools for writing.",
+                "example_hebrew": "עט ועיפרון יכולים להיחשב לכלים שווים לכתיבה."
+            },
+            {
+                "definition": "Matching or corresponding exactly with something else in terms of value, degree, or importance.",
+                "definition_hebrew": "התאמה או התכתבות בדיוק עם משהו אחר מבחינת ערך, תואר או חשיבות.",
+                "example": "The first edition book is not as valuable as the second one, but it's still an excellent equivalent collectible.",
+                "example_hebrew": "הספר במהדורה הראשונה אינו בעל ערך כמו הספר השני, אך הוא עדיין פריט אספנות מקביל מצוין."
+            },
+            {
+                "definition": "Existing at a level that has the same effect, weight, or significance in different contexts.",
+                "definition_hebrew": "קיים ברמה בעלת אותה השפעה, משקל או משמעות בהקשרים שונים.",
+                "example": "In some cases, a small fine can be considered equivalent to not paying taxes on time.",
+                "example_hebrew": "במקרים מסוימים, קנס קטן יכול להיחשב שווה ערך לאי תשלום מיסים בזמן."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "association",
+        "word_hebrew": "אִרגוּן",
+        "main_definition": "An association is a group or organization formed by people who share common interests, goals, or purposes.",
+        "main_definition_hebrew": "עמותה היא קבוצה או ארגון שנוצרו על ידי אנשים החולקים תחומי עניין, מטרות או מטרות משותפים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Linking two things together in the mind",
+                "definition_hebrew": "מקשרים שני דברים ביחד בנפש",
+                "example": "When I say 'the color red and anger', many people associate red with feelings of anger.",
+                "example_hebrew": "כשאני אומר 'הצבע האדום והכעס', אנשים רבים מקשרים אדום עם רגשות כעס."
+            },
+            {
+                "definition": "A group or organization",
+                "definition_hebrew": "קבוצה או ארגון",
+                "example": "The local animal shelter is a nonprofit association dedicated to helping homeless pets find forever homes.",
+                "example_hebrew": "מקלט החיות המקומי הוא עמותה ללא מטרות רווח המוקדשת לעזור לחיות מחמד חסרות בית למצוא בתים לנצח."
+            },
+            {
+                "definition": "To connect someone's name with another person, often as part of an investigation or research.",
+                "definition_hebrew": "לקשר שם של מישהו עם אדם אחר, לעתים קרובות כחלק מחקירה או מחקר.",
+                "example": "The police had to associate the suspect's fingerprint found at the crime scene with those in their database.",
+                "example_hebrew": "המשטרה נאלצה לקשר את טביעת האצבע של החשוד שנמצאה בזירת הפשע עם אלה שנמצאות במאגר המידע שלה."
+            }
+        ]
+    }
+]

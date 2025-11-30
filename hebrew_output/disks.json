@@ -1,0 +1,40 @@
+[
+    {
+        "word": "disks",
+        "word_hebrew": "דיסקים",
+        "main_definition": "Disks refer to flat, round objects or in computing terms, storage mediums with circular data paths.",
+        "main_definition_hebrew": "דיסקים מתייחסים לאובייקטים שטוחים ועגולים או במונחי מחשוב, אמצעי אחסון עם נתיבים עגולים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical hard disk drives used for storing digital information",
+                "definition_hebrew": "כונני דיסק קשיח פיזיים המשמשים לאחסון מידע דיגיטלי",
+                "example": "The computer's internal disks store all my files.",
+                "example_hebrew": "הדיסקים הפנימיים של המחשב מאחסנים את כל הקבצים שלי."
+            },
+            {
+                "definition": "Floppy disks, an older form of storage media that were widely used in the past",
+                "definition_hebrew": "תקליטונים, צורה ישנה יותר של אמצעי אחסון שהיו בשימוש נרחב בעבר",
+                "example": "I had to insert a floppy disk into my old computer to run this software.",
+                "example_hebrew": "הייתי צריך להכניס תקליטון למחשב הישן שלי כדי להפעיל את התוכנה הזו."
+            },
+            {
+                "definition": "The circular shape or design element found in various contexts such as art and nature",
+                "definition_hebrew": "הצורה המעגלית או האלמנט העיצובי המצוי בהקשרים שונים כמו אמנות וטבע",
+                "example": "This painting has many disks with different colors painted on it.",
+                "example_hebrew": "לציור הזה יש הרבה דיסקים עם צבעים שונים צבועים עליהם."
+            },
+            {
+                "definition": "A disk used for gymnastics, typically a flat piece of material that athletes perform routines on",
+                "definition_hebrew": "דיסק המשמש להתעמלות, בדרך כלל חומר שטוח שספורטאים מבצעים עליו שגרה",
+                "example": "The gymnast performed amazing flips and spins on the aerobic disks during her routine.",
+                "example_hebrew": "המתעמלת ביצעה סיבובים וסיבובים מדהימים על הדיסקים האירוביים במהלך שגרתה."
+            },
+            {
+                "definition": "A type of game or puzzle where players try to arrange a set of items into specific configurations",
+                "definition_hebrew": "סוג של משחק או פאזל שבו שחקנים מנסים לסדר קבוצה של פריטים לתצורות ספציפיות",
+                "example": "We spent hours trying to solve that Rubik's Cube, which is essentially a three-dimensional disk puzzle.",
+                "example_hebrew": "בילינו שעות בניסיון לפתור את הקובייה של רוביק, שהיא בעצם פאזל דיסק תלת מימדי."
+            }
+        ]
+    }
+]

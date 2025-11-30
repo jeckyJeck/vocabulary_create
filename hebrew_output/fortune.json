@@ -1,0 +1,34 @@
+[
+    {
+        "word": "fortune",
+        "word_hebrew": "הון עתק",
+        "main_definition": "Fortune refers to both a person's financial success or wealth, as well as the concept of luck or fate that influences one's life events.",
+        "main_definition_hebrew": "הון מתייחס הן להצלחה או לעושרו הכלכלי של אדם, כמו גם למושג המזל או הגורל המשפיעים על אירועי חייו של האדם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Wealth and prosperity",
+                "definition_hebrew": "עושר ושגשוג",
+                "example": "She was fortunate to inherit a large fortune from her late uncle.",
+                "example_hebrew": "התמזל מזלה לרשת הון גדול מדודה המנוח."
+            },
+            {
+                "definition": "Luck or fate",
+                "definition_hebrew": "מזל או גורל",
+                "example": "The old saying 'fortune favors the bold' suggests that luck often goes to those who take risks.",
+                "example_hebrew": "האימרה הישנה 'המזל מעדיף את הנועזים' מציעה שהמזל מגיע לרוב למי שלוקח סיכונים."
+            },
+            {
+                "definition": "A large sum of money given as a gift",
+                "definition_hebrew": "סכום כסף גדול שניתן במתנה",
+                "example": "He received his fortune from the lottery ticket he had bought on a whim.",
+                "example_hebrew": "את הונו קיבל מכרטיס הלוטו שקנה בגחמה."
+            },
+            {
+                "definition": "The outcome or destiny that one's actions lead to",
+                "definition_hebrew": "התוצאה או הגורל שמעשיו של האדם מובילים אליהם",
+                "example": "Despite all odds, her hard work eventually led to fortunate outcomes in her career.",
+                "example_hebrew": "למרות כל הסיכויים, העבודה הקשה שלה הובילה בסופו של דבר לתוצאות משמחות בקריירה שלה."
+            }
+        ]
+    }
+]

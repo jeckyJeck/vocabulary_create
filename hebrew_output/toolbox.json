@@ -1,0 +1,34 @@
+[
+    {
+        "word": "toolbox",
+        "word_hebrew": "ארגז כלים",
+        "main_definition": "A toolbox is a container used to store tools, often metaphorically representing a collection of resources or methods.",
+        "main_definition_hebrew": "ארגז כלים הוא מיכל המשמש לאחסון כלים, לרוב המייצג באופן מטפורי אוסף של משאבים או שיטות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical storage for tools and equipment",
+                "definition_hebrew": "אחסון פיזי לכלים וציוד",
+                "example": "The carpenter reached into his toolbox to grab a hammer.",
+                "example_hebrew": "הנגר הושיט יד לתוך ארגז הכלים שלו כדי לתפוס פטיש."
+            },
+            {
+                "definition": "A collection of skills, techniques or approaches used in problem-solving",
+                "definition_hebrew": "אוסף של מיומנויות, טכניקות או גישות המשמשות בפתרון בעיות",
+                "example": "When faced with the challenge of developing an app from scratch, she opened her 'toolbox' and utilized programming languages like Python and Java.",
+                "example_hebrew": "כשהתמודדה עם האתגר של פיתוח אפליקציה מאפס, היא פתחה את 'ארגז הכלים' שלה והשתמשה בשפות תכנות כמו Python ו-Java."
+            },
+            {
+                "definition": "A set of strategies for handling specific situations or problems",
+                "definition_hebrew": "קבוצה של אסטרטגיות לטיפול במצבים או בעיות ספציפיות",
+                "example": "In order to resolve customer complaints more efficiently, the manager shared his toolbox with new team members, which included active listening and empathy techniques.",
+                "example_hebrew": "על מנת לפתור תלונות לקוחות בצורה יעילה יותר, המנהל שיתף את ארגז הכלים שלו עם חברי צוות חדשים, שכלל טכניקות הקשבה אקטיביות ואמפתיה."
+            },
+            {
+                "definition": "A metaphorical box of ideas, concepts or resources that one can draw upon",
+                "definition_hebrew": "קופסה מטפורית של רעיונות, מושגים או משאבים שאפשר להסתמך עליהם",
+                "example": "The writer's toolbox contained a variety of literary devices such as similes, metaphors, and personification to enhance his writing.",
+                "example_hebrew": "ארגז הכלים של הסופר הכיל מגוון אמצעים ספרותיים כמו דימות, מטפורות והאנשה להעצמת כתיבתו."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "specification",
+        "word_hebrew": "מִפרָט",
+        "main_definition": "A detailed description of a product's features, design, or requirements.",
+        "main_definition_hebrew": "תיאור מפורט של התכונות, העיצוב או הדרישות של המוצר.",
+        "meanings_and_examples": [
+            {
+                "definition": "The process of identifying and stating the details required for a task to be completed successfully.",
+                "definition_hebrew": "תהליך זיהוי וציון הפרטים הנדרשים לביצוע משימה בהצלחה.",
+                "example": "Before starting construction on a new building, architects must provide detailed specifications for materials, design, and functionality.",
+                "example_hebrew": "לפני תחילת הבנייה בבניין חדש, על האדריכלים לספק מפרט מפורט לחומרים, עיצוב ופונקציונליות."
+            },
+            {
+                "definition": "A document that outlines the standards or requirements needed to meet certain criteria or goals.",
+                "definition_hebrew": "מסמך המתאר את התקנים או הדרישות הדרושים כדי לעמוד בקריטריונים או יעדים מסוימים.",
+                "example": "In software development, an API specification defines how different software components should interact with each other.",
+                "example_hebrew": "בפיתוח תוכנה, מפרט API מגדיר כיצד רכיבי תוכנה שונים צריכים לתקשר זה עם זה."
+            },
+            {
+                "definition": "The act of defining a set of exact criteria or conditions for something to be considered acceptable or correct.",
+                "definition_hebrew": "הפעולה של הגדרת קבוצה של קריטריונים או תנאים מדויקים כדי שמשהו ייחשב מקובל או נכון.",
+                "example": "When purchasing a car, you may specify that the vehicle must have a certain engine size and fuel efficiency.",
+                "example_hebrew": "בעת רכישת רכב, תוכל לציין שהרכב חייב להיות בעל גודל מנוע מסוים ויעילות דלק."
+            },
+            {
+                "definition": "A formal statement indicating particular requirements, characteristics, or conditions.",
+                "definition_hebrew": "הצהרה רשמית המציינת דרישות, מאפיינים או תנאים מסוימים.",
+                "example": "The electrical specification of an appliance states its power consumption, voltage rating, and safety standards.",
+                "example_hebrew": "המפרט החשמלי של מכשיר מציין את צריכת החשמל שלו, דירוג המתח ותקני הבטיחות שלו."
+            }
+        ]
+    }
+]

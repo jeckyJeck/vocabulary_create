@@ -1,0 +1,40 @@
+[
+    {
+        "word": "ensuring",
+        "word_hebrew": "מבטיח",
+        "main_definition": "To make certain or guarantee that something will happen, be the case, or exist.",
+        "main_definition_hebrew": "לוודא או להבטיח שמשהו יקרה, יהיה המקרה או קיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Guaranteeing success or positive outcomes",
+                "definition_hebrew": "הבטחת הצלחה או תוצאות חיוביות",
+                "example": "By consistently reviewing our financial records and budgeting effectively, we are ensuring a profitable year for our business.",
+                "example_hebrew": "על ידי סקירה עקבית של הרשומות הפיננסיות שלנו ותקצוב יעיל, אנו מבטיחים שנה רווחית לעסק שלנו."
+            },
+            {
+                "definition": "Making sure something is done properly or according to specifications",
+                "definition_hebrew": "לוודא שמשהו נעשה כראוי או בהתאם למפרט",
+                "example": "The quality control team was tasked with ensuring that all products meet the company's high standards.",
+                "example_hebrew": "על צוות בקרת האיכות הוטל לוודא שכל המוצרים עומדים בסטנדרטים הגבוהים של החברה."
+            },
+            {
+                "definition": "Securing an outcome, often through taking necessary precautions or measures",
+                "definition_hebrew": "הבטחת תוצאה, לעתים קרובות באמצעות נקיטת אמצעי זהירות או אמצעים הדרושים",
+                "example": "We are taking every measure to ensure the safety of our employees during the pandemic by enforcing strict health protocols in the workplace.",
+                "example_hebrew": "אנו נוקטים בכל אמצעי כדי להבטיח את בטיחות העובדים שלנו במהלך המגיפה על ידי אכיפת פרוטוקולי בריאות קפדניים במקום העבודה."
+            },
+            {
+                "definition": "Ensuring compliance with rules, laws, or regulations",
+                "definition_hebrew": "הבטחת ציות לכללים, חוקים או תקנות",
+                "example": "The company's legal department is responsible for ensuring all business operations are within regulatory guidelines.",
+                "example_hebrew": "המחלקה המשפטית של החברה אחראית לוודא שכל הפעולות העסקיות עומדות בהנחיות הרגולטוריות."
+            },
+            {
+                "definition": "Guaranteeing availability or access to something when needed",
+                "definition_hebrew": "הבטחת זמינות או גישה למשהו בעת הצורך",
+                "example": "By regularly backing up our data, we can ensure that important files remain accessible even in the event of a system failure.",
+                "example_hebrew": "על ידי גיבוי קבוע של הנתונים שלנו, אנו יכולים להבטיח שקבצים חשובים יישארו נגישים גם במקרה של כשל במערכת."
+            }
+        ]
+    }
+]

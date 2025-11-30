@@ -1,0 +1,40 @@
+[
+    {
+        "word": "cancel",
+        "word_hebrew": "לְבַטֵל",
+        "main_definition": "To revoke or annul a previously arranged action, plan, or agreement.",
+        "main_definition_hebrew": "לבטל או לבטל פעולה, תוכנית או הסכם שנקבעו קודם לכן.",
+        "meanings_and_examples": [
+            {
+                "definition": "To invalidate a contract, reservation, ticket, etc., and typically refund any money paid.",
+                "definition_hebrew": "כדי לבטל חוזה, הזמנה, כרטיס וכו', ובדרך כלל להחזיר כל כסף ששולם.",
+                "example": "I had to cancel my flight due to unforeseen circumstances.",
+                "example_hebrew": "נאלצתי לבטל את הטיסה שלי בגלל נסיבות בלתי צפויות."
+            },
+            {
+                "definition": "To call off an event or gathering because of unfavorable conditions or unexpected situations.",
+                "definition_hebrew": "לבטל אירוע או התכנסות בגלל תנאים לא נוחים או מצבים בלתי צפויים.",
+                "example": "The outdoor concert was canceled due to heavy rain.",
+                "example_hebrew": "הקונצרט בחוץ בוטל עקב גשם כבד."
+            },
+            {
+                "definition": "To stop a planned action from taking place, especially when it is deemed unsuitable or inappropriate.",
+                "definition_hebrew": "לעצור פעולה מתוכננת מלהתבצע, במיוחד כאשר היא נחשבת לא מתאימה או בלתי הולמת.",
+                "example": "He decided to cancel his attendance at the meeting after learning about its controversial agenda.",
+                "example_hebrew": "הוא החליט לבטל את השתתפותו בפגישה לאחר שלמד על סדר היום השנוי במחלוקת שלה."
+            },
+            {
+                "definition": "To withdraw one's support for a person, organization, or cause.",
+                "definition_hebrew": "לסגת מהתמיכה באדם, ארגון או מטרה.",
+                "example": "Following allegations of misconduct, several celebrities canceled their endorsement deals with the company.",
+                "example_hebrew": "בעקבות האשמות על התנהגות בלתי הולמת, כמה מפורסמים ביטלו את עסקאות התמיכה שלהם עם החברה."
+            },
+            {
+                "definition": "In slang context, to no longer accept or tolerate a situation or person's behavior.",
+                "definition_hebrew": "בהקשר סלנג, לא לקבל או לסבול יותר מצב או התנהגות של אדם.",
+                "example": "She decided to cancel her subscription after experiencing poor customer service for months.",
+                "example_hebrew": "היא החליטה לבטל את המנוי שלה לאחר שחוותה שירות לקוחות גרוע במשך חודשים."
+            }
+        ]
+    }
+]

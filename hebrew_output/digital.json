@@ -1,0 +1,40 @@
+[
+    {
+        "word": "digital",
+        "word_hebrew": "דִיגִיטָלי",
+        "main_definition": "In simple terms, 'digital' refers to information or processes that are related to computers or technology, specifically using discrete binary numbers (0s and 1s) as the fundamental unit of data.",
+        "main_definition_hebrew": "במילים פשוטות, 'דיגיטלי' מתייחס למידע או תהליכים הקשורים למחשבים או לטכנולוגיה, במיוחד באמצעות מספרים בינאריים בדידים (0 ו-1) כיחידה הבסיסית של נתונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to digital signals",
+                "definition_hebrew": "מתייחס לאותות דיגיטליים",
+                "example": "The TV broadcast uses digital signal rather than analog.",
+                "example_hebrew": "שידור הטלוויזיה משתמש באות דיגיטלי ולא אנלוגי."
+            },
+            {
+                "definition": "Concerning or using digitized information and technology",
+                "definition_hebrew": "לגבי או שימוש במידע וטכנולוגיה דיגיטאלית",
+                "example": "She is a digital artist, creating artwork on her computer using graphics software.",
+                "example_hebrew": "היא אמנית דיגיטלית, שיוצרת יצירות אמנות במחשב שלה באמצעות תוכנת גרפיקה."
+            },
+            {
+                "definition": "Relating to the use of digits (0-9) as symbols for numbers in electronic devices",
+                "definition_hebrew": "התייחסות לשימוש בספרות (0-9) כסמלים למספרים במכשירים אלקטרוניים",
+                "example": "Digital clocks display time using numbers instead of traditional analog hands.",
+                "example_hebrew": "שעונים דיגיטליים מציגים זמן באמצעות מספרים במקום מחוגים אנלוגיים מסורתיים."
+            },
+            {
+                "definition": "Involving or requiring digital technology, such as computers and the Internet",
+                "definition_hebrew": "מעורבים או דורשים טכנולוגיה דיגיטלית, כגון מחשבים ואינטרנט",
+                "example": "Online learning platforms are a form of digital education that allows students to attend classes remotely.",
+                "example_hebrew": "פלטפורמות למידה מקוונות הן סוג של חינוך דיגיטלי המאפשר לתלמידים להשתתף בשיעורים מרחוק."
+            },
+            {
+                "definition": "Using digits (0-9) in data representation instead of analog format",
+                "definition_hebrew": "שימוש בספרות (0-9) בייצוג נתונים במקום בפורמט אנלוגי",
+                "example": "Digital music files have higher quality than their analog counterparts because they use discrete binary numbers for storage.",
+                "example_hebrew": "לקבצי מוזיקה דיגיטלית יש איכות גבוהה יותר מאשר עמיתיהם האנלוגיים מכיוון שהם משתמשים במספרים בינאריים נפרדים לאחסון."
+            }
+        ]
+    }
+]

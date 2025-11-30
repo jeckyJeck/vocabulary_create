@@ -1,0 +1,34 @@
+[
+    {
+        "word": "partial",
+        "word_hebrew": "חלקי",
+        "main_definition": "Showing likes or supports one thing more than another, often unfairly.",
+        "main_definition_hebrew": "הצגת 'אהבתי' או תומכת בדבר אחד יותר מאשר בדבר אחר, לעתים קרובות בצורה לא הוגנת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Incomplete; not whole or entire.",
+                "definition_hebrew": "לא שלם; לא שלם או שלם.",
+                "example": "I have a partial view of the painting from this angle.",
+                "example_hebrew": "יש לי מבט חלקי על הציור מהזווית הזו."
+            },
+            {
+                "definition": "Showing favoritism towards one person, group, or thing over others.",
+                "definition_hebrew": "הצגת העדפה כלפי אדם, קבוצה או דבר אחד על פני אחרים.",
+                "example": "The judge's decision was seen as partial because he favored his brother's company in the lawsuit.",
+                "example_hebrew": "החלטתו של השופט נתפסה כחלקית משום שהוא העדיף את החברה של אחיו בתביעה."
+            },
+            {
+                "definition": "Divided; consisting of parts that are not joined together.",
+                "definition_hebrew": "מחולק; המורכב מחלקים שאינם מחוברים זה לזה.",
+                "example": "A partial denture is used to replace a few missing teeth by joining artificial pieces together.",
+                "example_hebrew": "תותבת חלקית משמשת כדי להחליף כמה שיניים חסרות על ידי חיבור חלקים מלאכותיים יחד."
+            },
+            {
+                "definition": "Relating to, affecting only part of an organism or system.",
+                "definition_hebrew": "מתייחס, משפיע רק על חלק מאורגניזם או מערכת.",
+                "example": "Partial solar eclipse occurs when the moon covers only part of the sun's disk as seen from Earth.",
+                "example_hebrew": "ליקוי חמה חלקי מתרחש כאשר הירח מכסה רק חלק מדיסקת השמש כפי שניתן לראות מכדור הארץ."
+            }
+        ]
+    }
+]

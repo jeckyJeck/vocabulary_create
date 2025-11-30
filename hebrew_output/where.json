@@ -1,0 +1,34 @@
+[
+    {
+        "word": "where",
+        "word_hebrew": "איפה",
+        "main_definition": "Where is used to ask about the location or position of something, refer to a specific place or situation, seek clarification on information, introduce examples, and inquire about conditions or circumstances.",
+        "main_definition_hebrew": "היכן משמש כדי לשאול על מיקומו או מיקומו של משהו, להתייחס למקום או למצב ספציפי, לבקש הבהרה לגבי מידע, להציג דוגמאות ולברר לגבי תנאים או נסיבות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Asking for a location",
+                "definition_hebrew": "מבקש מיקום",
+                "example": "Excuse me, where is the nearest bus stop?",
+                "example_hebrew": "סליחה, איפה תחנת האוטובוס הקרובה?"
+            },
+            {
+                "definition": "Introducing examples",
+                "definition_hebrew": "הצגת דוגמאות",
+                "example": "Where did you go on your last vacation? I want to know so I can plan mine.",
+                "example_hebrew": "לאן הלכת בחופשה האחרונה שלך? אני רוצה לדעת כדי שאוכל לתכנן את שלי."
+            },
+            {
+                "definition": "Seeking clarification",
+                "definition_hebrew": "מחפש הבהרה",
+                "example": "I didn't understand the meeting, where exactly does that relate to our project?",
+                "example_hebrew": "לא הבנתי את הפגישה, איפה זה בדיוק קשור לפרויקט שלנו?"
+            },
+            {
+                "definition": "Inquiring about conditions or circumstances",
+                "definition_hebrew": "בירור לגבי תנאים או נסיבות",
+                "example": "Where were you during the time of the incident? We need to know for the investigation.",
+                "example_hebrew": "איפה היית בזמן המקרה? אנחנו צריכים לדעת בשביל החקירה."
+            }
+        ]
+    }
+]

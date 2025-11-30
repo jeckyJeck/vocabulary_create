@@ -1,0 +1,34 @@
+[
+    {
+        "word": "stopped",
+        "word_hebrew": "עצר",
+        "main_definition": "To cease an action or movement, or to come to a halt.",
+        "main_definition_hebrew": "להפסיק פעולה או תנועה, או לעצור.",
+        "meanings_and_examples": [
+            {
+                "definition": "No longer continuing with an activity",
+                "definition_hebrew": "לא ממשיך יותר בפעילות",
+                "example": "After running for 20 minutes, she stopped jogging and walked home.",
+                "example_hebrew": "לאחר ריצה של 20 דקות, היא הפסיקה לרוץ והלכה הביתה."
+            },
+            {
+                "definition": "End of a journey or travel",
+                "definition_hebrew": "סוף מסע או נסיעה",
+                "example": "The bus stopped at the station as it was reaching its final destination.",
+                "example_hebrew": "האוטובוס עצר בתחנה כשהגיע ליעדו הסופי."
+            },
+            {
+                "definition": "To cease operation or functioning",
+                "definition_hebrew": "להפסיק לפעול או לתפקד",
+                "example": "When I plugged in my computer, I realized that it had stopped working due to a power outage.",
+                "example_hebrew": "כשחיברתי את המחשב שלי, הבנתי שהוא הפסיק לעבוד בגלל הפסקת חשמל."
+            },
+            {
+                "definition": "Terminate employment from a job position",
+                "definition_hebrew": "הפסקת עבודה מתפקיד",
+                "example": "He was unexpectedly stopped at his desk by his boss and informed about his immediate termination.",
+                "example_hebrew": "הוא נעצר במפתיע ליד שולחנו על ידי הבוס שלו והודיעו לו על סיומו המיידי."
+            }
+        ]
+    }
+]

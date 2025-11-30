@@ -1,0 +1,34 @@
+[
+    {
+        "word": "dictionary",
+        "word_hebrew": "מילון",
+        "main_definition": "A reference book containing an alphabetical list of words with information about their meanings, pronunciations, etymologies, and sometimes synonyms or antonyms.",
+        "main_definition_hebrew": "ספר עיון המכיל רשימה אלפביתית של מילים עם מידע על משמעויותיהן, הגייתן, האטימולוגיות ולעיתים מילים נרדפות או אנטונימים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An actual dictionary used for understanding the meaning of words",
+                "definition_hebrew": "מילון ממשי המשמש להבנת משמעותן של מילים",
+                "example": "I looked up the word 'antidisestablishmentarianism' in a dictionary to understand its definition.",
+                "example_hebrew": "חיפשתי את המילה 'אנטי-ממסדיות' במילון כדי להבין את ההגדרה שלה."
+            },
+            {
+                "definition": "A list or collection of terms with definitions, often specific to a particular field such as law, medicine, or computing",
+                "definition_hebrew": "רשימה או אוסף של מונחים עם הגדרות, לעתים קרובות ספציפיות לתחום מסוים כגון משפטים, רפואה או מחשוב",
+                "example": "The legal dictionary provides explanations and interpretations for various legal terms and phrases used in court proceedings.",
+                "example_hebrew": "המילון המשפטי מספק הסברים ופירושים למונחים וביטויים משפטיים שונים המשמשים בהליכים בבית המשפט."
+            },
+            {
+                "definition": "An online resource providing word definitions, translations, synonyms/antonyms, usage examples, etc.",
+                "definition_hebrew": "משאב מקוון המספק הגדרות מילים, תרגומים, מילים נרדפות/אנטונימים, דוגמאות שימוש וכו'.",
+                "example": "I used an online dictionary to find the translation of a French phrase for my language class.",
+                "example_hebrew": "השתמשתי במילון מקוון כדי למצוא את התרגום של ביטוי בצרפתית לשיעור השפה שלי."
+            },
+            {
+                "definition": "A metaphorical reference to someone who is well-informed and provides clear explanations",
+                "definition_hebrew": "התייחסות מטפורית למי שמבין היטב ומספק הסברים ברורים",
+                "example": "She's such a dictionary when it comes to explaining complex topics - everyone always turns to her for help!",
+                "example_hebrew": "היא כזו מילון כשזה מגיע להסבר על נושאים מורכבים - כולם תמיד פונים אליה לעזרה!"
+            }
+        ]
+    }
+]

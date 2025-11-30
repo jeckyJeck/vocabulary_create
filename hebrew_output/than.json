@@ -1,0 +1,28 @@
+[
+    {
+        "word": "than",
+        "word_hebrew": "מאשר",
+        "main_definition": "A word used in comparisons to show difference between two things.",
+        "main_definition_hebrew": "מילה המשמשת בהשוואות כדי להראות הבדל בין שני דברים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Used as a conjunction for making comparisons between two objects, actions or states.",
+                "definition_hebrew": "משמש כצירוף לביצוע השוואות בין שני אובייקטים, פעולות או מצבים.",
+                "example": "She is taller than her brother.",
+                "example_hebrew": "היא יותר גבוהה מאחיה."
+            },
+            {
+                "definition": "Used to introduce examples or illustrations that are less important or relevant in the context of comparison.",
+                "definition_hebrew": "משמש להצגת דוגמאות או איורים שפחות חשובים או רלוונטיים בהקשר של השוואה.",
+                "example": "He speaks English fluently, not just well but exceptionally well, than his peers who only studied for a year.",
+                "example_hebrew": "הוא דובר אנגלית שוטפת, לא רק טוב אלא יוצא דופן, מאשר בני גילו שלמדו רק שנה."
+            },
+            {
+                "definition": "Used when discussing quantities to indicate which is greater between two amounts or measurements.",
+                "definition_hebrew": "משמש כאשר דנים בכמויות כדי לציין מה גדול יותר בין שתי כמויות או מדידות.",
+                "example": "The store sold more apples than bananas this week.",
+                "example_hebrew": "החנות מכרה השבוע יותר תפוחים מבננות."
+            }
+        ]
+    }
+]

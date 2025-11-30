@@ -1,0 +1,28 @@
+[
+    {
+        "word": "ethernet",
+        "word_hebrew": "Ethernet",
+        "main_definition": "Ethernet is a widely used computer network technology that allows computers to communicate with each other through cables.",
+        "main_definition_hebrew": "Ethernet היא טכנולוגיית רשת מחשבים בשימוש נרחב המאפשרת למחשבים לתקשר זה עם זה באמצעות כבלים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A networking standard for connecting computers in a local area network (LAN)",
+                "definition_hebrew": "תקן רשת לחיבור מחשבים ברשת מקומית (LAN)",
+                "example": "My home office has an Ethernet connection to the internet.",
+                "example_hebrew": "למשרד הביתי שלי יש חיבור Ethernet לאינטרנט."
+            },
+            {
+                "definition": "An alternative term for twisted pair cabling used in LANs",
+                "definition_hebrew": "מונח חלופי לכבלים מפותלים המשמשים ברשתות LAN",
+                "example": "The new office building was installed with Category 6 Ethernet cables.",
+                "example_hebrew": "בניין המשרדים החדש הותקן עם כבלי Ethernet קטגוריה 6."
+            },
+            {
+                "definition": "A connection method between devices that allows them to share resources and data",
+                "definition_hebrew": "שיטת חיבור בין מכשירים המאפשרת להם לשתף משאבים ונתונים",
+                "example": "I shared an Ethernet cable to connect my computer and printer in the same room.",
+                "example_hebrew": "שיתפתי כבל Ethernet כדי לחבר את המחשב והמדפסת שלי באותו חדר."
+            }
+        ]
+    }
+]

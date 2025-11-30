@@ -1,0 +1,40 @@
+[
+    {
+        "word": "unlock",
+        "word_hebrew": "לבטל נעילה",
+        "main_definition": "To release or open something that was previously secured, restricted, or locked.",
+        "main_definition_hebrew": "לשחרר או לפתוח משהו שהיה מאובטח בעבר, מוגבל או נעול.",
+        "meanings_and_examples": [
+            {
+                "definition": "Releasing a physical lock mechanism to open a door or container.",
+                "definition_hebrew": "שחרור מנגנון נעילה פיזי לפתיחת דלת או מכולה.",
+                "example": "He used the key to unlock the front door.",
+                "example_hebrew": "הוא השתמש במפתח כדי לפתוח את דלת הכניסה."
+            },
+            {
+                "definition": "Removing restrictions, limitations, or barriers preventing action or progress.",
+                "definition_hebrew": "הסרת הגבלות, מגבלות או חסמים המונעים פעולה או התקדמות.",
+                "example": "She managed to unlock her full potential by overcoming self-doubt and fear.",
+                "example_hebrew": "היא הצליחה לנצל את מלוא הפוטנציאל שלה על ידי התגברות על ספק עצמי ופחד."
+            },
+            {
+                "definition": "Revealing hidden information, secrets, or truths that were previously unknown.",
+                "definition_hebrew": "חשיפת מידע מוסתר, סודות או אמיתות שלא היו ידועים קודם לכן.",
+                "example": "The whistleblower unlocked the truth about corruption in the company.",
+                "example_hebrew": "המלשין חשף את האמת על השחיתות בחברה."
+            },
+            {
+                "definition": "Using technology to access digital content or devices without authorization.",
+                "definition_hebrew": "שימוש בטכנולוגיה כדי לגשת לתוכן דיגיטלי או למכשירים ללא אישור.",
+                "example": "Illegally downloading copyrighted movies bypasses security measures and unlocks them online.",
+                "example_hebrew": "הורדה לא חוקית של סרטים המוגנים בזכויות יוצרים עוקפת את אמצעי האבטחה ופותחת אותם באינטרנט."
+            },
+            {
+                "definition": "To solve a puzzle, riddle, or mystery that has been difficult to understand or decipher.",
+                "definition_hebrew": "לפתור חידה, חידה או תעלומה שקשה היה להבין או לפענח.",
+                "example": "After hours of contemplation, the detective managed to unlock the meaning behind the cryptic message.",
+                "example_hebrew": "לאחר שעות של התבוננות, הצליח הבלש לגלות את המשמעות מאחורי ההודעה הנסתרת."
+            }
+        ]
+    }
+]

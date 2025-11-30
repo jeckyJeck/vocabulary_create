@@ -1,0 +1,40 @@
+[
+    {
+        "word": "weak",
+        "word_hebrew": "חלש",
+        "main_definition": "lacking in strength, power, or effectiveness.",
+        "main_definition_hebrew": "חסר כוח, כוח או יעילות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Lacking physical strength or vigor.",
+                "definition_hebrew": "חוסר כוח פיזי או מרץ.",
+                "example": "After being sick for a week, he felt weak and could barely lift his coffee mug.",
+                "example_hebrew": "לאחר שהיה חולה במשך שבוע, הוא הרגיש חלש ובקושי הצליח להרים את ספל הקפה שלו."
+            },
+            {
+                "definition": "Not firm or solid in nature; lacking substance or integrity.",
+                "definition_hebrew": "לא מוצק או מוצק בטבעו; חסר חומר או שלמות.",
+                "example": "His argument was weak because it didn't address the main points of the issue.",
+                "example_hebrew": "הטיעון שלו היה חלש כי הוא לא התייחס לעיקרי הנושא."
+            },
+            {
+                "definition": "Showing little impact, influence, or effectiveness.",
+                "definition_hebrew": "מראה השפעה, השפעה או יעילות מועטה.",
+                "example": "The new marketing campaign had a weak response from customers; it failed to generate much interest.",
+                "example_hebrew": "לקמפיין השיווק החדש הייתה היענות חלשה מצד הלקוחות; זה לא הצליח ליצור עניין רב."
+            },
+            {
+                "definition": "Not strong in character; lacking courage and determination.",
+                "definition_hebrew": "לא חזק באופי; חסר אומץ ונחישות.",
+                "example": "Despite the dangers, he faced his fears with a surprising amount of strength and bravery.",
+                "example_hebrew": "למרות הסכנות, הוא התמודד עם פחדיו בכמות מפתיעה של כוח ואומץ."
+            },
+            {
+                "definition": "Lacking mental or emotional power or resilience.",
+                "definition_hebrew": "חסר כוח או חוסן נפשי או רגשי.",
+                "example": "After losing her job, she felt weak and overwhelmed by sadness.",
+                "example_hebrew": "לאחר שאיבדה את עבודתה, היא הרגישה חלשה ומוצפת בעצב."
+            }
+        ]
+    }
+]

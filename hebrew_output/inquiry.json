@@ -1,0 +1,34 @@
+[
+    {
+        "word": "inquiry",
+        "word_hebrew": "חֲקִירָה",
+        "main_definition": "Inquiry refers to the act of seeking information, knowledge or clarification through questioning, investigation, or requesting data.",
+        "main_definition_hebrew": "חקירה מתייחסת לפעולה של חיפוש מידע, ידע או הבהרה באמצעות תשאול, חקירה או בקשת נתונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A formal process of asking for information about a specific subject or issue",
+                "definition_hebrew": "תהליך רשמי של בקשת מידע על נושא או נושא ספציפי",
+                "example": "The committee launched an inquiry into the allegations against the company.",
+                "example_hebrew": "הוועדה פתחה בחקירת ההאשמות נגד החברה."
+            },
+            {
+                "definition": "An investigation carried out to find facts or solutions",
+                "definition_hebrew": "חקירה שבוצעה כדי למצוא עובדות או פתרונות",
+                "example": "After a series of accidents, the airline initiated an inquiry into their maintenance procedures.",
+                "example_hebrew": "לאחר שורה של תאונות, חברת התעופה יזמה חקירה לגבי נוהלי התחזוקה שלהן."
+            },
+            {
+                "definition": "The act of questioning someone in order to gain information",
+                "definition_hebrew": "הפעולה של תשאול מישהו כדי לקבל מידע",
+                "example": "A journalist made an inquiry with the mayor regarding upcoming infrastructure projects.",
+                "example_hebrew": "עיתונאי ערך בירור עם ראש העיר לגבי פרויקטי תשתית קרובים."
+            },
+            {
+                "definition": "An official request for data or documents from a person, organization, or government entity",
+                "definition_hebrew": "בקשה רשמית לנתונים או מסמכים מאדם, ארגון או גורם ממשלתי",
+                "example": "The researcher submitted an inquiry to the university library seeking access to specific archives.",
+                "example_hebrew": "החוקר הגיש שאילתה לספריית האוניברסיטה בבקשה לקבל גישה לארכיונים ספציפיים."
+            }
+        ]
+    }
+]

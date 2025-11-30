@@ -1,0 +1,40 @@
+[
+    {
+        "word": "sea",
+        "word_hebrew": "יָם",
+        "main_definition": "The sea is a large body of saltwater that covers most of the Earth's surface, connecting various land masses.",
+        "main_definition_hebrew": "הים הוא גוף מים מלוח גדול המכסה את רוב פני כדור הארץ, ומחבר בין המוני יבשה שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Nautical term for an area of ocean or sea",
+                "definition_hebrew": "כינוי ימי לאזור של אוקיינוס או ים",
+                "example": "Sailors often refer to their current location as being in the 'sea'.",
+                "example_hebrew": "מלחים מתייחסים לרוב למיקומם הנוכחי כאל \"ים\"."
+            },
+            {
+                "definition": "Metaphor for vastness, depth, and unpredictability",
+                "definition_hebrew": "מטאפורה למרחב, עומק ובלתי צפוי",
+                "example": "The world's problems can sometimes feel like an endless sea.",
+                "example_hebrew": "בעיות העולם יכולות לפעמים להרגיש כמו ים אינסופי."
+            },
+            {
+                "definition": "Historical term referring to large expanses of saltwater that connect different land masses or continents",
+                "definition_hebrew": "מונח היסטורי המתייחס למרחבים גדולים של מים מלוחים המחברים בין המוני קרקע או יבשות שונות",
+                "example": "Before the discovery of oceans, ancient geographers referred to our world's waters as 'seas'.",
+                "example_hebrew": "לפני גילוי האוקיינוסים, גיאוגרפים עתיקים התייחסו למימי עולמנו כאל 'ימים'."
+            },
+            {
+                "definition": "A place where a variety of marine life exists",
+                "definition_hebrew": "מקום בו קיים מגוון של חיים ימיים",
+                "example": "Dolphins and whales can be found in the sea.",
+                "example_hebrew": "בים ניתן למצוא דולפינים ולווייתנים."
+            },
+            {
+                "definition": "Refers to various water bodies that are smaller than oceans but larger than ponds or lakes",
+                "definition_hebrew": "הכוונה לגופי מים שונים קטנים יותר מאוקיינוסים אך גדולים יותר מבריכות או אגמים",
+                "example": "The Mediterraneinate Sea is a major body of saltwater.",
+                "example_hebrew": "הים התיכון הוא גוף מרכזי של מים מלוחים."
+            }
+        ]
+    }
+]

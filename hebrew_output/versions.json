@@ -1,0 +1,34 @@
+[
+    {
+        "word": "versions",
+        "word_hebrew": "גרסאות",
+        "main_definition": "Different forms or iterations of a particular thing, especially software or content.",
+        "main_definition_hebrew": "צורות או איטרציות שונות של דבר מסוים, במיוחד תוכנה או תוכן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Different releases or updates of the same product, typically in computing and technology contexts.",
+                "definition_hebrew": "מהדורות או עדכונים שונים של אותו מוצר, בדרך כלל בהקשרי מחשוב וטכנולוגיה.",
+                "example": "The company released three versions of its new app: version 1.0, 2.0, and 3.0.",
+                "example_hebrew": "החברה פרסמה שלוש גרסאות של האפליקציה החדשה שלה: גרסה 1.0, 2.0 ו-3.0."
+            },
+            {
+                "definition": "Variants of a document or text that have been edited and revised over time.",
+                "definition_hebrew": "גרסאות של מסמך או טקסט שנערכו ושונו לאורך זמן.",
+                "example": "She has several drafts (versions) of her essay, each with different changes from the previous one.",
+                "example_hebrew": "יש לה כמה טיוטות (גרסאות) של החיבור שלה, כל אחת עם שינויים שונים מהקודמת."
+            },
+            {
+                "definition": "Several adaptations or translations of a story into various languages or formats.",
+                "definition_hebrew": "מספר עיבודים או תרגומים של סיפור לשפות או פורמטים שונים.",
+                "example": "The novel was published in versions including English, Spanish, and French.",
+                "example_hebrew": "הרומן יצא לאור בגרסאות כולל אנגלית, ספרדית וצרפתית."
+            },
+            {
+                "definition": "Different types or models that share the same name but have distinct features or designs.",
+                "definition_hebrew": "סוגים או דגמים שונים שחולקים את אותו שם אך בעלי תכונות או עיצובים שונים.",
+                "example": "There are different versions of smartphones with varying screen sizes and camera capabilities.",
+                "example_hebrew": "ישנן גרסאות שונות של סמארטפונים עם גדלי מסך ויכולות מצלמה משתנות."
+            }
+        ]
+    }
+]

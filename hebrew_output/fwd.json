@@ -1,0 +1,28 @@
+[
+    {
+        "word": "fwd",
+        "word_hebrew": "fwd",
+        "main_definition": "Forward (in the context of email) refers to sending an electronic message from one recipient to another.",
+        "main_definition_hebrew": "העברה (בהקשר של דואר אלקטרוני) מתייחסת לשליחת הודעה אלקטרונית מנמען אחד לאחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To send forward or advance something, especially information or communication",
+                "definition_hebrew": "לשלוח או לקדם משהו, במיוחד מידע או תקשורת",
+                "example": "After reading an article on the company intranet, she forwards it to her colleagues via email.",
+                "example_hebrew": "לאחר קריאת מאמר באינטראנט של החברה, היא מעבירה אותו לעמיתיה באמצעות דואר אלקטרוני."
+            },
+            {
+                "definition": "In computing and technology, 'fwd' is a shorthand used in digital communications to refer to forwarding content",
+                "definition_hebrew": "בתחום המחשוב והטכנולוגיה, 'fwd' הוא קיצור המשמש בתקשורת דיגיטלית כדי להתייחס להעברת תוכן",
+                "example": "I received an important document. Please fwd it to everyone on the team.",
+                "example_hebrew": "קיבלתי מסמך חשוב. אנא העבירו את זה לכולם בצוות."
+            },
+            {
+                "definition": "A slang term for delivering or transmitting something (like news, messages) from one place/person to another",
+                "definition_hebrew": "מונח סלנג למסירה או העברת משהו (כמו חדשות, הודעות) ממקום/אדם אחד לאחר",
+                "example": "When I heard about the promotion, I immediately forwarded the email update to my friend who works in HR.",
+                "example_hebrew": "כששמעתי על הקידום, העברתי מיד את העדכון במייל לחבר שלי שעובד ב-HR."
+            }
+        ]
+    }
+]

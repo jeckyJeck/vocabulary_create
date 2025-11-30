@@ -1,0 +1,28 @@
+[
+    {
+        "word": "freebsd",
+        "word_hebrew": "freebsd",
+        "main_definition": "Freebsd is a Unix-like operating system based on the FreeBSD project, known for its stability, performance, and security features.",
+        "main_definition_hebrew": "Freebsd היא מערכת הפעלה דמויית Unix המבוססת על פרויקט FreeBSD, הידועה ביציבות, בביצועים ובתכונות האבטחה שלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A nickname or informal term",
+                "definition_hebrew": "כינוי או מונח לא רשמי",
+                "example": "In some online communities, 'freebsd' might be used as a casual reference to the FreeBSD operating system.",
+                "example_hebrew": "בקהילות מקוונות מסוימות, 'freebsd' עשוי לשמש כהתייחסות סתמית למערכת ההפעלה FreeBSD."
+            },
+            {
+                "definition": "An abbreviation for Freedom BSD",
+                "definition_hebrew": "קיצור של Freedom BSD",
+                "example": "'Freebsd' is often seen in discussions or documents where shortening names enhances readability and brevity.",
+                "example_hebrew": "'Freebsd' נראה לעתים קרובות בדיונים או מסמכים שבהם קיצור שמות משפר את הקריאות וקיצור."
+            },
+            {
+                "definition": "A term used to describe a variant of the FreeBSD operating system with specific modifications or customizations.",
+                "definition_hebrew": "מונח המשמש לתיאור גרסה של מערכת ההפעלה FreeBSD עם שינויים ספציפיים או התאמות אישיות.",
+                "example": "'I am using a freebsd variant that includes additional networking features for my server setup.'",
+                "example_hebrew": "'אני משתמש בגרסה של freebsd הכוללת תכונות רשת נוספות עבור הגדרת השרת שלי.'"
+            }
+        ]
+    }
+]

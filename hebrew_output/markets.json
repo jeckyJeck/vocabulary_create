@@ -1,0 +1,40 @@
+[
+    {
+        "word": "markets",
+        "word_hebrew": "שווקים",
+        "main_definition": "Markets refer to places or platforms where goods, services, securities, or other items are bought, sold, or traded.",
+        "main_definition_hebrew": "שווקים מתייחסים למקומות או פלטפורמות שבהם קונים, נמכרים או נסחרים סחורות, שירותים, ניירות ערך או פריטים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical marketplaces",
+                "definition_hebrew": "שווקים פיזיים",
+                "example": "The local farmer's market is a bustling hub of activity where vendors sell fresh produce and homemade goods.",
+                "example_hebrew": "שוק האיכרים המקומי הוא מוקד הומה של פעילות שבו מוכרים תוצרת טרייה ומוצרים תוצרת בית."
+            },
+            {
+                "definition": "Stock markets",
+                "definition_hebrew": "שוקי המניות",
+                "example": "Investors trade stocks on the New York Stock Exchange, making it one of the largest financial markets globally.",
+                "example_hebrew": "משקיעים סוחרים במניות בבורסת ניו יורק, מה שהופך אותה לאחד השווקים הפיננסיים הגדולים בעולם."
+            },
+            {
+                "definition": "Commodity markets",
+                "definition_hebrew": "שוקי סחורות",
+                "example": "The Chicago Mercantile Exchange is a major commodities market where raw materials like wheat and oil are traded.",
+                "example_hebrew": "בורסת הסחורות של שיקגו היא שוק סחורות מרכזי שבו נסחרים בחומרי גלם כמו חיטה ושמן."
+            },
+            {
+                "definition": "Foreign exchange markets (Forex)",
+                "definition_hebrew": "שוקי מטבע חוץ (פורקס)",
+                "example": "Currency traders on the Forex market buy, sell, and trade currencies from around the world to speculate or facilitate international trade.",
+                "example_hebrew": "סוחרי מטבעות בשוק המט\"ח קונים, מוכרים וסוחרים במטבעות מכל העולם כדי להעלות ספקולציות או להקל על סחר בינלאומי."
+            },
+            {
+                "definition": "Online markets",
+                "definition_hebrew": "שווקים מקוונים",
+                "example": "eBay is a popular online marketplace where individuals can buy and sell goods ranging from electronics to collectibles.",
+                "example_hebrew": "eBay הוא שוק מקוון פופולרי שבו אנשים יכולים לקנות ולמכור סחורות החל ממוצרי אלקטרוניקה ועד לפריטי אספנות."
+            }
+        ]
+    }
+]

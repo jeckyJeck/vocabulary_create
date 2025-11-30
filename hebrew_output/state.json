@@ -1,0 +1,40 @@
+[
+    {
+        "word": "state",
+        "word_hebrew": "מדינה",
+        "main_definition": "The condition or situation of something at a particular time, often used to describe political boundaries or governmental authorities.",
+        "main_definition_hebrew": "המצב או המצב של משהו בזמן מסוים, המשמשים לעתים קרובות לתיאור גבולות פוליטיים או רשויות ממשלתיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Political entity with its own government and territory",
+                "definition_hebrew": "ישות פוליטית עם ממשלה וטריטוריה משלה",
+                "example": "California is a state in the United States.",
+                "example_hebrew": "קליפורניה היא מדינה בארצות הברית."
+            },
+            {
+                "definition": "Physical condition or status of something",
+                "definition_hebrew": "מצב פיזי או מצב של משהו",
+                "example": "The car's engine was in an unreliable state after the accident.",
+                "example_hebrew": "מנוע המכונית היה במצב לא אמין לאחר התאונה."
+            },
+            {
+                "definition": "A particular phase or stage in a process",
+                "definition_hebrew": "שלב או שלב מסוים בתהליך",
+                "example": "After rigorous testing, the product entered its final state ready for market release.",
+                "example_hebrew": "לאחר בדיקות קפדניות, המוצר נכנס למצבו הסופי מוכן לשחרור בשוק."
+            },
+            {
+                "definition": "The expression of an emotion or attitude",
+                "definition_hebrew": "ביטוי של רגש או גישה",
+                "example": "He gave me a cold look which reflected his disapproval.",
+                "example_hebrew": "הוא נתן בי מבט קר ששיקף את אי הסכמתו."
+            },
+            {
+                "definition": "A particular set of circumstances or conditions",
+                "definition_hebrew": "קבוצה מסוימת של נסיבות או תנאים",
+                "example": "In this state of emergency, all residents were urged to stay indoors.",
+                "example_hebrew": "במצב חירום זה, כל התושבים נקראו להישאר בבית."
+            }
+        ]
+    }
+]

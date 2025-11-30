@@ -1,0 +1,34 @@
+[
+    {
+        "word": "promise",
+        "word_hebrew": "הַבטָחָה",
+        "main_definition": "A promise is a declaration or assurance that one will do something or that an event will happen.",
+        "main_definition_hebrew": "הבטחה היא הצהרה או הבטחה שאדם יעשה משהו או שאירוע יקרה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A commitment to fulfill a request, typically involving future actions.",
+                "definition_hebrew": "התחייבות למלא בקשה, בדרך כלל כרוכה בפעולות עתידיות.",
+                "example": "I promise to walk you home every day after school.",
+                "example_hebrew": "אני מבטיח ללוות אותך הביתה כל יום אחרי הלימודים."
+            },
+            {
+                "definition": "An assurance given without guarantee of performance, often used in informal contexts or with playful intentions.",
+                "definition_hebrew": "הבטחה שניתנת ללא ערובה לביצועים, משמשת לעתים קרובות בהקשרים לא פורמליים או עם כוונות משחקיות.",
+                "example": "She promised him a million dollars if he could guess her favorite color correctly.",
+                "example_hebrew": "היא הבטיחה לו מיליון דולר אם יוכל לנחש נכון את הצבע האהוב עליה."
+            },
+            {
+                "definition": "A pledge to provide something valuable or important that affects one's reputation or relationships.",
+                "definition_hebrew": "התחייבות לספק משהו בעל ערך או חשוב שמשפיע על המוניטין או מערכות היחסים של האדם.",
+                "example": "He broke his promise by not attending the wedding, damaging their friendship.",
+                "example_hebrew": "הוא הפר את הבטחתו בכך שלא השתתף בחתונה, ופגע בחברותם."
+            },
+            {
+                "definition": "An unbreakable vow made usually in a formal or sacred context.",
+                "definition_hebrew": "נדר בלתי ניתן לשבירה שנעשה בדרך כלל בהקשר רשמי או קדוש.",
+                "example": "They swore an oath on holy scripture to uphold the laws of the land.",
+                "example_hebrew": "הם נשבעו על כתבי הקודש לקיים את חוקי הארץ."
+            }
+        ]
+    }
+]

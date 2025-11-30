@@ -1,0 +1,34 @@
+[
+    {
+        "word": "bias",
+        "word_hebrew": "הֲטָיָה",
+        "main_definition": "An inclination or prejudice toward or against something, someone, or a group of people, often resulting in unfair treatment.",
+        "main_definition_hebrew": "נטייה או דעה קדומה כלפי או נגד משהו, מישהו או קבוצת אנשים, הגורמת לרוב ליחס לא הוגן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Prejudgment or predisposition based on personal beliefs rather than evidence",
+                "definition_hebrew": "שיפוט מוקדם או נטייה המבוססת על אמונות אישיות ולא על ראיות",
+                "example": "His bias against left-handed individuals led him to treat them differently.",
+                "example_hebrew": "ההטיה שלו כלפי אנשים שמאליים הובילה אותו להתייחס אליהם אחרת."
+            },
+            {
+                "definition": "Favoring one thing over another without proper justification",
+                "definition_hebrew": "להעדיף דבר אחד על פני דבר אחר ללא הצדקה ראויה",
+                "example": "The judge's bias towards the defendant affected her judgment during the trial.",
+                "example_hebrew": "ההטיה של השופטת כלפי הנאשמת השפיעה על שיקול דעתה במהלך המשפט."
+            },
+            {
+                "definition": "A systematic error or distortion in data collection, analysis, or interpretation",
+                "definition_hebrew": "שגיאה שיטתית או עיוות באיסוף נתונים, ניתוח או פרשנות",
+                "example": "The survey results were skewed due to a sampling bias that overrepresented one demographic group.",
+                "example_hebrew": "תוצאות הסקר היו מוטות עקב הטיית דגימה שייצגה יתר על המידה קבוצה דמוגרפית אחת."
+            },
+            {
+                "definition": "An unfair inclination towards or against something based on preconceived notions rather than objective reasoning",
+                "definition_hebrew": "נטייה לא הוגנת כלפי או נגד משהו המבוססת על דעות מוקדמות ולא על נימוקים אובייקטיביים",
+                "example": "Her bias against fast food chains influenced her restaurant recommendations to friends.",
+                "example_hebrew": "ההטיה שלה נגד רשתות מזון מהיר השפיעה על המלצות המסעדות שלה לחברים."
+            }
+        ]
+    }
+]

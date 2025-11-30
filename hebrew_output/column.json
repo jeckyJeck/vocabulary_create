@@ -1,0 +1,28 @@
+[
+    {
+        "word": "column",
+        "word_hebrew": "טור",
+        "main_definition": "A vertical structure within a building or layout, often supporting weight or dividing space.",
+        "main_definition_hebrew": "מבנה אנכי בתוך בניין או פריסה, לרוב תומך במשקל או מחלק חלל.",
+        "meanings_and_examples": [
+            {
+                "definition": "In architecture and construction, a vertical structural element that provides support for the floor above and transfers loads downward to the foundations.",
+                "definition_hebrew": "באדריכלות ובבנייה, אלמנט מבני אנכי המעניק תמיכה לקומה שמעל ומעביר עומסים כלפי מטה אל היסודות.",
+                "example": "The columns of ancient Greek temples were designed with elaborate capitals.",
+                "example_hebrew": "העמודים של מקדשים יווניים עתיקים עוצבו עם כותרות משוכללות."
+            },
+            {
+                "definition": "A vertical division in a table or document separating different categories of information.",
+                "definition_hebrew": "חלוקה אנכית בטבלה או במסמך המפרידה בין קטגוריות שונות של מידע.",
+                "example": "In this newspaper, we have several 'columns' including sports, politics, and entertainment.",
+                "example_hebrew": "בעיתון זה יש לנו כמה 'עמודים' כולל ספורט, פוליטיקה ובידור."
+            },
+            {
+                "definition": "An individual author who writes for a magazine, newspaper, or other publication.",
+                "definition_hebrew": "סופר יחיד שכותב עבור מגזין, עיתון או פרסום אחר.",
+                "example": "Jane Doe is the travel columnist for our popular lifestyle magazine.",
+                "example_hebrew": "ג'יין דו היא כתבת הנסיעות של מגזין הלייף סטייל הפופולרי שלנו."
+            }
+        ]
+    }
+]

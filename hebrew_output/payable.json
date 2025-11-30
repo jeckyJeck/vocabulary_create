@@ -1,0 +1,34 @@
+[
+    {
+        "word": "payable",
+        "word_hebrew": "לתשלום",
+        "main_definition": "Something that can be paid or is due to be paid, often referring to a financial obligation or amount owed.",
+        "main_definition_hebrew": "משהו שניתן לשלם או שיש לשלם, לעתים קרובות מתייחס להתחייבות כספית או סכום חייב.",
+        "meanings_and_examples": [
+            {
+                "definition": "A bill or invoice awaiting payment",
+                "definition_hebrew": "חשבון או חשבונית ממתינים לתשלום",
+                "example": "The payable list for the month includes several outstanding utility bills.",
+                "example_hebrew": "הרשימה לתשלום עבור החודש כוללת מספר חשבונות חשמל."
+            },
+            {
+                "definition": "An amount that is due to be paid as a debt",
+                "definition_hebrew": "סכום שאמור להיות משולם כחוב",
+                "example": "Upon signing the contract, he agreed to settle all associated payables by December 31st.",
+                "example_hebrew": "עם חתימת החוזה, הוא הסכים להסדיר את כל התשלומים הקשורים עד 31 בדצמבר."
+            },
+            {
+                "definition": "A financial obligation recognized in accounting records",
+                "definition_hebrew": "התחייבות פיננסית המוכרת ברישומים החשבונאיים",
+                "example": "The company's balance sheet showed various accounts receivable and payable amounts.",
+                "example_hebrew": "במאזן החברה הוצגו סכומים שונים של חייב ותשלום."
+            },
+            {
+                "definition": "An asset or item that has a monetary value and can be paid for",
+                "definition_hebrew": "נכס או פריט שיש לו ערך כספי וניתן לשלם עליו",
+                "example": "We are negotiating the price of an antique car, which is considered a valuable payable item.",
+                "example_hebrew": "אנו מנהלים משא ומתן על מחיר מכונית עתיקה, הנחשבת לפריט בעל ערך לתשלום."
+            }
+        ]
+    }
+]

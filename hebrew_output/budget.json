@@ -1,0 +1,46 @@
+[
+    {
+        "word": "budget",
+        "word_hebrew": "תַקצִיב",
+        "main_definition": "A budget is a plan that outlines expected income and expenses over a specific period of time, typically used to manage resources and achieve financial goals.",
+        "main_definition_hebrew": "תקציב הוא תוכנית המתארת את ההכנסות וההוצאות הצפויות על פני פרק זמן מסוים, המשמשת בדרך כלל לניהול משאבים והשגת יעדים פיננסיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Financial Plan",
+                "definition_hebrew": "תכנית פיננסית",
+                "example": "The company's annual budget allocates funds for various departments like marketing, HR, and IT.",
+                "example_hebrew": "התקציב השנתי של החברה מקצה כספים למחלקות שונות כמו שיווק, משאבי אנוש ו-IT."
+            },
+            {
+                "definition": "Cost Control",
+                "definition_hebrew": "בקרת עלויות",
+                "example": "By sticking to the budget, we can control costs and avoid overspending on unnecessary items.",
+                "example_hebrew": "על ידי עמידה בתקציב, נוכל לשלוט בעלויות ולהימנע מהוצאות יתר על פריטים מיותרים."
+            },
+            {
+                "definition": "Resource Allocation",
+                "definition_hebrew": "הקצאת משאבים",
+                "example": "The project's budget was carefully allocated among different tasks such as design, testing, and implementation.",
+                "example_hebrew": "תקציב הפרויקט הוקצה בקפידה בין משימות שונות כגון תכנון, בדיקה ויישום."
+            },
+            {
+                "definition": "Expense Tracking",
+                "definition_hebrew": "מעקב אחר הוצאות",
+                "example": "Keeping track of your monthly expenses against the budget helps you understand where money is being spent.",
+                "example_hebrew": "מעקב אחר ההוצאות החודשיות שלך מול התקציב עוזר לך להבין היכן מוציאים כסף."
+            },
+            {
+                "definition": "Fundraising Target",
+                "definition_hebrew": "יעד לגיוס כספים",
+                "example": "The charity's annual fundraiser aims to reach its set budget goal by raising enough funds from donations and events.",
+                "example_hebrew": "הגיוס השנתי של הצדקה שואף להגיע ליעד התקציבי שנקבע על ידי גיוס מספיק כספים מתרומות ואירועים."
+            },
+            {
+                "definition": "Spending Limit",
+                "definition_hebrew": "מגבלת הוצאה",
+                "example": "Each department has a spending limit as part of the overall budget, which they must not exceed throughout the year.",
+                "example_hebrew": "לכל מחלקה יש מגבלת הוצאה במסגרת התקציב הכולל, שאסור לה לחרוג ממנה במהלך השנה."
+            }
+        ]
+    }
+]

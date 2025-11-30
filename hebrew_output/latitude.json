@@ -1,0 +1,40 @@
+[
+    {
+        "word": "latitude",
+        "word_hebrew": "קו רוחב",
+        "main_definition": "Latitude refers to a measurement of distance or the degree of freedom, either in terms of geographic location (distance from the equator) or metaphorical flexibility.",
+        "main_definition_hebrew": "קו רוחב מתייחס למדידת מרחק או מידת החופש, בין אם במונחים של מיקום גיאוגרפי (מרחק מקו המשווה) או במונחים של גמישות מטאפורית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A measure on Earth's surface used to determine how far north or south a point is from the equator, expressed in degrees between 0 and 90.",
+                "definition_hebrew": "מדד על פני כדור הארץ המשמש כדי לקבוע כמה רחוקה נקודה מצפון או דרום מקו המשווה, מבוטא במעלות בין 0 ל-90.",
+                "example": "The city of Rio de Janeiro has a latitude of about 23°S.",
+                "example_hebrew": "לעיר ריו דה ז'ניירו קו רוחב של כ-23°S."
+            },
+            {
+                "definition": "Flexibility or freedom to choose actions within certain boundaries. In this context, it can relate to lifestyle choices or work policies.",
+                "definition_hebrew": "גמישות או חופש לבחור פעולות בגבולות מסוימים. בהקשר זה, זה יכול להתייחס לבחירות אורח חיים או למדיניות עבודה.",
+                "example": "Employees have more latitude in choosing their working hours as long as they meet project deadlines.",
+                "example_hebrew": "לעובדים יש יותר מרחב פעולה בבחירת שעות העבודה שלהם כל עוד הם עומדים בלוחות זמנים של הפרויקט."
+            },
+            {
+                "definition": "A figurative term for the range of tolerance a person may exercise when making decisions, particularly about moral or social issues.",
+                "definition_hebrew": "מונח פיגורטיבי לטווח הסובלנות שאדם עשוי להפעיל בעת קבלת החלטות, במיוחד בנושאים מוסריים או חברתיים.",
+                "example": "The country's policies allow some latitude in religious observances to cater to its diverse population.",
+                "example_hebrew": "מדיניות המדינה מאפשרת מרחב מסוים במצוות הדת כדי לתת מענה לאוכלוסייתה המגוונת."
+            },
+            {
+                "definition": "In sailing and aviation, it refers to the angular distance east or west from a planet's equator, measured along a meridian.",
+                "definition_hebrew": "בשייט ובתעופה, הכוונה היא למרחק הזוויתי מזרחה או מערבה מקו המשווה של כוכב לכת, הנמדד לאורך קו האורך.",
+                "example": "The pilot adjusted course slightly north of 45 degrees latitude to avoid stormy weather.",
+                "example_hebrew": "הטייס התאים את המסלול מעט מצפון לקו הרוחב 45 מעלות כדי למנוע מזג אוויר סוער."
+            },
+            {
+                "definition": "In programming and computer science, 'latitude' can refer to the flexibility in code that allows for different implementations or behaviors under changing conditions.",
+                "definition_hebrew": "בתכנות ובמדעי המחשב, 'רוחב' יכול להתייחס לגמישות בקוד המאפשרת יישומים או התנהגויות שונות בתנאים משתנים.",
+                "example": "The application's design includes a degree of latitude to adapt to various user input formats.",
+                "example_hebrew": "עיצוב האפליקציה כולל מידת רוחב להתאמה לפורמטים שונים של קלט משתמשים."
+            }
+        ]
+    }
+]

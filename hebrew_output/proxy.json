@@ -1,0 +1,40 @@
+[
+    {
+        "word": "proxy",
+        "word_hebrew": "פרוקסי",
+        "main_definition": "A substitute or representative acting on behalf of someone else, especially in a specific context such as voting or business decisions.",
+        "main_definition_hebrew": "מחליף או נציג הפועל בשמו של מישהו אחר, במיוחד בהקשר ספציפי כגון הצבעה או החלטות עסקיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Substitute representing another person's interest in an event",
+                "definition_hebrew": "תחליף המייצג אינטרס של אדם אחר באירוע",
+                "example": "In elections, a proxy vote allows one individual to cast their ballot on behalf of someone else.",
+                "example_hebrew": "בבחירות, הצבעת מיופה כוח מאפשרת לאדם אחד להצביע בקלפי בשם מישהו אחר."
+            },
+            {
+                "definition": "A tool used for remote access and control",
+                "definition_hebrew": "כלי המשמש לגישה ושליטה מרחוק",
+                "example": "Through the use of a VPN, an employee can remotely connect to their company's network via a proxy server.",
+                "example_hebrew": "באמצעות שימוש ב-VPN, עובד יכול להתחבר מרחוק לרשת החברה שלו באמצעות שרת פרוקסי."
+            },
+            {
+                "definition": "A person authorized to act on behalf of another in business transactions",
+                "definition_hebrew": "מי שהוסמך לפעול בשם אחר בעסקאות עסקיות",
+                "example": "As her husband was traveling, Jane signed the contract as his proxy.",
+                "example_hebrew": "כשבעלה נסע, ג'יין חתמה על החוזה כמיופה כוחו."
+            },
+            {
+                "definition": "A financial instrument used for investment purposes",
+                "definition_hebrew": "מכשיר פיננסי המשמש למטרות השקעה",
+                "example": "Investors often use a shareholder's proxy to vote on corporate matters during an annual meeting.",
+                "example_hebrew": "משקיעים משתמשים לעתים קרובות במיופה כוח של בעל מניות כדי להצביע בענייני תאגידים במהלך אסיפה שנתית."
+            },
+            {
+                "definition": "An indirect representation or mediation",
+                "definition_hebrew": "ייצוג עקיף או גישור",
+                "example": "The mediator acted as a proxy for the two parties in conflict, facilitating dialogue and negotiations.",
+                "example_hebrew": "המגשר פעל כמיופה כוח לשני הצדדים בסכסוך, והקל על דיאלוג ומשא ומתן."
+            }
+        ]
+    }
+]

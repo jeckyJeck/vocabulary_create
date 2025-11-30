@@ -1,0 +1,34 @@
+[
+    {
+        "word": "importance",
+        "word_hebrew": "חֲשִׁיבוּת",
+        "main_definition": "The quality of being significant or having a great effect.",
+        "main_definition_hebrew": "האיכות של להיות משמעותי או בעל השפעה גדולה.",
+        "meanings_and_examples": [
+            {
+                "definition": "High value or significance",
+                "definition_hebrew": "ערך או משמעות גבוהים",
+                "example": "Understanding the importance of education in shaping one's future.",
+                "example_hebrew": "הבנת חשיבות החינוך בעיצוב העתיד של האדם."
+            },
+            {
+                "definition": "Relevance to a particular situation or topic",
+                "definition_hebrew": "רלוונטיות למצב או לנושא מסוים",
+                "example": "The importance of clear communication during meetings cannot be overstated.",
+                "example_hebrew": "אי אפשר להפריז בחשיבותה של תקשורת ברורה במהלך פגישות."
+            },
+            {
+                "definition": "A factor that contributes significantly to an outcome",
+                "definition_hebrew": "גורם שתורם משמעותית לתוצאה",
+                "example": "Teamwork is important for the success of any project, as it allows members to combine their strengths and cover each other's weaknesses.",
+                "example_hebrew": "עבודת צוות חשובה להצלחת כל פרויקט, שכן היא מאפשרת לחברים לשלב את נקודות החוזק שלהם ולכסות זה את החולשות של זה."
+            },
+            {
+                "definition": "Priority or urgency in decision-making",
+                "definition_hebrew": "עדיפות או דחיפות בקבלת החלטות",
+                "example": "Given our tight deadline, we must prioritize the most important tasks first.",
+                "example_hebrew": "בהתחשב בדדליין הקשיח שלנו, עלינו לתעדף את המשימות החשובות ביותר תחילה."
+            }
+        ]
+    }
+]

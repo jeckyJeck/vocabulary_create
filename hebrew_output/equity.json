@@ -1,0 +1,40 @@
+[
+    {
+        "word": "equity",
+        "word_hebrew": "הון עצמי",
+        "main_definition": "Equity refers to the concept of fairness and justice in various contexts, such as finance, law, and social relations.",
+        "main_definition_hebrew": "שוויון מתייחס למושג הגינות וצדק בהקשרים שונים, כגון כספים, משפט ויחסים חברתיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In finance, equity represents ownership interest in a company or property. It indicates the amount of money that would be returned to shareholders if all assets were liquidated and all debts paid off.",
+                "definition_hebrew": "בפיננסים, הון עצמי מייצג עניין בעלות בחברה או בנכס. זה מציין את סכום הכסף שיוחזר לבעלי המניות אם כל הנכסים היו מסולקים וכל החובות נפרעים.",
+                "example": "When an investor buys shares in a publicly-traded company, they acquire a stake in that company's equity.",
+                "example_hebrew": "כאשר משקיע קונה מניות בחברה הנסחרת בבורסה, הוא רוכש נתח בהון העצמי של אותה חברה."
+            },
+            {
+                "definition": "In law, equity refers to the body of principles and remedies applied by courts when rigid application of statutory or common law would not result in a just outcome. It seeks fairness through discretionary justice.",
+                "definition_hebrew": "במשפט, הוגנות מתייחסת למכלול העקרונות והתרופות המיושמות על ידי בתי המשפט כאשר יישום נוקשה של החוק או המשפט המקובל לא יביא לתוצאה צודקת. הוא מחפש הוגנות באמצעות צדק שיקול דעת.",
+                "example": "If someone is denied their legal rights due to an oversight, they may seek equitable relief from the court.",
+                "example_hebrew": "אם זכויותיו המשפטיות נשללות ממישהו עקב שגגה, הוא עשוי לבקש סעד הוגן מבית המשפט."
+            },
+            {
+                "definition": "In social contexts, equity denotes the principle of providing everyone with what they are inherently entitled to, such as opportunities and resources, regardless of their background or circumstances.",
+                "definition_hebrew": "בהקשרים חברתיים, שוויון מציין את העיקרון לספק לכל אחד את מה שהוא זכאי לו מטבעו, כגון הזדמנויות ומשאבים, ללא קשר לרקע או לנסיבות שלו.",
+                "example": "An organization may focus on promoting diversity and inclusion by ensuring equal access to education for all individuals.",
+                "example_hebrew": "ארגון עשוי להתמקד בקידום גיוון והכלה על ידי הבטחת גישה שווה לחינוך לכל הפרטים."
+            },
+            {
+                "definition": "In real estate, equity refers to the difference between the current market value of a property and the amount still owed on its mortgage or loans. It represents the homeowner's financial interest in their property.",
+                "definition_hebrew": "בנדל\"ן, הון עצמי מתייחס להפרש בין שווי השוק הנוכחי של נכס לבין הסכום שעדיין חייב על המשכנתא או ההלוואות שלו. זה מייצג את האינטרס הפיננסי של בעל הבית בנכס שלהם.",
+                "example": "If you own a house worth $300,000 and owe $150,000 on your mortgage, then you have $150,000 equity.",
+                "example_hebrew": "אם יש לך בית בשווי 300,000 $ וחייב 150,000 $ על המשכנתא שלך, אז יש לך 150,000 $ הון עצמי."
+            },
+            {
+                "definition": "In corporate finance, equity financing involves raising capital through the sale of shares in a company. It provides funds for operations or expansion without incurring debt.",
+                "definition_hebrew": "במימון תאגידי, מימון הון כרוך בגיוס הון באמצעות מכירת מניות בחברה. היא מספקת כספים לפעילות או הרחבה מבלי להיכנס לחובות.",
+                "example": "A startup might issue common stock to investors in order to fund their business growth.",
+                "example_hebrew": "סטארטאפ עשוי להנפיק מניות רגילות למשקיעים על מנת לממן את הצמיחה העסקית שלהם."
+            }
+        ]
+    }
+]

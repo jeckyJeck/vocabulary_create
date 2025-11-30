@@ -1,0 +1,34 @@
+[
+    {
+        "word": "priest",
+        "word_hebrew": "כּוֹמֶר",
+        "main_definition": "A religious leader who performs sacred rituals, administers sacraments, and provides spiritual guidance to followers of a particular religion.",
+        "main_definition_hebrew": "מנהיג דתי המבצע טקסים מקודשים, עורך סקרמנטים ומספק הדרכה רוחנית לחסידי דת מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Religious official in Christianity",
+                "definition_hebrew": "פקיד דתי בנצרות",
+                "example": "The Catholic priest blessed the congregation at Sunday mass.",
+                "example_hebrew": "הכומר הקתולי בירך את הקהילה במיסה של יום ראשון."
+            },
+            {
+                "definition": "Spiritual leader in Judaism",
+                "definition_hebrew": "מנהיג רוחני ביהדות",
+                "example": "The Rabbi led the Jewish community in prayer and offered guidance on religious matters.",
+                "example_hebrew": "הרב הנהיג את הקהילה היהודית בתפילה והציע הדרכה בענייני דת."
+            },
+            {
+                "definition": "Religious figure in Hinduism",
+                "definition_hebrew": "דמות דתית בהינדואיזם",
+                "example": "The Brahmin priest performed puja rituals for the deity at a temple.",
+                "example_hebrew": "הכומר הברהמין ביצע טקסי פוג'ה עבור האלוהות במקדש."
+            },
+            {
+                "definition": "A person who mediates or arbitrates disputes within their community",
+                "definition_hebrew": "אדם המגשר או בורר בסכסוכים בתוך הקהילה שלו",
+                "example": "The local priest acted as an intermediary to help two families resolve their disagreement over property boundaries.",
+                "example_hebrew": "הכומר המקומי פעל כמתווך כדי לעזור לשתי משפחות לפתור את מחלוקתן לגבי גבולות הרכוש."
+            }
+        ]
+    }
+]

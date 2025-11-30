@@ -1,0 +1,40 @@
+[
+    {
+        "word": "bookmarks",
+        "word_hebrew": "סימניות",
+        "main_definition": "Bookmarks are objects or tools used to keep one's place in a book while reading, but they can also refer metaphorically to marking positions of interest in various contexts.",
+        "main_definition_hebrew": "סימניות הן חפצים או כלים המשמשים לשמירה על מקומו של האדם בספר בזמן הקריאה, אך הן יכולות גם להתייחס באופן מטפורי לסימון עמדות עניין בהקשרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A physical object placed between the pages of a book to mark your spot",
+                "definition_hebrew": "חפץ פיזי המוצב בין דפי הספר כדי לסמן את המקום שלך",
+                "example": "When I left my book, I used a piece of paper as a makeshift bookmark.",
+                "example_hebrew": "כשעזבתי את הספר שלי, השתמשתי בפיסת נייר כסימנייה מאולתרת."
+            },
+            {
+                "definition": "In digital reading or web browsing, bookmarks are saved links that allow you to quickly return to specific pages or websites",
+                "definition_hebrew": "בקריאה דיגיטלית או בגלישה באינטרנט, סימניות הן קישורים שמורים המאפשרים לך לחזור במהירות לדפים או לאתרים ספציפיים",
+                "example": "I added this interesting article on Wikipedia to my browser's bookmarks for easy access later.",
+                "example_hebrew": "הוספתי את המאמר המעניין הזה בוויקיפדיה לסימניות של הדפדפן שלי לגישה נוחה מאוחר יותר."
+            },
+            {
+                "definition": "A metaphorical usage referring to any marking of a place of interest, such as in one's mind when remembering or recording important points",
+                "definition_hebrew": "שימוש מטפורי המתייחס לכל סימון של מקום עניין, כמו במוחו של אדם בעת זיכרון או רישום של נקודות חשובות",
+                "example": "She bookmarked the key moments in history that she found most significant for her research notes.",
+                "example_hebrew": "היא סימנה את רגעי המפתח בהיסטוריה שלדעתה הכי משמעותיים עבור הערות המחקר שלה."
+            },
+            {
+                "definition": "In sports and games, to mark an opponent or a specific area of play as being under control or observation",
+                "definition_hebrew": "בספורט ובמשחקים, לסמן יריב או אזור משחק מסוים כנמצא תחת שליטה או תצפית",
+                "example": "The soccer player used his hand to bookmark the defender, signaling him to stay away from that side.",
+                "example_hebrew": "שחקן הכדורגל השתמש בידו כדי לסמן את המגן, וסימן לו להתרחק מהצד הזה."
+            },
+            {
+                "definition": "In finance and investment, to set aside funds in a separate account for particular purposes or opportunities",
+                "definition_hebrew": "בפיננסים והשקעות, להפריש כספים בחשבון נפרד למטרות או הזדמנויות מסוימות",
+                "example": "He allocated $1000 as bookmarks for potential stock purchases over the next few months.",
+                "example_hebrew": "הוא הקצה 1000 דולר כסימניות לרכישות פוטנציאליות של מניות במהלך החודשים הקרובים."
+            }
+        ]
+    }
+]

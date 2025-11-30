@@ -1,0 +1,28 @@
+[
+    {
+        "word": "manufactured",
+        "word_hebrew": "מְיוּצָר",
+        "main_definition": "To produce or create something, especially goods in large quantities using machinery.",
+        "main_definition_hebrew": "לייצר או ליצור משהו, במיוחד סחורות בכמויות גדולות באמצעות מכונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Intentionally devised or fabricated for a specific purpose.",
+                "definition_hebrew": "תוכנן או מפוברק בכוונה למטרה מסוימת.",
+                "example": "The rumor was manufactured to tarnish the company's reputation.",
+                "example_hebrew": "השמועה נוצרה כדי להכתים את המוניטין של החברה."
+            },
+            {
+                "definition": "To produce or create something using machinery, materials, and labor in an industrial setting.",
+                "definition_hebrew": "לייצר או ליצור משהו באמצעות מכונות, חומרים ועבודה בסביבה תעשייתית.",
+                "example": "Automobiles are manufactured on a large scale in factories.",
+                "example_hebrew": "מכוניות מיוצרות בקנה מידה גדול במפעלים."
+            },
+            {
+                "definition": "A product that is mass-produced by machines rather than made individually.",
+                "definition_hebrew": "מוצר שמיוצר בהמוניו על ידי מכונות ולא מיוצר בנפרד.",
+                "example": "The plastic toys we played with as children were all manufactured products.",
+                "example_hebrew": "צעצועי הפלסטיק ששיחקנו איתם בילדותם היו כולם מוצרים מיוצרים."
+            }
+        ]
+    }
+]

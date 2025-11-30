@@ -1,0 +1,40 @@
+[
+    {
+        "word": "compliance",
+        "word_hebrew": "הענות",
+        "main_definition": "Adherence to rules, standards, or laws; the state of being compliant.",
+        "main_definition_hebrew": "הקפדה על כללים, תקנים או חוקים; מצב הציות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of conforming to a rule, demand, or law.",
+                "definition_hebrew": "הפעולה של התאמה לכלל, דרישה או חוק.",
+                "example": "A company ensuring its products meet safety regulations by practicing compliance.",
+                "example_hebrew": "חברה המבטיחה שהמוצרים שלה עומדים בתקנות הבטיחות על ידי תרגול תאימות."
+            },
+            {
+                "definition": "The process of achieving alignment with legal standards and requirements.",
+                "definition_hebrew": "תהליך השגת התאמה לסטנדרטים ולדרישות המשפטיות.",
+                "example": "An organization conducts an internal audit to ensure they are in full compliance with environmental laws.",
+                "example_hebrew": "ארגון עורך ביקורת פנימית כדי לוודא שהם עומדים במלואם בחוקי הסביבה."
+            },
+            {
+                "definition": "Adherence to ethical guidelines or principles within a specific context.",
+                "definition_hebrew": "הקפדה על הנחיות או עקרונות אתיים בהקשר מסוים.",
+                "example": "A journalist maintaining compliance with the code of ethics by reporting truthfully and fairly.",
+                "example_hebrew": "עיתונאי ששומר על ציות לקוד האתי על ידי דיווח אמיתי והוגן."
+            },
+            {
+                "definition": "The state of being in agreement or harmony, especially with respect to standards or values.",
+                "definition_hebrew": "מצב של הסכמה או הרמוניה, במיוחד ביחס לסטנדרטים או לערכים.",
+                "example": "Colleges ensure their curriculum is in compliance with accreditation standards to maintain quality education.",
+                "example_hebrew": "המכללות מבטיחות שתוכנית הלימודים שלהן עומדת בתקני ההסמכה כדי לשמור על חינוך איכותי."
+            },
+            {
+                "definition": "The degree to which something conforms to a prescribed form or standard.",
+                "definition_hebrew": "המידה שבה משהו תואם צורה או תקן שנקבעו.",
+                "example": "A software system's features must be fully compliant with accessibility guidelines for all users.",
+                "example_hebrew": "תכונות מערכת תוכנה חייבות להיות תואמות במלואן להנחיות הנגישות לכל המשתמשים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "linking",
+        "word_hebrew": "מְקַשֵׁר",
+        "main_definition": "The process of creating connections or relationships between different elements, ideas, or activities.",
+        "main_definition_hebrew": "תהליך יצירת קשרים או מערכות יחסים בין אלמנטים, רעיונות או פעילויות שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Creating a connection or relationship between two concepts or objects.",
+                "definition_hebrew": "יצירת קשר או יחס בין שני מושגים או אובייקטים.",
+                "example": "Linking the idea of climate change with global warming.",
+                "example_hebrew": "קישור הרעיון של שינויי אקלים עם התחממות כדור הארץ."
+            },
+            {
+                "definition": "Combining individual elements to form a larger, cohesive unit.",
+                "definition_hebrew": "שילוב אלמנטים בודדים ליצירת יחידה גדולה יותר ומלוכדת.",
+                "example": "Linking different pieces of code in programming to create a program.",
+                "example_hebrew": "קישור פיסות קוד שונות בתכנות ליצירת תוכנית."
+            },
+            {
+                "definition": "Connecting multiple activities or events over time.",
+                "definition_hebrew": "חיבור פעילויות או אירועים מרובים לאורך זמן.",
+                "example": "A sports schedule linking games on consecutive days for easy planning.",
+                "example_hebrew": "לוח זמנים ספורט המקשר בין משחקים בימים רצופים לתכנון קל."
+            },
+            {
+                "definition": "Joining two or more parts of text or speech to create a meaningful phrase.",
+                "definition_hebrew": "חיבור של שני חלקים או יותר של טקסט או דיבור כדי ליצור ביטוי משמעותי.",
+                "example": "The idiom 'the icing on the cake' links success with an additional positive outcome.",
+                "example_hebrew": "הביטוי 'הדובדבן שבקצפת' קושר הצלחה עם תוצאה חיובית נוספת."
+            },
+            {
+                "definition": "Creating visual connections in design, such as linking elements for better readability and flow.",
+                "definition_hebrew": "יצירת קשרים ויזואליים בעיצוב, כגון קישור בין אלמנטים לקריאות וזרימה טובים יותר.",
+                "example": "A web page layout that uses linking to guide a viewer through information sequentially.",
+                "example_hebrew": "פריסת דף אינטרנט המשתמשת בקישור כדי להדריך את הצופה במידע ברצף."
+            }
+        ]
+    }
+]

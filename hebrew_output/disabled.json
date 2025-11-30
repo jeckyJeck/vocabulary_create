@@ -1,0 +1,34 @@
+[
+    {
+        "word": "disabled",
+        "word_hebrew": "נָכֶה",
+        "main_definition": "In a general sense, 'disabled' refers to individuals who face challenges in performing certain activities due to physical or mental impairments that restrict their movements, sensory perceptions, cognitive abilities, etc.",
+        "main_definition_hebrew": "במובן הכללי, 'נכים' מתייחסים לאנשים המתמודדים עם אתגרים בביצוע פעילויות מסוימות עקב ליקויים פיזיים או נפשיים המגבילים את תנועותיהם, תפיסותיהם החושיות, היכולות הקוגניטיביות וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "Affected by a disability",
+                "definition_hebrew": "מושפע מנכות",
+                "example": "John is disabled and uses a wheelchair to move around.",
+                "example_hebrew": "ג'ון נכה ומשתמש בכיסא גלגלים כדי להתנייד."
+            },
+            {
+                "definition": "Incapable of performing certain activities due to physical or mental impairments",
+                "definition_hebrew": "חוסר יכולת לבצע פעילויות מסוימות עקב ליקויים פיזיים או נפשיים",
+                "example": "The heavy rain has made the park temporarily inaccessible, disabling many people from enjoying outdoor activities.",
+                "example_hebrew": "הגשם הרב הפך את הפארק לבלתי נגיש באופן זמני, מה שמונע מאנשים רבים ליהנות מפעילויות חוצות."
+            },
+            {
+                "definition": "Prevented from participating in an event due to exclusion policies",
+                "definition_hebrew": "מנוע מהשתתפות באירוע עקב מדיניות אי-הכללה",
+                "example": "Despite being able-bodied, Jane was 'disabled' from attending the concert because of strict ticket restrictions.",
+                "example_hebrew": "למרות היותה כשירה, ג'יין \"נמנעה\" מלהשתתף בקונצרט בגלל הגבלות קפדניות על כרטיסים."
+            },
+            {
+                "definition": "Specifically relates to those who require assistive devices or support for their disabilities",
+                "definition_hebrew": "מתייחס ספציפית לאלה הזקוקים למכשירי עזר או תמיכה למוגבלות שלהם",
+                "example": "The organization offers various services and tools to help disabled individuals with daily tasks.",
+                "example_hebrew": "הארגון מציע שירותים וכלים שונים לסייע לאנשים עם מוגבלויות במשימות יומיומיות."
+            }
+        ]
+    }
+]

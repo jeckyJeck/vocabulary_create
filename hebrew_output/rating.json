@@ -1,0 +1,34 @@
+[
+    {
+        "word": "rating",
+        "word_hebrew": "דֵרוּג",
+        "main_definition": "Rating is a measure or assessment of quality, performance, value, or popularity assigned to something based on collective opinions or criteria.",
+        "main_definition_hebrew": "דירוג הוא מדד או הערכה של איכות, ביצועים, ערך או פופולריות המוקצים למשהו על סמך דעות או קריטריונים קולקטיביים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A numerical or alphabetical evaluation typically used for products and services",
+                "definition_hebrew": "הערכה מספרית או אלפביתית המשמשת בדרך כלל עבור מוצרים ושירותים",
+                "example": "The movie received an IMDb rating of 8.2 out of 10.",
+                "example_hebrew": "הסרט קיבל דירוג IMDb של 8.2 מתוך 10."
+            },
+            {
+                "definition": "An expression of approval, disapproval, or opinion often based on personal experience",
+                "definition_hebrew": "הבעת הסכמה, אי הסכמה או דעה המבוססת לרוב על ניסיון אישי",
+                "example": "She gave the hotel a five-star rating after her pleasant stay.",
+                "example_hebrew": "היא העניקה למלון דירוג חמישה כוכבים לאחר שהותה הנעימה."
+            },
+            {
+                "definition": "A score that indicates someone's skill level in a particular activity or sport",
+                "definition_hebrew": "ציון המעיד על רמת המיומנות של מישהו בפעילות או ספורט מסוים",
+                "example": "The skater received a 9.8 out of 10 for his impressive performance at the competition.",
+                "example_hebrew": "המחליק קיבל 9.8 מתוך 10 על הביצועים המרשימים שלו בתחרות."
+            },
+            {
+                "definition": "A measure of how well something is rated by customers, often used to compare products and services",
+                "definition_hebrew": "מדד למידת הדירוג של משהו על ידי לקוחות, משמש לעתים קרובות להשוואה בין מוצרים ושירותים",
+                "example": "Apple's iPhone has consistently higher ratings compared to its competitors in terms of customer satisfaction.",
+                "example_hebrew": "לאייפון של אפל יש דירוגים גבוהים יותר באופן עקבי בהשוואה למתחרים שלו מבחינת שביעות רצון הלקוחות."
+            }
+        ]
+    }
+]

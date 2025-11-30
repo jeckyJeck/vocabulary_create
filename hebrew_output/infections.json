@@ -1,0 +1,40 @@
+[
+    {
+        "word": "infections",
+        "word_hebrew": "זיהומים",
+        "main_definition": "Infections refer to diseases caused by the invasion of microorganisms such as bacteria, viruses, or fungi into a host body, leading to illness and health problems.",
+        "main_definition_hebrew": "זיהומים מתייחסים למחלות הנגרמות על ידי פלישת מיקרואורגניזמים כגון חיידקים, וירוסים או פטריות לתוך הגוף המארח, מה שמוביל למחלות ובעיות בריאות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A general term for any disease caused by pathogenic organisms",
+                "definition_hebrew": "כינוי כללי לכל מחלה הנגרמת על ידי אורגניזמים פתוגניים",
+                "example": "The flu is an example of an infection caused by the influenza virus.",
+                "example_hebrew": "שפעת היא דוגמה לזיהום הנגרם על ידי נגיף השפעת."
+            },
+            {
+                "definition": "Specifically, refers to contagious illnesses that can be transmitted from one person or animal to another",
+                "definition_hebrew": "באופן ספציפי, מתייחס למחלות מדבקות שיכולות לעבור מאדם או חיה אחת לאחרת",
+                "example": "Tuberculosis is a bacterial infection that can spread through airborne droplets.",
+                "example_hebrew": "שחפת היא זיהום חיידקי שיכול להתפשט דרך טיפות מוטסות."
+            },
+            {
+                "definition": "In medical procedures, refers to the introduction of microorganisms into a sterile part of the body during surgery",
+                "definition_hebrew": "בהליכים רפואיים, מתייחס להחדרת מיקרואורגניזמים לחלק סטרילי של הגוף במהלך הניתוח",
+                "example": "Surgical site infections occur when bacteria are introduced into an open wound during or after surgery.",
+                "example_hebrew": "זיהומים באתר ניתוח מתרחשים כאשר חיידקים מוכנסים לפצע פתוח במהלך הניתוח או לאחריו."
+            },
+            {
+                "definition": "In agriculture, refers to plant diseases caused by pathogenic fungi, bacteria, or viruses",
+                "definition_hebrew": "בחקלאות, מתייחס למחלות צמחים הנגרמות על ידי פטריות פתוגניות, חיידקים או וירוסים",
+                "example": "Powdery mildew is a common infection affecting grapevines and other plants.",
+                "example_hebrew": "טחב אבקתי הוא זיהום שכיח המשפיע על גפנים וצמחים אחרים."
+            },
+            {
+                "definition": "In computing, refers to unwanted software that can cause damage to computer systems or steal information",
+                "definition_hebrew": "במחשוב, הכוונה לתוכנות לא רצויות שעלולות לגרום נזק למערכות מחשב או לגנוב מידע",
+                "example": "A virus is a type of malicious software infection that can corrupt files or disrupt system operations.",
+                "example_hebrew": "וירוס הוא סוג של זיהום תוכנה זדוני שעלול להשחית קבצים או לשבש את פעולות המערכת."
+            }
+        ]
+    }
+]

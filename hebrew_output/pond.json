@@ -1,0 +1,34 @@
+[
+    {
+        "word": "pond",
+        "word_hebrew": "אֲגַם",
+        "main_definition": "A small body of still water, typically smaller than a lake.",
+        "main_definition_hebrew": "גוף קטן של מים שקטים, בדרך כלל קטן יותר מאגם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Natural or man-made accumulation of water in low-lying areas",
+                "definition_hebrew": "הצטברות מים טבעית או מעשה ידי אדם באזורים נמוכים",
+                "example": "The children played by the tranquil pond nestled between the trees.",
+                "example_hebrew": "הילדים שיחקו ליד הבריכה השלווה השוכנת בין העצים."
+            },
+            {
+                "definition": "A temporary pool of water, often formed during heavy rain",
+                "definition_hebrew": "בריכת מים זמנית, שנוצרה לעתים קרובות במהלך גשם כבד",
+                "example": "After the storm, we found a small pond in our backyard where the water collected.",
+                "example_hebrew": "לאחר הסערה, מצאנו בריכה קטנה בחצר האחורית שלנו שבה התאספו המים."
+            },
+            {
+                "definition": "An expression referring to something that is insignificant or unimportant, derived from 'a drop in the bucket'",
+                "definition_hebrew": "ביטוי המתייחס למשהו לא משמעותי או לא חשוב, הנגזר מ'טיפה בדלי'",
+                "example": "Finding just one solution won't solve this problem; it's merely a pond in the ocean of issues we face.",
+                "example_hebrew": "מציאת פתרון אחד בלבד לא יפתור את הבעיה הזו; זה רק בריכה באוקיינוס של בעיות שאנו מתמודדים איתנו."
+            },
+            {
+                "definition": "A metaphor for something small or minor, often used to describe an action or contribution that is not significant",
+                "definition_hebrew": "מטאפורה למשהו קטן או מינורי, משמשת לעתים קרובות לתיאור פעולה או תרומה שאינה משמעותית",
+                "example": "Her efforts to help were just a drop in the bucket compared to what was needed.",
+                "example_hebrew": "המאמצים שלה לעזור היו רק טיפה בדלי בהשוואה למה שהיה צריך."
+            }
+        ]
+    }
+]

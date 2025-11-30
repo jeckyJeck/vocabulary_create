@@ -1,0 +1,34 @@
+[
+    {
+        "word": "smell",
+        "word_hebrew": "רֵיחַ",
+        "main_definition": "To perceive odors through the nose.",
+        "main_definition_hebrew": "לקלוט ריחות דרך האף.",
+        "meanings_and_examples": [
+            {
+                "definition": "Identifying a scent or fragrance",
+                "definition_hebrew": "זיהוי ריח או ניחוח",
+                "example": "The smell of freshly baked cookies filled the room.",
+                "example_hebrew": "ריח של עוגיות טריות אפויות מילא את החדר."
+            },
+            {
+                "definition": "To detect an odor as being unpleasant",
+                "definition_hebrew": "לזהות ריח כלא נעים",
+                "example": "When he arrived, his clothes had that distinctive smell of sweat and smoke.",
+                "example_hebrew": "כשהגיע, לבגדיו היה ריח מיוחד של זיעה ועשן."
+            },
+            {
+                "definition": "A metaphorical expression used to describe the detection or perception of something negative or wrong (e.g., 'smelling trouble')",
+                "definition_hebrew": "ביטוי מטפורי המשמש לתיאור זיהוי או תפיסה של משהו שלילי או שגוי (למשל, 'להריח צרות')",
+                "example": "The team's performance in the last few games has been smelling fishy.",
+                "example_hebrew": "ההופעה של הקבוצה במשחקים האחרונים מדיפה ריח דגי."
+            },
+            {
+                "definition": "To become aware of a change through touch, not sight or hearing",
+                "definition_hebrew": "להיות מודע לשינוי באמצעות מגע, לא ראייה או שמיעה",
+                "example": "She could tell that her friend had just applied perfume by how it felt on her skin.",
+                "example_hebrew": "היא ידעה שחברתה פשוט מרחה בושם לפי איך זה הרגיש על העור שלה."
+            }
+        ]
+    }
+]

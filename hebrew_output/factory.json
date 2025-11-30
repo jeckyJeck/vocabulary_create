@@ -1,0 +1,40 @@
+[
+    {
+        "word": "factory",
+        "word_hebrew": "בית חרושת",
+        "main_definition": "A place where goods are manufactured or assembled, typically using machines.",
+        "main_definition_hebrew": "מקום שבו סחורות מיוצרות או מורכבות, בדרך כלל באמצעות מכונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "An assembly plant for automobiles and other vehicles.",
+                "definition_hebrew": "מפעל הרכבה לרכב ולכלי רכב אחרים.",
+                "example": "The Ford factory on the outskirts of Detroit is known for producing a variety of cars.",
+                "example_hebrew": "מפעל פורד בפאתי דטרויט ידוע בייצור מגוון מכוניות."
+            },
+            {
+                "definition": "A large-scale industrial building where products are manufactured or packaged.",
+                "definition_hebrew": "מבנה תעשייתי בקנה מידה גדול בו מייצרים או נארזים מוצרים.",
+                "example": "The electronics factory in Shenzhen churns out millions of gadgets each month.",
+                "example_hebrew": "מפעל האלקטרוניקה בשנג'ן מוציא מיליוני גאדג'טים מדי חודש."
+            },
+            {
+                "definition": "An establishment for the mass production of goods through machinery and labor coordination.",
+                "definition_hebrew": "מוסד לייצור המוני של סחורות באמצעות מכונות ותיאום עבודה.",
+                "example": "The textile factory uses advanced looms to weave fabrics at a rapid pace.",
+                "example_hebrew": "מפעל הטקסטיל משתמש בנולים מתקדמים כדי לארוג בדים בקצב מהיר."
+            },
+            {
+                "definition": "In business jargon, referring to a company that focuses on manufacturing rather than services or software.",
+                "definition_hebrew": "בז'רגון עסקי, הכוונה לחברה המתמקדת בייצור ולא בשירותים או בתוכנה.",
+                "example": "Our investment portfolio includes shares in several industrial factories across Europe.",
+                "example_hebrew": "תיק ההשקעות שלנו כולל מניות במספר מפעלים תעשייתיים ברחבי אירופה."
+            },
+            {
+                "definition": "Used metaphorically to describe an environment where repetitive and mechanistic work is performed, often lacking innovation.",
+                "definition_hebrew": "משמש באופן מטפורי לתיאור סביבה שבה מתבצעת עבודה חוזרת ומכניסטית, לעיתים חסרת חדשנות.",
+                "example": "Many critics argue that the new policy has turned our education system into a factory of conformity.",
+                "example_hebrew": "מבקרים רבים טוענים שהמדיניות החדשה הפכה את מערכת החינוך שלנו למפעל של קונפורמיות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "micro",
+        "word_hebrew": "מיקרו",
+        "main_definition": "Micro refers to something very small or having a great degree of minuteness, often in the context of size or measurement.",
+        "main_definition_hebrew": "מיקרו מתייחס למשהו קטן מאוד או בעל מידה גדולה של דקות, לעתים קרובות בהקשר של גודל או מדידה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Meaning related to being extremely tiny:",
+                "definition_hebrew": "משמעות הקשורה להיות זעיר ביותר:",
+                "example": "A micro-organism is a single-celled organism that cannot be seen with the naked eye.",
+                "example_hebrew": "מיקרואורגניזם הוא אורגניזם חד-תאי שלא ניתן לראותו בעין בלתי מזוינת."
+            },
+            {
+                "definition": "Pertaining to measurement at a very small scale, typically using micrometers or similar units:",
+                "definition_hebrew": "לגבי מדידה בקנה מידה קטן מאוד, בדרך כלל באמצעות מיקרומטרים או יחידות דומות:",
+                "example": "The scientist used a microscope to measure particles in nanometers, which are measured in micro-units.",
+                "example_hebrew": "המדען השתמש במיקרוסקופ למדידת חלקיקים בננומטרים, הנמדדים במיקרו-יחידות."
+            },
+            {
+                "definition": "In technology and electronics, referring to devices that can perform tasks on a small scale or have tiny components:",
+                "definition_hebrew": "בטכנולוגיה ואלקטרוניקה, הכוונה למכשירים שיכולים לבצע משימות בקנה מידה קטן או בעלי רכיבים זעירים:",
+                "example": "A smartphone camera captures high-resolution images due to the micro lenses inside it.",
+                "example_hebrew": "מצלמת סמארטפון מצלמת תמונות ברזולוציה גבוהה הודות לעדשות המיקרו שבתוכה."
+            },
+            {
+                "definition": "Used in business jargon to describe a company's focus on serving niche markets and small segments:",
+                "definition_hebrew": "משמש בז'רגון עסקי כדי לתאר את ההתמקדות של חברה בשירות שווקי נישה ומגזרים קטנים:",
+                "example": "This startup is considered a 'micro-enterprise,' focusing on providing specialized services for local communities.",
+                "example_hebrew": "סטארטאפ זה נחשב ל'מיקרו-מיזם', המתמקד במתן שירותים מיוחדים לקהילות מקומיות."
+            },
+            {
+                "definition": "Used in astronomy to denote objects or phenomena that are extremely small, such as micro galaxies:",
+                "definition_hebrew": "משמש באסטרונומיה לציון עצמים או תופעות קטנות במיוחד, כגון מיקרו גלקסיות:",
+                "example": "Astronomers discovered a new type of celestinas known as 'micro galaxies.'",
+                "example_hebrew": "אסטרונומים גילו סוג חדש של celestinas המכונה 'מיקרו גלקסיות'."
+            }
+        ]
+    }
+]

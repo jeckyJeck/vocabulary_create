@@ -1,0 +1,40 @@
+[
+    {
+        "word": "holiday",
+        "word_hebrew": "חַג",
+        "main_definition": "A period of time when people do not work or go to school, usually a day off due to a special event or tradition.",
+        "main_definition_hebrew": "פרק זמן שבו אנשים לא עובדים או הולכים לבית הספר, בדרך כלל יום חופש עקב אירוע מיוחד או מסורת.",
+        "meanings_and_examples": [
+            {
+                "definition": "An official public holiday recognized by the government",
+                "definition_hebrew": "חג רשמי מוכר על ידי הממשלה",
+                "example": "New Year's Day is considered an official public holiday in many countries.",
+                "example_hebrew": "יום השנה החדשה נחשב כחג רשמי במדינות רבות."
+            },
+            {
+                "definition": "A vacation or trip taken for leisure and relaxation",
+                "definition_hebrew": "חופשה או טיול למטרות פנאי והרפיה",
+                "example": "My family decided to take a beach holiday during the summer months.",
+                "example_hebrew": "המשפחה שלי החליטה לצאת לחופשת חוף במהלך חודשי הקיץ."
+            },
+            {
+                "definition": "Time off work granted by an employer, often at the request of the employee",
+                "definition_hebrew": "חופשה מהעבודה הניתנת על ידי מעסיק, לרוב לפי בקשת העובד",
+                "example": "After working hard for several weeks, I asked my boss for a paid holiday.",
+                "example_hebrew": "לאחר שעבדתי קשה במשך מספר שבועות, ביקשתי מהבוס שלי חופשה בתשלום."
+            },
+            {
+                "definition": "A festival or celebration honoring a significant event or person",
+                "definition_hebrew": "פסטיבל או חגיגה לכבוד אירוע או אדם משמעותי",
+                "example": "The Christmas holiday is celebrated in many cultures to commemorate the birth of Jesus Christ.",
+                "example_hebrew": "חג המולד נחגג בתרבויות רבות כדי להנציח את הולדתו של ישוע המשיח."
+            },
+            {
+                "definition": "Time set aside for rest and recreation, especially during religious observances",
+                "definition_hebrew": "זמן מוקצה למנוחה ובילוי, במיוחד בזמן מצוות דת",
+                "example": "During Ramadan, Muslims observe a month-long holiday with fasting from dawn until sunset each day.",
+                "example_hebrew": "במהלך הרמדאן, המוסלמים מקיימים חג בן חודש עם צום משחר ועד השקיעה בכל יום."
+            }
+        ]
+    }
+]

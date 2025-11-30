@@ -1,0 +1,28 @@
+[
+    {
+        "word": "unsigned",
+        "word_hebrew": "לא חתום",
+        "main_definition": "In simple English, 'unsigned' means not having a specified or negative sign, often used in computing to indicate that numbers are positive.",
+        "main_definition_hebrew": "באנגלית פשוטה, 'לא חתום' פירושו שאין לו סימן מוגדר או שלילי, המשמש לעתים קרובות במחשוב כדי לציין שמספרים הם חיוביים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not carrying any indication of negativity in mathematics and computer programming",
+                "definition_hebrew": "לא נושא שום אינדיקציה לשלילה במתמטיקה ובתכנות מחשבים",
+                "example": "An unsigned integer is a whole number without a fractional part and it does not contain any negative value, such as 5 or 1024.",
+                "example_hebrew": "מספר שלם ללא סימן הוא מספר שלם ללא חלק חלקי והוא אינו מכיל ערך שלילי כלשהו, כגון 5 או 1024."
+            },
+            {
+                "definition": "Used to indicate the absence of certain qualities or attributes in various contexts",
+                "definition_hebrew": "משמש לציון היעדר תכונות או תכונות מסוימות בהקשרים שונים",
+                "example": "She has an unsigned social media presence, meaning she doesn't have a profile on most platforms.",
+                "example_hebrew": "יש לה נוכחות לא חתומה במדיה חברתית, כלומר אין לה פרופיל ברוב הפלטפורמות."
+            },
+            {
+                "definition": "Describing something that is not endorsed, supported, or backed by others; unsponsored or unofficial",
+                "definition_hebrew": "תיאור משהו שאינו מאושר, נתמך או מגובה על ידי אחרים; לא ממומן או לא רשמי",
+                "example": "The concert was an unsigned event, which means it wasn't officially sponsored or promoted by any company.",
+                "example_hebrew": "הקונצרט היה אירוע לא חתום, מה שאומר שהוא לא היה בחסות או מקודם רשמית על ידי אף חברה."
+            }
+        ]
+    }
+]

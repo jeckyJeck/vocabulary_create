@@ -1,0 +1,28 @@
+[
+    {
+        "word": "jurisdiction",
+        "word_hebrew": "סמכות שיפוט",
+        "main_definition": "Jurisdiction refers to the official power or authority given to a court, government agency, or other legal body to deal with certain types of cases or issues.",
+        "main_definition_hebrew": "סמכות שיפוט מתייחסת לסמכות או לסמכות הרשמית שניתנה לבית משפט, סוכנות ממשלתית או גוף משפטי אחר לטפל בסוגים מסוימים של מקרים או נושאים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The geographical area where a particular court has the authority to hear and make judgments on legal matters",
+                "definition_hebrew": "האזור הגיאוגרפי שבו לבית משפט מסוים יש סמכות לדון ולעשות פסקי דין בעניינים משפטיים",
+                "example": "The federal courts have jurisdiction over cases involving bankruptcy, patents, and interstate commerce.",
+                "example_hebrew": "לבתי המשפט הפדרליים יש סמכות שיפוט בתיקים הקשורים לפשיטת רגל, פטנטים ומסחר בין-מדינתי."
+            },
+            {
+                "definition": "The power of an organization or institution to enforce its rules within a certain field or domain",
+                "definition_hebrew": "כוחו של ארגון או מוסד לאכוף את הכללים שלו בתחום מסוים או תחום מסוים",
+                "example": "An NGO has the jurisdiction to monitor human rights abuses in war-torn regions.",
+                "example_hebrew": "לארגון לא ממשלתי יש סמכות לפקח על הפרות זכויות אדם באזורים מוכי מלחמה."
+            },
+            {
+                "definition": "The authority granted by law for officials such as judges, prosecutors and police officers to act on behalf of a country or state",
+                "definition_hebrew": "הסמכות הניתנת בחוק לפקידים כגון שופטים, תובעים ושוטרים לפעול בשם מדינה או מדינה",
+                "example": "A judge has the jurisdiction to decide criminal cases within his district court.",
+                "example_hebrew": "לשופט יש סמכות להכריע בתיקים פליליים במסגרת בית המשפט המחוזי שלו."
+            }
+        ]
+    }
+]

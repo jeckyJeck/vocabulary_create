@@ -1,0 +1,40 @@
+[
+    {
+        "word": "little",
+        "word_hebrew": "קטן",
+        "main_definition": "A term used to describe something small in size, amount or importance.",
+        "main_definition_hebrew": "מונח המשמש לתיאור משהו קטן בגודלו, בכמותו או בחשיבותו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Small in size or stature",
+                "definition_hebrew": "קטן בגודל או בקומה",
+                "example": "The little puppy followed its owner around the house.",
+                "example_hebrew": "הגור הקטן עקב אחרי בעליו ברחבי הבית."
+            },
+            {
+                "definition": "A small quantity of something",
+                "definition_hebrew": "כמות קטנה של משהו",
+                "example": "She had a little bit of cake left after dessert.",
+                "example_hebrew": "נשארה לה מעט עוגה אחרי הקינוח."
+            },
+            {
+                "definition": "Of lesser importance or significance",
+                "definition_hebrew": "בעל חשיבות או משמעות פחותה",
+                "example": "This news is just a little concern for us at the moment.",
+                "example_hebrew": "הידיעה הזו היא רק דאגה קטנה עבורנו כרגע."
+            },
+            {
+                "definition": "A minor incident or issue",
+                "definition_hebrew": "תקרית או בעיה קלה",
+                "example": "Don't worry about it, that was just a little slip-up.",
+                "example_hebrew": "אל תדאג בקשר לזה, זו הייתה רק התעלפות קטנה."
+            },
+            {
+                "definition": "Not much of something",
+                "definition_hebrew": "לא הרבה משהו",
+                "example": "He only has a little interest in playing sports.",
+                "example_hebrew": "יש לו רק עניין קטן בספורט."
+            }
+        ]
+    }
+]

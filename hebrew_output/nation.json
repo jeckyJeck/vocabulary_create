@@ -1,0 +1,34 @@
+[
+    {
+        "word": "nation",
+        "word_hebrew": "אוּמָה",
+        "main_definition": "A nation is a large body of people united by common descent, history, culture, or language, inhabiting a particular country or territory.",
+        "main_definition_hebrew": "אומה היא גוף גדול של אנשים המאוחדים על ידי מוצא משותף, היסטוריה, תרבות או שפה, המאכלסים מדינה או טריטוריה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Country or state comprising various political units",
+                "definition_hebrew": "מדינה או מדינה הכוללת יחידות פוליטיות שונות",
+                "example": "The United States is a nation made up of 50 states.",
+                "example_hebrew": "ארצות הברית היא מדינה המורכבת מ-50 מדינות."
+            },
+            {
+                "definition": "Group of people united by common language, culture and history",
+                "definition_hebrew": "קבוצת אנשים מאוחדים על ידי שפה, תרבות והיסטוריה משותפת",
+                "example": "India is a nation with over 1.3 billion people who share the same cultural heritage and languages like Hindi, Bengali, Telugu etc.",
+                "example_hebrew": "הודו היא אומה עם למעלה מ-1.3 מיליארד אנשים החולקים את אותה מורשת תרבותית ושפות כמו הינדית, בנגלית, טלוגו וכו'."
+            },
+            {
+                "definition": "A political entity or sovereign state recognized by international law",
+                "definition_hebrew": "ישות מדינית או מדינה ריבונית המוכרת על פי החוק הבינלאומי",
+                "example": "Canada is a nation-state with its own government, borders, and national symbols.",
+                "example_hebrew": "קנדה היא מדינת לאום עם ממשלה משלה, גבולות וסמלים לאומיים."
+            },
+            {
+                "definition": "An imaginary community that shares common values, culture, and history",
+                "definition_hebrew": "קהילה דמיונית החולקת ערכים, תרבות והיסטוריה משותפים",
+                "example": "The fictional nation of Wakanda in the Marvel Universe has unique traditions and technology rooted in African cultures.",
+                "example_hebrew": "לאומה הבדיונית של וואקנדה ביקום מארוול יש מסורות וטכנולוגיה ייחודיים המושרשים בתרבויות אפריקאיות."
+            }
+        ]
+    }
+]

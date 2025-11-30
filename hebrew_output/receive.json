@@ -1,0 +1,40 @@
+[
+    {
+        "word": "receive",
+        "word_hebrew": "לְקַבֵּל",
+        "main_definition": "To get or accept something that is sent, given, or offered.",
+        "main_definition_hebrew": "לקבל או לקבל משהו שנשלח, ניתן או מוצע.",
+        "meanings_and_examples": [
+            {
+                "definition": "To be presented with a physical item or gift",
+                "definition_hebrew": "להצגת פריט פיזי או מתנה",
+                "example": "I received flowers from my friend on my birthday.",
+                "example_hebrew": "קיבלתי פרחים מחבר שלי ביום ההולדת שלי."
+            },
+            {
+                "definition": "To get information through communication, such as messages or letters",
+                "definition_hebrew": "לקבל מידע באמצעות תקשורת, כגון הודעות או מכתבים",
+                "example": "She receives her mail every morning when the postman comes by.",
+                "example_hebrew": "היא מקבלת את הדואר שלה בכל בוקר כשהדוור מגיע."
+            },
+            {
+                "definition": "To be given a benefit, favor, or opportunity",
+                "definition_hebrew": "לתת הטבה, טובה או הזדמנות",
+                "example": "He received an award for his outstanding performance at work.",
+                "example_hebrew": "הוא קיבל פרס על הביצועים המדהימים שלו בעבודה."
+            },
+            {
+                "definition": "In the context of games and sports, to get something (points, goals, etc.) from another player or team",
+                "definition_hebrew": "בהקשר של משחקים וספורט, לקבל משהו (נקודות, שערים וכו') משחקן או קבוצה אחרת",
+                "example": "The soccer player was able to receive a perfect pass and score a goal.",
+                "example_hebrew": "שחקן הכדורגל הצליח לקבל מסירה מושלמת ולהבקיע שער."
+            },
+            {
+                "definition": "To understand the meaning behind someone's words, tone, or behavior",
+                "definition_hebrew": "להבין את המשמעות מאחורי המילים, הטון או ההתנהגות של מישהו",
+                "example": "She received his sarcastic comment as an insult despite his attempt at humor.",
+                "example_hebrew": "היא קיבלה את הערתו הסרקסטית כעלבון למרות ניסיונו להומור."
+            }
+        ]
+    }
+]

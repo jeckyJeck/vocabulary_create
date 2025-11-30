@@ -1,0 +1,34 @@
+[
+    {
+        "word": "cleanup",
+        "word_hebrew": "לנקות",
+        "main_definition": "Cleanup refers to the process of removing dirt, clutter or unwanted items from an area, making it tidy and organized.",
+        "main_definition_hebrew": "ניקוי מתייחס לתהליך של הסרת לכלוך, בלאגן או פריטים לא רצויים מאזור, הפיכתו למסודר ומאורגן.",
+        "meanings_and_examples": [
+            {
+                "definition": "To remove litter or debris",
+                "definition_hebrew": "כדי להסיר פסולת או פסולת",
+                "example": "After the storm, volunteers joined in to cleanup the streets by picking up scattered trash.",
+                "example_hebrew": "לאחר הסופה, מתנדבים הצטרפו לניקוי הרחובות על ידי איסוף אשפה מפוזרת."
+            },
+            {
+                "definition": "Organizing and tidying a space",
+                "definition_hebrew": "ארגון וסידור חלל",
+                "example": "She spent her Saturday afternoon cleaning up her room, organizing clothes, and putting away books.",
+                "example_hebrew": "היא בילתה בשבת אחר הצהריים בניקיון החדר שלה, בארגון בגדים והנחת ספרים."
+            },
+            {
+                "definition": "To fix or rectify a situation after it has become messy or complicated",
+                "definition_hebrew": "לתקן או לתקן מצב לאחר שהוא הפך מבולגן או מסובך",
+                "example": "Following the office mishap where documents were scattered all over the floor, there was a major cleanup to restore order and locate missing papers.",
+                "example_hebrew": "בעקבות תקלת המשרד בה פוזרו מסמכים על כל הרצפה, נערך ניקיון גדול כדי להשיב את הסדר על כנו ולאיתור ניירות חסרים."
+            },
+            {
+                "definition": "Removing unwanted items from software code",
+                "definition_hebrew": "הסרת פריטים לא רצויים מקוד התוכנה",
+                "example": "The developers performed a cleanup of the legacy application's codebase by removing deprecated functions and optimizing algorithms.",
+                "example_hebrew": "המפתחים ביצעו ניקוי של בסיס הקוד של האפליקציה מדור קודם על ידי הסרת פונקציות שהוצאו משימוש ואופטימיזציה של אלגוריתמים."
+            }
+        ]
+    }
+]

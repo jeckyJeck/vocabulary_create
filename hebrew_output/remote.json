@@ -1,0 +1,40 @@
+[
+    {
+        "word": "remote",
+        "word_hebrew": "מְרוּחָק",
+        "main_definition": "Remote refers to something that is distant, far away, or not easily accessible.",
+        "main_definition_hebrew": "מרחוק מתייחס למשהו מרוחק, רחוק או לא נגיש בקלות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Distant in space or time",
+                "definition_hebrew": "מרוחק במרחב או בזמן",
+                "example": "The mountain peak was so remote that it took hours of hiking to reach.",
+                "example_hebrew": "פסגת ההר הייתה כל כך מרוחקת שלקח שעות של הליכה להגיע."
+            },
+            {
+                "definition": "Having little contact with others",
+                "definition_hebrew": "מגע מועט עם אחרים",
+                "example": "After moving to a new city, she felt quite remote from her old friends and colleagues.",
+                "example_hebrew": "לאחר שעברה לעיר חדשה, היא הרגישה די מרוחקת מחבריה ועמיתיה הישנים."
+            },
+            {
+                "definition": "Occurring at a great distance or time",
+                "definition_hebrew": "מתרחש במרחק או זמן רב",
+                "example": "The event was so rare that it seemed like an extremely remote possibility.",
+                "example_hebrew": "האירוע היה כל כך נדיר שזה נראה כמו אפשרות נידחת ביותר."
+            },
+            {
+                "definition": "Limited or few in number",
+                "definition_hebrew": "מספר מוגבל או מועט",
+                "example": "Remote areas often have limited access to healthcare and education services.",
+                "example_hebrew": "לאזורים מרוחקים יש לעתים קרובות גישה מוגבלת לשירותי בריאות וחינוך."
+            },
+            {
+                "definition": "To control a device from a distance, typically through wireless technology",
+                "definition_hebrew": "לשלוט במכשיר מרחוק, בדרך כלל באמצעות טכנולוגיה אלחוטית",
+                "example": "You can turn the lights on and off using the remote for your home's automation system.",
+                "example_hebrew": "אתה יכול להדליק ולכבות את האורות באמצעות השלט של מערכת האוטומציה של הבית שלך."
+            }
+        ]
+    }
+]

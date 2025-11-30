@@ -1,0 +1,40 @@
+[
+    {
+        "word": "brokers",
+        "word_hebrew": "מתווכים",
+        "main_definition": "Individuals or entities that act as intermediaries in transactions, typically buying and selling goods, services, or financial instruments on behalf of others.",
+        "main_definition_hebrew": "אנשים או גופים הפועלים כמתווכים בעסקאות, בדרך כלל קונים ומכירים סחורות, שירותים או מכשירים פיננסיים בשם אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Financial brokers",
+                "definition_hebrew": "מתווכים פיננסיים",
+                "example": "A stockbroker facilitates the sale and purchase of shares between investors.",
+                "example_hebrew": "סוכן מניות מקל על מכירה ורכישה של מניות בין משקיעים."
+            },
+            {
+                "definition": "Insurance brokers",
+                "definition_hebrew": "סוכני ביטוח",
+                "example": "An insurance broker helps clients find appropriate insurance coverage by comparing different policies from various providers.",
+                "example_hebrew": "מתווך ביטוח מסייע ללקוחות למצוא כיסוי ביטוחי מתאים על ידי השוואת פוליסות שונות מספקים שונים."
+            },
+            {
+                "definition": "Real estate brokers",
+                "definition_hebrew": "מתווכים במקרקעין",
+                "example": "A real estate agent assists buyers and sellers in property transactions, helping to negotiate prices and contracts.",
+                "example_hebrew": "סוכן נדל\"ן מסייע לקונים ולמוכרים בעסקאות נכסים, ומסייע במשא ומתן על מחירים וחוזים."
+            },
+            {
+                "definition": "Commodity brokers",
+                "definition_hebrew": "ברוקרים בסחורות",
+                "example": "A commodity trader buys or sells agricultural products like wheat, corn, or soybeans on behalf of their clients.",
+                "example_hebrew": "סוחר סחורות קונה או מוכר מוצרים חקלאיים כמו חיטה, תירס או פולי סויה בשם לקוחותיו."
+            },
+            {
+                "definition": "Brokering services in trade markets",
+                "definition_hebrew": "שירותי תיווך בשווקי סחר",
+                "example": "An export/import broker specializes in dealing with the import and export of goods between countries.",
+                "example_hebrew": "מתווך יצוא/יבוא מתמחה בטיפול בייבוא ויצוא של סחורות בין מדינות."
+            }
+        ]
+    }
+]

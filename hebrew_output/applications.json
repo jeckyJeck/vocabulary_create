@@ -1,0 +1,34 @@
+[
+    {
+        "word": "applications",
+        "word_hebrew": "יישומים",
+        "main_definition": "Applications refer to the process of submitting or presenting something, such as a request or proposal, along with its related details or requirements.",
+        "main_definition_hebrew": "בקשות מתייחסות לתהליך של הגשה או הצגת משהו, כגון בקשה או הצעה, יחד עם הפרטים או הדרישות הקשורות אליו.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of applying for something, like a job or college program",
+                "definition_hebrew": "הפעולה של הגשת מועמדות למשהו, כמו עבודה או תוכנית מכללה",
+                "example": "She submitted several applications to various universities.",
+                "example_hebrew": "היא הגישה מספר בקשות לאוניברסיטאות שונות."
+            },
+            {
+                "definition": "A formal request made in writing",
+                "definition_hebrew": "בקשה רשמית שהוגשה בכתב",
+                "example": "He wrote an application for financial aid at the university.",
+                "example_hebrew": "הוא כתב בקשה לסיוע כספי באוניברסיטה."
+            },
+            {
+                "definition": "Software programs designed to perform a specific task or set of tasks",
+                "definition_hebrew": "תוכנות המיועדות לבצע משימה מסוימת או קבוצת משימות",
+                "example": "The company developed new applications for managing customer data and processing orders.",
+                "example_hebrew": "החברה פיתחה אפליקציות חדשות לניהול נתוני לקוחות ועיבוד הזמנות."
+            },
+            {
+                "definition": "A collection of documents, information, or materials submitted as part of an application process",
+                "definition_hebrew": "אוסף של מסמכים, מידע או חומרים שהוגשו כחלק מתהליך בקשה",
+                "example": "Her portfolio was attached to her job application, showcasing her previous work experience.",
+                "example_hebrew": "תיק העבודות שלה צורף לבקשה לעבודה, המציג את הניסיון הקודם שלה בעבודה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "acoustic",
+        "word_hebrew": "אֲקוּסְטִי",
+        "main_definition": "Relating to sound or the sense of hearing, especially as it pertains to music.",
+        "main_definition_hebrew": "התייחסות לצליל או לחוש השמיעה, במיוחד בכל הנוגע למוזיקה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Involving no electronic amplification equipment",
+                "definition_hebrew": "ללא ציוד הגברה אלקטרוני",
+                "example": "An acoustic guitar performance at a small venue.",
+                "example_hebrew": "הופעה של גיטרה אקוסטית במקום קטן."
+            },
+            {
+                "definition": "Relating to the properties and phenomena of sound waves",
+                "definition_hebrew": "התייחסות לתכונות ולתופעות של גלי קול",
+                "example": "The acoustics of a concert hall can greatly affect how music is heard by an audience.",
+                "example_hebrew": "האקוסטיקה של אולם קונצרטים יכולה להשפיע רבות על האופן שבו המוזיקה נשמעת על ידי הקהל."
+            },
+            {
+                "definition": "Pertaining to or produced using only natural sounds, as opposed to electronic effects",
+                "definition_hebrew": "קשור או מופק באמצעות צלילים טבעיים בלבד, בניגוד לאפקטים אלקטרוניים",
+                "example": "An acoustic version of a song typically includes only vocals and the instruments being played live without additional audio processing.",
+                "example_hebrew": "גרסה אקוסטית של שיר כוללת בדרך כלל רק שירה ואת הכלים המנוגנים בלייב ללא עיבוד שמע נוסף."
+            },
+            {
+                "definition": "Concerned with sound quality and its perception by human ears",
+                "definition_hebrew": "עוסק באיכות הסאונד ובתפיסתו על ידי אוזניים אנושיות",
+                "example": "Acoustic engineers design spaces to improve their acoustics for better sound quality.",
+                "example_hebrew": "מהנדסים אקוסטיים מתכננים חללים כדי לשפר את האקוסטיקה שלהם לאיכות צליל טובה יותר."
+            }
+        ]
+    }
+]

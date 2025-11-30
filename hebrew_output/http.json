@@ -1,0 +1,28 @@
+[
+    {
+        "word": "http",
+        "word_hebrew": "http",
+        "main_definition": "HTTP stands for Hypertext Transfer Protocol, which is the foundation of data communication in the World Wide Web.",
+        "main_definition_hebrew": "HTTP ראשי תיבות של Hypertext Transfer Protocol, שהוא הבסיס לתקשורת נתונים ב-World Wide Web.",
+        "meanings_and_examples": [
+            {
+                "definition": "Acronym representing Hypertext Transfer Protocol",
+                "definition_hebrew": "ראשי תיבות המייצגים Hypertext Transfer Protocol",
+                "example": "The HTTP protocol governs how messages are exchanged over the web.",
+                "example_hebrew": "פרוטוקול ה-HTTP קובע את אופן החלפת ההודעות באינטרנט."
+            },
+            {
+                "definition": "A request method supported by the HTTP protocol used to retrieve data from a specified resource",
+                "definition_hebrew": "שיטת בקשה הנתמכת על ידי פרוטוקול HTTP המשמש לאחזור נתונים ממשאב שצוין",
+                "example": "When you enter a URL in your browser, it sends an HTTP GET request to the server for that page's content.",
+                "example_hebrew": "כאשר אתה מזין כתובת אתר בדפדפן שלך, הוא שולח בקשת HTTP GET לשרת עבור תוכן העמוד הזה."
+            },
+            {
+                "definition": "An abbreviation sometimes used informally to refer to the web or World Wide Web",
+                "definition_hebrew": "קיצור המשמש לעתים באופן לא רשמי כדי להתייחס לאינטרנט או ל-World Wide Web",
+                "example": "I found some information online; let me check the http and see what I can find.",
+                "example_hebrew": "מצאתי קצת מידע באינטרנט; תן לי לבדוק את ה-http ולראות מה אני יכול למצוא."
+            }
+        ]
+    }
+]

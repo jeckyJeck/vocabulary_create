@@ -1,0 +1,40 @@
+[
+    {
+        "word": "trim",
+        "word_hebrew": "מְטוּפָּח",
+        "main_definition": "To make something neat, tidy, or slender by removing unnecessary parts.",
+        "main_definition_hebrew": "לעשות משהו מסודר, מסודר או דק על ידי הסרת חלקים מיותרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To reduce excess fat or weight from an animal's body.",
+                "definition_hebrew": "כדי להפחית עודפי שומן או משקל מגוף של בעל חיים.",
+                "example": "The farmer decided to trim the horse's hooves to keep it healthy.",
+                "example_hebrew": "האיכר החליט לקצץ את פרסות הסוס כדי לשמור על בריאותו."
+            },
+            {
+                "definition": "To cut away any unnecessary material, typically in a decorative context.",
+                "definition_hebrew": "כדי לחתוך כל חומר מיותר, בדרך כלל בהקשר דקורטיבי.",
+                "example": "She chose to trim her curtains to make them look neater and more appealing.",
+                "example_hebrew": "היא בחרה לקצץ את הווילונות שלה כדי לגרום להם להיראות מסודרים ומושכים יותר."
+            },
+            {
+                "definition": "To adjust or modify something slightly to improve its function or appearance.",
+                "definition_hebrew": "להתאים או לשנות משהו מעט כדי לשפר את תפקודו או המראה שלו.",
+                "example": "The mechanic decided to trim the engine's timing belt to fix a minor issue.",
+                "example_hebrew": "המוסכניק החליט לקצץ את רצועת התזמון של המנוע כדי לתקן בעיה קלה."
+            },
+            {
+                "definition": "To cut off or remove excess from clothing, such as laces on shoes.",
+                "definition_hebrew": "כדי לחתוך או להסיר עודפים מבגדים, כגון שרוכים בנעליים.",
+                "example": "She had her dress tailor-trimmed with ribbons at the cuffs and hem.",
+                "example_hebrew": "השמלה שלה חתוכה עם סרטים בחפתים ובשוליים."
+            },
+            {
+                "definition": "In a business context, to reduce costs by eliminating unnecessary expenses or operations.",
+                "definition_hebrew": "בהקשר עסקי, להפחית עלויות על ידי ביטול הוצאות או פעולות מיותרות.",
+                "example": "The company decided to trim its budget by cutting down on non-essential marketing activities.",
+                "example_hebrew": "החברה החליטה לקצץ את תקציבה על ידי צמצום בפעילויות השיווק שאינן חיוניות."
+            }
+        ]
+    }
+]

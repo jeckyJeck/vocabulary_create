@@ -1,0 +1,28 @@
+[
+    {
+        "word": "account",
+        "word_hebrew": "חֶשְׁבּוֹן",
+        "main_definition": "An account refers to a record or statement of financial transactions, an explanation or narrative of events, or the responsibility someone has in relation to something.",
+        "main_definition_hebrew": "חשבון מתייחס לרשומה או הצהרת עסקאות פיננסיות, הסבר או נרטיב של אירועים, או האחריות שיש למישהו ביחס למשהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A record of financial transactions",
+                "definition_hebrew": "תיעוד של עסקאות פיננסיות",
+                "example": "I need to update my bank account with today's deposit.",
+                "example_hebrew": "אני צריך לעדכן את חשבון הבנק שלי בהפקדה של היום."
+            },
+            {
+                "definition": "An explanation or narrative of events",
+                "definition_hebrew": "הסבר או נרטיב של אירועים",
+                "example": "Please give an account of how you arrived at your decision.",
+                "example_hebrew": "אנא פרט כיצד הגעת להחלטתך."
+            },
+            {
+                "definition": "The responsibility someone has in relation to something",
+                "definition_hebrew": "האחריות שיש למישהו ביחס למשהו",
+                "example": "You are the account holder for this bank account, and therefore responsible for any transactions made on it.",
+                "example_hebrew": "אתה בעל החשבון של חשבון הבנק הזה, ולכן אחראי לכל עסקאות שנעשו בו."
+            }
+        ]
+    }
+]

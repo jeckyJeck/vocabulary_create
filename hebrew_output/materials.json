@@ -1,0 +1,34 @@
+[
+    {
+        "word": "materials",
+        "word_hebrew": "חומרים",
+        "main_definition": "Materials refer to substances or components used in the creation of products, objects, or structures.",
+        "main_definition_hebrew": "חומרים מתייחסים לחומרים או רכיבים המשמשים ליצירת מוצרים, חפצים או מבנים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In a general context, referring to physical substances with various properties",
+                "definition_hebrew": "בהקשר כללי, הכוונה לחומרים פיזיקליים בעלי תכונות שונות",
+                "example": "The construction materials for this building include concrete, steel, and glass.",
+                "example_hebrew": "חומרי הבנייה לבניין זה כוללים בטון, פלדה וזכוכית."
+            },
+            {
+                "definition": "As an economic term, relating to goods available for sale or trade",
+                "definition_hebrew": "כמונח כלכלי, המתייחס לסחורות הזמינות למכירה או למסחר",
+                "example": "The store has a wide range of materials such as fabrics, paints, and electronic components for DIY projects.",
+                "example_hebrew": "בחנות מגוון רחב של חומרים כגון בדים, צבעים ורכיבים אלקטרוניים לפרויקטים של עשה זאת בעצמך."
+            },
+            {
+                "definition": "In literature and drama, referring to the subject matter or themes that are dealt with in the work",
+                "definition_hebrew": "בספרות ובדרמה, התייחסות לנושא או לנושאים בהם עוסקים בעבודה",
+                "example": "The play's central materials revolve around love, betrayal, and redemption.",
+                "example_hebrew": "החומרים המרכזיים של המחזה סובבים סביב אהבה, בגידה וגאולה."
+            },
+            {
+                "definition": "In chemistry and physics, denoting substances used to create other compounds or perform experiments",
+                "definition_hebrew": "בכימיה ובפיסיקה, מציינים חומרים המשמשים ליצירת תרכובות אחרות או לביצוע ניסויים",
+                "example": "Sodium chloride (table salt) is a common material in chemical research and food preparation.",
+                "example_hebrew": "נתרן כלורי (מלח שולחן) הוא חומר נפוץ במחקר כימי והכנת מזון."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "vendor",
+        "word_hebrew": "מוֹכֵר",
+        "main_definition": "A vendor is an individual or a business that sells goods, products, or services to customers.",
+        "main_definition_hebrew": "ספק הוא אדם פרטי או עסק שמוכר מוצרים, מוצרים או שירותים ללקוחות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Someone who operates a stall or small shop in public places such as markets and fairs",
+                "definition_hebrew": "מי שמפעיל דוכן או חנות קטנה במקומות ציבוריים כמו שווקים וירידים",
+                "example": "The fresh fruits vendor at the farmers market had an array of juicy apples on display.",
+                "example_hebrew": "מוכר הפירות הטריים בשוק האיכרים הציג מגוון של תפוחים עסיסיים."
+            },
+            {
+                "definition": "A company that sells products directly to consumers, often online or through catalogues",
+                "definition_hebrew": "חברה שמוכרת מוצרים ישירות לצרכנים, לרוב באינטרנט או באמצעות קטלוגים",
+                "example": "I ordered a new laptop from a well-known electronics vendor's website.",
+                "example_hebrew": "הזמנתי מחשב נייד חדש מאתר מוכר של ספקי אלקטרוניקה."
+            },
+            {
+                "definition": "An individual who provides services rather than goods, such as freelance writers and consultants",
+                "definition_hebrew": "אדם המספק שירותים במקום סחורות, כגון סופרים ויועצים עצמאיים",
+                "example": "The graphic designer is a vendor offering logo design and branding services to businesses.",
+                "example_hebrew": "המעצב הגרפי הוא ספק המציע שירותי עיצוב לוגו ומיתוג לעסקים."
+            },
+            {
+                "definition": "A seller of software or digital products, often through an online platform",
+                "definition_hebrew": "מוכר של תוכנות או מוצרים דיגיטליים, לרוב דרך פלטפורמה מקוונת",
+                "example": "She downloaded the latest version of the accounting software from her favorite tech vendor's website.",
+                "example_hebrew": "היא הורידה את הגרסה העדכנית ביותר של תוכנת הנהלת החשבונות מהאתר של ספק הטכנולוגיה האהוב עליה."
+            }
+        ]
+    }
+]

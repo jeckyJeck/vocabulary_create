@@ -1,0 +1,40 @@
+[
+    {
+        "word": "converter",
+        "word_hebrew": "מֵמִיר",
+        "main_definition": "A device or program that transforms data from one format to another.",
+        "main_definition_hebrew": "מכשיר או תוכנית הממירים נתונים מפורמט אחד לאחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "An electrical device that converts alternating current (AC) into direct current (DC).",
+                "definition_hebrew": "מכשיר חשמלי הממיר זרם חילופין (AC) לזרם ישר (DC).",
+                "example": "The power supply unit in a computer contains a converter known as the AC-to-DC adapter.",
+                "example_hebrew": "יחידת אספקת החשמל במחשב מכילה ממיר המכונה מתאם AC-to-DC."
+            },
+            {
+                "definition": "A program or function that changes one form of data to another format for processing.",
+                "definition_hebrew": "תוכנית או פונקציה שמשנה צורה אחת של נתונים לפורמט אחר לצורך עיבוד.",
+                "example": "An image converter can change digital photos from JPEG to PNG format.",
+                "example_hebrew": "ממיר תמונות יכול לשנות תמונות דיגיטליות מפורמט JPEG לפורמט PNG."
+            },
+            {
+                "definition": "A device used in cars and trucks to convert fuel into mechanical energy.",
+                "definition_hebrew": "מכשיר המשמש במכוניות ומשאיות להמרת דלק לאנרגיה מכנית.",
+                "example": "The engine's converter helps turn petrol or diesel into motion by converting its chemical energy.",
+                "example_hebrew": "הממיר של המנוע עוזר להפוך בנזין או דיזל לתנועה על ידי המרת האנרגיה הכימית שלו."
+            },
+            {
+                "definition": "An instrument that converts one unit of measurement into another, such as inches to centimeters.",
+                "definition_hebrew": "מכשיר הממיר יחידת מדידה אחת לאחרת, כגון אינצ'ים לסנטימטרים.",
+                "example": "A ruler with both inch and centimeter markings serves as a length converter.",
+                "example_hebrew": "סרגל עם סימוני אינץ' וגם סנטימטרים משמש כממיר אורך."
+            },
+            {
+                "definition": "A person who changes or alters their beliefs, opinions, or behavior over time.",
+                "definition_hebrew": "אדם שמשנה או משנה את אמונותיו, דעותיו או התנהגותו לאורך זמן.",
+                "example": "The politician's stance on environmental issues has evolved significantly since his early days in office; he is now considered an eco-converter.",
+                "example_hebrew": "עמדתו של הפוליטיקאי בנושאי איכות הסביבה התפתחה באופן משמעותי מאז ימיו הראשונים בתפקיד; הוא נחשב כעת לממיר אקולוגי."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "consult",
+        "word_hebrew": "לְהִתְיַעֵץ",
+        "main_definition": "To seek advice or information from a professional, expert, or trusted source.",
+        "main_definition_hebrew": "לבקש עצות או מידע מגורם מקצועי, מומחה או מקור מהימן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Seeking guidance or advice from an authority figure.",
+                "definition_hebrew": "מבקש הכוונה או ייעוץ מאיש סמכות.",
+                "example": "She consulted her lawyer before signing the contract.",
+                "example_hebrew": "היא התייעצה עם עורך הדין שלה לפני חתימת החוזה."
+            },
+            {
+                "definition": "Examining something carefully and in detail to understand it better.",
+                "definition_hebrew": "בחינת משהו בקפידה ובפירוט כדי להבין אותו טוב יותר.",
+                "example": "The doctor consulted various medical journals to diagnose the patient's condition accurately.",
+                "example_hebrew": "הרופא התייעץ עם כתבי עת רפואיים שונים כדי לאבחן במדויק את מצבו של המטופל."
+            },
+            {
+                "definition": "To discuss a problem or issue with another person or group of people.",
+                "definition_hebrew": "לדון בבעיה או בעיה עם אדם אחר או קבוצה של אנשים.",
+                "example": "They decided to consult their friends before making such an important decision.",
+                "example_hebrew": "הם החליטו להתייעץ עם חבריהם לפני קבלת החלטה כה חשובה."
+            },
+            {
+                "definition": "Seeking professional help for resolving a personal or business-related matter.",
+                "definition_hebrew": "פנייה לעזרה מקצועית לפתרון עניין אישי או עסקי.",
+                "example": "The company hired external consultants to improve its marketing strategy.",
+                "example_hebrew": "החברה שכרה יועצים חיצוניים לשיפור האסטרטגיה השיווקית שלה."
+            },
+            {
+                "definition": "Consulting an expert or specialist in a particular field.",
+                "definition_hebrew": "התייעצות עם מומחה או מומחה בתחום מסוים.",
+                "example": "He consulted with an astrologer about his career path and future prospects.",
+                "example_hebrew": "הוא התייעץ עם אסטרולוג לגבי מסלול הקריירה שלו והסיכויים העתידיים שלו."
+            }
+        ]
+    }
+]

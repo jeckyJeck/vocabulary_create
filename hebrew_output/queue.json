@@ -1,0 +1,34 @@
+[
+    {
+        "word": "queue",
+        "word_hebrew": "תוֹר",
+        "main_definition": "A queue refers to a sequence or line of people or objects waiting for their turn, often in the context of service or processing.",
+        "main_definition_hebrew": "תור מתייחס לרצף או שורה של אנשים או חפצים הממתינים לתורם, לרוב בהקשר של שירות או עיבוד.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing and technology, a 'queue' is a collection of elements that follow the First In, First Out (FIFO) principle. It is used to manage data by storing it temporarily while waiting for processing.",
+                "definition_hebrew": "בתחום המחשוב והטכנולוגיה, 'תור' הוא אוסף של אלמנטים העוקבים אחר עקרון First In, First Out (FIFO). הוא משמש לניהול נתונים על ידי אחסונם באופן זמני בזמן המתנה לעיבוד.",
+                "example": "When multiple print jobs are submitted to a printer, they form a queue which will be printed in the order received.",
+                "example_hebrew": "כאשר מספר עבודות הדפסה נשלחות למדפסת, הן יוצרות תור שיודפס לפי סדר קבלתן."
+            },
+            {
+                "definition": "In everyday language, 'queue' refers to the line of people or vehicles awaiting their turn for service at a counter, entrance, or other point.",
+                "definition_hebrew": "בשפה היומיומית, 'תור' מתייחס לתור האנשים או כלי הרכב הממתינים לתורם לשירות בדלפק, בכניסה או בנקודה אחרת.",
+                "example": "At the grocery store checkout, customers form a queue behind each open register.",
+                "example_hebrew": "בקופה במכולת, הלקוחות יוצרים תור מאחורי כל פנקס פתוח."
+            },
+            {
+                "definition": "In sports, particularly cricket and baseball, 'queue' can refer to the order in which players take their turns at bat.",
+                "definition_hebrew": "בספורט, במיוחד קריקט ובייסבול, 'תור' יכול להתייחס לסדר שבו שחקנים מתחבטים בתורם.",
+                "example": "The batter is numbered as 1st in the queue for his team to bat next during an innings.",
+                "example_hebrew": "החובט ממוספר במקום הראשון בתור לקבוצתו לחבוט הבאה במהלך סיבוב."
+            },
+            {
+                "definition": "In a social context, a 'queue' may also mean waiting patiently without interrupting or pushing forward.",
+                "definition_hebrew": "בהקשר חברתי, 'תור' עשוי להיות גם המתנה בסבלנות מבלי להפריע או לדחוף קדימה.",
+                "example": "After boarding the bus, passengers formed a queue at the entrance of the vehicle.",
+                "example_hebrew": "לאחר העלייה לאוטובוס נוצרו תור בכניסה של הרכב."
+            }
+        ]
+    }
+]

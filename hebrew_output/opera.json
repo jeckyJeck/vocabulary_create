@@ -1,0 +1,34 @@
+[
+    {
+        "word": "opera",
+        "word_hebrew": "אוֹפֵּרָה",
+        "main_definition": "An opera is a dramatic work in one or more acts, set to music for singers and musicians, usually accompanied by an orchestra or smaller musical ensemble.",
+        "main_definition_hebrew": "אופרה היא יצירה דרמטית במערכה אחת או יותר, המושמעת לזמרים ולנגנים, לרוב בליווי תזמורת או אנסמבל מוזיקלי קטן יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "A type of theatrical performance that includes singing, acting, and orchestral music",
+                "definition_hebrew": "סוג של מופע תיאטרון הכולל שירה, משחק ומוזיקת תזמורת",
+                "example": "The Metropolitan Opera is renowned for its performances in various operas.",
+                "example_hebrew": "המטרופוליטן אופרה ידועה בזכות הופעותיה באופרות שונות."
+            },
+            {
+                "definition": "An art form combining text (libretto), set design, costumes, and often dance to create a musical theater experience",
+                "definition_hebrew": "צורת אמנות המשלבת טקסט (ליברית), עיצוב תפאורה, תלבושות ולעתים קרובות ריקוד כדי ליצור חווית תיאטרון מוזיקלי",
+                "example": "La Scala opera house in Milan offers spectacular productions of classic and modern operas.",
+                "example_hebrew": "בית האופרה לה סקאלה במילאנו מציע הפקות מרהיבות של אופרות קלאסיות ומודרניות."
+            },
+            {
+                "definition": "A specific piece within an opera, including both sung words (arias) and spoken dialogues",
+                "definition_hebrew": "יצירה ספציפית בתוך אופרה, הכוללת גם מילים מושרות (אריות) וגם דיאלוגים מדוברים",
+                "example": "The aria 'Nessun dorma' from Puccini's Turandot is one of the most famous pieces in the operatic repertoire.",
+                "example_hebrew": "האריה 'נסון דורמה' מתוך טורנדוט של פוצ'יני היא אחת היצירות המפורסמות ביותר ברפרטואר האופראי."
+            },
+            {
+                "definition": "A collective term for Italian-style, French-style, and German-style operas",
+                "definition_hebrew": "כינוי כולל לאופרות בסגנון איטלקי, בסגנון צרפתי וגרמני",
+                "example": "Carmen by Bizet is a prime example of French opera (Opéra comique), while La Bohème by Puccini represents Italian opera.",
+                "example_hebrew": "כרמן מאת ביזה היא דוגמה מצוינת לאופרה הצרפתית (Opéra comique), בעוד לה בוהם מאת פוצ'יני מייצגת את האופרה האיטלקית."
+            }
+        ]
+    }
+]

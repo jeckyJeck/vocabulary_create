@@ -1,0 +1,34 @@
+[
+    {
+        "word": "rob",
+        "word_hebrew": "לִשְׁדוֹד",
+        "main_definition": "To steal or take property unlawfully from a person or place.",
+        "main_definition_hebrew": "לגנוב או לקחת רכוש שלא כדין מאדם או מקום.",
+        "meanings_and_examples": [
+            {
+                "definition": "To remove money directly from a bank, ATM, etc.",
+                "definition_hebrew": "להוציא כסף ישירות מבנק, כספומט וכו'.",
+                "example": "The thief attempted to rob the bank by hacking into its security system.",
+                "example_hebrew": "הגנב ניסה לשדוד את הבנק באמצעות פריצה למערכת האבטחה שלו."
+            },
+            {
+                "definition": "To take something forcefully or without permission.",
+                "definition_hebrew": "לקחת משהו בכוח או בלי רשות.",
+                "example": "The burglars robbed the house while its residents were away on vacation.",
+                "example_hebrew": "הפורצים שדדו את הבית בזמן שתושביו נעדרו לחופשה."
+            },
+            {
+                "definition": "To deprive someone of their belongings by taking them against their will.",
+                "definition_hebrew": "לשלול ממישהו את חפציו על ידי לקיחתם בניגוד לרצונו.",
+                "example": "During the civil unrest, many shops were robbed, leaving owners with nothing but broken windows and stolen goods.",
+                "example_hebrew": "במהלך התסיסה האזרחית נשדדו חנויות רבות, מה שהותיר לבעלים רק חלונות שבורים וסחורה גנובה."
+            },
+            {
+                "definition": "An idiom meaning to take advantage of a situation or opportunity without regard for others.",
+                "definition_hebrew": "ניב שפירושו לנצל מצב או הזדמנות ללא התחשבות באחרים.",
+                "example": "By jumping the queue at the store, he made sure not to be rob anyone else in line.",
+                "example_hebrew": "בקפיצה לתור בחנות, הוא הקפיד לא לשדוד אף אחד אחר בתור."
+            }
+        ]
+    }
+]

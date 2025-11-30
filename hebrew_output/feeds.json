@@ -1,0 +1,28 @@
+[
+    {
+        "word": "feeds",
+        "word_hebrew": "הזנות",
+        "main_definition": "To provide nourishment or sustenance to someone, something, or an animal by giving them the necessary food.",
+        "main_definition_hebrew": "לספק מזון או מזון למישהו, למשהו או לחיה על ידי מתן המזון הדרוש להם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Informing/providing information regularly to keep up with a topic",
+                "definition_hebrew": "ליידע/לספק מידע באופן קבוע כדי להתעדכן בנושא",
+                "example": "The news website feeds readers with daily updates on current events.",
+                "example_hebrew": "אתר החדשות מזין את הקוראים בעדכונים יומיים על אירועים אקטואליים."
+            },
+            {
+                "definition": "Providing nourishment or sustenance to someone, something, or an animal by giving them the necessary food",
+                "definition_hebrew": "מתן מזון או מזון למישהו, משהו או בעל חיים על ידי מתן המזון הדרוש להם",
+                "example": "The mother bird feeds her chicks with regurgitated food.",
+                "example_hebrew": "ציפור האם מאכילה את הגוזלים שלה במזון מוחזר."
+            },
+            {
+                "definition": "To supply data to a system that automatically updates information in real-time",
+                "definition_hebrew": "לספק נתונים למערכת שמעדכנת מידע אוטומטית בזמן אמת",
+                "example": "The stock market feed provides live updates on the latest prices and trading volumes.",
+                "example_hebrew": "הפיד של שוק המניות מספק עדכונים חיים על המחירים ומחזורי המסחר העדכניים ביותר."
+            }
+        ]
+    }
+]

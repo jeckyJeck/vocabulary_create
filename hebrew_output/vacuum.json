@@ -1,0 +1,28 @@
+[
+    {
+        "word": "vacuum",
+        "word_hebrew": "לִשְׁאוֹב",
+        "main_definition": "A vacuum refers to an area devoid of matter, specifically air or other gases; a cleaning device used to remove dirt from floors and surfaces by suction; and a metaphorical expression implying emptiness or lack of substance.",
+        "main_definition_hebrew": "ואקום מתייחס לאזור נטול חומר, במיוחד אוויר או גזים אחרים; מכשיר ניקוי המשמש להסרת לכלוך מרצפות ומשטחים באמצעות יניקה; וביטוי מטפורי המרמז על ריקנות או חוסר מהות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A physical space devoid of matter, particularly air",
+                "definition_hebrew": "מרחב פיזי נטול חומר, במיוחד אוויר",
+                "example": "The vacuum created inside the sealed container was used to study the behavior of gases.",
+                "example_hebrew": "הוואקום שנוצר בתוך המיכל האטום שימש לחקר התנהגות הגזים."
+            },
+            {
+                "definition": "A machine designed for cleaning floors and surfaces by suction",
+                "definition_hebrew": "מכונה המיועדת לניקוי רצפות ומשטחים בשאיבה",
+                "example": "She spent an hour using her vacuum cleaner to tidy up her living room.",
+                "example_hebrew": "היא בילתה שעה בשימוש בשואב האבק שלה כדי לסדר את הסלון שלה."
+            },
+            {
+                "definition": "An expression implying emptiness or lack of substance",
+                "definition_hebrew": "ביטוי המרמז על ריקנות או חוסר מהות",
+                "example": "When he talked about the new policy, it was just empty rhetouds; a real vacuum.",
+                "example_hebrew": "כשהוא דיבר על המדיניות החדשה, זה היה רק התבטאויות ריקות; ואקום אמיתי."
+            }
+        ]
+    }
+]

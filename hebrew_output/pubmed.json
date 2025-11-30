@@ -1,0 +1,34 @@
+[
+    {
+        "word": "pubmed",
+        "word_hebrew": "פאבמד",
+        "main_definition": "PubMed is a free search engine accessing primarily the MEDLINE database of references and abstracts on life sciences and biomedical topics, maintained by the United States National Library of Medicine (NIH), part of the National Institutes of Health.",
+        "main_definition_hebrew": "PubMed הוא מנוע חיפוש חינמי הניגש בעיקר למסד הנתונים של MEDLINE של הפניות ותקצירים על מדעי החיים ונושאים ביו-רפואיים, המתוחזק על ידי הספרייה הלאומית לרפואה של ארצות הברית (NIH), חלק מהמכונים הלאומיים לבריאות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A free online platform for accessing scientific research",
+                "definition_hebrew": "פלטפורמה מקוונת בחינם לגישה למחקר מדעי",
+                "example": "I found an article on PubMed about a new breakthrough in cancer treatment.",
+                "example_hebrew": "מצאתי מאמר ב-PubMed על פריצת דרך חדשה בטיפול בסרטן."
+            },
+            {
+                "definition": "An acronym standing for 'Published Medical Diary', but commonly used to refer to medical and biomedical literature",
+                "definition_hebrew": "ראשי תיבות של 'יומן רפואי שפורסם', אך משמש בדרך כלל להתייחסות לספרות רפואית וביו-רפואית",
+                "example": "The journal editor mentioned that the latest research findings would be published soon, and readers can access them through PubMed.",
+                "example_hebrew": "עורך כתב העת הזכיר כי ממצאי המחקר האחרונים יתפרסמו בקרוב, והקוראים יכולים לגשת אליהם דרך PubMed."
+            },
+            {
+                "definition": "A database of bibliographic information on life sciences and biomedical topics maintained by the United States National Library of Medicine",
+                "definition_hebrew": "מסד נתונים של מידע ביבליוגרפי על מדעי החיים ונושאים ביו-רפואיים שמתוחזק על ידי הספרייה הלאומית לרפואה של ארצות הברית",
+                "example": "To conduct a literature review for my research paper, I used PubMed to find relevant articles in the field of genetics.",
+                "example_hebrew": "כדי לערוך סקירת ספרות עבור עבודת המחקר שלי, השתמשתי ב-PubMed כדי למצוא מאמרים רלוונטיים בתחום הגנטיקה."
+            },
+            {
+                "definition": "A search engine specifically designed for searching biomedical and health-related information from various sources",
+                "definition_hebrew": "מנוע חיפוש שתוכנן במיוחד לחיפוש מידע ביו-רפואי ובריאות ממקורות שונים",
+                "example": "As a medical student, I rely on PubMed to find reputable journals and studies that support my research projects.",
+                "example_hebrew": "כסטודנט לרפואה, אני סומך על PubMed כדי למצוא כתבי עת ומחקרים בעלי מוניטין התומכים בפרויקטי המחקר שלי."
+            }
+        ]
+    }
+]

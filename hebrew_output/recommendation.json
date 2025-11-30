@@ -1,0 +1,34 @@
+[
+    {
+        "word": "recommendation",
+        "word_hebrew": "המלצה",
+        "main_definition": "A suggestion or advice given to someone regarding a course of action, typically based on personal knowledge or experience.",
+        "main_definition_hebrew": "הצעה או עצה שניתנה למישהו לגבי דרך פעולה, המבוססת בדרך כלל על ידע או ניסיון אישי.",
+        "meanings_and_examples": [
+            {
+                "definition": "An act of advising or suggesting something to be done in favor of a particular choice",
+                "definition_hebrew": "פעולה של ייעוץ או הצעת משהו לעשות לטובת בחירה מסוימת",
+                "example": "The doctor's recommendation for physical therapy after the knee surgery.",
+                "example_hebrew": "המלצת הרופא לפיזיותרפיה לאחר ניתוח הברך."
+            },
+            {
+                "definition": "A formal suggestion made by someone with authority, often used when referring to an expert's advice or guidance",
+                "definition_hebrew": "הצעה רשמית שהועלתה על ידי אדם בעל סמכות, המשמשת לעתים קרובות בהתייחסות לעצות או הדרכה של מומחה",
+                "example": "After reviewing my financial situation, she gave me a recommendation to invest in mutual funds for long-term growth.",
+                "example_hebrew": "לאחר בחינת מצבי הפיננסי, היא נתנה לי המלצה להשקיע בקרנות נאמנות לצמיחה ארוכת טווח."
+            },
+            {
+                "definition": "An endorsement given by someone with authority, often used when referring to a product, service, or individual's qualifications",
+                "definition_hebrew": "אישור שניתן על ידי אדם בעל סמכות, המשמש לעתים קרובות כאשר מתייחסים למוצר, שירות או כישוריו של אדם",
+                "example": "The famous chef gave his recommendation on the best cooking oils in the industry.",
+                "example_hebrew": "השף המפורסם נתן את המלצתו על שמני הבישול הטובים בתעשייה."
+            },
+            {
+                "definition": "A formal written document that states an opinion or advice given by one person to another",
+                "definition_hebrew": "מסמך רשמי בכתב המציין חוות דעת או עצה שניתנה על ידי אדם אחד לאחר",
+                "example": "She wrote a letter of recommendation for her former employee who applied for a new job.",
+                "example_hebrew": "היא כתבה מכתב המלצה על עובדה לשעבר שהגיש מועמדות לעבודה חדשה."
+            }
+        ]
+    }
+]

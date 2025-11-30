@@ -1,0 +1,34 @@
+[
+    {
+        "word": "weblog",
+        "word_hebrew": "בלוג אינטרנט",
+        "main_definition": "A weblog, commonly known as a blog, is an online journal or informational website that is updated regularly with new content.",
+        "main_definition_hebrew": "בלוג, הידוע בכינויו בלוג, הוא יומן מקוון או אתר מידע המתעדכן באופן קבוע בתוכן חדש.",
+        "meanings_and_examples": [
+            {
+                "definition": "A personal journal-like publication on the internet where individuals record their thoughts and experiences",
+                "definition_hebrew": "פרסום אישי דמוי יומן באינטרנט שבו אנשים מתעדים את מחשבותיהם וחוויותיהם",
+                "example": "Sarah maintains a weblog where she writes about her daily life, including photos of her pet cat.",
+                "example_hebrew": "שרה מנהלת בלוג אינטרנט שבו היא כותבת על חיי היומיום שלה, כולל תמונות של חתול המחמד שלה."
+            },
+            {
+                "definition": "An online platform for sharing news, opinions, or information with an audience",
+                "definition_hebrew": "פלטפורמה מקוונת לשיתוף חדשות, דעות או מידע עם קהל",
+                "example": "The tech company XYZ has its own weblog to post updates on new software releases and industry trends.",
+                "example_hebrew": "לחברת הטכנולוגיה XYZ יש בלוג אינטרנט משלה כדי לפרסם עדכונים על מהדורות תוכנה חדשות ומגמות בתעשייה."
+            },
+            {
+                "definition": "A collection of interconnected web pages that focus on a specific topic or niche, typically written by multiple authors",
+                "definition_hebrew": "אוסף של דפי אינטרנט מחוברים המתמקדים בנושא או נישה ספציפיים, הנכתבים בדרך כלל על ידי מספר מחברים",
+                "example": "Tech enthusiasts often visit the weblog 'Gadget Geek' to read about the latest gadgets and technology trends.",
+                "example_hebrew": "חובבי טכנולוגיה מבקרים לעתים קרובות ביולוג האינטרנט 'גאדג'טים גיק' כדי לקרוא על הגאדג'טים והטרנדים הטכנולוגיים העדכניים ביותר."
+            },
+            {
+                "definition": "A medium for online communities where people can discuss various topics, ask questions, and share information",
+                "definition_hebrew": "מדיום לקהילות מקוונות שבו אנשים יכולים לדון בנושאים שונים, לשאול שאלות ולשתף מידע",
+                "example": "The gardening community frequently visits a weblog 'Green Thumbs' to learn about organic gardening tips and techniques.",
+                "example_hebrew": "קהילת הגינון מבקרת לעתים קרובות ביולוג האינטרנט 'אגודלים ירוקים' כדי ללמוד על טיפים וטכניקות לגינון אורגני."
+            }
+        ]
+    }
+]

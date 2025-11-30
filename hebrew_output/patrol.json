@@ -1,0 +1,34 @@
+[
+    {
+        "word": "patrol",
+        "word_hebrew": "פַּטרוֹל",
+        "main_definition": "A regular, systematic activity of monitoring or supervising an area to ensure safety, security, or compliance with rules.",
+        "main_definition_hebrew": "פעילות קבועה ושיטתית של ניטור או פיקוח על אזור כדי להבטיח בטיחות, אבטחה או עמידה בכללים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To watch over and monitor a specific area regularly for safety or crime prevention",
+                "definition_hebrew": "להשגיח ולנטר אזור מסוים באופן קבוע לבטיחות או למניעת פשע",
+                "example": "The police officer patrolled the neighborhood looking out for any suspicious activity.",
+                "example_hebrew": "השוטר סייר בשכונה וחיפש כל פעילות חשודה."
+            },
+            {
+                "definition": "A scheduled route that officers, guards, or military personnel follow to maintain order or enforce regulations",
+                "definition_hebrew": "מסלול מתוכנן שבו עוקבים קצינים, שומרים או אנשי צבא כדי לשמור על הסדר או לאכוף תקנות",
+                "example": "The soldiers went on a nightly patrol of their assigned sector in the city.",
+                "example_hebrew": "החיילים יצאו לסיור לילי בגזרת המיועד להם בעיר."
+            },
+            {
+                "definition": "To check or inspect something regularly as part of maintenance or quality control",
+                "definition_hebrew": "לבדוק או לבדוק משהו באופן קבוע כחלק מתחזוקה או בקרת איכות",
+                "example": "The factory had regular patrols to ensure all equipment was functioning properly and safely.",
+                "example_hebrew": "למפעל היו סיורים סדירים כדי לוודא שכל הציוד פועל בצורה תקינה ובטוחה."
+            },
+            {
+                "definition": "A group of people assigned to monitor a specific area for safety or regulatory compliance",
+                "definition_hebrew": "קבוצת אנשים שהוקצתה לפקח על אזור מסוים לצורך בטיחות או תאימות לתקנות",
+                "example": "The security team conducted their weekly patrol around the perimeter of the construction site.",
+                "example_hebrew": "צוות האבטחה ערך את הסיור השבועי שלו בהיקף אתר הבנייה."
+            }
+        ]
+    }
+]

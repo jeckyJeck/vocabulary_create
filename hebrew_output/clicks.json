@@ -1,0 +1,40 @@
+[
+    {
+        "word": "clicks",
+        "word_hebrew": "קליקים",
+        "main_definition": "Clicks can refer to the sound made by a button when it is pressed or multiple actions of similar nature.",
+        "main_definition_hebrew": "קליקים יכולים להתייחס לצליל המופק על ידי כפתור בעת לחיצה עליו או למספר פעולות בעלות אופי דומה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of pressing a mouse button, often resulting in an action being performed on a computer",
+                "definition_hebrew": "פעולת לחיצה על כפתור עכבר, הגורמת לרוב לביצוע פעולה במחשב",
+                "example": "When I click the 'send' button to email my friends.",
+                "example_hebrew": "כשאני לוחץ על כפתור 'שלח' כדי לשלוח דוא\"ל לחברים שלי."
+            },
+            {
+                "definition": "A sound produced by devices such as computers or cameras when buttons are pressed",
+                "definition_hebrew": "צליל המופק על ידי מכשירים כגון מחשבים או מצלמות בעת לחיצה על כפתורים",
+                "example": "The camera makes a loud clicking noise every time you press the shutter button.",
+                "example_hebrew": "המצלמה משמיעה רעש לחיצה חזק בכל פעם שאתה לוחץ על כפתור הצילום."
+            },
+            {
+                "definition": "Social media interactions, specifically likes given on posts and photos",
+                "definition_hebrew": "אינטראקציות במדיה חברתית, במיוחד לייקים שניתנו על פוסטים ותמונות",
+                "example": "I received 10 clicks on my Instagram post after sharing it with friends.",
+                "example_hebrew": "קיבלתי 10 קליקים על הפוסט שלי באינסטגרם לאחר ששיתפתי אותו עם חברים."
+            },
+            {
+                "definition": "The act of choosing or selecting something from a set of options",
+                "definition_hebrew": "הפעולה של בחירה או בחירה של משהו מתוך סט של אפשרויות",
+                "example": "She clicked the 'yes' option when asked if she wanted to purchase the product.",
+                "example_hebrew": "היא לחצה על האפשרות 'כן' כשנשאלה אם היא רוצה לרכוש את המוצר."
+            },
+            {
+                "definition": "An online advertisement that appears in response to specific user behaviors, often seen as banners on websites or social media",
+                "definition_hebrew": "פרסומת מקוונת המופיעה בתגובה להתנהגויות ספציפיות של משתמשים, הנתפסת לרוב כבאנרים באתרי אינטרנט או במדיה חברתית",
+                "example": "I saw a new clicks ad for running shoes while browsing an e-commerce site.",
+                "example_hebrew": "ראיתי מודעת קליקים חדשה לנעלי ריצה בזמן גלישה באתר מסחר אלקטרוני."
+            }
+        ]
+    }
+]

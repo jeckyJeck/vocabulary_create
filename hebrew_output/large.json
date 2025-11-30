@@ -1,0 +1,34 @@
+[
+    {
+        "word": "large",
+        "word_hebrew": "גָדוֹל",
+        "main_definition": "Large describes something that is of considerable size, extent or quantity.",
+        "main_definition_hebrew": "גדול מתאר משהו שהוא בגודל, היקף או כמות ניכרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Of great physical size",
+                "definition_hebrew": "בגודל פיזי גדול",
+                "example": "The large elephant was a majestic sight.",
+                "example_hebrew": "הפיל הגדול היה מראה מלכותי."
+            },
+            {
+                "definition": "Extensive in area",
+                "definition_hebrew": "נרחב בשטח",
+                "example": "She owned a large piece of farmland on the outskirts of town.",
+                "example_hebrew": "בבעלותה חלק גדול של אדמה חקלאית בפאתי העיר."
+            },
+            {
+                "definition": "Of great quantity or number",
+                "definition_hebrew": "בכמות גדולה או במספר רב",
+                "example": "The warehouse stored thousands of large crates waiting to be shipped.",
+                "example_hebrew": "במחסן אוחסנו אלפי ארגזים גדולים שהמתינו למשלוח."
+            },
+            {
+                "definition": "Highly developed or advanced in some way",
+                "definition_hebrew": "מפותח מאוד או מתקדם בדרך כלשהי",
+                "example": "This city is a large metropolis with many modern amenities and skyscrapers.",
+                "example_hebrew": "עיר זו היא מטרופולין גדול עם הרבה שירותים מודרניים וגורדי שחקים."
+            }
+        ]
+    }
+]

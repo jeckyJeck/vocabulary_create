@@ -1,0 +1,28 @@
+[
+    {
+        "word": "polls",
+        "word_hebrew": "סקרים",
+        "main_definition": "Polls refer to the process of collecting opinions or votes from a group of people to gauge public opinion, or it can also mean an estimate of what might happen in some situation based on current information.",
+        "main_definition_hebrew": "סקרים מתייחסים לתהליך של איסוף דעות או הצבעות מקבוצה של אנשים כדי לאמוד את דעת הקהל, או שזה יכול להיות גם הערכה של מה שעלול לקרות במצב מסוים על סמך מידע עדכני.",
+        "meanings_and_examples": [
+            {
+                "definition": "Measurement of public opinion",
+                "definition_hebrew": "מדידת דעת הקהל",
+                "example": "The latest polls show that the majority of voters support candidate A over candidate B.",
+                "example_hebrew": "הסקרים האחרונים מראים שרוב המצביעים תומכים במועמד א' על פני מועמד ב'."
+            },
+            {
+                "definition": "A count or estimate of people's preferences in an election",
+                "definition_hebrew": "ספירה או אומדן של העדפות האנשים בבחירות",
+                "example": "Before the presidential election, many newspapers and news websites released their final poll results showing who was leading among likely voters.",
+                "example_hebrew": "לפני הבחירות לנשיאות, עיתונים ואתרי חדשות רבים פרסמו את תוצאות הסקר הסופי שלהם המראות מי מוביל בין הבוחרים הסבירים."
+            },
+            {
+                "definition": "An estimation of possible outcomes or trends based on current information",
+                "definition_hebrew": "הערכה של תוצאות או מגמות אפשריות על סמך מידע עדכני",
+                "example": "The latest polls predict that there will be a significant increase in the demand for electric cars over traditional gasoline vehicles within the next decade.",
+                "example_hebrew": "הסקרים האחרונים צופים כי תהיה עלייה משמעותית בביקוש למכוניות חשמליות על פני רכבי בנזין מסורתיים בעשור הקרוב."
+            }
+        ]
+    }
+]

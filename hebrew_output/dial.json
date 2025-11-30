@@ -1,0 +1,40 @@
+[
+    {
+        "word": "dial",
+        "word_hebrew": "חוּגָה",
+        "main_definition": "To operate or control a mechanism, typically by turning a knob or wheel.",
+        "main_definition_hebrew": "להפעיל או לשלוט במנגנון, בדרך כלל על ידי סיבוב ידית או גלגל.",
+        "meanings_and_examples": [
+            {
+                "definition": "Adjust the dial on an instrument to set a specific value or measure something precisely.",
+                "definition_hebrew": "כוונן את החוגה במכשיר כדי להגדיר ערך מסוים או למדוד משהו במדויק.",
+                "example": "She carefully adjusted the dials on her sewing machine to ensure even stitches.",
+                "example_hebrew": "היא התאימה בזהירות את החוגות במכונת התפירה שלה כדי להבטיח תפרים אחידים."
+            },
+            {
+                "definition": "The action of turning a knob or wheel, especially when controlling a device like an alarm clock or telephone.",
+                "definition_hebrew": "פעולת סיבוב כפתור או גלגל, במיוחד בעת שליטה במכשיר כמו שעון מעורר או טלפון.",
+                "example": "He dialed his friend's number and waited for him to pick up the phone.",
+                "example_hebrew": "הוא חייג את המספר של חברו וחיכה שהוא ירים את הטלפון."
+            },
+            {
+                "definition": "In computing, referring to setting a value in a variable by moving its position on a circular scale using a pointer. This is analogous to rotating the dial of an instrument.",
+                "definition_hebrew": "במחשוב, התייחסות לקביעת ערך במשתנה על ידי הזזת מיקומו בסולם מעגלי באמצעות מצביע. זה מקביל לסיבוב החוגה של מכשיר.",
+                "example": "When writing code, you may need to increment or decrement a counter by one; this process can be visualized as 'dialing' it up or down.",
+                "example_hebrew": "בעת כתיבת קוד, ייתכן שיהיה עליך להגדיל או להקטין מונה באחד; תהליך זה יכול להיות חזותי כ\"חיוג\" אותו למעלה או למטה."
+            },
+            {
+                "definition": "To refer to finding and contacting someone via telephone through using their number.",
+                "definition_hebrew": "להתייחס לאיתור ויצירת קשר עם מישהו באמצעות הטלפון באמצעות שימוש במספר שלו.",
+                "example": "After searching for her friend's phone number, she dialed the digits on her smartphone.",
+                "example_hebrew": "לאחר שחיפשה את מספר הטלפון של חברתה, היא חייגה את הספרות בסמארטפון שלה."
+            },
+            {
+                "definition": "The circular plate or wheel attached to a device that can be turned by hand as part of its operation.",
+                "definition_hebrew": "הלוח העגול או הגלגל המחוברים למכשיר שניתן לסובב ביד כחלק מהפעלתו.",
+                "example": "He twisted the dial on his old-fashioned radio to change the station.",
+                "example_hebrew": "הוא סובב את החוגה ברדיו המיושן שלו כדי להחליף תחנה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "average",
+        "word_hebrew": "מְמוּצָע",
+        "main_definition": "Average refers to the typical value or central tendency within a set of values, often calculated as the sum of all values divided by the number of values.",
+        "main_definition_hebrew": "ממוצע מתייחס לערך הטיפוסי או לנטייה המרכזית בתוך קבוצת ערכים, לעתים קרובות מחושב כסכום כל הערכים חלקי מספר הערכים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The standard measure of the middle ground between extremes in a range of data points.",
+                "definition_hebrew": "המדד הסטנדרטי של האמצע בין קצוות בטווח של נקודות נתונים.",
+                "example": "When comparing test scores, if some students scored 90 and others scored 10, the average would give us an idea of what most students achieved.",
+                "example_hebrew": "כאשר משווים את ציוני המבחנים, אם חלק מהתלמידים קיבלו ציון 90 ואחרים קיבלו ציון 10, הממוצע ייתן לנו מושג מה השיגו רוב התלמידים."
+            },
+            {
+                "definition": "The arithmetic mean of a set of numbers.",
+                "definition_hebrew": "הממוצע האריתמטי של קבוצת מספרים.",
+                "example": "To find the average monthly income for a family, you add up all their incomes and divide by the number of members.",
+                "example_hebrew": "כדי למצוא את ההכנסה החודשית הממוצעת למשפחה, אתה מחבר את כל ההכנסות שלה ומחלק במספר החברים."
+            },
+            {
+                "definition": "A measure representing the typical performance or quality level within a group or category.",
+                "definition_hebrew": "מדד המייצג את הביצועים או רמת האיכות האופיינית בתוך קבוצה או קטגוריה.",
+                "example": "The restaurant received an average rating of 4 stars on several review websites.",
+                "example_hebrew": "המסעדה קיבלה דירוג ממוצע של 4 כוכבים במספר אתרי ביקורת."
+            },
+            {
+                "definition": "In sports, it refers to the usual time taken by athletes in completing a certain event.",
+                "definition_hebrew": "בספורט, זה מתייחס לזמן הרגיל שלוקח ספורטאים בהשלמת אירוע מסוים.",
+                "example": "Average running times for marathons can vary based on age and gender.",
+                "example_hebrew": "זמני הריצה הממוצעים למרתונים יכולים להשתנות בהתאם לגיל ומין."
+            },
+            {
+                "definition": "When referring to salaries, it denotes the middle value of pay rates within a group or sector.",
+                "definition_hebrew": "כאשר מתייחסים למשכורות, זה מציין את הערך האמצעי של שיעורי השכר בתוך קבוצה או מגזר.",
+                "example": "The average salary in this industry has increased by 5% over the past year.",
+                "example_hebrew": "השכר הממוצע בענף זה עלה ב-5% בשנה האחרונה."
+            }
+        ]
+    }
+]

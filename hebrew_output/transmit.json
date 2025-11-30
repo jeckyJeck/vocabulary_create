@@ -1,0 +1,40 @@
+[
+    {
+        "word": "transmit",
+        "word_hebrew": "לְהַעֲבִיר",
+        "main_definition": "To send or convey information, signals, or messages from one place to another.",
+        "main_definition_hebrew": "לשלוח או להעביר מידע, אותות או הודעות ממקום אחד לאחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To pass on or hand down (information, genes, etc.)",
+                "definition_hebrew": "להעביר או למסור (מידע, גנים וכו')",
+                "example": "The virus can transmit through the air when someone coughs.",
+                "example_hebrew": "הנגיף יכול לעבור באוויר כאשר מישהו משתעל."
+            },
+            {
+                "definition": "To broadcast or send signals over a distance using radio waves or other means",
+                "definition_hebrew": "לשדר או לשלוח אותות למרחק באמצעות גלי רדיו או אמצעים אחרים",
+                "example": "The radio station transmits music and news to listeners across the city.",
+                "example_hebrew": "תחנת הרדיו משדרת מוזיקה וחדשות למאזינים ברחבי העיר."
+            },
+            {
+                "definition": "To give or impart (a message, instruction, etc.)",
+                "definition_hebrew": "לתת או להעביר (מסר, הוראה וכו')",
+                "example": "The teacher will transmit important lessons to her students during class.",
+                "example_hebrew": "המורה תעביר שיעורים חשובים לתלמידיה במהלך השיעור."
+            },
+            {
+                "definition": "To transfer an infectious disease from one person or organism to another",
+                "definition_hebrew": "להעביר מחלה זיהומית מאדם או אורגניזם אחד לאחר",
+                "example": "Healthcare workers must take precautions to prevent the transmission of infections.",
+                "example_hebrew": "עובדי שירותי הבריאות חייבים לנקוט באמצעי זהירות כדי למנוע העברת זיהומים."
+            },
+            {
+                "definition": "To make something available for use by others, like a file on a network",
+                "definition_hebrew": "כדי להפוך משהו זמין לשימוש על ידי אחרים, כמו קובץ ברשת",
+                "example": "The IT department will transmit the latest software update to all computers in the office.",
+                "example_hebrew": "מחלקת ה-IT תעביר את עדכון התוכנה האחרון לכל מחשבי המשרד."
+            }
+        ]
+    }
+]

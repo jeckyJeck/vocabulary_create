@@ -1,0 +1,34 @@
+[
+    {
+        "word": "hours",
+        "word_hebrew": "שעה (ות",
+        "main_definition": "Hours refers to the units of time, specifically representing a period equivalent to 60 minutes.",
+        "main_definition_hebrew": "שעות מתייחסות ליחידות הזמן, המייצגות באופן ספציפי פרק זמן שווה ערך ל-60 דקות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A measure of time equaling sixty minutes",
+                "definition_hebrew": "מדד זמן השווה לשישים דקות",
+                "example": "The meeting lasted for three hours.",
+                "example_hebrew": "הפגישה נמשכה שלוש שעות."
+            },
+            {
+                "definition": "Work duration in a workday or shift",
+                "definition_hebrew": "משך העבודה ביום עבודה או במשמרת",
+                "example": "He works two shifts, eight-hour days and four-hour nights.",
+                "example_hebrew": "הוא עובד בשתי משמרות, שמונה שעות ימים וארבע שעות לילות."
+            },
+            {
+                "definition": "A period of time used to calculate interest on financial loans",
+                "definition_hebrew": "פרק זמן המשמש לחישוב ריבית על הלוואות פיננסיות",
+                "example": "The loan accrued $10 in interest over a 24 hour period at an annual rate of 5%.",
+                "example_hebrew": "ההלוואה צברה ריבית של 10 דולר על פני תקופה של 24 שעות בשיעור שנתי של 5%."
+            },
+            {
+                "definition": "An idiomatic expression referring to the amount of effort or time spent doing something",
+                "definition_hebrew": "ביטוי אידיומטי המתייחס לכמות המאמץ או הזמן המושקע במשהו",
+                "example": "She's put in hours working on this project.",
+                "example_hebrew": "היא השקיעה שעות בעבודה על הפרויקט הזה."
+            }
+        ]
+    }
+]

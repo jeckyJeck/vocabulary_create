@@ -1,0 +1,34 @@
+[
+    {
+        "word": "fruits",
+        "word_hebrew": "פירות",
+        "main_definition": "Fruits can refer to the literal edible products of plants, as well as an idiomatic expression used in English language.",
+        "main_definition_hebrew": "פירות יכולים להתייחס למוצרים אכילים מילוליים של צמחים, כמו גם לביטוי אידיומטי המשמש בשפה האנגלית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Literal meaning: The sweet and fleshy product of a tree or other plant that contains seeds and can be eaten by humans.",
+                "definition_hebrew": "משמעות מילולית: תוצר מתוק ובשרני של עץ או צמח אחר המכיל זרעים וניתן לאכילה על ידי בני אדם.",
+                "example": "Apple, banana, and strawberry are all examples of fruits.",
+                "example_hebrew": "תפוח, בננה ותות הם כולם דוגמאות לפירות."
+            },
+            {
+                "definition": "Idiomatic expression: Used to describe the outcome of an endeavor or situation which has borne fruit in terms of success or progress.",
+                "definition_hebrew": "ביטוי אידיומטי: משמש לתיאור התוצאה של מאמץ או מצב אשר נשאו פרי במונחים של הצלחה או התקדמות.",
+                "example": "After years of hard work and dedication, her business efforts have finally begun to bear fruits.",
+                "example_hebrew": "לאחר שנים של עבודה קשה ומסירות, המאמצים העסקיים שלה סוף סוף החלו להניב פירות."
+            },
+            {
+                "definition": "Used figuratively to refer to the results obtained from a particular action or set of actions. This can be in various contexts such as personal growth, research findings, etc.",
+                "definition_hebrew": "משמש באופן פיגורטיבי להתייחס לתוצאות המתקבלות מפעולה מסוימת או מערך פעולות מסוים. זה יכול להיות בהקשרים שונים כמו צמיחה אישית, ממצאי מחקר וכו'.",
+                "example": "The rigorous training she undertook for months finally bore fruits when she won the marathon.",
+                "example_hebrew": "האימונים הקפדניים שעשתה במשך חודשים נשאו סוף סוף פירות כשניצחה במרתון."
+            },
+            {
+                "definition": "In some regions or dialects, it is also used to refer to a person's achievements or rewards that are considered as fruitful results of their efforts.",
+                "definition_hebrew": "באזורים או בניבים מסוימים, הוא משמש גם להתייחסות להישגים או לתגמולים של אדם הנחשבים כתוצאות פוריות של מאמציו.",
+                "example": "His dedication and hard work in his field have borne fruits; he was awarded the Nobel Prize.",
+                "example_hebrew": "מסירותו ועבודתו הקשה בתחומו נשאו פירות; הוא זכה בפרס נובל."
+            }
+        ]
+    }
+]

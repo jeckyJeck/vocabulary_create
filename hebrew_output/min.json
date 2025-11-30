@@ -1,0 +1,40 @@
+[
+    {
+        "word": "min",
+        "word_hebrew": "דקה",
+        "main_definition": "A unit of measurement representing the shortest or least quantity in a given context, often used to describe size, amount, or duration.",
+        "main_definition_hebrew": "יחידת מדידה המייצגת את הכמות הקצרה ביותר או הקטנה ביותר בהקשר נתון, משמשת לעתים קרובות לתיאור גודל, כמות או משך זמן.",
+        "meanings_and_examples": [
+            {
+                "definition": "The smallest possible unit of time, commonly considered as one minute or 60 seconds",
+                "definition_hebrew": "יחידת הזמן הקטנה ביותר האפשרית, בדרך כלל נחשבת לדקה אחת או 60 שניות",
+                "example": "I usually take five minutes to walk from my house to the bus stop.",
+                "example_hebrew": "בדרך כלל לוקח לי חמש דקות ללכת מהבית שלי לתחנת האוטובוס."
+            },
+            {
+                "definition": "A term used in economics and business to describe a small quantity produced or sold",
+                "definition_hebrew": "מונח המשמש בכלכלה ובעסקים כדי לתאר כמות קטנה המיוצרת או נמכרת",
+                "example": "The company decided to increase their min production of smartphones due to high demand.",
+                "example_hebrew": "החברה החליטה להגדיל את הייצור המינימלי שלה של סמארטפונים עקב ביקוש גבוה."
+            },
+            {
+                "definition": "In gaming, referring to the least favorable outcome when rolling dice",
+                "definition_hebrew": "במשחקים, הכוונה לתוצאה הפחות טובה בעת הטלת קוביות",
+                "example": "Rolling a one with two six-sided dice is considered a min roll in this board game.",
+                "example_hebrew": "הטלת אחת עם שתי קוביות שש צדדיות נחשבת להטלה מינימלית במשחק לוח זה."
+            },
+            {
+                "definition": "A colloquial term meaning 'very little' or used as an adjective to describe something of small quantity or degree",
+                "definition_hebrew": "מונח דיבור שפירושו \"מעט מאוד\" או משמש כשם תואר לתיאור משהו בכמות או מידה קטנה",
+                "example": "He only had a min amount of sugar left for his coffee, so he couldn't sweeten it.",
+                "example_hebrew": "נשארה לו רק כמות מינימלית של סוכר לקפה שלו, אז הוא לא יכול היה להמתיק אותו."
+            },
+            {
+                "definition": "An abbreviation for the word 'minute', representing one six-thousandth of an hour",
+                "definition_hebrew": "קיצור של המילה 'דקה', המייצגת שש אלפיית השעה",
+                "example": "The train arrival time is 15:30, or in minutes, that's a min wait until it arrives.",
+                "example_hebrew": "זמן ההגעה לרכבת הוא 15:30, או בדקות, זאת המתנה דקה עד שהיא תגיע."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "trucks",
+        "word_hebrew": "משאיות",
+        "main_definition": "Trucks refer to various meanings, including a vehicle type (large motorized vehicles designed to transport cargo), an action of moving objects quickly and efficiently, or a colloquial term for heavy workloads. Additionally, 'truck' can be used metaphorically in idiomatic expressions.",
+        "main_definition_hebrew": "משאיות מתייחסות למשמעויות שונות, לרבות סוג רכב (כלי רכב ממונעים גדולים המיועדים להובלת מטען), פעולה של הזזת חפצים במהירות וביעילות, או כינוי עממי לעומס עבודה כבד. בנוסף, ניתן להשתמש ב'משאית' באופן מטפורי בביטויים אידיומטיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A large motorized vehicle designed to transport cargo",
+                "definition_hebrew": "רכב ממונע גדול המיועד להובלת מטענים",
+                "example": "The truck was loaded with crates of fruits destined for the local market.",
+                "example_hebrew": "המשאית הייתה עמוסה בארגזים של פירות המיועדים לשוק המקומי."
+            },
+            {
+                "definition": "To move objects quickly and efficiently",
+                "definition_hebrew": "להזיז חפצים במהירות וביעילות",
+                "example": "After the renovation, we had to 'truck' in new furniture into every room.",
+                "example_hebrew": "לאחר השיפוץ, נאלצנו להכניס רהיטים חדשים לכל חדר."
+            },
+            {
+                "definition": "A heavy workload or burden",
+                "definition_hebrew": "עומס עבודה או עומס כבד",
+                "example": "I have a truck of assignments due next week.",
+                "example_hebrew": "יש לי משאית של משימות שאמורה להיות בשבוע הבא."
+            },
+            {
+                "definition": "Used metaphorically to describe an overwhelming amount, as in 'to carry a truck'",
+                "definition_hebrew": "משמש באופן מטפורי כדי לתאר כמות עצומה, כמו ב'לסחוב משאית'",
+                "example": "She was carrying the truck of responsibilities that comes with being a single parent.",
+                "example_hebrew": "היא נשאה את משאית האחריות שמגיעה עם היותה הורה יחיד."
+            }
+        ]
+    }
+]

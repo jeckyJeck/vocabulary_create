@@ -1,0 +1,38 @@
+{
+    "word": "conversion",
+    "word_hebrew": "הֲמָרָה",
+    "main_definition": "The act of changing or being changed from one form, purpose, or belief to another.",
+    "main_definition_hebrew": "הפעולה של שינוי או שינוי מצורה, מטרה או אמונה אחת לאחרת.",
+    "meanings_and_examples": [
+        {
+            "definition": "In mathematics, the process of transforming an equation into a different form without altering its value.",
+            "definition_hebrew": "במתמטיקה, תהליך הפיכת משוואה לצורה אחרת מבלי לשנות את ערכה.",
+            "example": "Converting fractions to decimals (1/2 = 0.5).",
+            "example_hebrew": "המרת שברים לעשרונים (1/2 = 0.5)."
+        },
+        {
+            "definition": "The action or result of changing from one religion or belief system to another.",
+            "definition_hebrew": "הפעולה או התוצאה של שינוי מדת או מערכת אמונה אחת לאחרת.",
+            "example": "After attending numerous religious discussions, John converted to Buddhism.",
+            "example_hebrew": "לאחר שהשתתף בדיונים דתיים רבים, ג'ון המיר את דתו לבודהיזם."
+        },
+        {
+            "definition": "In the context of data and files, converting is the process of changing file formats so that they can be used by different software applications.",
+            "definition_hebrew": "בהקשר של נתונים וקבצים, המרה היא תהליך של שינוי פורמטים של קבצים כך שניתן יהיה להשתמש בהם על ידי יישומי תוכנה שונים.",
+            "example": "Converting a JPEG image to PNG for better web compatibility.",
+            "example_hebrew": "המרת תמונת JPEG ל-PNG לתאימות אינטרנט טובה יותר."
+        },
+        {
+            "definition": "The act of persuading someone to adopt a new idea or belief.",
+            "definition_hebrew": "הפעולה של שכנוע מישהו לאמץ רעיון או אמונה חדשים.",
+            "example": "The charity worked tirelessly to convince the community members to support their cause through conversion efforts.",
+            "example_hebrew": "הצדקה פעלה ללא לאות כדי לשכנע את חברי הקהילה לתמוך במטרתם באמצעות מאמצי המרה."
+        },
+        {
+            "definition": "In finance, converting is changing one currency into another.",
+            "definition_hebrew": "בפיננסים, המרה היא שינוי מטבע אחד לאחר.",
+            "example": "While traveling in Europe, Sarah converted US dollars to euros at a local bank.",
+            "example_hebrew": "בזמן טיול באירופה, שרה המירה דולר אמריקאי ליורו בבנק מקומי."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "threaded",
+        "word_hebrew": "מוּשׁחָל",
+        "main_definition": "When referring to a computer or network, it means using protocols or methods to manage the flow of data between systems; when talking about objects in real life like ropes or needles, it refers to how they are arranged or used.",
+        "main_definition_hebrew": "כאשר מתייחסים למחשב או לרשת, זה אומר שימוש בפרוטוקולים או שיטות לניהול זרימת הנתונים בין מערכות; כאשר מדברים על חפצים בחיים האמיתיים כמו חבלים או מחטים, זה מתייחס לאופן שבו הם מסודרים או משתמשים בהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing and networking, involving the use of protocols such as TCP/IP to send data across networks.",
+                "definition_hebrew": "במחשוב וברשתות, כולל שימוש בפרוטוקולים כגון TCP/IP לשליחת נתונים בין רשתות.",
+                "example": "The software was threaded through various servers before it reached its destination.",
+                "example_hebrew": "התוכנה הועברה דרך שרתים שונים לפני שהגיעה ליעדה."
+            },
+            {
+                "definition": "Arranging or organizing items in a sequence for easy accessibility, like sewing with a needle and string.",
+                "definition_hebrew": "סידור או ארגון פריטים ברצף להנגשה קלה, כמו תפירה עם מחט וחוט.",
+                "example": "She meticulously threaded the beads onto the string to create her necklace.",
+                "example_hebrew": "היא השחילה בקפידה את החרוזים על החוט כדי ליצור את השרשרת שלה."
+            },
+            {
+                "definition": "Connecting multiple pieces together using a continuous strand or line, often for strengthening purposes.",
+                "definition_hebrew": "חיבור חלקים מרובים יחד באמצעות גדיל או קו רציף, לעתים קרובות למטרות חיזוק.",
+                "example": "He used wire to thread through the joints of the metal frame, reinforcing it against stress.",
+                "example_hebrew": "הוא השתמש בחוט כדי להשחיל דרך המפרקים של מסגרת המתכת, וחיזק אותה נגד מתח."
+            },
+            {
+                "definition": "To follow closely behind something in sequence without interruption.",
+                "definition_hebrew": "לעקוב מקרוב אחרי משהו ברצף ללא הפרעה.",
+                "example": "The runner kept a steady pace, staying directly threaded beside his competitor throughout the race.",
+                "example_hebrew": "הרץ שמר על קצב קבוע, נשאר מושחל ישירות לצד המתחרה שלו לאורך כל המרוץ."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "carrier",
+        "word_hebrew": "מוֹבִיל",
+        "main_definition": "A carrier is a person or entity that transports, delivers, or supports something from one place to another.",
+        "main_definition_hebrew": "מוביל הוא אדם או ישות שמעבירים, מספקים או תומכים במשהו ממקום אחד לאחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "In telecommunications, a carrier refers to a signal that carries the information being transmitted. It modulates the original data signal into a higher frequency for transmission over long distances.",
+                "definition_hebrew": "בתקשורת, ספק מתייחס לאות הנושא את המידע המועבר. הוא מווסת את אות הנתונים המקורי לתדר גבוה יותר לשידור למרחקים ארוכים.",
+                "example": "The mobile phone uses radio waves as carriers to transmit voice signals.",
+                "example_hebrew": "הטלפון הנייד משתמש בגלי רדיו כנשאים להעברת אותות קוליים."
+            },
+            {
+                "definition": "A person or company that transports goods from one location to another, typically by vehicle.",
+                "definition_hebrew": "אדם או חברה המעבירים סחורות ממקום אחד לאחר, בדרך כלל באמצעות רכב.",
+                "example": "The delivery truck driver is a carrier who delivers packages to homes and businesses across the city.",
+                "example_hebrew": "נהג המשלוחים הוא מוביל המעביר חבילות לבתים ולעסקים ברחבי העיר."
+            },
+            {
+                "definition": "In genetics, a carrier refers to an individual that has inherited a recessive gene for a particular trait or disorder, but does not exhibit any symptoms themselves.",
+                "definition_hebrew": "בגנטיקה, נשא מתייחס לאדם שירש גן רצסיבי עבור תכונה או הפרעה מסוימת, אך אינו מפגין תסמינים בעצמו.",
+                "example": "The mother is a carrier of cystic fibrosis, meaning she can pass the disease onto her children even though she doesn't have it herself.",
+                "example_hebrew": "האם היא נשאית של סיסטיק פיברוזיס, כלומר היא יכולה להעביר את המחלה לילדיה למרות שאין לה זאת בעצמה."
+            },
+            {
+                "definition": "In military contexts, a carrier refers to an aircraft carrier or ship that serves as a platform for launching and recovering military aircraft.",
+                "definition_hebrew": "בהקשרים צבאיים, נושאת מתייחסת לנושאת מטוסים או ספינה המשמשת כפלטפורמה לשיגור וחילוץ מטוסים צבאיים.",
+                "example": "The USS Nimitz is a nuclear-powered supercarrier of the United States Navy.",
+                "example_hebrew": "USS Nimitz הוא נושאת-על המונעת בגרעין של הצי של ארצות הברית."
+            },
+            {
+                "definition": "In transportation, a container carrier is a type of ship that specializes in carrying shipping containers between ports worldwide.",
+                "definition_hebrew": "בהובלה, מוביל מכולות הוא סוג אוניה המתמחה בהובלת מכולות בין נמלים ברחבי העולם.",
+                "example": "Maersk Line operates large container carriers to deliver cargo globally.",
+                "example_hebrew": "Maersk Line מפעילה מובילי מכולות גדולים כדי לספק מטענים ברחבי העולם."
+            }
+        ]
+    }
+]

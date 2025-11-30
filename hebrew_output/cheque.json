@@ -1,0 +1,28 @@
+[
+    {
+        "word": "cheque",
+        "word_hebrew": "חשבון",
+        "main_definition": "A cheque is a written order directing a bank to pay money from an individual's account to another person or organization.",
+        "main_definition_hebrew": "צ'ק הוא צו בכתב המורה לבנק לשלם כסף מחשבון אדם לאדם או לארגון אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Bank draft, a type of negotiable instrument representing payment",
+                "definition_hebrew": "טיוטה בנקאית, סוג של מכשיר סחיר המייצג תשלום",
+                "example": "When I bought the car, I received a cheque as part of my settlement.",
+                "example_hebrew": "כשקניתי את הרכב קיבלתי צ'ק במסגרת ההסדר."
+            },
+            {
+                "definition": "A written order to withdraw money from an account",
+                "definition_hebrew": "הוראה בכתב למשיכת כסף מחשבון",
+                "example": "I wrote a cheque for $100 to pay for groceries.",
+                "example_hebrew": "כתבתי צ'ק בסך 100 דולר כדי לשלם עבור מצרכים."
+            },
+            {
+                "definition": "An outdated form of payment, less common now in favor of electronic transactions",
+                "definition_hebrew": "אמצעי תשלום מיושן, פחות נפוץ כיום לטובת עסקאות אלקטרוניות",
+                "example": "My grandfather used to write cheques instead of using online banking services.",
+                "example_hebrew": "סבי נהג לכתוב צ'קים במקום להשתמש בשירותי בנקאות מקוונים."
+            }
+        ]
+    }
+]

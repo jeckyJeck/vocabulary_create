@@ -1,0 +1,34 @@
+[
+    {
+        "word": "prescription",
+        "word_hebrew": "מִרשָׁם",
+        "main_definition": "A written order from a doctor to a pharmacist for the preparation, dispensing, or supply of a medication.",
+        "main_definition_hebrew": "הזמנה בכתב מרופא לרוקח להכנה, מתן או אספקה של תרופה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Authority or mandate to take action",
+                "definition_hebrew": "סמכות או מנדט לנקוט בפעולה",
+                "example": "The board gave its prescription for immediate implementation of new safety measures.",
+                "example_hebrew": "המועצה נתנה את המרשם ליישום מיידי של אמצעי בטיחות חדשים."
+            },
+            {
+                "definition": "A plan, regimen, or method designed for achieving a particular end",
+                "definition_hebrew": "תוכנית, משטר או שיטה המיועדים להשגת מטרה מסוימת",
+                "example": "After consulting with the dietician, he received a meal plan as a prescription to help him lose weight.",
+                "example_hebrew": "לאחר התייעצות עם הדיאטנית, הוא קיבל כמרשם תוכנית ארוחות שתעזור לו לרדת במשקל."
+            },
+            {
+                "definition": "The act of dictating or imposing something rigidly",
+                "definition_hebrew": "הפעולה של הכתבה או הטלת משהו בצורה נוקשה",
+                "example": "She felt her boss was being too forceful in his prescriptions for how she should manage the project.",
+                "example_hebrew": "היא הרגישה שהבוס שלה תקיף מדי במרשמים שלו כיצד עליה לנהל את הפרויקט."
+            },
+            {
+                "definition": "A requirement, rule, or standard that must be followed",
+                "definition_hebrew": "דרישה, כלל או תקן שיש לפעול לפיהם",
+                "example": "The new policy includes a prescription for all employees to attend annual training sessions.",
+                "example_hebrew": "המדיניות החדשה כוללת מרשם לכל העובדים להשתתף בהדרכות שנתיות."
+            }
+        ]
+    }
+]

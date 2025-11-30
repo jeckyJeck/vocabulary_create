@@ -1,0 +1,22 @@
+[
+    {
+        "word": "fact",
+        "word_hebrew": "עוּבדָה",
+        "main_definition": "A fact is a statement that can be proven to be true or false, often based on evidence.",
+        "main_definition_hebrew": "עובדה היא אמירה שניתן להוכיח שהיא נכונה או שקרית, לרוב בהתבסס על ראיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "An objective and verifiable truth or reality. For example: 'The Earth orbits around the Sun.'",
+                "definition_hebrew": "אמת או מציאות אובייקטיבית וניתנת לאימות. לדוגמה: 'כדור הארץ סובב סביב השמש'.",
+                "example": "'It is a fact that smoking can cause health problems.'",
+                "example_hebrew": "\"עובדה שעישון עלול לגרום לבעיות בריאותיות\"."
+            },
+            {
+                "definition": "A piece of information, especially one with evidence supporting its accuracy.",
+                "definition_hebrew": "פיסת מידע, במיוחד כזו עם ראיות התומכות בדיוק שלה.",
+                "example": "'According to recent studies, eating vegetables improves overall health.'",
+                "example_hebrew": "\"לפי מחקרים אחרונים, אכילת ירקות משפרת את הבריאות הכללית\"."
+            }
+        ]
+    }
+]

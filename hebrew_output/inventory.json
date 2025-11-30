@@ -1,0 +1,34 @@
+[
+    {
+        "word": "inventory",
+        "word_hebrew": "מְלַאי",
+        "main_definition": "Inventory refers to a comprehensive list or record of items, goods, or assets owned by an individual, business, or organization.",
+        "main_definition_hebrew": "מלאי מתייחס לרשימה או רישום מקיף של פריטים, סחורות או נכסים בבעלות אדם, עסק או ארגון.",
+        "meanings_and_examples": [
+            {
+                "definition": "A detailed list of goods and materials held in stock by a store, warehouse, or business",
+                "definition_hebrew": "רשימה מפורטת של סחורות וחומרים המוחזקים במלאי על ידי חנות, מחסן או עסק",
+                "example": "The company updated its inventory after the new shipment arrived.",
+                "example_hebrew": "החברה עדכנה את המלאי שלה לאחר הגעת המשלוח החדש."
+            },
+            {
+                "definition": "The total number or amount of items available at any given time",
+                "definition_hebrew": "המספר הכולל או כמות הפריטים הזמינים בכל זמן נתון",
+                "example": "Due to high demand, we need to keep a close eye on our inventory levels.",
+                "example_hebrew": "בשל הביקוש הרב, עלינו לעקוב מקרוב אחר רמות המלאי שלנו."
+            },
+            {
+                "definition": "An accounting term referring to the value of assets that are ready for sale or use in production",
+                "definition_hebrew": "מונח חשבונאי המתייחס לשווי הנכסים המוכנים למכירה או לשימוש בייצור",
+                "example": "The business's gross inventory is valued at $50,000 according to its financial statements.",
+                "example_hebrew": "המלאי ברוטו של העסק מוערך ב-50,000 דולר לפי הדוחות הכספיים שלו."
+            },
+            {
+                "definition": "A list of items stored or available for sale within a particular context, such as an event or organization",
+                "definition_hebrew": "רשימה של פריטים המאוחסנים או זמינים למכירה בהקשר מסוים, כגון אירוע או ארגון",
+                "example": "The party inventory included snacks, beverages, and decorations.",
+                "example_hebrew": "מלאי המסיבה כלל חטיפים, משקאות וקישוטים."
+            }
+        ]
+    }
+]

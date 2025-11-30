@@ -1,0 +1,40 @@
+[
+    {
+        "word": "poverty",
+        "word_hebrew": "עוני",
+        "main_definition": "The state of having little or no money, food, or resources.",
+        "main_definition_hebrew": "המצב שיש לו מעט כסף, מזון או משאבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Lacking basic necessities for survival",
+                "definition_hebrew": "חסר צרכים בסיסיים להישרדות",
+                "example": "Many families in the region are living in poverty and struggle to feed their children.",
+                "example_hebrew": "משפחות רבות באזור חיות בעוני ונאבקות להאכיל את ילדיהן."
+            },
+            {
+                "definition": "A social condition characterized by extreme scarcity of resources",
+                "definition_hebrew": "מצב חברתי המאופיין במחסור קיצוני במשאבים",
+                "example": "The government has implemented policies to alleviate poverty among its citizens, but progress is slow due to economic challenges.",
+                "example_hebrew": "הממשלה יישמה מדיניות להקלת העוני בקרב אזרחיה, אך ההתקדמות איטית בשל אתגרים כלכליים."
+            },
+            {
+                "definition": "An idiomatic expression used to describe an unfortunate situation or predicament",
+                "definition_hebrew": "ביטוי אידיומטי המשמש לתיאור מצב או מצב מצער",
+                "example": "After losing his job and not having any savings, he was in deep poverty and had to rely on charity for basic needs.",
+                "example_hebrew": "לאחר שאיבד את עבודתו ולא היה לו חסכונות, הוא היה בעוני עמוק ונאלץ להסתמך על צדקה לצרכים בסיסיים."
+            },
+            {
+                "definition": "The state of being without means of subsistence or support",
+                "definition_hebrew": "מצב הוויה ללא אמצעי קיום או תמיכה",
+                "example": "Poverty is a major issue affecting many children around the world who lack access to education and proper healthcare.",
+                "example_hebrew": "עוני הוא נושא מרכזי המשפיע על ילדים רבים ברחבי העולם חסרי גישה לחינוך ולשירותי בריאות נאותים."
+            },
+            {
+                "definition": "A measure of deprivation in terms of material possessions and income level",
+                "definition_hebrew": "מדד לקיפוח מבחינת רכוש חומרי ורמת הכנסה",
+                "example": "The United Nations uses various indicators, including poverty rates, to assess a country's socioeconomic status.",
+                "example_hebrew": "האו\"ם משתמש במדדים שונים, כולל שיעורי עוני, כדי להעריך את מצבה הסוציו-אקונומי של מדינה."
+            }
+        ]
+    }
+]

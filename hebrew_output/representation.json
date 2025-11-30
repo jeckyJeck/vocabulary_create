@@ -1,0 +1,46 @@
+[
+    {
+        "word": "representation",
+        "word_hebrew": "יִצוּג",
+        "main_definition": "Representation refers to the act of depicting or symbolizing something, representing a group's interests, or serving as an individual's voice or advocate in various contexts.",
+        "main_definition_hebrew": "ייצוג מתייחס לפעולה של תיאור או סימול של משהו, ייצוג אינטרסים של קבוצה, או לשמש כקול או סנגור של אדם בהקשרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A depiction or portrayal of someone or something",
+                "definition_hebrew": "תיאור או הצגה של מישהו או משהו",
+                "example": "The artist's representation of the city was breathtakingly realistic.",
+                "example_hebrew": "ייצוג העיר של האמן היה מציאותי עוצר נשימה."
+            },
+            {
+                "definition": "Acting on behalf of a group to express their views, needs, and interests",
+                "definition_hebrew": "פעולה בשם קבוצה כדי להביע את דעותיה, הצרכים והאינטרסים שלה",
+                "example": "The senator attended the meeting as the representation of her constituents.",
+                "example_hebrew": "הסנאטורית השתתפה בפגישה כייצוג של בוחריה."
+            },
+            {
+                "definition": "A person or body authorized to speak or act for another individual or organization",
+                "definition_hebrew": "אדם או גוף המורשים לדבר או לפעול עבור אדם או ארגון אחר",
+                "example": "He appointed a lawyer to represent him in court.",
+                "example_hebrew": "הוא מינה עורך דין שייצג אותו בבית המשפט."
+            },
+            {
+                "definition": "An image, model, or formula used to describe or explain something",
+                "definition_hebrew": "תמונה, דגם או נוסחה המשמשים לתיאור או הסבר של משהו",
+                "example": "The math equation provided an accurate representation of the data trends.",
+                "example_hebrew": "המשוואה המתמטית סיפקה ייצוג מדויק של מגמות הנתונים."
+            },
+            {
+                "definition": "The process or right by which someone is chosen or appointed to speak for others",
+                "definition_hebrew": "התהליך או הזכות שבאמצעותם מישהו נבחר או ממונה לדבר בשם אחרים",
+                "example": "She was elected as the student council's representation for her grade level.",
+                "example_hebrew": "היא נבחרה כנציגת מועצת התלמידים לרמת הכיתה שלה."
+            },
+            {
+                "definition": "An abstract concept used in various fields, including mathematics and computer science, to symbolize an idea or data structure.",
+                "definition_hebrew": "מושג מופשט המשמש בתחומים שונים, כולל מתמטיקה ומדעי המחשב, כדי לסמל רעיון או מבנה נתונים.",
+                "example": "In this programming language, a 'representation' class defines how objects are displayed on the screen.",
+                "example_hebrew": "בשפת תכנות זו, מחלקה 'ייצוג' מגדירה כיצד אובייקטים מוצגים על המסך."
+            }
+        ]
+    }
+]

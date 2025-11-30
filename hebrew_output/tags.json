@@ -1,0 +1,40 @@
+[
+    {
+        "word": "tags",
+        "word_hebrew": "תגים",
+        "main_definition": "Tags are labels or keywords assigned to objects, content, or items to categorize them or enable easy searchability.",
+        "main_definition_hebrew": "תגיות הן תוויות או מילות מפתח המוקצות לאובייקטים, תוכן או פריטים כדי לסווג אותם או לאפשר חיפוש קל.",
+        "meanings_and_examples": [
+            {
+                "definition": "Social media tagging",
+                "definition_hebrew": "תיוג מדיה חברתית",
+                "example": "You can 'tag' your friends in a photo on Instagram by adding their names as hashtags.",
+                "example_hebrew": "אתה יכול 'תייג' את החברים שלך בתמונה באינסטגרם על ידי הוספת שמותיהם כהאשטאגים."
+            },
+            {
+                "definition": "Online product labeling",
+                "definition_hebrew": "תיוג מוצרים מקוון",
+                "example": "When you shop online, products are often labeled with tags like size and color to help you find what you need more easily.",
+                "example_hebrew": "כאשר אתה קונה באינטרנט, מוצרים מסומנים לעתים קרובות עם תגים כמו גודל וצבע כדי לעזור לך למצוא את מה שאתה צריך ביתר קלות."
+            },
+            {
+                "definition": "Tagging in libraries or archives",
+                "definition_hebrew": "תיוג בספריות או בארכיונים",
+                "example": "In a library's catalog system, books can be tagged with subject headings for easy retrieval by patrons.",
+                "example_hebrew": "במערכת הקטלוגים של הספרייה, ניתן לתייג ספרים עם כותרות נושא לשליפה קלה על ידי לקוחות."
+            },
+            {
+                "definition": "Game and gaming mechanics",
+                "definition_hebrew": "מכניקת משחק ומשחקים",
+                "example": "'Tags' in the context of board games might refer to specific pieces that carry special rules or abilities within the game.",
+                "example_hebrew": "'תגים' בהקשר של משחקי לוח עשוי להתייחס לחפצים ספציפיים הנושאים חוקים או יכולות מיוחדות בתוך המשחק."
+            },
+            {
+                "definition": "Computer programming",
+                "definition_hebrew": "תכנות מחשבים",
+                "example": "In coding, 'tags' can be used for data annotation or as identifiers for elements on a webpage (like HTML tags).",
+                "example_hebrew": "בקידוד, 'תגים' יכולים לשמש לביאור נתונים או כמזהים עבור אלמנטים בדף אינטרנט (כמו תגי HTML)."
+            }
+        ]
+    }
+]

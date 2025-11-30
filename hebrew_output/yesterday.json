@@ -1,0 +1,34 @@
+[
+    {
+        "word": "yesterday",
+        "word_hebrew": "אתמול",
+        "main_definition": "Yesterday refers to the day before today, a specific point in time in the past.",
+        "main_definition_hebrew": "אתמול מתייחס ליום שלפני היום, נקודת זמן מסוימת בעבר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Used to refer to the day immediately preceding today",
+                "definition_hebrew": "משמש להתייחס ליום שקדם להיום",
+                "example": "I finished reading that book yesterday.",
+                "example_hebrew": "סיימתי לקרוא את הספר אתמול."
+            },
+            {
+                "definition": "Used metaphorically or idiomatically to express a sense of nostalgia, regret, or longing for the past",
+                "definition_hebrew": "משמש בצורה מטפורית או אידיומטית כדי להביע תחושת נוסטלגיה, חרטה או כמיהה לעבר",
+                "example": "Yesterday is just a dream now; it feels like ages ago when we were happy together.",
+                "example_hebrew": "אתמול הוא רק חלום עכשיו; זה מרגיש כמו לפני עידנים כשהיינו מאושרים יחד."
+            },
+            {
+                "definition": "Used in expressions such as 'as if yesterday' to emphasize that something happened very recently and has left a strong impression or impact",
+                "definition_hebrew": "משמש בביטויים כמו 'כאילו אתמול' כדי להדגיש שמשהו קרה ממש לאחרונה והשאיר רושם או השפעה חזקה",
+                "example": "The sudden rainstorm caught us off guard, it felt like an event from yesterday just moments ago.",
+                "example_hebrew": "סופת הגשם הפתאומית תפסה אותנו לא מוכנים, זה הרגיש כמו אירוע מאתמול ממש לפני רגעים."
+            },
+            {
+                "definition": "Used in expressions such as 'back then' to refer to the past relative to another point in time",
+                "definition_hebrew": "משמש בביטויים כמו 'אז' כדי להתייחס לעבר ביחס לנקודת זמן אחרת",
+                "example": "Back then when I was your age, we didn't have smartphones. It's hard to imagine how life has changed.",
+                "example_hebrew": "אז כשהייתי בגילך, לא היו לנו סמארטפונים. קשה לדמיין איך החיים השתנו."
+            }
+        ]
+    }
+]

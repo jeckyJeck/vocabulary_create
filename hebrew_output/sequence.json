@@ -1,0 +1,34 @@
+[
+    {
+        "word": "sequence",
+        "word_hebrew": "סדר פעולות",
+        "main_definition": "A sequence refers to an ordered list of items, objects, or events that follow a specific pattern or order.",
+        "main_definition_hebrew": "רצף מתייחס לרשימה מסודרת של פריטים, אובייקטים או אירועים העוקבים אחר דפוס או סדר מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Ordered arrangement of numbers in increasing or decreasing fashion",
+                "definition_hebrew": "סידור מסודר של מספרים בצורה עולה או יורדת",
+                "example": "The natural number sequence 1, 2, 3, 4, ... goes on infinitely.",
+                "example_hebrew": "רצף המספרים הטבעי 1, 2, 3, 4, ... ממשיך בלי סוף."
+            },
+            {
+                "definition": "A series of related events that occur one after another",
+                "definition_hebrew": "סדרה של אירועים קשורים המתרחשים בזה אחר זה",
+                "example": "In a movie script, the plot is often described as a sequence of scenes.",
+                "example_hebrew": "בתסריט של סרט, העלילה מתוארת לרוב כרצף של סצנות."
+            },
+            {
+                "definition": "An ordered list of musical notes or chords",
+                "definition_hebrew": "רשימה מסודרת של תווים או אקורדים מוזיקליים",
+                "example": "The C major scale in music consists of the sequence: C, D, E, F, G, A, B.",
+                "example_hebrew": "הסולם C מז'ור במוזיקה מורכב מהרצף: C, D, E, F, G, A, B."
+            },
+            {
+                "definition": "A series of related images or objects that follow a particular pattern",
+                "definition_hebrew": "סדרה של תמונות או אובייקטים קשורים העוקבים אחר דפוס מסוים",
+                "example": "In animation, frames create a sequence to produce smooth movement.",
+                "example_hebrew": "באנימציה, פריימים יוצרים רצף כדי לייצר תנועה חלקה."
+            }
+        ]
+    }
+]

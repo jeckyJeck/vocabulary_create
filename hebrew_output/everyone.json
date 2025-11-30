@@ -1,0 +1,34 @@
+[
+    {
+        "word": "everyone",
+        "word_hebrew": "כל אחד",
+        "main_definition": "Everyone refers to all the people in a particular group or context without exception.",
+        "main_definition_hebrew": "כולם מתייחסים לכל האנשים בקבוצה או בהקשר מסוים ללא יוצא מן הכלל.",
+        "meanings_and_examples": [
+            {
+                "definition": "Inclusive of all persons present in a specific situation or place.",
+                "definition_hebrew": "כולל כל האנשים הנמצאים בסיטואציה או במקום ספציפיים.",
+                "example": "When the teacher asked if anyone needed help, she said 'everyone' to include every student.",
+                "example_hebrew": "כשהמורה שאלה אם מישהו צריך עזרה, היא אמרה 'כולם' כדי לכלול כל תלמיד."
+            },
+            {
+                "definition": "Used to express that something is universally applicable and applies to all cases.",
+                "definition_hebrew": "משמש כדי להביע שמשהו ישים אוניברסלי וחל על כל המקרים.",
+                "example": "Everyone should follow the safety rules when using machinery at work.",
+                "example_hebrew": "כולם צריכים לציית לכללי הבטיחות בעת שימוש במכונות בעבודה."
+            },
+            {
+                "definition": "Indicates a general or hypothetical group of people without specifying any particular individuals.",
+                "definition_hebrew": "מציין קבוצה כללית או היפותטית של אנשים מבלי לציין פרטים מסוימים.",
+                "example": "'Eating healthy is important for everyone' implies it applies to all individuals, although specific examples may vary.",
+                "example_hebrew": "\"אכילה בריאה חשובה לכולם\" מרמזת שהיא חלה על כל האנשים, אם כי דוגמאות ספציפיות עשויות להשתנות."
+            },
+            {
+                "definition": "Can imply an expectation or assumption that something will be done by every individual within a group.",
+                "definition_hebrew": "יכול לרמוז על ציפייה או הנחה שמשהו ייעשה על ידי כל אדם בקבוצה.",
+                "example": "'Everyone in the family should clean their room.' assumes each member of the family is responsible for cleaning.",
+                "example_hebrew": "'כל אחד במשפחה צריך לנקות את החדר שלו'. מניח שכל אחד מבני המשפחה אחראי על הניקיון."
+            }
+        ]
+    }
+]

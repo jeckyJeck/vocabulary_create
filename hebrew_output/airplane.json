@@ -1,0 +1,28 @@
+[
+    {
+        "word": "airplane",
+        "word_hebrew": "מטוס",
+        "main_definition": "An airplane is a powered, fixed-wing aircraft with tailwheel or tricycle landing gear that is designed to carry passengers and cargo through the air.",
+        "main_definition_hebrew": "מטוס הוא מטוס ממונע בעל כנף קבועה עם גלגל כנף או גלגלי נחיתה תלת אופן שנועד לשאת נוסעים ומטען באוויר.",
+        "meanings_and_examples": [
+            {
+                "definition": "A flying vehicle used for transportation",
+                "definition_hebrew": "רכב מעופף המשמש להובלה",
+                "example": "The family took a trip by airplane from New York to Los Angeles.",
+                "example_hebrew": "המשפחה יצאה לטיול במטוס מניו יורק ללוס אנג'לס."
+            },
+            {
+                "definition": "A metaphorical term representing the act of moving rapidly and effortlessly",
+                "definition_hebrew": "מונח מטפורי המייצג את פעולת התנועה המהירה וללא מאמץ",
+                "example": "I hope this project goes smoothly, just like an airplane gliding through the sky.",
+                "example_hebrew": "אני מקווה שהפרויקט הזה יעבור בצורה חלקה, ממש כמו מטוס שגולש בשמים."
+            },
+            {
+                "definition": "A collective noun referring to a group of people or things doing something together in unison",
+                "definition_hebrew": "שם עצם קיבוצי המתייחס לקבוצת אנשים או דברים שעושים משהו ביחד ביחד",
+                "example": "The team moved as one, acting with precision and coordination like an army of tiny airplanes working together.",
+                "example_hebrew": "הצוות נע כאחד, פעל בדייקנות ובתיאום כמו צבא של מטוסים זעירים שעובד ביחד."
+            }
+        ]
+    }
+]

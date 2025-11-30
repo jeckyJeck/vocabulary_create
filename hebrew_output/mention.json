@@ -1,0 +1,34 @@
+[
+    {
+        "word": "mention",
+        "word_hebrew": "אִזְכּוּר",
+        "main_definition": "To refer to or bring up something briefly in conversation or writing.",
+        "main_definition_hebrew": "להתייחס או להעלות משהו בקצרה בשיחה או בכתיבה.",
+        "meanings_and_examples": [
+            {
+                "definition": "to state casually as part of a conversation",
+                "definition_hebrew": "להצהיר כלאחר יד כחלק משיחה",
+                "example": "I mentioned that I'd be late for the meeting.",
+                "example_hebrew": "ציינתי שאאחר לפגישה."
+            },
+            {
+                "definition": "to cite or refer to something in writing or speech",
+                "definition_hebrew": "לצטט או להתייחס למשהו בכתב או בדיבור",
+                "example": "In her article, she mentioned several key points from previous research studies.",
+                "example_hebrew": "במאמרה היא הזכירה מספר נקודות מפתח ממחקרים קודמים."
+            },
+            {
+                "definition": "to allude to without directly stating it",
+                "definition_hebrew": "לרמוז בלי לציין זאת ישירות",
+                "example": "His remark about the weather was a subtle mention of his preference for cooler climates.",
+                "example_hebrew": "הערתו על מזג האוויר הייתה אזכור עדין להעדפתו לאקלים קריר יותר."
+            },
+            {
+                "definition": "to give brief notice or information about something",
+                "definition_hebrew": "לתת הודעה קצרה או מידע על משהו",
+                "example": "The teacher mentioned that there would be a pop quiz next week.",
+                "example_hebrew": "המורה ציינה שבשבוע הבא יתקיים חידון פופ."
+            }
+        ]
+    }
+]

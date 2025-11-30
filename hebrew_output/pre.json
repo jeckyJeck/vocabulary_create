@@ -1,0 +1,40 @@
+[
+    {
+        "word": "pre",
+        "word_hebrew": "מִרֹאשׁ",
+        "main_definition": "A prefix derived from Latin, used in English to indicate 'before' or 'in advance of', often relating to time, order, position, or measurement.",
+        "main_definition_hebrew": "קידומת שמקורה בלטינית, המשמשת באנגלית לציון 'לפני' או 'לפני', לעתים קרובות קשורה לזמן, סדר, מיקום או מדידה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Before a particular event or action",
+                "definition_hebrew": "לפני אירוע או פעולה מסוימת",
+                "example": "pre-flight checklist",
+                "example_hebrew": "רשימת בדיקה לפני הטיסה"
+            },
+            {
+                "definition": "Prepare or anticipate an upcoming event or task",
+                "definition_hebrew": "הכן או צפה מראש אירוע או משימה קרובים",
+                "example": "preparing for a presentation",
+                "example_hebrew": "הכנה למצגת"
+            },
+            {
+                "definition": "Earlier than expected, sooner or beforehand in time",
+                "definition_hebrew": "מוקדם מהצפוי, מוקדם או מראש בזמן",
+                "example": "a pre-release version of software",
+                "example_hebrew": "גרסה מוקדמת של תוכנה"
+            },
+            {
+                "definition": "Measurement that precedes the actual measurement",
+                "definition_hebrew": "מדידה שקודמת למדידה בפועל",
+                "example": "preliminary results",
+                "example_hebrew": "תוצאות ראשוניות"
+            },
+            {
+                "definition": "Ahead or in front of others in a competition or race",
+                "definition_hebrew": "לפני או מול אחרים בתחרות או במירוץ",
+                "example": "a pre-race warmup session",
+                "example_hebrew": "מפגש חימום לפני המירוץ"
+            }
+        ]
+    }
+]

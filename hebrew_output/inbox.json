@@ -1,0 +1,28 @@
+[
+    {
+        "word": "inbox",
+        "word_hebrew": "תיבת הדואר הנכנס",
+        "main_definition": "The inbox refers to a storage or container where incoming items, messages, or data are collected or stored.",
+        "main_definition_hebrew": "תיבת הדואר הנכנס מתייחסת לאחסון או מיכל שבו נאספים או מאוחסנים פריטים נכנסים, הודעות או נתונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of email, an 'inbox' is a folder or section within an email account where new received emails are stored until they are read or deleted.",
+                "definition_hebrew": "בהקשר של דוא\"ל, 'תיבת דואר נכנס' היא תיקיה או קטע בתוך חשבון דוא\"ל שבו מאוחסנים אימיילים חדשים שהתקבלו עד לקריאה או מחיקתם.",
+                "example": "I checked my inbox for any urgent messages from work.",
+                "example_hebrew": "בדקתי בתיבת הדואר הנכנס שלי אם יש הודעות דחופות מהעבודה."
+            },
+            {
+                "definition": "An 'inbox' can also refer to the container or space on a computer screen, typically at the bottom of an application window, where new notifications, alerts, or messages are displayed.",
+                "definition_hebrew": "'תיבת דואר נכנס' יכולה גם להתייחס למיכל או למרחב על מסך מחשב, בדרך כלל בתחתית חלון אפליקציה, שבו מוצגות התראות, התראות או הודעות חדשות.",
+                "example": "I noticed several unread messages in my phone's notification inbox.",
+                "example_hebrew": "הבחנתי בכמה הודעות שלא נקראו בתיבת ההתראות של הטלפון שלי."
+            },
+            {
+                "definition": "'Inbox' can also be used metaphorically to describe a situation where something is received but not yet addressed or dealt with, similar to an overflowing mailbox.",
+                "definition_hebrew": "'תיבת דואר נכנס' יכולה לשמש גם באופן מטפורי כדי לתאר מצב שבו משהו מתקבל אך עדיין לא טופל או מטופל, בדומה לתיבת דואר שעולה על גדותיה.",
+                "example": "The team's workload has been piling up in the project's 'inbox', as tasks are being added without completing existing ones.",
+                "example_hebrew": "עומס העבודה של הצוות הצטבר ב'תיבת הדואר הנכנס' של הפרויקט, כאשר משימות מתווספות מבלי להשלים את הקיימות."
+            }
+        ]
+    }
+]

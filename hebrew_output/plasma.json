@@ -1,0 +1,40 @@
+[
+    {
+        "word": "plasma",
+        "word_hebrew": "פְּלַסמָה",
+        "main_definition": "Plasma is a term used in different contexts, including biology, chemistry, and physics. It typically refers to the liquid component of blood or other substances with similar properties.",
+        "main_definition_hebrew": "פלזמה היא מונח המשמש בהקשרים שונים, כולל ביולוגיה, כימיה ופיזיקה. זה בדרך כלל מתייחס לרכיב הנוזלי של דם או חומרים אחרים בעלי תכונות דומות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In biology, plasma refers to the yellowish fluid portion of blood that does not include cells, platelets, or clotting factors. It carries nutrients, hormones, and proteins throughout the body.",
+                "definition_hebrew": "בביולוגיה, פלזמה מתייחסת לחלק הנוזל הצהבהב בדם שאינו כולל תאים, טסיות דם או גורמי קרישה. הוא נושא חומרים מזינים, הורמונים וחלבונים בכל הגוף.",
+                "example": "The nurse drew a sample of human plasma for testing.",
+                "example_hebrew": "האחות ציירה דגימה של פלזמה אנושית לבדיקה."
+            },
+            {
+                "definition": "In chemistry, plasma is often referred to as ionized gas with an equal number of positive ions and free electrons. It's one of the four fundamental states of matter.",
+                "definition_hebrew": "בכימיה, פלזמה מכונה לעתים קרובות גז מיונן עם מספר שווה של יונים חיוביים ואלקטרונים חופשיים. זה אחד מארבעת המצבים הבסיסיים של החומר.",
+                "example": "Scientists were able to create plasma in a laboratory by heating gases at high temperatures.",
+                "example_hebrew": "מדענים הצליחו ליצור פלזמה במעבדה על ידי חימום גזים בטמפרטורות גבוהות."
+            },
+            {
+                "definition": "In physics, 'plasma state' refers to a highly energized state where atoms have been ionized due to exposure to extreme heat or electromagnetic fields.",
+                "definition_hebrew": "בפיזיקה, 'מצב פלזמה' מתייחס למצב בעל אנרגיה גבוהה שבו אטומים מיוננים עקב חשיפה לחום קיצוני או לשדות אלקטרומגנטיים.",
+                "example": "The sun is mostly composed of plasma because of the intense heat and pressure at its core.",
+                "example_hebrew": "השמש מורכבת בעיקר מפלזמה בגלל החום והלחץ העזים בליבה."
+            },
+            {
+                "definition": "In electronics, 'plasma display panel' refers to a type of flat screen that uses small cells containing ionized gas (plasma) as a medium.",
+                "definition_hebrew": "באלקטרוניקה, 'פאנל תצוגת פלזמה' מתייחס לסוג של מסך שטוח המשתמש בתאים קטנים המכילים גז מיונן (פלזמה) כמדיום.",
+                "example": "The TV had an impressive image quality with the plasma display panel technology.",
+                "example_hebrew": "לטלוויזיה הייתה איכות תמונה מרשימה עם טכנולוגיית פאנל תצוגת הפלזמה."
+            },
+            {
+                "definition": "In astronomy, 'stellar plasma' is the hot, charged state of matter that constitutes stars and other celestinas.",
+                "definition_hebrew": "באסטרונומיה, 'פלזמה כוכבית' היא המצב החם והטעון של החומר המהווה כוכבים וכוכבים אחרים.",
+                "example": "Astronomers study stellar plasma to understand how stars are formed and evolve over time.",
+                "example_hebrew": "אסטרונומים חוקרים פלזמה כוכבית כדי להבין כיצד כוכבים נוצרים ומתפתחים לאורך זמן."
+            }
+        ]
+    }
+]

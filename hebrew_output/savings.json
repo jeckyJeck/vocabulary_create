@@ -1,0 +1,34 @@
+[
+    {
+        "word": "savings",
+        "word_hebrew": "חיסכון",
+        "main_definition": "Savings refers to the money set aside from one's income that is not spent but saved, often in a bank account or other financial instrument.",
+        "main_definition_hebrew": "חיסכון מתייחס לכסף שהופרש מההכנסה של אדם שאינו מוציא אלא נחסך, לרוב בחשבון בנק או מכשיר פיננסי אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Money accumulated over time after spending less than one earns",
+                "definition_hebrew": "כסף שנצבר לאורך זמן לאחר הוצאת פחות ממה שמרוויח",
+                "example": "After cutting down on unnecessary expenses and increasing her income, Jane managed to save $1000 by the end of the year.",
+                "example_hebrew": "לאחר שצמצמה בהוצאות מיותרות והגדילה את הכנסתה, הצליחה ג'יין לחסוך 1000 דולר עד סוף השנה."
+            },
+            {
+                "definition": "Amount saved in a bank account or financial institution",
+                "definition_hebrew": "סכום שנשמר בחשבון בנק או מוסד פיננסי",
+                "example": "John's savings account currently has $5000, which he plans to use for his upcoming house purchase.",
+                "example_hebrew": "בחשבון החיסכון של ג'ון יש כרגע 5,000 דולר, שבהם הוא מתכנן להשתמש לרכישת הבית הקרובה שלו."
+            },
+            {
+                "definition": "Total sum of money that is not spent and kept aside from one's income",
+                "definition_hebrew": "סך הכל סכום כסף שלא מבזבז ונשמר בצד מההכנסה",
+                "example": "Sarah's goal was to save at least 20% of her monthly salary, which she successfully achieved by the end of each month.",
+                "example_hebrew": "המטרה של שרה הייתה לחסוך לפחות 20% ממשכורתה החודשית, אותה השיגה בהצלחה עד סוף כל חודש."
+            },
+            {
+                "definition": "A term used in finance and economics to describe a portion of an individual or household income that is not consumed but set aside",
+                "definition_hebrew": "מונח המשמש בפיננסים וכלכלה לתיאור חלק מההכנסה של יחיד או משק בית שאינו נצרך אלא מופרש",
+                "example": "Savings rate is an important indicator for economic growth, as it reflects the amount of money individuals are able to save from their earnings.",
+                "example_hebrew": "שיעור החיסכון הוא אינדיקטור חשוב לצמיחה כלכלית, שכן הוא משקף את כמות הכסף שאנשים יכולים לחסוך מהרווחים שלהם."
+            }
+        ]
+    }
+]

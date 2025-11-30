@@ -1,0 +1,40 @@
+[
+    {
+        "word": "incoming",
+        "word_hebrew": "נִכנָס",
+        "main_definition": "Describing something that is arriving, coming or approaching.",
+        "main_definition_hebrew": "תיאור משהו שמגיע, מגיע או מתקרב.",
+        "meanings_and_examples": [
+            {
+                "definition": "Related to or about something that is coming towards you (e.g., a person, package, etc.)",
+                "definition_hebrew": "קשור או לגבי משהו שמתקרב אליך (למשל, אדם, חבילה וכו')",
+                "example": "The incoming mail will be delivered tomorrow morning.",
+                "example_hebrew": "הדואר הנכנס יימסר מחר בבוקר."
+            },
+            {
+                "definition": "A warning or signal indicating that an event, situation, or object is approaching or will happen soon.",
+                "definition_hebrew": "אזהרה או איתות המציינים שאירוע, מצב או חפץ מתקרבים או יקרו בקרוב.",
+                "example": "The police received an incoming call about a robbery in progress.",
+                "example_hebrew": "במשטרה התקבלה קריאה נכנסת על ביצוע שוד."
+            },
+            {
+                "definition": "Pertaining to something being introduced into a system, organization, etc., such as new policies or staff members",
+                "definition_hebrew": "בקשר למשהו שהוכנס למערכת, לארגון וכו', כגון מדיניות חדשה או אנשי צוות",
+                "example": "The company is experiencing some changes due to the incoming management team.",
+                "example_hebrew": "החברה חווה כמה שינויים עקב צוות ההנהלה הנכנס."
+            },
+            {
+                "definition": "Refers to traffic or communication signals indicating that an object (like airplanes) will enter a particular area",
+                "definition_hebrew": "הכוונה לאותות תנועה או תקשורת המציינים שעצם (כמו מטוסים) ייכנס לאזור מסוים",
+                "example": "Air Traffic Control issues an 'incoming' signal for the plane approaching the runway.",
+                "example_hebrew": "בקרת תנועה אווירית מוציאה אות 'נכנס' למטוס המתקרב למסלול."
+            },
+            {
+                "definition": "Concerning things that are about to happen, especially events or actions that someone is anticipating",
+                "definition_hebrew": "לגבי דברים שעומדים להתרחש, במיוחד אירועים או פעולות שמישהו צופה",
+                "example": "I can feel the tension in her voice as she speaks of the incoming storm.",
+                "example_hebrew": "אני יכול להרגיש את המתח בקולה כשהיא מדברת על הסערה הנכנסת."
+            }
+        ]
+    }
+]

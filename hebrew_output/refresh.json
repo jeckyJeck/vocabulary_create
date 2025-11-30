@@ -1,0 +1,34 @@
+[
+    {
+        "word": "refresh",
+        "word_hebrew": "לְרַעֲנֵן",
+        "main_definition": "To renew or invigorate something, often by making it look fresh again or giving new energy to a tired mind.",
+        "main_definition_hebrew": "לחדש או להמריץ משהו, לעתים קרובות על ידי כך שהוא ייראה רענן שוב או הענקת אנרגיה חדשה למוח עייף.",
+        "meanings_and_examples": [
+            {
+                "definition": "To revive the appearance of (something) so that it looks cleaner and brighter.",
+                "definition_hebrew": "להחיות את המראה של (משהו) כך שהוא ייראה נקי ובהיר יותר.",
+                "example": "After cleaning my computer screen, I can see everything much better because it's refreshed.",
+                "example_hebrew": "לאחר ניקוי מסך המחשב שלי, אני יכול לראות הכל הרבה יותר טוב כי הוא מתרענן."
+            },
+            {
+                "definition": "To renew an expired or outdated document or permit.",
+                "definition_hebrew": "לחדש מסמך או היתר שפג תוקפו או מיושן.",
+                "example": "I had to refresh my driver's license after it was about to expire.",
+                "example_hebrew": "נאלצתי לרענן את רישיון הנהיגה שלי לאחר שהוא עמד לפוג."
+            },
+            {
+                "definition": "To give new energy or vitality to someone who is feeling tired or worn out.",
+                "definition_hebrew": "לתת אנרגיה או חיוניות חדשה למישהו שמרגיש עייף או שחוק.",
+                "example": "After a short nap, I felt refreshed and ready to tackle the rest of my day's tasks.",
+                "example_hebrew": "לאחר תנומה קצרה, הרגשתי רענן ומוכן להתמודד עם שאר משימות היום שלי."
+            },
+            {
+                "definition": "In computing, to update information displayed on a screen by reloading data from a source file or database.",
+                "definition_hebrew": "במחשוב, לעדכן מידע המוצג על מסך על ידי טעינה מחדש של נתונים מקובץ מקור או מסד נתונים.",
+                "example": "I clicked 'refresh' on the webpage to see if any new messages had appeared in my chat box.",
+                "example_hebrew": "לחצתי על 'רענן' בדף האינטרנט כדי לראות אם הופיעו הודעות חדשות בתיבת הצ'אט שלי."
+            }
+        ]
+    }
+]

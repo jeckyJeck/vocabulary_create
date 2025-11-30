@@ -1,0 +1,34 @@
+[
+    {
+        "word": "crm",
+        "word_hebrew": "crm",
+        "main_definition": "Customer Relationship Management (CRM) is a system that helps businesses manage their interactions with current and potential customers.",
+        "main_definition_hebrew": "ניהול קשרי לקוחות (CRM) היא מערכת המסייעת לעסקים לנהל את האינטראקציות שלהם עם לקוחות קיימים ופוטנציאליים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Salesforce CRM, a popular customer relationship management software",
+                "definition_hebrew": "Salesforce CRM, תוכנה פופולרית לניהול קשרי לקוחות",
+                "example": "Many companies use Salesforce CRM to track leads and automate marketing processes.",
+                "example_hebrew": "חברות רבות משתמשות ב-Salesforce CRM כדי לעקוב אחר לידים ולהפוך תהליכי שיווק לאוטומטיים."
+            },
+            {
+                "definition": "Customer Data Platform (CDP)",
+                "definition_hebrew": "פלטפורמת נתוני לקוחות (CDP)",
+                "example": "A CDP collects data from various sources to create a unified customer view, which can then be used for effective CRM strategies.",
+                "example_hebrew": "CDP אוסף נתונים ממקורות שונים כדי ליצור תצוגת לקוח מאוחדת, אשר לאחר מכן ניתן להשתמש בה לאסטרטגיות CRM יעילות."
+            },
+            {
+                "definition": "CRM services and solutions offered by companies",
+                "definition_hebrew": "שירותי ופתרונות CRM המוצעים על ידי חברות",
+                "example": "XYZ Corp provides comprehensive CRM services such as marketing automation, sales forecasting, and customer support to businesses.",
+                "example_hebrew": "XYZ Corp מספקת שירותי CRM מקיפים כגון אוטומציה של שיווק, תחזית מכירות ותמיכת לקוחות לעסקים."
+            },
+            {
+                "definition": "Customer relationship management in a general sense",
+                "definition_hebrew": "ניהול קשרי לקוחות במובן כללי",
+                "example": "Businesses prioritize building strong relationships with their customers through effective communication, personalized experiences, and exceptional service.",
+                "example_hebrew": "עסקים נותנים עדיפות לבניית קשרים חזקים עם לקוחותיהם באמצעות תקשורת יעילה, חוויות מותאמות אישית ושירות יוצא דופן."
+            }
+        ]
+    }
+]

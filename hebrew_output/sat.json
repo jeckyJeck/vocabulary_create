@@ -1,0 +1,34 @@
+[
+    {
+        "word": "sat",
+        "word_hebrew": "ישב",
+        "main_definition": "The past tense of the verb 'to sit', indicating an action where someone remained in a seated position.",
+        "main_definition_hebrew": "זמן עבר של הפועל 'לשבת', המציין פעולה שבה מישהו נשאר בישיבה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To have been in a sitting position for some time, typically as part of a meal or gathering",
+                "definition_hebrew": "להיות בישיבה במשך זמן מה, בדרך כלל כחלק מארוחה או התכנסות",
+                "example": "I sat down to eat my dinner.",
+                "example_hebrew": "ישבתי לאכול את ארוחת הערב שלי."
+            },
+            {
+                "definition": "An idiomatic expression indicating that someone has been occupied with something and is not available immediately",
+                "definition_hebrew": "ביטוי אידיומטי המציין שמישהו היה עסוק במשהו ואינו זמין מיד",
+                "example": "Sorry, I can't talk right now. I'm sitting on it.",
+                "example_hebrew": "מצטער, אני לא יכול לדבר עכשיו. אני יושב על זה."
+            },
+            {
+                "definition": "To remain seated or immobile for a period of time",
+                "definition_hebrew": "להישאר בישיבה או ללא תנועה למשך תקופה",
+                "example": "She sat through the entire lecture without getting up.",
+                "example_hebrew": "היא ישבה לאורך כל ההרצאה בלי לקום."
+            },
+            {
+                "definition": "Used in various idioms to convey delay, as in 'let it sit', meaning to wait before proceeding with an action",
+                "definition_hebrew": "משמש בביטויים שונים כדי להעביר עיכוב, כמו ב'תן לזה לשבת', כלומר לחכות לפני שממשיכים בפעולה",
+                "example": "After applying the solution, let it sit for 24 hours.",
+                "example_hebrew": "לאחר מריחת התמיסה, הניחו לה לשבת במשך 24 שעות."
+            }
+        ]
+    }
+]

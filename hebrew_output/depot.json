@@ -1,0 +1,28 @@
+[
+    {
+        "word": "depot",
+        "word_hebrew": "מַחסָן",
+        "main_definition": "A depot is a storage place or facility where goods are kept, especially before being distributed.",
+        "main_definition_hebrew": "מחסן הוא מקום אחסון או מתקן שבו מוחזקים סחורות, במיוחד לפני חלוקתן.",
+        "meanings_and_examples": [
+            {
+                "definition": "A location for the collection and distribution of goods, often involving transportation vehicles like trucks or trains.",
+                "definition_hebrew": "מקום לאיסוף והפצה של סחורות, לעתים קרובות מעורבים כלי תחבורה כמו משאיות או רכבות.",
+                "example": "The cargo depot received several shipments of electronics from different manufacturers before distributing them to retail stores.",
+                "example_hebrew": "מחסן המטען קיבל מספר משלוחים של מוצרי אלקטרוניקה מיצרנים שונים לפני שהפיץ אותם לחנויות קמעונאיות."
+            },
+            {
+                "definition": "A facility for storing equipment, machinery, or tools in a particular industry.",
+                "definition_hebrew": "מתקן לאחסון ציוד, מכונות או כלים בתעשייה מסוימת.",
+                "example": "The construction company stored their heavy-duty excavators at the depot after completing a project.",
+                "example_hebrew": "חברת הבנייה אחסנה את המחפרים הכבדים שלהם במחסן לאחר סיום פרויקט."
+            },
+            {
+                "definition": "An establishment that serves as a point of transfer for passengers, such as bus stations or train stations.",
+                "definition_hebrew": "מוסד המשמש כנקודת העברה לנוסעים, כגון תחנות אוטובוס או תחנות רכבת.",
+                "example": "I took the bus to the city center and then transferred to another bus at the depot.",
+                "example_hebrew": "לקחתי את האוטובוס למרכז העיר ואז עברתי לאוטובוס אחר במחסן."
+            }
+        ]
+    }
+]

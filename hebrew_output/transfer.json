@@ -1,0 +1,40 @@
+[
+    {
+        "word": "transfer",
+        "word_hebrew": "לְהַעֲבִיר",
+        "main_definition": "To move or convey from one place, person, or thing to another.",
+        "main_definition_hebrew": "להעביר או להעביר ממקום, אדם או דבר אחד לאחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To move data from one computer system or storage device to another.",
+                "definition_hebrew": "כדי להעביר נתונים ממערכת מחשב אחת או התקן אחסון לאחר.",
+                "example": "I will transfer the files from my old laptop to a new external hard drive.",
+                "example_hebrew": "אעביר את הקבצים מהמחשב הנייד הישן שלי לכונן קשיח חיצוני חדש."
+            },
+            {
+                "definition": "To change control of an asset, like money or property, from one person/entity to another.",
+                "definition_hebrew": "לשנות שליטה בנכס, כמו כסף או רכוש, מאדם/ישות אחד לאחר.",
+                "example": "She decided to transfer ownership of her house to her children upon her retirement.",
+                "example_hebrew": "היא החליטה להעביר את הבעלות על ביתה לילדיה עם פרישתה."
+            },
+            {
+                "definition": "To hand over responsibility for something to someone else.",
+                "definition_hebrew": "להעביר אחריות על משהו למישהו אחר.",
+                "example": "The manager will transfer the project management duties to his assistant during his vacation.",
+                "example_hebrew": "המנהל יעביר את תפקידי ניהול הפרויקט לעוזרו במהלך חופשתו."
+            },
+            {
+                "definition": "In sports, to pass or kick a ball from one player to another teammate.",
+                "definition_hebrew": "בספורט, להעביר או לבעוט כדור משחקן אחד לחבר קבוצה אחר.",
+                "example": "During the soccer game, he made a perfect transfer of the ball to his forward.",
+                "example_hebrew": "במהלך משחק הכדורגל, הוא ביצע העברה מושלמת של הכדור לחלוץ שלו."
+            },
+            {
+                "definition": "To move oneself from one location to another physically.",
+                "definition_hebrew": "להעביר את עצמך ממקום אחד לאחר פיזית.",
+                "example": "After finishing work, I transferred my belongings from home to my new office.",
+                "example_hebrew": "לאחר סיום העבודה העברתי את חפצי מהבית למשרד החדש שלי."
+            }
+        ]
+    }
+]

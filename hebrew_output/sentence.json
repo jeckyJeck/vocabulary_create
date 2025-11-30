@@ -1,0 +1,34 @@
+[
+    {
+        "word": "sentence",
+        "word_hebrew": "משפט",
+        "main_definition": "A sentence is a group of words that expresses a complete thought, typically containing a subject and predicate.",
+        "main_definition_hebrew": "משפט הוא קבוצת מילים המבטאת מחשבה שלמה, המכילה בדרך כלל נושא ופרדיקט.",
+        "meanings_and_examples": [
+            {
+                "definition": "In grammar, a sentence is a group of words that conveys a statement, question, exclamation, or command. It must have at least one main clause with a subject and verb to be considered complete.",
+                "definition_hebrew": "בדקדוק, משפט הוא קבוצת מילים המעבירה אמירה, שאלה, קריאה או פקודה. זה חייב להיות לפחות סעיף עיקרי אחד עם נושא ופועל כדי להיחשב שלם.",
+                "example": "The cat sat on the mat.",
+                "example_hebrew": "החתול ישב על השטיח."
+            },
+            {
+                "definition": "In legal contexts, a sentence refers to the final decision given by a judge in a court case after considering all evidence and arguments. It often involves punishment or rehabilitation measures for convicted individuals.",
+                "definition_hebrew": "בהקשרים משפטיים, גזר דין מתייחס להחלטה הסופית שניתנה על ידי שופט בתיק בית משפט לאחר ששקל את כל הראיות והטיעונים. זה כרוך לעתים קרובות בענישה או באמצעי שיקום עבור אנשים מורשעים.",
+                "example": "The judge handed down a 10-year prison sentence for the crime committed.",
+                "example_hebrew": "השופט גזר עונש של 10 שנות מאסר בגין הפשע שבוצע."
+            },
+            {
+                "definition": "In writing, an idiomatic expression called 'a sentence' is used to describe something that is self-contained and complete in meaning. For example, one might say \"The early bird catches the worm\" as a sentence.",
+                "definition_hebrew": "בכתיבה, ביטוי אידיומטי הנקרא 'משפט' משמש לתיאור משהו שהוא עצמאי ושלם במשמעותו. לדוגמה, אפשר לומר \"הציפור המוקדמת תופסת את התולעת\" כמשפט.",
+                "example": "The phrase 'A penny saved is a penny earned' serves as a sentence expressing financial wisdom.",
+                "example_hebrew": "הביטוי 'אגורה נחסכת היא פרוטה שהרוויחה' משמש כמשפט המבטא חוכמה פיננסית."
+            },
+            {
+                "definition": "In technology and computing, when discussing programming or data storage, a sentence refers to a sequence of characters that forms a complete unit of meaning. It could represent instructions for processing or information stored in databases.",
+                "definition_hebrew": "בטכנולוגיה ובמחשוב, כאשר דנים בתכנות או באחסון נתונים, משפט מתייחס לרצף של תווים היוצר יחידת משמעות שלמה. זה יכול לייצג הוראות לעיבוד או מידע המאוחסן במאגרי מידע.",
+                "example": "The SQL query 'SELECT * FROM users' is an example of a sentence used to retrieve all user data from the database.",
+                "example_hebrew": "שאילתת SQL 'SELECT * FROM users' היא דוגמה למשפט המשמש לאחזור כל נתוני המשתמש ממסד הנתונים."
+            }
+        ]
+    }
+]

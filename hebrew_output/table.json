@@ -1,0 +1,34 @@
+[
+    {
+        "word": "table",
+        "word_hebrew": "שולחן",
+        "main_definition": "A piece of furniture with a flat top and one or more legs, providing a level surface for eating, writing, or working.",
+        "main_definition_hebrew": "רהיט עם חלק עליון שטוח ורגל אחת או יותר, המספק משטח ישר לאכילה, כתיבה או עבודה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In sports terminology, to put an end to play before the scheduled end (e.g., in a match) due to certain conditions being met, like a score tie.",
+                "definition_hebrew": "בטרמינולוגיה ספורטיבית, לשים קץ למשחק לפני הסיום המתוכנן (למשל, במשחק) עקב עמידה בתנאים מסוימים, כמו תיקו תוצאות.",
+                "example": "When both teams reached 2-2 after four innings, the game was tabled.",
+                "example_hebrew": "כאשר שתי הקבוצות הגיעו ל-2-2 לאחר ארבעה סיבובים, המשחק הונח על השולחן."
+            },
+            {
+                "definition": "To present or lay out for consideration; discuss at length (as a matter of business).",
+                "definition_hebrew": "להציג או לפרוס לתמורה; לדון בהרחבה (כעניין עסקי).",
+                "example": "The committee will table the proposal until next meeting to allow more discussion.",
+                "example_hebrew": "הוועדה תגיש את ההצעה עד לישיבה הבאה כדי לאפשר דיון נוסף."
+            },
+            {
+                "definition": "A chart listing items, often used in formal documents and reports.",
+                "definition_hebrew": "תרשים המפרט פריטים, המשמשים לעתים קרובות במסמכים ובדוחות רשמיים.",
+                "example": "He organized his data into a table for clearer presentation.",
+                "example_hebrew": "הוא ארגן את הנתונים שלו בטבלה להצגה ברורה יותר."
+            },
+            {
+                "definition": "To postpone or suspend something temporarily (as an action).",
+                "definition_hebrew": "לדחות או להשעות משהו באופן זמני (כפעולה).",
+                "example": "The meeting was put on hold until further notice, effectively putting it to the table.",
+                "example_hebrew": "הפגישה הוקפאה עד להודעה חדשה, ולמעשה הונחה אותה על השולחן."
+            }
+        ]
+    }
+]

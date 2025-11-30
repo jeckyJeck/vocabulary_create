@@ -1,0 +1,40 @@
+[
+    {
+        "word": "car",
+        "word_hebrew": "אוטו",
+        "main_definition": "A vehicle with four wheels, typically powered by an engine, used for transportation of people or goods.",
+        "main_definition_hebrew": "רכב עם ארבעה גלגלים, המופעל בדרך כלל על ידי מנוע, המשמש להובלת אנשים או סחורות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of automobile manufacturing and industry, 'car' refers to a motorized road vehicle that has seats for passengers inside and is typically powered by an internal combustion engine. It provides transportation from one place to another.",
+                "definition_hebrew": "בהקשר של ייצור ותעשייה של רכב, 'מכונית' מתייחסת לרכב כביש ממונע שיש בו מושבים לנוסעים בפנים והוא מופעל בדרך כלל על ידי מנוע בעירה פנימית. הוא מספק תחבורה ממקום למקום.",
+                "example": "'The company specializes in designing and producing cars.'",
+                "example_hebrew": "'החברה מתמחה בתכנון וייצור מכוניות'."
+            },
+            {
+                "definition": "'Carry' as a verb can be used metaphorically when referring to the concept of 'carrying forward' an idea, belief, or principle from one context to another. For example, someone might say, 'The company values its commitment to sustainability and wants to carry this vision into all future projects.'",
+                "definition_hebrew": "ניתן להשתמש ב'נשא' כפועל באופן מטפורי כאשר מתייחסים למושג 'העברת' רעיון, אמונה או עיקרון מהקשר אחד למשנהו. לדוגמה, מישהו יכול לומר, 'החברה מעריכה את המחויבות שלה לקיימות ורוצה לשאת את החזון הזה לכל הפרויקטים העתידיים'.",
+                "example": "'We need to car our environmental responsibility throughout the organization.'",
+                "example_hebrew": "\"אנחנו צריכים לשאת באחריות הסביבתית שלנו בכל הארגון.\""
+            },
+            {
+                "definition": "'Car' is sometimes used in slang or idiomatic expressions. For instance, 'He had a car,' can mean he was able to handle difficult situations well.",
+                "definition_hebrew": "'מכונית' משמשת לפעמים בסלנג או בביטויים אידיומטיים. למשל, 'היה לו מכונית', יכול להיות שהוא מסוגל להתמודד היטב במצבים קשים.",
+                "example": "'She handled that tricky negotiation with ease; she really has a car.'",
+                "example_hebrew": "״היא התמודדה עם המשא ומתן המסובך הזה בקלות; באמת יש לה מכונית״."
+            },
+            {
+                "definition": "'Car' in the context of an arrangement or deal refers to securing something (e.g., money, resources) for oneself through strategic planning and negotiation.",
+                "definition_hebrew": "'מכונית' בהקשר של הסדר או עסקה מתייחסת להבטחת משהו (למשל, כסף, משאבים) לעצמו באמצעות תכנון אסטרטגי ומשא ומתן.",
+                "example": "'After months of negotiations, they finally managed to car a good contract.'",
+                "example_hebrew": "\"אחרי חודשים של משא ומתן, הם סוף סוף הצליחו להשיג חוזה טוב\"."
+            },
+            {
+                "definition": "'Car' as an informal term can mean 'to bring something with you', often used in the context of taking belongings from one location to another. For example, 'Don't forget to car your essentials for the trip.'",
+                "definition_hebrew": "'מכונית' כמונח לא רשמי יכול להיות 'להביא איתך משהו', המשמש לעתים קרובות בהקשר של לקיחת חפצים ממקום אחד לאחר. לדוגמה, 'אל תשכח לרכב את החפצים החיוניים שלך לטיול'.",
+                "example": "'Please make sure to car all necessary documents when moving to a new house.'",
+                "example_hebrew": "\"נא להקפיד להחזיק את כל המסמכים הדרושים בעת מעבר לבית חדש.\""
+            }
+        ]
+    }
+]

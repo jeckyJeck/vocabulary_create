@@ -1,0 +1,40 @@
+[
+    {
+        "word": "battle",
+        "word_hebrew": "קרב",
+        "main_definition": "A battle is a violent conflict between opposing forces, typically involving military strategies and combat.",
+        "main_definition_hebrew": "קרב הוא עימות אלים בין כוחות מנוגדים, הכולל בדרך כלל אסטרטגיות צבאיות ולחימה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical confrontation or fight",
+                "definition_hebrew": "עימות פיזי או קרב",
+                "example": "The boxers engaged in an intense battle during the match.",
+                "example_hebrew": "המתאגרפים ניהלו קרב אינטנסיבי במהלך המשחק."
+            },
+            {
+                "definition": "A difficult situation requiring effort to overcome",
+                "definition_hebrew": "מצב קשה שדורש מאמץ להתגבר עליו",
+                "example": "Facing financial difficulties can feel like a never-ending battle against debt.",
+                "example_hebrew": "התמודדות עם קשיים כלכליים יכולה להרגיש כמו מאבק בלתי פוסק נגד החובות."
+            },
+            {
+                "definition": "A competition or struggle between two opposing parties",
+                "definition_hebrew": "תחרות או מאבק בין שני צדדים מנוגדים",
+                "example": "The market is currently experiencing a fierce battle between big tech companies for dominance.",
+                "example_hebrew": "השוק חווה כעת מאבק עז בין חברות טכנולוגיה גדולות על דומיננטיות."
+            },
+            {
+                "definition": "An attempt to overcome an obstacle, challenge, or adversary",
+                "definition_hebrew": "ניסיון להתגבר על מכשול, אתגר או יריב",
+                "example": "She fought a long and hard battle against cancer but ultimately triumphed.",
+                "example_hebrew": "היא נלחמה מאבק ארוך וקשה נגד הסרטן אך בסופו של דבר ניצחה."
+            },
+            {
+                "definition": "A literary or dramatic conflict between characters with opposing goals or values",
+                "definition_hebrew": "קונפליקט ספרותי או דרמטי בין דמויות בעלות מטרות או ערכים מנוגדים",
+                "example": "In the novel 'The Scarlet Letter', Hester Prynne's internal battle is a central theme of the story.",
+                "example_hebrew": "ברומן 'המכתב הארגמן', הקרב הפנימי של הסטר פרין הוא נושא מרכזי בסיפור."
+            }
+        ]
+    }
+]

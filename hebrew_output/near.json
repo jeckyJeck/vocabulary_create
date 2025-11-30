@@ -1,0 +1,40 @@
+[
+    {
+        "word": "near",
+        "word_hebrew": "ליד",
+        "main_definition": "to be close to in distance or time",
+        "main_definition_hebrew": "להיות קרוב למרחק או בזמן",
+        "meanings_and_examples": [
+            {
+                "definition": "to have a small physical distance between objects",
+                "definition_hebrew": "שיהיה מרחק פיזי קטן בין עצמים",
+                "example": "The grocery store is near my house.",
+                "example_hebrew": "המכולת נמצאת ליד הבית שלי."
+            },
+            {
+                "definition": "in close proximity to an event or location happening soon",
+                "definition_hebrew": "בסמוך לאירוע או מיקום שיתרחש בקרוב",
+                "example": "I will be there in time for the concert, it's only a few minutes from now.",
+                "example_hebrew": "אני אהיה שם בזמן לקונצרט, זה רק כמה דקות מעכשיו."
+            },
+            {
+                "definition": "to have a similar idea or concept without being identical",
+                "definition_hebrew": "לקבל רעיון או מושג דומה מבלי להיות זהים",
+                "example": "His solution is near to mine but not exactly the same.",
+                "example_hebrew": "הפתרון שלו קרוב לשלי אבל לא בדיוק אותו הדבר."
+            },
+            {
+                "definition": "to be in close relation or connection with someone/something",
+                "definition_hebrew": "להיות בקשר קרוב או בקשר עם מישהו/משהו",
+                "example": "I am very close friends with her since childhood.",
+                "example_hebrew": "אני חברים מאוד קרובים איתה מילדות."
+            },
+            {
+                "definition": "to approach something slowly and steadily",
+                "definition_hebrew": "להתקרב למשהו לאט ובהתמדה",
+                "example": "The train near the station started moving as we entered it.",
+                "example_hebrew": "הרכבת ליד התחנה התחילה לנוע כשנכנסנו אליה."
+            }
+        ]
+    }
+]

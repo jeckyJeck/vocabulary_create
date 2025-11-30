@@ -1,0 +1,40 @@
+[
+    {
+        "word": "certificate",
+        "word_hebrew": "תְעוּדָה",
+        "main_definition": "A document that confirms the authenticity or validity of something, often issued after successful completion of a course, training program, achievement, or legal action.",
+        "main_definition_hebrew": "מסמך המאשר את האותנטיות או תקפותו של משהו, הנפק לעתים קרובות לאחר סיום מוצלח של קורס, תוכנית הכשרה, הישג או פעולה משפטית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Document proving academic achievements",
+                "definition_hebrew": "מסמך המוכיח הישגים אקדמיים",
+                "example": "She proudly displayed her high school diploma certificate.",
+                "example_hebrew": "היא הציגה בגאווה את תעודת התעודה שלה בתיכון."
+            },
+            {
+                "definition": "Proof of completion for a course or training program",
+                "definition_hebrew": "הוכחת סיום קורס או תוכנית הכשרה",
+                "example": "After finishing the online coding bootcamp, he received his certificate in software development.",
+                "example_hebrew": "לאחר שסיים את האתחול מקוון לקידוד, הוא קיבל את התעודה שלו בפיתוח תוכנה."
+            },
+            {
+                "definition": "Legal document confirming identity or age",
+                "definition_hebrew": "מסמך משפטי המאשר זהות או גיל",
+                "example": "He presented his birth certificate to prove that he was over 18 years old.",
+                "example_hebrew": "הוא הציג את תעודת הלידה שלו כדי להוכיח שהוא מעל גיל 18."
+            },
+            {
+                "definition": "Document attesting ownership of a property or asset",
+                "definition_hebrew": "מסמך המעיד בעלות על נכס או נכס",
+                "example": "The notary public issued the property deed as proof of her new home's ownership.",
+                "example_hebrew": "הנוטריון הוציא את שטר הרכוש כהוכחה לבעלות ביתה החדש."
+            },
+            {
+                "definition": "Certification indicating compliance with standards, regulations, or laws",
+                "definition_hebrew": "אישור המעיד על עמידה בתקנים, תקנות או חוקים",
+                "example": "His company received a certificate for environmental management systems that met ISO 14001 standards.",
+                "example_hebrew": "החברה שלו קיבלה תעודה למערכות ניהול סביבתיות העומדות בתקני ISO 14001."
+            }
+        ]
+    }
+]

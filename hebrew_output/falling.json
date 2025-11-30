@@ -1,0 +1,40 @@
+[
+    {
+        "word": "falling",
+        "word_hebrew": "נופל",
+        "main_definition": "The act of moving downward, typically as a result of gravity or loss of support.",
+        "main_definition_hebrew": "פעולת התנועה כלפי מטה, בדרך כלל כתוצאה מכוח המשיכה או אובדן תמיכה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical descent under the force of gravity",
+                "definition_hebrew": "ירידה פיזית בכוח הכבידה",
+                "example": "As she was falling off the ladder, he quickly caught her before she hit the ground.",
+                "example_hebrew": "כשהיא נפלה מהסולם, הוא תפס אותה במהירות לפני שפגעה בקרקע."
+            },
+            {
+                "definition": "The decline in value or price of an asset over time",
+                "definition_hebrew": "הירידה בערך או במחיר של נכס לאורך זמן",
+                "example": "Due to market volatility, the stock prices have been steadily falling for the past week.",
+                "example_hebrew": "עקב התנודתיות בשוק, מחירי המניות יורדים בהתמדה בשבוע האחרון."
+            },
+            {
+                "definition": "A decrease in a person's physical or emotional state",
+                "definition_hebrew": "ירידה במצב הפיזי או הרגשי של אדם",
+                "example": "After hearing the bad news, she felt as if her world was falling apart.",
+                "example_hebrew": "לאחר ששמעה את החדשות הרעות, היא הרגישה כאילו עולמה מתפרק."
+            },
+            {
+                "definition": "The act of giving up one's seat to someone who needs it more on public transportation",
+                "definition_hebrew": "מעשה הוויתור על הכסא למישהו שזקוק לו יותר בתחבורה הציבורית",
+                "example": "When he saw an elderly woman standing, he immediately stood up and offered his seat, indicating that she could take the place where he was sitting.",
+                "example_hebrew": "כשראה אישה מבוגרת עומדת, קם מיד והציע את מקומו, כשהוא מציין שהיא יכולה לתפוס את המקום שבו הוא יושב."
+            },
+            {
+                "definition": "A loss or decline in confidence or esteem",
+                "definition_hebrew": "אובדן או ירידה בביטחון או בהערכה",
+                "example": "His falling popularity among fans was evident as attendance at concerts decreased over time.",
+                "example_hebrew": "הפופולריות היורדת שלו בקרב מעריצים ניכרה כשהנוכחות בקונצרטים פחתה עם הזמן."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "corpus",
+        "word_hebrew": "קורפוס",
+        "main_definition": "A corpus refers to a collection or body of written texts, which is used in linguistics, lexicography, and other fields related to language study.",
+        "main_definition_hebrew": "קורפוס מתייחס לאוסף או גוף של טקסטים כתובים, המשמשים בבלשנות, בלקסיקוגרפיה ותחומים אחרים הקשורים לחקר השפה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Body of text or literature",
+                "definition_hebrew": "גוף טקסט או ספרות",
+                "example": "The Oxford English Corpus contains over 2.1 billion words from a variety of sources.",
+                "example_hebrew": "קורפוס האנגלית של אוקספורד מכיל למעלה מ-2.1 מיליארד מילים ממגוון מקורות."
+            },
+            {
+                "definition": "Collection of written texts used for linguistic analysis",
+                "definition_hebrew": "אוסף טקסטים כתובים המשמשים לניתוח לשוני",
+                "example": "Linguists use the Brown University's Linguistics Corpus to study language patterns.",
+                "example_hebrew": "בלשנים משתמשים בקורפוס הבלשנות של אוניברסיטת בראון כדי ללמוד דפוסי שפה."
+            },
+            {
+                "definition": "Database of words and their usage in different contexts",
+                "definition_hebrew": "מסד נתונים של מילים והשימוש בהן בהקשרים שונים",
+                "example": "A corpus is a valuable resource for lexicographers who compile dictionaries, as it provides real-world examples of word use.",
+                "example_hebrew": "קורפוס הוא משאב רב ערך עבור מילונים שמרכיבים מילונים, מכיוון שהוא מספק דוגמאות מהעולם האמיתי לשימוש במילים."
+            },
+            {
+                "definition": "Comprehensive collection of texts in digital format",
+                "definition_hebrew": "אוסף מקיף של טקסטים בפורמט דיגיטלי",
+                "example": "The Corpus of Contemporary American English (COCA) includes over 560 million words and is widely used for studying modern language usage.",
+                "example_hebrew": "קורפוס האנגלית האמריקאית עכשווית (COCA) כולל למעלה מ-560 מיליון מילים ונמצא בשימוש נרחב ללימוד שימוש בשפה מודרנית."
+            }
+        ]
+    }
+]

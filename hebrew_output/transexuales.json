@@ -1,0 +1,34 @@
+[
+    {
+        "word": "transexuales",
+        "word_hebrew": "טרנסקסואלים",
+        "main_definition": "The term 'transgender' refers to individuals whose gender identity differs from the sex they were assigned at birth, encompassing a diverse spectrum of gender experiences.",
+        "main_definition_hebrew": "המונח 'טרנסג'נדר' מתייחס לאנשים שזהותם המגדרית שונה מהמין שיייחסו להם בלידה, וכוללת קשת מגוונת של חוויות מגדריות.",
+        "meanings_and_examples": [
+            {
+                "definition": "An umbrella term for people who do not identify as exclusively male or female",
+                "definition_hebrew": "כינוי גג לאנשים שאינם מזדהים כזכר או נקבה בלבד",
+                "example": "Alex identifies as transgender and prefers they/them pronouns.",
+                "example_hebrew": "אלכס מזדהה כטרנסג'נדר ומעדיף כינויים של הם/הם."
+            },
+            {
+                "definition": "The experience of gender dysphoria, which involves distress due to a discreprancies between one's assigned sex at birth and their gender identity",
+                "definition_hebrew": "חווית דיספוריה מגדרית, הכרוכה במצוקה עקב אי התאמה בין המין שנקבע בלידה לבין זהותו המגדרית",
+                "example": "Samantha feels significant emotional discomfort because her body does not align with the female gender she identifies as.",
+                "example_hebrew": "סמנתה חשה אי נוחות רגשית משמעותית מכיוון שהגוף שלה אינו מתיישר עם המגדר הנשי שהיא מזדהה איתו."
+            },
+            {
+                "definition": "Individuals who may seek to transition physically, either through hormone therapy or surgery, to better align their physical bodies with their gender identity",
+                "definition_hebrew": "אנשים שעשויים לשאוף לעבור פיזית, בין אם באמצעות טיפול הורמונלי או ניתוח, כדי ליישר טוב יותר את גופם הפיזי עם זהותם המגדרית",
+                "example": "Jordan began testosterone therapy after confirming a male gender identity.",
+                "example_hebrew": "ג'ורדן החלה בטיפול בטסטוסטרון לאחר שאישרה זהות מגדרית גברית."
+            },
+            {
+                "definition": "A term used in the LGBTQ+ community to describe someone whose gender expression does not conform to traditional expectations of masculinity or femininity",
+                "definition_hebrew": "מונח המשמש בקהילת LGBTQ+ כדי לתאר מישהו שהביטוי המגדר שלו אינו תואם את הציפיות המסורתיות של גבריות או נשיות",
+                "example": "Casey's androgynous appearance is an authentic representation of their non-binary identity.",
+                "example_hebrew": "המראה האנדרוגיני של קייסי הוא ייצוג אותנטי של זהותם הלא בינארית."
+            }
+        ]
+    }
+]

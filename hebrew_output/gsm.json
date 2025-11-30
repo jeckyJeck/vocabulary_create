@@ -1,0 +1,34 @@
+[
+    {
+        "word": "gsm",
+        "word_hebrew": "gsm",
+        "main_definition": "GSM stands for 'Global System for Mobile Communications', a standard developed to ensure seamless mobile communication across different countries.",
+        "main_definition_hebrew": "GSM מייצג \"מערכת גלובלית לתקשורת ניידת\", תקן שפותח כדי להבטיח תקשורת סלולרית חלקה במדינות שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A measure of the quality of voice calls, expressed in decibels (dB).",
+                "definition_hebrew": "מדד לאיכות השיחות הקוליות, מבוטאת בדציבלים (dB).",
+                "example": "The gsm signal strength was weak, resulting in poor call clarity.",
+                "example_hebrew": "עוצמת האות של gsm הייתה חלשה, וכתוצאה מכך צלילות שיחות גרועות."
+            },
+            {
+                "definition": "An acronym for Global System for Mobile Communications, a standardized technology that enables mobile devices to communicate with each other and connect to the internet.",
+                "definition_hebrew": "ראשי תיבות של Global System for Mobile Communications, טכנולוגיה סטנדרטית המאפשרת למכשירים ניידים לתקשר זה עם זה ולהתחבר לאינטרנט.",
+                "example": "When traveling abroad, I rely on my GSM phone to make international calls.",
+                "example_hebrew": "כשאני נוסע לחו\"ל, אני סומך על טלפון ה-GSM שלי כדי לבצע שיחות בינלאומיות."
+            },
+            {
+                "definition": "A unit of measurement used in telecommunication networks to represent signal strength or quality for wireless communication.",
+                "definition_hebrew": "יחידת מדידה המשמשת ברשתות תקשורת כדי לייצג את עוצמת האות או האיכות עבור תקשורת אלחוטית.",
+                "example": "The gsm received power level dropped below the minimum threshold required for a clear connection.",
+                "example_hebrew": "רמת ההספק של gsm שהתקבלה ירדה מתחת לסף המינימלי הנדרש לחיבור ברור."
+            },
+            {
+                "definition": "An abbreviation often used informally to refer to General Secretary of the Communist Party, especially in reference to historical figures like Mao Zedong.",
+                "definition_hebrew": "קיצור המשמש לעתים קרובות באופן לא רשמי כדי להתייחס למזכיר הכללי של המפלגה הקומוניסטית, במיוחד בהתייחסות לדמויות היסטוריות כמו מאו דזה-דונג.",
+                "example": "During discussions about political history, some people jokingly referred to Mao as 'gsm'.",
+                "example_hebrew": "במהלך דיונים על היסטוריה פוליטית, כמה אנשים התייחסו למאו בצחוק כאל 'gsm'."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "postal",
+        "word_hebrew": "דואר",
+        "main_definition": "Relating to or involving the postal system, mail delivery, or related services.",
+        "main_definition_hebrew": "קשור או מעורב במערכת הדואר, משלוח דואר או שירותים קשורים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Pertaining to the post office and its operations",
+                "definition_hebrew": "הנוגע לסניף הדואר ופעולותיו",
+                "example": "She works at the local postal office.",
+                "example_hebrew": "היא עובדת במשרד הדואר המקומי."
+            },
+            {
+                "definition": "Related to mail or letters",
+                "definition_hebrew": "קשור לדואר או למכתבים",
+                "example": "The postal worker sorted through a pile of unsorted mail.",
+                "example_hebrew": "עובד הדואר מיין ערימה של דואר לא ממוין."
+            },
+            {
+                "definition": "Associated with postage stamps and their use",
+                "definition_hebrew": "קשור לבולי דואר והשימוש בהם",
+                "example": "He collects rare and valuable postage stamps.",
+                "example_hebrew": "הוא אוסף בולי דואר נדירים ובעלי ערך."
+            },
+            {
+                "definition": "Describing something delivered through the postal system, such as mail or packages",
+                "definition_hebrew": "תיאור משהו שנמסר באמצעות מערכת הדואר, כגון דואר או חבילות",
+                "example": "The package arrived at my doorstep this morning; it was a postal delivery.",
+                "example_hebrew": "החבילה הגיעה לפתח ביתי הבוקר; זה היה משלוח בדואר."
+            }
+        ]
+    }
+]

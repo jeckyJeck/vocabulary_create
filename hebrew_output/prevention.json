@@ -1,0 +1,40 @@
+[
+    {
+        "word": "prevention",
+        "word_hebrew": "מְנִיעָה",
+        "main_definition": "The act of stopping something undesirable from occurring, typically through proactive measures.",
+        "main_definition_hebrew": "הפעולה של עצירת משהו לא רצוי מלהתרחש, בדרך כלל באמצעות אמצעים יזומים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Taking steps to avoid a negative outcome or event.",
+                "definition_hebrew": "נקיטת צעדים כדי למנוע תוצאה או אירוע שליליים.",
+                "example": "Wearing sunscreen is an effective way to prevent skin damage and reduce the risk of skin cancer.",
+                "example_hebrew": "שימוש בקרם הגנה הוא דרך יעילה למנוע נזק לעור ולהפחית את הסיכון לסרטן העור."
+            },
+            {
+                "definition": "Preventing the spread of disease or illness within a population.",
+                "definition_hebrew": "מניעת התפשטות מחלות או מחלות בתוך אוכלוסייה.",
+                "example": "Vaccinations are used as a method of prevention against infectious diseases like measles, mumps, and rubella.",
+                "example_hebrew": "חיסונים משמשים כשיטת מניעה נגד מחלות זיהומיות כמו חצבת, חזרת ואדמת."
+            },
+            {
+                "definition": "Stopping something harmful before it begins.",
+                "definition_hebrew": "לעצור משהו מזיק לפני שהוא מתחיל.",
+                "example": "Using seatbelts is an example of vehicle safety measures to prevent injuries in case of accidents.",
+                "example_hebrew": "שימוש בחגורות בטיחות הוא דוגמה לאמצעי בטיחות ברכב למניעת פציעות במקרה של תאונות."
+            },
+            {
+                "definition": "Mitigating risks and hazards through planning, education, or protective equipment.",
+                "definition_hebrew": "הפחתת סיכונים וסכנות באמצעות תכנון, חינוך או ציוד מגן.",
+                "example": "Installing smoke detectors at home helps in the prevention of fire-related incidents by alerting occupants early.",
+                "example_hebrew": "התקנת גלאי עשן בבית מסייעת במניעת אירועים הקשורים לשריפה על ידי התראה מוקדמת של הדיירים."
+            },
+            {
+                "definition": "Avoiding certain behaviors that could lead to negative consequences.",
+                "definition_hebrew": "הימנעות מהתנהגויות מסוימות שעלולות להוביל לתוצאות שליליות.",
+                "example": "Choosing not to drive under the influence is a form of behavioral prevention against accidents and legal issues.",
+                "example_hebrew": "הבחירה שלא לנהוג תחת השפעה היא סוג של מניעה התנהגותית נגד תאונות ובעיות משפטיות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "information",
+        "word_hebrew": "מֵידָע",
+        "main_definition": "Information is data that has been processed, organized or presented in a way that gives it meaning or context.",
+        "main_definition_hebrew": "מידע הוא נתונים שעובדו, אורגנו או הוצגו באופן שנותן לו משמעות או הקשר.",
+        "meanings_and_examples": [
+            {
+                "definition": "General knowledge about facts or learnings.",
+                "definition_hebrew": "ידע כללי על עובדות או למידה.",
+                "example": "I have information on the current stock market trends.",
+                "example_hebrew": "יש לי מידע על המגמות הנוכחיות בשוק המניות."
+            },
+            {
+                "definition": "Details, facts, and statistics relevant to a specific topic or issue.",
+                "definition_hebrew": "פרטים, עובדות וסטטיסטיקות רלוונטיות לנושא או לנושא ספציפי.",
+                "example": "The report provided detailed information about climate change impacts.",
+                "example_hebrew": "הדו\"ח סיפק מידע מפורט על השפעות שינויי האקלים."
+            },
+            {
+                "definition": "Data that is used as input for analysis in various fields like science, business, etc.",
+                "definition_hebrew": "נתונים המשמשים כקלט לניתוח בתחומים שונים כמו מדע, עסקים וכו'.",
+                "example": "We collected raw data which was then processed into meaningful information.",
+                "example_hebrew": "אספנו נתונים גולמיים שעובדו לאחר מכן למידע משמעותי."
+            },
+            {
+                "definition": "Intelligence or news about a particular situation or event",
+                "definition_hebrew": "מידע מודיעיני או חדשות על מצב או אירוע מסוים",
+                "example": "The police received crucial information that led to the arrest of criminals.",
+                "example_hebrew": "למשטרה התקבל מידע מכריע שהוביל למעצרם של עבריינים."
+            }
+        ]
+    }
+]

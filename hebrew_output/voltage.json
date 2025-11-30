@@ -1,0 +1,34 @@
+[
+    {
+        "word": "voltage",
+        "word_hebrew": "מתח",
+        "main_definition": "Voltage is the measure of electrical potential difference between two points in an electric circuit, which determines the force or pressure that drives an electric current through a conductor.",
+        "main_definition_hebrew": "מתח הוא המדד להפרש הפוטנציאל החשמלי בין שתי נקודות במעגל חשמלי, שקובע את הכוח או הלחץ שמניע זרם חשמלי דרך מוליך.",
+        "meanings_and_examples": [
+            {
+                "definition": "Electricity's energy per unit charge",
+                "definition_hebrew": "אנרגיית החשמל ליחידת טעינה",
+                "example": "The voltage across a 9-volt battery is approximately 1.3 volts.",
+                "example_hebrew": "המתח על פני סוללת 9 וולט הוא בערך 1.3 וולט."
+            },
+            {
+                "definition": "Potential difference in an electrical circuit",
+                "definition_hebrew": "הבדל פוטנציאלי במעגל חשמלי",
+                "example": "When connecting two points in a circuit, the voltage indicates how much energy is available to move electric charges between those points.",
+                "example_hebrew": "כאשר מחברים שתי נקודות במעגל, המתח מציין כמה אנרגיה זמינה להעברת מטענים חשמליים בין הנקודות הללו."
+            },
+            {
+                "definition": "Symbol for volts (V)",
+                "definition_hebrew": "סמל עבור וולט (V)",
+                "example": "The 'V' symbol represents voltage and can be found on electrical devices like batteries or power supplies.",
+                "example_hebrew": "הסמל 'V' מייצג מתח וניתן למצוא אותו במכשירים חשמליים כמו סוללות או ספקי כוח."
+            },
+            {
+                "definition": "Capacity to do work",
+                "definition_hebrew": "יכולת לבצע עבודה",
+                "example": "In physics, electric potential energy is directly related to the voltage in a circuit, which provides the capacity for doing electrical work.",
+                "example_hebrew": "בפיזיקה, אנרגיה פוטנציאלית חשמלית קשורה ישירות למתח במעגל, המספק את היכולת לבצע עבודה חשמלית."
+            }
+        ]
+    }
+]

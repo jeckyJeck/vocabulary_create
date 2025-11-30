@@ -1,0 +1,34 @@
+[
+    {
+        "word": "mess",
+        "word_hebrew": "אי סדר",
+        "main_definition": "A situation that is disorganized, chaotic, or untidy.",
+        "main_definition_hebrew": "מצב שהוא לא מאורגן, כאוטי או לא מסודר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Disorder or confusion in a physical space",
+                "definition_hebrew": "הפרעה או בלבול במרחב פיזי",
+                "example": "The kitchen was a complete mess after the party.",
+                "example_hebrew": "המטבח היה בלגן מוחלט אחרי המסיבה."
+            },
+            {
+                "definition": "A complicated situation that is difficult to manage or resolve",
+                "definition_hebrew": "מצב מסובך שקשה לנהל או לפתור",
+                "example": "He found himself in quite a mess when he lost his job and couldn't pay rent.",
+                "example_hebrew": "הוא מצא את עצמו בבלגן לא קטן כשאיבד את עבודתו ולא יכול היה לשלם שכר דירה."
+            },
+            {
+                "definition": "To throw something untidily, often resulting in disarray",
+                "definition_hebrew": "לזרוק משהו בצורה לא מסודרת, מה שגורם לרוב לאי סדר",
+                "example": "She accidentally knocked over the vase while trying to clean up her room.",
+                "example_hebrew": "היא הפילה בטעות את האגרטל בזמן שניסתה לנקות את החדר שלה."
+            },
+            {
+                "definition": "A situation or problem that is challenging and requires effort to resolve",
+                "definition_hebrew": "מצב או בעיה מאתגרים ודורשים מאמץ לפתור",
+                "example": "The group was facing a mess when they realized their project deadline had been moved up.",
+                "example_hebrew": "הקבוצה עמדה בפני בלגן כשהבינו שהמועד האחרון לפרויקט שלהם הוזז."
+            }
+        ]
+    }
+]

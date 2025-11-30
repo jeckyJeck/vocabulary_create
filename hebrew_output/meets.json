@@ -1,0 +1,34 @@
+[
+    {
+        "word": "meets",
+        "word_hebrew": "פוגש",
+        "main_definition": "To encounter or come across someone or something at the same place or time.",
+        "main_definition_hebrew": "להיתקל או להיתקל במישהו או משהו באותו מקום או זמן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical meeting of two people in person.",
+                "definition_hebrew": "פגישה פיזית של שני אנשים באופן אישי.",
+                "example": "They decided to meet at the coffee shop after work.",
+                "example_hebrew": "הם החליטו להיפגש בבית הקפה אחרי העבודה."
+            },
+            {
+                "definition": "To fulfill a requirement or condition, often as part of an agenda or schedule.",
+                "definition_hebrew": "כדי למלא דרישה או תנאי, לעתים קרובות כחלק מסדר יום או לוח זמנים.",
+                "example": "The project deadline meets our expectations for quality and timeliness.",
+                "example_hebrew": "מועד הפרויקט עומד בציפיות שלנו לאיכות ולעמידה בזמנים."
+            },
+            {
+                "definition": "Having one's desires or needs coincidentally align with those of someone else.",
+                "definition_hebrew": "רצונותיו או הצרכים של האדם מתאימים באופן מקרי לאלו של מישהו אחר.",
+                "example": "When the donor met the exact specifications required by the charity, it was a perfect match.",
+                "example_hebrew": "כאשר התורם עמד במפרט המדויק שנדרש על ידי ארגון הצדקה, זה היה התאמה מושלמת."
+            },
+            {
+                "definition": "To be on time for an appointment or scheduled event.",
+                "definition_hebrew": "כדי להגיע בזמן לפגישה או לאירוע שנקבע.",
+                "example": "The train meets its schedule and arrives precisely at 3 pm every day.",
+                "example_hebrew": "הרכבת עומדת בלוח הזמנים שלה ומגיעה מדי יום בשעה 15:00 בדיוק."
+            }
+        ]
+    }
+]

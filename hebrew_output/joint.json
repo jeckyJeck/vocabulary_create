@@ -1,0 +1,34 @@
+[
+    {
+        "word": "joint",
+        "word_hebrew": "משותף",
+        "main_definition": "A point or area where two bones are connected in the body, an idiom to describe a partnership between people working together, or a type of food made by cooking meat with vegetables and seasonings.",
+        "main_definition_hebrew": "נקודה או אזור שבו שתי עצמות מחוברות בגוף, ניב לתיאור שותפות בין אנשים שעובדים יחד, או סוג מזון שנעשה מבישול בשר עם ירקות ותבלינים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of human anatomy, it refers to the location where two bones meet and are connected",
+                "definition_hebrew": "בהקשר של האנטומיה האנושית, זה מתייחס למיקום שבו שתי עצמות נפגשות ומחוברות",
+                "example": "The knee is a hinge joint that allows for flexion and extension.",
+                "example_hebrew": "הברך היא מפרק ציר המאפשר כיפוף והרחבה."
+            },
+            {
+                "definition": "An idiomatic expression indicating collaboration or partnership between people",
+                "definition_hebrew": "ביטוי אידיומטי המציין שיתוף פעולה או שותפות בין אנשים",
+                "example": "They have been working on this project as a joint effort, combining their expertise to achieve the best results.",
+                "example_hebrew": "הם עבדו על הפרויקט הזה כמאמץ משותף, תוך שילוב המומחיות שלהם כדי להשיג את התוצאות הטובות ביותר."
+            },
+            {
+                "definition": "A type of food made by cooking meat and vegetables together with seasonings",
+                "definition_hebrew": "סוג מזון המיוצר מבישול בשר וירקות יחד עם תבלינים",
+                "example": "The stew was made using beef chunks, potatoes, carrots, onions, and various herbs as the main ingredients.",
+                "example_hebrew": "התבשיל נעשה באמצעות נתחי בקר, תפוחי אדמה, גזר, בצל ועשבי תיבול שונים כמרכיבים העיקריים."
+            },
+            {
+                "definition": "A legal term referring to a joint tenancy or ownership of property by two or more individuals",
+                "definition_hebrew": "מונח משפטי המתייחס לשכירות משותפת או לבעלות על נכס של שני אנשים או יותר",
+                "example": "They acquired the house under a joint tenancy agreement, meaning they both have equal rights to the property.",
+                "example_hebrew": "הם רכשו את הבית במסגרת הסכם שכירות משותף, כלומר לשניהם יש זכויות שוות בנכס."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "crossing",
+        "word_hebrew": "מעבר",
+        "main_definition": "A point or place where two things, such as roads, rivers, or lines of different properties intersect.",
+        "main_definition_hebrew": "נקודה או מקום שבו שני דברים, כגון כבישים, נהרות או קווים בעלי מאפיינים שונים מצטלבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A road intersection or junction where two or more roads meet and cross each other. Example: We had to wait at the traffic crossing for cars to pass.",
+                "definition_hebrew": "צומת כביש או צומת שבו שני כבישים או יותר נפגשים וחוצים זה את זה. דוגמה: היינו צריכים לחכות במעבר התנועה עד שמכוניות יעברו.",
+                "example": "The pedestrian waited patiently at the street crossing as cars zoomed by.",
+                "example_hebrew": "הולך הרגל המתין בסבלנות במעבר הרחוב כשמכוניות עברו."
+            },
+            {
+                "definition": "A point in a river where it flows into another body of water, like a larger river or sea. Example: The boat had to navigate carefully through the treacherous waters near the river crossing.",
+                "definition_hebrew": "נקודה בנהר שבה הוא זורם לתוך גוף מים אחר, כמו נהר או ים גדולים יותר. דוגמה: הסירה נאלצה לנווט בזהירות במים הבוגדניים ליד מעבר הנהר.",
+                "example": "The town grew around this bustling river crossing.",
+                "example_hebrew": "העיירה גדלה סביב מעבר הנהר השוקק הזה."
+            },
+            {
+                "definition": "A point in space where two lines of different directions intersect. Example: In geometry, we often find a cross-section by intersecting planes with another plane. This gives us the 'crossing' points.",
+                "definition_hebrew": "נקודה במרחב שבה מצטלבים שני קווים בכיוונים שונים. דוגמה: בגיאומטריה, לעתים קרובות אנו מוצאים חתך על ידי חיתוך מישורים עם מישור אחר. זה נותן לנו את נקודות החצייה.",
+                "example": "The artist used the concept of crossing to create an interesting visual effect.",
+                "example_hebrew": "האמן השתמש בקונספט של מעבר כדי ליצור אפקט חזותי מעניין."
+            },
+            {
+                "definition": "A term in sports that describes when one player passes or moves forward from their own goal line into the opponent's goal area. Example: The soccer team celebrated as they successfully completed a series of crossings into the opposing team's net.",
+                "definition_hebrew": "מונח בספורט המתאר כאשר שחקן אחד עובר או נע קדימה מקו השער שלו אל אזור השער של היריב. דוגמה: קבוצת הכדורגל חגגה כשהשלימה בהצלחה סדרת מעברים לרשת של הקבוצה היריבה.",
+                "example": "During basketball, passing the ball across the court is called a 'cross.'",
+                "example_hebrew": "במהלך כדורסל, העברת הכדור על פני המגרש נקראת 'צלבה'."
+            },
+            {
+                "definition": "A point in time or space where two schedules, timelines, or events meet. Example: We had to carefully plan our itinerary so that we could attend both the concert and dinner without missing any crossings.",
+                "definition_hebrew": "נקודת זמן או מרחב שבה שני לוחות זמנים, קווי זמן או אירועים נפגשים. דוגמה: היינו צריכים לתכנן בקפידה את מסלול הטיול שלנו כך שנוכל להשתתף גם בקונצרט וגם בארוחת הערב מבלי להחמיץ שום מעבר.",
+                "example": "Their paths crossed when they were attending the same conference.",
+                "example_hebrew": "דרכיהם הצטלבו כאשר השתתפו באותו כנס."
+            }
+        ]
+    }
+]

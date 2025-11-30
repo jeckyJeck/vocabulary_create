@@ -1,0 +1,34 @@
+[
+    {
+        "word": "log",
+        "word_hebrew": "עֵץ",
+        "main_definition": "A log refers to a record, a piece of wood from a tree, or an expression used in language.",
+        "main_definition_hebrew": "יומן מתייחס לרשומה, פיסת עץ מעץ, או ביטוי המשמש בשפה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Record of events or transactions",
+                "definition_hebrew": "תיעוד אירועים או עסקאות",
+                "example": "The maintenance team kept a detailed log of all repairs made on the building.",
+                "example_hebrew": "צוות התחזוקה ניהל יומן מפורט של כל התיקונים שבוצעו בבניין."
+            },
+            {
+                "definition": "A piece of wood from a tree, often used in construction or as fuel",
+                "definition_hebrew": "פיסת עץ מעץ, משמשת לעתים קרובות בבנייה או כדלק",
+                "example": "He chopped some logs to start a fire in the bonfire pit.",
+                "example_hebrew": "הוא חתך כמה בולי עץ כדי להצית אש בבור המדורה."
+            },
+            {
+                "definition": "An idiomatic expression meaning that something is surprising or unexpected",
+                "definition_hebrew": "ביטוי אידיומטי שפירושו שמשהו מפתיע או בלתי צפוי",
+                "example": "It's not just a log away from becoming your dream job!",
+                "example_hebrew": "זה לא רק יומן מלהיות עבודת החלומות שלך!"
+            },
+            {
+                "definition": "A mathematical unit of measurement for the rate of change of a quantity over time, commonly used in engineering and science",
+                "definition_hebrew": "יחידת מדידה מתמטית לקצב השינוי של כמות לאורך זמן, בשימוש נפוץ בהנדסה ובמדע",
+                "example": "The velocity was calculated by finding the derivative of position with respect to time.",
+                "example_hebrew": "המהירות חושבה על ידי מציאת נגזרת המיקום ביחס לזמן."
+            }
+        ]
+    }
+]

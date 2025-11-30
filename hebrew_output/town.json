@@ -1,0 +1,40 @@
+[
+    {
+        "word": "town",
+        "word_hebrew": "העיר",
+        "main_definition": "A town is a populated area that lies between a city and the countryside, usually characterized by its smaller size compared to cities but with more amenities than rural areas.",
+        "main_definition_hebrew": "עיירה היא אזור מיושב השוכן בין עיר לאזור הכפרי, בדרך כלל מאופיין בגודלו הקטן יותר בהשוואה לערים אך עם יותר שירותים מאשר אזורים כפריים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Geographical location",
+                "definition_hebrew": "מיקום גאוגרפי",
+                "example": "The town of Springfield is located in the state of Illinois.",
+                "example_hebrew": "העיירה ספרינגפילד ממוקמת במדינת אילינוי."
+            },
+            {
+                "definition": "Suburban area or small city",
+                "definition_hebrew": "אזור פרברי או עיר קטנה",
+                "example": "She moved to a charming town where she could enjoy the balance between urban and rural living.",
+                "example_hebrew": "היא עברה לעיר מקסימה שבה יכלה ליהנות מהאיזון בין חיים עירוניים לכפריים."
+            },
+            {
+                "definition": "Historical term for administrative division",
+                "definition_hebrew": "מונח היסטורי לחלוקה מנהלית",
+                "example": "The council of the old town made decisions about local governance in the medieval period.",
+                "example_hebrew": "מועצת העיר העתיקה קיבלה החלטות לגבי הממשל המקומי בתקופת ימי הביניים."
+            },
+            {
+                "definition": "Place where community gathering occurs",
+                "definition_hebrew": "מקום בו מתרחשת התכנסות קהילתית",
+                "example": "Every summer, people from all over the town come together to celebrate the annual fair.",
+                "example_hebrew": "מדי קיץ מתכנסים אנשים מכל רחבי העיר לחגוג את היריד השנתי."
+            },
+            {
+                "definition": "Center of commerce or business in a local area",
+                "definition_hebrew": "מרכז מסחר או עסקים באזור מקומי",
+                "example": "The main street is lined with shops and restaurants that make up the heart of this bustling town.",
+                "example_hebrew": "הרחוב הראשי רצוף בחנויות ומסעדות המרכיבות את לב העיירה ההומה הזו."
+            }
+        ]
+    }
+]

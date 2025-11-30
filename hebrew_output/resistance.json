@@ -1,0 +1,40 @@
+[
+    {
+        "word": "resistance",
+        "word_hebrew": "הִתנַגְדוּת",
+        "main_definition": "The refusal to accept or comply with something; opposition, typically in a political or social context.",
+        "main_definition_hebrew": "הסירוב לקבל או לציית למשהו; אופוזיציה, בדרך כלל בהקשר פוליטי או חברתי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Opposition to an idea or action, often within the realm of physics.",
+                "definition_hebrew": "התנגדות לרעיון או פעולה, לרוב בתחום הפיזיקה.",
+                "example": "The electrical resistance of a wire is measured with a multimeter.",
+                "example_hebrew": "ההתנגדות החשמלית של חוט נמדדת באמצעות מולטימטר."
+            },
+            {
+                "definition": "A person who resists authority, change, or new ideas.",
+                "definition_hebrew": "אדם שמתנגד לסמכות, לשינויים או לרעיונות חדשים.",
+                "example": "She was known for her strong resistance to modern technological advances.",
+                "example_hebrew": "היא נודעה בהתנגדותה החזקה להתקדמות הטכנולוגית המודרנית."
+            },
+            {
+                "definition": "The act of resisting against a force or influence that is trying to alter one's behavior or beliefs.",
+                "definition_hebrew": "הפעולה של התנגדות לכוח או השפעה שמנסה לשנות את ההתנהגות או האמונות של האדם.",
+                "example": "His parents encouraged him to resist peer pressure and stay true to himself.",
+                "example_hebrew": "הוריו עודדו אותו להתנגד ללחץ חברתי ולהישאר נאמן לעצמו."
+            },
+            {
+                "definition": "A movement or protest against an unfavorable political policy, law, or condition.",
+                "definition_hebrew": "תנועה או מחאה נגד מדיניות, חוק או מצב פוליטי שליליים.",
+                "example": "The resistance in their country led a series of demonstrations against the oppressive regime.",
+                "example_hebrew": "ההתנגדות בארצם הובילה שורה של הפגנות נגד המשטר המדכא."
+            },
+            {
+                "definition": "An individual's lack of response to external stimuli due to habituation or fatigue.",
+                "definition_hebrew": "חוסר תגובה של אדם לגירויים חיצוניים עקב התרגלות או עייפות.",
+                "example": "After hours of work, his resistance to answering emails was at an all-time low.",
+                "example_hebrew": "לאחר שעות של עבודה, התנגדותו למענה למיילים הייתה בשפל של כל הזמנים."
+            }
+        ]
+    }
+]

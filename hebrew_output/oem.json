@@ -1,0 +1,28 @@
+[
+    {
+        "word": "oem",
+        "word_hebrew": "oem",
+        "main_definition": "In the context of computing, 'OEM' stands for Original Equipment Manufacturer, referring to a company that produces parts or equipment that may be marketed by another brand.",
+        "main_definition_hebrew": "בהקשר של מחשוב, 'OEM' ראשי תיבות של Original Equipment Manufacturer, הכוונה לחברה המייצרת חלקים או ציוד שעשוי להיות משווק על ידי מותג אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "An OEM is a company that creates products and components that are then incorporated into the final product of another manufacturer. For example, Intel sells processors to computer companies like Dell or HP, who use them in their laptops.",
+                "definition_hebrew": "OEM היא חברה שיוצרת מוצרים ורכיבים המשולבים לאחר מכן במוצר הסופי של יצרן אחר. לדוגמה, אינטל מוכרת מעבדים לחברות מחשבים כמו Dell או HP, שמשתמשות בהם במחשבים הניידים שלהן.",
+                "example": "Dell purchases CPUs from Intel as an OEM.",
+                "example_hebrew": "Dell רוכשת מעבדים מאינטל כ-OEM."
+            },
+            {
+                "definition": "OEM also refers to a type of software license agreement where the original manufacturer allows third-party developers or retailers to use its software in their products. For example, Microsoft provides OEM licenses for its Windows operating system to computer manufacturers.",
+                "definition_hebrew": "OEM מתייחס גם לסוג של הסכם רישיון תוכנה שבו היצרן המקורי מאפשר למפתחים או קמעונאים של צד שלישי להשתמש בתוכנה שלו במוצרים שלהם. לדוגמה, מיקרוסופט מספקת רישיונות OEM עבור מערכת ההפעלה Windows שלה ליצרני מחשבים.",
+                "example": "A smartphone company uses an OEM license from Microsoft to install Windows on its devices.",
+                "example_hebrew": "חברת סמארטפונים משתמשת ברישיון OEM של מיקרוסופט כדי להתקין את Windows במכשיריה."
+            },
+            {
+                "definition": "In the automotive industry, 'OEM' is used to describe a vehicle component or part that comes directly from the manufacturer and is installed in another brand of vehicles. For example, BMW may use OEM parts like engines or transmissions when building their own cars.",
+                "definition_hebrew": "בתעשיית הרכב, 'OEM' משמש לתיאור רכיב רכב או חלק המגיע ישירות מהיצרן ומותקן במותג אחר של רכבים. לדוגמה, BMW עשויה להשתמש בחלקי OEM כמו מנועים או הילוכים בעת בניית המכוניות שלהם.",
+                "example": "A car repair shop uses high-quality OEM tires for its services.",
+                "example_hebrew": "תיקון רכב משתמש בצמיגי OEM איכותיים עבור שירותיה."
+            }
+        ]
+    }
+]

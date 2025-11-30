@@ -1,0 +1,28 @@
+[
+    {
+        "word": "currencies",
+        "word_hebrew": "מטבעות",
+        "main_definition": "Currencies refer to the various forms of money used as a medium of exchange in different countries or regions, including their respective values relative to one another.",
+        "main_definition_hebrew": "מטבעות מתייחסים לצורות השונות של כסף המשמשות כאמצעי חליפין במדינות או אזורים שונים, כולל הערכים שלהם ביחס זה לזה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The monetary units that serve as legal tender within a specific country",
+                "definition_hebrew": "היחידות המוניטריות המשמשות הילך חוקי במדינה מסוימת",
+                "example": "In the United States, the currency is the US Dollar (USD).",
+                "example_hebrew": "בארצות הברית, המטבע הוא דולר אמריקאי (USD)."
+            },
+            {
+                "definition": "Exchange rates between different currencies which determine their relative values and facilitate international trade",
+                "definition_hebrew": "שערי חליפין בין מטבעות שונים הקובעים את ערכם היחסי ומקלים על הסחר הבינלאומי",
+                "example": "As of now, 1 Euro (EUR) is worth approximately 1.20 US Dollars (USD).",
+                "example_hebrew": "נכון לעכשיו, 1 אירו (EUR) שווה בערך 1.20 דולר אמריקאי (USD)."
+            },
+            {
+                "definition": "A diverse collection or assortment of different currencies across the globe",
+                "definition_hebrew": "אוסף מגוון או מבחר של מטבעות שונים ברחבי העולם",
+                "example": "An investor who owns a variety of currencies, such as Japanese Yen (JPY), Australian Dollar (AUD), and Swiss Franc (CHF).",
+                "example_hebrew": "משקיע שמחזיק במגוון מטבעות, כגון ין יפני (JPY), דולר אוסטרלי (AUD) ופרנק שוויצרי (CHF)."
+            }
+        ]
+    }
+]

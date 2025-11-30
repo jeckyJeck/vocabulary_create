@@ -1,0 +1,34 @@
+[
+    {
+        "word": "ceiling",
+        "word_hebrew": "תִקרָה",
+        "main_definition": "The interior upper surface of a room, which may have various meanings depending on context.",
+        "main_definition_hebrew": "המשטח העליון הפנימי של החדר, שעשויות להיות לו משמעויות שונות בהתאם להקשר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Architectural feature",
+                "definition_hebrew": "מאפיין אדריכלי",
+                "example": "The ceiling in the living room had intricate molding and chandeliers.",
+                "example_hebrew": "לתקרה בסלון היו דפוסים מורכבים ונברשות."
+            },
+            {
+                "definition": "Metaphor for an upper limit or maximum level",
+                "definition_hebrew": "מטאפורה לגבול עליון או רמה מקסימלית",
+                "example": "He tried to raise his grades, but there's a ceiling on how much he can improve in one semester.",
+                "example_hebrew": "הוא ניסה להעלות את הציונים שלו, אבל יש תקרה על כמה הוא יכול להשתפר בסמסטר אחד."
+            },
+            {
+                "definition": "The portion of the sky covering a particular area",
+                "definition_hebrew": "חלק השמים המכסה אזור מסוים",
+                "example": "Raindrops were falling from the ceiling above us as we huddled under an umbrella during the storm.",
+                "example_hebrew": "טיפות גשם נפלו מהתקרה מעלינו כשהצטופפנו מתחת למטריה במהלך הסערה."
+            },
+            {
+                "definition": "A term used in finance to describe the maximum amount allowed for spending or investment",
+                "definition_hebrew": "מונח המשמש בפיננסים לתיאור הסכום המקסימלי המותר להוצאה או השקעה",
+                "example": "The budget has a strict ceiling on how much can be spent on marketing this quarter.",
+                "example_hebrew": "לתקציב יש תקרה קפדנית לגבי כמה אפשר להוציא על שיווק ברבעון זה."
+            }
+        ]
+    }
+]

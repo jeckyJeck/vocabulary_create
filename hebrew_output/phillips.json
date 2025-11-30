@@ -1,0 +1,34 @@
+[
+    {
+        "word": "phillips",
+        "word_hebrew": "פיליפס",
+        "main_definition": "The Phillips is a well-known brand of power tools, or it can be used as a surname, indicating an individual's family name.",
+        "main_definition_hebrew": "פיליפס הוא מותג ידוע של כלי עבודה חשמליים, או שהוא יכול לשמש כשם משפחה, המציין את שם המשפחה של אדם.",
+        "meanings_and_examples": [
+            {
+                "definition": "A popular brand of power tools and home appliances",
+                "definition_hebrew": "מותג פופולרי של כלי עבודה חשמליים ומכשירי חשמל ביתיים",
+                "example": "I bought a Phillips head screwdriver to assemble my new furniture.",
+                "example_hebrew": "קניתי מברג פיליפס כדי להרכיב את הרהיטים החדשים שלי."
+            },
+            {
+                "definition": "Surname indicating family origin or affiliation",
+                "definition_hebrew": "שם משפחה המציין מוצא משפחתי או השתייכות",
+                "example": "My grandfather, John Phillips, was an engineer in the 1950s.",
+                "example_hebrew": "סבי, ג'ון פיליפס, היה מהנדס בשנות החמישים."
+            },
+            {
+                "definition": "A mathematical model known as Phillips Curve that describes the inverse relationship between inflation and unemployment rate.",
+                "definition_hebrew": "מודל מתמטי המכונה עקומת פיליפס המתאר את הקשר ההפוך בין אינפלציה לשיעור האבטלה.",
+                "example": "The economist explained how changes in unemployment could affect inflation, referencing the Phillips curve theory.",
+                "example_hebrew": "הכלכלן הסביר כיצד שינויים באבטלה יכולים להשפיע על האינפלציה, תוך התייחסות לתיאוריית עקומת פיליפס."
+            },
+            {
+                "definition": "An abbreviation for a type of screw head used by this brand",
+                "definition_hebrew": "קיצור של סוג ראש בורג המשמש את המותג הזה",
+                "example": "I need to buy a new drill bit that fits my Philips head power tool.",
+                "example_hebrew": "אני צריך לקנות מקדחה חדשה שתתאים לכלי החשמלי שלי בראש פיליפס."
+            }
+        ]
+    }
+]

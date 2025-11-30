@@ -1,0 +1,34 @@
+[
+    {
+        "word": "alert",
+        "word_hebrew": "עֵרָנִי",
+        "main_definition": "An alert is a state of being watchful, ready to react quickly or notify others about something important.",
+        "main_definition_hebrew": "התראה היא מצב של ערנות, מוכן להגיב במהירות או להודיע לאחרים על משהו חשוב.",
+        "meanings_and_examples": [
+            {
+                "definition": "Being vigilant and attentive to potential dangers or opportunities",
+                "definition_hebrew": "להיות ערניים וקשובים לסכנות או הזדמנויות פוטנציאליות",
+                "example": "The security guard stayed alert throughout the night, watching for any suspicious activity.",
+                "example_hebrew": "המאבטח נשאר עירני לאורך כל הלילה, וצפה בכל פעילות חשודה."
+            },
+            {
+                "definition": "An audible warning signal typically used in emergency situations",
+                "definition_hebrew": "אות אזהרה קולי המשמש בדרך כלל במצבי חירום",
+                "example": "When there's a fire alarm, everyone must quickly leave their seats and move to safety as the building goes on alert.",
+                "example_hebrew": "כאשר יש אזעקת אש, כולם חייבים לעזוב במהירות את מקומותיהם ולעבור למקום מבטחים כשהבניין נכנס לכוננות."
+            },
+            {
+                "definition": "A notice or notification issued by an organization about specific information",
+                "definition_hebrew": "הודעה או הודעה שהונפקה על ידי ארגון על מידע ספציפי",
+                "example": "The hospital sent out an alert regarding new health guidelines for visitors during flu season.",
+                "example_hebrew": "בית החולים שלח התראה לגבי הנחיות בריאות חדשות למבקרים בעונת השפעת."
+            },
+            {
+                "definition": "Being aware and ready to respond to something that requires immediate attention",
+                "definition_hebrew": "להיות מודע ומוכן להגיב למשהו שדורש תשומת לב מיידית",
+                "example": "When the smoke alarm went off, I became instantly alert and checked the kitchen for a possible fire.",
+                "example_hebrew": "כשאזעקת העשן נדלקה, נעשיתי ערני מיידית ובדקתי את המטבח לאיתור שריפה אפשרית."
+            }
+        ]
+    }
+]

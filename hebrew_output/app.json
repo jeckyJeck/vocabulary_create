@@ -1,0 +1,40 @@
+[
+    {
+        "word": "app",
+        "word_hebrew": "אפליקציה",
+        "main_definition": "An application (abbreviated as 'app') refers to a software program designed to perform specific functions or tasks, typically running on mobile devices like smartphones and tablets.",
+        "main_definition_hebrew": "אפליקציה (בקיצור 'אפליקציה') מתייחסת לתוכנה המיועדת לבצע פונקציות או משימות ספציפיות, שפועלות בדרך כלל במכשירים ניידים כמו סמארטפונים וטאבלטים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Adaptation of an existing website or content for mobile use",
+                "definition_hebrew": "התאמה של אתר אינטרנט או תוכן קיים לשימוש סלולרי",
+                "example": "The company developed a responsive web design app to ensure their website was accessible on all devices, including smartphones.",
+                "example_hebrew": "החברה פיתחה אפליקציית עיצוב אתרים רספונסיבית כדי להבטיח שהאתר שלה יהיה נגיש בכל המכשירים, כולל סמארטפונים."
+            },
+            {
+                "definition": "Mobile application",
+                "definition_hebrew": "אפליקציה לנייד",
+                "example": "I installed the latest game 'Super Jump' as an app on my iPhone for easy access and playability.",
+                "example_hebrew": "התקנתי את המשחק האחרון 'Super Jump' כאפליקציה באייפון שלי לגישה קלה ויכולת לשחק."
+            },
+            {
+                "definition": "Software application intended to run on mobile devices",
+                "definition_hebrew": "אפליקציית תוכנה המיועדת לפעול במכשירים ניידים",
+                "example": "Tinder is a popular dating app that allows users to connect with others based on mutual interests.",
+                "example_hebrew": "טינדר היא אפליקציית היכרויות פופולרית המאפשרת למשתמשים להתחבר לאחרים על סמך תחומי עניין הדדיים."
+            },
+            {
+                "definition": "Shortened form of 'application', commonly used in the context of downloading software from an app store",
+                "definition_hebrew": "צורה מקוצרת של 'יישום', בשימוש נפוץ בהקשר של הורדת תוכנה מחנות אפליקציות",
+                "example": "'Candy Crush Saga' is a highly addictive mobile game that you can download as an app on your Android device.",
+                "example_hebrew": "'Candy Crush Saga' הוא משחק נייד מאוד ממכר שתוכל להוריד כאפליקציה במכשיר האנדרואיד שלך."
+            },
+            {
+                "definition": "A program designed to run specifically on smartphones or tablets, usually providing specific functionality such as games, social media, productivity tools",
+                "definition_hebrew": "תוכנית המיועדת לפעול במיוחד על סמארטפונים או טאבלטים, בדרך כלל מספקת פונקציונליות ספציפית כגון משחקים, מדיה חברתית, כלי פרודוקטיביות",
+                "example": "'Spotify' is a music streaming app that allows users to listen to millions of songs.",
+                "example_hebrew": "'Spotify' היא אפליקציית הזרמת מוזיקה המאפשרת למשתמשים להאזין למיליוני שירים."
+            }
+        ]
+    }
+]

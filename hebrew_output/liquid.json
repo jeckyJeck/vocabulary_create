@@ -1,0 +1,34 @@
+[
+    {
+        "word": "liquid",
+        "word_hebrew": "נוזל",
+        "main_definition": "Liquid is a state of matter that flows freely, with no fixed shape but taking the shape of its container.",
+        "main_definition_hebrew": "נוזל הוא מצב של חומר שזורם בחופשיות, ללא צורה קבועה אלא מקבל את צורת המיכל שלו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Financial situation or resources: able to provide unlimited funds",
+                "definition_hebrew": "מצב פיננסי או משאבים: מסוגל לספק כספים ללא הגבלה",
+                "example": "He's in financial liquid, so he can pay off any debt.",
+                "example_hebrew": "הוא בנזילות פיננסית, אז הוא יכול לשלם כל חוב."
+            },
+            {
+                "definition": "Easily influenced or affected: something that has a significant impact on others",
+                "definition_hebrew": "מושפע או מושפע בקלות: משהו שיש לו השפעה משמעותית על אחרים",
+                "example": "His opinion is very influential; his thoughts are like a liquid that easily flows and affects people around him.",
+                "example_hebrew": "דעתו משפיעה מאוד; המחשבות שלו הן כמו נוזל שזורם בקלות ומשפיע על אנשים סביבו."
+            },
+            {
+                "definition": "A substance with the physical property of flowing, especially water: something that can be poured or moved freely",
+                "definition_hebrew": "חומר בעל תכונה פיזית של זרימה, במיוחד מים: משהו שניתן לשפוך או להזיז אותו בחופשיות",
+                "example": "The rainwater collected in the bucket was too much to carry all at once; it's like a liquid.",
+                "example_hebrew": "מי הגשמים שנאספו בדלי היו יותר מדי מכדי לשאת בבת אחת; זה כמו נוזל."
+            },
+            {
+                "definition": "A measure of the ability to pay off debts immediately using available assets: financial flexibility",
+                "definition_hebrew": "מדד ליכולת לשלם חובות באופן מיידי באמצעות נכסים זמינים: גמישות פיננסית",
+                "example": "When asked about his credit score, he mentioned that his liquidity is quite high, and he can easily settle any outstanding balances.",
+                "example_hebrew": "כשנשאל על ציון האשראי שלו, הוא ציין שהנזילות שלו די גבוהה, והוא יכול בקלות להסדיר את יתרות החוב."
+            }
+        ]
+    }
+]

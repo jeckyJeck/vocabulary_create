@@ -1,0 +1,34 @@
+[
+    {
+        "word": "definitions",
+        "word_hebrew": "הגדרות",
+        "main_definition": "The meanings of words, phrases or other elements of language as they are explained in a dictionary.",
+        "main_definition_hebrew": "המשמעויות של מילים, ביטויים או מרכיבים אחרים של השפה כפי שהם מוסברים במילון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Explanation of the meaning(s) of a word, term, phrase, etc.",
+                "definition_hebrew": "הסבר על המשמעות של מילה, מונח, ביטוי וכו'.",
+                "example": "The definition of 'run' includes to move swiftly on foot.",
+                "example_hebrew": "ההגדרה של 'ריצה' כוללת לנוע במהירות ברגל."
+            },
+            {
+                "definition": "A set or list of meanings given for words, phrases, terms, etc., typically found in dictionaries.",
+                "definition_hebrew": "קבוצה או רשימה של משמעויות שניתנו למילים, ביטויים, מונחים וכו', הנמצאים בדרך כלל במילונים.",
+                "example": "This dictionary provides definitions for hundreds of English words and their synonyms.",
+                "example_hebrew": "מילון זה מספק הגדרות למאות מילים באנגלית והמילים הנרדפות שלהן."
+            },
+            {
+                "definition": "The act of providing a clear explanation to the meaning or significance of something.",
+                "definition_hebrew": "הפעולה של מתן הסבר ברור למשמעות או המשמעות של משהו.",
+                "example": "His lecture provided a definition of complex economic theories in simple terms.",
+                "example_hebrew": "הרצאתו סיפקה הגדרה של תיאוריות כלכליות מורכבות במונחים פשוטים."
+            },
+            {
+                "definition": "A formal statement that specifies the exact meanings and implications of words, phrases, etc., often used for legal documents.",
+                "definition_hebrew": "הצהרה רשמית המפרטת את המשמעויות וההשלכות המדויקות של מילים, ביטויים וכו', המשמשים לעתים קרובות למסמכים משפטיים.",
+                "example": "The contract included definitions of key terms to avoid ambiguity.",
+                "example_hebrew": "החוזה כלל הגדרות של מונחי מפתח כדי למנוע אי בהירות."
+            }
+        ]
+    }
+]

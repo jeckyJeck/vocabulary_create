@@ -1,0 +1,40 @@
+[
+    {
+        "word": "assign",
+        "word_hebrew": "לְהַקְצוֹת",
+        "main_definition": "To allocate or designate a task, responsibility, or duty to someone.",
+        "main_definition_hebrew": "להקצות או לייעד משימה, אחריות או חובה למישהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Assigning homework to students",
+                "definition_hebrew": "הקצאת שיעורי בית לתלמידים",
+                "example": "The teacher assigned five pages of reading as homework for tonight.",
+                "example_hebrew": "המורה הקצתה להערב חמישה דפי קריאה כשיעורי בית."
+            },
+            {
+                "definition": "Allocating tasks in a project or job",
+                "definition_hebrew": "הקצאת משימות בפרויקט או בעבודה",
+                "example": "As the team leader, I'll assign different roles to each member based on their strengths.",
+                "example_hebrew": "כראש הצוות, אקצה תפקידים שונים לכל חבר על סמך החוזקות שלו."
+            },
+            {
+                "definition": "Assigning blame for an incident",
+                "definition_hebrew": "הטלת האשמה לאירוע",
+                "example": "The manager assigned the responsibility of the mistake to John since it was his error that caused the issue.",
+                "example_hebrew": "המנהל הטיל את האחריות לטעות על ג'ון שכן טעותו היא שגרמה לבעיה."
+            },
+            {
+                "definition": "Giving someone a particular role in a play or performance",
+                "definition_hebrew": "לתת למישהו תפקיד מסוים במחזה או בהצגה",
+                "example": "The director assigned Sarah as the lead actress for her outstanding audition.",
+                "example_hebrew": "הבמאי הקצה את שרה כשחקנית הראשית עבור האודישן המצטיין שלה."
+            },
+            {
+                "definition": "Allocating resources to specific areas or needs",
+                "definition_hebrew": "הקצאת משאבים לתחומים או צרכים ספציפיים",
+                "example": "During the budget planning, we decided to assign more funds towards marketing and less on research development.",
+                "example_hebrew": "במהלך תכנון התקציב, החלטנו להקצות יותר כספים לשיווק ופחות לפיתוח מחקר."
+            }
+        ]
+    }
+]

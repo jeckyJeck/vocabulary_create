@@ -1,0 +1,28 @@
+[
+    {
+        "word": "allocated",
+        "word_hebrew": "מוּקצֶה",
+        "main_definition": "To designate or set aside a specific amount of resources, such as money, time, or space, for a particular purpose.",
+        "main_definition_hebrew": "לייעד או להפריש כמות מסוימת של משאבים, כגון כסף, זמן או מקום, למטרה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Assigned funds to a project or department within an organization",
+                "definition_hebrew": "הקצאת כספים לפרויקט או למחלקה בתוך ארגון",
+                "example": "The company allocated $10,000 from their budget for the new marketing campaign.",
+                "example_hebrew": "החברה הקצתה 10,000 דולר מהתקציב שלה לקמפיין השיווק החדש."
+            },
+            {
+                "definition": "Distributed tasks among team members based on their skills and availability",
+                "definition_hebrew": "חילקו משימות בין חברי הצוות על סמך כישוריהם וזמינותם",
+                "example": "To ensure efficiency, the manager allocated different project responsibilities to each employee according to their expertise.",
+                "example_hebrew": "כדי להבטיח יעילות, המנהל הקצה אחריות פרויקט שונה לכל עובד בהתאם למומחיותו."
+            },
+            {
+                "definition": "Reserved space for a particular use or purpose",
+                "definition_hebrew": "מקום שמור לשימוש או למטרה מסוימת",
+                "example": "The conference room was allocated specifically for team meetings throughout the week.",
+                "example_hebrew": "חדר הישיבות הוקצה במיוחד לישיבות צוות במהלך השבוע."
+            }
+        ]
+    }
+]

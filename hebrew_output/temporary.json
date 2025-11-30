@@ -1,0 +1,40 @@
+[
+    {
+        "word": "temporary",
+        "word_hebrew": "זמני",
+        "main_definition": "Existing or lasting for only a limited period of time; not permanent.",
+        "main_definition_hebrew": "קיים או נמשך לפרק זמן מוגבל בלבד; לא קבוע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Lasting for a short while, not long-term or permanent.",
+                "definition_hebrew": "נמשך לזמן קצר, לא לטווח ארוך או קבוע.",
+                "example": "After the renovation was completed, we had temporary showers until new ones were installed.",
+                "example_hebrew": "לאחר סיום השיפוץ היו לנו מקלחות זמניות עד להתקנת חדשים."
+            },
+            {
+                "definition": "Serving as an interim solution or substitute; taking the place of something else temporarily.",
+                "definition_hebrew": "משמש כפתרון ביניים או תחליף; תופס את מקומו של משהו אחר באופן זמני.",
+                "example": "We hired a temporary manager to cover for our employee who is on vacation next week.",
+                "example_hebrew": "שכרנו מנהל זמני שיכסה את העובד שלנו שנמצא בחופשה בשבוע הבא."
+            },
+            {
+                "definition": "Having limited validity, duration, or importance; not lasting forever.",
+                "definition_hebrew": "בעל תוקף, משך או חשיבות מוגבלים; לא נמשך לנצח.",
+                "example": "The contract she signed with the company was temporary and only applicable until her training period ended.",
+                "example_hebrew": "החוזה שחתמה עם החברה היה זמני וחל רק עד לסיום תקופת ההכשרה שלה."
+            },
+            {
+                "definition": "Intended to be replaced by something better or more permanent in the future.",
+                "definition_hebrew": "מיועד להיות מוחלף במשהו טוב יותר או קבוע יותר בעתיד.",
+                "example": "He started a temporary job while he looked for his dream career opportunity, which he planned to pursue afterward.",
+                "example_hebrew": "הוא התחיל בעבודה זמנית בזמן שחיפש את הזדמנות הקריירה החלומית שלו, שאותה תכנן להמשיך לאחר מכן."
+            },
+            {
+                "definition": "Not fixed or stable; subject to change or variation over time.",
+                "definition_hebrew": "לא קבוע או יציב; נתון לשינויים או שינויים לאורך זמן.",
+                "example": "The weather is usually unpredictable and can be described as temporary due to its frequent changes.",
+                "example_hebrew": "מזג האוויר בדרך כלל בלתי צפוי וניתן לתאר אותו כזמני בשל השינויים התכופים שלו."
+            }
+        ]
+    }
+]

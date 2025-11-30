@@ -1,0 +1,34 @@
+[
+    {
+        "word": "hybrid",
+        "word_hebrew": "היברידי",
+        "main_definition": "A hybrid refers to an entity combining two different elements, or a product of mixed origin that exhibits characteristics from both parent sources.",
+        "main_definition_hebrew": "היברידית מתייחסת לישות המשלבת שני אלמנטים שונים, או תוצר ממקור מעורב המציג מאפיינים משני מקורות האב.",
+        "meanings_and_examples": [
+            {
+                "definition": "Animal offspring resulting from the breeding between animals of different species",
+                "definition_hebrew": "צאצאים של בעלי חיים הנובעים מהתרבות בין בעלי חיים ממינים שונים",
+                "example": "A mule is a hybrid animal, born to a male donkey (jack) and a female horse (mare).",
+                "example_hebrew": "פרד הוא בעל חיים כלאיים, שנולד לחמור זכר (ג'ק) ולנקבה סוס (סוסה)."
+            },
+            {
+                "definition": "Vehicle combining two or more power sources",
+                "definition_hebrew": "רכב המשלב שני מקורות כוח או יותר",
+                "example": "An electric/gasoline-powered car, also known as an EV hybrid vehicle.",
+                "example_hebrew": "מכונית חשמלית / בנזין, המכונה גם רכב היברידי EV."
+            },
+            {
+                "definition": "Technology or product that integrates elements from different fields",
+                "definition_hebrew": "טכנולוגיה או מוצר המשלב אלמנטים מתחומים שונים",
+                "example": "A smartphone can be seen as a technological hybrid, combining communication devices with computing and multimedia capabilities.",
+                "example_hebrew": "ניתן לראות בסמארטפון הכלאה טכנולוגית, המשלבת מכשירי תקשורת עם יכולות מחשוב ומולטימדיה."
+            },
+            {
+                "definition": "Crop resulting from the crossbreeding of two distinct parent plants",
+                "definition_hebrew": "יבול הנובע מהכלאה של שני צמחי אב נפרדים",
+                "example": "The tomato is considered a plant hybrid developed through selective breeding methods.",
+                "example_hebrew": "העגבנייה נחשבת להכלאה צמחית שפותחה בשיטות גידול סלקטיביות."
+            }
+        ]
+    }
+]

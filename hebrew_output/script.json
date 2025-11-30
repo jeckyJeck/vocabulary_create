@@ -1,0 +1,34 @@
+[
+    {
+        "word": "script",
+        "word_hebrew": "תַסרִיט",
+        "main_definition": "A written or pre-planned text, usually used in the context of storytelling, acting, or programming.",
+        "main_definition_hebrew": "טקסט כתוב או מתוכנן מראש, המשמש בדרך כלל בהקשר של סיפור, משחק או תכנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A document containing dialogue and instructions for actors to follow during a play, movie, or television show production",
+                "definition_hebrew": "מסמך המכיל דיאלוג והנחיות לשחקנים לעקוב במהלך הפקת מחזה, סרט או תוכנית טלוויזיה",
+                "example": "The screenwriter wrote an engaging script that captivated the audience's attention.",
+                "example_hebrew": "התסריטאי כתב תסריט מרתק ששבה את תשומת הלב של הקהל."
+            },
+            {
+                "definition": "A computer programming language designed specifically for writing scripts used in automating tasks and processing data",
+                "definition_hebrew": "שפת תכנות מחשב שתוכננה במיוחד לכתיבת סקריפטים המשמשים לאוטומציה של משימות ועיבוד נתונים",
+                "example": "She learned Python to write a script that automatically scrapes web pages for information.",
+                "example_hebrew": "היא למדה את Python לכתוב סקריפט שמגרד אוטומטית דפי אינטרנט למידע."
+            },
+            {
+                "definition": "The written text of an opera or musical piece, including dialogue, lyrics, and stage directions",
+                "definition_hebrew": "הטקסט הכתוב של אופרה או יצירה מוזיקלית, כולל דיאלוג, מילים והנחיות במה",
+                "example": "The libretto is the script of this beautiful Italian opera.",
+                "example_hebrew": "הליברית היא התסריט של האופרה האיטלקית היפה הזו."
+            },
+            {
+                "definition": "A pre-planned sequence of actions for robots or other automated systems to follow when performing a task",
+                "definition_hebrew": "רצף מתוכנן מראש של פעולות עבור רובוטים או מערכות אוטומטיות אחרות לביצוע בעת ביצוע משימה",
+                "example": "The engineers programmed an industrial robot with a new script that improved its efficiency.",
+                "example_hebrew": "המהנדסים תכנתו רובוט תעשייתי עם סקריפט חדש ששיפר את יעילותו."
+            }
+        ]
+    }
+]

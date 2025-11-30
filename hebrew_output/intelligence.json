@@ -1,0 +1,40 @@
+[
+    {
+        "word": "intelligence",
+        "word_hebrew": "אינטליגנציה",
+        "main_definition": "Intelligence refers to the ability of a person or machine to learn, understand complex ideas, adapt to new situations, apply knowledge effectively, and solve problems.",
+        "main_definition_hebrew": "אינטליגנציה מתייחסת ליכולת של אדם או מכונה ללמוד, להבין רעיונות מורכבים, להסתגל למצבים חדשים, ליישם ידע ביעילות ולפתור בעיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "General mental capability including reasoning, comprehension, learning, judgment, problem-solving",
+                "definition_hebrew": "יכולת שכלית כללית כולל חשיבה, הבנה, למידה, שיפוט, פתרון בעיות",
+                "example": "Her intelligence allowed her to quickly grasp complex concepts in physics.",
+                "example_hebrew": "האינטליגנציה שלה אפשרה לה להבין במהירות מושגים מורכבים בפיזיקה."
+            },
+            {
+                "definition": "The collective knowledge and skills of a group or organization",
+                "definition_hebrew": "הידע והמיומנויות הקולקטיביות של קבוצה או ארגון",
+                "example": "The company's intelligence department works tirelessly to gather data for market analysis.",
+                "example_hebrew": "מחלקת המודיעין של החברה פועלת ללא לאות לאיסוף נתונים לצורך ניתוח שוק."
+            },
+            {
+                "definition": "Prior experience, specialized knowledge or expertise in a particular field",
+                "definition_hebrew": "ניסיון קודם, ידע מיוחד או מומחיות בתחום מסוים",
+                "example": "His military intelligence provided critical information about enemy movements during the war.",
+                "example_hebrew": "המודיעין הצבאי שלו סיפק מידע קריטי על תנועות האויב במהלך המלחמה."
+            },
+            {
+                "definition": "An area of study that deals with gathering and analyzing data for use by decision-makers",
+                "definition_hebrew": "תחום לימוד העוסק באיסוף וניתוח נתונים לשימושם של מקבלי ההחלטות",
+                "example": "The intelligence gathered from surveillance was used to plan a counterterrorism operation.",
+                "example_hebrew": "המודיעין שנאסף מהמעקבים שימש לתכנון מבצע סיכול טרור."
+            },
+            {
+                "definition": "A unit in the military whose mission is to collect, analyze, and disseminate information about foreign adversaries or threats",
+                "definition_hebrew": "יחידה בצבא שתפקידה לאסוף, לנתח ולהפיץ מידע על יריבים או איומים זרים",
+                "example": "The CIA and MI6 are examples of intelligence agencies that work to protect national security interests.",
+                "example_hebrew": "ה-CIA וה-MI6 הן דוגמאות לסוכנויות ביון הפועלות להגנה על אינטרסים של ביטחון לאומי."
+            }
+        ]
+    }
+]

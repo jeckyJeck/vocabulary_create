@@ -1,0 +1,40 @@
+[
+    {
+        "word": "actions",
+        "word_hebrew": "פעולות",
+        "main_definition": "Actions refer to the things that people do or behaviors exhibited, which can have various meanings depending on context.",
+        "main_definition_hebrew": "פעולות מתייחסות לדברים שאנשים עושים או להתנהגויות שהפגינו, שיכולות להיות להן משמעויות שונות בהתאם להקשר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical deeds or tasks performed by individuals",
+                "definition_hebrew": "מעשים או משימות פיזיות שבוצעו על ידי יחידים",
+                "example": "She took actions to clean up her messy room.",
+                "example_hebrew": "היא נקטה בפעולות כדי לנקות את החדר המבולגן שלה."
+            },
+            {
+                "definition": "Steps taken towards achieving a goal or objective",
+                "definition_hebrew": "צעדים שננקטו לקראת השגת מטרה או יעד",
+                "example": "His consistent training and hard work were key actions in preparing for the marathon.",
+                "example_hebrew": "האימונים העקביים והעבודה הקשה שלו היו פעולות מפתח בהכנה למרתון."
+            },
+            {
+                "definition": "The behavior exhibited by an individual, especially as it pertains to ethics or morality",
+                "definition_hebrew": "ההתנהגות שמפגין אדם, במיוחד בכל הקשור לאתיקה או מוסר",
+                "example": "His actions demonstrated his commitment to honesty and integrity.",
+                "example_hebrew": "מעשיו הוכיחו את מחויבותו ליושר ויושרה."
+            },
+            {
+                "definition": "Actions in the context of computer programming or software development",
+                "definition_hebrew": "פעולות בהקשר של תכנות מחשבים או פיתוח תוכנה",
+                "example": "The developer implemented new code as an action to improve website performance.",
+                "example_hebrew": "המפתח הטמיע קוד חדש כפעולה לשיפור ביצועי האתר."
+            },
+            {
+                "definition": "Consequences resulting from one's actions, particularly in relation to law and justice",
+                "definition_hebrew": "השלכות הנובעות ממעשיו של האדם, במיוחד ביחס לחוק ומשפט",
+                "example": "He faced legal consequences for his illegal actions.",
+                "example_hebrew": "הוא עמד בפני השלכות משפטיות על מעשיו הבלתי חוקיים."
+            }
+        ]
+    }
+]

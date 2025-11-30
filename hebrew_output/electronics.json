@@ -1,0 +1,34 @@
+[
+    {
+        "word": "electronics",
+        "word_hebrew": "מכשירי חשמל",
+        "main_definition": "Electronics refers to the branch of physics and electrical engineering that deals with the design, development, and application of electronic devices, systems, and circuits.",
+        "main_definition_hebrew": "אלקטרוניקה מתייחסת לענף של פיזיקה והנדסת חשמל העוסק בתכנון, פיתוח ויישום של מכשירים, מערכות ומעגלים אלקטרוניים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The study and practice of creating electrical or electronic equipment or devices.",
+                "definition_hebrew": "הלימוד והתרגול של יצירת ציוד או מכשירים חשמליים או אלקטרוניים.",
+                "example": "John is passionate about electronics. He enjoys building his own computers and gadgets.",
+                "example_hebrew": "ג'ון מתלהב מאלקטרוניקה. הוא נהנה לבנות את המחשבים והגאדג'טים שלו."
+            },
+            {
+                "definition": "Devices that operate using the flow of electrons, such as transistors, diodes, and integrated circuits.",
+                "definition_hebrew": "מכשירים הפועלים באמצעות זרימת אלקטרונים, כגון טרנזיסטורים, דיודות ומעגלים משולבים.",
+                "example": "The smartphone uses various electronic components like microchips to function effectively.",
+                "example_hebrew": "הטלפון החכם משתמש ברכיבים אלקטרוניים שונים כמו שבבים כדי לתפקד ביעילות."
+            },
+            {
+                "definition": "A branch of engineering dealing with devices made from electronic parts that operate on electrical principles.",
+                "definition_hebrew": "ענף הנדסה העוסק במכשירים העשויים מחלקים אלקטרוניים הפועלים על פי עקרונות חשמליים.",
+                "example": "Electronics engineers design and develop circuits, sensors, and other electronic systems used in various industries like automotive or aerospace.",
+                "example_hebrew": "מהנדסי אלקטרוניקה מתכננים ומפתחים מעגלים, חיישנים ומערכות אלקטרוניות אחרות המשמשות בתעשיות שונות כמו רכב או תעופה וחלל."
+            },
+            {
+                "definition": "A field of study concerned with the properties and behavior of electrons and their application in technology.",
+                "definition_hebrew": "תחום מחקר העוסק בתכונות ובהתנהגות של אלקטרונים ויישומם בטכנולוגיה.",
+                "example": "The electronics lab at university conducts research on new materials for electronic devices that can improve energy efficiency.",
+                "example_hebrew": "מעבדת האלקטרוניקה באוניברסיטה עורכת מחקר על חומרים חדשים למכשירים אלקטרוניים שיכולים לשפר את יעילות האנרגיה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "dividend",
+        "word_hebrew": "דיבידנד",
+        "main_definition": "A dividend is a sum of money paid regularly by a company to its shareholders out of the profits or reserves, as a reward for their investment.",
+        "main_definition_hebrew": "דיבידנד הוא סכום כסף שמשלמת באופן קבוע על ידי חברה לבעלי מניותיה מתוך הרווחים או הרזרבות, כפרס על השקעתם.",
+        "meanings_and_examples": [
+            {
+                "definition": "In finance, referring specifically to corporate payments",
+                "definition_hebrew": "בפיננסים, הכוונה ספציפית לתשלומים לחברות",
+                "example": "The company announced an annual dividend payout of $1.20 per share.",
+                "example_hebrew": "החברה הודיעה על תשלום דיבידנד שנתי של 1.20 דולר למניה."
+            },
+            {
+                "definition": "A synonym for the financial reward received by a stockholder from a corporation after its declared profits are distributed",
+                "definition_hebrew": "מילה נרדפת לתגמול הכספי שמקבל בעל מניות מתאגיד לאחר חלוקת הרווחים המוצהרים שלו",
+                "example": "As a stockholder, I am eagerly awaiting my dividend payment this year.",
+                "example_hebrew": "כבעל מניות, אני מחכה בקוצר רוח לתשלום הדיבידנד שלי השנה."
+            },
+            {
+                "definition": "In mathematics and algebra, it refers to a number that results when one quantity is divided by another.",
+                "definition_hebrew": "במתמטיקה ובאלגברה, זה מתייחס למספר שנוצר כאשר כמות אחת מחולקת באחרת.",
+                "example": "If you divide 100 by 25 in math class today, the result is called a dividend of 4.",
+                "example_hebrew": "אם אתה מחלק היום 100 ב-25 בשיעור מתמטיקה, התוצאה נקראת דיבידנד של 4."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "installing",
+        "word_hebrew": "התקנה",
+        "main_definition": "The process of setting up or establishing something, such as software, equipment, or a system.",
+        "main_definition_hebrew": "תהליך הקמה או הקמת משהו, כגון תוכנה, ציוד או מערכת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Setting up computer programs and applications on a device",
+                "definition_hebrew": "הגדרת תוכנות ואפליקציות מחשב במכשיר",
+                "example": "When you install the latest version of Windows on your laptop.",
+                "example_hebrew": "כאשר אתה מתקין את הגרסה האחרונה של Windows במחשב הנייד שלך."
+            },
+            {
+                "definition": "Fitting or fixing equipment in a particular location",
+                "definition_hebrew": "התאמה או תיקון של ציוד במקום מסוים",
+                "example": "The carpenter is installing new cabinets in the kitchen.",
+                "example_hebrew": "הנגר מתקין ארונות חדשים במטבח."
+            },
+            {
+                "definition": "Establishing a system, service, or feature to be used regularly",
+                "definition_hebrew": "הקמת מערכת, שירות או תכונה לשימוש קבוע",
+                "example": "The company installed an advanced security system for its premises.",
+                "example_hebrew": "החברה התקינה מערכת אבטחה מתקדמת לחצריה."
+            },
+            {
+                "definition": "Making something available and operational in a given context",
+                "definition_hebrew": "הפיכת משהו לזמין ומבצעי בהקשר נתון",
+                "example": "We are installing new lighting fixtures throughout the building to improve visibility.",
+                "example_hebrew": "אנו מתקינים גופי תאורה חדשים ברחבי הבניין לשיפור הנראות."
+            },
+            {
+                "definition": "To add or incorporate something into an existing system, structure, or process",
+                "definition_hebrew": "להוסיף או לשלב משהו במערכת, מבנה או תהליך קיימים",
+                "example": "The mechanic is installing a turbocharger in my car's engine.",
+                "example_hebrew": "המוסכניק מתקין מגדש טורבו במנוע של המכונית שלי."
+            }
+        ]
+    }
+]

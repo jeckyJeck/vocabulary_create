@@ -1,0 +1,40 @@
+[
+    {
+        "word": "motors",
+        "word_hebrew": "מנועים",
+        "main_definition": "Motors are mechanical devices designed to convert electrical energy into rotary or linear motion, typically used in vehicles, machines, and various equipment.",
+        "main_definition_hebrew": "מנועים הם מכשירים מכניים שנועדו להמיר אנרגיה חשמלית לתנועה סיבובית או ליניארית, המשמשים בדרך כלל בכלי רכב, מכונות וציוד שונה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Automobile engines",
+                "definition_hebrew": "מנועי רכב",
+                "example": "The V8 engine is a powerful motor commonly found in muscle cars.",
+                "example_hebrew": "מנוע V8 הוא מנוע חזק שנמצא בדרך כלל במכוניות שרירים."
+            },
+            {
+                "definition": "Electric motors",
+                "definition_hebrew": "מנועים חשמליים",
+                "example": "An electric fan uses an electric motor to rotate the blades and circulate air.",
+                "example_hebrew": "מאוורר חשמלי משתמש במנוע חשמלי כדי לסובב את הלהבים ולהזרים אוויר."
+            },
+            {
+                "definition": "Industrial machinery",
+                "definition_hebrew": "מכונות תעשייתיות",
+                "example": "A conveyor belt is driven by a series of small electric motors that move products through a production line.",
+                "example_hebrew": "מסוע מונע על ידי סדרה של מנועים חשמליים קטנים המעבירים מוצרים דרך פס ייצור."
+            },
+            {
+                "definition": "Sailing terminology",
+                "definition_hebrew": "טרמינולוגיית שיט",
+                "example": "The mainsail motor assists in steering the boat when sailing against the wind.",
+                "example_hebrew": "מנוע המפרש הראשי מסייע בהיגוי הסירה בעת הפלגה נגד הרוח."
+            },
+            {
+                "definition": "Pet toys or gadgets for animals",
+                "definition_hebrew": "צעצועים לחיות מחמד או גאדג'טים לבעלי חיים",
+                "example": "A hamster wheel is a type of small motorized exercise device that allows pets to run and keep active.",
+                "example_hebrew": "גלגל אוגר הוא סוג של מכשיר התעמלות ממונע קטן המאפשר לחיות מחמד לרוץ ולשמור על פעילות."
+            }
+        ]
+    }
+]

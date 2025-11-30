@@ -1,0 +1,40 @@
+[
+    {
+        "word": "measures",
+        "word_hebrew": "אמצעים",
+        "main_definition": "The action of measuring, or the results obtained from measurements.",
+        "main_definition_hebrew": "פעולת המדידה, או התוצאות המתקבלות ממדידות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To determine the size, amount, or degree of something using standard units of measurement.",
+                "definition_hebrew": "כדי לקבוע את הגודל, הכמות או המידה של משהו באמצעות יחידות מדידה סטנדרטיות.",
+                "example": "She measures the length of the table in inches.",
+                "example_hebrew": "היא מודדת את אורך השולחן בסנטימטרים."
+            },
+            {
+                "definition": "The process of evaluating or estimating the extent, importance, or value of something.",
+                "definition_hebrew": "תהליך של הערכה או אומדן של היקף, חשיבות או ערכו של משהו.",
+                "example": "To measure a person's success by their impact on others.",
+                "example_hebrew": "למדוד את הצלחתו של אדם לפי השפעתו על אחרים."
+            },
+            {
+                "definition": "An official standard used for determining size, amount, or degree.",
+                "definition_hebrew": "תקן רשמי המשמש לקביעת גודל, כמות או תואר.",
+                "example": "The meter is the international unit of measurement.",
+                "example_hebrew": "המונה הוא יחידת המידה הבינלאומית."
+            },
+            {
+                "definition": "In a broader sense, to assess or consider various aspects related to something.",
+                "definition_hebrew": "במובן הרחב יותר, להעריך או לשקול היבטים שונים הקשורים למשהו.",
+                "example": "Companies often measure their performance by looking at customer satisfaction and sales figures.",
+                "example_hebrew": "חברות מודדות לעתים קרובות את הביצועים שלהן על ידי הסתכלות על שביעות רצון לקוחות ונתוני מכירות."
+            },
+            {
+                "definition": "To gauge or estimate the degree of some attribute in an abstract or subjective manner.",
+                "definition_hebrew": "לאמוד או להעריך את המידה של תכונה כלשהי באופן מופשט או סובייקטיבי.",
+                "example": "The complexity of a problem can be measured on different scales depending on its nature.",
+                "example_hebrew": "ניתן למדוד את מורכבות הבעיה בסולמות שונים בהתאם לאופי שלה."
+            }
+        ]
+    }
+]

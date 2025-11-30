@@ -1,0 +1,28 @@
+[
+    {
+        "word": "tariff",
+        "word_hebrew": "תַעֲרִיף",
+        "main_definition": "A tariff is a tax or duty imposed by a government on imported or exported goods, often used to control trade and protect domestic industries.",
+        "main_definition_hebrew": "מכס הוא מס או חובה המוטלת על ידי ממשלה על סחורות מיובאות או מיוצאות, המשמשים לעתים קרובות לשליטה במסחר ולהגן על תעשיות מקומיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Tariffs as a tool for economic protectionism",
+                "definition_hebrew": "מכסים ככלי לפרוטקציוניזם כלכלי",
+                "example": "The country raised tariffs on steel imports to protect its own struggling steel industry.",
+                "example_hebrew": "המדינה העלתה מכסים על יבוא פלדה כדי להגן על תעשיית הפלדה הנאבקת שלה."
+            },
+            {
+                "definition": "A fixed fee or charge",
+                "definition_hebrew": "עמלה או תשלום קבועים",
+                "example": "The airline introduced a new tariff for economy class passengers, increasing the ticket price by $10 per flight.",
+                "example_hebrew": "חברת התעופה הציגה תעריף חדש לנוסעי מחלקת תיירים, והעלה את מחיר הכרטיס ב-10 דולר לטיסה."
+            },
+            {
+                "definition": "A set of rates that govern trade and taxation between countries",
+                "definition_hebrew": "סט תעריפים המסדירים את הסחר והמיסוי בין מדינות",
+                "example": "The European Union has established common external tariffs to regulate trade within its member states.",
+                "example_hebrew": "האיחוד האירופי קבע מכסים חיצוניים משותפים כדי להסדיר את הסחר בתוך המדינות החברות בו."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "employee",
+        "word_hebrew": "עוֹבֵד",
+        "main_definition": "An individual who is hired by an organization to perform work in exchange for compensation.",
+        "main_definition_hebrew": "אדם שנשכר על ידי ארגון לביצוע עבודה בתמורה לתמורה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A person working at a company or organization, typically on a salary or hourly basis.",
+                "definition_hebrew": "אדם שעובד בחברה או בארגון, בדרך כלל על בסיס משכורת או שעתי.",
+                "example": "John works as an employee at ABC Corporation.",
+                "example_hebrew": "ג'ון עובד כשכיר בתאגיד ABC."
+            },
+            {
+                "definition": "An individual who is part of the workforce and contributes to the productivity of a business or institution.",
+                "definition_hebrew": "אדם המהווה חלק מכוח העבודה ותורם לתפוקה של עסק או מוסד.",
+                "example": "The marketing department relies on its employees for successful campaigns.",
+                "example_hebrew": "מחלקת השיווק מסתמכת על עובדיה לקמפיינים מוצלחים."
+            },
+            {
+                "definition": "A member of staff who has signed an employment contract with terms and conditions agreed upon by both parties.",
+                "definition_hebrew": "חבר צוות שחתם על חוזה עבודה עם תנאים מוסכמים על שני הצדדים.",
+                "example": "Her employee benefits include health insurance, paid vacation days, and retirement plans.",
+                "example_hebrew": "הטבות העובד שלה כוללות ביטוח בריאות, ימי חופשה בתשלום ותוכניות פרישה."
+            }
+        ]
+    }
+]

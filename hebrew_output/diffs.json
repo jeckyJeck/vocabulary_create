@@ -1,0 +1,22 @@
+[
+    {
+        "word": "diffs",
+        "word_hebrew": "הבדלים",
+        "main_definition": "In computing, 'diffs' refers to the differences between two sets of data or files. In idiomatic usage, it can also mean disagreements or conflicts.",
+        "main_definition_hebrew": "במחשוב, 'הבדלים' מתייחס להבדלים בין שתי קבוצות של נתונים או קבצים. בשימוש אידיומטי, זה יכול להיות גם מחלוקות או קונפליקטים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Differences in changes made to versioned files",
+                "definition_hebrew": "הבדלים בשינויים שבוצעו בקבצים עם גרסאות",
+                "example": "After comparing the diffs between versions 1 and 2 of a document, we noticed several significant updates.",
+                "example_hebrew": "לאחר השוואת ההבדלים בין גרסאות 1 ו-2 של מסמך, הבחנו במספר עדכונים משמעותיים."
+            },
+            {
+                "definition": "Disagreements or conflicts between people",
+                "definition_hebrew": "אי הסכמות או קונפליקטים בין אנשים",
+                "example": "There have been some heated 'diffs' among team members regarding the project timeline.",
+                "example_hebrew": "היו כמה 'הבדלים' חריפים בין חברי הצוות בנוגע לציר הזמן של הפרויקט."
+            }
+        ]
+    }
+]

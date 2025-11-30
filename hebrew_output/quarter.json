@@ -1,0 +1,28 @@
+[
+    {
+        "word": "quarter",
+        "word_hebrew": "רובע",
+        "main_definition": "A quarter refers to one-fourth of a whole, 25 percent, or a division of time equaling 15 minutes.",
+        "main_definition_hebrew": "רבע מתייחס לרבע מכלל, 25 אחוז, או חלוקת זמן השווה ל-15 דקות.",
+        "meanings_and_examples": [
+            {
+                "definition": "One fourth of something",
+                "definition_hebrew": "רבע ממשהו",
+                "example": "I cut the cake into quarters to share with my friends.",
+                "example_hebrew": "חתכתי את העוגה לרבעים כדי לחלוק עם חבריי."
+            },
+            {
+                "definition": "A monetary unit equal to 25 cents or one-fourth of a dollar in some currencies, such as the USD and JPY",
+                "definition_hebrew": "יחידה כספית השווה ל-25 סנט או רבע דולר במטבעות מסוימים, כגון דולר ו-JPY",
+                "example": "He paid $0.25 for a pack of gum with quarters.",
+                "example_hebrew": "הוא שילם 0.25 דולר עבור חפיסת מסטיק עם רבעים."
+            },
+            {
+                "definition": "A period of 15 minutes or one-fourth of an hour",
+                "definition_hebrew": "פרק זמן של 15 דקות או רבע שעה",
+                "example": "The meeting was scheduled to start at the quarter past noon, meaning it would begin at 12:15 PM.",
+                "example_hebrew": "הפגישה הייתה אמורה להתחיל ברבע אחר הצהריים, כלומר תתחיל בשעה 12:15."
+            }
+        ]
+    }
+]

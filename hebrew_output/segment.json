@@ -1,0 +1,46 @@
+[
+    {
+        "word": "segment",
+        "word_hebrew": "מִגזָר",
+        "main_definition": "A part or section of a larger whole, often used in various contexts such as business, marketing, anatomy, and mathematics.",
+        "main_definition_hebrew": "חלק או קטע ממכלול גדול יותר, המשמש לעתים קרובות בהקשרים שונים כגון עסקים, שיווק, אנטומיה ומתמטיקה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In business and marketing, a segment refers to a distinct group within a target audience that shares similar characteristics or needs. Companies often divide their customer base into segments for tailored strategies and products.",
+                "definition_hebrew": "בעסקים ובשיווק, פלח מתייחס לקבוצה מובחנת בתוך קהל יעד החולקת מאפיינים או צרכים דומים. חברות לעתים קרובות מחלקות את בסיס הלקוחות שלהן למגזרים עבור אסטרטגיות ומוצרים מותאמים.",
+                "example": "The company identified four key demographic segments: young adults aged 18-24, families with children, seniors over 60, and professionals in the age range of 35-50.",
+                "example_hebrew": "החברה זיהתה ארבעה פלחים דמוגרפיים מרכזיים: צעירים בגילאי 18-24, משפחות עם ילדים, קשישים מעל גיל 60 ואנשי מקצוע בטווח הגילאים 35-50."
+            },
+            {
+                "definition": "In anatomy, a segment refers to a division or subdivision within certain body parts, especially relating to joints.",
+                "definition_hebrew": "באנטומיה, מקטע מתייחס לחלוקה או תת-חלוקה בתוך חלקי גוף מסוימים, במיוחד הקשורים למפרקים.",
+                "example": "The vertebral column is divided into segments known as cervical (neck), thoracic (chest), and lumbar (lower back) regions.",
+                "example_hebrew": "עמוד החוליה מחולק למקטעים הידועים כאזורי צוואר הרחם (צוואר), בית החזה (החזה) והמותני (גב תחתון)."
+            },
+            {
+                "definition": "In mathematics, a segment refers to the portion of a line or curve that connects two distinct points.",
+                "definition_hebrew": "במתמטיקה, קטע מתייחס לחלק של קו או עקומה המחבר בין שתי נקודות שונות.",
+                "example": "The line segment joining points A(-2, 3) and B(4, -1) has endpoints at (-2, 3) and (4, -1).",
+                "example_hebrew": "לקטע הקו המחבר את הנקודות A(-2, 3) ו-B(4, -1) יש נקודות קצה ב-(-2, 3) ו-(4, -1)."
+            },
+            {
+                "definition": "In computer graphics and technology, a segment refers to a portion of a digital image or file, such as an audio waveform.",
+                "definition_hebrew": "בגרפיקה וטכנולוגיה ממוחשבת, קטע מתייחס לחלק מתמונה או קובץ דיגיטליים, כגון צורת גל שמע.",
+                "example": "The video editing software allows users to slice the footage into segments for easier manipulation and exporting.",
+                "example_hebrew": "תוכנת עריכת הווידאו מאפשרת למשתמשים לפרוס את הצילומים למקטעים לצורך מניפולציה וייצוא קלים יותר."
+            },
+            {
+                "definition": "In timekeeping, a segment refers to a part of an hour divided by the minutes hand on a clock or watch.",
+                "definition_hebrew": "בקביעת זמן, קטע מתייחס לחלק משעה חלקי מחוג הדקות על שעון או שעון.",
+                "example": "When the minute hand is pointing at 15, it indicates that one quarter of the hour has passed.",
+                "example_hebrew": "כאשר מחוג הדקות מצביע על 15, זה מציין שעבר רבע שעה."
+            },
+            {
+                "definition": "In surveying and mapping, a segment refers to a part of a boundary line, such as a property line or road.",
+                "definition_hebrew": "במדידות ומיפוי, קטע מתייחס לחלק מקו גבול, כגון קו רכוש או כביש.",
+                "example": "The surveyor marked two segments along the fence line to define the boundaries for each adjacent landowner's property.",
+                "example_hebrew": "המודד סימן שני קטעים לאורך קו הגדר כדי להגדיר את הגבולות לכל נכס של בעל קרקע סמוך."
+            }
+        ]
+    }
+]

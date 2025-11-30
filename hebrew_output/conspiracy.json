@@ -1,0 +1,28 @@
+[
+    {
+        "word": "conspiracy",
+        "word_hebrew": "קֶשֶׁר",
+        "main_definition": "A secret plan by a group of people to do something unlawful or harmful.",
+        "main_definition_hebrew": "תוכנית סודית של קבוצת אנשים לעשות משהו לא חוקי או מזיק.",
+        "meanings_and_examples": [
+            {
+                "definition": "An agreement between two or more persons to commit an illegal act.",
+                "definition_hebrew": "הסכם בין שני אנשים או יותר לביצוע מעשה בלתי חוקי.",
+                "example": "The conspiracy to overthrow the government involved several high-ranking officials.",
+                "example_hebrew": "הקנוניה להפיל את הממשלה כללה כמה פקידים בכירים."
+            },
+            {
+                "definition": "A plot involving secretive planning and coordination among individuals with a common goal, which can be either harmful or beneficial.",
+                "definition_hebrew": "עלילה הכוללת תכנון ותיאום חשאי בין אנשים עם מטרה משותפת, שיכולה להיות מזיקה או מועילה.",
+                "example": "They were unaware of their neighbor's conspiracy to organize community volunteers for the local park clean-up.",
+                "example_hebrew": "הם לא היו מודעים לקנוניה של שכניהם לארגן מתנדבי קהילה לניקוי הפארק המקומי."
+            },
+            {
+                "definition": "The act of secretly planning and preparing to carry out an action that is often considered negative or against established laws.",
+                "definition_hebrew": "פעולה של תכנון והכנה בסתר לביצוע פעולה הנחשבת לרוב שלילית או בניגוד לחוקים שנקבעו.",
+                "example": "Detectives investigated a conspiracy involving smuggling rare artifacts from Egypt.",
+                "example_hebrew": "הבלשים חקרו קונספירציה שכללה הברחת חפצים נדירים ממצרים."
+            }
+        ]
+    }
+]

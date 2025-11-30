@@ -1,0 +1,34 @@
+[
+    {
+        "word": "context",
+        "word_hebrew": "הֶקשֵׁר",
+        "main_definition": "The circumstances or setting that form the backdrop to an event, statement, or idea, and which help clarify its meaning.",
+        "main_definition_hebrew": "הנסיבות או התפאורה המהווים רקע לאירוע, אמירה או רעיון, ואשר מסייעים להבהיר את משמעותו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Surrounding information that helps understand a situation or text",
+                "definition_hebrew": "מידע מקיף שעוזר להבין מצב או טקסט",
+                "example": "In order to fully grasp the poem's meaning, you must consider the context in which it was written.",
+                "example_hebrew": "כדי להבין את משמעות השיר במלואה, עליך לשקול את ההקשר שבו הוא נכתב."
+            },
+            {
+                "definition": "The environment or setting where an event takes place",
+                "definition_hebrew": "הסביבה או התפאורה שבה מתרחש אירוע",
+                "example": "The context of the conversation revealed that they were discussing a serious topic at a funeral.",
+                "example_hebrew": "ההקשר של השיחה העלה שהם דנו בנושא רציני בהלוויה."
+            },
+            {
+                "definition": "Related circumstances, conditions, or events surrounding something else",
+                "definition_hebrew": "נסיבות, תנאים או אירועים קשורים סביב משהו אחר",
+                "example": "In the context of global warming, reducing carbon emissions is crucial.",
+                "example_hebrew": "בהקשר של ההתחממות הגלובלית, הפחתת פליטת הפחמן היא חיונית."
+            },
+            {
+                "definition": "The background or situation that gives a concept its full meaning",
+                "definition_hebrew": "הרקע או המצב שנותן למושג את משמעותו המלאה",
+                "example": "To understand his motivation for starting a business, we must consider the economic context of his life.",
+                "example_hebrew": "כדי להבין את המוטיבציה שלו לפתיחת עסק, עלינו להתחשב בהקשר הכלכלי של חייו."
+            }
+        ]
+    }
+]

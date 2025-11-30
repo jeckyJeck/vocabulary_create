@@ -1,0 +1,40 @@
+[
+    {
+        "word": "push",
+        "word_hebrew": "לִדחוֹף",
+        "main_definition": "To apply force to move something away from oneself or another object, typically in a forward direction.",
+        "main_definition_hebrew": "להפעיל כוח כדי להרחיק משהו מעצמך או מאובייקט אחר, בדרך כלל בכיוון קדימה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To exert physical effort to move an object towards oneself or away from a surface",
+                "definition_hebrew": "להפעיל מאמץ פיזי כדי להזיז אובייקט לעבר עצמו או הרחק ממשטח",
+                "example": "He pushed the door open with his hands.",
+                "example_hebrew": "הוא פתח את הדלת בידיו."
+            },
+            {
+                "definition": "To encourage someone, typically in order to prompt action or progress",
+                "definition_hebrew": "לעודד מישהו, בדרך כלל על מנת לעודד פעולה או התקדמות",
+                "example": "I'll push you to apply for that job even though it seems challenging.",
+                "example_hebrew": "אני אדחוף אותך להגיש מועמדות למשרה הזו למרות שזה נראה מאתגר."
+            },
+            {
+                "definition": "To promote the sale of a product by actively marketing and selling it",
+                "definition_hebrew": "לקדם מכירה של מוצר על ידי שיווק ומכירתו באופן אקטיבי",
+                "example": "The sales team decided to push their new line of shoes at the mall this weekend.",
+                "example_hebrew": "צוות המכירות החליט לדחוף את קו הנעליים החדש שלהם בקניון בסוף השבוע הזה."
+            },
+            {
+                "definition": "A request for someone's help or support in achieving something",
+                "definition_hebrew": "בקשה לעזרה או תמיכה של מישהו בהשגת משהו",
+                "example": "Please don't hesitate to push me if you think I can handle that project, it means a lot!",
+                "example_hebrew": "אנא אל תהסס לדחוף אותי אם אתה חושב שאני יכול להתמודד עם הפרויקט הזה, זה אומר הרבה!"
+            },
+            {
+                "definition": "In computing and technology, the act of sending data or information from one system to another",
+                "definition_hebrew": "במחשוב וטכנולוגיה, פעולת שליחת נתונים או מידע ממערכת אחת לאחרת",
+                "example": "She had to push the button on the printer to send her document across the network.",
+                "example_hebrew": "היא נאלצה ללחוץ על הכפתור במדפסת כדי לשלוח את המסמך שלה ברחבי הרשת."
+            }
+        ]
+    }
+]

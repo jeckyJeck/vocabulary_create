@@ -1,0 +1,40 @@
+[
+    {
+        "word": "proceeding",
+        "word_hebrew": "ממשיך",
+        "main_definition": "A sequence of events or actions that follow a particular order, especially in legal matters or processes.",
+        "main_definition_hebrew": "רצף של אירועים או פעולות העוקבים אחר סדר מסוים, במיוחד בעניינים או תהליכים משפטיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of a court trial, it refers to the series of steps and proceedings that take place during litigation.",
+                "definition_hebrew": "בהקשר של משפט בבית המשפט, הכוונה היא לסדרת הצעדים וההליכים המתקיימים במהלך התדיינות משפטית.",
+                "example": "The criminal trial proceeded with jury selection followed by opening statements.",
+                "example_hebrew": "המשפט הפלילי המשיך בבחירת חבר המושבעים ואחריו הצהרות פתיחה."
+            },
+            {
+                "definition": "Regarding an event or process, it means the course of action taken after a particular point has been reached.",
+                "definition_hebrew": "לגבי אירוע או תהליך, פירוש הדבר הוא דרך הפעולה שננקטה לאחר שהגיעה לנקודה מסוימת.",
+                "example": "After receiving the grant approval, the project proceeding involved hiring additional staff and purchasing necessary equipment.",
+                "example_hebrew": "לאחר קבלת אישור המענק, הליך הפרויקט כלל שכירת צוות נוסף ורכישת ציוד הכרחי."
+            },
+            {
+                "definition": "In engineering or manufacturing, it can refer to the continuation or sequence of operations that lead up to a product's completion.",
+                "definition_hebrew": "בהנדסה או בייצור, זה יכול להתייחס להמשך או לרצף של פעולות שמובילות להשלמת מוצר.",
+                "example": "The assembly proceedings included welding, painting, and final inspection stages.",
+                "example_hebrew": "הליכי ההרכבה כללו שלבי ריתוך, צביעה ובדיקה סופית."
+            },
+            {
+                "definition": "When referring to administrative actions, it signifies the steps taken by an organization or government agency in response to specific requests or regulations.",
+                "definition_hebrew": "כאשר מתייחסים לפעולות מנהליות, זה מסמל את הצעדים שנקטו ארגון או סוכנות ממשלתית בתגובה לבקשות או תקנות ספציפיות.",
+                "example": "Upon receiving a permit application, the city's planning department began the proceedings of reviewing and approval.",
+                "example_hebrew": "עם קבלת הבקשה להיתר, החלה אגף התכנון בעיר בהליכי עיון ואישור."
+            },
+            {
+                "definition": "In project management, it indicates the progress made toward achieving a project goal after certain milestones have been reached.",
+                "definition_hebrew": "בניהול פרויקטים, הוא מציין את ההתקדמות שנעשתה לקראת השגת יעד פרויקט לאחר שהושגו אבני דרך מסוימות.",
+                "example": "The construction project is on schedule with all major structural work completed in the proceedings phase.",
+                "example_hebrew": "פרויקט הבנייה עומד בלוח הזמנים כאשר כל עבודות המבנים הגדולות הושלמו בשלב ההליכים."
+            }
+        ]
+    }
+]

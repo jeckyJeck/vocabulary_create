@@ -1,0 +1,34 @@
+[
+    {
+        "word": "weapons",
+        "word_hebrew": "כלי נשק",
+        "main_definition": "Weapons refer to objects or tools designed and used with the primary purpose of causing harm, damage, or injury to others in various contexts such as warfare, self-defense, sports, etc.",
+        "main_definition_hebrew": "כלי נשק מתייחסים לחפצים או לכלים שתוכננו והשתמשו בהם במטרה העיקרית של גרימת נזק, נזק או פציעה לאחרים בהקשרים שונים כגון לוחמה, הגנה עצמית, ספורט וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "Items used for military purposes",
+                "definition_hebrew": "פריטים המשמשים למטרות צבאיות",
+                "example": "During World War II, soldiers carried rifles and grenades as weapons.",
+                "example_hebrew": "במהלך מלחמת העולם השנייה, חיילים נשאו רובים ורימונים כנשק."
+            },
+            {
+                "definition": "Tools or devices that can cause harm in self-defense situations",
+                "definition_hebrew": "כלים או מכשירים שעלולים לגרום לנזק במצבי הגנה עצמית",
+                "example": "A pepper spray is a legal non-lethal weapon used by civilians for personal protection.",
+                "example_hebrew": "גז פלפל הוא נשק חוקי שאינו קטלני המשמש אזרחים להגנה אישית."
+            },
+            {
+                "definition": "Devices employed in sports to score points, often with an element of risk or danger",
+                "definition_hebrew": "מכשירים המופעלים בספורט כדי לצבור נקודות, לעתים קרובות עם אלמנט של סיכון או סכנה",
+                "example": "Basketball players use their hands as weapons when they dunk the ball into the hoop.",
+                "example_hebrew": "שחקני כדורסל משתמשים בידיהם ככלי נשק כשהם מטביעים את הכדור לתוך החישוק."
+            },
+            {
+                "definition": "Objects used metaphorically to describe aggressive behavior in business or negotiations",
+                "definition_hebrew": "אובייקטים המשמשים באופן מטפורי לתיאור התנהגות אגרסיבית בעסקים או במשא ומתן",
+                "example": "The company's competitive pricing strategy can be seen as a weapon against smaller rivals.",
+                "example_hebrew": "ניתן לראות באסטרטגיית התמחור התחרותית של החברה נשק נגד יריבים קטנים יותר."
+            }
+        ]
+    }
+]

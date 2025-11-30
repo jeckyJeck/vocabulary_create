@@ -1,0 +1,28 @@
+[
+    {
+        "word": "stolen",
+        "word_hebrew": "גָנוּב",
+        "main_definition": "To take something without permission, typically in a sneaky or illegal way.",
+        "main_definition_hebrew": "לקחת משהו ללא רשות, בדרך כלל בצורה ערמומית או לא חוקית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Act of taking property without the owner's consent.",
+                "definition_hebrew": "מעשה לקיחת רכוש ללא הסכמת הבעלים.",
+                "example": "The valuable painting was stolen from the museum.",
+                "example_hebrew": "הציור יקר הערך נגנב מהמוזיאון."
+            },
+            {
+                "definition": "To acquire something illicitly or by deceit.",
+                "definition_hebrew": "לרכוש משהו שלא כדין או במרמה.",
+                "example": "She felt guilty after she had stolen a dollar from her friend's wallet.",
+                "example_hebrew": "היא הרגישה אשמה לאחר שגנבה דולר מהארנק של חברתה."
+            },
+            {
+                "definition": "Refers to an action that is done secretly or without permission, not necessarily involving theft.",
+                "definition_hebrew": "הכוונה לפעולה הנעשית בסתר או ללא רשות, לא בהכרח כרוכה בגניבה.",
+                "example": "The company discovered their competitors were using stolen trade secrets.",
+                "example_hebrew": "החברה גילתה שהמתחרים שלהם השתמשו בסודות מסחריים גנובים."
+            }
+        ]
+    }
+]

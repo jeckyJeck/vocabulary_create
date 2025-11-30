@@ -1,0 +1,34 @@
+[
+    {
+        "word": "seconds",
+        "word_hebrew": "שניות",
+        "main_definition": "Seconds can refer to a unit of time, the second hand of a clock or watch, a measure of importance in decision-making, or an alternative term for someone who is not yet part of a group.",
+        "main_definition_hebrew": "שניות יכולות להתייחס ליחידת זמן, מחוג שני של שעון או שעון, מדד לחשיבות בקבלת החלטות, או מונח חלופי למי שעדיין אינו חלק מקבוצה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A unit of time equal to 1/60th of a minute",
+                "definition_hebrew": "יחידת זמן שווה ל-1/60 הדקה",
+                "example": "The race lasted for three seconds.",
+                "example_hebrew": "המרוץ נמשך שלוש שניות."
+            },
+            {
+                "definition": "The second hand on a clock or watch that measures the passage of time",
+                "definition_hebrew": "המחוג השני על שעון או שעון שמודד את חלוף הזמן",
+                "example": "I checked my watch and saw that I had only 15 seconds left before class started.",
+                "example_hebrew": "בדקתי את השעון וראיתי שנותרו לי רק 15 שניות לפני תחילת השיעור."
+            },
+            {
+                "definition": "Used to describe something of lesser importance in decision-making, implying it's a secondary or backup option",
+                "definition_hebrew": "משמש לתיאור משהו בעל חשיבות פחותה בקבלת החלטות, ומרמז שזו אפשרות משנית או גיבוי",
+                "example": "After considering all the candidates for the job position, we decided that John was our second choice.",
+                "example_hebrew": "לאחר ששקלנו את כל המועמדים לתפקיד, החלטנו שג'ון הוא הבחירה השנייה שלנו."
+            },
+            {
+                "definition": "An alternative term used to refer to someone who is not yet part of a group or team",
+                "definition_hebrew": "מונח חלופי המשמש להתייחס למי שעדיין אינו חלק מקבוצה או צוות",
+                "example": "In the soccer match, he played as the seconds until the substitute player arrived.",
+                "example_hebrew": "במשחק הכדורגל הוא שיחק בתור השניות עד להגעת השחקן המחליף."
+            }
+        ]
+    }
+]

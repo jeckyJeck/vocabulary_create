@@ -1,0 +1,40 @@
+[
+    {
+        "word": "null",
+        "word_hebrew": "ריק",
+        "main_definition": "Null refers to the concept of nothingness, absence, or a lack of value in various contexts.",
+        "main_definition_hebrew": "Null מתייחס למושג האין, היעדר או חוסר ערך בהקשרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A value that represents no quantity or magnitude",
+                "definition_hebrew": "ערך שאינו מייצג כמות או גודל",
+                "example": "In programming, 'null' is often used to represent an uninitialized variable.",
+                "example_hebrew": "בתכנות, 'null' משמש לעתים קרובות כדי לייצג משתנה לא מאותחל."
+            },
+            {
+                "definition": "The null pointer in computer science",
+                "definition_hebrew": "מצביע האפס במדעי המחשב",
+                "example": "Attempting to access a memory location through a null pointer will typically result in an error or crash the program.",
+                "example_hebrew": "ניסיון לגשת למיקום זיכרון דרך מצביע null יגרום בדרך כלל לשגיאה או לקריסת התוכנית."
+            },
+            {
+                "definition": "A placeholder for nothing or no value",
+                "definition_hebrew": "מציין מקום ללא שום ערך",
+                "example": "When you don't have any plans, you might say 'I have null for Monday.'",
+                "example_hebrew": "כשאין לך תוכניות, אתה יכול להגיד 'יש לי ריק ליום שני'."
+            },
+            {
+                "definition": "In statistics, a value that indicates the absence of data or an incomplete sample",
+                "definition_hebrew": "בסטטיסטיקה, ערך שמעיד על היעדר נתונים או מדגם לא שלם",
+                "example": "A survey may report a response rate of 0%, indicating that no one responded to it.",
+                "example_hebrew": "סקר עשוי לדווח על שיעור תגובה של 0%, המעיד על כך שאיש לא הגיב לו."
+            },
+            {
+                "definition": "The concept of nullity in law and philosophy",
+                "definition_hebrew": "מושג הבטלות במשפט ובפילוסופיה",
+                "example": "In certain legal contexts, the term 'null marriage' refers to an unlawful or invalid marriage.",
+                "example_hebrew": "בהקשרים משפטיים מסוימים, המונח 'נישואים בטלים' מתייחס לנישואים בלתי חוקיים או פסולים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "monitor",
+        "word_hebrew": "לפקח",
+        "main_definition": "A monitor is a device used to display output from a computer or to supervise, observe, or keep track of something.",
+        "main_definition_hebrew": "צג הוא מכשיר המשמש להצגת פלט ממחשב או לפיקוח, התבוננות או מעקב אחר משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To watch over and check regularly (something), especially for problems or issues",
+                "definition_hebrew": "להשגיח ולבדוק באופן קבוע (משהו), במיוחד לבעיות או בעיות",
+                "example": "The manager monitors the progress of the project to ensure it stays on schedule.",
+                "example_hebrew": "המנהל עוקב אחר התקדמות הפרויקט כדי לוודא שהוא עומד בלוח הזמנים."
+            },
+            {
+                "definition": "A screen used in computers, televisions, etc., displaying information provided by a computer program",
+                "definition_hebrew": "מסך המשמש במחשבים, טלוויזיות וכו', המציג מידע המסופק על ידי תוכנת מחשב",
+                "example": "She adjusted her monitor's brightness and contrast settings for better visibility.",
+                "example_hebrew": "היא התאימה את הגדרות הבהירות והניגודיות של הצג שלה לחשיפה טובה יותר."
+            },
+            {
+                "definition": "To keep track of or observe the behavior of an animal (especially those in captivity)",
+                "definition_hebrew": "לעקוב אחר או לצפות בהתנהגות של בעל חיים (במיוחד אלה שבשבי)",
+                "example": "The zookeeper monitors the primates to ensure they are healthy and not showing signs of distress.",
+                "example_hebrew": "שומר גן החיות עוקב אחר הפרימטים כדי לוודא שהם בריאים ואינם מראים סימני מצוקה."
+            },
+            {
+                "definition": "A person employed to monitor the activities, progress, or performance of a particular task or group",
+                "definition_hebrew": "אדם המועסק כדי לפקח על הפעילויות, ההתקדמות או הביצוע של משימה או קבוצה מסוימת",
+                "example": "An IT specialist was hired as a monitor for our network security team.",
+                "example_hebrew": "מומחה IT נשכר כמוניטור עבור צוות אבטחת הרשת שלנו."
+            },
+            {
+                "definition": "To check (a device or system) periodically to ensure it is working properly",
+                "definition_hebrew": "לבדוק (מכשיר או מערכת) מעת לעת כדי לוודא שהוא פועל כהלכה",
+                "example": "The technician monitors the server every hour to prevent any potential issues.",
+                "example_hebrew": "הטכנאי מנטר את השרת כל שעה כדי למנוע בעיות פוטנציאליות."
+            }
+        ]
+    }
+]

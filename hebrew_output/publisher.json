@@ -1,0 +1,40 @@
+[
+    {
+        "word": "publisher",
+        "word_hebrew": "מוֹצִיא לָאוֹר",
+        "main_definition": "A publisher is a person or company responsible for preparing content for publication and distributing it to the general public, typically in printed or digital form.",
+        "main_definition_hebrew": "מוציא לאור הוא אדם או חברה האחראים על הכנת תוכן לפרסום והפצתו לציבור הרחב, בדרך כלל בצורה מודפסת או דיגיטלית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Individual who initiates the process of publishing books or magazines",
+                "definition_hebrew": "אדם שמתחיל תהליך של הוצאת ספרים או מגזינים",
+                "example": "Emma decided to become a publisher and launched her own imprint for children's literature.",
+                "example_hebrew": "אמה החליטה להיות מוציאה לאור והשיקה חותם משלה לספרות ילדים."
+            },
+            {
+                "definition": "A company that produces printed materials such as newspapers, books, and journals",
+                "definition_hebrew": "חברה המייצרת חומרים מודפסים כגון עיתונים, ספרים וכתבי עת",
+                "example": "The Pearson Group is one of the largest publishing companies in the world, offering a variety of educational resources.",
+                "example_hebrew": "קבוצת פירסון היא אחת מחברות ההוצאה לאור הגדולות בעולם, המציעה מגוון משאבים חינוכיים."
+            },
+            {
+                "definition": "Someone who edits and oversees the production of content for publication",
+                "definition_hebrew": "מי שעורך ומפקח על הפקת תוכן לפרסום",
+                "example": "As an editor at HarperCollins, John was responsible for reviewing manuscripts before they were published.",
+                "example_hebrew": "כעורך ב-HarperCollins, ג'ון היה אחראי על סקירת כתבי היד לפני שפורסמו."
+            },
+            {
+                "definition": "An entity that manages the distribution and sale of digital media like e-books, online articles, and software",
+                "definition_hebrew": "גוף המנהל את ההפצה והמכירה של מדיה דיגיטלית כמו ספרים אלקטרוניים, מאמרים מקוונים ותוכנה",
+                "example": "Apple's iBookstore is a publisher of digital content, allowing authors to sell their work directly to consumers.",
+                "example_hebrew": "חנות iBookstore של אפל היא מוציאה לאור של תוכן דיגיטלי, המאפשרת לסופרים למכור את עבודתם ישירות לצרכנים."
+            },
+            {
+                "definition": "A business that acquires the rights to existing works with plans to produce and distribute them as new editions",
+                "definition_hebrew": "עסק שרוכש את הזכויות על יצירות קיימות עם תוכניות להפקה ולהפצתן כמהדורות חדשות",
+                "example": "Penguin Random House often acts as a publisher by releasing reprinted versions of classic novels.",
+                "example_hebrew": "Penguin Random House משמש לעתים קרובות כמוציא לאור על ידי הוצאת גרסאות מודפסות של רומנים קלאסיים."
+            }
+        ]
+    }
+]

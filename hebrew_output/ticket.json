@@ -1,0 +1,40 @@
+[
+    {
+        "word": "ticket",
+        "word_hebrew": "כַּרְטִיס",
+        "main_definition": "A ticket is a proof of purchase or reservation, typically issued by an organization to grant entry, access, or permission to participate in an event, service, or activity.",
+        "main_definition_hebrew": "כרטיס הוא הוכחה לרכישה או הזמנה, המונפקת בדרך כלל על ידי ארגון כדי להעניק כניסה, גישה או הרשאה להשתתף באירוע, שירות או פעילות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Entry Pass",
+                "definition_hebrew": "כרטיס כניסה",
+                "example": "John received his ticket for the concert, allowing him entry into the venue.",
+                "example_hebrew": "ג'ון קיבל את הכרטיס שלו לקונצרט, ואיפשר לו להיכנס למקום."
+            },
+            {
+                "definition": "Fare Payment",
+                "definition_hebrew": "תשלום דמי נסיעה",
+                "example": "She bought a train ticket to travel from New York to Boston.",
+                "example_hebrew": "היא קנתה כרטיס רכבת כדי לנסוע מניו יורק לבוסטון."
+            },
+            {
+                "definition": "Reservation Confirmation",
+                "definition_hebrew": "אישור הזמנה",
+                "example": "I have my dinner reservation confirmation which is in the form of a restaurant ticket.",
+                "example_hebrew": "יש לי את אישור הזמנת ארוחת הערב שלי בצורת כרטיס למסעדה."
+            },
+            {
+                "definition": "Tax or Fee Payment",
+                "definition_hebrew": "תשלום מס או אגרה",
+                "example": "He had to pay his parking ticket before he could leave his car parked on the street.",
+                "example_hebrew": "הוא נאלץ לשלם את כרטיס החניה שלו לפני שיוכל להשאיר את רכבו חונה ברחוב."
+            },
+            {
+                "definition": "Proof of Purchase",
+                "definition_hebrew": "הוכחת רכישה",
+                "example": "She showed her movie ticket as proof that she purchased a ticket for the film screening.",
+                "example_hebrew": "היא הראתה את כרטיס הקולנוע שלה כהוכחה לכך שרכשה כרטיס להקרנת הסרט."
+            }
+        ]
+    }
+]

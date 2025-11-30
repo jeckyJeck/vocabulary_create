@@ -1,0 +1,28 @@
+[
+    {
+        "word": "alternatively",
+        "word_hebrew": "לחלופין",
+        "main_definition": "In a different way, as an option or alternative",
+        "main_definition_hebrew": "בצורה אחרת, כאופציה או חלופה",
+        "meanings_and_examples": [
+            {
+                "definition": "Used to present another possibility or option.",
+                "definition_hebrew": "משמש להצגת אפשרות או אפשרות אחרת.",
+                "example": "I don't like coffee; alternatively, I could drink tea.",
+                "example_hebrew": "אני לא אוהב קפה; לחלופין, יכולתי לשתות תה."
+            },
+            {
+                "definition": "Instead of doing something in a certain way, there is an alternative method available.",
+                "definition_hebrew": "במקום לעשות משהו בצורה מסוימת, יש שיטה חלופית זמינה.",
+                "example": "Alternatively, you can take the stairs instead of waiting for the elevator to arrive.",
+                "example_hebrew": "לחילופין, אפשר לעלות במדרגות במקום לחכות להגעת המעלית."
+            },
+            {
+                "definition": "To provide another point of view or perspective on a subject.",
+                "definition_hebrew": "לספק נקודת מבט או פרספקטיבה נוספת על נושא.",
+                "example": "In discussing climate change, we could alternatively consider its impact on biodiversity.",
+                "example_hebrew": "בדיון בשינויי האקלים, נוכל לחלופין לשקול את השפעתם על המגוון הביולוגי."
+            }
+        ]
+    }
+]

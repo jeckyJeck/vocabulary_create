@@ -1,0 +1,28 @@
+[
+    {
+        "word": "somewhere",
+        "word_hebrew": "אי שם",
+        "main_definition": "Somewhere refers to an unspecified or unknown location.",
+        "main_definition_hebrew": "איפשהו מתייחס למיקום לא מוגדר או לא ידוע.",
+        "meanings_and_examples": [
+            {
+                "definition": "A place that is not specified or identified, often used when the exact location is irrelevant or forgotten.",
+                "definition_hebrew": "מקום שאינו מצוין או מזוהה, משמש לעתים קרובות כאשר המיקום המדויק אינו רלוונטי או נשכח.",
+                "example": "I can't remember where I left my keys; they must be somewhere in the house.",
+                "example_hebrew": "אני לא זוכר איפה השארתי את המפתחות שלי; הם חייבים להיות איפשהו בבית."
+            },
+            {
+                "definition": "An unspecified point of existence for something or someone that cannot be pinpointed exactly.",
+                "definition_hebrew": "נקודת קיום לא מוגדרת עבור משהו או מישהו שלא ניתן לזהות במדויק.",
+                "example": "The treasure chest was said to contain gold, but no one knew exactly where it had been hidden; they were searching somewhere in the old mansion.",
+                "example_hebrew": "נאמר כי תיבת האוצר מכילה זהב, אך איש לא ידע היכן בדיוק הוא הוחבא; הם חיפשו איפשהו באחוזה הישנה."
+            },
+            {
+                "definition": "Used as a response when asked for a specific location and one does not wish to or cannot provide an exact answer.",
+                "definition_hebrew": "משמש כתגובה כאשר מבקשים מיקום ספציפי ואדם אינו רוצה או אינו יכול לספק תשובה מדויקת.",
+                "example": "Where is your office located? Somewhere around this block, I suppose.",
+                "example_hebrew": "היכן ממוקם המשרד שלך? איפשהו מסביב לבלוק הזה, אני מניח."
+            }
+        ]
+    }
+]

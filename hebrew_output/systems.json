@@ -1,0 +1,40 @@
+[
+    {
+        "word": "systems",
+        "word_hebrew": "מערכות",
+        "main_definition": "Systems refer to organized structures or groups of interconnected elements that function together, either as a whole or in relation with other systems.",
+        "main_definition_hebrew": "מערכות מתייחסות למבנים מאורגנים או לקבוצות של אלמנטים המחוברים זה לזה הפועלים יחד, או כמכלול או ביחס למערכות אחרות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A set of connected things or parts forming a complex whole, such as natural or artificial bodies.",
+                "definition_hebrew": "קבוצה של דברים או חלקים מחוברים היוצרים שלם מורכב, כגון גופים טבעיים או מלאכותיים.",
+                "example": "The solar system consists of the sun and eight planets.",
+                "example_hebrew": "מערכת השמש מורכבת מהשמש ושמונה כוכבי לכת."
+            },
+            {
+                "definition": "An organized network for managing people, information, and other resources effectively to achieve specific goals.",
+                "definition_hebrew": "רשת מאורגנת לניהול אנשים, מידע ומשאבים אחרים בצורה יעילה להשגת מטרות ספציפיות.",
+                "example": "A human resource management system helps companies manage employee data efficiently.",
+                "example_hebrew": "מערכת לניהול משאבי אנוש מסייעת לחברות לנהל את נתוני העובדים ביעילות."
+            },
+            {
+                "definition": "Technological systems that use computers or machines to perform tasks automatically.",
+                "definition_hebrew": "מערכות טכנולוגיות המשתמשות במחשבים או מכונות לביצוע משימות באופן אוטומטי.",
+                "example": "An automated inventory control system can track and manage stock levels in a warehouse without manual intervention.",
+                "example_hebrew": "מערכת בקרת מלאי אוטומטית יכולה לעקוב ולנהל את רמות המלאי במחסן ללא התערבות ידנית."
+            },
+            {
+                "definition": "A method of analyzing data by dividing it into smaller, more easily managed parts, or groups.",
+                "definition_hebrew": "שיטה לניתוח נתונים על ידי חלוקתם לחלקים או קבוצות קטנים יותר, המנוהלים בקלות רבה יותר.",
+                "example": "Data analysis systems break down sales figures by region to identify trends and patterns.",
+                "example_hebrew": "מערכות ניתוח נתונים מפרקות את נתוני המכירות לפי אזור כדי לזהות מגמות ודפוסים."
+            },
+            {
+                "definition": "Organizations in which different components work together toward a common purpose or objective.",
+                "definition_hebrew": "ארגונים שבהם מרכיבים שונים פועלים יחד למען מטרה או מטרה משותפת.",
+                "example": "The healthcare system comprises hospitals, clinics, insurance companies, and government agencies working collaboratively for public health.",
+                "example_hebrew": "מערכת הבריאות כוללת בתי חולים, מרפאות, חברות ביטוח וסוכנויות ממשלתיות הפועלות בשיתוף פעולה למען בריאות הציבור."
+            }
+        ]
+    }
+]

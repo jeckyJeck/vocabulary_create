@@ -1,0 +1,28 @@
+[
+    {
+        "word": "musicians",
+        "word_hebrew": "מוזיקאים",
+        "main_definition": "Musicians are individuals who play, compose or conduct music professionally.",
+        "main_definition_hebrew": "מוזיקאים הם אנשים שמנגנים, מלחינים או מנהלים מוזיקה באופן מקצועי.",
+        "meanings_and_examples": [
+            {
+                "definition": "People skilled in playing musical instruments",
+                "definition_hebrew": "אנשים מיומנים בנגינה בכלי נגינה",
+                "example": "John is a talented violinist and often performs with his local symphony.",
+                "example_hebrew": "ג'ון הוא כנר מוכשר ולעתים קרובות מופיע עם הסימפוניה המקומית שלו."
+            },
+            {
+                "definition": "Individuals who compose original music pieces",
+                "definition_hebrew": "אנשים המלחינים קטעי מוזיקה מקוריים",
+                "example": "Ludwig van Beethoven was a famous composer whose works continue to be celebrated today.",
+                "example_hebrew": "לודוויג ואן בטהובן היה מלחין מפורסם שיצירותיו ממשיכות להיחגג היום."
+            },
+            {
+                "definition": "Professionals who conduct and lead musical ensembles, such as orchestras or bands",
+                "definition_hebrew": "אנשי מקצוע המנצחים ומובילים הרכבים מוזיקליים, כגון תזמורות או להקות",
+                "example": "The renowned conductor Maestro Simon leads the London Symphony Orchestra in their annual performances.",
+                "example_hebrew": "המנצח הנודע מאסטרו סיימון מוביל את התזמורת הסימפונית של לונדון בהופעותיהם השנתיות."
+            }
+        ]
+    }
+]

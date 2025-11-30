@@ -1,0 +1,34 @@
+[
+    {
+        "word": "courier",
+        "word_hebrew": "שָׁלִיחַ",
+        "main_definition": "A courier is a person or company that delivers packages, messages, or other items from one place to another.",
+        "main_definition_hebrew": "שליח הוא אדם או חברה המעבירים חבילות, הודעות או פריטים אחרים ממקום למקום.",
+        "meanings_and_examples": [
+            {
+                "definition": "A messenger who carries documents and small parcels between locations",
+                "definition_hebrew": "שליח הנושא מסמכים וחבילות קטנות בין מקומות",
+                "example": "The lawyer sent an important contract via a courier to ensure it arrived on time.",
+                "example_hebrew": "עורך הדין שלח חוזה חשוב באמצעות שליח כדי לוודא שהוא הגיע בזמן."
+            },
+            {
+                "definition": "An express delivery service that provides fast transportation of goods or packages",
+                "definition_hebrew": "שירות משלוחים אקספרס המספק הובלה מהירה של סחורה או חבילות",
+                "example": "I used the XYZ Courier Service for my urgent package because they guarantee next-day delivery.",
+                "example_hebrew": "השתמשתי בשירות השליחויות של XYZ עבור החבילה הדחופה שלי מכיוון שהם מבטיחים משלוח למחרת."
+            },
+            {
+                "definition": "A person who rides a bicycle to deliver newspapers, mail, or food orders",
+                "definition_hebrew": "אדם שרוכב על אופניים כדי להעביר עיתונים, דואר או הזמנות אוכל",
+                "example": "The local newspaper has employed several couriers on bikes to distribute the morning paper in residential areas.",
+                "example_hebrew": "המקומון העסיק מספר שליחים על אופניים להפצת עיתון הבוקר באזורי מגורים."
+            },
+            {
+                "definition": "A device used for transporting goods from one point to another, typically within a company's warehouse or between locations",
+                "definition_hebrew": "מכשיר המשמש להובלת סחורות מנקודה אחת לאחרת, בדרך כלל בתוך מחסן של חברה או בין מיקומים",
+                "example": "The large pallet was loaded onto the automated courier system for distribution across the facility.",
+                "example_hebrew": "המזרן הגדול הועמס על מערכת השליחויות האוטומטית לצורך הפצה ברחבי המתקן."
+            }
+        ]
+    }
+]

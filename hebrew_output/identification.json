@@ -1,0 +1,40 @@
+[
+    {
+        "word": "identification",
+        "word_hebrew": "זיהוי",
+        "main_definition": "The process of recognizing or establishing the identity of a person, object, or concept.",
+        "main_definition_hebrew": "תהליך ההכרה או ביסוס הזהות של אדם, חפץ או מושג.",
+        "meanings_and_examples": [
+            {
+                "definition": "Recognition and confirmation of one's identity",
+                "definition_hebrew": "הכרה ואישור של זהות האדם",
+                "example": "At airport security, passengers must provide identification to board their flight.",
+                "example_hebrew": "באבטחה בשדה התעופה, על הנוסעים לספק זיהוי כדי לעלות על הטיסה שלהם."
+            },
+            {
+                "definition": "The act of establishing who or what something is",
+                "definition_hebrew": "הפעולה של ביסוס מי או מה זה משהו",
+                "example": "A detective used identification methods to match fingerprints at a crime scene with potential suspects.",
+                "example_hebrew": "בלש השתמש בשיטות זיהוי כדי להתאים טביעות אצבע בזירת פשע עם חשודים פוטנציאליים."
+            },
+            {
+                "definition": "Assigning a specific name, number, or code to an individual or entity for tracking and reference purposes",
+                "definition_hebrew": "הקצאת שם, מספר או קוד ספציפיים לאדם או לישות למטרות מעקב והפניה",
+                "example": "In sports, each player may have a unique identification tag on their jersey for team management.",
+                "example_hebrew": "בספורט, לכל שחקן עשוי להיות תג זיהוי ייחודי על החולצה שלו לניהול הקבוצה."
+            },
+            {
+                "definition": "The process of distinguishing between different objects based on certain characteristics",
+                "definition_hebrew": "תהליך ההבחנה בין אובייקטים שונים על סמך מאפיינים מסוימים",
+                "example": "A scientist uses identification to differentiate species in the field based on physical traits.",
+                "example_hebrew": "מדען משתמש בזיהוי כדי להבדיל בין מינים בשטח על סמך תכונות פיזיות."
+            },
+            {
+                "definition": "A label or tag that provides information about a product, person, or item",
+                "definition_hebrew": "תווית או תג המספקים מידע על מוצר, אדם או פריט",
+                "example": "The barcode on a retail item serves as an identification method for inventory tracking and price determination.",
+                "example_hebrew": "הברקוד על פריט קמעונאי משמש כשיטת זיהוי למעקב אחר מלאי וקביעת מחיר."
+            }
+        ]
+    }
+]

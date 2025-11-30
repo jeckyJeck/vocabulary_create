@@ -1,0 +1,40 @@
+[
+    {
+        "word": "warnings",
+        "word_hebrew": "אזהרות",
+        "main_definition": "Warnings are cautions or alerts issued to inform individuals about potential risks, dangers, or issues that need attention.",
+        "main_definition_hebrew": "אזהרות הן אזהרות או התראות המונפקות כדי ליידע אנשים על סיכונים פוטנציאליים, סכנות או בעיות הדורשות טיפול.",
+        "meanings_and_examples": [
+            {
+                "definition": "Advices given in advance of a possible danger, problem, or other unwelcome situation",
+                "definition_hebrew": "עצות שניתנו מראש לגבי סכנה אפשרית, בעיה או מצב לא רצוי אחר",
+                "example": "The weather forecast issued warnings about an upcoming storm.",
+                "example_hebrew": "תחזית מזג האוויר פרסמה אזהרות לגבי סערה קרובה."
+            },
+            {
+                "definition": "Alerts that indicate potential issues with systems or processes",
+                "definition_hebrew": "התראות המעידות על בעיות אפשריות במערכות או תהליכים",
+                "example": "Hardware warnings alert users to possible malfunctions in their computer's system.",
+                "example_hebrew": "אזהרות חומרה מתריעות בפני משתמשים על תקלות אפשריות במערכת המחשב שלהם."
+            },
+            {
+                "definition": "Notices issued by authorities about specific rules and regulations that must be followed",
+                "definition_hebrew": "הודעות שהוצאו על ידי רשויות לגבי כללים ותקנות ספציפיים שיש לפעול לפיהם",
+                "example": "Traffic warnings inform drivers of road hazards or changes in speed limits.",
+                "example_hebrew": "אזהרות תנועה מודיעות לנהגים על סכנות בכביש או שינויים במגבלות המהירות."
+            },
+            {
+                "definition": "A message indicating a possible negative outcome if certain actions are not taken",
+                "definition_hebrew": "הודעה המציינת תוצאה שלילית אפשרית אם לא יינקטו פעולות מסוימות",
+                "example": "Heeding the doctor's warning, John decided to quit smoking for his health.",
+                "example_hebrew": "מתוך תשומת לב לאזהרת הרופא, ג'ון החליט להפסיק לעשן למען בריאותו."
+            },
+            {
+                "definition": "Indications or signals of potential problems in relationships between people",
+                "definition_hebrew": "אינדיקציות או אותות של בעיות אפשריות ביחסים בין אנשים",
+                "example": "Her friends gave her warnings about talking behind their backs, which strained their relationship.",
+                "example_hebrew": "חבריה נתנו לה אזהרות על דיבור מאחורי הגב, מה שהלחיץ את מערכת היחסים ביניהם."
+            }
+        ]
+    }
+]

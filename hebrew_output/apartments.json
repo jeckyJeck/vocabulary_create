@@ -1,0 +1,34 @@
+[
+    {
+        "word": "apartments",
+        "word_hebrew": "דירות",
+        "main_definition": "Apartments refer to residential units within a building, where individuals or families live. They can be part of multi-unit structures like apartments buildings, complexes, and condominiums.",
+        "main_definition_hebrew": "דירות מתייחסות ליחידות מגורים בתוך בניין, שבהן מתגוררים יחידים או משפחות. הם יכולים להיות חלק ממבנים מרובי יחידות כמו בנייני דירות, מתחמים ובתים משותפים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Multiple housing units in one building",
+                "definition_hebrew": "מספר יחידות דיור בבניין אחד",
+                "example": "The apartment complex has 50 individual living spaces for tenants.",
+                "example_hebrew": "במתחם הדירות 50 חללי מגורים אישיים לדיירים."
+            },
+            {
+                "definition": "A shared living space within an institution or care facility",
+                "definition_hebrew": "מרחב מגורים משותף בתוך מוסד או מוסד טיפול",
+                "example": "Students with disabilities often live in apartments that are part of specialized educational facilities to receive proper care and support.",
+                "example_hebrew": "סטודנטים עם מוגבלות גרים לרוב בדירות שהן חלק ממוסדות חינוך מיוחדים כדי לקבל טיפול ותמיכה נאותים."
+            },
+            {
+                "definition": "Separate dwellings for individuals sharing the same property, like a condominium or townhouse development",
+                "definition_hebrew": "דירות נפרדות ליחידים החולקים את אותו נכס, כמו בית משותף או פיתוח עירוני",
+                "example": "John and Mary purchased their own individual apartments in a newly constructed condo building.",
+                "example_hebrew": "ג'ון ומרי רכשו דירות נפרדות משלהם בבניין דירות חדש שנבנה."
+            },
+            {
+                "definition": "A single housing unit within a larger structure where multiple tenants reside",
+                "definition_hebrew": "יחידת דיור אחת בתוך מבנה גדול יותר בו מתגוררים מספר דיירים",
+                "example": "The apartment building had 10 floors, each with several units for different families to live in.",
+                "example_hebrew": "בניין הדירות היה בן 10 קומות, בכל אחת כמה יחידות למשפחות שונות לגור בהן."
+            }
+        ]
+    }
+]

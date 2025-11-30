@@ -1,0 +1,34 @@
+[
+    {
+        "word": "seminar",
+        "word_hebrew": "סֵמִינָר",
+        "main_definition": "A seminar is an educational event or meeting, typically focused on a specific topic of study or professional development, where experts present their findings and participants engage in discussions to enhance knowledge.",
+        "main_definition_hebrew": "סמינר הוא אירוע או מפגש חינוכי, המתמקד בדרך כלל בנושא ספציפי של לימוד או התפתחות מקצועית, שבו מומחים מציגים את ממצאיהם והמשתתפים משתתפים בדיונים כדי לשפר את הידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "An academic course or lecture series",
+                "definition_hebrew": "קורס אקדמי או סדרת הרצאות",
+                "example": "The university offered an advanced seminar on quantum physics for postgraduate students.",
+                "example_hebrew": "האוניברסיטה הציעה סמינר מתקדם בפיזיקה קוונטית לסטודנטים לתארים מתקדמים."
+            },
+            {
+                "definition": "A professional training session",
+                "definition_hebrew": "מפגש הדרכה מקצועי",
+                "example": "To improve our customer service skills, the team attended a weekly marketing seminar organized by HR.",
+                "example_hebrew": "כדי לשפר את כישורי שירות הלקוחות שלנו, הצוות השתתף בסמינר שיווקי שבועי שאורגן על ידי משאבי אנוש."
+            },
+            {
+                "definition": "An event for discussion and exchange of ideas among experts in a particular field",
+                "definition_hebrew": "אירוע לדיון והחלפת רעיונות בין מומחים בתחום מסוים",
+                "example": "The international conference on climate change featured several expert-led seminars discussing new research findings.",
+                "example_hebrew": "הכנס הבינלאומי לשינויי אקלים כלל כמה סמינרים בהנחיית מומחים שדנו בממצאי מחקר חדשים."
+            },
+            {
+                "definition": "A smaller, more focused version of a course or lecture series",
+                "definition_hebrew": "גרסה קטנה וממוקדת יותר של קורס או סדרת הרצאות",
+                "example": "Students could choose to attend individual seminars as part of their elective courses in the humanities department.",
+                "example_hebrew": "סטודנטים יכלו לבחור להשתתף בסמינרים בודדים במסגרת קורסי הבחירה שלהם במחלקה למדעי הרוח."
+            }
+        ]
+    }
+]

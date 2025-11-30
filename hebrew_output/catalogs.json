@@ -1,0 +1,34 @@
+[
+    {
+        "word": "catalogs",
+        "word_hebrew": "קטלוגים",
+        "main_definition": "Catalogues are comprehensive lists or collections of items, products, data, or information that provide details about their characteristics, availability, or other relevant aspects.",
+        "main_definition_hebrew": "קטלוגים הם רשימות או אוספים מקיפים של פריטים, מוצרים, נתונים או מידע המספקים פרטים על המאפיינים שלהם, זמינותם או היבטים רלוונטיים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A complete list of books and/or periodicals in a library, usually arranged by author, title, subject, etc.",
+                "definition_hebrew": "רשימה מלאה של ספרים ו/או כתבי עת בספרייה, מסודרת לרוב לפי מחבר, כותרת, נושא וכו'.",
+                "example": "The university's library has an extensive catalog that helps students find the required textbooks for their courses.",
+                "example_hebrew": "בספריית האוניברסיטה יש קטלוג נרחב המסייע לסטודנטים למצוא את ספרי הלימוד הנדרשים לקורסים שלהם."
+            },
+            {
+                "definition": "An organized list of products or items sold by a company, often including descriptions and prices",
+                "definition_hebrew": "רשימה מאורגנת של מוצרים או פריטים הנמכרים על ידי חברה, לרוב כולל תיאורים ומחירים",
+                "example": "I ordered my new pair of shoes from Amazon's online catalog.",
+                "example_hebrew": "הזמנתי את זוג הנעליים החדש שלי מהקטלוג המקוון של אמזון."
+            },
+            {
+                "definition": "A systematic compilation of data or information on various topics for reference or research purposes",
+                "definition_hebrew": "אוסף שיטתי של נתונים או מידע על נושאים שונים למטרות עיון או מחקר",
+                "example": "The World Health Organization publishes a comprehensive health and wellness catalog that includes statistics, guidelines, and recommendations worldwide.",
+                "example_hebrew": "ארגון הבריאות העולמי מפרסם קטלוג בריאות ואיכות חיים מקיף הכולל נתונים סטטיסטיים, הנחיות והמלצות ברחבי העולם."
+            },
+            {
+                "definition": "An inventory list of items stored in a warehouse or other storage facility",
+                "definition_hebrew": "רשימת מלאי של פריטים המאוחסנים במחסן או במתקן אחסון אחר",
+                "example": "The warehouse manager updated the shipping inventory catalog after completing an audit of all products on site.",
+                "example_hebrew": "מנהל המחסן עדכן את קטלוג מלאי המשלוחים לאחר השלמת ביקורת של כל המוצרים באתר."
+            }
+        ]
+    }
+]

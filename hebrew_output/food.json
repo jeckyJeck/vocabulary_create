@@ -1,0 +1,40 @@
+[
+    {
+        "word": "food",
+        "word_hebrew": "מזון",
+        "main_definition": "Food refers to any nutritious substance that people or animals eat or drink or otherwise consume to maintain life and growth.",
+        "main_definition_hebrew": "מזון מתייחס לכל חומר מזין שאנשים או בעלי חיים אוכלים או שותים או צורכים בדרך אחרת כדי לשמור על חיים וצמיחה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In culinary terms, food is a prepared dish made from various ingredients.",
+                "definition_hebrew": "מבחינה קולינרית, אוכל הוא מנה מוכנה העשויה ממרכיבים שונים.",
+                "example": "She baked fresh bread using flour, water, yeast, and salt.",
+                "example_hebrew": "היא אפתה לחם טרי באמצעות קמח, מים, שמרים ומלח."
+            },
+            {
+                "definition": "Food can also refer to the sustenance or nourishment necessary for life.",
+                "definition_hebrew": "אוכל יכול להתייחס גם למזון או להזנה הדרושים לחיים.",
+                "example": "The plants need sunlight and nutrients from food in the soil to grow.",
+                "example_hebrew": "הצמחים זקוקים לאור שמש וחומרי הזנה מהמזון באדמה כדי לצמוח."
+            },
+            {
+                "definition": "In idiomatic usage, 'food' is a metaphorical expression referring to any topic of conversation or subject matter.",
+                "definition_hebrew": "בשימוש אידיומטי, 'אוכל' הוא ביטוי מטפורי המתייחס לכל נושא שיחה או נושא.",
+                "example": "Let's not talk about politics; it might be considered taboo food at the dinner table.",
+                "example_hebrew": "בואו לא נדבר על פוליטיקה; זה עשוי להיחשב לאוכל טאבו ליד שולחן האוכל."
+            },
+            {
+                "definition": "Food can also symbolize an attractive person, object, or activity that is appealing to someone.",
+                "definition_hebrew": "אוכל יכול גם לסמל אדם מושך, חפץ או פעילות שמושכים מישהו.",
+                "example": "For her, going on a romantic date was like tasting sweet dessert; it was irresistible food for the soul.",
+                "example_hebrew": "עבורה, לצאת לדייט רומנטי היה כמו לטעום קינוח מתוק; זה היה אוכל שאי אפשר לעמוד בפניו עבור הנשמה."
+            },
+            {
+                "definition": "In some contexts, 'food' can refer to any substance that is consumed by humans or animals.",
+                "definition_hebrew": "בהקשרים מסוימים, 'מזון' יכול להתייחס לכל חומר הנצרך על ידי בני אדם או בעלי חיים.",
+                "example": "The zookeeper ensured all animals had access to clean water and ample food supplies.",
+                "example_hebrew": "מנהל גן החיות הבטיח שלכל בעלי החיים תהיה גישה למים נקיים ואספקת מזון בשפע."
+            }
+        ]
+    }
+]

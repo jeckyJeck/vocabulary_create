@@ -1,0 +1,34 @@
+[
+    {
+        "word": "continuous",
+        "word_hebrew": "רָצִיף",
+        "main_definition": "Continuous refers to something that is unbroken, consistent, or connected without interruption.",
+        "main_definition_hebrew": "מתמשך מתייחס למשהו שאינו שבור, עקבי או מחובר ללא הפרעה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Uninterrupted flow or sequence",
+                "definition_hebrew": "זרימה או רצף ללא הפרעה",
+                "example": "The continuous rain lasted for hours.",
+                "example_hebrew": "הגשם המתמשך נמשך שעות."
+            },
+            {
+                "definition": "Persistent and ongoing effort",
+                "definition_hebrew": "מאמץ מתמיד ומתמשך",
+                "example": "She showed continuous improvement in her studies over the years.",
+                "example_hebrew": "היא הראתה שיפור מתמיד בלימודיה לאורך השנים."
+            },
+            {
+                "definition": "Unbroken connection or linkage",
+                "definition_hebrew": "חיבור או הצמדה לא מנותקים",
+                "example": "The internet provides a continuous pathway for information exchange across the globe.",
+                "example_hebrew": "האינטרנט מספק נתיב רציף לחילופי מידע ברחבי העולם."
+            },
+            {
+                "definition": "A mathematical concept referring to an interval without gaps",
+                "definition_hebrew": "מושג מתמטי המתייחס למרווח ללא פערים",
+                "example": "In calculus, the function y = x^2 is continuous on its entire domain.",
+                "example_hebrew": "בחשבון, הפונקציה y = x^2 היא רציפה בכל התחום שלה."
+            }
+        ]
+    }
+]

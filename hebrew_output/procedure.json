@@ -1,0 +1,40 @@
+[
+    {
+        "word": "procedure",
+        "word_hebrew": "תהליך",
+        "main_definition": "A set of established steps or actions that need to be followed in a specific order to achieve a desired outcome, often used in the context of processes or tasks.",
+        "main_definition_hebrew": "קבוצה של שלבים או פעולות שנקבעו שיש לבצע לפי סדר מסוים כדי להשיג תוצאה רצויה, לעתים קרובות בשימוש בהקשר של תהליכים או משימות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Medical process or method",
+                "definition_hebrew": "תהליך או שיטה רפואית",
+                "example": "The patient underwent a procedure to remove his gallbladder.",
+                "example_hebrew": "המטופל עבר הליך להסרת כיס המרה."
+            },
+            {
+                "definition": "A formal step-by-step guide for completing a task",
+                "definition_hebrew": "מדריך רשמי שלב אחר שלב להשלמת משימה",
+                "example": "Following the proper procedure is crucial when assembling furniture to ensure it's done correctly and safely.",
+                "example_hebrew": "ביצוע ההליך הנכון הוא חיוני בעת הרכבת רהיטים כדי להבטיח שזה נעשה בצורה נכונה ובטוחה."
+            },
+            {
+                "definition": "Legal or official process",
+                "definition_hebrew": "הליך משפטי או רשמי",
+                "example": "The judge followed legal procedures during the court hearing, ensuring that everything was conducted fairly.",
+                "example_hebrew": "השופטת עקבה אחר הליכים משפטיים במהלך הדיון בבית המשפט, ודאגה שהכל יתנהל בצורה הוגנת."
+            },
+            {
+                "definition": "Ritualistic method",
+                "definition_hebrew": "שיטה טקסית",
+                "example": "Different cultures have their own specific rituals and procedures for celebrating important events like weddings or funerals.",
+                "example_hebrew": "לתרבויות שונות יש טקסים ונהלים ספציפיים משלהן לחגיגת אירועים חשובים כמו חתונות או הלוויות."
+            },
+            {
+                "definition": "Specific way of doing something to achieve a goal",
+                "definition_hebrew": "דרך ספציפית לעשות משהו כדי להשיג מטרה",
+                "example": "The company established a procedure for submitting expense reports, making the process more efficient and consistent.",
+                "example_hebrew": "החברה קבעה נוהל להגשת דוחות הוצאות, מה שהופך את התהליך ליעיל ועקבי יותר."
+            }
+        ]
+    }
+]

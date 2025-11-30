@@ -1,0 +1,28 @@
+[
+    {
+        "word": "though",
+        "word_hebrew": "אמנם",
+        "main_definition": "though is a conjunction used to introduce a contrast or exception to the preceding statement.",
+        "main_definition_hebrew": "אף הוא צירוף המשמש להצגת ניגוד או חריג להצהרה הקודמת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Used to express concession, meaning that despite what has just been said, there remains some truth in it",
+                "definition_hebrew": "נוהגים להביע ויתור, כלומר למרות מה שנאמר זה עתה, נותרה בו אמת מסוימת",
+                "example": "Though he was tired, he still managed to finish the marathon.",
+                "example_hebrew": "למרות שהיה עייף, הוא עדיין הצליח לסיים את המרתון."
+            },
+            {
+                "definition": "Introduces a statement that contrasts with or seems surprising in light of something that has just been mentioned.",
+                "definition_hebrew": "מציג אמירה שמנוגדת או נראית מפתיעה לאור משהו שהוזכר זה עתה.",
+                "example": "It's raining heavily outside; though, I'm not worried about getting wet since I have an umbrella.",
+                "example_hebrew": "בחוץ יורד גשם חזק; עם זאת, אני לא דואג להירטב מכיוון שיש לי מטריה."
+            },
+            {
+                "definition": "Used to express a contradiction between two ideas where one is less true or valid than the other",
+                "definition_hebrew": "משמש לביטוי סתירה בין שני רעיונות שבהם האחד פחות נכון או תקף מהשני",
+                "example": "She has great skills as a musician though she doesn't perform publicly often.",
+                "example_hebrew": "יש לה כישורים גדולים כמוזיקאית למרות שהיא לא מופיעה בפומבי לעתים קרובות."
+            }
+        ]
+    }
+]

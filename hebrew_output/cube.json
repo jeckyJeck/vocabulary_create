@@ -1,0 +1,28 @@
+[
+    {
+        "word": "cube",
+        "word_hebrew": "קוּבִּיָה",
+        "main_definition": "The cube is a three-dimensional geometric shape with six square faces, all of equal size.",
+        "main_definition_hebrew": "הקובייה היא צורה גיאומטרית תלת מימדית עם שישה פנים מרובעים, כולם בגודל שווה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A mathematical concept representing the third power of a number.",
+                "definition_hebrew": "מושג מתמטי המייצג את החזקה השלישית של מספר.",
+                "example": "If 2 is cubed (raised to the power of three), it equals 8.",
+                "example_hebrew": "אם 2 הוא בקובייה (מועלה בחזקת שלוש), הוא שווה ל-8."
+            },
+            {
+                "definition": "An idiom meaning an overwhelming or excessive amount, often used in the phrase 'like a cube.'",
+                "definition_hebrew": "ניב שפירושו כמות מכריעה או מוגזמת, משמש לעתים קרובות בביטוי 'כמו קובייה'.",
+                "example": "The stress he felt was like a cube when preparing for his final exams.",
+                "example_hebrew": "הלחץ שחש היה כמו קובייה כשהתכונן למבחני הגמר שלו."
+            },
+            {
+                "definition": "A type of container with square faces.",
+                "definition_hebrew": "סוג של מיכל עם פנים מרובעות.",
+                "example": "She packed her belongings into small cubes to fit more efficiently in the suitcase.",
+                "example_hebrew": "היא ארזה את חפציה לקוביות קטנות כדי להתאים בצורה יעילה יותר למזוודה."
+            }
+        ]
+    }
+]

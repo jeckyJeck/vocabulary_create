@@ -1,0 +1,40 @@
+[
+    {
+        "word": "volume",
+        "word_hebrew": "כרך",
+        "main_definition": "The main definition of 'volume' is the amount of space that a substance or object occupies, usually in three dimensions.",
+        "main_definition_hebrew": "ההגדרה העיקרית של 'נפח' היא כמות החלל שחומר או חפץ תופסים, בדרך כלל בתלת מימד.",
+        "meanings_and_examples": [
+            {
+                "definition": "In audio and sound recording, volume refers to the perceived loudness or intensity of the sound being played back.",
+                "definition_hebrew": "בהקלטת אודיו וקול, עוצמת הקול מתייחסת לעוצמת הקול או העוצמה הנתפסת של הצליל המושמע.",
+                "example": "Please turn up the volume on your stereo; it's too quiet.",
+                "example_hebrew": "נא להגביר את עוצמת הקול בסטריאו שלך; זה שקט מדי."
+            },
+            {
+                "definition": "Volume in printing refers to the amount of text contained within a single page, typically measured by lines and words per page.",
+                "definition_hebrew": "נפח בהדפסה מתייחס לכמות הטקסט הכלול בעמוד בודד, הנמדד בדרך כלל לפי שורות ומילים בעמוד.",
+                "example": "This book has an average print volume of 350 lines per page.",
+                "example_hebrew": "לספר זה נפח הדפסה ממוצע של 350 שורות בעמוד."
+            },
+            {
+                "definition": "In mathematics or physics, volume describes the space occupied by a three-dimensional object or region in space.",
+                "definition_hebrew": "במתמטיקה או בפיזיקה, נפח מתאר את החלל התפוס על ידי עצם או אזור תלת ממדי בחלל.",
+                "example": "The volume of this cube is calculated as length times width times height (12cm x 6cm x 4cm = 288 cubic centimeters).",
+                "example_hebrew": "הנפח של קובייה זו מחושב כאורך כפול רוחב כפול גובה (12 ס\"מ x 6 ס\"מ x 4 ס\"מ = 288 ס\"מ מעוקב)."
+            },
+            {
+                "definition": "In music, a musical collection or compilation that has been arranged and published in multiple volumes.",
+                "definition_hebrew": "במוזיקה, אוסף או אוסף מוזיקלי שעובד ויצא לאור במספר כרכים.",
+                "example": "This symphony is contained within three different volumes of the composer's works.",
+                "example_hebrew": "סימפוניה זו מצויה בתוך שלושה כרכים שונים של יצירות המלחין."
+            },
+            {
+                "definition": "The total amount of liquid a container can hold; often used for measuring capacity in cooking or baking.",
+                "definition_hebrew": "הכמות הכוללת של נוזל שמיכל יכול להכיל; משמש לעתים קרובות למדידת יכולת בבישול או אפייה.",
+                "example": "A standard milk jug typically has a volume of 1 liter (or one quart).",
+                "example_hebrew": "לקנקן חלב סטנדרטי יש בדרך כלל נפח של 1 ליטר (או ליטר אחד)."
+            }
+        ]
+    }
+]

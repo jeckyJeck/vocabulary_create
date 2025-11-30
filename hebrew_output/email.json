@@ -1,0 +1,34 @@
+[
+    {
+        "word": "email",
+        "word_hebrew": "אימייל",
+        "main_definition": "Email is a method of exchanging digital messages over the internet using electronic devices.",
+        "main_definition_hebrew": "דואר אלקטרוני הוא שיטה להחלפת הודעות דיגיטליות דרך האינטרנט באמצעות מכשירים אלקטרוניים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A written or printed message sent electronically from one computer to another via the Internet, usually addressed by email address",
+                "definition_hebrew": "הודעה כתובה או מודפסת הנשלחת באופן אלקטרוני ממחשב אחד למשנהו דרך האינטרנט, בדרך כלל מופנית באמצעות כתובת דואר אלקטרוני",
+                "example": "I received an email inviting me to a conference next month.",
+                "example_hebrew": "קיבלתי מייל המזמין אותי לכנס בחודש הבא."
+            },
+            {
+                "definition": "The person who sends electronic messages using an email address",
+                "definition_hebrew": "האדם ששולח הודעות אלקטרוניות באמצעות כתובת דואר אלקטרוני",
+                "example": "John sent an email to all his colleagues about the upcoming meeting.",
+                "example_hebrew": "ג'ון שלח מייל לכל עמיתיו לגבי הפגישה הקרובה."
+            },
+            {
+                "definition": "A storage location on a computer where emails are saved and organized",
+                "definition_hebrew": "מיקום אחסון במחשב שבו הודעות דוא\"ל נשמרות ומאורגנות",
+                "example": "I received several new emails in my inbox, so I checked them one by one.",
+                "example_hebrew": "קיבלתי מספר מיילים חדשים בתיבת הדואר הנכנס שלי, אז בדקתי אותם אחד אחד."
+            },
+            {
+                "definition": "The process of sending or receiving electronic messages over the internet using an email address",
+                "definition_hebrew": "תהליך שליחה או קבלה של הודעות אלקטרוניות דרך האינטרנט באמצעות כתובת דואר אלקטרוני",
+                "example": "Emailing is a convenient way to communicate with people who are far away from you.",
+                "example_hebrew": "שליחת אימייל היא דרך נוחה לתקשר עם אנשים שנמצאים רחוק ממך."
+            }
+        ]
+    }
+]

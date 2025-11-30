@@ -1,0 +1,34 @@
+[
+    {
+        "word": "probably",
+        "word_hebrew": "כנראה",
+        "main_definition": "Indicating that something is likely to happen or be true, but not certain.",
+        "main_definition_hebrew": "מציין שסביר שמשהו יקרה או יהיה נכון, אבל לא בטוח.",
+        "meanings_and_examples": [
+            {
+                "definition": "Likely or expected to happen",
+                "definition_hebrew": "סביר או צפוי לקרות",
+                "example": "She will probably arrive at 5 PM.",
+                "example_hebrew": "היא כנראה תגיע ב-17:00."
+            },
+            {
+                "definition": "Not completely sure",
+                "definition_hebrew": "לא לגמרי בטוח",
+                "example": "I'm not certain, but I think he is going to join us for dinner.",
+                "example_hebrew": "אני לא בטוח, אבל אני חושב שהוא הולך להצטרף אלינו לארוחת ערב."
+            },
+            {
+                "definition": "Expressing a possibility or assumption",
+                "definition_hebrew": "הבעת אפשרות או הנחה",
+                "example": "Probably because of the rain, the game will be postponed.",
+                "example_hebrew": "כנראה בגלל הגשם, המשחק יידחה."
+            },
+            {
+                "definition": "Used to show that an outcome is possible but not definite",
+                "definition_hebrew": "משמש כדי להראות שתוצאה אפשרית אך לא מוגדרת",
+                "example": "There's a good chance we'll win this competition; it's probably in our favor.",
+                "example_hebrew": "יש סיכוי טוב שננצח בתחרות הזו; זה כנראה לטובתנו."
+            }
+        ]
+    }
+]

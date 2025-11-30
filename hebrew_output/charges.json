@@ -1,0 +1,28 @@
+[
+    {
+        "word": "charges",
+        "word_hebrew": "חיובים",
+        "main_definition": "Charges refer to accusations or formal complaints made against a person, the cost of using electricity, or the act of initiating legal action.",
+        "main_definition_hebrew": "האשמות מתייחסות להאשמות או תלונות רשמיות שהוגשו נגד אדם, עלות השימוש בחשמל או פעולת ייזום הליכים משפטיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Legal accusation",
+                "definition_hebrew": "האשמה משפטית",
+                "example": "The company was charged with fraud by the authorities.",
+                "example_hebrew": "החברה הואשמה בהונאה על ידי הרשויות."
+            },
+            {
+                "definition": "Cost for using electricity",
+                "definition_hebrew": "עלות שימוש בחשמל",
+                "example": "The monthly bill included a high amount of charges due to increased usage.",
+                "example_hebrew": "החשבון החודשי כלל סכום גבוה של חיובים עקב שימוש מוגבר."
+            },
+            {
+                "definition": "Initiating legal action or formal complaint",
+                "definition_hebrew": "ייזום צעדים משפטיים או תלונה רשמית",
+                "example": "The tenant filed charges against the landlord for not maintaining the property.",
+                "example_hebrew": "השוכר הגיש כתב אישום נגד המשכיר בגין אי אחזקת הנכס."
+            }
+        ]
+    }
+]

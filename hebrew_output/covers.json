@@ -1,0 +1,40 @@
+[
+    {
+        "word": "covers",
+        "word_hebrew": "מכסים",
+        "main_definition": "To place something over or upon another, concealing it or providing protection.",
+        "main_definition_hebrew": "להניח משהו מעל או על אחר, להסתיר אותו או לספק הגנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To physically lay something over an object to hide it or protect it from external factors like dust or damage.",
+                "definition_hebrew": "להניח משהו פיזית מעל חפץ כדי להסתיר אותו או להגן עליו מפני גורמים חיצוניים כמו אבק או נזק.",
+                "example": "She covers the cake with frosting.",
+                "example_hebrew": "היא מכסה את העוגה בציפוי."
+            },
+            {
+                "definition": "In sports, a player covering an opponent by preventing their access to the ball or play area.",
+                "definition_hebrew": "בספורט, שחקן המכסה יריב על ידי מניעת גישה שלו לכדור או לאזור המשחק.",
+                "example": "The defender covered the striker during the soccer match.",
+                "example_hebrew": "המגן כיסה את החלוץ במהלך משחק הכדורגל."
+            },
+            {
+                "definition": "To include all relevant topics in a presentation, lecture, or written work, leaving no important aspect unaddressed.",
+                "definition_hebrew": "לכלול את כל הנושאים הרלוונטיים במצגת, הרצאה או עבודה כתובה, מבלי להשאיר שום היבט חשוב ללא מענה.",
+                "example": "The book covers every aspect of the history of ancient Rome.",
+                "example_hebrew": "הספר מכסה כל היבט של ההיסטוריה של רומא העתיקה."
+            },
+            {
+                "definition": "In publishing and media, to print additional content on the back cover or within an insert that is separate from the main body of text but related in topic.",
+                "definition_hebrew": "בהוצאה לאור ובמדיה, להדפיס תוכן נוסף על הכריכה האחורית או בתוך תוספת הנפרדת מגוף הטקסט הראשי אך קשורה לנושא.",
+                "example": "This novel's cover features a detailed map at the back.",
+                "example_hebrew": "הכריכה של הרומן הזה כוללת מפה מפורטת מאחור."
+            },
+            {
+                "definition": "To use one object to extend the reach, function, or capacity of another.",
+                "definition_hebrew": "להשתמש באובייקט אחד כדי להרחיב את טווח ההגעה, התפקוד או היכולת של אחר.",
+                "example": "The remote control covers long distances without needing wires.",
+                "example_hebrew": "השלט רחוק מכסה מרחקים ארוכים ללא צורך בחוטים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "implies",
+        "word_hebrew": "מרמז",
+        "main_definition": "In communication, the word 'implies' indicates that one statement or idea suggests a particular conclusion without explicitly stating it.",
+        "main_definition_hebrew": "בתקשורת, המילה 'מרמז' מציינת שהצהרה או רעיון אחד מציע מסקנה מסוימת מבלי לציין אותה במפורש.",
+        "meanings_and_examples": [
+            {
+                "definition": "To suggest indirectly",
+                "definition_hebrew": "להציע בעקיפין",
+                "example": "Her silence implies that she does not agree with the decision.",
+                "example_hebrew": "משתיקתה משתמע שהיא אינה מסכימה עם ההחלטה."
+            },
+            {
+                "definition": "To have a logical or necessary connection between ideas",
+                "definition_hebrew": "שיהיה קשר הגיוני או הכרחי בין רעיונות",
+                "example": "If it is raining, then it implies that the ground will be wet.",
+                "example_hebrew": "אם יורד גשם, אז זה מרמז שהקרקע תהיה רטובה."
+            },
+            {
+                "definition": "To indicate or point out something by inference",
+                "definition_hebrew": "לציין או להצביע על משהו בהסקה",
+                "example": "The fact he didn't wear a coat on such a cold day implies he doesn't feel cold easily.",
+                "example_hebrew": "העובדה שהוא לא לבש מעיל ביום קר כל כך מרמזת שהוא לא מרגיש קר בקלות."
+            }
+        ]
+    }
+]

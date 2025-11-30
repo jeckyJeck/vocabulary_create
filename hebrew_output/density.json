@@ -1,0 +1,40 @@
+[
+    {
+        "word": "density",
+        "word_hebrew": "צְפִיפוּת",
+        "main_definition": "Density refers to the degree of compactness or concentration in a particular area, substance, or concept.",
+        "main_definition_hebrew": "צפיפות מתייחסת למידת הדחיסות או הריכוז באזור, חומר או מושג מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A measure of mass per unit volume in physical sciences, especially physics and chemistry",
+                "definition_hebrew": "מדד של מסה ליחידת נפח במדעי הפיזיקה, במיוחד פיזיקה וכימיה",
+                "example": "The density of water is 1 gram per cubic centimeter.",
+                "example_hebrew": "צפיפות המים היא 1 גרם לסנטימטר מעוקב."
+            },
+            {
+                "definition": "In demographics, the population density refers to the number of people living per unit of area, such as square mile or square kilometer.",
+                "definition_hebrew": "בדמוגרפיה, צפיפות האוכלוסין מתייחסת למספר האנשים החיים ליחידת שטח, כגון מייל מרובע או קמ\"ר.",
+                "example": "New York City has a high population density with over 27,000 people per square kilometer.",
+                "example_hebrew": "לעיר ניו יורק יש צפיפות אוכלוסין גבוהה עם למעלה מ-27,000 איש לקמ\"ר."
+            },
+            {
+                "definition": "In economics, economic density refers to the amount of economic activity (such as jobs or investment) in a specific area.",
+                "definition_hebrew": "בכלכלה, צפיפות כלכלית מתייחסת לכמות הפעילות הכלכלית (כגון מקומות עבודה או השקעות) באזור מסוים.",
+                "example": "Silicon Valley has high economic density due to its concentration of tech companies and venture capital firms.",
+                "example_hebrew": "לעמק הסיליקון יש צפיפות כלכלית גבוהה בשל הריכוזיות של חברות טכנולוגיה וחברות הון סיכון."
+            },
+            {
+                "definition": "In sociology, social density refers to the level of interaction between individuals within a community or group.",
+                "definition_hebrew": "בסוציולוגיה, צפיפות חברתית מתייחסת לרמת האינטראקציה בין פרטים בתוך קהילה או קבוצה.",
+                "example": "A densely populated urban neighborhood often exhibits high social density with frequent interactions among its residents.",
+                "example_hebrew": "שכונה עירונית מאוכלסת בצפיפות מציגה לעתים קרובות צפיפות חברתית גבוהה עם אינטראקציות תכופות בין תושביה."
+            },
+            {
+                "definition": "In computer science and data management, data density refers to the amount of information stored in a given space.",
+                "definition_hebrew": "במדעי המחשב וניהול נתונים, צפיפות נתונים מתייחסת לכמות המידע המאוחסנת בחלל נתון.",
+                "example": "Floppy disks used to have low data density compared to modern hard drives or solid-state drives.",
+                "example_hebrew": "תקליטונים היו בעלי צפיפות נתונים נמוכה בהשוואה לכוננים קשיחים מודרניים או כונני מצב מוצק."
+            }
+        ]
+    }
+]

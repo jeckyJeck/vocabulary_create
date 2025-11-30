@@ -1,0 +1,34 @@
+[
+    {
+        "word": "referrals",
+        "word_hebrew": "הפניות",
+        "main_definition": "Referrals are recommendations or endorsements given by one person to another, often in a professional context, where they suggest that the recipient consults someone else whom they trust for advice or services.",
+        "main_definition_hebrew": "הפניות הן המלצות או אישורים שניתנו על ידי אדם אחד למשנהו, לעתים קרובות בהקשר מקצועי, שבו הן מציעות שהנמען יתייעץ עם מישהו אחר שהוא בוטח בו לקבלת ייעוץ או שירותים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In business and customer relations, referrals are suggestions made by satisfied customers or clients to their acquaintances about a product, service, or company that provided them with value.",
+                "definition_hebrew": "בקשרי עסקים ולקוחות, הפניות הן הצעות של לקוחות או לקוחות מרוצים למכריהם לגבי מוצר, שירות או חברה שסיפקו להם ערך.",
+                "example": "After having a great experience at the local car repair shop, Jane referred her friends to use the same mechanic for all future repairs.",
+                "example_hebrew": "לאחר שחוויה חוויה נהדרת בחנות הרכב המקומית, הפנתה ג'יין את חבריה להשתמש באותו מכונאי לכל התיקונים העתידיים."
+            },
+            {
+                "definition": "In healthcare and medical practice, referrals are endorsements or recommendations made by physicians to other specialists for patients requiring further evaluation or treatment.",
+                "definition_hebrew": "בתחום הבריאות והפרקטיקה הרפואית, הפניות הן אישורים או המלצות של רופאים למומחים אחרים עבור מטופלים הזקוקים להערכה או טיפול נוסף.",
+                "example": "Dr. Smith referred John to a cardiologist because she suspected he might have underlying heart issues.",
+                "example_hebrew": "ד\"ר סמית הפנתה את ג'ון לקרדיולוג כי היא חשדה שאולי יש לו בעיות לב."
+            },
+            {
+                "definition": "In education and academic settings, referrals are recommendations made by educators to other professionals about students who may benefit from additional support or intervention.",
+                "definition_hebrew": "במסגרות חינוך ואקדמיות, הפניות הן המלצות של מחנכים לאנשי מקצוע אחרים לגבי תלמידים שעשויים להפיק תועלת מתמיכה או התערבות נוספת.",
+                "example": "The teacher referred Sarah to a school counselor for extra help with her anxiety.",
+                "example_hebrew": "המורה הפנתה את שרה ליועצת בית ספר לעזרה נוספת עם החרדה."
+            },
+            {
+                "definition": "In online communities and social networks, referrals are suggestions made by users to others about valuable resources, such as articles, videos, or products.",
+                "definition_hebrew": "בקהילות מקוונות וברשתות חברתיות, הפניות הן הצעות שמציעים משתמשים לאחרים לגבי משאבים יקרי ערך, כגון מאמרים, סרטונים או מוצרים.",
+                "example": "Tom recommended this informative article on healthy eating habits to his followers on a fitness forum.",
+                "example_hebrew": "טום המליץ על מאמר אינפורמטיבי זה על הרגלי אכילה בריאים לעוקביו בפורום כושר."
+            }
+        ]
+    }
+]

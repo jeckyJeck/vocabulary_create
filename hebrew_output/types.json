@@ -1,0 +1,28 @@
+[
+    {
+        "word": "types",
+        "word_hebrew": "סוגים",
+        "main_definition": "Types refers to various meanings, including the categorization of items or people based on shared characteristics, a term used in programming languages to represent different data structures, and an idiom expressing diversity in qualities.",
+        "main_definition_hebrew": "טיפוסים מתייחסים למשמעויות שונות, כולל סיווג של פריטים או אנשים על סמך מאפיינים משותפים, מונח המשמש בשפות תכנות לייצוג מבני נתונים שונים, וניב המבטא גיוון בתכונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Categorizing items or individuals based on common features",
+                "definition_hebrew": "סיווג פריטים או אנשים על סמך תכונות משותפות",
+                "example": "The animal shelter sorts animals into different types such as cats, dogs, birds, etc.",
+                "example_hebrew": "בית המחסה לבעלי חיים ממיין בעלי חיים לסוגים שונים כגון חתולים, כלבים, ציפורים וכו'."
+            },
+            {
+                "definition": "In programming, a type refers to the classification of data structures that dictate how an element can be used and what operations are possible on it.",
+                "definition_hebrew": "בתכנות, טיפוס מתייחס לסיווג של מבני נתונים המכתיבים כיצד ניתן להשתמש באלמנט ואילו פעולות אפשריות עליו.",
+                "example": "An integer is one type in many programming languages, while objects or arrays constitute other types.",
+                "example_hebrew": "מספר שלם הוא סוג אחד בשפות תכנות רבות, בעוד שאובייקטים או מערכים מהווים סוגים אחרים."
+            },
+            {
+                "definition": "An idiomatic expression meaning a variety of qualities or characteristics",
+                "definition_hebrew": "ביטוי אידיומטי שמשמעותו מגוון תכונות או מאפיינים",
+                "example": "He's such a colorful character; you never know what kinds of stories he'll tell next - he truly embodies the spirit of 'types'.",
+                "example_hebrew": "הוא דמות כל כך צבעונית; אתה אף פעם לא יודע אילו סוגי סיפורים הוא יספר אחר כך - הוא באמת מגלם את רוח ה'טיפוסים'."
+            }
+        ]
+    }
+]

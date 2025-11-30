@@ -1,0 +1,28 @@
+[
+    {
+        "word": "bills",
+        "word_hebrew": "שטרות",
+        "main_definition": "Bills refers to various meanings including documents requiring payment, a group of birds (specifically pelicans), or a colloquial term referring to the cost of living.",
+        "main_definition_hebrew": "שטרות מתייחסים למשמעויות שונות, כולל מסמכים המחייבים תשלום, קבוצת ציפורים (במיוחד שקנאים), או מונח שגור המתייחס ליוקר המחיה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Documents demanding money",
+                "definition_hebrew": "מסמכים הדורשים כסף",
+                "example": "I have to pay my electricity bill by the end of this month.",
+                "example_hebrew": "אני צריך לשלם את חשבון החשמל שלי עד סוף החודש הזה."
+            },
+            {
+                "definition": "A group of birds, specifically pelicans",
+                "definition_hebrew": "קבוצת ציפורים, במיוחד שקנאים",
+                "example": "We saw a flock of bills at the lake yesterday.",
+                "example_hebrew": "ראינו אתמול להקת שטרות באגם."
+            },
+            {
+                "definition": "Colloquial term for the cost of living expenses",
+                "definition_hebrew": "כינוי רווחי להוצאות המחיה",
+                "example": "My monthly bills are getting too high. I might need to look for a new job.",
+                "example_hebrew": "החשבונות החודשיים שלי נהיים גבוהים מדי. אולי אצטרך לחפש עבודה חדשה."
+            }
+        ]
+    }
+]

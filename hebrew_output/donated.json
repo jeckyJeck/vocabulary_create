@@ -1,0 +1,40 @@
+[
+    {
+        "word": "donated",
+        "word_hebrew": "תרמו",
+        "main_definition": "To give something, especially money or goods, to a person or organization without expecting anything in return.",
+        "main_definition_hebrew": "לתת משהו, במיוחד כסף או סחורה, לאדם או לארגון מבלי לצפות לתמורה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of giving away possessions, typically items no longer needed and unwanted",
+                "definition_hebrew": "פעולת מתן החפצים, בדרך כלל פריטים שאינם נחוצים יותר ואינם רצויים",
+                "example": "She donated her old clothes to the local shelter.",
+                "example_hebrew": "היא תרמה את בגדיה הישנים למקלט המקומי."
+            },
+            {
+                "definition": "Providing money or other resources voluntarily for a cause or charity",
+                "definition_hebrew": "מתן כסף או משאבים אחרים בהתנדבות למען מטרה או צדקה",
+                "example": "He regularly donates $20 every month to support wildlife conservation.",
+                "example_hebrew": "הוא תורם בקביעות 20 דולר בכל חודש כדי לתמוך בשימור חיות הבר."
+            },
+            {
+                "definition": "The act of contributing blood, organs, or tissues to help others in need",
+                "definition_hebrew": "הפעולה של תרומת דם, איברים או רקמות כדי לעזור לאחרים במצוקה",
+                "example": "They had just made a donation by giving blood at the Red Cross center.",
+                "example_hebrew": "הם זה עתה תרמו על ידי מתן דם במרכז הצלב האדום."
+            },
+            {
+                "definition": "To give away time, effort, or skills for free, often without direct financial compensation",
+                "definition_hebrew": "לתת זמן, מאמץ או כישורים בחינם, לרוב ללא פיצוי כספי ישיר",
+                "example": "She volunteered to tutor underprivileged children after school hours.",
+                "example_hebrew": "היא התנדבה להדריך ילדים מוחלשים לאחר שעות הלימודים."
+            },
+            {
+                "definition": "In the context of software and open-source projects, contributing code or resources to a project",
+                "definition_hebrew": "בהקשר של תוכנה ופרויקטים בקוד פתוח, תרומת קוד או משאבים לפרויקט",
+                "example": "The developer donated his expertise by providing bug fixes for the community project's website.",
+                "example_hebrew": "המפתח תרם את מומחיותו על ידי מתן תיקוני באגים לאתר האינטרנט של הפרויקט הקהילתי."
+            }
+        ]
+    }
+]

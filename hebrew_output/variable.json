@@ -1,0 +1,34 @@
+[
+    {
+        "word": "variable",
+        "word_hebrew": "מִשְׁתַנֶה",
+        "main_definition": "In various contexts, 'variable' refers to something that can change or vary; it is a factor whose value may differ from one situation to another.",
+        "main_definition_hebrew": "בהקשרים שונים, 'משתנה' מתייחס למשהו שיכול לשנות או להשתנות; זהו גורם שערכו עשוי להיות שונה ממצב אחד למשנהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A concept in mathematics and science",
+                "definition_hebrew": "מושג במתמטיקה ומדעים",
+                "example": "In algebra, the variable 'x' represents an unknown number that can change.",
+                "example_hebrew": "באלגברה, המשתנה 'x' מייצג מספר לא ידוע שיכול להשתנות."
+            },
+            {
+                "definition": "An element whose value changes over time or situation",
+                "definition_hebrew": "אלמנט שערכו משתנה עם הזמן או המצב",
+                "example": "The temperature is a variable because it changes throughout the day.",
+                "example_hebrew": "הטמפרטורה משתנה כי היא משתנה במהלך היום."
+            },
+            {
+                "definition": "A programming term referring to a storage location in computer memory that can hold different values during program execution",
+                "definition_hebrew": "מונח תכנות המתייחס למיקום אחסון בזיכרון המחשב שיכול להחזיק ערכים שונים במהלך ביצוע התוכנית",
+                "example": "In JavaScript, 'x' declared as `let x = 5;` can later be changed by reassigning it with `x = 10;`.",
+                "example_hebrew": "ב-JavaScript, 'x' שהוכרז כ-'let x = 5;' ניתן לשנות מאוחר יותר על ידי הקצאה מחדש של 'x = 10;'."
+            },
+            {
+                "definition": "A term in statistics used to represent an element within a data set that may take on different values",
+                "definition_hebrew": "מונח בסטטיסטיקה המשמש לייצוג אלמנט בתוך מערך נתונים שעשוי לקבל ערכים שונים",
+                "example": "Income level is a variable as it can vary from person to person.",
+                "example_hebrew": "רמת ההכנסה היא משתנה שכן היא יכולה להשתנות מאדם לאדם."
+            }
+        ]
+    }
+]

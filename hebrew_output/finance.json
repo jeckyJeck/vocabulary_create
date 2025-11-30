@@ -1,0 +1,40 @@
+[
+    {
+        "word": "finance",
+        "word_hebrew": "לְמַמֵן",
+        "main_definition": "Finance is the management of money, particularly in terms of how it is earned, saved, invested, and spent.",
+        "main_definition_hebrew": "פיננסים הוא ניהול של כסף, במיוחד במונחים של האופן שבו מרוויחים, חוסכים, משקיעים ומוציאים אותו.",
+        "meanings_and_examples": [
+            {
+                "definition": "The study or subject concerning monetary matters, including banking, investments, and public spending.",
+                "definition_hebrew": "המחקר או הנושא הנוגע לעניינים כספיים, לרבות בנקאות, השקעות והוצאות ציבוריות.",
+                "example": "He majored in finance at university.",
+                "example_hebrew": "הוא התמחה במימון באוניברסיטה."
+            },
+            {
+                "definition": "Relating to the business of providing money for loans, mortgages, or other financial services.",
+                "definition_hebrew": "המתייחס לעסק של מתן כסף עבור הלוואות, משכנתאות או שירותים פיננסיים אחרים.",
+                "example": "The bank is a leading institution in personal and corporate financing.",
+                "example_hebrew": "הבנק הינו מוסד מוביל במימון אישי ותאגידי."
+            },
+            {
+                "definition": "A system for allocating resources, managing budgets, and handling transactions involving assets like stocks and bonds.",
+                "definition_hebrew": "מערכת להקצאת משאבים, ניהול תקציבים וטיפול בעסקאות הכוללות נכסים כמו מניות ואג\"ח.",
+                "example": "Corporate finance deals with how companies manage their financial activities including capital investment decisions.",
+                "example_hebrew": "מימון תאגידי עוסק באופן שבו חברות מנהלות את הפעילות הפיננסית שלהן כולל החלטות השקעות הון."
+            },
+            {
+                "definition": "The act of obtaining funds to start a business or support an existing one, typically through loans or investors.",
+                "definition_hebrew": "הפעולה של השגת כספים לפתיחת עסק או תמיכה בעסק קיים, בדרך כלל באמצעות הלוואות או משקיעים.",
+                "example": "To secure financing for the new restaurant required presenting a solid business plan.",
+                "example_hebrew": "כדי להבטיח מימון למסעדה החדשה נדרש הצגת תוכנית עסקית מוצקה."
+            },
+            {
+                "definition": "A branch of economics dealing with financial operations and markets.",
+                "definition_hebrew": "ענף כלכלה העוסק בפעולות פיננסיות ושווקים.",
+                "example": "He has expertise in the field of finance, particularly in economic forecasting.",
+                "example_hebrew": "יש לו מומחיות בתחום הפיננסים, במיוחד בחיזוי כלכלי."
+            }
+        ]
+    }
+]

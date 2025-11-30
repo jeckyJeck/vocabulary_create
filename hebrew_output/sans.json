@@ -1,0 +1,22 @@
+[
+    {
+        "word": "sans",
+        "word_hebrew": "sans",
+        "main_definition": "Without or lacking (something).",
+        "main_definition_hebrew": "בלי או חסר (משהו).",
+        "meanings_and_examples": [
+            {
+                "definition": "To be without something, typically used in a sentence to indicate the absence of an object.",
+                "definition_hebrew": "להיות בלי משהו, משמש בדרך כלל במשפט כדי לציין את היעדר אובייקט.",
+                "example": "The picture was displayed sans frame.",
+                "example_hebrew": "התמונה הוצגה ללא מסגרת."
+            },
+            {
+                "definition": "Used to emphasize what is not included or excluded from something, often translated as 'without' in English.",
+                "definition_hebrew": "משמש להדגשת מה שאינו כלול או אינו נכלל במשהו, מתורגם לעתים קרובות כ'בלי' באנגלית.",
+                "example": "He entered the room sans hat.",
+                "example_hebrew": "הוא נכנס לחדר בלי הכובע."
+            }
+        ]
+    }
+]

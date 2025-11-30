@@ -1,0 +1,40 @@
+[
+    {
+        "word": "pages",
+        "word_hebrew": "דפים",
+        "main_definition": "Pages refer to the sheets of paper in a book, magazine, or other bound publication that are used as surfaces for writing or printing information.",
+        "main_definition_hebrew": "דפים מתייחסים לגליונות הנייר בספר, במגזין או בפרסום כרוך אחר המשמשים כמשטחים לכתיבה או להדפסת מידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Factual documents detailing historical events or personal experiences",
+                "definition_hebrew": "מסמכים עובדתיים המפרטים אירועים היסטוריים או חוויות אישיות",
+                "example": "The pages of my grandfather's diary provide a vivid account of his life during World War II.",
+                "example_hebrew": "דפי יומנו של סבי מספקים תיאור חי של חייו במלחמת העולם השנייה."
+            },
+            {
+                "definition": "Sequential sheets in a book containing written content, images, and other graphical elements",
+                "definition_hebrew": "גיליונות עוקבים בספר המכילים תוכן כתוב, תמונות ואלמנטים גרפיים אחרים",
+                "example": "I turned the first few pages of the novel to get an idea about its plot before deciding to buy it.",
+                "example_hebrew": "הפכתי את העמודים הראשונים של הרומן כדי לקבל מושג על עלילתו לפני שהחלטתי לקנות אותו."
+            },
+            {
+                "definition": "Individual leaves or rectangular units that make up a book's content",
+                "definition_hebrew": "דפים בודדים או יחידות מלבניות המרכיבות את תוכן הספר",
+                "example": "The back cover and first page are usually marked with 'Toc' (Table of Contents), while the rest is composed of pages.",
+                "example_hebrew": "הכריכה האחורית והעמוד הראשון מסומנים בדרך כלל ב-'Toc' (תוכן עניינים), בעוד שהשאר מורכב מדפים."
+            },
+            {
+                "definition": "A unit in an electronic document, such as a PDF or eBook, containing text and images",
+                "definition_hebrew": "יחידה במסמך אלקטרוני, כגון PDF או ספר אלקטרוני, המכילה טקסט ותמונות",
+                "example": "I downloaded a few pages from the online library to read on my tablet during the flight.",
+                "example_hebrew": "הורדתי כמה דפים מהספרייה המקוונת לקריאה בטאבלט שלי במהלך הטיסה."
+            },
+            {
+                "definition": "Pages of a playbook used by athletes to refer to specific plays or strategies",
+                "definition_hebrew": "דפים של ספר משחקים המשמשים אתלטים להתייחסות למחזות או אסטרטגיות ספציפיות",
+                "example": "The quarterback quickly flipped through his notebook, consulting his pages before making a crucial decision on the field.",
+                "example_hebrew": "הקוורטרבק דפדף במהירות במחברת שלו, התייעץ בדפים שלו לפני שקיבל החלטה מכרעת על המגרש."
+            }
+        ]
+    }
+]

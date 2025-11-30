@@ -1,0 +1,34 @@
+[
+    {
+        "word": "specifications",
+        "word_hebrew": "מפרטים",
+        "main_definition": "Specifications refer to detailed descriptions or requirements that outline the features, functions, or characteristics of something.",
+        "main_definition_hebrew": "מפרטים מתייחסים לתיאורים מפורטים או דרישות המתארות את התכונות, הפונקציות או המאפיינים של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Technical standards or criteria for a product's design and performance",
+                "definition_hebrew": "תקנים או קריטריונים טכניים לעיצוב וביצועים של מוצר",
+                "example": "The specifications for this new smartphone include a high-resolution display and an extended battery life.",
+                "example_hebrew": "המפרט של הטלפון החכם החדש הזה כולל תצוגה ברזולוציה גבוהה וחיי סוללה ארוכים."
+            },
+            {
+                "definition": "Detailed instructions on how to build something or carry out a task",
+                "definition_hebrew": "הוראות מפורטות כיצד לבנות משהו או לבצע משימה",
+                "example": "The construction specifications provided by the architect included precise measurements and materials needed for each component of the building.",
+                "example_hebrew": "מפרטי הבנייה שסיפק האדריכל כללו מידות מדויקות וחומרים הדרושים לכל מרכיב במבנה."
+            },
+            {
+                "definition": "A document that lists all the requirements, features, and constraints related to a particular project or product",
+                "definition_hebrew": "מסמך המפרט את כל הדרישות, התכונות והאילוצים הקשורים לפרויקט או מוצר מסוים",
+                "example": "Before manufacturing the car model, engineers reviewed the specifications to ensure it met safety standards and performance criteria.",
+                "example_hebrew": "לפני ייצור דגם המכונית, המהנדסים בחנו את המפרטים כדי לוודא שהוא עומד בתקני הבטיחות ובקריטריוני הביצועים."
+            },
+            {
+                "definition": "The precise measurements or technical details of something",
+                "definition_hebrew": "המידות המדויקות או הפרטים הטכניים של משהו",
+                "example": "The specifications for this piece of machinery include a maximum operating temperature of 150 degrees Celsius and a power output of 2 kilowatts.",
+                "example_hebrew": "המפרט של מכונות זה כולל טמפרטורת פעולה מקסימלית של 150 מעלות צלזיוס והספק של 2 קילוואט."
+            }
+        ]
+    }
+]

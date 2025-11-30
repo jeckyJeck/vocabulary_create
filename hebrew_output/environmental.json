@@ -1,0 +1,40 @@
+[
+    {
+        "word": "environmental",
+        "word_hebrew": "סְבִיבָתִי",
+        "main_definition": "Relating to the natural world or conditions of the environment, particularly in terms of conservation, sustainability, and protection.",
+        "main_definition_hebrew": "התייחסות לעולם הטבע או לתנאי הסביבה, במיוחד במונחים של שימור, קיימות והגנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Pertaining to interactions between organisms and their surroundings",
+                "definition_hebrew": "הנוגע לאינטראקציות בין אורגניזמים וסביבתם",
+                "example": "The study of environmental factors that affect plant growth.",
+                "example_hebrew": "חקר גורמים סביבתיים המשפיעים על צמיחת צמחים."
+            },
+            {
+                "definition": "Concerned with the effects of human activities on the natural world",
+                "definition_hebrew": "מודאגים מההשפעות של פעילויות אנושיות על עולם הטבע",
+                "example": "An environmental activist campaigning against deforestation.",
+                "example_hebrew": "פעיל סביבתי בקמפיין נגד כריתת יערות."
+            },
+            {
+                "definition": "Involving ecosystems and biodiversity",
+                "definition_hebrew": "מעורבות מערכות אקולוגיות ומגוון ביולוגי",
+                "example": "The loss of habitat due to urbanization affects various species, leading to a decline in biodiversity.",
+                "example_hebrew": "אובדן בית גידול עקב עיור משפיע על מינים שונים, מה שמוביל לירידה במגוון הביולוגי."
+            },
+            {
+                "definition": "Pertaining to the air, water, or land environment as it relates to health and safety concerns",
+                "definition_hebrew": "הנוגע לסביבת האוויר, המים או היבשה בכל הקשור לדאגות בריאות ובטיחות",
+                "example": "Environmental pollution can have serious implications for public health.",
+                "example_hebrew": "לזיהום הסביבה יכולות להיות השלכות חמורות על בריאות הציבור."
+            },
+            {
+                "definition": "Concerned with renewable resources and sustainable practices",
+                "definition_hebrew": "עוסק במשאבים מתחדשים ובפרקטיקות בר קיימא",
+                "example": "Implementing a recycling program to promote environmental sustainability in the community.",
+                "example_hebrew": "יישום תכנית מיחזור לקידום קיימות סביבתית בקהילה."
+            }
+        ]
+    }
+]

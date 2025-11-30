@@ -1,0 +1,40 @@
+[
+    {
+        "word": "sent",
+        "word_hebrew": "נשלח",
+        "main_definition": "In the context of communication, 'sent' means to have been dispatched or delivered from one place to another.",
+        "main_definition_hebrew": "בהקשר של תקשורת, 'נשלח' פירושו שנשלח או נמסר ממקום אחד לאחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To physically send something or someone away as a result of an action",
+                "definition_hebrew": "לשלוח פיזית משהו או מישהו כתוצאה מפעולה",
+                "example": "She sent her brother to the store to pick up groceries.",
+                "example_hebrew": "היא שלחה את אחיה לחנות לקחת מצרכים."
+            },
+            {
+                "definition": "To dispatch (an email, letter, etc.) for delivery",
+                "definition_hebrew": "לשליחה (מייל, מכתב וכו') למשלוח",
+                "example": "I sent the report via email this morning before leaving work.",
+                "example_hebrew": "שלחתי את הדו\"ח באימייל הבוקר לפני שעזבתי את העבודה."
+            },
+            {
+                "definition": "In sports, to be awarded a set number of points or goals by referees",
+                "definition_hebrew": "בספורט, להעניק מספר מוגדר של נקודות או שערים על ידי שופטים",
+                "example": "The referee decided to send off the player for two minutes due to his aggressive behavior on the field.",
+                "example_hebrew": "השופט החליט להרחיק את השחקן לשתי דקות בשל התנהגותו האגרסיבית במגרש."
+            },
+            {
+                "definition": "To have been delivered and received as a result of being sent",
+                "definition_hebrew": "נמסר והתקבל כתוצאה מהשליחה",
+                "example": "I'm waiting for the package you sent me. It should arrive tomorrow.",
+                "example_hebrew": "אני מחכה לחבילה ששלחת לי. זה אמור להגיע מחר."
+            },
+            {
+                "definition": "In computing, to transfer data from one system or device to another",
+                "definition_hebrew": "במחשוב, להעביר נתונים ממערכת או מכשיר אחד לאחר",
+                "example": "The server sent the files across the network to the client computer.",
+                "example_hebrew": "השרת שלח את הקבצים דרך הרשת למחשב הלקוח."
+            }
+        ]
+    }
+]

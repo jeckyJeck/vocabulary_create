@@ -1,0 +1,34 @@
+[
+    {
+        "word": "electoral",
+        "word_hebrew": "אלקטורלי",
+        "main_definition": "Relating to or involving elections, especially political ones.",
+        "main_definition_hebrew": "קשור או כרוך בבחירות, במיוחד פוליטיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Concerning the electoral process or procedures used in conducting elections",
+                "definition_hebrew": "לגבי תהליך הבחירות או נהלים הנהוגים בניהול בחירות",
+                "example": "The country implemented new electoral laws to ensure a fair voting system.",
+                "example_hebrew": "המדינה הטמיעה חוקי בחירות חדשים כדי להבטיח מערכת הצבעה הוגנת."
+            },
+            {
+                "definition": "Relating to voters and their participation in an election",
+                "definition_hebrew": "התייחסות לבוחרים ולהשתתפותם בבחירות",
+                "example": "The turnout at the electoral event was impressive, with many citizens exercising their right to vote.",
+                "example_hebrew": "אחוז ההצבעה באירוע הבחירות היה מרשים, כאשר אזרחים רבים מימשו את זכותם להצביע."
+            },
+            {
+                "definition": "Pertaining to political parties or candidates during a campaign period before elections",
+                "definition_hebrew": "הנוגע למפלגות פוליטיות או מועמדים בתקופת קמפיין לפני בחירות",
+                "example": "The electoral speeches of the candidates were broadcasted nationwide in the lead-up to the election day.",
+                "example_hebrew": "נאומי הבחירות של המועמדים שודרו בפריסה ארצית לקראת יום הבחירות."
+            },
+            {
+                "definition": "Relating to ballots, voting systems, and other mechanisms used for conducting an election",
+                "definition_hebrew": "הנוגע לפתקי הצבעה, מערכות הצבעה ומנגנונים אחרים המשמשים לעריכת בחירות",
+                "example": "Electronic voting machines are being considered as a more efficient electoral tool.",
+                "example_hebrew": "מכונות הצבעה אלקטרוניות נחשבות ככלי בחירות יעיל יותר."
+            }
+        ]
+    }
+]

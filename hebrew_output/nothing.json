@@ -1,0 +1,40 @@
+[
+    {
+        "word": "nothing",
+        "word_hebrew": "שום דבר",
+        "main_definition": "Nothing is the absence of anything; it signifies a lack or non-existence of objects, ideas, or qualities.",
+        "main_definition_hebrew": "שום דבר אינו היעדר דבר; זה מסמל חוסר או אי קיום של אובייקטים, רעיונות או תכונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The complete nullity; worthlessness or insignificance",
+                "definition_hebrew": "הבטלות הגמורה; חוסר ערך או חוסר משמעות",
+                "example": "His opinion on the matter was nothing but a dismissive wave.",
+                "example_hebrew": "דעתו בעניין לא הייתה אלא גל מזלזל."
+            },
+            {
+                "definition": "Absence of anything at all",
+                "definition_hebrew": "היעדר משהו בכלל",
+                "example": "When I searched my room, there was nothing in sight that caught my attention.",
+                "example_hebrew": "כשחיפשתי בחדר שלי, לא היה שום דבר באופק שמשך את תשומת לבי."
+            },
+            {
+                "definition": "No particular or individual item; none",
+                "definition_hebrew": "אין פריט מסוים או בודד; אף אחד",
+                "example": "I had to choose a book from the library and ended up with nothing.",
+                "example_hebrew": "הייתי צריך לבחור ספר מהספרייה ובסופו של דבר לא היה לי כלום."
+            },
+            {
+                "definition": "The non-existence of anything in quantity or quality",
+                "definition_hebrew": "אי קיום של משהו בכמות או באיכות",
+                "example": "There was nothing on the plate after dinner, not even an apple slice.",
+                "example_hebrew": "לא היה שום דבר על הצלחת אחרי ארוחת הערב, אפילו לא פרוסת תפוח."
+            },
+            {
+                "definition": "A negative response to a question or situation",
+                "definition_hebrew": "תגובה שלילית לשאלה או למצב",
+                "example": "When asked if she would attend the party, she replied with 'nothing'.",
+                "example_hebrew": "כשנשאלה אם תשתתף במסיבה, השיבה 'כלום'."
+            }
+        ]
+    }
+]

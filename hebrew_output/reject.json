@@ -1,0 +1,40 @@
+[
+    {
+        "word": "reject",
+        "word_hebrew": "לִדחוֹת",
+        "main_definition": "to refuse to accept or consider something, such as an idea, proposal, or offer.",
+        "main_definition_hebrew": "לסרב לקבל או לשקול משהו, כגון רעיון, הצעה או הצעה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To not agree with someone's opinion or decision and dismiss it.",
+                "definition_hebrew": "לא להסכים עם דעה או החלטה של מישהו ולבטל אותה.",
+                "example": "She rejected his argument about climate change being a hoax.",
+                "example_hebrew": "היא דחתה את הטיעון שלו על כך ששינויי האקלים הם מתיחה."
+            },
+            {
+                "definition": "To refuse to accept an offer, invitation, or proposal made by someone else.",
+                "definition_hebrew": "לסרב לקבל הצעה, הזמנה או הצעה של מישהו אחר.",
+                "example": "He felt hurt when the company rejected his job application.",
+                "example_hebrew": "הוא חש פגוע כשהחברה דחתה את בקשתו לעבודה."
+            },
+            {
+                "definition": "To discard or decline a physical item, usually because it is unwanted or defective.",
+                "definition_hebrew": "לזרוק או לדחות פריט פיזי, בדרך כלל בגלל שהוא לא רצוי או פגום.",
+                "example": "The customer decided to reject the damaged product and ask for a refund.",
+                "example_hebrew": "הלקוח החליט לדחות את המוצר הפגום ולבקש החזר."
+            },
+            {
+                "definition": "In biology, to not accept an organism's cells during grafting in medical procedures.",
+                "definition_hebrew": "בביולוגיה, לא לקבל תאי אורגניזם במהלך השתלה בפרוצדורות רפואיות.",
+                "example": "The immune system rejected the transplanted heart, causing complications.",
+                "example_hebrew": "מערכת החיסון דחתה את הלב המושתל, וגרמה לסיבוכים."
+            },
+            {
+                "definition": "To dismiss or discard a manuscript, proposal, or article after review for lack of quality or relevance.",
+                "definition_hebrew": "לבטל או לבטל כתב יד, הצעה או מאמר לאחר סקירה בשל חוסר איכות או רלוונטיות.",
+                "example": "The editor had to reject several submissions before finding one worthy to publish.",
+                "example_hebrew": "העורך נאלץ לדחות מספר הגשות לפני שמצא אחת ראויה לפרסום."
+            }
+        ]
+    }
+]

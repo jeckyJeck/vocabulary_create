@@ -1,0 +1,40 @@
+[
+    {
+        "word": "service",
+        "word_hebrew": "שֵׁרוּת",
+        "main_definition": "Service refers to the action of assisting or helping someone, often in a professional capacity, as well as being available to fulfill the needs or requests of others.",
+        "main_definition_hebrew": "שירות מתייחס לפעולה של סיוע או עזרה למישהו, לרוב בתפקיד מקצועי, כמו גם להיות זמין למלא את הצרכים או הבקשות של אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Professional work performed for customers",
+                "definition_hebrew": "עבודה מקצועית שבוצעה עבור לקוחות",
+                "example": "I received excellent service at the restaurant where our anniversary dinner was.",
+                "example_hebrew": "קיבלתי שירות מעולה במסעדה שבה הייתה ארוחת יום השנה שלנו."
+            },
+            {
+                "definition": "Actions to help or support others, typically in a non-material way",
+                "definition_hebrew": "פעולות כדי לעזור או לתמוך באחרים, בדרך כלל בצורה לא חומרית",
+                "example": "The Red Cross provides vital services like disaster relief and blood donations.",
+                "example_hebrew": "הצלב האדום מספק שירותים חיוניים כמו סיוע באסון ותרומות דם."
+            },
+            {
+                "definition": "A military unit that is ready for combat operations",
+                "definition_hebrew": "יחידה צבאית מוכנה לפעולות קרביות",
+                "example": "The army deployed an armored service to secure the area during the conflict.",
+                "example_hebrew": "הצבא הפעיל שירות שריון כדי לאבטח את האזור במהלך העימות."
+            },
+            {
+                "definition": "Supporting infrastructure, such as utilities and maintenance services",
+                "definition_hebrew": "תמיכה בתשתיות, כגון שירותים ושירותי תחזוקה",
+                "example": "Our city's water service ensures clean drinking water for all residents.",
+                "example_hebrew": "שירות המים של עירנו מבטיח מי שתייה נקיים לכל התושבים."
+            },
+            {
+                "definition": "Assistance provided by a government agency or organization to its citizens",
+                "definition_hebrew": "סיוע הניתן על ידי סוכנות או ארגון ממשלתי לאזרחיו",
+                "example": "The social service department helps low-income families with housing and food assistance.",
+                "example_hebrew": "המחלקה לשירותים חברתיים מסייעת למשפחות מעוטות יכולת בסיוע בדיור ובמזון."
+            }
+        ]
+    }
+]

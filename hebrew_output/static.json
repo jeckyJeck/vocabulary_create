@@ -1,0 +1,28 @@
+[
+    {
+        "word": "static",
+        "word_hebrew": "סטָטִי",
+        "main_definition": "Refers to something that is unchanging or lacking motion, or a phenomenon in physics related to electrical charges.",
+        "main_definition_hebrew": "הכוונה למשהו שאינו משתנה או חסר תנועה, או תופעה בפיזיקה הקשורה למטענים חשמליים.",
+        "meanings_and_examples": [
+            {
+                "definition": "relating to not moving or changing over time",
+                "definition_hebrew": "הנוגעים לאי תנועה או שינוי לאורך זמן",
+                "example": "The static on the TV screen made it difficult to watch.",
+                "example_hebrew": "הסטטי על מסך הטלוויזיה הקשה על הצפייה."
+            },
+            {
+                "definition": "a situation that is unchanging and stable",
+                "definition_hebrew": "מצב בלתי משתנה ויציב",
+                "example": "After a long negotiation, they finally reached a static agreement.",
+                "example_hebrew": "לאחר משא ומתן ארוך, הם הגיעו סוף סוף להסכם סטטי."
+            },
+            {
+                "definition": "in physics, related to electrical charges in an electric field",
+                "definition_hebrew": "בפיזיקה, הקשור למטענים חשמליים בשדה חשמלי",
+                "example": "When the balloon was rubbed against his hair, it became statically charged and stuck to the wall.",
+                "example_hebrew": "כשהבלון נשפשף בשערו, הוא הפך לטעון סטטי ודבוק לקיר."
+            }
+        ]
+    }
+]

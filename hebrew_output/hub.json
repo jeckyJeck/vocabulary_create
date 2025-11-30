@@ -1,0 +1,34 @@
+[
+    {
+        "word": "hub",
+        "word_hebrew": "רכזת",
+        "main_definition": "A central point of activity, connection or transportation.",
+        "main_definition_hebrew": "נקודת פעילות מרכזית, חיבור או תחבורה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Center of a system, network, or operation",
+                "definition_hebrew": "מרכז של מערכת, רשת או פעולה",
+                "example": "The city was the hub of trade and commerce in the region.",
+                "example_hebrew": "העיר הייתה מרכז המסחר והמסחר באזור."
+            },
+            {
+                "definition": "A location where transportation routes intersect",
+                "definition_hebrew": "מיקום שבו נתיבי תחבורה מצטלבים",
+                "example": "The railroad hub connects various train lines from different states.",
+                "example_hebrew": "מרכז הרכבת מחבר בין קווי רכבת שונים ממדינות שונות."
+            },
+            {
+                "definition": "A key point or focus for activity, development, or growth",
+                "definition_hebrew": "נקודת מפתח או מיקוד לפעילות, התפתחות או צמיחה",
+                "example": "Silicon Valley is considered the tech industry's global hub.",
+                "example_hebrew": "עמק הסיליקון נחשב למרכז הגלובלי של תעשיית הטכנולוגיה."
+            },
+            {
+                "definition": "The central location where information and communication networks are coordinated",
+                "definition_hebrew": "המיקום המרכזי בו מתואמות רשתות מידע ותקשורת",
+                "example": "The internet backbone consists of several data hubs that facilitate rapid data transmission.",
+                "example_hebrew": "עמוד השדרה של האינטרנט מורכב ממספר רכזות נתונים המאפשרים העברת נתונים מהירה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "hygiene",
+        "word_hebrew": "גֵהוּת",
+        "main_definition": "Hygiene refers to the practices related to ensuring health and cleanliness in various aspects of life, such as personal hygiene, environmental hygiene, and public health.",
+        "main_definition_hebrew": "היגיינה מתייחסת לפרקטיקות הקשורות להבטחת בריאות וניקיון בהיבטים שונים של החיים, כגון היגיינה אישית, היגיינה סביבתית ובריאות הציבור.",
+        "meanings_and_examples": [
+            {
+                "definition": "Personal Hygiene",
+                "definition_hebrew": "היגיינה אישית",
+                "example": "Brushing teeth twice a day to maintain good oral hygiene.",
+                "example_hebrew": "צחצוח שיניים פעמיים ביום כדי לשמור על היגיינת הפה."
+            },
+            {
+                "definition": "Environmental Hygiene",
+                "definition_hebrew": "היגיינה סביבתית",
+                "example": "Regularly cleaning and disinfecting household surfaces to prevent the spread of germs.",
+                "example_hebrew": "ניקוי וחיטוי משטחים ביתיים באופן קבוע כדי למנוע התפשטות חיידקים."
+            },
+            {
+                "definition": "Public Health",
+                "definition_hebrew": "בריאות ציבור",
+                "example": "Implementing vaccination programs to promote community hygiene and prevent disease outbreaks.",
+                "example_hebrew": "יישום תוכניות חיסונים לקידום היגיינה בקהילה ומניעת התפרצויות מחלות."
+            }
+        ]
+    }
+]

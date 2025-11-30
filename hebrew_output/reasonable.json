@@ -1,0 +1,34 @@
+[
+    {
+        "word": "reasonable",
+        "word_hebrew": "סביר",
+        "main_definition": "Fair, sensible, or rational in nature; not extreme, exaggerated, or out of the ordinary.",
+        "main_definition_hebrew": "הוגן, הגיוני או רציונלי באופיו; לא קיצוני, מוגזם או יוצא דופן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not excessive or unreasonable",
+                "definition_hebrew": "לא מוגזם או לא הגיוני",
+                "example": "The price for a pizza was reasonable considering it included extra toppings.",
+                "example_hebrew": "המחיר לפיצה היה סביר בהתחשב בכך שהיא כללה תוספות נוספות."
+            },
+            {
+                "definition": "Capable of being reasoned with; open to discussion and compromise",
+                "definition_hebrew": "מסוגל לנמק עם; פתוח לדיון ולפשרה",
+                "example": "She had a reasonable attitude towards the disagreement, willing to discuss options to find common ground.",
+                "example_hebrew": "הייתה לה גישה סבירה לחוסר ההסכמה, מוכנה לדון באפשרויות למצוא מכנה משותף."
+            },
+            {
+                "definition": "Fit within normal standards or expectations",
+                "definition_hebrew": "מתאים לסטנדרטים או ציפיות רגילים",
+                "example": "The length of the deadline was reasonable given the complexity of the task at hand.",
+                "example_hebrew": "משך המועד היה סביר בהתחשב במורכבות המשימה שעל הפרק."
+            },
+            {
+                "definition": "In agreement with logic and sound judgment; logical",
+                "definition_hebrew": "בהסכמה עם הגיון ושיקול דעת נכון; הגיוני",
+                "example": "His argument for why we should take a break seemed quite reasonable to everyone in the room.",
+                "example_hebrew": "הטיעון שלו למה כדאי לנו לקחת הפסקה נראה הגיוני למדי לכל מי שהיה בחדר."
+            }
+        ]
+    }
+]

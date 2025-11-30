@@ -1,0 +1,28 @@
+[
+    {
+        "word": "journalist",
+        "word_hebrew": "עִתוֹנָאִי",
+        "main_definition": "A journalist is a professional who collects, writes, and distributes news or other current information to the public through various media outlets.",
+        "main_definition_hebrew": "עיתונאי הוא איש מקצוע שאוסף, כותב ומפיץ חדשות או מידע עדכני אחר לציבור באמצעות כלי תקשורת שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Professional writer of articles for newspapers, magazines, television, or radio",
+                "definition_hebrew": "כותב מקצועי של מאמרים לעיתונים, מגזינים, טלוויזיה או רדיו",
+                "example": "The journalist interviewed the politician and wrote an article about it.",
+                "example_hebrew": "העיתונאי ראיין את הפוליטיקאי וכתב על כך מאמר."
+            },
+            {
+                "definition": "Someone who investigates news stories to gather information",
+                "definition_hebrew": "מישהו שחוקר כתבות חדשותיות כדי לאסוף מידע",
+                "example": "The journalist spent weeks researching a story on climate change before publishing their findings.",
+                "example_hebrew": "העיתונאי בילה שבועות במחקר על סיפור על שינויי אקלים לפני פרסום ממצאיו."
+            },
+            {
+                "definition": "A person who works in the field of journalism, often reporting live from events or conducting interviews",
+                "definition_hebrew": "אדם העוסק בתחום העיתונות, לעיתים קרובות מדווח בשידור חי מאירועים או עורך ראיונות",
+                "example": "The television journalist was covering the presidential election and provided real-time updates to viewers.",
+                "example_hebrew": "עיתונאי הטלוויזיה סיקר את הבחירות לנשיאות וסיפק עדכונים בזמן אמת לצופים."
+            }
+        ]
+    }
+]

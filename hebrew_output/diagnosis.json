@@ -1,0 +1,34 @@
+[
+    {
+        "word": "diagnosis",
+        "word_hebrew": "אִבחוּן",
+        "main_definition": "The identification of the nature and cause of a medical condition by examination of the symptoms.",
+        "main_definition_hebrew": "זיהוי אופי וגורם למצב רפואי על ידי בדיקת התסמינים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In a general context, determining the identity or character of something with certainty.",
+                "definition_hebrew": "בהקשר כללי, קביעת הזהות או האופי של משהו בוודאות.",
+                "example": "After an investigation, the detective made a diagnosis about the nature of the crime.",
+                "example_hebrew": "לאחר חקירה, הבלש ערך אבחנה לגבי מהות הפשע."
+            },
+            {
+                "definition": "The process of identifying the underlying problem in various situations beyond medical ones, such as technical issues or personal dilemmas.",
+                "definition_hebrew": "תהליך זיהוי הבעיה הבסיסית במצבים שונים מעבר למצבים רפואיים, כמו בעיות טכניות או דילמות אישיות.",
+                "example": "The IT specialist provided a diagnosis for the computer that wouldn't start, revealing a faulty power supply.",
+                "example_hebrew": "מומחה ה-IT סיפק אבחון למחשב שלא היה מופעל, וחשף ספק כוח פגום."
+            },
+            {
+                "definition": "In medicine, it refers to the process of determining what disease or condition explains a person's symptoms and signs.",
+                "definition_hebrew": "ברפואה, זה מתייחס לתהליך של קביעה איזו מחלה או מצב מסביר את הסימפטומים והסימנים של האדם.",
+                "example": "The doctor made a diagnosis after reviewing the patient's test results: she had type 2 diabetes.",
+                "example_hebrew": "הרופא קבע אבחנה לאחר שעיין בתוצאות הבדיקה של המטופלת: היא סבלה מסוכרת מסוג 2."
+            },
+            {
+                "definition": "In psychology, it refers to understanding someone's emotional state or mental health condition based on their behaviors and expressions.",
+                "definition_hebrew": "בפסיכולוגיה, זה מתייחס להבנת המצב הרגשי או מצב בריאותו הנפשי של מישהו על סמך התנהגויותיו וביטוייו.",
+                "example": "The therapist offered a diagnosis of depression after analyzing the patient's feelings of persistent sadness.",
+                "example_hebrew": "המטפל הציע אבחנה של דיכאון לאחר ניתוח תחושות העצב המתמשך של המטופל."
+            }
+        ]
+    }
+]

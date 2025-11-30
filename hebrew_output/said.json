@@ -1,0 +1,40 @@
+[
+    {
+        "word": "said",
+        "word_hebrew": "אמר",
+        "main_definition": "said is a past tense form of the verb 'say', used to report or describe speech.",
+        "main_definition_hebrew": "אמר הוא צורת עבר של הפועל 'אומר', המשמש לדיווח או לתיאור דיבור.",
+        "meanings_and_examples": [
+            {
+                "definition": "To express something in words, typically using one's voice.",
+                "definition_hebrew": "להביע משהו במילים, בדרך כלל באמצעות הקול של האדם.",
+                "example": "She said she would arrive at 5 pm.",
+                "example_hebrew": "היא אמרה שהיא תגיע ב-17:00."
+            },
+            {
+                "definition": "Used to introduce direct speech or a quotation without indicating who is speaking.",
+                "definition_hebrew": "משמש להצגת דיבור ישיר או ציטוט מבלי לציין מי מדבר.",
+                "example": "The teacher said, 'Do your homework on time.'",
+                "example_hebrew": "המורה אמרה, 'תעשה שיעורי בית בזמן'."
+            },
+            {
+                "definition": "To indicate someone's words as reported by the speaker, often used with attributive tags like 'he said', 'she said', etc., to clarify who is speaking.",
+                "definition_hebrew": "לציין את המילים של מישהו כפי שדווח על ידי הדובר, לעתים קרובות בשימוש עם תגים ייחוסים כמו 'הוא אמר', 'היא אמרה' וכו', כדי להבהיר מי מדבר.",
+                "example": "'I can't believe it,' he said.",
+                "example_hebrew": "״אני לא מאמין,״ אמר."
+            },
+            {
+                "definition": "Used after a quote or dialogue to indicate that the words are being reported, not directly spoken. This usage is more common in written English than speech.",
+                "definition_hebrew": "משמש לאחר ציטוט או דיאלוג כדי לציין שהמילים מדווחות, לא נאמרות ישירות. שימוש זה נפוץ יותר באנגלית כתובה מאשר בדיבור.",
+                "example": "The sign read, 'No swimming allowed.' Said by a lifeguard.",
+                "example_hebrew": "על השלט נכתב 'אסור לשחות'. נאמר על ידי מציל."
+            },
+            {
+                "definition": "Sometimes used humorously or informally to imply that something was said but not actually verbalized, often for comedic effect or sarcasm.",
+                "definition_hebrew": "לפעמים נעשה שימוש בהומור או לא רשמי כדי לרמוז שמשהו נאמר אך לא ממש הומלץ, לעתים קרובות בגלל אפקט קומי או סרקזם.",
+                "example": "He said he would 'be there soon'—but we all know he never shows up.",
+                "example_hebrew": "הוא אמר שהוא 'יהיה שם בקרוב' - אבל כולנו יודעים שהוא אף פעם לא מופיע."
+            }
+        ]
+    }
+]

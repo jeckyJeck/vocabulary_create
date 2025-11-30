@@ -1,0 +1,40 @@
+[
+    {
+        "word": "skip",
+        "word_hebrew": "לדלג",
+        "main_definition": "To intentionally omit or bypass something, such as a step in an activity or process.",
+        "main_definition_hebrew": "להשמיט או לעקוף משהו בכוונה, כמו שלב בפעילות או בתהליך.",
+        "meanings_and_examples": [
+            {
+                "definition": "To pass over or deliberately avoid (a section of roadway) while driving; to jump over with one's feet when walking.",
+                "definition_hebrew": "לעבור או להימנע בכוונה (קטע של כביש) בזמן נהיגה; לקפוץ עם הרגליים בזמן הליכה.",
+                "example": "She decided to skip the traffic light and crossed the street.",
+                "example_hebrew": "היא החליטה לדלג על הרמזור וחצתה את הרחוב."
+            },
+            {
+                "definition": "To move something quickly in a series, without including or taking into account certain items or elements that are typically present. For instance, skipping a beat in music means moving directly from one note to another.",
+                "definition_hebrew": "להעביר משהו במהירות בסדרה, מבלי לכלול או לקחת בחשבון פריטים או אלמנטים מסוימים שנמצאים בדרך כלל. לדוגמה, דילוג על קצב במוזיקה פירושו לעבור ישירות מצליל אחד לאחר.",
+                "example": "The song had an interesting rhythm because the drummer often intentionally skipped beats.",
+                "example_hebrew": "לשיר היה קצב מעניין מכיוון שהמתופף דילג לעתים קרובות על פעימות בכוונה."
+            },
+            {
+                "definition": "To neglect or ignore something without deliberate intent. For example, when children skip chores by not doing them at all.",
+                "definition_hebrew": "להזניח או להתעלם ממשהו ללא כוונה מכוונת. לדוגמה, כאשר ילדים מדלגים על מטלות בכך שהם לא עושים אותן כלל.",
+                "example": "He didn't do his homework and simply decided to skip it altogether for the day.",
+                "example_hebrew": "הוא לא הכין את שיעורי הבית שלו ופשוט החליט לדלג עליהם לגמרי למשך היום."
+            },
+            {
+                "definition": "In education, 'skipping a grade' refers to advancing to the next level in school without repeating an academic year. For example, if a student performs exceptionally well in their studies.",
+                "definition_hebrew": "בחינוך, 'דילוג על כיתה' מתייחס להתקדמות לשלב הבא בבית הספר מבלי לחזור על שנת לימודים. למשל, אם סטודנט מתפקד בצורה יוצאת דופן בלימודיו.",
+                "example": "After graduating from high school at age 16, she skipped two grades and started college immediately.",
+                "example_hebrew": "לאחר שסיימה את התיכון בגיל 16, היא דילגה על שתי כיתות והחלה מיד בקולג'."
+            },
+            {
+                "definition": "To stop playing or performing during an event without explanation; often used metaphorically to indicate giving up on something temporarily.",
+                "definition_hebrew": "להפסיק לנגן או להופיע במהלך אירוע ללא הסבר; משמש לעתים קרובות באופן מטפורי כדי לציין ויתור על משהו באופן זמני.",
+                "example": "During the game, when he felt overwhelmed by his opponent's skill, he decided to skip a round.",
+                "example_hebrew": "במהלך המשחק, כשהרגיש המום מהמיומנות של יריבו, החליט לדלג על סיבוב."
+            }
+        ]
+    }
+]

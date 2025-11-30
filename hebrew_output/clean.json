@@ -1,0 +1,40 @@
+[
+    {
+        "word": "clean",
+        "word_hebrew": "לְנַקוֹת",
+        "main_definition": "To remove dirt, marks, or mess from something, making it neat, tidy, and free of contaminants.",
+        "main_definition_hebrew": "כדי להסיר לכלוך, סימנים או בלגן ממשהו, ולהפוך אותו למסודר, מסודר ונקי ממזהמים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Free from dirt; spotless",
+                "definition_hebrew": "נקי מלכלוך; לְלֹא רְבָב",
+                "example": "After washing my car, it looked clean and shiny.",
+                "example_hebrew": "לאחר שטיפת המכונית שלי, הוא נראה נקי ומבריק."
+            },
+            {
+                "definition": "Without any unwanted substances or impurities",
+                "definition_hebrew": "ללא כל חומרים או זיהומים לא רצויים",
+                "example": "She took the milk out of the fridge to ensure that the liquid was clean before pouring it into her coffee.",
+                "example_hebrew": "היא הוציאה את החלב מהמקרר כדי לוודא שהנוזל נקי לפני ששפכה אותו לקפה שלה."
+            },
+            {
+                "definition": "To make something free from dirt, marks, or stains; remove contaminants",
+                "definition_hebrew": "לעשות משהו נקי מלכלוך, סימנים או כתמים; להסיר מזהמים",
+                "example": "He cleaned his room by dusting, vacuuming and organizing everything to make it a clean space.",
+                "example_hebrew": "הוא ניקה את החדר שלו על ידי ניקוי אבק, שאיבת אבק וארגון הכל כדי להפוך אותו לחלל נקי."
+            },
+            {
+                "definition": "Moral purity or innocence",
+                "definition_hebrew": "טוהר מוסרי או תמימות",
+                "example": "Despite being in the wrong situation, he maintained that he remained clean in terms of his moral principles.",
+                "example_hebrew": "למרות היותו במצב הלא נכון, הוא טען שהוא נשאר נקי מבחינת העקרונות המוסריים שלו."
+            },
+            {
+                "definition": "To remove unwanted substances from one's body (as through sweating) to maintain hygiene or health",
+                "definition_hebrew": "להסיר חומרים לא רצויים מהגוף (כמו באמצעות הזעה) כדי לשמור על היגיינה או בריאות",
+                "example": "She went for a run and then took a shower, feeling clean afterward.",
+                "example_hebrew": "היא יצאה לריצה ואז התקלחה, כשהיא מרגישה נקייה לאחר מכן."
+            }
+        ]
+    }
+]

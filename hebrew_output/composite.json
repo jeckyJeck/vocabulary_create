@@ -1,0 +1,28 @@
+[
+    {
+        "word": "composite",
+        "word_hebrew": "מרוכבים",
+        "main_definition": "Composite can refer to a substance or material made from two or more different elements, an idiomatic expression describing something complex or made up of parts, or an image made by combining several photographs.",
+        "main_definition_hebrew": "קומפוזיט יכול להתייחס לחומר או חומר העשוי משני אלמנטים שונים או יותר, ביטוי אידיומטי המתאר משהו מורכב או מורכב מחלקים, או תמונה שנוצרה על ידי שילוב של מספר תצלומים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In materials science and engineering, referring to a substance that is composed of two or more different elements combined in such a way as to retain their identities over time. For example: 'Carbon fiber is a composite material made from carbon atoms bound together in crystalline structures.'",
+                "definition_hebrew": "במדעי החומרים והנדסת החומרים, הכוונה לחומר המורכב משני אלמנטים שונים או יותר המשולבים באופן שישמר את זהותם לאורך זמן. לדוגמה: 'סיבי פחמן הם חומר מרוכב העשוי מאטומי פחמן הקשורים זה לזה במבנים גבישיים'.",
+                "example": "'The bicycle frame was made of a titanium alloy, which is a metal composite.'",
+                "example_hebrew": "'שלדת האופניים הייתה עשויה מסגסוגת טיטניום, שהיא קומפוזיט מתכת'."
+            },
+            {
+                "definition": "As an idiom, meaning that something consists of various parts or elements and the whole is more than just the sum of its parts. For example: 'Understanding human behavior requires analyzing composites of genetics, environment, and personal experiences.'",
+                "definition_hebrew": "בתור ניב, כלומר משהו מורכב מחלקים או אלמנטים שונים והשלם הוא יותר מסתם סכום חלקיו. לדוגמה: 'הבנת ההתנהגות האנושית מחייבת ניתוח מרכיבים של גנטיקה, סביבה וחוויות אישיות'.",
+                "example": "'His leadership skills are a composite of his formal education, work experience, and innate charisma.'",
+                "example_hebrew": "\"כישורי המנהיגות שלו מורכבים מההשכלה הפורמלית שלו, ניסיון העבודה והכריזמה המולדת שלו.\""
+            },
+            {
+                "definition": "In photography, relating to an image that is created by combining several photographs taken from different angles or at different times. For example: 'The panoramic view was captured as a composite of multiple individual shots stitched together seamlessly.'",
+                "definition_hebrew": "בצילום, התייחסות לתמונה שנוצרת על ידי שילוב של מספר צילומים שצולמו מזוויות שונות או בזמנים שונים. לדוגמה: 'התצוגה הפנורמית נלכדה כקומפוזיציה של מספר תמונות בודדות שחוברו יחד בצורה חלקה'.",
+                "example": "'The real estate agent used a drone to take aerial photos and then created a composite image that showed the entire property in one frame.'",
+                "example_hebrew": "\"סוכן הנדל\"ן השתמש ברחפן כדי לצלם תמונות אוויר ואז יצר תמונה מורכבת שהראתה את כל הנכס בפריים אחד.'"
+            }
+        ]
+    }
+]

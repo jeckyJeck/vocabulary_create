@@ -1,0 +1,34 @@
+[
+    {
+        "word": "string",
+        "word_hebrew": "חוּט",
+        "main_definition": "A sequence of characters, typically used to represent words or text in programming languages.",
+        "main_definition_hebrew": "רצף של תווים, המשמש בדרך כלל לייצוג מילים או טקסט בשפות תכנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In programming, a series of characters enclosed in quotes that represents text data.",
+                "definition_hebrew": "בתכנות, סדרה של תווים המוקפים במרכאות המייצגות נתוני טקסט.",
+                "example": "The word 'hello' is represented as a string: 'hello'",
+                "example_hebrew": "המילה 'שלום' מיוצגת כמחרוזת: 'שלום'"
+            },
+            {
+                "definition": "A strung together or connected sequence.",
+                "definition_hebrew": "רצף מחובר או מחובר.",
+                "example": "The pearl necklace was made of beautifully strung-together beads.",
+                "example_hebrew": "שרשרת הפנינים הייתה עשויה מחרוזים מחוברים להפליא."
+            },
+            {
+                "definition": "An uninterrupted line or series.",
+                "definition_hebrew": "קו או סדרה ללא הפרעה.",
+                "example": "She walked along the string of holiday lights, admiring their colorful display.",
+                "example_hebrew": "היא הלכה לאורך שרשרת אורות החג, מתפעלת מהתצוגה הצבעונית שלהם."
+            },
+            {
+                "definition": "A stretched or thin cord made from twisted strands.",
+                "definition_hebrew": "חוט מתוח או דק עשוי מחוטים מעוותים.",
+                "example": "The old rope was frayed and worn, a testament to its long use in pulling heavy loads.",
+                "example_hebrew": "החבל הישן היה בלוי ושחוק, עדות לשימוש הממושך שלו במשיכת משאות כבדים."
+            }
+        ]
+    }
+]

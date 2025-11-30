@@ -1,0 +1,34 @@
+[
+    {
+        "word": "printing",
+        "word_hebrew": "הַדפָּסָה",
+        "main_definition": "The process of producing text or images, typically with ink on paper using a printing press or modern digital methods.",
+        "main_definition_hebrew": "תהליך הפקת טקסט או תמונות, בדרך כלל עם דיו על נייר באמצעות מכונת דפוס או שיטות דיגיטליות מודרניות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of pressing an object into the surface to create an impression",
+                "definition_hebrew": "פעולת הלחיצה של חפץ אל פני השטח ליצירת רושם",
+                "example": "When she pressed her hand onto the clay, it left an imprint.",
+                "example_hebrew": "כשהיא לחצה את ידה על החימר, היא השאירה חותם."
+            },
+            {
+                "definition": "To make a copy or replica of something by transferring its image onto another medium",
+                "definition_hebrew": "ליצור עותק או העתק של משהו על ידי העברת התמונה שלו למדיום אחר",
+                "example": "The artist printed his painting on canvas to create several copies for sale.",
+                "example_hebrew": "האמן הדפיס את הציור שלו על קנבס כדי ליצור מספר עותקים למכירה."
+            },
+            {
+                "definition": "A type of software used to digitally reproduce text and images, typically in preparation for printing",
+                "definition_hebrew": "סוג של תוכנה המשמשת לשחזור דיגיטלי של טקסט ותמונות, בדרך כלל כהכנה להדפסה",
+                "example": "She used a design program like Adobe Illustrator to prepare her artwork for print.",
+                "example_hebrew": "היא השתמשה בתוכנת עיצוב כמו Adobe Illustrator כדי להכין את יצירות האמנות שלה להדפסה."
+            },
+            {
+                "definition": "The process of converting digital files into physical copies using printers or other devices",
+                "definition_hebrew": "תהליך המרת קבצים דיגיטליים לעותקים פיזיים באמצעות מדפסות או מכשירים אחרים",
+                "example": "After editing his photos, he printed them on high-quality photo paper.",
+                "example_hebrew": "לאחר עריכת תמונותיו הדפיס אותן על נייר צילום איכותי."
+            }
+        ]
+    }
+]

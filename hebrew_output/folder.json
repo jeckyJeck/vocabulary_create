@@ -1,0 +1,34 @@
+[
+    {
+        "word": "folder",
+        "word_hebrew": "תיקייה",
+        "main_definition": "A folder is a physical or digital container used to organize, store, and manage files and documents.",
+        "main_definition_hebrew": "תיקייה היא מיכל פיזי או דיגיטלי המשמש לארגון, אחסון וניהול של קבצים ומסמכים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical storage for papers",
+                "definition_hebrew": "אחסון פיזי לניירות",
+                "example": "She kept her bills and important documents in a large metal folder.",
+                "example_hebrew": "היא שמרה את החשבונות והמסמכים החשובים שלה בתיקיית מתכת גדולה."
+            },
+            {
+                "definition": "A container to store digital files",
+                "definition_hebrew": "מיכל לאחסון קבצים דיגיטליים",
+                "example": "I saved all my project reports in a folder on the desktop of my computer.",
+                "example_hebrew": "שמרתי את כל דוחות הפרויקט שלי בתיקייה בשולחן העבודה של המחשב שלי."
+            },
+            {
+                "definition": "Software for organizing and managing files",
+                "definition_hebrew": "תוכנה לארגון וניהול קבצים",
+                "example": "The office uses a popular file management software called 'Folder' to keep track of all their documents.",
+                "example_hebrew": "המשרד משתמש בתוכנת ניהול קבצים פופולרית בשם 'תיקייה' כדי לעקוב אחר כל המסמכים שלהם."
+            },
+            {
+                "definition": "A section or category in computer systems",
+                "definition_hebrew": "מדור או קטגוריה במערכות מחשוב",
+                "example": "All the photos from our vacation are stored in a folder named 'Vacations' on my phone.",
+                "example_hebrew": "כל התמונות מהחופשה שלנו מאוחסנות בתיקייה בשם 'חופשות' בטלפון שלי."
+            }
+        ]
+    }
+]

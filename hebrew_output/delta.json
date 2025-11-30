@@ -1,0 +1,28 @@
+[
+    {
+        "word": "delta",
+        "word_hebrew": "דֶלתָא",
+        "main_definition": "In various contexts, 'delta' refers to the change or difference between two things, a triangular landform at the mouth of a river, and an angle formed by three points.",
+        "main_definition_hebrew": "בהקשרים שונים, 'דלתא' מתייחסת לשינוי או ההבדל בין שני דברים, צורת יבשה משולשת בשפך נהר וזווית שנוצרת משלוש נקודות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Change or difference in value",
+                "definition_hebrew": "שינוי או הבדל בערך",
+                "example": "'The price delta for this stock is +2.3%, indicating a 2.3% increase.'",
+                "example_hebrew": "'דלתא המחיר של מניה זו היא +2.3%, מה שמצביע על עלייה של 2.3%'."
+            },
+            {
+                "definition": "Triangular landform at the mouth of a river",
+                "definition_hebrew": "צורת קרקע משולשת בשפך נהר",
+                "example": "'We visited the Nile Delta during our trip to Egypt, which consists of numerous distributaries and rich agricultural lands.'",
+                "example_hebrew": "\"ביקרנו בדלתא של הנילוס במהלך הטיול שלנו במצרים, המורכב ממספר רב של מחלקות ואדמות חקלאיות עשירות.\""
+            },
+            {
+                "definition": "Angle formed by three points",
+                "definition_hebrew": "זווית שנוצרה על ידי שלוש נקודות",
+                "example": "'The angles in an equilateral triangle are all equal to delta 60 degrees, where each angle is the difference between two adjacent sides.'",
+                "example_hebrew": "'הזוויות במשולש שווה צלעות שוות כולן לדלתא 60 מעלות, כאשר כל זווית היא ההפרש בין שתי צלעות סמוכות'."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "generator",
+        "word_hebrew": "גֵנֵרָטוֹר",
+        "main_definition": "A device or program that creates something, often an output of a particular kind.",
+        "main_definition_hebrew": "מכשיר או תוכנית שיוצרים משהו, לעתים קרובות פלט מסוג מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In general terms, referring to any thing that produces or gives rise to some object, result, or condition:",
+                "definition_hebrew": "במונחים כלליים, הכוונה לכל דבר שמייצר או גורם לאובייקט, תוצאה או מצב כלשהו:",
+                "example": "The wind turbine acts as a generator by converting kinetic energy into electrical power.",
+                "example_hebrew": "טורבינת הרוח פועלת כגנרטור על ידי המרת אנרגיה קינטית לכוח חשמלי."
+            },
+            {
+                "definition": "A person who creates something, often works in the arts, media, or writing:",
+                "definition_hebrew": "אדם שיוצר משהו, עובד לעתים קרובות באמנות, בתקשורת או בכתיבה:",
+                "example": "She is a talented musician and writer; she can be considered a creative generator of new songs and stories.",
+                "example_hebrew": "היא מוזיקאית וסופרת מוכשרת; היא יכולה להיחשב כמחוללת יצירתית של שירים וסיפורים חדשים."
+            },
+            {
+                "definition": "In electronics, referring to an electrical device that converts mechanical energy into electrical energy (typically in the form of direct current):",
+                "definition_hebrew": "באלקטרוניקה, הכוונה למכשיר חשמלי הממיר אנרגיה מכנית לאנרגיה חשמלית (בדרך כלל בצורה של זרם ישר):",
+                "example": "The hydroelectric power plant has massive generators that produce electricity from flowing water.",
+                "example_hebrew": "בתחנת הכוח ההידרואלקטרית יש גנרטורים מאסיביים המפיקים חשמל ממים זורמים."
+            },
+            {
+                "definition": "In computing, referring to a program or script that produces an output based on input data:",
+                "definition_hebrew": "במחשוב, הכוונה לתוכנית או סקריפט שמייצרים פלט המבוסס על נתוני קלט:",
+                "example": "This Python script is considered a generator since it yields values one at a time instead of returning them all at once.",
+                "example_hebrew": "סקריפט Python זה נחשב למחולל מכיוון שהוא מניב ערכים אחד בכל פעם במקום להחזיר את כולם בבת אחת."
+            }
+        ]
+    }
+]

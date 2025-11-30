@@ -1,0 +1,28 @@
+[
+    {
+        "word": "prohibited",
+        "word_hebrew": "אָסוּר",
+        "main_definition": "Not allowed or forbidden by law, rules, or customs.",
+        "main_definition_hebrew": "אסור או אסור על פי חוק, כללים או מנהגים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Restricted from use, action, or participation due to legal reasons.",
+                "definition_hebrew": "מוגבל לשימוש, פעולה או השתתפות מסיבות משפטיות.",
+                "example": "Smoking is prohibited in this hospital.",
+                "example_hebrew": "העישון אסור בבית חולים זה."
+            },
+            {
+                "definition": "Not allowed by a rule, regulation, or law.",
+                "definition_hebrew": "אסור לפי כלל, תקנה או חוק.",
+                "example": "Wearing flip-flops is prohibited in the laboratory.",
+                "example_hebrew": "לבישת כפכפים אסורה במעבדה."
+            },
+            {
+                "definition": "Not permitted according to social customs or expectations.",
+                "definition_hebrew": "אסור על פי מנהגים או ציפיות חברתיות.",
+                "example": "It's considered rude and sometimes prohibited to speak loudly on public transportation.",
+                "example_hebrew": "זה נחשב גס ולפעמים אסור לדבר בקול רם בתחבורה ציבורית."
+            }
+        ]
+    }
+]

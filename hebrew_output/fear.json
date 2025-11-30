@@ -1,0 +1,34 @@
+[
+    {
+        "word": "fear",
+        "word_hebrew": "פַּחַד",
+        "main_definition": "An unpleasant emotional response to an imminent threat or danger.",
+        "main_definition_hebrew": "תגובה רגשית לא נעימה לאיום או סכנה מיידית.",
+        "meanings_and_examples": [
+            {
+                "definition": "General feeling of anxiety, unease, or worry about future events or potential threats",
+                "definition_hebrew": "תחושה כללית של חרדה, אי נוחות או דאגה לגבי אירועים עתידיים או איומים פוטנציאליים",
+                "example": "I have a fear that I won't pass my exam.",
+                "example_hebrew": "יש לי פחד שלא אעבור את הבחינה שלי."
+            },
+            {
+                "definition": "A specific phobia, an intense and irrational fear of something in particular",
+                "definition_hebrew": "פוביה ספציפית, פחד עז ולא הגיוני ממשהו מסוים",
+                "example": "She has a fear of spiders (arachnophobia).",
+                "example_hebrew": "יש לה פחד מעכבישים (ארכנופוביה)."
+            },
+            {
+                "definition": "The anticipation of danger that is real or perceived but not necessarily present at the moment",
+                "definition_hebrew": "הציפייה לסכנה שהיא אמיתית או נתפסת אך לא בהכרח קיימת כרגע",
+                "example": "His heart raced with fear as he faced the bear in the forest.",
+                "example_hebrew": "לבו דהר מפחד כשהתמודד מול הדוב ביער."
+            },
+            {
+                "definition": "A deep sense of dread about something bad happening, often related to a specific threat or situation",
+                "definition_hebrew": "תחושה עמוקה של אימה ממשהו רע שקורה, לעתים קרובות קשור לאיום או מצב ספציפי",
+                "example": "The town was gripped by fear after hearing rumors of an impending attack.",
+                "example_hebrew": "העיר תפסה פחד לאחר ששמעו שמועות על פיגוע צפוי."
+            }
+        ]
+    }
+]

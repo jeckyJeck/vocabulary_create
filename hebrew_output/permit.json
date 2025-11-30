@@ -1,0 +1,34 @@
+[
+    {
+        "word": "permit",
+        "word_hebrew": "לְהַתִיר",
+        "main_definition": "To allow or give permission for something to happen.",
+        "main_definition_hebrew": "לאפשר או לתת רשות שמשהו יקרה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To legally authorize someone to do something that might otherwise be forbidden.",
+                "definition_hebrew": "לאשר באופן חוקי למישהו לעשות משהו שאחרת עלול להיות אסור.",
+                "example": "My parents permit me to drive the car on weekends.",
+                "example_hebrew": "ההורים שלי מרשים לי לנהוג במכונית בסופי שבוע."
+            },
+            {
+                "definition": "A document granting permission for a particular action or event, such as entering a restricted area.",
+                "definition_hebrew": "מסמך המעניק הרשאה לפעולה או אירוע מסוים, כגון כניסה לאזור מוגבל.",
+                "example": "The entrance pass permits her access to all floors of the building.",
+                "example_hebrew": "כרטיס הכניסה מאפשר לה גישה לכל קומות הבניין."
+            },
+            {
+                "definition": "To enable or make possible by giving permission.",
+                "definition_hebrew": "לאפשר או לאפשר על ידי מתן רשות.",
+                "example": "His new job permit him to travel internationally for business meetings.",
+                "example_hebrew": "עבודתו החדשה מאפשרת לו לנסוע לחו\"ל לפגישות עסקיות."
+            },
+            {
+                "definition": "In computing, to allow a particular operation that might be restricted.",
+                "definition_hebrew": "במחשוב, לאפשר פעולה מסוימת שעלולה להיות מוגבלת.",
+                "example": "The firewall settings will permit certain types of traffic into the network.",
+                "example_hebrew": "הגדרות חומת האש יאפשרו סוגים מסוימים של תעבורה לרשת."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "odd",
+        "word_hebrew": "מוזר",
+        "main_definition": "Odd refers to something unusual, unexpected, or not fitting a pattern.",
+        "main_definition_hebrew": "מוזר מתייחס למשהו יוצא דופן, בלתי צפוי או לא מתאים לתבנית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not divisible evenly by two; indivisible into pairs.",
+                "definition_hebrew": "לא מתחלק שווה בשתיים; בלתי ניתנים לחלוקה לזוגות.",
+                "example": "The number 3 is an odd number since it cannot be divided evenly by 2.",
+                "example_hebrew": "המספר 3 הוא מספר אי-זוגי מכיוון שלא ניתן לחלק אותו באופן שווה ב-2."
+            },
+            {
+                "definition": "Unusual or unexpected.",
+                "definition_hebrew": "חריג או בלתי צפוי.",
+                "example": "It was odd that she wore a swimsuit to the job interview.",
+                "example_hebrew": "זה היה מוזר שהיא לבשה בגד ים לראיון העבודה."
+            },
+            {
+                "definition": "Strange; peculiar; eccentric.",
+                "definition_hebrew": "מוּזָר; מוּזָר; תמהוני.",
+                "example": "His odd behavior at the party included dancing in the middle of conversations.",
+                "example_hebrew": "ההתנהגות המוזרה שלו במסיבה כללה ריקודים באמצע שיחות."
+            },
+            {
+                "definition": "A small amount, not much.",
+                "definition_hebrew": "כמות קטנה, לא הרבה.",
+                "example": "I only have a couple of dollars left, that's an odd sum for grocery shopping.",
+                "example_hebrew": "נשארו לי רק כמה דולרים, זה סכום מוזר לקניות במכולת."
+            }
+        ]
+    }
+]

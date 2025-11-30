@@ -1,0 +1,34 @@
+[
+    {
+        "word": "icon",
+        "word_hebrew": "סמל",
+        "main_definition": "An icon is a widely recognized symbol, image, or person that represents a concept, idea, or entity.",
+        "main_definition_hebrew": "אייקון הוא סמל, תמונה או אדם מוכרים ברבים המייצגים מושג, רעיון או ישות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A visual representation of an object, place, or concept",
+                "definition_hebrew": "ייצוג חזותי של אובייקט, מקום או מושג",
+                "example": "The apple icon on my computer's desktop is used to represent the 'Finder' application.",
+                "example_hebrew": "סמל התפוח בשולחן העבודה של המחשב שלי משמש לייצוג היישום 'מחפש'."
+            },
+            {
+                "definition": "An image that symbolizes a person known for their achievements or influence",
+                "definition_hebrew": "תמונה המסמלת אדם הידוע בהישגיו או בהשפעתו",
+                "example": "A photo of Mahatma Gandhi can be considered an icon, as he represents peace and non-violent protests.",
+                "example_hebrew": "תמונה של מהטמה גנדי יכולה להיחשב כסמל, מכיוון שהוא מייצג שלום והפגנות לא אלימות."
+            },
+            {
+                "definition": "A religious symbol depicting deities, saints, or important events in faith traditions",
+                "definition_hebrew": "סמל דתי המתאר אלוהויות, קדושים או אירועים חשובים במסורות האמונה",
+                "example": "The image of the Cross is a common Christian icon that represents Jesus' sacrifice on the cross.",
+                "example_hebrew": "דמות הצלב היא אייקון נוצרי נפוץ המייצג את הקרבתו של ישו על הצלב."
+            },
+            {
+                "definition": "An emblematic figure used to represent technology companies and their products",
+                "definition_hebrew": "דמות סמלית המשמשת לייצוג חברות טכנולוגיה ומוצריהן",
+                "example": "Microsoft's logo, with its 'Windows' wordmark enclosed in a blue circle, has become an icon of personal computing.",
+                "example_hebrew": "הלוגו של מיקרוסופט, עם סימן המילים 'חלונות' מוקף בעיגול כחול, הפך לסמל של מחשוב אישי."
+            }
+        ]
+    }
+]

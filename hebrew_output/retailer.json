@@ -1,0 +1,34 @@
+[
+    {
+        "word": "retailer",
+        "word_hebrew": "קִמעוֹנַאִי",
+        "main_definition": "A retailer is a business or person that sells goods to consumers directly, usually in small quantities.",
+        "main_definition_hebrew": "קמעונאי הוא עסק או אדם שמוכר סחורה לצרכנים ישירות, בדרך כלל בכמויות קטנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "An intermediary who buys products from manufacturers and resells them to the public",
+                "definition_hebrew": "מתווך שקונה מוצרים מיצרנים ומוכר אותם מחדש לציבור",
+                "example": "The local electronics retailer purchases laptops directly from a supplier and sells them in their store.",
+                "example_hebrew": "קמעונאי האלקטרוניקה המקומי רוכש מחשבים ניידים ישירות מספק ומוכר אותם בחנות שלהם."
+            },
+            {
+                "definition": "A business that specializes in providing customer service, including sales support, product knowledge, and after-sales care",
+                "definition_hebrew": "עסק המתמחה במתן שירות לקוחות לרבות תמיכה במכירות, הכרת המוצר וטיפול לאחר המכירה",
+                "example": "The shoe retailer not only sells shoes but also helps customers find the right fit for their needs.",
+                "example_hebrew": "קמעונאי הנעליים לא רק מוכר נעליים אלא גם עוזר ללקוחות למצוא את ההתאמה המתאימה לצרכיהם."
+            },
+            {
+                "definition": "A store or physical location where retail products are sold directly to consumers",
+                "definition_hebrew": "חנות או מיקום פיזי שבו מוצרים קמעונאיים נמכרים ישירות לצרכנים",
+                "example": "The mall's clothing retailers have multiple stores each offering a variety of fashion items and styles.",
+                "example_hebrew": "לקמעונאי הבגדים של הקניון יש מספר חנויות שכל אחת מהן מציעה מגוון פריטי אופנה וסגנונות."
+            },
+            {
+                "definition": "An individual who sells goods in small quantities, often door-to-door or at local markets",
+                "definition_hebrew": "אדם שמוכר סחורה בכמויות קטנות, לרוב מדלת לדלת או בשווקים מקומיים",
+                "example": "The neighborhood fruit vendor is considered a retailer as he sells fresh produce directly to residents.",
+                "example_hebrew": "מוכר הפירות השכונתי נחשב לקמעונאי שכן הוא מוכר תוצרת טרייה ישירות לתושבים."
+            }
+        ]
+    }
+]

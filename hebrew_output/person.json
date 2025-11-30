@@ -1,0 +1,40 @@
+[
+    {
+        "word": "person",
+        "word_hebrew": "אדם",
+        "main_definition": "A person is an individual human being, distinct from objects or entities that are not alive.",
+        "main_definition_hebrew": "אדם הוא אדם אינדיבידואלי, נבדל מחפצים או ישויות שאינם חיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An inhabitant of a particular place or nation",
+                "definition_hebrew": "תושב של מקום או אומה מסוימת",
+                "example": "John, as an American person, loves the freedom and diversity in his country.",
+                "example_hebrew": "ג'ון, כאדם אמריקאי, אוהב את החופש והגיוון בארצו."
+            },
+            {
+                "definition": "A social entity with individual rights, responsibilities, and agency",
+                "definition_hebrew": "ישות חברתית עם זכויות, חובות וסוכנות של הפרט",
+                "example": "As a responsible person, she volunteers regularly at her local community center.",
+                "example_hebrew": "כאדם אחראי, היא מתנדבת באופן קבוע במרכז הקהילתי המקומי שלה."
+            },
+            {
+                "definition": "An organism belonging to the species Homo sapiens",
+                "definition_hebrew": "אורגניזם השייך למין הומו סאפיינס",
+                "example": "Humans are unique as social animals that develop complex language and culture.",
+                "example_hebrew": "בני אדם הם ייחודיים כחיות חברתיות המפתחות שפה ותרבות מורכבות."
+            },
+            {
+                "definition": "A member of a group, organization, or community sharing common values or goals",
+                "definition_hebrew": "חבר בקבוצה, ארגון או קהילה החולקים ערכים או מטרות משותפים",
+                "example": "He is part of the chess club, a community of people who love playing chess.",
+                "example_hebrew": "הוא חלק ממועדון השחמט, קהילה של אנשים שאוהבים לשחק שח."
+            },
+            {
+                "definition": "An individual capable of rational thought and action",
+                "definition_hebrew": "אדם בעל יכולת מחשבה ופעולה רציונלית",
+                "example": "She demonstrated her personhood through critical thinking and decision-making skills.",
+                "example_hebrew": "היא הפגינה את אישיותה באמצעות חשיבה ביקורתית ויכולת קבלת החלטות."
+            }
+        ]
+    }
+]

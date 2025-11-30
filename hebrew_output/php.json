@@ -1,0 +1,28 @@
+[
+    {
+        "word": "php",
+        "word_hebrew": "php",
+        "main_definition": "PHP stands for Hypertext Preprocessor, a popular server-side scripting language used in web development to create dynamic web pages.",
+        "main_definition_hebrew": "PHP מייצג Hypertext Preprocessor, שפת סקריפטים פופולרית בצד השרת המשמשת בפיתוח אתרים ליצירת דפי אינטרנט דינמיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A programming language",
+                "definition_hebrew": "שפת תכנות",
+                "example": "I'm learning PHP because I want to build websites.",
+                "example_hebrew": "אני לומד PHP כי אני רוצה לבנות אתרים."
+            },
+            {
+                "definition": "A preprocessor for Hypertext Markup Language (HTML)",
+                "definition_hebrew": "מעבד מקדים עבור Hypertext Markup Language (HTML)",
+                "example": "PHP scripts are often embedded within HTML documents to generate dynamic content on the web page.",
+                "example_hebrew": "סקריפטים של PHP מוטמעים לעתים קרובות בתוך מסמכי HTML כדי ליצור תוכן דינמי בדף האינטרנט."
+            },
+            {
+                "definition": "An acronym for Hypertext Preprocessor",
+                "definition_hebrew": "ראשי תיבות של Hypertext Preprocessor",
+                "example": "The term 'PHP' is a three-letter acronym that refers to a server-side scripting language used in web development.",
+                "example_hebrew": "המונח 'PHP' הוא ראשי תיבות של שלוש אותיות המתייחסות לשפת סקריפטים בצד השרת המשמשת בפיתוח אתרים."
+            }
+        ]
+    }
+]

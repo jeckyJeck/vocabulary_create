@@ -1,0 +1,40 @@
+[
+    {
+        "word": "plaintiff",
+        "word_hebrew": "תוֹבֵעַ",
+        "main_definition": "Plaintiff is a person or party who brings a legal action against another in a civil suit, seeking compensation or redress.",
+        "main_definition_hebrew": "התובע הוא אדם או צד המגיש תביעה משפטית נגד אחר בתביעה אזרחית, המבקש פיצוי או פיצוי.",
+        "meanings_and_examples": [
+            {
+                "definition": "The individual who initiates a lawsuit by filing a complaint with the court",
+                "definition_hebrew": "האדם הפותח תביעה באמצעות הגשת תלונה לבית המשפט",
+                "example": "In the case of Jane Doe vs. XYZ Corporation, Jane Doe is the plaintiff as she has filed a lawsuit claiming damages.",
+                "example_hebrew": "במקרה של ג'יין דו נגד תאגיד XYZ, ג'יין דו היא התובעת שכן היא הגישה תביעה בטענה לפיצויים."
+            },
+            {
+                "definition": "The party against whom a civil action or legal complaint is brought",
+                "definition_hebrew": "הצד שנגדו מוגשת תביעה אזרחית או תלונה משפטית",
+                "example": "In the case of John Smith vs. ABC Company, John Smith is considered the defendant and not the plaintiff since he is being sued.",
+                "example_hebrew": "במקרה של ג'ון סמית' נגד חברת ABC, ג'ון סמית' נחשב לנתבע ולא לתובע שכן הוא נתבע."
+            },
+            {
+                "definition": "A person who alleges wrongdoing against another party in a legal dispute",
+                "definition_hebrew": "מי שטוען לעוול כלפי צד אחר בסכסוך משפטי",
+                "example": "The local community member filing a lawsuit against an oil company for pollution damages would be the plaintiff.",
+                "example_hebrew": "חבר הקהילה המקומי המגיש תביעה נגד חברת נפט בגין נזקי זיהום יהיה התובע."
+            },
+            {
+                "definition": "The initial complaining party or complainant who seeks judicial redress in a civil case",
+                "definition_hebrew": "הצד המתלונן הראשוני או המתלונן המבקש סעד שיפוטי בתיק אזרחי",
+                "example": "Samantha filed a complaint with the court against her former employer, making her the plaintiff in the breach of contract lawsuit.",
+                "example_hebrew": "סמנתה הגישה תלונה לבית המשפט נגד מעסיקה לשעבר, והפכה אותה לתובעת בתביעת הפרת חוזה."
+            },
+            {
+                "definition": "One party to a legal dispute that has made an allegation against another",
+                "definition_hebrew": "צד אחד לסכסוך משפטי שהעלה טענה כלפי אחר",
+                "example": "The restaurant customers who filed a lawsuit for food poisoning would be considered plaintiffs as they claim harm from the defendant's actions.",
+                "example_hebrew": "לקוחות המסעדה שהגישו תביעה בגין הרעלת מזון ייחשבו כתובעים שכן הם טוענים לנזק ממעשי הנתבעת."
+            }
+        ]
+    }
+]

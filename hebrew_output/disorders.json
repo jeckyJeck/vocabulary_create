@@ -1,0 +1,28 @@
+[
+    {
+        "word": "disorders",
+        "word_hebrew": "הפרעות",
+        "main_definition": "Disorders refer to conditions or abnormalities that affect the normal functioning of various aspects such as mental, physical, emotional, social, etc.",
+        "main_definition_hebrew": "הפרעות מתייחסות למצבים או חריגות המשפיעות על תפקוד תקין של היבטים שונים כגון נפשית, פיזית, רגשית, חברתית וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "Medical disorders referring to diseases and illnesses",
+                "definition_hebrew": "הפרעות רפואיות המתייחסות למחלות ומחלות",
+                "example": "Diabetes is a medical disorder characterized by high blood sugar levels.",
+                "example_hebrew": "סוכרת היא הפרעה רפואית המאופיינת ברמות סוכר גבוהות בדם."
+            },
+            {
+                "definition": "Mental health disorders relating to abnormalities in thinking, feeling, behavior or relationship with others",
+                "definition_hebrew": "הפרעות בריאות הנפש הקשורות לחריגות בחשיבה, בתחושה, בהתנהגות או ביחסים עם אחרים",
+                "example": "Schizophrenia is a mental disorder that affects a person's ability to think clearly and manage emotions.",
+                "example_hebrew": "סכיזופרניה היא הפרעה נפשית המשפיעה על יכולתו של האדם לחשוב בבהירות ולנהל רגשות."
+            },
+            {
+                "definition": "Social disorders referring to conditions affecting interpersonal relationships or society at large",
+                "definition_hebrew": "הפרעות חברתיות המתייחסות למצבים המשפיעים על יחסים בין אישיים או על החברה בכללותה",
+                "example": "Cyberbullying has become a social disorder in the digital age, impacting individuals' mental health.",
+                "example_hebrew": "בריונות ברשת הפכה להפרעה חברתית בעידן הדיגיטלי, המשפיעה על בריאותם הנפשית של אנשים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "reply",
+        "word_hebrew": "תשובה",
+        "main_definition": "To respond or answer to a message, question, or situation.",
+        "main_definition_hebrew": "להגיב או לענות להודעה, שאלה או מצב.",
+        "meanings_and_examples": [
+            {
+                "definition": "A direct response to a comment, statement, or inquiry.",
+                "definition_hebrew": "תגובה ישירה להערה, הצהרה או חקירה.",
+                "example": "When asked about the new policy, she gave a clear reply.",
+                "example_hebrew": "כשנשאלה על המדיניות החדשה, היא ענתה תשובה ברורה."
+            },
+            {
+                "definition": "The act of answering telephone calls in turn.",
+                "definition_hebrew": "פעולת המענה לשיחות טלפון בתורו.",
+                "example": "After the busy hours, only one operator could manage to handle all incoming calls and provide timely replies.",
+                "example_hebrew": "לאחר השעות העמוסות, רק מפעיל אחד הצליח לטפל בכל השיחות הנכנסות ולספק תשובות בזמן."
+            },
+            {
+                "definition": "To react or respond to something that happened or was said previously.",
+                "definition_hebrew": "להגיב או להגיב למשהו שקרה או שנאמר קודם לכן.",
+                "example": "He had a strange reply when I asked him about his weekend plans.",
+                "example_hebrew": "הייתה לו תשובה מוזרה כששאלתי אותו על תוכניות סוף השבוע שלו."
+            },
+            {
+                "definition": "The content of an answer provided in response to a question, request, or other stimulus.",
+                "definition_hebrew": "התוכן של תשובה שניתנה בתגובה לשאלה, בקשה או גירוי אחר.",
+                "example": "His brief and formal reply did not convey much information.",
+                "example_hebrew": "תשובתו הקצרה והרשמית לא העבירה מידע רב."
+            },
+            {
+                "definition": "To provide an alternative solution or suggestion when presented with a problem or challenge.",
+                "definition_hebrew": "לספק פתרון או הצעה חלופית כאשר מציגים בעיה או אתגר.",
+                "example": "She offered several possible replies to the criticism she received, each addressing different aspects of her argument.",
+                "example_hebrew": "היא הציעה כמה תשובות אפשריות לביקורת שקיבלה, כל אחת התייחסה להיבטים שונים של הטיעון שלה."
+            }
+        ]
+    }
+]

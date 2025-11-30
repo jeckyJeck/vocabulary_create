@@ -1,0 +1,28 @@
+[
+    {
+        "word": "unauthorized",
+        "word_hebrew": "לא מורשה",
+        "main_definition": "not permitted or not officially allowed, often referring to actions that are prohibited by rules, laws, or policies.",
+        "main_definition_hebrew": "אסור או אסור באופן רשמי, לעתים קרובות מתייחס לפעולות האסורות על פי כללים, חוקים או מדיניות.",
+        "meanings_and_examples": [
+            {
+                "definition": "without official permission or approval",
+                "definition_hebrew": "ללא אישור או אישור רשמי",
+                "example": "The man was arrested for using the office copy machine without authorization.",
+                "example_hebrew": "האיש נעצר בגין שימוש במכונת ההעתקה המשרדית ללא אישור."
+            },
+            {
+                "definition": "violation of rules, policies, or laws by not obtaining proper clearance",
+                "definition_hebrew": "הפרה של כללים, מדיניות או חוקים על ידי אי השגת אישור מתאים",
+                "example": "Access to sensitive files is considered unauthorized unless you have special security clearance.",
+                "example_hebrew": "גישה לקבצים רגישים נחשבת לא מורשית אלא אם כן יש לך אישור אבטחה מיוחד."
+            },
+            {
+                "definition": "illegal or unlawful activity done without permission from the concerned authority",
+                "definition_hebrew": "פעילות בלתי חוקית או בלתי חוקית שנעשתה ללא רשות מהרשות הנוגעת בדבר",
+                "example": "The hacker performed an unauthorized intrusion into a company's database, resulting in stolen data.",
+                "example_hebrew": "ההאקר ביצע חדירה בלתי מורשית למסד הנתונים של החברה, וכתוצאה מכך נגנבו נתונים."
+            }
+        ]
+    }
+]

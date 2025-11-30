@@ -1,0 +1,28 @@
+[
+    {
+        "word": "verzeichnis",
+        "word_hebrew": "verzeichnis",
+        "main_definition": "In English, 'verzeichnis' translates to 'index' or 'directory', typically referring to a list of items or entries sorted in alphabetical order.",
+        "main_definition_hebrew": "באנגלית, 'verzeichnis' מתורגם ל'אינדקס' או 'ספרייה', בדרך כלל מתייחס לרשימה של פריטים או ערכים ממוינים בסדר אלפביתי.",
+        "meanings_and_examples": [
+            {
+                "definition": "A collection of names (usually people) listed alphabetically along with their associated information, like an address book or telephone directory.",
+                "definition_hebrew": "אוסף של שמות (בדרך כלל אנשים) הרשומים בסדר אלפביתי יחד עם המידע המשויך אליהם, כמו ספר כתובות או ספריית טלפונים.",
+                "example": "The yellow pages are a verzeichnis containing businesses and services sorted by category.",
+                "example_hebrew": "דפי זהב הם זכיינית המכילה עסקים ושירותים הממוינים לפי קטגוריות."
+            },
+            {
+                "definition": "In computing, a directory is a file system cataloging structure which contains references to other computer files and may contain subdirectories (also known as folders).",
+                "definition_hebrew": "במחשוב, ספרייה היא מבנה קטלוג של מערכת קבצים המכיל הפניות לקבצי מחשב אחרים ועשויים להכיל ספריות משנה (הידוע גם בתור תיקיות).",
+                "example": "The desktop icon led me to the verzeichnis where I could find all my documents.",
+                "example_hebrew": "סמל שולחן העבודה הוביל אותי ל- verzeichnis שבו יכולתי למצוא את כל המסמכים שלי."
+            },
+            {
+                "definition": "A printed list of names, usually in alphabetical order, with their addresses or other relevant information.",
+                "definition_hebrew": "רשימה מודפסת של שמות, בדרך כלל בסדר אלפביתי, עם כתובותיהם או מידע רלוונטי אחר.",
+                "example": "I looked for the house number in the local verzeichnis when visiting a friend's new neighborhood.",
+                "example_hebrew": "חיפשתי את מספר הבית ב- verzeichnis המקומי כשביקרתי בשכונה החדשה של חבר."
+            }
+        ]
+    }
+]

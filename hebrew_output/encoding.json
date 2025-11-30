@@ -1,0 +1,34 @@
+[
+    {
+        "word": "encoding",
+        "word_hebrew": "הַצפָּנָה",
+        "main_definition": "Encoding refers to the process of converting information into a specific format or code that can be easily stored, transmitted, or understood.",
+        "main_definition_hebrew": "קידוד מתייחס לתהליך של המרת מידע לפורמט או קוד ספציפי שניתן לאחסן, לשדר או להבין בקלות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Data representation in computer systems",
+                "definition_hebrew": "ייצוג נתונים במערכות מחשוב",
+                "example": "When you type a letter on your keyboard, it is encoded into binary data for the computer to understand.",
+                "example_hebrew": "כאשר אתה מקליד אות במקלדת שלך, היא מקודדת לנתונים בינאריים כדי שהמחשב יוכל להבין."
+            },
+            {
+                "definition": "Transmission of information over distances",
+                "definition_hebrew": "העברת מידע למרחקים",
+                "example": "A radio station encodes its broadcasts so that they can be transmitted and received by radios across cities or countries.",
+                "example_hebrew": "תחנת רדיו מקודדת את השידורים שלה כך שיוכלו להיות משודרים וקליטים במכשירי רדיו ברחבי ערים או מדינות."
+            },
+            {
+                "definition": "Secret language used for covert communication",
+                "definition_hebrew": "שפה סודית המשמשת לתקשורת סמויה",
+                "example": "Spies may use encoded messages to communicate sensitive information without others understanding the content.",
+                "example_hebrew": "מרגלים עשויים להשתמש בהודעות מקודדות כדי להעביר מידע רגיש מבלי שאחרים יבינו את התוכן."
+            },
+            {
+                "definition": "The conversion of sound into electrical signals in audio technology",
+                "definition_hebrew": "המרת הקול לאותות חשמליים בטכנולוגיית אודיו",
+                "example": "An analog-to-digital converter encodes an analog sound signal into a digital format for processing or storage.",
+                "example_hebrew": "ממיר אנלוגי לדיגיטלי מקודד אות קול אנלוגי לפורמט דיגיטלי לעיבוד או אחסון."
+            }
+        ]
+    }
+]

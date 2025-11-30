@@ -1,0 +1,40 @@
+[
+    {
+        "word": "checklist",
+        "word_hebrew": "צ'ק ליסט",
+        "main_definition": "A list of items to be checked or verified, often used as a guide or tool in various activities.",
+        "main_definition_hebrew": "רשימה של פריטים לבדיקה או לאימות, המשמשת לעתים קרובות כמדריך או כלי בפעילויות שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A tool for organizing tasks or duties that need to be completed before proceeding with an activity or project. It ensures nothing is overlooked and helps maintain order and efficiency.",
+                "definition_hebrew": "כלי לארגון משימות או חובות שיש להשלים לפני המשך פעילות או פרויקט. זה מבטיח שלא מתעלמים מכלום ועוזר לשמור על סדר ויעילות.",
+                "example": "Before leaving on a trip, I made sure to check my travel checklist which included items like passports, tickets, and accommodation confirmations.",
+                "example_hebrew": "לפני היציאה לטיול, הקפדתי לבדוק את רשימת הנסיעות שלי שכללה פריטים כמו דרכונים, כרטיסים ואישורי לינה."
+            },
+            {
+                "definition": "A method used in various industries to ensure quality control by verifying that all steps have been completed properly before moving forward.",
+                "definition_hebrew": "שיטה המשמשת בתעשיות שונות כדי להבטיח בקרת איכות על ידי וידוא שכל השלבים הושלמו כראוי לפני שמתקדמים קדימה.",
+                "example": "The manufacturing process requires a checklist at each stage of production to make sure every part meets the company's quality standards.",
+                "example_hebrew": "תהליך הייצור דורש צ'ק ליסט בכל שלב של הייצור כדי לוודא שכל חלק עומד בתקני האיכות של החברה."
+            },
+            {
+                "definition": "A list used in medical or legal settings to ensure that all necessary actions are taken, such as tests performed, prescriptions filled, or documents filed.",
+                "definition_hebrew": "רשימה המשמשת במסגרות רפואיות או משפטיות כדי להבטיח שכל הפעולות הנדרשות ננקטות, כגון בדיקות שבוצעו, מילוי מרשמים או הגשת מסמכים.",
+                "example": "Before signing off on a patient's discharge from the hospital, I reviewed the healthcare checklist which included ensuring all medications were ordered and scheduled.",
+                "example_hebrew": "לפני שחתמתי על שחרורו של מטופל מבית החולים, סקרתי את רשימת הבדיקה הרפואית שכללה את הבטחת כל התרופות הוזמנו ומתוזמנות."
+            },
+            {
+                "definition": "A tool for self-assessment in personal or professional development settings, such as job interviews or skill evaluation.",
+                "definition_hebrew": "כלי להערכה עצמית במסגרות פיתוח אישיות או מקצועיות, כגון ראיונות עבודה או הערכת מיומנויות.",
+                "example": "During a job interview, the interviewer handed me a checklist of skills to demonstrate my proficiency in various areas.",
+                "example_hebrew": "במהלך ראיון עבודה, המראיין העביר לי רשימת מיומנויות כדי להוכיח את בקיאותי בתחומים שונים."
+            },
+            {
+                "definition": "A list used for decision-making processes that outlines pros and cons to help evaluate options and make informed choices.",
+                "definition_hebrew": "רשימה המשמשת לתהליכי קבלת החלטות המתארת יתרונות וחסרונות כדי לעזור להעריך אפשרויות ולבצע בחירות מושכלות.",
+                "example": "Before choosing between two job offers, I created a checklist of factors like salary, benefits, location, and company culture.",
+                "example_hebrew": "לפני הבחירה בין שתי הצעות עבודה, יצרתי רשימה של גורמים כמו שכר, הטבות, מיקום ותרבות החברה."
+            }
+        ]
+    }
+]

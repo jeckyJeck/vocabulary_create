@@ -1,0 +1,40 @@
+[
+    {
+        "word": "factor",
+        "word_hebrew": "גורם",
+        "main_definition": "A factor is something that influences or contributes to a particular situation, outcome, or result.",
+        "main_definition_hebrew": "גורם הוא משהו שמשפיע או תורם למצב, תוצאה או תוצאה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "An element or component that affects the final product in mathematics and science.",
+                "definition_hebrew": "אלמנט או רכיב המשפיע על התוצר הסופי במתמטיקה ומדעים.",
+                "example": "In multiplication, 3 and 5 are factors of 15 because they contribute to its total value.",
+                "example_hebrew": "בכפל, 3 ו-5 הם גורמים של 15 כי הם תורמים לערכו הכולל."
+            },
+            {
+                "definition": "A person who has an influence on a situation or event.",
+                "definition_hebrew": "אדם שיש לו השפעה על מצב או אירוע.",
+                "example": "John is considered a factor in the success of the company due to his leadership skills.",
+                "example_hebrew": "ג'ון נחשב לגורם בהצלחת החברה בשל כישורי המנהיגות שלו."
+            },
+            {
+                "definition": "One of several causes contributing to an outcome, especially in statistics and research.",
+                "definition_hebrew": "אחת מכמה סיבות התורמות לתוצאה, במיוחד בסטטיסטיקה ובמחקר.",
+                "example": "Age and income are factors that can affect voting behavior.",
+                "example_hebrew": "גיל והכנסה הם גורמים שיכולים להשפיע על התנהגות ההצבעה."
+            },
+            {
+                "definition": "A quantity by which another is multiplied to obtain a product.",
+                "definition_hebrew": "כמות שבה מכפילים אחר כדי לקבל מוצר.",
+                "example": "In the equation 4x = 16, 4 is a factor of 16 when solving for x.",
+                "example_hebrew": "במשוואה 4x = 16, 4 הוא פקטור של 16 כאשר פותרים עבור x."
+            },
+            {
+                "definition": "Something that divides or separates.",
+                "definition_hebrew": "משהו שמפריד או מפריד.",
+                "example": "The fence was built to act as a physical factor between the two neighboring properties.",
+                "example_hebrew": "הגדר נבנתה כדי לשמש גורם פיזי בין שני הנכסים השכנים."
+            }
+        ]
+    }
+]

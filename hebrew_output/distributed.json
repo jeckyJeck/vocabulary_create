@@ -1,0 +1,34 @@
+[
+    {
+        "word": "distributed",
+        "word_hebrew": "מופץ",
+        "main_definition": "To spread or divide something over a wide area, space, or range of people.",
+        "main_definition_hebrew": "להפיץ או לחלק משהו על פני שטח רחב, מרחב או טווח של אנשים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Spread out evenly across multiple locations or individuals.",
+                "definition_hebrew": "התפזר באופן שווה על פני מספר מיקומים או אנשים.",
+                "example": "The company distributed its products to various stores nationwide.",
+                "example_hebrew": "החברה הפיצה את מוצריה לחנויות שונות בפריסה ארצית."
+            },
+            {
+                "definition": "Shared among a group of people or entities.",
+                "definition_hebrew": "משותף בין קבוצה של אנשים או ישויות.",
+                "example": "The team was distributed into different subgroups for the project, each focusing on specific tasks.",
+                "example_hebrew": "הצוות הופץ לתתי קבוצות שונות עבור הפרויקט, שכל אחת מהן התמקדה במשימות ספציפיות."
+            },
+            {
+                "definition": "Held in multiple places rather than at a single location.",
+                "definition_hebrew": "מתקיים במספר מקומות ולא במקום אחד.",
+                "example": "A conference that is distributed across several cities allows more people to attend.",
+                "example_hebrew": "כנס שמופץ על פני מספר ערים מאפשר ליותר אנשים להשתתף."
+            },
+            {
+                "definition": "Relating to the distribution of resources or effort among different areas, tasks, or individuals.",
+                "definition_hebrew": "התייחסות לחלוקת משאבים או מאמץ בין תחומים, משימות או יחידים שונים.",
+                "example": "The government's policy aimed at distributing funds for education equally across all districts.",
+                "example_hebrew": "מדיניות הממשלה נועדה לחלק כספים לחינוך באופן שווה בכל המחוזות."
+            }
+        ]
+    }
+]

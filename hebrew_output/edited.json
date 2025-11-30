@@ -1,0 +1,40 @@
+[
+    {
+        "word": "edited",
+        "word_hebrew": "עָרוּך",
+        "main_definition": "To revise, modify or correct a piece of content to improve its quality, accuracy, clarity, or presentation.",
+        "main_definition_hebrew": "לשנות, לשנות או לתקן קטע תוכן כדי לשפר את האיכות, הדיוק, הבהירות או הצגתו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To make changes to text for improvements in grammar and style",
+                "definition_hebrew": "כדי לבצע שינויים בטקסט לצורך שיפורים בדקדוק ובסגנון",
+                "example": "The editor edited the manuscript before it was published.",
+                "example_hebrew": "העורך ערך את כתב היד לפני פרסומו."
+            },
+            {
+                "definition": "To remove or add elements from a video, audio, or image file to improve its quality or convey a specific message",
+                "definition_hebrew": "כדי להסיר או להוסיף אלמנטים מקובץ וידאו, אודיו או תמונה כדי לשפר את איכותו או להעביר מסר ספציפי",
+                "example": "The film director hired an editor to cut unnecessary scenes and enhance the movie's pacing.",
+                "example_hebrew": "במאי הסרט שכר עורך כדי לחתוך סצנות מיותרות ולשפר את קצב הסרט."
+            },
+            {
+                "definition": "To alter or modify a document to comply with regulations or legal requirements",
+                "definition_hebrew": "כדי לשנות או לשנות מסמך כדי לעמוד בתקנות או לדרישות החוק",
+                "example": "The company's financial reports were edited to meet tax laws.",
+                "example_hebrew": "הדוחות הכספיים של החברה נערכו בהתאם לחוקי המס."
+            },
+            {
+                "definition": "To update content by adding new information and removing outdated material",
+                "definition_hebrew": "לעדכון תוכן על ידי הוספת מידע חדש והסרת חומר מיושן",
+                "example": "The online encyclopedia is constantly being edited with the latest research findings.",
+                "example_hebrew": "האנציקלופדיה המקוונת עוברת עריכה מתמדת עם ממצאי המחקר העדכניים ביותר."
+            },
+            {
+                "definition": "To make changes to written or spoken communication for clarity, brevity, and impact",
+                "definition_hebrew": "לבצע שינויים בתקשורת כתובה או מדוברת לצורך בהירות, קיצור והשפעה",
+                "example": "The debater edits her speech before presenting it to the audience.",
+                "example_hebrew": "המתדיינת עורכת את נאומה לפני שהיא מציגה אותו לקהל."
+            }
+        ]
+    }
+]

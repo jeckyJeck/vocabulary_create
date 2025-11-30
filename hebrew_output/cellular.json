@@ -1,0 +1,34 @@
+[
+    {
+        "word": "cellular",
+        "word_hebrew": "תָאִי",
+        "main_definition": "Pertaining to cells or cell structure, typically used in the context of biology, telecommunications, or metallurgy.",
+        "main_definition_hebrew": "הנוגע לתאים או למבנה התא, המשמשים בדרך כלל בהקשר של ביולוגיה, טלקומוניקציה או מטלורגיה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to cells, particularly their structure and function within living organisms",
+                "definition_hebrew": "מתייחס לתאים, במיוחד המבנה והתפקוד שלהם בתוך אורגניזמים חיים",
+                "example": "The researchers studied cellular processes like mitosis and protein synthesis.",
+                "example_hebrew": "החוקרים חקרו תהליכים תאיים כמו מיטוזה וסינתזת חלבון."
+            },
+            {
+                "definition": "Involving or pertaining to the cellular telephone technology that uses small cells for local wireless coverage",
+                "definition_hebrew": "מעורבות או קשורה לטכנולוגיית הטלפון הסלולרי המשתמשת בתאים קטנים לכיסוי אלחוטי מקומי",
+                "example": "A person's cellular phone is an example of modern communication devices using cellular networks.",
+                "example_hebrew": "הטלפון הסלולרי של אדם הוא דוגמה למכשירי תקשורת מודרניים המשתמשים ברשתות סלולריות."
+            },
+            {
+                "definition": "Pertaining to a metal composed mainly of iron and carbon, with grain sizes visible under a microscope resembling cells",
+                "definition_hebrew": "מתייחס למתכת המורכבת בעיקר מברזל ופחמן, עם גדלי גרגירים הנראים במיקרוסקופ הדומים לתאים",
+                "example": "The tool's blade was made from high-quality cellular steel known for its toughness.",
+                "example_hebrew": "להב הכלי היה עשוי מפלדה סלולרית איכותית הידועה בקשיחותה."
+            },
+            {
+                "definition": "Concerning the arrangement of components in electronic devices, such as computers and other equipment where 'cells' may refer to individual units or elements",
+                "definition_hebrew": "לגבי סידור רכיבים במכשירים אלקטרוניים, כגון מחשבים וציוד אחר שבהם 'תאים' עשויים להתייחס ליחידות או אלמנטים בודדים",
+                "example": "The computer motherboard contains several cellular-like circuits responsible for various operations.",
+                "example_hebrew": "לוח האם של המחשב מכיל מספר מעגלים דמויי סלולר האחראים על פעולות שונות."
+            }
+        ]
+    }
+]

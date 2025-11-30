@@ -1,0 +1,34 @@
+[
+    {
+        "word": "atlas",
+        "word_hebrew": "אַטְלָס",
+        "main_definition": "An atlas is a collection of maps, typically compiled in book form or as an online resource.",
+        "main_definition_hebrew": "אטלס הוא אוסף של מפות, המורכבות בדרך כלל בצורת ספר או כמשאב מקוון.",
+        "meanings_and_examples": [
+            {
+                "definition": "A geographical reference book comprising maps and information about countries, continents, bodies of water, and other physical features.",
+                "definition_hebrew": "ספר עיון גיאוגרפי הכולל מפות ומידע על מדינות, יבשות, מקווי מים ומאפיינים פיזיים אחרים.",
+                "example": "The Rand McNally World Atlas provides detailed maps and data on global locations.",
+                "example_hebrew": "אטלס העולם של ראנד מקנאלי מספק מפות ונתונים מפורטים על מיקומים גלובליים."
+            },
+            {
+                "definition": "In mythology, Atlas is a Titan who held the celestial globes or heavens upon his shoulders in Greek mythology.",
+                "definition_hebrew": "במיתולוגיה, אטלס הוא טיטאן שהחזיק את הגלובוסים השמימיים או השמיים על כתפיו במיתולוגיה היוונית.",
+                "example": "In ancient tales, Atlas was depicted as carrying the sky to prevent it from falling.",
+                "example_hebrew": "בסיפורים עתיקים, אטלס תואר כנושא את השמים כדי למנוע מהם ליפול."
+            },
+            {
+                "definition": "A term used in astronomy to refer to a catalog of stars within specific constellations or regions of space.",
+                "definition_hebrew": "מונח המשמש באסטרונומיה כדי להתייחס לקטלוג של כוכבים בתוך קבוצות כוכבים או אזורים ספציפיים בחלל.",
+                "example": "The New General Catalogue (NGC) is an atlas that lists numerous celestial bodies in the night sky.",
+                "example_hebrew": "הקטלוג הכללי החדש (NGC) הוא אטלס המפרט גרמי שמימיים רבים בשמי הלילה."
+            },
+            {
+                "definition": "A term used in business and economics to describe a comprehensive guide to industry sectors, market trends, or various economic factors.",
+                "definition_hebrew": "מונח המשמש בעסקים וכלכלה לתיאור מדריך מקיף למגזרי תעשייה, מגמות שוק או גורמים כלכליים שונים.",
+                "example": "The Global Industry Atlas provides insights into worldwide industrial activity by region and sector.",
+                "example_hebrew": "אטלס התעשייה הגלובלי מספק תובנות לגבי הפעילות התעשייתית העולמית לפי אזור ומגזר."
+            }
+        ]
+    }
+]

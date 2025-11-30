@@ -1,0 +1,28 @@
+[
+    {
+        "word": "hardcover",
+        "word_hebrew": "כריכה קשה",
+        "main_definition": "A type of book cover made from cardboard or heavy paper, which is sturdy and durable compared to other types.",
+        "main_definition_hebrew": "סוג של כריכת ספר העשויה מקרטון או נייר כבד, עמיד ועמיד בהשוואה לסוגים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Book with a rigid protective covering",
+                "definition_hebrew": "ספר עם כיסוי מגן קשיח",
+                "example": "I prefer reading hardcover books because they feel more substantial in my hands.",
+                "example_hebrew": "אני מעדיף לקרוא ספרים בכריכה קשה כי הם מרגישים יותר משמעותיים בידיים שלי."
+            },
+            {
+                "definition": "Comparison to softcover or paperback versions of the same book",
+                "definition_hebrew": "השוואה לגרסאות כריכה רכה או כריכה רכה של אותו ספר",
+                "example": "The novel was released as both a hardcover and a paperback edition, with the latter being less expensive but also less durable.",
+                "example_hebrew": "הרומן יצא גם ככריכה קשה וגם ככריכה רכה, כשהאחרונה הייתה פחות יקרה אך גם פחות עמידה."
+            },
+            {
+                "definition": "A term used in publishing to describe books that are sold at full price for their first year of publication",
+                "definition_hebrew": "מונח המשמש בהוצאה לאור לתיאור ספרים הנמכרים במחיר מלא לשנת הוצאתם הראשונה",
+                "example": "The author's new book is considered 'hardcover,' so it might be more costly than its subsequent paperback editions.",
+                "example_hebrew": "ספרו החדש של המחבר נחשב ל'כריכה קשה', כך שהוא עשוי להיות יקר יותר מהמהדורות הבאות שלו בכריכה רכה."
+            }
+        ]
+    }
+]

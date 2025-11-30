@@ -1,0 +1,34 @@
+[
+    {
+        "word": "filename",
+        "word_hebrew": "שם קובץ",
+        "main_definition": "A filename refers to the name given to a file, which often includes the file type or extension.",
+        "main_definition_hebrew": "שם קובץ מתייחס לשם שניתן לקובץ, הכולל לרוב את סוג הקובץ או את סיומת הקובץ.",
+        "meanings_and_examples": [
+            {
+                "definition": "The part of a file's name that comes after the last period ('.') and indicates its format or type",
+                "definition_hebrew": "החלק של שם הקובץ שמגיע אחרי הנקודה האחרונה ('.') ומציין את הפורמט או הסוג שלו",
+                "example": "An example of this would be 'image.jpg', where 'jpg' is the filename extension.",
+                "example_hebrew": "דוגמה לכך תהיה 'image.jpg', כאשר 'jpg' היא סיומת שם הקובץ."
+            },
+            {
+                "definition": "A unique identifier for a file within a specific directory structure",
+                "definition_hebrew": "מזהה ייחודי לקובץ בתוך מבנה ספריות ספציפי",
+                "example": "For instance, in the folder '/documents/work/reports/report123.txt', 'report123.txt' is the filename of a text document.",
+                "example_hebrew": "לדוגמה, בתיקייה '/documents/work/reports/report123.txt', 'report123.txt' הוא שם הקובץ של מסמך טקסט."
+            },
+            {
+                "definition": "A name that allows you to locate and differentiate files within an operating system",
+                "definition_hebrew": "שם המאפשר לאתר ולהבדיל בין קבצים בתוך מערכת הפעלה",
+                "example": "Given two files with similar content, one might be named 'Report_FinalDraft.docx' while another is 'Report_Draft2.docx', each serving as distinct filenames.",
+                "example_hebrew": "בהינתן שני קבצים עם תוכן דומה, אחד עשוי להיקרא 'Report_FinalDraft.docx' בעוד שאחר הוא 'Report_Draft2.docx', כל אחד משמש כשמות קבצים נפרדים."
+            },
+            {
+                "definition": "A label that can contain alphanumeric characters and symbols, except for the directory separator (backslash on Windows) or forward slash in Unix-based systems",
+                "definition_hebrew": "תווית שיכולה להכיל תווים וסמלים אלפאנומריים, למעט מפריד הספריות (קו נטוי אחורי ב-Windows) או לוכסן קדימה במערכות מבוססות יוניקס",
+                "example": "In 'report-2021.pdf', 'report-2021.pdf' is the filename comprising a hyphen, numbers, letters, and an extension.",
+                "example_hebrew": "ב-'report-2021.pdf', 'report-2021.pdf' הוא שם הקובץ הכולל מקף, מספרים, אותיות וסיומת."
+            }
+        ]
+    }
+]

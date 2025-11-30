@@ -1,0 +1,22 @@
+[
+    {
+        "word": "libs",
+        "word_hebrew": "libs",
+        "main_definition": "In computing, 'libs' is a short form of the word 'libraries', which are collections of pre-compiled routines that a program can use.",
+        "main_definition_hebrew": "במחשוב, 'libs' היא צורה קצרה של המילה 'ספריות', שהן אוספים של שגרות הידור מראש שתוכנית יכולה להשתמש בהן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Short for libraries in computing",
+                "definition_hebrew": "קיצור של ספריות במחשוב",
+                "example": "In this C++ code snippet, 'libs' refers to the third argument passed to the `cout` object which is a library containing output stream functions.",
+                "example_hebrew": "בקטע הקוד הזה של C++, 'libs' מתייחס לארגומנט השלישי המועבר לאובייקט 'cout' שהוא ספרייה המכילה פונקציות של זרם פלט."
+            },
+            {
+                "definition": "Colloquial term used by some programmers referring to libraries in Python",
+                "definition_hebrew": "מונח דיבור בשימוש על ידי מתכנתים מסוימים המתייחסים לספריות ב- Python",
+                "example": "I need to install the 'libs' for this project, meaning I have to download and import necessary modules or packages into my Python script.",
+                "example_hebrew": "אני צריך להתקין את 'libs' עבור הפרויקט הזה, כלומר אני צריך להוריד ולייבא את המודולים או החבילות הדרושים לסקריפט של Python שלי."
+            }
+        ]
+    }
+]

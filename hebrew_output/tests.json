@@ -1,0 +1,46 @@
+[
+    {
+        "word": "tests",
+        "word_hebrew": "מבחנים",
+        "main_definition": "Tests refer to various meanings, ranging from assessments of knowledge or abilities to metaphorical usage indicating situations that are challenging.",
+        "main_definition_hebrew": "מבחנים מתייחסים למשמעויות שונות, החל מהערכות ידע או יכולות ועד שימוש מטפורי המצביע על מצבים מאתגרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Assessments conducted to measure someone's ability, skill level, understanding, or proficiency in a particular area.",
+                "definition_hebrew": "הערכות שנערכו כדי למדוד את היכולת, רמת המיומנות, ההבנה או המיומנות של מישהו בתחום מסוים.",
+                "example": "The final exams at the end of the school year serve as tests for students' knowledge gained throughout the academic year.",
+                "example_hebrew": "בחינות הגמר בתום שנת הלימודים משמשות כמבחנים לידע שנצברו התלמידים במהלך שנת הלימודים."
+            },
+            {
+                "definition": "A series of questions designed to evaluate someone’s intelligence quotient (IQ) or personality traits.",
+                "definition_hebrew": "סדרה של שאלות שנועדו להעריך את מנת האינטליגנציה (IQ) או את תכונות האישיות של מישהו.",
+                "example": "The psychologist administered a set of standardized tests to determine John's IQ and assess his cognitive abilities.",
+                "example_hebrew": "הפסיכולוג ערך קבוצה של מבחנים סטנדרטיים כדי לקבוע את מנת המשכל של ג'ון ולהעריך את היכולות הקוגניטיביות שלו."
+            },
+            {
+                "definition": "An experiment or procedure undertaken in order to make a discovery, test a hypothesis, or demonstrate the validity of a theory.",
+                "definition_hebrew": "ניסוי או הליך שבוצעו על מנת לגלות תגלית, לבדוק השערה או להדגים את תקפותה של תיאוריה.",
+                "example": "The scientists conducted several tests on different materials to determine their durability and strength under various conditions.",
+                "example_hebrew": "המדענים ערכו מספר בדיקות על חומרים שונים כדי לקבוע את עמידותם וחוזקם בתנאים שונים."
+            },
+            {
+                "definition": "A metaphorical term used when referring to situations that are difficult to deal with, often requiring significant effort or endurance.",
+                "definition_hebrew": "מונח מטפורי המשמש כאשר מתייחסים למצבים שקשה להתמודד איתם, הדורשים לרוב מאמץ או סיבולת משמעותיים.",
+                "example": "Losing her job was a real test for Sarah; she had to overcome many obstacles to find new employment.",
+                "example_hebrew": "אובדן עבודתה היה מבחן אמיתי עבור שרה; היא נאלצה להתגבר על מכשולים רבים כדי למצוא עבודה חדשה."
+            },
+            {
+                "definition": "An official examination given in schools or colleges at the end of an academic term, typically covering all subjects studied during that period.",
+                "definition_hebrew": "בחינה רשמית הניתנת בבתי ספר או מכללות בתום קדנציה אקדמית, המכסה בדרך כלל את כל המקצועות הנלמדים באותה תקופה.",
+                "example": "High school students prepare for their final exams as a crucial test to determine their eligibility for graduation.",
+                "example_hebrew": "תלמידי תיכון מתכוננים לבחינות הגמר שלהם כמבחן מכריע לקביעת זכאותם לסיום הלימודים."
+            },
+            {
+                "definition": "A set of tasks or challenges designed to evaluate one's skills, knowledge, and problem-solving abilities in various domains.",
+                "definition_hebrew": "קבוצה של משימות או אתגרים שנועדו להעריך את הכישורים, הידע ויכולות פתרון הבעיות של האדם בתחומים שונים.",
+                "example": "The job interview included several tests to assess the candidate's coding proficiency, critical thinking, and communication skills.",
+                "example_hebrew": "ראיון העבודה כלל מספר מבחנים להערכת מיומנות הקידוד, החשיבה הביקורתית וכישורי התקשורת של המועמד."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "height",
+        "word_hebrew": "גוֹבַה",
+        "main_definition": "The measurement of how tall something or someone is, typically from base to top.",
+        "main_definition_hebrew": "המדידה של כמה גבוה משהו או מישהו, בדרך כלל מהבסיס לראש.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical measurement of the distance from the bottom to the top of a person's body (height)",
+                "definition_hebrew": "מדידה פיזית של המרחק מהחלק התחתון לחלק העליון של הגוף של אדם (גובה)",
+                "example": "His height is 6 feet.",
+                "example_hebrew": "גובהו 6 רגל."
+            },
+            {
+                "definition": "The maximum extent of something, usually above ground",
+                "definition_hebrew": "המידה המקסימלית של משהו, בדרך כלל מעל פני הקרקע",
+                "example": "Mount Everest has a height of about 29,031 feet.",
+                "example_hebrew": "להר האוורסט גובהו כ-29,031 רגל."
+            },
+            {
+                "definition": "Level or status within an organization or hierarchy",
+                "definition_hebrew": "רמה או סטטוס בתוך ארגון או היררכיה",
+                "example": "She is in the top ten percent for height among her colleagues at work.",
+                "example_hebrew": "היא נמצאת בעשרת האחוזים המובילים לגובה בקרב עמיתיה לעבודה."
+            },
+            {
+                "definition": "The vertical extent of something, such as a wave's peak above still water",
+                "definition_hebrew": "ההיקף האנכי של משהו, כמו שיא גל מעל מים שקטים",
+                "example": "At its highest point during the storm, the waves reached a significant height.",
+                "example_hebrew": "בנקודה הגבוהה ביותר במהלך הסופה הגיעו הגלים לגובה משמעותי."
+            },
+            {
+                "definition": "The degree to which someone or something excels in comparison to others",
+                "definition_hebrew": "המידה שבה מישהו או משהו מצטיינים בהשוואה לאחרים",
+                "example": "In basketball, his vertical leap is one of his greatest strengths, making him stand out on the court.",
+                "example_hebrew": "בכדורסל, הזינוק האנכי שלו הוא אחד מנקודות החוזק הגדולות שלו, מה שגורם לו לבלוט על המגרש."
+            }
+        ]
+    }
+]

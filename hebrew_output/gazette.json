@@ -1,0 +1,28 @@
+[
+    {
+        "word": "gazette",
+        "word_hebrew": "עִתוֹן רֵשׁמִי",
+        "main_definition": "A gazette is a publication, often containing news, official announcements or legal notices.",
+        "main_definition_hebrew": "עיתון הוא פרסום, המכיל לרוב חדשות, הודעות רשמיות או הודעות משפטיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Newspaper or journal for circulation among the governmental officials and public servants",
+                "definition_hebrew": "עיתון או כתב עת להפצה בקרב פקידי הממשלה ועובדי הציבור",
+                "example": "The British East India Company published a Gazette to disseminate news and regulations.",
+                "example_hebrew": "חברת הודו המזרחית הבריטית פרסמה כתב עת להפצת חדשות ותקנות."
+            },
+            {
+                "definition": "An official newspaper that publishes important legal notices, announcements, or acts as a record of proceedings",
+                "definition_hebrew": "עיתון רשמי המפרסם הודעות משפטיות חשובות, הודעות, או משמש כתיעוד של הליכים",
+                "example": "Everyone in the town had access to the local gazette, which included upcoming events and government decisions.",
+                "example_hebrew": "לכל אחד בעיר הייתה גישה לעיתון המקומי, שכלל אירועים קרובים והחלטות ממשלה."
+            },
+            {
+                "definition": "A formal document published by an official authority for general public knowledge",
+                "definition_hebrew": "מסמך רשמי שפורסם על ידי רשות רשמית לידע הציבור הרחב",
+                "example": "The city council released a gazette outlining changes in zoning regulations that would affect residents.",
+                "example_hebrew": "מועצת העיר פרסמה עיתון המתאר שינויים בתקנות הייעוד שישפיעו על התושבים."
+            }
+        ]
+    }
+]

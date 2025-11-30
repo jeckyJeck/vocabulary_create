@@ -1,0 +1,40 @@
+[
+    {
+        "word": "attempt",
+        "word_hebrew": "לְנַסוֹת",
+        "main_definition": "To make an effort to achieve or complete something, often involving risk or uncertainty.",
+        "main_definition_hebrew": "לעשות מאמץ להשיג או להשלים משהו, לעתים קרובות כרוך בסיכון או אי ודאות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of trying to do something difficult or challenging.",
+                "definition_hebrew": "הפעולה של ניסיון לעשות משהו קשה או מאתגר.",
+                "example": "She attempted to climb the steep mountain despite her fear of heights.",
+                "example_hebrew": "היא ניסתה לטפס על ההר התלול למרות פחד הגבהים שלה."
+            },
+            {
+                "definition": "To endeavor to accomplish a task, goal, or objective, often with effort and determination.",
+                "definition_hebrew": "להשתדל להגשים משימה, מטרה או יעד, לעתים קרובות במאמץ ובנחישות.",
+                "example": "He attempted to finish his thesis on time by working late nights in the library.",
+                "example_hebrew": "הוא ניסה לסיים את התזה שלו בזמן על ידי עבודה מאוחרת בלילות בספרייה."
+            },
+            {
+                "definition": "A formal proposal put forward for consideration or discussion, typically involving an attempt at achieving a particular outcome.",
+                "definition_hebrew": "הצעה רשמית שהועלתה לדיון או לדיון, הכוללת בדרך כלל ניסיון להשיג תוצאה מסוימת.",
+                "example": "The team presented their attempt at solving the complex coding problem to the board of directors.",
+                "example_hebrew": "הצוות הציג בפני הדירקטוריון את ניסיונו לפתור את בעיית הקידוד המורכבת."
+            },
+            {
+                "definition": "To try in an effort to do something but with the possibility that it may not succeed or be unsuccessful.",
+                "definition_hebrew": "לנסות במאמץ לעשות משהו אבל עם אפשרות שהוא לא יצליח או לא יצליח.",
+                "example": "Despite his best efforts, he failed to attempt repairing the broken machine on his own.",
+                "example_hebrew": "למרות מאמציו, הוא לא הצליח לנסות לתקן את המכונה השבורה בעצמו."
+            },
+            {
+                "definition": "A formal and often written expression of a plan, idea, or proposal aimed at achieving specific goals, which is an attempt in its execution.",
+                "definition_hebrew": "ביטוי רשמי ולעתים קרובות כתוב של תוכנית, רעיון או הצעה שמטרתם להשיג מטרות ספציפיות, המהווה ניסיון לביצועה.",
+                "example": "Their proposal for reducing carbon emissions was an ambitious attempt to make the city more eco-friendly.",
+                "example_hebrew": "ההצעה שלהם להפחתת פליטת הפחמן הייתה ניסיון שאפתני להפוך את העיר לידידותית יותר לסביבה."
+            }
+        ]
+    }
+]

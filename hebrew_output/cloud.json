@@ -1,0 +1,34 @@
+[
+    {
+        "word": "cloud",
+        "word_hebrew": "ענן",
+        "main_definition": "A visible mass of air containing tiny water droplets or ice crystals suspended in the atmosphere, which can also refer to a collection of data stored remotely over the internet.",
+        "main_definition_hebrew": "מסה גלויה של אוויר המכילה טיפות מים זעירות או גבישי קרח התלויים באטמוספירה, שיכולה להתייחס גם לאוסף של נתונים המאוחסנים מרחוק דרך האינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "a temporary state of confusion or lack of clarity",
+                "definition_hebrew": "מצב זמני של בלבול או חוסר בהירות",
+                "example": "After being told bad news, her thoughts were all in a cloud.",
+                "example_hebrew": "לאחר שסיפרו לה חדשות רעות, מחשבותיה היו כולן בענן."
+            },
+            {
+                "definition": "an obstacle or difficulty that makes it hard to understand something",
+                "definition_hebrew": "מכשול או קושי שמקשה להבין משהו",
+                "example": "The technical jargon was like a thick cloud of confusion for the new employees.",
+                "example_hebrew": "הז'רגון הטכני היה כמו ענן כבד של בלבול עבור העובדים החדשים."
+            },
+            {
+                "definition": "a group of objects, particularly in astronomy",
+                "definition_hebrew": "קבוצה של עצמים, במיוחד באסטרונומיה",
+                "example": "The Milky Way is one part of our local group of galaxies, which also includes several other large clouds of stars and planets.",
+                "example_hebrew": "שביל החלב הוא חלק אחד מקבוצת הגלקסיות המקומית שלנו, הכוללת גם כמה עננים גדולים אחרים של כוכבים וכוכבי לכת."
+            },
+            {
+                "definition": "data stored on remote servers accessed via the internet",
+                "definition_hebrew": "נתונים המאוחסנים בשרתים מרוחקים אליהם ניתן לגשת דרך האינטרנט",
+                "example": "I'm working on my report using cloud storage to access documents from various locations.",
+                "example_hebrew": "אני עובד על הדוח שלי באמצעות אחסון בענן כדי לגשת למסמכים ממקומות שונים."
+            }
+        ]
+    }
+]

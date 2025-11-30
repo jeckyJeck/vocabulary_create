@@ -1,0 +1,28 @@
+[
+    {
+        "word": "calculator",
+        "word_hebrew": "מַחשְׁבוֹן",
+        "main_definition": "A calculator is a device or tool used to perform mathematical calculations, often electronic in modern times.",
+        "main_definition_hebrew": "מחשבון הוא מכשיר או כלי המשמש לביצוע חישובים מתמטיים, לרוב אלקטרוניים בעת החדשה.",
+        "meanings_and_examples": [
+            {
+                "definition": "An electronic device for performing arithmetic operations",
+                "definition_hebrew": "מכשיר אלקטרוני לביצוע פעולות חשבון",
+                "example": "She used her handheld calculator to compute the complex equations.",
+                "example_hebrew": "היא השתמשה במחשבון היד שלה כדי לחשב את המשוואות המורכבות."
+            },
+            {
+                "definition": "A tool or software application that helps with numerical calculations",
+                "definition_hebrew": "כלי או יישום תוכנה המסייע בחישובים מספריים",
+                "example": "He relied on his computer's spreadsheet program, acting as a digital calculator, for budgeting purposes.",
+                "example_hebrew": "הוא הסתמך על תוכנית הגיליון האלקטרוני של המחשב שלו, הפועלת כמחשבון דיגיטלי, לצורכי תקציב."
+            },
+            {
+                "definition": "Metaphorically referring to someone who quickly and accurately makes decisions or computations",
+                "definition_hebrew": "הכוונה מטפורית למישהו שמקבל במהירות ובדייקנות החלטות או חישובים",
+                "example": "Her ability to calculate the potential outcomes of her investment made her an excellent financial advisor.",
+                "example_hebrew": "היכולת שלה לחשב את התוצאות הפוטנציאליות של השקעתה הפכה אותה ליועצת פיננסית מצוינת."
+            }
+        ]
+    }
+]

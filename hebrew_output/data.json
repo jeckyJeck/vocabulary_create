@@ -1,0 +1,40 @@
+[
+    {
+        "word": "data",
+        "word_hebrew": "נתונים",
+        "main_definition": "Data refers to factual information, especially that which is used for analysis or reasoning in various fields like science, business, and technology.",
+        "main_definition_hebrew": "נתונים מתייחסים למידע עובדתי, במיוחד זה המשמש לניתוח או חשיבה בתחומים שונים כמו מדע, עסקים וטכנולוגיה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Raw facts without any processing or interpretation",
+                "definition_hebrew": "עובדות גולמיות ללא כל עיבוד או פרשנות",
+                "example": "The scientists collected a large set of raw data from the experiment.",
+                "example_hebrew": "המדענים אספו קבוצה גדולה של נתונים גולמיים מהניסוי."
+            },
+            {
+                "definition": "Information gathered through observation, measurement, research, analysis or similar processes",
+                "definition_hebrew": "מידע שנאסף באמצעות תצפית, מדידה, מחקר, ניתוח או תהליכים דומים",
+                "example": "Market researchers use surveys to collect consumer behavior data.",
+                "example_hebrew": "חוקרי שוק משתמשים בסקרים כדי לאסוף נתוני התנהגות צרכנים."
+            },
+            {
+                "definition": "A collection of numerical facts that can be used in calculations",
+                "definition_hebrew": "אוסף של עובדות מספריות שניתן להשתמש בהן בחישובים",
+                "example": "The statistics department compiled a comprehensive database of sales data for analysis.",
+                "example_hebrew": "מחלקת הסטטיסטיקה ערכה מאגר מידע מקיף של נתוני מכירות לצורך ניתוח."
+            },
+            {
+                "definition": "Information stored in a computer or other device as binary numbers",
+                "definition_hebrew": "מידע המאוחסן במחשב או במכשיר אחר כמספרים בינאריים",
+                "example": "The company's server stores massive amounts of customer transaction data.",
+                "example_hebrew": "השרת של החברה מאחסן כמויות אדירות של נתוני עסקאות לקוחות."
+            },
+            {
+                "definition": "A set of values that represent the state of a system at a particular point in time",
+                "definition_hebrew": "קבוצה של ערכים המייצגים את המצב של מערכת בנקודת זמן מסוימת",
+                "example": "Data on global temperatures over the past century shows an alarming trend.",
+                "example_hebrew": "נתונים על הטמפרטורות העולמיות במאה השנים האחרונות מראים מגמה מדאיגה."
+            }
+        ]
+    }
+]

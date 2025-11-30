@@ -1,0 +1,34 @@
+[
+    {
+        "word": "borough",
+        "word_hebrew": "קִריָה",
+        "main_definition": "A district or division of a city, typically with its own local government, often derived from historical territorial divisions.",
+        "main_definition_hebrew": "מחוז או חטיבה של עיר, בדרך כלל עם שלטון מקומי משלו, נובעים לרוב מחלוקות טריטוריאליות היסטוריות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Urban administrative division within a city",
+                "definition_hebrew": "חלוקה מנהלית עירונית בתוך עיר",
+                "example": "The boroughs in New York City are Manhattan, Brooklyn, Queens, The Bronx, and Staten Island.",
+                "example_hebrew": "הרובעים בניו יורק הם מנהטן, ברוקלין, קווינס, הברונקס וסטטן איילנד."
+            },
+            {
+                "definition": "Historical territorial unit",
+                "definition_hebrew": "יחידה טריטוריאלית היסטורית",
+                "example": "London is made up of several boroughs, each with its own history dating back to medieval times.",
+                "example_hebrew": "לונדון מורכבת ממספר רבעים, שלכל אחד מהם היסטוריה משלו עוד מימי הביניים."
+            },
+            {
+                "definition": "Political subdivision with local governance",
+                "definition_hebrew": "חלוקה פוליטית עם ממשל מקומי",
+                "example": "The city council and mayor are elected by the residents of Boston's 28 municipal boroughs.",
+                "example_hebrew": "מועצת העיר וראש העיר נבחרים על ידי תושבי 28 הרובעים העירוניים של בוסטון."
+            },
+            {
+                "definition": "A smaller version or part of a larger administrative area",
+                "definition_hebrew": "גרסה קטנה יותר או חלק משטח ניהולי גדול יותר",
+                "example": "District X is considered as one of the boroughs within the greater city Y.",
+                "example_hebrew": "רובע X נחשב לאחד הרבעים בתוך העיר הגדולה Y."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "utils",
+        "word_hebrew": "שימושים",
+        "main_definition": "The plural of utility, referring to tools or programs designed to perform specific tasks.",
+        "main_definition_hebrew": "הרבים של utility, המתייחס לכלים או תוכניות שנועדו לבצע משימות ספציפיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Computer software used for various tasks",
+                "definition_hebrew": "תוכנת מחשב המשמשת למשימות שונות",
+                "example": "A Python utils library that includes modules like NumPy and Pandas.",
+                "example_hebrew": "ספריית שימושים של Python הכוללת מודולים כמו NumPy ו-Pandas."
+            },
+            {
+                "definition": "Tools or equipment to assist with work or daily life",
+                "definition_hebrew": "כלים או ציוד לסיוע בעבודה או בחיי היומיום",
+                "example": "Household utils such as a vacuum cleaner, dishwasher, or scissors.",
+                "example_hebrew": "כלי עזר ביתיים כגון שואב אבק, מדיח כלים או מספריים."
+            },
+            {
+                "definition": "Individual tasks or functions that contribute to the overall utility of something",
+                "definition_hebrew": "משימות או פונקציות בודדות התורמות לתועלת הכוללת של משהו",
+                "example": "The different utils like washing, drying, and folding in a laundry service.",
+                "example_hebrew": "השירותים השונים כמו כביסה, ייבוש וקיפול בשירות כביסה."
+            }
+        ]
+    }
+]

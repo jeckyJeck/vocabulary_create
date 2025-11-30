@@ -1,0 +1,34 @@
+[
+    {
+        "word": "marking",
+        "word_hebrew": "צִיוּן",
+        "main_definition": "Marking refers to the process of identifying, highlighting or categorizing something using a symbol, line, or annotation.",
+        "main_definition_hebrew": "סימון מתייחס לתהליך של זיהוי, הדגשה או סיווג של משהו באמצעות סמל, קו או הערה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of making marks on surfaces, especially paper, for annotations or measurements.",
+                "definition_hebrew": "הפעולה של יצירת סימנים על משטחים, במיוחד נייר, עבור הערות או מדידות.",
+                "example": "She carefully marked the map with pins to indicate important locations.",
+                "example_hebrew": "היא סימנה בזהירות את המפה בסיכות כדי לציין מיקומים חשובים."
+            },
+            {
+                "definition": "The process in assessment where an instructor notes feedback on a student's performance or work.",
+                "definition_hebrew": "התהליך בהערכה שבו מדריך מציין משוב על ביצועיו או עבודתו של תלמיד.",
+                "example": "Teachers use red pens for marking tests, circling errors and providing comments.",
+                "example_hebrew": "מורים משתמשים בעטים אדומים לסימון מבחנים, להקיף שגיאות ולמתן הערות."
+            },
+            {
+                "definition": "In sports, the lines that are drawn to define playing areas or boundaries during an event.",
+                "definition_hebrew": "בספורט, הקווים הנמתחים כדי להגדיר אזורי משחק או גבולות במהלך אירוע.",
+                "example": "The referee used chalk to mark the boundary line on the soccer field before the game started.",
+                "example_hebrew": "השופט השתמש בגיר כדי לסמן את קו הגבול במגרש הכדורגל לפני תחילת המשחק."
+            },
+            {
+                "definition": "A method of identifying items by placing a label, barcode, or other indicator for tracking purposes.",
+                "definition_hebrew": "שיטה לזיהוי פריטים על ידי הצבת תווית, ברקוד או מחוון אחר למטרות מעקב.",
+                "example": "Retail workers use handheld scanners to scan marking tags as customers shop.",
+                "example_hebrew": "עובדים קמעונאיים משתמשים בסורקים כף יד כדי לסרוק תגי סימון כשהלקוחות קונים."
+            }
+        ]
+    }
+]

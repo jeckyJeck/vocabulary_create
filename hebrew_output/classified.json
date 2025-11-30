@@ -1,0 +1,34 @@
+[
+    {
+        "word": "classified",
+        "word_hebrew": "מְסוּוָג",
+        "main_definition": "Pertaining to the process of organizing or sorting items, information, or people into classes or categories based on certain criteria.",
+        "main_definition_hebrew": "הנוגע לתהליך של ארגון או מיון של פריטים, מידע או אנשים לכיתות או קטגוריות בהתבסס על קריטריונים מסוימים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to a system that categorizes documents according to their level of confidentiality and decides how much access they should have",
+                "definition_hebrew": "מתייחס למערכת שמסווגת מסמכים לפי רמת הסודיות שלהם ומחליטה כמה גישה צריכה להיות להם",
+                "example": "The government agency has classified this document as 'Top Secret', meaning only authorized personnel can view it.",
+                "example_hebrew": "הסוכנות הממשלתית סיווגה את המסמך הזה כ'סודי ביותר', כלומר רק צוות מורשה יכול לצפות בו."
+            },
+            {
+                "definition": "In statistics, referring to the act of grouping data into different classes or categories based on shared characteristics",
+                "definition_hebrew": "בסטטיסטיקה, הכוונה לפעולה של קיבוץ נתונים למחלקות או קטגוריות שונות על סמך מאפיינים משותפים",
+                "example": "After collecting survey responses, the researchers performed a classification of answers according to age groups and gender.",
+                "example_hebrew": "לאחר איסוף תשובות הסקר, ביצעו החוקרים סיווג תשובות לפי קבוצות גיל ומין."
+            },
+            {
+                "definition": "Describing something that has been labeled with a particular category or rank",
+                "definition_hebrew": "תיאור משהו שסומן עם קטגוריה או דרגה מסוימת",
+                "example": "The student's performance was classified as 'excellent', which reflected his high grades throughout the semester.",
+                "example_hebrew": "תפקודו של התלמיד סווג כ'מצוין', מה ששיקף את ציוניו הגבוהים לאורך כל הסמסטר."
+            },
+            {
+                "definition": "Inheriting or receiving items from previous generations, often in terms of family heirlooms or property",
+                "definition_hebrew": "ירושה או קבלת פריטים מדורות קודמים, לרוב במונחים של ירושה משפחתית או רכוש",
+                "example": "She received a beautiful antique vase as part of her grandmother's inheritance, which was classified among the valuable family possessions.",
+                "example_hebrew": "היא קיבלה כחלק מירושה של סבתה אגרטל עתיק יפהפה, שסווג בין רכוש המשפחה היקר."
+            }
+        ]
+    }
+]

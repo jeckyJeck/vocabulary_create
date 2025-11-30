@@ -1,0 +1,40 @@
+[
+    {
+        "word": "annual",
+        "word_hebrew": "שנתי",
+        "main_definition": "Related to or occurring once every year.",
+        "main_definition_hebrew": "קשור או מתרחש פעם בשנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Occurring once a year",
+                "definition_hebrew": "מתרחש פעם בשנה",
+                "example": "The company's annual general meeting takes place on the last Friday of November.",
+                "example_hebrew": "האסיפה הכללית השנתית של החברה מתקיימת ביום שישי האחרון של נובמבר."
+            },
+            {
+                "definition": "Annual publication or event",
+                "definition_hebrew": "פרסום שנתי או אירוע",
+                "example": "The magazine 'Nature Annuals' is published every year, covering the latest scientific discoveries and research.",
+                "example_hebrew": "המגזין 'טבע שנתיים' יוצא לאור מדי שנה, ומסקר את התגליות והמחקרים המדעיים האחרונים."
+            },
+            {
+                "definition": "A plant that completes its life cycle in one year",
+                "definition_hebrew": "צמח שמסיים את מחזור חייו בשנה אחת",
+                "example": "Lettuce, tomatoes, and most vegetables are examples of annual plants.",
+                "example_hebrew": "חסה, עגבניות ורוב הירקות הם דוגמאות לצמחים חד-שנתיים."
+            },
+            {
+                "definition": "Annual income or revenue earned within a single year",
+                "definition_hebrew": "הכנסה שנתית או הכנסה שנרכשו בתוך שנה אחת",
+                "example": "The company reported an annual income of $10 million for the fiscal year ended in December 2020.",
+                "example_hebrew": "החברה דיווחה על הכנסה שנתית של 10 מיליון דולר עבור שנת הכספים שהסתיימה בדצמבר 2020."
+            },
+            {
+                "definition": "A special event occurring every calendar year, such as New Year's Day",
+                "definition_hebrew": "אירוע מיוחד המתרחש בכל שנה קלנדרית, כגון ראש השנה",
+                "example": "New Year's Eve is a widely celebrated annual occasion marking the end of one year and the beginning of another.",
+                "example_hebrew": "ערב ראש השנה הוא אירוע שנתי שנחגג רבות המציין את סופה של שנה אחת ותחילתה של שנה אחרת."
+            }
+        ]
+    }
+]

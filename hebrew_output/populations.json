@@ -1,0 +1,34 @@
+[
+    {
+        "word": "populations",
+        "word_hebrew": "אוכלוסיות",
+        "main_definition": "The total number of individuals or species living in a specific area or habitat.",
+        "main_definition_hebrew": "המספר הכולל של פרטים או מינים החיים באזור או בית גידול מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Demographic populations, referring to the people who inhabit a particular region or country and their characteristics such as age, gender, income level, etc.",
+                "definition_hebrew": "אוכלוסיות דמוגרפיות, הכוונה לאנשים המאכלסים אזור או מדינה מסוימת ולמאפיינים שלהם כגון גיל, מין, רמת הכנסה וכו'.",
+                "example": "The population of New York City is estimated to be over 8 million.",
+                "example_hebrew": "אוכלוסיית ניו יורק מוערכת בלמעלה מ-8 מיליון."
+            },
+            {
+                "definition": "Biological populations, pertaining to groups of the same species living in a particular area and their dynamics like birth rates, death rates, migration, etc.",
+                "definition_hebrew": "אוכלוסיות ביולוגיות, הנוגעות לקבוצות מאותו המין החיות באזור מסוים והדינמיקה שלהן כמו שיעורי ילודה, שיעורי תמותה, הגירה וכו'.",
+                "example": "The deer population in Yellowstone National Park has been growing since reintroduction efforts began.",
+                "example_hebrew": "אוכלוסיית הצבאים בפארק הלאומי ילוסטון גדלה מאז החלו מאמצי ההכנסה מחדש."
+            },
+            {
+                "definition": "Cultural populations, relating to groups of people sharing common cultural traits or languages within a geographical area",
+                "definition_hebrew": "אוכלוסיות תרבותיות, הקשורות לקבוצות של אנשים החולקות תכונות תרבותיות או שפות משותפות בתוך אזור גיאוגרפי",
+                "example": "Austrian is the dominant language spoken in Austria's population and its neighboring countries like Germany, Hungary, etc.",
+                "example_hebrew": "אוסטרית היא השפה השלטת המדוברת באוכלוסיית אוסטריה ובמדינות השכנות לה כמו גרמניה, הונגריה וכו'."
+            },
+            {
+                "definition": "Societal populations, referring to groups of people sharing common societal traits or experiences within a particular setting",
+                "definition_hebrew": "אוכלוסיות חברתיות, הכוונה לקבוצות של אנשים החולקים תכונות או חוויות חברתיות משותפות בתוך סביבה מסוימת",
+                "example": "The LGBTQ+ community is an example of a social population that faces unique challenges and experiences in society.",
+                "example_hebrew": "קהילת LGBTQ+ היא דוגמה לאוכלוסייה חברתית המתמודדת עם אתגרים וחוויות ייחודיות בחברה."
+            }
+        ]
+    }
+]

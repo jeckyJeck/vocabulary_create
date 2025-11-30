@@ -1,0 +1,28 @@
+[
+    {
+        "word": "mailing",
+        "word_hebrew": "דיוור",
+        "main_definition": "A mailing refers to the process of sending out or distributing items such as letters, packages, or promotional materials through postal services.",
+        "main_definition_hebrew": "דיוור מתייחס לתהליך של שליחה או הפצה של פריטים כגון מכתבים, חבילות או חומרי קידום מכירות באמצעות שירותי דואר.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of sending a letter or package via post",
+                "definition_hebrew": "הפעולה של שליחת מכתב או חבילה בדואר",
+                "example": "She mailed her birthday card to her grandmother yesterday.",
+                "example_hebrew": "היא שלחה אתמול את כרטיס יום ההולדת שלה לסבתה."
+            },
+            {
+                "definition": "A group of similar items that are sent out together, such as promotional materials or catalogs",
+                "definition_hebrew": "קבוצה של פריטים דומים שנשלחים יחד, כגון חומרי קידום מכירות או קטלוגים",
+                "example": "The company planned a mass mailing campaign to advertise their new product line.",
+                "example_hebrew": "החברה תכננה קמפיין דיוור המוני לפרסום קו המוצרים החדש שלהם."
+            },
+            {
+                "definition": "A scheduled delivery service for mail and packages",
+                "definition_hebrew": "שירות משלוחים לדואר וחבילות",
+                "example": "I subscribed to the daily mailing of my favorite magazine so it arrives at my doorstep every morning.",
+                "example_hebrew": "נרשמתי לדיוור היומי של המגזין האהוב עליי כך שהוא מגיע לפתח ביתי בכל בוקר."
+            }
+        ]
+    }
+]

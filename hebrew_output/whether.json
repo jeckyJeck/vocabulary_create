@@ -1,0 +1,28 @@
+[
+    {
+        "word": "whether",
+        "word_hebrew": "האם",
+        "main_definition": "Whether is an idiom used to introduce a choice or possibility between two alternatives, often in the form of yes-no questions.",
+        "main_definition_hebrew": "האם משמש ניב להצגת בחירה או אפשרות בין שתי חלופות, לרוב בצורה של שאלות כן-לא.",
+        "meanings_and_examples": [
+            {
+                "definition": "To ask about alternatives or options",
+                "definition_hebrew": "לשאול על חלופות או אפשרויות",
+                "example": "I'm not sure if I should take an umbrella with me; whether it will rain today.",
+                "example_hebrew": "אני לא בטוח אם כדאי לי לקחת איתי מטריה; האם יירד גשם היום."
+            },
+            {
+                "definition": "Expressing uncertainty or doubt between two possibilities",
+                "definition_hebrew": "הבעת אי ודאות או ספק בין שתי אפשרויות",
+                "example": "Whether she goes to the party tonight, I don't know yet. She might stay home instead.",
+                "example_hebrew": "אם היא הולכת למסיבה הערב, אני לא יודע עדיין. היא עלולה להישאר בבית במקום."
+            },
+            {
+                "definition": "A conjunction used in indirect questions to introduce alternatives",
+                "definition_hebrew": "צירוף המשמש בשאלות עקיפות כדי להציג חלופות",
+                "example": "I wonder whether he will be able to attend the meeting tomorrow.",
+                "example_hebrew": "מעניין אם הוא יוכל להשתתף בפגישה מחר."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "grocery",
+        "word_hebrew": "מַכּוֹלֶת",
+        "main_definition": "A grocery refers to the act of purchasing food, beverages, and household products from a store or market.",
+        "main_definition_hebrew": "מכולת מתייחס לפעולה של רכישת מזון, משקאות ומוצרים ביתיים מחנות או שוק.",
+        "meanings_and_examples": [
+            {
+                "definition": "The goods sold in stores for everyday consumption",
+                "definition_hebrew": "הסחורה הנמכרת בחנויות לצריכה יומיומית",
+                "example": "I need to go grocery shopping. I'll buy fruits, vegetables, and some snacks.",
+                "example_hebrew": "אני צריך ללכת לקניות בסופר. אני אקנה פירות, ירקות וכמה חטיפים."
+            },
+            {
+                "definition": "A list of items needed from the store or market",
+                "definition_hebrew": "רשימה של פריטים הדרושים מהחנות או השוק",
+                "example": "I made a grocery list that includes milk, bread, eggs, and cereal.",
+                "example_hebrew": "הכנתי רשימת מכולת הכוללת חלב, לחם, ביצים ודגנים."
+            },
+            {
+                "definition": "The business of selling food and household goods",
+                "definition_hebrew": "העסק של מכירת מזון וכלי בית",
+                "example": "My family owns a small grocery store in our neighborhood.",
+                "example_hebrew": "למשפחתי יש חנות מכולת קטנה בשכונה שלנו."
+            },
+            {
+                "definition": "A type of shop where people buy everyday items like food and cleaning products",
+                "definition_hebrew": "סוג של חנות שבה אנשים קונים פריטים יומיומיים כמו מזון ומוצרי ניקוי",
+                "example": "The local grocery is closed today, so I'll have to go tomorrow.",
+                "example_hebrew": "המכולת המקומית סגורה היום, אז אני אצטרך ללכת מחר."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "adaptation",
+        "word_hebrew": "הִסתַגְלוּת",
+        "main_definition": "Adaptation refers to the process of change or alteration in response to a new environment, situation, or circumstance.",
+        "main_definition_hebrew": "הסתגלות מתייחסת לתהליך של שינוי או שינוי בתגובה לסביבה, מצב או נסיבות חדשות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In biology and evolutionary sciences, adaptation means how species adjust over time for survival in their environments. Example: Polar bears have adapted with white fur that blends into the snowy environment to avoid predators.",
+                "definition_hebrew": "בביולוגיה ובמדעי האבולוציה, הסתגלות פירושה כיצד מינים מסתגלים לאורך זמן להישרדות בסביבתם. דוגמה: דובי הקוטב הסתגלו עם פרווה לבנה שמשתלבת בסביבה המושלגת כדי להימנע מטורפים.",
+                "example": "The polar bear's thick layer of fat and fur is an example of biological adaptation.",
+                "example_hebrew": "שכבת השומן והפרווה העבה של דוב הקוטב היא דוגמה להסתגלות ביולוגית."
+            },
+            {
+                "definition": "In literature, film, or theater, adaptation means creating a new work based on an existing one. Example: 'Harry Potter' series was adapted into movies by Warner Bros.",
+                "definition_hebrew": "בספרות, בקולנוע או בתיאטרון, עיבוד פירושו יצירת יצירה חדשה המבוססת על יצירה קיימת. דוגמה: סדרת 'הארי פוטר' עובדה לסרטים על ידי האחים וורנר.",
+                "example": "The novel 'To Kill a Mockingbird' was adapted into a successful movie directed by Robert Mulligan.",
+                "example_hebrew": "הרומן 'To Kill a Mockingbird' עובד לסרט מצליח בבימויו של רוברט מאליגן."
+            },
+            {
+                "definition": "In business and marketing, adaptation means adjusting products or services to fit new markets. Example: Apple Inc. adapted the iPhone to different cultural preferences when entering various international markets.",
+                "definition_hebrew": "בעסקים ובשיווק, התאמה פירושה התאמת מוצרים או שירותים כך שיתאימו לשווקים חדשים. דוגמה: Apple Inc. התאימה את האייפון להעדפות תרבותיות שונות בכניסה לשווקים בינלאומיים שונים.",
+                "example": "To cater to a wider audience, Netflix started producing original content in multiple languages.",
+                "example_hebrew": "כדי לתת מענה לקהל רחב יותר, נטפליקס החלה לייצר תוכן מקורי במספר שפות."
+            },
+            {
+                "definition": "In daily life and interpersonal interactions, adaptation means adjusting behavior or attitude. Example: Moving to a new city might require adapting to different social norms.",
+                "definition_hebrew": "בחיי היומיום ובאינטראקציות בין אישיות, הסתגלות פירושה התאמת התנהגות או גישה. דוגמה: מעבר לעיר חדשה עשוי לדרוש הסתגלות לנורמות חברתיות שונות.",
+                "example": "When traveling abroad, tourists often have to adapt their manners and etiquette.",
+                "example_hebrew": "כאשר נוסעים לחו\"ל, תיירים צריכים לעתים קרובות להתאים את נימוסיהם ואת הנימוס שלהם."
+            },
+            {
+                "definition": "In technology and computing, adaptation refers to the ability of systems or software to modify itself for improved performance. Example: Machine learning algorithms adapt over time as they learn from more data.",
+                "definition_hebrew": "בטכנולוגיה ובמחשוב, התאמה מתייחסת ליכולת של מערכות או תוכנה לשנות את עצמן לשיפור הביצועים. דוגמה: אלגוריתמים של למידת מכונה מסתגלים לאורך זמן ככל שהם לומדים מעוד נתונים.",
+                "example": "'Adaptive' web browsers like Chrome adjust their behavior based on user preferences and browsing habits.",
+                "example_hebrew": "דפדפני אינטרנט 'מותאמים' כמו Chrome מתאימים את התנהגותם על סמך העדפות המשתמש והרגלי הגלישה."
+            }
+        ]
+    }
+]

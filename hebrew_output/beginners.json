@@ -1,0 +1,40 @@
+[
+    {
+        "word": "beginners",
+        "word_hebrew": "מתחילים",
+        "main_definition": "Individuals who are new to a particular skill, activity, or subject area.",
+        "main_definition_hebrew": "אנשים שחדשים במיומנות, פעילות או תחום נושא מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "People with little knowledge or experience in a specific field or topic.",
+                "definition_hebrew": "אנשים עם מעט ידע או ניסיון בתחום או נושא ספציפי.",
+                "example": "As a beginner guitarist, practicing basic chords and strumming patterns.",
+                "example_hebrew": "כגיטריסט מתחיל, מתרגל אקורדים בסיסיים ותבניות פרטור."
+            },
+            {
+                "definition": "Someone who is learning how to do something for the first time.",
+                "definition_hebrew": "מישהו שלומד איך לעשות משהו בפעם הראשונה.",
+                "example": "A beginners cooking class where participants learn simple recipes like scrambled eggs or pasta sauce.",
+                "example_hebrew": "שיעור בישול למתחילים שבו המשתתפים לומדים מתכונים פשוטים כמו ביצים מקושקשות או רוטב פסטה."
+            },
+            {
+                "definition": "The initial stage of any process, activity, or system involving inexperienced individuals.",
+                "definition_hebrew": "השלב הראשוני של כל תהליך, פעילות או מערכת הכוללים אנשים חסרי ניסיון.",
+                "example": "In a new software development project, the beginners team consists of interns and fresh graduates who are not familiar with the technology stack.",
+                "example_hebrew": "בפרויקט פיתוח תוכנה חדש, צוות המתחילים מורכב ממתמחים ובוגרים טריים שאינם בקיאים במחסנית הטכנולוגיה."
+            },
+            {
+                "definition": "A group or category of people who have just started exploring a particular interest or hobby.",
+                "definition_hebrew": "קבוצה או קטגוריה של אנשים שזה עתה התחילו לחקור עניין או תחביב מסוים.",
+                "example": "The beginners' yoga class welcomes participants who are new to practicing yoga and meditation.",
+                "example_hebrew": "שיעור היוגה למתחילים מקבל בברכה משתתפים שחדשים בתרגול יוגה ומדיטציה."
+            },
+            {
+                "definition": "An early stage in learning, where mistakes and errors are more frequent due to lack of experience.",
+                "definition_hebrew": "שלב מוקדם בלמידה, שבו טעויות ושגיאות שכיחות יותר בגלל חוסר ניסיון.",
+                "example": "For a beginner runner, the first few training sessions may involve frequent trips to the restroom or shin splints.",
+                "example_hebrew": "עבור רץ מתחיל, האימונים הראשונים עשויים להיות כרוכים בנסיעות תכופות לשירותים או לסדי שוק."
+            }
+        ]
+    }
+]

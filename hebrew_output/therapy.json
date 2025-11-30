@@ -1,0 +1,40 @@
+[
+    {
+        "word": "therapy",
+        "word_hebrew": "תֶרַפּיָה",
+        "main_definition": "Therapy refers to the treatment or healing of a disease, illness, or disorder through various methods including medical intervention, counseling, and other specialized techniques.",
+        "main_definition_hebrew": "טיפול מתייחס לטיפול או ריפוי של מחלה, מחלה או הפרעה באמצעות שיטות שונות כולל התערבות רפואית, ייעוץ וטכניקות מיוחדות אחרות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mental health therapy",
+                "definition_hebrew": "טיפול בבריאות הנפש",
+                "example": "John attends weekly psychotherapy sessions to address his anxiety issues.",
+                "example_hebrew": "ג'ון משתתף במפגשי פסיכותרפיה שבועיים כדי לטפל בבעיות החרדה שלו."
+            },
+            {
+                "definition": "Physical rehabilitation therapy",
+                "definition_hebrew": "טיפול בשיקום פיזי",
+                "example": "After her knee surgery, Sarah started physical therapy to regain strength and mobility.",
+                "example_hebrew": "לאחר ניתוח הברך שלה, שרה החלה בפיזיותרפיה כדי להחזיר את הכוח והניידות."
+            },
+            {
+                "definition": "Art therapy",
+                "definition_hebrew": "טיפול אומנות",
+                "example": "The art therapy helped the children express their emotions through creative activities.",
+                "example_hebrew": "הטיפול באמנות עזר לילדים לבטא את רגשותיהם באמצעות פעילות יצירתית."
+            },
+            {
+                "definition": "Occupational therapy",
+                "definition_hebrew": "רפוי בעסוק",
+                "example": "Emily's occupational therapist worked with her to improve her fine motor skills after an accident.",
+                "example_hebrew": "המרפאה בעיסוק של אמילי עבדה איתה כדי לשפר את המוטוריקה העדינה שלה לאחר תאונה."
+            },
+            {
+                "definition": "Chiropractic therapy",
+                "definition_hebrew": "טיפול כירופרקטי",
+                "example": "Joe regularly visits his chiropractor for spinal adjustments and relief from back pain.",
+                "example_hebrew": "ג'ו מבקר בקביעות את הכירופרקט שלו לצורך התאמות של עמוד השדרה והקלה על כאבי גב."
+            }
+        ]
+    }
+]

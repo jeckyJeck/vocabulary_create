@@ -1,0 +1,40 @@
+[
+    {
+        "word": "license",
+        "word_hebrew": "רישיון",
+        "main_definition": "A license is an official permission or authorization to do, use, or own something, often granted by a governmental body.",
+        "main_definition_hebrew": "רישיון הוא הרשאה או הרשאה רשמית לעשות, להשתמש או להחזיק במשהו, המוענקים לרוב על ידי גוף ממשלתי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Granting of permission for activities or actions",
+                "definition_hebrew": "מתן אישור לפעילויות או פעולות",
+                "example": "The city issued a permit allowing the construction of new buildings in that area.",
+                "example_hebrew": "העירייה הוציאה היתר המאפשר הקמת מבנים חדשים באותו אזור."
+            },
+            {
+                "definition": "Authorization to operate a vehicle, especially commercial vehicles like trucks and buses",
+                "definition_hebrew": "אישור להפעיל רכב, במיוחד רכבים מסחריים כמו משאיות ואוטובוסים",
+                "example": "She passed her driving license test and now can legally drive on public roads.",
+                "example_hebrew": "היא עברה את מבחן רישיון הנהיגה שלה וכעת היא יכולה לנהוג באופן חוקי בכבישים ציבוריים."
+            },
+            {
+                "definition": "A document that serves as proof of ownership or right to use intellectual property",
+                "definition_hebrew": "מסמך המשמש כהוכחה לבעלות או זכות שימוש בקניין רוחני",
+                "example": "He showed his copy of the software's license agreement before using it in his project.",
+                "example_hebrew": "הוא הראה את העותק שלו של הסכם הרישיון של התוכנה לפני השימוש בו בפרויקט שלו."
+            },
+            {
+                "definition": "Renewal or extension of a previous licensing agreement, often for ongoing services or products usage",
+                "definition_hebrew": "חידוש או הארכה של הסכם רישוי קודם, לעתים קרובות עבור שירותים או שימוש מתמשך במוצרים",
+                "example": "The restaurant had to renew its food handling license every year as part of their compliance requirements.",
+                "example_hebrew": "המסעדה נאלצה לחדש את רישיון הטיפול במזון מדי שנה כחלק מדרישות הציות שלה."
+            },
+            {
+                "definition": "License plate, which is an identification number displayed on a vehicle to certify that it has the right to operate on public roads",
+                "definition_hebrew": "לוחית רישוי, שהיא מספר זיהוי המופיע על רכב כדי לאשר שיש לו את הזכות לפעול בכבישים ציבוריים",
+                "example": "The car's license plate was visible from across the street as I drove past.",
+                "example_hebrew": "לוחית הרישוי של המכונית נראתה מעבר לרחוב כשחלפתי על פני."
+            }
+        ]
+    }
+]

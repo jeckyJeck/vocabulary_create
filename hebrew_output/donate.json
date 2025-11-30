@@ -1,0 +1,28 @@
+[
+    {
+        "word": "donate",
+        "word_hebrew": "לִתְרוֹם",
+        "main_definition": "To give something, usually money or goods, to a charitable cause without expecting anything in return.",
+        "main_definition_hebrew": "לתת משהו, בדרך כלל כסף או סחורה, למטרת צדקה מבלי לצפות לתמורה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To contribute voluntarily resources such as money, property, or services for public good",
+                "definition_hebrew": "לתרום מרצון משאבים כגון כסף, רכוש או שירותים לטובת הציבור",
+                "example": "She decided to donate $50 to the local food bank.",
+                "example_hebrew": "היא החליטה לתרום 50 דולר לבנק המזון המקומי."
+            },
+            {
+                "definition": "To give away unwanted items with no monetary compensation",
+                "definition_hebrew": "למסור פריטים לא רצויים ללא פיצוי כספי",
+                "example": "He started a clothing drive at his church, encouraging members to donate gently used clothes for those in need.",
+                "example_hebrew": "הוא פתח במסע בגדים בכנסייה שלו, ועודד חברים לתרום בגדים משומשים בעדינות לנזקקים."
+            },
+            {
+                "definition": "In sports, to contribute points or efforts towards the team's score without direct monetary benefit",
+                "definition_hebrew": "בספורט, לתרום נקודות או מאמצים לקראת הניקוד של הקבוצה ללא תועלת כספית ישירה",
+                "example": "The player decided to donate his time volunteering at a youth basketball camp during offseason.",
+                "example_hebrew": "השחקן החליט לתרום מזמנו בהתנדבות במחנה כדורסל לנוער במהלך העונה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "disease",
+        "word_hebrew": "מַחֲלָה",
+        "main_definition": "A disease is a condition that negatively affects the structure or function of part or all of an organism, often characterized by specific symptoms and signs.",
+        "main_definition_hebrew": "מחלה היא מצב המשפיע לרעה על המבנה או התפקוד של חלק מהאורגניזם או כולו, המאופיין לרוב בתסמינים ובסימנים ספציפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An abnormal physical condition",
+                "definition_hebrew": "מצב גופני לא תקין",
+                "example": "Cancer is a disease that causes uncontrolled cell growth in the body.",
+                "example_hebrew": "סרטן היא מחלה הגורמת לצמיחת תאים בלתי מבוקרת בגוף."
+            },
+            {
+                "definition": "A disorder or imbalance within an organism's biological systems",
+                "definition_hebrew": "הפרעה או חוסר איזון במערכות הביולוגיות של האורגניזם",
+                "example": "Diabetes is a disease characterized by high blood sugar levels due to insulin deficiency or resistance.",
+                "example_hebrew": "סוכרת היא מחלה המאופיינת ברמות סוכר גבוהות בדם עקב מחסור או עמידות לאינסולין."
+            },
+            {
+                "definition": "An infectious condition caused by microorganisms like bacteria, viruses, or fungi",
+                "definition_hebrew": "מצב זיהומי הנגרם על ידי מיקרואורגניזמים כמו חיידקים, וירוסים או פטריות",
+                "example": "Influenza, commonly known as the flu, is a disease spread through respiratory droplets from an infected person.",
+                "example_hebrew": "שפעת, הידועה בכינויה שפעת, היא מחלה המתפשטת באמצעות טיפות נשימה מאדם נגוע."
+            },
+            {
+                "definition": "A chronic condition with no known cure",
+                "definition_hebrew": "מצב כרוני ללא תרופה ידועה",
+                "example": "Alzheimer's disease is a progressive neurological disorder that affects memory and cognitive function.",
+                "example_hebrew": "מחלת אלצהיימר היא הפרעה נוירולוגית מתקדמת המשפיעה על הזיכרון והתפקוד הקוגניטיבי."
+            },
+            {
+                "definition": "A temporary health problem caused by external factors or stressors",
+                "definition_hebrew": "בעיה בריאותית זמנית הנגרמת על ידי גורמים חיצוניים או גורמי לחץ",
+                "example": "Flu-like symptoms such as fever, body aches, and fatigue are a disease response to certain viruses or bacteria.",
+                "example_hebrew": "תסמינים דמויי שפעת כגון חום, כאבי גוף ועייפות הם תגובה למחלה לנגיפים או חיידקים מסוימים."
+            }
+        ]
+    }
+]

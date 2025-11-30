@@ -1,0 +1,68 @@
+{
+    "word": "page",
+    "word_hebrew": "עמוד",
+    "main_definition": "One of the many pieces of paper bound together within a book or similar document.",
+    "main_definition_hebrew": "אחד מפיסות הנייר הרבות שנכרכו יחד בתוך ספר או מסמך דומה.",
+    "meanings_and_examples": [
+        {
+            "definition": "One of the many pieces of paper bound together within a book or similar document.",
+            "definition_hebrew": "אחד מפיסות הנייר הרבות שנכרכו יחד בתוך ספר או מסמך דומה.",
+            "example": "She turned to page 56 in her novel and began reading the next chapter.",
+            "example_hebrew": "היא פנתה לעמוד 56 ברומן שלה והחלה לקרוא את הפרק הבא."
+        },
+        {
+            "definition": "One side of a paper leaf on which one has written or printed.",
+            "definition_hebrew": "צד אחד של דף נייר עליו כתוב או מודפס.",
+            "example": "She turned the page to reveal a beautiful landscape drawing.",
+            "example_hebrew": "היא הפכה את הדף כדי לחשוף ציור נוף יפהפה."
+        },
+        {
+            "definition": "Any record or writing; a collective memory.",
+            "definition_hebrew": "כל תיעוד או כתיבה; זיכרון קולקטיבי.",
+            "example": "the page of history",
+            "example_hebrew": "עמוד ההיסטוריה"
+        },
+        {
+            "definition": "The type set up for printing a page.",
+            "definition_hebrew": "הסוג שהוגדר להדפסת עמוד.",
+            "example": "Before sending the manuscript to the printer, John carefully arranged the type on the plate to create each individual page of the book.",
+            "example_hebrew": "לפני ששלח את כתב היד למדפיס, ג'ון סידר בקפידה את הסוג על הצלחת כדי ליצור כל עמוד נפרד בספר."
+        },
+        {
+            "definition": "A screenful of text and possibly other content.",
+            "definition_hebrew": "מסך מלא של טקסט ואולי תוכן אחר.",
+            "example": "After scrolling through the website, John realized that he had just read a whole page filled with news articles.",
+            "example_hebrew": "לאחר גלילה באתר, ג'ון הבין שזה עתה קרא עמוד שלם מלא בכתבות חדשותיות."
+        },
+        {
+            "definition": "A web page.",
+            "definition_hebrew": "דף אינטרנט.",
+            "example": "Visit the Google homepage to learn more about their services.",
+            "example_hebrew": "בקר בדף הבית של Google כדי ללמוד עוד על השירותים שלהם."
+        },
+        {
+            "definition": "A block of contiguous memory of a fixed length.",
+            "definition_hebrew": "גוש זיכרון רציף באורך קבוע.",
+            "example": "When a program loads into memory, its code and data are divided into pages to be efficiently accessed and managed by the operating system.",
+            "example_hebrew": "כאשר תוכנית נטענת לזיכרון, הקוד והנתונים שלה מחולקים לדפים כדי לגשת ולנהל אותם ביעילות על ידי מערכת ההפעלה."
+        },
+        {
+            "definition": "To mark or number the pages of, as a book or manuscript.",
+            "definition_hebrew": "לסמן או למספר את העמודים של, כספר או ככתב יד.",
+            "example": "In preparing for her presentation, Emily carefully paged through her research notes to ensure she could quickly find relevant information.",
+            "example_hebrew": "בהכנה למצגת שלה, דפדפה אמילי בקפידה בהערות המחקר שלה כדי להבטיח שתוכל למצוא במהירות מידע רלוונטי."
+        },
+        {
+            "definition": "(often with “through”) To turn several pages of a publication.",
+            "definition_hebrew": "(לעתים קרובות עם \"דרך\") כדי להפוך מספר עמודים של פרסום.",
+            "example": "The patient paged through magazines while he waited for the doctor.",
+            "example_hebrew": "המטופל דפדף במגזינים בזמן שהמתין לרופא."
+        },
+        {
+            "definition": "To furnish with folios.",
+            "definition_hebrew": "לרהט עם עלים.",
+            "example": "The artist began to page the large canvas, dividing it into sections for each of his vibrant landscapes.",
+            "example_hebrew": "האמן החל לדפדף את הבד הגדול, וחילק אותו למקטעים עבור כל אחד מהנופים התוססים שלו."
+        }
+    ]
+}

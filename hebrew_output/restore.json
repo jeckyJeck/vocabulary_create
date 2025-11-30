@@ -1,0 +1,34 @@
+[
+    {
+        "word": "restore",
+        "word_hebrew": "לשחזר",
+        "main_definition": "To bring something back to its original or former condition, often after it has been damaged or worn out.",
+        "main_definition_hebrew": "להחזיר משהו למצבו המקורי או הקודם, לעתים קרובות לאחר שהוא ניזוק או נשחק.",
+        "meanings_and_examples": [
+            {
+                "definition": "Reinstate an old style or appearance",
+                "definition_hebrew": "החזר סגנון או מראה ישן",
+                "example": "After the renovation, they restored the classic look of the building.",
+                "example_hebrew": "לאחר השיפוץ החזירו את המראה הקלאסי של המבנה."
+            },
+            {
+                "definition": "Repair something damaged and return it to its original state",
+                "definition_hebrew": "תקן משהו פגום והחזר אותו למצבו המקורי",
+                "example": "The antique clock was broken but after hours of work, the restorer managed to restore it to its former glory.",
+                "example_hebrew": "השעון העתיק היה מקולקל אך לאחר שעות של עבודה הצליח המשחזר להחזיר אותו ליושנה."
+            },
+            {
+                "definition": "To revive or recreate a lost feature in culture, art, etc.",
+                "definition_hebrew": "להחיות או לשחזר תכונה אבודה בתרבות, אמנות וכו'.",
+                "example": "They worked on restoring the ancient painting that had been thought to be lost forever.",
+                "example_hebrew": "הם עבדו על שחזור הציור העתיק שחשבו שאבד לנצח."
+            },
+            {
+                "definition": "Make something available again after it has ceased",
+                "definition_hebrew": "הפוך משהו זמין שוב לאחר שהוא נפסק",
+                "example": "The city council took steps to restore public transportation services which were previously suspended due to budget cuts.",
+                "example_hebrew": "מועצת העיר נקטה בצעדים להשבת שירותי התחבורה הציבורית שהושבתו בעבר עקב קיצוץ בתקציב."
+            }
+        ]
+    }
+]

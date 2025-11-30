@@ -1,0 +1,28 @@
+[
+    {
+        "word": "encryption",
+        "word_hebrew": "הצפנה",
+        "main_definition": "Encryption is the process of converting information or data into a code to prevent unauthorized access.",
+        "main_definition_hebrew": "הצפנה היא תהליך של המרת מידע או נתונים לקוד כדי למנוע גישה לא מורשית.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of transforming plain text into ciphertext using an encryption algorithm",
+                "definition_hebrew": "הפעולה של הפיכת טקסט רגיל לטקסט צופן באמצעות אלגוריתם הצפנה",
+                "example": "Alice uses AES (Advanced Encryption Standard) to encrypt her personal emails.",
+                "example_hebrew": "אליס משתמשת ב-AES (Advanced Encryption Standard) כדי להצפין את המיילים האישיים שלה."
+            },
+            {
+                "definition": "A method or technology used for securing data by encoding it so that only authorized parties can read it",
+                "definition_hebrew": "שיטה או טכנולוגיה המשמשת לאבטחת נתונים על ידי קידודם כך שרק גורמים מורשים יוכלו לקרוא אותם",
+                "example": "The company implemented SSL encryption on their website to secure online transactions.",
+                "example_hebrew": "החברה הטמיעה הצפנת SSL באתר האינטרנט שלה כדי לאבטח עסקאות מקוונות."
+            },
+            {
+                "definition": "An approach in cryptography where information is converted into a format that obscures its true meaning",
+                "definition_hebrew": "גישה בקריפטוגרפיה שבה מידע מומר לפורמט שמטשטש את המשמעות האמיתית שלו",
+                "example": "Bob encrypted his credit card number before sending it over the internet for an online purchase.",
+                "example_hebrew": "בוב הצפין את מספר כרטיס האשראי שלו לפני ששלח אותו דרך האינטרנט לרכישה מקוונת."
+            }
+        ]
+    }
+]

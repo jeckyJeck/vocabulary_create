@@ -1,0 +1,28 @@
+[
+    {
+        "word": "smtp",
+        "word_hebrew": "smtp",
+        "main_definition": "Simple Mail Transfer Protocol (SMTP) is a standard protocol used for sending emails across the internet.",
+        "main_definition_hebrew": "Simple Mail Transfer Protocol (SMTP) הוא פרוטוקול סטנדרטי המשמש לשליחת אימיילים ברחבי האינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Sending electronic mail using SMTP",
+                "definition_hebrew": "שליחת דואר אלקטרוני באמצעות SMTP",
+                "example": "To send an email, I need to use SMTP with my outgoing server settings.",
+                "example_hebrew": "כדי לשלוח אימייל, אני צריך להשתמש ב-SMTP עם הגדרות השרת היוצא שלי."
+            },
+            {
+                "definition": "An acronym for Simple Mail Transfer Protocol",
+                "definition_hebrew": "ראשי תיבות של Simple Mail Transfer Protocol",
+                "example": "SMTP is the foundation of internet email communication.",
+                "example_hebrew": "SMTP הוא הבסיס לתקשורת אימייל באינטרנט."
+            },
+            {
+                "definition": "A mail transfer agent (MTA) software that uses SMTP to send and receive emails",
+                "definition_hebrew": "תוכנת העברת דואר (MTA) המשתמשת ב-SMTP כדי לשלוח ולקבל מיילים",
+                "example": "Outlook, Gmail, and other email clients use MTA programs with SMTP capabilities.",
+                "example_hebrew": "Outlook, Gmail ולקוחות דוא\"ל אחרים משתמשים בתוכנות MTA עם יכולות SMTP."
+            }
+        ]
+    }
+]

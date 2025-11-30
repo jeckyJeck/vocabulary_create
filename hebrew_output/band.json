@@ -1,0 +1,40 @@
+[
+    {
+        "word": "band",
+        "word_hebrew": "לְהִתְאַגֵד",
+        "main_definition": "A group of people who play music together or a range of frequencies in electronics, typically characterized by its continuity.",
+        "main_definition_hebrew": "קבוצה של אנשים שמנגנים ביחד מוזיקה או טווח של תדרים באלקטרוניקה, בדרך כלל מאופיינת בהמשכיות שלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Musical ensemble",
+                "definition_hebrew": "אנסמבל מוזיקלי",
+                "example": "The Rolling Stones are one of the most famous rock bands.",
+                "example_hebrew": "הרולינג סטונס היא אחת מלהקות הרוק המפורסמות ביותר."
+            },
+            {
+                "definition": "Group with a common interest or purpose",
+                "definition_hebrew": "קבוצה עם עניין או מטרה משותפים",
+                "example": "She's part of an environmental awareness band that organizes beach cleanups.",
+                "example_hebrew": "היא חלק מלהקת מודעות סביבתית שמארגנת ניקוי חופים."
+            },
+            {
+                "definition": "A narrow strip of land, typically separated from similar land by water",
+                "definition_hebrew": "רצועת אדמה צרה, בדרך כלל מופרדת מאדמה דומה במים",
+                "example": "We hiked along the coastal band, enjoying the ocean view.",
+                "example_hebrew": "טיילנו לאורך להקת החוף, נהנינו מנוף האוקיינוס."
+            },
+            {
+                "definition": "Range of frequencies in electronics or acoustics",
+                "definition_hebrew": "טווח תדרים באלקטרוניקה או אקוסטיקה",
+                "example": "The radio band used for FM broadcasting is from 87.5 to 108 MHz.",
+                "example_hebrew": "רצועת הרדיו המשמשת לשידורי FM היא מ-87.5 עד 108 מגה-הרץ."
+            },
+            {
+                "definition": "A temporary group formed for a specific purpose or event",
+                "definition_hebrew": "קבוצה זמנית שהוקמה למטרה או אירוע מסוים",
+                "example": "For the annual festival, they created an impromptu band of volunteers.",
+                "example_hebrew": "לקראת הפסטיבל השנתי הם יצרו להקת מתנדבים מאולתרת."
+            }
+        ]
+    }
+]

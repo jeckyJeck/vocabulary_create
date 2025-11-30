@@ -1,0 +1,34 @@
+[
+    {
+        "word": "shareholders",
+        "word_hebrew": "בעלי מניות",
+        "main_definition": "Shareholders are individuals or entities that own shares in a corporation, thus holding a portion of the company's equity.",
+        "main_definition_hebrew": "בעלי מניות הם יחידים או גופים המחזיקים במניות בתאגיד, ובכך מחזיקים בחלק מההון העצמי של החברה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Investors who hold stock in a corporation",
+                "definition_hebrew": "משקיעים המחזיקים במניות בתאגיד",
+                "example": "John and Sarah are shareholders in XYZ Corporation, owning 100 shares each.",
+                "example_hebrew": "ג'ון ושרה הם בעלי מניות בתאגיד XYZ, בעלי 100 מניות כל אחד."
+            },
+            {
+                "definition": "Persons entitled to receive dividends from the profits of a company",
+                "definition_hebrew": "אנשים הזכאים לקבל דיבידנדים מרווחי חברה",
+                "example": "As shareholders in ABC Company, all members are eligible for annual dividend payments if declared by the board.",
+                "example_hebrew": "כבעלי מניות בחברת ABC, כל החברים זכאים לתשלומי דיבידנד שנתיים אם הוכרז על ידי הדירקטוריון."
+            },
+            {
+                "definition": "Partners or stakeholders who have an interest in the success and profitability of a business",
+                "definition_hebrew": "שותפים או בעלי עניין שיש להם עניין בהצלחתו וברווחיותו של עסק",
+                "example": "The shareholders of DEF Manufacturing attended the meeting to discuss strategies for increasing revenue.",
+                "example_hebrew": "בעלי המניות של DEF Manufacturing השתתפו בפגישה כדי לדון באסטרטגיות להגדלת ההכנסות."
+            },
+            {
+                "definition": "Holders of voting rights at company meetings, such as electing directors",
+                "definition_hebrew": "בעלי זכויות הצבעה באסיפות החברה, כגון בחירת דירקטורים",
+                "example": "During the annual general meeting, all shareholders had a chance to vote on various issues affecting the company.",
+                "example_hebrew": "במהלך האסיפה הכללית השנתית, לכל בעלי המניות הייתה הזדמנות להצביע בנושאים שונים המשפיעים על החברה."
+            }
+        ]
+    }
+]

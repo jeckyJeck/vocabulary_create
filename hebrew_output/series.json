@@ -1,0 +1,34 @@
+[
+    {
+        "word": "series",
+        "word_hebrew": "סִדרָה",
+        "main_definition": "A sequence of related events, objects, or things occurring in a particular order; an ordered set.",
+        "main_definition_hebrew": "רצף של אירועים, חפצים או דברים קשורים המתרחשים בסדר מסוים; סט מסודר.",
+        "meanings_and_examples": [
+            {
+                "definition": "In mathematics, a series is the sum of the terms of a sequence of numbers arranged in a specific order. For example: 1 + 2 + 3 + ... = Infinite series",
+                "definition_hebrew": "במתמטיקה, סדרה היא סכום האיברים של רצף מספרים המסודרים בסדר מסוים. לדוגמה: 1 + 2 + 3 + ... = סדרה אינסופית",
+                "example": "The mathematical series 1/2 + 1/4 + 1/8... converges to 1.",
+                "example_hebrew": "הסדרה המתמטית 1/2 + 1/4 + 1/8... מתכנסת ל-1."
+            },
+            {
+                "definition": "A collection of television or radio programs that share a common theme and are broadcast consecutively. For example: 'Breaking Bad' is a critically acclaimed TV series.",
+                "definition_hebrew": "אוסף של תוכניות טלוויזיה או רדיו שחולקות נושא משותף ומשודרות ברציפות. לדוגמה: 'שובר שורות' היא סדרת טלוויזיה עטורת שבחים.",
+                "example": "The first season of the show 'Stranger Things' was released as part of The CW's Dark.",
+                "example_hebrew": "העונה הראשונה של התוכנית 'Stranger Things' שוחררה כחלק מ-The CW's Dark."
+            },
+            {
+                "definition": "A group or set of things that follow each other in succession. For example: 'the series of events leading up to a major decision'.",
+                "definition_hebrew": "קבוצה או קבוצה של דברים שעוקבים זה אחר זה ברצף. למשל: 'סדרת האירועים המובילה להחלטה גדולה'.",
+                "example": "The presidential election campaign is the culmination of several political series, including debates and fundraising.",
+                "example_hebrew": "מערכת הבחירות לנשיאות היא שיאה של כמה סדרות פוליטיות, כולל דיונים וגיוס כספים."
+            },
+            {
+                "definition": "A lineup or sequence of related books, movies, games, etc. with similar themes or characters. For example: 'Harry Potter' is a popular book and film series.'",
+                "definition_hebrew": "סדרה או רצף של ספרים קשורים, סרטים, משחקים וכו' עם נושאים או דמויות דומות. לדוגמה: 'הארי פוטר' היא סדרת ספרים וסרטים פופולריים.'",
+                "example": "The Marvel Cinematic Universe consists of an interconnected series of superhero films.",
+                "example_hebrew": "היקום הקולנועי של מארוול מורכב מסדרה מקושרת של סרטי גיבורי על."
+            }
+        ]
+    }
+]

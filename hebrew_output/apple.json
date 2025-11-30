@@ -1,0 +1,34 @@
+[
+    {
+        "word": "apple",
+        "word_hebrew": "תפוח עץ",
+        "main_definition": "Apple is a common English word with multiple meanings, some of which are idiomatic expressions or symbolic references.",
+        "main_definition_hebrew": "אפל היא מילה נפוצה באנגלית עם משמעויות מרובות, חלקן ביטויים אידיומטיים או הפניות סמליות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A round fruit produced by an apple tree (Malus domestica)",
+                "definition_hebrew": "פרי עגול המיוצר על ידי עץ תפוח (Malus domestica)",
+                "example": "She picked a ripe red apple from the orchard.",
+                "example_hebrew": "היא קטפה תפוח אדום בשל מהמטע."
+            },
+            {
+                "definition": "The highest-ranked team in various sports leagues",
+                "definition_hebrew": "הקבוצה בעלת הדירוג הגבוה ביותר בליגות ספורט שונות",
+                "example": "The New York Knicks are currently the top team in the NBA Eastern Conference.",
+                "example_hebrew": "הניו יורק ניקס היא כרגע הקבוצה הבכירה ב-NBA המזרחי."
+            },
+            {
+                "definition": "A type of computer operating system developed by Apple Inc.",
+                "definition_hebrew": "סוג של מערכת הפעלה למחשב שפותחה על ידי Apple Inc.",
+                "example": "I installed macOS on my new MacBook Pro.",
+                "example_hebrew": "התקנתי macOS על ה-MacBook Pro החדש שלי."
+            },
+            {
+                "definition": "An idiomatic expression meaning 'to take the lead' or 'to be at the top', often used in business contexts",
+                "definition_hebrew": "ביטוי אידיומטי שמשמעותו 'להוביל' או 'להיות בפסגה', משמש לעתים קרובות בהקשרים עסקיים",
+                "example": "With her innovative ideas, she put Apple ahead of its competitors in technology.",
+                "example_hebrew": "עם הרעיונות החדשניים שלה, היא שמה את אפל לפני מתחרותיה בטכנולוגיה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "community",
+        "word_hebrew": "קהילה",
+        "main_definition": "A group of people living in the same area or having a particular characteristic in common.",
+        "main_definition_hebrew": "קבוצת אנשים המתגוררים באותו אזור או בעלי מאפיין מסוים משותף.",
+        "meanings_and_examples": [
+            {
+                "definition": "Social unit: A community refers to a group of people who live in the same geographical area, often sharing common interests and values. Example: The residents of Springfield come together regularly for neighborhood clean-up events.",
+                "definition_hebrew": "יחידה חברתית: קהילה מתייחסת לקבוצה של אנשים שחיים באותו אזור גיאוגרפי, ולרוב חולקים תחומי עניין וערכים משותפים. דוגמה: תושבי ספרינגפילד מתכנסים באופן קבוע לאירועי ניקיון שכונתיים.",
+                "example": "The farming community relies on cooperation among its members.",
+                "example_hebrew": "הקהילה החקלאית מסתמכת על שיתוף פעולה בין חבריה."
+            },
+            {
+                "definition": "Online community: A group of individuals who interact with each other through the internet, often sharing information or ideas. Example: The online forum for video game enthusiasts is a vibrant virtual community.",
+                "definition_hebrew": "קהילה מקוונת: קבוצה של אנשים המקיימים אינטראקציה זה עם זה דרך האינטרנט, לעתים קרובות משתפים מידע או רעיונות. דוגמה: הפורום המקוון לחובבי משחקי וידאו הוא קהילה וירטואלית תוססת.",
+                "example": "The tech support team fosters an online community where users can ask questions and share solutions.",
+                "example_hebrew": "צוות התמיכה הטכנית מטפח קהילה מקוונת שבה משתמשים יכולים לשאול שאלות ולשתף פתרונות."
+            },
+            {
+                "definition": "Community of practice: A group of people who share a profession or interest, regularly engaging in discussion and learning. Example: The local gardening club is a community of practice for green thumbs.",
+                "definition_hebrew": "קהילת עיסוק: קבוצת אנשים החולקים מקצוע או עניין, העוסקים בקביעות בדיון ולמידה. דוגמה: מועדון הגינון המקומי הוא קהילה של תרגול עבור אגודלים ירוקים.",
+                "example": "A software development company encourages its employees to join the coding community.",
+                "example_hebrew": "חברת פיתוח תוכנה מעודדת את עובדיה להצטרף לקהילת המקודדים."
+            },
+            {
+                "definition": "Religious community: A group of people who share common beliefs and worship practices, often within a specific faith. Example: The Buddhist sangha is considered a religious community.",
+                "definition_hebrew": "קהילה דתית: קבוצה של אנשים החולקים אמונות ושיטות פולחן משותפות, לרוב בתוך אמונה ספציפית. דוגמה: הסנגה הבודהיסטית נחשבת לקהילה דתית.",
+                "example": "The members of the monastery are part of a monastic spiritual community.",
+                "example_hebrew": "חברי המנזר הם חלק מקהילה רוחנית נזירית."
+            },
+            {
+                "definition": "Working community: A group of professionals collaborating towards a common goal or project, often within an organization. Example: The marketing team forms a working community to launch a new product.",
+                "definition_hebrew": "קהילת עובדים: קבוצה של אנשי מקצוע המשתפת פעולה לקראת מטרה או פרויקט משותף, לרוב בתוך ארגון. דוגמה: צוות השיווק יוצר קהילת עבודה כדי להשיק מוצר חדש.",
+                "example": "The research and development department works as a scientific community.",
+                "example_hebrew": "מחלקת המחקר והפיתוח פועלת כקהילה מדעית."
+            }
+        ]
+    }
+]

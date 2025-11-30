@@ -1,0 +1,40 @@
+[
+    {
+        "word": "interfaces",
+        "word_hebrew": "ממשקים",
+        "main_definition": "Interfaces refer to points of interaction or connection between two entities, systems, components, or objects that allow them to communicate, exchange information, or function together effectively.",
+        "main_definition_hebrew": "ממשקים מתייחסים לנקודות של אינטראקציה או חיבור בין שני ישויות, מערכות, רכיבים או אובייקטים המאפשרים להם לתקשר, להחליף מידע או לתפקד יחד ביעילות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing and technology, interfaces are the points where different software or hardware components interact with each other. They define how data is exchanged between these systems.",
+                "definition_hebrew": "במחשוב ובטכנולוגיה, ממשקים הם הנקודות שבהן רכיבי תוכנה או חומרה שונים מקיימים אינטראקציה זה עם זה. הם מגדירים את אופן החלפת הנתונים בין המערכות הללו.",
+                "example": "The USB interface allows computers to connect peripheral devices like keyboards, mice, and printers.",
+                "example_hebrew": "ממשק ה-USB מאפשר למחשבים לחבר התקנים היקפיים כמו מקלדות, עכברים ומדפסות."
+            },
+            {
+                "definition": "In the context of user interaction design, interfaces are the visual elements through which users interact with a system or application. They include buttons, menus, text fields, etc.",
+                "definition_hebrew": "בהקשר של עיצוב אינטראקציות משתמש, ממשקים הם האלמנטים החזותיים שדרכם משתמשים באינטראקציה עם מערכת או אפליקציה. הם כוללים כפתורים, תפריטים, שדות טקסט וכו'.",
+                "example": "The graphical user interface (GUI) of an operating system allows users to perform actions by clicking on icons and menus.",
+                "example_hebrew": "ממשק המשתמש הגרפי (GUI) של מערכת הפעלה מאפשר למשתמשים לבצע פעולות על ידי לחיצה על סמלים ותפריטים."
+            },
+            {
+                "definition": "In biology, interfaces can refer to the boundary between two different tissues or organ systems within a living organism.",
+                "definition_hebrew": "בביולוגיה, ממשקים יכולים להתייחס לגבול בין שתי רקמות או מערכות איברים שונות בתוך אורגניזם חי.",
+                "example": "The interface between the digestive tract and the circulatory system involves nutrients being absorbed into the bloodstream.",
+                "example_hebrew": "הממשק בין מערכת העיכול למערכת הדם כולל חומרים מזינים הנספגים לזרם הדם."
+            },
+            {
+                "definition": "In social science, interfaces describe points of interaction between different individuals, groups or organizations that facilitate communication, collaboration, or exchange.",
+                "definition_hebrew": "במדעי החברה, ממשקים מתארים נקודות של אינטראקציה בין יחידים, קבוצות או ארגונים שונים המאפשרים תקשורת, שיתוף פעולה או החלפה.",
+                "example": "The interface between two political parties might involve negotiations and discussions to reach a common understanding on policy matters.",
+                "example_hebrew": "הממשק בין שתי מפלגות פוליטי עשוי לכלול משא ומתן ודיונים כדי להגיע להבנה משותפת בענייני מדיניות."
+            },
+            {
+                "definition": "In architecture and design, interfaces describe the point where different building materials or components meet and interact with each other.",
+                "definition_hebrew": "באדריכלות ועיצוב, ממשקים מתארים את הנקודה שבה חומרי בניין או רכיבים שונים נפגשים ומקיימים אינטראקציה זה עם זה.",
+                "example": "The concrete-to-steel interface in a reinforced concrete structure allows for load transfer between these two materials.",
+                "example_hebrew": "ממשק הבטון לפלדה במבנה בטון מזוין מאפשר העברת עומסים בין שני החומרים הללו."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "founder",
+        "word_hebrew": "מייסד",
+        "main_definition": "A person who establishes or creates an organization, company, or institution.",
+        "main_definition_hebrew": "אדם המקים או יוצר ארגון, חברה או מוסד.",
+        "meanings_and_examples": [
+            {
+                "definition": "To initiate the establishment of a business entity by creating it and typically being one of its first members or investors.",
+                "definition_hebrew": "ליזום הקמת ישות עסקית על ידי יצירתו ובדרך כלל להיות אחד החברים או המשקיעים הראשונים בה.",
+                "example": "John was the founder of his tech startup in 2015, taking on significant personal risk to bring his idea to life.",
+                "example_hebrew": "ג'ון היה המייסד של הסטארט-אפ הטכנולוגי שלו ב-2015, ולקח על עצמו סיכון אישי משמעותי כדי להגשים את הרעיון שלו."
+            },
+            {
+                "definition": "The individual who begins a movement, organization, or cause with strong ideological goals.",
+                "definition_hebrew": "הפרט שמתחיל תנועה, ארגון או מטרה עם מטרות אידיאולוגיות חזקות.",
+                "example": "Malala Yousafzai is considered the founder of the global education rights movement after her activism for girls' education in Pakistan.",
+                "example_hebrew": "מלאלה יוספזאי נחשבת למייסדת התנועה העולמית לזכויות החינוך לאחר פעילותה למען חינוך בנות בפקיסטן."
+            },
+            {
+                "definition": "A leader responsible for starting an endeavor that has lasting impact, often implying innovation or change.",
+                "definition_hebrew": "מנהיג שאחראי על התחלת מאמץ בעל השפעה מתמשכת, לעתים קרובות מרמז על חדשנות או שינוי.",
+                "example": "The Wright brothers are seen as founders of modern aviation due to their pioneering work on powered flight in 1903.",
+                "example_hebrew": "האחים רייט נתפסים כמייסדי התעופה המודרנית בשל עבודתם החלוצית בטיסה ממונעת ב-1903."
+            },
+            {
+                "definition": "An entity that exists at the beginning stage and undergoes development, which may include various forms like businesses, organizations, or movements.",
+                "definition_hebrew": "ישות שקיימת בשלב ההתחלה ועוברת פיתוח, שעשוי לכלול צורות שונות כמו עסקים, ארגונים או תנועות.",
+                "example": "The non-profit organization dedicated to wildlife conservation was founded in 1980 by a group of passionate environmentalists.",
+                "example_hebrew": "הארגון ללא מטרות רווח המוקדש לשימור חיות בר נוסד בשנת 1980 על ידי קבוצה של שומרי סביבה נלהבים."
+            },
+            {
+                "definition": "An originator who initiates an idea, concept, or project with the aim of bringing it into existence.",
+                "definition_hebrew": "יוצר היוזם רעיון, קונספט או פרויקט במטרה להביא אותם לידי קיום.",
+                "example": "The inventor of the modern light bulb, Thomas Edison, is often described as a founder due to his role in creating and perfecting electric light.",
+                "example_hebrew": "ממציא הנורה המודרנית, תומס אדיסון, מתואר לעתים קרובות כמייסד בשל תפקידו ביצירת ושכלול האור החשמלי."
+            }
+        ]
+    }
+]

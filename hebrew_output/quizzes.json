@@ -1,0 +1,34 @@
+[
+    {
+        "word": "quizzes",
+        "word_hebrew": "חידונים",
+        "main_definition": "Quizzes are informal tests or assessments used to evaluate a person's knowledge, often in an educational setting.",
+        "main_definition_hebrew": "חידונים הם מבחנים או הערכות לא פורמליות המשמשות להערכת הידע של אדם, לרוב במסגרת חינוכית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A series of questions posed to test someone's knowledge or understanding on a particular topic",
+                "definition_hebrew": "סדרה של שאלות המוצגת כדי לבדוק את הידע או ההבנה של מישהו בנושא מסוים",
+                "example": "The math teacher gave his students weekly quizzes to assess their grasp of new concepts.",
+                "example_hebrew": "המורה למתמטיקה נתן לתלמידיו חידונים שבועיים כדי להעריך את תפיסתם במושגים חדשים."
+            },
+            {
+                "definition": "An examination with a light and less formal tone than standard tests, often used as a preliminary review or warm-up for an upcoming test",
+                "definition_hebrew": "בדיקה עם גוון קל ופחות רשמי מאשר מבחנים סטנדרטיים, משמשת לרוב כסקירה מקדימה או חימום לקראת מבחן קרוב",
+                "example": "The teacher administered a quiz to give students a practice run before the big final exam.",
+                "example_hebrew": "המורה ערכה חידון כדי לתת לתלמידים ריצת תרגול לפני מבחן הגמר הגדול."
+            },
+            {
+                "definition": "A tool used by employers during job interviews to assess candidates' skills and knowledge in relation to specific positions or tasks",
+                "definition_hebrew": "כלי המשמש את המעסיקים במהלך ראיונות עבודה כדי להעריך את הכישורים והידע של המועמדים ביחס לתפקידים או משימות ספציפיות",
+                "example": "During the interview, the hiring manager asked several industry-related quizzes to evaluate the applicant's expertise.",
+                "example_hebrew": "במהלך הראיון, מנהל הגיוס שאל מספר חידונים הקשורים לתעשייה כדי להעריך את מומחיותו של המבקש."
+            },
+            {
+                "definition": "An online game format where players are given questions related to a topic and compete against others for points",
+                "definition_hebrew": "פורמט משחק מקוון שבו נותנים לשחקנים שאלות הקשורות לנושא ומתחרים מול אחרים על נקודות",
+                "example": "The educational website offered fun, interactive quizzes on history, making learning more enjoyable for students.",
+                "example_hebrew": "האתר החינוכי הציע חידונים מהנים ואינטראקטיביים בנושא היסטוריה, מה שהופך את הלמידה למהנה יותר עבור התלמידים."
+            }
+        ]
+    }
+]

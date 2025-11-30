@@ -1,0 +1,40 @@
+[
+    {
+        "word": "chamber",
+        "word_hebrew": "תָא",
+        "main_definition": "A room in a building, especially one used by someone with authority or as an office.",
+        "main_definition_hebrew": "חדר בבניין, במיוחד כזה המשמש בעל סמכות או כמשרד.",
+        "meanings_and_examples": [
+            {
+                "definition": "Part of a firearm where the ammunition is contained and ignited to propel the projectile",
+                "definition_hebrew": "חלק מכלי נשק שבו התחמושת מוכלת ומוצתת כדי להניע את הקליע",
+                "example": "The chamber of my revolver needs cleaning.",
+                "example_hebrew": "החדר של האקדח שלי צריך ניקוי."
+            },
+            {
+                "definition": "A room in a house or building, particularly one intended for receiving guests or special ceremonies",
+                "definition_hebrew": "חדר בבית או בבניין, במיוחד כזה המיועד לקבלת אורחים או טקסים מיוחדים",
+                "example": "We held our wedding ceremony in the grand ballroom's chamber.",
+                "example_hebrew": "ערכנו את טקס החתונה שלנו בחדר האירועים הגדול."
+            },
+            {
+                "definition": "The main part of an engine where fuel is ignited to produce power",
+                "definition_hebrew": "החלק העיקרי של מנוע שבו מציתים דלק כדי לייצר כוח",
+                "example": "Regular maintenance is required for a smooth functioning of the engine's combustion chamber.",
+                "example_hebrew": "נדרשת תחזוקה שוטפת לתפקוד חלק של תא הבעירה של המנוע."
+            },
+            {
+                "definition": "A legislative assembly or group within such an assembly, especially one composed of members from different parties",
+                "definition_hebrew": "אסיפה או קבוצה מחוקקת בתוך אסיפה כזו, במיוחד כזו המורכבת מחברים ממפלגות שונות",
+                "example": "The Senate Chamber was filled with lawmakers ready to debate the new bill.",
+                "example_hebrew": "לשכת הסנאט הייתה מלאה במחוקקים המוכנים לדון בהצעת החוק החדשה."
+            },
+            {
+                "definition": "One of a pair of compartments in a firearm where cartridges are loaded and fired sequentially",
+                "definition_hebrew": "אחד מצמד תאים בנשק חם שבו מחסניות מוטענות ונורים ברצף",
+                "example": "He carefully inserted each bullet into its chamber before pulling the trigger.",
+                "example_hebrew": "הוא הכניס בזהירות כל כדור לחדר שלו לפני שלחץ על ההדק."
+            }
+        ]
+    }
+]

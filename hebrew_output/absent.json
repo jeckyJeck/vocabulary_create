@@ -1,0 +1,34 @@
+[
+    {
+        "word": "absent",
+        "word_hebrew": "נֶעדָר",
+        "main_definition": "Not present or not existing in a particular place, situation, or time.",
+        "main_definition_hebrew": "לא נוכח או לא קיים במקום, במצב או בזמן מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Missing from a location or event",
+                "definition_hebrew": "חסר ממיקום או אירוע",
+                "example": "He was absent from the meeting when it began.",
+                "example_hebrew": "הוא נעדר מהפגישה כשהיא התחילה."
+            },
+            {
+                "definition": "Not present mentally or physically",
+                "definition_hebrew": "לא נוכח נפשית או פיזית",
+                "example": "She felt absent-minded during her exam because she wasn't well rested.",
+                "example_hebrew": "היא הרגישה חסרת מחשבה במהלך הבחינה שלה כי היא לא נחה היטב."
+            },
+            {
+                "definition": "Not in a particular situation, often referring to someone not participating actively",
+                "definition_hebrew": "לא במצב מסוים, לעתים קרובות הכוונה למישהו שלא משתתף באופן פעיל",
+                "example": "The new intern was quite absent during the team meeting; he didn't ask any questions or contribute much.",
+                "example_hebrew": "המתמחה החדש די נעדר במהלך ישיבת הצוות; הוא לא שאל שאלות ולא תרם הרבה."
+            },
+            {
+                "definition": "A legal absence from school without permission",
+                "definition_hebrew": "היעדרות חוקית מבית הספר ללא רשות",
+                "example": "His truancy record shows that he has been frequently absent without valid reason.",
+                "example_hebrew": "מתקופת ההתנתקות שלו עולה כי הוא נעדר לעתים קרובות ללא סיבה מוצדקת."
+            }
+        ]
+    }
+]

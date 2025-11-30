@@ -1,0 +1,34 @@
+[
+    {
+        "word": "domain",
+        "word_hebrew": "תְחוּם",
+        "main_definition": "A domain refers to an area of control or authority, a field of study or expertise, a scope of influence or interest, or the specific part of the internet address.",
+        "main_definition_hebrew": "דומיין מתייחס לתחום שליטה או סמכות, תחום לימוד או מומחיות, היקף השפעה או עניין, או החלק הספציפי של כתובת האינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Area of control or authority",
+                "definition_hebrew": "אזור שליטה או סמכות",
+                "example": "In geopolitics, country A has claimed sovereignty over region X.",
+                "example_hebrew": "בגיאופוליטיקה, מדינה A תבעה ריבונות על אזור X."
+            },
+            {
+                "definition": "Field of study or expertise",
+                "definition_hebrew": "תחום לימוד או מומחיות",
+                "example": "She is an expert in the domain of computational linguistics.",
+                "example_hebrew": "היא מומחית בתחום הבלשנות החישובית."
+            },
+            {
+                "definition": "Scope of influence or interest",
+                "definition_hebrew": "היקף השפעה או עניין",
+                "example": "The company has a strong presence and dominance within its business domain.",
+                "example_hebrew": "לחברה נוכחות ודומיננטיות חזקה בתחום העסקי שלה."
+            },
+            {
+                "definition": "Part of internet address (URL)",
+                "definition_hebrew": "חלק מכתובת האינטרנט (URL)",
+                "example": "www.example.com is the domain name for this website's URL.",
+                "example_hebrew": "www.example.com הוא שם הדומיין עבור כתובת האתר של אתר זה."
+            }
+        ]
+    }
+]

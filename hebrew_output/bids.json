@@ -1,0 +1,34 @@
+[
+    {
+        "word": "bids",
+        "word_hebrew": "הצעות מחיר",
+        "main_definition": "In general, bids refer to the act of offering a price or proposal in various contexts such as auctions, contracts, or competitive situations.",
+        "main_definition_hebrew": "באופן כללי, הצעות הצעות מתייחסות לפעולת הצעת מחיר או הצעה בהקשרים שונים כגון מכירות פומביות, חוזים או מצבים תחרותיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Agreement in an auction to buy something",
+                "definition_hebrew": "הסכם במכירה פומבית לקנות משהו",
+                "example": "The man placed his bid on the antique vase at $500.",
+                "example_hebrew": "האיש הגיש את הצעתו על האגרטל העתיק ב-500 דולר."
+            },
+            {
+                "definition": "An offer made by a company or individual in response to a solicitation for a contract",
+                "definition_hebrew": "הצעה שהוגשה על ידי חברה או יחיד בתגובה לשידול לחוזה",
+                "example": "The construction firm submitted their bid to renovate the city hall, offering services at $1.2 million.",
+                "example_hebrew": "חברת הבנייה הגישה את הצעתה לשיפוץ בניין העירייה, והציעה שירותים ב-1.2 מיליון דולר."
+            },
+            {
+                "definition": "A competitive action wherein someone proposes an amount of money or value in order to win a prize or secure a deal",
+                "definition_hebrew": "פעולה תחרותית שבה מישהו מציע סכום כסף או ערך כדי לזכות בפרס או להבטיח עסקה",
+                "example": "During the charity event, participants were asked to bid on items donated by local businesses.",
+                "example_hebrew": "במהלך אירוע הצדקה, המשתתפים התבקשו להציע הצעות על פריטים שנתרמו על ידי עסקים מקומיים."
+            },
+            {
+                "definition": "To make a formal offer or proposal, often with specific terms and conditions attached",
+                "definition_hebrew": "להגיש הצעה או הצעה רשמית, לעתים קרובות עם תנאים והגבלות ספציפיים מצורפים",
+                "example": "The real estate agent made a bid for the client's property, offering $450,000 based on market research.",
+                "example_hebrew": "סוכן הנדל\"ן הגיש הצעה לנכס של הלקוח, והציע 450,000 דולר על סמך מחקר שוק."
+            }
+        ]
+    }
+]

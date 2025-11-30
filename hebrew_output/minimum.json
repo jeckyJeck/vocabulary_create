@@ -1,0 +1,34 @@
+[
+    {
+        "word": "minimum",
+        "word_hebrew": "מִינִימוּם",
+        "main_definition": "The smallest or lowest in quantity, degree, or value; the least possible amount or level.",
+        "main_definition_hebrew": "הקטן ביותר או הנמוך ביותר בכמות, תואר או ערך; הכמות או הרמה המינימלית האפשרית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Least amount that is required or accepted",
+                "definition_hebrew": "הסכום המינימלי שנדרש או מקובל",
+                "example": "I will work on this project only if I can earn at least $10 per hour.",
+                "example_hebrew": "אני אעבוד על הפרויקט הזה רק אם אוכל להרוויח לפחות 10 $ לשעה."
+            },
+            {
+                "definition": "The smallest possible size, number, or degree",
+                "definition_hebrew": "הגודל, המספר או התואר הקטן ביותר האפשרי",
+                "example": "To find the minimum value of a function is to determine its lowest point.",
+                "example_hebrew": "למצוא את הערך המינימלי של פונקציה זה לקבוע את הנקודה הנמוכה ביותר שלה."
+            },
+            {
+                "definition": "A specified amount that must be met as a basic requirement",
+                "definition_hebrew": "סכום מוגדר שיש לעמוד בו כדרישה בסיסית",
+                "example": "In order to qualify for this scholarship, you need to maintain a GPA at or above 3.0 minimum.",
+                "example_hebrew": "על מנת להיות זכאי למלגה זו, עליך לשמור על GPA במינימום 3.0 או מעל."
+            },
+            {
+                "definition": "The smallest possible quantity; nothing more",
+                "definition_hebrew": "הכמות הקטנה ביותר האפשרית; שום דבר יותר",
+                "example": "After losing the game, they managed to score only the minimum points needed to avoid defeat.",
+                "example_hebrew": "לאחר שהפסידו במשחק, הם הצליחו לצבור רק את הנקודות המינימליות הנדרשות כדי להימנע מהפסד."
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "word": "cursor",
+        "word_hebrew": "סַמָן",
+        "main_definition": "In computing, a cursor is an indicator used to show the current position in text or other data entry fields where user input will be applied. It can also refer to a symbol that moves across a display screen as one interacts with it.",
+        "main_definition_hebrew": "במחשוב, סמן הוא מחוון המשמש להצגת המיקום הנוכחי בטקסט או בשדות הזנת נתונים אחרים שבהם יוחל קלט המשתמש. זה יכול גם להתייחס לסמל שנע על פני מסך תצוגה בזמן אינטראקציה איתו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Cursor (Computing) - An on-screen indicator used in computing, typically represented by an arrow or blinking dot, which shows the user's current location where they can input data.",
+                "definition_hebrew": "סמן (מחשוב) - מחוון על המסך המשמש במחשוב, המיוצג בדרך כלל על ידי חץ או נקודה מהבהבת, המציג את המיקום הנוכחי של המשתמש שבו הוא יכול להזין נתונים.",
+                "example": "When typing a document, my cursor moves to different places as I press the keyboard.",
+                "example_hebrew": "בעת הקלדת מסמך, הסמן שלי נע למקומות שונים כאשר אני לוחץ על המקלדת."
+            },
+            {
+                "definition": "Cursor (Symbol) - A symbol on a computer screen that indicates the position for user interaction. It often appears as an arrow or blinking dot.",
+                "definition_hebrew": "סמן (סמל) - סמל על מסך מחשב המציין את המיקום לאינטראקציה של המשתמש. לעתים קרובות הוא מופיע כחץ או נקודה מהבהבת.",
+                "example": "The text box has a moving cursor, which changes its shape depending on whether it's ready to accept input.",
+                "example_hebrew": "לתיבת הטקסט יש סמן נע, אשר משנה את צורתו בהתאם לשאלה האם היא מוכנה לקבל קלט."
+            },
+            {
+                "definition": "Cursor (Animation) - Refers to the motion of the cursor symbol on a screen as users interact with it.",
+                "definition_hebrew": "סמן (אנימציה) - מתייחס לתנועת סמל הסמן על המסך בזמן שהמשתמשים מקיימים איתו אינטראקציה.",
+                "example": "The cursor animated smoothly across the webpage, making navigation more intuitive.",
+                "example_hebrew": "הסמן הנפשה בצורה חלקה על פני דף האינטרנט, מה שהפך את הניווט לאינטואיטיבי יותר."
+            },
+            {
+                "definition": "Cursor (Data Representation) - In databases or data management systems, a cursor can be used to navigate and manipulate sequences of data. It acts like an iterator.",
+                "definition_hebrew": "סמן (ייצוג נתונים) - בבסיסי נתונים או במערכות ניהול נתונים, ניתן להשתמש בסמן כדי לנווט ולתפעל רצפים של נתונים. זה מתנהג כמו איטרטור.",
+                "example": "The database query tool uses a cursor to retrieve rows from the table one by one.",
+                "example_hebrew": "כלי השאילתה של מסד הנתונים משתמש בסמן כדי לאחזר שורות מהטבלה אחת אחת."
+            },
+            {
+                "definition": "Cursor (Graphic User Interface) - In graphical user interfaces, cursors are used as visual elements that respond when a user interacts with them, like clicking or hovering.",
+                "definition_hebrew": "סמן (ממשק משתמש גרפי) - בממשקי משתמש גרפיים, סמנים משמשים כאלמנטים ויזואליים המגיבים כאשר משתמש מקיים איתם אינטראקציה, כמו לחיצה או ריחוף.",
+                "example": "When I moved my mouse pointer over the icon, it changed shape to indicate I could click on it.",
+                "example_hebrew": "כאשר העברתי את מצביע העכבר מעל הסמל, הוא שינה צורה כדי לציין שאני יכול ללחוץ עליו."
+            },
+            {
+                "definition": "Cursor (Media) - In media and entertainment, 'cursor' might refer to a pointer in games that guides players through levels or objectives.",
+                "definition_hebrew": "סמן (מדיה) - במדיה ובבידור, 'סמן' עשוי להתייחס למצביע במשחקים שמנחה שחקנים ברמות או יעדים.",
+                "example": "The game used a cursor to show the target area where I had to aim my shots.",
+                "example_hebrew": "המשחק השתמש בסמן כדי להראות את אזור המטרה שאליו הייתי צריך לכוון את היריות שלי."
+            }
+        ]
+    }
+]

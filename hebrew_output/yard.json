@@ -1,0 +1,34 @@
+[
+    {
+        "word": "yard",
+        "word_hebrew": "חָצֵר",
+        "main_definition": "A unit of measurement equal to 3 feet or 91.44 centimeters, or a measure of area equivalent to the size of an American backyard.",
+        "main_definition_hebrew": "יחידת מידה השווה ל-3 רגל או 91.44 סנטימטרים, או מידת שטח שווה ערך לגודל של חצר אחורית אמריקאית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Measurement of distance",
+                "definition_hebrew": "מדידת מרחק",
+                "example": "The playground is located two yards away from my house.",
+                "example_hebrew": "מגרש המשחקים נמצא במרחק שני מטרים מהבית שלי."
+            },
+            {
+                "definition": "Area equal to the size of an American backyard",
+                "definition_hebrew": "שטח שווה לגודל של חצר אחורית אמריקאית",
+                "example": "They decided to plant a vegetable garden in their yard.",
+                "example_hebrew": "הם החליטו לשתול גן ירק בחצר שלהם."
+            },
+            {
+                "definition": "A narrow street or passageway between buildings",
+                "definition_hebrew": "רחוב צר או מעבר בין בניינים",
+                "example": "She lives on a quiet residential yard with its own sidewalk and alley.",
+                "example_hebrew": "היא גרה בחצר מגורים שקטה עם מדרכה וסמטה משלה."
+            },
+            {
+                "definition": "A fenced area outside of a house, often used for children to play in or pets to roam freely",
+                "definition_hebrew": "אזור מגודר מחוץ לבית, המשמש לעתים קרובות לילדים לשחק בו או חיות מחמד להסתובב בחופשיות",
+                "example": "The kids spent the afternoon playing tag in their family's backyard yard.",
+                "example_hebrew": "הילדים בילו את אחר הצהריים במשחקי תג בחצר האחורית של משפחתם."
+            }
+        ]
+    }
+]

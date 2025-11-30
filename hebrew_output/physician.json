@@ -1,0 +1,34 @@
+[
+    {
+        "word": "physician",
+        "word_hebrew": "רוֹפֵא",
+        "main_definition": "A physician is a medical professional who diagnoses, treats, and prevents illnesses or injuries in patients.",
+        "main_definition_hebrew": "רופא הוא איש מקצוע רפואי המאבחן, מטפל ומונע מחלות או פציעות בחולים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A healthcare practitioner specialized in curing diseases",
+                "definition_hebrew": "רופא מומחה בריפוי מחלות",
+                "example": "Dr. Smith is a physician who prescribes medication to his patients.",
+                "example_hebrew": "ד\"ר סמית הוא רופא הרושם תרופות למטופליו."
+            },
+            {
+                "definition": "An individual licensed to practice medicine, often with subspecialties such as surgery or internal medicine",
+                "definition_hebrew": "אדם בעל רישיון לעסוק ברפואה, לעתים קרובות עם תת התמחויות כגון כירורגיה או רפואה פנימית",
+                "example": "The surgeon performed an intricate procedure under the guidance of her fellow physician.",
+                "example_hebrew": "המנתחת ביצעה פרוצדורה מורכבת בהנחיית הרופא עמיתה."
+            },
+            {
+                "definition": "A doctor who has completed medical school and is eligible for a license to practice in their jurisdiction",
+                "definition_hebrew": "רופא שסיים לימודי רפואה וזכאי לקבל רישיון לעסוק בתחום שיפוטו",
+                "example": "After finishing his residency, John became fully licensed as a physician.",
+                "example_hebrew": "לאחר שסיים את התמחותו, ג'ון קיבל רישיון מלא כרופא."
+            },
+            {
+                "definition": "An expert in the field of healthcare, focusing on diagnosing and treating various medical conditions",
+                "definition_hebrew": "מומחה בתחום הבריאות, מתמקד באבחון וטיפול במצבים רפואיים שונים",
+                "example": "The physician provided thorough care by addressing both physical and mental health concerns.",
+                "example_hebrew": "הרופא העניק טיפול יסודי על ידי התייחסות לבעיות פיזיות ונפשיות כאחד."
+            }
+        ]
+    }
+]

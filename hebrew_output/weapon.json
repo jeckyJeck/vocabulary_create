@@ -1,0 +1,34 @@
+[
+    {
+        "word": "weapon",
+        "word_hebrew": "נֶשֶׁק",
+        "main_definition": "A weapon is any object used to inflict harm or damage, typically in the context of conflict, self-defense, or combat.",
+        "main_definition_hebrew": "נשק הוא כל חפץ המשמש לגרימת נזק או נזק, בדרך כלל בהקשר של עימות, הגנה עצמית או לחימה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Tool for attacking and defeating opponents",
+                "definition_hebrew": "כלי לתקוף ולהביס יריבים",
+                "example": "The sword was a powerful weapon used by knights during medieval times.",
+                "example_hebrew": "החרב הייתה נשק רב עוצמה ששימשו אבירים בימי הביניים."
+            },
+            {
+                "definition": "Anything capable of causing physical harm or injury",
+                "definition_hebrew": "כל דבר שיכול לגרום לנזק פיזי או פציעה",
+                "example": "A kitchen knife can be considered a dangerous weapon if misused.",
+                "example_hebrew": "סכין מטבח יכולה להיחשב כנשק מסוכן אם נעשה בה שימוש לרעה."
+            },
+            {
+                "definition": "Instrument designed to ward off threats and protect oneself",
+                "definition_hebrew": "מכשיר שנועד להדוף איומים ולהגן על עצמו",
+                "example": "Pepper spray is often used as a personal defense weapon in case of an attack.",
+                "example_hebrew": "תרסיס פלפל משמש לרוב כנשק הגנה אישי במקרה של תקיפה."
+            },
+            {
+                "definition": "Means or method employed for achieving a goal, sometimes harmful goals",
+                "definition_hebrew": "אמצעים או שיטה המשמשים להשגת מטרה, לעיתים מטרות מזיקות",
+                "example": "Damaging someone's reputation can be seen as using words as weapons in social settings.",
+                "example_hebrew": "פגיעה במוניטין של מישהו יכולה להיתפס כשימוש במילים ככלי נשק במסגרות חברתיות."
+            }
+        ]
+    }
+]

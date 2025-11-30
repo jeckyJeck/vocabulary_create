@@ -1,0 +1,34 @@
+[
+    {
+        "word": "waiver",
+        "word_hebrew": "ויתור",
+        "main_definition": "A waiver is an agreement or a document that relinquishes a right, claim, or privilege.",
+        "main_definition_hebrew": "ויתור הוא הסכם או מסמך המוותרים על זכות, תביעה או חסיון.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of voluntarily giving up a right or claim.",
+                "definition_hebrew": "מעשה הוויתור מרצון על זכות או תביעה.",
+                "example": "By signing the contract, I waived my rights to back out at any time.",
+                "example_hebrew": "בחתימה על החוזה ויתרתי על זכויותי לחזור בכל עת."
+            },
+            {
+                "definition": "A written document in which one party gives up certain legal claims against another party.",
+                "definition_hebrew": "מסמך כתוב בו צד אחד מוותר על תביעות משפטיות מסוימות נגד צד אחר.",
+                "example": "The tenant signed a waiver to relinquish their right to sue the landlord for damages after the lease ended.",
+                "example_hebrew": "השוכר חתם על כתב ויתור לוויתור על זכותם לתבוע את המשכיר בפיצויים לאחר סיום חוזה השכירות."
+            },
+            {
+                "definition": "An exception or exemption from a rule, policy, or regulation.",
+                "definition_hebrew": "חריג או פטור מכלל, מדיניות או תקנה.",
+                "example": "As part of my travel visa waiver, I am exempt from paying certain fees usually associated with tourists.",
+                "example_hebrew": "כחלק מהוויתור על אשרת הנסיעה שלי, אני פטור מתשלום עמלות מסוימות הקשורות בדרך כלל לתיירים."
+            },
+            {
+                "definition": "A statement acknowledging and accepting the possibility that something undesirable may occur despite precautions taken.",
+                "definition_hebrew": "הצהרה שמכירה ומקבלת את האפשרות שמשהו לא רצוי עלול להתרחש למרות אמצעי הזהירות שננקטו.",
+                "example": "The disclaimer at the bottom of the contract includes a waiver for potential damages caused by using the service.",
+                "example_hebrew": "כתב הוויתור בתחתית החוזה כולל ויתור על נזקים פוטנציאליים שנגרמו משימוש בשירות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "computational",
+        "word_hebrew": "חישובי",
+        "main_definition": "Relating to the theory or use of mathematical models, numerical analysis, and algorithms in solving problems related to computation.",
+        "main_definition_hebrew": "התייחסות לתיאוריה או שימוש במודלים מתמטיים, ניתוח מספרי ואלגוריתמים בפתרון בעיות הקשורות לחישוב.",
+        "meanings_and_examples": [
+            {
+                "definition": "Pertaining to the field of computer science that involves creating algorithms and using computational methods to solve complex problems.",
+                "definition_hebrew": "הנוגע לתחום מדעי המחשב הכולל יצירת אלגוריתמים ושימוש בשיטות חישוביות לפתרון בעיות מורכבות.",
+                "example": "The researchers applied a computational approach to analyze large datasets in genetic sequencing.",
+                "example_hebrew": "החוקרים יישמו גישה חישובית לניתוח מערכי נתונים גדולים בריצוף גנטי."
+            },
+            {
+                "definition": "Involving calculations or computations, especially when performed by electronic computers.",
+                "definition_hebrew": "כולל חישובים או חישובים, במיוחד כאשר הם מבוצעים על ידי מחשבים אלקטרוניים.",
+                "example": "Computational mathematics is used to solve complex equations that would be difficult for humans to calculate manually.",
+                "example_hebrew": "מתמטיקה חישובית משמשת לפתרון משוואות מורכבות שיהיה קשה לבני אדם לחשב באופן ידני."
+            },
+            {
+                "definition": "Relating to the study and use of computers in order to perform numerical simulations or modeling.",
+                "definition_hebrew": "התייחסות ללימוד ושימוש במחשבים לצורך ביצוע הדמיות מספריות או מידול.",
+                "example": "The team developed a computational fluid dynamics simulation to predict how air flows over an aircraft wing.",
+                "example_hebrew": "הצוות פיתח הדמיית דינמיקת נוזל חישובית כדי לחזות כיצד האוויר זורם מעל כנף מטוס."
+            },
+            {
+                "definition": "Describing processes that are automated by software programs or digital systems, which execute computations efficiently and consistently.",
+                "definition_hebrew": "תיאור תהליכים האוטומטיים על ידי תוכנות או מערכות דיגיטליות, המבצעות חישובים ביעילות ובעקביות.",
+                "example": "Automated inventory management uses computational algorithms to track product levels in real-time.",
+                "example_hebrew": "ניהול מלאי אוטומטי משתמש באלגוריתמים חישוביים כדי לעקוב אחר רמות המוצר בזמן אמת."
+            }
+        ]
+    }
+]

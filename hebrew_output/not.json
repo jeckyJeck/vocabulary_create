@@ -1,0 +1,44 @@
+{
+    "word": "not",
+    "word_hebrew": "לֹא",
+    "main_definition": "A unary operation on logical values that changes true to false, and false to true.",
+    "main_definition_hebrew": "פעולה לא-נארית על ערכים לוגיים שמשתנה נכון לא נכון, ושקר לאמת.",
+    "meanings_and_examples": [
+        {
+            "definition": "A unary operation on logical values that changes true to false, and false to true.",
+            "definition_hebrew": "פעולה לא-נארית על ערכים לוגיים שמשתנה נכון לא נכון, ושקר לאמת.",
+            "example": "The statement 'It is not raining' will be considered true if it is actually sunny.",
+            "example_hebrew": "ההצהרה 'לא יורד גשם' תיחשב כנכונה אם יש ממש שמש."
+        },
+        {
+            "definition": "Negates the meaning of the modified verb.",
+            "definition_hebrew": "שולל את המשמעות של הפועל שהשתנה.",
+            "example": "Did you take out the trash? No, I did not.",
+            "example_hebrew": "האם הוצאת את האשפה? לא אני לא."
+        },
+        {
+            "definition": "To no degree.",
+            "definition_hebrew": "בשום רמה.",
+            "example": "It's not you, it's me.",
+            "example_hebrew": "זה לא אתה זה אני."
+        },
+        {
+            "definition": "(understatement, litotes) Used to modify superlatives to indicate the opposite or near opposite, often in a form of understatement.",
+            "definition_hebrew": "(אנדרסטייטמנט, litotes) משמש כדי לשנות סופרלטיבים כדי לציין את ההיפך או כמעט ההפך, לעתים קרובות בצורה של אנדרסטייטמנט.",
+            "example": "It was not my favorite movie of all time.",
+            "example_hebrew": "זה לא היה הסרט האהוב עליי בכל הזמנים."
+        },
+        {
+            "definition": "And not.",
+            "definition_hebrew": "ולא.",
+            "example": "He painted the car blue and black, not solid purple.",
+            "example_hebrew": "הוא צבע את המכונית בכחול ושחור, לא סגול אחיד."
+        },
+        {
+            "definition": "(1990s) Used to indicate that the previous phrase was meant sarcastically or ironically.",
+            "definition_hebrew": "(שנות התשעים) השתמשו כדי לציין שהביטוי הקודם התכוון בציניות או באירוניה.",
+            "example": "I really like hanging out with my little brother watching Barney... not!",
+            "example_hebrew": "אני מאוד אוהב לבלות עם אחי הקטן ולראות את בארני... לא!"
+        }
+    ]
+}

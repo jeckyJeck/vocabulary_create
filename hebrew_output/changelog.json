@@ -1,0 +1,28 @@
+[
+    {
+        "word": "changelog",
+        "word_hebrew": "יומן שינויים",
+        "main_definition": "A changelog is a record of all notable changes made to a project, software, or system over time.",
+        "main_definition_hebrew": "יומן שינויים הוא תיעוד של כל השינויים הבולטים שבוצעו בפרויקט, בתוכנה או במערכת לאורך זמן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Version control history in software development",
+                "definition_hebrew": "היסטוריית בקרת גרסאות בפיתוח תוכנה",
+                "example": "The changelog for the latest version of our web application includes bug fixes, new features, and performance improvements.",
+                "example_hebrew": "יומן השינויים עבור הגרסה האחרונה של אפליקציית האינטרנט שלנו כולל תיקוני באגים, תכונות חדשות ושיפורי ביצועים."
+            },
+            {
+                "definition": "A record of changes made to a document or project",
+                "definition_hebrew": "תיעוד של שינויים שבוצעו במסמך או בפרויקט",
+                "example": "Before submitting your report for review, make sure to update the changelog with any revisions you've made.",
+                "example_hebrew": "לפני שליחת הדוח שלך לבדיקה, הקפד לעדכן את יומן השינויים בכל התיקונים שביצעת."
+            },
+            {
+                "definition": "An accounting of modifications in software updates or releases",
+                "definition_hebrew": "ניהול חשבונות של שינויים בעדכוני תוכנה או מהדורות",
+                "example": "The changelog for our app states that version 2.0 has added a new user interface, improved loading speed, and enhanced security features.",
+                "example_hebrew": "יומן השינויים של האפליקציה שלנו מציין שגרסה 2.0 הוסיפה ממשק משתמש חדש, שיפור מהירות הטעינה ותכונות אבטחה משופרות."
+            }
+        ]
+    }
+]

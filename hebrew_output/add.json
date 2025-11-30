@@ -1,0 +1,40 @@
+[
+    {
+        "word": "add",
+        "word_hebrew": "לְהוֹסִיף",
+        "main_definition": "To combine or include one thing with another to increase its size, amount, value, etc.",
+        "main_definition_hebrew": "לשלב או לכלול דבר אחד עם דבר אחר כדי להגדיל את גודלו, כמותו, ערכו וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "In mathematics, to calculate the sum of two numbers.",
+                "definition_hebrew": "במתמטיקה, לחשב את הסכום של שני מספרים.",
+                "example": "If I add 5 and 3 together, I get 8.",
+                "example_hebrew": "אם אני מוסיף 5 ו-3 ביחד, אני מקבל 8."
+            },
+            {
+                "definition": "To include something extra or additional in a list or set.",
+                "definition_hebrew": "לכלול משהו נוסף או נוסף ברשימה או בסט.",
+                "example": "I'll add apples to my grocery shopping list for the week.",
+                "example_hebrew": "אני אוסיף תפוחים לרשימת הקניות שלי לשבוע."
+            },
+            {
+                "definition": "In conversation, to bring another point into consideration.",
+                "definition_hebrew": "בשיחה, להביא בחשבון עוד נקודה.",
+                "example": "When discussing our vacation plans, I want to add that we should book a hotel with good reviews first.",
+                "example_hebrew": "כאשר דנים בתוכניות החופשה שלנו, אני רוצה להוסיף שעלינו להזמין תחילה מלון עם ביקורות טובות."
+            },
+            {
+                "definition": "To contribute to the overall impact or effect of something. For example, in film editing, adding special effects can enhance the movie's visual appeal.",
+                "definition_hebrew": "לתרום להשפעה או להשפעה הכוללת של משהו. לדוגמה, בעריכת סרטים, הוספת אפקטים מיוחדים יכולה לשפר את המשיכה החזותית של הסרט.",
+                "example": "The director added dramatic music and lighting to heighten the emotional impact.",
+                "example_hebrew": "הבמאי הוסיף מוזיקה דרמטית ותאורה כדי להגביר את ההשפעה הרגשית."
+            },
+            {
+                "definition": "In a meeting context, to introduce new information or an update. For example, during a presentation, one might add recent data points that support their argument.",
+                "definition_hebrew": "בהקשר של פגישה, להציג מידע חדש או עדכון. לדוגמה, במהלך מצגת, אפשר להוסיף נקודות נתונים עדכניות התומכות בטיעון שלהם.",
+                "example": "To keep our project on track, I'll add the latest sales figures into my report.",
+                "example_hebrew": "כדי לשמור על מסלול הפרויקט שלנו, אוסיף את נתוני המכירות העדכניים ביותר לדוח שלי."
+            }
+        ]
+    }
+]

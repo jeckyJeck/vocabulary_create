@@ -1,0 +1,34 @@
+[
+    {
+        "word": "integral",
+        "word_hebrew": "בלתי נפרד",
+        "main_definition": "Integral refers to something essential, complete or necessary; it is also used in mathematics as a term related to the concept of integration.",
+        "main_definition_hebrew": "אינטגרל מתייחס למשהו מהותי, שלם או הכרחי; הוא משמש גם במתמטיקה כמונח הקשור למושג האינטגרציה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Essential or indispensable part",
+                "definition_hebrew": "חלק חיוני או הכרחי",
+                "example": "Physical exercise is an integral component of maintaining good health.",
+                "example_hebrew": "פעילות גופנית היא מרכיב אינטגרלי לשמירה על בריאות תקינה."
+            },
+            {
+                "definition": "Complete; whole",
+                "definition_hebrew": "לְהַשְׁלִים; כֹּל",
+                "example": "Attending all classes throughout the semester was an integral part of completing his degree program.",
+                "example_hebrew": "ההשתתפות בכל השיעורים לאורך הסמסטר הייתה חלק בלתי נפרד מהשלמת תוכנית התואר שלו."
+            },
+            {
+                "definition": "Related to the process of finding the area under a curve in mathematics",
+                "definition_hebrew": "קשור לתהליך מציאת השטח מתחת לעקומה במתמטיקה",
+                "example": "The function y = x^2 is integral when calculating the area under its graph between two points on the x-axis.",
+                "example_hebrew": "הפונקציה y = x^2 היא אינטגרלית בעת חישוב השטח מתחת לגרף שלה בין שתי נקודות על ציר ה-x."
+            },
+            {
+                "definition": "Representing unity or oneness",
+                "definition_hebrew": "מייצג אחדות או אחדות",
+                "example": "In some cultures, being 'integral' to society means having a strong sense of belonging and community participation.",
+                "example_hebrew": "בתרבויות מסוימות, להיות 'אינטגרלי' בחברה פירושו להיות בעל תחושת שייכות חזקה והשתתפות בקהילה."
+            }
+        ]
+    }
+]

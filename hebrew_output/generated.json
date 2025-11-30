@@ -1,0 +1,40 @@
+[
+    {
+        "word": "generated",
+        "word_hebrew": "נוצר",
+        "main_definition": "To create or produce something, typically by a systematic process.",
+        "main_definition_hebrew": "ליצור או לייצר משהו, בדרך כלל על ידי תהליך שיטתי.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of electricity, to generate electrical power using generators or renewable energy sources.",
+                "definition_hebrew": "בהקשר של חשמל, להפקת חשמל באמצעות גנרטורים או מקורות אנרגיה מתחדשים.",
+                "example": "The hydroelectric dam generates clean energy for thousands of homes.",
+                "example_hebrew": "הסכר ההידרואלקטרי מייצר אנרגיה נקייה לאלפי בתים."
+            },
+            {
+                "definition": "To produce something by a natural process or mechanism without direct human intervention.",
+                "definition_hebrew": "לייצר משהו בתהליך או מנגנון טבעי ללא התערבות אנושית ישירה.",
+                "example": "Snow is generated from the clouds when temperatures drop below freezing.",
+                "example_hebrew": "שלג נוצר מהעננים כאשר הטמפרטורות יורדות מתחת לאפס."
+            },
+            {
+                "definition": "To originate, especially in relation to ideas, opinions, or discussions.",
+                "definition_hebrew": "למקור, במיוחד ביחס לרעיונות, דעות או דיונים.",
+                "example": "His unique perspective on the issue generated a lively debate among the panelists.",
+                "example_hebrew": "נקודת המבט הייחודית שלו על הנושא יצרה ויכוח ער בין חברי הפאנל."
+            },
+            {
+                "definition": "In computing and data processing, to create output from given inputs using specific algorithms or software programs.",
+                "definition_hebrew": "במחשוב ובעיבוד נתונים, ליצור פלט מתשומות נתונות באמצעות אלגוריתמים או תוכנות ספציפיות.",
+                "example": "The program generates graphs based on the statistical analysis of the collected data.",
+                "example_hebrew": "התוכנית יוצרת גרפים המבוססים על ניתוח סטטיסטי של הנתונים שנאספו."
+            },
+            {
+                "definition": "To bring about as a result or effect; cause (something) to exist or happen.",
+                "definition_hebrew": "להביא כתוצאה או השפעה; לגרום ל(משהו) להתקיים או לקרות.",
+                "example": "Poor management practices generated numerous financial problems for the company.",
+                "example_hebrew": "שיטות ניהול לקויות יצרו בעיות פיננסיות רבות עבור החברה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "functioning",
+        "word_hebrew": "תִפקוּד",
+        "main_definition": "Operating in a manner that allows for the intended or normal activity, performance, or efficiency.",
+        "main_definition_hebrew": "פועל באופן המאפשר את הפעילות, הביצועים או היעילות המיועדים או הרגילים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Working properly; operational",
+                "definition_hebrew": "עובד כהלכה; מִבצָעִי",
+                "example": "The computer is functioning well after the software update.",
+                "example_hebrew": "המחשב פועל היטב לאחר עדכון התוכנה."
+            },
+            {
+                "definition": "Existing and operating in a way that fulfills its intended purpose or role",
+                "definition_hebrew": "קיים ופועל באופן הממלא את מטרתו או תפקידו",
+                "example": "Despite some issues, our team's collaborative effort allows for the project to continue functioning as planned.",
+                "example_hebrew": "למרות כמה בעיות, המאמץ המשותף של הצוות שלנו מאפשר לפרויקט להמשיך לתפקד כמתוכנן."
+            },
+            {
+                "definition": "Refers to systems, machines, or processes that are working correctly and efficiently",
+                "definition_hebrew": "הכוונה למערכות, מכונות או תהליכים שפועלים בצורה נכונה ויעילה",
+                "example": "The entire manufacturing process is designed so that each part functions seamlessly with others.",
+                "example_hebrew": "כל תהליך הייצור מתוכנן כך שכל חלק מתפקד בצורה חלקה עם אחרים."
+            },
+            {
+                "definition": "In a social context, when someone's mental health condition does not interfere with their daily activities",
+                "definition_hebrew": "בהקשר חברתי, כאשר מצב בריאותו הנפשי של מישהו אינו מפריע לפעילות היומיומית שלו",
+                "example": "Despite her anxiety disorder, she remains functioning well at work and manages to maintain relationships.",
+                "example_hebrew": "למרות הפרעת החרדה שלה, היא נשארת מתפקדת היטב בעבודה ומצליחה לשמור על מערכות יחסים."
+            }
+        ]
+    }
+]

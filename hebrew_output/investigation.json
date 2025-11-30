@@ -1,0 +1,34 @@
+[
+    {
+        "word": "investigation",
+        "word_hebrew": "חֲקִירָה",
+        "main_definition": "An examination or inquiry into a matter, typically to uncover facts or gather information.",
+        "main_definition_hebrew": "בדיקה או חקירה בנושא, בדרך כלל כדי לחשוף עובדות או לאסוף מידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "A systematic process of collecting and analyzing evidence",
+                "definition_hebrew": "תהליך שיטתי של איסוף וניתוח ראיות",
+                "example": "The police conducted an investigation into the robbery.",
+                "example_hebrew": "המשטרה ניהלה חקירת השוד."
+            },
+            {
+                "definition": "An examination to determine guilt or innocence in a legal case",
+                "definition_hebrew": "בדיקה לקביעת אשמה או חפות בתיק משפטי",
+                "example": "The suspect was undergoing an intense investigation by the prosecutor's office.",
+                "example_hebrew": "החשוד נמצא בחקירה אינטנסיבית של הפרקליטות."
+            },
+            {
+                "definition": "A thorough exploration of a particular subject or topic",
+                "definition_hebrew": "חקר יסודי של נושא או נושא מסוים",
+                "example": "Scientists are conducting an investigation into climate change and its effects on ecosystems.",
+                "example_hebrew": "מדענים עורכים חקירה על שינויי האקלים והשפעותיו על מערכות אקולוגיות."
+            },
+            {
+                "definition": "An inquiry to establish the truth about something suspicious or unknown",
+                "definition_hebrew": "חקירה כדי לקבוע את האמת על משהו חשוד או לא ידוע",
+                "example": "The company initiated an internal investigation after discovering irregularities in their financial reports.",
+                "example_hebrew": "החברה פתחה בחקירה פנימית לאחר שגילתה אי סדרים בדוחות הכספיים שלה."
+            }
+        ]
+    }
+]

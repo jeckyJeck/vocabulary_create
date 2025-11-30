@@ -1,0 +1,34 @@
+[
+    {
+        "word": "sort",
+        "word_hebrew": "סוג",
+        "main_definition": "To arrange or organize items into categories, groups or types based on shared characteristics.",
+        "main_definition_hebrew": "כדי לסדר או לארגן פריטים בקטגוריות, קבוצות או סוגים על סמך מאפיינים משותפים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To separate things into different categories for organization.",
+                "definition_hebrew": "להפריד דברים לקטגוריות שונות לארגון.",
+                "example": "After cleaning my room, I need to sort the clothes by color and type.",
+                "example_hebrew": "לאחר ניקיון החדר שלי, אני צריך למיין את הבגדים לפי צבע וסוג."
+            },
+            {
+                "definition": "To decide or judge something according to a standard criterion.",
+                "definition_hebrew": "להחליט או לשפוט משהו לפי קריטריון סטנדרטי.",
+                "example": "The teacher asked us to sort the books based on their genre before assigning them to students.",
+                "example_hebrew": "המורה ביקשה מאיתנו למיין את הספרים לפי הז'אנר שלהם לפני שיקצה אותם לתלמידים."
+            },
+            {
+                "definition": "To resolve an issue, disagreement or problem by finding common ground and reaching a solution.",
+                "definition_hebrew": "כדי לפתור בעיה, אי הסכמה או בעיה על ידי מציאת בסיס משותף והגעה לפתרון.",
+                "example": "After arguing for hours, they finally decided to sort out their differences by compromising.",
+                "example_hebrew": "לאחר ויכוחים במשך שעות, הם סוף סוף החליטו לסדר את ההבדלים ביניהם על ידי פשרה."
+            },
+            {
+                "definition": "In the context of computer programming, to classify data into different groups based on specific characteristics or attributes.",
+                "definition_hebrew": "בהקשר של תכנות מחשב, לסווג נתונים לקבוצות שונות על סמך מאפיינים או תכונות ספציפיות.",
+                "example": "The programmer used a 'sort' function in Python to arrange a list of numbers from smallest to largest.",
+                "example_hebrew": "המתכנת השתמש בפונקציית 'מיין' ב-Python כדי לארגן רשימה של מספרים מהקטן לגדול ביותר."
+            }
+        ]
+    }
+]

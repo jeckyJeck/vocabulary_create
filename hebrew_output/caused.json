@@ -1,0 +1,34 @@
+[
+    {
+        "word": "caused",
+        "word_hebrew": "גרם ל",
+        "main_definition": "To bring about or make an effect, influence, or result in something.",
+        "main_definition_hebrew": "להביא או להשפיע, להשפיע או לגרום למשהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To be the reason for a certain event or situation to occur.",
+                "definition_hebrew": "להיות הסיבה להתרחשות אירוע או מצב מסוים.",
+                "example": "The heavy rainfall caused flooding in many areas.",
+                "example_hebrew": "הגשמים הרבים גרמו להצפות באזורים רבים."
+            },
+            {
+                "definition": "To make something happen by producing an effect or impact.",
+                "definition_hebrew": "לגרום למשהו לקרות על ידי הפקת אפקט או השפעה.",
+                "example": "His words caused her heart to race with excitement.",
+                "example_hebrew": "דבריו גרמו ללבה להתרוצץ מהתרגשות."
+            },
+            {
+                "definition": "To give rise to a particular condition, state, or situation.",
+                "definition_hebrew": "להוליד מצב, מצב או מצב מסוים.",
+                "example": "Lack of exercise can cause health issues like obesity and heart disease.",
+                "example_hebrew": "חוסר בפעילות גופנית עלול לגרום לבעיות בריאותיות כמו השמנת יתר ומחלות לב."
+            },
+            {
+                "definition": "In legal contexts, it means to make an accusation that one person has caused harm or damage to another.",
+                "definition_hebrew": "בהקשרים משפטיים, זה אומר להאשים שאדם אחד גרם נזק או נזק לאחר.",
+                "example": "He was sued because he claimed his neighbor's dog had caused damage to his property.",
+                "example_hebrew": "הוא נתבע כי לטענתו הכלב של שכנו גרם נזק לרכוש שלו."
+            }
+        ]
+    }
+]

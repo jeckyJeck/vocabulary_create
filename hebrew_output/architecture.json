@@ -1,0 +1,34 @@
+[
+    {
+        "word": "architecture",
+        "word_hebrew": "ארכיטקטורה",
+        "main_definition": "The art or practice of designing and constructing buildings, as well as the study of the form and style of these structures.",
+        "main_definition_hebrew": "האמנות או הפרקטיקה של עיצוב ובניית מבנים, כמו גם חקר הצורה והסגנון של מבנים אלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Design principles of an architectural plan",
+                "definition_hebrew": "עקרונות עיצוב של תוכנית אדריכלית",
+                "example": "The architecture of this building features clean lines and a modern design.",
+                "example_hebrew": "הארכיטקטורה של בניין זה כוללת קווים נקיים ועיצוב מודרני."
+            },
+            {
+                "definition": "An organized, detailed set of rules or structure in various fields",
+                "definition_hebrew": "מערכת מסודרת ומפורטת של כללים או מבנה בתחומים שונים",
+                "example": "Computer architecture refers to the way computers are designed, including hardware components and software organization.",
+                "example_hebrew": "ארכיטקטורת מחשב מתייחסת לאופן שבו מחשבים מתוכננים, כולל רכיבי חומרה וארגון תוכנה."
+            },
+            {
+                "definition": "The study of buildings and their historical development",
+                "definition_hebrew": "חקר מבנים והתפתחותם ההיסטורית",
+                "example": "Historical architectural studies examine how ancient structures were constructed and what they tell us about past civilizations.",
+                "example_hebrew": "מחקרים אדריכליים היסטוריים בודקים כיצד נבנו מבנים עתיקים ומה הם מספרים לנו על תרבויות עבר."
+            },
+            {
+                "definition": "The overall appearance or aesthetic appeal of something",
+                "definition_hebrew": "המראה הכללי או המשיכה האסתטית של משהו",
+                "example": "This website has great architecture with an elegant, minimalist design.",
+                "example_hebrew": "לאתר זה יש ארכיטקטורה נהדרת עם עיצוב אלגנטי ומינימליסטי."
+            }
+        ]
+    }
+]

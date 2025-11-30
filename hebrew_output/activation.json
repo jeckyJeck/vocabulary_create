@@ -1,0 +1,40 @@
+[
+    {
+        "word": "activation",
+        "word_hebrew": "הַפעָלָה",
+        "main_definition": "The process of making something active or operational, especially in terms of starting a system, function, or procedure.",
+        "main_definition_hebrew": "תהליך הפיכת משהו לפעיל או מבצעי, במיוחד במונחים של התחלת מערכת, פונקציה או הליך.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of biology and physiology, activation refers to initiating an action by cells or enzymes.",
+                "definition_hebrew": "בהקשר של ביולוגיה ופיזיולוגיה, הפעלה מתייחסת לתחילת פעולה על ידי תאים או אנזימים.",
+                "example": "When you exercise, your muscle cells are activated, leading to contractions that enable movement.",
+                "example_hebrew": "כאשר אתה מתאמן, תאי השריר שלך מופעלים, מה שמוביל להתכווצויות המאפשרות תנועה."
+            },
+            {
+                "definition": "In technology, particularly computing, it means the process of starting a program, system, or service after its installation or updates have been completed.",
+                "definition_hebrew": "בטכנולוגיה, במיוחד מחשוב, המשמעות היא תהליך של הפעלת תוכנית, מערכת או שירות לאחר השלמת ההתקנה או העדכונים שלה.",
+                "example": "After installing new software on your computer, you may need to activate it by entering an activation key.",
+                "example_hebrew": "לאחר התקנת תוכנה חדשה במחשב שלך, ייתכן שיהיה עליך להפעיל אותה על ידי הזנת מפתח הפעלה."
+            },
+            {
+                "definition": "In marketing and advertising, activation is the process of engaging customers with a brand or product after they have been exposed to its message.",
+                "definition_hebrew": "בשיווק ופרסום, הפעלה היא תהליך של שיתוף לקוחות עם מותג או מוצר לאחר שנחשפו למסר שלו.",
+                "example": "A successful ad campaign has high activation rates as more consumers begin using the promoted product.",
+                "example_hebrew": "למסע פרסום מוצלח יש שיעורי הפעלה גבוהים ככל שיותר צרכנים מתחילים להשתמש במוצר המקודם."
+            },
+            {
+                "definition": "In security systems, such as alarms and access control, activation refers to turning on or initiating a response when a certain condition is met.",
+                "definition_hebrew": "במערכות אבטחה, כגון אזעקות ובקרת גישה, הפעלה מתייחסת להפעלה או הפעלת תגובה כאשר תנאי מסוים מתקיים.",
+                "example": "When an unautmuned individual attempts to enter with an incorrect code, the alarm system activates.",
+                "example_hebrew": "כאשר אדם לא מאובטח מנסה להיכנס עם קוד שגוי, מערכת האזעקה מופעלת."
+            },
+            {
+                "definition": "In social settings, activation can mean becoming involved in an event or activity.",
+                "definition_hebrew": "במסגרות חברתיות, הפעלה יכולה להיות מעורבת באירוע או פעילות.",
+                "example": "Upon arrival at a party, you quickly become socially 'activated' as you mingle with other guests.",
+                "example_hebrew": "עם הגעתכם למסיבה, אתם הופכים במהירות 'מופעלים' חברתית כשאתם מתערבבים עם אורחים אחרים."
+            }
+        ]
+    }
+]

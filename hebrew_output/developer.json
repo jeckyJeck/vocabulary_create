@@ -1,0 +1,34 @@
+[
+    {
+        "word": "developer",
+        "word_hebrew": "מפתח",
+        "main_definition": "A developer is a person who creates, designs, or implements software programs or applications.",
+        "main_definition_hebrew": "מפתח הוא אדם שיוצר, מעצב או מיישם תוכנות או יישומים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Software Developer",
+                "definition_hebrew": "מפתח תוכנה",
+                "example": "John works as a software developer and builds mobile apps for different platforms.",
+                "example_hebrew": "ג'ון עובד כמפתח תוכנה ובונה אפליקציות סלולריות לפלטפורמות שונות."
+            },
+            {
+                "definition": "Agricultural Developer",
+                "definition_hebrew": "מפתח חקלאי",
+                "example": "Emma is an agricultural developer who designs efficient farming systems to increase crop production.",
+                "example_hebrew": "אמה היא מפתחת חקלאית שמתכננת מערכות חקלאות יעילות להגדלת ייצור היבולים."
+            },
+            {
+                "definition": "Real Estate Developer",
+                "definition_hebrew": "מפתח נדל\"ן",
+                "example": "Michael is a real estate developer, he owns land and develops housing projects for sale or rent.",
+                "example_hebrew": "מיכאל הוא יזם נדל\"ן, בעל קרקע ומפתח פרויקטים של דיור למכירה או להשכרה."
+            },
+            {
+                "definition": "Language/Linguistic Developer",
+                "definition_hebrew": "מפתח שפה/לשוני",
+                "example": "Samantha works as an English language developer, creating educational materials to help non-native speakers learn the language.",
+                "example_hebrew": "סמנתה עובדת כמפתחת שפה אנגלית, יוצרת חומרים חינוכיים כדי לעזור לדוברים שאינם דוברי שפת אם ללמוד את השפה."
+            }
+        ]
+    }
+]

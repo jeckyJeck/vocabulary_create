@@ -1,0 +1,34 @@
+[
+    {
+        "word": "category",
+        "word_hebrew": "קטגוריה",
+        "main_definition": "A category is a group or classification of items, concepts, or phenomena based on shared characteristics or attributes.",
+        "main_definition_hebrew": "קטגוריה היא קבוצה או סיווג של פריטים, מושגים או תופעות המבוססים על מאפיינים או תכונות משותפים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A way to classify objects or ideas into groups based on common features",
+                "definition_hebrew": "דרך לסווג אובייקטים או רעיונות לקבוצות על סמך תכונות משותפות",
+                "example": "The books in the library are categorized by genre: fiction, non-fiction, mystery, romance.",
+                "example_hebrew": "הספרים בספרייה מסווגים לפי ז'אנר: סיפורת, עיון, מסתורין, רומנטיקה."
+            },
+            {
+                "definition": "An organizational grouping used to sort things according to shared properties or purposes",
+                "definition_hebrew": "קיבוץ ארגוני המשמש למיון דברים לפי מאפיינים או מטרות משותפים",
+                "example": "Online shopping websites often use categories such as 'electronics', 'clothing' and 'home goods' to help customers find what they are looking for.",
+                "example_hebrew": "אתרי קניות מקוונים משתמשים לרוב בקטגוריות כמו 'אלקטרוניקה', 'בגדים' ו'מוצרים לבית' כדי לעזור ללקוחות למצוא את מה שהם מחפשים."
+            },
+            {
+                "definition": "A level of classification in a system that groups related items together",
+                "definition_hebrew": "רמת סיווג במערכת המקבצת יחד פריטים קשורים",
+                "example": "In biology, living organisms can be categorized into various levels such as kingdom, phylum, class, order, family, genus, and species.",
+                "example_hebrew": "בביולוגיה, אורגניזמים חיים יכולים להיות מסווגים לרמות שונות כמו ממלכה, פילום, מעמד, סדר, משפחה, סוג ומינים."
+            },
+            {
+                "definition": "A label or name given to a specific group of things that share certain characteristics",
+                "definition_hebrew": "תווית או שם שניתן לקבוצה מסוימת של דברים שחולקים מאפיינים מסוימים",
+                "example": "In music, songs may be categorized by the era they were written in: classical, jazz, rock, pop, etc.",
+                "example_hebrew": "במוזיקה, שירים עשויים להיות מסווגים לפי התקופה שבה נכתבו: קלאסי, ג'אז, רוק, פופ וכו'."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "opinion",
+        "word_hebrew": "דעה",
+        "main_definition": "An opinion is a personal belief or judgment about something, not necessarily based on factual evidence or knowledge.",
+        "main_definition_hebrew": "דעה היא אמונה או שיפוט אישי לגבי משהו, לא בהכרח מבוסס על ראיות עובדתיות או ידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "A subjective viewpoint or perspective",
+                "definition_hebrew": "נקודת מבט או פרספקטיבה סובייקטיבית",
+                "example": "As an avid fan of Italian cuisine, my opinion is that pasta dishes are the most delicious.",
+                "example_hebrew": "בתור חובב מושבע של המטבח האיטלקי, דעתי היא שמנות הפסטה הן הכי טעימות."
+            },
+            {
+                "definition": "An individual's belief about a particular matter",
+                "definition_hebrew": "אמונתו של אדם לגבי עניין מסוים",
+                "example": "Her opinion on climate change was that immediate action was necessary to prevent further damage.",
+                "example_hebrew": "דעתה על שינויי האקלים הייתה שדרושה פעולה מיידית כדי למנוע נזק נוסף."
+            },
+            {
+                "definition": "A personal judgment or evaluation",
+                "definition_hebrew": "שיפוט או הערכה אישית",
+                "example": "The critics had mixed opinions about the movie, with some praising its visual effects and others criticizing the plot.",
+                "example_hebrew": "למבקרים היו דעות מעורבות על הסרט, חלקם שיבחו את האפקטים החזותיים שלו ואחרים מתחו ביקורת על העלילה."
+            },
+            {
+                "definition": "An expression of what one thinks or feels about a topic",
+                "definition_hebrew": "ביטוי למה שאדם חושב או מרגיש לגבי נושא",
+                "example": "During the debate, each candidate shared their opinion on economic policies to gain voter support.",
+                "example_hebrew": "במהלך הדיון, כל מועמד שיתף את דעתו על המדיניות הכלכלית כדי לזכות בתמיכת הבוחרים."
+            },
+            {
+                "definition": "A viewpoint that can vary from person to person",
+                "definition_hebrew": "נקודת מבט שיכולה להשתנות מאדם לאדם",
+                "example": "Although it was controversial, there were many diverse opinions regarding the new school curriculum changes.",
+                "example_hebrew": "למרות שזה היה שנוי במחלוקת, היו הרבה דעות מגוונות לגבי השינויים בתכנית הלימודים החדשה של בית הספר."
+            }
+        ]
+    }
+]

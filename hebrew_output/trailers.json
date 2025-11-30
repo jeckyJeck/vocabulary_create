@@ -1,0 +1,28 @@
+[
+    {
+        "word": "trailers",
+        "word_hebrew": "נגררים",
+        "main_definition": "Trailers can refer to different things depending on the context, such as a part of a vehicle designed to be pulled by another or promotional videos released before movies.",
+        "main_definition_hebrew": "טריילרים יכולים להתייחס לדברים שונים בהתאם להקשר, כמו חלק מרכב שנועד להימשך על ידי אחר או סרטוני תדמית שפורסמו לפני סרטים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A rear attachment for vehicles like motorcycles and trucks",
+                "definition_hebrew": "חיבור אחורי לכלי רכב כמו אופנועים ומשאיות",
+                "example": "The trailer attached to the back of his pickup truck.",
+                "example_hebrew": "הקרוואן מחובר לחלק האחורי של הטנדר שלו."
+            },
+            {
+                "definition": "A short promotional video released before a movie or TV show premiere",
+                "definition_hebrew": "סרטון תדמית קצר ששוחרר לפני בכורה של סרט או תוכנית טלוויזיה",
+                "example": "I watched the latest Marvel superhero movie trailer and it looked amazing!",
+                "example_hebrew": "צפיתי בטריילר האחרון של סרט גיבורי העל של מארוול והוא נראה מדהים!"
+            },
+            {
+                "definition": "An aftermarket accessory for vehicles, often used for cargo transportation",
+                "definition_hebrew": "אביזר אפטר-מרקט לכלי רכב, המשמש לעתים קרובות להובלת מטענים",
+                "example": "She added a new boat trailer to her SUV to easily transport her fishing equipment.",
+                "example_hebrew": "היא הוסיפה קרוואן סירה חדש לרכב השטח שלה כדי להעביר בקלות את ציוד הדיג שלה."
+            }
+        ]
+    }
+]

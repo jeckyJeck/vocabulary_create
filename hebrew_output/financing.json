@@ -1,0 +1,40 @@
+[
+    {
+        "word": "financing",
+        "word_hebrew": "מְמַמֵן",
+        "main_definition": "The process of providing funds or capital to support business activities, make purchases, or invest in projects.",
+        "main_definition_hebrew": "תהליך מתן כספים או הון לתמיכה בפעילויות עסקיות, ביצוע רכישות או השקעה בפרויקטים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Provision of funds for a project or activity",
+                "definition_hebrew": "מתן כספים לפרויקט או פעילות",
+                "example": "A bank financed the construction of a new hospital by providing loans.",
+                "example_hebrew": "בנק מימן את בנייתו של בית חולים חדש באמצעות הלוואות."
+            },
+            {
+                "definition": "Arranging financial resources to support an individual's educational expenses",
+                "definition_hebrew": "הסדרת משאבים כספיים לתמיכה בהוצאות החינוך של הפרט",
+                "example": "My parents helped me financing my college tuition through scholarships and student loans.",
+                "example_hebrew": "ההורים שלי עזרו לי לממן את שכר הלימוד שלי בקולג' באמצעות מלגות והלוואות סטודנטים."
+            },
+            {
+                "definition": "Supporting the costs associated with running a business, such as payroll or inventory purchases",
+                "definition_hebrew": "תמיכה בעלויות הכרוכות בניהול עסק, כגון רכישת שכר או מלאי",
+                "example": "The company obtained financing from an investor to cover its operational expenses during a cash flow crisis.",
+                "example_hebrew": "החברה השיגה מימון ממשקיע לכיסוי ההוצאות התפעוליות שלה בעת משבר תזרימי."
+            },
+            {
+                "definition": "Making investments in order to generate returns over time",
+                "definition_hebrew": "ביצוע השקעות על מנת להניב תשואות לאורך זמן",
+                "example": "She used her savings to finance the purchase of stocks, hoping for long-term financial gains.",
+                "example_hebrew": "היא השתמשה בחסכונותיה למימון רכישת מניות, בתקווה לרווחים פיננסיים לטווח ארוך."
+            },
+            {
+                "definition": "Finding alternative ways to raise capital when traditional funding sources are unavailable",
+                "definition_hebrew": "מציאת דרכים חלופיות לגיוס הון כאשר מקורות מימון מסורתיים אינם זמינים",
+                "example": "The startup sought financing through crowdfunding platforms after rejection from venture capitalists.",
+                "example_hebrew": "הסטארט-אפ חיפש מימון באמצעות פלטפורמות מימון המונים לאחר דחייה מצד משקיעי הון סיכון."
+            }
+        ]
+    }
+]

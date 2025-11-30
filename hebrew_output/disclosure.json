@@ -1,0 +1,34 @@
+[
+    {
+        "word": "disclosure",
+        "word_hebrew": "חשיפה",
+        "main_definition": "The act of making information known or revealing previously unknown facts.",
+        "main_definition_hebrew": "הפעולה של פרסום מידע או חשיפת עובדות שלא ידועות בעבר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Revealing personal information or private details about oneself to others.",
+                "definition_hebrew": "חשיפת מידע אישי או פרטים פרטיים על עצמך לאחרים.",
+                "example": "In her disclosure during the meeting, she shared intimate aspects of her childhood.",
+                "example_hebrew": "בחשיפתה במהלך הפגישה, היא שיתפה בהיבטים אינטימיים של ילדותה."
+            },
+            {
+                "definition": "The process of making previously undisclosed financial transactions known publicly.",
+                "definition_hebrew": "תהליך הפיכת עסקאות פיננסיות שלא נחשפו בעבר לפומבי.",
+                "example": "The company's disclosure revealed a significant amount of offshore investments and earnings.",
+                "example_hebrew": "חשיפת החברה חשפה כמות משמעותית של השקעות ורווחים בחו\"ל."
+            },
+            {
+                "definition": "Revealing information that was kept secret or hidden, often in the context of legal or ethical requirements.",
+                "definition_hebrew": "חשיפת מידע שנשמר בסוד או נסתר, לעתים קרובות בהקשר של דרישות משפטיות או אתיות.",
+                "example": "When asked to provide an explanation for the missing data, he made a disclosure under oath.",
+                "example_hebrew": "כאשר התבקש לספק הסבר לנתונים החסרים, הוא מסר גילוי בשבועה."
+            },
+            {
+                "definition": "The act of revealing previously unknown information about products, services, or company operations that may have a direct impact on consumers or stakeholders.",
+                "definition_hebrew": "פעולת חשיפת מידע שלא היה ידוע קודם לכן על מוצרים, שירותים או פעולות של החברה שעשויה להשפיע ישירות על צרכנים או מחזיקי עניין.",
+                "example": "The automaker's disclosure of defective parts in their vehicles led to recalls and customer trust issues.",
+                "example_hebrew": "החשיפה של יצרנית הרכב של חלקים פגומים בכלי הרכב שלהם הובילה לריקולים ולבעיות אמון לקוחות."
+            }
+        ]
+    }
+]

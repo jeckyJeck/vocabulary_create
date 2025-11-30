@@ -1,0 +1,28 @@
+[
+    {
+        "word": "processor",
+        "word_hebrew": "מעבד",
+        "main_definition": "A processor refers to a device or component responsible for executing instructions in the context of computers, as well as metaphorically describing someone who works rapidly and efficiently.",
+        "main_definition_hebrew": "מעבד מתייחס למכשיר או רכיב האחראי על ביצוע הוראות בהקשר של מחשבים, כמו גם תיאור מטפורי של מישהו שעובד במהירות וביעילות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Computer Central Processing Unit (CPU)",
+                "definition_hebrew": "יחידת עיבוד מרכזית של מחשב (CPU)",
+                "example": "The latest processor from Intel can execute complex tasks at lightning speed.",
+                "example_hebrew": "המעבד העדכני ביותר של אינטל יכול לבצע משימות מורכבות במהירות הבזק."
+            },
+            {
+                "definition": "Efficient worker or person",
+                "definition_hebrew": "עובד או אדם יעיל",
+                "example": "She's a great processor when it comes to handling multiple projects simultaneously.",
+                "example_hebrew": "היא מעבד נהדר כשזה מגיע לטיפול במספר פרויקטים בו זמנית."
+            },
+            {
+                "definition": "Device that processes data in specific applications, such as image processing",
+                "definition_hebrew": "מכשיר שמעבד נתונים ביישומים ספציפיים, כגון עיבוד תמונה",
+                "example": "The video editing software relies on its powerful processor to handle high-resolution images and effects.",
+                "example_hebrew": "תוכנת עריכת הווידאו מסתמכת על המעבד החזק שלה כדי להתמודד עם תמונות ואפקטים ברזולוציה גבוהה."
+            }
+        ]
+    }
+]

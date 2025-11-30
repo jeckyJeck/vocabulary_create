@@ -1,0 +1,34 @@
+[
+    {
+        "word": "portrait",
+        "word_hebrew": "דְיוֹקָן",
+        "main_definition": "A portrait is a representation or depiction of a person, capturing their appearance or character often through artistic means.",
+        "main_definition_hebrew": "דיוקן הוא ייצוג או תיאור של אדם, הלוכד את מראהו או אופיו לעתים קרובות באמצעים אמנותיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An artistic drawing, painting, photograph, or other work that represents the appearance and expression of a particular individual.",
+                "definition_hebrew": "רישום אמנותי, ציור, צילום או יצירה אחרת המייצגת את המראה והביטוי של אדם מסוים.",
+                "example": "The portrait captured by the artist displayed John's deep-set eyes and distinguished features.",
+                "example_hebrew": "הדיוקן שנתפס על ידי האמן הציג את עיניו העמוקות של ג'ון ואת תכונותיו הייחודיות."
+            },
+            {
+                "definition": "A detailed description or characterization of someone, emphasizing their personality traits or essential attributes.",
+                "definition_hebrew": "תיאור או אפיון מפורט של מישהו, תוך הדגשת תכונות האישיות שלו או תכונות חיוניות.",
+                "example": "Her autobiographical book includes a compelling portrait of her life as an immigrant in America.",
+                "example_hebrew": "ספרה האוטוביוגרפי כולל דיוקן מרתק של חייה כמהגרת באמריקה."
+            },
+            {
+                "definition": "In the context of digital technology, referring to an image file that represents a person's face or likeness used for various purposes such as authentication.",
+                "definition_hebrew": "בהקשר של טכנולוגיה דיגיטלית, הכוונה לקובץ תמונה המייצג את פניו או דמותו של אדם המשמש למטרות שונות כגון אימות.",
+                "example": "The security system uses facial recognition software to match a portrait with stored images for identity verification.",
+                "example_hebrew": "מערכת האבטחה משתמשת בתוכנת זיהוי פנים כדי להתאים דיוקן לתמונות מאוחסנות לצורך אימות זהות."
+            },
+            {
+                "definition": "In photography and videography, the image of someone captured in a photo or video frame.",
+                "definition_hebrew": "בצילום ווידאו, תמונה של מישהו שצולם במסגרת תמונה או וידאו.",
+                "example": "The wedding photographer took several portraits of the couple during their ceremony.",
+                "example_hebrew": "צלם החתונות צילם כמה דיוקנאות של בני הזוג במהלך הטקס שלהם."
+            }
+        ]
+    }
+]

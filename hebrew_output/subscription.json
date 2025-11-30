@@ -1,0 +1,34 @@
+[
+    {
+        "word": "subscription",
+        "word_hebrew": "מִנוּי",
+        "main_definition": "A subscription is a regular payment made by an individual or organization to receive access to publications, services, or products over a period of time.",
+        "main_definition_hebrew": "מנוי הוא תשלום קבוע שמבוצע על ידי אדם או ארגון כדי לקבל גישה לפרסומים, שירותים או מוצרים לאורך תקופה.",
+        "meanings_and_examples": [
+            {
+                "definition": "An agreement to receive and pay for periodic delivery of goods or services",
+                "definition_hebrew": "הסכם לקבל ולשלם עבור אספקה תקופתית של סחורות או שירותים",
+                "example": "I subscribed to the monthly magazine 'Nature's Wonders.'",
+                "example_hebrew": "נרשמתי למגזין החודשי 'נפלאות הטבע'."
+            },
+            {
+                "definition": "A commitment to follow a set routine, such as attending workouts at a gym regularly",
+                "definition_hebrew": "התחייבות לעקוב אחר שגרה קבועה, כגון השתתפות באימונים בחדר כושר באופן קבוע",
+                "example": "She has a fitness subscription and goes to her preferred gym every Monday, Wednesday, and Friday.",
+                "example_hebrew": "יש לה מנוי לכושר והיא הולכת לחדר הכושר המועדף עליה כל שני, רביעי ושישי."
+            },
+            {
+                "definition": "Access to digital content like videos or software after payment",
+                "definition_hebrew": "גישה לתוכן דיגיטלי כמו סרטונים או תוכנה לאחר תשלום",
+                "example": "He subscribed to the streaming service Netflix for unlimited access to movies and shows.",
+                "example_hebrew": "הוא נרשם לשירות הסטרימינג נטפליקס לגישה בלתי מוגבלת לסרטים ותוכניות."
+            },
+            {
+                "definition": "A list of people who are signed up to receive regular updates or information, often through email",
+                "definition_hebrew": "רשימה של אנשים שנרשמו לקבלת עדכונים או מידע שוטפים, לרוב באמצעות דואר אלקטרוני",
+                "example": "Our newsletter has 500 subscribers who get weekly industry insights and tips.",
+                "example_hebrew": "לניוזלטר שלנו יש 500 מנויים שמקבלים מדי שבוע תובנות וטיפים מהתעשייה."
+            }
+        ]
+    }
+]

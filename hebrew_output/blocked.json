@@ -1,0 +1,34 @@
+[
+    {
+        "word": "blocked",
+        "word_hebrew": "חָסוּם",
+        "main_definition": "When something is blocked, it means that it has been obstructed or prevented from moving forward or progressing.",
+        "main_definition_hebrew": "כאשר משהו חסום, זה אומר שהוא נחסם או נמנע ממנו להתקדם או להתקדם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Unable to access an online service due to technical issues.",
+                "definition_hebrew": "לא ניתן לגשת לשירות מקוון עקב בעיות טכניות.",
+                "example": "I tried logging into my email account, but I'm blocked by a spam filter.",
+                "example_hebrew": "ניסיתי להיכנס לחשבון האימייל שלי, אבל אני חסום על ידי מסנן דואר זבל."
+            },
+            {
+                "definition": "A person who prevents someone from achieving their goal intentionally or unintentionally.",
+                "definition_hebrew": "אדם המונע ממישהו להשיג את מטרתו בכוונה או שלא בכוונה.",
+                "example": "She felt blocked in her career advancement because of office politics and lack of support.",
+                "example_hebrew": "היא הרגישה חסומה בקידום הקריירה שלה בגלל פוליטיקה משרדית וחוסר תמיכה."
+            },
+            {
+                "definition": "Something that is physically obstructed, preventing movement or passage.",
+                "definition_hebrew": "משהו שהוא חסום פיזית, מונע תנועה או מעבר.",
+                "example": "I couldn't reach the top shelf because a box was blocking my way.",
+                "example_hebrew": "לא הצלחתי להגיע למדף העליון כי קופסה חסמה לי את הדרך."
+            },
+            {
+                "definition": "When a message fails to send through communication channels due to an error or interruption.",
+                "definition_hebrew": "כאשר הודעה לא מצליחה לשלוח דרך ערוצי תקשורת עקב שגיאה או הפרעה.",
+                "example": "The text message I sent earlier is blocked and hasn't gone through. Something must be wrong with the network.",
+                "example_hebrew": "הודעת הטקסט ששלחתי קודם לכן חסומה ולא עברה. משהו כנראה לא בסדר ברשת."
+            }
+        ]
+    }
+]

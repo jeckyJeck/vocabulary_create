@@ -1,0 +1,34 @@
+[
+    {
+        "word": "reproduce",
+        "word_hebrew": "לְשַׁחְזֵר",
+        "main_definition": "To create or generate a similar entity or offspring, often through biological processes.",
+        "main_definition_hebrew": "ליצור או ליצור ישות או צאצא דומים, לרוב באמצעות תהליכים ביולוגיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To produce an exact copy of something",
+                "definition_hebrew": "לייצר עותק מדויק של משהו",
+                "example": "The artist tried to reproduce the painting with great accuracy.",
+                "example_hebrew": "האמן ניסה לשחזר את הציור בדיוק רב."
+            },
+            {
+                "definition": "To create offspring, particularly in a biological context",
+                "definition_hebrew": "ליצור צאצאים, במיוחד בהקשר ביולוגי",
+                "example": "Many animals reproduce by mating and giving birth to live young.",
+                "example_hebrew": "בעלי חיים רבים מתרבים על ידי הזדווגות וילדים צעירים חיים."
+            },
+            {
+                "definition": "To generate or multiply something (not necessarily related to living organisms)",
+                "definition_hebrew": "ליצור או להכפיל משהו (לא בהכרח קשור לאורגניזמים חיים)",
+                "example": "The factory reproduced the product using automated machinery.",
+                "example_hebrew": "המפעל שיחזר את המוצר באמצעות מכונות אוטומטיות."
+            },
+            {
+                "definition": "To duplicate information, often in a technical context",
+                "definition_hebrew": "לשכפל מידע, לעתים קרובות בהקשר טכני",
+                "example": "The software can reproduce data from one file onto another with high precision.",
+                "example_hebrew": "התוכנה יכולה לשחזר נתונים מקובץ אחד למשנהו בדיוק רב."
+            }
+        ]
+    }
+]

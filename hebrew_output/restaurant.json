@@ -1,0 +1,34 @@
+[
+    {
+        "word": "restaurant",
+        "word_hebrew": "מִסעָדָה",
+        "main_definition": "A restaurant is a commercial establishment that prepares and serves food and drinks to customers in exchange for payment.",
+        "main_definition_hebrew": "מסעדה היא מוסד מסחרי המכין ומגיש מזון ומשקאות ללקוחות בתמורה לתשלום.",
+        "meanings_and_examples": [
+            {
+                "definition": "A place where people go to eat prepared meals without having to cook at home",
+                "definition_hebrew": "מקום אליו אנשים הולכים לאכול ארוחות מוכנות מבלי לבשל בבית",
+                "example": "After a long day of work, I like to treat myself by going out to dinner at my favorite restaurant.",
+                "example_hebrew": "אחרי יום עבודה ארוך, אני אוהב לפנק את עצמי ביציאה לארוחת ערב במסעדה האהובה עלי."
+            },
+            {
+                "definition": "The industry or business that provides dining services and food preparation for profit",
+                "definition_hebrew": "הענף או העסק המספק שירותי אוכל והכנת מזון למטרות רווח",
+                "example": "Restaurants are an important part of the economy as they provide employment opportunities and contribute to local development.",
+                "example_hebrew": "מסעדות מהוות חלק חשוב מהכלכלה שכן הן מספקות הזדמנויות תעסוקה ותורמות לפיתוח מקומי."
+            },
+            {
+                "definition": "A venue where socializing, entertaining guests, or business meetings take place over a meal",
+                "definition_hebrew": "מקום בו מתקיימים מפגשים חברתיים, אירוח אורחים או פגישות עסקיות במהלך ארוחה",
+                "example": "We decided to hold our company's annual meeting at the new restaurant downtown to celebrate and network with colleagues.",
+                "example_hebrew": "החלטנו לקיים את המפגש השנתי של החברה שלנו במסעדה החדשה במרכז העיר כדי לחגוג וליצור קשר עם עמיתים."
+            },
+            {
+                "definition": "A type of dining establishment that typically offers table service, where customers order food from a menu served by waitstaff",
+                "definition_hebrew": "סוג של מוסד אוכל המציע בדרך כלל שירות לשולחן, שבו לקוחות מזמינים אוכל מתפריט המוגש על ידי צוות המלצרים",
+                "example": "The Italian restaurant we visited last night had an extensive wine list, which our server recommended for each course.",
+                "example_hebrew": "למסעדה האיטלקית שבה ביקרנו אמש הייתה רשימת יינות נרחבת, שהשרת שלנו המליץ עליה לכל מנה."
+            }
+        ]
+    }
+]

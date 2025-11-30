@@ -1,0 +1,34 @@
+[
+    {
+        "word": "report",
+        "word_hebrew": "להגיש תלונה",
+        "main_definition": "A report is a formal document or statement presenting information, often in a structured format, usually based on research findings or observations.",
+        "main_definition_hebrew": "דוח הוא מסמך רשמי או הצהרה המציגים מידע, לרוב בפורמט מובנה, המבוסס בדרך כלל על ממצאי מחקר או תצפיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To inform someone about something through official communication",
+                "definition_hebrew": "ליידע מישהו על משהו באמצעות תקשורת רשמית",
+                "example": "The police will report to the station with details of the incident.",
+                "example_hebrew": "המשטרה תדווח לתחנה עם פרטי האירוע."
+            },
+            {
+                "definition": "A written or spoken account that provides an overview of a particular event, situation, or series of events",
+                "definition_hebrew": "חשבון כתוב או מדובר המספק סקירה כללית של אירוע מסוים, מצב או סדרה של אירועים",
+                "example": "She delivered a detailed report on her findings after conducting extensive research.",
+                "example_hebrew": "היא מסרה דו\"ח מפורט על ממצאיה לאחר שערכה מחקר מקיף."
+            },
+            {
+                "definition": "The process of examining and analyzing data to produce information about a specific subject",
+                "definition_hebrew": "תהליך בחינת וניתוח נתונים להפקת מידע על נושא ספציפי",
+                "example": "Scientists conducted experiments and compiled their results into a comprehensive report.",
+                "example_hebrew": "מדענים ערכו ניסויים וריכזו את תוצאותיהם לדוח מקיף."
+            },
+            {
+                "definition": "An official document that provides an evaluation or analysis, often used in business contexts",
+                "definition_hebrew": "מסמך רשמי המספק הערכה או ניתוח, המשמש לעתים קרובות בהקשרים עסקיים",
+                "example": "The annual financial report summarizes the company's performance over the past fiscal year.",
+                "example_hebrew": "הדוח הכספי השנתי מסכם את ביצועי החברה במהלך שנת הכספים החולפת."
+            }
+        ]
+    }
+]

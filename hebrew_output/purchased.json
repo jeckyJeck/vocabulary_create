@@ -1,0 +1,34 @@
+[
+    {
+        "word": "purchased",
+        "word_hebrew": "נרכש",
+        "main_definition": "Acquired ownership of an item by paying its price.",
+        "main_definition_hebrew": "רכש בעלות על פריט על ידי תשלום מחירו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To buy something in exchange for money.",
+                "definition_hebrew": "לקנות משהו בתמורה לכסף.",
+                "example": "She purchased a new car last week.",
+                "example_hebrew": "היא רכשה מכונית חדשה בשבוע שעבר."
+            },
+            {
+                "definition": "The act of buying goods or services.",
+                "definition_hebrew": "הפעולה של קניית סחורה או שירותים.",
+                "example": "His first act as CEO was to review the company's purchasing policy.",
+                "example_hebrew": "פעולתו הראשונה כמנכ\"ל הייתה סקירת מדיניות הרכש של החברה."
+            },
+            {
+                "definition": "When referring to acquiring a job, it means obtaining employment through an application process.",
+                "definition_hebrew": "כאשר מתייחסים לרכישת עבודה, המשמעות היא קבלת עבודה באמצעות תהליך הגשת מועמדות.",
+                "example": "After graduation, he purchased his dream job at a renowned tech firm.",
+                "example_hebrew": "לאחר סיום לימודיו, הוא רכש את עבודת החלומות שלו בחברת טכנולוגיה ידועה."
+            },
+            {
+                "definition": "To gain possession of something as part of legal or official procedures. For example, property bought from another party can be described as 'purchased.'",
+                "definition_hebrew": "להשיג חזקה על משהו כחלק מהליכים משפטיים או רשמיים. לדוגמה, ניתן לתאר נכס שנקנה מגורם אחר כ'נרכש'.",
+                "example": "The estate was purchased through an auction sale.",
+                "example_hebrew": "האחוזה נרכשה במכירה פומבית."
+            }
+        ]
+    }
+]

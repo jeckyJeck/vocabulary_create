@@ -1,0 +1,40 @@
+[
+    {
+        "word": "abuse",
+        "word_hebrew": "התעללות",
+        "main_definition": "Abuse refers to the misuse or mistreatment of someone, often involving harmful behavior that can be physical, emotional, or verbal in nature.",
+        "main_definition_hebrew": "התעללות מתייחסת לשימוש לרעה או להתעללות במישהו, לעתים קרובות כרוכה בהתנהגות מזיקה שיכולה להיות פיזית, רגשית או מילולית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical abuse",
+                "definition_hebrew": "התעללות פיזית",
+                "example": "John repeatedly hit his wife during their argument.",
+                "example_hebrew": "ג'ון היכה שוב ושוב את אשתו במהלך הוויכוח שלהם."
+            },
+            {
+                "definition": "Emotional abuse",
+                "definition_hebrew": "התעללות רגשית",
+                "example": "Sarah's partner constantly belittled her and made her feel worthless.",
+                "example_hebrew": "בן זוגה של שרה כל הזמן זלזל בה וגרם לה להרגיש חסרת ערך."
+            },
+            {
+                "definition": "Verbal abuse",
+                "definition_hebrew": "התעללות מילולית",
+                "example": "Jake used derogatory language to insult his coworkers during a meeting.",
+                "example_hebrew": "ג'ייק השתמש בלשון גנאי כדי להעליב את עמיתיו לעבודה במהלך פגישה."
+            },
+            {
+                "definition": "Neglectful abuse",
+                "definition_hebrew": "התעללות רשלנית",
+                "example": "The parents failed to provide adequate food and shelter for their children, leading to neglect.",
+                "example_hebrew": "ההורים לא הצליחו לספק מזון ומחסה מספקים לילדיהם, מה שהוביל להזנחה."
+            },
+            {
+                "definition": "Intimidation or coercion as a form of abuse",
+                "definition_hebrew": "הפחדה או כפייה כסוג של התעללות",
+                "example": "Jane was threatened by her boss with job loss unless she completed tasks against company policy.",
+                "example_hebrew": "ג'יין אוימה על ידי הבוס שלה באובדן עבודה אלא אם תשלים משימות בניגוד למדיניות החברה."
+            }
+        ]
+    }
+]

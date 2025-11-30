@@ -1,0 +1,28 @@
+[
+    {
+        "word": "since",
+        "word_hebrew": "מאז",
+        "main_definition": "Since is a conjunction used to denote the time from when an event or situation began up to the present moment, as well as a preposition indicating causality.",
+        "main_definition_hebrew": "מאז הוא צירוף המשמש לציון הזמן מרגע תחילתו של אירוע או מצב ועד לרגע הנוכחי, כמו גם מילת יחס המציינת סיבתיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Time expression (temporal use)",
+                "definition_hebrew": "ביטוי זמן (שימוש זמני)",
+                "example": "I have been working here since 2015.",
+                "example_hebrew": "אני עובד כאן מאז 2015."
+            },
+            {
+                "definition": "Causal relationship",
+                "definition_hebrew": "מערכת יחסים מזדמנת",
+                "example": "Since it was raining, we decided to cancel the picnic.",
+                "example_hebrew": "מכיוון שירד גשם, החלטנו לבטל את הפיקניק."
+            },
+            {
+                "definition": "Purpose or reason",
+                "definition_hebrew": "מטרה או סיבה",
+                "example": "He studied hard since he wanted to pass his exams.",
+                "example_hebrew": "הוא למד קשה מאז שרצה לעבור את הבחינות שלו."
+            }
+        ]
+    }
+]

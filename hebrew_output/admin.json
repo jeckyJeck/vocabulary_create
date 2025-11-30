@@ -1,0 +1,40 @@
+[
+    {
+        "word": "admin",
+        "word_hebrew": "אדמין",
+        "main_definition": "Admin can refer to the act of managing or overseeing an organization, system, or process, as well as a person responsible for this task.",
+        "main_definition_hebrew": "מנהל יכול להתייחס לפעולת הניהול או הפיקוח על ארגון, מערכת או תהליך, כמו גם לאדם האחראי למשימה זו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To manage or control something in an efficient and orderly way",
+                "definition_hebrew": "לנהל או לשלוט במשהו בצורה יעילה ומסודרת",
+                "example": "The admin was responsible for maintaining the company's website.",
+                "example_hebrew": "האדמין היה אחראי לתחזוקת אתר האינטרנט של החברה."
+            },
+            {
+                "definition": "A person who manages, controls, or supervises a particular area, organization, or system",
+                "definition_hebrew": "אדם שמנהל, שולט או מפקח על אזור, ארגון או מערכת מסוימים",
+                "example": "She is an experienced admin at her university and oversees student services.",
+                "example_hebrew": "היא מנהלת מנוסה באוניברסיטה שלה ומפקחת על שירותי הסטודנטים."
+            },
+            {
+                "definition": "Shortened form of administrator",
+                "definition_hebrew": "צורה מקוצרת של מנהל",
+                "example": "I need to contact the admins for further assistance with my issue.",
+                "example_hebrew": "אני צריך ליצור קשר עם המנהלים לקבלת עזרה נוספת עם הבעיה שלי."
+            },
+            {
+                "definition": "A set of system or software settings that can be modified by an admin",
+                "definition_hebrew": "קבוצה של הגדרות מערכת או תוכנה שניתן לשנות על ידי מנהל",
+                "example": "You'll need permission from the admin to make changes in this application's configuration.",
+                "example_hebrew": "תזדקק להרשאה מהמנהל כדי לבצע שינויים בתצורת האפליקציה הזו."
+            },
+            {
+                "definition": "The central management team responsible for making decisions at a company",
+                "definition_hebrew": "צוות ההנהלה המרכזי האחראי על קבלת החלטות בחברה",
+                "example": "Our admins regularly hold meetings to discuss strategic plans and updates.",
+                "example_hebrew": "המנהלים שלנו מקיימים באופן קבוע פגישות כדי לדון בתוכניות אסטרטגיות ועדכונים."
+            }
+        ]
+    }
+]

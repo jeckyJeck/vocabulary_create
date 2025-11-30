@@ -1,0 +1,34 @@
+[
+    {
+        "word": "warrant",
+        "word_hebrew": "לְהַצְדִיק",
+        "main_definition": "A warrant is a document issued by a legal or authoritative body that grants permission, authorization, or authority under specific conditions.",
+        "main_definition_hebrew": "צו הוא מסמך שהונפק על ידי גוף משפטי או סמכותי המעניק הרשאה, הרשאה או סמכות בתנאים ספציפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Legal backing for an action or decision",
+                "definition_hebrew": "גיבוי משפטי לפעולה או החלטה",
+                "example": "The judge's warrant allowed the police to search his home.",
+                "example_hebrew": "צו השופט איפשר למשטרה לבצע חיפוש בביתו."
+            },
+            {
+                "definition": "A document issued by a court granting authority to law enforcement officers",
+                "definition_hebrew": "מסמך שניתן על ידי בית משפט המעניק סמכות לגורמי אכיפת החוק",
+                "example": "After presenting their arrest warrant, the officer arrested the suspect.",
+                "example_hebrew": "לאחר הצגת צו המעצר, עצר השוטר את החשוד."
+            },
+            {
+                "definition": "An assurance or guarantee of something's validity or truth",
+                "definition_hebrew": "הבטחה או ערובה לתקפותו או לאמתו של משהו",
+                "example": "Her explanation had enough warrant for me to believe her story.",
+                "example_hebrew": "ההסבר שלה היה מספיק כדי להאמין לסיפור שלה."
+            },
+            {
+                "definition": "The power or authority to do something",
+                "definition_hebrew": "הכוח או הסמכות לעשות משהו",
+                "example": "With a warrant from the bank, he was authorized to handle his client's accounts.",
+                "example_hebrew": "בצו מהבנק הוסמך לטפל בחשבונות הלקוח שלו."
+            }
+        ]
+    }
+]

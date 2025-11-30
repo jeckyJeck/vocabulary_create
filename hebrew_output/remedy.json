@@ -1,0 +1,34 @@
+[
+    {
+        "word": "remedy",
+        "word_hebrew": "תְרוּפָה",
+        "main_definition": "A remedy is a solution or treatment that effectively deals with or alleviates problems, difficulties, or discomforts.",
+        "main_definition_hebrew": "רמדי הוא פתרון או טיפול המתמודד ביעילות עם או מקל על בעיות, קשיים או אי נוחות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To cure an illness or problem",
+                "definition_hebrew": "כדי לרפא מחלה או בעיה",
+                "example": "The doctor prescribed antibiotics as a remedy for the patient's infection.",
+                "example_hebrew": "הרופא רשם אנטיביוטיקה כתרופה לזיהום של החולה."
+            },
+            {
+                "definition": "A substance that addresses and relieves symptoms",
+                "definition_hebrew": "חומר שמתייחס ומקל על תסמינים",
+                "example": "Peppermint oil serves as a natural remedy to soothe an upset stomach.",
+                "example_hebrew": "שמן מנטה משמש כתרופה טבעית להרגעה של קלקול קיבה."
+            },
+            {
+                "definition": "An effective solution or action for correcting something wrong or unwanted",
+                "definition_hebrew": "פתרון או פעולה יעילה לתיקון משהו שגוי או לא רצוי",
+                "example": "Regular exercise is a great remedy for stress and anxiety.",
+                "example_hebrew": "פעילות גופנית סדירה היא תרופה מצוינת למתח וחרדה."
+            },
+            {
+                "definition": "A way to fix or improve an existing situation, problem, or condition",
+                "definition_hebrew": "דרך לתקן או לשפר מצב, בעיה או מצב קיימים",
+                "example": "The company implemented new software as a remedy to streamline their processes.",
+                "example_hebrew": "החברה הטמיעה תוכנה חדשה כתרופה לייעול התהליכים שלה."
+            }
+        ]
+    }
+]

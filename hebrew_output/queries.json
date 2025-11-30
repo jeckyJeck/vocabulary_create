@@ -1,0 +1,28 @@
+[
+    {
+        "word": "queries",
+        "word_hebrew": "שאילתות",
+        "main_definition": "Queries refer to questions or inquiries, often used when discussing computer systems, databases, or formal communication.",
+        "main_definition_hebrew": "שאילתות מתייחסות לשאלות או פניות, המשמשות לעתים קרובות כאשר דנים במערכות מחשב, מסדי נתונים או תקשורת רשמית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Computer-related term for a request made by a user to retrieve information from a database",
+                "definition_hebrew": "מונח הקשור למחשב לבקשה של משתמש לאחזר מידע ממסד נתונים",
+                "example": "The system processed the queries and returned results in seconds.",
+                "example_hebrew": "המערכת עיבדה את השאילתות והחזירה תוצאות תוך שניות."
+            },
+            {
+                "definition": "Formal or written questions posed to someone, often within an official context such as business or academia",
+                "definition_hebrew": "שאלות רשמיות או כתובות שמוצגות למישהו, לעתים קרובות בהקשר רשמי כגון עסקים או אקדמיה",
+                "example": "She sent out several queries regarding the details of the contract.",
+                "example_hebrew": "היא שלחה מספר שאלות בנוגע לפרטי החוזה."
+            },
+            {
+                "definition": "A type of inquiry made in a casual or informal manner, typically related to seeking clarification or additional information",
+                "definition_hebrew": "סוג של בירור שנעשה באופן מזדמן או לא פורמלי, הקשור בדרך כלל לחיפוש הבהרה או מידע נוסף",
+                "example": "When he didn't understand the instructions, he asked some friendly queries about the task.",
+                "example_hebrew": "כשהוא לא הבין את ההוראות, הוא שאל כמה שאלות ידידותיות לגבי המשימה."
+            }
+        ]
+    }
+]

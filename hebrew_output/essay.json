@@ -1,0 +1,28 @@
+[
+    {
+        "word": "essay",
+        "word_hebrew": "מַסָה",
+        "main_definition": "An essay is a piece of writing that presents an argument or a viewpoint on a specific topic, supported by evidence and analysis.",
+        "main_definition_hebrew": "חיבור הוא כתיבה המציגה טיעון או נקודת מבט על נושא מסוים, הנתמכת בראיות ובניתוח.",
+        "meanings_and_examples": [
+            {
+                "definition": "A written composition on a subject, typically for school assignments",
+                "definition_hebrew": "חיבור כתוב בנושא, בדרך כלל עבור מטלות בית ספר",
+                "example": "John wrote an essay about the impact of climate change on global economies.",
+                "example_hebrew": "ג'ון כתב חיבור על השפעת שינויי האקלים על הכלכלות העולמיות."
+            },
+            {
+                "definition": "An argumentative or persuasive piece of writing that explores a specific topic in depth",
+                "definition_hebrew": "כתבת טיעון או משכנעת החוקרת נושא מסוים לעומק",
+                "example": "The author's essay convincingly argues for stricter gun control laws.",
+                "example_hebrew": "חיבורו של המחבר טוען באופן משכנע לחוקים מחמירים יותר של פיקוח על נשק."
+            },
+            {
+                "definition": "A short piece of prose, often with an argumentative or interpretative thesis",
+                "definition_hebrew": "קטע פרוזה קצר, לרוב עם תזה טיעונית או פרשנית",
+                "example": "Her essay on the novel analyzed the underlying themes and character development.",
+                "example_hebrew": "החיבור שלה על הרומן ניתח את הנושאים הבסיסיים ואת התפתחות הדמויות."
+            }
+        ]
+    }
+]

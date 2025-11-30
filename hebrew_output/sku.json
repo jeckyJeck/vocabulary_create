@@ -1,0 +1,34 @@
+[
+    {
+        "word": "sku",
+        "word_hebrew": "sku",
+        "main_definition": "SKU is an acronym that stands for Stock Keeping Unit, a unique identifier for tracking inventory items in stores or warehouses.",
+        "main_definition_hebrew": "מק\"ט הוא ראשי תיבות של Stock Keeping Unit, מזהה ייחודי למעקב אחר פריטי מלאי בחנויות או במחסנים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Inventory Management Term",
+                "definition_hebrew": "תקופת ניהול מלאי",
+                "example": "The retailer assigned SKUs to each product to keep track of their stock levels.",
+                "example_hebrew": "הקמעונאי הקצה SKUs לכל מוצר כדי לעקוב אחר רמות המלאי שלו."
+            },
+            {
+                "definition": "Unique Product Identifier",
+                "definition_hebrew": "מזהה מוצר ייחודי",
+                "example": "When customers purchase the item online, they can find it by its SKU code on the e-commerce platform's website.",
+                "example_hebrew": "כאשר לקוחות רוכשים את הפריט באינטרנט, הם יכולים למצוא אותו לפי קוד המק\"ט שלו באתר של פלטפורמת המסחר האלקטרוני."
+            },
+            {
+                "definition": "Commercial Terminology for Barcode",
+                "definition_hebrew": "טרמינולוגיה מסחרית לברקוד",
+                "example": "The barcode scanner at the checkout counter reads the SKU to process the customer's payment and update inventory levels.",
+                "example_hebrew": "סורק הברקוד בדלפק הקופה קורא את מק\"ט כדי לעבד את התשלום של הלקוח ולעדכן את רמות המלאי."
+            },
+            {
+                "definition": "Not a commonly used slang or idiom",
+                "definition_hebrew": "לא סלנג או ניב נפוץ",
+                "example": "",
+                "example_hebrew": ""
+            }
+        ]
+    }
+]

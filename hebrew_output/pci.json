@@ -1,0 +1,28 @@
+[
+    {
+        "word": "pci",
+        "word_hebrew": "pci",
+        "main_definition": "Peripheral Component Interconnect is an electronic communication standard used to connect hardware devices in a computer.",
+        "main_definition_hebrew": "חיבור רכיבים היקפיים הוא תקן תקשורת אלקטרוני המשמש לחיבור התקני חומרה במחשב.",
+        "meanings_and_examples": [
+            {
+                "definition": "A type of bus used for connecting peripherals, such as graphics cards and hard drives, to the motherboard of a computer system.",
+                "definition_hebrew": "סוג אפיק המשמש לחיבור ציוד היקפי, כגון כרטיסים גרפיים וכוננים קשיחים, ללוח האם של מערכת מחשב.",
+                "example": "The PCI slot on my desktop PC is where I installed an additional high-speed network card.",
+                "example_hebrew": "חריץ ה-PCI במחשב השולחני שלי הוא המקום שבו התקנתי כרטיס רשת מהיר נוסף."
+            },
+            {
+                "definition": "A measure of data transfer speed in bits per second for devices connected via a PCI bus.",
+                "definition_hebrew": "מדד של מהירות העברת נתונים בסיביות לשנייה עבור התקנים המחוברים באמצעות אפיק PCI.",
+                "example": "My new sound card has a 100 MHz PCI clock, meaning it can handle fast audio processing.",
+                "example_hebrew": "לכרטיס הקול החדש שלי יש שעון PCI של 100 מגה-הרץ, כלומר הוא יכול להתמודד עם עיבוד שמע מהיר."
+            },
+            {
+                "definition": "An abbreviation that may refer to various computer-related terms or organizations sharing the same acronym.",
+                "definition_hebrew": "קיצור שעשוי להתייחס למונחים שונים הקשורים למחשב או לארגונים החולקים את אותו ראשי תיבות.",
+                "example": "When discussing computing standards, 'PCI' could be a topic of conversation due to its association with data transfer protocols.",
+                "example_hebrew": "כאשר דנים בתקני מחשוב, 'PCI' יכול להיות נושא לשיחה בשל הקשר שלו לפרוטוקולי העברת נתונים."
+            }
+        ]
+    }
+]

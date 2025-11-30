@@ -1,0 +1,40 @@
+[
+    {
+        "word": "installed",
+        "word_hebrew": "מוּתקָן",
+        "main_definition": "To set up or put into operation a system, program, device, or component.",
+        "main_definition_hebrew": "כדי להגדיר או להפעיל מערכת, תוכנית, התקן או רכיב.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of computer software, to install means to set up and enable an application so it can be used on a computer system. For example: 'I just installed the new photo editing software on my laptop.'",
+                "definition_hebrew": "בהקשר של תוכנת מחשב, להתקין פירושו להגדיר ולאפשר יישום כך שניתן יהיה להשתמש בו על מערכת מחשב. לדוגמה: 'התקנתי את התוכנה החדשה לעריכת תמונות במחשב הנייד שלי'.",
+                "example": "'After downloading, she went through the installation process for her video game.",
+                "example_hebrew": "\"לאחר ההורדה, היא עברה את תהליך ההתקנה של משחק הווידאו שלה."
+            },
+            {
+                "definition": "To put in place a physical device or component, such as an appliance or machinery. For example: 'The plumbing team installed a new water heater in our home.'",
+                "definition_hebrew": "כדי להרכיב מכשיר או רכיב פיזי, כגון מכשיר או מכונות. למשל: 'צוות האינסטלציה התקין בביתנו דוד חדש'.",
+                "example": "'The technicians installed the solar panels on my roof to power my house.'",
+                "example_hebrew": "'הטכנאים התקינו את הפאנלים הסולאריים על הגג שלי כדי להפעיל את הבית שלי.'"
+            },
+            {
+                "definition": "To formally establish someone in a position or role, particularly within an organization. For example: 'She was officially installed as CEO after her board approved her appointment.'",
+                "definition_hebrew": "להקים רשמית מישהו בתפקיד או בתפקיד, במיוחד בתוך ארגון. לדוגמה: 'היא הותקנה רשמית כמנכ\"לית לאחר שהדירקטוריון שלה אישר את מינויה'.",
+                "example": "'After years of hard work, he was finally installed as the captain of his soccer team.'",
+                "example_hebrew": "\"אחרי שנים של עבודה קשה, הוא סוף סוף הותקן כקפטן קבוצת הכדורגל שלו\"."
+            },
+            {
+                "definition": "To install a license or official authorization for someone to perform an action. For example: 'The company installed new security measures and licenses on their computers after a data breach.'",
+                "definition_hebrew": "כדי להתקין רישיון או הרשאה רשמית למישהו לבצע פעולה. לדוגמה: 'החברה התקינה אמצעי אבטחה ורישיונות חדשים במחשבים שלה לאחר פרצת נתונים'.",
+                "example": "'He had all the necessary permits installed before starting his construction project.'",
+                "example_hebrew": "'התקינו לו את כל האישורים הדרושים לפני שהתחיל בפרויקט הבנייה שלו'."
+            },
+            {
+                "definition": "To set up or prepare something for use, such as equipment or machinery. For example: 'Before we could start production, we needed to install our machines and tools.'",
+                "definition_hebrew": "להקים או להכין משהו לשימוש, כגון ציוד או מכונות. לדוגמא: 'לפני שיכולנו להתחיל בייצור, היינו צריכים להתקין את המכונות והכלים שלנו'.",
+                "example": "'It took them several days to properly install the stage props before opening night.'",
+                "example_hebrew": "\"לקח להם כמה ימים להתקין כראוי את אביזרי הבמה לפני ערב הפתיחה.\""
+            }
+        ]
+    }
+]

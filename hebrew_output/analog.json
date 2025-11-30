@@ -1,0 +1,28 @@
+[
+    {
+        "word": "analog",
+        "word_hebrew": "אנלוגי",
+        "main_definition": "In simple terms, 'analog' refers to something that is similar or comparable in certain aspects but not exactly the same, particularly when comparing it with digital technology.",
+        "main_definition_hebrew": "במילים פשוטות, 'אנלוגי' מתייחס למשהו דומה או בר השוואה בהיבטים מסוימים אך לא בדיוק זהה, במיוחד כאשר משווים אותו לטכנולוגיה דיגיטלית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Referring to a representation of data using continuous physical phenomena",
+                "definition_hebrew": "הכוונה לייצוג של נתונים באמצעות תופעות פיזיקליות מתמשכות",
+                "example": "An analog clock uses moving hands on a dial to represent time.",
+                "example_hebrew": "שעון אנלוגי משתמש מחוגים נעים על חוגה כדי לייצג את הזמן."
+            },
+            {
+                "definition": "Relating to or resembling something in form, nature, or characteristics",
+                "definition_hebrew": "מתייחס או דומה למשהו בצורה, טבע או מאפיינים",
+                "example": "Analogous colors are those that are adjacent to each other on the color wheel and share similarities.",
+                "example_hebrew": "צבעים אנלוגיים הם אלה שצמודים זה לזה בגלגל הצבעים וחולקים קווי דמיון."
+            },
+            {
+                "definition": "Describing a system or device that operates using continuously varying quantities rather than discrete values",
+                "definition_hebrew": "תיאור מערכת או מכשיר הפועלים תוך שימוש בכמויות המשתנות ללא הרף ולא בערכים נפרדים",
+                "example": "An analog television uses continuous waves of frequencies to transmit images, as opposed to digital TV which encodes signals into binary data.",
+                "example_hebrew": "טלוויזיה אנלוגית משתמשת בגלים מתמשכים של תדרים להעברת תמונות, בניגוד לטלוויזיה דיגיטלית המקודדת אותות לנתונים בינאריים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "variance",
+        "word_hebrew": "שׁוֹנוּת",
+        "main_definition": "Variance refers to the statistical dispersion of data points around their mean, or it can denote a significant difference in context when comparing two things.",
+        "main_definition_hebrew": "שונות מתייחסת לפיזור הסטטיסטי של נקודות הנתונים סביב הממוצע שלהן, או שהיא יכולה להצביע על הבדל משמעותי בהקשר כאשר משווים שני דברים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Statistical measure indicating how much scores differ from the average (mean) score",
+                "definition_hebrew": "מדד סטטיסטי המציין עד כמה הציונים שונים מהציון הממוצע (הממוצע).",
+                "example": "The variance of test scores was calculated to understand the spread of students' performance.",
+                "example_hebrew": "השונות של ציוני המבחנים חושבה כדי להבין את התפשטות הביצועים של התלמידים."
+            },
+            {
+                "definition": "Difference or deviation in context, often used when discussing changes or inconsistencies between two subjects",
+                "definition_hebrew": "הבדל או סטייה בהקשר, משמש לעתים קרובות כאשר דנים בשינויים או חוסר עקביות בין שני נושאים",
+                "example": "The variance in responses from different groups highlighted a significant difference in perceptions.",
+                "example_hebrew": "השונות בתגובות מקבוצות שונות הדגישה הבדל משמעותי בתפיסות."
+            },
+            {
+                "definition": "In probability and statistics, the square of the standard deviation of a random variable's distribution",
+                "definition_hebrew": "בהסתברות ובסטטיסטיקה, ריבוע סטיית התקן של התפלגות משתנה אקראי",
+                "example": "To determine the volatility or risk associated with an investment portfolio, analysts often compute the variance of returns.",
+                "example_hebrew": "כדי לקבוע את התנודתיות או הסיכון הקשורים לתיק השקעות, אנליסטים מחשבים לעתים קרובות את השונות של התשואות."
+            }
+        ]
+    }
+]

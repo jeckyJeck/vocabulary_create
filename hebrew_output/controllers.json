@@ -1,0 +1,34 @@
+[
+    {
+        "word": "controllers",
+        "word_hebrew": "בקרים",
+        "main_definition": "Controllers are individuals or devices that manage, direct, or operate other systems or equipment.",
+        "main_definition_hebrew": "בקרים הם אנשים או מכשירים המנהלים, מנהלים או מפעילים מערכות או ציוד אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Individuals in charge of operations and decision-making",
+                "definition_hebrew": "אנשים האחראים על תפעול וקבלת החלטות",
+                "example": "The controllers at the air traffic control center manage all incoming and outgoing flights.",
+                "example_hebrew": "הבקרים במרכז בקרת תעבורה אווירית מנהלים את כל הטיסות הנכנסות והיוצאות."
+            },
+            {
+                "definition": "Electronic devices used to manipulate or regulate other electronic systems",
+                "definition_hebrew": "מכשירים אלקטרוניים המשמשים לתמרן או לווסת מערכות אלקטרוניות אחרות",
+                "example": "A video game console with motion-sensing technology uses a controller for players to interact with the game environment.",
+                "example_hebrew": "קונסולת משחקי וידאו עם טכנולוגיית חישת תנועה משתמשת בבקר עבור שחקנים לאינטראקציה עם סביבת המשחק."
+            },
+            {
+                "definition": "People responsible for managing and coordinating specific processes in businesses",
+                "definition_hebrew": "אנשים האחראים על ניהול ותיאום תהליכים ספציפיים בעסקים",
+                "example": "The controllers oversee production schedules, manage inventory, and coordinate logistics within a manufacturing plant.",
+                "example_hebrew": "הבקרים מפקחים על לוחות הזמנים של הייצור, מנהלים מלאי ומתאמים לוגיסטיקה בתוך מפעל ייצור."
+            },
+            {
+                "definition": "Gaming devices that allow users to interact with virtual environments",
+                "definition_hebrew": "מכשירי משחק המאפשרים למשתמשים אינטראקציה עם סביבות וירטואליות",
+                "example": "Driving game players use steering wheels as controllers to simulate the experience of operating a vehicle in-game.",
+                "example_hebrew": "שחקני משחק נהיגה משתמשים בגלגלי הגה כבקרים כדי לדמות את חוויית הפעלת הרכב במשחק."
+            }
+        ]
+    }
+]

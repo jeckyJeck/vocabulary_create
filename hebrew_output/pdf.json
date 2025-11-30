@@ -1,0 +1,28 @@
+[
+    {
+        "word": "pdf",
+        "word_hebrew": "pdf",
+        "main_definition": "PDF stands for Portable Document Format, a file format used to present documents in a manner independent of application software, hardware, and operating systems.",
+        "main_definition_hebrew": "PDF ראשי תיבות של Portable Document Format, פורמט קובץ המשמש להצגת מסמכים באופן בלתי תלוי בתוכנת יישומים, חומרה ומערכות הפעלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "File format",
+                "definition_hebrew": "פורמט קובץ",
+                "example": "The report was saved as a PDF document.",
+                "example_hebrew": "הדוח נשמר כמסמך PDF."
+            },
+            {
+                "definition": "Portable Document Format",
+                "definition_hebrew": "פורמט מסמך נייד",
+                "example": "I received your resume in PDF format, which allows me to view it on my computer without losing any formatting.",
+                "example_hebrew": "קיבלתי את קורות החיים שלך בפורמט PDF, המאפשר לי לצפות בהם במחשב מבלי לאבד שום עיצוב."
+            },
+            {
+                "definition": "Adobe's software product",
+                "definition_hebrew": "מוצר התוכנה של אדובי",
+                "example": "To convert the Word document into a PDF file, I used Adobe Acrobat Reader.",
+                "example_hebrew": "כדי להמיר את מסמך ה-Word לקובץ PDF, השתמשתי ב-Adobe Acrobat Reader."
+            }
+        ]
+    }
+]

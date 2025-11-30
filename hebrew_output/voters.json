@@ -1,0 +1,28 @@
+[
+    {
+        "word": "voters",
+        "word_hebrew": "מצביעים",
+        "main_definition": "Individuals who participate in the voting process to elect representatives or make decisions on various issues.",
+        "main_definition_hebrew": "אנשים המשתתפים בתהליך ההצבעה לבחירת נציגים או קבלת החלטות בנושאים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "People with a right to vote in an election",
+                "definition_hebrew": "אנשים עם זכות הצבעה בבחירות",
+                "example": "The eligible voters were reminded of their civic duty.",
+                "example_hebrew": "בעלי זכות הבחירה נזכרו בחובתם האזרחית."
+            },
+            {
+                "definition": "Members of the electorate who cast their ballots in an election or referendum",
+                "definition_hebrew": "חברי ציבור הבוחרים שהצביעו בבחירות או במשאל עם",
+                "example": "During the mayoral race, the turnout of voters was surprisingly high.",
+                "example_hebrew": "במהלך המירוץ לראשות העירייה, שיעור ההצבעה של המצביעים היה גבוה באופן מפתיע."
+            },
+            {
+                "definition": "Participants in a primary election, caucus, or other preliminary voting event",
+                "definition_hebrew": "משתתפים בבחירות מקדימות, בוועידה או באירועי הצבעה מוקדמים אחרים",
+                "example": "The young voters showed great enthusiasm at the local Democratic Caucus.",
+                "example_hebrew": "הבוחרים הצעירים גילו התלהבות רבה בוועד הדמוקרטי המקומי."
+            }
+        ]
+    }
+]

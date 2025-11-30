@@ -1,0 +1,46 @@
+[
+    {
+        "word": "access",
+        "word_hebrew": "גִישָׁה",
+        "main_definition": "The ability or right to approach, enter, use, or retrieve something.",
+        "main_definition_hebrew": "היכולת או הזכות לגשת, להיכנס, להשתמש או לאחזר משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Ability to reach or obtain something.",
+                "definition_hebrew": "יכולת להגיע או להשיג משהו.",
+                "example": "I have access to the company's financial records.",
+                "example_hebrew": "יש לי גישה לרישומים הכספיים של החברה."
+            },
+            {
+                "definition": "The act of entering a place, system, or network.",
+                "definition_hebrew": "פעולת הכניסה למקום, מערכת או רשת.",
+                "example": "You need to grant her access to your computer files.",
+                "example_hebrew": "אתה צריך להעניק לה גישה לקבצי המחשב שלך."
+            },
+            {
+                "definition": "Provision for using facilities or services.",
+                "definition_hebrew": "הפרשה לשימוש במתקנים או שירותים.",
+                "example": "Our office building offers parking access and gym facilities.",
+                "example_hebrew": "בניין המשרדים שלנו מציע גישה לחניה ומתקני חדר כושר."
+            },
+            {
+                "definition": "A means of communication or connection with someone, typically via the internet.",
+                "definition_hebrew": "אמצעי תקשורת או חיבור עם מישהו, בדרך כלל דרך האינטרנט.",
+                "example": "The email server has a reliable access to the outside world.",
+                "example_hebrew": "לשרת האימייל יש גישה אמינה לעולם החיצון."
+            },
+            {
+                "definition": "Provision for using resources such as water, electricity, etc.",
+                "definition_hebrew": "הפרשה לשימוש במשאבים כגון מים, חשמל וכו'.",
+                "example": "Our new smart home setup includes easy access to renewable energy sources.",
+                "example_hebrew": "מערך הבית החכם החדש שלנו כולל גישה נוחה למקורות אנרגיה מתחדשים."
+            },
+            {
+                "definition": "The extent to which one can use or reach something.",
+                "definition_hebrew": "המידה שבה אפשר להשתמש או להגיע למשהו.",
+                "example": "This book is inaccessible for most people due to its high price and limited copies.",
+                "example_hebrew": "ספר זה אינו נגיש עבור רוב האנשים בשל מחירו הגבוה והעותקים המוגבלים שלו."
+            }
+        ]
+    }
+]

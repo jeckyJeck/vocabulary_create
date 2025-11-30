@@ -1,0 +1,28 @@
+[
+    {
+        "word": "const",
+        "word_hebrew": "const",
+        "main_definition": "In programming, 'const' is a keyword used to declare a variable that cannot be reassigned or modified after it has been initialized.",
+        "main_definition_hebrew": "בתכנות, 'const' היא מילת מפתח המשמשת להכרזה על משתנה שלא ניתן להקצות מחדש או לשנות לאחר אתחולו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A value in mathematics that remains constant over time or under various conditions",
+                "definition_hebrew": "ערך במתמטיקה שנשאר קבוע לאורך זמן או בתנאים שונים",
+                "example": "In the equation y = 3x + const, the 'const' represents a fixed number that does not change.",
+                "example_hebrew": "במשוואה y = 3x + const, ה'const' מייצג מספר קבוע שאינו משתנה."
+            },
+            {
+                "definition": "Used to describe something unchangeable or permanent in programming contexts",
+                "definition_hebrew": "משמש לתיאור משהו בלתי ניתן לשינוי או קבוע בהקשרי תכנות",
+                "example": "The age of the user is considered as a 'const' value since it doesn't change once set at account creation.",
+                "example_hebrew": "גיל המשתמש נחשב כערך 'קונסט' מכיוון שהוא אינו משתנה ברגע שהוא מוגדר בעת יצירת החשבון."
+            },
+            {
+                "definition": "An abbreviation for constant in various English-language acronyms and shorthand notations",
+                "definition_hebrew": "קיצור של קבוע בראשי תיבות ובסימני קיצור שונים באנגלית",
+                "example": "'CONST' may be used to represent the word 'constant' when writing quick notes or communicating complex terms briefly.",
+                "example_hebrew": "ניתן להשתמש ב-'CONST' כדי לייצג את המילה 'קבוע' בעת כתיבת הערות מהירות או העברת מונחים מורכבים בקצרה."
+            }
+        ]
+    }
+]

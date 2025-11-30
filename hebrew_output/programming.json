@@ -1,0 +1,46 @@
+[
+    {
+        "word": "programming",
+        "word_hebrew": "תִכנוּת",
+        "main_definition": "Programming is the process of creating a set of instructions that can be executed by a computer to perform specific tasks or solve problems.",
+        "main_definition_hebrew": "תכנות הוא תהליך של יצירת קבוצה של הוראות שניתן לבצע על ידי מחשב כדי לבצע משימות ספציפיות או לפתור בעיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The activity of writing code in programming languages",
+                "definition_hebrew": "פעילות כתיבת קוד בשפות תכנות",
+                "example": "She spends hours every day programming new software applications.",
+                "example_hebrew": "היא מבלה שעות מדי יום בתכנות יישומי תוכנה חדשים."
+            },
+            {
+                "definition": "The process of designing, implementing, and maintaining computer programs",
+                "definition_hebrew": "תהליך תכנון, הטמעה ותחזוקה של תוכנות מחשב",
+                "example": "He is a professional programmer with extensive experience in web development.",
+                "example_hebrew": "הוא מתכנת מקצועי עם ניסיון רב בפיתוח אתרים."
+            },
+            {
+                "definition": "A set of instructions or commands written in a programming language to be executed by a computer",
+                "definition_hebrew": "קבוצה של הוראות או פקודות שנכתבו בשפת תכנות לביצוע על ידי מחשב",
+                "example": "The program he wrote calculates the sum of all prime numbers less than 100.",
+                "example_hebrew": "התוכנית שכתב מחשבת את הסכום של כל המספרים הראשוניים הנמוכים מ-100."
+            },
+            {
+                "definition": "An educational degree or field focused on teaching and learning how to write code for computers",
+                "definition_hebrew": "תואר או תחום חינוכי המתמקד בהוראה ולימוד כתיבת קוד למחשבים",
+                "example": "She is studying computer programming at university.",
+                "example_hebrew": "היא לומדת תכנות מחשבים באוניברסיטה."
+            },
+            {
+                "definition": "The act of arranging data in a specific order, typically within a dataset or file",
+                "definition_hebrew": "הפעולה של סידור נתונים בסדר מסוים, בדרך כלל בתוך מערך נתונים או קובץ",
+                "example": "Programming the database to sort customer names alphabetically.",
+                "example_hebrew": "תכנות מסד הנתונים למיון שמות לקוחות בסדר אלפביתי."
+            },
+            {
+                "definition": "The art and science of problem-solving using computational techniques",
+                "definition_hebrew": "האמנות והמדע של פתרון בעיות באמצעות טכניקות חישוביות",
+                "example": "His expertise lies in algorithm programming for data analysis tasks.",
+                "example_hebrew": "המומחיות שלו טמונה בתכנות אלגוריתמים למשימות ניתוח נתונים."
+            }
+        ]
+    }
+]

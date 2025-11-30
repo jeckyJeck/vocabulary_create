@@ -1,0 +1,40 @@
+[
+    {
+        "word": "returning",
+        "word_hebrew": "חוזר",
+        "main_definition": "The act of going or coming back to a place, person, or situation after being away.",
+        "main_definition_hebrew": "פעולת היציאה או החזרה למקום, לאדם או למצב לאחר היעדרות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Going back home or returning from another location",
+                "definition_hebrew": "חוזרים הביתה או חוזרים ממקום אחר",
+                "example": "After her vacation in Europe, she was looking forward to returning home.",
+                "example_hebrew": "אחרי חופשתה באירופה, היא ציפתה לחזור הביתה."
+            },
+            {
+                "definition": "Returning a borrowed item or payment for something received",
+                "definition_hebrew": "החזרת פריט מושאל או תשלום עבור משהו שהתקבל",
+                "example": "I am returning the book I borrowed from the library today.",
+                "example_hebrew": "אני מחזיר היום את הספר ששאלתי מהספרייה."
+            },
+            {
+                "definition": "A movie that is based on an existing story and re-tells it, often with changes",
+                "definition_hebrew": "סרט שמבוסס על סיפור קיים ומספר אותו מחדש, לרוב עם שינויים",
+                "example": "The new 'Return of the Jedi' film follows the original trilogy in the Star Wars universe.",
+                "example_hebrew": "הסרט החדש של 'שובו של הג'דיי' עוקב אחר הטרילוגיה המקורית ביקום מלחמת הכוכבים."
+            },
+            {
+                "definition": "Giving back or returning something to a place where it belongs",
+                "definition_hebrew": "להחזיר או להחזיר משהו למקום אליו הוא שייך",
+                "example": "He returned the lost wallet to the police station with all its contents intact.",
+                "example_hebrew": "הוא החזיר את הארנק האבוד לתחנת המשטרה כשכל תכולתו שלמה."
+            },
+            {
+                "definition": "Reverting to an earlier state, position, condition, or appearance",
+                "definition_hebrew": "חזרה למצב, עמדה, מצב או מראה קודמים",
+                "example": "After losing weight and improving his health, he had to return to his old habits of eating junk food regularly.",
+                "example_hebrew": "לאחר ירידה במשקל ושיפור בריאותו, הוא נאלץ לחזור להרגליו הישנים של אכילת ג'אנק פוד באופן קבוע."
+            }
+        ]
+    }
+]

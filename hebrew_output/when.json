@@ -1,0 +1,40 @@
+[
+    {
+        "word": "when",
+        "word_hebrew": "מתי",
+        "main_definition": "a word used to refer to a specific time or condition, often in questions and idioms.",
+        "main_definition_hebrew": "מילה המשמשת להתייחסות לזמן או מצב ספציפי, לעתים קרובות בשאלות ובניבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "to indicate the time at which something happens",
+                "definition_hebrew": "כדי לציין את השעה שבה משהו קורה",
+                "example": "I usually go for a run when it's not too hot outside.",
+                "example_hebrew": "אני בדרך כלל יוצאת לריצה כשלא חם מדי בחוץ."
+            },
+            {
+                "definition": "used in questions to ask about time or condition",
+                "definition_hebrew": "משמש בשאלות כדי לשאול על זמן או מצב",
+                "example": "When will you be arriving?",
+                "example_hebrew": "מתי תגיעו?"
+            },
+            {
+                "definition": "indicating that something happens under certain conditions",
+                "definition_hebrew": "מצביע על כך שמשהו קורה בתנאים מסוימים",
+                "example": "You can't see the stars when it's a full moon.",
+                "example_hebrew": "אתה לא יכול לראות את הכוכבים כשזה ירח מלא."
+            },
+            {
+                "definition": "used to introduce examples or exceptions in statements",
+                "definition_hebrew": "משמש להצגת דוגמאות או חריגים בהצהרות",
+                "example": "There are many ways to solve this problem, but only some will work well; for example, when using certain formulas, you may need additional data.",
+                "example_hebrew": "ישנן דרכים רבות לפתור בעיה זו, אך רק חלקן יעבדו היטב; לדוגמה, בעת שימוש בנוסחאות מסוימות, ייתכן שתזדקק לנתונים נוספים."
+            },
+            {
+                "definition": "used to connect two ideas or actions that happen simultaneously or have a cause-effect relationship",
+                "definition_hebrew": "משמש לחיבור בין שני רעיונות או פעולות המתרחשות בו זמנית או שיש להן קשר סיבה-תוצאה",
+                "example": "When she realized her mistake, she immediately apologized.",
+                "example_hebrew": "כשהבינה את טעותה, היא מיד התנצלה."
+            }
+        ]
+    }
+]

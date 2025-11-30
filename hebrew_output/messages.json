@@ -1,0 +1,34 @@
+[
+    {
+        "word": "messages",
+        "word_hebrew": "הודעות",
+        "main_definition": "Messages refer to written or electronic communications sent from one person to another, typically conveying information, news, or greetings.",
+        "main_definition_hebrew": "הודעות מתייחסות לתקשורת כתובה או אלקטרונית הנשלחת מאדם אחד לאחר, בדרך כלל מעבירות מידע, חדשות או ברכות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A form of communication in digital platforms",
+                "definition_hebrew": "צורת תקשורת בפלטפורמות דיגיטליות",
+                "example": "I received several messages on my social media account today.",
+                "example_hebrew": "קיבלתי מספר הודעות בחשבון המדיה החברתית שלי היום."
+            },
+            {
+                "definition": "Notifications or alerts from applications",
+                "definition_hebrew": "התראות או התראות מאפליקציות",
+                "example": "The app sent me a message when I completed the task successfully.",
+                "example_hebrew": "האפליקציה שלחה לי הודעה כאשר סיימתי את המשימה בהצלחה."
+            },
+            {
+                "definition": "Letters, emails, or text messages exchanged between individuals",
+                "definition_hebrew": "מכתבים, אימיילים או הודעות טקסט שהוחלפו בין אנשים",
+                "example": "She wrote him a heartfelt message to express her gratitude.",
+                "example_hebrew": "היא כתבה לו הודעה מכל הלב כדי להביע את הכרת תודה."
+            },
+            {
+                "definition": "Messages from someone in authority such as government agencies",
+                "definition_hebrew": "הודעות מאדם בעל סמכות כגון סוכנויות ממשלתיות",
+                "example": "I got an official message about my tax return status.",
+                "example_hebrew": "קיבלתי הודעה רשמית לגבי מצב החזרי המס שלי."
+            }
+        ]
+    }
+]

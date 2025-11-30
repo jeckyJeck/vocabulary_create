@@ -1,0 +1,34 @@
+[
+    {
+        "word": "charts",
+        "word_hebrew": "תרשימים",
+        "main_definition": "Charts are visual representations of data, trends, or information that help to analyze and understand complex subjects.",
+        "main_definition_hebrew": "תרשימים הם ייצוגים חזותיים של נתונים, מגמות או מידע שעוזרים לנתח ולהבין נושאים מורכבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A graphical representation of numerical data",
+                "definition_hebrew": "ייצוג גרפי של נתונים מספריים",
+                "example": "The sales chart showed a steady increase in revenue over the past quarter.",
+                "example_hebrew": "טבלת המכירות הראתה עלייה מתמדת בהכנסות ברבעון האחרון."
+            },
+            {
+                "definition": "To record and present information using charts or graphs",
+                "definition_hebrew": "כדי להקליט ולהציג מידע באמצעות תרשימים או גרפים",
+                "example": "She will chart the daily temperatures for the upcoming week to track any changes.",
+                "example_hebrew": "היא תשרטט את הטמפרטורות היומיות לשבוע הקרוב כדי לעקוב אחר השינויים."
+            },
+            {
+                "definition": "A record of events, typically arranged chronologically",
+                "definition_hebrew": "תיעוד של אירועים, מסודרים בדרך כלל באופן כרונולוגי",
+                "example": "The history textbook included a timeline with key events from World War II depicted in charts.",
+                "example_hebrew": "ספר הלימוד בהיסטוריה כלל ציר זמן עם אירועים מרכזיים ממלחמת העולם השנייה המתוארים בתרשימים."
+            },
+            {
+                "definition": "To make known or publicize something through the use of charts and graphs",
+                "definition_hebrew": "להודיע או לפרסם משהו באמצעות תרשימים וגרפים",
+                "example": "The research team published their findings, including various charts to illustrate data trends.",
+                "example_hebrew": "צוות המחקר פרסם את ממצאיו, כולל תרשימים שונים כדי להמחיש מגמות נתונים."
+            }
+        ]
+    }
+]

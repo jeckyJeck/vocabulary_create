@@ -1,0 +1,34 @@
+[
+    {
+        "word": "merchant",
+        "word_hebrew": "סוֹחֵר",
+        "main_definition": "A merchant is a person or entity involved in the buying, selling, or trade of goods, typically as part of an economic activity.",
+        "main_definition_hebrew": "סוחר הוא אדם או ישות המעורבים בקנייה, מכירה או סחר של סחורות, בדרך כלל כחלק מפעילות כלכלית.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual who trades in goods for profit by buying and reselling them",
+                "definition_hebrew": "אדם שסוחר בסחורות למטרות רווח על ידי קנייה ומכירה חוזרת שלהן",
+                "example": "John is a merchant who specializes in selling handcrafted furniture.",
+                "example_hebrew": "ג'ון הוא סוחר המתמחה במכירת רהיטים בעבודת יד."
+            },
+            {
+                "definition": "A person engaged in business that deals with the sale of merchandise, either wholesale or retail",
+                "definition_hebrew": "אדם העוסק בעסק העוסק במכירת סחורה, סיטונאי או קמעונאי",
+                "example": "The local grocery store owner is a merchant who provides food and household items to customers.",
+                "example_hebrew": "בעל המכולת המקומי הוא סוחר המספק מזון וכלי בית ללקוחות."
+            },
+            {
+                "definition": "Someone who conducts trade in a particular marketplace or through a specific business entity",
+                "definition_hebrew": "מי שמבצע מסחר בשוק מסוים או דרך גוף עסקי ספציפי",
+                "example": "An online retailer operating an e-commerce platform is considered a digital merchant selling various products worldwide.",
+                "example_hebrew": "קמעונאי מקוון המפעיל פלטפורמת מסחר אלקטרוני נחשב לסוחר דיגיטלי שמוכר מוצרים שונים ברחבי העולם."
+            },
+            {
+                "definition": "A historical term referring to individuals involved in the exchange of goods and services during ancient times or before modern banking systems",
+                "definition_hebrew": "מונח היסטורי המתייחס לאנשים המעורבים בהחלפת סחורות ושירותים בתקופות קדומות או לפני מערכות בנקאיות מודרניות",
+                "example": "In medieval Europe, a merchant might have operated by barter trade, exchanging their own products for items they needed.",
+                "example_hebrew": "באירופה של ימי הביניים, ייתכן שסוחר פעל באמצעות סחר חליפין, והחליף את המוצרים שלו בפריטים שהם צריכים."
+            }
+        ]
+    }
+]

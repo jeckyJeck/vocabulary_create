@@ -1,0 +1,34 @@
+[
+    {
+        "word": "sec",
+        "word_hebrew": "שניות",
+        "main_definition": "A unit of time equal to 1/60th of a minute, often used in cooking or technical contexts.",
+        "main_definition_hebrew": "יחידת זמן השווה ל-1/60 הדקה, משמשת לעתים קרובות בבישול או בהקשרים טכניים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In sports, particularly basketball and volleyball, 'sec' refers to one second. It is also commonly used to denote the duration an action takes on a court during gameplay.",
+                "definition_hebrew": "בספורט, במיוחד כדורסל וכדורעף, 'שני' מתייחס לשנייה אחת. זה גם נפוץ כדי לציין את משך הפעולה שלוקחת במגרש במהלך המשחק.",
+                "example": "The referee blew his whistle for a 2-second violation when the player held onto the ball for too long.",
+                "example_hebrew": "השופט שרק עבור הפרה של 2 שניות כאשר השחקן החזיק בכדור יותר מדי זמן."
+            },
+            {
+                "definition": "In finance and economics, 'sec' can refer to secondary security. These are securities issued by companies or governments that have already been issued primary securities.",
+                "definition_hebrew": "בפיננסים ובכלכלה, 'שני' יכול להתייחס לאבטחה משנית. אלו הם ניירות ערך שהונפקו על ידי חברות או ממשלות שכבר הונפקו בניירות ערך ראשוניים.",
+                "example": "The company decided to issue additional shares as sec after its initial public offering.",
+                "example_hebrew": "החברה החליטה להנפיק מניות נוספות כשנייה לאחר ההנפקה הראשונית שלה."
+            },
+            {
+                "definition": "In cooking, 'sec' is a term used in French cuisine. It refers to the process of drying meat or fish by salting and air-drying it.",
+                "definition_hebrew": "בבישול, 'שק' הוא מונח המשמש במטבח הצרפתי. זה מתייחס לתהליך של ייבוש בשר או דגים על ידי המלחה וייבוש באוויר.",
+                "example": "To make beef sec, first salt and then air-dry thin slices of beef.",
+                "example_hebrew": "כדי להכין שניות בקר, תחילה מלח ולאחר מכן יבש באוויר פרוסות דקות של בקר."
+            },
+            {
+                "definition": "In technology and broadcasting, 'sec' refers to a second. It is often used in the context of audio synchronization or frame timing.",
+                "definition_hebrew": "בטכנולוגיה ובשידור, 'שני' מתייחס לשניה. הוא משמש לעתים קרובות בהקשר של סנכרון אודיו או תזמון פריים.",
+                "example": "The audio was out of sync by 10 sec with the video during the live stream.",
+                "example_hebrew": "האודיו לא היה מסונכרן ב-10 שניות עם הסרטון במהלך השידור החי."
+            }
+        ]
+    }
+]

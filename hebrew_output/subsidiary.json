@@ -1,0 +1,34 @@
+[
+    {
+        "word": "subsidiary",
+        "word_hebrew": "חברה בת",
+        "main_definition": "A subsidiary is a company that is controlled by another company, known as the parent company.",
+        "main_definition_hebrew": "חברת בת היא חברה הנשלטת על ידי חברה אחרת, המכונה חברת האם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Secondary or supporting entity to a main company",
+                "definition_hebrew": "ישות משנית או תומכת לחברה ראשית",
+                "example": "ABC Corporation has XYZ Inc. as its subsidiary.",
+                "example_hebrew": "ל-ABC Corporation יש את XYZ Inc. כחברה בת שלה."
+            },
+            {
+                "definition": "A smaller company that is owned by a larger corporation",
+                "definition_hebrew": "חברה קטנה יותר שנמצאת בבעלות תאגיד גדול יותר",
+                "example": "The parent company, MegaCorp, owns several subsidiaries in the automotive industry.",
+                "example_hebrew": "חברת האם, MegaCorp, מחזיקה בכמה חברות בת בתעשיית הרכב."
+            },
+            {
+                "definition": "An entity created for specific business or strategic purposes",
+                "definition_hebrew": "ישות שנוצרה למטרות עסקיות או אסטרטגיות ספציפיות",
+                "example": "To enter new markets, ABC Enterprises established a subsidiary called Global Expansion Ltd.",
+                "example_hebrew": "כדי להיכנס לשווקים חדשים, ABC Enterprises הקימה חברת בת בשם Global Expansion Ltd."
+            },
+            {
+                "definition": "A company that operates independently but is partially owned by another company",
+                "definition_hebrew": "חברה הפועלת באופן עצמאי אך בבעלות חלקית של חברה אחרת",
+                "example": "Despite being a subsidiary of BigBank Corp, FastLoan Finance maintains its own brand and identity.",
+                "example_hebrew": "למרות היותה חברת בת של BigBank Corp, FastLoan Finance שומרת על מותג וזהות משלה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "void",
+        "word_hebrew": "בָּטֵל",
+        "main_definition": "Void refers to something that is empty, lacking in value or significance, or having no legal effect.",
+        "main_definition_hebrew": "ריק מתייחס למשהו שהוא ריק, חסר ערך או משמעות, או שאין לו השפעה משפטית.",
+        "meanings_and_examples": [
+            {
+                "definition": "empty or without content",
+                "definition_hebrew": "ריק או ללא תוכן",
+                "example": "The container was void of any liquid.",
+                "example_hebrew": "המיכל היה ריק מכל נוזל."
+            },
+            {
+                "definition": "lacking meaningfulness or significance",
+                "definition_hebrew": "חסר משמעות או משמעות",
+                "example": "His apology seemed to be in vain, as if it were just a void gesture.",
+                "example_hebrew": "ההתנצלות שלו נראתה לשווא, כאילו הייתה זו רק מחווה ריקה."
+            },
+            {
+                "definition": "having no legal effect or validity",
+                "definition_hebrew": "ללא תוקף או תוקף משפטי",
+                "example": "The contract was declared void due to lack of proper signatures.",
+                "example_hebrew": "החוזה הוכרז בטל עקב היעדר חתימות מתאימות."
+            },
+            {
+                "definition": "a term used in mathematics and physics meaning zero volume, capacity, or extent",
+                "definition_hebrew": "מונח המשמש במתמטיקה ובפיזיקה שפירושו אפס נפח, קיבולת או מידה",
+                "example": "When measuring the force field around a magnet, we often refer to regions that have no effect as 'void' areas.",
+                "example_hebrew": "כאשר מודדים את שדה הכוח סביב מגנט, אנו מתייחסים לעתים קרובות לאזורים שאין להם השפעה כאזורים 'ריקים'."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "alerts",
+        "word_hebrew": "התראות",
+        "main_definition": "Alerts are notifications or warnings that inform about certain events, occurrences, or conditions, requiring immediate attention or action.",
+        "main_definition_hebrew": "התראות הן התראות או אזהרות המודיעות על אירועים, התרחשויות או תנאים מסוימים, הדורשים התייחסות או פעולה מיידית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Automated messages sent to notify users of updates or new information",
+                "definition_hebrew": "הודעות אוטומטיות שנשלחו כדי להודיע למשתמשים על עדכונים או מידע חדש",
+                "example": "The weather alert app sends me notifications whenever there's a storm in my area.",
+                "example_hebrew": "אפליקציית התראות מזג האוויר שולחת לי התראות בכל פעם שיש סערה באזור שלי."
+            },
+            {
+                "definition": "Security system signals indicating potential threats or dangers",
+                "definition_hebrew": "איתותים של מערכת האבטחה המציינים איומים או סכנות פוטנציאליות",
+                "example": "My home security alarm triggered an alert on my phone when it detected motion outside the house at night.",
+                "example_hebrew": "אזעקת האבטחה הביתית שלי הפעילה התראה בטלפון שלי כאשר היא זיהתה תנועה מחוץ לבית בלילה."
+            },
+            {
+                "definition": "Messages from healthcare providers about patient test results or conditions",
+                "definition_hebrew": "הודעות מספקי שירותי בריאות לגבי תוצאות או מצבים של בדיקות מטופלים",
+                "example": "I received a medical alert stating that my blood pressure readings were abnormally high during last week's check-up.",
+                "example_hebrew": "קיבלתי התראה רפואית לפיה קריאות לחץ הדם שלי היו גבוהות באופן חריג במהלך הבדיקה בשבוע שעבר."
+            },
+            {
+                "definition": "Notifications related to changes in online services, applications, or content accessibility",
+                "definition_hebrew": "התראות הקשורות לשינויים בשירותים מקוונים, יישומים או נגישות לתוכן",
+                "example": "The social media platform sent an alert about a new feature update that allows customizing the user interface.",
+                "example_hebrew": "פלטפורמת המדיה החברתית שלחה התראה על עדכון פיצ'ר חדש המאפשר התאמה אישית של ממשק המשתמש."
+            },
+            {
+                "definition": "Vehicle safety messages indicating emergency situations or maintenance issues",
+                "definition_hebrew": "הודעות בטיחות לרכב המצביעות על מצבי חירום או בעיות תחזוקה",
+                "example": "My car's dashboard displayed an alert with a warning symbol, suggesting low tire pressure.",
+                "example_hebrew": "לוח המחוונים של המכונית שלי הציג התראה עם סמל אזהרה, המצביע על לחץ אוויר נמוך בצמיגים."
+            }
+        ]
+    }
+]

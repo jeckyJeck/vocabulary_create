@@ -1,0 +1,34 @@
+[
+    {
+        "word": "january",
+        "word_hebrew": "יָנוּאָר",
+        "main_definition": "The first month of the year in the Gregorian calendar, typically associated with new beginnings and resolutions.",
+        "main_definition_hebrew": "החודש הראשון של השנה בלוח הגרגוריאני, קשור בדרך כלל להתחלות והחלטות חדשות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Month name",
+                "definition_hebrew": "שם החודש",
+                "example": "My birthday is in January.",
+                "example_hebrew": "יום ההולדת שלי הוא בינואר."
+            },
+            {
+                "definition": "Symbol of new beginnings or fresh starts",
+                "definition_hebrew": "סמל של התחלות חדשות או התחלות חדשות",
+                "example": "As the first month of the year, January represents a time to set goals and start afresh for the coming year.",
+                "example_hebrew": "כחודש הראשון של השנה, ינואר מייצג זמן להגדיר יעדים ולהתחיל מחדש לשנה הקרובה."
+            },
+            {
+                "definition": "Time period between December 31st and February 28th/29th in non-leap years or leap years",
+                "definition_hebrew": "פרק זמן בין 31 בדצמבר ל-28/29 בפברואר בשנים לא מעוברות או שנים מעוברות",
+                "example": "The holiday season typically ends on January 1st, marking the start of a new year.",
+                "example_hebrew": "תקופת החגים מסתיימת בדרך כלל ב-1 בינואר, ומסמנת את תחילתה של שנה חדשה."
+            },
+            {
+                "definition": "Historical reference to Roman Emperor Gaius Caesar Augustus Germanicus (commonly known as Caligula)",
+                "definition_hebrew": "התייחסות היסטורית לקיסר הרומי גאיוס קיסר אוגוסטוס גרמניקוס (הידוע בכינויו קליגולה)",
+                "example": "Some people say they can't stand January because it reminds them of the chaos associated with the reign of Caligula.",
+                "example_hebrew": "יש אנשים שאומרים שהם לא יכולים לסבול את ינואר כי זה מזכיר להם את הכאוס הקשור לתקופת שלטונו של קליגולה."
+            }
+        ]
+    }
+]

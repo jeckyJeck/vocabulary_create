@@ -1,0 +1,28 @@
+[
+    {
+        "word": "cordless",
+        "word_hebrew": "אלחוטי",
+        "main_definition": "A device or tool that operates without the need for a physical cord connecting it to an electrical outlet, often powered by rechargeable batteries.",
+        "main_definition_hebrew": "מכשיר או כלי הפועל ללא צורך בכבל פיזי המחבר אותו לשקע חשמל, המופעל לרוב באמצעות סוללות נטענות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Devices free of cords",
+                "definition_hebrew": "מכשירים ללא כבלים",
+                "example": "A cordless drill eliminates the need for a long power cord.",
+                "example_hebrew": "מקדחה אלחוטית מבטלת את הצורך בכבל חשמל ארוך."
+            },
+            {
+                "definition": "Equipment not reliant on mains electricity",
+                "definition_hebrew": "ציוד שאינו תלוי בחשמל",
+                "example": "Cordless vacuum cleaners are portable and can be used without being plugged into an electrical socket.",
+                "example_hebrew": "שואבי אבק אלחוטיים הם ניידים וניתן להשתמש בהם מבלי להיות מחוברים לשקע חשמל."
+            },
+            {
+                "definition": "Tools or appliances that run on battery power",
+                "definition_hebrew": "כלים או מכשירים הפועלים על סוללה",
+                "example": "A cordless phone operates using rechargeable batteries instead of a direct wired connection.",
+                "example_hebrew": "טלפון אלחוטי פועל באמצעות סוללות נטענות במקום חיבור קווי ישיר."
+            }
+        ]
+    }
+]

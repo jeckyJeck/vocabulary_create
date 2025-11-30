@@ -1,0 +1,40 @@
+[
+    {
+        "word": "proof",
+        "word_hebrew": "הוכחה",
+        "main_definition": "Proof refers to evidence or a convincing demonstration that something is true, valid, or effective.",
+        "main_definition_hebrew": "הוכחה מתייחסת לראיה או הוכחה משכנעת שמשהו נכון, תקף או יעיל.",
+        "meanings_and_examples": [
+            {
+                "definition": "Evidence supporting a claim or statement",
+                "definition_hebrew": "ראיות התומכות בטענה או הצהרה",
+                "example": "The DNA test served as solid proof of his innocence.",
+                "example_hebrew": "בדיקת ה-DNA שימשה הוכחה מוצקה לחפותו."
+            },
+            {
+                "definition": "A demonstration that something is effective or valid",
+                "definition_hebrew": "הדגמה שמשהו יעיל או תקף",
+                "example": "Taste tests can provide proof that the new recipe tastes better than the old one.",
+                "example_hebrew": "מבחני טעם יכולים לספק הוכחה לכך שהמתכון החדש טעים יותר מהישן."
+            },
+            {
+                "definition": "The process of verifying authenticity, especially in documents",
+                "definition_hebrew": "תהליך אימות האותנטיות, במיוחד במסמכים",
+                "example": "A notary public provides a stamp as proof of signing and witnessing important documents.",
+                "example_hebrew": "נוטריון מספק חותמת כהוכחה לחתימה ולראיה על מסמכים חשובים."
+            },
+            {
+                "definition": "A quantity sufficient to demonstrate the truth or validity of something",
+                "definition_hebrew": "כמות מספיקה כדי להוכיח את האמת או התקפות של משהו",
+                "example": "The large number of satisfied customers acts as proof of the product's quality.",
+                "example_hebrew": "המספר הרב של לקוחות מרוצים משמש כהוכחה לאיכות המוצר."
+            },
+            {
+                "definition": "Reliable evidence that demonstrates a fact or truth",
+                "definition_hebrew": "ראיות מהימנות המדגימות עובדה או אמת",
+                "example": "Her consistent performance in sports was proof of her dedication and hard work.",
+                "example_hebrew": "הביצועים העקביים שלה בספורט היו הוכחה למסירותה ולעבודתה הקשה."
+            }
+        ]
+    }
+]

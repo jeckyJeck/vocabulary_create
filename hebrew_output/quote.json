@@ -1,0 +1,40 @@
+[
+    {
+        "word": "quote",
+        "word_hebrew": "ציטוט",
+        "main_definition": "To repeat or copy out a group of words from a text or speech, typically with an indication that one is not the original author.",
+        "main_definition_hebrew": "לחזור על או להעתיק קבוצת מילים מתוך טקסט או נאום, בדרך כלל עם ציון שאחד מהם אינו המחבר המקורי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Repeating someone else's exact words",
+                "definition_hebrew": "חזרה על מילים מדויקות של מישהו אחר",
+                "example": "She quoted Shakespeare in her essay to illustrate her point.",
+                "example_hebrew": "היא ציטטה את שייקספיר במאמרה כדי להמחיש את דבריה."
+            },
+            {
+                "definition": "Attributing a statement or piece of writing to its original author",
+                "definition_hebrew": "ייחוס הצהרה או כתבה למחבר המקורי שלה",
+                "example": "The news article began with, 'In his own words...' and then went on to quote the politician directly.",
+                "example_hebrew": "הכתבה בחדשות התחילה ב'במילים שלו...' ולאחר מכן המשיכה לצטט ישירות את הפוליטיקאי."
+            },
+            {
+                "definition": "To provide a direct citation from an authority in support of an argument",
+                "definition_hebrew": "לספק ציטוט ישיר מרשות לתמיכה בטיעון",
+                "example": "Many economists have quoted Adam Smith in their arguments about free markets.",
+                "example_hebrew": "כלכלנים רבים ציטטו את אדם סמית' בטיעוניהם לגבי שווקים חופשיים."
+            },
+            {
+                "definition": "A statement taken verbatim from another source, often used to illustrate or highlight something",
+                "definition_hebrew": "אמירה שנלקחה מילה במילה ממקור אחר, משמשת לעתים קרובות כדי להמחיש או להדגיש משהו",
+                "example": "The teacher included a quote from Martin Luther King Jr. to emphasize the importance of equality.",
+                "example_hebrew": "המורה כללה ציטוט של מרטין לותר קינג ג'וניור כדי להדגיש את חשיבות השוויון."
+            },
+            {
+                "definition": "To use someone else's words or ideas and present them as one's own without proper attribution",
+                "definition_hebrew": "להשתמש במילים או ברעיונות של מישהו אחר ולהציג אותם כשלו ללא ייחוס מתאים",
+                "example": "He was criticized for quoting information from a blog post without crediting the author.",
+                "example_hebrew": "הוא זכה לביקורת על כך שציטט מידע מפוסט בבלוג מבלי להעניק קרדיט למחבר."
+            }
+        ]
+    }
+]

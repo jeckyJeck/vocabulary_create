@@ -1,0 +1,28 @@
+[
+    {
+        "word": "cdt",
+        "word_hebrew": "cdt",
+        "main_definition": "CDT stands for Coordinated Universal Time, which is the primary time standard by which the world regulates clocks.",
+        "main_definition_hebrew": "CDT ראשי תיבות של Coordinated Universal Time, שהוא תקן הזמן העיקרי שלפיו העולם מווסת שעונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Coordinated Universal Time (UTC) in a military context",
+                "definition_hebrew": "זמן אוניברסלי מתואם (UTC) בהקשר צבאי",
+                "example": "The troops synchronized their watches to CDT before launching the operation.",
+                "example_hebrew": "הכוחות סינכרו את השעונים שלהם ל-CDT לפני שהחלו במבצע."
+            },
+            {
+                "definition": "A time zone abbreviation, although it's more commonly referred to as UTC or UT+00:00",
+                "definition_hebrew": "קיצור של אזור זמן, למרות שהוא מכונה בדרך כלל UTC או UT+00:00",
+                "example": "When scheduling international meetings, we refer to Coordinated Universal Time (CDT) for accuracy.",
+                "example_hebrew": "בעת תזמון פגישות בינלאומיות, אנו מתייחסים לזמן אוניברסלי מתואם (CDT) לצורך דיוק."
+            },
+            {
+                "definition": "A term used in medical settings to indicate a patient's condition is stable or steady",
+                "definition_hebrew": "מונח המשמש במסגרות רפואיות כדי לציין שמצבו של המטופל יציב או יציב",
+                "example": "The post-operative CDT indicates that the patient's vitals are stable after surgery.",
+                "example_hebrew": "ה-CDT שלאחר הניתוח מצביע על כך שהחיוניות של החולה יציבות לאחר הניתוח."
+            }
+        ]
+    }
+]

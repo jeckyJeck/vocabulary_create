@@ -1,0 +1,40 @@
+[
+    {
+        "word": "medicine",
+        "word_hebrew": "תרופה",
+        "main_definition": "Medicine refers to the science and practice of diagnosing, treating, and preventing disease or discomfort through various means such as drugs, therapies, and lifestyle changes.",
+        "main_definition_hebrew": "רפואה מתייחסת למדע ולפרקטיקה של אבחון, טיפול ומניעת מחלות או אי נוחות באמצעים שונים כגון תרופות, טיפולים ושינויים באורח החיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A substance used for promoting health or alleviating pain, injury, or sickness",
+                "definition_hebrew": "חומר המשמש לקידום בריאות או להקלה על כאב, פציעה או מחלה",
+                "example": "She took medicine to help with her headache.",
+                "example_hebrew": "היא לקחה תרופות כדי לעזור עם כאב הראש שלה."
+            },
+            {
+                "definition": "The field of study and practice that deals with the treatment and prevention of diseases and disorders",
+                "definition_hebrew": "תחום הלימוד והעיסוק העוסק בטיפול ומניעה של מחלות והפרעות",
+                "example": "He is studying to become a doctor in the field of medicine.",
+                "example_hebrew": "הוא לומד להיות רופא בתחום הרפואה."
+            },
+            {
+                "definition": "A remedy or cure for an illness, typically involving drugs or other substances",
+                "definition_hebrew": "תרופה או תרופה למחלה, הכוללת בדרך כלל תרופות או חומרים אחרים",
+                "example": "The herbal medicine helped him recover from his cold faster.",
+                "example_hebrew": "הצמחים עזרו לו להתאושש מההצטננות מהר יותר."
+            },
+            {
+                "definition": "A philosophical perspective that considers the healing process in a holistic manner, addressing mind, body, and spirit",
+                "definition_hebrew": "נקודת מבט פילוסופית המתחשבת בתהליך הריפוי בצורה הוליסטית, תוך התייחסות לנפש, גוף ורוח",
+                "example": "She practices alternative medicine by using acupuncture for her back pain.",
+                "example_hebrew": "היא עוסקת ברפואה אלטרנטיבית על ידי שימוש בדיקור סיני לכאבי הגב שלה."
+            },
+            {
+                "definition": "The art or practice of physicians or surgeomedical science",
+                "definition_hebrew": "האמנות או העיסוק של רופאים או מדע כירורגי",
+                "example": "He is studying the history of medicine as a part of his medical degree.",
+                "example_hebrew": "הוא לומד את ההיסטוריה של הרפואה כחלק מתואר הרפואה שלו."
+            }
+        ]
+    }
+]

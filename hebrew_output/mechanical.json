@@ -1,0 +1,40 @@
+[
+    {
+        "word": "mechanical",
+        "word_hebrew": "מֵכָנִי",
+        "main_definition": "Relating to machinery or mechanisms; characterized by lack of spontaneity, emotion, or creativity.",
+        "main_definition_hebrew": "בנוגע למכונות או מנגנונים; מאופיין בחוסר ספונטניות, רגש או יצירתיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Involving machinery or equipment that performs a task automatically without human intervention",
+                "definition_hebrew": "מעורבות מכונות או ציוד המבצעים משימה באופן אוטומטי ללא התערבות אנושית",
+                "example": "The factory used mechanical arms to assemble the car parts.",
+                "example_hebrew": "המפעל השתמש בזרועות מכניות להרכבת חלקי המכונית."
+            },
+            {
+                "definition": "Devoid of human feeling; emotionless, impersonal",
+                "definition_hebrew": "נטול תחושה אנושית; חסר רגש, לא אישי",
+                "example": "His relationship with her seemed very mechanical and devoid of genuine affection.",
+                "example_hebrew": "מערכת היחסים שלו איתה נראתה מאוד מכנית וחסרת חיבה אמיתית."
+            },
+            {
+                "definition": "Relating to the science or technology of machinery",
+                "definition_hebrew": "המתייחס למדע או לטכנולוגיה של מכונות",
+                "example": "He studied mechanical engineering in college, focusing on designing efficient machines.",
+                "example_hebrew": "הוא למד הנדסת מכונות בקולג', תוך התמקדות בתכנון מכונות יעילות."
+            },
+            {
+                "definition": "Characterized by precision and predictability; often repetitive",
+                "definition_hebrew": "מאופיין על ידי דיוק ויכולת חיזוי; לעתים קרובות חוזר על עצמו",
+                "example": "The robot performed its tasks in a very mechanical way, without deviation from the programmed routine.",
+                "example_hebrew": "הרובוט ביצע את משימותיו בצורה מאוד מכנית, ללא חריגה מהשגרה המתוכנתת."
+            },
+            {
+                "definition": "Physical or bodily actions that are not natural or instinctive but rather forced or artificial",
+                "definition_hebrew": "פעולות פיזיות או גופניות שאינן טבעיות או אינסטינקטיביות אלא מאולצות או מלאכותיות",
+                "example": "His movements seemed mechanical as he tried to imitate an actor's performance.",
+                "example_hebrew": "תנועותיו נראו מכניות כשניסה לחקות הופעה של שחקן."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "liabilities",
+        "word_hebrew": "התחייבויות",
+        "main_definition": "Liabilities refer to the financial debts or obligations that a company, individual, or organization owes to others.",
+        "main_definition_hebrew": "התחייבויות מתייחסות לחובות או התחייבויות פיננסיות שחובים חברה, יחיד או ארגון לאחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Obligations resulting from borrowed funds",
+                "definition_hebrew": "התחייבויות הנובעות מכספים שאולים",
+                "example": "The bank loan taken by ABC Company is considered as its liabilities.",
+                "example_hebrew": "ההלוואה הבנקאית שנלקחה על ידי חברת ABC נחשבת כהתחייבויותיה."
+            },
+            {
+                "definition": "Debts to suppliers or creditors",
+                "definition_hebrew": "חובות לספקים או נושים",
+                "example": "XYZ Corp has a significant amount of accounts payable, making it their main liabilities.",
+                "example_hebrew": "ל-XYZ Corp יש כמות משמעותית של חשבונות לתשלום, מה שהופך אותה להתחייבויות העיקריות שלהם."
+            },
+            {
+                "definition": "Legal obligations not necessarily involving cash payment",
+                "definition_hebrew": "התחייבויות משפטיות שאינן כרוכות בהכרח בתשלום במזומן",
+                "example": "A lawsuit pending against an individual is considered as one of his/her liabilities until resolved.",
+                "example_hebrew": "תביעה תלויה ועומדת נגד אדם נחשבת כאחת מהתחייבויותיו עד להכרעה."
+            }
+        ]
+    }
+]

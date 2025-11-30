@@ -1,0 +1,34 @@
+[
+    {
+        "word": "gossip",
+        "word_hebrew": "רְכִילוּת",
+        "main_definition": "Gossip refers to casual or unconstrained conversation or reports about other people, typically involving details that are not confirmed as true.",
+        "main_definition_hebrew": "רכילות מתייחסת לשיחה סתמית או בלתי מוגבלת או לדיווחים על אנשים אחרים, הכוללת בדרך כלל פרטים שאינם מאושרים כנכונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of sharing rumors or personal information about others",
+                "definition_hebrew": "הפעולה של שיתוף שמועות או מידע אישי על אחרים",
+                "example": "She was constantly gossiping about her coworkers during lunch breaks.",
+                "example_hebrew": "היא ריכלה כל הזמן על עמיתיה לעבודה בהפסקות הצהריים."
+            },
+            {
+                "definition": "Talk involving details that are not confirmed as true and can be harmful to the person discussed",
+                "definition_hebrew": "דיבור הכולל פרטים שאינם מאושרים כנכונים ועלולים להזיק לאדם הנדון",
+                "example": "He spread some damaging rumors, which turned out to be just gossip.",
+                "example_hebrew": "הוא הפיץ כמה שמועות מזיקות, שהתבררו כרכילות בלבד."
+            },
+            {
+                "definition": "Discussing personal or intimate matters about others without their consent",
+                "definition_hebrew": "דיון בעניינים אישיים או אינטימיים על אחרים ללא הסכמתם",
+                "example": "It's not right to engage in gossip by discussing someone's private life behind their back.",
+                "example_hebrew": "זה לא נכון לעסוק ברכילות על ידי דיון על החיים הפרטיים של מישהו מאחורי גבו."
+            },
+            {
+                "definition": "Informal communication, often negative and speculative in nature, about people who are usually not present",
+                "definition_hebrew": "תקשורת לא רשמית, לרוב שלילית וספקולטיבית במהותה, על אנשים שבדרך כלל אינם נוכחים",
+                "example": "The office is filled with constant gossip regarding the upcoming promotion.",
+                "example_hebrew": "המשרד מלא ברכילות מתמדת לגבי הקידום הקרוב."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "afraid",
+        "word_hebrew": "חוֹשֵׁשׁ",
+        "main_definition": "Feeling fear or anxiety about something that may happen.",
+        "main_definition_hebrew": "מרגיש פחד או חרדה מפני משהו שעלול לקרות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Uneasy due to impending danger or trouble.",
+                "definition_hebrew": "לא נוח בגלל סכנה או צרות.",
+                "example": "She was afraid of the dark when she couldn't see anything.",
+                "example_hebrew": "היא פחדה מהחושך כשלא יכלה לראות כלום."
+            },
+            {
+                "definition": "Feeling nervous about a potential negative outcome in a specific situation.",
+                "definition_hebrew": "תחושת עצבים לגבי תוצאה שלילית אפשרית במצב ספציפי.",
+                "example": "He was afraid his car wouldn't start on the day he had an important meeting.",
+                "example_hebrew": "הוא פחד שהמכונית שלו לא תתניע ביום שהיה לו פגישה חשובה."
+            },
+            {
+                "definition": "Having concerns or worries that cause distress.",
+                "definition_hebrew": "חששות או דאגות שגורמים למצוקה.",
+                "example": "The children were afraid of thunderstorms, so they would hide under their blankets during a storm.",
+                "example_hebrew": "הילדים פחדו מסופות רעמים ולכן היו מתחבאים מתחת לשמיכות בזמן סערה."
+            },
+            {
+                "definition": "Feeling apprehensive about an unknown factor in life such as change or new experiences.",
+                "definition_hebrew": "תחושת חשש מגורם לא ידוע בחיים כמו שינוי או חוויות חדשות.",
+                "example": "She was afraid to try sushi for the first time but eventually gave it a go and liked it.",
+                "example_hebrew": "היא פחדה לנסות סושי בפעם הראשונה אבל בסופו של דבר ניסתה את זה ואהבה את זה."
+            }
+        ]
+    }
+]

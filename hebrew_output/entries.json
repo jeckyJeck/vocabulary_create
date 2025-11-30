@@ -1,0 +1,40 @@
+[
+    {
+        "word": "entries",
+        "word_hebrew": "ערכים",
+        "main_definition": "Entries refer to the written or recorded information, often in a list format within documents, databases, competitions, journals, etc.",
+        "main_definition_hebrew": "ערכים מתייחסים למידע הכתוב או המוקלט, לרוב בפורמט רשימה בתוך מסמכים, מאגרי מידע, תחרויות, כתבי עת וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "Record of data or information",
+                "definition_hebrew": "רישום של נתונים או מידע",
+                "example": "The entries for last month's sales are updated daily on the company's database.",
+                "example_hebrew": "הערכים למכירות בחודש שעבר מתעדכנים מדי יום במאגר המידע של החברה."
+            },
+            {
+                "definition": "Records in a journal, logbook, or diary",
+                "definition_hebrew": "רשומות ביומן, ביומן או ביומן",
+                "example": "Her personal travel entries provide an insight into her adventures around the world.",
+                "example_hebrew": "הערכים האישיים שלה למסעות מספקים תובנה על הרפתקאותיה ברחבי העולם."
+            },
+            {
+                "definition": "Participants' submissions in competitions or contests",
+                "definition_hebrew": "הגשות של משתתפים בתחרויות או בתחרויות",
+                "example": "The judges reviewed all the artistic entries for the local painting competition before making a decision.",
+                "example_hebrew": "השופטים בחנו את כל הערכים האמנותיים לתחרות הציור המקומית לפני שקיבלו החלטה."
+            },
+            {
+                "definition": "References to legal documents, such as wills and contracts",
+                "definition_hebrew": "הפניות למסמכים משפטיים, כגון צוואות וחוזים",
+                "example": "Please check your grandfather's last entries in his estate planning documents before distributing assets.",
+                "example_hebrew": "אנא בדוק את הרישומים האחרונים של סבא שלך במסמכי תכנון העיזבון שלו לפני חלוקת נכסים."
+            },
+            {
+                "definition": "Lines or paragraphs written by multiple authors in a collaborative work",
+                "definition_hebrew": "שורות או פסקאות שנכתבו על ידי מספר מחברים בעבודה משותפת",
+                "example": "The anthology includes contributions from various scholars, with each entry representing their respective research on the topic.",
+                "example_hebrew": "האנתולוגיה כוללת תרומות של חוקרים שונים, כאשר כל ערך מייצג את המחקר שלהם בנושא."
+            }
+        ]
+    }
+]

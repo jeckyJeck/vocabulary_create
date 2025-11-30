@@ -1,0 +1,28 @@
+[
+    {
+        "word": "boolean",
+        "word_hebrew": "בוליאני",
+        "main_definition": "Boolean refers to a data type or concept in computing that can have only two possible values, typically true (1) or false (0). It's also used as an idiom in various contexts.",
+        "main_definition_hebrew": "בוליאנית מתייחסת לסוג נתונים או מושג במחשוב שיכולים להיות להם רק שני ערכים אפשריים, בדרך כלל נכון (1) או שקר (0). הוא משמש גם כלשון ניב בהקשרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Data type in programming",
+                "definition_hebrew": "סוג נתונים בתכנות",
+                "example": "In the boolean data type, a variable can hold either true or false values.",
+                "example_hebrew": "בסוג הנתונים בוליאני, משתנה יכול להחזיק ערכי אמת או שקר."
+            },
+            {
+                "definition": "Logical operation result",
+                "definition_hebrew": "תוצאת פעולה לוגית",
+                "example": "The result of an 'AND' logical operation between two booleans is also a boolean value.",
+                "example_hebrew": "התוצאה של פעולה לוגית 'AND' בין שני בוליאנים היא גם ערך בוליאני."
+            },
+            {
+                "definition": "Idiomatic expression meaning ambiguity or uncertainty",
+                "definition_hebrew": "ביטוי אידיומטי שמשמעותו עמימות או אי ודאות",
+                "example": "When asked if they want to go out for dinner, one friend replied with 'It's up in the air,' which can be interpreted as their interest being uncertain - an idiom that uses the term 'up in the air.'",
+                "example_hebrew": "כשנשאלו אם הם רוצים לצאת לארוחת ערב, חבר אחד ענה ב'זה באוויר', מה שיכול להתפרש כעניין לא ברור - ניב שמשתמש במונח 'באוויר'."
+            }
+        ]
+    }
+]

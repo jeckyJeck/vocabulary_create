@@ -1,0 +1,40 @@
+[
+    {
+        "word": "roots",
+        "word_hebrew": "שורשים",
+        "main_definition": "Roots refer to the fundamental or basic elements of something, often used metaphorically to describe origins, sources, or principles.",
+        "main_definition_hebrew": "שורשים מתייחסים למרכיבים הבסיסיים או הבסיסיים של משהו, המשמשים לעתים קרובות באופן מטפורי לתיאור מקורות, מקורות או עקרונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The underground parts of a plant that absorb water and nutrients from the soil",
+                "definition_hebrew": "החלקים התת-קרקעיים של הצמח שסופגים מים וחומרי הזנה מהאדמה",
+                "example": "Carrots have long roots that help them reach deep into the earth for nourishment.",
+                "example_hebrew": "לגזר שורשים ארוכים שעוזרים להם להגיע עמוק לתוך האדמה להזנה."
+            },
+            {
+                "definition": "The origin or source of something, such as an idea or tradition",
+                "definition_hebrew": "מקורו או מקורו של משהו, כגון רעיון או מסורת",
+                "example": "The roots of democracy can be traced back to ancient Greece.",
+                "example_hebrew": "ניתן לאתר את שורשי הדמוקרטיה ביוון העתיקה."
+            },
+            {
+                "definition": "Beliefs, values, and principles that form the foundation of a person's character or behavior",
+                "definition_hebrew": "אמונות, ערכים ועקרונות המהווים את הבסיס לאופיו או להתנהגותו של אדם",
+                "example": "Her strong moral roots guided her actions throughout life.",
+                "example_hebrew": "שורשיה המוסריים החזקים הנחו את מעשיה לאורך כל החיים."
+            },
+            {
+                "definition": "The deep emotional connection to one's family, culture, or identity",
+                "definition_hebrew": "הקשר הרגשי העמוק למשפחה, לתרבות או לזהות של האדם",
+                "example": "His love for his country was rooted in the stories of his ancestors.",
+                "example_hebrew": "אהבתו לארצו הייתה נטועה בסיפורי אבותיו."
+            },
+            {
+                "definition": "A mathematical term that represents the factors by which a number can be divided without leaving a remainder",
+                "definition_hebrew": "מונח מתמטי המייצג את הגורמים שבהם ניתן לחלק מספר מבלי להשאיר שארית",
+                "example": "The square root is a type of root in mathematics, where a number's root gives another number when multiplied by itself.",
+                "example_hebrew": "השורש הריבועי הוא סוג של שורש במתמטיקה, כאשר שורש של מספר נותן מספר אחר כשהוא מוכפל בעצמו."
+            }
+        ]
+    }
+]

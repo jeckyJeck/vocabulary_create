@@ -1,0 +1,34 @@
+[
+    {
+        "word": "hazard",
+        "word_hebrew": "מִפגָע",
+        "main_definition": "A hazard refers to anything that presents a potential source of harm, damage or danger.",
+        "main_definition_hebrew": "מפגע מתייחס לכל דבר המהווה מקור פוטנציאלי לנזק, נזק או סכנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "General risk or peril",
+                "definition_hebrew": "סיכון כללי או סכנה",
+                "example": "Walking on ice can be very hazardous due to the risk of slipping and falling.",
+                "example_hebrew": "הליכה על קרח עלולה להיות מסוכנת מאוד בגלל הסיכון להחלקה ולנפילה."
+            },
+            {
+                "definition": "A dangerous object or condition in a workplace",
+                "definition_hebrew": "חפץ או מצב מסוכן במקום עבודה",
+                "example": "The loose wiring hanging from the ceiling was a serious electrical hazard at the construction site.",
+                "example_hebrew": "החיווט הרופף התלוי מהתקרה היווה סכנה חשמלית חמורה באתר הבנייה."
+            },
+            {
+                "definition": "An unexpected event causing damage or injury",
+                "definition_hebrew": "אירוע בלתי צפוי הגורם לנזק או לפציעה",
+                "example": "A sudden rockslide down the mountainside is considered a natural hazard that can endanger lives and property.",
+                "example_hebrew": "מפולת סלעים פתאומית במורד צלע ההר נחשבת למפגע טבעי שעלול לסכן חיים ורכוש."
+            },
+            {
+                "definition": "Something likely to cause harm or trouble",
+                "definition_hebrew": "משהו שעלול לגרום נזק או צרות",
+                "example": "Drinking alcohol excessively could be seen as a personal hazard, especially if one plans to drive afterward.",
+                "example_hebrew": "שתיית אלכוהול מופרזת עלולה להיחשב כסכנה אישית, במיוחד אם מתכננים לנהוג לאחר מכן."
+            }
+        ]
+    }
+]

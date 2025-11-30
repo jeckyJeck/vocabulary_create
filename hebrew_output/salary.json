@@ -1,0 +1,28 @@
+[
+    {
+        "word": "salary",
+        "word_hebrew": "שכר",
+        "main_definition": "Salary is the fixed regular payment, typically paid on a monthly or bi-weekly basis by an employer to an employee for work performed.",
+        "main_definition_hebrew": "משכורת היא התשלום הקבוע הקבוע, המשולם בדרך כלל על בסיס חודשי או דו-שבועי על ידי מעסיק לעובד עבור עבודה שבוצעה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A fixed monetary compensation",
+                "definition_hebrew": "פיצוי כספי קבוע",
+                "example": "She earns a salary of $50,000 per year.",
+                "example_hebrew": "היא מרוויחה משכורת של 50,000 דולר בשנה."
+            },
+            {
+                "definition": "Compensation for employment work",
+                "definition_hebrew": "תגמול עבור עבודה בעבודה",
+                "example": "He negotiated a higher salary with his new job offer.",
+                "example_hebrew": "הוא ניהל משא ומתן על שכר גבוה יותר עם הצעת העבודה החדשה שלו."
+            },
+            {
+                "definition": "Pay received periodically from an employer for services rendered, often excluding bonuses or overtime payments",
+                "definition_hebrew": "שכר המתקבל מעת לעת ממעסיק עבור שירותים שניתנו, לרוב לא כולל בונוסים או תשלומי שעות נוספות",
+                "example": "My salary does not include holiday bonuses or extra hours work beyond the regular schedule.",
+                "example_hebrew": "המשכורת שלי לא כוללת מענקים לחגים או שעות עבודה נוספות מעבר ללוח הזמנים הרגיל."
+            }
+        ]
+    }
+]

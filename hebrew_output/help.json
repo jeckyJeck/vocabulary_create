@@ -1,0 +1,40 @@
+[
+    {
+        "word": "help",
+        "word_hebrew": "עֶזרָה",
+        "main_definition": "To provide assistance or support to someone in need.",
+        "main_definition_hebrew": "להעניק סיוע או תמיכה למישהו במצוקה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Assist or aid in an action or process.",
+                "definition_hebrew": "סיוע או סיוע בפעולה או תהליך.",
+                "example": "I helped my friend move into his new apartment.",
+                "example_hebrew": "עזרתי לחבר שלי לעבור לדירה החדשה שלו."
+            },
+            {
+                "definition": "Make things easier for someone by providing resources, guidance, or expertise.",
+                "definition_hebrew": "הקל על מישהו על ידי מתן משאבים, הדרכה או מומחיות.",
+                "example": "The teacher helped the student understand complex mathematical concepts.",
+                "example_hebrew": "המורה עזר לתלמיד להבין מושגים מתמטיים מורכבים."
+            },
+            {
+                "definition": "To intervene in a situation to alleviate problems or difficulties.",
+                "definition_hebrew": "להתערב במצב כדי להקל על בעיות או קשיים.",
+                "example": "Emergency responders helped the victims of the car accident.",
+                "example_hebrew": "כוחות החירום סייעו לנפגעי תאונת הדרכים."
+            },
+            {
+                "definition": "Provide encouragement, motivation, or emotional support to someone.",
+                "definition_hebrew": "לספק עידוד, מוטיבציה או תמיכה רגשית למישהו.",
+                "example": "My family and friends helped me overcome my fear of public speaking by providing constant encouragement.",
+                "example_hebrew": "המשפחה והחברים שלי עזרו לי להתגבר על הפחד שלי מלדבר בפני קהל על ידי עידוד מתמיד."
+            },
+            {
+                "definition": "To participate in a joint effort towards achieving a common goal or solving a problem together.",
+                "definition_hebrew": "להשתתף במאמץ משותף להשגת מטרה משותפת או פתרון בעיה ביחד.",
+                "example": "We all pitched in to help clean up the park after the festival.",
+                "example_hebrew": "כולנו נרתמנו לעזור לנקות את הפארק לאחר הפסטיבל."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "some",
+        "word_hebrew": "כמה",
+        "main_definition": "An indefinite pronoun used to refer to an unspecified amount or number of something, often indicating a small quantity.",
+        "main_definition_hebrew": "כינוי בלתי מוגדר המשמש להתייחס לכמות או מספר לא מוגדר של משהו, לעתים קרובות מציין כמות קטנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A portion or part of something",
+                "definition_hebrew": "חלק או חלק ממשהו",
+                "example": "I'll have some cake for dessert.",
+                "example_hebrew": "אני אוכל עוגה לקינוח."
+            },
+            {
+                "definition": "Any amount, without being specific",
+                "definition_hebrew": "כל סכום, בלי להיות ספציפי",
+                "example": "Can you give me some money?",
+                "example_hebrew": "אתה יכול לתת לי קצת כסף?"
+            },
+            {
+                "definition": "A number of people or things; a quantity",
+                "definition_hebrew": "מספר אנשים או דברים; כמות",
+                "example": "There are some students in the class.",
+                "example_hebrew": "יש כמה תלמידים בכיתה."
+            },
+            {
+                "definition": "Someone who is present but not specified",
+                "definition_hebrew": "מישהו שנוכח אך לא צוין",
+                "example": "Are there any friends here?",
+                "example_hebrew": "יש פה חברים?"
+            },
+            {
+                "definition": "A certain amount, though unspecified",
+                "definition_hebrew": "סכום מסוים, אם כי לא מוגדר",
+                "example": "I need some help with this problem.",
+                "example_hebrew": "אני צריך קצת עזרה עם הבעיה הזו."
+            }
+        ]
+    }
+]

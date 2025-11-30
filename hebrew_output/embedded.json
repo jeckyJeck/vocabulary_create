@@ -1,0 +1,34 @@
+[
+    {
+        "word": "embedded",
+        "word_hebrew": "מוטבע",
+        "main_definition": "To place or incorporate something firmly within a surrounding mass, or to include something as an integral part of a medium.",
+        "main_definition_hebrew": "למקם או לשלב משהו בחוזקה בתוך מסה שמסביב, או לכלול משהו כחלק בלתי נפרד ממדיום.",
+        "meanings_and_examples": [
+            {
+                "definition": "To integrate technology into non-technical devices so that they operate more effectively",
+                "definition_hebrew": "לשלב טכנולוגיה במכשירים לא טכניים כך שיפעלו בצורה יעילה יותר",
+                "example": "The GPS system is embedded in modern cars for navigation purposes.",
+                "example_hebrew": "מערכת ה-GPS משובצת במכוניות מודרניות לצורכי ניווט."
+            },
+            {
+                "definition": "Including information or an object within a larger medium, such as software or hardware",
+                "definition_hebrew": "כולל מידע או אובייקט בתוך מדיום גדול יותר, כגון תוכנה או חומרה",
+                "example": "A graphic designer embeds images into a website's HTML code to enhance its visual appeal.",
+                "example_hebrew": "מעצב גרפי מטמיע תמונות בקוד HTML של אתר אינטרנט כדי לשפר את המשיכה החזותית שלו."
+            },
+            {
+                "definition": "To firmly place something so that it is not easily removed or noticeable",
+                "definition_hebrew": "למקם משהו בצורה יציבה כדי שלא יוסר או מורגש בקלות",
+                "example": "Politicians often try to 'embed' themselves in communities by attending local events and engaging with residents.",
+                "example_hebrew": "פוליטיקאים מנסים לעתים קרובות 'להטמיע' את עצמם בקהילות על ידי השתתפות באירועים מקומיים ומעורבות עם תושבים."
+            },
+            {
+                "definition": "A report or document containing detailed information about a particular topic, which can be inserted into electronic media",
+                "definition_hebrew": "דוח או מסמך המכילים מידע מפורט על נושא מסוים, שניתן להכניס למדיה אלקטרונית",
+                "example": "The journal article on climate change was embedded as an RSS feed for easy access by subscribers.",
+                "example_hebrew": "מאמר כתב העת על שינויי אקלים הוטבע כהזנת RSS לגישה נוחה למנויים."
+            }
+        ]
+    }
+]

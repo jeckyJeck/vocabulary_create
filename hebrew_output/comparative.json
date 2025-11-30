@@ -1,0 +1,28 @@
+[
+    {
+        "word": "comparative",
+        "word_hebrew": "יַחֲסִי",
+        "main_definition": "Comparative refers to the act or process of comparing two or more things based on their similarities, differences, or relative qualities.",
+        "main_definition_hebrew": "השוואתי מתייחס לפעולה או לתהליך של השוואה בין שני דברים או יותר בהתבסס על הדמיון, ההבדלים או האיכויות היחסיות שלהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Used in grammar to form adjectives and adverbs that compare one thing with another (e.g., bigger, better).",
+                "definition_hebrew": "משמש בדקדוק ליצירת תארים ותוארים המשווים דבר אחד למשנהו (למשל, גדול יותר, טוב יותר).",
+                "example": "My car is faster than yours.",
+                "example_hebrew": "המכונית שלי מהירה יותר משלך."
+            },
+            {
+                "definition": "A word or phrase used to describe the relative qualities of two things.",
+                "definition_hebrew": "מילה או ביטוי המשמשים לתיאור התכונות היחסיות של שני דברים.",
+                "example": "She has a comparative advantage in math compared to her peers.",
+                "example_hebrew": "יש לה יתרון יחסי במתמטיקה בהשוואה לבני גילה."
+            },
+            {
+                "definition": "In statistics, a comparative method that involves comparing data from different groups using statistical tools (e.g., t-test).",
+                "definition_hebrew": "בסטטיסטיקה, שיטה השוואתית הכוללת השוואת נתונים מקבוצות שונות באמצעות כלים סטטיסטיים (למשל, t-test).",
+                "example": "A researcher used the comparative approach to analyze the difference in test scores between two classes.",
+                "example_hebrew": "חוקר השתמש בגישה ההשוואתית כדי לנתח את ההבדל בציוני המבחנים בין שתי כיתות."
+            }
+        ]
+    }
+]

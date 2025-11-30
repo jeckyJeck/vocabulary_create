@@ -1,0 +1,34 @@
+[
+    {
+        "word": "genealogy",
+        "word_hebrew": "גֵנֵאָלוֹגיָה",
+        "main_definition": "The study of family ancestry and history, often involving the tracing of lineages through written records and oral histories.",
+        "main_definition_hebrew": "חקר מוצא המשפחה וההיסטוריה, לעתים קרובות כולל מעקב אחר שושלות באמצעות רשומות כתובות ותולדות בעל פה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Tracing one's own family tree",
+                "definition_hebrew": "התחקות אחר אילן היוחסין של עצמו",
+                "example": "Jane started her genealogy project to trace her ancestry back to the 1800s.",
+                "example_hebrew": "ג'יין התחילה את פרויקט הגנאלוגיה שלה כדי להתחקות אחר מוצאה עד שנות ה-1800."
+            },
+            {
+                "definition": "The study of relationships and connections among individuals within a group or community",
+                "definition_hebrew": "חקר מערכות יחסים וקשרים בין אנשים בתוך קבוצה או קהילה",
+                "example": "The genealogist examined the familial bonds between members of an ancient tribal society.",
+                "example_hebrew": "הגנאלוג בחן את הקשרים המשפחתיים בין חברי חברה שבטית עתיקה."
+            },
+            {
+                "definition": "A systematic arrangement showing the degree of relationship, descent, or consanguinity amongst people",
+                "definition_hebrew": "סידור שיטתי המראה את מידת היחסים, המוצא או הקרבה בין אנשים",
+                "example": "The family's genealogy chart displayed all the connections between siblings and cousins over several generations.",
+                "example_hebrew": "טבלת היוחסין של המשפחה מציגה את כל הקשרים בין אחים ובני דודים במשך כמה דורות."
+            },
+            {
+                "definition": "An account detailing a person’s ancestry, including names and dates of birth, marriage, and death",
+                "definition_hebrew": "חשבון המפרט את מוצאו של אדם, כולל שמות ותאריכי לידה, נישואים ומוות",
+                "example": "The published book provided an extensive genealogy tracing the author's lineage dating back to the 1600s.",
+                "example_hebrew": "הספר שפורסם סיפק אילן יוחסין נרחב המתחקה אחר השושלת של המחבר החל משנות ה-1600."
+            }
+        ]
+    }
+]

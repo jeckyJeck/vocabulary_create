@@ -1,0 +1,34 @@
+[
+    {
+        "word": "image",
+        "word_hebrew": "תמונה",
+        "main_definition": "An image is a representation or likeness of someone, something, or an idea, often in the form of a visual depiction.",
+        "main_definition_hebrew": "תמונה היא ייצוג או דמיון של מישהו, משהו או רעיון, לעתים קרובות בצורה של תיאור ויזואלי.",
+        "meanings_and_examples": [
+            {
+                "definition": "A picture or photograph representing the appearance of a person, animal, object or scene",
+                "definition_hebrew": "תמונה או צילום המייצגים מראה של אדם, חיה, חפץ או סצנה",
+                "example": "The image on my phone is very clear and detailed.",
+                "example_hebrew": "התמונה בטלפון שלי מאוד ברורה ומפורטת."
+            },
+            {
+                "definition": "An impression or perception that someone has about another person or thing",
+                "definition_hebrew": "רושם או תפיסה שיש למישהו לגבי אדם או דבר אחר",
+                "example": "His negative image of the company made him hesitant to work there.",
+                "example_hebrew": "התדמית השלילית שלו על החברה גרמה לו להסס לעבוד שם."
+            },
+            {
+                "definition": "The mental picture or idea one holds in their mind about something or someone",
+                "definition_hebrew": "התמונה הנפשית או הרעיון שאדם מחזיק במוחו לגבי משהו או מישהו",
+                "example": "Her positive image of her childhood home influenced how she decorated her new house.",
+                "example_hebrew": "תדמיתה החיובית של בית ילדותה השפיעה על האופן שבו קישטה את ביתה החדש."
+            },
+            {
+                "definition": "An analogy, metaphor, or symbolic representation used to explain an abstract concept",
+                "definition_hebrew": "אנלוגיה, מטאפורה או ייצוג סמלי המשמשים להסבר מושג מופשט",
+                "example": "The author's use of the image of a butterfly emerging from its cocoon helped readers understand transformation in life.",
+                "example_hebrew": "השימוש של המחבר בדימוי של פרפר המגיח מהפקעת שלו עזר לקוראים להבין את השינוי בחיים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "cycles",
+        "word_hebrew": "מחזורים",
+        "main_definition": "The term 'cycles' refers to a series of events that regularly repeat in the same order, often used in contexts such as biology, economics, or computer programming.",
+        "main_definition_hebrew": "המונח 'מחזורים' מתייחס לסדרה של אירועים שחוזרים על עצמם באופן קבוע באותו סדר, המשמשים לעתים קרובות בהקשרים כמו ביולוגיה, כלכלה או תכנות מחשבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Repeating patterns or sequences",
+                "definition_hebrew": "תבניות או רצפים חוזרים",
+                "example": "The four seasons represent a cycle of nature.",
+                "example_hebrew": "ארבע העונות מייצגות מחזוריות של הטבע."
+            },
+            {
+                "definition": "Periodic repetition in biology, such as the menstrual cycle in humans",
+                "definition_hebrew": "חזרה תקופתית בביולוגיה, כמו המחזור החודשי בבני אדם",
+                "example": "The female reproductive system goes through various cycles each month.",
+                "example_hebrew": "מערכת הרבייה הנשית עוברת מדי חודש מחזורים שונים."
+            },
+            {
+                "definition": "Repeated fluctuations or oscillations, particularly in economic contexts like business cycles or market cycles",
+                "definition_hebrew": "תנודות או תנודות חוזרות ונשנות, במיוחד בהקשרים כלכליים כמו מחזורי עסקים או מחזורי שוק",
+                "example": "Economic cycles include expansion, peak, contraction, and trough phases.",
+                "example_hebrew": "מחזורים כלכליים כוללים שלבי התרחבות, שיא, התכווצות ושלבי שפל."
+            },
+            {
+                "definition": "The process of repeatedly executing a set of instructions within computer programming",
+                "definition_hebrew": "תהליך של ביצוע שוב ושוב של סט הוראות בתכנות מחשב",
+                "example": "A loop in a program can execute a block of code multiple times, forming part of the larger cycle known as iteration.",
+                "example_hebrew": "לולאה בתוכנית יכולה להפעיל בלוק קוד מספר פעמים, ולהוות חלק מהמחזור הגדול יותר המכונה איטרציה."
+            }
+        ]
+    }
+]

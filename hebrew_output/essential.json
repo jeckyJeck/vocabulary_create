@@ -1,0 +1,34 @@
+[
+    {
+        "word": "essential",
+        "word_hebrew": "חִיוּנִי",
+        "main_definition": "Critical or extremely important, necessary.",
+        "main_definition_hebrew": "קריטי או חשוב ביותר, הכרחי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Inherently indispensable.",
+                "definition_hebrew": "חיוני מטבעו.",
+                "example": "Water is an essential element for all life forms.",
+                "example_hebrew": "מים הם מרכיב חיוני לכל צורות החיים."
+            },
+            {
+                "definition": "Key to success or functioning of a system.",
+                "definition_hebrew": "מפתח להצלחה או לתפקוד של מערכת.",
+                "example": "Regular exercise is essential for maintaining good health.",
+                "example_hebrew": "פעילות גופנית סדירה חיונית לשמירה על הבריאות."
+            },
+            {
+                "definition": "The most important part of something that makes it whole or complete.",
+                "definition_hebrew": "החלק החשוב ביותר של משהו שהופך אותו לשלם או שלם.",
+                "example": "Education is an essential component in shaping an individual's future.",
+                "example_hebrew": "חינוך הוא מרכיב חיוני בעיצוב עתידו של הפרט."
+            },
+            {
+                "definition": "Something required to be done before a particular event or time.",
+                "definition_hebrew": "משהו שנדרש לעשות לפני אירוע או זמן מסוים.",
+                "example": "It's essential to lock the doors before leaving the house at night.",
+                "example_hebrew": "חשוב לנעול את הדלתות לפני היציאה מהבית בלילה."
+            }
+        ]
+    }
+]

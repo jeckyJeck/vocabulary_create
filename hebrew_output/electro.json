@@ -1,0 +1,40 @@
+[
+    {
+        "word": "electro",
+        "word_hebrew": "חַשׁמַלִי",
+        "main_definition": "Refers to electricity or electrical phenomena, often used in various idioms and expressions.",
+        "main_definition_hebrew": "הכוונה לחשמל או לתופעות חשמל, המשמשות לעתים קרובות בביטויים וביטויים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Related to the process of electrification or generating electric current",
+                "definition_hebrew": "קשור לתהליך של חשמול או יצירת זרם חשמלי",
+                "example": "The company specializes in electro-mechanical devices.",
+                "example_hebrew": "החברה מתמחה במכשירים אלקטרו-מכניים."
+            },
+            {
+                "definition": "Concerning or involving electrons, which are subatomic particles with a negative charge",
+                "definition_hebrew": "לגבי או מעורבים אלקטרונים, שהם חלקיקים תת-אטומיים בעלי מטען שלילי",
+                "example": "Electrostatic phenomena occur due to the presence of excess electrons.",
+                "example_hebrew": "תופעות אלקטרוסטטיות מתרחשות עקב נוכחותם של עודף אלקטרונים."
+            },
+            {
+                "definition": "Relating to electricity as a source of power or energy",
+                "definition_hebrew": "התייחסות לחשמל כמקור כוח או אנרגיה",
+                "example": "Solar panels convert sunlight into electro-chemical energy.",
+                "example_hebrew": "פאנלים סולאריים ממירים את אור השמש לאנרגיה אלקטרו-כימית."
+            },
+            {
+                "definition": "Pertaining to the medical field, specifically referring to electrical stimulation therapies used in treatments like TENS (Transcutaneous Electrical Nerve Stimulation)",
+                "definition_hebrew": "בהתייחס לתחום הרפואי, הכוונה ספציפית לטיפולי גירוי חשמלי המשמשים בטיפולים כמו TENS (גירוי עצב חשמלי טרנס-עורי)",
+                "example": "She underwent electrotherapy for pain relief.",
+                "example_hebrew": "היא עברה אלקטרותרפיה לשיכוך כאבים."
+            },
+            {
+                "definition": "Involving the use of electricity or electronic devices",
+                "definition_hebrew": "כרוך בשימוש בחשמל או במכשירים אלקטרוניים",
+                "example": "The engineer designed an innovative electro-optical system.",
+                "example_hebrew": "המהנדס תכנן מערכת אלקטרו-אופטית חדשנית."
+            }
+        ]
+    }
+]

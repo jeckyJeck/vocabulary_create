@@ -1,0 +1,28 @@
+[
+    {
+        "word": "rpm",
+        "word_hebrew": "סל\"ד",
+        "main_definition": "revolutions per minute (RPM) refers to the number of complete rotations a mechanical component makes in one minute, commonly used to measure engine speed.",
+        "main_definition_hebrew": "סיבובים לדקה (RPM) מתייחס למספר הסיבובים השלמים שרכיב מכני עושה בדקה אחת, המשמש בדרך כלל למדידת מהירות מנוע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Engine speed measurement",
+                "definition_hebrew": "מדידת מהירות מנוע",
+                "example": "The car's engine was running at 3000 RPM.",
+                "example_hebrew": "מנוע המכונית פעל במהירות של 3000 סל\"ד."
+            },
+            {
+                "definition": "Speed of rotating machines like turbines and fans",
+                "definition_hebrew": "מהירות של מכונות מסתובבות כמו טורבינות ומאווררים",
+                "example": "The windmill spins at a rate of 120 RPM in gentle breezes.",
+                "example_hebrew": "טחנת הרוח מסתובבת בקצב של 120 סל\"ד במשב רוח עדין."
+            },
+            {
+                "definition": "Rate of turning or spinning, used colloquially to describe speed or pace",
+                "definition_hebrew": "קצב סיבוב או סיבוב, משמש בשפה הדיבורית לתיאור מהירות או קצב",
+                "example": "She was working on the project with an impressive rpm, finishing tasks quickly and efficiently.",
+                "example_hebrew": "היא עבדה על הפרויקט בסל\"ד מרשים, סיימה משימות במהירות וביעילות."
+            }
+        ]
+    }
+]

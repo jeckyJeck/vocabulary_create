@@ -1,0 +1,40 @@
+[
+    {
+        "word": "driver",
+        "word_hebrew": "נהג",
+        "main_definition": "A person who operates a vehicle, or the device that controls its movement.",
+        "main_definition_hebrew": "אדם המפעיל רכב, או המכשיר השולט בתנועתו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Occupation - A person whose job is to operate a motor vehicle. For example: 'She works as a long-haul truck driver.'",
+                "definition_hebrew": "עיסוק - אדם שתפקידו להפעיל רכב מנועי. למשל: 'היא עובדת כנהגת משאית לטווח ארוך'.",
+                "example": "'I met my friend who drives a school bus every morning.'",
+                "example_hebrew": "'פגשתי את חבר שלי שנוהג באוטובוס בית ספר כל בוקר'."
+            },
+            {
+                "definition": "Person in control of the steering mechanism - A person controlling the direction or movement of an object. For example: 'The pilot is the driver of this airplane.'",
+                "definition_hebrew": "אדם השולט במנגנון ההיגוי - אדם השולט בכיוון או בתנועה של חפץ. לדוגמה: 'הטייס הוא הנהג של המטוס הזה'.",
+                "example": "'He took over as the driver, guiding us through the narrow streets.'",
+                "example_hebrew": "'הוא השתלט על הנהג, והוביל אותנו ברחובות הצרים'."
+            },
+            {
+                "definition": "Software that controls a computer system - A program or tool that manages and operates computing tasks. For example: 'The software updates are essential for the smooth functioning of our systems.'",
+                "definition_hebrew": "תוכנה השולטת במערכת ממוחשבת - תוכנה או כלי המנהל ומפעיל משימות מחשוב. לדוגמה: 'עדכוני התוכנה חיוניים לתפקוד חלק של המערכות שלנו'.",
+                "example": "'Our office uses driver software to manage printers and scanners.'",
+                "example_hebrew": "'המשרד שלנו משתמש בתוכנת מנהלי התקנים כדי לנהל מדפסות וסורקים.'"
+            },
+            {
+                "definition": "Person responsible for a vehicle's maintenance - A person who ensures that a car or other vehicles are in good working order. For example: 'The mechanic was busy checking the engine as the car's driver requested.'",
+                "definition_hebrew": "אחראי לתחזוקת רכב - מי שדואג שמכונית או כלי רכב אחרים תקינים. למשל: 'המוסכניק היה עסוק בבדיקת המנוע כפי שנהג הרכב ביקש'.",
+                "example": "'As part of his responsibilities, he makes sure the cars driven by others are well-maintained.'",
+                "example_hebrew": "'כחלק מהאחריות שלו, הוא דואג שהמכוניות שבהן נוהגים אחרים יהיו מתוחזקות היטב'."
+            },
+            {
+                "definition": "Device that propels an object - An apparatus or mechanism used to move objects. For example: 'The electric motor acts as a driver for the conveyor belt system.'",
+                "definition_hebrew": "מכשיר שמניע חפץ - מנגנון או מנגנון המשמשים להזזת עצמים. לדוגמא: 'המנוע החשמלי משמש כמניע למערכת המסוע'.",
+                "example": "'Our factory utilizes powerful drivers to transport raw materials across the plant floor.'",
+                "example_hebrew": "\"המפעל שלנו משתמש בנהגים רבי עוצמה כדי להעביר חומרי גלם על פני רצפת המפעל.\""
+            }
+        ]
+    }
+]

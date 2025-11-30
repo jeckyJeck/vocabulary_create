@@ -1,0 +1,40 @@
+[
+    {
+        "word": "numbers",
+        "word_hebrew": "מספרים",
+        "main_definition": "Numbers refer to quantities, numerical values or mathematical concepts related to counting and measurement.",
+        "main_definition_hebrew": "מספרים מתייחסים לכמויות, ערכים מספריים או מושגים מתמטיים הקשורים לספירה ולמדידה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Counting units used for quantification",
+                "definition_hebrew": "ספירת יחידות המשמשות לכימות",
+                "example": "When I said there are 24 hours in a day, I was referring to numbers.",
+                "example_hebrew": "כשאמרתי שיש 24 שעות ביממה, התכוונתי למספרים."
+            },
+            {
+                "definition": "Numerical digits or symbols representing quantities and values",
+                "definition_hebrew": "ספרות או סמלים מספריים המייצגים כמויות וערכים",
+                "example": "The price of the product is $19.99.",
+                "example_hebrew": "מחיר המוצר הוא 19.99$."
+            },
+            {
+                "definition": "Mathematical operations involving numerical computations",
+                "definition_hebrew": "פעולות מתמטיות הכוללות חישובים מספריים",
+                "example": "Adding numbers 5 and 7 gives us a sum of 12.",
+                "example_hebrew": "הוספת המספרים 5 ו-7 נותנת לנו סכום של 12."
+            },
+            {
+                "definition": "A group or set of numbers arranged in order according to certain rules",
+                "definition_hebrew": "קבוצה או קבוצה של מספרים מסודרים לפי סדר לפי כללים מסוימים",
+                "example": "The natural numbers start from 1 and go up (1, 2, 3, ...).",
+                "example_hebrew": "המספרים הטבעיים מתחילים מ-1 ועולים (1, 2, 3, ...)."
+            },
+            {
+                "definition": "Numbers used as a code for identifying items or individuals",
+                "definition_hebrew": "מספרים המשמשים כקוד לזיהוי פריטים או אנשים",
+                "example": "Customer service will reach out to you using the number provided.",
+                "example_hebrew": "שירות הלקוחות ייצור איתך קשר באמצעות המספר שסופק."
+            }
+        ]
+    }
+]

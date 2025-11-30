@@ -1,0 +1,34 @@
+[
+    {
+        "word": "annotation",
+        "word_hebrew": "ביאור",
+        "main_definition": "A note of explanation or comment added to a text, especially in a marginalia form.",
+        "main_definition_hebrew": "הערה של הסבר או הערה שנוספה לטקסט, במיוחד בצורת שוליים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Commentary on a written work or artwork, providing additional information and interpretation.",
+                "definition_hebrew": "פרשנות על יצירה או יצירה כתובה, מתן מידע נוסף ופרשנות.",
+                "example": "The professor's annotation on the painting highlighted its historical context.",
+                "example_hebrew": "ההערה של הפרופסור על הציור הדגישה את ההקשר ההיסטורי שלו."
+            },
+            {
+                "definition": "A note added by a reader to clarify, question, or provide insights about the original text.",
+                "definition_hebrew": "הערה שנוספה על ידי קורא כדי להבהיר, להטיל ספק או לספק תובנות לגבי הטקסט המקורי.",
+                "example": "She wrote an annotation in her book, asking for further explanation of the author's argument.",
+                "example_hebrew": "היא כתבה ביאור בספרה, וביקשה הסבר נוסף על טיעון המחבר."
+            },
+            {
+                "definition": "The practice of marking texts with explanatory notes or comments, often seen in educational contexts.",
+                "definition_hebrew": "התרגול של סימון טקסטים בהערות הסבר או הערות, הנראה לרוב בהקשרים חינוכיים.",
+                "example": "Students were asked to annotate their textbooks by underlining key points and jotting down thoughts in the margins.",
+                "example_hebrew": "התלמידים התבקשו להעיר את ספרי הלימוד שלהם על ידי הדגשת נקודות מפתח ורישום מחשבות בשוליים."
+            },
+            {
+                "definition": "A digital commentary or feedback provided on online content such as web pages, videos, or social media posts.",
+                "definition_hebrew": "פרשנות או משוב דיגיטלי על תוכן מקוון כגון דפי אינטרנט, סרטונים או פוסטים במדיה חברתית.",
+                "example": "The blog post received several annotations from readers who wanted to discuss its ideas further.",
+                "example_hebrew": "הפוסט בבלוג קיבל מספר הערות מקוראים שרצו לדון עוד ברעיונותיו."
+            }
+        ]
+    }
+]

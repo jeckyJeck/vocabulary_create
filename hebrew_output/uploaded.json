@@ -1,0 +1,34 @@
+[
+    {
+        "word": "uploaded",
+        "word_hebrew": "הועלה",
+        "main_definition": "To transfer files or data from a local computer or device to an online server, typically through the internet.",
+        "main_definition_hebrew": "כדי להעביר קבצים או נתונים ממחשב או מכשיר מקומי לשרת מקוון, בדרך כלל דרך האינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "The action of making available on a website or network.",
+                "definition_hebrew": "הפעולה של ביצוע זמין באתר או ברשת.",
+                "example": "She uploaded her artwork to Instagram for others to see.",
+                "example_hebrew": "היא העלתה את יצירות האמנות שלה לאינסטגרם כדי שאחרים יוכלו לראות."
+            },
+            {
+                "definition": "To add data or files from one device to another via the internet.",
+                "definition_hebrew": "כדי להוסיף נתונים או קבצים ממכשיר אחד לאחר דרך האינטרנט.",
+                "example": "He uploaded his presentation slides onto Google Drive before the meeting.",
+                "example_hebrew": "הוא העלה את שקופיות המצגת שלו ל-Google Drive לפני הפגישה."
+            },
+            {
+                "definition": "The process of transferring and storing digital information electronically, typically in a computer system's memory or on an external storage device.",
+                "definition_hebrew": "תהליך העברה ואחסון של מידע דיגיטלי באופן אלקטרוני, בדרך כלל בזיכרון של מערכת מחשב או בהתקן אחסון חיצוני.",
+                "example": "After finishing her research paper, she uploaded it to the university's online repository for safekeeping.",
+                "example_hebrew": "לאחר שסיימה את עבודת המחקר שלה, היא העלתה אותו למאגר המקוון של האוניברסיטה לשמירה."
+            },
+            {
+                "definition": "The act of submitting files for review or approval within certain systems like e-learning platforms or project management tools.",
+                "definition_hebrew": "הפעולה של הגשת קבצים לבדיקה או אישור בתוך מערכות מסוימות כמו פלטפורמות e-learning או כלים לניהול פרויקטים.",
+                "example": "Before finalizing the course content, he had to upload his documents for peer review on the learning platform.",
+                "example_hebrew": "לפני שסיים את תוכן הקורס, היה עליו להעלות את המסמכים שלו לביקורת עמיתים בפלטפורמת הלמידה."
+            }
+        ]
+    }
+]

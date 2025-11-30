@@ -1,0 +1,28 @@
+[
+    {
+        "word": "tutorial",
+        "word_hebrew": "הדרכה",
+        "main_definition": "A tutorial is a type of educational guide or instructional video designed to teach users how to perform specific tasks, usually through step-by-step instructions.",
+        "main_definition_hebrew": "מדריך הוא סוג של מדריך חינוכי או סרטון הדרכה שנועד ללמד משתמשים כיצד לבצע משימות ספציפיות, בדרך כלל באמצעות הוראות שלב אחר שלב.",
+        "meanings_and_examples": [
+            {
+                "definition": "An online learning resource that provides detailed guidance on performing certain skills or tasks",
+                "definition_hebrew": "משאב למידה מקוון המספק הדרכה מפורטת לביצוע מיומנויות או משימות מסוימות",
+                "example": "The website offers a comprehensive tutorial for beginners to learn how to code in Python.",
+                "example_hebrew": "האתר מציע מדריך מקיף למתחילים כדי ללמוד כיצד לקודד ב-Python."
+            },
+            {
+                "definition": "A brief teaching session, often used in academic settings, focused on explaining and demonstrating specific concepts or procedures",
+                "definition_hebrew": "מפגש הוראה קצר, המשמש לעתים קרובות במסגרות אקדמיות, התמקד בהסבר והדגמה של מושגים או נהלים ספציפיים",
+                "example": "During the math class, the teacher gave students a mini-tutorial on solving quadratic equations.",
+                "example_hebrew": "במהלך שיעור המתמטיקה, המורה נתנה לתלמידים מיני-הדרכה על פתרון משוואות ריבועיות."
+            },
+            {
+                "definition": "An instructional segment within an educational program where viewers are taught how to use software or perform technical tasks",
+                "definition_hebrew": "קטע הדרכה במסגרת תוכנית חינוכית בו מלמדים את הצופים כיצד להשתמש בתוכנה או לבצע משימות טכניות",
+                "example": "The tech support video included a tutorial that showed users how to reset their router settings.",
+                "example_hebrew": "סרטון התמיכה הטכנית כלל מדריך שהראה למשתמשים כיצד לאפס את הגדרות הנתב שלהם."
+            }
+        ]
+    }
+]

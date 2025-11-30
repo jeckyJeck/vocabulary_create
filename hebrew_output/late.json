@@ -1,0 +1,40 @@
+[
+    {
+        "word": "late",
+        "word_hebrew": "מאוחר",
+        "main_definition": "Pertaining to a time after the expected, usual, or scheduled time.",
+        "main_definition_hebrew": "הנוגע לזמן לאחר הזמן הצפוי, הרגיל או המתוכנן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Arriving or doing something after the expected or agreed-upon time.",
+                "definition_hebrew": "הגעה או ביצוע משהו לאחר הזמן הצפוי או המוסכם.",
+                "example": "I'm sorry I'm late for our meeting.",
+                "example_hebrew": "אני מצטער שאיחרתי לפגישה שלנו."
+            },
+            {
+                "definition": "Not fully developed; immature in terms of age, growth, or maturity.",
+                "definition_hebrew": "לא מפותח במלואו; לא בוגר מבחינת גיל, גדילה או בגרות.",
+                "example": "The fruits are a bit late this year due to the cold weather affecting their development.",
+                "example_hebrew": "הפירות מאוחרים מעט השנה בגלל מזג האוויר הקר המשפיע על התפתחותם."
+            },
+            {
+                "definition": "Delayed from an original position or state.",
+                "definition_hebrew": "עיכוב מעמדה או מצב מקורי.",
+                "example": "His thoughts were already late in terms of catching up with current events.",
+                "example_hebrew": "מחשבותיו כבר איחרו במונחים של התעדכנות באירועים אקטואליים."
+            },
+            {
+                "definition": "Postponed to a later time; deferred.",
+                "definition_hebrew": "נדחה למועד מאוחר יותר; דָחוּי.",
+                "example": "The project deadline was extended, so we have more time to work on it.",
+                "example_hebrew": "המועד האחרון לפרויקט הוארך, כך שיש לנו יותר זמן לעבוד עליו."
+            },
+            {
+                "definition": "Not happening or occurring at the expected or usual time.",
+                "definition_hebrew": "לא מתרחש או מתרחש בזמן הצפוי או הרגיל.",
+                "example": "Spring is late this year because of unseasonably cold temperatures.",
+                "example_hebrew": "האביב מאוחר השנה בגלל טמפרטורות קרות ללא עונות."
+            }
+        ]
+    }
+]

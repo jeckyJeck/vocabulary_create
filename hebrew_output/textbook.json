@@ -1,0 +1,34 @@
+[
+    {
+        "word": "textbook",
+        "word_hebrew": "ספר לימוד",
+        "main_definition": "A textbook is a book used as a standard work for the study of a particular subject.",
+        "main_definition_hebrew": "ספר לימוד הוא ספר המשמש כיצירה סטנדרטית ללימוד נושא מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An actual physical book used in education, typically covering specific content or topics and intended to be read by students",
+                "definition_hebrew": "ספר פיזי ממשי המשמש בחינוך, בדרך כלל מכסה תוכן או נושאים ספציפיים ומיועד לקריאה על ידי תלמידים",
+                "example": "The biology textbook I am using includes chapters on genetics, cell structure, and ecosystems.",
+                "example_hebrew": "ספר הלימוד בביולוגיה שאני משתמש בו כולל פרקים על גנטיקה, מבנה תאים ומערכות אקולוגיות."
+            },
+            {
+                "definition": "An example of something that serves as a standard, norm, or model due to its thoroughness or comprehensiveness",
+                "definition_hebrew": "דוגמה למשהו המשמש כסטנדרט, נורמה או מודל בשל יסודיותו או מקיפותו",
+                "example": "The textbook approach to solving this problem emphasized step-by-step instructions and examples.",
+                "example_hebrew": "גישת ספרי הלימוד לפתרון בעיה זו הדגישה הוראות ודוגמאות צעד אחר צעד."
+            },
+            {
+                "definition": "A reference book used for academic study in schools and universities containing information on a specific subject, usually with commentary and sometimes exercises",
+                "definition_hebrew": "ספר עיון המשמש ללימודים אקדמיים בבתי ספר ובאוניברסיטאות המכיל מידע על נושא ספציפי, בדרך כלל עם פרשנות ולעיתים תרגילים",
+                "example": "The history textbook provided an in-depth analysis of the Renaissance period with maps and timelines.",
+                "example_hebrew": "ספר ההיסטוריה סיפק ניתוח מעמיק של תקופת הרנסנס עם מפות וקווי זמן."
+            },
+            {
+                "definition": "A term used metaphorically to describe something that follows a set pattern or is well-established, like a guide",
+                "definition_hebrew": "מונח המשמש באופן מטפורי כדי לתאר משהו שעוקב אחר דפוס מוגדר או מבוסס היטב, כמו מדריך",
+                "example": "The recipe for this classic dish is considered a textbook example of traditional cooking methods.",
+                "example_hebrew": "המתכון למנה קלאסית זו נחשב דוגמה ספרית לשיטות בישול מסורתיות."
+            }
+        ]
+    }
+]

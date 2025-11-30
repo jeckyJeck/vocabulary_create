@@ -1,0 +1,34 @@
+[
+    {
+        "word": "reliance",
+        "word_hebrew": "הסתמכות",
+        "main_definition": "Reliance refers to the state of depending on or trusting in someone or something.",
+        "main_definition_hebrew": "הסתמכות מתייחסת למצב של תלות או אמון במישהו או משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Dependence on a person or thing for support, help, or resources.",
+                "definition_hebrew": "תלות באדם או בדבר לתמיכה, עזרה או משאבים.",
+                "example": "After losing her job, Sarah had to rely on her family for financial assistance.",
+                "example_hebrew": "לאחר שאיבדה את עבודתה, שרה נאלצה לסמוך על משפחתה לקבלת סיוע כספי."
+            },
+            {
+                "definition": "Trusting in the abilities and actions of someone or something to fulfill expectations.",
+                "definition_hebrew": "אמון ביכולות ובפעולות של מישהו או משהו כדי להגשים ציפיות.",
+                "example": "The team's success was largely due to their reliance on each other's skills and dedication.",
+                "example_hebrew": "הצלחת הצוות נבעה בעיקר מהסתמכותם על כישוריו ומסירותו של זה."
+            },
+            {
+                "definition": "A system or component that is essential for the proper functioning of a larger entity, such as an organization or process.",
+                "definition_hebrew": "מערכת או רכיב החיוניים לתפקוד תקין של ישות גדולה יותר, כגון ארגון או תהליך.",
+                "example": "In any company, there must be a strong IT infrastructure to ensure smooth operations; this represents reliance on technology.",
+                "example_hebrew": "בכל חברה, חייבת להיות תשתית IT חזקה כדי להבטיח תפעול חלק; זה מייצג הסתמכות על טכנולוגיה."
+            },
+            {
+                "definition": "Dependence on certain tools, methods, or approaches for accomplishing tasks effectively and efficiently.",
+                "definition_hebrew": "תלות בכלים, שיטות או גישות מסוימות לביצוע משימות ביעילות וביעילות.",
+                "example": "The chef's signature dish requires precise temperature control that relies on professional-grade equipment.",
+                "example_hebrew": "המנה המיוחדת של השף דורשת בקרת טמפרטורה מדויקת הנשענת על ציוד ברמה מקצועית."
+            }
+        ]
+    }
+]

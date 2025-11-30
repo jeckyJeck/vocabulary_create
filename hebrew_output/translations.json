@@ -1,0 +1,40 @@
+[
+    {
+        "word": "translations",
+        "word_hebrew": "תרגומים",
+        "main_definition": "Translations refer to the act of converting text or speech from one language into another, as well as providing equivalent meanings, expressions, and interpretations in different languages.",
+        "main_definition_hebrew": "תרגומים מתייחסים לפעולת המרת טקסט או דיבור משפה אחת לשפה אחרת, כמו גם מתן משמעויות, ביטויים ופירושים שווים בשפות שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The process of rendering written or spoken content from one language into another",
+                "definition_hebrew": "תהליך עיבוד תוכן כתוב או מדובר משפה אחת לשפה אחרת",
+                "example": "She was able to provide accurate English translations for the Spanish document.",
+                "example_hebrew": "היא הצליחה לספק תרגומים מדויקים לאנגלית למסמך הספרדי."
+            },
+            {
+                "definition": "Equivalent expressions and idioms in different languages that convey similar meanings",
+                "definition_hebrew": "ביטויים וניבים שווים בשפות שונות המעבירים משמעויות דומות",
+                "example": "The phrase 'raining cats and dogs' has a French equivalent, 'il pleut des cordes,' which means it's raining ropes.",
+                "example_hebrew": "לביטוי 'מורידים גשם על חתולים וכלבים' יש מקבילה בצרפתית, 'il pleut des cordes', שמשמעותה היא גשם של חבלים."
+            },
+            {
+                "definition": "Translated versions of books, films, or other cultural works",
+                "definition_hebrew": "גרסאות מתורגמות של ספרים, סרטים או יצירות תרבות אחרות",
+                "example": "I enjoyed reading the translations of classic Japanese literature into English.",
+                "example_hebrew": "נהניתי לקרוא את תרגומי הספרות היפנית הקלאסית לאנגלית."
+            },
+            {
+                "definition": "The work done by a professional translator to convert text from one language into another",
+                "definition_hebrew": "העבודה שנעשתה על ידי מתרגם מקצועי להמרת טקסט משפה אחת לשפה אחרת",
+                "example": "She spent several hours working on her translation of the legal document from German to English.",
+                "example_hebrew": "היא הקדישה מספר שעות לעבודה על תרגום המסמך המשפטי מגרמנית לאנגלית."
+            },
+            {
+                "definition": "Adaptation or interpretation in different languages of an idea, concept, or message",
+                "definition_hebrew": "עיבוד או פרשנות בשפות שונות של רעיון, מושג או מסר",
+                "example": "The speaker's speech was translated into multiple languages to ensure a diverse audience could understand its meaning.",
+                "example_hebrew": "נאומו של הדובר תורגם למספר שפות כדי להבטיח שקהל מגוון יוכל להבין את משמעותו."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "deadline",
+        "word_hebrew": "מועד אחרון",
+        "main_definition": "A deadline is the specific time or date by which a task must be completed, often associated with consequences if missed.",
+        "main_definition_hebrew": "מועד אחרון הוא הזמן או התאריך הספציפיים שבהם יש להשלים משימה, לעתים קרובות קשורה להשלכות אם החמצה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The final point in time when something becomes due and cannot be delayed further",
+                "definition_hebrew": "נקודת הזמן האחרונה שבה משהו מגיע לפירעון ולא ניתן לעכב אותו עוד יותר",
+                "example": "My project proposal has to be submitted before the 5th of May, which is my deadline.",
+                "example_hebrew": "את הצעת הפרויקט שלי יש להגיש לפני ה-5 במאי, שהוא המועד האחרון שלי."
+            },
+            {
+                "definition": "A fixed date by which a commitment or obligation must be fulfilled",
+                "definition_hebrew": "תאריך קבוע שבו יש לקיים התחייבות או התחייבות",
+                "example": "The company's annual report needs to be completed and filed with all department heads no later than June 30th, that's our deadline.",
+                "example_hebrew": "יש להשלים את הדוח השנתי של החברה ולהגיש לכל ראשי המחלקות לא יאוחר מה-30 ביוני, זה המועד האחרון שלנו."
+            },
+            {
+                "definition": "A limit set for a certain activity or goal to instill urgency and motivation",
+                "definition_hebrew": "גבול שנקבע לפעילות או מטרה מסוימת כדי להחדיר דחיפות ומוטיבציה",
+                "example": "As an athlete, I have a personal fitness target to run a marathon by the end of this year; that's my own deadline.",
+                "example_hebrew": "כספורטאי, יש לי יעד כושר אישי לרוץ מרתון עד סוף השנה הזו; זה המועד האחרון שלי."
+            },
+            {
+                "definition": "The cut-off point after which it is too late or impossible to complete certain tasks",
+                "definition_hebrew": "נקודת הניתוק שאחריה מאוחר מדי או בלתי אפשרי להשלים משימות מסוימות",
+                "example": "If you miss applying for jobs before October 15th, many companies will stop accepting applications by then; that's a deadline.",
+                "example_hebrew": "אם אתה מתגעגע להגשת מועמדות למשרות לפני ה-15 באוקטובר, חברות רבות יפסיקו לקבל מועמדות עד אז; זה תאריך יעד."
+            }
+        ]
+    }
+]

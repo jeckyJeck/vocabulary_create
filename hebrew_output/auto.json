@@ -1,0 +1,40 @@
+[
+    {
+        "word": "auto",
+        "word_hebrew": "אוטומטי",
+        "main_definition": "Auto is a prefix derived from the Greek word 'autos' which means 'self'. It often refers to something that works by itself or related to mechanized transportation.",
+        "main_definition_hebrew": "אוטו היא קידומת שמקורה במילה היוונית 'אוטו' שפירושה 'עצמי'. לעתים קרובות זה מתייחס למשהו שעובד מעצמו או קשור להובלה ממוכנת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to self-regulating processes, systems, or actions",
+                "definition_hebrew": "מתייחס לתהליכים, מערכות או פעולות המווסתות את עצמם",
+                "example": "An automatic payment system deducts funds from a bank account without human intervention.",
+                "example_hebrew": "מערכת תשלומים אוטומטית מנכה כספים מחשבון בנק ללא התערבות אנושית."
+            },
+            {
+                "definition": "Automobile or car",
+                "definition_hebrew": "רכב או רכב",
+                "example": "The red auto was parked in front of the store.",
+                "example_hebrew": "הרכב האדום חנה מול החנות."
+            },
+            {
+                "definition": "Auto-biography: A book written by an individual about their own life",
+                "definition_hebrew": "אוטו-ביוגרפיה: ספר שנכתב על ידי אדם על חייו שלו",
+                "example": "I just finished reading 'Becoming' by Michelle Obama, which is her autobiography detailing her journey from Chicago to Washington D.C.",
+                "example_hebrew": "זה עתה סיימתי לקרוא את 'Becoming' מאת מישל אובמה, שהיא האוטוביוגרפיה שלה המפרטת את מסעה משיקגו לוושינגטון די.סי."
+            },
+            {
+                "definition": "Automobile manufacturing",
+                "definition_hebrew": "ייצור רכב",
+                "example": "The company specializes in auto production and sells its vehicles worldwide.",
+                "example_hebrew": "החברה מתמחה בייצור רכב ומוכרת את רכביה ברחבי העולם."
+            },
+            {
+                "definition": "Automatic transmission: A vehicle's mechanism that changes gears automatically without driver input",
+                "definition_hebrew": "תיבת הילוכים אוטומטית: מנגנון של רכב המחליף הילוכים אוטומטית ללא כניסת נהג",
+                "example": "My car has an automatic transmission, which makes shifting between speeds effortless while driving.",
+                "example_hebrew": "לרכב שלי יש תיבת הילוכים אוטומטית, מה שהופך את המעבר בין מהירויות ללא מאמץ בזמן נסיעה."
+            }
+        ]
+    }
+]

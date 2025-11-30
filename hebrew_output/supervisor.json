@@ -1,0 +1,34 @@
+[
+    {
+        "word": "supervisor",
+        "word_hebrew": "מְפַקֵחַ",
+        "main_definition": "A person who oversees, manages, or controls the work of others in a particular area.",
+        "main_definition_hebrew": "אדם המפקח, מנהל או שולט בעבודתם של אחרים בתחום מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An employee with managerial responsibilities, typically in charge of directing and supervising workers within their department or team.",
+                "definition_hebrew": "עובד עם אחריות ניהולית, בדרך כלל אחראי על הכוונה ופיקוח על עובדים במחלקה או בצוות שלהם.",
+                "example": "As a construction site supervisor, John ensures that all safety protocols are followed while managing his team's daily tasks.",
+                "example_hebrew": "כמפקח באתר בנייה, ג'ון מבטיח שכל פרוטוקולי הבטיחות יבוצעו תוך ניהול המשימות היומיומיות של הצוות שלו."
+            },
+            {
+                "definition": "A person who oversees the implementation of policies and procedures in an organization.",
+                "definition_hebrew": "אדם המפקח על יישום מדיניות ונהלים בארגון.",
+                "example": "The office supervisor was responsible for monitoring compliance with company guidelines during a major audit period.",
+                "example_hebrew": "מפקח המשרד היה אחראי על מעקב אחר ציות להנחיות החברה במהלך תקופת ביקורת גדולה."
+            },
+            {
+                "definition": "In education, a supervisor is someone who monitors academic integrity, such as grading papers and overseeing exams.",
+                "definition_hebrew": "בחינוך, מנחה הוא מי שעוקב אחר יושרה אקדמית, כגון ציון עבודות ופיקוח על בחינות.",
+                "example": "The school's writing supervisor meticulously checked each student's essay for originality before marking.",
+                "example_hebrew": "מפקח הכתיבה של בית הספר בדק בקפדנות את מקוריותו של החיבור של כל תלמיד לפני סימון."
+            },
+            {
+                "definition": "A person appointed to monitor or control a process, usually within manufacturing or industrial settings.",
+                "definition_hebrew": "אדם שמונה לפקח או לשלוט בתהליך, בדרך כלל במסגרת ייצור או תעשייה.",
+                "example": "In the factory, the assembly line supervisors were tasked with ensuring that each step of production met quality standards.",
+                "example_hebrew": "במפעל הוטל על מפקחי פס הייצור לוודא שכל שלב בייצור עומד בתקני איכות."
+            }
+        ]
+    }
+]

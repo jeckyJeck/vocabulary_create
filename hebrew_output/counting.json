@@ -1,0 +1,40 @@
+[
+    {
+        "word": "counting",
+        "word_hebrew": "סְפִירָה",
+        "main_definition": "Counting is the process of determining the total number of items in a collection or group, often by assigning numbers to them.",
+        "main_definition_hebrew": "ספירה היא תהליך של קביעת המספר הכולל של פריטים באוסף או קבוצה, לרוב על ידי הקצאת מספרים להם.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of enumerating items systematically and sequentially",
+                "definition_hebrew": "פעולת ספירת הפריטים באופן שיטתי ורציף",
+                "example": "She began counting the apples on the table one by one.",
+                "example_hebrew": "היא התחילה לספור את התפוחים על השולחן אחד אחד."
+            },
+            {
+                "definition": "Asking someone to recite numbers in order, often for practice or assessment",
+                "definition_hebrew": "מבקשים ממישהו לדקלם מספרים לפי הסדר, לעתים קרובות לצורך תרגול או הערכה",
+                "example": "The teacher asked the students to count from one to ten aloud.",
+                "example_hebrew": "המורה ביקשה מהתלמידים לספור מאחת עד עשר בקול רם."
+            },
+            {
+                "definition": "The process of calculating totals and managing quantities in various contexts such as finance, inventory management, etc.",
+                "definition_hebrew": "תהליך חישוב סכומים וניהול כמויות בהקשרים שונים כגון כספים, ניהול מלאי וכו'.",
+                "example": "In accounting, counting is essential for tallying sales and expenses accurately.",
+                "example_hebrew": "בהנהלת חשבונות, ספירה חיונית לתיאום מכירות והוצאות בצורה מדויקת."
+            },
+            {
+                "definition": "Using numbers to represent or measure something",
+                "definition_hebrew": "שימוש במספרים כדי לייצג או למדוד משהו",
+                "example": "The scientist used counting as a method to quantify the number of cells in a sample.",
+                "example_hebrew": "המדען השתמש בספירה כשיטה לכמת את מספר התאים בדגימה."
+            },
+            {
+                "definition": "A technique for estimating and predicting outcomes based on numerical data",
+                "definition_hebrew": "טכניקה לאומדן וחיזוי תוצאות על בסיס נתונים מספריים",
+                "example": "By analyzing historical sales data, the company could count potential profits from a new product launch.",
+                "example_hebrew": "על ידי ניתוח נתוני מכירות היסטוריים, החברה תוכל לספור רווחים פוטנציאליים מהשקת מוצר חדש."
+            }
+        ]
+    }
+]

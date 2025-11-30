@@ -1,0 +1,40 @@
+[
+    {
+        "word": "particle",
+        "word_hebrew": "חֶלְקִיק",
+        "main_definition": "A particle is a small, localized object to which can be ascribed several physical or chemical properties such as volume or mass.",
+        "main_definition_hebrew": "חלקיק הוא עצם קטן ומקומו שניתן לייחס לו מספר תכונות פיזיקליות או כימיות כמו נפח או מסה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In physics, a particle refers to an entity with physical existence that may possess attributes like mass and charge. It is often used in the context of subatomic particles, which are constituents of matter and energy at quantum levels.",
+                "definition_hebrew": "בפיזיקה, חלקיק מתייחס לישות בעלת קיום פיזי שעשויה להיות בעלת תכונות כמו מסה ומטען. הוא משמש לעתים קרובות בהקשר של חלקיקים תת-אטומיים, שהם מרכיבים של חומר ואנרגיה ברמות קוונטיות.",
+                "example": "Electrons and protons are examples of fundamental particles.",
+                "example_hebrew": "אלקטרונים ופרוטונים הם דוגמאות לחלקיקים בסיסיים."
+            },
+            {
+                "definition": "In chemistry, a particle can refer to atoms or molecules. These are the smallest units of chemical elements or compounds that retain their characteristic properties during reactions.",
+                "definition_hebrew": "בכימיה, חלקיק יכול להתייחס לאטומים או למולקולות. אלו היחידות הקטנות ביותר של יסודות כימיים או תרכובות ששומרות על תכונותיהן האופייניות במהלך תגובות.",
+                "example": "A water molecule is made up of two hydrogen particles and one oxygen particle.",
+                "example_hebrew": "מולקולת מים מורכבת משני חלקיקי מימן וחלקיק חמצן אחד."
+            },
+            {
+                "definition": "In computer science, particularly in programming, a 'particle' can refer to an object or data structure used to represent some element of the program. It doesn't have a specific meaning but is used to encapsulate properties and behaviors.",
+                "definition_hebrew": "במדעי המחשב, במיוחד בתכנות, \"חלקיק\" יכול להתייחס לאובייקט או למבנה נתונים המשמשים לייצוג אלמנט כלשהו של התוכנית. אין לו משמעות ספציפית, אבל הוא משמש כדי לכלול מאפיינים והתנהגויות.",
+                "example": "A particle in graphics programming could be a point on a screen with associated color information.",
+                "example_hebrew": "חלקיק בתכנות גרפי יכול להיות נקודה על מסך עם מידע צבע משויך."
+            },
+            {
+                "definition": "In meteorology, 'particle' refers to tiny solid or liquid droplets that are suspended in the atmosphere. These particles can affect weather patterns and air quality.",
+                "definition_hebrew": "במטאורולוגיה, 'חלקיק' מתייחס לטיפות מוצקות או נוזליות זעירות התלויות באטמוספירה. חלקיקים אלה יכולים להשפיע על דפוסי מזג האוויר ועל איכות האוויר.",
+                "example": "Airborne dust particles contribute to haze in urban areas.",
+                "example_hebrew": "חלקיקי אבק הנישאים באוויר תורמים לאובך באזורים עירוניים."
+            },
+            {
+                "definition": "In particle physics, a 'particle' is an object with properties like charge, spin, and mass. This term often relates to the smallest known components of matter.",
+                "definition_hebrew": "בפיזיקה של חלקיקים, 'חלקיק' הוא עצם בעל תכונות כמו מטען, ספין ומסה. מונח זה מתייחס לרוב למרכיבים הקטנים ביותר הידועים של החומר.",
+                "example": "Quarks are fundamental particles that make up protons and neutrons.",
+                "example_hebrew": "קווארקים הם חלקיקים בסיסיים המרכיבים פרוטונים וניוטרונים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "test",
+        "word_hebrew": "מִבְחָן",
+        "main_definition": "A procedure intended to establish the quality, performance, or reliability of something, typically a product or system.",
+        "main_definition_hebrew": "הליך שנועד לקבוע את האיכות, הביצועים או האמינות של משהו, בדרך כלל מוצר או מערכת.",
+        "meanings_and_examples": [
+            {
+                "definition": "To examine or evaluate for quality or effectiveness",
+                "definition_hebrew": "לבחון או להעריך את האיכות או האפקטיביות",
+                "example": "The teacher decided to test the students' knowledge by giving them a quiz.",
+                "example_hebrew": "המורה החליטה לבדוק את הידע של התלמידים באמצעות חידון."
+            },
+            {
+                "definition": "An assessment of skills, abilities, or knowledge",
+                "definition_hebrew": "הערכה של מיומנויות, יכולות או ידע",
+                "example": "She had to pass her driving test before she could get her license.",
+                "example_hebrew": "היא נאלצה לעבור את מבחן הנהיגה שלה לפני שהצליחה להוציא את הרישיון."
+            },
+            {
+                "definition": "A trial run to check the performance of a system or process",
+                "definition_hebrew": "הפעלת ניסיון לבדיקת ביצועים של מערכת או תהליך",
+                "example": "The company conducted a software update and then tested it on one machine first.",
+                "example_hebrew": "החברה ערכה עדכון תוכנה ולאחר מכן בדקה אותו במכונה אחת תחילה."
+            },
+            {
+                "definition": "To attempt or sample something, often with curiosity or skepticism",
+                "definition_hebrew": "לנסות או לדגום משהו, לעתים קרובות בסקרנות או בספקנות",
+                "example": "He was curious to test the new flavor of ice cream at the shop.",
+                "example_hebrew": "הוא היה סקרן לבדוק את הטעם החדש של הגלידה בחנות."
+            },
+            {
+                "definition": "A challenge that is used as a measure of ability in sports and games",
+                "definition_hebrew": "אתגר המשמש כמדד ליכולת בספורט ובמשחקים",
+                "example": "She trained hard for months before she could successfully perform her gymnastics routine on the high beam test.",
+                "example_hebrew": "היא התאמנה קשה במשך חודשים לפני שהצליחה לבצע את שגרת ההתעמלות שלה במבחן האור הגבוה."
+            }
+        ]
+    }
+]

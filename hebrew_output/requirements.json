@@ -1,0 +1,40 @@
+[
+    {
+        "word": "requirements",
+        "word_hebrew": "דרישות",
+        "main_definition": "Requirements refer to the necessary conditions, qualities, or specifications that must be met, fulfilled, or observed in a particular context, such as projects, products, or situations.",
+        "main_definition_hebrew": "דרישות מתייחסות לתנאים, האיכויות או המפרטים הדרושים שיש לעמוד בהם, למלא אותם או להקפיד עליהם בהקשר מסוים, כגון פרויקטים, מוצרים או מצבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Prerequisites for achieving something",
+                "definition_hebrew": "תנאים מוקדמים להשגת משהו",
+                "example": "To start working on this project, you need to meet certain requirements like having relevant experience and a degree in the field.",
+                "example_hebrew": "כדי להתחיל לעבוד על הפרויקט הזה, אתה צריך לעמוד בדרישות מסוימות כמו ניסיון רלוונטי ותואר בתחום."
+            },
+            {
+                "definition": "Specifications or standards that must be met",
+                "definition_hebrew": "מפרטים או תקנים שיש לעמוד בהם",
+                "example": "The product's requirements include using durable materials and ensuring user safety during operation.",
+                "example_hebrew": "דרישות המוצר כוללות שימוש בחומרים עמידים והבטחת בטיחות המשתמש במהלך הפעולה."
+            },
+            {
+                "definition": "Minimum demands in a policy, contract, or legal document",
+                "definition_hebrew": "דרישות מינימום במדיניות, בחוזה או במסמך משפטי",
+                "example": "According to the employment contract, employees must meet specific requirements such as passing drug tests and attending training sessions.",
+                "example_hebrew": "על פי חוזה העבודה, על העובדים לעמוד בדרישות ספציפיות כמו עמידה בבדיקות סמים והשתתפות בהדרכות."
+            },
+            {
+                "definition": "Criteria for approval or acceptance",
+                "definition_hebrew": "קריטריונים לאישור או קבלה",
+                "example": "Before a construction project can begin, it must satisfy certain environmental, safety, and planning requirements to gain approval from the authorities.",
+                "example_hebrew": "לפני שניתן להתחיל פרויקט בנייה, עליו לעמוד בדרישות סביבתיות, בטיחותיות ותכנון מסוימות כדי לקבל אישור מהרשויות."
+            },
+            {
+                "definition": "Necessary features or capabilities in software development",
+                "definition_hebrew": "תכונות או יכולות הכרחיות בפיתוח תוכנה",
+                "example": "In developing this mobile application, we need to include several essential requirements such as user authentication and data encryption.",
+                "example_hebrew": "בפיתוח אפליקציה זו לנייד, עלינו לכלול מספר דרישות חיוניות כגון אימות משתמש והצפנת נתונים."
+            }
+        ]
+    }
+]

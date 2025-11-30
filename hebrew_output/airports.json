@@ -1,0 +1,34 @@
+[
+    {
+        "word": "airports",
+        "word_hebrew": "שדות תעופה",
+        "main_definition": "Airports are large facilities designed to handle air traffic, including the arrival and departure of flights.",
+        "main_definition_hebrew": "שדות תעופה הם מתקנים גדולים שנועדו לטפל בתעבורה אווירית, כולל הגעה ויציאה של טיסות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A location where aircraft take off and land for commercial passenger service.",
+                "definition_hebrew": "מיקום בו מטוסים ממריאים ונוחתים לשירות נוסעים מסחרי.",
+                "example": "John arrived at JFK Airport in New York after a long flight.",
+                "example_hebrew": "ג'ון הגיע לנמל התעופה JFK בניו יורק לאחר טיסה ארוכה."
+            },
+            {
+                "definition": "An establishment that offers various services such as airlines, restaurants, retail stores, and hotels.",
+                "definition_hebrew": "מוסד המציע שירותים שונים כגון חברות תעופה, מסעדות, חנויות קמעונאיות ובתי מלון.",
+                "example": "She spent the afternoon shopping at the mall located within the airport terminals.",
+                "example_hebrew": "את אחר הצהריים היא בילתה בקניות בקניון הממוקם בטרמינלים של שדה התעופה."
+            },
+            {
+                "definition": "A place where aircraft are maintained and repaired between flights or before longer journeys.",
+                "definition_hebrew": "מקום שבו מתחזקים ומתקנים מטוסים בין טיסות או לפני נסיעות ארוכות יותר.",
+                "example": "The maintenance team worked on fixing a malfunctioning engine in one of the hangars at Los Angeles International Airport.",
+                "example_hebrew": "צוות התחזוקה עבד על תיקון מנוע לא תקין באחד ההאנגרים בנמל התעופה הבינלאומי של לוס אנג'לס."
+            },
+            {
+                "definition": "A central hub for transportation, connecting various modes of travel such as air, road, and rail.",
+                "definition_hebrew": "מוקד מרכזי לתחבורה, המחבר בין דרכי נסיעה שונות כמו אוויר, כביש ורכבת.",
+                "example": "After her flight landed, she took an express train from O'Hare International Airport to downtown Chicago.",
+                "example_hebrew": "לאחר שהטיסה שלה נחתה, היא לקחה רכבת אקספרס מנמל התעופה הבינלאומי או'הייר למרכז שיקגו."
+            }
+        ]
+    }
+]

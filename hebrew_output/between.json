@@ -1,0 +1,40 @@
+[
+    {
+        "word": "between",
+        "word_hebrew": "בֵּין",
+        "main_definition": "Between is a preposition that indicates something's position or relation in the middle of two points, objects, people, etc., suggesting an intermediate space or point of connection.",
+        "main_definition_hebrew": "בין היא מילת יחס המציינת את מיקומו או היחס של משהו באמצע שתי נקודות, עצמים, אנשים וכו', מה שמרמז על מרחב ביניים או נקודת חיבור.",
+        "meanings_and_examples": [
+            {
+                "definition": "Indicating spatial relations",
+                "definition_hebrew": "מציין יחסים מרחביים",
+                "example": "The coffee shop is between the bookstore and the bakery.",
+                "example_hebrew": "בית הקפה נמצא בין חנות הספרים למאפייה."
+            },
+            {
+                "definition": "Describing a time interval in which events occur",
+                "definition_hebrew": "תיאור מרווח זמן שבו מתרחשים אירועים",
+                "example": "She felt nervous between the moments of waiting for the interview results.",
+                "example_hebrew": "היא הרגישה עצבנית בין רגעי ההמתנה לתוצאות הראיון."
+            },
+            {
+                "definition": "Refers to an intermediary or someone who acts as a mediator",
+                "definition_hebrew": "הכוונה למתווך או למי שפועל כמתווך",
+                "example": "He played the role of peacemaker between two feuding siblings.",
+                "example_hebrew": "הוא שיחק את תפקיד משכן השלום בין שני אחים סכסוכים."
+            },
+            {
+                "definition": "Used in expressions to mean 'in the middle' or 'midway through', often used for abstract concepts or states",
+                "definition_hebrew": "משמש בביטויים בפירוש 'באמצע' או 'באמצע', משמש לעתים קרובות למושגים או מצבים מופשטים",
+                "example": "They are currently between stages one and two in their project development.",
+                "example_hebrew": "כרגע הם נמצאים בין שלב א' לשני בפיתוח הפרויקט שלהם."
+            },
+            {
+                "definition": "Indicating a choice among options",
+                "definition_hebrew": "מציין בחירה בין אפשרויות",
+                "example": "You can choose any flavor you like between vanilla and chocolate ice cream.",
+                "example_hebrew": "אתה יכול לבחור כל טעם שאתה אוהב בין גלידת וניל לשוקולד."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "intranet",
+        "word_hebrew": "אינטראנט",
+        "main_definition": "An intranet is a private network within an organization that uses internet technologies to share information, resources, and applications among employees.",
+        "main_definition_hebrew": "אינטראנט היא רשת פרטית בתוך ארגון המשתמשת בטכנולוגיות אינטרנט כדי לשתף מידע, משאבים ויישומים בין העובדים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A self-contained information system",
+                "definition_hebrew": "מערכת מידע עצמאית",
+                "example": "The company's intranet provides access to internal documents, policies, and news updates.",
+                "example_hebrew": "האינטראנט של החברה מספק גישה למסמכים פנימיים, מדיניות ועדכוני חדשות."
+            },
+            {
+                "definition": "Internal web portal for communication",
+                "definition_hebrew": "פורטל אינטרנט פנימי לתקשורת",
+                "example": "Employees use the intranet forum to discuss projects, ask questions, and collaborate on work.",
+                "example_hebrew": "עובדים משתמשים בפורום האינטראנט כדי לדון בפרויקטים, לשאול שאלות ולשתף פעולה בעבודה."
+            },
+            {
+                "definition": "A secure online environment for collaboration",
+                "definition_hebrew": "סביבה מקוונת מאובטחת לשיתוף פעולה",
+                "example": "The marketing team uses an intranet tool to share project plans and coordinate tasks in real-time.",
+                "example_hebrew": "צוות השיווק משתמש בכלי אינטראנט כדי לשתף תוכניות פרויקט ולתאם משימות בזמן אמת."
+            },
+            {
+                "definition": "Platform for internal training and development",
+                "definition_hebrew": "פלטפורמה להדרכה ופיתוח פנימיים",
+                "example": "The HR department provides onboarding materials, skill development courses, and certification tracking through the company's intranet.",
+                "example_hebrew": "מחלקת משאבי אנוש מספקת חומרי הצטרפות, קורסים לפיתוח מיומנויות ומעקב אחר הסמכה דרך האינטראנט של החברה."
+            },
+            {
+                "definition": "Network infrastructure for data storage and management",
+                "definition_hebrew": "תשתית רשת לאחסון וניהול נתונים",
+                "example": "IT professionals manage employee files, sensitive documents, and system updates via the organization's intranet servers.",
+                "example_hebrew": "מומחי IT מנהלים קבצי עובדים, מסמכים רגישים ועדכוני מערכת באמצעות שרתי האינטראנט של הארגון."
+            }
+        ]
+    }
+]

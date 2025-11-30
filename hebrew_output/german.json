@@ -1,0 +1,34 @@
+[
+    {
+        "word": "german",
+        "word_hebrew": "גֶרמָנִיָת",
+        "main_definition": "German, when used as an adjective or a noun, refers to something originating from Germany, characteristics of the German language, people from Germany, or things related to German culture.",
+        "main_definition_hebrew": "גרמנית, כאשר משתמשים בה כשם תואר או כשם עצם, מתייחסת למשהו שמקורו בגרמניה, מאפיינים של השפה הגרמנית, אנשים מגרמניה או דברים הקשורים לתרבות הגרמנית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Related to the country of Germany",
+                "definition_hebrew": "קשור למדינת גרמניה",
+                "example": "She is a German citizen.",
+                "example_hebrew": "היא אזרחית גרמנית."
+            },
+            {
+                "definition": "Of or pertaining to the German language",
+                "definition_hebrew": "של השפה הגרמנית או קשורה אליה",
+                "example": "He speaks fluent German.",
+                "example_hebrew": "הוא מדבר גרמנית שוטפת."
+            },
+            {
+                "definition": "Related to people from Germany",
+                "definition_hebrew": "קשור לאנשים מגרמניה",
+                "example": "The group is composed of several talented Germans.",
+                "example_hebrew": "הקבוצה מורכבת מכמה גרמנים מוכשרים."
+            },
+            {
+                "definition": "Related to things that originate from or are influenced by German culture and traditions",
+                "definition_hebrew": "קשור לדברים שמקורם או מושפעים מהתרבות והמסורת הגרמנית",
+                "example": "Its design reflects classic German aesthetics.",
+                "example_hebrew": "העיצוב שלו משקף אסתטיקה גרמנית קלאסית."
+            }
+        ]
+    }
+]

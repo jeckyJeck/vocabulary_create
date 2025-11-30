@@ -1,0 +1,40 @@
+[
+    {
+        "word": "integrate",
+        "word_hebrew": "לשלב",
+        "main_definition": "To combine or add something as a whole to become a unified entity.",
+        "main_definition_hebrew": "לשלב או להוסיף משהו בכללותו כדי להפוך לישות מאוחדת.",
+        "meanings_and_examples": [
+            {
+                "definition": "In mathematics, to perform the operation of integration, which finds the integral (area under) of a function over an interval. Example: To integrate the function f(x) = x^2 from 0 to 3.",
+                "definition_hebrew": "במתמטיקה, לבצע את פעולת האינטגרציה, המוצאת את האינטגרל (השטח מתחת) של פונקציה על פני מרווח. דוגמה: לשילוב הפונקציה f(x) = x^2 מ-0 ל-3.",
+                "example": "The area under the curve y=f(x)=x^2 from x=1 to x=4 is found by integrating the function.",
+                "example_hebrew": "השטח מתחת לעקומה y=f(x)=x^2 מ-x=1 ל-x=4 נמצא על ידי שילוב הפונקציה."
+            },
+            {
+                "definition": "In business and organizational settings, to incorporate various components or departments into a single unified entity for improved efficiency. Example: The company decided to integrate its marketing department with the sales team.",
+                "definition_hebrew": "במסגרות עסקיות וארגוניות, לשלב רכיבים או מחלקות שונות לישות מאוחדת אחת לשיפור היעילות. דוגמה: החברה החליטה לשלב את מחלקת השיווק שלה עם צוות המכירות.",
+                "example": "The merger of two companies led to the integration of their customer service teams.",
+                "example_hebrew": "מיזוג של שתי חברות הוביל לאינטגרציה של צוותי שירות הלקוחות שלהן."
+            },
+            {
+                "definition": "In social and cultural contexts, to include or accept individuals from diverse backgrounds into a community. Example: The school launched an initiative to integrate students with different ethnicities.",
+                "definition_hebrew": "בהקשרים חברתיים ותרבותיים, לכלול או לקבל אנשים מרקעים מגוונים לקהילה. דוגמה: בית הספר השיק יוזמה לשילוב תלמידים בעלי עדות שונות.",
+                "example": "The new neighborhood policy aimed at integrating immigrant families into the local community.",
+                "example_hebrew": "מדיניות השכונות החדשה נועדה לשלב משפחות עולים בקהילה המקומית."
+            },
+            {
+                "definition": "In construction and engineering, to combine separate structures or materials in a cohesive manner. Example: The architect's plan included integrating the steel beams with concrete for strength.",
+                "definition_hebrew": "בבנייה והנדסה, לשלב מבנים או חומרים נפרדים בצורה מגובשת. דוגמה: תוכנית האדריכל כללה שילוב קורות הפלדה עם בטון לצורך חוזק.",
+                "example": "The renovation project involved integrating new solar panels into the existing rooftop structure.",
+                "example_hebrew": "פרויקט השיפוץ כלל שילוב של פאנלים סולאריים חדשים במבנה הגג הקיים."
+            },
+            {
+                "definition": "In education, to incorporate different teaching methods and learning styles. Example: The teacher integrated visual aids into her lesson plan for students with varying learning preferences.",
+                "definition_hebrew": "בחינוך, לשלב שיטות הוראה וסגנונות למידה שונים. דוגמה: המורה שילבה עזרים חזותיים במערך השיעור שלה לתלמידים עם העדפות למידה שונות.",
+                "example": "The curriculum was designed to integrate technology-based assignments alongside traditional homework.",
+                "example_hebrew": "תכנית הלימודים תוכננה לשלב מטלות מבוססות טכנולוגיה לצד שיעורי בית מסורתיים."
+            }
+        ]
+    }
+]

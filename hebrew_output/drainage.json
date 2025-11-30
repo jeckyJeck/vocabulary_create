@@ -1,0 +1,34 @@
+[
+    {
+        "word": "drainage",
+        "word_hebrew": "תעלת ניקוז",
+        "main_definition": "The process or system that removes excess water from an area, typically through channels or pipes.",
+        "main_definition_hebrew": "התהליך או המערכת שמסירים עודפי מים מאזור, בדרך כלל דרך תעלות או צינורות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Infrastructure related to the removal of surface and groundwater.",
+                "definition_hebrew": "תשתיות הקשורות לפינוי מי עילי ומי תהום.",
+                "example": "The city's drainage system helps prevent flooding during heavy rainfalls.",
+                "example_hebrew": "מערכת הניקוז של העיר מסייעת במניעת הצפות בזמן גשמים עזים."
+            },
+            {
+                "definition": "A treatment process for wastewater, where water is cleaned before being released back into the environment.",
+                "definition_hebrew": "תהליך טיפול בשפכים, בו מנקים מים לפני שחרורם חזרה לסביבה.",
+                "example": "Industrial plants have their own drainage systems to treat and manage harmful by-products of production.",
+                "example_hebrew": "למפעלים תעשייתיים יש מערכות ניקוז משלהם לטיפול ולניהול תוצרי לוואי מזיקים של ייצור."
+            },
+            {
+                "definition": "The act or process of drying out a wet area, often referring to agricultural fields after irrigation.",
+                "definition_hebrew": "הפעולה או התהליך של ייבוש אזור רטוב, לעתים קרובות מתייחס לשדות חקלאיים לאחר השקיה.",
+                "example": "Farmers rely on proper drainage in their fields to ensure crops do not get waterlogged and rot.",
+                "example_hebrew": "חקלאים מסתמכים על ניקוז נאות בשדותיהם כדי להבטיח שהיבולים לא יסתמו מים ויירקב."
+            },
+            {
+                "definition": "In statistics or data analysis, the term can refer to techniques used for reducing noise or unwanted variations from collected data.",
+                "definition_hebrew": "בסטטיסטיקה או בניתוח נתונים, המונח יכול להתייחס לטכניקות המשמשות להפחתת רעש או שינויים לא רצויים מנתונים שנאספו.",
+                "example": "Data scientists use drainage methods in their algorithms to cleanse datasets of anomalies before analysis.",
+                "example_hebrew": "מדעני נתונים משתמשים בשיטות ניקוז באלגוריתמים שלהם כדי לנקות מערכי נתונים מאנומליות לפני ניתוח."
+            }
+        ]
+    }
+]

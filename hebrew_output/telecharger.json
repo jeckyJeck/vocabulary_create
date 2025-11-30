@@ -1,0 +1,28 @@
+[
+    {
+        "word": "telecharger",
+        "word_hebrew": "מטען טלפון",
+        "main_definition": "To download or transfer data, usually in the context of digital files or media from an online source.",
+        "main_definition_hebrew": "כדי להוריד או להעביר נתונים, בדרך כלל בהקשר של קבצים דיגיטליים או מדיה ממקור מקוון.",
+        "meanings_and_examples": [
+            {
+                "definition": "To download content such as music, videos, books, etc. from the internet onto a device.",
+                "definition_hebrew": "להורדת תוכן כגון מוזיקה, סרטונים, ספרים וכו' מהאינטרנט למכשיר.",
+                "example": "I used my computer to telecharge the latest movie release for offline viewing.",
+                "example_hebrew": "השתמשתי במחשב שלי כדי להטעין את מהדורת הסרט העדכנית ביותר לצפייה במצב לא מקוון."
+            },
+            {
+                "definition": "To transfer or upload data from one location to another using electronic means.",
+                "definition_hebrew": "להעביר או להעלות נתונים ממיקום אחד לאחר באמצעות אמצעים אלקטרוניים.",
+                "example": "The new software update was successfully telecharged onto all company devices overnight.",
+                "example_hebrew": "עדכון התוכנה החדש הוטען בהצלחה בטלפון על כל מכשירי החברה בן לילה."
+            },
+            {
+                "definition": "In the context of mobile networks, to connect a device and use cellular data for downloading content without an internet connection. Often referred to as 'tethering'.",
+                "definition_hebrew": "בהקשר של רשתות סלולריות, לחבר מכשיר ולהשתמש בנתונים סלולריים להורדת תכנים ללא חיבור לאינטרנט. מכונה לעתים קרובות 'קשירה'.",
+                "example": "She telecharged her favorite podcast episode directly onto her phone while connected to a public Wi-Fi.",
+                "example_hebrew": "היא העלתה את פרק הפודקאסט האהוב עליה ישירות לטלפון שלה כשהיא מחוברת לרשת Wi-Fi ציבורית."
+            }
+        ]
+    }
+]

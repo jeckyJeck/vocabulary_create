@@ -1,0 +1,34 @@
+[
+    {
+        "word": "neighbor",
+        "word_hebrew": "שָׁכֵן",
+        "main_definition": "A person who lives nearby, particularly in a community or residential area.",
+        "main_definition_hebrew": "אדם שגר בקרבת מקום, במיוחד בקהילה או באזור מגורים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Someone living next door to you",
+                "definition_hebrew": "מישהו שגר לידך",
+                "example": "My neighbor helped me fix my broken fence.",
+                "example_hebrew": "השכן שלי עזר לי לתקן את הגדר השבורה שלי."
+            },
+            {
+                "definition": "A member of a local community with whom one may share common interests or resources",
+                "definition_hebrew": "חבר בקהילה מקומית שאיתו אפשר לחלוק תחומי עניין או משאבים משותפים",
+                "example": "We often organize neighborhood events together, as we are good neighbors to each other.",
+                "example_hebrew": "לעתים קרובות אנו מארגנים יחד אירועים שכונתיים, מכיוון שאנו שכנים טובים אחד לשני."
+            },
+            {
+                "definition": "An individual living in close proximity, typically within the same residential area or street.",
+                "definition_hebrew": "אדם המתגורר בסמיכות, בדרך כלל באותו אזור מגורים או רחוב.",
+                "example": "When I moved into this new apartment, my first interaction was with my neighbor who welcomed me warmly.",
+                "example_hebrew": "כשעברתי לדירה החדשה הזו, האינטראקציה הראשונה שלי הייתה עם השכן שלי שקיבל אותי בחום."
+            },
+            {
+                "definition": "A person with whom one can have social interactions due to their proximity",
+                "definition_hebrew": "אדם שאפשר לקיים איתו אינטראקציות חברתיות בשל קרבתו",
+                "example": "As neighbors, we occasionally chat over the fence and look out for each other's properties.",
+                "example_hebrew": "כשכנים, אנחנו מפטפטים מדי פעם מעבר לגדר ומשגיחים זה על רכושו של זה."
+            }
+        ]
+    }
+]

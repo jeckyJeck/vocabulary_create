@@ -1,0 +1,34 @@
+[
+    {
+        "word": "recordings",
+        "word_hebrew": "הקלטות",
+        "main_definition": "Recordings refer to audio or visual materials that are captured, stored, and reproduced from original sources.",
+        "main_definition_hebrew": "הקלטות מתייחסות לחומרי אודיו או חזותיים שנלכדו, מאוחסנים ומשוכפלים ממקורות מקוריים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Audio recordings of music performances",
+                "definition_hebrew": "הקלטות שמע של הופעות מוזיקה",
+                "example": "The live concert had stunning sound quality because the musicians' performance was recorded by professional audio engineers.",
+                "example_hebrew": "לקונצרט החי הייתה איכות צליל מדהימה מכיוון שההופעה של הנגנים הוקלטה על ידי מהנדסי שמע מקצועיים."
+            },
+            {
+                "definition": "Video or film recordings capturing events",
+                "definition_hebrew": "הקלטות וידאו או סרטים המתעדים אירועים",
+                "example": "Historical documentaries are made using archive footage, which includes various historical event recordings.",
+                "example_hebrew": "סרטים תיעודיים היסטוריים נעשים באמצעות קטעי ארכיון, הכוללים הקלטות אירועים היסטוריים שונים."
+            },
+            {
+                "definition": "Official documentation of spoken words or legal proceedings",
+                "definition_hebrew": "תיעוד רשמי של מילים מדוברות או הליכים משפטיים",
+                "example": "The court's transcript is the official recording of all the testimonies and statements given during the trial.",
+                "example_hebrew": "פרוטוקול בית המשפט הוא ההקלטה הרשמית של כל העדויות וההצהרות שניתנו במהלך המשפט."
+            },
+            {
+                "definition": "Archival recordings, such as radio broadcasts from past decades",
+                "definition_hebrew": "הקלטות ארכיון, כגון שידורי רדיו מעשורים האחרונים",
+                "example": "Listening to vintage radio shows can transport you back in time, thanks to the preserved archival audio recordings.",
+                "example_hebrew": "האזנה לתוכניות רדיו וינטג' יכולה להחזיר אותך אחורה בזמן, הודות להקלטות האודיו הארכיוניות שנשמרו."
+            }
+        ]
+    }
+]

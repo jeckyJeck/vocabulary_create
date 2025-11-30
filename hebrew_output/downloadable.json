@@ -1,0 +1,34 @@
+[
+    {
+        "word": "downloadable",
+        "word_hebrew": "ניתן להורדה",
+        "main_definition": "Easily accessible or obtainable from the internet, particularly as a file that can be saved to a local device.",
+        "main_definition_hebrew": "נגיש בקלות או להשיג מהאינטרנט, במיוחד כקובץ שניתן לשמור במכשיר מקומי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Capable of being downloaded for use on personal devices such as computers and smartphones.",
+                "definition_hebrew": "ניתן להוריד לשימוש במכשירים אישיים כגון מחשבים וסמארטפונים.",
+                "example": "The new app is downloadable and available in both iOS and Android versions.",
+                "example_hebrew": "האפליקציה החדשה ניתנת להורדה וזמינה גם בגרסאות iOS וגם ב-Android."
+            },
+            {
+                "definition": "A file or resource that can be transferred from a server to a user's device via the internet.",
+                "definition_hebrew": "קובץ או משאב שניתן להעביר משרת למכשיר של משתמש דרך האינטרנט.",
+                "example": "I downloaded the latest PDF version of the report before leaving work today.",
+                "example_hebrew": "הורדתי את גרסת ה-PDF העדכנית של הדו\"ח לפני שעזבתי את העבודה היום."
+            },
+            {
+                "definition": "A media content (e.g., movies, music, ebooks) available for downloading and offline use after purchase or subscription.",
+                "definition_hebrew": "תוכן מדיה (למשל, סרטים, מוזיקה, ספרים אלקטרוניים) זמין להורדה ולשימוש במצב לא מקוון לאחר רכישה או מנוי.",
+                "example": "The book series is downloadable from the online store once I've subscribed to their service.",
+                "example_hebrew": "סדרת הספרים ניתנת להורדה מהחנות המקוונת לאחר שנרשמתי לשירות שלהם."
+            },
+            {
+                "definition": "A digital product (like software or games) that users can obtain directly from a website without needing a physical copy.",
+                "definition_hebrew": "מוצר דיגיטלי (כמו תוכנה או משחקים) שמשתמשים יכולים להשיג ישירות מאתר אינטרנט ללא צורך בעותק פיזי.",
+                "example": "I downloaded the new video game patch after purchasing it on Steam.",
+                "example_hebrew": "הורדתי את התיקון החדש של משחק הווידאו לאחר שרכשתי אותו ב-Steam."
+            }
+        ]
+    }
+]

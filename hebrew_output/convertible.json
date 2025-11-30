@@ -1,0 +1,34 @@
+[
+    {
+        "word": "convertible",
+        "word_hebrew": "מכונית עם גג פתוח",
+        "main_definition": "A convertible is a type of car with a retractable roof that can be opened to enjoy the outdoors.",
+        "main_definition_hebrew": "גג נפתח הוא סוג של מכונית עם גג נפתח שניתן לפתוח כדי ליהנות מהחוץ.",
+        "meanings_and_examples": [
+            {
+                "definition": "Capability or possibility of being changed in form, character, structure, etc.",
+                "definition_hebrew": "יכולת או אפשרות להשתנות בצורה, אופי, מבנה וכו'.",
+                "example": "This flexible program is very convertible into different formats for various needs.",
+                "example_hebrew": "תוכנית גמישה זו ניתנת להמרה לפורמטים שונים לצרכים שונים."
+            },
+            {
+                "definition": "A type of automobile with a retractable roof that can be opened",
+                "definition_hebrew": "סוג של רכב עם גג נשלף הניתן לפתיחה",
+                "example": "She drove her red convertible along the scenic coastal road, enjoying the sunshine and breeze.",
+                "example_hebrew": "היא נסעה עם הגג הנפתח האדום שלה לאורך כביש החוף היפה, נהנית מהשמש והבריזה."
+            },
+            {
+                "definition": "An agreement or arrangement to change something (usually financial) into another form.",
+                "definition_hebrew": "הסכם או הסדר לשנות משהו (בדרך כלל כספי) לצורה אחרת.",
+                "example": "The company made a convertible debt offering, allowing investors to choose between paying off their loan with cash or stock in the future.",
+                "example_hebrew": "החברה הציגה הנפקת חוב להמרה, המאפשרת למשקיעים לבחור בין פירעון ההלוואה שלהם במזומן או במניות בעתיד."
+            },
+            {
+                "definition": "A text that has been translated from one language into another",
+                "definition_hebrew": "טקסט שתורגם משפה אחת לשפה אחרת",
+                "example": "The book is a valuable resource for those learning Spanish as it contains several convertible texts, originally written in English but translated to Spanish.",
+                "example_hebrew": "הספר הוא משאב רב ערך עבור אלו הלומדים ספרדית מכיוון שהוא מכיל מספר טקסטים הניתנים להמרה, שנכתבו במקור באנגלית אך תורגמו לספרדית."
+            }
+        ]
+    }
+]

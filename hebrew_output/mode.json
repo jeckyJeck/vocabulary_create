@@ -1,0 +1,28 @@
+[
+    {
+        "word": "mode",
+        "word_hebrew": "מצב",
+        "main_definition": "In simple English, the word 'mode' refers to a method, manner, or way of doing something; in statistics, it represents the most frequently occurring value(s) in a data set; and as an idiom, it signifies a particular style, fashion, or trend.",
+        "main_definition_hebrew": "באנגלית פשוטה, המילה 'מוד' מתייחסת לשיטה, אופן או דרך לעשות משהו; בסטטיסטיקה, הוא מייצג את הערך(ים) הנפוצים ביותר במערך נתונים; ובתור ניב, זה מסמל סגנון, אופנה או טרנד מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A method or way of doing something",
+                "definition_hebrew": "שיטה או דרך לעשות משהו",
+                "example": "She solved the math problem using the mode of repeated subtraction.",
+                "example_hebrew": "היא פתרה את בעיית המתמטיקה באמצעות אופן החיסור החוזר."
+            },
+            {
+                "definition": "In statistics, the most frequently occurring value(s) in a data set",
+                "definition_hebrew": "בסטטיסטיקה, הערך(ים) הנפוצים ביותר במערך נתונים",
+                "example": "The mode of this dataset is 25 because it appears more often than any other number.",
+                "example_hebrew": "המצב של מערך נתונים זה הוא 25 מכיוון שהוא מופיע לעתים קרובות יותר מכל מספר אחר."
+            },
+            {
+                "definition": "A particular style or fashion that is currently popular or widely accepted",
+                "definition_hebrew": "סגנון או אופנה מסויימים שפופולריים או מקובלים כיום",
+                "example": "During the summer, high-waisted jeans are in vogue mode.",
+                "example_hebrew": "במהלך הקיץ, ג'ינס בגזרה גבוהה במצב אופנה."
+            }
+        ]
+    }
+]

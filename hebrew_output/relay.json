@@ -1,0 +1,28 @@
+[
+    {
+        "word": "relay",
+        "word_hebrew": "ממסר",
+        "main_definition": "A relay is a device that controls the flow of electricity or a method by which information is passed from one point to another, typically through successive stages.",
+        "main_definition_hebrew": "ממסר הוא מכשיר השולט בזרימת החשמל או שיטה שבה מידע מועבר מנקודה אחת לאחרת, בדרך כלל דרך שלבים עוקבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A communication system in which signals are transmitted over a distance via electrical circuits",
+                "definition_hebrew": "מערכת תקשורת שבה אותות מועברים למרחקים באמצעות מעגלים חשמליים",
+                "example": "The radio station used a relay of transmitters to send the signal across the country.",
+                "example_hebrew": "תחנת הרדיו השתמשה בממסר של משדרים כדי לשלוח את האות ברחבי הארץ."
+            },
+            {
+                "definition": "An electric switch that opens and closes circuits under control from an external source",
+                "definition_hebrew": "מתג חשמלי הפותח וסגיר מעגלים בשליטה ממקור חיצוני",
+                "example": "She flipped the light's relay, turning on all the lamps in her house.",
+                "example_hebrew": "היא הפכה את ממסר האור, והדליקה את כל המנורות בביתה."
+            },
+            {
+                "definition": "A person who relays or passes along information received to someone else",
+                "definition_hebrew": "אדם המעביר או מעביר מידע שהתקבל למישהו אחר",
+                "example": "The messenger relayed the urgent news from the king to his generals during the battle.",
+                "example_hebrew": "השליח העביר את הבשורה הדחופה מהמלך לגנרלים שלו במהלך הקרב."
+            }
+        ]
+    }
+]

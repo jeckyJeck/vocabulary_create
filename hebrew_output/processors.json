@@ -1,0 +1,34 @@
+[
+    {
+        "word": "processors",
+        "word_hebrew": "מעבדים",
+        "main_definition": "Processors are devices or units that perform operations on data, commonly used in the context of computers and electronic systems.",
+        "main_definition_hebrew": "מעבדים הם מכשירים או יחידות המבצעות פעולות על נתונים, המשמשים בדרך כלל בהקשר של מחשבים ומערכות אלקטרוניות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Computers processors (also known as central processing units or CPUs), which execute instructions from software programs",
+                "definition_hebrew": "מעבדי מחשבים (הידועים גם כיחידות עיבוד מרכזיות או CPUs), המבצעים הוראות מתוכנות",
+                "example": "The latest computer processor can handle complex tasks like video editing more efficiently than its predecessor.",
+                "example_hebrew": "מעבד המחשב העדכני ביותר יכול להתמודד עם משימות מורכבות כמו עריכת וידאו ביעילות רבה יותר מקודמו."
+            },
+            {
+                "definition": "In biology, the term 'processor' refers to an organism that breaks down and consumes other organisms (processes them) as a source of energy",
+                "definition_hebrew": "בביולוגיה, המונח 'מעבד' מתייחס לאורגניזם שמפרק וצורך אורגניזמים אחרים (מעבד אותם) כמקור אנרגיה",
+                "example": "Fungi act as processors in ecosystems by decomposing dead plant material.",
+                "example_hebrew": "פטריות פועלות כמעבדות במערכות אקולוגיות על ידי פירוק חומר צמחי מת."
+            },
+            {
+                "definition": "In manufacturing, a processor may refer to machinery or equipment used to transform raw materials into finished goods through various processing steps",
+                "definition_hebrew": "בייצור, מעבד עשוי להתייחס למכונות או לציוד המשמשים להפיכת חומרי גלם למוצרים מוגמרים באמצעות שלבי עיבוד שונים",
+                "example": "The factory's assembly line is equipped with multiple processors that automate the production of electronic devices.",
+                "example_hebrew": "פס הייצור של המפעל מצויד במספר מעבדים המייצרים אוטומציה של מכשירים אלקטרוניים."
+            },
+            {
+                "definition": "In business, 'processor' can refer to a person or group responsible for managing and overseeing specific processes within an organization",
+                "definition_hebrew": "בעסק, 'מעבד' יכול להתייחס לאדם או קבוצה שאחראים על ניהול ופיקוח על תהליכים ספציפיים בתוך ארגון",
+                "example": "The quality control processor ensures all products meet the company's standards before they reach consumers.",
+                "example_hebrew": "מעבד בקרת האיכות מבטיח שכל המוצרים עומדים בסטנדרטים של החברה לפני שהם מגיעים לצרכנים."
+            }
+        ]
+    }
+]

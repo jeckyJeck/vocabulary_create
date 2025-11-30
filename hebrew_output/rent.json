@@ -1,0 +1,34 @@
+[
+    {
+        "word": "rent",
+        "word_hebrew": "השכרה",
+        "main_definition": "To pay for the use of something, typically property or land, usually over a fixed period.",
+        "main_definition_hebrew": "לשלם עבור השימוש במשהו, בדרך כלל רכוש או קרקע, בדרך כלל על פני תקופה קצובה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Cost to lease a property from an owner.",
+                "definition_hebrew": "עלות השכרת נכס מבעלים.",
+                "example": "She pays $1000 every month in rent for her apartment.",
+                "example_hebrew": "היא משלמת 1000 דולר כל חודש בשכר דירה עבור דירתה."
+            },
+            {
+                "definition": "The income received by the owner of something (like land or equipment) when it is used by another party.",
+                "definition_hebrew": "ההכנסה שמקבל הבעלים של משהו (כמו קרקע או ציוד) כאשר הוא משמש צד אחר.",
+                "example": "The landlord collects rent from his tenants each month to cover expenses and provide profit.",
+                "example_hebrew": "בעל הבית גובה דמי שכירות מדי חודש מדי חודש כדי לכסות הוצאות ולספק רווח."
+            },
+            {
+                "definition": "To borrow money temporarily with a promise to pay back with interest.",
+                "definition_hebrew": "ללוות כסף באופן זמני עם הבטחה להחזיר עם ריבית.",
+                "example": "He rented $5000 from the bank for a year at an interest rate of 10%.",
+                "example_hebrew": "הוא שכר 5000$ מהבנק לשנה בריבית של 10%."
+            },
+            {
+                "definition": "A fee charged by libraries or other institutions for using their resources, such as books or equipment.",
+                "definition_hebrew": "תשלום שנגבה על ידי ספריות או מוסדות אחרים עבור השימוש במשאבים שלהם, כגון ספרים או ציוד.",
+                "example": "She had to pay rent on her library card before she could check out any books.",
+                "example_hebrew": "היא נאלצה לשלם שכר דירה על כרטיס הספרייה שלה לפני שהצליחה לבדוק ספרים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "word": "analyst",
+        "word_hebrew": "מְנַתֵחַ",
+        "main_definition": "An analyst is a person who examines data, information, or trends to understand patterns, make predictions, or provide insights.",
+        "main_definition_hebrew": "אנליסט הוא אדם שבוחן נתונים, מידע או מגמות כדי להבין דפוסים, לבצע תחזיות או לספק תובנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A financial analyst, specializing in the evaluation of investment opportunities and providing recommendations on buying, holding, or selling stocks and other securities.",
+                "definition_hebrew": "אנליסט פיננסי, המתמחה בהערכת הזדמנויות השקעה ומתן המלצות על קנייה, החזקה או מכירה של מניות וניירות ערך אחרים.",
+                "example": "The equity analyst closely followed market trends to advise their clients on which stocks were most promising for long-term growth.",
+                "example_hebrew": "אנליסט המניות עקב מקרוב אחר מגמות השוק כדי לייעץ ללקוחותיהם אילו מניות מבטיחות ביותר לצמיחה ארוכת טווח."
+            },
+            {
+                "definition": "A data analyst who collects, processes, and performs statistical analysis on large datasets using various tools and techniques.",
+                "definition_hebrew": "מנתח נתונים אשר אוסף, מעבד ומבצע ניתוח סטטיסטי על מערכי נתונים גדולים באמצעות כלים וטכניקות שונות.",
+                "example": "The data analyst used machine learning algorithms to analyze customer behavior patterns from the company's extensive database.",
+                "example_hebrew": "מנתח הנתונים השתמש באלגוריתמים של למידת מכונה כדי לנתח דפוסי התנהגות של לקוחות מתוך מסד הנתונים הנרחב של החברה."
+            },
+            {
+                "definition": "An intelligence analyst who interprets classified information gathered by agencies like MI6 or the CIA, and assists in decision-making processes for national security.",
+                "definition_hebrew": "אנליסט מודיעיני שמפרש מידע מסווג שנאסף על ידי סוכנויות כמו MI6 או ה-CIA, ומסייע בתהליכי קבלת החלטות לביטחון לאומי.",
+                "example": "The counterintelligence analyst decrypted encrypted messages to uncover potential threats against national interests.",
+                "example_hebrew": "אנליסט מודיעין נגד פיענח הודעות מוצפנות כדי לחשוף איומים פוטנציאליים נגד אינטרסים לאומיים."
+            },
+            {
+                "definition": "A market research analyst who studies industry trends and consumer behavior to help businesses make informed strategic decisions.",
+                "definition_hebrew": "אנליסט מחקרי שוק החוקר מגמות בתעשייה והתנהגות צרכנים כדי לעזור לעסקים לקבל החלטות אסטרטגיות מושכלות.",
+                "example": "The product analysis analyst conducted surveys and focus groups to determine the public's preferences for new smartphone features.",
+                "example_hebrew": "מנתח ניתוח המוצרים ערך סקרים וקבוצות מיקוד כדי לקבוע את העדפות הציבור לגבי תכונות חדשות של סמארטפון."
+            },
+            {
+                "definition": "A system or software analyst who examines, modifies, maintains, and implements systems such as computer hardware and software.",
+                "definition_hebrew": "מנתח מערכת או תוכנה הבוחן, משנה, מתחזק ומיישם מערכות כגון חומרת מחשב ותוכנה.",
+                "example": "The IT analyst debugged a network issue that was causing downtime for the company's online services.",
+                "example_hebrew": "אנליסט ה-IT איתר באגים ברשת שגרמה להשבתה של השירותים המקוונים של החברה."
+            },
+            {
+                "definition": "An operations analyst who uses quantitative methods to evaluate business processes, efficiency, and effectiveness in achieving goals.",
+                "definition_hebrew": "מנתח תפעול המשתמש בשיטות כמותיות כדי להעריך תהליכים עסקיים, יעילות ואפקטיביות בהשגת יעדים.",
+                "example": "The supply chain analyst optimized logistics and inventory management by analyzing transportation routes and supplier performance.",
+                "example_hebrew": "אנליסט שרשרת האספקה ביצע אופטימיזציה ללוגיסטיקה וניהול המלאי על ידי ניתוח נתיבי תחבורה וביצועי ספקים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "sharing",
+        "word_hebrew": "שיתוף",
+        "main_definition": "Sharing is the act of distributing or using something jointly with others.",
+        "main_definition_hebrew": "שיתוף הוא הפעולה של הפצה או שימוש במשהו במשותף עם אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Dividing resources among multiple parties",
+                "definition_hebrew": "חלוקת משאבים בין מספר גורמים",
+                "example": "The class decided to share their snacks equally during break time.",
+                "example_hebrew": "הכיתה החליטה לחלוק את החטיפים שלהם באופן שווה בזמן ההפסקה."
+            },
+            {
+                "definition": "Exchanging ideas or thoughts openly and freely",
+                "definition_hebrew": "החלפת רעיונות או מחשבות בפתיחות ובחופשיות",
+                "example": "At the meeting, everyone was encouraged to share their opinions on the new project.",
+                "example_hebrew": "בפגישה עודדו כולם לחלוק את דעתם על הפרויקט החדש."
+            },
+            {
+                "definition": "Providing access to information or media files across different devices",
+                "definition_hebrew": "מתן גישה למידע או קבצי מדיה במכשירים שונים",
+                "example": "The company allows employees to share documents via a secure cloud storage system.",
+                "example_hebrew": "החברה מאפשרת לעובדים לשתף מסמכים באמצעות מערכת אחסון ענן מאובטחת."
+            },
+            {
+                "definition": "Collaborating and working together towards a common goal",
+                "definition_hebrew": "שיתוף פעולה ועבודה משותפת למען מטרה משותפת",
+                "example": "The two friends decided to share their skills in creating a joint project for the community.",
+                "example_hebrew": "שני החברים החליטו לחלוק את כישוריהם ביצירת פרויקט משותף לקהילה."
+            },
+            {
+                "definition": "Allowing others physical access or use of your belongings",
+                "definition_hebrew": "לאפשר לאחרים גישה פיזית או שימוש בחפצים שלך",
+                "example": "She shared her car with her neighbor while his was being repaired.",
+                "example_hebrew": "היא חלקה את המכונית שלה עם שכנתה בזמן תיקון שלו."
+            }
+        ]
+    }
+]

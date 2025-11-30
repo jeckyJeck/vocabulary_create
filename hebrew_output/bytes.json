@@ -1,0 +1,34 @@
+[
+    {
+        "word": "bytes",
+        "word_hebrew": "בתים",
+        "main_definition": "Bytes is a unit of digital information that represents a sequence of binary digits (bits) commonly used to measure the size or capacity of data storage devices.",
+        "main_definition_hebrew": "בתים היא יחידה של מידע דיגיטלי המייצגת רצף של ספרות בינאריות (סיביות) המשמשות בדרך כלל למדידת גודל או קיבולת של התקני אחסון נתונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing, 'byte' refers to an amount of memory or computer storage equal to 8 bits.",
+                "definition_hebrew": "במחשוב, 'בייט' מתייחס לכמות זיכרון או אחסון מחשב השווה ל-8 סיביות.",
+                "example": "A typical image file can take up several kilobytes (KB) of space.",
+                "example_hebrew": "קובץ תמונה טיפוסי יכול לתפוס כמה קילובייטים (KB) של מקום."
+            },
+            {
+                "definition": "The term 'bytes' is also used in networking and telecommunications, where it represents a unit of data transmission rate or bandwidth.",
+                "definition_hebrew": "המונח 'בתים' משמש גם ברשתות ותקשורת, שם הוא מייצג יחידה של קצב העברת נתונים או רוחב פס.",
+                "example": "If your internet connection speed is advertised as 10 megabytes per second (MB/s), this means you can download up to 8 megabytes of data every second.",
+                "example_hebrew": "אם מהירות חיבור האינטרנט שלך מפורסמת כ-10 מגה-בייט לשנייה (MB/s), זה אומר שאתה יכול להוריד עד 8 מגה-בייט של נתונים בכל שנייה."
+            },
+            {
+                "definition": "'Bytes' are sometimes used colloquially to refer to a small quantity or amount of something, often with a negative connotation.",
+                "definition_hebrew": "\"בייט\" משמשים לעתים בדיבור כדי להתייחס לכמות או כמות קטנה של משהו, לעתים קרובות עם קונוטציה שלילית.",
+                "example": "He only has a few bytes left in his piggy bank for the new bike he wants.",
+                "example_hebrew": "נשארו לו רק כמה בתים בקופה שלו עבור האופניים החדשים שהוא רוצה."
+            },
+            {
+                "definition": "'Bytes' is also used informally as a slang term to refer to people, particularly when describing groups of friends or acquaintances.",
+                "definition_hebrew": "'בייט' משמש גם באופן לא רשמי כמונח סלנג להתייחס לאנשים, במיוחד כאשר מתארים קבוצות של חברים או מכרים.",
+                "example": "We went out with our own little bytes of the town last night.",
+                "example_hebrew": "יצאנו עם הבתים הקטנים שלנו של העיר אתמול בלילה."
+            }
+        ]
+    }
+]

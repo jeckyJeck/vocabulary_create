@@ -1,0 +1,40 @@
+[
+    {
+        "word": "constant",
+        "word_hebrew": "קָבוּעַ",
+        "main_definition": "A value, condition or quality that does not change over time.",
+        "main_definition_hebrew": "ערך, מצב או איכות שאינם משתנים עם הזמן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Unchanging in rate or amount",
+                "definition_hebrew": "ללא שינוי בתעריף או בכמות",
+                "example": "The constant speed of light is always approximately 299,792 kilometers per second.",
+                "example_hebrew": "מהירות האור הקבועה היא תמיד כ-299,792 קילומטרים לשנייה."
+            },
+            {
+                "definition": "An unvarying quantity that remains the same throughout a mathematical problem or equation",
+                "definition_hebrew": "כמות בלתי משתנה שנשארת זהה לאורך כל בעיה או משוואה מתמטית",
+                "example": "In the formula distance = rate × time, 'rate' can be considered as a constant if it does not change during the calculation.",
+                "example_hebrew": "בנוסחה מרחק = קצב × זמן, 'קצב' יכול להיחשב כקבוע אם הוא לא משתנה במהלך החישוב."
+            },
+            {
+                "definition": "A person who is always present and reliable in someone’s life",
+                "definition_hebrew": "אדם שתמיד נוכח ואמין בחייו של מישהו",
+                "example": "My friend was my constant support throughout my difficult times.",
+                "example_hebrew": "החבר שלי היה התמיכה הקבועה שלי בכל הזמנים הקשים שלי."
+            },
+            {
+                "definition": "Something that is continuously or regularly occurring",
+                "definition_hebrew": "משהו שמתרחש ברציפות או באופן קבוע",
+                "example": "The sound of the alarm clock is a constant reminder for me to wake up early every morning.",
+                "example_hebrew": "צליל השעון המעורר הוא תזכורת קבועה עבורי להתעורר מוקדם מדי בוקר."
+            },
+            {
+                "definition": "A fixed value in programming and computing contexts, often used as a placeholder",
+                "definition_hebrew": "ערך קבוע בהקשרי תכנות ומחשוב, המשמש לעתים קרובות כמציין מיקום",
+                "example": "In many programming languages, '0' or 'NULL' are common constants representing absence of any value or the smallest possible number.",
+                "example_hebrew": "בשפות תכנות רבות, '0' או 'NULL' הם קבועים נפוצים המייצגים היעדר ערך כלשהו או המספר הקטן ביותר האפשרי."
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "word": "flight",
+        "word_hebrew": "טִיסָה",
+        "main_definition": "A journey through the air, typically made by an aircraft or bird.",
+        "main_definition_hebrew": "מסע באוויר, שנעשה בדרך כלל על ידי מטוס או ציפור.",
+        "meanings_and_examples": [
+            {
+                "definition": "Traveling in an aircraft from one place to another",
+                "definition_hebrew": "נסיעה במטוס ממקום למקום",
+                "example": "My flight to New York was delayed due to bad weather.",
+                "example_hebrew": "הטיסה שלי לניו יורק התעכבה בגלל מזג אוויר גרוע."
+            },
+            {
+                "definition": "The act of flying, especially by birds or airplanes",
+                "definition_hebrew": "פעולת הטיסה, במיוחד על ידי ציפורים או מטוסים",
+                "example": "Swallows take short flights during migration.",
+                "example_hebrew": "סנוניות עושות טיסות קצרות במהלך הנדידה."
+            },
+            {
+                "definition": "A planned departure and arrival at an airport with a specific purpose in mind",
+                "definition_hebrew": "יציאה והגעה מתוכננת לשדה תעופה עם מטרה מסוימת בראש",
+                "example": "I have booked my flight to Paris for next weekend.",
+                "example_hebrew": "הזמנתי את הטיסה שלי לפריז לסוף השבוע הבא."
+            },
+            {
+                "definition": "The period or duration of time that an aircraft spends airborne",
+                "definition_hebrew": "פרק הזמן או משך הזמן שמטוס מבלה באוויר",
+                "example": "The flight lasted six hours, with a two-hour layover in Chicago.",
+                "example_hebrew": "הטיסה נמשכה שש שעות, עם עצירת ביניים של שעתיים בשיקגו."
+            },
+            {
+                "definition": "A group of flights booked together at one price and often including some basic amenities",
+                "definition_hebrew": "קבוצת טיסות שהוזמנו יחד במחיר אחד ולרוב כוללות כמה שירותים בסיסיים",
+                "example": "I have purchased the roundtrip flight package to London for my vacation.",
+                "example_hebrew": "רכשתי את חבילת הטיסה הלוך ושוב ללונדון לחופשה שלי."
+            },
+            {
+                "definition": "To move or travel quickly from one place to another in an uncontrolled manner",
+                "definition_hebrew": "לנוע או לנסוע במהירות ממקום אחד למשנהו בצורה לא מבוקרת",
+                "example": "The object fell out of the sky, seemingly without a flight path.",
+                "example_hebrew": "החפץ נפל מהשמים, לכאורה ללא נתיב טיסה."
+            }
+        ]
+    }
+]

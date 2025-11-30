@@ -1,0 +1,46 @@
+[
+    {
+        "word": "bad",
+        "word_hebrew": "רַע",
+        "main_definition": "Something that is not good, desirable, or beneficial; of poor quality or low value.",
+        "main_definition_hebrew": "משהו שאינו טוב, רצוי או מועיל; באיכות ירודה או ערך נמוך.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not morally right or justifiable",
+                "definition_hebrew": "לא נכון או מוצדק מבחינה מוסרית",
+                "example": "Stealing money is a bad act.",
+                "example_hebrew": "גניבת כסף היא מעשה רע."
+            },
+            {
+                "definition": "Unpleasant, disagreeable, or causing discomfort",
+                "definition_hebrew": "לא נעים, לא נעים או גורם לאי נוחות",
+                "example": "The weather has been really bad lately with heavy rain and strong winds.",
+                "example_hebrew": "מזג האוויר היה ממש גרוע לאחרונה עם גשם חזק ורוחות חזקות."
+            },
+            {
+                "definition": "Low quality or inferior in some way",
+                "definition_hebrew": "איכות נמוכה או נחותה בדרך כלשהי",
+                "example": "This shirt is made of bad material; it's fraying at the edges.",
+                "example_hebrew": "החולצה הזו עשויה מחומר רע; זה מתקלקל בקצוות."
+            },
+            {
+                "definition": "Poor performance or outcome",
+                "definition_hebrew": "ביצועים או תוצאה גרועים",
+                "example": "He got a bad grade on his math test despite studying hard.",
+                "example_hebrew": "הוא קיבל ציון גרוע במבחן במתמטיקה למרות שלמד קשה."
+            },
+            {
+                "definition": "Unfavorable conditions or circumstances",
+                "definition_hebrew": "תנאים או נסיבות לא נוחים",
+                "example": "The economy has been in a bad state due to the pandemic's impact.",
+                "example_hebrew": "הכלכלה הייתה במצב רע עקב השפעת המגיפה."
+            },
+            {
+                "definition": "Not good for health, often resulting from poor dietary choices",
+                "definition_hebrew": "לא טוב לבריאות, לעתים קרובות נובע מבחירות תזונה לקויות",
+                "example": "Eating too much fast food can lead to a bad diet and unhealthy lifestyle.",
+                "example_hebrew": "אכילת יותר מדי מזון מהיר עלולה להוביל לתזונה גרועה ואורח חיים לא בריא."
+            }
+        ]
+    }
+]

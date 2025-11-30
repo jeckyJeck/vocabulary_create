@@ -1,0 +1,28 @@
+[
+    {
+        "word": "atomic",
+        "word_hebrew": "אָטוֹמִי",
+        "main_definition": "Relating to the fundamental structure of an atom, or having a powerful impact.",
+        "main_definition_hebrew": "מתייחס למבנה הבסיסי של אטום, או בעל השפעה חזקה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Pertaining to atoms and atomic particles, as in science.",
+                "definition_hebrew": "לגבי אטומים וחלקיקים אטומיים, כמו במדע.",
+                "example": "The study of nuclear physics often involves understanding atomic interactions.",
+                "example_hebrew": "חקר הפיזיקה הגרעינית כרוך לעתים קרובות בהבנת אינטראקציות אטומיות."
+            },
+            {
+                "definition": "Extremely intense or powerful, like the explosion from an atomic bomb.",
+                "definition_hebrew": "אינטנסיבי או עוצמתי במיוחד, כמו הפיצוץ מפצצת אטום.",
+                "example": "The atomic blast destroyed everything within a wide radius.",
+                "example_hebrew": "הפיצוץ האטומי הרס הכל ברדיוס רחב."
+            },
+            {
+                "definition": "Seemingly insignificant or unrelated parts of something (like in computer programming).",
+                "definition_hebrew": "חלקים חסרי משמעות לכאורה או לא קשורים של משהו (כמו בתכנות מחשבים).",
+                "example": "In this code, the 'atomic' operations ensure data consistency without locking resources.",
+                "example_hebrew": "בקוד זה, הפעולות ה'אטומיות' מבטיחות עקביות נתונים ללא נעילת משאבים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "reasoning",
+        "word_hebrew": "הַנמָקָה",
+        "main_definition": "Reasoning refers to the process of thinking about something in a logical, systematic way, often used to make decisions or solve problems.",
+        "main_definition_hebrew": "הנמקה מתייחסת לתהליך החשיבה על משהו בצורה הגיונית, שיטתית, המשמשת לעתים קרובות לקבלת החלטות או לפתור בעיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of forming conclusions from premises",
+                "definition_hebrew": "פעולת גיבוש מסקנות מהנחות יסוד",
+                "example": "In mathematics, reasoning is crucial for proving theorems. For example: 'If a=b and b=c, then by reasoning we can conclude that a=c.'",
+                "example_hebrew": "במתמטיקה, הנמקה חיונית להוכחת משפטים. לדוגמה: 'אם a=b ו-b=c, אז על ידי נימוק נוכל להסיק ש-a=c.'"
+            },
+            {
+                "definition": "The process of applying logical principles to arguments or statements",
+                "definition_hebrew": "תהליך יישום עקרונות לוגיים על טיעונים או הצהרות",
+                "example": "A philosopher might use deductive reasoning to examine the validity of an argument. For example: 'All men are mortal. Socrates is a man. Therefore, by reasoning, Socrates must be mortal.'",
+                "example_hebrew": "פילוסוף עשוי להשתמש בהיגיון דדוקטיבי כדי לבחון את תקפותו של טיעון. לדוגמה: 'כל בני האדם הם בני תמותה. סוקרטס הוא גבר. לכן, על ידי הגיון, סוקרטס חייב להיות בן תמותה.'"
+            },
+            {
+                "definition": "The thought process involved in reaching conclusions or decisions",
+                "definition_hebrew": "תהליך החשיבה הכרוך בהגעה למסקנות או החלטות",
+                "example": "When faced with a tough choice, one may use reasoning to weigh the pros and cons before making a decision. For example: 'After considering all options, I reasoned that working from home would be most beneficial for me.'",
+                "example_hebrew": "כאשר עומדים בפני בחירה קשה, אפשר להשתמש בהיגיון כדי לשקול את היתרונות והחסרונות לפני קבלת החלטה. לדוגמה: 'אחרי ששקלתי את כל האפשרויות, חשבתי שעבודה מהבית תהיה מועילה לי ביותר'."
+            },
+            {
+                "definition": "The method of constructing an argument",
+                "definition_hebrew": "השיטה לבניית טיעון",
+                "example": "In debate or law, reasoning is used to build cases and present arguments. For example: 'By using inductive reasoning, the lawyer built a strong case based on evidence presented during the trial.'",
+                "example_hebrew": "בוויכוח או במשפט, נימוקים משמשים לבניית מקרים והצגת טיעונים. לדוגמה: 'באמצעות נימוק אינדוקטיבי, עורך הדין בנה תיק חזק על סמך ראיות שהוצגו במהלך המשפט.'"
+            },
+            {
+                "definition": "The use of logic in forming an argument or explanation",
+                "definition_hebrew": "השימוש בלוגיקה ביצירת טיעון או הסבר",
+                "example": "Scientists often rely on reasoning to formulate theories and hypotheses. For example: 'Through careful observation, experimentation, and logical reasoning, the scientist developed a new theory about how planets orbit stars.'",
+                "example_hebrew": "מדענים מסתמכים לעתים קרובות על נימוקים כדי לנסח תיאוריות והשערות. לדוגמה: 'באמצעות תצפית מדוקדקת, ניסויים והיגיון הגיוני, המדען פיתח תיאוריה חדשה לגבי האופן שבו כוכבי לכת מקיפים כוכבים'."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "till",
+        "word_hebrew": "עד",
+        "main_definition": "Till can be used as a preposition or an adverb, indicating the duration of time up to a certain point.",
+        "main_definition_hebrew": "ניתן להשתמש ב-Till כמילת יחס או כפתגם, המציין את משך הזמן עד לנקודה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Until (a specific time) - to continue doing something up to a particular time.",
+                "definition_hebrew": "עד (זמן מסוים) - להמשיך לעשות משהו עד לזמן מסוים.",
+                "example": "I will be working at this office until 5 PM.",
+                "example_hebrew": "אני אעבוד במשרד הזה עד 17:00."
+            },
+            {
+                "definition": "Until achieving/reaching (an event or goal) - continuing an action with the aim of reaching a specific outcome.",
+                "definition_hebrew": "עד להשגה/הגעה (אירוע או מטרה) - המשך פעולה במטרה להגיע לתוצאה ספציפית.",
+                "example": "She studied hard till she passed her exams with flying colors.",
+                "example_hebrew": "היא למדה קשה עד שעברה את הבחינות שלה בשיא ההצלחה."
+            },
+            {
+                "definition": "Up to (a certain point in space, time, etc.) - indicating the extent or limit up to which something occurs or applies.",
+                "definition_hebrew": "עד (נקודה מסוימת במרחב, בזמן וכו') - מציין את המידה או הגבול שעד אליה מתרחש או חל משהו.",
+                "example": "The store is open till 9 PM.",
+                "example_hebrew": "החנות פתוחה עד 21:00."
+            }
+        ]
+    }
+]

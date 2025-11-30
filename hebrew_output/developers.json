@@ -1,0 +1,34 @@
+[
+    {
+        "word": "developers",
+        "word_hebrew": "מפתחים",
+        "main_definition": "Developers are individuals or groups involved in creating, improving, and maintaining software applications through coding and collaboration.",
+        "main_definition_hebrew": "מפתחים הם יחידים או קבוצות המעורבים ביצירה, שיפור ותחזוקה של יישומי תוכנה באמצעות קידוד ושיתוף פעולה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Software developers",
+                "definition_hebrew": "מפתחי תוכנה",
+                "example": "John is a skilled software developer who creates mobile apps for various platforms.",
+                "example_hebrew": "ג'ון הוא מפתח תוכנה מיומן שיוצר אפליקציות סלולריות לפלטפורמות שונות."
+            },
+            {
+                "definition": "Construction workers specializing in the development of buildings and infrastructure",
+                "definition_hebrew": "עובדי בניין המתמחים בפיתוח מבנים ותשתיות",
+                "example": "The construction team includes dedicated developers who are constructing a new shopping mall.",
+                "example_hebrew": "צוות הבנייה כולל יזמים מסורים אשר מקימים קניון חדש."
+            },
+            {
+                "definition": "Researchers or scientists working on developing new theories, technologies, or treatments",
+                "definition_hebrew": "חוקרים או מדענים העובדים על פיתוח תיאוריות, טכנולוגיות או טיפולים חדשים",
+                "example": "Dr. Smith is a renowned biological developer contributing to groundbreaking research in genetics.",
+                "example_hebrew": "ד\"ר סמית הוא מפתח ביולוגי בעל שם התורם למחקר פורץ דרך בגנטיקה."
+            },
+            {
+                "definition": "Professionals involved in the development of digital content such as videos, games, and websites",
+                "definition_hebrew": "אנשי מקצוע העוסקים בפיתוח תוכן דיגיטלי כגון סרטונים, משחקים ואתרי אינטרנט",
+                "example": "The team of developers at XYZ Studios are creating an engaging video game with complex coding challenges.",
+                "example_hebrew": "צוות המפתחים באולפני XYZ יוצר משחק וידאו מרתק עם אתגרי קידוד מורכבים."
+            }
+        ]
+    }
+]

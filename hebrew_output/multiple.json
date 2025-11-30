@@ -1,0 +1,28 @@
+[
+    {
+        "word": "multiple",
+        "word_hebrew": "מרובות",
+        "main_definition": "Multiple refers to more than one of something, often used in mathematics or daily language.",
+        "main_definition_hebrew": "ריבוי מתייחס ליותר מאחד של משהו, המשמש לעתים קרובות במתמטיקה או בשפה יומיומית.",
+        "meanings_and_examples": [
+            {
+                "definition": "In mathematics, multiple means a number that divides another without leaving a remainder. For example, 3 is a multiple of 6 because 3 multiplied by 2 equals 6.",
+                "definition_hebrew": "במתמטיקה, כפולה פירושה מספר המחלק את השני מבלי להשאיר שארית. לדוגמה, 3 היא כפולה של 6 כי 3 כפול 2 שווה ל-6.",
+                "example": "The multiples of 4 are 4, 8, 12, 16, and so on.",
+                "example_hebrew": "הכפולות של 4 הן 4, 8, 12, 16 וכן הלאה."
+            },
+            {
+                "definition": "In daily language, to be multiple can mean having more than one aspect or part. For example, a person who is multi-talented excels in various fields like music, art, and writing.",
+                "definition_hebrew": "בשפה היומיומית, להיות מרובה יכול להיות בעל יותר מהיבט אחד או חלק אחד. לדוגמה, אדם שהוא מולטי כשרונות מצטיין בתחומים שונים כמו מוזיקה, אמנות וכתיבה.",
+                "example": "She's a multiple talent; she's an excellent singer, dancer, and painter.",
+                "example_hebrew": "היא כישרון מרובה; היא זמרת, רקדנית וציירת מעולה."
+            },
+            {
+                "definition": "Multiple can also refer to many or several things of the same kind. For example, 'The store offers multiple options for customization.'",
+                "definition_hebrew": "ריבוי יכול גם להתייחס להרבה או כמה דברים מאותו סוג. לדוגמה, 'החנות מציעה מספר אפשרויות להתאמה אישית'.",
+                "example": "We have multiple sizes available in our clothing line.",
+                "example_hebrew": "יש לנו מספר גדלים זמינים בקו הבגדים שלנו."
+            }
+        ]
+    }
+]

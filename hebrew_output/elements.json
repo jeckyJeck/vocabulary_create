@@ -1,0 +1,40 @@
+[
+    {
+        "word": "elements",
+        "word_hebrew": "אלמנטים",
+        "main_definition": "In various contexts, 'elements' can refer to fundamental or constituent parts of a whole; in chemistry, it specifically denotes the simplest substances that cannot be broken down into simpler substances by chemical means.",
+        "main_definition_hebrew": "בהקשרים שונים, 'אלמנטים' יכולים להתייחס לחלקים יסודיים או מרכיבים של שלם; בכימיה, זה מציין באופן ספציפי את החומרים הפשוטים ביותר שלא ניתן לפרק לחומרים פשוטים יותר באמצעים כימיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Constituents or basic components",
+                "definition_hebrew": "מרכיבים או רכיבים בסיסיים",
+                "example": "The elements of art are line, shape, color, value, form, texture/space.",
+                "example_hebrew": "מרכיבי האמנות הם קו, צורה, צבע, ערך, צורה, מרקם/מרחב."
+            },
+            {
+                "definition": "In chemistry, a substance consisting of atoms of only one type",
+                "definition_hebrew": "בכימיה, חומר המורכב מאטומים מסוג אחד בלבד",
+                "example": "Water is made up of the chemical elements hydrogen and oxygen (H2O).",
+                "example_hebrew": "מים מורכבים מהיסודות הכימיים מימן וחמצן (H2O)."
+            },
+            {
+                "definition": "Basic parts or fundamental units in various contexts like music, grammar, mathematics",
+                "definition_hebrew": "חלקים בסיסיים או יחידות יסוד בהקשרים שונים כמו מוזיקה, דקדוק, מתמטיקה",
+                "example": "The seven musical notes are known as the elements of music.",
+                "example_hebrew": "שבעת התווים המוזיקליים ידועים כמרכיבי המוזיקה."
+            },
+            {
+                "definition": "Individual pieces that make up a larger structure or system",
+                "definition_hebrew": "חלקים בודדים המרכיבים מבנה או מערכת גדולים יותר",
+                "example": "In architecture, bricks and beams can be considered elements of construction.",
+                "example_hebrew": "באדריכלות, לבנים וקורות יכולים להיחשב אלמנטים של בנייה."
+            },
+            {
+                "definition": "Things that are necessary for completeness or existence",
+                "definition_hebrew": "דברים הנחוצים לשלמות או לקיום",
+                "example": "Human life consists of several essential elements such as food, water, air, and shelter.",
+                "example_hebrew": "חיי אדם מורכבים מכמה אלמנטים חיוניים כמו מזון, מים, אוויר ומחסה."
+            }
+        ]
+    }
+]

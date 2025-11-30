@@ -1,0 +1,34 @@
+[
+    {
+        "word": "headline",
+        "word_hebrew": "כּוֹתֶרֶת",
+        "main_definition": "A headline is a prominent title or statement used in newspapers, magazines, or online articles to capture attention and summarize the main point of an article.",
+        "main_definition_hebrew": "כותרת היא כותרת או אמירה בולטת המשמשת בעיתונים, מגזינים או מאמרים מקוונים כדי למשוך תשומת לב ולסכם את עיקר המאמר.",
+        "meanings_and_examples": [
+            {
+                "definition": "In journalism, a bold, concise line at the top of newspaper or magazine articles intended to attract readers' attention",
+                "definition_hebrew": "בעיתונות, שורה נועזת ותמציתית בראש כתבות בעיתונים או מגזינים שנועדה למשוך את תשומת לב הקוראים",
+                "example": "The local news headline read 'Massive Flood Devastates Local Community.'",
+                "example_hebrew": "בכותרת החדשות המקומיות נכתב 'שיטפון מסיבי הורס את הקהילה המקומית'."
+            },
+            {
+                "definition": "A catchy phrase used in advertising to draw attention and promote a product, service, or event",
+                "definition_hebrew": "ביטוי קליט המשמש בפרסום כדי למשוך תשומת לב ולקדם מוצר, שירות או אירוע",
+                "example": "The new car model's headline ad said 'Revolutionize Your Driving Experience with Our Cutting-Edge Technology.'",
+                "example_hebrew": "במודעה הכותרתית של דגם הרכב החדש נכתב \"עשה מהפכה בחוויית הנהיגה שלך עם הטכנולוגיה החדישה שלנו\"."
+            },
+            {
+                "definition": "A slogan used by politicians during campaigns to convey their key messages and differentiate themselves from opponents",
+                "definition_hebrew": "סיסמה המשמשת פוליטיקאים במהלך קמפיינים כדי להעביר את המסרים המרכזיים שלהם ולהבדיל את עצמם ממתנגדים",
+                "example": "'Stronger Economy, Better Education for All' was the headline of the candidate's political manifesto.",
+                "example_hebrew": "'כלכלה חזקה יותר, חינוך טוב יותר לכולם' הייתה כותרת המניפסט הפוליטי של המועמד."
+            },
+            {
+                "definition": "An attention-grabbing phrase or statement used in social media posts to engage viewers and convey a message quickly",
+                "definition_hebrew": "ביטוי או אמירה מושכת תשומת לב המשמשים בפוסטים ברשתות חברתיות כדי למשוך את הצופים ולהעביר מסר במהירות",
+                "example": "'Unmissable Event! Join Us for an Evening of Celebration' was the headline of a Facebook event invitation.",
+                "example_hebrew": "'אירוע שאי אפשר להחמיץ! הצטרפו אלינו לערב של חגיגה' הייתה הכותרת של הזמנה לאירוע בפייסבוק."
+            }
+        ]
+    }
+]

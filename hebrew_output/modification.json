@@ -1,0 +1,40 @@
+[
+    {
+        "word": "modification",
+        "word_hebrew": "שינוי",
+        "main_definition": "A change or alteration made to something, typically a physical object, document, system, or process.",
+        "main_definition_hebrew": "שינוי או שינוי שנעשו במשהו, בדרך כלל אובייקט פיזי, מסמך, מערכת או תהליך.",
+        "meanings_and_examples": [
+            {
+                "definition": "Adjustment of size or shape.",
+                "definition_hebrew": "התאמה של גודל או צורה.",
+                "example": "The modification of the car's exterior design for better aerodynamics.",
+                "example_hebrew": "השינוי בעיצוב החיצוני של המכונית לאווירודינמיקה טובה יותר."
+            },
+            {
+                "definition": "Amendment to a legal document, such as a contract or law.",
+                "definition_hebrew": "תיקון למסמך משפטי, כגון חוזה או חוק.",
+                "example": "A clause in the employment contract was modified after both parties agreed to new terms.",
+                "example_hebrew": "סעיף בחוזה העבודה שונה לאחר ששני הצדדים הסכימו לתנאים חדשים."
+            },
+            {
+                "definition": "Changes made to data or software for improvement and optimization.",
+                "definition_hebrew": "שינויים שבוצעו בנתונים או בתוכנה לצורך שיפור ואופטימיזציה.",
+                "example": "The modification of an algorithm to increase its efficiency in handling large datasets.",
+                "example_hebrew": "השינוי של אלגוריתם כדי להגביר את היעילות שלו בטיפול במערכי נתונים גדולים."
+            },
+            {
+                "definition": "Alteration of a plan, method, or idea.",
+                "definition_hebrew": "שינוי של תוכנית, שיטה או רעיון.",
+                "example": "After receiving feedback, the team made modifications to their original project proposal.",
+                "example_hebrew": "לאחר קבלת משוב, הצוות ביצע שינויים בהצעת הפרויקט המקורית שלו."
+            },
+            {
+                "definition": "Changes made to clothing for better fit or style.",
+                "definition_hebrew": "בוצעו שינויים בבגדים להתאמה או סגנון טוב יותר.",
+                "example": "I took my shirt in at the waist and modified it by adding cuffs.",
+                "example_hebrew": "לקחתי את החולצה שלי במותניים ושיניתי אותה על ידי הוספת חפתים."
+            }
+        ]
+    }
+]

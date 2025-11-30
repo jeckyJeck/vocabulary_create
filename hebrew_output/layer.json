@@ -1,0 +1,40 @@
+[
+    {
+        "word": "layer",
+        "word_hebrew": "שִׁכבָה",
+        "main_definition": "Layer refers to a distinct level or stratum within something, often with different properties or composition.",
+        "main_definition_hebrew": "שכבה מתייחסת לרמה או שכבה ברורה בתוך משהו, לעתים קרובות עם תכונות או הרכב שונה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A group of things arranged one on top of the other",
+                "definition_hebrew": "קבוצה של דברים מסודרים אחד על השני",
+                "example": "The cake had seven layers of chocolate and vanilla frosting.",
+                "example_hebrew": "לעוגה היו שבע שכבות של ציפוי שוקולד וניל."
+            },
+            {
+                "definition": "An individual sheet or stratum in a sequence, such as geological or material layers.",
+                "definition_hebrew": "יריעה בודדת או שכבה ברצף, כגון שכבות גיאולוגיות או חומריות.",
+                "example": "Scientists studied the different rock layers to understand Earth's history.",
+                "example_hebrew": "מדענים חקרו את שכבות הסלע השונות כדי להבין את ההיסטוריה של כדור הארץ."
+            },
+            {
+                "definition": "The act of applying something on top of another",
+                "definition_hebrew": "הפעולה של יישום משהו על גבי אחר",
+                "example": "She layered her clothes to keep warm in the winter.",
+                "example_hebrew": "היא שכבה את בגדיה כדי להתחמם בחורף."
+            },
+            {
+                "definition": "In computing, a set of data or information stored separately but accessible together.",
+                "definition_hebrew": "במחשוב, קבוצה של נתונים או מידע המאוחסנים בנפרד אך נגישים יחד.",
+                "example": "The file system was organized into layers for better accessibility and management.",
+                "example_hebrew": "מערכת הקבצים אורגנה בשכבות לצורך נגישות וניהול טובים יותר."
+            },
+            {
+                "definition": "A stage in the development process of software or an application",
+                "definition_hebrew": "שלב בתהליך הפיתוח של תוכנה או אפליקציה",
+                "example": "During beta testing, new updates were layered onto the existing program to enhance its features.",
+                "example_hebrew": "במהלך בדיקות בטא, עדכונים חדשים הושכבו על התוכנית הקיימת כדי לשפר את התכונות שלה."
+            }
+        ]
+    }
+]

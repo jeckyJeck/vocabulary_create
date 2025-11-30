@@ -1,0 +1,34 @@
+[
+    {
+        "word": "utilization",
+        "word_hebrew": "שימוש",
+        "main_definition": "The act of using or making effective use of something, especially in terms of resources, time, or opportunities.",
+        "main_definition_hebrew": "הפעולה של שימוש או שימוש יעיל במשהו, במיוחד במונחים של משאבים, זמן או הזדמנויות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Exploitation of assets for their maximum productive efficiency and effectiveness",
+                "definition_hebrew": "ניצול נכסים למען היעילות והיעילות המקסימלית שלהם",
+                "example": "Maximizing the utilization of factory equipment by ensuring it operates at peak performance levels.",
+                "example_hebrew": "ניצול מקסימלי של ציוד המפעל על ידי הבטחת פעילותו ברמות ביצועים שיא."
+            },
+            {
+                "definition": "The process of using or applying something fully to achieve a desired outcome",
+                "definition_hebrew": "התהליך של שימוש או יישום מלא של משהו כדי להשיג תוצאה רצויה",
+                "example": "Utilization of marketing strategies to increase brand awareness and sales.",
+                "example_hebrew": "ניצול אסטרטגיות שיווק להגברת המודעות והמכירות למותג."
+            },
+            {
+                "definition": "Employment or use of time, labor, or resources for the achievement of an objective",
+                "definition_hebrew": "העסקה או שימוש בזמן, עבודה או משאבים להשגת מטרה",
+                "example": "The utilization of volunteer hours in community service projects.",
+                "example_hebrew": "ניצול שעות התנדבות בפרויקטים של שירות קהילתי."
+            },
+            {
+                "definition": "Efficient and effective usage of a particular resource or asset to obtain maximum benefit",
+                "definition_hebrew": "שימוש יעיל ואפקטיבי במשאב או בנכס מסוים כדי להשיג תועלת מרבית",
+                "example": "Healthcare systems strive for the optimal utilization of medical resources, such as equipment and staff, to provide quality patient care.",
+                "example_hebrew": "מערכות הבריאות שואפות לניצול מיטבי של משאבים רפואיים, כגון ציוד וצוות, על מנת לספק טיפול איכותי לחולים."
+            }
+        ]
+    }
+]

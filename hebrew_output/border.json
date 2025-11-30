@@ -1,0 +1,40 @@
+[
+    {
+        "word": "border",
+        "word_hebrew": "גבול",
+        "main_definition": "A border is a dividing line or boundary separating two areas, typically countries, states, or territories.",
+        "main_definition_hebrew": "גבול הוא קו מפריד או גבול המפריד בין שני אזורים, בדרך כלל מדינות, מדינות או טריטוריות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical boundary line between two distinct areas",
+                "definition_hebrew": "קו גבול פיזי בין שני אזורים נפרדים",
+                "example": "The physical border between the United States and Mexico is marked by a fence.",
+                "example_hebrew": "הגבול הפיזי בין ארצות הברית למקסיקו מסומן בגדר."
+            },
+            {
+                "definition": "Line indicating where one country ends and another begins",
+                "definition_hebrew": "שורה המציינת היכן מדינה אחת מסתיימת ומתחילה אחרת",
+                "example": "At the Canada-US border, customs officers check for contraband entering the U.S.",
+                "example_hebrew": "בגבול קנדה-ארה\"ב, קציני המכס בודקים את כניסתם של סחורות לארה\"ב."
+            },
+            {
+                "definition": "A boundary separating different types of landscapes or ecosystems",
+                "definition_hebrew": "גבול המפריד בין סוגים שונים של נופים או מערכות אקולוגיות",
+                "example": "The Great Rift Valley forms a natural border between diverse wildlife habitats in Africa.",
+                "example_hebrew": "עמק השבר הגדול מהווה גבול טבעי בין בתי גידול מגוונים של חיות בר באפריקה."
+            },
+            {
+                "definition": "An area at the edge of something, often used to describe where two cultures meet",
+                "definition_hebrew": "אזור בקצה של משהו, המשמש לעתים קרובות לתיאור היכן שתי תרבויות נפגשות",
+                "example": "Traditional French cuisine is heavily influenced by its borders with Spain and Italy.",
+                "example_hebrew": "המטבח הצרפתי המסורתי מושפע מאוד מגבולותיו עם ספרד ואיטליה."
+            },
+            {
+                "definition": "A line indicating a limit or restriction on something",
+                "definition_hebrew": "שורה המציינת מגבלה או הגבלה על משהו",
+                "example": "The company set a strict border for the number of hours employees can work per week.",
+                "example_hebrew": "החברה קבעה גבול קפדני למספר השעות שעובדים יכולים לעבוד בשבוע."
+            }
+        ]
+    }
+]

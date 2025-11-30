@@ -1,0 +1,40 @@
+[
+    {
+        "word": "target",
+        "word_hebrew": "יַעַד",
+        "main_definition": "A specific object, person, or group that someone aims at or has in mind as the focus of their action.",
+        "main_definition_hebrew": "אובייקט, אדם או קבוצה ספציפיים שמישהו מכוון אליו או שיש לו בראש כמוקד הפעולה שלו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Object being aimed for or hit by something",
+                "definition_hebrew": "חפץ שמכוון אליו או נפגע ממשהו",
+                "example": "The arrow finally struck its target.",
+                "example_hebrew": "החץ פגע לבסוף במטרה שלו."
+            },
+            {
+                "definition": "Person that a weapon, attack or punishment is directed towards",
+                "definition_hebrew": "אדם שאליו מכוון נשק, התקפה או עונש",
+                "example": "His words were clearly meant as the target of her frustration.",
+                "example_hebrew": "דבריו נועדו בבירור כמטרה לתסכולה."
+            },
+            {
+                "definition": "A particular point at which one's efforts are concentrated or aimed in order to achieve an objective",
+                "definition_hebrew": "נקודה מסוימת שבה המאמצים של האדם מרוכזים או מכוונים על מנת להשיג מטרה",
+                "example": "The company's marketing campaign was designed to hit specific demographics, with each ad serving as a target audience.",
+                "example_hebrew": "הקמפיין השיווקי של החברה נועד לפגוע בדמוגרפיה ספציפית, כאשר כל מודעה משמשת כקהל יעד."
+            },
+            {
+                "definition": "An entity that receives benefits from something else",
+                "definition_hebrew": "ישות שמקבלת הטבות ממשהו אחר",
+                "example": "He set the goal of making his department the target for future promotions and raises within the company.",
+                "example_hebrew": "הוא שם לו למטרה להפוך את המחלקה שלו ליעד לקידום וגיוסים עתידיים בתוך החברה."
+            },
+            {
+                "definition": "A group or area selected for investigation, inspection or action by an individual or organization",
+                "definition_hebrew": "קבוצה או אזור שנבחרו לחקירה, בדיקה או פעולה על ידי אדם או ארגון",
+                "example": "The government announced a new tax audit initiative with residential neighborhoods as its target areas.",
+                "example_hebrew": "הממשלה הכריזה על יוזמה חדשה לביקורת מס עם שכונות מגורים כאזורי היעד שלה."
+            }
+        ]
+    }
+]

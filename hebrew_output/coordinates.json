@@ -1,0 +1,34 @@
+[
+    {
+        "word": "coordinates",
+        "word_hebrew": "קואורדינטות",
+        "main_definition": "Coordinates refer to a set of values that uniquely determine the position of a point or an object in space, particularly within a coordinate system.",
+        "main_definition_hebrew": "קואורדינטות מתייחסות לקבוצת ערכים הקובעת באופן ייחודי את המיקום של נקודה או עצם במרחב, במיוחד בתוך מערכת קואורדינטות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Location information used for navigation and mapping",
+                "definition_hebrew": "מידע מיקום המשמש לניווט ומיפוי",
+                "example": "To get directions, I input my current coordinates into the GPS device.",
+                "example_hebrew": "כדי לקבל הנחיות, אני מזין את הקואורדינטות הנוכחיות שלי במכשיר ה-GPS."
+            },
+            {
+                "definition": "Elements of a system that define position",
+                "definition_hebrew": "אלמנטים של מערכת המגדירים מיקום",
+                "example": "In a Cartesian coordinate system, each point is defined by two numbers: (x, y).",
+                "example_hebrew": "במערכת קואורדינטות קרטזית, כל נקודה מוגדרת על ידי שני מספרים: (x, y)."
+            },
+            {
+                "definition": "The process of determining the geographic location of an object using GPS technology",
+                "definition_hebrew": "תהליך קביעת המיקום הגיאוגרפי של אובייקט באמצעות טכנולוגיית GPS",
+                "example": "By inputting our coordinates into Google Maps, we were able to find the nearest gas station.",
+                "example_hebrew": "על ידי הזנת הקואורדינטות שלנו במפות Google, הצלחנו למצוא את תחנת הדלק הקרובה ביותר."
+            },
+            {
+                "definition": "Values used in computer graphics to position objects on a screen or in a virtual space",
+                "definition_hebrew": "ערכים המשמשים בגרפיקה ממוחשבת למיקום אובייקטים על מסך או במרחב וירטואלי",
+                "example": "The coordinates (50, 100) placed the image of our logo right at the center of the webpage.",
+                "example_hebrew": "הקואורדינטות (50, 100) הציבו את תמונת הלוגו שלנו ממש במרכז דף האינטרנט."
+            }
+        ]
+    }
+]

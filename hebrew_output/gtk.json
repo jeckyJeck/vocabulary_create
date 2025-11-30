@@ -1,0 +1,28 @@
+[
+    {
+        "word": "gtk",
+        "word_hebrew": "gtk",
+        "main_definition": "GTK stands for GNOME Toolkit, a set of libraries used to build graphical user interfaces in Linux-based systems.",
+        "main_definition_hebrew": "GTK מייצג את GNOME Toolkit, קבוצה של ספריות המשמשות לבניית ממשקי משתמש גרפיים במערכות מבוססות לינוקס.",
+        "meanings_and_examples": [
+            {
+                "definition": "Graphical User Interface (GUI) toolkit",
+                "definition_hebrew": "ערכת כלים של ממשק משתמש גרפי (GUI).",
+                "example": "An application using GTK for its GUI development, like GNOME Shell or Evolution email client.",
+                "example_hebrew": "אפליקציה המשתמשת ב-GTK לפיתוח ה-GUI שלה, כמו GNOME Shell או לקוח דואר אלקטרוני של Evolution."
+            },
+            {
+                "definition": "Linux desktop environment component",
+                "definition_hebrew": "רכיב סביבת שולחן העבודה של לינוקס",
+                "example": "The use of GTK in the Linux distribution called Elementary OS which provides a customizable and sleek interface to users.",
+                "example_hebrew": "השימוש ב-GTK בהפצת לינוקס הנקראת Elementary OS המספקת ממשק להתאמה אישית ומלוטש למשתמשים."
+            },
+            {
+                "definition": "Cross-platform development framework",
+                "definition_hebrew": "מסגרת פיתוח חוצת פלטפורמות",
+                "example": "Using GTK to develop applications that can run on various platforms, such as GNOME Shell extension for adding new functionalities.",
+                "example_hebrew": "שימוש ב-GTK לפיתוח יישומים שיכולים לפעול על פלטפורמות שונות, כגון הרחבת GNOME Shell להוספת פונקציות חדשות."
+            }
+        ]
+    }
+]

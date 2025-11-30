@@ -1,0 +1,40 @@
+[
+    {
+        "word": "government",
+        "word_hebrew": "מֶמְשָׁלָה",
+        "main_definition": "The system or group of people governing an organized community, often a state.",
+        "main_definition_hebrew": "המערכת או קבוצת האנשים השולטים בקהילה מאורגנת, לרוב מדינה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A collection of individuals who have the authority to govern a country, making and enforcing laws, policies, and regulations for its citizens.",
+                "definition_hebrew": "אוסף של אנשים שיש להם את הסמכות לשלוט במדינה, לקבוע ולאכוף חוקים, מדיניות ותקנות עבור אזרחיה.",
+                "example": "The United States government consists of three branches: executive, legislative, and judicial.",
+                "example_hebrew": "ממשלת ארצות הברית מורכבת משלוש זרועות: מבצעת, מחוקקת ומשפטית."
+            },
+            {
+                "definition": "The administrative system or group responsible for managing the affairs of a country or state, including public services such as education, healthcare, and transportation.",
+                "definition_hebrew": "המערכת המנהלית או הקבוצה האחראית על ניהול ענייניה של מדינה או מדינה, לרבות שירותים ציבוריים כגון חינוך, בריאות ותחבורה.",
+                "example": "The Indian government launched several initiatives to improve rural infrastructure like roads, schools, and hospitals.",
+                "example_hebrew": "ממשלת הודו השיקה מספר יוזמות לשיפור התשתיות הכפריות כמו כבישים, בתי ספר ובתי חולים."
+            },
+            {
+                "definition": "The institution responsible for maintaining social order through law enforcement, including the creation of laws and ensuring their application and compliance.",
+                "definition_hebrew": "המוסד האחראי על שמירת הסדר החברתי באמצעות אכיפת החוק, לרבות יצירת חוקים והבטחת יישומם ועמידתם.",
+                "example": "The police force is a key component of any government's effort to ensure public safety and uphold justice.",
+                "example_hebrew": "כוח המשטרה הוא מרכיב מרכזי במאמץ של כל ממשלה להבטיח את ביטחון הציבור ולקיים צדק."
+            },
+            {
+                "definition": "A formal body or assembly that makes decisions for the country or state, typically through elected representatives or appointed officials.",
+                "definition_hebrew": "גוף או אסיפה רשמיים שמקבלים החלטות עבור המדינה או המדינה, בדרך כלל באמצעות נציגים נבחרים או פקידים ממונים.",
+                "example": "The parliament is the primary decision-making body in a democratic government, where members debate and pass laws.",
+                "example_hebrew": "הפרלמנט הוא הגוף העיקרי של קבלת ההחלטות בממשלה דמוקרטית, שבו חברים דנים ומעבירים חוקים."
+            },
+            {
+                "definition": "A set of principles and guidelines that govern how power is exercised within an organization or society, often established through constitutions, legal systems, and social norms.",
+                "definition_hebrew": "קבוצה של עקרונות וקווים מנחים השולטים על אופן הפעלת הכוח בתוך ארגון או חברה, שנקבעו לרוב באמצעות חוקות, מערכות משפט ונורמות חברתיות.",
+                "example": "The rule of law is a fundamental principle in many governments, where all individuals are subject to the law regardless of their status.",
+                "example_hebrew": "שלטון החוק הוא עיקרון יסוד בממשלות רבות, שבהן כל הפרטים כפופים לחוק ללא קשר למעמדם."
+            }
+        ]
+    }
+]

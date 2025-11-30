@@ -1,0 +1,40 @@
+[
+    {
+        "word": "expert",
+        "word_hebrew": "מוּמחֶה",
+        "main_definition": "An individual who possesses comprehensive knowledge or skills in a particular field, often due to extensive experience or training.",
+        "main_definition_hebrew": "אדם המחזיק בידע או כישורים מקיפים בתחום מסוים, לרוב בשל ניסיון רב או הכשרה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A person with specialized knowledge and skills in a specific area or subject",
+                "definition_hebrew": "אדם בעל ידע ומיומנויות מיוחדות בתחום או נושא ספציפי",
+                "example": "As an expert in cybersecurity, John was able to identify the vulnerabilities in our system.",
+                "example_hebrew": "כמומחה לאבטחת סייבר, ג'ון הצליח לזהות את נקודות התורפה במערכת שלנו."
+            },
+            {
+                "definition": "An individual who is considered highly qualified in their field by peers or organizations",
+                "definition_hebrew": "אדם הנחשב למוכשר ביותר בתחומו על ידי עמיתים או ארגונים",
+                "example": "The World Health Organization recognized her as a medical expert on infectious diseases.",
+                "example_hebrew": "ארגון הבריאות העולמי הכיר בה כמומחית רפואית למחלות זיהומיות."
+            },
+            {
+                "definition": "A professional with extensive experience and knowledge, often sought after for advice or consultation",
+                "definition_hebrew": "איש מקצוע בעל ניסיון וידע רב, מבוקש לרוב לייעוץ או ייעוץ",
+                "example": "The company hired an energy efficiency expert to advise them on reducing their carbon footprint.",
+                "example_hebrew": "החברה שכרה מומחה להתייעלות אנרגטית כדי לייעץ להם על הפחתת טביעת הרגל הפחמנית שלהם."
+            },
+            {
+                "definition": "A person who is regarded as highly skilled in a particular area of work or study",
+                "definition_hebrew": "אדם הנחשב כבעל מיומנות גבוהה בתחום עבודה או לימודים מסוים",
+                "example": "She has been hailed as an educational expert, with her teaching methods transforming classrooms worldwide.",
+                "example_hebrew": "היא זכתה להערכה כמומחית חינוכית, כששיטות ההוראה שלה משנות כיתות ברחבי העולם."
+            },
+            {
+                "definition": "An individual recognized by others for their proficiency and ability to perform tasks related to a specific field",
+                "definition_hebrew": "אדם המוכר על ידי אחרים בשל בקיאותו ויכולתו לבצע משימות הקשורות לתחום ספציפי",
+                "example": "The carpenter was known in the community as an expert at crafting beautiful wooden furniture.",
+                "example_hebrew": "הנגר נודע בקהילה כמומחה ביצירת רהיטי עץ יפהפיים."
+            }
+        ]
+    }
+]

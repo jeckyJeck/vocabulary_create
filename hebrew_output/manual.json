@@ -1,0 +1,34 @@
+[
+    {
+        "word": "manual",
+        "word_hebrew": "מדריך ל",
+        "main_definition": "A book, handbook or guide that provides instructions or information on a particular subject.",
+        "main_definition_hebrew": "ספר, מדריך או מדריך המספקים הנחיות או מידע בנושא מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to manual labor or physical work done by hand.",
+                "definition_hebrew": "הנוגע לעבודת כפיים או עבודה פיזית הנעשית בעבודת יד.",
+                "example": "The factory jobs require heavy manual labor.",
+                "example_hebrew": "עבודות המפעל דורשות עבודת כפיים כבדה."
+            },
+            {
+                "definition": "A set of instructions for performing a specific task, usually written and printed on paper.",
+                "definition_hebrew": "ערכת הוראות לביצוע משימה ספציפית, לרוב כתובה ומודפסת על נייר.",
+                "example": "Please refer to the user's manual before installing the software.",
+                "example_hebrew": "אנא עיין במדריך למשתמש לפני התקנת התוכנה."
+            },
+            {
+                "definition": "Relating to machines or devices that are operated manually rather than automatically.",
+                "definition_hebrew": "מתייחס למכונות או מכשירים המופעלים באופן ידני ולא אוטומטי.",
+                "example": "This old car has mostly mechanical parts, including a manual transmission.",
+                "example_hebrew": "למכונית הישנה הזו יש בעיקר חלקים מכניים, כולל תיבת הילוכים ידנית."
+            },
+            {
+                "definition": "A document providing information on the proper use and maintenance of equipment or machinery.",
+                "definition_hebrew": "מסמך המספק מידע על שימוש ותחזוקה נאותים של ציוד או מכונות.",
+                "example": "You should consult the operator's manual for detailed instructions.",
+                "example_hebrew": "עליך לעיין במדריך ההפעלה לקבלת הוראות מפורטות."
+            }
+        ]
+    }
+]

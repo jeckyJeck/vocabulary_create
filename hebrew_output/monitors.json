@@ -1,0 +1,28 @@
+[
+    {
+        "word": "monitors",
+        "word_hebrew": "צגים",
+        "main_definition": "Monitors can refer to devices that display information, as well as the act of supervising or observing something.",
+        "main_definition_hebrew": "צגים יכולים להתייחס למכשירים המציגים מידע, כמו גם פעולת הפיקוח או התבוננות במשהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Computer monitors used for displaying visual output from computers and other electronic devices",
+                "definition_hebrew": "צגי מחשב המשמשים להצגת פלט חזותי ממחשבים ומכשירים אלקטרוניים אחרים",
+                "example": "The graphic designer adjusted the settings on her dual computer monitors to ensure optimal color accuracy.",
+                "example_hebrew": "המעצבת הגרפית התאימה את ההגדרות בצגי המחשב הכפולים שלה כדי להבטיח דיוק צבע אופטימלי."
+            },
+            {
+                "definition": "Supervising or observing someone's actions or behavior, usually in a professional context",
+                "definition_hebrew": "פיקוח או התבוננות בפעולות או התנהגות של מישהו, בדרך כלל בהקשר מקצועי",
+                "example": "As a school monitor, John watched over his classmates during recess and ensured everyone was safe.",
+                "example_hebrew": "כפקח בית ספר, ג'ון השגיח על חבריו לכיתה במהלך ההפסקה והבטיח שכולם בטוחים."
+            },
+            {
+                "definition": "Monitoring can also refer to the act of keeping track of progress or changes, often related to data analysis or performance measurement",
+                "definition_hebrew": "ניטור יכול להתייחס גם לפעולה של מעקב אחר התקדמות או שינויים, הקשורים לעתים קרובות לניתוח נתונים או מדידת ביצועים",
+                "example": "The company's management team monitors quarterly sales figures to identify trends and make informed business decisions.",
+                "example_hebrew": "צוות ההנהלה של החברה עוקב אחר נתוני מכירות רבעוניים כדי לזהות מגמות ולקבל החלטות עסקיות מושכלות."
+            }
+        ]
+    }
+]

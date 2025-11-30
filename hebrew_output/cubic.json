@@ -1,0 +1,28 @@
+[
+    {
+        "word": "cubic",
+        "word_hebrew": "מְעוּקָב",
+        "main_definition": "Cubic refers to the third power of a number, specifically in relation to volume measurement or geometry.",
+        "main_definition_hebrew": "מעוקב מתייחס לחזקה השלישית של מספר, במיוחד ביחס למדידת נפח או גיאומטריה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Related to cubes in geometry",
+                "definition_hebrew": "קשור לקוביות בגיאומטריה",
+                "example": "The cube root of 27 is three because 3*3*3 equals 27.",
+                "example_hebrew": "שורש הקובייה של 27 הוא שלוש כי 3*3*3 שווה ל-27."
+            },
+            {
+                "definition": "Used to describe volume in terms of a cube's side length",
+                "definition_hebrew": "משמש לתיאור נפח במונחים של אורך דופן של קובייה",
+                "example": "A block with sides measuring 4 cm has a cubic volume of 64 cubic centimeters (4^3 = 64).",
+                "example_hebrew": "לבלוק עם צלעות בגודל 4 ס\"מ יש נפח מעוקב של 64 ס\"מ מעוקב (4^3 = 64)."
+            },
+            {
+                "definition": "In algebra, referring to the operation of raising something to the power of three",
+                "definition_hebrew": "באלגברה, הכוונה לפעולה של העלאת משהו בחזקת שלוש",
+                "example": "If x is a number and y=x^3, then y is said to be cubic.",
+                "example_hebrew": "אם x הוא מספר ו-y=x^3, אז אומרים ש-y הוא מעוקב."
+            }
+        ]
+    }
+]

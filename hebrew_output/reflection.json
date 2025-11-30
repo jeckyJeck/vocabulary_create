@@ -1,0 +1,34 @@
+[
+    {
+        "word": "reflection",
+        "word_hebrew": "הִשׁתַקְפוּת",
+        "main_definition": "Reflection refers to the act of mirroring or showing an image, thought, or effect resulting from a particular situation.",
+        "main_definition_hebrew": "השתקפות מתייחסת לפעולת שיקוף או הצגת תמונה, מחשבה או אפקט הנובע ממצב מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical reflection in light or sound waves bouncing back after hitting a surface",
+                "definition_hebrew": "השתקפות פיזית בגלי אור או קול החוזרים לאחור לאחר פגיעה במשטח",
+                "example": "The mirror reflected her face perfectly.",
+                "example_hebrew": "המראה שיקפה את פניה בצורה מושלמת."
+            },
+            {
+                "definition": "Mental reflection, considering one's actions and experiences carefully to gain insight",
+                "definition_hebrew": "השתקפות מנטלית, התחשבות במעשיו וחוויותיו של האדם בקפידה כדי לקבל תובנה",
+                "example": "After the argument, he took some time for self-reflection.",
+                "example_hebrew": "לאחר הוויכוח, הוא לקח זמן להתבוננות עצמית."
+            },
+            {
+                "definition": "Reflection in a philosophical or spiritual sense referring to deep thought about life, existence, or moral values",
+                "definition_hebrew": "הרהור במובן פילוסופי או רוחני המתייחס למחשבה עמוקה על חיים, קיום או ערכי מוסר",
+                "example": "The philosopher's writings reflected his contemplations on the meaning of life.",
+                "example_hebrew": "כתביו של הפילוסוף שיקפו את הרהוריו על משמעות החיים."
+            },
+            {
+                "definition": "A mirror image or representation, often used metaphorically in literature and art to symbolize a character's introspection or development",
+                "definition_hebrew": "תמונת מראה או ייצוג, המשמשים לעתים קרובות באופן מטפורי בספרות ובאמנות כדי לסמל התבוננות פנימית או התפתחות של דמות",
+                "example": "Her reflection in the water revealed her hidden sorrow.",
+                "example_hebrew": "השתקפותה במים חשפה את צערה הנסתר."
+            }
+        ]
+    }
+]

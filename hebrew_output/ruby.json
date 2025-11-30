@@ -1,0 +1,28 @@
+[
+    {
+        "word": "ruby",
+        "word_hebrew": "אוֹדֶם",
+        "main_definition": "A precious red gemstone, also used as an idiom to represent something of great value or beauty.",
+        "main_definition_hebrew": "אבן חן אדומה יקרת ערך, המשמשת גם כביטוי לייצג משהו בעל ערך רב או יופי.",
+        "meanings_and_examples": [
+            {
+                "definition": "A valuable and highly prized gemstone that is typically a deep red color.",
+                "definition_hebrew": "אבן חן יקרת ערך ויקרה מאוד שהיא בדרך כלל בצבע אדום עמוק.",
+                "example": "She wore a stunning necklace with a large ruby pendant.",
+                "example_hebrew": "היא ענדה שרשרת מהממת עם תליון אודם גדול."
+            },
+            {
+                "definition": "An idiom used to describe something or someone as being of great value, beauty, or importance.",
+                "definition_hebrew": "ניב המשמש לתיאור משהו או מישהו כבעלי ערך רב, יופי או חשיבות.",
+                "example": "Their work ethic is the real gem among their colleagues.",
+                "example_hebrew": "מוסר העבודה שלהם הוא הפנינה האמיתית בקרב עמיתיהם."
+            },
+            {
+                "definition": "In programming and software development, a 'ruby' refers to a popular scripting language.",
+                "definition_hebrew": "בתכנות ופיתוח תוכנה, 'אודם' מתייחס לשפת סקריפטים פופולרית.",
+                "example": "She learned Ruby on Rails for building web applications.",
+                "example_hebrew": "היא למדה Ruby on Rails לבניית יישומי אינטרנט."
+            }
+        ]
+    }
+]

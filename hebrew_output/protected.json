@@ -1,0 +1,40 @@
+[
+    {
+        "word": "protected",
+        "word_hebrew": "מוּגָן",
+        "main_definition": "Safeguarded from harm, damage, or unwanted attention.",
+        "main_definition_hebrew": "מוגן מפני נזק, נזק או תשומת לב לא רצויה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Guarded against physical damage or intrusion.",
+                "definition_hebrew": "מוגן מפני נזק פיזי או חדירה.",
+                "example": "The castle walls were built to protect the inhabitants from invaders.",
+                "example_hebrew": "חומות הטירה נבנו כדי להגן על התושבים מפני פולשים."
+            },
+            {
+                "definition": "Ensured safety by legal means, such as patents and copyrights.",
+                "definition_hebrew": "מובטחת בטיחות באמצעים חוקיים, כגון פטנטים וזכויות יוצרים.",
+                "example": "By filing for a patent, he protected his invention from being copied without permission.",
+                "example_hebrew": "על ידי הגשת פטנט, הוא הגן על המצאתו מפני העתקה ללא רשות."
+            },
+            {
+                "definition": "Shielded from harm or danger through the use of equipment like helmets or seatbelts.",
+                "definition_hebrew": "מוגן מפני נזק או סכנה באמצעות שימוש בציוד כמו קסדות או חגורות בטיחות.",
+                "example": "Wearing a helmet while biking protects your head in case of an accident.",
+                "example_hebrew": "חבישת קסדה בזמן רכיבה על אופניים מגינה על הראש במקרה של תאונה."
+            },
+            {
+                "definition": "Protected from exposure to something potentially damaging, such as the sun's UV rays.",
+                "definition_hebrew": "מוגן מפני חשיפה למשהו שעלול להזיק, כגון קרני ה-UV של השמש.",
+                "example": "Applying sunscreen helps protect skin from harmful UV radiation.",
+                "example_hebrew": "מריחת קרם הגנה מסייעת בהגנה על העור מפני קרינת UV מזיקה."
+            },
+            {
+                "definition": "Secured against emotional or psychological harm.",
+                "definition_hebrew": "מובטח מפני פגיעה רגשית או פסיכולוגית.",
+                "example": "He sought professional help to protect himself from the effects of his past trauma.",
+                "example_hebrew": "הוא חיפש עזרה מקצועית כדי להגן על עצמו מהשפעות הטראומה שעבר."
+            }
+        ]
+    }
+]

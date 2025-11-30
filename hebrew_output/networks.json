@@ -1,0 +1,40 @@
+[
+    {
+        "word": "networks",
+        "word_hebrew": "רשתות",
+        "main_definition": "Networks refer to interconnected systems or groups of individuals, organizations, or entities that are linked together through various forms of communication, collaboration, or shared resources.",
+        "main_definition_hebrew": "רשתות מתייחסות למערכות מקושרות או קבוצות של יחידים, ארגונים או ישויות המקושרות יחד באמצעות צורות שונות של תקשורת, שיתוף פעולה או משאבים משותפים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Social networks",
+                "definition_hebrew": "רשתות חברתיות",
+                "example": "Facebook is an example of a social network where people connect and share information with each other.",
+                "example_hebrew": "פייסבוק היא דוגמה לרשת חברתית שבה אנשים מתחברים ומשתפים מידע זה עם זה."
+            },
+            {
+                "definition": "Computer or telecommunications networks",
+                "definition_hebrew": "רשתות מחשבים או טלקומוניקציה",
+                "example": "The internet is a vast computer network that allows for global communication and data exchange.",
+                "example_hebrew": "האינטרנט הוא רשת מחשבים עצומה המאפשרת תקשורת וחילופי נתונים גלובליים."
+            },
+            {
+                "definition": "Business networks",
+                "definition_hebrew": "רשתות עסקיות",
+                "example": "A business network can include partnerships between companies, suppliers, distributors, and customers that facilitate trade and collaboration.",
+                "example_hebrew": "רשת עסקית יכולה לכלול שותפויות בין חברות, ספקים, מפיצים ולקוחות המקלות על סחר ושיתוף פעולה."
+            },
+            {
+                "definition": "Professional or career networking",
+                "definition_hebrew": "נטוורקינג מקצועי או קריירה",
+                "example": "Attending a job fair is an example of professional networking where individuals seek to make connections for future employment opportunities.",
+                "example_hebrew": "השתתפות ביריד תעסוקה היא דוגמה לנטוורקינג מקצועי שבו אנשים מבקשים ליצור קשרים להזדמנויות תעסוקה עתידיות."
+            },
+            {
+                "definition": "Biological networks",
+                "definition_hebrew": "רשתות ביולוגיות",
+                "example": "Neural networks in the brain are interconnected systems of neurons that enable communication and processing of information.",
+                "example_hebrew": "רשתות עצביות במוח הן מערכות מקושרות של נוירונים המאפשרות תקשורת ועיבוד מידע."
+            }
+        ]
+    }
+]

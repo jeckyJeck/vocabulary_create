@@ -1,0 +1,34 @@
+[
+    {
+        "word": "rehabilitation",
+        "word_hebrew": "שיקום",
+        "main_definition": "The process of restoring someone to health or normal life through training and therapy after imprisonment, addiction, or injury.",
+        "main_definition_hebrew": "תהליך החזרת אדם לבריאות או חיים נורמליים באמצעות אימון וטיפול לאחר מאסר, התמכרות או פציעה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Restoration of a person's ability to live independently",
+                "definition_hebrew": "שיקום יכולתו של אדם לחיות באופן עצמאי",
+                "example": "After his accident, John underwent physical rehabilitation to regain the strength and mobility necessary for daily tasks.",
+                "example_hebrew": "לאחר התאונה שלו, ג'ון עבר שיקום פיזי כדי להחזיר לעצמו את הכוח והניידות הדרושים למשימות יומיומיות."
+            },
+            {
+                "definition": "The process of recovering from addiction or substance abuse",
+                "definition_hebrew": "תהליך ההחלמה מהתמכרות או שימוש בסמים",
+                "example": "Sarah attended a drug rehabilitation program that helped her overcome her heroin addiction.",
+                "example_hebrew": "שרה השתתפה בתוכנית גמילה מסמים שעזרה לה להתגבר על ההתמכרות להרואין."
+            },
+            {
+                "definition": "Repair and restoration of infrastructure after damage or destruction",
+                "definition_hebrew": "תיקון ושיקום תשתיות לאחר נזק או הרס",
+                "example": "The city initiated road rehabilitation projects to repair potholes and damaged surfaces following the storm.",
+                "example_hebrew": "העירייה יזמה פרויקטים לשיקום כבישים לתיקון בורות ומשטחים שניזוקו בעקבות הסופה."
+            },
+            {
+                "definition": "Restoring a criminal's ability to function as a productive member of society",
+                "definition_hebrew": "החזרת יכולתו של פושע לתפקד כחבר יצרני בחברה",
+                "example": "As part of their sentence, the convicted felons had to attend rehabilitation programs to improve their chances for successful reintegration into the community.",
+                "example_hebrew": "כחלק מעונשם, העבריינים שהורשעו נאלצו להשתתף בתוכניות שיקום כדי לשפר את סיכוייהם להשתלב מחדש בקהילה."
+            }
+        ]
+    }
+]

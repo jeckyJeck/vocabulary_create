@@ -1,0 +1,40 @@
+[
+    {
+        "word": "theology",
+        "word_hebrew": "תֵאוֹלוֹגִיָה",
+        "main_definition": "Theology is the study of religious beliefs, practices, and doctrines, particularly those related to God or gods.",
+        "main_definition_hebrew": "תיאולוגיה היא חקר אמונות, פרקטיקות ודוקטרינות דתיות, במיוחד אלו הקשורות לאלוהים או לאלים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Study of religion in general",
+                "definition_hebrew": "לימוד דת בכלל",
+                "example": "He majored in comparative theology during his undergraduate studies.",
+                "example_hebrew": "הוא התמחה בתיאולוגיה השוואתית במהלך לימודיו לתואר ראשון."
+            },
+            {
+                "definition": "The academic study and systematic analysis of religious texts",
+                "definition_hebrew": "לימוד אקדמי וניתוח שיטתי של טקסטים דתיים",
+                "example": "She pursued a Ph.D. in Biblical theology, focusing on interpretations of the Old Testament.",
+                "example_hebrew": "היא המשיכה לדוקטורט. בתיאולוגיה המקראית, תוך התמקדות בפרשנויות של הברית הישנה."
+            },
+            {
+                "definition": "Discipline dealing with the nature of God and religious beliefs",
+                "definition_hebrew": "משמעת העוסקת בטבעו של האל ובאמונות דתיות",
+                "example": "His expertise lies in systematic theology which explores fundamental questions about God's existence and attributes.",
+                "example_hebrew": "מומחיותו טמונה בתיאולוגיה שיטתית אשר חוקרת שאלות יסוד על קיומו ותכונותיו של אלוהים."
+            },
+            {
+                "definition": "The philosophical study of religion, including the examination of religious phenomena from a rational standpoint",
+                "definition_hebrew": "המחקר הפילוסופי של הדת, כולל בחינת תופעות דתיות מנקודת מבט רציונלית",
+                "example": "Her work often revolves around critical philosophy of religion or phenomenology in theology.",
+                "example_hebrew": "עבודתה סובבת לעתים קרובות סביב פילוסופיה ביקורתית של דת או פנומנולוגיה בתיאולוגיה."
+            },
+            {
+                "definition": "Specific religious tradition's body of knowledge and teachings",
+                "definition_hebrew": "מכלול הידע והתורות של מסורת דתית ספציפית",
+                "example": "The Protestant theology emphasizes salvation through faith alone, while Roman Catholicism includes sacraments as means to grace.",
+                "example_hebrew": "התיאולוגיה הפרוטסטנטית מדגישה את הגאולה באמצעות אמונה בלבד, בעוד שהקתוליות הרומית כוללת סקרמנטים כאמצעי לחסד."
+            }
+        ]
+    }
+]

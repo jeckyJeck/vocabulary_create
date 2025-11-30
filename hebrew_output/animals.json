@@ -1,0 +1,28 @@
+[
+    {
+        "word": "animals",
+        "word_hebrew": "בעלי חיים",
+        "main_definition": "Animals refer to living organisms that are not plants, fungi, or single-celled life forms, characterized by their ability to move voluntarily, consume organic material for sustenance, and typically exhibit complex behaviors.",
+        "main_definition_hebrew": "בעלי חיים מתייחסים לאורגניזמים חיים שאינם צמחים, פטריות או צורות חיים חד-תאיות, המאופיינים ביכולתם לנוע מרצונם, לצרוך חומר אורגני למחייתם, ובדרך כלל מפגינים התנהגויות מורכבות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Used metaphorically to describe people who are unpredictable or difficult to understand",
+                "definition_hebrew": "משמש באופן מטפורי לתיאור אנשים בלתי צפויים או קשים להבנה",
+                "example": "His erratic behavior often made him the animal of the group.",
+                "example_hebrew": "התנהגותו הפרועה הפכה אותו לא פעם לחיה של הקבוצה."
+            },
+            {
+                "definition": "Refers to creatures that live in a particular habitat, ecosystem, or geographical area",
+                "definition_hebrew": "הכוונה ליצורים החיים בבית גידול, מערכת אקולוגית או אזור גיאוגרפי מסוים",
+                "example": "The African savannah is home to many unique animals like lions and zebras.",
+                "example_hebrew": "הסוואנה האפריקאית היא ביתם של בעלי חיים ייחודיים רבים כמו אריות וזברות."
+            },
+            {
+                "definition": "Used as a collective term for all living creatures that are not human beings",
+                "definition_hebrew": "משמש כינוי כולל לכל היצורים החיים שאינם בני אדם",
+                "example": "We need to protect endangered animals such as elephants, tigers, and pandas.",
+                "example_hebrew": "אנחנו צריכים להגן על בעלי חיים בסכנת הכחדה כמו פילים, נמרים ופנדות."
+            }
+        ]
+    }
+]

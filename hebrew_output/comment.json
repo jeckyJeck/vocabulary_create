@@ -1,0 +1,34 @@
+[
+    {
+        "word": "comment",
+        "word_hebrew": "תגובה",
+        "main_definition": "Comment refers to a spoken or written observation, remark, or opinion, often made in response to something that has been said or presented.",
+        "main_definition_hebrew": "הערה מתייחסת לתצפית, הערה או דעה בדיבור או בכתב, לעתים קרובות בתגובה למשהו שנאמר או הוצג.",
+        "meanings_and_examples": [
+            {
+                "definition": "Expressing an opinion about something verbally",
+                "definition_hebrew": "הבעת דעה על משהו בעל פה",
+                "example": "After the movie ended, she commented on the director's choice of plot twists.",
+                "example_hebrew": "לאחר שהסרט הסתיים, היא התייחסה לבחירתו של הבמאי בתפניות בעלילה."
+            },
+            {
+                "definition": "An additional explanation or interpretation provided by someone who has seen a piece of artwork, such as a painting or sculpture",
+                "definition_hebrew": "הסבר או פרשנות נוספים שסופקו על ידי מישהו שראה יצירת אמנות, כגון ציור או פסל",
+                "example": "The curator added a comment about the historical context behind Picasso's 'Guernica.'",
+                "example_hebrew": "האוצר הוסיף הערה על ההקשר ההיסטורי מאחורי 'גרניקה' של פיקאסו."
+            },
+            {
+                "definition": "A written remark made in response to an event, speech, article, etc.",
+                "definition_hebrew": "הערה כתובה בתגובה לאירוע, נאום, מאמר וכו'.",
+                "example": "He left a positive comment on Jane's blog post praising her insightful analysis.",
+                "example_hebrew": "הוא השאיר תגובה חיובית על הפוסט בבלוג של ג'יין ושיבח את הניתוח התובנות שלה."
+            },
+            {
+                "definition": "An annotation or note added by someone other than the original creator",
+                "definition_hebrew": "הערה או הערה שנוספו על ידי מישהו אחר מלבד היוצר המקורי",
+                "example": "She made several comments in the margins of her book, highlighting important passages and personal thoughts.",
+                "example_hebrew": "היא העירה מספר הערות בשולי ספרה, והדגישה קטעים חשובים ומחשבות אישיות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "patches",
+        "word_hebrew": "טלאים",
+        "main_definition": "Patches refer to small areas of something, often in a worn or damaged state that can be repaired or replaced.",
+        "main_definition_hebrew": "טלאים מתייחסים לאזורים קטנים של משהו, לעתים קרובות במצב שחוק או פגום שניתן לתקן או להחליף.",
+        "meanings_and_examples": [
+            {
+                "definition": "Areas of fabric or material used to cover holes, tears, or stains",
+                "definition_hebrew": "אזורי בד או חומר המשמשים לכיסוי חורים, קרעים או כתמים",
+                "example": "She sewed patches onto her jeans where the hole had started.",
+                "example_hebrew": "היא תפרה טלאים על הג'ינס שלה במקום שבו החל החור."
+            },
+            {
+                "definition": "Sections of a larger entity that are separate but part of the whole",
+                "definition_hebrew": "מקטעים של ישות גדולה יותר שהם נפרדים אך חלק מהמכלול",
+                "example": "He traveled through different patches of the country, each with its unique culture and traditions.",
+                "example_hebrew": "הוא טייל במקומות שונים בארץ, כל אחד עם התרבות והמסורות הייחודיות לו."
+            },
+            {
+                "definition": "Areas in software or applications where bugs have been fixed or improved upon",
+                "definition_hebrew": "תחומים בתוכנה או ביישומים שבהם תוקנו באגים או שופרו",
+                "example": "The latest update included several important bug fixes as part of the system's patches.",
+                "example_hebrew": "העדכון האחרון כלל מספר תיקוני באגים חשובים כחלק מהתיקונים של המערכת."
+            }
+        ]
+    }
+]

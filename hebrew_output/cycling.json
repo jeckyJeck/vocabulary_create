@@ -1,0 +1,34 @@
+[
+    {
+        "word": "cycling",
+        "word_hebrew": "רכיבה על אופניים",
+        "main_definition": "Cycling is an activity that involves riding a bicycle, which can have various meanings including sports, transportation, exercise, or as an idiom representing repetitive actions.",
+        "main_definition_hebrew": "רכיבה על אופניים היא פעילות הכוללת רכיבה על אופניים, שיכולות להיות לה משמעויות שונות לרבות ספורט, תחבורה, פעילות גופנית, או כביטוי המייצג פעולות חוזרות ונשנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Sports",
+                "definition_hebrew": "ספורט",
+                "example": "John participates in competitive cycling by racing against other cyclists.",
+                "example_hebrew": "ג'ון משתתף ברכיבה תחרותית על ידי מירוץ נגד רוכבי אופניים אחרים."
+            },
+            {
+                "definition": "Transportation",
+                "definition_hebrew": "הוֹבָלָה",
+                "example": "Many people use bicycles as a mode of transport to commute to work or school.",
+                "example_hebrew": "אנשים רבים משתמשים באופניים כאמצעי תחבורה לנסיעה לעבודה או לבית הספר."
+            },
+            {
+                "definition": "Exercise",
+                "definition_hebrew": "תרגיל",
+                "example": "She incorporates cycling into her daily exercise routine for cardiovascular health.",
+                "example_hebrew": "היא משלבת רכיבה על אופניים בשגרת הפעילות הגופנית שלה לבריאות הלב וכלי הדם."
+            },
+            {
+                "definition": "Idiom - repetitive actions",
+                "definition_hebrew": "ניב - פעולות שחוזרות על עצמן",
+                "example": "He was caught in the cycle of procrastination, constantly putting off tasks.",
+                "example_hebrew": "הוא נקלע למעגל הדחיינות, כשהוא דוחה כל הזמן משימות."
+            }
+        ]
+    }
+]

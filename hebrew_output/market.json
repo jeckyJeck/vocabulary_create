@@ -1,0 +1,40 @@
+[
+    {
+        "word": "market",
+        "word_hebrew": "שׁוּק",
+        "main_definition": "A market refers to a place or system where buyers and sellers interact to exchange goods, services, or securities.",
+        "main_definition_hebrew": "שוק מתייחס למקום או למערכת שבהם קונים ומוכרים מקיימים אינטראקציה כדי להחליף סחורות, שירותים או ניירות ערך.",
+        "meanings_and_examples": [
+            {
+                "definition": "A physical location for buying and selling goods",
+                "definition_hebrew": "מיקום פיזי לקנייה ומכירה של סחורה",
+                "example": "The farmer's market is a popular place where people can buy fresh fruits and vegetables.",
+                "example_hebrew": "שוק האיכרים הוא מקום פופולרי בו אנשים יכולים לקנות פירות וירקות טריים."
+            },
+            {
+                "definition": "An area in the economy where supply meets demand",
+                "definition_hebrew": "תחום במשק שבו ההיצע עונה על הביקוש",
+                "example": "The smartphone market has seen significant growth over the past decade due to increased consumer demand.",
+                "example_hebrew": "שוק הסמארטפונים ראה צמיחה משמעותית בעשור האחרון עקב ביקוש צרכני מוגבר."
+            },
+            {
+                "definition": "A system for trading securities such as stocks, bonds and derivatives",
+                "definition_hebrew": "מערכת למסחר בניירות ערך כגון מניות, אג\"ח ונגזרים",
+                "example": "Investors trade on the NYSE (New York Stock Exchange), a global market for buying and selling securities.",
+                "example_hebrew": "משקיעים נסחרים ב-NYSE (בורסת ניו יורק), שוק עולמי לקנייה ומכירה של ניירות ערך."
+            },
+            {
+                "definition": "The collective group of companies that compete within an industry or sector",
+                "definition_hebrew": "הקבוצה הקולקטיבית של חברות המתחרות בתעשייה או במגזר",
+                "example": "Apple, Samsung, and other tech giants dominate the smartphone market competition.",
+                "example_hebrew": "אפל, סמסונג וענקיות טכנולוגיה אחרות שולטות בתחרות בשוק הסמארטפונים."
+            },
+            {
+                "definition": "A virtual platform for buying and selling digital products or services",
+                "definition_hebrew": "פלטפורמה וירטואלית לקנייה ומכירה של מוצרים או שירותים דיגיטליים",
+                "example": "Etsy is an online marketplace where people can buy and sell handmade goods.",
+                "example_hebrew": "Etsy הוא שוק מקוון שבו אנשים יכולים לקנות ולמכור מוצרים בעבודת יד."
+            }
+        ]
+    }
+]

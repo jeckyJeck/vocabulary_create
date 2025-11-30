@@ -1,0 +1,40 @@
+[
+    {
+        "word": "lost",
+        "word_hebrew": "אָבֵד",
+        "main_definition": "Lost refers to a state of being unable to find one's way or direction, either physically or metaphorically, often resulting in confusion or disorientation.",
+        "main_definition_hebrew": "אבוד מתייחס למצב של חוסר יכולת למצוא את הדרך או הכיוון שלו, פיזית או מטפורית, מה שגורם לרוב לבלבול או חוסר התמצאות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not able to be found",
+                "definition_hebrew": "לא ניתן למצוא",
+                "example": "I lost my keys and couldn't find them anywhere.",
+                "example_hebrew": "איבדתי את המפתחות שלי ולא מצאתי אותם בשום מקום."
+            },
+            {
+                "definition": "No longer having something that was previously owned or possessed",
+                "definition_hebrew": "אין יותר משהו שהיה בעבר בבעלות או בבעלות",
+                "example": "She felt a deep sense of loss after her grandmother passed away.",
+                "example_hebrew": "היא חשה תחושת אובדן עמוקה לאחר שסבתה נפטרה."
+            },
+            {
+                "definition": "To misplace without being able to find again",
+                "definition_hebrew": "לטעות בלי להיות מסוגל למצוא שוב",
+                "example": "He accidentally lost his wallet and had no idea where it could be.",
+                "example_hebrew": "הוא איבד בטעות את הארנק שלו ולא היה לו מושג איפה הוא יכול להיות."
+            },
+            {
+                "definition": "Unable to locate one's position or direction in space",
+                "definition_hebrew": "לא מסוגל לאתר את המיקום או הכיוון של האדם בחלל",
+                "example": "We got lost on our way back from the museum.",
+                "example_hebrew": "הלכנו לאיבוד בדרכנו חזרה מהמוזיאון."
+            },
+            {
+                "definition": "Feeling confused and disoriented",
+                "definition_hebrew": "מרגיש מבולבל וחוסר התמצאות",
+                "example": "After receiving unexpected news, he felt completely lost about his future plans.",
+                "example_hebrew": "לאחר שקיבל חדשות בלתי צפויות, הוא הרגיש אבוד לחלוטין לגבי תוכניותיו העתידיות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "insurance",
+        "word_hebrew": "ביטוח",
+        "main_definition": "Insurance is a financial product that provides protection against various risks by pooling resources and distributing costs among policyholders in the event of an unforeseen loss or damage.",
+        "main_definition_hebrew": "ביטוח הוא מוצר פיננסי המעניק הגנה מפני סיכונים שונים באמצעות איגום משאבים וחלוקת עלויות בין המבוטחים במקרה של אובדן או נזק בלתי צפוי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Protection from financial losses due to specific events",
+                "definition_hebrew": "הגנה מפני הפסדים כספיים עקב אירועים ספציפיים",
+                "example": "He bought health insurance to protect himself against high medical costs.",
+                "example_hebrew": "הוא קנה ביטוח בריאות כדי להגן על עצמו מפני עלויות רפואיות גבוהות."
+            },
+            {
+                "definition": "A contractual agreement where an individual or entity pays regular premiums in exchange for coverage of potential risks",
+                "definition_hebrew": "הסכם חוזי שבו אדם או ישות משלמים פרמיות קבועות בתמורה לכיסוי סיכונים פוטנציאליים",
+                "example": "She renewed her car insurance every year and paid the monthly premiums.",
+                "example_hebrew": "היא חידשה את ביטוח הרכב שלה מדי שנה ושילמה את הפרמיות החודשיות."
+            },
+            {
+                "definition": "The practice of transferring risk from one party to another, typically through a formal agreement or policy",
+                "definition_hebrew": "הפרקטיקה של העברת סיכון מצד אחד לאחר, בדרך כלל באמצעות הסכם או פוליסה פורמלית",
+                "example": "Insurance companies act as intermediaries in the process of risk transfer by issuing policies to individuals and businesses.",
+                "example_hebrew": "חברות הביטוח פועלות כמתווכים בתהליך העברת הסיכונים על ידי הנפקת פוליסות ליחידים ולעסקים."
+            },
+            {
+                "definition": "A diverse range of insurance products designed for different purposes such as health, property, life, or liability coverage",
+                "definition_hebrew": "מגוון מגוון של מוצרי ביטוח המיועדים למטרות שונות כגון כיסוי בריאות, רכוש, חיים או אחריות",
+                "example": "The company offers various types of insurance including car, homeowners', and pet insurance.",
+                "example_hebrew": "החברה מציעה סוגים שונים של ביטוחים לרבות ביטוח רכב, דירות וחיות מחמד."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "proportion",
+        "word_hebrew": "פּרוֹפּוֹרצִיָה",
+        "main_definition": "The relationship in size, quantity, or degree between two or more things, where one thing is compared to another as being larger, smaller, greater, lesser, higher or lower.",
+        "main_definition_hebrew": "הקשר בגודל, בכמות או בדרגה בין שני דברים או יותר, כאשר דבר אחד מושווה לאחר כגדול, קטן, גדול יותר, קטן יותר, גבוה יותר או נמוך יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Comparison of sizes or amounts",
+                "definition_hebrew": "השוואה בין גדלים או כמויות",
+                "example": "The proportion of men to women in the classroom was 3:2.",
+                "example_hebrew": "היחס בין גברים לנשים בכיתה היה 3:2."
+            },
+            {
+                "definition": "Relative size or quantity",
+                "definition_hebrew": "גודל או כמות יחסית",
+                "example": "The price of apples is proportional to their weight, meaning that as the weight increases, so does the price.",
+                "example_hebrew": "המחיר של תפוחים הוא פרופורציונלי למשקל שלהם, כלומר ככל שהמשקל עולה, כך גם המחיר."
+            },
+            {
+                "definition": "Ratio expressing how many times one value contains another",
+                "definition_hebrew": "יחס המבטא כמה פעמים ערך אחד מכיל אחר",
+                "example": "In a recipe, if you double all ingredients except for flour (which must remain constant), then the proportion of flour to other ingredients changes.",
+                "example_hebrew": "במתכון, אם מכפילים את כל החומרים מלבד הקמח (שחייב להישאר קבוע), אז היחס של הקמח לשאר החומרים משתנה."
+            },
+            {
+                "definition": "Corresponding parts that are in an identical ratio",
+                "definition_hebrew": "חלקים מקבילים שהם ביחס זהה",
+                "example": "In similar triangles, corresponding sides have the same proportions.",
+                "example_hebrew": "במשולשים דומים, לצלעות המתאימות יש את אותן פרופורציות."
+            },
+            {
+                "definition": "Maintaining a consistent relationship between elements within a design or composition",
+                "definition_hebrew": "שמירה על קשר עקבי בין אלמנטים בתוך עיצוב או קומפוזיציה",
+                "example": "A well-designed room maintains proportion by ensuring that furniture sizes are appropriate to the size of the space and each other's dimensions.",
+                "example_hebrew": "חדר מעוצב שומר על פרופורציה בכך שהוא מבטיח שגדלים של רהיטים מתאימים לגודל החלל ולמידותיו של זה."
+            }
+        ]
+    }
+]

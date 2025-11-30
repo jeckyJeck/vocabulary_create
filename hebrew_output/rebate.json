@@ -1,0 +1,28 @@
+[
+    {
+        "word": "rebate",
+        "word_hebrew": "הֲנָחָה",
+        "main_definition": "A partial refund to a customer after the purchase of goods or services, often as an incentive to stimulate sales.",
+        "main_definition_hebrew": "החזר חלקי ללקוח לאחר רכישת סחורה או שירותים, לרוב כתמריץ להמרצת מכירות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A reduction from its original price, typically offered by manufacturers or retailers",
+                "definition_hebrew": "הנחה ממחירו המקורי, המוצע בדרך כלל על ידי יצרנים או קמעונאים",
+                "example": "The electronics store gave a $50 rebate on the new smartphone.",
+                "example_hebrew": "חנות האלקטרוניקה נתנה הנחה של 50 דולר על הסמארטפון החדש."
+            },
+            {
+                "definition": "An incentive provided to stimulate sales, often seen in marketing and advertising campaigns",
+                "definition_hebrew": "תמריץ שניתן להמריץ מכירות, הנראה לעתים קרובות בקמפיינים שיווקיים ופרסומיים",
+                "example": "To increase demand for their product, the company offered a 10% rebate during Black Friday sales.",
+                "example_hebrew": "כדי להגביר את הביקוש למוצר שלהם, החברה הציעה הנחה של 10% במהלך מכירות Black Friday."
+            },
+            {
+                "definition": "A discount given as a reward or incentive for loyal customers",
+                "definition_hebrew": "הנחה הניתנת כפרס או תמריץ ללקוחות נאמנים",
+                "example": "As a thank you for being a long-time customer, the store gave me a $25 rebate on my purchase.",
+                "example_hebrew": "בתור תודה על היותך לקוח ותיק, החנות נתנה לי הנחה של $25 על הרכישה."
+            }
+        ]
+    }
+]

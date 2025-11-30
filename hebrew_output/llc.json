@@ -1,0 +1,34 @@
+[
+    {
+        "word": "llc",
+        "word_hebrew": "LLC",
+        "main_definition": "LLC stands for Limited Liability Company, a type of business entity that offers limited liability protection to its owners.",
+        "main_definition_hebrew": "LLC ראשי תיבות של Limited Liability Company, סוג של ישות עסקית המציעה הגנה על אחריות מוגבלת לבעליה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Legal Entity",
+                "definition_hebrew": "ישות משפטית",
+                "example": "John and Jane formed an LLC called 'ABC Widgets' to sell widgets in their local market.",
+                "example_hebrew": "ג'ון וג'יין הקימו חברת LLC בשם 'ABC Widgets' כדי למכור ווידג'טים בשוק המקומי שלהם."
+            },
+            {
+                "definition": "Limited Liability Protection",
+                "definition_hebrew": "הגנת אחריות מוגבלת",
+                "example": "If ABC Widgets were sued, the personal assets of John and Jane would generally be protected from legal claims due to their LLC status.",
+                "example_hebrew": "אם יישומונים של ABC היו נתבעים, הנכסים האישיים של ג'ון וג'יין בדרך כלל יהיו מוגנים מתביעות משפטיות בשל מעמדם של LLC."
+            },
+            {
+                "definition": "Tax Treatment",
+                "definition_hebrew": "טיפול מס",
+                "example": "The 'LLC 10-99' form is filed with local authorities to inform them about the tax classification of a business as an LLC, which affects how it pays taxes.",
+                "example_hebrew": "טופס 'LLC 10-99' מוגש לרשויות המקומיות כדי ליידע אותן על סיווג המס של עסק כ-LLC, המשפיע על אופן תשלום המסים."
+            },
+            {
+                "definition": "Business Structure",
+                "definition_hebrew": "מבנה עסקי",
+                "example": "Compared to sole proprietorships and partnerships, forming an LLC can provide more flexibility in management and less exposure for personal assets of the owners.",
+                "example_hebrew": "בהשוואה לבעלות יחידים ושותפויות, הקמת LLC יכולה לספק יותר גמישות בניהול ופחות חשיפה לנכסים אישיים של הבעלים."
+            }
+        ]
+    }
+]

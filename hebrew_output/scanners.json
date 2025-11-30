@@ -1,0 +1,34 @@
+[
+    {
+        "word": "scanners",
+        "word_hebrew": "סורקים",
+        "main_definition": "Scanners are devices used to convert physical documents or objects into digital format by capturing their images, text, or data.",
+        "main_definition_hebrew": "סורקים הם מכשירים המשמשים להמרת מסמכים או אובייקטים פיזיים לפורמט דיגיטלי על ידי לכידת התמונות, הטקסט או הנתונים שלהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of computer technology, scanners refer to optical character recognition (OCR) equipment that converts printed texts into editable and searchable digital formats.",
+                "definition_hebrew": "בהקשר של טכנולוגיית מחשב, סורקים מתייחסים לציוד זיהוי תווים אופטי (OCR) הממיר טקסטים מודפסים לפורמטים דיגיטליים הניתנים לעריכה ולחיפוש.",
+                "example": "When I needed to digitize my collection of old newspapers, I used a flatbed scanner with OCR capabilities.",
+                "example_hebrew": "כשהייתי צריך לעשות דיגיטציה של אוסף העיתונים הישנים שלי, השתמשתי בסורק שטוח עם יכולות OCR."
+            },
+            {
+                "definition": "In the healthcare industry, medical scanners are imaging devices that capture visual representations of internal body structures for diagnostic purposes.",
+                "definition_hebrew": "בתעשיית הבריאות, סורקים רפואיים הם מכשירי הדמיה הלוכדים ייצוגים חזותיים של מבני גוף פנימיים למטרות אבחון.",
+                "example": "The radiologist reviewed the CT scans to diagnose the patient's condition accurately.",
+                "example_hebrew": "הרדיולוג סקר את סריקות ה-CT כדי לאבחן במדויק את מצבו של המטופל."
+            },
+            {
+                "definition": "In logistics and supply chain management, barcode or RFID (Radio-Frequency Identification) scanners are devices used for capturing data from labels attached to products during inventory control processes.",
+                "definition_hebrew": "בלוגיסטיקה וניהול שרשרת אספקה, סורקי ברקוד או RFID (זיהוי תדר רדיו) הם מכשירים המשמשים ללכידת נתונים מתוויות המוצמדות למוצרים במהלך תהליכי בקרת מלאי.",
+                "example": "The warehouse workers used handheld scanners to quickly track the movement of goods in and out of storage.",
+                "example_hebrew": "עובדי המחסן השתמשו בסורקים כף יד כדי לעקוב במהירות אחר תנועת הסחורות אל תוך האחסון ומחוצה לה."
+            },
+            {
+                "definition": "In security, metal detectors are a type of scanner designed to identify metallic objects on individuals for safety purposes.",
+                "definition_hebrew": "בתחום האבטחה, גלאי מתכות הם סוג של סורק שנועד לזהות חפצים מתכתיים על אנשים למטרות בטיחות.",
+                "example": "Before entering the airport terminal, passengers had their shoes scanned with a metal detector.",
+                "example_hebrew": "לפני שנכנסו למסוף שדה התעופה, נוסעים נסרקו את נעליהם באמצעות גלאי מתכות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "networking",
+        "word_hebrew": "רשת",
+        "main_definition": "Networking is the process of interacting with others to exchange information and develop professional or social contacts.",
+        "main_definition_hebrew": "נטוורקינג הוא תהליך של אינטראקציה עם אחרים כדי להחליף מידע ולפתח קשרים מקצועיים או חברתיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Establishing connections for career advancement",
+                "definition_hebrew": "יצירת קשרים לקידום קריירה",
+                "example": "She attended a business conference to network with potential employers.",
+                "example_hebrew": "היא השתתפה בכנס עסקי ליצירת קשרים עם מעסיקים פוטנציאליים."
+            },
+            {
+                "definition": "Creating and maintaining professional relationships",
+                "definition_hebrew": "יצירה ותחזוקה של קשרים מקצועיים",
+                "example": "He joined LinkedIn to build his professional network by connecting with colleagues, mentors, and industry leaders.",
+                "example_hebrew": "הוא הצטרף ל-LinkedIn כדי לבנות את הרשת המקצועית שלו על ידי חיבור עם עמיתים, מנטורים ומנהיגים בתעשייה."
+            },
+            {
+                "definition": "Sharing information across a group of people or entities",
+                "definition_hebrew": "שיתוף מידע על פני קבוצה של אנשים או ישויות",
+                "example": "The IT department used networking equipment to share data between different computers in the office.",
+                "example_hebrew": "מחלקת ה-IT השתמשה בציוד רשת כדי לשתף נתונים בין מחשבים שונים במשרד."
+            },
+            {
+                "definition": "Interconnecting devices for communication and resource sharing",
+                "definition_hebrew": "התקנים מקושרים לתקשורת ושיתוף משאבים",
+                "example": "A home network allows family members to connect their devices, such as smartphones and laptops, for easy file sharing.",
+                "example_hebrew": "רשת ביתית מאפשרת לבני המשפחה לחבר את המכשירים שלהם, כגון סמארטפונים ומחשבים ניידים, לשיתוף קבצים קל."
+            }
+        ]
+    }
+]

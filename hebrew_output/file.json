@@ -1,0 +1,40 @@
+[
+    {
+        "word": "file",
+        "word_hebrew": "קוֹבֶץ",
+        "main_definition": "A file refers to a collection of data or information organized in a specific format, typically stored digitally on a computer system.",
+        "main_definition_hebrew": "קובץ מתייחס לאוסף של נתונים או מידע המאורגן בפורמט מסוים, המאוחסן בדרך כלל דיגיטלית במערכת מחשב.",
+        "meanings_and_examples": [
+            {
+                "definition": "To store data or files for future use or reference",
+                "definition_hebrew": "כדי לאחסן נתונים או קבצים לשימוש או לעיון עתידיים",
+                "example": "I need to file the receipts from last year's tax returns.",
+                "example_hebrew": "אני צריך להגיש את הקבלות מהחזרי המס של השנה שעברה."
+            },
+            {
+                "definition": "A document, typically on paper, that contains information about a person or an organization",
+                "definition_hebrew": "מסמך, בדרך כלל על נייר, המכיל מידע על אדם או ארגון",
+                "example": "Please sign and date this letter before filing it in your folder.",
+                "example_hebrew": "אנא חתום ותאריך מכתב זה לפני הגשתו בתיקייה שלך."
+            },
+            {
+                "definition": "To arrange papers or documents neatly for easy access",
+                "definition_hebrew": "לסדר ניירות או מסמכים בצורה מסודרת לגישה נוחה",
+                "example": "After the meeting, we need to file all the reports into their respective folders.",
+                "example_hebrew": "לאחר הפגישה, עלינו לתיק את כל הדוחות לתיקיות שלהם."
+            },
+            {
+                "definition": "A record of actions taken by a computer program, typically stored in text format and used as input data",
+                "definition_hebrew": "תיעוד של פעולות שבוצעו על ידי תוכנית מחשב, המאוחסנים בדרך כלל בפורמט טקסט ומשמשים כנתוני קלט",
+                "example": "The log file shows that an error occurred while running the application.",
+                "example_hebrew": "קובץ היומן מראה שאירעה שגיאה במהלך הפעלת היישום."
+            },
+            {
+                "definition": "To organize files on a storage device like a hard drive or cloud storage",
+                "definition_hebrew": "כדי לארגן קבצים בהתקן אחסון כמו כונן קשיח או אחסון בענן",
+                "example": "I need to file my photos by date and event in order to find them easily later.",
+                "example_hebrew": "אני צריך לתייק את התמונות שלי לפי תאריך ואירוע כדי למצוא אותן בקלות מאוחר יותר."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "stores",
+        "word_hebrew": "חנויות",
+        "main_definition": "A place where goods or services are kept, sold, or exchanged.",
+        "main_definition_hebrew": "מקום שבו סחורות או שירותים נשמרים, נמכרים או מוחלפים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Retailers or businesses that sell products directly to consumers.",
+                "definition_hebrew": "קמעונאים או עסקים שמוכרים מוצרים ישירות לצרכנים.",
+                "example": "Walmart and Target are large retail stores.",
+                "example_hebrew": "Walmart ו-Target הן חנויות קמעונאיות גדולות."
+            },
+            {
+                "definition": "A location where animals such as fish, birds, reptiles, etc. are kept for sale or display.",
+                "definition_hebrew": "מיקום בו מוחזקים בעלי חיים כמו דגים, ציפורים, זוחלים וכו' למכירה או לתצוגה.",
+                "example": "The pet store has tanks of tropical fish and cages of exotic birds.",
+                "example_hebrew": "בחנות החיות יש מיכלים של דגים טרופיים וכלובים של ציפורים אקזוטיות."
+            },
+            {
+                "definition": "Places within the earth's crust where minerals or fossil fuels are extracted.",
+                "definition_hebrew": "מקומות בתוך קרום כדור הארץ שבהם מופקים מינרלים או דלקים מאובנים.",
+                "example": "Oil wells and mines are examples of natural resource stores.",
+                "example_hebrew": "בארות נפט ומכרות הם דוגמאות למאגרי משאבי טבע."
+            },
+            {
+                "definition": "A storage facility, like a warehouse, used for keeping goods before they are sold.",
+                "definition_hebrew": "מתקן אחסון, כמו מחסן, המשמש לשמירת סחורות לפני מכירתם.",
+                "example": "The company's products were stored in the local distribution center before being shipped to customers.",
+                "example_hebrew": "מוצרי החברה אוחסנו במרכז ההפצה המקומי בטרם נשלחו ללקוחות."
+            },
+            {
+                "definition": "A repository or archive where items of historical importance are preserved and displayed.",
+                "definition_hebrew": "מאגר או ארכיון בו נשמרים ומוצגים פריטים בעלי חשיבות היסטורית.",
+                "example": "The Smithsonian museum is a storehouse for America's cultural heritage, housing artifacts from various time periods.",
+                "example_hebrew": "מוזיאון הסמיתסוניאן הוא מחסן למורשת התרבותית של אמריקה, ומכיל חפצים מתקופות זמן שונות."
+            }
+        ]
+    }
+]

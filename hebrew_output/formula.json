@@ -1,0 +1,34 @@
+[
+    {
+        "word": "formula",
+        "word_hebrew": "נוּסחָה",
+        "main_definition": "A formula is a mathematical or chemical expression that represents a relationship between different elements, variables, or constants.",
+        "main_definition_hebrew": "נוסחה היא ביטוי מתמטי או כימי המייצג קשר בין יסודות, משתנים או קבועים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mathematical equation representing a general rule for the sum of two numbers",
+                "definition_hebrew": "משוואה מתמטית המייצגת כלל כללי לסכום של שני מספרים",
+                "example": "The Pythagorean formula states that in a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides (a^2 + b^2 = c^2).",
+                "example_hebrew": "הנוסחה של פיתגורס קובעת שבמשולש ישר זווית, ריבוע ההיפותנוסה שווה לסכום הריבועים של שתי הצלעות האחרות (a^2 + b^2 = c^2)."
+            },
+            {
+                "definition": "A set of instructions or steps for achieving something",
+                "definition_hebrew": "קבוצה של הוראות או שלבים להשגת משהו",
+                "example": "The cooking formula involves mixing flour, eggs, and milk to make pancake batter.",
+                "example_hebrew": "נוסחת הבישול כוללת ערבוב של קמח, ביצים וחלב להכנת בלילת פנקייק."
+            },
+            {
+                "definition": "An expression used as a standard guide in the calculation of other quantities or values",
+                "definition_hebrew": "ביטוי המשמש כמדריך סטנדרטי בחישוב של כמויות או ערכים אחרים",
+                "example": "In physics, the speed formula (speed = distance/time) is used to calculate an object's velocity given its travelled distance and time taken.",
+                "example_hebrew": "בפיזיקה, נוסחת המהירות (מהירות = מרחק/זמן) משמשת לחישוב מהירותו של עצם בהינתן מרחק הנסיעה והזמן שלו."
+            },
+            {
+                "definition": "A chemical substance whose composition can be expressed as a formula",
+                "definition_hebrew": "חומר כימי שניתן לבטא את הרכבו כנוסחה",
+                "example": "Water has the chemical formula H2O, which means it consists of two hydrogen atoms (H) bonded to one oxygen atom (O).",
+                "example_hebrew": "למים יש את הנוסחה הכימית H2O, כלומר הם מורכבים משני אטומי מימן (H) הקשורים לאטום חמצן אחד (O)."
+            }
+        ]
+    }
+]

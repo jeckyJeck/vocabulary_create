@@ -1,0 +1,34 @@
+[
+    {
+        "word": "accounting",
+        "word_hebrew": "חשבונאות",
+        "main_definition": "Accounting is the process of recording, classifying, and summarizing financial transactions to provide information that is useful in making business decisions.",
+        "main_definition_hebrew": "הנהלת חשבונות היא תהליך של רישום, סיווג וסיכום של עסקאות פיננסיות כדי לספק מידע שימושי בקבלת החלטות עסקיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The practice or skill of keeping financial records for a company",
+                "definition_hebrew": "התרגול או המיומנות של שמירת רישומים פיננסיים עבור חברה",
+                "example": "As an accountant, my job is to track every expense and revenue for our small business.",
+                "example_hebrew": "כרואה חשבון, התפקיד שלי הוא לעקוב אחר כל הוצאה והכנסה עבור העסק הקטן שלנו."
+            },
+            {
+                "definition": "A report that details the results of this process",
+                "definition_hebrew": "דוח המפרט את תוצאות התהליך הזה",
+                "example": "The quarterly financial statements are compiled by the company's accounting department.",
+                "example_hebrew": "הדוחות הכספיים הרבעוניים נערכים על ידי מחלקת הנהלת החשבונות של החברה."
+            },
+            {
+                "definition": "The systematic method to record and classify business transactions and events in a comprehensive manner",
+                "definition_hebrew": "השיטה השיטתית לרישום וסיווג עסקאות ואירועים עסקיים בצורה מקיפה",
+                "example": "We use double-entry bookkeeping, which is an accounting principle that requires each transaction to be recorded twice.",
+                "example_hebrew": "אנו משתמשים בהנהלת חשבונות כפולה, שהיא עיקרון חשבונאי המחייב רישום של כל עסקה פעמיים."
+            },
+            {
+                "definition": "A profession concerned with the measurement of income and expenses, control on resources and preparation of financial statements",
+                "definition_hebrew": "מקצוע העוסק במדידת הכנסות והוצאות, בקרה על משאבים והכנת דוחות כספיים",
+                "example": "The CPA (Certified Public Accountant) was hired by the company for professional accounting services.",
+                "example_hebrew": "רו\"ח (רואה חשבון) נשכר על ידי החברה לשירותי ראיית חשבון מקצועיים."
+            }
+        ]
+    }
+]

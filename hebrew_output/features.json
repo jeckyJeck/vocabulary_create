@@ -1,0 +1,40 @@
+[
+    {
+        "word": "features",
+        "word_hebrew": "מאפיינים",
+        "main_definition": "Features refer to the distinctive attributes or characteristics of a person, object, or concept.",
+        "main_definition_hebrew": "תכונות מתייחסות לתכונות או מאפיינים הייחודיים של אדם, חפץ או מושג.",
+        "meanings_and_examples": [
+            {
+                "definition": "In real estate and product description, features are specific aspects that highlight what a property or item can do or offer. For example: 'The house has modern kitchen features like stainless steel appliances.'",
+                "definition_hebrew": "בתיאור נדל\"ן ומוצר, תכונות הן היבטים ספציפיים המדגישים את מה שנכס או פריט יכולים לעשות או להציע. לדוגמה: 'בבית יש מאפייני מטבח מודרניים כמו מכשירי נירוסטה'.",
+                "example": "'This smartphone model boasts cutting-edge camera features such as 108MP resolution and 4K video recording capabilities.'",
+                "example_hebrew": "\"דגם הסמארטפון הזה מתהדר בתכונות מצלמה מתקדמות כמו רזולוציית 108MP ויכולות הקלטת וידאו 4K.\""
+            },
+            {
+                "definition": "In biology, facial features are the individual characteristics that make up a person's face. For example: 'His most striking feature is his twinkling blue eyes.'",
+                "definition_hebrew": "בביולוגיה, תווי פנים הם המאפיינים האישיים המרכיבים את פניו של אדם. לדוגמה: 'התכונה הבולטת ביותר שלו היא עיניו הכחולות הנוצצות'.",
+                "example": "'The cheetah’s unique features include a slender body and spots for camouflage in its natural habitat.'",
+                "example_hebrew": "\"המאפיינים הייחודיים של הצ'יטה כוללים גוף דק ונקודות הסוואה בסביבתו הטבעית.\""
+            },
+            {
+                "definition": "In technology, software or applications, features are the capabilities that allow users to perform specific tasks. For example: 'This photo editing app has several advanced features like filters and adjustable lighting options.'",
+                "definition_hebrew": "בטכנולוגיה, בתוכנה או ביישומים, תכונות הן היכולות המאפשרות למשתמשים לבצע משימות ספציפיות. לדוגמה: 'אפליקציית עריכת תמונות זו כוללת מספר תכונות מתקדמות כמו מסננים ואפשרויות תאורה מתכווננות.'",
+                "example": "'The new social media platform offers innovative features such as live streaming and augmented reality experiences.'",
+                "example_hebrew": "\"פלטפורמת המדיה החברתית החדשה מציעה תכונות חדשניות כגון סטרימינג בשידור חי וחוויות מציאות רבודה.\""
+            },
+            {
+                "definition": "In language, an idiom is a phrase or expression whose meaning cannot be understood from the literal interpretation of its words. For example: 'His face lit up when he talked about his favorite feature in that movie.'",
+                "definition_hebrew": "בשפה, ניב הוא ביטוי או ביטוי שלא ניתן להבין את משמעותם מהפירוש המילולי של דבריו. למשל: 'הפנים שלו אורו כשהוא דיבר על הפיצ'ר האהוב עליו בסרט ההוא'.",
+                "example": "'She loves reading mystery novels for their unexpected twists and turns as features within the plot.'",
+                "example_hebrew": "\"היא אוהבת לקרוא רומנים מסתוריים בגלל הפיתולים הבלתי צפויים שלהם כמאפיינים בתוך העלילה.\""
+            },
+            {
+                "definition": "In marketing, product or service features are used to differentiate it from competitors. For example: 'Our car's safety features include an advanced collision avoidance system.'",
+                "definition_hebrew": "בשיווק משתמשים בתכונות המוצר או השירות כדי להבדיל אותו מהמתחרים. לדוגמה: 'מאפייני הבטיחות של המכונית שלנו כוללים מערכת מתקדמת למניעת התנגשות'.",
+                "example": "'The new laptop comes with a sleek design and lightning-fast processing features that set it apart in the market.'",
+                "example_hebrew": "\"המחשב הנייד החדש מגיע עם עיצוב מלוטש ותכונות עיבוד מהירות בזק שמייחדות אותו בשוק.\""
+            }
+        ]
+    }
+]

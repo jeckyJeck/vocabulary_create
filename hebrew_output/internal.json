@@ -1,0 +1,40 @@
+[
+    {
+        "word": "internal",
+        "word_hebrew": "פְּנִימִי",
+        "main_definition": "Pertaining to the inside or inner part of something, especially in reference to a structure, organization, system, or individual.",
+        "main_definition_hebrew": "נוגע לחלק הפנימי או הפנימי של משהו, במיוחד בהתייחסות למבנה, ארגון, מערכת או פרט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to what is within an individual's mind or character.",
+                "definition_hebrew": "מתייחס למה שנמצא בתודעתו או אופיו של אדם.",
+                "example": "His internal thoughts were conflicted.",
+                "example_hebrew": "מחשבותיו הפנימיות היו סותרות."
+            },
+            {
+                "definition": "Concerning the parts that are inside a physical structure, object, or machine.",
+                "definition_hebrew": "לגבי החלקים שנמצאים בתוך מבנה פיזי, חפץ או מכונה.",
+                "example": "The mechanic fixed the internal engine components.",
+                "example_hebrew": "המכונאי תיקן את רכיבי המנוע הפנימיים."
+            },
+            {
+                "definition": "Relating to matters that occur within an organization or system, as opposed to external factors.",
+                "definition_hebrew": "התייחסות לעניינים המתרחשים בתוך ארגון או מערכת, בניגוד לגורמים חיצוניים.",
+                "example": "Internal politics affected the company's decision-making process.",
+                "example_hebrew": "הפוליטיקה הפנימית השפיעה על תהליך קבלת ההחלטות של החברה."
+            },
+            {
+                "definition": "Existing or happening inside a person or group rather than externally.",
+                "definition_hebrew": "קיים או קורה בתוך אדם או קבוצה ולא חיצונית.",
+                "example": "The internal struggles of the community were evident in its members' demeanor.",
+                "example_hebrew": "המאבקים הפנימיים של הקהילה ניכרו בהתנהגות חבריה."
+            },
+            {
+                "definition": "Within the body, as opposed to external. Usually used in medical contexts.",
+                "definition_hebrew": "בתוך הגוף, בניגוד חיצוני. משמש בדרך כלל בהקשרים רפואיים.",
+                "example": "The doctor examined his patient's internal organs using an ultrasound machine.",
+                "example_hebrew": "הרופא בדק את איבריו הפנימיים של מטופלו באמצעות מכשיר אולטרסאונד."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "robot",
+        "word_hebrew": "רוֹבּוֹט",
+        "main_definition": "A robot is an automated, mechanical device that can perform tasks or simulate human actions.",
+        "main_definition_hebrew": "רובוט הוא מכשיר אוטומטי ומכני שיכול לבצע משימות או לדמות פעולות אנושיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Automation Device",
+                "definition_hebrew": "מכשיר אוטומציה",
+                "example": "The manufacturing company uses robots to assemble cars in the assembly line.",
+                "example_hebrew": "החברה היצרנית משתמשת ברובוטים להרכבת מכוניות בפס הייצור."
+            },
+            {
+                "definition": "Programmed Action Simulator",
+                "definition_hebrew": "סימולטור פעולה מתוכנת",
+                "example": "In a children's playground, there are robotic figures that mimic human movements for entertainment.",
+                "example_hebrew": "במגרש משחקים לילדים יש דמויות רובוטיות המחקות תנועות אנושיות לצורך בידור."
+            },
+            {
+                "definition": "Autonomous or Remotely Controlled Machine",
+                "definition_hebrew": "מכונה אוטונומית או נשלטת מרחוק",
+                "example": "A drone is a type of robot controlled remotely to perform various tasks such as aerial photography or surveillance.",
+                "example_hebrew": "מזל\"ט הוא סוג של רובוט הנשלט מרחוק לביצוע משימות שונות כמו צילום אוויר או מעקב."
+            },
+            {
+                "definition": "Historical Robots in Popular Culture",
+                "definition_hebrew": "רובוטים היסטוריים בתרבות פופולרית",
+                "example": "In the 1920s, the RCA Phonofile 'The Robot' became a popular example of an early depiction of a robotic character in film.",
+                "example_hebrew": "בשנות ה-20, ה-RCA Phonofile 'The Robot' הפך לדוגמא פופולרית לתיאור מוקדם של דמות רובוטית בסרט."
+            },
+            {
+                "definition": "Metaphorical Usage",
+                "definition_hebrew": "שימוש מטפורי",
+                "example": "She felt like she was being treated as a 'robot', having no choice but to follow orders without questioning them.",
+                "example_hebrew": "היא הרגישה כאילו מתייחסים אליה כאל 'רובוט', שאין ברירה אלא למלא אחר פקודות מבלי להטיל ספק בהן."
+            }
+        ]
+    }
+]

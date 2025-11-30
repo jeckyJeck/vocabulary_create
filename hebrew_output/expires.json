@@ -1,0 +1,40 @@
+[
+    {
+        "word": "expires",
+        "word_hebrew": "יפוג",
+        "main_definition": "To reach the end of its validity, usefulness, or duration.",
+        "main_definition_hebrew": "להגיע לסוף התוקף, התועלת או משך הזמן שלו.",
+        "meanings_and_examples": [
+            {
+                "definition": "The end of a deadline or due date",
+                "definition_hebrew": "סוף מועד אחרון או תאריך יעד",
+                "example": "My library book expires in two weeks.",
+                "example_hebrew": "ספר הספרייה שלי יפוג בעוד שבועיים."
+            },
+            {
+                "definition": "When an insurance policy's validity ends",
+                "definition_hebrew": "כאשר מסתיים תוקף פוליסת ביטוח",
+                "example": "Our health insurance plan will expire at the end of this year.",
+                "example_hebrew": "תוכנית ביטוח הבריאות שלנו תסתיים בסוף השנה הנוכחית."
+            },
+            {
+                "definition": "The end of a legal document or contract's effective period",
+                "definition_hebrew": "סוף תקופת תוקף של מסמך משפטי או חוזה",
+                "example": "The lease agreement expires on September 30th.",
+                "example_hebrew": "הסכם השכירות מסתיים ב-30 בספטמבר."
+            },
+            {
+                "definition": "When a product, like food or medicine, is no longer usable due to deterioration",
+                "definition_hebrew": "כאשר מוצר, כמו מזון או תרופה, אינו בר שימוש עקב הידרדרות",
+                "example": "These cookies have expired and should not be eaten.",
+                "example_hebrew": "פג תוקף העוגיות הללו ואסור לאכול אותן."
+            },
+            {
+                "definition": "The end of the validity period for an airline ticket",
+                "definition_hebrew": "תום תקופת התוקף של כרטיס טיסה",
+                "example": "My plane ticket has three days left until it expires.",
+                "example_hebrew": "לכרטיס הטיסה שלי נותרו שלושה ימים עד שתוקפו יפוג."
+            }
+        ]
+    }
+]

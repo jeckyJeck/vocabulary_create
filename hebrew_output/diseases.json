@@ -1,0 +1,34 @@
+[
+    {
+        "word": "diseases",
+        "word_hebrew": "מחלות",
+        "main_definition": "Diseases refer to abnormal conditions that negatively affect the health of living organisms, particularly humans.",
+        "main_definition_hebrew": "מחלות מתייחסות למצבים חריגים המשפיעים לרעה על בריאותם של אורגניזמים חיים, במיוחד בני אדם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Specific medical conditions with identifiable causes and symptoms.",
+                "definition_hebrew": "מצבים רפואיים ספציפיים עם סיבות ותסמינים שניתן לזהות.",
+                "example": "Common diseases include diabetes, influenza, and hypertension.",
+                "example_hebrew": "מחלות נפוצות כוללות סוכרת, שפעת ויתר לחץ דם."
+            },
+            {
+                "definition": "General term for any illness or disorder affecting the normal function of an organism's body parts.",
+                "definition_hebrew": "מונח כללי לכל מחלה או הפרעה המשפיעים על התפקוד התקין של חלקי הגוף של האורגניזם.",
+                "example": "Insects are susceptible to various diseases like blight or viral infections.",
+                "example_hebrew": "חרקים רגישים למחלות שונות כמו דלקת או זיהומים ויראליים."
+            },
+            {
+                "definition": "Ailments that can spread from one person to another, often contagious.",
+                "definition_hebrew": "מחלות שעלולות להתפשט מאדם אחד למשנהו, לרוב מדבקות.",
+                "example": "COVID-19 is a highly infectious disease affecting people worldwide.",
+                "example_hebrew": "COVID-19 היא מחלה זיהומית מאוד הפוגעת באנשים ברחבי העולם."
+            },
+            {
+                "definition": "Non-contagious diseases caused by lifestyle or environmental factors.",
+                "definition_hebrew": "מחלות לא מדבקות הנגרמות מאורח חיים או גורמים סביבתיים.",
+                "example": "Type 2 diabetes can result from obesity and poor nutrition.",
+                "example_hebrew": "סוכרת מסוג 2 יכולה לנבוע מהשמנה ותזונה לקויה."
+            }
+        ]
+    }
+]

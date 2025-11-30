@@ -1,0 +1,28 @@
+[
+    {
+        "word": "url",
+        "word_hebrew": "כתובת אתר",
+        "main_definition": "A Uniform Resource Locator (URL) is a reference or address that specifies the location of a resource, such as web page, file, or data on the internet.",
+        "main_definition_hebrew": "מאתר משאבים אחיד (URL) הוא הפניה או כתובת המציינת את המיקום של משאב, כגון דף אינטרנט, קובץ או נתונים באינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Internet Address",
+                "definition_hebrew": "כתובת אינטרנט",
+                "example": "The URL 'https://www.google.com' is an Internet address that allows users to access Google's homepage.",
+                "example_hebrew": "כתובת האתר 'https://www.google.com' היא כתובת אינטרנט המאפשרת למשתמשים לגשת לדף הבית של Google."
+            },
+            {
+                "definition": "Web Page Identifier",
+                "definition_hebrew": "מזהה דף אינטרנט",
+                "example": "When you click on a link, the web page identifier in the URL directs your browser to display that specific webpage.",
+                "example_hebrew": "כאשר אתה לוחץ על קישור, מזהה דף האינטרנט בכתובת האתר מפנה את הדפדפן שלך להציג את דף האינטרנט הספציפי הזה."
+            },
+            {
+                "definition": "File Path or Resource Location",
+                "definition_hebrew": "נתיב קובץ או מיקום משאב",
+                "example": "The file 'data.csv' located at 'https://www.samplewebsite.com/files/data.csv' can be accessed using its URL.",
+                "example_hebrew": "ניתן לגשת לקובץ 'data.csv' שנמצא בכתובת 'https://www.samplewebsite.com/files/data.csv' באמצעות כתובת האתר שלו."
+            }
+        ]
+    }
+]

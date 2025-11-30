@@ -1,0 +1,28 @@
+[
+    {
+        "word": "acm",
+        "word_hebrew": "acm",
+        "main_definition": "ACM stands for Association for Computing Machinery, a prestigious professional organization dedicated to computing sciences.",
+        "main_definition_hebrew": "ACM ראשי תיבות של Association for Computing Machinery, ארגון מקצועי יוקרתי המוקדש למדעי המחשוב.",
+        "meanings_and_examples": [
+            {
+                "definition": "Advanced Complexity Measurement (ACM) is an approach used in computer science to assess the complexity and efficiency of algorithms.",
+                "definition_hebrew": "מדידת מורכבות מתקדמת (ACM) היא גישה המשמשת במדעי המחשב כדי להעריך את המורכבות והיעילות של אלגוריתמים.",
+                "example": "The ACM algorithm for sorting large datasets efficiently reduced processing time by 50%.",
+                "example_hebrew": "אלגוריתם ACM למיון מערכי נתונים גדולים הפחית ביעילות את זמן העיבוד ב-50%."
+            },
+            {
+                "definition": "Automated Computer Manufacturing (ACM) refers to the process where computers are produced using automation technology.",
+                "definition_hebrew": "ייצור מחשבים אוטומטי (ACM) מתייחס לתהליך שבו מחשבים מיוצרים באמצעות טכנולוגיית אוטומציה.",
+                "example": "TechCorp's ACM line of laptops utilizes robotic arms for precise component placement during assembly.",
+                "example_hebrew": "קו ACM של מחשבים ניידים של TechCorp משתמש בזרועות רובוטיות למיקום מדויק של רכיבים במהלך ההרכבה."
+            },
+            {
+                "definition": "Academic Computer Management (ACM) is the administration and oversight of computer resources within an educational institution.",
+                "definition_hebrew": "ניהול מחשבים אקדמי (ACM) הוא ניהול ופיקוח על משאבי מחשב במוסד חינוכי.",
+                "example": "The university's ACM department handles student access to online learning platforms and IT support services.",
+                "example_hebrew": "מחלקת ACM של האוניברסיטה מטפלת בגישה לסטודנטים לפלטפורמות למידה מקוונות ולשירותי תמיכה ב-IT."
+            }
+        ]
+    }
+]

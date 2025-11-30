@@ -1,0 +1,34 @@
+[
+    {
+        "word": "waste",
+        "word_hebrew": "בזבוז",
+        "main_definition": "To use or expend (a resource such as time, money, or energy) carelessly, extravadely, or to no purpose.",
+        "main_definition_hebrew": "להשתמש או לבזבז (משאב כגון זמן, כסף או אנרגיה) ברשלנות, באופן אקראי או ללא מטרה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Using resources without regard for their value or potential utility",
+                "definition_hebrew": "שימוש במשאבים ללא התחשבות בערכם או בתועלתם הפוטנציאלית",
+                "example": "Throwing away perfectly good food is a waste.",
+                "example_hebrew": "לזרוק אוכל טוב לחלוטין זה בזבוז."
+            },
+            {
+                "definition": "Spending time unnecessarily or without achieving the intended result",
+                "definition_hebrew": "הוצאת זמן שלא לצורך או מבלי להשיג את התוצאה המיועדת",
+                "example": "He wasted hours trying to fix his computer, but still couldn't get it working.",
+                "example_hebrew": "הוא בזבז שעות בניסיון לתקן את המחשב שלו, אבל עדיין לא הצליח לגרום לו לעבוד."
+            },
+            {
+                "definition": "Using up resources in a way that is considered unproductive or irresponsible",
+                "definition_hebrew": "ניצול משאבים באופן שנחשב לא פרודוקטיבי או חסר אחריות",
+                "example": "The factory was producing so much waste that it wasn't economical to continue operating at such high levels of consumption.",
+                "example_hebrew": "המפעל ייצר כל כך הרבה פסולת שלא היה כלכלי להמשיך לפעול ברמות צריכה כה גבוהות."
+            },
+            {
+                "definition": "Having little worth, value, or importance; futile",
+                "definition_hebrew": "בעל ערך, ערך או חשיבות מועט; חֲסַר תוֹעֶלֶת",
+                "example": "Donating an old pair of shoes with holes in them would be a waste of time and resources.",
+                "example_hebrew": "תרומה של זוג נעליים ישנות עם חורים בהן תהיה בזבוז זמן ומשאבים."
+            }
+        ]
+    }
+]

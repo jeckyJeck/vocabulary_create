@@ -1,0 +1,28 @@
+[
+    {
+        "word": "stat",
+        "word_hebrew": "סטט",
+        "main_definition": "To act or report quickly, without delay, often based on the latest information or news.",
+        "main_definition_hebrew": "לפעול או לדווח במהירות, ללא דיחוי, לעתים קרובות בהתבסס על המידע או החדשות העדכניות ביותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Urgent action or immediate attention",
+                "definition_hebrew": "פעולה דחופה או טיפול מיידי",
+                "example": "The doctor told me to call her as stat if my condition worsens.",
+                "example_hebrew": "הרופא אמר לי להתקשר אליה כסטט אם מצבי מחמיר."
+            },
+            {
+                "definition": "Immediate reporting of news or information",
+                "definition_hebrew": "דיווח מיידי של חדשות או מידע",
+                "example": "When the CEO left, his assistant called the press in stat to provide an update.",
+                "example_hebrew": "כשהמנכ\"ל עזב, עוזרו התקשר לעיתונות בסטטיסטיקה כדי לספק עדכון."
+            },
+            {
+                "definition": "Involving a direct phone line for urgent communication",
+                "definition_hebrew": "כרוך בקו טלפון ישיר לתקשורת דחופה",
+                "example": "The hospital's emergency department has a stat line for patients needing immediate care.",
+                "example_hebrew": "למחלקת המיון של בית החולים יש קו סטטיסטי למטופלים הזקוקים לטיפול מיידי."
+            }
+        ]
+    }
+]

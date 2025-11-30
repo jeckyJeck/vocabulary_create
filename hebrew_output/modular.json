@@ -1,0 +1,34 @@
+[
+    {
+        "word": "modular",
+        "word_hebrew": "מודולרי",
+        "main_definition": "Relating to or consisting of separate parts that can be connected or combined in different ways.",
+        "main_definition_hebrew": "קשור או מורכב מחלקים נפרדים שניתן לחבר או לשלב בדרכים שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In design and architecture, referring to a structure composed of self-contained units or sections that are interchangeable.",
+                "definition_hebrew": "בעיצוב ובאדריכלות, הכוונה למבנה המורכב מיחידות עצמאיות או מקטעים הניתנים להחלפה.",
+                "example": "The building's modular design allowed for easy expansion as new rooms were needed.",
+                "example_hebrew": "העיצוב המודולרי של הבניין איפשר הרחבה קלה מכיוון שהיה צורך בחדרים חדשים."
+            },
+            {
+                "definition": "In technology and electronics, describing components that can be easily replaced or connected to other parts independently.",
+                "definition_hebrew": "בטכנולוגיה ואלקטרוניקה, מתאר רכיבים שניתן להחליף בקלות או לחבר לחלקים אחרים באופן עצמאי.",
+                "example": "Modular smartphones allow users to replace individual modules like camera lenses or batteries for upgrades.",
+                "example_hebrew": "סמארטפונים מודולריים מאפשרים למשתמשים להחליף מודולים בודדים כמו עדשות מצלמה או סוללות לצורך שדרוגים."
+            },
+            {
+                "definition": "In software development, it refers to a programming approach where separate components of a program are developed and tested individually before being integrated.",
+                "definition_hebrew": "בפיתוח תוכנה, זה מתייחס לגישת תכנות שבה רכיבים נפרדים של תוכנית מפותחים ונבדקים בנפרד לפני שילובם.",
+                "example": "The modular design of the application made it easier to debug and maintain individual features without affecting others.",
+                "example_hebrew": "העיצוב המודולרי של האפליקציה הקל על ניפוי באגים ותחזוקה של תכונות בודדות מבלי להשפיע על אחרים."
+            },
+            {
+                "definition": "When referring to teaching, it means breaking down complex information into smaller parts that can be taught independently.",
+                "definition_hebrew": "כאשר מתייחסים להוראה, המשמעות היא פירוק מידע מורכב לחלקים קטנים יותר שניתן ללמד באופן עצמאי.",
+                "example": "A modular syllabus divided each unit of the course into self-contained topics for easier understanding and memorization.",
+                "example_hebrew": "סילבוס מודולרי חילק כל יחידה בקורס לנושאים עצמאיים להבנה ושינון קל יותר."
+            }
+        ]
+    }
+]

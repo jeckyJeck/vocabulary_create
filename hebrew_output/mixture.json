@@ -1,0 +1,34 @@
+[
+    {
+        "word": "mixture",
+        "word_hebrew": "תַעֲרוֹבֶת",
+        "main_definition": "A combination of different substances or elements that are blended together.",
+        "main_definition_hebrew": "שילוב של חומרים או יסודות שונים המעורבבים יחדיו.",
+        "meanings_and_examples": [
+            {
+                "definition": "In cooking, a mixture refers to ingredients combined together in various recipes.",
+                "definition_hebrew": "בבישול, תערובת מתייחסת למרכיבים המשולבים יחדיו במתכונים שונים.",
+                "example": "The cake batter is a mixture of flour, sugar, eggs, and butter.",
+                "example_hebrew": "בלילת העוגה היא תערובת של קמח, סוכר, ביצים וחמאה."
+            },
+            {
+                "definition": "In chemistry, a mixture describes two or more substances that are physically blended but not chemically bonded.",
+                "definition_hebrew": "בכימיה, תערובת מתארת שניים או יותר חומרים המעורבבים פיזית אך אינם קשורים כימית.",
+                "example": "Air is a mixture of nitrogen, oxygen, carbon dioxide, and other gases.",
+                "example_hebrew": "אוויר הוא תערובת של חנקן, חמצן, פחמן דו חמצני וגזים אחרים."
+            },
+            {
+                "definition": "In language, a mixture refers to the combination of different languages or dialects in speech.",
+                "definition_hebrew": "בשפה, תערובת מתייחסת לשילוב של שפות או ניבים שונים בדיבור.",
+                "example": "Code-switching between English and Spanish during a conversation is an example of linguistic mixture.",
+                "example_hebrew": "החלפת קוד בין אנגלית לספרדית במהלך שיחה היא דוגמה לתערובת לשונית."
+            },
+            {
+                "definition": "Financial context, where money from various sources is combined together.",
+                "definition_hebrew": "הקשר פיננסי, שבו כסף ממקורות שונים משולב יחד.",
+                "example": "Diversifying investments by mixing stocks, bonds, and real estate can help reduce risk.",
+                "example_hebrew": "גיוון השקעות על ידי ערבוב מניות, אג\"ח ונדל\"ן יכול לעזור להפחית את הסיכון."
+            }
+        ]
+    }
+]

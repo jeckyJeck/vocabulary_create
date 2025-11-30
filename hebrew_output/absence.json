@@ -1,0 +1,40 @@
+[
+    {
+        "word": "absence",
+        "word_hebrew": "הֶעְדֵר",
+        "main_definition": "The state or fact of not being present, or the lack or non-existence of something.",
+        "main_definition_hebrew": "המצב או העובדה של אי נוכחות, או היעדר או אי קיום של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not being physically present in a location",
+                "definition_hebrew": "לא להיות נוכח פיזית במקום",
+                "example": "I felt her absence keenly when she left for college.",
+                "example_hebrew": "הרגשתי את היעדרה עז כשעזבה לקולג'."
+            },
+            {
+                "definition": "The state or fact of something not existing or being absent from a place or situation",
+                "definition_hebrew": "מצב או עובדה של משהו שאינו קיים או נעדר ממקום או מצב",
+                "example": "The absence of rain has made the soil extremely dry.",
+                "example_hebrew": "היעדר גשם הפך את האדמה ליובשת ביותר."
+            },
+            {
+                "definition": "A period during which someone is unavailable due to travel, work commitments etc.",
+                "definition_hebrew": "תקופה שבה מישהו אינו זמין עקב נסיעות, התחייבויות לעבודה וכו'.",
+                "example": "Her absence at the meeting was unexpected as she had informed everyone in advance about her trip.",
+                "example_hebrew": "היעדרותה בפגישה הייתה בלתי צפויה שכן היא הודיעה לכולם מראש על נסיעתה."
+            },
+            {
+                "definition": "The feeling of sadness or loneliness caused by something that's missing",
+                "definition_hebrew": "תחושת העצב או הבדידות הנגרמת על ידי משהו שחסר",
+                "example": "The absence of his father left a void in John's heart.",
+                "example_hebrew": "היעדרו של אביו הותיר חלל בלבו של ג'ון."
+            },
+            {
+                "definition": "A situation where there is an unfilled position, like a job vacancy",
+                "definition_hebrew": "מצב שבו יש משרה לא מאוישת, כמו משרה פנויה",
+                "example": "Due to the lack of experienced staff, we have several absences on our team.",
+                "example_hebrew": "בשל היעדר צוות מנוסה, יש לנו מספר היעדרויות בצוות שלנו."
+            }
+        ]
+    }
+]

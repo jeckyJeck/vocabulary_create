@@ -1,0 +1,34 @@
+[
+    {
+        "word": "recipes",
+        "word_hebrew": "מתכונים",
+        "main_definition": "Recipes are detailed instructions that guide the preparation of a particular dish or beverage.",
+        "main_definition_hebrew": "מתכונים הם הוראות מפורטות המנחות את ההכנה של מנה או משקה מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Culinary recipes",
+                "definition_hebrew": "מתכונים קולינריים",
+                "example": "Grandma's apple pie recipe includes specific measurements and steps for making a delicious dessert.",
+                "example_hebrew": "המתכון של פאי תפוחים של סבתא כולל מידות ספציפיות ושלבים להכנת קינוח טעים."
+            },
+            {
+                "definition": "Metaphorical recipes",
+                "definition_hebrew": "מתכונים מטפוריים",
+                "example": "Following the recipe to success in business means having a clear plan of action with precise instructions.",
+                "example_hebrew": "מעקב אחר המתכון להצלחה בעסק פירושו תוכנית פעולה ברורה עם הנחיות מדויקות."
+            },
+            {
+                "definition": "Scientific or technical recipes",
+                "definition_hebrew": "מתכונים מדעיים או טכניים",
+                "example": "The chemical formula for creating water is H2O, which can be referred to as a scientific recipe for water synthesis.",
+                "example_hebrew": "הנוסחה הכימית ליצירת מים היא H2O, שניתן להתייחס אליה כמתכון מדעי לסינתזת מים."
+            },
+            {
+                "definition": "Algorithmic instructions",
+                "definition_hebrew": "הוראות אלגוריתמיות",
+                "example": "A computer algorithm that calculates the best route to take when traveling through a city could metaphorically be called a 'recipe'.",
+                "example_hebrew": "אלגוריתם מחשב שמחשב את המסלול הטוב ביותר לקחת בעת נסיעה בעיר יכול להיקרא באופן מטפורי 'מתכון'."
+            }
+        ]
+    }
+]

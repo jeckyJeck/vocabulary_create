@@ -1,0 +1,28 @@
+[
+    {
+        "word": "branch",
+        "word_hebrew": "ענף",
+        "main_definition": "Branch can refer to a part of a tree, an alternative path in decision-making or action, and figuratively describe different aspects or divisions within an organization.",
+        "main_definition_hebrew": "סניף יכול להתייחס לחלק מעץ, נתיב חלופי בקבלת החלטות או פעולה, ולתאר באופן פיגורטיבי היבטים או חלוקות שונות בתוך ארגון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Part of a tree",
+                "definition_hebrew": "חלק מעץ",
+                "example": "The oak branch broke when the child climbed it.",
+                "example_hebrew": "ענף האלון נשבר כשהילד טיפס עליו."
+            },
+            {
+                "definition": "Alternative path in decision-making or action",
+                "definition_hebrew": "דרך חלופית בקבלת החלטות או בפעולה",
+                "example": "She considered taking a different branch by starting her own business instead of working for someone else.",
+                "example_hebrew": "היא שקלה לקחת סניף אחר על ידי פתיחת עסק משלה במקום לעבוד עבור מישהו אחר."
+            },
+            {
+                "definition": "Different divisions within an organization",
+                "definition_hebrew": "חטיבות שונות בתוך ארגון",
+                "example": "The company has several branches, including one in New York and another in Los Angeles.",
+                "example_hebrew": "לחברה מספר סניפים, ביניהם אחד בניו יורק ואחר בלוס אנג'לס."
+            }
+        ]
+    }
+]

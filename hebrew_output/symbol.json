@@ -1,0 +1,40 @@
+[
+    {
+        "word": "symbol",
+        "word_hebrew": "סֵמֶל",
+        "main_definition": "A symbol is a visual or abstract representation that signifies something else, often an idea, concept, or object.",
+        "main_definition_hebrew": "סמל הוא ייצוג חזותי או מופשט המסמל משהו אחר, לעתים קרובות רעיון, מושג או אובייקט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Representation of an idea or quality",
+                "definition_hebrew": "ייצוג של רעיון או איכות",
+                "example": "The heart shape is a common symbol for love and affection.",
+                "example_hebrew": "צורת הלב היא סמל נפוץ לאהבה וחיבה."
+            },
+            {
+                "definition": "Object representing something else",
+                "definition_hebrew": "אובייקט המייצג משהו אחר",
+                "example": "A dove often represents peace in various cultures.",
+                "example_hebrew": "יונה מייצגת לעתים קרובות שלום בתרבויות שונות."
+            },
+            {
+                "definition": "Signifier of an abstract concept or principle",
+                "definition_hebrew": "מסמן של מושג או עקרון מופשט",
+                "example": "The scales symbolize justice and fairness.",
+                "example_hebrew": "המאזניים מסמלים צדק והגינות."
+            },
+            {
+                "definition": "Emblematic representation used to communicate a message non-verbally",
+                "definition_hebrew": "ייצוג סמלי המשמש להעברת מסר באופן לא מילולי",
+                "example": "A red cross is a symbol commonly recognized as signifying medical aid and assistance.",
+                "example_hebrew": "צלב אדום הוא סמל המוכר בדרך כלל כמסמל סיוע וסיוע רפואי."
+            },
+            {
+                "definition": "Indicator or marker within a system of signs",
+                "definition_hebrew": "מחוון או סמן בתוך מערכת שלטים",
+                "example": "In mathematics, the Greek letter 'sigma' (Σ) is used to represent summation.",
+                "example_hebrew": "במתמטיקה, האות היוונית 'סיגמה' (Σ) משמשת לייצוג סיכום."
+            }
+        ]
+    }
+]

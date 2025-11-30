@@ -1,0 +1,34 @@
+[
+    {
+        "word": "federal",
+        "word_hebrew": "פדרלי",
+        "main_definition": "Relating to a system of government in which power is divided between a central authority and constituent political units.",
+        "main_definition_hebrew": "מתייחס לשיטת ממשל שבה הכוח מתחלק בין רשות מרכזית ליחידות פוליטיות מכוננות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Pertaining to the federal or national level of government, as opposed to state or local governments.",
+                "definition_hebrew": "הנוגע לרמת הממשל הפדרלית או הלאומית, בניגוד לממשלות מדינתיות או מקומיות.",
+                "example": "The Federal Government passed new regulations affecting all states.",
+                "example_hebrew": "הממשלה הפדרלית העבירה תקנות חדשות המשפיעות על כל המדינות."
+            },
+            {
+                "definition": "Involving a union of separate and independent political units that are united by some form of shared authority, typically under one national government.",
+                "definition_hebrew": "כרוך באיחוד של יחידות פוליטיות נפרדות ועצמאיות המאוחדות על ידי צורה כלשהי של סמכות משותפת, בדרך כלל תחת ממשלה לאומית אחת.",
+                "example": "The United States is a federal system with 50 states and a central government.",
+                "example_hebrew": "ארצות הברית היא מערכת פדרלית עם 50 מדינות וממשל מרכזי."
+            },
+            {
+                "definition": "Describing something (such as laws or regulations) that applies to all the member countries in an alliance, such as NATO or the European Union.",
+                "definition_hebrew": "תיאור משהו (כגון חוקים או תקנות) החל על כל המדינות החברות בברית, כגון נאט\"ו או האיחוד האירופי.",
+                "example": "The EU's General Data Protection Regulation is a federal standard for data privacy.",
+                "example_hebrew": "תקנת הגנת הנתונים הכללית של האיחוד האירופי היא תקן פדרלי לפרטיות נתונים."
+            },
+            {
+                "definition": "Relating to a collective body of officials or employees that serve at various levels of government, such as federal agencies and departments.",
+                "definition_hebrew": "מתייחס לגוף קולקטיבי של פקידים או עובדים המשרתים ברמות ממשל שונות, כגון סוכנויות ומחלקות פדרליות.",
+                "example": "The Department of Defense employs thousands of federal civilian personnel.",
+                "example_hebrew": "משרד ההגנה מעסיק אלפי עובדים אזרחיים פדרליים."
+            }
+        ]
+    }
+]

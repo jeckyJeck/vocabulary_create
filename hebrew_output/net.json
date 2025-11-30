@@ -1,0 +1,40 @@
+[
+    {
+        "word": "net",
+        "word_hebrew": "נֶטוֹ",
+        "main_definition": "A net is a flexible, usually fabric-like material made of fibers woven or knotted together with openings that are used to catch, hold, or enclose objects.",
+        "main_definition_hebrew": "רשת היא חומר גמיש, בדרך כלל דמוי בד, העשוי מסיבים ארוגים או קשורים יחד עם פתחים המשמשים לתפוס, להחזיק או לסגור חפצים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To catch or trap something",
+                "definition_hebrew": "לתפוס או ללכוד משהו",
+                "example": "The fisherman cast his net into the water to catch fish.",
+                "example_hebrew": "הדייג השליך את הרשת שלו למים כדי לתפוס דגים."
+            },
+            {
+                "definition": "Total of all items, after deductions have been made",
+                "definition_hebrew": "סך כל הפריטים, לאחר ניכויים",
+                "example": "At the end of the month, their total income was $2000; this is what they called their 'net' earnings.",
+                "example_hebrew": "בסוף החודש, סך הכנסתם היה 2000 דולר; זה מה שהם כינו את הרווחים 'נטו' שלהם."
+            },
+            {
+                "definition": "A small net used for cleaning teeth or catching insects",
+                "definition_hebrew": "רשת קטנה המשמשת לניקוי שיניים או לתפיסת חרקים",
+                "example": "He used a dental floss to clean his teeth and a small handheld net to catch flies.",
+                "example_hebrew": "הוא השתמש בחוט דנטלי כדי לנקות את שיניו וברשת כף יד קטנה כדי לתפוס זבובים."
+            },
+            {
+                "definition": "Interconnected network of computers, devices, or people",
+                "definition_hebrew": "רשת מקושרת של מחשבים, מכשירים או אנשים",
+                "example": "She was able to send the message quickly thanks to her smartphone's connection to the internet 'net'.",
+                "example_hebrew": "היא הצליחה לשלוח את ההודעה במהירות הודות לחיבור הסמארטפון שלה ל'רשת' האינטרנט."
+            },
+            {
+                "definition": "The difference between income and expenditure",
+                "definition_hebrew": "ההבדל בין הכנסה להוצאות",
+                "example": "His net savings for this year were $500, meaning he saved $500 after paying all his bills.",
+                "example_hebrew": "החיסכון נטו שלו לשנה זו היה 500 דולר, כלומר הוא חסך 500 דולר לאחר ששילם את כל החשבונות שלו."
+            }
+        ]
+    }
+]

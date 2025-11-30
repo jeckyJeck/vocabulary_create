@@ -1,0 +1,28 @@
+[
+    {
+        "word": "concepts",
+        "word_hebrew": "מושגים",
+        "main_definition": "Concepts are abstract ideas, thoughts or principles that represent a general understanding of something.",
+        "main_definition_hebrew": "מושגים הם רעיונות מופשטים, מחשבות או עקרונות המייצגים הבנה כללית של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "General mental constructs representing the fundamental building blocks of knowledge and thought",
+                "definition_hebrew": "מבנים מנטליים כלליים המייצגים את אבני הבניין הבסיסיות של ידע ומחשבה",
+                "example": "Understanding the concept of gravity is essential for learning about how objects move in space.",
+                "example_hebrew": "הבנת מושג הכבידה חיונית ללמידה על איך חפצים נעים בחלל."
+            },
+            {
+                "definition": "A set or group of related ideas, theories or beliefs that form a coherent whole",
+                "definition_hebrew": "קבוצה או קבוצה של רעיונות, תיאוריות או אמונות קשורות היוצרות שלם קוהרנטי",
+                "example": "The concept of democracy encompasses various principles such as freedom of speech and equality before the law.",
+                "example_hebrew": "מושג הדמוקרטיה מקיף עקרונות שונים כמו חופש הביטוי ושוויון בפני החוק."
+            },
+            {
+                "definition": "Abstract notions used to describe an idea or principle in language, often forming part of idiomatic expressions",
+                "definition_hebrew": "מושגים מופשטים המשמשים לתיאור רעיון או עיקרון בשפה, לעתים קרובות מהווים חלק מביטויים אידיומטיים",
+                "example": "She had a lot of concepts on how to improve her business but struggled with implementation.",
+                "example_hebrew": "היו לה הרבה מושגים כיצד לשפר את העסק שלה, אבל התקשתה עם היישום."
+            }
+        ]
+    }
+]

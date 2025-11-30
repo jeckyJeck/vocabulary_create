@@ -1,0 +1,34 @@
+[
+    {
+        "word": "election",
+        "word_hebrew": "בְּחִירָה",
+        "main_definition": "A process of choosing a person or group of people for a position by voting.",
+        "main_definition_hebrew": "תהליך של בחירת אדם או קבוצת אנשים לתפקיד באמצעות הצבעה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of selecting someone for an office, such as president or parliament member, through voting.",
+                "definition_hebrew": "הפעולה של בחירת מישהו לתפקיד, כגון נשיא או חבר פרלמנט, באמצעות הצבעה.",
+                "example": "The citizens are preparing to participate in the election to choose their new leader.",
+                "example_hebrew": "האזרחים מתכוננים להשתתף בבחירות כדי לבחור את המנהיג החדש שלהם."
+            },
+            {
+                "definition": "A vote taken by a group to decide which option is preferred among several choices.",
+                "definition_hebrew": "הצבעה של קבוצה כדי להחליט איזו אפשרות מועדפת מבין מספר אפשרויות.",
+                "example": "At the meeting, members had an election on whether to adopt a new policy or not.",
+                "example_hebrew": "באסיפה נערכו בחירות לחברים האם לאמץ מדיניות חדשה או לא."
+            },
+            {
+                "definition": "The process of holding a vote in order for people to make a decision about something.",
+                "definition_hebrew": "תהליך עריכת הצבעה כדי שאנשים יקבלו החלטה לגבי משהו.",
+                "example": "A referendum was held as an election to determine if there should be a change in the law.",
+                "example_hebrew": "משאל עם נערך כבחירות כדי לקבוע אם יש לשנות את החוק."
+            },
+            {
+                "definition": "An opportunity given by a company or organization to decide on promotions, raises, and other changes.",
+                "definition_hebrew": "הזדמנות שניתנת על ידי חברה או ארגון להחליט על קידום, העלאות ושינויים אחרים.",
+                "example": "The annual staff elections were announced for determining who would receive a bonus this year.",
+                "example_hebrew": "הבחירות השנתיות לצוות הוכרזו לצורך קביעה מי יקבל השנה בונוס."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "counties",
+        "word_hebrew": "מחוזות",
+        "main_definition": "Counties are administrative divisions in many countries, typically larger than cities or towns but smaller than states.",
+        "main_definition_hebrew": "מחוזות הם חטיבות אדמיניסטרטיביות במדינות רבות, בדרך כלל גדולות יותר מערים או עיירות אך קטנות יותר ממדינות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Administrative division of a state",
+                "definition_hebrew": "חלוקה מנהלית של מדינה",
+                "example": "California has 58 counties that serve as the primary form of local government.",
+                "example_hebrew": "לקליפורניה יש 58 מחוזות המשמשים כצורת השלטון המקומי העיקרי."
+            },
+            {
+                "definition": "Geographical area covered by county services",
+                "definition_hebrew": "אזור גיאוגרפי המכוסה על ידי שירותי המחוז",
+                "example": "The city's water department operates across all unincorporated areas within its corresponding county.",
+                "example_hebrew": "מחלקת המים של העיר פועלת בכל האזורים הלא מאוגדים במחוז המקביל לה."
+            },
+            {
+                "definition": "Local political subdivision in the United States",
+                "definition_hebrew": "חלוקה פוליטית מקומית בארצות הברית",
+                "example": "In Florida, each of the 67 counties has a commission or board that governs local affairs.",
+                "example_hebrew": "בפלורידה, לכל אחד מ-67 המחוזות יש ועדה או מועצת המנהלים שמנהלת את העניינים המקומיים."
+            },
+            {
+                "definition": "Historical term for an area with specific boundaries and functions",
+                "definition_hebrew": "כינוי היסטורי לאזור עם גבולות ותפקודים ספציפיים",
+                "example": "The English county system dates back to Anglo-Saxon times, where each county had its own court and sheriff.",
+                "example_hebrew": "שיטת המחוזות האנגלית מתוארכת לתקופת האנגלו-סכסית, שבה לכל מחוז היו בית משפט ושריף משלו."
+            }
+        ]
+    }
+]

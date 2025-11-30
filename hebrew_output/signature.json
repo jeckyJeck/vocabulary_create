@@ -1,0 +1,34 @@
+[
+    {
+        "word": "signature",
+        "word_hebrew": "חֲתִימָה",
+        "main_definition": "A person's name written in a distinctive way as a form of identification or authorization, often at the end of documents.",
+        "main_definition_hebrew": "שמו של אדם כתוב בצורה ייחודית כצורה של זיהוי או הרשאה, לעתים קרובות בסוף מסמכים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mark indicating ownership or approval",
+                "definition_hebrew": "סימון המציין בעלות או אישור",
+                "example": "John Smith signed his name on the contract to indicate he agreed with its terms.",
+                "example_hebrew": "ג'ון סמית חתם את שמו על החוזה כדי לציין שהוא מסכים לתנאיו."
+            },
+            {
+                "definition": "Unique personal identifier",
+                "definition_hebrew": "מזהה אישי ייחודי",
+                "example": "The author's signature is a unique pattern that distinguishes their work from others.",
+                "example_hebrew": "חתימתו של המחבר היא דפוס ייחודי המבדיל את יצירתם מאחרים."
+            },
+            {
+                "definition": "A person's name written in a distinctive way to authenticate documents or agreements",
+                "definition_hebrew": "שמו של אדם כתוב בצורה ייחודית לאימות מסמכים או הסכמים",
+                "example": "To complete the purchase, I need your signature on this receipt.",
+                "example_hebrew": "כדי להשלים את הרכישה, אני צריך את החתימה שלך על קבלה זו."
+            },
+            {
+                "definition": "An official mark used to verify the identity of an individual when signing a document",
+                "definition_hebrew": "סימן רשמי המשמש לאימות זהותו של אדם בעת חתימה על מסמך",
+                "example": "The government requires all citizens' signatures for legal documents like passports and driver's licenses.",
+                "example_hebrew": "הממשלה דורשת חתימות של כל האזרחים למסמכים משפטיים כמו דרכונים ורישיונות נהיגה."
+            }
+        ]
+    }
+]

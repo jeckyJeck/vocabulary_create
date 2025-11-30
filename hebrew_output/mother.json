@@ -1,0 +1,34 @@
+[
+    {
+        "word": "mother",
+        "word_hebrew": "אִמָא",
+        "main_definition": "Mother is a term that refers to the female parent of a child, someone who gives birth or raises a child.",
+        "main_definition_hebrew": "אמא היא מונח המתייחס להורה הנשי של ילד, מי שיולדת או מגדלת ילד.",
+        "meanings_and_examples": [
+            {
+                "definition": "The person from whom one's mother was descended",
+                "definition_hebrew": "האדם שממנו הייתה צאצאית אמו",
+                "example": "My grandmother is my mother's mother.",
+                "example_hebrew": "סבתא שלי היא אמא של אמא שלי."
+            },
+            {
+                "definition": "A term of endearment for a female parent or someone perceived as maternal in nature",
+                "definition_hebrew": "תקופת חיבה להורה נקבה או למישהו הנתפס כאימהי באופיו",
+                "example": "You are such a caring mother to your children.",
+                "example_hebrew": "את אמא כל כך אכפתית לילדים שלך."
+            },
+            {
+                "definition": "The origin of the idiom 'to have one's head in the clouds', referring to absent-mindedness often attributed to mothers",
+                "definition_hebrew": "מקורו של הניב 'להיות ראש בעננים', המתייחס לחוסר מוחין המיוחס לרוב לאמהות",
+                "example": "'She keeps forgetting appointments, like her mother used to.'",
+                "example_hebrew": "'היא כל הזמן שוכחת פגישות, כמו אמא שלה פעם'."
+            },
+            {
+                "definition": "An archaic or poetic term for a woman who is considered nurturing and protective",
+                "definition_hebrew": "מונח ארכאי או פואטי לאישה הנחשבת מטפחת ומגוננת",
+                "example": "'The village idiot was often looked upon as the elderly matron's son.'",
+                "example_hebrew": "\"לא פעם הסתכלו על אידיוט הכפר כבן של המטרונית הקשישה.\""
+            }
+        ]
+    }
+]

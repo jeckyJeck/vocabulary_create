@@ -1,0 +1,40 @@
+[
+    {
+        "word": "negative",
+        "word_hebrew": "שלילי",
+        "main_definition": "Negative refers to something that is opposite or unfavorable, such as a negative attitude, negative feedback, or the absence of positivity.",
+        "main_definition_hebrew": "שלילי מתייחס למשהו הפוך או לא חיובי, כגון גישה שלילית, משוב שלילי או היעדר חיוביות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Believing things are bad or harmful",
+                "definition_hebrew": "להאמין שדברים רעים או מזיקים",
+                "example": "She has a negative view of politics.",
+                "example_hebrew": "יש לה השקפה שלילית על פוליטיקה."
+            },
+            {
+                "definition": "An opposite to positive, not expressing approval or support",
+                "definition_hebrew": "הפוך לחיובי, לא מביע הסכמה או תמיכה",
+                "example": "The customer gave us negative feedback about our service.",
+                "example_hebrew": "הלקוח נתן לנו משוב שלילי על השירות שלנו."
+            },
+            {
+                "definition": "In mathematics and science, representing a value that is less than zero on the number line",
+                "definition_hebrew": "במתמטיקה ומדעים, מייצג ערך הקטן מאפס על קו המספרים",
+                "example": "A test score of 75 out of 100 would be considered negative in this context.",
+                "example_hebrew": "ציון מבחן של 75 מתוך 100 ייחשב שלילי בהקשר זה."
+            },
+            {
+                "definition": "An effect or reaction opposed to what was desired or intended",
+                "definition_hebrew": "השפעה או תגובה מנוגדת למה שהיה רצוי או נועד",
+                "example": "His illness had a negative impact on his work performance.",
+                "example_hebrew": "למחלתו הייתה השפעה שלילית על ביצועי עבודתו."
+            },
+            {
+                "definition": "In photography, the darkest part of an image where little light reaches",
+                "definition_hebrew": "בצילום, החלק האפל ביותר בתמונה שאליו מגיע מעט אור",
+                "example": "The shadows in this photograph are quite pronounced and dark, giving it a distinct negative look.",
+                "example_hebrew": "הצללים בתצלום הזה די בולטים וכהים, מה שמעניק לו מראה שלילי מובהק."
+            }
+        ]
+    }
+]

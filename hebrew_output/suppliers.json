@@ -1,0 +1,34 @@
+[
+    {
+        "word": "suppliers",
+        "word_hebrew": "ספקים",
+        "main_definition": "Suppliers are entities or individuals that provide goods, services, or resources to other businesses or consumers.",
+        "main_definition_hebrew": "ספקים הם ישויות או יחידים המספקים סחורות, שירותים או משאבים לעסקים או לצרכנים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Businesses that sell products or raw materials",
+                "definition_hebrew": "עסקים המוכרים מוצרים או חומרי גלם",
+                "example": "ABC Electronics is a supplier of smartphones and laptops to various retail stores.",
+                "example_hebrew": "ABC Electronics היא ספקית של סמארטפונים ומחשבים ניידים לחנויות קמעונאיות שונות."
+            },
+            {
+                "definition": "Companies providing specialized services to other businesses",
+                "definition_hebrew": "חברות המספקות שירותים מיוחדים לעסקים אחרים",
+                "example": "XYZ Logistics acts as a supplier by offering warehousing, packaging, and distribution services to e-commerce companies.",
+                "example_hebrew": "XYZ Logistics פועלת כספק על ידי מתן שירותי אחסנה, אריזה והפצה לחברות מסחר אלקטרוני."
+            },
+            {
+                "definition": "Entities that offer access to resources such as raw materials or components needed for production",
+                "definition_hebrew": "ישויות המציעות גישה למשאבים כגון חומרי גלם או רכיבים הדרושים לייצור",
+                "example": "Mega Metals provides iron ore supplies to several steel manufacturing companies.",
+                "example_hebrew": "מגה מתכות מספקת אספקת עפרות ברזל למספר חברות לייצור פלדה."
+            },
+            {
+                "definition": "Organizations supplying software, digital tools, or technology solutions",
+                "definition_hebrew": "ארגונים המספקים תוכנה, כלים דיגיטליים או פתרונות טכנולוגיים",
+                "example": "TechSolutions is a supplier of innovative software and tech services to small businesses and startups.",
+                "example_hebrew": "TechSolutions היא ספקית של תוכנה ושירותי טכנולוגיה חדשניים לעסקים קטנים ולסטארט-אפים."
+            }
+        ]
+    }
+]

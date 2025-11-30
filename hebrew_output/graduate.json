@@ -1,0 +1,34 @@
+[
+    {
+        "word": "graduate",
+        "word_hebrew": "בוגר",
+        "main_definition": "To complete a course of study at an educational institution, or to move from one level of knowledge or understanding to another.",
+        "main_definition_hebrew": "להשלים מסלול לימודים במוסד לימודים, או לעבור מרמת ידע או הבנה אחת לאחרת.",
+        "meanings_and_examples": [
+            {
+                "definition": "A person who has completed their studies at a college, university, or other higher education institution and received a diploma or degree",
+                "definition_hebrew": "אדם שסיים את לימודיו במכללה, אוניברסיטה או מוסד להשכלה גבוהה אחר וקיבל תעודה או תואר",
+                "example": "John recently graduated from Harvard University with a Bachelor's degree in Computer Science.",
+                "example_hebrew": "ג'ון סיים לאחרונה את לימודיו באוניברסיטת הרווארד עם תואר ראשון במדעי המחשב."
+            },
+            {
+                "definition": "To pass an examination that leads to the awarding of a degree or qualification after completing studies at an educational institution",
+                "definition_hebrew": "לעמוד בבחינה המובילה למתן תואר או הסמכה לאחר סיום לימודים במוסד חינוך",
+                "example": "After successfully passing her final exams, Sarah graduated from nursing school and earned her RN (Registered Nurse) certification.",
+                "example_hebrew": "לאחר שעברה בהצלחה את בחינות הגמר שלה, שרה סיימה את בית הספר לאחיות וקיבלה את הסמכת RN (אחות מוסמכת)."
+            },
+            {
+                "definition": "To move from one stage of learning or development to another; progressing in knowledge, skill, or experience",
+                "definition_hebrew": "לעבור משלב אחד של למידה או התפתחות לאחר; התקדמות בידע, מיומנות או ניסיון",
+                "example": "After years of practice and training, the musician was able to graduate from being an amateur guitarist to a professional concert performer.",
+                "example_hebrew": "לאחר שנים של תרגול והכשרה, הצליח המוזיקאי לסיים את לימודיו מגיטריסט חובב לאמן קונצרטים מקצועי."
+            },
+            {
+                "definition": "To complete requirements for a specific course or program within an educational institution",
+                "definition_hebrew": "להשלמת דרישות עבור קורס או תוכנית ספציפיים במוסד חינוכי",
+                "example": "James graduated with honors by completing all his required courses and achieving high grades throughout the semester.",
+                "example_hebrew": "ג'יימס סיים את לימודיו בהצטיינות על ידי השלמת כל קורסי החובה והשגת ציונים גבוהים לאורך הסמסטר."
+            }
+        ]
+    }
+]

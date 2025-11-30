@@ -1,0 +1,40 @@
+[
+    {
+        "word": "phi",
+        "word_hebrew": "פי",
+        "main_definition": "Phi is a Greek letter often used in mathematics, physics, and other fields as well as an idiomatic expression representing various meanings.",
+        "main_definition_hebrew": "פי היא אות יוונית המשמשת לעתים קרובות במתמטיקה, פיזיקה ותחומים אחרים, כמו גם ביטוי אידיומטי המייצג משמעויות שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The ninth letter of the Greek alphabet, equivalent to 'F' in the Latin alphabet.",
+                "definition_hebrew": "האות התשיעית באלפבית היווני, המקבילה ל'F' באלפבית הלטיני.",
+                "example": "'Phi' is commonly used in mathematics and physics as a symbol for certain constants.",
+                "example_hebrew": "'פי' משמש בדרך כלל במתמטיקה ובפיסיקה כסמל לקבועים מסוימים."
+            },
+            {
+                "definition": "Phi as an idiomatic expression meaning 'the golden ratio', which represents the perfect proportion or balance between two quantities.",
+                "definition_hebrew": "Phi כביטוי אידיומטי שמשמעותו 'יחס הזהב', המייצג את הפרופורציה או האיזון המושלם בין שתי כמויות.",
+                "example": "The dimensions of many ancient Greek buildings were based on the Phi, the golden ratio.",
+                "example_hebrew": "מידותיהם של מבנים יווניים עתיקים רבים התבססו על פי, יחס הזהב."
+            },
+            {
+                "definition": "Phi in the context of electrical engineering as a measure of reactance per unit length for transmission lines at a specific frequency.",
+                "definition_hebrew": "Phi בהקשר של הנדסת חשמל כמדד של תגובתיות ליחידת אורך עבור קווי תמסורת בתדר מסוים.",
+                "example": "'Phase' or 'phi' is used to describe the phase shift between two signals, often in AC circuits.",
+                "example_hebrew": "'Phase' או 'phi' משמשים לתיאור הסטת הפאזה בין שני אותות, לרוב במעגלי AC."
+            },
+            {
+                "definition": "Phi as an abbreviation for 'philosopher', commonly used by philosophers and scholars of philosophy.",
+                "definition_hebrew": "Phi כקיצור של 'פילוסוף', בשימוש נפוץ על ידי פילוסופים וחוקרי פילוסופיה.",
+                "example": "'Phi' or 'Φ' is sometimes used to denote a philosopher, such as in the name 'Socrates (Sokratēs)'.",
+                "example_hebrew": "'פי' או 'Φ' משמשים לפעמים לציון פילוסוף, כמו בשם 'סוקרטס (Sokratēs)'."
+            },
+            {
+                "definition": "Phi represents an unknown quantity in algebra, similar to 'x' or 'y'.",
+                "definition_hebrew": "Phi מייצג כמות לא ידועה באלגברה, בדומה ל-'x' או 'y'.",
+                "example": "'Phase shift' in mathematics can refer to a variable like phi that is used to describe the phase difference between two trigonometric functions.",
+                "example_hebrew": "'שינוי שלב' במתמטיקה יכול להתייחס למשתנה כמו phi המשמש לתיאור הפרש הפאזות בין שתי פונקציות טריגונומטריות."
+            }
+        ]
+    }
+]

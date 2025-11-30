@@ -1,0 +1,40 @@
+[
+    {
+        "word": "operator",
+        "word_hebrew": "מַפעִיל",
+        "main_definition": "An operator is an individual or a system responsible for controlling, managing, or executing tasks related to technology, machinery, or communication systems.",
+        "main_definition_hebrew": "מפעיל הוא אדם או מערכת האחראים על שליטה, ניהול או ביצוע משימות הקשורות לטכנולוגיה, מכונות או מערכות תקשורת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Someone who operates equipment or machinery",
+                "definition_hebrew": "מישהו שמפעיל ציוד או מכונות",
+                "example": "The operator controls the crane's movement at the construction site.",
+                "example_hebrew": "המפעיל שולט בתנועת העגורן באתר הבנייה."
+            },
+            {
+                "definition": "A person responsible for performing a specific task, often in customer service context",
+                "definition_hebrew": "אדם שאחראי על ביצוע משימה ספציפית, לרוב בהקשר של שירות לקוחות",
+                "example": "The operator assists customers with their requests over the phone.",
+                "example_hebrew": "המפעיל מסייע ללקוחות בבקשותיהם בטלפון."
+            },
+            {
+                "definition": "In telecommunications, an individual who manually connects or disconnects calls",
+                "definition_hebrew": "בתקשורת, אדם שמחבר או מנתק שיחות באופן ידני",
+                "example": "The switchboard operator connected a long-distance call in the 1950s.",
+                "example_hebrew": "המרכזנית חיברה שיחה בינעירונית בשנות החמישים."
+            },
+            {
+                "definition": "A mathematical function representing operations such as addition and multiplication",
+                "definition_hebrew": "פונקציה מתמטית המייצגת פעולות כמו חיבור וכפל",
+                "example": "In computer programming, operators are symbols like + or * used to perform arithmetic calculations.",
+                "example_hebrew": "בתכנות מחשב, אופרטורים הם סמלים כמו + או * המשמשים לביצוע חישובים אריתמטיים."
+            },
+            {
+                "definition": "In finance, a person who manages financial transactions on beheavior of investors' instructions",
+                "definition_hebrew": "בפיננסים, אדם המנהל עסקאות פיננסיות לפי הוראות משקיעים",
+                "example": "The stock market operator executes buy and sell orders for customers at the appropriate price.",
+                "example_hebrew": "מפעיל הבורסה מבצע פקודות קנייה ומכירה ללקוחות במחיר המתאים."
+            }
+        ]
+    }
+]

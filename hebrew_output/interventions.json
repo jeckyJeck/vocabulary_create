@@ -1,0 +1,40 @@
+[
+    {
+        "word": "interventions",
+        "word_hebrew": "התערבויות",
+        "main_definition": "Actions taken by individuals or groups to alter a situation, often in response to an issue or problem.",
+        "main_definition_hebrew": "פעולות שננקטו על ידי יחידים או קבוצות כדי לשנות מצב, לעתים קרובות בתגובה לבעיה או בעיה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of healthcare and medicine, interventions refer to medical procedures or actions taken by doctors or nurses to treat illness, disease, injury, or other health issues. For example, administering medication, performing surgery, or providing counseling.",
+                "definition_hebrew": "בהקשר של שירותי בריאות ורפואה, התערבויות מתייחסות להליכים או פעולות רפואיות שננקטו על ידי רופאים או אחיות כדי לטפל במחלות, מחלות, פציעה או בעיות בריאותיות אחרות. למשל, מתן תרופות, ביצוע ניתוח או מתן ייעוץ.",
+                "example": "The nurse performed several interventions on the patient, including cleaning wounds and administering antibiotics.",
+                "example_hebrew": "האחות ביצעה מספר התערבויות במטופל, כולל ניקוי פצעים ומתן אנטיביוטיקה."
+            },
+            {
+                "definition": "In social work or psychology, interventions are strategies or techniques used to assist individuals, families, or communities in improving their well-being, resolving conflicts, or addressing behavioral issues. For example, group therapy sessions for substance abuse recovery.",
+                "definition_hebrew": "בעבודה סוציאלית או בפסיכולוגיה, התערבויות הן אסטרטגיות או טכניקות המשמשות כדי לסייע לאנשים, משפחות או קהילות בשיפור רווחתם, פתרון קונפליקטים או טיפול בבעיות התנהגותיות. לדוגמה, מפגשי טיפול קבוצתי להתאוששות משימוש בסמים.",
+                "example": "The social worker implemented various interventions to help the troubled family resolve their ongoing conflicts.",
+                "example_hebrew": "העובדת הסוציאלית הטמיעה התערבויות שונות כדי לסייע למשפחה הבעייתית לפתור את הסכסוכים המתמשכים ביניהם."
+            },
+            {
+                "definition": "In international relations and diplomacy, interventions refer to actions taken by one country or group of countries to influence the political, economic, or social situation in another country. For example, military intervention during a conflict or peacekeeping missions.",
+                "definition_hebrew": "ביחסים בינלאומיים ודיפלומטיה, התערבויות מתייחסות לפעולות שננקטות על ידי מדינה אחת או קבוצת מדינות אחת כדי להשפיע על המצב הפוליטי, הכלכלי או החברתי במדינה אחרת. למשל, התערבות צבאית במהלך סכסוך או משימות שמירת שלום.",
+                "example": "The United Nations authorized an intervention force to help stabilize the region and protect civilians during the civil war.",
+                "example_hebrew": "האו\"ם אישר כוח התערבות שיסייע לייצוב האזור ולהגן על אזרחים במהלך מלחמת האזרחים."
+            },
+            {
+                "definition": "In sports and athletics, interventions refer to strategies or actions taken by coaches, trainers, or players to improve performance, prevent injuries, or address tactical issues. For example, a football team implementing new training methods or changing their game plan.",
+                "definition_hebrew": "בספורט ובאתלטיקה, התערבויות מתייחסות לאסטרטגיות או פעולות שננקטו על ידי מאמנים, מאמנים או שחקנים כדי לשפר ביצועים, למנוע פציעות או לטפל בבעיות טקטיות. לדוגמה, קבוצת כדורגל המיישמת שיטות אימון חדשות או משנה את תוכנית המשחק שלה.",
+                "example": "The basketball coach made several key interventions during the season to help his team win more games.",
+                "example_hebrew": "מאמן הכדורסל ביצע מספר התערבויות מרכזיות במהלך העונה כדי לעזור לקבוצתו לנצח יותר משחקים."
+            },
+            {
+                "definition": "In education and learning environments, interventions refer to specialized instructional strategies or programs designed to support students who are struggling academically. For example, providing extra tutoring for a student who is having difficulty with math.",
+                "definition_hebrew": "בסביבות חינוך ולמידה, התערבויות מתייחסות לאסטרטגיות או תוכניות הוראה מיוחדות שנועדו לתמוך בתלמידים שנאבקים בלימודים. לדוגמה, מתן שיעורים נוספים לתלמיד שמתקשה במתמטיקה.",
+                "example": "The school implemented an early intervention program to help at-risk students before they fall too far behind in their studies.",
+                "example_hebrew": "בית הספר יישם תוכנית התערבות מוקדמת כדי לסייע לתלמידים בסיכון לפני שהם מפגרים יותר מדי בלימודיהם."
+            }
+        ]
+    }
+]

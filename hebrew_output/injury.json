@@ -1,0 +1,34 @@
+[
+    {
+        "word": "injury",
+        "word_hebrew": "פציעה",
+        "main_definition": "Injury refers to any harm or damage caused to a person's body, often resulting from accidents or physical trauma.",
+        "main_definition_hebrew": "פציעה מתייחסת לכל נזק או נזק שנגרם לגופו של אדם, הנובע לרוב מתאונות או טראומה פיזית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical harm or damage to the body.",
+                "definition_hebrew": "פגיעה פיזית או פגיעה בגוף.",
+                "example": "The injury he sustained after falling off his bike required immediate medical attention.",
+                "example_hebrew": "הפציעה שנגרמה לו לאחר שנפל מאופניו דרשה טיפול רפואי מיידי."
+            },
+            {
+                "definition": "A setback or negative impact on a person's well-being, not necessarily physical in nature.",
+                "definition_hebrew": "נסיגה או השפעה שלילית על רווחתו של אדם, לאו דווקא פיזית בטבעה.",
+                "example": "She faced emotional injury when her close friend betrayed her trust.",
+                "example_hebrew": "היא התמודדה עם פגיעה רגשית כאשר חברתה הקרובה בגדה באמון שלה."
+            },
+            {
+                "definition": "In sports and games, an injury refers to harm suffered by a player or participant which affects their ability to continue the game or compete fairly.",
+                "definition_hebrew": "בספורט ובמשחקים, פציעה מתייחסת לנזק שנגרם לשחקן או למשתתף המשפיעה על יכולתם להמשיך במשחק או להתחרות בצורה הוגנת.",
+                "example": "The soccer match was paused due to injuries sustained by two of the players.",
+                "example_hebrew": "משחק הכדורגל הופסק עקב פציעות שנגרמו לשניים מהשחקנים."
+            },
+            {
+                "definition": "An injustice or wrong committed against someone, metaphorically causing harm to a person's dignity or rights.",
+                "definition_hebrew": "עוול או עוול שנעשו כלפי מישהו, הגורמים באופן מטפורי לפגיעה בכבודו או בזכויותיו של אדם.",
+                "example": "She experienced emotional injury when she was unfairly criticized at work.",
+                "example_hebrew": "היא חוותה פגיעה רגשית כשמתחו עליה ביקורת לא הוגנת בעבודה."
+            }
+        ]
+    }
+]

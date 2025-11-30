@@ -1,0 +1,40 @@
+[
+    {
+        "word": "install",
+        "word_hebrew": "להתקין",
+        "main_definition": "To set up or put in place, typically referring to equipment, software, or systems.",
+        "main_definition_hebrew": "להגדיר או להקים במקום, בדרך כלל הכוונה לציוד, תוכנה או מערכות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To physically place something into a location",
+                "definition_hebrew": "להציב משהו פיזית במיקום",
+                "example": "The plumber installed the new sink under the kitchen counter.",
+                "example_hebrew": "האינסטלטור התקין את הכיור החדש מתחת לדלפק המטבח."
+            },
+            {
+                "definition": "To set up a computer program or software",
+                "definition_hebrew": "כדי להגדיר תוכנת מחשב או תוכנה",
+                "example": "I need to install the latest version of Adobe Creative Cloud on my laptop.",
+                "example_hebrew": "אני צריך להתקין את הגרסה העדכנית ביותר של Adobe Creative Cloud במחשב הנייד שלי."
+            },
+            {
+                "definition": "To establish a new system, such as an electrical system or network",
+                "definition_hebrew": "להקים מערכת חדשה, כגון מערכת חשמל או רשת",
+                "example": "The technicians installed a solar panel array in our building for renewable energy.",
+                "example_hebrew": "הטכנאים התקינו בבניין שלנו מערך פאנלים סולאריים לאנרגיה מתחדשת."
+            },
+            {
+                "definition": "To make something operational by setting it up correctly",
+                "definition_hebrew": "לעשות משהו מבצעי על ידי הגדרה נכונה שלו",
+                "example": "After hours of work, the team successfully installed the new security system at the museum.",
+                "example_hebrew": "לאחר שעות של עבודה, הצוות התקין בהצלחה את מערכת האבטחה החדשה במוזיאון."
+            },
+            {
+                "definition": "To set up or arrange an appointment for a professional service",
+                "definition_hebrew": "לקביעת או קביעת תור לשירות מקצועי",
+                "example": "I will call to install your car with a full detailing package tomorrow morning.",
+                "example_hebrew": "אני אתקשר להתקין את המכונית שלך עם חבילת פירוט מלאה מחר בבוקר."
+            }
+        ]
+    }
+]

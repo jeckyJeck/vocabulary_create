@@ -1,0 +1,40 @@
+[
+    {
+        "word": "routing",
+        "word_hebrew": "ניתוב",
+        "main_definition": "Routing refers to the process of determining the optimal path or route through a network, whether it's digital data flow in computer networks or physical transportation of goods and people.",
+        "main_definition_hebrew": "ניתוב מתייחס לתהליך של קביעת הנתיב או המסלול האופטימלי דרך רשת, בין אם זה זרימת נתונים דיגיטלית ברשתות מחשבים או הובלה פיזית של סחורות ואנשים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing, routing is the method by which information (such as packets) is forwarded from one network to another through a series of intermediate devices.",
+                "definition_hebrew": "במחשוב, ניתוב הוא השיטה שבה מידע (כגון מנות) מועבר מרשת אחת לאחרת באמצעות סדרה של התקני ביניים.",
+                "example": "The router used in our office efficiently routes data between different departments' local networks.",
+                "example_hebrew": "הנתב המשמש במשרדנו מנתב נתונים ביעילות בין הרשתות המקומיות של המחלקות השונות."
+            },
+            {
+                "definition": "In logistics, routing refers to the planning and scheduling of transportation paths for goods or services to ensure timely delivery.",
+                "definition_hebrew": "בלוגיסטיקה, ניתוב מתייחס לתכנון ותזמון של נתיבי הובלה של סחורות או שירותים כדי להבטיח אספקה בזמן.",
+                "example": "The delivery trucks use a GPS-based routing system to find the fastest route while delivering packages.",
+                "example_hebrew": "משאיות המשלוחים משתמשות במערכת ניתוב מבוססת GPS כדי למצוא את המסלול המהיר ביותר בזמן משלוח חבילות."
+            },
+            {
+                "definition": "In sports, particularly in team games like soccer and hockey, 'routing' is an informal term used when one team dominates by consistently scoring goals against their opponents.",
+                "definition_hebrew": "בספורט, במיוחד במשחקי קבוצה כמו כדורגל והוקי, 'ניתוב' הוא מונח לא רשמי המשמש כאשר קבוצה אחת שולטת על ידי הבקעת שערים באופן עקבי נגד יריביה.",
+                "example": "The home team was routing the visitors with a series of consecutive goals.",
+                "example_hebrew": "הקבוצה הביתית ניתבה את האורחים עם שורה של שערים רצוף."
+            },
+            {
+                "definition": "In politics or social movements, to reroute can mean to redirect the focus or strategy in response to new developments or challenges.",
+                "definition_hebrew": "בפוליטיקה או בתנועות חברתיות, ניתוב מחדש יכול פירושו לנתב מחדש את המיקוד או האסטרטגיה בתגובה להתפתחויות או אתגרים חדשים.",
+                "example": "After the scandal, the politician's campaign team worked on a new routing plan to regain public trust.",
+                "example_hebrew": "לאחר השערורייה, צוות הקמפיין של הפוליטיקאי עבד על תוכנית ניתוב חדשה כדי להחזיר את אמון הציבור."
+            },
+            {
+                "definition": "In military operations, routing refers to the process of establishing and maintaining routes for troops and supplies that are secure from enemy interference.",
+                "definition_hebrew": "בפעולות צבאיות, ניתוב מתייחס לתהליך של הקמת ותחזוקה של מסלולים לחיילים ואספקה מאובטחים מהפרעות אויב.",
+                "example": "The army used helicopters to route their convoy through hostile territory safely.",
+                "example_hebrew": "הצבא השתמש במסוקים כדי לנתב את שיירתם דרך שטח עוין בבטחה."
+            }
+        ]
+    }
+]

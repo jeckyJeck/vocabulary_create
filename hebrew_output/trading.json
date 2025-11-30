@@ -1,0 +1,40 @@
+[
+    {
+        "word": "trading",
+        "word_hebrew": "מִסְחָר",
+        "main_definition": "The act of buying, selling or exchanging goods, services, or financial instruments.",
+        "main_definition_hebrew": "הפעולה של קנייה, מכירה או החלפה של סחורות, שירותים או מכשירים פיננסיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Engaging in the exchange of commodities, stocks, currencies, etc., typically between businesses",
+                "definition_hebrew": "עיסוק בהחלפת סחורות, מניות, מטבעות וכו', בדרך כלל בין עסקים",
+                "example": "The company's primary activity is trading in agricultural products.",
+                "example_hebrew": "פעילותה העיקרית של החברה היא מסחר במוצרים חקלאיים."
+            },
+            {
+                "definition": "A specific place or venue where financial instruments such as securities are bought and sold",
+                "definition_hebrew": "מקום או מקום ספציפי שבו נרכשים ונמכרים מכשירים פיננסיים כגון ניירות ערך",
+                "example": "I spent the morning at a stock exchange, watching trades take place on the floor.",
+                "example_hebrew": "ביליתי את הבוקר בבורסה, צפיתי בעסקאות המתרחשות על הרצפה."
+            },
+            {
+                "definition": "The process of buying one product with another item in return for fair value",
+                "definition_hebrew": "תהליך קניית מוצר אחד עם פריט אחר בתמורה לשווי הוגן",
+                "example": "We traded our old bicycle for two concert tickets.",
+                "example_hebrew": "החלפנו את האופניים הישנים שלנו בשני כרטיסים להופעה."
+            },
+            {
+                "definition": "A person or business that engages in the buying, selling, or exchanging of goods and services",
+                "definition_hebrew": "אדם או עסק העוסקים בקנייה, מכירה או החלפה של סחורות ושירותים",
+                "example": "She is a skilled trader who specializes in rare collectibles.",
+                "example_hebrew": "היא סוחרת מיומנת המתמחה בפריטי אספנות נדירים."
+            },
+            {
+                "definition": "The practice of changing one thing for another with an expectation of gaining something beneficial in return",
+                "definition_hebrew": "התרגול של שינוי דבר אחד באחר מתוך ציפייה לזכות במשהו מועיל בתמורה",
+                "example": "He was caught trading counterfeit goods, which led to legal issues.",
+                "example_hebrew": "הוא נתפס סחר בסחורות מזויפות, מה שהוביל לבעיות משפטיות."
+            }
+        ]
+    }
+]

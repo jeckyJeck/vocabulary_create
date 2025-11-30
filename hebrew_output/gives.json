@@ -1,0 +1,40 @@
+[
+    {
+        "word": "gives",
+        "word_hebrew": "נותן",
+        "main_definition": "To provide or transfer something to someone else.",
+        "main_definition_hebrew": "לספק או להעביר משהו למישהו אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Providing an action or result in the present tense, typically with a direct object receiving the action.",
+                "definition_hebrew": "מתן פעולה או תוצאה בזמן הווה, בדרך כלל עם אובייקט ישיר שמקבל את הפעולה.",
+                "example": "The teacher gives homework every Friday.",
+                "example_hebrew": "המורה נותן שיעורי בית בכל יום שישי."
+            },
+            {
+                "definition": "Offering someone something as a gift or gesture of goodwill.",
+                "definition_hebrew": "להציע למישהו משהו במתנה או כמחווה של רצון טוב.",
+                "example": "She gave her friend a bouquet of flowers on her birthday.",
+                "example_hebrew": "היא נתנה לחברתה זר פרחים ביום הולדתה."
+            },
+            {
+                "definition": "To provide in various contexts, such as knowledge, information, permission, etc., to an individual or group.",
+                "definition_hebrew": "לספק בהקשרים שונים, כגון ידע, מידע, הרשאה וכו', לאדם או לקבוצה.",
+                "example": "The professor gives detailed explanations during the lecture.",
+                "example_hebrew": "הפרופסור נותן הסברים מפורטים במהלך ההרצאה."
+            },
+            {
+                "definition": "Delivering a statement or outcome verbally or in writing with authority.",
+                "definition_hebrew": "מסירת הצהרה או תוצאה בעל פה או בכתב בסמכות.",
+                "example": "The CEO gave an inspiring speech about the company's future plans.",
+                "example_hebrew": "המנכ\"ל נשא נאום מעורר השראה על התוכניות העתידיות של החברה."
+            },
+            {
+                "definition": "To provide by means of transferring physical objects, such as cash, goods, etc., to someone else.",
+                "definition_hebrew": "לספק באמצעות העברת חפצים פיזיים, כגון מזומן, סחורה וכו', למישהו אחר.",
+                "example": "He gives money to charity every month.",
+                "example_hebrew": "הוא נותן כסף לצדקה מדי חודש."
+            }
+        ]
+    }
+]

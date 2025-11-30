@@ -1,0 +1,40 @@
+[
+    {
+        "word": "roommate",
+        "word_hebrew": "שותף לחדר",
+        "main_definition": "A person with whom one shares a living space, especially in a residential setting such as an apartment or dormitory.",
+        "main_definition_hebrew": "אדם שעמו חולקים מרחב מגורים, במיוחד במסגרת מגורים כמו דירה או מעונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Same-gender housemate for privacy reasons",
+                "definition_hebrew": "בן בית מאותו מין מטעמי פרטיות",
+                "example": "John and Mark are roommates who live together to maintain their individual privacy.",
+                "example_hebrew": "ג'ון ומארק הם שותפים לדירה שחיים יחד כדי לשמור על פרטיותם האישית."
+            },
+            {
+                "definition": "A person you share a living space with, often as part of an agreement or arrangement",
+                "definition_hebrew": "אדם שאתה חולק איתו מרחב מגורים, לרוב במסגרת הסכם או הסדר",
+                "example": "After moving out of her parents' house, Emily became the roommate of Sarah and they split the rent equally.",
+                "example_hebrew": "לאחר שעברה מבית הוריה, אמילי הפכה לשותפתה של שרה והם חילקו את שכר הדירה שווה בשווה."
+            },
+            {
+                "definition": "Someone who shares common interests and experiences due to cohabitation",
+                "definition_hebrew": "מישהו שחולק תחומי עניין וחוויות משותפים עקב חיים משותפים",
+                "example": "As college roommates, Lisa and Mike often bond over their love for hiking and outdoor activities.",
+                "example_hebrew": "כשותפים בקולג', ליסה ומייק מתחברים לעתים קרובות על אהבתם לטיולים ופעילויות חוצות."
+            },
+            {
+                "definition": "A person with whom you may have disagreements or conflicts but still share the living space",
+                "definition_hebrew": "אדם שאולי יש לך אי הסכמות או קונפליקטים אבל עדיין חולקים את מרחב המחיה",
+                "example": "Despite frequent arguments about chores and noise, Anna has to live with her roommate David until her lease ends.",
+                "example_hebrew": "למרות ויכוחים תכופים על מטלות ורעש, אנה נאלצת לחיות עם שותפה לחדר דיוויד עד לסיום חוזה השכירות שלה."
+            },
+            {
+                "definition": "An individual who shares in responsibilities of a shared living environment like cleaning or bill payments",
+                "definition_hebrew": "אדם ששותף באחריות של סביבת מגורים משותפת כמו ניקיון או תשלומי חשבונות",
+                "example": "Tom is the designated roommate for taking care of grocery shopping and household maintenance tasks in his leased apartment.",
+                "example_hebrew": "טום הוא השותף המיועד לטיפול בקניית מצרכים ובמשימות תחזוקה ביתיות בדירתו השכורה."
+            }
+        ]
+    }
+]

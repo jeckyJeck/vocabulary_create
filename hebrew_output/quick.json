@@ -1,0 +1,40 @@
+[
+    {
+        "word": "quick",
+        "word_hebrew": "מָהִיר",
+        "main_definition": "Fast or rapid in movement, action, or response.",
+        "main_definition_hebrew": "מהיר או מהיר בתנועה, פעולה או תגובה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Having or characterized by great or impressive speed.",
+                "definition_hebrew": "בעל או מאופיין במהירות רבה או מרשימה.",
+                "example": "The cheetah is a quick animal.",
+                "example_hebrew": "הצ'יטה היא חיה מהירה."
+            },
+            {
+                "definition": "Done in a short period of time.",
+                "definition_hebrew": "נעשה בפרק זמן קצר.",
+                "example": "She completed the project quickly despite its complexity.",
+                "example_hebrew": "היא השלימה את הפרויקט במהירות למרות מורכבותו."
+            },
+            {
+                "definition": "Able to perceive or respond to something rapidly.",
+                "definition_hebrew": "מסוגל לתפוס או להגיב למשהו במהירות.",
+                "example": "Their quick reflexes helped them win the game.",
+                "example_hebrew": "הרפלקסים המהירים שלהם עזרו להם לנצח את המשחק."
+            },
+            {
+                "definition": "Expressing surprise, urgency, or emphasis.",
+                "definition_hebrew": "הבעת הפתעה, דחיפות או הדגשה.",
+                "example": "Wait! I have some news for you!",
+                "example_hebrew": "לַחֲכוֹת! יש לי חדשות בשבילך!"
+            },
+            {
+                "definition": "Prepared to take immediate action without delay.",
+                "definition_hebrew": "ערוך לפעולה מיידית ללא דיחוי.",
+                "example": "In case of an emergency, we need a quick response team.",
+                "example_hebrew": "במקרה חירום, אנו זקוקים לצוות מענה מהיר."
+            }
+        ]
+    }
+]

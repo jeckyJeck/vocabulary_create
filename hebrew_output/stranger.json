@@ -1,0 +1,40 @@
+[
+    {
+        "word": "stranger",
+        "word_hebrew": "זָר",
+        "main_definition": "A person whom one does not know or recognizes.",
+        "main_definition_hebrew": "אדם שלא מכירים או מזהים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An unknown individual in a social context, someone who is unfamiliar and outside of one's normal circle of acquaintances or friends. Example: A stranger approached me on the street to ask for directions.",
+                "definition_hebrew": "אדם אלמוני בהקשר חברתי, מי שאינו מוכר ומחוץ למעגל המכרים או החברים הרגיל של האדם. דוגמה: אדם זר ניגש אליי ברחוב כדי לבקש הנחיות.",
+                "example": "As I was walking home from work, a stranger stopped me to give me some advice.",
+                "example_hebrew": "כשהלכתי הביתה מהעבודה, אדם זר עצר אותי כדי לתת לי עצה."
+            },
+            {
+                "definition": "A person who is not known personally by one's family or close friends. Example: My parents were wary of the new neighbors as they did not know them well and considered them strangers.",
+                "definition_hebrew": "אדם שאינו מוכר באופן אישי על ידי משפחתו או חברים קרובים. דוגמה: ההורים שלי נזהרו מהשכנים החדשים כיוון שהם לא הכירו אותם היטב וראו אותם זרים.",
+                "example": "She had just moved to a new city, so she met many strangers in her neighborhood.",
+                "example_hebrew": "היא בדיוק עברה לעיר חדשה, אז היא פגשה זרים רבים בשכונה שלה."
+            },
+            {
+                "definition": "A person who is not acquainted with another individual. Example: When I introduced myself at the party, nobody knew me and we were all strangers.",
+                "definition_hebrew": "אדם שאינו מכיר אדם אחר. דוגמה: כשהצגתי את עצמי במסיבה, אף אחד לא הכיר אותי וכולנו היינו זרים.",
+                "example": "At the conference, we exchanged business cards with many new people, but they were all strangers to us.",
+                "example_hebrew": "בכנס החלפנו כרטיסי ביקור עם הרבה אנשים חדשים, אבל כולם היו זרים לנו."
+            },
+            {
+                "definition": "A term used in legal contexts for someone who has not established a prior relationship or history of interaction. Example: The court case involved two parties who were complete strangers to each other before the lawsuit.",
+                "definition_hebrew": "מונח המשמש בהקשרים משפטיים עבור מישהו שלא הקים מערכת יחסים קודמת או היסטוריה של אינטראקציה. דוגמה: בתיק בית המשפט היו מעורבים שני צדדים שהיו זרים לחלוטין זה לזה לפני התביעה.",
+                "example": "The company entered into negotiations with several potential clients, but they all seemed like strangers.",
+                "example_hebrew": "החברה נכנסה למשא ומתן עם כמה לקוחות פוטנציאליים, אבל כולם נראו כמו זרים."
+            },
+            {
+                "definition": "A metaphorical or idiomatic expression implying someone's unfamiliarity or lack of connection. Example: The phrase 'to be a stranger in a strange land' refers to feeling out of place and unknown in an unfamiliar environment.",
+                "definition_hebrew": "ביטוי מטפורי או אידיומטי המרמז על חוסר היכרות או חוסר חיבור של מישהו. דוגמה: הביטוי 'להיות זר בארץ זרה' מתייחס לתחושה לא במקום ולא ידוע בסביבה לא מוכרת.",
+                "example": "The new student was like a fish out of water, completely at home with everyone as strangers.",
+                "example_hebrew": "התלמיד החדש היה כמו דג מחוץ למים, לגמרי בבית עם כולם כזרים."
+            }
+        ]
+    }
+]

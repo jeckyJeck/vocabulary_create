@@ -1,0 +1,46 @@
+[
+    {
+        "word": "electricity",
+        "word_hebrew": "חַשְׁמַל",
+        "main_definition": "Electricity is the energy resulting from the existence of charged particles (such as electrons or protons), either statically as an accumulation of charge or dynamically as a current.",
+        "main_definition_hebrew": "חשמל הוא האנרגיה הנובעת מקיומם של חלקיקים טעונים (כגון אלקטרונים או פרוטונים), או באופן סטטי כהצטברות של מטען או באופן דינמי כזרם.",
+        "meanings_and_examples": [
+            {
+                "definition": "The ability to generate electrical power",
+                "definition_hebrew": "היכולת לייצר חשמל",
+                "example": "Hydropower plants harness the energy from flowing water to produce electricity.",
+                "example_hebrew": "תחנות כוח מים רותמות את האנרגיה מהמים הזורמים לייצור חשמל."
+            },
+            {
+                "definition": "A measure of how much electric charge is available in a source, such as a battery or generator",
+                "definition_hebrew": "מדד לכמות המטען החשמלי הזמין במקור, כגון סוללה או גנרטור",
+                "example": "The car's battery has sufficient electrical capacity to start the engine.",
+                "example_hebrew": "למצבר המכונית קיבולת חשמלית מספקת להתנעת המנוע."
+            },
+            {
+                "definition": "Electricity used for lighting homes and buildings",
+                "definition_hebrew": "חשמל המשמש להארת בתים ומבנים",
+                "example": "We installed LED lights in our house, which consume less electricity than traditional incandescent bulbs.",
+                "example_hebrew": "התקנו בביתנו נורות לד שצורכות פחות חשמל מנורות ליבון מסורתיות."
+            },
+            {
+                "definition": "The flow of electrons through a conductor, such as a wire",
+                "definition_hebrew": "זרימת אלקטרונים דרך מוליך, כגון חוט",
+                "example": "When you switch on the lamp, electrical energy is converted into light and heat due to the flow of current.",
+                "example_hebrew": "כאשר אתה מדליק את המנורה, אנרגיה חשמלית מומרת לאור וחום עקב זרימת הזרם."
+            },
+            {
+                "definition": "A system that transfers electric power from generators to consumers",
+                "definition_hebrew": "מערכת המעבירה חשמל מגנרטורים לצרכנים",
+                "example": "The national grid ensures a stable supply of electricity across cities and towns.",
+                "example_hebrew": "הרשת הלאומית מבטיחה אספקה יציבה של חשמל בערים ויישובים."
+            },
+            {
+                "definition": "Electric fields, which are created by electrically charged particles",
+                "definition_hebrew": "שדות חשמליים, שנוצרים על ידי חלקיקים טעונים חשמלית",
+                "example": "The static electric field generated between two balloons after rubbing them together causes one to stick to the other.",
+                "example_hebrew": "השדה החשמלי הסטטי שנוצר בין שני בלונים לאחר שפשוף אותם גורם לאחד להיצמד לשני."
+            }
+        ]
+    }
+]

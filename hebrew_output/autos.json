@@ -1,0 +1,28 @@
+[
+    {
+        "word": "autos",
+        "word_hebrew": "מכוניות",
+        "main_definition": "Autos is a plural form of 'auto', which refers to cars or vehicles in general.",
+        "main_definition_hebrew": "מכוניות היא צורת רבים של 'אוטו', המתייחסת למכוניות או לכלי רכב באופן כללי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Vehicles powered by an internal combustion engine, such as cars and motorcycles.",
+                "definition_hebrew": "כלי רכב המונעים על ידי מנוע בעירה פנימית, כגון מכוניות ואופנועים.",
+                "example": "I went for a drive in my blue autos yesterday.",
+                "example_hebrew": "יצאתי לנסיעה ברכבי הכחולים אתמול."
+            },
+            {
+                "definition": "A general term used to refer to any type of self-propelled vehicle, including bicycles with auxiliary motors or electric scooters.",
+                "definition_hebrew": "מונח כללי המשמש להתייחס לכל סוג של רכב מתנייע, לרבות אופניים עם מנועי עזר או קורקינטים חשמליים.",
+                "example": "The city has recently introduced more eco-friendly autos like electric bikes.",
+                "example_hebrew": "העיר הציגה לאחרונה מכוניות ידידותיות יותר לסביבה כמו אופניים חשמליים."
+            },
+            {
+                "definition": "A term used in some languages and regions to denote a type of small, lightweight, two-wheeled vehicle often associated with urban transportation.",
+                "definition_hebrew": "מונח המשמש בשפות ואזורים מסויימים לציון סוג רכב דו-גלגלי קטן וקל משקל המקושר לרוב לתחבורה עירונית.",
+                "example": "The streets are filled with various models of autos during rush hour.",
+                "example_hebrew": "הרחובות מלאים בדגמים שונים של מכוניות בשעות העומס."
+            }
+        ]
+    }
+]

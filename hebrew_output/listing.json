@@ -1,0 +1,34 @@
+[
+    {
+        "word": "listing",
+        "word_hebrew": "רישום",
+        "main_definition": "A process of compiling a list or a situation where something is officially registered, recorded, or made available to the public.",
+        "main_definition_hebrew": "תהליך של עריכת רשימה או מצב שבו משהו נרשם, מוקלט או זמין לציבור באופן רשמי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Creating an official list or inventory of items, properties, or other elements.",
+                "definition_hebrew": "יצירת רשימה רשמית או מלאי של פריטים, נכסים או אלמנטים אחרים.",
+                "example": "The real estate agent provided a comprehensive listing of all the houses in the neighborhood.",
+                "example_hebrew": "המתווך מסר פירוט מקיף של כל הבתים בשכונה."
+            },
+            {
+                "definition": "A legal document that allows for the sale of property and must be recorded with public authorities.",
+                "definition_hebrew": "מסמך משפטי המאפשר מכירת נכס ויש לרשום ברשויות ציבוריות.",
+                "example": "When selling her house, Emily obtained a listing to ensure compliance with local regulations.",
+                "example_hebrew": "כשמכרה את ביתה, אמילי השיגה רישום כדי להבטיח עמידה בתקנות המקומיות."
+            },
+            {
+                "definition": "An advertisement or notice in newspapers, online platforms, or other media to promote products, services, or events.",
+                "definition_hebrew": "פרסומת או הודעה בעיתונים, בפלטפורמות מקוונות או במדיה אחרת לקידום מוצרים, שירותים או אירועים.",
+                "example": "The company prepared an attractive listing for their new product on various social media sites.",
+                "example_hebrew": "החברה הכינה רישום אטרקטיבי למוצר החדש שלהם באתרי מדיה חברתית שונים."
+            },
+            {
+                "definition": "A record of financial obligations, such as loans and debts that a person owes.",
+                "definition_hebrew": "רישום של התחייבויות פיננסיות, כגון הלוואות וחובות שאדם חייב.",
+                "example": "The bank created a detailed listing of all John's outstanding liabilities before approving his loan application.",
+                "example_hebrew": "הבנק יצר רשימה מפורטת של כל התחייבויותיו של ג'ון לפני אישור בקשת ההלוואה שלו."
+            }
+        ]
+    }
+]

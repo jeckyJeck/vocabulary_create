@@ -1,0 +1,40 @@
+[
+    {
+        "word": "obligations",
+        "word_hebrew": "התחייבויות",
+        "main_definition": "Obligations refer to responsibilities or duties that a person is required to fulfill, either legally, morally, or socially.",
+        "main_definition_hebrew": "חובות מתייחסות לאחריות או לחובות שאדם נדרש למלא, מבחינה משפטית, מוסרית או חברתית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Legal obligations",
+                "definition_hebrew": "חובות משפטיות",
+                "example": "Filing taxes by the due date is an individual's legal obligation.",
+                "example_hebrew": "הגשת מיסים עד תאריך היעד היא חובה חוקית של אדם."
+            },
+            {
+                "definition": "Financial obligations",
+                "definition_hebrew": "התחייבויות כספיות",
+                "example": "Paying a mortgage or loan installments on time are financial obligations of homeowners and borrowers respectively.",
+                "example_hebrew": "תשלום משכנתא או הלוואה בזמן הם התחייבויות כספיות של בעלי בתים ולווים בהתאמה."
+            },
+            {
+                "definition": "Social obligations",
+                "definition_hebrew": "חובות חברתיות",
+                "example": "Helping elderly neighbors with groceries is a social obligation towards them.",
+                "example_hebrew": "עזרה לשכנים קשישים במצרכים היא חובה חברתית כלפיהם."
+            },
+            {
+                "definition": "Moral obligations",
+                "definition_hebrew": "חובות מוסריות",
+                "example": "Telling the truth, even when it's difficult, is considered a moral obligation.",
+                "example_hebrew": "אמירת האמת, גם כשהיא קשה, נחשבת לחובה מוסרית."
+            },
+            {
+                "definition": "Contractual obligations",
+                "definition_hebrew": "התחייבויות חוזיות",
+                "example": "A company fulfilling its contractual commitment to deliver goods on time as agreed in an agreement with another business entity.",
+                "example_hebrew": "חברה המקיימת את התחייבותה החוזית לספק סחורה בזמן כפי שהוסכם בהסכם עם גורם עסקי אחר."
+            }
+        ]
+    }
+]

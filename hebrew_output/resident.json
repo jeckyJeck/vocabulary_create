@@ -1,0 +1,46 @@
+[
+    {
+        "word": "resident",
+        "word_hebrew": "תוֹשָׁב",
+        "main_definition": "A person who lives permanently in a particular location or area.",
+        "main_definition_hebrew": "אדם המתגורר דרך קבע במקום או באזור מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A legal inhabitant of a place, especially with the right to live there and participate in local governance. This is often used for citizenship status determination.",
+                "definition_hebrew": "דייר חוקי של מקום, במיוחד בעל זכות לגור בו ולהשתתף בממשל המקומי. זה משמש לעתים קרובות לקביעת סטטוס אזרחות.",
+                "example": "John Smith, as a resident of New York City, has full voting rights.",
+                "example_hebrew": "לג'ון סמית', כתושב העיר ניו יורק, יש זכויות הצבעה מלאות."
+            },
+            {
+                "definition": "A person who lives continuously at an institution like a hospital or care home.",
+                "definition_hebrew": "אדם המתגורר ברציפות במוסד כמו בית חולים או בית אבות.",
+                "example": "Mrs. Johnson is the resident of Springfield Care Home.",
+                "example_hebrew": "גברת ג'ונסון היא תושבת בית הטיפול ספרינגפילד."
+            },
+            {
+                "definition": "An inhabitant residing in a specific housing development, particularly when referring to shared facilities and amenities provided by management.",
+                "definition_hebrew": "דייר המתגורר בפיתוח דיור ספציפי, במיוחד כאשר מתייחסים למתקנים ושירותים משותפים המסופקים על ידי ההנהלה.",
+                "example": "The residents of Sunnyvale Apartments enjoy access to a clubhouse and fitness center.",
+                "example_hebrew": "דיירי מקום האירוח נהנים מגישה למועדון ולמרכז כושר."
+            },
+            {
+                "definition": "A person who has been assigned or placed in a particular position, such as within an organization or school. Often used for employees or students.",
+                "definition_hebrew": "אדם שהוקצה או הוצב בתפקיד מסוים, כגון בתוך ארגון או בית ספר. משמש לעתים קרובות עבור עובדים או סטודנטים.",
+                "example": "The new resident teacher will start next Monday at Pine Grove Elementary School.",
+                "example_hebrew": "המורה החדשה של התושבים תתחיל ביום שני הבא בבית הספר היסודי פיין גרוב."
+            },
+            {
+                "definition": "In real estate and property management, it refers to a tenant who lives in rented housing but is not necessarily the owner of the property. This term can also be used for homeowners with long-term leases.",
+                "definition_hebrew": "בניהול מקרקעין ונכסים הכוונה לשוכר המתגורר בשכירות אך אינו בהכרח הבעלים של הנכס. מונח זה יכול לשמש גם לבעלי בתים עם חוזי שכירות ארוכי טווח.",
+                "example": "The residential complex has several families as residents.",
+                "example_hebrew": "במתחם המגורים מספר משפחות כדיירות."
+            },
+            {
+                "definition": "In business, referring to someone who regularly works in or visits a particular location, such as an office building or retail store. This can also imply habitual presence due to professional duties.",
+                "definition_hebrew": "בעסקים, הכוונה למישהו שעובד בקביעות או מבקר במקום מסוים, כגון בניין משרדים או חנות קמעונאית. זה יכול לרמוז גם על נוכחות רגילה עקב חובות מקצועיות.",
+                "example": "The weekly resident sales meeting takes place every Thursday at 3 pm.",
+                "example_hebrew": "מפגש מכירות התושבים השבועי מתקיים מדי יום חמישי בשעה 15:00."
+            }
+        ]
+    }
+]

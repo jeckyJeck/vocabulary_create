@@ -1,0 +1,34 @@
+[
+    {
+        "word": "bacterial",
+        "word_hebrew": "חיידקי",
+        "main_definition": "Relating to or caused by bacteria, especially in the context of diseases or substances.",
+        "main_definition_hebrew": "קשור או נגרם על ידי חיידקים, במיוחד בהקשר של מחלות או חומרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Involving or pertaining to bacteria and their characteristics, actions, or effects on other organisms",
+                "definition_hebrew": "מעורבות או קשורה לחיידקים ומאפיינים, פעולות או השפעות שלהם על אורגניזמים אחרים",
+                "example": "The doctor explained that the patient's symptoms were caused by a bacterial infection.",
+                "example_hebrew": "הרופא הסביר שהתסמינים של החולה נגרמו מזיהום חיידקי."
+            },
+            {
+                "definition": "Refers to substances produced by bacteria, often causing disease when they come into contact with humans or animals.",
+                "definition_hebrew": "הכוונה לחומרים המיוצרים על ידי חיידקים, הגורמים לרוב למחלות כאשר הם באים במגע עם בני אדם או בעלי חיים.",
+                "example": "Health professionals warned about the dangers of consuming contaminated food that might contain harmful bacterial toxins.",
+                "example_hebrew": "אנשי מקצוע בתחום הבריאות הזהירו מפני הסכנות שבצריכת מזון מזוהם שעלול להכיל רעלנים חיידקיים מזיקים."
+            },
+            {
+                "definition": "Describing something (like a disease) caused by or involving bacteria, as opposed to viral",
+                "definition_hebrew": "תיאור של משהו (כמו מחלה) הנגרם על ידי חיידקים או מעורבים בו, בניגוד לנגיף",
+                "example": "Antibiotic medications are commonly used to treat bacterial infections, not viral ones.",
+                "example_hebrew": "תרופות אנטיביוטיות משמשות בדרך כלל לטיפול בזיהומים חיידקיים, לא ויראליים."
+            },
+            {
+                "definition": "Pertaining to the study of bacteria and their effects on other organisms or environments",
+                "definition_hebrew": "הנוגע לחקר חיידקים והשפעותיהם על אורגניזמים או סביבות אחרות",
+                "example": "The biology class focused on microbiology, which includes studying bacterial ecosystems.",
+                "example_hebrew": "שיעור הביולוגיה התמקד במיקרוביולוגיה, הכוללת חקר מערכות אקולוגיות של חיידקים."
+            }
+        ]
+    }
+]

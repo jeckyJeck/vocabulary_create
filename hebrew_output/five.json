@@ -1,0 +1,40 @@
+[
+    {
+        "word": "five",
+        "word_hebrew": "חָמֵשׁ",
+        "main_definition": "Five is a numerical value representing the quantity or position in a sequence, often used as an idiom to convey various meanings related to the number five.",
+        "main_definition_hebrew": "חמש הוא ערך מספרי המייצג את הכמות או המיקום ברצף, המשמש לעתים קרובות כניב להעברת משמעויות שונות הקשורות למספר חמש.",
+        "meanings_and_examples": [
+            {
+                "definition": "Refers to the numerical value 5",
+                "definition_hebrew": "מתייחס לערך המספרי 5",
+                "example": "I have five fingers on each hand.",
+                "example_hebrew": "יש לי חמש אצבעות בכל יד."
+            },
+            {
+                "definition": "Used as an idiom to denote a total of five items or things",
+                "definition_hebrew": "משמש כינוי לציון סך של חמישה פריטים או דברים",
+                "example": "She bought five apples from the market.",
+                "example_hebrew": "היא קנתה חמישה תפוחים מהשוק."
+            },
+            {
+                "definition": "Indicates that someone is one step away from success, often used in sports or games",
+                "definition_hebrew": "מציין שמישהו נמצא במרחק צעד אחד מהצלחה, משמש לעתים קרובות בספורט או במשחקים",
+                "example": "He was only two points behind, but he needed to get five more baskets to win the game.",
+                "example_hebrew": "הוא פיגר רק שתי נקודות, אבל הוא היה צריך להשיג עוד חמישה סלים כדי לנצח את המשחק."
+            },
+            {
+                "definition": "Used as a colloquial expression for 'completely', implying that something is done entirely or fully",
+                "definition_hebrew": "משמש כביטוי דיבור ל'לגמרי', מרמז שמשהו נעשה במלואו או במלואו",
+                "example": "She's going all out, she's not just doing five of it; she's doing the whole thing.",
+                "example_hebrew": "היא הולכת בכל הכוח, היא לא עושה רק חמישה מזה; היא עושה את כל העניין."
+            },
+            {
+                "definition": "Used to describe a situation where there are no remaining options, often in relation to making a choice or decision",
+                "definition_hebrew": "משמש לתיאור מצב שבו אין אפשרויות שנותרו, לעתים קרובות ביחס לבחירה או החלטה",
+                "example": "He had his pick of three colleges but decided to go with none. He chose not to attend any and is now 'going five ways'.",
+                "example_hebrew": "הוא בחר בשלוש מכללות אבל החליט ללכת עם אף אחת. הוא בחר שלא להשתתף באף אחד ועכשיו 'הולך בחמש דרכים'."
+            }
+        ]
+    }
+]

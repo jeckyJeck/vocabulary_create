@@ -1,0 +1,34 @@
+[
+    {
+        "word": "portfolio",
+        "word_hebrew": "תיק עבודות",
+        "main_definition": "A collection of work, investments or skills that demonstrate one's abilities or accomplishments.",
+        "main_definition_hebrew": "אוסף של עבודה, השקעות או כישורים המדגימים את היכולות או ההישגים של האדם.",
+        "meanings_and_examples": [
+            {
+                "definition": "In finance and investment context, a portfolio refers to the range of investments held by an individual or institution.",
+                "definition_hebrew": "בהקשר פיננסי והשקעות, תיק מתייחס למגוון ההשקעות המוחזקות על ידי אדם או מוסד.",
+                "example": "John maintains a diverse stock market portfolio consisting of shares in various companies.",
+                "example_hebrew": "ג'ון מחזיק בתיק בורסה מגוון המורכב ממניות בחברות שונות."
+            },
+            {
+                "definition": "A collection of documents showcasing one's work and qualifications, often used for job applications or resumes.",
+                "definition_hebrew": "אוסף של מסמכים המציגים את העבודה והכישורים של האדם, המשמשים לעתים קרובות עבור מועמדות לעבודה או קורות חיים.",
+                "example": "The graphic designer created an impressive visual arts portfolio to apply for a creative director position.",
+                "example_hebrew": "המעצב הגרפי יצר תיק אמנות חזותי מרשים כדי להגיש מועמדות לתפקיד מנהל קריאייטיב."
+            },
+            {
+                "definition": "In education, it refers to the collection of coursework submitted by students demonstrating their learning progress over time.",
+                "definition_hebrew": "בחינוך, הכוונה היא לאוסף הקורסים שהוגשו על ידי סטודנטים המדגימים את התקדמות הלמידה שלהם לאורך זמן.",
+                "example": "As part of her final evaluation, Julia compiled all her completed essays and projects into an English portfolio.",
+                "example_hebrew": "כחלק מההערכה הסופית שלה, ג'וליה ריכזה את כל החיבורים והפרויקטים שהושלמו לתיק עבודות באנגלית."
+            },
+            {
+                "definition": "A case or folder used for storing business cards during professional networking events.",
+                "definition_hebrew": "מארז או תיקייה המשמשים לאחסון כרטיסי ביקור במהלך אירועי נטוורקינג מקצועיים.",
+                "example": "At the conference, he kept his contacts in a neat portfolio where they were easily accessible.",
+                "example_hebrew": "בכנס הוא שמר את אנשי הקשר שלו בתיק השקעות מסודר שבו הם היו נגישים בקלות."
+            }
+        ]
+    }
+]

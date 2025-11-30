@@ -1,0 +1,28 @@
+[
+    {
+        "word": "until",
+        "word_hebrew": "עד",
+        "main_definition": "Until indicates a period of time that continues up to a certain point or event, signifying the end of an action or state.",
+        "main_definition_hebrew": "עד מציין פרק זמן הנמשך עד לנקודה או אירוע מסוים, המסמל סיום של פעולה או מצב.",
+        "meanings_and_examples": [
+            {
+                "definition": "Indicates continuation of an action until a specified time or event occurs",
+                "definition_hebrew": "מציין המשך פעולה עד להתרחשות זמן או אירוע מוגדרים",
+                "example": "I will continue reading this book until 10 PM.",
+                "example_hebrew": "אני אמשיך לקרוא את הספר הזה עד 22:00."
+            },
+            {
+                "definition": "Used to show that something did not happen before the mentioned point in time",
+                "definition_hebrew": "משמש להראות שמשהו לא קרה לפני נקודת הזמן שהוזכרה",
+                "example": "She didn't eat breakfast until she left for work at 8 AM.",
+                "example_hebrew": "היא לא אכלה ארוחת בוקר עד שיצאה לעבודה ב-8 בבוקר."
+            },
+            {
+                "definition": "Shows a contrast between two different situations or states, with one happening up to a certain event and the other starting after it",
+                "definition_hebrew": "מציג ניגוד בין שני מצבים או מצבים שונים, כאשר אחד מתרחש עד לאירוע מסוים והשני מתחיל אחריו",
+                "example": "He was busy until he finished his work, then he went out for dinner.",
+                "example_hebrew": "הוא היה עסוק עד שסיים את עבודתו, ואז הוא יצא לארוחת ערב."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "digest",
+        "word_hebrew": "לְעַכֵּל",
+        "main_definition": "To break down, absorb or comprehend information, food, etc.",
+        "main_definition_hebrew": "לפרק, לספוג או להבין מידע, אוכל וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "To break down substances into simpler forms for absorption in the body",
+                "definition_hebrew": "לפרק חומרים לצורות פשוטות יותר לספיגה בגוף",
+                "example": "After eating a large meal, it takes time for my stomach to digest the food.",
+                "example_hebrew": "לאחר אכילת ארוחה גדולה, לוקח זמן לבטן שלי לעכל את האוכל."
+            },
+            {
+                "definition": "To understand and assimilate information or news",
+                "definition_hebrew": "להבין ולהטמיע מידע או חדשות",
+                "example": "I had trouble digesting the complex concepts in that lecture. I needed some extra explanation.",
+                "example_hebrew": "התקשיתי לעכל את המושגים המורכבים בהרצאה ההיא. הייתי צריך קצת הסבר נוסף."
+            },
+            {
+                "definition": "A summary of written material",
+                "definition_hebrew": "תקציר של חומר כתוב",
+                "example": "The editor requested a digest of the article for easy reading and reference.",
+                "example_hebrew": "העורך ביקש תקציר של המאמר לקריאה והתייחסות נוחה."
+            }
+        ]
+    }
+]

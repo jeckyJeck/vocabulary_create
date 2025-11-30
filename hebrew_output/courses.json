@@ -1,0 +1,34 @@
+[
+    {
+        "word": "courses",
+        "word_hebrew": "קורסים",
+        "main_definition": "Courses refer to the various directions or paths taken in a specific context, such as education, navigation, or natural phenomena.",
+        "main_definition_hebrew": "הקורסים מתייחסים לכיוונים או למסלולים השונים הנלקחים בהקשר מסוים, כגון חינוך, ניווט או תופעות טבע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Educational subjects taught at school or college",
+                "definition_hebrew": "מקצועות חינוכיים הנלמדים בבית הספר או במכללה",
+                "example": "I'm taking math and science courses this semester.",
+                "example_hebrew": "אני לוקח קורסים במתמטיקה ומדעים בסמסטר הזה."
+            },
+            {
+                "definition": "Routes followed by ships, aircraft, or vehicles in a journey",
+                "definition_hebrew": "מסלולים שלאחריהם ספינות, מטוסים או כלי רכב במסע",
+                "example": "The captain charted the course to avoid stormy weather conditions.",
+                "example_hebrew": "הקפטן התווה את המסלול כדי להימנע מתנאי מזג אוויר סוערים."
+            },
+            {
+                "definition": "Paths taken by natural phenomena like rivers and streams",
+                "definition_hebrew": "נתיבים של תופעות טבע כמו נהרות ונחלים",
+                "example": "Salmon follow their birthplace courses upstream for spawning.",
+                "example_hebrew": "סלמון עוקב אחר מסלולי מקום הולדתם במעלה הזרם לצורך השרצה."
+            },
+            {
+                "definition": "The trajectory of an object in motion, particularly in sports or games",
+                "definition_hebrew": "מסלול של אובייקט בתנועה, במיוחד בספורט או במשחקים",
+                "example": "Basketball players often refer to the court's course when discussing game strategies.",
+                "example_hebrew": "שחקני כדורסל מתייחסים לעתים קרובות למסלול המגרש כאשר דנים באסטרטגיות משחק."
+            }
+        ]
+    }
+]

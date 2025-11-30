@@ -1,0 +1,40 @@
+[
+    {
+        "word": "operating",
+        "word_hebrew": "הפעלה",
+        "main_definition": "To perform or conduct a process, task, or function with skill and efficiency.",
+        "main_definition_hebrew": "לבצע או לנהל תהליך, משימה או פונקציה במיומנות וביעילות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Conducting an operation in a business context, such as running a company's daily activities.",
+                "definition_hebrew": "ביצוע פעולה בהקשר עסקי, כגון ניהול הפעילות היומיומית של החברה.",
+                "example": "The CEO is responsible for the overall operating of the business.",
+                "example_hebrew": "המנכ\"ל אחראי על התפעול הכולל של העסק."
+            },
+            {
+                "definition": "Working or functioning with technical equipment or machinery, often in a medical setting like surgery.",
+                "definition_hebrew": "עבודה או תפקוד עם ציוד טכני או מכונות, לרוב במסגרת רפואית כמו ניתוח.",
+                "example": "The surgeon began the operation on the patient's knee.",
+                "example_hebrew": "המנתח החל בניתוח בברך המטופל."
+            },
+            {
+                "definition": "Carry out or perform a specific task or activity. In computer science, this refers to running programs and managing resources.",
+                "definition_hebrew": "לבצע או לבצע משימה או פעילות ספציפית. במדעי המחשב, זה מתייחס להפעלת תוכניות וניהול משאבים.",
+                "example": "To operate a computer system, you need to manage its memory, processes, and peripheral devices.",
+                "example_hebrew": "כדי להפעיל מערכת מחשב, עליך לנהל את הזיכרון, התהליכים וההתקנים ההיקפיים שלה."
+            },
+            {
+                "definition": "Performing maintenance or repair work on equipment, buildings, or machinery.",
+                "definition_hebrew": "ביצוע עבודות תחזוקה או תיקון של ציוד, מבנים או מכונות.",
+                "example": "The mechanic is operating the vehicle's engine for diagnostic purposes.",
+                "example_hebrew": "המכונאי מפעיל את מנוע הרכב למטרות אבחון."
+            },
+            {
+                "definition": "To manage financial operations such as budgeting, investing, and accounting.",
+                "definition_hebrew": "לניהול פעולות פיננסיות כגון תקציב, השקעות וחשבונאות.",
+                "example": "The finance department operates to ensure all monetary transactions are recorded correctly.",
+                "example_hebrew": "מחלקת הכספים פועלת כדי לוודא שכל העסקאות הכספיות נרשמות כהלכה."
+            }
+        ]
+    }
+]

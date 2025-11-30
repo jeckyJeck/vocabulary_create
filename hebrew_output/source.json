@@ -1,0 +1,40 @@
+[
+    {
+        "word": "source",
+        "word_hebrew": "מָקוֹר",
+        "main_definition": "A source is a place, person, or thing that provides information, inspiration, or material from which something originates.",
+        "main_definition_hebrew": "מקור הוא מקום, אדם או דבר המספקים מידע, השראה או חומר שמהם מקורו של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Origin or cause of something",
+                "definition_hebrew": "מקור או סיבה למשהו",
+                "example": "The snowstorm was the source of all the chaos in town.",
+                "example_hebrew": "סופת השלגים הייתה המקור לכל הכאוס בעיר."
+            },
+            {
+                "definition": "A person who provides information or news",
+                "definition_hebrew": "אדם המספק מידע או חדשות",
+                "example": "She works as a journalist and her interviews are considered reliable sources for current events.",
+                "example_hebrew": "היא עובדת כעיתונאית והראיונות שלה נחשבים למקורות אמינים לאירועים אקטואליים."
+            },
+            {
+                "definition": "The place where something comes from, especially water, gas, or electricity",
+                "definition_hebrew": "המקום שממנו מגיע משהו, במיוחד מים, גז או חשמל",
+                "example": "This building gets its power from the city's main source of electricity.",
+                "example_hebrew": "הבניין הזה מקבל את כוחו ממקור החשמל העיקרי של העיר."
+            },
+            {
+                "definition": "Material or inspiration for a creative work",
+                "definition_hebrew": "חומר או השראה לעבודה יצירתית",
+                "example": "The author drew on personal experiences as sources to write her novel.",
+                "example_hebrew": "המחברת נעזרה בחוויות אישיות כמקורות לכתיבת הרומן שלה."
+            },
+            {
+                "definition": "An entity from which data, facts, or statistics are obtained",
+                "definition_hebrew": "ישות שממנה מתקבלים נתונים, עובדות או סטטיסטיקות",
+                "example": "The study used various surveys and interviews as sources of primary data.",
+                "example_hebrew": "המחקר השתמש בסקרים וראיונות שונים כמקורות לנתונים ראשוניים."
+            }
+        ]
+    }
+]

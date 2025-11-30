@@ -1,0 +1,28 @@
+[
+    {
+        "word": "dimensions",
+        "word_hebrew": "ממדים",
+        "main_definition": "The measurements or aspects of something, typically in terms of length, width, depth, height, etc., that define its size and shape.",
+        "main_definition_hebrew": "המידות או ההיבטים של משהו, בדרך כלל במונחים של אורך, רוחב, עומק, גובה וכו', המגדירים את גודלו וצורתו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Size or extent of a particular physical property",
+                "definition_hebrew": "גודל או היקף של נכס פיזי מסוים",
+                "example": "When measuring the dimensions of a room, we consider its length, width, and height.",
+                "example_hebrew": "כאשר מודדים מידות של חדר, אנו מתייחסים לאורכו, לרוחבו ולגובהו."
+            },
+            {
+                "definition": "The number of degrees of freedom in a given space",
+                "definition_hebrew": "מספר דרגות החופש במרחב נתון",
+                "example": "In geometry, three-dimensional space has six dimensions: three for length, width, and depth (height), and three for rotation around each axis.",
+                "example_hebrew": "בגיאומטריה, למרחב התלת מימדי שישה ממדים: שלושה עבור אורך, רוחב ועומק (גובה), ושלושה עבור סיבוב סביב כל ציר."
+            },
+            {
+                "definition": "Various factors that contribute to the complexity or scope of an issue or problem",
+                "definition_hebrew": "גורמים שונים התורמים למורכבות או להיקף של בעיה או בעיה",
+                "example": "When discussing a project's timeline, we consider multiple dimensions such as resources, personnel, budget, etc.",
+                "example_hebrew": "כאשר דנים בציר הזמן של פרויקט, אנו לוקחים בחשבון מספר ממדים כגון משאבים, כוח אדם, תקציב וכו'."
+            }
+        ]
+    }
+]

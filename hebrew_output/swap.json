@@ -1,0 +1,40 @@
+[
+    {
+        "word": "swap",
+        "word_hebrew": "לְהַחלִיף",
+        "main_definition": "To exchange or interchange one thing with another, typically in the context of items, roles, or information.",
+        "main_definition_hebrew": "להחליף או להחליף דבר אחד עם אחר, בדרך כלל בהקשר של פריטים, תפקידים או מידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Exchange goods or services between two parties.",
+                "definition_hebrew": "החלפת סחורות או שירותים בין שני צדדים.",
+                "example": "They decided to swap their old bicycles for each other's.",
+                "example_hebrew": "הם החליטו להחליף את האופניים הישנים שלהם זה לזה."
+            },
+            {
+                "definition": "Change positions, roles, or responsibilities with someone else.",
+                "definition_hebrew": "שנה תפקידים, תפקידים או אחריות עם מישהו אחר.",
+                "example": "During the game, players swapped positions frequently.",
+                "example_hebrew": "במהלך המשחק, שחקנים החליפו עמדות לעתים קרובות."
+            },
+            {
+                "definition": "Switch from one option to another in a decision-making process.",
+                "definition_hebrew": "מעבר מאופציה אחת לאחרת בתהליך קבלת החלטות.",
+                "example": "I had two job offers and decided to swap my choice for the other company's offer.",
+                "example_hebrew": "היו לי שתי הצעות עבודה והחלטתי להחליף את הבחירה שלי בהצעה של החברה השנייה."
+            },
+            {
+                "definition": "Reverse or exchange certain parts of something, like letters in words.",
+                "definition_hebrew": "הפוך או החלף חלקים מסוימים של משהו, כמו אותיות במילים.",
+                "example": "Swapping 'read' with 'red' changes its meaning from past tense to present color.",
+                "example_hebrew": "החלפת 'קריאה' ב'אדום' משנה את משמעותה מזמן עבר לצבע הווה."
+            },
+            {
+                "definition": "Exchange data, information, or messages between two parties.",
+                "definition_hebrew": "החלפת נתונים, מידע או הודעות בין שני צדדים.",
+                "example": "He swapped confidential documents for sensitive files.",
+                "example_hebrew": "הוא החליף מסמכים חסויים בתיקים רגישים."
+            }
+        ]
+    }
+]

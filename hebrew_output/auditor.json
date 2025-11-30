@@ -1,0 +1,34 @@
+[
+    {
+        "word": "auditor",
+        "word_hebrew": "מבקר",
+        "main_definition": "An auditor is a person who examines and verifies the accuracy of financial records, statements, or data to ensure they are correct and comply with laws and regulations.",
+        "main_definition_hebrew": "מבקר הוא אדם שבוחן ומוודא את נכונותם של רשומות פיננסיות, דוחות או נתונים כדי לוודא שהם נכונים ועומדים בחוקים ובתקנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A professional who reviews an organization's finances and accounting processes for accuracy and compliance",
+                "definition_hebrew": "איש מקצוע הסוקר את התהליכים הכספיים והחשבונאיים של הארגון לצורך דיוק ועמידה בדרישות",
+                "example": "The external auditor reviewed the company's financial statements to ensure they were free from material misstatements.",
+                "example_hebrew": "המבקר החיצוני בחן את הדוחות הכספיים של החברה כדי לוודא שהם נקיים מהצגות מוטעות מהותיות."
+            },
+            {
+                "definition": "An individual responsible for overseeing a government department or organization's budget and spending",
+                "definition_hebrew": "אדם שאחראי לפיקוח על התקציב וההוצאות של משרד ממשלתי או ארגון",
+                "example": "The public sector auditor ensured that taxpayer money was spent efficiently and in accordance with the law.",
+                "example_hebrew": "המבקר במגזר הציבורי דאג להוצאת כספי משלם המסים בצורה יעילה ובהתאם לחוק."
+            },
+            {
+                "definition": "A certified accountant who conducts independent assessments of financial information to verify its accuracy or fairness",
+                "definition_hebrew": "רואה חשבון מוסמך המבצע הערכות עצמאיות של מידע פיננסי כדי לוודא את דיוק או הגינותו",
+                "example": "The forensic auditor analyzed the company's books after a suspected case of fraud was reported.",
+                "example_hebrew": "המבקר המשפטי ניתח את ספרי החברה לאחר שדווח על חשד למקרה הונאה."
+            },
+            {
+                "definition": "An expert in using statistical methods and software to analyze and interpret complex financial data",
+                "definition_hebrew": "מומחה בשימוש בשיטות ותוכנות סטטיסטיות לניתוח ופירוש נתונים פיננסיים מורכבים",
+                "example": "The internal auditor utilized advanced analytical techniques to detect anomalies in the company's expense reports.",
+                "example_hebrew": "המבקר הפנימי השתמש בטכניקות אנליטיות מתקדמות לאיתור חריגות בדוחות ההוצאות של החברה."
+            }
+        ]
+    }
+]

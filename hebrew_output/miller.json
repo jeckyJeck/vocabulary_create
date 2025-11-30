@@ -1,0 +1,34 @@
+[
+    {
+        "word": "miller",
+        "word_hebrew": "טוֹחֵן",
+        "main_definition": "A miller is a person who operates or owns a mill, particularly one that grinds grain into flour.",
+        "main_definition_hebrew": "טוחן הוא אדם המפעיל או הבעלים של טחנה, במיוחד כזו הטוחנת תבואה לקמח.",
+        "meanings_and_examples": [
+            {
+                "definition": "One involved in the business of milling, especially turning wheat and other cereals into flour using millstones.",
+                "definition_hebrew": "אחד העוסק בעסק של טחינה, במיוחד הפיכת חיטה ודגנים אחרים לקמח באמצעות אבני ריחיים.",
+                "example": "The local miller worked tirelessly to supply freshly milled grain for the community.",
+                "example_hebrew": "הטוחן המקומי עבד ללא לאות כדי לספק תבואה טרייה שנטחנה לקהילה."
+            },
+            {
+                "definition": "A person who owns or operates a gristmill, where various agricultural products are ground.",
+                "definition_hebrew": "אדם שבבעלותו או מפעיל טחנת טחנת, בה נטחנים תוצרת חקלאית שונים.",
+                "example": "John's family had been running their mill for generations, processing both wheat and corn into fine meal.",
+                "example_hebrew": "משפחתו של ג'ון ניהלה את הטחנה שלה במשך דורות, ועבדה הן חיטה ותירס לארוחה משובחת."
+            },
+            {
+                "definition": "An idiomatic expression referring to the process of reducing or simplifying something in a mechanical way, similar to how grain is ground.",
+                "definition_hebrew": "ביטוי אידיומטי המתייחס לתהליך של צמצום או פישוט של משהו בצורה מכנית, בדומה לאופן שבו נטחנים תבואה.",
+                "example": "When discussing complex issues, they tried to 'mill' down the information into more digestible pieces for everyone.",
+                "example_hebrew": "כאשר דנו בנושאים מורכבים, הם ניסו 'לטחון' את המידע לפיסות ניתנות לעיכול עבור כולם."
+            },
+            {
+                "definition": "A nickname given to someone who works at a factory or assembly line, drawing an analogy with how grain is processed.",
+                "definition_hebrew": "כינוי שניתן למי שעובד במפעל או בפס ייצור, תוך אנלוגיה לאופן עיבוד התבואה.",
+                "example": "'Hey, you Miller!', shouted by the supervisor as he pointed to one of his workers on the production floor.",
+                "example_hebrew": "'היי, אתה מילר!', צעק המפקח כשהצביע על אחד מעובדיו על רצפת הייצור."
+            }
+        ]
+    }
+]

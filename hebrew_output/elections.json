@@ -1,0 +1,34 @@
+[
+    {
+        "word": "elections",
+        "word_hebrew": "בחירות",
+        "main_definition": "Elections refer to the process of choosing individuals or groups for official positions within a government, organization, or other entity through voting by eligible members.",
+        "main_definition_hebrew": "בחירות מתייחסות לתהליך של בחירת יחידים או קבוצות לתפקידים רשמיים בתוך ממשלה, ארגון או ישות אחרת באמצעות הצבעה של חברים מתאימים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A formal decision-making event where people vote to choose representatives",
+                "definition_hebrew": "אירוע רשמי לקבלת החלטות שבו אנשים מצביעים לבחירת נציגים",
+                "example": "The United States presidential election in 2020 resulted in Joe Biden being elected as the President.",
+                "example_hebrew": "הבחירות לנשיאות ארצות הברית בשנת 2020 הביאו לכך שג'ו ביידן נבחר לנשיא."
+            },
+            {
+                "definition": "An occasion that allows citizens or members of an organization to express their preferences for leadership roles",
+                "definition_hebrew": "אירוע המאפשר לאזרחים או לחברי ארגון להביע את העדפותיהם לתפקידי מנהיגות",
+                "example": "In a school, students may have elections to choose class representatives who will voice their concerns and suggestions.",
+                "example_hebrew": "בבית ספר, תלמידים עשויים לקיים בחירות לבחור נציגי כיתות שיביעו את דאגותיהם והצעותיהם."
+            },
+            {
+                "definition": "A process whereby political parties nominate candidates to compete in these events",
+                "definition_hebrew": "תהליך שבו מפלגות פוליטיות מציעות מועמדים להתחרות באירועים אלו",
+                "example": "During the parliamentary election campaigns in the UK, various political parties are busy selecting their members for different constituencies.",
+                "example_hebrew": "במהלך מערכות הבחירות לפרלמנט בבריטניה, מפלגות פוליטיות שונות עסוקות בבחירת חבריהן למחוזות בחירה שונים."
+            },
+            {
+                "definition": "Referring to a system of voting and counting votes that determine who will hold specific positions",
+                "definition_hebrew": "הכוונה למערכת של הצבעה וספירת קולות הקובעת מי ימלא תפקידים ספציפיים",
+                "example": "The first-past-the-post electoral system is commonly used in many countries during elections.",
+                "example_hebrew": "שיטת הבחירות \"הראשונה-הפוסט\" נמצאת בשימוש נפוץ במדינות רבות במהלך בחירות."
+            }
+        ]
+    }
+]

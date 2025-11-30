@@ -1,0 +1,28 @@
+[
+    {
+        "word": "pediatric",
+        "word_hebrew": "ילדים",
+        "main_definition": "Relating to the medical care of infants, children, and adolescents.",
+        "main_definition_hebrew": "הנוגע לטיפול רפואי בתינוקות, ילדים ובני נוער.",
+        "meanings_and_examples": [
+            {
+                "definition": "Involving or related to pediatricians, who are doctors specialized in treating young patients",
+                "definition_hebrew": "מעורב או קשור לרופאי ילדים, שהם רופאים המתמחים בטיפול בחולים צעירים",
+                "example": "The local hospital has a dedicated pediatric wing staffed by experienced pediatricians.",
+                "example_hebrew": "בבית החולים המקומי קיים אגף ייעודי לרפואת ילדים המאויש על ידי רופאי ילדים מנוסים."
+            },
+            {
+                "definition": "Referring to products and services specifically designed for children's use",
+                "definition_hebrew": "הכוונה למוצרים ושירותים המיועדים במיוחד לשימוש של ילדים",
+                "example": "Pediatric vitamins are formulated with the right nutrients for growing kids.",
+                "example_hebrew": "ויטמינים לילדים מנוסחים עם רכיבי התזונה הנכונים לילדים גדלים."
+            },
+            {
+                "definition": "Concerning child-specific diseases, conditions, or medical procedures",
+                "definition_hebrew": "לגבי מחלות, מצבים או הליכים רפואיים ספציפיים לילד",
+                "example": "A pediatric oncologist specializes in treating cancer in children.",
+                "example_hebrew": "אונקולוג ילדים מתמחה בטיפול בסרטן בילדים."
+            }
+        ]
+    }
+]

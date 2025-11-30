@@ -1,0 +1,40 @@
+[
+    {
+        "word": "returns",
+        "word_hebrew": "החזרות",
+        "main_definition": "To give back or provide something in return, especially as a result of an exchange.",
+        "main_definition_hebrew": "להחזיר או לספק משהו בתמורה, במיוחד כתוצאה מהחלפה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of giving back money received from a purchase or transaction.",
+                "definition_hebrew": "הפעולה של החזרת כסף שהתקבל מרכישה או עסקה.",
+                "example": "When I returned the book to the library, I had to pay a fine.",
+                "example_hebrew": "כשהחזרתי את הספר לספרייה, נאלצתי לשלם קנס."
+            },
+            {
+                "definition": "To go back to a previous place, condition, or state.",
+                "definition_hebrew": "כדי לחזור למקום, מצב או מצב קודמים.",
+                "example": "After his vacation in Hawaii, he decided to return home and resume work.",
+                "example_hebrew": "לאחר חופשתו בהוואי, החליט לחזור הביתה ולחדש את העבודה."
+            },
+            {
+                "definition": "The reimbursement of an amount owed by someone who has borrowed it.",
+                "definition_hebrew": "החזר סכום שחייב מי שלווה אותו.",
+                "example": "When she returned the money she borrowed from her friend, they were both relieved.",
+                "example_hebrew": "כשהחזירה את הכסף שלווה מחברתה, הוקל לשניהם."
+            },
+            {
+                "definition": "A financial return on investment or capital gains.",
+                "definition_hebrew": "החזר כספי על השקעה או רווחי הון.",
+                "example": "He received a significant returns when he sold his stocks at a higher price than he bought them for.",
+                "example_hebrew": "הוא קיבל תשואה משמעותית כשמכר את המניות שלו במחיר גבוה יותר ממה שקנה אותן."
+            },
+            {
+                "definition": "To give back something in response to receiving it, as part of an exchange.",
+                "definition_hebrew": "להחזיר משהו בתגובה לקבלתו, כחלק מהחלפה.",
+                "example": "After I borrowed your phone charger, I returned the favor by lending you my laptop charger.",
+                "example_hebrew": "לאחר שהשאלתי את מטען הטלפון שלך, החזרתי לך טובה בכך שהשאלתי לך את מטען המחשב הנייד שלי."
+            }
+        ]
+    }
+]

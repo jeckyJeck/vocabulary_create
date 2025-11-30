@@ -1,0 +1,40 @@
+[
+    {
+        "word": "analysis",
+        "word_hebrew": "אָנָלִיזָה",
+        "main_definition": "The detailed examination of the elements or structure of something, typically as a basis for discussion or interpretation.",
+        "main_definition_hebrew": "בחינה מפורטת של האלמנטים או המבנה של משהו, בדרך כלל כבסיס לדיון או פרשנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A process of breaking down complex data or information into smaller components to better understand them.",
+                "definition_hebrew": "תהליך של פירוק נתונים או מידע מורכבים לרכיבים קטנים יותר כדי להבין אותם טוב יותר.",
+                "example": "The analysis of financial statements helps investors make informed decisions.",
+                "example_hebrew": "ניתוח הדוחות הכספיים מסייע למשקיעים לקבל החלטות מושכלות."
+            },
+            {
+                "definition": "An in-depth study and evaluation, often with the goal of discovering patterns, relationships, or insights.",
+                "definition_hebrew": "מחקר והערכה מעמיקים, לרוב במטרה לגלות דפוסים, מערכות יחסים או תובנות.",
+                "example": "A market research analysis was conducted to understand consumer preferences.",
+                "example_hebrew": "ניתוח מחקר שוק נערך כדי להבין את העדפות הצרכנים."
+            },
+            {
+                "definition": "The act of interpreting data or information by considering various aspects and implications.",
+                "definition_hebrew": "פעולת פירוש הנתונים או המידע על ידי התחשבות בהיבטים והשלכות שונות.",
+                "example": "After analyzing the survey results, we concluded that customer satisfaction has decreased.",
+                "example_hebrew": "לאחר ניתוח תוצאות הסקר, הגענו למסקנה ששביעות הרצון של הלקוחות ירדה."
+            },
+            {
+                "definition": "A systematic examination of a particular subject in order to explain it better.",
+                "definition_hebrew": "בחינה שיטתית של נושא מסוים על מנת להסבירו טוב יותר.",
+                "example": "The literary analysis of Shakespeare's plays reveals hidden meanings and themes.",
+                "example_hebrew": "הניתוח הספרותי של מחזותיו של שייקספיר חושף משמעויות ונושאים נסתרים."
+            },
+            {
+                "definition": "An investigation or inspection, often by professionals, into the details or structure of something.",
+                "definition_hebrew": "חקירה או בדיקה, לרוב על ידי אנשי מקצוע, לפרטים או מבנה של משהו.",
+                "example": "Forensic analysts examined the crime scene to gather evidence.",
+                "example_hebrew": "מנתחים משפטיים בחנו את זירת הפשע כדי לאסוף ראיות."
+            }
+        ]
+    }
+]

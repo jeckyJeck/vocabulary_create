@@ -1,0 +1,40 @@
+[
+    {
+        "word": "specialty",
+        "word_hebrew": "תחום התמחות",
+        "main_definition": "A specialty refers to a particular area of expertise, knowledge, or interest that an individual, business, or product excels in.",
+        "main_definition_hebrew": "התמחות מתייחסת לתחום מסוים של מומחיות, ידע או עניין שאדם, עסק או מוצר מצטיינים בו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A person's area of professional expertise",
+                "definition_hebrew": "תחום התמחות מקצועי של אדם",
+                "example": "Dr. Smith is known as a specialty cardiologist who treats heart-related conditions.",
+                "example_hebrew": "ד\"ר סמית ידוע כקרדיולוג מומחה המטפל במצבים הקשורים ללב."
+            },
+            {
+                "definition": "An item or product that has particular features which make it distinct from others in its category",
+                "definition_hebrew": "פריט או מוצר שיש להם תכונות מיוחדות המבדילות אותו מאחרים בקטגוריה שלו",
+                "example": "Italian cuisine restaurants often have pasta dishes listed as their specialty on the menu.",
+                "example_hebrew": "מסעדות המטבח האיטלקי כוללות לעתים קרובות מנות פסטה המומחיות שלהן בתפריט."
+            },
+            {
+                "definition": "A branch of knowledge, study, or practice requiring prolonged training or experience in",
+                "definition_hebrew": "ענף של ידע, לימוד או תרגול הדורש הכשרה או ניסיון ממושך ב",
+                "example": "Pharmacology is a medical specialty that focuses on drugs and their effects on living organisms.",
+                "example_hebrew": "פרמקולוגיה היא מומחיות רפואית המתמקדת בתרופות ובהשפעותיהן על אורגניזמים חיים."
+            },
+            {
+                "definition": "A subject in which an individual has particular expertise",
+                "definition_hebrew": "נושא שבו לאדם יש מומחיות מיוחדת",
+                "example": "His master's thesis was on the topic of sustainable agriculture, making it his specialty.",
+                "example_hebrew": "עבודת המאסטר שלו הייתה בנושא חקלאות בת קיימא, מה שהופך אותה למומחיות שלו."
+            },
+            {
+                "definition": "The focus or main selling point of a business or establishment",
+                "definition_hebrew": "המוקד או נקודת המכירה העיקרית של עסק או מפעל",
+                "example": "This bakery's specialties include artisan bread and homemade pastries.",
+                "example_hebrew": "ההתמחויות של מאפייה זו כוללות לחם אומן ומאפים תוצרת בית."
+            }
+        ]
+    }
+]

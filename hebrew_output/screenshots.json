@@ -1,0 +1,34 @@
+[
+    {
+        "word": "screenshots",
+        "word_hebrew": "צילומי מסך",
+        "main_definition": "Screenshots are images or photographs taken of a computer screen, usually to capture the current display content.",
+        "main_definition_hebrew": "צילומי מסך הם תמונות או תמונות שצולמו ממסך מחשב, בדרך כלל כדי ללכוד את תוכן התצוגה הנוכחי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Capturing visual representation of on-screen activity for documentation purposes.",
+                "definition_hebrew": "לכידת ייצוג חזותי של פעילות על המסך למטרות תיעוד.",
+                "example": "The programmer took screenshots of the error messages popping up during debugging.",
+                "example_hebrew": "המתכנת צילם צילומי מסך של הודעות השגיאה שצצות במהלך איתור באגים."
+            },
+            {
+                "definition": "Providing visual proof or reference in online discussions, tutorials, and help centers.",
+                "definition_hebrew": "מתן הוכחה חזותית או הפניה בדיונים מקוונים, הדרכות ומרכזי עזרה.",
+                "example": "In an online forum, a user posted a screenshot showing how to install a specific software feature.",
+                "example_hebrew": "בפורום מקוון, משתמש פרסם צילום מסך המראה כיצד להתקין תכונת תוכנה ספציפית."
+            },
+            {
+                "definition": "Preserving digital memories or moments captured on-screen for personal use.",
+                "definition_hebrew": "שימור זיכרונות דיגיטליים או רגעים שנלכדו על המסך לשימוש אישי.",
+                "example": "A mother took screenshots of her child's first drawing as it appeared on the tablet screen.",
+                "example_hebrew": "אמא צילמה צילומי מסך של הציור הראשון של ילדה כפי שהופיע על מסך הטאבלט."
+            },
+            {
+                "definition": "Sharing visual information to convey complex ideas that are difficult to explain with text alone.",
+                "definition_hebrew": "שיתוף מידע חזותי כדי להעביר רעיונות מורכבים שקשה להסביר עם טקסט בלבד.",
+                "example": "During a video conference, participants exchanged screenshots showing different code snippets relevant to the project discussion.",
+                "example_hebrew": "במהלך ועידת וידאו, המשתתפים החליפו צילומי מסך המציגים קטעי קוד שונים הרלוונטיים לדיון בפרויקט."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "exceptions",
+        "word_hebrew": "חריגים",
+        "main_definition": "Exceptions are instances that do not follow the general rule or pattern, often used as a noun to describe these outliers.",
+        "main_definition_hebrew": "חריגים הם מקרים שאינם עוקבים אחר הכלל או הדפוס הכללי, המשמשים לעתים קרובות כשם עצם לתיאור חריגים אלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Outside deviations from a standard rule or norm",
+                "definition_hebrew": "חריגות מבחוץ מכלל או נורמה סטנדרטית",
+                "example": "The student received an 'A' despite most of the class scoring below average, making him an exception.",
+                "example_hebrew": "התלמיד קיבל 'A' למרות שרוב הכיתה הציון מתחת לממוצע, מה שהופך אותו לחריג."
+            },
+            {
+                "definition": "Specific cases excluded from a general statement or principle",
+                "definition_hebrew": "מקרים ספציפיים שלא נכללו בהצהרה או עיקרון כלליים",
+                "example": "In most situations, you need to pay taxes. However, there are exceptions for non-profit organizations.",
+                "example_hebrew": "ברוב המקרים, אתה צריך לשלם מיסים. עם זאת, ישנם חריגים עבור ארגונים ללא מטרות רווח."
+            },
+            {
+                "definition": "Individuals who do not fit the norm within a particular group or category",
+                "definition_hebrew": "אנשים שאינם מתאימים לנורמה בתוך קבוצה או קטגוריה מסוימת",
+                "example": "Despite belonging to an age group where retirement is common, she continued working at her job and became an exception among her peers.",
+                "example_hebrew": "למרות השתייכותה לקבוצת גיל שבה הפרישה נפוצה, היא המשיכה לעבוד בעבודתה והפכה ליוצאת דופן בקרב בני גילה."
+            },
+            {
+                "definition": "Features that deviate from the expected pattern in data analysis",
+                "definition_hebrew": "תכונות החורגות מהדפוס הצפוי בניתוח נתונים",
+                "example": "In a dataset of people's ages, being 105 years old is considered an outlier or exception.",
+                "example_hebrew": "במערך נתונים של גילאים של אנשים, גיל 105 נחשב חריג או חריג."
+            },
+            {
+                "definition": "The act of excluding something as not meeting a set standard or requirement",
+                "definition_hebrew": "הפעולה של אי הכללה של משהו כלא עומד בתקן או דרישה מוגדרים",
+                "example": "When applying for the scholarship, all candidates who have a GPA below 3.0 were made exceptions and did not qualify.",
+                "example_hebrew": "בעת הגשת הבקשה למלגה, כל המועמדים שיש להם GPA מתחת ל-3.0 נעשו חריגים ולא זכו."
+            }
+        ]
+    }
+]

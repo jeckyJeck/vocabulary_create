@@ -1,0 +1,28 @@
+[
+    {
+        "word": "goto",
+        "word_hebrew": "לך ל",
+        "main_definition": "In the context of programming, 'goto' is a statement that allows unconditional jumping to another part of the code. However, its usage in daily language can also refer to direct action or movement towards a particular place or goal.",
+        "main_definition_hebrew": "בהקשר של תכנות, 'גוטו' הוא הצהרה המאפשרת קפיצה ללא תנאי לחלק אחר של הקוד. עם זאת, השימוש בו בשפה היומיומית יכול להתייחס גם לפעולה או תנועה ישירה לעבר מקום או מטרה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "A programming command allowing a program to jump from one point in the code to another",
+                "definition_hebrew": "פקודת תכנות המאפשרת לתוכנית לקפוץ מנקודה אחת בקוד לאחרת",
+                "example": "In C, 'goto' is used as a statement: goto label; where 'label' refers to the point in the code you want to jump to.",
+                "example_hebrew": "ב-C, 'גוטו' משמש כמשפט: תווית goto; כאשר 'תווית' מתייחסת לנקודה בקוד שאליה ברצונך לקפוץ."
+            },
+            {
+                "definition": "To move or travel directly towards a specific destination or goal",
+                "definition_hebrew": "לנוע או לנסוע ישירות לעבר יעד או יעד ספציפיים",
+                "example": "I need to go to the post office, so I better get going!",
+                "example_hebrew": "אני צריך ללכת לסניף הדואר, אז כדאי שאצא לדרך!"
+            },
+            {
+                "definition": "An idiom used informally to suggest moving quickly or immediately toward something",
+                "definition_hebrew": "ניב המשמש באופן לא רשמי כדי להציע לנוע במהירות או מיד לעבר משהו",
+                "example": "We don't have time for chit-chat; let's just 'get to it!'",
+                "example_hebrew": "אין לנו זמן לצ'ט-צ'ט; בואו פשוט 'נגיע לזה!'"
+            }
+        ]
+    }
+]

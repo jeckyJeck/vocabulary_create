@@ -1,0 +1,40 @@
+[
+    {
+        "word": "extraction",
+        "word_hebrew": "הוֹצָאָה",
+        "main_definition": "The process of removing or obtaining something, often from a larger source.",
+        "main_definition_hebrew": "תהליך הסרה או השגת משהו, לעתים קרובות ממקור גדול יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Removing minerals or other substances from the earth.",
+                "definition_hebrew": "הוצאת מינרלים או חומרים אחרים מהאדמה.",
+                "example": "Copper extraction involves digging deep underground mines and processing the ore.",
+                "example_hebrew": "הפקת נחושת כוללת חפירה עמוקה של מכרות תת קרקעיים ועיבוד העפרות."
+            },
+            {
+                "definition": "The act of obtaining information, usually through surveillance or interrogation.",
+                "definition_hebrew": "פעולת השגת מידע, בדרך כלל באמצעות מעקב או חקירה.",
+                "example": "During an investigation, law enforcement officers used extraction techniques to get confessions from suspects.",
+                "example_hebrew": "במהלך חקירה השתמשו שוטרי אכיפת החוק בטכניקות חילוץ כדי לקבל הודאות מחשודים."
+            },
+            {
+                "definition": "Removing teeth, typically as a medical procedure.",
+                "definition_hebrew": "הסרת שיניים, בדרך כלל כהליך רפואי.",
+                "example": "The dentist performed the tooth extraction on my wisdom tooth that was causing pain.",
+                "example_hebrew": "רופא השיניים ביצע את עקירת השן על שן הבינה שלי שגרמה לכאב."
+            },
+            {
+                "definition": "The act of drawing out or revealing something hidden or secret.",
+                "definition_hebrew": "הפעולה של הוצאת או חשיפת משהו נסתר או סודי.",
+                "example": "In literature, authors often use character development as a form of psychological extraction to uncover their motivations and desires.",
+                "example_hebrew": "בספרות, מחברים משתמשים לעתים קרובות בפיתוח אופי כצורה של מיצוי פסיכולוגי כדי לחשוף את המניעים והרצונות שלהם."
+            },
+            {
+                "definition": "Removing data from digital devices for analysis purposes.",
+                "definition_hebrew": "הסרת נתונים ממכשירים דיגיטליים למטרות ניתוח.",
+                "example": "The security team conducted a mobile device extraction to retrieve deleted files from the suspect's smartphone.",
+                "example_hebrew": "צוות האבטחה ביצע חילוץ מכשיר נייד כדי לאחזר קבצים שנמחקו מהסמארטפון של החשוד."
+            }
+        ]
+    }
+]

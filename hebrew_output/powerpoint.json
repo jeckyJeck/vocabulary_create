@@ -1,0 +1,28 @@
+[
+    {
+        "word": "powerpoint",
+        "word_hebrew": "פאואר פוינט",
+        "main_definition": "PowerPoint is a popular presentation software developed by Microsoft, used to create slideshows with text, images, videos, and other multimedia content.",
+        "main_definition_hebrew": "PowerPoint היא תוכנת מצגות פופולרית שפותחה על ידי מיקרוסופט, המשמשת ליצירת מצגות עם טקסט, תמונות, סרטונים ותוכן מולטימדיה אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Presentation tool",
+                "definition_hebrew": "כלי מצגת",
+                "example": "During the meeting, they used PowerPoint to showcase their project's progress.",
+                "example_hebrew": "במהלך הפגישה, הם השתמשו ב-PowerPoint כדי להציג את התקדמות הפרויקט שלהם."
+            },
+            {
+                "definition": "Slideshows with various multimedia elements",
+                "definition_hebrew": "מצגות עם אלמנטים שונים של מולטימדיה",
+                "example": "The teacher created a PowerPoint presentation including images and videos for her students.",
+                "example_hebrew": "המורה יצרה מצגת PowerPoint הכוללת תמונות וסרטונים עבור תלמידיה."
+            },
+            {
+                "definition": "File format for slideshows",
+                "definition_hebrew": "פורמט קובץ עבור מצגות",
+                "example": "She saved the company's sales data in a PowerPoint file, using charts and graphs to present it effectively.",
+                "example_hebrew": "היא שמרה את נתוני המכירות של החברה בקובץ PowerPoint, תוך שימוש בתרשימים ובגרפים כדי להציג אותם בצורה יעילה."
+            }
+        ]
+    }
+]

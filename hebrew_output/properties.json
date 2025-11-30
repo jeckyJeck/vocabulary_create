@@ -1,0 +1,40 @@
+[
+    {
+        "word": "properties",
+        "word_hebrew": "נכסים",
+        "main_definition": "Properties refer to the attributes, characteristics, or qualities of an object, person, place, or concept.",
+        "main_definition_hebrew": "מאפיינים מתייחסים לתכונות, מאפיינים או תכונות של חפץ, אדם, מקום או מושג.",
+        "meanings_and_examples": [
+            {
+                "definition": "Attributes in mathematics and computer science",
+                "definition_hebrew": "תכונות במתמטיקה ומדעי המחשב",
+                "example": "In programming, properties are variables that belong to objects. For instance, a car object may have properties like color, model, and year.",
+                "example_hebrew": "בתכנות, מאפיינים הם משתנים השייכים לאובייקטים. לדוגמה, לאובייקט מכונית עשויים להיות מאפיינים כמו צבע, דגם ושנה."
+            },
+            {
+                "definition": "Characteristics of an item or substance",
+                "definition_hebrew": "מאפיינים של פריט או חומר",
+                "example": "The properties of water include being liquid at room temperature, tasteless, odorless, and transparent.",
+                "example_hebrew": "תכונות המים כוללות היותם נוזליים בטמפרטורת החדר, חסרי טעם, חסרי ריח ושקופים."
+            },
+            {
+                "definition": "Features in real estate or land",
+                "definition_hebrew": "תכונות בנדל\"ן או בקרקע",
+                "example": "When buying a house, the property's features such as square footage, number of bedrooms, location, etc., are important to consider.",
+                "example_hebrew": "בעת רכישת בית, חשוב לקחת בחשבון את המאפיינים של הנכס כגון שטח מרובע, מספר חדרי שינה, מיקום וכו'."
+            },
+            {
+                "definition": "Qualities that can be observed and measured",
+                "definition_hebrew": "איכויות שניתן לראות ולמדוד",
+                "example": "The properties of steel include high tensile strength, durability, and resistance to corrosion.",
+                "example_hebrew": "תכונות הפלדה כוללות חוזק מתיחה גבוה, עמידות ועמידות בפני קורוזיה."
+            },
+            {
+                "definition": "Legal rights or claims in law",
+                "definition_hebrew": "זכויות משפטיות או תביעות בחוק",
+                "example": "Ownership is a property right that grants the holder certain powers over an asset, like selling or transferring it.",
+                "example_hebrew": "בעלות היא זכות קניין המעניקה למחזיק סמכויות מסוימות על נכס, כמו מכירתו או העברתו."
+            }
+        ]
+    }
+]

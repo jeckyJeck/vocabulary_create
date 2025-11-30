@@ -1,0 +1,40 @@
+[
+    {
+        "word": "fee",
+        "word_hebrew": "תַשְׁלוּם",
+        "main_definition": "A payment made for a service or privilege, often used in various contexts such as professional services, intellectual property rights, public utilities, etc.",
+        "main_definition_hebrew": "תשלום עבור שירות או פריבילגיה, המשמשים לעתים קרובות בהקשרים שונים כגון שירותים מקצועיים, זכויות קניין רוחני, שירותים ציבוריים וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "Cost for performing an audit",
+                "definition_hebrew": "עלות ביצוע ביקורת",
+                "example": "The company paid a $2000 fee to have their financial statements audited by an independent firm.",
+                "example_hebrew": "החברה שילמה עמלה של 2000 דולר כדי שהדוחות הכספיים שלה יבדקו על ידי חברה עצמאית."
+            },
+            {
+                "definition": "Payment required for the use of intellectual property (e.g., copyright, patent)",
+                "definition_hebrew": "נדרש תשלום עבור שימוש בקניין רוחני (למשל, זכויות יוצרים, פטנט)",
+                "example": "The author received a royalty fee each time his book was sold.",
+                "example_hebrew": "המחבר קיבל דמי תמלוגים בכל פעם שספרו נמכר."
+            },
+            {
+                "definition": "Charges for using public utilities",
+                "definition_hebrew": "חיובים בגין שימוש בשירותים ציבוריים",
+                "example": "Residents are required to pay a monthly water and sewerage fee to the local government.",
+                "example_hebrew": "התושבים נדרשים לשלם אגרת מים וביוב חודשית לשלטון המקומי."
+            },
+            {
+                "definition": "Fee paid by students attending an event or program",
+                "definition_hebrew": "תשלום ששולמו על ידי סטודנטים המשתתפים באירוע או תוכנית",
+                "example": "Attendees were asked to pay a $10 registration fee for the conference workshop they wanted to participate in.",
+                "example_hebrew": "המשתתפים התבקשו לשלם 10 דולר דמי רישום עבור סדנת הכנס בה רצו להשתתף."
+            },
+            {
+                "definition": "Cost associated with processing legal documents (e.g., court fees)",
+                "definition_hebrew": "עלות הכרוכה בעיבוד מסמכים משפטיים (למשל, אגרות בית משפט)",
+                "example": "The couple had to pay a filing fee of $300 when registering their marriage license at the courthouse.",
+                "example_hebrew": "בני הזוג נאלצו לשלם דמי הגשה של 300 דולר בעת רישום רישיון הנישואין שלהם בבית המשפט."
+            }
+        ]
+    }
+]

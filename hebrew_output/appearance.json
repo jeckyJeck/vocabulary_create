@@ -1,0 +1,34 @@
+[
+    {
+        "word": "appearance",
+        "word_hebrew": "מראה חיצוני",
+        "main_definition": "The way something or someone looks or seems to others.",
+        "main_definition_hebrew": "איך שמשהו או מישהו נראה או נראה לאחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical look or outward appearance of a person, object, or place.",
+                "definition_hebrew": "מבט פיזי או מראה חיצוני של אדם, חפץ או מקום.",
+                "example": "Despite her age, she still has the same youthful appearance.",
+                "example_hebrew": "למרות גילה, עדיין יש לה את אותו מראה צעיר."
+            },
+            {
+                "definition": "The way something appears to be true when in fact it might not be.",
+                "definition_hebrew": "הדרך שבה משהו נראה נכון כשלמעשה ייתכן שהוא לא.",
+                "example": "Appearances can often be deceiving; just because someone looks wealthy doesn't mean they are.",
+                "example_hebrew": "המראה החיצוני יכול לעתים קרובות להטעות; זה שמישהו נראה עשיר לא אומר שהוא כן."
+            },
+            {
+                "definition": "A performance or behavior that is intended to impress others.",
+                "definition_hebrew": "ביצוע או התנהגות שנועדו להרשים אחרים.",
+                "example": "She put on a great appearance at the party, but it was all for show.",
+                "example_hebrew": "היא הציגה הופעה נהדרת במסיבה, אבל הכל היה לראווה."
+            },
+            {
+                "definition": "The impression made by something when first encountered; initial impact or effect.",
+                "definition_hebrew": "הרושם שעושה משהו כאשר נתקל בו לראשונה; השפעה או השפעה ראשונית.",
+                "example": "The new design of the building had an impressive appearance that attracted many visitors.",
+                "example_hebrew": "לעיצוב החדש של המבנה היה מראה מרשים שמשך אליו מבקרים רבים."
+            }
+        ]
+    }
+]

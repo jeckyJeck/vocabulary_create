@@ -1,0 +1,34 @@
+[
+    {
+        "word": "tribunal",
+        "word_hebrew": "בֵּית דִין",
+        "main_definition": "A tribunal is a court of justice or a body that has the authority to make judgments, often in specialized areas such as disputes between insurance companies and claimants.",
+        "main_definition_hebrew": "בית דין הוא בית משפט לצדק או גוף שיש לו סמכות לפסוק פסקי דין, לרוב בתחומים מיוחדים כמו סכסוכים בין חברות ביטוח לתובעים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An official court for trying cases",
+                "definition_hebrew": "בית משפט רשמי לדיון בתיקים",
+                "example": "The International Tribunal for the Law of the Sea hears cases related to maritime law.",
+                "example_hebrew": "בית הדין הבינלאומי למשפט הים דן במקרים הקשורים למשפט הימי."
+            },
+            {
+                "definition": "A judicial body that deals with specific types of disputes, such as labor or insurance claims",
+                "definition_hebrew": "גוף שיפוטי המטפל בסוגים ספציפיים של סכסוכים, כגון תביעות עבודה או ביטוח",
+                "example": "The Workmen's Compensation Tribunal adjudicates on compensation for workplace injuries.",
+                "example_hebrew": "בית הדין לפיצויי עובדים פוסק בפיצויים בגין פגיעה במקום העבודה."
+            },
+            {
+                "definition": "An assembly of judges who serve to make decisions and pass judgment in a legal case",
+                "definition_hebrew": "אספת שופטים המכהנת לקבלת החלטות ולמתן פסק דין בתיק משפטי",
+                "example": "A panel of tribunal members deliberated the defendant's guilt or innocence.",
+                "example_hebrew": "הרכב של חברי בית הדין דן באשמתו או בחפותו של הנאשם."
+            },
+            {
+                "definition": "A group that makes decisions based on evidence presented, typically used metaphorically to describe any decision-making process",
+                "definition_hebrew": "קבוצה שמקבלת החלטות על סמך ראיות שהוצגו, המשמשות בדרך כלל באופן מטפורי לתיאור כל תהליך קבלת החלטות",
+                "example": "The jury was seen as a tribunal of ordinary citizens tasked with delivering justice in the trial.",
+                "example_hebrew": "חבר המושבעים נתפס כבית דין של אזרחים רגילים המוטל על עשיית צדק במשפט."
+            }
+        ]
+    }
+]

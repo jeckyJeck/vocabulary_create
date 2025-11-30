@@ -1,0 +1,28 @@
+[
+    {
+        "word": "mlb",
+        "word_hebrew": "mlb",
+        "main_definition": "Major League Baseball (MLB) is the professional baseball organization that governs the highest level of play in North America.",
+        "main_definition_hebrew": "Major League Baseball (MLB) הוא ארגון הבייסבול המקצועי השולט ברמת המשחק הגבוהה ביותר בצפון אמריקה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Major League Baseball, an association for professional American and Canadian baseball",
+                "definition_hebrew": "Major League Baseball, איגוד לבייסבול אמריקאי וקנדי מקצועי",
+                "example": "The New York Yankees are a team in Major League Baseball.",
+                "example_hebrew": "הניו יורק יאנקיז היא קבוצה במייג'ור ליג בייסבול."
+            },
+            {
+                "definition": "A level of competition above minor leagues within the sport of baseball in North America",
+                "definition_hebrew": "רמת תחרות מעל ליגות משניות בספורט הבייסבול בצפון אמריקה",
+                "example": "Babe Ruth started his career playing in the MLB before moving to the Brooklyn Dodgers.",
+                "example_hebrew": "בייב רות התחיל את הקריירה שלו כששיחק ב-MLB לפני שעבר לברוקלין דודג'רס."
+            },
+            {
+                "definition": "The governing body for professional baseball in North America, responsible for organizing and managing Major League Baseball games",
+                "definition_hebrew": "הגוף המנהל לבייסבול המקצועי בצפון אמריקה, האחראי על ארגון וניהול משחקי ליגת הבייסבול",
+                "example": "MLB Commissioner Rob Manfred oversees all aspects of the MLB season and its teams.",
+                "example_hebrew": "נציב ה-MLB רוב מנפרד מפקח על כל ההיבטים של עונת ה-MLB והקבוצות שלה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "cache",
+        "word_hebrew": "מטמון",
+        "main_definition": "A cache is a stored collection of data that can be retrieved quickly, often used to speed up processes by temporarily storing copies of frequently accessed information.",
+        "main_definition_hebrew": "מטמון הוא אוסף מאוחסן של נתונים שניתן לאחזר במהירות, המשמש לעתים קרובות כדי להאיץ תהליכים על ידי אחסון זמני של עותקים של מידע הנגיש לעתים קרובות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Computing term for temporary storage",
+                "definition_hebrew": "מונח מחשוב לאחסון זמני",
+                "example": "The web browser uses cache to store downloaded webpage images and data.",
+                "example_hebrew": "דפדפן האינטרנט משתמש במטמון כדי לאחסן תמונות ונתונים של דפי אינטרנט שהורדת."
+            },
+            {
+                "definition": "Stash of items kept away",
+                "definition_hebrew": "מחסנית של חפצים הרחק",
+                "example": "We hid our emergency supplies in a secret cache behind the old oak tree.",
+                "example_hebrew": "החבאנו את ציוד החירום שלנו במטמון סודי מאחורי עץ האלון הישן."
+            },
+            {
+                "definition": "A hidden storage place for valuable objects or information",
+                "definition_hebrew": "מקום אחסון נסתר לחפצים או מידע יקרי ערך",
+                "example": "The bank vault serves as a secure cache for important documents and money.",
+                "example_hebrew": "כספת הבנק משמשת כמטמון מאובטח למסמכים וכסף חשובים."
+            },
+            {
+                "definition": "A collection of data stored on disk to improve system performance",
+                "definition_hebrew": "אוסף של נתונים המאוחסנים בדיסק כדי לשפר את ביצועי המערכת",
+                "example": "Our operating system uses disk caches to reduce load times when launching programs.",
+                "example_hebrew": "מערכת ההפעלה שלנו משתמשת במטמון דיסקים כדי להפחית את זמני הטעינה בעת הפעלת תוכניות."
+            },
+            {
+                "definition": "The act of storing something for later use or safekeeping",
+                "definition_hebrew": "הפעולה של אחסון משהו לשימוש מאוחר יותר או לשמירה",
+                "example": "She cached her work files on a cloud service so she could access them from any device.",
+                "example_hebrew": "היא שמרה את קבצי העבודה שלה בשירות ענן כדי שתוכל לגשת אליהם מכל מכשיר."
+            }
+        ]
+    }
+]

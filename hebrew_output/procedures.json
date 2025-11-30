@@ -1,0 +1,40 @@
+[
+    {
+        "word": "procedures",
+        "word_hebrew": "נהלים",
+        "main_definition": "Procedures refer to a sequence of actions or steps taken in a particular order to achieve a specific result, often used as an idiom or within technical contexts.",
+        "main_definition_hebrew": "נהלים מתייחסים לרצף של פעולות או צעדים שננקטו בסדר מסוים כדי להשיג תוצאה ספציפית, המשמשים לעתים קרובות כביטוי או בהקשרים טכניים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Business processes",
+                "definition_hebrew": "תהליכים עסקיים",
+                "example": "The company implemented new procedures for handling customer complaints more effectively.",
+                "example_hebrew": "החברה הטמיעה נהלים חדשים לטיפול בתלונות לקוחות בצורה יעילה יותר."
+            },
+            {
+                "definition": "Medical protocols",
+                "definition_hebrew": "פרוטוקולים רפואיים",
+                "example": "Before surgery, the patient must follow specific medical procedures to ensure their safety.",
+                "example_hebrew": "לפני הניתוח, על המטופל לבצע נהלים רפואיים ספציפיים כדי להבטיח את שלומם."
+            },
+            {
+                "definition": "Legal formalities",
+                "definition_hebrew": "פורמליות משפטיות",
+                "example": "The legal procedure for filing a lawsuit includes several steps such as drafting documents and submitting them to court.",
+                "example_hebrew": "ההליך המשפטי להגשת התביעה כולל מספר שלבים כמו עריכת מסמכים והגשתם לבית המשפט."
+            },
+            {
+                "definition": "Technical operations",
+                "definition_hebrew": "פעולות טכניות",
+                "example": "To reset the computer, follow these procedures: turn off the machine, unplug it from the power source, wait for a minute, then plug it back in and turn it on again.",
+                "example_hebrew": "כדי לאפס את המחשב, בצע את ההליכים הבאים: כבה את המכשיר, נתק אותו ממקור החשמל, המתן דקה ולאחר מכן חבר אותו בחזרה והפעל אותו שוב."
+            },
+            {
+                "definition": "Step-by-step instructions",
+                "definition_hebrew": "הוראות שלב אחר שלב",
+                "example": "The baker's recipe provided clear procedures for mixing ingredients to achieve the perfect cake texture.",
+                "example_hebrew": "המתכון של האופה סיפק נהלים ברורים לערבוב מרכיבים להשגת מרקם העוגה המושלם."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "saw",
+        "word_hebrew": "ראה",
+        "main_definition": "A tool used for cutting through materials such as wood, metal or plastic, and it can also be a verb representing the act of observing something with one's eyes.",
+        "main_definition_hebrew": "כלי המשמש לחיתוך חומרים כמו עץ, מתכת או פלסטיק, והוא יכול להיות גם פועל המייצג את פעולת ההתבוננות במשהו בעיניים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To witness or perceive an event or occurrence using one's senses",
+                "definition_hebrew": "להיות עד או לתפוס אירוע או התרחשות באמצעות החושים",
+                "example": "I saw her giving money to the homeless man.",
+                "example_hebrew": "ראיתי אותה נותנת כסף להומלס."
+            },
+            {
+                "definition": "A two-edged, long blade used for cutting through various materials by moving back and forth",
+                "definition_hebrew": "להב ארוך בעל שני קצוות המשמש לחיתוך חומרים שונים על ידי תנועה קדימה ואחורה",
+                "example": "The carpenter used a saw to cut the wood into precise measurements.",
+                "example_hebrew": "הנגר השתמש במסור כדי לחתוך את העץ למידות מדויקות."
+            },
+            {
+                "definition": "An idiomatic expression meaning that one has become aware of something or someone",
+                "definition_hebrew": "ביטוי אידיומטי שמשמעותו שאדם נעשה מודע למשהו או למישהו",
+                "example": "As soon as he entered the room, I could see that something was wrong. He clearly had seen it too.",
+                "example_hebrew": "ברגע שהוא נכנס לחדר, יכולתי לראות שמשהו לא בסדר. ברור שגם הוא ראה את זה."
+            }
+        ]
+    }
+]

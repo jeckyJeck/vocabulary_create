@@ -1,0 +1,40 @@
+[
+    {
+        "word": "functionality",
+        "word_hebrew": "פונקציונליות",
+        "main_definition": "Functionality refers to the various capabilities, features or characteristics that allow a system, product, or process to perform its intended tasks effectively.",
+        "main_definition_hebrew": "פונקציונליות מתייחסת ליכולות, תכונות או מאפיינים שונים המאפשרים למערכת, למוצר או לתהליך לבצע את המשימות המיועדות לו ביעילות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The inherent ability of an object or system to perform specific operations",
+                "definition_hebrew": "היכולת הטבועה של אובייקט או מערכת לבצע פעולות ספציפיות",
+                "example": "The functionality of the new software allows it to handle large datasets efficiently.",
+                "example_hebrew": "הפונקציונליות של התוכנה החדשה מאפשרת לה להתמודד עם מערכי נתונים גדולים ביעילות."
+            },
+            {
+                "definition": "A measure of how well a product meets its intended purpose and requirements",
+                "definition_hebrew": "מדד למידת התאמתו של המוצר למטרותיו ולדרישותיו",
+                "example": "The car's functionality was evaluated based on safety, comfort, fuel efficiency, and ease of use.",
+                "example_hebrew": "הפונקציונליות של המכונית הוערכה על סמך בטיחות, נוחות, יעילות דלק וקלות שימוש."
+            },
+            {
+                "definition": "The set of features or characteristics that make something work or perform as expected",
+                "definition_hebrew": "מכלול התכונות או המאפיינים שגורמים למשהו לעבוד או לבצע כצפוי",
+                "example": "The mobile phone has enhanced functionality with a high-resolution camera, fingerprint sensor, and advanced connectivity options.",
+                "example_hebrew": "לטלפון הנייד יש פונקציונליות משופרת עם מצלמה ברזולוציה גבוהה, חיישן טביעת אצבע ואפשרויות קישוריות מתקדמות."
+            },
+            {
+                "definition": "The practical usefulness or effectiveness of an object or system in achieving its goals",
+                "definition_hebrew": "התועלת או האפקטיביות המעשית של אובייקט או מערכת בהשגת מטרותיו",
+                "example": "The kitchen appliances have improved functionality, making it easier for users to prepare meals quickly and efficiently.",
+                "example_hebrew": "למכשירי המטבח יש פונקציונליות משופרת, מה שמקל על המשתמשים להכין ארוחות במהירות וביעילות."
+            },
+            {
+                "definition": "A feature that allows a software program or application to perform specific tasks, operations or functions",
+                "definition_hebrew": "תכונה המאפשרת לתוכנה או לאפליקציה לבצע משימות, פעולות או פונקציות ספציפיות",
+                "example": "The new update added additional functionality to the e-commerce website by allowing customers to track their orders in real time.",
+                "example_hebrew": "העדכון החדש הוסיף פונקציונליות נוספת לאתר המסחר האלקטרוני בכך שאפשר ללקוחות לעקוב אחר ההזמנות שלהם בזמן אמת."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "household",
+        "word_hebrew": "בית",
+        "main_definition": "Household refers to the people living in a particular dwelling, their activities related to managing home affairs or an entire family unit, as well as items commonly used and stored within a residence.",
+        "main_definition_hebrew": "משק בית מתייחס לאנשים המתגוררים בדירה מסוימת, פעילויותיהם הקשורות לניהול ענייני הבית או תא משפחתי שלם, וכן לפריטים הנפוצים בשימוש ומאוחסנים בבית מגורים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A group of people who live together under one roof",
+                "definition_hebrew": "קבוצה של אנשים שחיים יחד תחת קורת גג אחת",
+                "example": "The Smiths are a typical household with two children.",
+                "example_hebrew": "משפחת סמית' היא משק בית טיפוסי עם שני ילדים."
+            },
+            {
+                "definition": "Activities related to the management and maintenance of home affairs",
+                "definition_hebrew": "פעילויות הקשורות לניהול ואחזקת ענייני הפנים",
+                "example": "Household chores like cleaning, cooking, and laundry fall under housekeeping duties.",
+                "example_hebrew": "מטלות הבית כמו ניקיון, בישול וכביסה נופלות תחת חובות משק הבית."
+            },
+            {
+                "definition": "Items commonly used and stored within a residence",
+                "definition_hebrew": "פריטים בשימוש נפוץ ומאוחסנים בתוך בית מגורים",
+                "example": "A household typically includes items such as furniture, appliances, tools, and decorations.",
+                "example_hebrew": "משק בית כולל בדרך כלל פריטים כמו רהיטים, מכשירי חשמל, כלים וקישוטים."
+            },
+            {
+                "definition": "An entire family unit or clan living together in one dwelling",
+                "definition_hebrew": "תא משפחתי שלם או חמולה המתגוררים יחד בדירה אחת",
+                "example": "The extended Johnson household consists of grandparents, parents, children, and sometimes even cousins living under the same roof.",
+                "example_hebrew": "משק הבית המורחב של ג'ונסון מורכב מסבים וסבתות, הורים, ילדים ולפעמים אפילו בני דודים החיים תחת אותה קורת גג."
+            },
+            {
+                "definition": "A group of people who share a common domestic space for social or economic purposes",
+                "definition_hebrew": "קבוצת אנשים החולקים מרחב ביתי משותף למטרות חברתיות או כלכליות",
+                "example": "A boarding house is a type of household where individuals from different families live together in shared rooms and communal areas, often paying rent to the owner.",
+                "example_hebrew": "פנסיון הוא סוג של משק בית שבו אנשים ממשפחות שונות חיים יחד בחדרים משותפים ובאזורים משותפים, ולרוב משלמים שכר דירה לבעלים."
+            }
+        ]
+    }
+]

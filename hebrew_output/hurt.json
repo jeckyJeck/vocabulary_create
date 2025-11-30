@@ -1,0 +1,40 @@
+[
+    {
+        "word": "hurt",
+        "word_hebrew": "כאב",
+        "main_definition": "To cause physical or emotional pain or damage.",
+        "main_definition_hebrew": "לגרום לכאב או נזק פיזי או רגשי.",
+        "meanings_and_examples": [
+            {
+                "definition": "To cause physical injury or discomfort to someone's body.",
+                "definition_hebrew": "לגרום לפציעה פיזית או אי נוחות לגוף של מישהו.",
+                "example": "She accidentally hurt her finger while slicing vegetables.",
+                "example_hebrew": "היא פגעה באצבעה בטעות בזמן שחתכה ירקות."
+            },
+            {
+                "definition": "To damage or break something, causing it to not function properly.",
+                "definition_hebrew": "להזיק או לשבור משהו, מה שגורם לו לא לתפקד כראוי.",
+                "example": "The heavy rain hurt the roof of the house, resulting in a leak.",
+                "example_hebrew": "הגשם הרב פגע בגג הבית וכתוצאה מכך נוצרה נזילה."
+            },
+            {
+                "definition": "To negatively impact someone's feelings, often unintentionally.",
+                "definition_hebrew": "להשפיע לרעה על רגשותיו של מישהו, לעתים קרובות ללא כוונה.",
+                "example": "His harsh criticism hurt her self-esteem.",
+                "example_hebrew": "הביקורת הקשה שלו פגעה בהערכה העצמית שלה."
+            },
+            {
+                "definition": "A slang term to express that something is difficult or challenging.",
+                "definition_hebrew": "מונח סלנג לבטא שמשהו קשה או מאתגר.",
+                "example": "Learning a new language can really hurt your brain at first.",
+                "example_hebrew": "לימוד שפה חדשה יכול באמת לפגוע במוח שלך בהתחלה."
+            },
+            {
+                "definition": "To express disappointment or dissatisfaction with something.",
+                "definition_hebrew": "להביע אכזבה או חוסר שביעות רצון ממשהו.",
+                "example": "The news of the company's decline in profits hurt his investments significantly.",
+                "example_hebrew": "הידיעה על הירידה ברווחי החברה פגעה משמעותית בהשקעותיו."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "adequate",
+        "word_hebrew": "נאות",
+        "main_definition": "sufficient or satisfactory in quality, quantity, or degree to meet a requirement or standard.",
+        "main_definition_hebrew": "מספיק או משביע רצון באיכות, בכמות או בדרגה כדי לעמוד בדרישה או בתקן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Meeting the basic needs or standards.",
+                "definition_hebrew": "עמידה בצרכים או בסטנדרטים הבסיסיים.",
+                "example": "The water supply is adequate for the village's current population.",
+                "example_hebrew": "אספקת המים מתאימה לאוכלוסיית הכפר הנוכחית."
+            },
+            {
+                "definition": "Fulfilling a certain level of quality, but not necessarily exceeding it.",
+                "definition_hebrew": "עמידה ברמת איכות מסוימת, אך לא בהכרח חורגת ממנה.",
+                "example": "His performance in the exam was adequate, though he didn't score top marks.",
+                "example_hebrew": "הביצועים שלו בבחינה היו נאותים, אם כי הוא לא זכה בציונים גבוהים."
+            },
+            {
+                "definition": "Adequately sized or prepared to serve its intended purpose.",
+                "definition_hebrew": "בגודל מתאים או מוכן לשרת את מטרתו המיועדת.",
+                "example": "The team found an adequate substitute for their injured player during the match.",
+                "example_hebrew": "הקבוצה מצאה מחליף הולם לשחקן הפצוע במהלך המשחק."
+            },
+            {
+                "definition": "Enough, but not exceeding a certain limit or threshold.",
+                "definition_hebrew": "מספיק, אבל לא חורג מגבול או סף מסוימים.",
+                "example": "She received an adequate amount of praise from her colleagues for her work on the project.",
+                "example_hebrew": "היא קיבלה כמות מספקת של שבחים מעמיתיה על עבודתה בפרויקט."
+            }
+        ]
+    }
+]

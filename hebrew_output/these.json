@@ -1,0 +1,40 @@
+[
+    {
+        "word": "these",
+        "word_hebrew": "אלה",
+        "main_definition": "These are used to indicate specific objects or people close at hand or previously mentioned.",
+        "main_definition_hebrew": "אלה משמשים לציון חפצים ספציפיים או אנשים קרובים בהישג יד או שהוזכרו קודם לכן.",
+        "meanings_and_examples": [
+            {
+                "definition": "A demonstrative pronoun referring to plural, nearby, and known nouns. It replaces the noun phrase to avoid repetition.",
+                "definition_hebrew": "כינוי הדגמה המתייחס לשמות רבים, קרובים וידועים. זה מחליף את ביטוי העצם כדי למנוע חזרה.",
+                "example": "These are my books on the table.",
+                "example_hebrew": "אלה הספרים שלי על השולחן."
+            },
+            {
+                "definition": "Used as a determiner before plural countable nouns when they have been previously identified or understood by both speaker and listener.",
+                "definition_hebrew": "משמש כקובע לפני שמות עצם ניתנים לספירה ברבים כאשר הם זוהו או הובנו בעבר על ידי הדובר והמאזין.",
+                "example": "I need these pens, please. I've told you about them earlier today.",
+                "example_hebrew": "אני צריך את העטים האלה, בבקשה. סיפרתי לך עליהם מוקדם יותר היום."
+            },
+            {
+                "definition": "Refers to particular objects that are close at hand, emphasizing their proximity in space or time.",
+                "definition_hebrew": "מתייחס לאובייקטים מסוימים שנמצאים בהישג יד, תוך שימת דגש על קרבתם במרחב או בזמן.",
+                "example": "These flowers here smell very sweet.",
+                "example_hebrew": "הפרחים האלה כאן מריחים מתוק מאוד."
+            },
+            {
+                "definition": "Used with a superlative adjective (e.g., 'these largest', 'these smallest') to point out the objects that are at the top and bottom of their respective groups.",
+                "definition_hebrew": "משמש עם שם תואר סופרלטיב (למשל, 'הגדולים האלה', 'אלה הקטנים ביותר') כדי להצביע על העצמים שנמצאים בחלק העליון והתחתון של הקבוצות שלהם.",
+                "example": "These apples taste sweeter than any I've ever eaten.",
+                "example_hebrew": "טעמם של התפוחים האלה מתוק יותר מכל מה שאי פעם אכלתי."
+            },
+            {
+                "definition": "Used in a negative sentence or question for emphasis, particularly after 'not'.",
+                "definition_hebrew": "משמש במשפט שלילי או בשאלה לצורך הדגשה, במיוחד אחרי 'לא'.",
+                "example": "I don't want these chocolates; none of them is good enough for me.",
+                "example_hebrew": "אני לא רוצה את השוקולדים האלה; אף אחד מהם לא מספיק טוב בשבילי."
+            }
+        ]
+    }
+]

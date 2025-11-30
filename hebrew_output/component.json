@@ -1,0 +1,34 @@
+[
+    {
+        "word": "component",
+        "word_hebrew": "רְכִיב",
+        "main_definition": "A part or element of a larger whole, especially in the context of systems or structures.",
+        "main_definition_hebrew": "חלק או אלמנט של שלם גדול יותר, במיוחד בהקשר של מערכות או מבנים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Part of a machine or system that performs a specific function but can be removed and replaced without damaging the overall structure.",
+                "definition_hebrew": "חלק ממכונה או מערכת המבצעת פונקציה מסוימת אך ניתן להסירו ולהחליפו מבלי לפגוע במבנה הכללי.",
+                "example": "The engine is an essential component of any car.",
+                "example_hebrew": "המנוע הוא מרכיב חיוני בכל מכונית."
+            },
+            {
+                "definition": "An ingredient in a mixture, often used in chemistry to describe substances combined to form a compound or solution.",
+                "definition_hebrew": "מרכיב בתערובת, המשמש לעתים קרובות בכימיה לתיאור חומרים המשולבים ליצירת תרכובת או תמיסה.",
+                "example": "Salt and water are components of the saline solution.",
+                "example_hebrew": "מלח ומים הם מרכיבים של תמיסת מלח."
+            },
+            {
+                "definition": "A part that contributes to an overall result or outcome, commonly used in social contexts to refer to contributing factors.",
+                "definition_hebrew": "חלק שתורם לתוצאה או תוצאה כוללת, נפוץ בשימוש בהקשרים חברתיים כדי להתייחס לגורמים תורמים.",
+                "example": "Teamwork is a crucial component of achieving success in sports.",
+                "example_hebrew": "עבודת צוות היא מרכיב מכריע בהשגת הצלחה בספורט."
+            },
+            {
+                "definition": "One aspect of a complex topic or issue when analyzing its parts separately.",
+                "definition_hebrew": "היבט אחד של נושא או סוגיה מורכבים כאשר מנתחים את חלקיו בנפרד.",
+                "example": "When studying the economy, unemployment rate and inflation are components that need to be considered.",
+                "example_hebrew": "כאשר לומדים את הכלכלה, שיעור האבטלה והאינפלציה הם מרכיבים שיש לקחת בחשבון."
+            }
+        ]
+    }
+]

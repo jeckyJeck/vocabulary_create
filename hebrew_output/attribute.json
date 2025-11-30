@@ -1,0 +1,34 @@
+[
+    {
+        "word": "attribute",
+        "word_hebrew": "תְכוּנָה",
+        "main_definition": "An attribute is a quality or characteristic inherent to an individual, object, or concept.",
+        "main_definition_hebrew": "תכונה היא איכות או מאפיין הטבועים בפרט, אובייקט או מושג.",
+        "meanings_and_examples": [
+            {
+                "definition": "A descriptive feature in linguistics and syntax that modifies nouns or pronouns, such as 'black hat' or 'well-known author'.",
+                "definition_hebrew": "תכונה תיאורית בבלשנות ובתחביר המשנה שמות עצם או כינויים, כגון 'כובע שחור' או 'מחבר ידוע'.",
+                "example": "'She wore a black hat.'",
+                "example_hebrew": "'היא חבשה כובע שחור.'"
+            },
+            {
+                "definition": "An inherent quality of an individual, often used to describe personal characteristics or traits.",
+                "definition_hebrew": "איכות אינהרנטית של אדם, המשמשת לעתים קרובות לתיאור מאפיינים או תכונות אישיות.",
+                "example": "'His attribute of kindness made him popular among his peers.'",
+                "example_hebrew": "'תכונת החסד שלו הפכה אותו לפופולרי בקרב בני גילו'."
+            },
+            {
+                "definition": "A specific feature that distinguishes one object from another in computer programming and design.",
+                "definition_hebrew": "תכונה ספציפית המבדילה בין אובייקט אחד למשנהו בתכנות ועיצוב מחשבים.",
+                "example": "'The red button is an attribute of the user interface, indicating a stop function.'",
+                "example_hebrew": "'הכפתור האדום הוא תכונה של ממשק המשתמש, המציין פונקציית עצירה.'"
+            },
+            {
+                "definition": "In statistics, it refers to a variable that provides information about different aspects or dimensions of the subject under study.",
+                "definition_hebrew": "בסטטיסטיקה, זה מתייחס למשתנה המספק מידע על היבטים או ממדים שונים של הנושא הנלמד.",
+                "example": "'Height and weight are attributes commonly measured in health research.'",
+                "example_hebrew": "\"גובה ומשקל הם תכונות הנמדדות בדרך כלל במחקרי בריאות.\""
+            }
+        ]
+    }
+]

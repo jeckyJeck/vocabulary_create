@@ -1,0 +1,28 @@
+[
+    {
+        "word": "latex",
+        "word_hebrew": "שרף גומי",
+        "main_definition": "Latex can refer to different concepts, including a natural substance used in products like gloves, an idiom representing delay or reluctance, and also the script typeface commonly found in digital documents.",
+        "main_definition_hebrew": "לטקס יכול להתייחס למושגים שונים, כולל חומר טבעי המשמש במוצרים כמו כפפות, אידיום המייצג עיכוב או חוסר רצון, וגם את הגופן של התסריט הנפוצים במסמכים דיגיטליים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A natural rubber material derived from Hevea brasiliensis tree sap",
+                "definition_hebrew": "חומר גומי טבעי המופק ממוהל עץ Hevea brasiliensis",
+                "example": "Nitrile gloves are made of synthetic latex, which provides protection against chemicals.",
+                "example_hebrew": "כפפות ניטריל עשויות מלטקס סינטטי המעניק הגנה מפני כימיקלים."
+            },
+            {
+                "definition": "An idiom meaning a reluctance to make decisions or act promptly",
+                "definition_hebrew": "ניב פירושו חוסר רצון לקבל החלטות או לפעול באופן מיידי",
+                "example": "His constant 'lateness' in starting the project caused delays for the whole team.",
+                "example_hebrew": "ה'איחור' המתמיד שלו בהתחלת הפרויקט גרם לעיכובים לכל הצוות."
+            },
+            {
+                "definition": "A sans-serif script typeface often used in digital documents, especially for mathematical and technical writing",
+                "definition_hebrew": "טיפוס סקריפט ללא סריף המשמש לעתים קרובות במסמכים דיגיטליים, במיוחד לכתיבה מתמטית וטכנית",
+                "example": "The equation was written in latex to ensure accurate representation of complex formulas.",
+                "example_hebrew": "המשוואה נכתבה בלטקס כדי להבטיח ייצוג מדויק של נוסחאות מורכבות."
+            }
+        ]
+    }
+]

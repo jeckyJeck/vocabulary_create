@@ -1,0 +1,34 @@
+[
+    {
+        "word": "drivers",
+        "word_hebrew": "נהגים",
+        "main_definition": "In general, 'drivers' can refer to individuals who operate vehicles or machinery that requires manual control or power to function. In a metaphorical sense, it also refers to factors that drive an action, event, or process.",
+        "main_definition_hebrew": "באופן כללי, 'נהגים' יכולים להתייחס לאנשים שמפעילים כלי רכב או מכונות הדורשות שליטה ידנית או כוח כדי לתפקד. במובן מטפורי, זה מתייחס גם לגורמים המניעים פעולה, אירוע או תהליך.",
+        "meanings_and_examples": [
+            {
+                "definition": "Operators of motor vehicles",
+                "definition_hebrew": "מפעילי כלי רכב",
+                "example": "The drivers at the bus station are required to take breaks after every two hours.",
+                "example_hebrew": "הנהגים בתחנת האוטובוס מחויבים לעשות הפסקות לאחר כל שעתיים."
+            },
+            {
+                "definition": "Individuals who influence or cause an action, event, or process",
+                "definition_hebrew": "אנשים שמשפיעים או גורמים לפעולה, אירוע או תהליך",
+                "example": "Social media is a powerful driver of public opinion and behavior change.",
+                "example_hebrew": "המדיה החברתית היא מניע רב עוצמה של דעת הקהל ושינוי התנהגות."
+            },
+            {
+                "definition": "Programmers or developers in the field of computer science",
+                "definition_hebrew": "מתכנתים או מפתחים בתחום מדעי המחשב",
+                "example": "The new software update was driven by the latest drivers provided by the company's development team.",
+                "example_hebrew": "עדכון התוכנה החדש הונע על ידי הדרייברים העדכניים ביותר שסופקו על ידי צוות הפיתוח של החברה."
+            },
+            {
+                "definition": "Materials that enable certain chemical reactions to occur",
+                "definition_hebrew": "חומרים המאפשרים להתרחש תגובות כימיות מסוימות",
+                "example": "Enzymes are biological catalysts, and they often act as 'drivers' for specific biochemical processes in our bodies.",
+                "example_hebrew": "אנזימים הם זרזים ביולוגיים, ולעתים קרובות הם פועלים כ'מניעים' לתהליכים ביוכימיים ספציפיים בגופנו."
+            }
+        ]
+    }
+]

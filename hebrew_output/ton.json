@@ -1,0 +1,34 @@
+[
+    {
+        "word": "ton",
+        "word_hebrew": "טוֹן",
+        "main_definition": "A unit of weight, specifically 2000 pounds or approximately 907 kilograms.",
+        "main_definition_hebrew": "יחידת משקל, ספציפית 2000 פאונד או כ-907 קילוגרם.",
+        "meanings_and_examples": [
+            {
+                "definition": "To carry the burden of something.",
+                "definition_hebrew": "לשאת בנטל של משהו.",
+                "example": "She felt like she had a ton on her shoulders after losing her job.",
+                "example_hebrew": "היא הרגישה כאילו יש לה המון על הכתפיים לאחר שאיבדה את עבודתה."
+            },
+            {
+                "definition": "A very large quantity or amount.",
+                "definition_hebrew": "כמות או כמות גדולה מאוד.",
+                "example": "There were tons of people at the concert, and it was hard to find parking.",
+                "example_hebrew": "היו המון אנשים בהופעה, והיה קשה למצוא חניה."
+            },
+            {
+                "definition": "An exaggeration used to emphasize a point.",
+                "definition_hebrew": "הגזמה המשמשת להדגשת נקודה.",
+                "example": "I have told you a million times not to leave your belongings lying around!",
+                "example_hebrew": "אמרתי לך מיליון פעמים לא להשאיר את החפצים שלך שוכבים!"
+            },
+            {
+                "definition": "The weight of water that could fit into a container with dimensions 10 feet long, 6 feet wide and 3 feet high (a 'short ton').",
+                "definition_hebrew": "משקל המים שיכולים להיכנס למיכל עם מידות באורך 10 רגל, רוחב 6 רגל וגובה של 3 רגל ('טון קצר').",
+                "example": "The capacity of the ship's cargo holds is measured in tons.",
+                "example_hebrew": "הקיבולת של תא המטען של הספינה נמדדת בטונות."
+            }
+        ]
+    }
+]

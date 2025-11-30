@@ -1,0 +1,34 @@
+[
+    {
+        "word": "notebooks",
+        "word_hebrew": "מחברות",
+        "main_definition": "A notebook is a book or pad of pages used for writing notes, recordings, or sketches.",
+        "main_definition_hebrew": "מחברת היא ספר או בלוק של דפים המשמשים לכתיבת הערות, הקלטות או סקיצות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A collection of blank paper sheets bound together typically with a cover to serve as a portable and convenient tool for recording information",
+                "definition_hebrew": "אוסף של גיליונות נייר ריקים הקשורים יחד בדרך כלל עם כריכה כדי לשמש כלי נייד ונוח להקלטת מידע",
+                "example": "She carried her notebook everywhere to jot down important ideas or thoughts.",
+                "example_hebrew": "היא נשאה את המחברת שלה לכל מקום כדי לרשום רעיונות או מחשבות חשובות."
+            },
+            {
+                "definition": "An electronic device used by students, professionals, or artists to record notes, sketches, and other drawings digitally.",
+                "definition_hebrew": "מכשיר אלקטרוני המשמש תלמידים, אנשי מקצוע או אמנים כדי להקליט הערות, סקיצות וציורים אחרים בצורה דיגיטלית.",
+                "example": "The graphic designer uses a tablet as his digital notebook for creating illustrations.",
+                "example_hebrew": "המעצב הגרפי משתמש בטאבלט כמחברת הדיגיטלית שלו ליצירת איורים."
+            },
+            {
+                "definition": "A collection of printed sheets with blank spaces on one side used by teachers or students to record lessons, lectures, or assignments",
+                "definition_hebrew": "אוסף של גיליונות מודפסים עם חללים ריקים בצד אחד המשמשים מורים או תלמידים להקלטת שיעורים, הרצאות או מטלות",
+                "example": "During the class, the teacher provided each student a notebook to take notes and complete exercises.",
+                "example_hebrew": "במהלך השיעור, המורה סיפקה לכל תלמיד מחברת לרשום הערות ולהשלמת תרגילים."
+            },
+            {
+                "definition": "A tool for recording musical ideas, compositions, and sketches in music notation or tablature",
+                "definition_hebrew": "כלי להקלטת רעיונות מוזיקליים, יצירות ומערכונים בתווי נגינה או בטבלטורה",
+                "example": "The composer used his music notebook to jot down new melodies and arrangements.",
+                "example_hebrew": "המלחין השתמש במחברת המוזיקה שלו כדי לרשום מנגינות ועיבודים חדשים."
+            }
+        ]
+    }
+]

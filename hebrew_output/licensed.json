@@ -1,0 +1,34 @@
+[
+    {
+        "word": "licensed",
+        "word_hebrew": "מורשה",
+        "main_definition": "Permission granted by a relevant authority to engage in certain activities or sell specific products.",
+        "main_definition_hebrew": "הרשאה שניתנה על ידי רשות רלוונטית לעסוק בפעילויות מסוימות או למכור מוצרים ספציפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Authorized professionally, such as with a license to practice medicine or legal profession",
+                "definition_hebrew": "בעל הרשאה מקצועית, כגון עם רישיון לעסוק ברפואה או במקצוע עריכת דין",
+                "example": "Dr. Smith is licensed to perform surgeries.",
+                "example_hebrew": "ד\"ר סמית מורשה לבצע ניתוחים."
+            },
+            {
+                "definition": "Certified by the government or relevant authority to sell alcoholic beverages in public places",
+                "definition_hebrew": "מוסמך על ידי הממשלה או הרשות הרלוונטית למכירת משקאות אלכוהוליים במקומות ציבוריים",
+                "example": "The bar has a liquor license and sells beer, wine, and spirits.",
+                "example_hebrew": "לבר יש רישיון משקאות ומוכרים בירה, יין ומשקאות חריפים."
+            },
+            {
+                "definition": "A company that holds a patent and is authorized to produce and sell the patented product",
+                "definition_hebrew": "חברה המחזיקה בפטנט ומוסמכת לייצר ולמכור את המוצר המוגן בפטנט",
+                "example": "ABC Electronics is licensed by XYZ Company to manufacture their patented gadget.",
+                "example_hebrew": "ל-ABC Electronics יש רישיון של חברת XYZ לייצור הגאדג'ט המוגן בפטנט שלהם."
+            },
+            {
+                "definition": "Permitted or approved, often referring to software that has been given legal approval for use",
+                "definition_hebrew": "מותר או מאושר, לעתים קרובות הכוונה לתוכנה שקיבלה אישור חוקי לשימוש",
+                "example": "I installed a licensed version of the Adobe Creative Cloud suite on my computer.",
+                "example_hebrew": "התקנתי גרסה מורשית של חבילת Adobe Creative Cloud במחשב שלי."
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "word": "hormone",
+        "word_hebrew": "הוֹרמוֹן",
+        "main_definition": "A hormone is a chemical substance produced by the body that regulates various physiological activities, such as growth, metabolism, reproduction, and stress response.",
+        "main_definition_hebrew": "הורמון הוא חומר כימי המיוצר על ידי הגוף המווסת פעילויות פיזיולוגיות שונות, כגון גדילה, חילוף חומרים, רבייה ותגובת לחץ.",
+        "meanings_and_examples": [
+            {
+                "definition": "Chemical messengers in the body",
+                "definition_hebrew": "שליחים כימיים בגוף",
+                "example": "Insulin is a hormone that helps regulate blood sugar levels.",
+                "example_hebrew": "אינסולין הוא הורמון שעוזר לווסת את רמות הסוכר בדם."
+            },
+            {
+                "definition": "Molecules secreted by glands into the bloodstream",
+                "definition_hebrew": "מולקולות המופרשות מבלוטות לזרם הדם",
+                "example": "The thyroid gland produces several hormones, including triiodothyronine (T3) and thyroxine (T4).",
+                "example_hebrew": "בלוטת התריס מייצרת מספר הורמונים, כולל טריודוטירונין (T3) ותירוקסין (T4)."
+            },
+            {
+                "definition": "Regulators of growth and development",
+                "definition_hebrew": "מווסתים של צמיחה ופיתוח",
+                "example": "Growth hormone stimulates the growth of bones and tissues.",
+                "example_hebrew": "הורמון הגדילה ממריץ את צמיחת העצמות והרקמות."
+            },
+            {
+                "definition": "Molecules that control metabolism",
+                "definition_hebrew": "מולקולות השולטות בחילוף החומרים",
+                "example": "Cortisol, a stress-related hormone, affects how our body uses proteins, fats, and carbohydrates for energy.",
+                "example_hebrew": "קורטיזול, הורמון הקשור ללחץ, משפיע על האופן שבו הגוף שלנו משתמש בחלבונים, שומנים ופחמימות לאנרגיה."
+            },
+            {
+                "definition": "Hormones involved in reproductive processes",
+                "definition_hebrew": "הורמונים המעורבים בתהליכי רבייה",
+                "example": "Follicle-stimulating hormone (FSH) and luteinizing hormone (LH) are key players in the menstrual cycle.",
+                "example_hebrew": "הורמון מגרה זקיקים (FSH) והורמון luteinizing (LH) הם שחקני מפתח במחזור החודשי."
+            },
+            {
+                "definition": "Chemical signals that initiate bodily responses",
+                "definition_hebrew": "אותות כימיים שמתניעים תגובות גופניות",
+                "example": "Adrenaline, commonly known as the 'fight or flight' hormone, prepares our body to react quickly during stressful situations.",
+                "example_hebrew": "אדרנלין, הידוע בכינויו הורמון 'הילחם או ברח', מכין את גופנו להגיב במהירות במצבי לחץ."
+            }
+        ]
+    }
+]

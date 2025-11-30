@@ -1,0 +1,40 @@
+[
+    {
+        "word": "automation",
+        "word_hebrew": "אוטומציה",
+        "main_definition": "The process of using technology to perform tasks with minimal human intervention, increasing efficiency and reducing errors.",
+        "main_definition_hebrew": "תהליך השימוש בטכנולוגיה לביצוע משימות תוך התערבות אנושית מינימלית, הגברת היעילות והפחתת הטעויות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Implementation of self-operating equipment or systems in various fields like manufacturing or services",
+                "definition_hebrew": "הטמעת ציוד או מערכות בהפעלה עצמית בתחומים שונים כמו ייצור או שירותים",
+                "example": "In the automotive industry, robotic arms are used for assembling parts on car bodies.",
+                "example_hebrew": "בתעשיית הרכב משתמשים בזרועות רובוטיות להרכבת חלקים על מרכבי מכוניות."
+            },
+            {
+                "definition": "The act of programming software to perform tasks that would otherwise require human effort",
+                "definition_hebrew": "פעולת התכנות של תוכנה לביצוע משימות שאחרת היו דורשות מאמץ אנושי",
+                "example": "A program designed to automatically sort and filter emails in a company's mailbox.",
+                "example_hebrew": "תוכנה שנועדה למיין ולסנן מיילים באופן אוטומטי בתיבת הדואר של החברה."
+            },
+            {
+                "definition": "Reducing manual labor by using machines or technology for repetitive tasks",
+                "definition_hebrew": "הפחתת עבודת כפיים על ידי שימוש במכונות או טכנולוגיה למשימות שחוזרות על עצמן",
+                "example": "An office uses automated software to generate reports, eliminating the need for data entry employees.",
+                "example_hebrew": "משרד משתמש בתוכנה אוטומטית להפקת דוחות, ומבטל את הצורך בעובדים להזנת נתונים."
+            },
+            {
+                "definition": "The use of control systems and technologies in industries to operate equipment without direct human input",
+                "definition_hebrew": "שימוש במערכות בקרה וטכנולוגיות בתעשיות להפעלת ציוד ללא קלט אנושי ישיר",
+                "example": "A chemical plant utilizes automation to manage reactors and ensure safety protocols are followed automatically.",
+                "example_hebrew": "מפעל כימי משתמש באוטומציה כדי לנהל כורים ולהבטיח פרוטוקולי בטיחות יתבצעו באופן אוטומטי."
+            },
+            {
+                "definition": "Incorporating technology into various processes to make them more efficient, faster, and accurate",
+                "definition_hebrew": "שילוב טכנולוגיה בתהליכים שונים כדי להפוך אותם ליעילים יותר, מהירים יותר ומדויקים יותר",
+                "example": "An e-commerce platform uses automated bots for customer service, such as handling frequently asked questions or order tracking inquiries.",
+                "example_hebrew": "פלטפורמת מסחר אלקטרוני משתמשת בבוטים אוטומטיים לשירות לקוחות, כגון טיפול בשאלות נפוצות או פניות למעקב אחר הזמנות."
+            }
+        ]
+    }
+]

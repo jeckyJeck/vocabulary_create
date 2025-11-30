@@ -1,0 +1,40 @@
+[
+    {
+        "word": "sub",
+        "word_hebrew": "תַת",
+        "main_definition": "A prefix or term often used in various contexts to indicate being under, beneath, less than, or secondary.",
+        "main_definition_hebrew": "קידומת או מונח המשמשים לעתים קרובות בהקשרים שונים כדי לציין את היותו מתחת, מתחת, פחות או משני.",
+        "meanings_and_examples": [
+            {
+                "definition": "Under, below, beneath",
+                "definition_hebrew": "מתחת, מתחת, מתחת",
+                "example": "The submarine dived deep into the ocean.",
+                "example_hebrew": "הצוללת צללה עמוק לתוך האוקיינוס."
+            },
+            {
+                "definition": "To place under a covering or in a lower position",
+                "definition_hebrew": "למקם מתחת לכיסוי או במצב נמוך יותר",
+                "example": "She had to sub the pot on the kitchen counter for washing.",
+                "example_hebrew": "היא נאלצה להניח את הסיר על השיש במטבח לכביסה."
+            },
+            {
+                "definition": "Of lesser importance, rank, or value",
+                "definition_hebrew": "בעל חשיבות, דרגה או ערך פחותה",
+                "example": "The subplot of the story added depth but wasn't central.",
+                "example_hebrew": "עלילת המשנה של הסיפור הוסיפה עומק אך לא הייתה מרכזית."
+            },
+            {
+                "definition": "A type of film shown in a smaller screen within a larger venue",
+                "definition_hebrew": "סוג של סרט המוצג במסך קטן יותר בתוך אולם גדול יותר",
+                "example": "We went to see a movie at the local cinema, where they were showing some great subs.",
+                "example_hebrew": "הלכנו לראות סרט בקולנוע המקומי, שם הראו כמה סאבים נהדרים."
+            },
+            {
+                "definition": "Part of an address or geographical location that indicates it is located beneath another area",
+                "definition_hebrew": "חלק מכתובת או מיקום גיאוגרפי המציין שהוא ממוקם מתחת לאזור אחר",
+                "example": "The office was located in Building B, Subfloor 3.",
+                "example_hebrew": "המשרד היה ממוקם בבניין B, תת קומה 3."
+            }
+        ]
+    }
+]

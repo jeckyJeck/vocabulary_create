@@ -1,0 +1,40 @@
+[
+    {
+        "word": "points",
+        "word_hebrew": "נקודות",
+        "main_definition": "Points refer to various concepts depending on the context, including units of measurement in a score or grading system, locations with specific coordinates, or as slang for indicating particular significance.",
+        "main_definition_hebrew": "נקודות מתייחסות למושגים שונים בהתאם להקשר, כולל יחידות מדידה בשיטת ציון או ציון, מיקומים עם קואורדינטות ספציפיות, או כסלנג לציון משמעות מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Score increments or measures used in games, sports, and academic settings",
+                "definition_hebrew": "ציונים או מדדים המשמשים במשחקים, בספורט ובמסגרות אקדמיות",
+                "example": "In football, the team that scores more points wins the game.",
+                "example_hebrew": "בכדורגל, הקבוצה שצוברת יותר נקודות מנצחת את המשחק."
+            },
+            {
+                "definition": "Specific locations identified by their coordinates on a map or grid system",
+                "definition_hebrew": "מיקומים ספציפיים המזוהים לפי הקואורדינטות שלהם במפה או במערכת רשת",
+                "example": "The treasure was buried at 37°N latitude and 122°W longitude.",
+                "example_hebrew": "האוצר נקבר בקו רוחב 37°N ו-122°W קו אורך."
+            },
+            {
+                "definition": "Used informally to indicate the importance or relevance of something, as in 'This point is crucial for our argument.'",
+                "definition_hebrew": "משמש באופן לא רשמי כדי לציין את החשיבות או הרלוונטיות של משהו, כמו ב'נקודה זו היא חיונית לטיעון שלנו'.",
+                "example": "While discussing climate change, he emphasized that reducing carbon emissions should be a top priority.",
+                "example_hebrew": "בעודו דן בשינויי האקלים, הוא הדגיש כי הפחתת פליטת הפחמן צריכה להיות בראש סדר העדיפויות."
+            },
+            {
+                "definition": "Precise measurements used to indicate distance or location on maps, such as latitude and longitude points",
+                "definition_hebrew": "מדידות מדויקות המשמשות לציון מרחק או מיקום במפות, כגון נקודות קו רוחב ואורך",
+                "example": "The navigator plotted the course using several points of reference along the coastline.",
+                "example_hebrew": "הנווט התווה את המסלול באמצעות מספר נקודות התייחסות לאורך קו החוף."
+            },
+            {
+                "definition": "In certain scoring systems like golf or tennis, a point is an incremental measure that contributes to determining the winner.",
+                "definition_hebrew": "במערכות ניקוד מסוימות כמו גולף או טניס, נקודה היא מדד מצטבר התורם לקביעת המנצח.",
+                "example": "She won the match by scoring two more points than her opponent in each round of play.",
+                "example_hebrew": "היא ניצחה במשחק על ידי קליעה של שתי נקודות יותר מיריבתה בכל סיבוב משחק."
+            }
+        ]
+    }
+]

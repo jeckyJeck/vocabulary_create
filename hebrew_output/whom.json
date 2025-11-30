@@ -1,0 +1,28 @@
+[
+    {
+        "word": "whom",
+        "word_hebrew": "מִי",
+        "main_definition": "Whom is a pronoun used in formal English to refer to the object of a verb or preposition, indicating who is receiving an action.",
+        "main_definition_hebrew": "מי הוא כינוי המשמש באנגלית פורמלית להתייחס למושא של פועל או מילת יחס, המציין מי מקבל פעולה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Used as the objective case of 'who' when referring to the direct object of a clause.",
+                "definition_hebrew": "משמש כמקרה האובייקטיבי של 'מי' כאשר מתייחסים למושא הישיר של סעיף.",
+                "example": "To whom did you give this book?",
+                "example_hebrew": "למי נתת את הספר הזה?"
+            },
+            {
+                "definition": "Employed in formal or written English to address an unknown or unspecified person indirectly, especially within a question or statement.",
+                "definition_hebrew": "מועסק באנגלית רשמית או כתובה כדי לפנות לאדם לא ידוע או לא מוגדר בעקיפין, במיוחד בתוך שאלה או אמירה.",
+                "example": "Whom should I report this matter to?",
+                "example_hebrew": "למי עלי לדווח על הנושא הזה?"
+            },
+            {
+                "definition": "Utilized as the object of certain verbs that typically take an object in formal English (e.g., 'ask', 'consult').",
+                "definition_hebrew": "משמש כאובייקט של פעלים מסוימים שלוקחים בדרך כלל אובייקט באנגלית פורמלית (למשל, 'שאל', 'התייעץ').",
+                "example": "I asked him whom he believed would win the election.",
+                "example_hebrew": "שאלתי אותו מי הוא מאמין שינצח בבחירות."
+            }
+        ]
+    }
+]

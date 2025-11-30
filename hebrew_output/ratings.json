@@ -1,0 +1,34 @@
+[
+    {
+        "word": "ratings",
+        "word_hebrew": "דירוגים",
+        "main_definition": "Ratings refer to evaluations or scores given to various entities, such as movies, television shows, products, or services based on their quality, performance, or popularity.",
+        "main_definition_hebrew": "דירוגים מתייחסים להערכות או לציונים שניתנו לגופים שונים, כגון סרטים, תוכניות טלוויזיה, מוצרים או שירותים על סמך האיכות, הביצועים או הפופולריות שלהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Evaluation of a movie's quality",
+                "definition_hebrew": "הערכת איכות הסרט",
+                "example": "The latest Marvel film received an 8.5 rating from the majority of critics.",
+                "example_hebrew": "הסרט האחרון של מארוול קיבל דירוג של 8.5 מרוב המבקרים."
+            },
+            {
+                "definition": "Average score given to television shows based on viewer feedback or critic reviews",
+                "definition_hebrew": "ציון ממוצע שניתן לתוכניות טלוויזיה על סמך משוב צופים או ביקורות מבקרים",
+                "example": "The new season of 'Game of Thrones' scored a 9 out of 10 in ratings, indicating high approval from viewers and critics.",
+                "example_hebrew": "העונה החדשה של 'משחקי הכס' זכתה לציון 9 מתוך 10 ברייטינג, מה שמעיד על אישור גבוה מהצופים והמבקרים."
+            },
+            {
+                "definition": "Rating system used to quantify the popularity or success of products or services",
+                "definition_hebrew": "מערכת דירוג המשמשת לכימות הפופולריות או ההצלחה של מוצרים או שירותים",
+                "example": "The latest iPhone received an A+ rating for its innovative features and user experience.",
+                "example_hebrew": "האייפון האחרון קיבל דירוג A+ עבור התכונות החדשניות וחווית המשתמש שלו."
+            },
+            {
+                "definition": "Statistical representation indicating how much content is watched or consumed by viewers",
+                "definition_hebrew": "ייצוג סטטיסטי המציין כמה תוכן נצפה או נצרך על ידי הצופים",
+                "example": "Netflix's original series had high ratings, with millions of households watching the show weekly.",
+                "example_hebrew": "לסדרה המקורית של נטפליקס הייתה דירוג גבוה, כשמיליוני בתי אב צפו בתוכנית מדי שבוע."
+            }
+        ]
+    }
+]

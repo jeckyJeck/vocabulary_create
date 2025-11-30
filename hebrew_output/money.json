@@ -1,0 +1,40 @@
+[
+    {
+        "word": "money",
+        "word_hebrew": "כֶּסֶף",
+        "main_definition": "Money is a medium of exchange in the form of coins, banknotes, or digital currency, which is widely accepted as payment for goods and services.",
+        "main_definition_hebrew": "כסף הוא אמצעי החלפה בצורה של מטבעות, שטרות או מטבע דיגיטלי, המקובל באופן נרחב כתשלום עבור סחורות ושירותים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A store of value",
+                "definition_hebrew": "חנות של ערך",
+                "example": "People often save money to purchase expensive items in the future.",
+                "example_hebrew": "לעתים קרובות אנשים חוסכים כסף כדי לרכוש פריטים יקרים בעתיד."
+            },
+            {
+                "definition": "A unit of account",
+                "definition_hebrew": "יחידת חשבון",
+                "example": "The price of a product is usually stated in terms of currency, which allows for easy comparison between different goods and services.",
+                "example_hebrew": "מחיר מוצר נקוב בדרך כלל במונחי מטבע, מה שמאפשר השוואה קלה בין סחורות ושירותים שונים."
+            },
+            {
+                "definition": "Standard of deferred payment",
+                "definition_hebrew": "תקן של תשלום דחוי",
+                "example": "When someone takes out a loan, the repayment amount will be specified using the medium of money as a standard unit.",
+                "example_hebrew": "כאשר מישהו לוקח הלוואה, סכום ההחזר יצוין באמצעות מדיום הכסף כיחידה סטנדרטית."
+            },
+            {
+                "definition": "An idiom meaning to have a lot of wealth or financial success",
+                "definition_hebrew": "ניב שפירושו להיות בעל עושר רב או הצלחה כלכלית",
+                "example": "After years of hard work, he finally made it big and became very rich – he has so much money!",
+                "example_hebrew": "אחרי שנים של עבודה קשה, הוא סוף סוף עשה את זה בגדול והתעשר מאוד - יש לו כל כך הרבה כסף!"
+            },
+            {
+                "definition": "The metaphorical expression referring to an ability to influence people's decisions through various means",
+                "definition_hebrew": "הביטוי המטפורי המתייחס ליכולת להשפיע על החלטות של אנשים באמצעים שונים",
+                "example": "His persuasive skills are his 'money', as they allow him to get what he wants.",
+                "example_hebrew": "כישורי השכנוע שלו הם ה'כסף' שלו, שכן הם מאפשרים לו להשיג את מה שהוא רוצה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "wiki",
+        "word_hebrew": "ויקי",
+        "main_definition": "A website or online platform that allows collaborative editing of its content by multiple users.",
+        "main_definition_hebrew": "אתר אינטרנט או פלטפורמה מקוונת המאפשרת עריכה משותפת של תוכנו על ידי מספר משתמשים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Originating from Wikipedia, the free encyclopedia project which pioneered this concept.",
+                "definition_hebrew": "מקורו בוויקיפדיה, פרויקט האנציקלופדיה החופשית שהיה חלוץ הרעיון הזה.",
+                "example": "Wiki is a term derived from 'wiki wiki', a Hawaiian phrase that means 'quickly'.",
+                "example_hebrew": "ויקי הוא מונח שמקורו ב-'wiki wiki', ביטוי הוואי שפירושו 'מהר'."
+            },
+            {
+                "definition": "A collection of interconnected web pages or documents on a specific topic, typically maintained collaboratively by its users.",
+                "definition_hebrew": "אוסף של דפי אינטרנט או מסמכים הקשורים זה לזה בנושא מסוים, המתוחזקים בדרך כלל בשיתוף פעולה על ידי המשתמשים שלו.",
+                "example": "The English Wikipedia is an example of a wiki where millions of people contribute to writing articles about various subjects.",
+                "example_hebrew": "ויקיפדיה האנגלית היא דוגמה לויקי שבה מיליוני אנשים תורמים לכתיבת מאמרים בנושאים שונים."
+            },
+            {
+                "definition": "An informal term referring to the ease and speed with which information can be updated or corrected on such platforms.",
+                "definition_hebrew": "מונח לא פורמלי המתייחס לקלות ולמהירות שבה ניתן לעדכן או לתקן מידע בפלטפורמות כאלה.",
+                "example": "I changed my personal biography on the wiki, but now anyone else can also edit it at any time.",
+                "example_hebrew": "שיניתי את הביוגרפיה האישית שלי בוויקי, אבל עכשיו כל אחד אחר יכול גם לערוך אותה בכל עת."
+            },
+            {
+                "definition": "A software program that allows for collaborative editing of documents, often used in business settings to facilitate teamwork and project management.",
+                "definition_hebrew": "תוכנה המאפשרת עריכה משותפת של מסמכים, המשמשת לעתים קרובות במסגרות עסקיות כדי להקל על עבודת צוות וניהול פרויקטים.",
+                "example": "Our company uses a proprietary wiki application to keep track of ongoing projects and share updates among team members.",
+                "example_hebrew": "החברה שלנו משתמשת ביישום ויקי קנייני כדי לעקוב אחר פרויקטים מתמשכים ולשתף עדכונים בין חברי הצוות."
+            }
+        ]
+    }
+]

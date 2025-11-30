@@ -1,0 +1,46 @@
+[
+    {
+        "word": "stations",
+        "word_hebrew": "תחנות",
+        "main_definition": "Stations refer to various places or points, typically associated with transportation systems where vehicles stop regularly.",
+        "main_definition_hebrew": "תחנות מתייחסות למקומות או נקודות שונות, הקשורות בדרך כלל למערכות תחבורה שבהן כלי רכב עוצרים באופן קבוע.",
+        "meanings_and_examples": [
+            {
+                "definition": "A place where trains regularly stop for passengers and cargo pick-up/drop-off. Example: 'I waited at the train station until my friend arrived.'",
+                "definition_hebrew": "מקום בו עוצרות רכבות באופן קבוע עבור נוסעים ואיסוף/הורדת מטענים. דוגמה: 'חיכיתי בתחנת הרכבת עד שחבר שלי הגיע'.",
+                "example": "'The red line trains make stops every 15 minutes at this subway station.'",
+                "example_hebrew": "\"רכבות הקו האדום עוצרות כל 15 דקות בתחנת הרכבת התחתית הזו.\""
+            },
+            {
+                "definition": "A point in a network where transport vehicles such as buses or trams stop for passengers. Example: 'I board the city bus at the central bus station.'",
+                "definition_hebrew": "נקודה ברשת שבה עוצרים רכבי תחבורה כמו אוטובוסים או חשמליות לנוסעים. דוגמה: 'אני עולה על האוטובוס העירוני בתחנה המרכזית'.",
+                "example": "'The local tram service has stops at every major street intersection throughout town.'",
+                "example_hebrew": "'לשירות החשמלית המקומי יש תחנות בכל צומת רחובות מרכזי ברחבי העיר'."
+            },
+            {
+                "definition": "A point in a network where planes land and take off, providing access to passengers. Example: 'I arrived at the airport after my flight from New York.'",
+                "definition_hebrew": "נקודה ברשת שבה מטוסים נוחתים וממריאים, המספקת גישה לנוסעים. דוגמה: 'הגעתי לשדה התעופה אחרי הטיסה שלי מניו יורק'.",
+                "example": "'The small regional airport has two runways for domestic flights and one for international arrivals.'",
+                "example_hebrew": "\"בשדה התעופה האזורי הקטן יש שני מסלולים לטיסות פנים ואחד לכניסות בינלאומיות\"."
+            },
+            {
+                "definition": "A place where ships anchor, dock, or load/unload cargo. Example: 'Cargo was unloaded from the ship at the port station.'",
+                "definition_hebrew": "מקום שבו אוניות עוגנת, עגינה או עומסות/פורקות מטען. דוגמה: 'מטען נפרק מהאונייה בתחנת הנמל'.",
+                "example": "'The cruise terminal serves as a temporary station for passengers before their onward journey.'",
+                "example_hebrew": "'טרמינל השייט משמש כתחנה זמנית לנוסעים לפני המשך נסיעתם'."
+            },
+            {
+                "definition": "A fixed location where police or security forces monitor and manage traffic. Example: 'I was stopped by a patrol at the highway checkpoint.'",
+                "definition_hebrew": "מיקום קבוע בו משטרה או כוחות ביטחון מפקחים ומנהלים את התנועה. דוגמה: 'נעצרתי על ידי סיור במחסום הכביש המהיר'.",
+                "example": "'The city installed surveillance cameras at all major intersections to ensure safety and compliance with traffic laws.'",
+                "example_hebrew": "'העירייה התקינה מצלמות מעקב בכל הצמתים המרכזיים כדי להבטיח בטיחות ועמידה בחוקי התנועה'."
+            },
+            {
+                "definition": "A facility where medical professionals provide care, treatment, or examination. Example: 'I saw my doctor at the hospital station.'",
+                "definition_hebrew": "מתקן שבו אנשי מקצוע רפואיים מספקים טיפול, טיפול או בדיקה. דוגמה: 'ראיתי את הרופא שלי בתחנת בית החולים'.",
+                "example": "'The clinic has several stations for different specialties like cardiology and pediatrics.'",
+                "example_hebrew": "'במרפאה יש כמה תחנות להתמחויות שונות כמו קרדיולוגיה ורפואת ילדים'."
+            }
+        ]
+    }
+]

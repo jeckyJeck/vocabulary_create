@@ -1,0 +1,40 @@
+[
+    {
+        "word": "advertisement",
+        "word_hebrew": "פרסומת",
+        "main_definition": "An advertisement is a promotional message or campaign used to raise awareness, generate interest, or stimulate demand for a product, service, event, or cause.",
+        "main_definition_hebrew": "פרסומת היא מסר או קמפיין פרסומי המשמשים להעלאת המודעות, ליצירת עניין או לעורר ביקוש למוצר, שירות, אירוע או מטרה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A paid announcement in print, on television, radio, online, or other media",
+                "definition_hebrew": "הודעה בתשלום בדפוס, בטלוויזיה, ברדיו, באינטרנט או במדיה אחרת",
+                "example": "The newspaper featured an advertisement promoting the latest smartphone model.",
+                "example_hebrew": "בעיתון הופיעה פרסומת לקידום דגם הסמארטפון האחרון."
+            },
+            {
+                "definition": "An attempt to persuade people to buy a product or service by providing information about its features and benefits",
+                "definition_hebrew": "ניסיון לשכנע אנשים לקנות מוצר או שירות על ידי מתן מידע על התכונות והיתרונות שלו",
+                "example": "A billboard with bright colors, catchy phrases, and images was an effective advertisement for the new sneaker brand.",
+                "example_hebrew": "שלט חוצות עם צבעים עזים, ביטויים קליטים ותמונות היה פרסומת יעילה למותג הסניקרס החדש."
+            },
+            {
+                "definition": "An announcement used to inform a target audience about an event or offer",
+                "definition_hebrew": "הודעה המשמשת ליידע קהל יעד על אירוע או הצעה",
+                "example": "The local radio station aired an advertisement reminding residents of the upcoming community fair.",
+                "example_hebrew": "תחנת הרדיו המקומית שידרה פרסומת המזכירה לתושבים את היריד הקהילתי הקרוב."
+            },
+            {
+                "definition": "A marketing communication that attempts to influence purchase behavior by presenting a specific product, service, brand, or idea in a favorable light",
+                "definition_hebrew": "תקשורת שיווקית המנסה להשפיע על התנהגות רכישה על ידי הצגת מוצר, שירות, מותג או רעיון ספציפיים באור חיובי",
+                "example": "The charity organization created an emotional advertisement to encourage donations for disaster relief.",
+                "example_hebrew": "ארגון הצדקה יצר פרסומת מרגשת לעידוד תרומות לסיוע באסון."
+            },
+            {
+                "definition": "A promotional message designed to create interest and persuade consumers about the value of a product or service",
+                "definition_hebrew": "מסר פרסומי שנועד ליצור עניין ולשכנע צרכנים לגבי הערך של מוצר או שירות",
+                "example": "An online video ad showcasing customer testimonials effectively promoted the benefits of using an organic skincare line.",
+                "example_hebrew": "מודעת וידאו מקוונת המציגה המלצות של לקוחות קידמה ביעילות את היתרונות של שימוש בקו טיפוח אורגני."
+            }
+        ]
+    }
+]

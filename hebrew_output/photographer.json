@@ -1,0 +1,40 @@
+[
+    {
+        "word": "photographer",
+        "word_hebrew": "צַלָם",
+        "main_definition": "A photographer is a person who takes, develops, edits or manages photographic images.",
+        "main_definition_hebrew": "צלם הוא אדם שמצלם, מפתח, עורך או מנהל תמונות צילום.",
+        "meanings_and_examples": [
+            {
+                "definition": "Professional Photographer",
+                "definition_hebrew": "צלם מקצועי",
+                "example": "Samantha works as a professional photographer for various magazines and events.",
+                "example_hebrew": "סמנתה עובדת כצלמת מקצועית עבור מגזינים ואירועים שונים."
+            },
+            {
+                "definition": "Still Life Photographer",
+                "definition_hebrew": "צלם טבע דומם",
+                "example": "John specializes in still life photography, capturing images of objects like flowers, fruits, or household items.",
+                "example_hebrew": "ג'ון מתמחה בצילום טבע דומם, לכידת תמונות של חפצים כמו פרחים, פירות או חפצי בית."
+            },
+            {
+                "definition": "Portrait Photographer",
+                "definition_hebrew": "צלם פורטרט",
+                "example": "Emily is a portrait photographer who takes professional headshots and family portraits.",
+                "example_hebrew": "אמילי היא צלמת פורטרטים שמצלמת צילומי ראש מקצועיים ודיוקנאות משפחתיים."
+            },
+            {
+                "definition": "Aerial Photographer",
+                "definition_hebrew": "צלם אוויר",
+                "example": "The team of aerial photographers captured stunning images from the helicopter above the city.",
+                "example_hebrew": "צוות צלמי האוויר צילם תמונות מדהימות מהמסוק שמעל העיר."
+            },
+            {
+                "definition": "Fashion Photographer",
+                "definition_hebrew": "צלם אופנה",
+                "example": "Alexandra is a fashion photographer, known for her striking and innovative images in top-tier fashion magazines.",
+                "example_hebrew": "אלכסנדרה היא צלמת אופנה, הידועה בתמונות הבולטות והחדשניות שלה במגזיני אופנה מהשורה הראשונה."
+            }
+        ]
+    }
+]

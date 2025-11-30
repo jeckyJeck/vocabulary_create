@@ -1,0 +1,34 @@
+[
+    {
+        "word": "valid",
+        "word_hebrew": "תָקֵף",
+        "main_definition": "Adequate, legally or logically sufficient; capable of being upheld or defended.",
+        "main_definition_hebrew": "הולם, חוקי או הגיוני מספיק; ניתן לקיים או להגן עליו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Correct in form or arrangement",
+                "definition_hebrew": "נכון בצורה או בהסדר",
+                "example": "The answer he gave to the math problem was valid.",
+                "example_hebrew": "התשובה שנתן לבעיית המתמטיקה הייתה תקפה."
+            },
+            {
+                "definition": "Legally acceptable and enforceable",
+                "definition_hebrew": "מקובל מבחינה משפטית ואכיפה",
+                "example": "His will was found to be valid, so it could be executed as per his wishes.",
+                "example_hebrew": "צוואתו נמצאה תקפה, כך שניתן היה לקיים אותה על פי רצונו."
+            },
+            {
+                "definition": "Logically sound or reasonable",
+                "definition_hebrew": "הגיוני או הגיוני",
+                "example": "The scientist's hypothesis is considered a valid argument based on the experimental data.",
+                "example_hebrew": "השערת המדען נחשבת לטיעון תקף המבוסס על נתוני הניסוי."
+            },
+            {
+                "definition": "Capable of being accepted, approved, or acted upon",
+                "definition_hebrew": "מסוגל להתקבל, לאשר או לפעול",
+                "example": "Once the document was checked for errors and found to be valid, it could be signed by all parties involved.",
+                "example_hebrew": "לאחר שהמסמך נבדק לאיתור שגיאות ונמצא תקף, ניתן היה לחתום עליו על ידי כל הצדדים המעורבים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "clinic",
+        "word_hebrew": "מרפאה",
+        "main_definition": "A medical facility where patients receive outpatient care, often focusing on specific areas of medicine or services.",
+        "main_definition_hebrew": "מתקן רפואי שבו חולים מקבלים טיפול חוץ, לעתים קרובות מתמקד בתחומים ספציפיים של רפואה או שירותים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Healthcare establishment for treating illnesses and injuries in a non-hospital setting.",
+                "definition_hebrew": "מוסד בריאות לטיפול במחלות ופציעות במסגרת שאינה בית חולים.",
+                "example": "She went to the clinic to get her flu shot.",
+                "example_hebrew": "היא הלכה למרפאה כדי לקבל חיסון נגד שפעת."
+            },
+            {
+                "definition": "A facility that provides specialized medical services or treatments, such as dental care or mental health counseling.",
+                "definition_hebrew": "מתקן המספק שירותים או טיפולים רפואיים מיוחדים, כגון טיפול שיניים או ייעוץ לבריאות הנפש.",
+                "example": "The pediatric clinic offers check-ups and vaccinations for children.",
+                "example_hebrew": "מרפאת הילדים מציעה בדיקות וחיסונים לילדים."
+            },
+            {
+                "definition": "In sports, a place where athletes receive treatment and rehabilitation after injuries.",
+                "definition_hebrew": "בספורט, מקום בו מקבלים ספורטאים טיפול ושיקום לאחר פציעות.",
+                "example": "After tearing his ACL during the game, the football player went to the clinic for surgery and physical therapy.",
+                "example_hebrew": "לאחר שקרע את ה-ACL שלו במהלך המשחק, שחקן הכדורגל הלך למרפאה לניתוח ופיזיותרפיה."
+            },
+            {
+                "definition": "A location providing medical services related to pregnancy and childbirth.",
+                "definition_hebrew": "מקום המספק שירותים רפואיים הקשורים להריון ולידה.",
+                "example": "The maternity clinic helped them monitor their baby's growth throughout the pregnancy.",
+                "example_hebrew": "מרפאת היולדות עזרה להן לעקוב אחר גדילת תינוקן לאורך כל ההיריון."
+            }
+        ]
+    }
+]

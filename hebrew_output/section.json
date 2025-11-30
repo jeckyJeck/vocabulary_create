@@ -1,0 +1,34 @@
+[
+    {
+        "word": "section",
+        "word_hebrew": "סָעִיף",
+        "main_definition": "A part of a larger whole, typically with distinct characteristics or purposes.",
+        "main_definition_hebrew": "חלק ממכלול גדול יותר, בדרך כלל עם מאפיינים או מטרות ברורות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Partitioning in written material (books, documents) into smaller parts for better organization and understanding.",
+                "definition_hebrew": "חלוקה של חומר כתוב (ספרים, מסמכים) לחלקים קטנים יותר לארגון והבנה טובים יותר.",
+                "example": "The research paper was divided into three sections: Introduction, Methodology, and Results.",
+                "example_hebrew": "עבודת המחקר חולקה לשלושה חלקים: מבוא, מתודולוגיה ותוצאות."
+            },
+            {
+                "definition": "A designated part of a larger area or space, often with specific characteristics or purposes.",
+                "definition_hebrew": "חלק ייעודי של שטח או חלל גדול יותר, לעתים קרובות עם מאפיינים או מטרות ספציפיות.",
+                "example": "The concert hall had four main sections for different types of performances, such as music, dance, drama, and comedy.",
+                "example_hebrew": "באולם הקונצרטים היו ארבעה חלקים עיקריים לסוגים שונים של הופעות, כמו מוזיקה, ריקוד, דרמה וקומדיה."
+            },
+            {
+                "definition": "One of several parts into which something is divided.",
+                "definition_hebrew": "אחד מכמה חלקים שלתוכם משהו מחולק.",
+                "example": "The city council proposed to divide the downtown area into three sections: retail, residential, and commercial.",
+                "example_hebrew": "מועצת העיר הציעה לחלק את אזור מרכז העיר לשלושה חלקים: קמעונאות, מגורים ומסחר."
+            },
+            {
+                "definition": "A segment or subdivision within an organization's structure, typically with specific roles and responsibilities.",
+                "definition_hebrew": "פלח או תת-חלוקה בתוך מבנה הארגון, בדרך כלל עם תפקידים ואחריות ספציפיים.",
+                "example": "The company was restructured to include a marketing section, a finance section, and an operations section.",
+                "example_hebrew": "החברה עברה מבנה מחדש כדי לכלול מדור שיווק, מדור כספים ומדור תפעול."
+            }
+        ]
+    }
+]

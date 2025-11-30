@@ -1,0 +1,28 @@
+[
+    {
+        "word": "engineers",
+        "word_hebrew": "מהנדסים",
+        "main_definition": "Engineers are individuals who design, build, or maintain structures, machines, systems, or processes using scientific principles.",
+        "main_definition_hebrew": "מהנדסים הם אנשים שמתכננים, בונים או מתחזקים מבנים, מכונות, מערכות או תהליכים תוך שימוש בעקרונות מדעיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A professional occupation",
+                "definition_hebrew": "עיסוק מקצועי",
+                "example": "John is an electrical engineer working on developing new technology.",
+                "example_hebrew": "ג'ון הוא מהנדס חשמל שעובד על פיתוח טכנולוגיה חדשה."
+            },
+            {
+                "definition": "Individuals who contribute to the creation or improvement of something, often metaphorically",
+                "definition_hebrew": "אנשים שתורמים ליצירה או לשיפור של משהו, לעתים קרובות באופן מטפורי",
+                "example": "The marketing team were engineers in their approach to solving customer challenges.",
+                "example_hebrew": "צוות השיווק היו מהנדסים בגישתם לפתרון אתגרי הלקוחות."
+            },
+            {
+                "definition": "A group of people working together on a common project, especially one related to design and construction",
+                "definition_hebrew": "קבוצה של אנשים שעובדים יחד על פרויקט משותף, במיוחד כזה הקשור לתכנון ובנייה",
+                "example": "The engineering department collaborated with architects to construct the new building.",
+                "example_hebrew": "מחלקת ההנדסה שיתפה פעולה עם אדריכלים לבניית הבניין החדש."
+            }
+        ]
+    }
+]

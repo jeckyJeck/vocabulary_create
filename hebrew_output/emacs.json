@@ -1,0 +1,28 @@
+[
+    {
+        "word": "emacs",
+        "word_hebrew": "emacs",
+        "main_definition": "Emacs is a powerful, extensible text editor used primarily in the programming community.",
+        "main_definition_hebrew": "Emacs הוא עורך טקסט רב עוצמה וניתן להרחבה המשמש בעיקר בקהילת התכנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A reference to a highly customizable and versatile text editing software program.",
+                "definition_hebrew": "התייחסות לתוכנת עריכת טקסט הניתנת להתאמה אישית ורב-תכליתית.",
+                "example": "As a programmer, I prefer using Emacs for its extensive capabilities compared to basic text editors.",
+                "example_hebrew": "כמתכנת, אני מעדיף להשתמש ב-Emacs בגלל היכולות הנרחבות שלו בהשוואה לעורכי טקסט בסיסיים."
+            },
+            {
+                "definition": "An idiom implying that someone or something is overly complex or difficult to understand, similar to the phrase 'more complex than one could hope'.",
+                "definition_hebrew": "ניב המרמז שמישהו או משהו מורכב מדי או קשה להבנה, בדומה לביטוי \"מורכב יותר ממה שאפשר לקוות\".",
+                "example": "The new software update was so complicated; it's like dealing with an Emacs for a beginner programmer.",
+                "example_hebrew": "עדכון התוכנה החדש היה כל כך מסובך; זה כמו להתמודד עם Emacs למתכנת מתחיל."
+            },
+            {
+                "definition": "A nickname given to users in online communities due to its long and challenging name, used as a humorous way to signify uniqueness or quirkiness.",
+                "definition_hebrew": "כינוי שניתן למשתמשים בקהילות מקוונות בשל שמו הארוך והמאתגר, המשמש כדרך הומוריסטית לסמן ייחודיות או מוזרות.",
+                "example": "In our gaming community, we often call each other 'emacs' jokingly because of the complex nature of the editor.",
+                "example_hebrew": "בקהילת המשחקים שלנו, לעתים קרובות אנו קוראים זה לזה 'emacs' בצחוק בגלל האופי המורכב של העורך."
+            }
+        ]
+    }
+]

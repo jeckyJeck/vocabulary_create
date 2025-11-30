@@ -1,0 +1,46 @@
+[
+    {
+        "word": "cluster",
+        "word_hebrew": "אֶשׁכּוֹל",
+        "main_definition": "A group of similar things or people positioned or occurring closely together; also used to describe a grouping in various contexts, including data analysis and natural phenomena.",
+        "main_definition_hebrew": "קבוצה של דברים או אנשים דומים הממוקמים או מתרחשים בצמוד זה לזה; משמש גם לתיאור קיבוץ בהקשרים שונים, כולל ניתוח נתונים ותופעות טבע.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing and data analysis, refers to a collection of related objects stored as a single unit. For example, 'A cluster of servers is used for distributed processing.'",
+                "definition_hebrew": "במחשוב וניתוח נתונים, מתייחס לאוסף של אובייקטים קשורים המאוחסנים כיחידה אחת. לדוגמה, 'מצרף שרתים משמש לעיבוד מבוזר'.",
+                "example": "The company uses a cluster of computers to process large amounts of data.",
+                "example_hebrew": "החברה משתמשת באשכול מחשבים כדי לעבד כמויות גדולות של נתונים."
+            },
+            {
+                "definition": "In geography and natural phenomena, describes a group of objects or events occurring near each other in space. For example, 'A cluster of stars forms a constellation.'",
+                "definition_hebrew": "בגיאוגרפיה ובתופעות טבע, מתאר קבוצה של עצמים או אירועים המתרחשים זה ליד זה בחלל. לדוגמה, 'צביר כוכבים יוצר קבוצת כוכבים'.",
+                "example": "The meteor shower resulted in a beautiful cluster of shooting stars.",
+                "example_hebrew": "מטר המטאורים הביא לצביר יפהפה של כוכבים נופלים."
+            },
+            {
+                "definition": "In everyday language, describes people who live or work closely together. For example, 'He moved into the neighborhood and quickly became part of the local community cluster.'",
+                "definition_hebrew": "בשפה היומיומית, מתאר אנשים שחיים או עובדים בצמוד. למשל, 'הוא עבר לשכונה ומהר מאוד הפך לחלק מהאשכול הקהילתי המקומי'.",
+                "example": "After moving to Paris, she felt like a small cluster within the large population.",
+                "example_hebrew": "לאחר שעברה לפריז, היא הרגישה כמו אשכול קטן בתוך האוכלוסייה הגדולה."
+            },
+            {
+                "definition": "In medicine and healthcare, refers to an aggregation or grouping of symptoms or conditions. For example, 'Patients with certain diseases may exhibit a common symptom cluster.'",
+                "definition_hebrew": "ברפואה ובבריאות, מתייחס לצבירה או קיבוץ של סימפטומים או מצבים. לדוגמה, 'חולים עם מחלות מסוימות עשויים להפגין מקבץ סימפטומים נפוץ'.",
+                "example": "The doctor noted a cluster of symptoms that could indicate the onset of influenza.",
+                "example_hebrew": "הרופא ציין מקבץ של תסמינים שיכולים להעיד על הופעת שפעת."
+            },
+            {
+                "definition": "In business and sales, describes groups or sets of products marketed together. For example, 'We offer various product clusters to cater to different customer needs.'",
+                "definition_hebrew": "בעסקים ובמכירות, מתאר קבוצות או סטים של מוצרים המשווקים יחד. לדוגמה, 'אנו מציעים אשכולות מוצרים שונים כדי לתת מענה לצרכי לקוחות שונים.'",
+                "example": "The electronics store created a cluster of TVs, sound systems, and accessories for the holiday sale.",
+                "example_hebrew": "חנות האלקטרוניקה יצרה מקבץ של טלוויזיות, מערכות סאונד ואביזרים למכירת החג."
+            },
+            {
+                "definition": "In sports, refers to players or teams grouped together due to similar playing style or tactical approach. For example, 'The midfield is often composed of various player clusters.'",
+                "definition_hebrew": "בספורט, מתייחס לשחקנים או קבוצות המקובצות יחד בשל סגנון משחק דומה או גישה טקטית. לדוגמה, 'אמצע השדה מורכב לרוב מקבוצות שחקנים שונות'.",
+                "example": "During a soccer match, the coach devised strategies that utilized different player clusters.",
+                "example_hebrew": "במהלך משחק כדורגל, המאמן הגה אסטרטגיות המנצלות אשכולות שחקנים שונים."
+            }
+        ]
+    }
+]

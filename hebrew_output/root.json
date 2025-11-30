@@ -1,0 +1,34 @@
+[
+    {
+        "word": "root",
+        "word_hebrew": "שורש",
+        "main_definition": "The root of a word is its fundamental, primitive, or basic form that typically reveals the core meaning from which other forms are derived.",
+        "main_definition_hebrew": "השורש של מילה הוא צורתה הבסיסית, הפרימיטיבית או הבסיסית, החושפת בדרך כלל את משמעות הליבה ממנה נגזרות צורות אחרות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Origin or source",
+                "definition_hebrew": "מקור או מקור",
+                "example": "The root cause of the problem was poor communication.",
+                "example_hebrew": "שורש הבעיה היה תקשורת לקויה."
+            },
+            {
+                "definition": "Underlying basis or foundation",
+                "definition_hebrew": "בסיס או בסיס",
+                "example": "A strong root system is essential for a tree's stability and growth.",
+                "example_hebrew": "מערכת שורשים חזקה חיונית ליציבות העץ ולצמיחתו."
+            },
+            {
+                "definition": "Base part of a word where its meaning originates, usually before any affixes are added",
+                "definition_hebrew": "חלק בסיס של מילה שמקורה במשמעות שלה, בדרך כלל לפני הוספת תוספות כלשהן",
+                "example": "The 'run' in the words 'runner', 'running', and 'ran' is a root that signifies movement.",
+                "example_hebrew": "ה'ריצה' במילים 'רץ', 'ריצה' ו'רץ' היא שורש המסמל תנועה."
+            },
+            {
+                "definition": "A plant stem from which leaves or aerial shoots grow",
+                "definition_hebrew": "גזע צמח שממנו צומחים עלים או נצרי אוויר",
+                "example": "Carrots are vegetables grown for their edible roots.",
+                "example_hebrew": "גזר הוא ירקות שגדלו עבור שורשיהם האכילים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "worth",
+        "word_hebrew": "שִׁוּוּי",
+        "main_definition": "Worth is a measure of the value, importance, or merit of something.",
+        "main_definition_hebrew": "ערך הוא מדד לערכו, חשיבותו או הכשרון של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Value in terms of money",
+                "definition_hebrew": "ערך במונחים של כסף",
+                "example": "The car was worth $20,000.",
+                "example_hebrew": "הרכב היה שווה 20,000 דולר."
+            },
+            {
+                "definition": "Meritorious or deserving recognition",
+                "definition_hebrew": "הכרה ראויה או ראויה",
+                "example": "Her hard work and dedication made her a person of great worth in the eyes of her colleagues.",
+                "example_hebrew": "עבודתה הקשה ומסירותה הפכו אותה לאדם בעל ערך רב בעיני עמיתיה."
+            },
+            {
+                "definition": "The degree to which something is good, valuable, or beneficial",
+                "definition_hebrew": "המידה שבה משהו טוב, בעל ערך או מועיל",
+                "example": "Exercising regularly has become very important to me. It's worth every effort I put into it.",
+                "example_hebrew": "פעילות גופנית סדירה הפכה לי מאוד חשובה. זה שווה כל מאמץ שהשקעתי בזה."
+            },
+            {
+                "definition": "Sufficient to meet a requirement or satisfy an expectation",
+                "definition_hebrew": "מספיק כדי לעמוד בדרישה או לספק ציפייה",
+                "example": "This donation is not enough to cover the cost of rebuilding the school; we need something more worthwhile.",
+                "example_hebrew": "תרומה זו אינה מספיקה לכיסוי עלות בניית בית הספר מחדש; אנחנו צריכים משהו יותר שווה."
+            },
+            {
+                "definition": "Having value as a standard of comparison for other items' value",
+                "definition_hebrew": "בעל ערך כסטנדרט השוואה לערך של פריטים אחרים",
+                "example": "Gold has long been considered worth more than silver in most transactions.",
+                "example_hebrew": "זהב נחשב מזמן שווה יותר מכסף ברוב העסקאות."
+            }
+        ]
+    }
+]

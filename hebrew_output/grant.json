@@ -1,0 +1,34 @@
+[
+    {
+        "word": "grant",
+        "word_hebrew": "מענק",
+        "main_definition": "To give or allow freely, without expectation of return; to officially approve or authorize something.",
+        "main_definition_hebrew": "לתת או לאפשר בחופשיות, ללא ציפייה לתמורה; לאשר או לאשר משהו באופן רשמי.",
+        "meanings_and_examples": [
+            {
+                "definition": "To award money as a gift.",
+                "definition_hebrew": "להעניק כסף במתנה.",
+                "example": "The city council decided to grant $500 to the local charity.",
+                "example_hebrew": "מועצת העיר החליטה להעניק 500 דולר לארגון הצדקה המקומי."
+            },
+            {
+                "definition": "To give permission or approval for something requested.",
+                "definition_hebrew": "לתת רשות או אישור למשהו מבוקש.",
+                "example": "After reviewing his proposal, they granted him permission to proceed with his project.",
+                "example_hebrew": "לאחר בחינת הצעתו, הם העניקו לו רשות להמשיך בפרויקט שלו."
+            },
+            {
+                "definition": "To release (a prisoner) on parole after serving part of the prison sentence.",
+                "definition_hebrew": "לשחרר (אסיר) על תנאי לאחר ריצוי חלק מעונש המאסר.",
+                "example": "The judge decided to grant early parole to the inmate who showed good behavior while incarcerated.",
+                "example_hebrew": "השופט החליט להעניק שחרור מוקדם לאסיר שגילה התנהגות טובה בזמן הכליאה."
+            },
+            {
+                "definition": "To concede or admit (something).",
+                "definition_hebrew": "להודות או להודות (במשהו).",
+                "example": "After a long debate, she finally granted his request for a day off work.",
+                "example_hebrew": "לאחר ויכוח ארוך, היא נעתרה לבסוף לבקשתו ליום חופש מהעבודה."
+            }
+        ]
+    }
+]

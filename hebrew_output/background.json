@@ -1,0 +1,40 @@
+[
+    {
+        "word": "background",
+        "word_hebrew": "רקע כללי",
+        "main_definition": "Background refers to a person's educational, professional or personal history that provides context or influences their current status or situation.",
+        "main_definition_hebrew": "רקע מתייחס להיסטוריה החינוכית, המקצועית או האישית של אדם המספקת הקשר או משפיעה על מצבו או מצבו הנוכחי.",
+        "meanings_and_examples": [
+            {
+                "definition": "History of education and training",
+                "definition_hebrew": "היסטוריה של חינוך והכשרה",
+                "example": "Having a PhD in Physics as her background gives Maria expertise in scientific research.",
+                "example_hebrew": "בעלת תואר דוקטור בפיזיקה כרקע שלה מקנה למריה מומחיות במחקר מדעי."
+            },
+            {
+                "definition": "Personal history or circumstances that have shaped one's life experiences",
+                "definition_hebrew": "היסטוריה אישית או נסיבות שעיצבו את חוויות החיים של האדם",
+                "example": "Growing up in poverty is part of John's background, which influences his perspective on social issues.",
+                "example_hebrew": "לגדול בעוני הוא חלק מהרקע של ג'ון, שמשפיע על נקודת המבט שלו בנושאים חברתיים."
+            },
+            {
+                "definition": "Visual element placed behind something else to provide context or depth",
+                "definition_hebrew": "אלמנט חזותי ממוקם מאחורי משהו אחר כדי לספק הקשר או עומק",
+                "example": "The artist added a landscape as the background to enhance the main subject of her painting.",
+                "example_hebrew": "האמנית הוסיפה נוף כרקע כדי לשפר את הנושא העיקרי של הציור שלה."
+            },
+            {
+                "definition": "A long-standing problem or issue in an area such as law, politics, etc.",
+                "definition_hebrew": "בעיה או סוגיה ארוכת שנים בתחום כמו משפט, פוליטיקה וכו'.",
+                "example": "Corruption has been a major background concern for this country's political system.",
+                "example_hebrew": "שחיתות היוותה דאגת רקע מרכזית למערכת הפוליטית של המדינה הזו."
+            },
+            {
+                "definition": "The geographical region where someone is originally from",
+                "definition_hebrew": "האזור הגיאוגרפי שממנו מגיע מישהו במקור",
+                "example": "Her European background includes several countries in which she was born and raised.",
+                "example_hebrew": "הרקע האירופי שלה כולל כמה מדינות בהן היא נולדה וגדלה."
+            }
+        ]
+    }
+]

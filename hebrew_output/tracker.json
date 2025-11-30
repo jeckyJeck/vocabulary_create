@@ -1,0 +1,34 @@
+[
+    {
+        "word": "tracker",
+        "word_hebrew": "גַשָׁשׁ",
+        "main_definition": "A tracker is a device, person, or method used to follow, monitor, or locate something or someone.",
+        "main_definition_hebrew": "עוקב הוא מכשיר, אדם או שיטה המשמשים לעקוב, לנטר או לאתר משהו או מישהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "An animal that hunts and tracks other animals for food",
+                "definition_hebrew": "חיה שצדה ועוקבת אחר בעלי חיים אחרים לצורך מזון",
+                "example": "The cheetah is an efficient tracker with its remarkable speed.",
+                "example_hebrew": "הצ'יטה הוא גשש יעיל עם המהירות המדהימה שלו."
+            },
+            {
+                "definition": "A person who follows or investigates something or someone, often in a covert manner",
+                "definition_hebrew": "אדם שעוקב אחר או חוקר משהו או מישהו, לרוב בצורה סמויה",
+                "example": "The detective was determined to be the best dog-tracker on the force.",
+                "example_hebrew": "הבלש היה נחוש להיות הגשש הכלבים הטוב ביותר בכוח."
+            },
+            {
+                "definition": "A device that is used to keep track of an object's location over time",
+                "definition_hebrew": "מכשיר המשמש למעקב אחר מיקומו של אובייקט לאורך זמן",
+                "example": "We installed GPS trackers in our vehicles for real-time tracking and monitoring.",
+                "example_hebrew": "התקנו גששי GPS ברכבים שלנו למעקב וניטור בזמן אמת."
+            },
+            {
+                "definition": "The process or action of following the progress or development of something, such as a project or business trend",
+                "definition_hebrew": "התהליך או הפעולה של מעקב אחר התקדמות או התפתחות של משהו, כגון פרויקט או מגמה עסקית",
+                "example": "She is responsible for tracking the sales growth of her company over the past year.",
+                "example_hebrew": "היא אחראית למעקב אחר צמיחת המכירות של החברה שלה בשנה האחרונה."
+            }
+        ]
+    }
+]

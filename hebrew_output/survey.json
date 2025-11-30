@@ -1,0 +1,34 @@
+[
+    {
+        "word": "survey",
+        "word_hebrew": "סֶקֶר",
+        "main_definition": "To systematically collect data or information by asking people a series of questions.",
+        "main_definition_hebrew": "לאסוף באופן שיטתי נתונים או מידע על ידי שאילת אנשים סדרה של שאלות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A method to gather opinions from a group of people, usually through questioning.",
+                "definition_hebrew": "שיטה לאיסוף דעות מקבוצת אנשים, בדרך כלל באמצעות תשאול.",
+                "example": "The research team conducted a survey to understand customer satisfaction with their new product.",
+                "example_hebrew": "צוות המחקר ערך סקר כדי להבין את שביעות רצון הלקוחות מהמוצר החדש שלהם."
+            },
+            {
+                "definition": "An assessment or evaluation performed by examining a large number of cases or examples.",
+                "definition_hebrew": "הערכה או הערכה המבוצעת על ידי בחינת מספר רב של מקרים או דוגמאות.",
+                "example": "Before launching the product, they carried out an extensive market survey on similar products in the industry.",
+                "example_hebrew": "לפני השקת המוצר ערכו סקר שוק נרחב על מוצרים דומים בענף."
+            },
+            {
+                "definition": "To inspect or observe something thoroughly to gain information about it.",
+                "definition_hebrew": "לבדוק או להתבונן במשהו ביסודיות כדי לקבל מידע עליו.",
+                "example": "The city council decided to conduct a street survey to assess the condition of infrastructure and public amenities.",
+                "example_hebrew": "מועצת העיר החליטה לערוך סקר רחובות להערכת מצב התשתיות והשירותים הציבוריים."
+            },
+            {
+                "definition": "A document containing a series of questions intended to gather statistical data on various topics.",
+                "definition_hebrew": "מסמך המכיל שורה של שאלות שנועדו לאסוף נתונים סטטיסטיים בנושאים שונים.",
+                "example": "She filled out an online survey about her shopping habits for market research purposes.",
+                "example_hebrew": "היא מילאה סקר מקוון על הרגלי הקניות שלה למטרות מחקר שוק."
+            }
+        ]
+    }
+]

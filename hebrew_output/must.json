@@ -1,0 +1,34 @@
+[
+    {
+        "word": "must",
+        "word_hebrew": "צריך",
+        "main_definition": "Must is a modal verb used to express necessity or obligation.",
+        "main_definition_hebrew": "חייב הוא פועל מודאלי המשמש לביטוי הכרח או חובה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Expressing strong necessity or obligation",
+                "definition_hebrew": "הבעת נחיצות או מחויבות חזקה",
+                "example": "You must finish your homework before watching TV.",
+                "example_hebrew": "עליך לסיים שיעורי בית לפני צפייה בטלוויזיה."
+            },
+            {
+                "definition": "Indicating probability based on certain knowledge",
+                "definition_hebrew": "ציון הסתברות על סמך ידע מסוים",
+                "example": "It must rain today because the weather forecast says so.",
+                "example_hebrew": "בטח גשם היום כי תחזית מזג האוויר אומרת זאת."
+            },
+            {
+                "definition": "Used to indicate that something is essential or very important",
+                "definition_hebrew": "משמש כדי לציין שמשהו חיוני או חשוב מאוד",
+                "example": "He must be called for an urgent meeting.",
+                "example_hebrew": "יש לזמן אותו לפגישה דחופה."
+            },
+            {
+                "definition": "Indicating a strong assumption, expectation or prediction based on certain information",
+                "definition_hebrew": "מצביע על הנחה חזקה, ציפייה או חיזוי המבוססים על מידע מסוים",
+                "example": "She must have left her phone at home; she never goes anywhere without it.",
+                "example_hebrew": "היא בטח השאירה את הטלפון שלה בבית; היא אף פעם לא הולכת לשום מקום בלעדיו."
+            }
+        ]
+    }
+]

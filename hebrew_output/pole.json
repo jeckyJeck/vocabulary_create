@@ -1,0 +1,40 @@
+[
+    {
+        "word": "pole",
+        "word_hebrew": "מוֹט",
+        "main_definition": "A pole is a long, slender, cylindrical object or structure used for various purposes such as support, guidance, or to reach high places.",
+        "main_definition_hebrew": "מוט הוא חפץ או מבנה גלילי ארוך ודק המשמש למטרות שונות כמו תמיכה, הנחייה או הגעה למקומות גבוהים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Long stick-like object",
+                "definition_hebrew": "חפץ ארוך דמוי מקל",
+                "example": "The child played with the metal pole in the park.",
+                "example_hebrew": "הילד שיחק במוט המתכת בפארק."
+            },
+            {
+                "definition": "End of a magnetized bar used for compasses or other devices that require direction finding",
+                "definition_hebrew": "קצה פס ממוגנט המשמש למצפנים או מכשירים אחרים הדורשים איתור כיוון",
+                "example": "When you hold a compass, make sure its needle is aligned to the Earth's magnetic north pole.",
+                "example_hebrew": "כאשר אתה מחזיק מצפן, וודא שהמחט שלו מיושרת לקוטב הצפוני המגנטי של כדור הארץ."
+            },
+            {
+                "definition": "A vertical line extending from the top of an iceberg or mountain, indicating its height above sea level or ground level",
+                "definition_hebrew": "קו אנכי המשתרע מראש קרחון או הר, המציין את גובהו מעל פני הים או פני הקרקע",
+                "example": "The lighthouse was visible even though it stood tall on a sharp polar ice cap pole.",
+                "example_hebrew": "המגדלור נראה לעין למרות שהוא ניצב גבוה על עמוד כיפת קרח קוטבי חד."
+            },
+            {
+                "definition": "A boundary marker separating two areas such as countries or territories",
+                "definition_hebrew": "סמן גבול המפריד בין שני אזורים כגון מדינות או טריטוריות",
+                "example": "At the international border, soldiers guarded the metal poles that marked the separation between nations.",
+                "example_hebrew": "בגבול הבינלאומי שמרו חיילים על עמודי המתכת שסימנו את ההפרדה בין העמים."
+            },
+            {
+                "definition": "A long object used for climbing, holding onto, or reaching high places",
+                "definition_hebrew": "חפץ ארוך המשמש לטיפוס, אחיזה או הגעה למקומות גבוהים",
+                "example": "The mountaineers relied on their ropes and ice axes to scale the frozen pole of the mountain.",
+                "example_hebrew": "מטפסי ההרים הסתמכו על החבלים ועל גרזני הקרח שלהם כדי לעלות על הקוטב הקפוא של ההר."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "division",
+        "word_hebrew": "חֲלוּקָה",
+        "main_definition": "Division refers to the act of separating or partitioning something into smaller parts, groups, or sections.",
+        "main_definition_hebrew": "חלוקה מתייחסת לפעולה של הפרדה או חלוקה של משהו לחלקים קטנים יותר, קבוצות או חלקים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mathematical operation",
+                "definition_hebrew": "פעולה מתמטית",
+                "example": "The division of 20 by 4 equals 5.",
+                "example_hebrew": "החלוקה של 20 על 4 שווה ל-5."
+            },
+            {
+                "definition": "Separation of a larger entity into smaller parts or sections",
+                "definition_hebrew": "הפרדה של ישות גדולה יותר לחלקים או קטעים קטנים יותר",
+                "example": "After the company's restructuring, there was a division between marketing and sales departments.",
+                "example_hebrew": "לאחר ארגון מחדש של החברה, חלה חלוקה בין מחלקות השיווק והמכירות."
+            },
+            {
+                "definition": "Organizational unit within a business or institution",
+                "definition_hebrew": "יחידה ארגונית בתוך עסק או מוסד",
+                "example": "The HR department of our company is responsible for managing employee relations and benefits. It acts as an independent division from the finance team.",
+                "example_hebrew": "מחלקת משאבי אנוש של חברתנו אחראית על ניהול קשרי עובדים והטבות. היא פועלת כחטיבה עצמאית מצוות הכספים."
+            },
+            {
+                "definition": "Method used to solve problems by breaking them down into smaller, more manageable parts",
+                "definition_hebrew": "שיטה המשמשת לפתרון בעיות על ידי פירוקן לחלקים קטנים יותר וניתנים לניהול",
+                "example": "To improve time management skills, one can use a problem-solving strategy that involves dividing tasks into smaller steps and tackling each step individually.",
+                "example_hebrew": "כדי לשפר מיומנויות ניהול זמן, אפשר להשתמש באסטרטגיית פתרון בעיות הכוללת חלוקת משימות לשלבים קטנים יותר והתמודדות עם כל שלב בנפרד."
+            },
+            {
+                "definition": "Grouping or classification based on shared characteristics or criteria",
+                "definition_hebrew": "קיבוץ או סיווג על סמך מאפיינים או קריטריונים משותפים",
+                "example": "The division of students in the classroom was based on their grade level, with fifth graders being one division and sixth graders another.",
+                "example_hebrew": "חלוקת התלמידים בכיתה התבססה על רמת הכיתה שלהם, כאשר תלמידי כיתה ה' הם חטיבה אחת וכיתה ו' אחרת."
+            }
+        ]
+    }
+]

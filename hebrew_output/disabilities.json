@@ -1,0 +1,46 @@
+[
+    {
+        "word": "disabilities",
+        "word_hebrew": "מוגבלויות",
+        "main_definition": "Disabilities refer to various physical, mental, or sensory conditions that limit a person's movements, senses, or activities in their daily life.",
+        "main_definition_hebrew": "מוגבלויות מתייחסות למצבים פיזיים, נפשיים או תחושתיים שונים המגבילים את תנועותיו, חושיו או פעילויותיו של אדם בחיי היומיום שלו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical disabilities, which are impairments affecting one's body movement and function",
+                "definition_hebrew": "מוגבלויות פיזיות, שהן ליקויים המשפיעים על תנועת הגוף והתפקוד",
+                "example": "John has a physical disability as he uses crutches to move around due to his recent injury.",
+                "example_hebrew": "לג'ון יש מוגבלות פיזית כשהוא משתמש בקביים כדי להסתובב בגלל הפציעה האחרונה שלו."
+            },
+            {
+                "definition": "Mental disabilities, also known as cognitive disabilities, which impact an individual's intellectual abilities or mental processes",
+                "definition_hebrew": "מוגבלות שכלית, המכונה גם מוגבלות קוגניטיבית, המשפיעה על היכולות השכליות או התהליכים הנפשיים של הפרט",
+                "example": "Emily has a mental disability that affects her ability to communicate effectively with others and process information quickly.",
+                "example_hebrew": "לאמילי יש מגבלה נפשית המשפיעה על יכולתה לתקשר ביעילות עם אחרים ולעבד מידע במהירות."
+            },
+            {
+                "definition": "Sensory disabilities, which are conditions that impair one's senses like vision, hearing, or touch",
+                "definition_hebrew": "לקויות חושיות, שהם מצבים הפוגעים בחושים כמו ראייה, שמיעה או מגע",
+                "example": "Maria has a sensory disability as she is visually impaited, relying on her remaining sight and other senses to navigate the world.",
+                "example_hebrew": "למריה יש לקות חושית כיוון שהיא לקויה בראייה, מסתמכת על הראייה שנותרה ועל חושים אחרים כדי לנווט בעולם."
+            },
+            {
+                "definition": "Functional disabilities, which are limitations in performing daily activities or tasks that most people can do without assistance",
+                "definition_hebrew": "מוגבלויות תפקודיות, שהן מגבלות בביצוע פעולות יומיומיות או משימות שרוב האנשים יכולים לעשות ללא סיוע",
+                "example": "Tom has a functional disability as he needs help with personal care such as dressing and bathing due to his physical impairment.",
+                "example_hebrew": "לטום יש מוגבלות תפקודית כיוון שהוא זקוק לעזרה בטיפול אישי כגון הלבשה ורחצה עקב ליקוי גופו."
+            },
+            {
+                "definition": "Acquired disabilities, which are conditions developed after birth, often resulting from injury or illness",
+                "definition_hebrew": "נכויות נרכשות, שהן מצבים שפותחו לאחר הלידה, הנובעים לרוב מפציעה או מחלה",
+                "example": "After the car accident, Sarah acquired a mobility disability that prevents her from walking without assistance.",
+                "example_hebrew": "לאחר תאונת הדרכים רכשה שרה מוגבלות בניידות המונעת ממנה ללכת ללא סיוע."
+            },
+            {
+                "definition": "Inherited disabilities, which are genetic conditions passed down through families and present from birth",
+                "definition_hebrew": "מוגבלויות תורשתיות, שהם מצבים גנטיים המועברים דרך משפחות ונוכחים מלידה",
+                "example": "Lucy was born with an inherited hearing disability as it runs in her family.",
+                "example_hebrew": "לוסי נולדה עם לקות שמיעה תורשתית כפי שהיא קיימת במשפחתה."
+            }
+        ]
+    }
+]

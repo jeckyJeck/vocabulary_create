@@ -1,0 +1,40 @@
+[
+    {
+        "word": "question",
+        "word_hebrew": "שְׁאֵלָה",
+        "main_definition": "A question is an expression used to seek information, clarification, or provoke thought by asking something that requires a response.",
+        "main_definition_hebrew": "שאלה היא ביטוי המשמש לחיפוש מידע, הבהרה או לעורר מחשבה על ידי שאילת משהו שדורש תגובה.",
+        "meanings_and_examples": [
+            {
+                "definition": "An inquiry made in order to obtain knowledge or initiate discussion",
+                "definition_hebrew": "בירור שנעשה על מנת לקבל ידע או ליזום דיון",
+                "example": "When she asked the scientist about climate change, her question sparked an interesting conversation.",
+                "example_hebrew": "כששאלה את המדען על שינויי אקלים, שאלתה עוררה שיחה מעניינת."
+            },
+            {
+                "definition": "A request for information presented as a problem to be solved or explained",
+                "definition_hebrew": "בקשה לפתרון או הסבר למידע המוצג כבעיה",
+                "example": "The teacher posed a challenging math question that required students to apply their knowledge of algebra.",
+                "example_hebrew": "המורה הציג שאלה מתמטית מאתגרת שדרשה מהתלמידים ליישם את הידע שלהם באלגברה."
+            },
+            {
+                "definition": "An expression used in literature or rhetoric to provoke thought or debate",
+                "definition_hebrew": "ביטוי המשמש בספרות או ברטוריקה כדי לעורר מחשבה או ויכוח",
+                "example": "In his speech, the politician raised an important ethical question about privacy and data security.",
+                "example_hebrew": "בנאומו העלה הפוליטיקאי שאלה אתית חשובה בנושא פרטיות ואבטחת מידע."
+            },
+            {
+                "definition": "A doubt expressed as a sentence to seek clarification on a matter of uncertainty",
+                "definition_hebrew": "ספק שהובע כמשפט לבקש הבהרות בעניין של אי ודאות",
+                "example": "Upon hearing her vague instructions, I asked a question to make sure I understood the task correctly.",
+                "example_hebrew": "למשמע הוראותיה המעורפלות, שאלתי שאלה כדי לוודא שהבנתי נכון את המשימה."
+            },
+            {
+                "definition": "An item or challenge presented in a test or examination for evaluation purposes",
+                "definition_hebrew": "פריט או אתגר המוצגים במבחן או בחינה למטרות הערכה",
+                "example": "The final section of the SAT contains several multiple-choice questions designed to assess reading comprehension and critical thinking skills.",
+                "example_hebrew": "החלק האחרון של ה-SAT מכיל מספר שאלות מרובות שנועדו להעריך את הבנת הנקרא ומיומנויות חשיבה ביקורתית."
+            }
+        ]
+    }
+]

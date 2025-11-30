@@ -1,0 +1,34 @@
+[
+    {
+        "word": "declined",
+        "word_hebrew": "דחה",
+        "main_definition": "To politely refuse or reject an offer, invitation, request, or proposal.",
+        "main_definition_hebrew": "לסרב או לדחות בנימוס הצעה, הזמנה, בקשה או הצעה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Rejecting a social invitation or compliment",
+                "definition_hebrew": "דחיית הזמנה חברתית או מחמאה",
+                "example": "When her friend asked if she wanted to go out for dinner, she declined.",
+                "example_hebrew": "כשחברתה שאלה אם היא רוצה לצאת לארוחת ערב, היא סירבה."
+            },
+            {
+                "definition": "Choosing not to accept an offer or opportunity",
+                "definition_hebrew": "בחירה שלא לקבל הצעה או הזדמנות",
+                "example": "After receiving multiple job offers, he had to decline the one from his dream company due to personal reasons.",
+                "example_hebrew": "לאחר שקיבל מספר הצעות עבודה, הוא נאלץ לדחות את זו מחברת החלומות שלו מסיבות אישיות."
+            },
+            {
+                "definition": "Reduction in value over time",
+                "definition_hebrew": "ירידה בערך לאורך זמן",
+                "example": "The car's value started to decline as it aged and required more maintenance.",
+                "example_hebrew": "ערך המכונית החל לרדת ככל שהזדקן ודרש יותר תחזוקה."
+            },
+            {
+                "definition": "Decrease in demand or popularity of a product, service, or idea",
+                "definition_hebrew": "ירידה בביקוש או בפופולריות של מוצר, שירות או רעיון",
+                "example": "The restaurant saw a decline in customers after receiving negative reviews online.",
+                "example_hebrew": "המסעדה ראתה ירידה במספר הלקוחות לאחר שקיבלה ביקורות שליליות באינטרנט."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "cash",
+        "word_hebrew": "כסף מזומן",
+        "main_definition": "Cash refers to physical money, readily available currency used in transactions.",
+        "main_definition_hebrew": "מזומן מתייחס לכסף פיזי, מטבע זמין המשמש בעסקאות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical currency, such as coins and banknotes that can be exchanged for goods or services.",
+                "definition_hebrew": "מטבע פיזי, כגון מטבעות ושטרות שניתן להחליף בסחורות או שירותים.",
+                "example": "I handed over my cash at the grocery store to pay for my purchases.",
+                "example_hebrew": "מסרתי את המזומנים שלי במכולת כדי לשלם עבור הרכישות שלי."
+            },
+            {
+                "definition": "The act of converting paper money into physical bills, often done when traveling abroad to exchange currency.",
+                "definition_hebrew": "הפעולה של המרת כספי נייר לשטרות פיזיים, שנעשית לעתים קרובות בעת נסיעה לחו\"ל להמרת מטבע.",
+                "example": "Before going on vacation in Europe, we had to cash our dollars at the bank to get euros.",
+                "example_hebrew": "לפני שיצאנו לחופשה באירופה, היינו צריכים לפדות את הדולרים שלנו בבנק כדי לקבל יורו."
+            },
+            {
+                "definition": "Available funds that are not tied up in investments or other assets; liquidity for immediate use.",
+                "definition_hebrew": "כספים זמינים שאינם קשורים בהשקעות או בנכסים אחרים; נזילות לשימוש מיידי.",
+                "example": "She decided to cash out some of her stocks and put the money into a savings account as an emergency fund.",
+                "example_hebrew": "היא החליטה לפדות חלק מהמניות שלה ולהכניס את הכסף לחשבון חיסכון כקרן חירום."
+            },
+            {
+                "definition": "Money used specifically for making payments rather than keeping it in a bank account.",
+                "definition_hebrew": "כסף המשמש במיוחד לביצוע תשלומים במקום לשמור אותו בחשבון בנק.",
+                "example": "At closing, the buyer will cash their check to cover the remaining balance of the home purchase.",
+                "example_hebrew": "בסגירה, הקונה יפדה את הצ'ק שלו כדי לכסות את יתרת רכישת הבית."
+            }
+        ]
+    }
+]

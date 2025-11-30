@@ -1,0 +1,34 @@
+[
+    {
+        "word": "bar",
+        "word_hebrew": "בַּר",
+        "main_definition": "A place where alcoholic beverages are sold and often consumed, typically with a counter or bar area.",
+        "main_definition_hebrew": "מקום שבו משקאות אלכוהוליים נמכרים ונצרכים לעתים קרובות, בדרך כלל עם דלפק או אזור בר.",
+        "meanings_and_examples": [
+            {
+                "definition": "An obstacle or formidable problem to overcome",
+                "definition_hebrew": "מכשול או בעיה אדירה שיש להתגבר עליה",
+                "example": "The language barrier made it difficult for the tourists to communicate.",
+                "example_hebrew": "מחסום השפה הקשה על התיירים לתקשר."
+            },
+            {
+                "definition": "A standard unit of measurement equal to 100th part of a percent, representing one-tenth (1/10) of one percent or 1 penny in currency terms",
+                "definition_hebrew": "יחידת מדידה סטנדרטית השווה ל-100 חלק האחוז, המייצגת עשירית (1/10) מאחוז אחד או אגורה אחת במונחי מטבע",
+                "example": "The discount was given as a 25% off sale.",
+                "example_hebrew": "ההנחה ניתנה במבצע של 25% הנחה."
+            },
+            {
+                "definition": "A place where people gather to socialize and enjoy drinks, often with entertainment like music or games",
+                "definition_hebrew": "מקום שבו אנשים מתאספים כדי להתרועע וליהנות ממשקאות, לעתים קרובות עם בידור כמו מוזיקה או משחקים",
+                "example": "They decided to meet at the local bar after work for some drinks and conversation.",
+                "example_hebrew": "הם החליטו להיפגש בבר המקומי אחרי העבודה למשקאות ולשיחה."
+            },
+            {
+                "definition": "To move or block something in a way that prevents progress or passage",
+                "definition_hebrew": "להזיז או לחסום משהו בצורה שמונעת התקדמות או מעבר",
+                "example": "The fallen tree was blocking the road, forming an impromptu barrier.",
+                "example_hebrew": "העץ שנפל חסם את הכביש ויצר מחסום מאולתר."
+            }
+        ]
+    }
+]

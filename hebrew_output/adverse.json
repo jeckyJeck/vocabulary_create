@@ -1,0 +1,40 @@
+[
+    {
+        "word": "adverse",
+        "word_hebrew": "שְׁלִילִי",
+        "main_definition": "Unfavorable or harmful; having a negative impact.",
+        "main_definition_hebrew": "לא חיובי או מזיק; בעל השפעה שלילית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Opposed to something; not in alignment with.",
+                "definition_hebrew": "מתנגד למשהו; לא בקנה אחד עם.",
+                "example": "The change in weather was adverse to the progress of our outdoor event.",
+                "example_hebrew": "השינוי במזג האוויר היה לרעה להתקדמות האירוע בחוץ שלנו."
+            },
+            {
+                "definition": "Negative impact or harmful effect on something.",
+                "definition_hebrew": "השפעה שלילית או השפעה מזיקה על משהו.",
+                "example": "Adverse effects of smoking include lung cancer and heart disease.",
+                "example_hebrew": "תופעות לוואי של עישון כוללות סרטן ריאות ומחלות לב."
+            },
+            {
+                "definition": "Disadvantageous; not beneficial to one's interests.",
+                "definition_hebrew": "חסרון; לא מועיל לאינטרסים של האדם.",
+                "example": "The adverse outcome of the contract negotiation left both parties dissatisfied.",
+                "example_hebrew": "התוצאה השלילית של המשא ומתן על החוזה הותירה את שני הצדדים לא מרוצים."
+            },
+            {
+                "definition": "Contrary or opposed in fact, nature, or effect.",
+                "definition_hebrew": "מנוגדים או מנוגדים למעשה, טבע או השפעה.",
+                "example": "Despite her hard work, she faced many adverse circumstances that hindered her success.",
+                "example_hebrew": "למרות עבודתה הקשה, היא התמודדה עם נסיבות שליליות רבות שהפריעו להצלחתה."
+            },
+            {
+                "definition": "Suffering from an illness or disability; having a health problem.",
+                "definition_hebrew": "סובל ממחלה או מוגבלות; שיש בעיה בריאותית.",
+                "example": "The patient's condition worsened due to the adverse side effects of the medication.",
+                "example_hebrew": "מצבו של המטופל החמיר עקב תופעות הלוואי השליליות של התרופה."
+            }
+        ]
+    }
+]

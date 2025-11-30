@@ -1,0 +1,34 @@
+[
+    {
+        "word": "pharmacies",
+        "word_hebrew": "בתי מרקחת",
+        "main_definition": "Pharmacies are establishments where medicines, health-related products, and services related to prescriptions and over-the-counter drugs are provided.",
+        "main_definition_hebrew": "בתי מרקחת הם מפעלים שבהם מסופקים תרופות, מוצרים הקשורים לבריאות ושירותים הקשורים למרשמים ולתרופות ללא מרשם.",
+        "meanings_and_examples": [
+            {
+                "definition": "A place where pharmacists dispense medicine",
+                "definition_hebrew": "מקום שבו רוקחים מחלקים תרופות",
+                "example": "John went to the local pharmacy to pick up his prescription medication.",
+                "example_hebrew": "ג'ון הלך לבית המרקחת המקומי לקחת את תרופות המרשם שלו."
+            },
+            {
+                "definition": "Establishment that sells various health and wellness products beyond just medicine",
+                "definition_hebrew": "מוסד שמוכר מוצרי בריאות ורווחה שונים מעבר לרפואה בלבד",
+                "example": "The drugstore also offers vitamins, supplements, and personal care items alongside medications.",
+                "example_hebrew": "בית המרקחת מציע גם ויטמינים, תוספי מזון ופריטים לטיפול אישי לצד תרופות."
+            },
+            {
+                "definition": "A business operating within a retail setting offering prescription drugs and other health-related services",
+                "definition_hebrew": "עסק הפועל במסגרת קמעונאית ומציע תרופות מרשם ושירותים אחרים הקשורים לבריאות",
+                "example": "Pharmacies are often found in shopping centers or malls as part of a larger retail complex.",
+                "example_hebrew": "בתי מרקחת נמצאים לרוב במרכזי קניות או בקניונים כחלק ממתחם קמעונאי גדול יותר."
+            },
+            {
+                "definition": "The industry involving the research, development, production, and sale of medications",
+                "definition_hebrew": "התעשייה הכוללת מחקר, פיתוח, ייצור ומכירה של תרופות",
+                "example": "The pharmaceutical industry is responsible for creating new drugs that improve health outcomes.",
+                "example_hebrew": "תעשיית התרופות אחראית ליצירת תרופות חדשות המשפרות את התוצאות הבריאותיות."
+            }
+        ]
+    }
+]

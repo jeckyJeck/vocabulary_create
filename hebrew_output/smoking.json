@@ -1,0 +1,40 @@
+[
+    {
+        "word": "smoking",
+        "word_hebrew": "לעשן",
+        "main_definition": "Smoking is primarily known as the act of inhaling and exhaling the smoke produced by burning tobacco or other substances, but it can also refer to various idiomatic expressions related to this action.",
+        "main_definition_hebrew": "עישון ידוע בעיקר כפעולה של שאיפה ונשיפה של העשן שנוצר משריפת טבק או חומרים אחרים, אך הוא יכול להתייחס גם לביטויים אידיומטיים שונים הקשורים לפעולה זו.",
+        "meanings_and_examples": [
+            {
+                "definition": "The actual physical act of inhaling and exhaling smoke from a cigarette or other source",
+                "definition_hebrew": "הפעולה הפיזית בפועל של שאיפה ונשיפה של עשן מסיגריה או מקור אחר",
+                "example": "He has been smoking since he was 18 years old.",
+                "example_hebrew": "הוא מעשן מאז שהיה בן 18."
+            },
+            {
+                "definition": "A group of people who regularly meet to discuss matters related to smoking, often advocating for its reduction or cessation",
+                "definition_hebrew": "קבוצה של אנשים הנפגשת בקביעות כדי לדון בעניינים הקשורים לעישון, לעתים קרובות דוגלת בהפחתה או הפסקת עישון",
+                "example": "The anti-smoking campaign organized a meeting with the local Smoking Club members to strategize their next actions.",
+                "example_hebrew": "הקמפיין נגד עישון ארגן פגישה עם חברי מועדון העישון המקומי כדי לקבוע אסטרטגיה של פעולותיהם הבאות."
+            },
+            {
+                "definition": "A device used to burn tobacco and inhale the resulting smoke, commonly known as a cigarette",
+                "definition_hebrew": "מכשיר המשמש לשריפת טבק ולשאיפת העשן שנוצר, המכונה בדרך כלל סיגריה",
+                "example": "He lit his smoking pipe before taking a seat on the porch.",
+                "example_hebrew": "הוא הדליק את מקטרת העישון שלו לפני שהתיישב במרפסת."
+            },
+            {
+                "definition": "An informal expression denoting someone's carelessness or lack of attention to detail",
+                "definition_hebrew": "ביטוי לא רשמי המציין חוסר זהירות של מישהו או חוסר תשומת לב לפרטים",
+                "example": "Don't be so 'smoking', pay more attention to your work!",
+                "example_hebrew": "אל תהיו כל כך 'מעשנים', שימו לב יותר לעבודה שלכם!"
+            },
+            {
+                "definition": "A colloquial term used as a verb, meaning to talk excessively or in an annoying manner",
+                "definition_hebrew": "מונח דיבור המשמש כפועל, כלומר לדבר בצורה מופרזת או בצורה מעצבנת",
+                "example": "'He's been smoking the whole time during our meeting!' complained his colleagues.",
+                "example_hebrew": "'הוא עישן כל הזמן במהלך הפגישה שלנו!' התלונן עמיתיו."
+            }
+        ]
+    }
+]

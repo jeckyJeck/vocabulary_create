@@ -1,0 +1,40 @@
+[
+    {
+        "word": "investors",
+        "word_hebrew": "משקיעים",
+        "main_definition": "Investors are individuals or entities that allocate capital with the expectation of a future financial return, such as interest, income, dividends, or profit from investments.",
+        "main_definition_hebrew": "משקיעים הם אנשים או גופים שמקצים הון בציפייה לתשואה פיננסית עתידית, כגון ריבית, הכנסה, דיבידנדים או רווח מהשקעות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Individuals who contribute money to businesses or projects in exchange for potential profits.",
+                "definition_hebrew": "אנשים שתורמים כסף לעסקים או לפרויקטים בתמורה לרווחים פוטנציאליים.",
+                "example": "The venture capitalists are individuals willing to put their own money into start-up companies.",
+                "example_hebrew": "משקיעי ההון סיכון הם יחידים שמוכנים להשקיע את כספם בחברות סטארט-אפ."
+            },
+            {
+                "definition": "Organizations that provide funding to businesses and projects with the aim of earning a return on investment.",
+                "definition_hebrew": "ארגונים המספקים מימון לעסקים ולפרויקטים במטרה להרוויח החזר על ההשקעה.",
+                "example": "When Amazon raised funds for its initial public offering, it attracted numerous institutional investors like mutual funds and pension funds.",
+                "example_hebrew": "כאשר אמזון גייסה כספים עבור ההנפקה הראשונית שלה, היא משכה משקיעים מוסדיים רבים כמו קרנות נאמנות וקרנות פנסיה."
+            },
+            {
+                "definition": "Entities such as banks or financial institutions that allocate money to various projects or companies with the expectation of earning interest income.",
+                "definition_hebrew": "גופים כמו בנקים או מוסדות פיננסיים שמקצים כסף לפרויקטים או חברות שונות מתוך ציפייה להרוויח הכנסות ריבית.",
+                "example": "JPMorgan Chase is a major banking institution that invests in diverse sectors, including real estate and technology.",
+                "example_hebrew": "JPMorgan Chase הוא מוסד בנקאי גדול המשקיע במגזרים מגוונים, כולל נדל\"ן וטכנולוגיה."
+            },
+            {
+                "definition": "Governments or sovereign entities that allocate funds to support economic growth, infrastructure development, or other public projects.",
+                "definition_hebrew": "ממשלות או ישויות ריבוניות שמקצות כספים לתמיכה בצמיחה כלכלית, פיתוח תשתיות או פרויקטים ציבוריים אחרים.",
+                "example": "The government of China's Belt and Road Initiative attracted investors from around the world who pledged billions in funding.",
+                "example_hebrew": "ממשלת יוזמת החגורה והדרך הסינית משכה משקיעים מרחבי העולם שהבטיחו מימון של מיליארדי דולרים."
+            },
+            {
+                "definition": "Non-profit organizations that receive donations to support their cause or mission, which may also result in a financial return for the donor.",
+                "definition_hebrew": "ארגונים ללא מטרות רווח המקבלים תרומות למען מטרתם או משימתם, מה שעלול להביא גם לתמורה כספית לתורם.",
+                "example": "Donors who contribute to charities like UNICEF are considered investors as they believe in the long-term impact of supporting children's welfinas.",
+                "example_hebrew": "תורמים שתורמים לארגוני צדקה כמו יוניסף נחשבים למשקיעים מכיוון שהם מאמינים בהשפעה ארוכת הטווח של תמיכה ברווחת הילדים."
+            }
+        ]
+    }
+]

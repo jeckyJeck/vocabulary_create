@@ -1,0 +1,34 @@
+[
+    {
+        "word": "sync",
+        "word_hebrew": "סינכרון",
+        "main_definition": "To make things work together smoothly, often by coordinating timing or actions.",
+        "main_definition_hebrew": "לגרום לדברים לעבוד יחד בצורה חלקה, לעתים קרובות על ידי תיאום תזמון או פעולות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To ensure that different systems operate in harmony and are working simultaneously without discrepancies.",
+                "definition_hebrew": "להבטיח שמערכות שונות פועלות בהרמוניה ופועלות בו זמנית ללא סתירות.",
+                "example": "Before the live broadcast, the video team made sure all audio and visual elements were synced.",
+                "example_hebrew": "לפני השידור החי, צוות הווידאו דאג שכל האלמנטים האודיו והוויזואליים היו מסונכרנים."
+            },
+            {
+                "definition": "To match or coordinate actions between two or more things to occur at the same time or pace.",
+                "definition_hebrew": "להתאים או לתאם פעולות בין שני דברים או יותר שיתרחשו באותו זמן או בקצב.",
+                "example": "She adjusted her watch so it would sync with the official time signal every hour.",
+                "example_hebrew": "היא כיוונה את השעון שלה כך שיסתנכרן עם אות הזמן הרשמי בכל שעה."
+            },
+            {
+                "definition": "In computing, when files on different devices are made to be in line and accessible from all of them simultaneously.",
+                "definition_hebrew": "במחשוב, כאשר קבצים במכשירים שונים עשויים להיות בשורה ונגישות מכולם בו זמנית.",
+                "example": "After uploading photos from both his phone and camera to a cloud service, he ensured they were synced so that one device could access the other's content.",
+                "example_hebrew": "לאחר שהעלה תמונות הן מהטלפון והן מהמצלמה שלו לשירות ענן, הוא וידא שהן מסונכרנות כך שמכשיר אחד יוכל לגשת לתוכן של השני."
+            },
+            {
+                "definition": "To make sure different elements in an audio or video production are perfectly timed together.",
+                "definition_hebrew": "כדי לוודא שאלמנטים שונים בהפקת אודיו או וידאו מתוכננים זה לזה בצורה מושלמת.",
+                "example": "The sound engineer spent hours syncing the dialogue with the corresponding actions on screen to ensure a professional final product.",
+                "example_hebrew": "מהנדס הסאונד בילה שעות בסנכרון הדיאלוג עם הפעולות המתאימות על המסך כדי להבטיח תוצר סופי מקצועי."
+            }
+        ]
+    }
+]

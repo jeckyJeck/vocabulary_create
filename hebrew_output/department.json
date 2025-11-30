@@ -1,0 +1,34 @@
+[
+    {
+        "word": "department",
+        "word_hebrew": "מַחלָקָה",
+        "main_definition": "A section or division within an organization, institution, or company that handles a specific area of responsibility.",
+        "main_definition_hebrew": "מדור או חטיבה בתוך ארגון, מוסד או חברה המטפלים בתחום אחריות ספציפי.",
+        "meanings_and_examples": [
+            {
+                "definition": "A part of a governmental organization responsible for a certain public service or function.",
+                "definition_hebrew": "חלק מארגון ממשלתי האחראי על שירות או פונקציה ציבורית מסוימת.",
+                "example": "The Department of Education is in charge of setting educational standards and policies.",
+                "example_hebrew": "משרד החינוך ממונה על קביעת סטנדרטים ומדיניות חינוכית."
+            },
+            {
+                "definition": "An administrative unit within an institution, such as a university or corporation, that focuses on a specific field or subject area.",
+                "definition_hebrew": "יחידה אדמיניסטרטיבית בתוך מוסד, כגון אוניברסיטה או תאגיד, המתמקדת בתחום או תחום נושא ספציפי.",
+                "example": "The Physics Department at the University of Cambridge conducts research and teaches students in physics-related courses.",
+                "example_hebrew": "המחלקה לפיזיקה באוניברסיטת קיימברידג' עורכת מחקר ומלמדת סטודנטים בקורסים הקשורים לפיזיקה."
+            },
+            {
+                "definition": "A section of a company's operations dealing with sales, marketing, or customer support services.",
+                "definition_hebrew": "חלק מהפעילות של חברה העוסקת בשירותי מכירות, שיווק או תמיכת לקוחות.",
+                "example": "Our business has several departments including Sales, Marketing, HR (Human Resources), and Customer Service.",
+                "example_hebrew": "לעסק שלנו מספר מחלקות כולל מכירות, שיווק, משאבי אנוש (משאבי אנוש) ושירות לקוחות."
+            },
+            {
+                "definition": "An area within an organization that is responsible for managing a specific set of tasks or processes.",
+                "definition_hebrew": "אזור בתוך ארגון שאחראי על ניהול מערך מסוים של משימות או תהליכים.",
+                "example": "The Accounting Department handles the company's financial records and reporting.",
+                "example_hebrew": "מחלקת הנהלת חשבונות מטפלת ברישומים הכספיים ובדיווחים של החברה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "saturday",
+        "word_hebrew": "יום שבת",
+        "main_definition": "Saturday is the seventh day of the week in many cultures, typically associated with being a time for rest and leisure after the workweek.",
+        "main_definition_hebrew": "שבת הוא היום השביעי בשבוע בתרבויות רבות, הקשור בדרך כלל לזמן למנוחה ופנאי לאחר שבוע העבודה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The specific day of the week",
+                "definition_hebrew": "היום הספציפי בשבוע",
+                "example": "I have a meeting scheduled on Saturday.",
+                "example_hebrew": "יש לי פגישה בשבת."
+            },
+            {
+                "definition": "A common reference to lazy or relaxed behavior during the weekend",
+                "definition_hebrew": "התייחסות נפוצה להתנהגות עצלה או נינוחה במהלך סוף השבוע",
+                "example": "On Saturdays, I usually just stay in and watch movies all day.",
+                "example_hebrew": "בשבתות, אני בדרך כלל נשאר בבית ורואה סרטים כל היום."
+            },
+            {
+                "definition": "An idiomatic expression used humorously to describe someone's laziness or lack of motivation",
+                "definition_hebrew": "ביטוי אידיומטי המשמש בהומור כדי לתאר עצלות או חוסר מוטיבציה של מישהו",
+                "example": "Don't tell me what time you woke up today; I already know it was Saturday and lazy people sleep in.",
+                "example_hebrew": "אל תגיד לי באיזו שעה התעוררת היום; אני כבר יודע שזה היה שבת ואנשים עצלנים ישנים."
+            },
+            {
+                "definition": "A colloquial term used to indicate the start of a weekend break or vacation period",
+                "definition_hebrew": "מונח דיבור המשמש לציון תחילתה של חופשת סוף שבוע או תקופת חופשה",
+                "example": "We're taking our trip starting on Saturday, so we can enjoy more time together before Monday comes.",
+                "example_hebrew": "אנחנו יוצאים לטיול החל בשבת, כדי שנוכל ליהנות יותר זמן ביחד לפני שיום שני יגיע."
+            }
+        ]
+    }
+]

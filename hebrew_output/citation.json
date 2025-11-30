@@ -1,0 +1,40 @@
+[
+    {
+        "word": "citation",
+        "word_hebrew": "צִיטָטָה",
+        "main_definition": "A citation is the act of quoting or referring to a source, such as an author's work or statute, typically in written form like academic papers or legal documents.",
+        "main_definition_hebrew": "ציטוט הוא מעשה של ציטוט או הפניה למקור, כגון יצירה או חוק של מחבר, בדרך כלל בצורה כתובה כמו מאמרים אקדמיים או מסמכים משפטיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In academia, a citation refers to a reference to the original source of information used within a scholarly paper or essay.",
+                "definition_hebrew": "באקדמיה, ציטוט מתייחס להתייחסות למקור המידע המקורי המשמש במאמר או חיבור אקדמי.",
+                "example": "The author provided several citations throughout her research paper to acknowledge various academic sources.",
+                "example_hebrew": "המחברת סיפקה מספר ציטוטים במהלך עבודת המחקר שלה כדי להכיר במקורות אקדמיים שונים."
+            },
+            {
+                "definition": "A legal citation is a formal way of referencing statutes, case law, regulations, and other legal authorities in legal documents or arguments.",
+                "definition_hebrew": "ציטוט משפטי הוא דרך פורמלית להתייחס לחוקים, פסיקה, תקנות וסמכויות משפטיות אחרות במסמכים או טיעונים משפטיים.",
+                "example": "In the court's opinion, the judge referred to several citations from previous rulings to support his argument.",
+                "example_hebrew": "לדעת בית המשפט, השופט התייחס למספר ציטוטים מפסיקות קודמות כדי לתמוך בטענתו."
+            },
+            {
+                "definition": "A citation can also refer to a penalty imposed for a minor violation of rules, such as traffic laws.",
+                "definition_hebrew": "ציטוט יכול להתייחס גם לעונש שהוטל על הפרה קלה של כללים, כגון חוקי תעבורה.",
+                "example": "The driver was fined $50 for speeding; this is known as receiving a citation from the local police department.",
+                "example_hebrew": "הנהג נקנס ב-50 דולר בגין מהירות מופרזת; זה ידוע כקבלת ציטוט ממחלקת המשטרה המקומית."
+            },
+            {
+                "definition": "An academic citation includes information like the author's name, publication date, and page number used to locate specific content in a source.",
+                "definition_hebrew": "ציטוט אקדמי כולל מידע כמו שם המחבר, תאריך פרסום ומספר עמוד המשמש לאיתור תוכן ספציפי במקור.",
+                "example": "In her literature review paper, Jane included an MLA citation for each text she quoted.",
+                "example_hebrew": "במאמר סקירת הספרות שלה, ג'יין כללה ציטוט של MLA עבור כל טקסט שהיא ציטטה."
+            },
+            {
+                "definition": "A citation is also the act of mentioning or referring to someone's work or ideas as acknowledgement and respect to their contribution.",
+                "definition_hebrew": "ציטוט הוא גם הפעולה של אזכור או התייחסות לעבודה או לרעיונות של מישהו כהכרה וכבוד לתרומתו.",
+                "example": "The professor cited several scholars who had influenced her research on social psychology.",
+                "example_hebrew": "הפרופסור ציטט כמה חוקרים שהשפיעו על מחקריה על פסיכולוגיה חברתית."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "securities",
+        "word_hebrew": "ניירות ערך",
+        "main_definition": "Securities refer to financial instruments that represent an ownership position in a publicly-traded corporation (stock), a creditor relationship with a governmental body or a corporation (bond), or rights to ownership as represented by an option.",
+        "main_definition_hebrew": "ניירות ערך מתייחסים למכשירים פיננסיים המייצגים עמדת בעלות בתאגיד ציבורי (מניות), יחסי נושה עם גוף ממשלתי או תאגיד (אג\"ח), או זכויות בעלות כפי שמוצגות באופציה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Financial assets that represent investment",
+                "definition_hebrew": "נכסים פיננסיים המייצגים השקעה",
+                "example": "John purchased stocks and bonds, which are types of securities.",
+                "example_hebrew": "ג'ון רכש מניות ואג\"ח, שהם סוגים של ניירות ערך."
+            },
+            {
+                "definition": "A type of financial instrument representing ownership in a corporation (stock)",
+                "definition_hebrew": "סוג של מכשיר פיננסי המייצג בעלות בתאגיד (מניות)",
+                "example": "The company issued additional shares as securities to raise capital for expansion.",
+                "example_hebrew": "החברה הנפיקה מניות נוספות כניירות ערך לגיוס הון להתרחבות."
+            },
+            {
+                "definition": "Financial instruments that represent debt or creditor relationship",
+                "definition_hebrew": "מכשירים פיננסיים המייצגים קשרי חוב או נושים",
+                "example": "Governments and companies issue bonds, which are securities representing a loan made by an investor to the issuer.",
+                "example_hebrew": "ממשלות וחברות מנפיקות איגרות חוב, שהן ניירות ערך המייצגים הלוואה שהעניק משקיע למנפיק."
+            },
+            {
+                "definition": "Certificates issued as evidence of ownership in a corporation (stock)",
+                "definition_hebrew": "תעודות שהונפקו כראיה לבעלות בתאגיד (מניות)",
+                "example": "The stock certificate is considered a security that represents my shareholding.",
+                "example_hebrew": "תעודת המניה נחשבת נייר ערך המייצג את החזקת המניות שלי."
+            },
+            {
+                "definition": "Financial instruments representing certain rights, such as options or warrants",
+                "definition_hebrew": "מכשירים פיננסיים המייצגים זכויות מסוימות, כגון אופציות או כתבי אופציה",
+                "example": "He bought call options on XYZ company's stock, which are securities giving him the right to buy at a specific price.",
+                "example_hebrew": "הוא קנה אופציות רכש על מניות חברת XYZ, שהן ניירות ערך המעניקים לו את הזכות לקנות במחיר מסוים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "subscriptions",
+        "word_hebrew": "מנויים",
+        "main_definition": "Subscriptions refer to the act of regularly paying a fee or making regular purchases, often in exchange for receiving something periodically (such as a magazine or service). They can also denote commitments to receive updates about events, newsletters, and other information.",
+        "main_definition_hebrew": "מנויים מתייחסים לפעולה של תשלום קבוע של עמלה או ביצוע רכישות קבועות, לרוב בתמורה לקבלת משהו מעת לעת (כגון מגזין או שירות). הם יכולים גם לציין התחייבויות לקבל עדכונים על אירועים, ניוזלטרים ומידע אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "A periodic payment made in exchange for access to content like magazines, newspapers, or online services",
+                "definition_hebrew": "תשלום תקופתי בתמורה לגישה לתוכן כמו מגזינים, עיתונים או שירותים מקוונים",
+                "example": "John decided to renew his magazine subscription before it expired.",
+                "example_hebrew": "ג'ון החליט לחדש את המנוי שלו למגזין לפני שתוקפו יפוג."
+            },
+            {
+                "definition": "An arrangement where a person commits to receiving updates about events or newsletters regularly",
+                "definition_hebrew": "הסדר שבו אדם מתחייב לקבל עדכונים על אירועים או ניוזלטרים באופן קבוע",
+                "example": "Sarah signed up for the political candidate's email subscription service to stay informed.",
+                "example_hebrew": "שרה נרשמה לשירות המינוי למייל של המועמד הפוליטי כדי להישאר מעודכנת."
+            },
+            {
+                "definition": "A commitment made by an individual or organization to participate in activities like conferences, webinars, or workshops periodically",
+                "definition_hebrew": "התחייבות של אדם או ארגון להשתתף בפעילויות כמו כנסים, סמינרים מקוונים או סדנאות מעת לעת",
+                "example": "The company subscribed to attend the annual tech conference for networking opportunities.",
+                "example_hebrew": "החברה נרשמה להשתתף בכנס הטכנולוגי השנתי להזדמנויות נטוורקינג."
+            },
+            {
+                "definition": "The act of maintaining a service by continuously paying a fee over time",
+                "definition_hebrew": "פעולת שמירה על שירות באמצעות תשלום רציף של אגרה לאורך זמן",
+                "example": "By keeping her gym membership active, she ensures uninterrupted access to all facilities and services.",
+                "example_hebrew": "על ידי שמירת המנוי שלה לחדר הכושר פעיל, היא מבטיחה גישה ללא הפרעה לכל המתקנים והשירותים."
+            }
+        ]
+    }
+]

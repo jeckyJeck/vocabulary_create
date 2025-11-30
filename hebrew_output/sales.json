@@ -1,0 +1,40 @@
+[
+    {
+        "word": "sales",
+        "word_hebrew": "מכירות",
+        "main_definition": "Sales refers to the activity of promoting and selling products or services, as well as achieving revenue through these transactions.",
+        "main_definition_hebrew": "מכירות מתייחסות לפעילות של קידום ומכירה של מוצרים או שירותים, כמו גם השגת הכנסות באמצעות עסקאות אלו.",
+        "meanings_and_examples": [
+            {
+                "definition": "The total number of units sold over a specific period",
+                "definition_hebrew": "המספר הכולל של יחידות שנמכרו במהלך תקופה מסוימת",
+                "example": "In Q3 2021, the company achieved sales of 500,000 units.",
+                "example_hebrew": "ברבעון השלישי של 2021, החברה השיגה מכירות של 500,000 יחידות."
+            },
+            {
+                "definition": "A person who works in sales, responsible for promoting and selling products or services",
+                "definition_hebrew": "אדם העוסק במכירות, אחראי על קידום ומכירת מוצרים או שירותים",
+                "example": "John is a successful salesperson with over five years of experience in the pharmaceutical industry.",
+                "example_hebrew": "ג'ון הוא איש מכירות מצליח עם למעלה מחמש שנות ניסיון בתעשיית התרופות."
+            },
+            {
+                "definition": "The process of making productive contacts to find potential buyers",
+                "definition_hebrew": "תהליך יצירת קשרים פרודוקטיביים כדי למצוא קונים פוטנציאליים",
+                "example": "Sarah spent her morning reaching out to prospects and setting up appointments for later this week.",
+                "example_hebrew": "שרה בילתה את הבוקר בהושיט יד ללקוחות פוטנציאליים וקביעת פגישות להמשך השבוע."
+            },
+            {
+                "definition": "A discount or incentive offered on products as a sales tactic",
+                "definition_hebrew": "הנחה או תמריץ המוצעים על מוצרים כטקטיקת מכירה",
+                "example": "To boost sales during the holiday season, our company is offering 20% off on all items from November 1st to December 31st.",
+                "example_hebrew": "כדי להגביר את המכירות בתקופת החגים, החברה שלנו מציעה 20% הנחה על כל הפריטים מה-1 בנובמבר עד ה-31 בדצמבר."
+            },
+            {
+                "definition": "A record of individual or group sales transactions over a specific period",
+                "definition_hebrew": "תיעוד של עסקאות מכירה בודדות או קבוצתיות לאורך תקופה מסוימת",
+                "example": "The monthly sales report shows that the team exceeded their targets by 15% in August.",
+                "example_hebrew": "דוח המכירות החודשי מראה שהצוות עבר את יעדיו ב-15% באוגוסט."
+            }
+        ]
+    }
+]

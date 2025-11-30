@@ -1,0 +1,40 @@
+[
+    {
+        "word": "see",
+        "word_hebrew": "לִרְאוֹת",
+        "main_definition": "To perceive or become aware of someone or something using the eyes, often used metaphorically to express understanding.",
+        "main_definition_hebrew": "לתפוס או להיות מודע למישהו או למשהו באמצעות העיניים, משמש לעתים קרובות באופן מטפורי כדי להביע הבנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical act of visual perception",
+                "definition_hebrew": "אקט פיזי של תפיסה חזותית",
+                "example": "I can see the beautiful sunset from my window.",
+                "example_hebrew": "אני יכול לראות את השקיעה היפה מהחלון שלי."
+            },
+            {
+                "definition": "Understand a concept or situation",
+                "definition_hebrew": "להבין מושג או מצב",
+                "example": "Once I saw why he was acting that way, it made more sense to me.",
+                "example_hebrew": "ברגע שראיתי למה הוא מתנהג ככה, זה נראה לי יותר הגיוני."
+            },
+            {
+                "definition": "Realize or discover something unexpectedly",
+                "definition_hebrew": "להבין או לגלות משהו באופן בלתי צפוי",
+                "example": "I didn't see her at the party last night; she surprised us by showing up!",
+                "example_hebrew": "לא ראיתי אותה במסיבה אתמול בלילה; היא הפתיעה אותנו כשהיא הופיעה!"
+            },
+            {
+                "definition": "Predict an outcome based on previous knowledge",
+                "definition_hebrew": "חיזוי תוצאה על סמך ידע קודם",
+                "example": "Given his past behavior, I saw that he would be late to the meeting.",
+                "example_hebrew": "בהתחשב בהתנהגותו בעבר, ראיתי שהוא יאחר לפגישה."
+            },
+            {
+                "definition": "Ask someone for information or clarification",
+                "definition_hebrew": "בקש ממישהו מידע או הבהרה",
+                "example": "Could you see if your manager is available for a quick question?",
+                "example_hebrew": "האם תוכל לראות אם המנהל שלך זמין לשאלה מהירה?"
+            }
+        ]
+    }
+]

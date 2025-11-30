@@ -1,0 +1,28 @@
+[
+    {
+        "word": "approx",
+        "word_hebrew": "משוער",
+        "main_definition": "Approx means approximately or roughly, used to indicate an estimation or close guess of a value without exact precision.",
+        "main_definition_hebrew": "פירושו בערך או בערך, משמש לציון הערכה או ניחוש קרוב של ערך ללא דיוק מדויק.",
+        "meanings_and_examples": [
+            {
+                "definition": "Estimation of approximate quantity",
+                "definition_hebrew": "הערכה של כמות משוערת",
+                "example": "The distance to the nearest town is around 10 miles, so it's approx.",
+                "example_hebrew": "המרחק לעיר הקרובה הוא בסביבות 10 מייל, כך שזה בערך."
+            },
+            {
+                "definition": "Vague or imprecise description",
+                "definition_hebrew": "תיאור מעורפל או לא מדויק",
+                "example": "I don't know exactly how many people attended, but I would say it was approx. a hundred.",
+                "example_hebrew": "אני לא יודע בדיוק כמה אנשים השתתפו, אבל הייתי אומר שזה היה בערך. מאה."
+            },
+            {
+                "definition": "Close to the actual value without being exact",
+                "definition_hebrew": "קרוב לערך האמיתי מבלי להיות מדויק",
+                "example": "The project will be completed by next Friday, approx.",
+                "example_hebrew": "הפרויקט יסתיים עד יום שישי הבא, כ."
+            }
+        ]
+    }
+]

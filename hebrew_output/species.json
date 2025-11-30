@@ -1,0 +1,40 @@
+[
+    {
+        "word": "species",
+        "word_hebrew": "מִין",
+        "main_definition": "In biology, 'species' refers to a group of living organisms consisting of similar individuals capable of interbreeding and producing fertile offspring; in common usage, it also denotes distinct categories or types within various contexts.",
+        "main_definition_hebrew": "בביולוגיה, 'מין' מתייחס לקבוצה של אורגניזמים חיים המורכבים מפרטים דומים המסוגלים להתרבות ולהוליד צאצאים פוריים; בשימוש נפוץ, זה גם מציין קטגוריות או סוגים שונים בהקשרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In biology, the term 'species' is used to classify a group of living organisms that share similar characteristics and can reproduce with each other",
+                "definition_hebrew": "בביולוגיה, המונח 'מין' משמש לסיווג קבוצה של אורגניזמים חיים החולקים מאפיינים דומים ויכולים להתרבות זה עם זה",
+                "example": "The lion (Panthera leo) and the tiger (Panthera tigris) are two distinct species within the same genus.",
+                "example_hebrew": "האריה (Panthera leo) והנמר (Panthera tigris) הם שני מינים נפרדים באותו סוג."
+            },
+            {
+                "definition": "In genetics, 'species' refers to a group of individuals that belong to the same set of alleles at various gene loci",
+                "definition_hebrew": "בגנטיקה, 'מין' מתייחס לקבוצת פרטים השייכים לאותה קבוצה של אללים במיקומי גנים שונים",
+                "example": "The A and B blood groups in humans represent different species under this definition due to their distinct sets of alleles.",
+                "example_hebrew": "קבוצות הדם A ו-B בבני אדם מייצגות מינים שונים תחת הגדרה זו בשל קבוצות האללים המובהקות שלהם."
+            },
+            {
+                "definition": "In linguistics, 'species' can refer to a group or category that has been distinguished based on specific traits",
+                "definition_hebrew": "בבלשנות, 'מין' יכול להתייחס לקבוצה או קטגוריה שהובחנו בהתבסס על תכונות ספציפיות",
+                "example": "The English language comprises multiple species such as British English and American English, each with its distinctive vocabulary, spelling, and pronunciation.",
+                "example_hebrew": "השפה האנגלית כוללת מינים מרובים כמו אנגלית בריטית ואנגלית אמריקאית, כל אחד עם אוצר המילים, האיות וההגייה הייחודיים שלו."
+            },
+            {
+                "definition": "In marketing, 'species' can denote different product lines or variations that cater to specific segments of the consumer base",
+                "definition_hebrew": "בשיווק, 'מינים' יכולים לציין קווי מוצרים או וריאציות שונות הנותנות מענה למגזרים ספציפיים של בסיס הצרכנים",
+                "example": "A smartphone brand may have various species like a budget model for entry-level consumers and a flagship model with advanced features.",
+                "example_hebrew": "למותג סמארטפונים עשויים להיות מינים שונים כמו מודל תקציב לצרכנים ברמת הכניסה ודגם דגל עם תכונות מתקדמות."
+            },
+            {
+                "definition": "In geology, 'species' can be used informally to describe distinct types of rocks or minerals",
+                "definition_hebrew": "בגיאולוגיה, ניתן להשתמש ב'מינים' באופן לא פורמלי כדי לתאר סוגים שונים של סלעים או מינרלים",
+                "example": "Marble is one species of metamorphic rock that forms when limestone undergoes heat and pressure.",
+                "example_hebrew": "שיש הוא סוג אחד של סלע מטמורפי שנוצר כאשר אבן גיר עוברת חום ולחץ."
+            }
+        ]
+    }
+]

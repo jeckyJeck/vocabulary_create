@@ -1,0 +1,34 @@
+[
+    {
+        "word": "reverse",
+        "word_hebrew": "לַהֲפוֹך",
+        "main_definition": "To turn something around or in the opposite direction, either physically or metaphorically.",
+        "main_definition_hebrew": "לסובב משהו או לכיוון ההפוך, פיזית או מטפורית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Changing the order of letters in a word, name, or phrase to create an antonym (e.g., 'dear' becomes 'rear').",
+                "definition_hebrew": "שינוי סדר האותיות במילה, שם או ביטוי כדי ליצור אנטונים (לדוגמה, 'יקיר' הופך ל'אחורי').",
+                "example": "'I need to reverse my last name from Smith to Reverse Smith.'",
+                "example_hebrew": "'אני צריך להפוך את שם המשפחה שלי מסמית' ל'הפוך סמית'.'"
+            },
+            {
+                "definition": "To turn something back the way it was before; to go backwards or in the opposite direction.",
+                "definition_hebrew": "להחזיר משהו לאחור כפי שהיה קודם; ללכת אחורה או בכיוון ההפוך.",
+                "example": "'After realizing his mistake, he decided to reverse course and head back home.'",
+                "example_hebrew": "'לאחר שהבין את טעותו, הוא החליט להפוך את המסלול ולחזור הביתה'."
+            },
+            {
+                "definition": "In finance, referring to selling an asset for less than its purchase price (resulting in a loss).",
+                "definition_hebrew": "בפיננסים, הכוונה למכירת נכס בפחות ממחיר הרכישה שלו (כתוצאה מכך הפסד).",
+                "example": "'Unfortunately, the sale of my car resulted in a financial reversal; I sold it at a much lower price.'",
+                "example_hebrew": "״לצערי, מכירת המכונית שלי הביאה למהפך כספי; מכרתי את זה במחיר הרבה יותר נמוך״."
+            },
+            {
+                "definition": "To cause something to change or develop differently from what was expected.",
+                "definition_hebrew": "לגרום למשהו להשתנות או להתפתח בצורה שונה ממה שהיה צפוי.",
+                "example": "'The new strategy unexpectedly reversed the company's fortunes, leading to its success.'",
+                "example_hebrew": "\"האסטרטגיה החדשה הפכה באופן בלתי צפוי את מזלה של החברה, והובילה להצלחתה.\""
+            }
+        ]
+    }
+]

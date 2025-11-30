@@ -1,0 +1,34 @@
+[
+    {
+        "word": "carriers",
+        "word_hebrew": "מובילים",
+        "main_definition": "Carriers refer to entities or individuals that transport, carry, or transmit goods, information, diseases, or genetic material from one place to another.",
+        "main_definition_hebrew": "נושאים מתייחסים לישויות או יחידים המעבירים, נושאים או מעבירים סחורות, מידע, מחלות או חומר גנטי ממקום אחד לאחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Entities responsible for the transportation of physical goods",
+                "definition_hebrew": "גופים האחראים על הובלת סחורות פיזיות",
+                "example": "The trucking company is a major carrier in the industry, delivering products nationwide.",
+                "example_hebrew": "חברת ההובלות הינה מובילה מרכזית בענף, המספקת מוצרים בפריסה ארצית."
+            },
+            {
+                "definition": "Organisms that transmit diseases or viruses",
+                "definition_hebrew": "אורגניזמים המעבירים מחלות או וירוסים",
+                "example": "Insects like mosquitoes are carriers of malaria and dengue fever, spreading these illnesses to humans.",
+                "example_hebrew": "חרקים כמו יתושים הם נשאים של מלריה וקדחת דנגי, ומפיצים את המחלות הללו לבני אדם."
+            },
+            {
+                "definition": "Individuals who carry genetic material from one generation to another",
+                "definition_hebrew": "אנשים הנושאים חומר גנטי מדור לדור",
+                "example": "Gametes in living organisms act as carriers for genetic information during reproduction.",
+                "example_hebrew": "גמטות באורגניזמים חיים פועלים כנשאים למידע גנטי במהלך הרבייה."
+            },
+            {
+                "definition": "Entities that facilitate the transmission of data or information",
+                "definition_hebrew": "ישויות המאפשרות העברת נתונים או מידע",
+                "example": "The internet serves as a carrier for digital communication, allowing emails and messages to be sent worldwide.",
+                "example_hebrew": "האינטרנט משמש כספק לתקשורת דיגיטלית, ומאפשר שליחת מיילים והודעות ברחבי העולם."
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "word": "proposition",
+        "word_hebrew": "הצעה",
+        "main_definition": "A proposition is a statement or an idea that expresses a viewpoint, claim, or suggestion which can be argued either in favor of or against.",
+        "main_definition_hebrew": "הצעה היא אמירה או רעיון המבטאים נקודת מבט, טענה או הצעה שניתן לטעון בעד או נגד.",
+        "meanings_and_examples": [
+            {
+                "definition": "An offer to do something or to sell something",
+                "definition_hebrew": "הצעה לעשות משהו או למכור משהו",
+                "example": "The company made a proposition to buy the smaller business.",
+                "example_hebrew": "החברה העלתה הצעה לרכוש את העסק הקטן יותר."
+            },
+            {
+                "definition": "A statement that expresses an idea, viewpoint, or claim which can be argued",
+                "definition_hebrew": "אמירה המבטאת רעיון, נקודת מבט או טענה שניתן להתווכח עליהן",
+                "example": "She presented a strong proposition about climate change causing global warming.",
+                "example_hebrew": "היא הציגה הצעה חזקה לגבי שינויי אקלים הגורמים להתחממות כדור הארץ."
+            },
+            {
+                "definition": "In logic and mathematics, a formula using variables and logical connectives to represent a statement",
+                "definition_hebrew": "בלוגיקה ומתמטיקה, נוסחה המשתמשת במשתנים ובחיבורים לוגיים לייצוג משפט",
+                "example": "The proposition P → Q represents 'if P then Q' where P is the antecedent and Q is the consequent.",
+                "example_hebrew": "ההצעה P → Q מייצגת 'אם P אז Q' כאשר P הוא הקדם ו-Q הוא התוצאה."
+            },
+            {
+                "definition": "A formal suggestion for action or policy put forward in writing",
+                "definition_hebrew": "הצעה רשמית לפעולה או מדיניות שהועלתה בכתב",
+                "example": "He wrote a political proposition outlining his plan to improve education.",
+                "example_hebrew": "הוא כתב הצעה פוליטית המתארת את תוכניתו לשיפור החינוך."
+            },
+            {
+                "definition": "In chess, it refers to the act of placing a piece on a particular square so as to threaten an opponent's piece or position",
+                "definition_hebrew": "בשחמט, זה מתייחס לפעולה של הנחת כלי על משבצת מסוימת כדי לאיים על הכלה או המיקום של היריב.",
+                "example": "The knight made a double-step proposition by moving two squares forward and then one square sideways.",
+                "example_hebrew": "האביר הציע הצעה כפולה על ידי הזזת שני ריבועים קדימה ואז ריבוע אחד הצידה."
+            },
+            {
+                "definition": "In philosophy, it refers to the notion of what is true or exists; a philosophical statement that can be debated",
+                "definition_hebrew": "בפילוסופיה, זה מתייחס לרעיון של מה נכון או קיים; אמירה פילוסופית שאפשר להתווכח עליה",
+                "example": "Plato's 'Theory of Forms' presents propositions about the nature of reality and knowledge.",
+                "example_hebrew": "'תורת הצורות' של אפלטון מציגה הצעות לגבי טבע המציאות והידע."
+            },
+            {
+                "definition": "In law, it refers to an allegation in pleading or argument; a legal assertion made by a party",
+                "definition_hebrew": "במשפט, היא מתייחסת לטענה בטענה או בטענה; טענה משפטית של צד",
+                "example": "During the trial, the defense attorney presented several propositions challenging the prosecution's case.",
+                "example_hebrew": "במהלך המשפט הציג הסנגור מספר הצעות המערערות על עניינה של התביעה."
+            }
+        ]
+    }
+]

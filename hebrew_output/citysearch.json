@@ -1,0 +1,28 @@
+[
+    {
+        "word": "citysearch",
+        "word_hebrew": "חיפוש עיר",
+        "main_definition": "A metaphorical term referring to the act of seeking information about cities, their locations, characteristics or services offered within them.",
+        "main_definition_hebrew": "מונח מטפורי המתייחס לפעולת חיפוש מידע על ערים, מיקומן, מאפייניהן או השירותים המוצעים בהן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Using an online service or tool to find and compare various aspects of different cities.",
+                "definition_hebrew": "שימוש בשירות או כלי מקוון כדי למצוא ולהשוות היבטים שונים של ערים שונות.",
+                "example": "She used CitySearch to look up the crime rates in New York and San Francisco before deciding which city was safer for her family.",
+                "example_hebrew": "היא השתמשה ב-CitySearch כדי לחפש את שיעורי הפשיעה בניו יורק ובסן פרנסיסקו לפני שהחליטה איזו עיר בטוחה יותר עבור משפחתה."
+            },
+            {
+                "definition": "The process of looking for specific information or data about a city, such as demographic details, attractions, or real estate listings.",
+                "definition_hebrew": "תהליך החיפוש אחר מידע או נתונים ספציפיים על עיר, כגון פרטים דמוגרפיים, אטרקציות או רישומי נדל\"ן.",
+                "example": "He conducted an extensive CitySearch to understand the housing market in Boston before buying a property.",
+                "example_hebrew": "הוא ערך CitySearch נרחב כדי להבין את שוק הדיור בבוסטון לפני רכישת נכס."
+            },
+            {
+                "definition": "A hypothetical tool that aggregates and displays information about cities for users seeking such data.",
+                "definition_hebrew": "כלי היפותטי שאוסף ומציג מידע על ערים עבור משתמשים המחפשים נתונים כאלה.",
+                "example": "The developers released a beta version of their new app called 'CitySearch' which consolidated travel, culture, and business statistics in one platform.",
+                "example_hebrew": "המפתחים פרסמו גרסת בטא של האפליקציה החדשה שלהם בשם 'CitySearch' אשר איחדה סטטיסטיקות נסיעות, תרבות ועסקים בפלטפורמה אחת."
+            }
+        ]
+    }
+]

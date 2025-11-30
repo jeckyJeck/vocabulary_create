@@ -1,0 +1,34 @@
+[
+    {
+        "word": "secured",
+        "word_hebrew": "מְאוּבטָח",
+        "main_definition": "To make or become safe, protected, or stable; to obtain something by use of force or legal means.",
+        "main_definition_hebrew": "להפוך או להפוך בטוח, מוגן או יציב; להשיג משהו בשימוש בכוח או באמצעים חוקיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To ensure that something is fixed firmly in place, especially with the help of a locking mechanism",
+                "definition_hebrew": "להבטיח שמשהו מקובע היטב במקום, במיוחד בעזרת מנגנון נעילה",
+                "example": "He secured his bicycle to the metal rack by using a sturdy bike lock.",
+                "example_hebrew": "הוא חיבר את אופניו למתקן המתכת באמצעות מנעול אופניים יציב."
+            },
+            {
+                "definition": "To obtain or guarantee possession of an asset or property legally and safely",
+                "definition_hebrew": "להשיג או להבטיח החזקה של נכס או נכס באופן חוקי ובטוח",
+                "example": "The bank secured a loan for her business venture, giving her financial stability.",
+                "example_hebrew": "הבנק הבטיח הלוואה למיזם העסקי שלה, מה שהעניק לה יציבות כלכלית."
+            },
+            {
+                "definition": "To safeguard something against loss, damage, or theft by taking necessary precautions",
+                "definition_hebrew": "כדי להגן על משהו מפני אובדן, נזק או גניבה על ידי נקיטת אמצעי הזהירות הדרושים",
+                "example": "They secured their valuables in a safe to protect them from burglary.",
+                "example_hebrew": "הם אבטחו את חפצי הערך שלהם בכספת כדי להגן עליהם מפני פריצה."
+            },
+            {
+                "definition": "To provide someone with certainty about future events through arrangements made in advance",
+                "definition_hebrew": "לספק למישהו ודאות לגבי אירועים עתידיים באמצעות סידורים שנעשו מראש",
+                "example": "The insurance policy secures the family's financial wellbeing should anything unexpected happen.",
+                "example_hebrew": "פוליסת הביטוח מבטיחה את רווחתה הכלכלית של המשפחה אם יקרה משהו בלתי צפוי."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "bedrooms",
+        "word_hebrew": "חדרי שינה",
+        "main_definition": "Bedrooms refer to rooms in a house or building designed primarily for sleeping, typically featuring at least one bed.",
+        "main_definition_hebrew": "חדרי שינה מתייחסים לחדרים בבית או בבניין המיועדים בעיקר לשינה, ובדרך כלל כוללים מיטה אחת לפחות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Number of bedrooms in a dwelling",
+                "definition_hebrew": "מספר חדרי שינה בדירה",
+                "example": "The apartment has three bedrooms.",
+                "example_hebrew": "בדירה שלושה חדרי שינה."
+            },
+            {
+                "definition": "A room within a house or building designed for sleeping and rest, usually with a bed as the main piece of furniture.",
+                "definition_hebrew": "חדר בתוך בית או בניין המיועד לשינה ומנוחה, לרוב עם מיטה כרהיט העיקרי.",
+                "example": "She opened the door to her cozy bedroom.",
+                "example_hebrew": "היא פתחה את הדלת לחדר השינה הנעים שלה."
+            },
+            {
+                "definition": "The act of making one's bed after waking up",
+                "definition_hebrew": "פעולת הסדרת המיטה לאחר ההתעוררות",
+                "example": "Every morning she starts her day by 'making the bedrooms' neat and tidy.",
+                "example_hebrew": "כל בוקר היא מתחילה את יומה ב'לעשות את חדרי השינה' מסודרים ומסודרים."
+            }
+        ]
+    }
+]

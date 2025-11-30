@@ -1,0 +1,40 @@
+[
+    {
+        "word": "representative",
+        "word_hebrew": "נציג",
+        "main_definition": "A person or thing that stands in for, symbolizes, or exemplifies something larger.",
+        "main_definition_hebrew": "אדם או דבר המייצג, מסמל או ממחיש משהו גדול יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual chosen to act on behalf of a group, organization, or constituency to express their views and make decisions",
+                "definition_hebrew": "אדם שנבחר לפעול בשם קבוצה, ארגון או מחוז כדי להביע את דעותיו ולקבל החלטות",
+                "example": "The elected representative from the district voiced the concerns of his constituents at the city council meeting.",
+                "example_hebrew": "הנציג הנבחר מהמחוז הביע את חששותיהם של בוחריו בישיבת מועצת העיר."
+            },
+            {
+                "definition": "A sample or subset chosen to reflect the characteristics of a larger population",
+                "definition_hebrew": "מדגם או תת-קבוצה שנבחרו כדי לשקף את המאפיינים של אוכלוסייה גדולה יותר",
+                "example": "In a survey, a random selection of people was used as a representative sample of the entire population's opinions.",
+                "example_hebrew": "בסקר, מבחר אקראי של אנשים שימש כמדגם מייצג של דעות האוכלוסייה כולה."
+            },
+            {
+                "definition": "An official delegate who represents their country at an international conference or meeting",
+                "definition_hebrew": "נציג רשמי המייצג את ארצו בכנס או בפגישה בינלאומית",
+                "example": "The ambassador acted as the country's representative during the United Nations summit.",
+                "example_hebrew": "השגריר שימש כנציג המדינה במהלך פסגת האו\"ם."
+            },
+            {
+                "definition": "A figure of speech that suggests one thing stands for another, typically used to illustrate a point by comparing two things",
+                "definition_hebrew": "דמות דיבור שמרמזת על דבר אחד מייצגת דבר אחר, משמשת בדרך כלל להמחשת נקודה על ידי השוואה בין שני דברים",
+                "example": "He is the black sheep of our family and doesn't represent our values or traditions.",
+                "example_hebrew": "הוא הכבשה השחורה של המשפחה שלנו ואינו מייצג את הערכים או המסורות שלנו."
+            },
+            {
+                "definition": "An intermediary who communicates on behalf of someone else in negotiations, discussions, or agreements",
+                "definition_hebrew": "מתווך שמתקשר בשמו של מישהו אחר במשא ומתן, דיונים או הסכמים",
+                "example": "The lawyer acted as a representative for the company during contract talks with the supplier.",
+                "example_hebrew": "עורך הדין שימש כנציג החברה במהלך שיחות התקשרות עם הספק."
+            }
+        ]
+    }
+]

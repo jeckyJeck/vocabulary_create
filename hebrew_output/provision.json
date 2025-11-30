@@ -1,0 +1,34 @@
+[
+    {
+        "word": "provision",
+        "word_hebrew": "אַספָּקָה",
+        "main_definition": "A provision is a thing provided or supplied, especially with regard to resources, facilities, or arrangements.",
+        "main_definition_hebrew": "הפרשה היא דבר מסופק או מסופק, במיוחד לגבי משאבים, מתקנים או סידורים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Legal clause in a contract stipulating certain conditions or requirements",
+                "definition_hebrew": "סעיף משפטי בחוזה הקובע תנאים או דרישות מסוימות",
+                "example": "The lease agreement contains several provisions regarding maintenance responsibilities.",
+                "example_hebrew": "הסכם השכירות מכיל מספר הוראות לגבי אחריות תחזוקה."
+            },
+            {
+                "definition": "Resources allocated for use, often financial support given to someone",
+                "definition_hebrew": "משאבים שהוקצו לשימוש, לרוב תמיכה כספית שניתנת למישהו",
+                "example": "She was provided with a scholarship as provision for her education expenses.",
+                "example_hebrew": "ניתנה לה מלגה כפנסיה להוצאות החינוך שלה."
+            },
+            {
+                "definition": "Measures taken or arrangements made in preparation for future needs or requirements",
+                "definition_hebrew": "אמצעים שננקטו או הסדרים שנעשו לקראת צרכים או דרישות עתידיות",
+                "example": "The government has introduced provisions for disaster management to combat natural calamities.",
+                "example_hebrew": "הממשלה הציגה הוראות לניהול אסונות כדי להילחם באסונות טבע."
+            },
+            {
+                "definition": "Food and other essentials provided, especially as part of relief efforts during a crisis",
+                "definition_hebrew": "מזון וחפצים חיוניים אחרים מסופקים, במיוחד כחלק ממאמצי הסיוע בעת משבר",
+                "example": "The Red Cross made arrangements to provide food provisions to the affected areas after the earthquake.",
+                "example_hebrew": "הצלב האדום עשה סידורים לספק מזון לאזורים שנפגעו לאחר רעידת האדמה."
+            }
+        ]
+    }
+]

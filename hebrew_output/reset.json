@@ -1,0 +1,34 @@
+[
+    {
+        "word": "reset",
+        "word_hebrew": "אִתחוּל",
+        "main_definition": "To restore something to its original or initial state, often after changes have been made.",
+        "main_definition_hebrew": "להחזיר משהו למצבו המקורי או הראשוני, לעתים קרובות לאחר ביצוע שינויים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To restart a device or system and return it to its default settings.",
+                "definition_hebrew": "כדי להפעיל מחדש מכשיר או מערכת ולהחזיר אותם להגדרות ברירת המחדל שלו.",
+                "example": "After encountering problems with my computer, I had to reset it by holding the power button.",
+                "example_hebrew": "לאחר שנתקלתי בבעיות עם המחשב שלי, נאלצתי לאפס אותו על ידי לחיצה על לחצן ההפעלה."
+            },
+            {
+                "definition": "To erase data or memory and start fresh.",
+                "definition_hebrew": "כדי למחוק נתונים או זיכרון ולהתחיל מחדש.",
+                "example": "I decided to reset all my passwords after a security breach in order to protect my accounts.",
+                "example_hebrew": "החלטתי לאפס את כל הסיסמאות שלי לאחר פרצת אבטחה על מנת להגן על החשבונות שלי."
+            },
+            {
+                "definition": "To begin again with something, often from the beginning.",
+                "definition_hebrew": "להתחיל מחדש עם משהו, לעתים קרובות מההתחלה.",
+                "example": "After failing her first driving test, Sarah had to take it all over again and started fresh on her second attempt.",
+                "example_hebrew": "לאחר שנכשלה במבחן הנהיגה הראשון שלה, שרה נאלצה לעבור הכל מחדש והתחילה מחדש בניסיון השני שלה."
+            },
+            {
+                "definition": "In a relationship context, to discard past issues or emotions and start anew as if nothing happened before.",
+                "definition_hebrew": "בהקשר של מערכת יחסים, לזרוק בעיות או רגשות מהעבר ולהתחיל מחדש כאילו כלום לא קרה קודם.",
+                "example": "The couple decided to reset their relationship by forgiving each other's past mistakes and moving forward with open hearts.",
+                "example_hebrew": "בני הזוג החליטו לאפס את מערכת היחסים שלהם על ידי סליחה על טעויות העבר אחד של השני ולהתקדם בלב פתוח."
+            }
+        ]
+    }
+]

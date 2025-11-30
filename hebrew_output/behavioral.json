@@ -1,0 +1,34 @@
+[
+    {
+        "word": "behavioral",
+        "word_hebrew": "התנהגותי",
+        "main_definition": "Relating to the actions or reactions of individuals, groups, or animals in response to stimuli, situations, or environments.",
+        "main_definition_hebrew": "התייחסות לפעולות או תגובות של פרטים, קבוצות או בעלי חיים בתגובה לגירויים, מצבים או סביבות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Concerning individual's actions and attitudes",
+                "definition_hebrew": "לגבי פעולות ועמדות של הפרט",
+                "example": "The researchers conducted a behavioral study on children's reactions to sharing their toys.",
+                "example_hebrew": "החוקרים ערכו מחקר התנהגותי על התגובות של ילדים לשיתוף הצעצועים שלהם."
+            },
+            {
+                "definition": "Relating to the systematic approach of studying human or animal behavior",
+                "definition_hebrew": "התייחסות לגישה השיטתית של חקר התנהגות בני אדם או בעלי חיים",
+                "example": "Behavioral psychologists use various methods like experiments, surveys and observations to understand how people behave.",
+                "example_hebrew": "פסיכולוגים התנהגותיים משתמשים בשיטות שונות כמו ניסויים, סקרים ותצפיות כדי להבין איך אנשים מתנהגים."
+            },
+            {
+                "definition": "Involving training animals to perform specific tasks based on understanding their behaviors",
+                "definition_hebrew": "שילוב של אימון בעלי חיים לביצוע משימות ספציפיות המבוססות על הבנת ההתנהגויות שלהם",
+                "example": "A dog trainer uses behavioral techniques to teach a dog new tricks or commands.",
+                "example_hebrew": "מאלף כלבים משתמש בטכניקות התנהגותיות כדי ללמד כלב טריקים או פקודות חדשות."
+            },
+            {
+                "definition": "Pertaining to the study of patterns in human decision making, actions and attitudes",
+                "definition_hebrew": "הנוגע לחקר דפוסים בקבלת החלטות אנושית, בפעולות ובעמדות",
+                "example": "Behavioral economics combines psychology with economic theory to explain why people make irrational decisions.",
+                "example_hebrew": "כלכלה התנהגותית משלבת פסיכולוגיה עם תיאוריה כלכלית כדי להסביר מדוע אנשים מקבלים החלטות לא רציונליות."
+            }
+        ]
+    }
+]

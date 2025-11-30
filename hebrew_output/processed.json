@@ -1,0 +1,40 @@
+[
+    {
+        "word": "processed",
+        "word_hebrew": "מעובד",
+        "main_definition": "Adjective describing something that has been altered, treated, or modified from its original state.",
+        "main_definition_hebrew": "שם תואר המתאר משהו ששונה, טופל או שונה ממצבו המקורי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to food that has been cooked and preserved through methods like canning, freezing, or drying",
+                "definition_hebrew": "מתייחס למזון שבושל ונשמר בשיטות כמו שימורים, הקפאה או ייבוש",
+                "example": "The processed cheese is different in texture compared to fresh cheese.",
+                "example_hebrew": "הגבינה המעובדת שונה במרקמה לעומת גבינה טרייה."
+            },
+            {
+                "definition": "Refers to information or data that has been altered or manipulated for various purposes, such as analyzing or presenting it differently.",
+                "definition_hebrew": "הכוונה למידע או נתונים ששונו או עברו מניפולציות למטרות שונות, כגון ניתוח או הצגתם אחרת.",
+                "example": "The raw survey data was heavily processed before the final report could be published.",
+                "example_hebrew": "נתוני הסקר הגולמיים עברו עיבוד רב לפני שניתן היה לפרסם את הדוח הסופי."
+            },
+            {
+                "definition": "Pertaining to manufacturing and industrial processes where materials are transformed into a finished product through machining, assembling, or other procedures.",
+                "definition_hebrew": "הנוגע לתהליכי ייצור ותעשייתיים שבהם חומרים הופכים למוצר מוגמר באמצעות עיבוד שבבי, הרכבה או הליכים אחרים.",
+                "example": "The factory specializes in processing metal parts for automotive assembly lines.",
+                "example_hebrew": "המפעל מתמחה בעיבוד חלקי מתכת לקווי ייצור לרכב."
+            },
+            {
+                "definition": "In computing contexts, describes data that has been altered from its original form, often due to software actions like compression or encryption",
+                "definition_hebrew": "בהקשרי מחשוב, מתאר נתונים ששונו מצורתם המקורית, לעתים קרובות עקב פעולות תוכנה כמו דחיסה או הצפנה",
+                "example": "My files have become corrupted after the automatic processing by an unknown software update.",
+                "example_hebrew": "הקבצים שלי נפגמו לאחר העיבוד האוטומטי על ידי עדכון תוכנה לא ידוע."
+            },
+            {
+                "definition": "Concerning media content that has been edited for various purposes such as censorship, adaptation into different formats (like from script to screenplay), or alteration of language.",
+                "definition_hebrew": "לגבי תוכן מדיה שנערך למטרות שונות כגון צנזורה, התאמה לפורמטים שונים (כמו מתסריט לתסריט), או שינוי שפה.",
+                "example": "The director made significant changes to the original script during the post-production process.",
+                "example_hebrew": "הבמאי ביצע שינויים משמעותיים בתסריט המקורי במהלך תהליך הפוסט-פרודקשן."
+            }
+        ]
+    }
+]

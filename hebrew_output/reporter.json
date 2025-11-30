@@ -1,0 +1,40 @@
+[
+    {
+        "word": "reporter",
+        "word_hebrew": "כַתָב",
+        "main_definition": "A reporter is a person who investigates, collects, and presents news or information through written articles or broadcasting.",
+        "main_definition_hebrew": "כתב הוא אדם שחוקר, אוסף ומציג חדשות או מידע באמצעות מאמרים כתובים או שידורים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Journalist specializing in gathering and reporting news",
+                "definition_hebrew": "עיתונאי המתמחה באיסוף ודיווח חדשות",
+                "example": "The local reporter covered the event live on TV.",
+                "example_hebrew": "הכתב המקומי סיקר את האירוע בשידור חי בטלוויזיה."
+            },
+            {
+                "definition": "A person who writes or broadcasts stories about current events",
+                "definition_hebrew": "אדם שכותב או משדר סיפורים על אירועים אקטואליים",
+                "example": "She spent days researching for her report on climate change.",
+                "example_hebrew": "היא בילתה ימים במחקר עבור הדו\"ח שלה על שינויי אקלים."
+            },
+            {
+                "definition": "An employee of a newspaper, magazine, radio, television station, or website responsible for creating news content",
+                "definition_hebrew": "עובד של עיתון, מגזין, רדיו, תחנת טלוויזיה או אתר שאחראי על יצירת תוכן חדשותי",
+                "example": "The reporter submitted his article to the editor before the deadline.",
+                "example_hebrew": "הכתב הגיש את מאמרו לעורך לפני המועד האחרון."
+            },
+            {
+                "definition": "A person who investigates and reports on criminal activities",
+                "definition_hebrew": "אדם שחוקר ומדווח על פעולות פליליות",
+                "example": "The crime reporter was known for uncovering important details about high-profile cases.",
+                "example_hebrew": "כתב הפשע היה ידוע בחשיפת פרטים חשובים על מקרים מתוקשרים."
+            },
+            {
+                "definition": "An individual who provides information or updates, often in the context of an interview or press release",
+                "definition_hebrew": "אדם המספק מידע או עדכונים, לעתים קרובות בהקשר של ראיון או הודעה לעיתונות",
+                "example": "During the conference, the company's spokespeon acted as a reporter to address questions from the media.",
+                "example_hebrew": "במהלך הכנס פעל דובר החברה ככתב להתייחס לשאלות התקשורת."
+            }
+        ]
+    }
+]

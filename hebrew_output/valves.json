@@ -1,0 +1,34 @@
+[
+    {
+        "word": "valves",
+        "word_hebrew": "שסתומים",
+        "main_definition": "Valves are devices or structures designed to control the flow of fluids, gases, or air in various systems, either by opening, closing, or regulating the passage.",
+        "main_definition_hebrew": "שסתומים הם מכשירים או מבנים שנועדו לשלוט בזרימת נוזלים, גזים או אוויר במערכות שונות, בין אם על ידי פתיחה, סגירה או ויסות המעבר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Blood valves",
+                "definition_hebrew": "שסתומי דם",
+                "example": "The tricuspid and mitral valves are two of the four valves that prevent backflow of blood within the heart.",
+                "example_hebrew": "השסתומים התלת-צדדיים והמיטרליים הם שניים מארבעת המסתמים המונעים זרימה חוזרת של דם בתוך הלב."
+            },
+            {
+                "definition": "Pressure-relief valves",
+                "definition_hebrew": "שסתומי שחרור לחץ",
+                "example": "A pressure relief valve in a water heater is used to release excess pressure to protect the system from bursting or leaking.",
+                "example_hebrew": "שסתום שחרור לחץ במחמם מים משמש לשחרור לחץ עודף כדי להגן על המערכת מפני התפוצצות או דליפה."
+            },
+            {
+                "definition": "Pneumatic valves",
+                "definition_hebrew": "שסתומים פניאומטיים",
+                "example": "In an industrial setting, pneumatic valves control air flow and direction in automated machinery.",
+                "example_hebrew": "בסביבה תעשייתית, שסתומים פניאומטיים שולטים בזרימת האוויר וכיווני האוויר במכונות אוטומטיות."
+            },
+            {
+                "definition": "Metaphorical use of the word 'valves' to describe mechanisms or processes that regulate change or release",
+                "definition_hebrew": "שימוש מטפורי במילה 'שסתומים' לתיאור מנגנונים או תהליכים המווסתים שינוי או שחרור",
+                "example": "The company implemented a new policy as a valve, allowing for necessary adjustments and flexibility in response to market fluctuations.",
+                "example_hebrew": "החברה הטמיעה מדיניות חדשה כשסתום, המאפשרת התאמות נדרשות וגמישות בתגובה לתנודות בשוק."
+            }
+        ]
+    }
+]

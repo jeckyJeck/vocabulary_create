@@ -1,0 +1,34 @@
+[
+    {
+        "word": "maybe",
+        "word_hebrew": "אולי",
+        "main_definition": "Maybe refers to the possibility of something happening, indicating uncertainty or a lack of definite commitment.",
+        "main_definition_hebrew": "אולי מתייחס לאפשרות שמשהו יקרה, המעיד על אי ודאות או חוסר מחויבות מוגדרת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Suggesting that there is a chance something might occur but it's not certain",
+                "definition_hebrew": "מצביע על כך שיש סיכוי שמשהו יקרה אבל זה לא בטוח",
+                "example": "I think I may have left my keys at home, so maybe we can't go out tonight.",
+                "example_hebrew": "אני חושב שאולי השארתי את המפתחות שלי בבית, אז אולי לא נוכל לצאת הלילה."
+            },
+            {
+                "definition": "Expressing uncertainty about whether an action will take place or the truth of a statement",
+                "definition_hebrew": "הבעת חוסר ודאות אם תתבצע פעולה או אמיתות הצהרה",
+                "example": "Maybe she won't be able to come to the party tomorrow evening.",
+                "example_hebrew": "אולי היא לא תוכל לבוא למסיבה מחר בערב."
+            },
+            {
+                "definition": "Used as a softening phrase in conversation when making suggestions or offering help",
+                "definition_hebrew": "משמש כביטוי מרכך בשיחה בעת הצעות או הצעות עזרה",
+                "example": "Maybe you should consider talking to her about it. I can give you some advice if you'd like.",
+                "example_hebrew": "אולי כדאי לשקול לדבר איתה על זה. אני יכול לתת לך עצה אם תרצה."
+            },
+            {
+                "definition": "Indicating that something is possible but not guaranteed, often used with negation",
+                "definition_hebrew": "מציין שמשהו אפשרי אך לא מובטח, לעתים קרובות נעשה בו שימוש בשלילה",
+                "example": "The weather forecast says it might rain tomorrow, so we should bring an umbrella just in case.",
+                "example_hebrew": "תחזית מזג האוויר אומרת שייתכן גשם מחר, אז כדאי להביא מטריה לכל מקרה."
+            }
+        ]
+    }
+]

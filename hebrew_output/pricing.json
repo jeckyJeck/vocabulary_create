@@ -1,0 +1,40 @@
+[
+    {
+        "word": "pricing",
+        "word_hebrew": "תמחור",
+        "main_definition": "The process of determining the cost or price to be set for a product, service, or commodity.",
+        "main_definition_hebrew": "תהליך קביעת העלות או המחיר שייקבעו עבור מוצר, שירות או סחורה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Determining the selling price of goods or services",
+                "definition_hebrew": "קביעת מחיר המכירה של סחורות או שירותים",
+                "example": "A store manager reviews competitor prices and decides on the pricing strategy to attract more customers.",
+                "example_hebrew": "מנהל חנות סוקר את מחירי המתחרים ומחליט על אסטרטגיית התמחור כדי למשוך יותר לקוחות."
+            },
+            {
+                "definition": "Setting a fixed cost for certain products, such as subscription-based software",
+                "definition_hebrew": "הגדרת עלות קבועה עבור מוצרים מסוימים, כגון תוכנה מבוססת מנוי",
+                "example": "An online learning platform sets a monthly pricing plan of $15 per user for its educational resources.",
+                "example_hebrew": "פלטפורמת למידה מקוונת קובעת תוכנית תמחור חודשית של $15 למשתמש עבור המשאבים החינוכיים שלה."
+            },
+            {
+                "definition": "The act of changing the price point to reflect value or market conditions",
+                "definition_hebrew": "הפעולה של שינוי נקודת המחיר כדי לשקף ערך או תנאי שוק",
+                "example": "During a clearance sale, a clothing store lowers prices on outdated styles to move inventory quickly.",
+                "example_hebrew": "במהלך מכירת חיסול, חנות בגדים מורידה מחירים על סגנונות מיושנים כדי להעביר את המלאי במהירות."
+            },
+            {
+                "definition": "Evaluating different factors like cost, demand, and competition to arrive at a price",
+                "definition_hebrew": "הערכת גורמים שונים כמו עלות, ביקוש ותחרות כדי להגיע למחיר",
+                "example": "A business analyst performs pricing analysis for a new product by considering manufacturing costs, target customer's willingness to pay, and similar products in the market.",
+                "example_hebrew": "אנליסט עסקי מבצע ניתוח תמחור עבור מוצר חדש על ידי התחשבות בעלויות הייצור, נכונות הלקוח לשלם ומוצרים דומים בשוק."
+            },
+            {
+                "definition": "The process of adjusting prices over time based on external factors such as inflation or economic changes",
+                "definition_hebrew": "תהליך התאמת המחירים לאורך זמן על סמך גורמים חיצוניים כמו אינפלציה או שינויים כלכליים",
+                "example": "A grocery store increases the price of certain goods during a period of high inflation to maintain its profit margin.",
+                "example_hebrew": "חנות מכולת מייקרת את המחיר של מוצרים מסוימים בתקופה של אינפלציה גבוהה כדי לשמור על שולי הרווח שלה."
+            }
+        ]
+    }
+]

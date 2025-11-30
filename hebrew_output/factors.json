@@ -1,0 +1,40 @@
+[
+    {
+        "word": "factors",
+        "word_hebrew": "גורמים",
+        "main_definition": "Factors are elements or variables that influence, contribute to, or have an impact on a situation, event, process, or outcome.",
+        "main_definition_hebrew": "גורמים הם אלמנטים או משתנים המשפיעים, תורמים או משפיעים על מצב, אירוע, תהליך או תוצאה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In mathematics, factors refer to numbers that multiply together to produce another number.",
+                "definition_hebrew": "במתמטיקה, גורמים מתייחסים למספרים שמכפילים יחד כדי לייצר מספר נוסף.",
+                "example": "The factors of 12 are 1, 2, 3, 4, 6, and 12 because they all can be multiplied by another whole number to result in 12 (e.g., 1x12, 2x6, 3x4).",
+                "example_hebrew": "הגורמים של 12 הם 1, 2, 3, 4, 6 ו-12 מכיוון שניתן להכפיל את כולם במספר שלם אחר כדי להביא ל-12 (לדוגמה, 1x12, 2x6, 3x4)."
+            },
+            {
+                "definition": "In causal analysis, factors are variables that contribute to an outcome or effect.",
+                "definition_hebrew": "בניתוח סיבתי, גורמים הם משתנים התורמים לתוצאה או השפעה.",
+                "example": "The factors contributing to climate change include greenhouse gas emissions, deforestation, and industrial pollution.",
+                "example_hebrew": "הגורמים התורמים לשינויי האקלים כוללים פליטת גזי חממה, כריתת יערות וזיהום תעשייתי."
+            },
+            {
+                "definition": "Factors can refer to elements within a system or process that influence its functioning.",
+                "definition_hebrew": "גורמים יכולים להתייחס לאלמנטים בתוך מערכת או תהליך המשפיעים על תפקודו.",
+                "example": "In economics, supply and demand are factors that determine the market price of goods and services.",
+                "example_hebrew": "בכלכלה, היצע וביקוש הם גורמים שקובעים את מחיר השוק של סחורות ושירותים."
+            },
+            {
+                "definition": "In project management, factors may include budget constraints, timelines, resources availability, etc., which affect a project's success.",
+                "definition_hebrew": "בניהול פרויקטים, גורמים עשויים לכלול מגבלות תקציב, לוחות זמנים, זמינות משאבים וכו', המשפיעים על הצלחת הפרויקט.",
+                "example": "Key factors influencing the completion of our software development project were team skills, technology limitations, and time allocated for testing.",
+                "example_hebrew": "גורמים מרכזיים שהשפיעו על השלמת פרויקט פיתוח התוכנה שלנו היו כישורי צוות, מגבלות טכנולוגיות וזמן שהוקצה לבדיקה."
+            },
+            {
+                "definition": "In decision-making, considering all relevant factors is crucial to making informed choices.",
+                "definition_hebrew": "בקבלת החלטות, התחשבות בכל הגורמים הרלוונטיים היא חיונית לביצוע בחירות מושכלות.",
+                "example": "When deciding on a new car purchase, factors like fuel efficiency, cost, safety ratings, and reliability should be taken into account.",
+                "example_hebrew": "בעת החלטה על רכישת רכב חדש, יש לקחת בחשבון גורמים כמו יעילות דלק, עלות, דירוגי בטיחות ואמינות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "gene",
+        "word_hebrew": "גֵן",
+        "main_definition": "A gene is a unit of heredity that is transferred from a parent to offspring and is held to determine some characteristics of the offspring.",
+        "main_definition_hebrew": "גן הוא יחידת תורשה המועברת מהורה לצאצאים ומוחזקת כדי לקבוע כמה מאפיינים של הצאצאים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Biological term referring to a sequence of DNA or RNA that encodes functional products like proteins, which contribute to an organism's traits",
+                "definition_hebrew": "מונח ביולוגי המתייחס לרצף של DNA או RNA המקודד מוצרים פונקציונליים כמו חלבונים, התורמים לתכונות האורגניזם",
+                "example": "The blue eye color gene is responsible for the variation in eye colors among humans.",
+                "example_hebrew": "גן צבע העיניים הכחול אחראי לשונות בצבעי העיניים בקרב בני אדם."
+            },
+            {
+                "definition": "In computing and programming, a sequence of characters or symbols that represents a specific function or command within code",
+                "definition_hebrew": "במחשוב ובתכנות, רצף של תווים או סמלים המייצגים פונקציה או פקודה ספציפית בתוך קוד",
+                "example": "A 'print' statement in Python can be thought of as a print gene that instructs the computer to display information on screen.",
+                "example_hebrew": "ניתן לחשוב על הצהרת 'הדפס' ב-Python כגן הדפסה המורה למחשב להציג מידע על המסך."
+            },
+            {
+                "definition": "In genetics, an idiom referring to the underlying instructions passed down from parents to offspring",
+                "definition_hebrew": "בגנטיקה, ניב המתייחס להוראות הבסיסיות שהועברו מההורים לצאצאים",
+                "example": "The tallness trait is often attributed to multiple 'genes' inherited from both mother and father.",
+                "example_hebrew": "תכונת הגבהה מיוחסת לרוב ל\"גנים\" מרובים שהועברו מאם ומאב כאחד."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "machine",
+        "word_hebrew": "מְכוֹנָה",
+        "main_definition": "A machine is a device or system designed to perform tasks, often involving mechanical operations with precision, efficiency, and repetition.",
+        "main_definition_hebrew": "מכונה היא מכשיר או מערכת שנועדו לבצע משימות, שלעתים קרובות כוללות פעולות מכניות בדיוק, יעילות וחזרה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mechanical device used for accomplishing a task or performing a function",
+                "definition_hebrew": "מכשיר מכני המשמש לביצוע משימה או ביצוע פונקציה",
+                "example": "The printing press is an old-fashioned machine that revolutionized the production of books.",
+                "example_hebrew": "מכונת הדפוס היא מכונה מיושנת שחוללה מהפכה בייצור הספרים."
+            },
+            {
+                "definition": "A complex apparatus designed to perform a specific operation, often in manufacturing or industry",
+                "definition_hebrew": "מכשיר מורכב שנועד לבצע פעולה ספציפית, לעתים קרובות בייצור או בתעשייה",
+                "example": "An assembly line in a car factory consists of various machines working together to build vehicles efficiently.",
+                "example_hebrew": "פס ייצור במפעל רכב מורכב ממכונות שונות הפועלות יחד לבניית כלי רכב ביעילות."
+            },
+            {
+                "definition": "Something that operates automatically without human intervention",
+                "definition_hebrew": "משהו שפועל אוטומטית ללא התערבות אנושית",
+                "example": "A vending machine dispenses snacks and drinks when you insert money.",
+                "example_hebrew": "מכונה אוטומטית מחלקת חטיפים ומשקאות כאשר אתה מכניס כסף."
+            },
+            {
+                "definition": "An abstract concept referring to a system or process that is methodical, repetitive, and efficient in its functioning",
+                "definition_hebrew": "מושג מופשט המתייחס למערכת או תהליך המתודיים, החוזרים על עצמם ויעילים בתפקודם",
+                "example": "The human body can be considered a complex machine with various systems working together for survival.",
+                "example_hebrew": "גוף האדם יכול להיחשב כמכונה מורכבת עם מערכות שונות הפועלות יחד להישרדות."
+            },
+            {
+                "definition": "A term used metaphorically to describe an entity (such as the economy or society) that functions systematically and efficiently but may lack compassion",
+                "definition_hebrew": "מונח המשמש באופן מטפורי לתיאור ישות (כגון כלכלה או חברה) שמתפקדת בצורה שיטתית ויעילה אך עשויה להיות חסרת חמלה",
+                "example": "The stock market can be referred to as a machine, where trades are executed rapidly based on algorithms without emotional consideration.",
+                "example_hebrew": "ניתן להתייחס לשוק המניות כמכונה, שבה עסקאות מבוצעות במהירות על בסיס אלגוריתמים ללא שיקול רגשי."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "wall",
+        "word_hebrew": "קִיר",
+        "main_definition": "A wall is a solid structure that defines an area, typically constructed of brick, stone, or concrete, providing support and protection.",
+        "main_definition_hebrew": "קיר הוא מבנה מוצק המגדיר אזור, בנוי בדרך כלל מלבנים, אבן או בטון, המספק תמיכה והגנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In architecture and construction",
+                "definition_hebrew": "באדריכלות ובבנייה",
+                "example": "The castle's thick stone walls were centuries old.",
+                "example_hebrew": "קירות האבן העבים של הטירה היו בני מאות שנים."
+            },
+            {
+                "definition": "A physical barrier between two spaces or areas",
+                "definition_hebrew": "מחסום פיזי בין שני חללים או אזורים",
+                "example": "She threw a ball against the wall to practice her aim.",
+                "example_hebrew": "היא זרקה כדור אל הקיר כדי לתרגל את המטרה שלה."
+            },
+            {
+                "definition": "A metaphor for obstacles or challenges in life",
+                "definition_hebrew": "מטאפורה למכשולים או אתגרים בחיים",
+                "example": "He said his career was like climbing a steep mountain, facing one challenge after another as walls.",
+                "example_hebrew": "הוא אמר שהקריירה שלו הייתה כמו טיפוס על הר תלול, להתמודד עם אתגר אחד אחרי השני כקירות."
+            },
+            {
+                "definition": "The side of an enclosed space such as a room",
+                "definition_hebrew": "הצד של חלל סגור כגון חדר",
+                "example": "I painted the four walls in my bedroom blue.",
+                "example_hebrew": "צבעתי את ארבעת הקירות בחדר השינה שלי בכחול."
+            },
+            {
+                "definition": "A division within a political party or organization",
+                "definition_hebrew": "חלוקה בתוך מפלגה או ארגון פוליטיים",
+                "example": "Each faction had its own agenda, making it difficult to reach consensus among the different wings.",
+                "example_hebrew": "לכל סיעה הייתה אג'נדה משלה, מה שהקשה על הגעה לקונצנזוס בין האגפים השונים."
+            }
+        ]
+    }
+]

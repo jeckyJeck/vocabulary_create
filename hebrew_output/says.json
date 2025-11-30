@@ -1,0 +1,34 @@
+[
+    {
+        "word": "says",
+        "word_hebrew": "אומר",
+        "main_definition": "To express something verbally, typically by using words.",
+        "main_definition_hebrew": "להביע משהו מילולי, בדרך כלל באמצעות מילים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To speak or utter a statement verbally.",
+                "definition_hebrew": "לדבר או לבטא אמירה מילולית.",
+                "example": "The teacher says the rules of the class.",
+                "example_hebrew": "המורה אומר את חוקי הכיתה."
+            },
+            {
+                "definition": "Used to attribute spoken words to someone.",
+                "definition_hebrew": "משמש לייחס מילים מדוברות למישהו.",
+                "example": "He said he would be late for dinner.",
+                "example_hebrew": "הוא אמר שהוא יאחר לארוחת ערב."
+            },
+            {
+                "definition": "To indicate agreement with something that has been said.",
+                "definition_hebrew": "להצביע על הסכמה עם משהו שנאמר.",
+                "example": "I say, 'That's a fantastic idea!' and she nods in agreement.",
+                "example_hebrew": "אני אומר, 'זה רעיון פנטסטי!' והיא מהנהנת בהסכמה."
+            },
+            {
+                "definition": "Used to introduce someone else’s words or thoughts verbally.",
+                "definition_hebrew": "משמש להצגת מילים או מחשבות של מישהו אחר מילולית.",
+                "example": "'Says the expert,' he replied confidently when discussing his topic.",
+                "example_hebrew": "'אומר המומחה', ענה בביטחון כשדן בנושא שלו."
+            }
+        ]
+    }
+]

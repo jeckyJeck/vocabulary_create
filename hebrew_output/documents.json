@@ -1,0 +1,40 @@
+[
+    {
+        "word": "documents",
+        "word_hebrew": "מסמכים",
+        "main_definition": "Documents refer to written or printed materials that provide information, serve as evidence of transactions or agreements, or record data in a systematic manner.",
+        "main_definition_hebrew": "מסמכים מתייחסים לחומרים כתובים או מודפסים המספקים מידע, משמשים ראיה לעסקאות או הסכמים, או מתעדים נתונים באופן שיטתי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Written records providing factual information",
+                "definition_hebrew": "רישומים בכתב המספקים מידע עובדתי",
+                "example": "His medical history is maintained through various documents.",
+                "example_hebrew": "ההיסטוריה הרפואית שלו נשמרת באמצעות מסמכים שונים."
+            },
+            {
+                "definition": "Paper or digital files used for legal, administrative, and business purposes",
+                "definition_hebrew": "נייר או קבצים דיגיטליים המשמשים למטרות משפטיות, מנהליות ועסקיות",
+                "example": "The company maintains a set of confidential financial documents.",
+                "example_hebrew": "החברה שומרת על מערכת מסמכים פיננסיים חסויים."
+            },
+            {
+                "definition": "Official papers proving identity or authority",
+                "definition_hebrew": "מסמכים רשמיים המעידים על זהות או סמכות",
+                "example": "She presented her passport as a document to board the plane.",
+                "example_hebrew": "היא הציגה את הדרכון שלה כמסמך לעלות למטוס."
+            },
+            {
+                "definition": "An official book, pamphlet, or publication with printed information",
+                "definition_hebrew": "ספר רשמי, חוברת או הוצאה לאור עם מידע מודפס",
+                "example": "The textbook is an important document for students in their studies.",
+                "example_hebrew": "ספר הלימוד מהווה מסמך חשוב לסטודנטים בלימודיהם."
+            },
+            {
+                "definition": "Collection of records used to maintain accuracy and consistency in data management",
+                "definition_hebrew": "איסוף רשומות המשמשות לשמירה על דיוק ועקביות בניהול הנתונים",
+                "example": "Data entry clerk updated the customer's documents after processing a transaction.",
+                "example_hebrew": "פקיד הזנת נתונים עדכן את מסמכי הלקוח לאחר עיבוד עסקה."
+            }
+        ]
+    }
+]

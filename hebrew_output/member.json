@@ -1,0 +1,34 @@
+[
+    {
+        "word": "member",
+        "word_hebrew": "חבר",
+        "main_definition": "A person who is part of a group, organization, or structure.",
+        "main_definition_hebrew": "אדם שהוא חלק מקבוצה, ארגון או מבנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Participant in an event or activity",
+                "definition_hebrew": "משתתף באירוע או פעילות",
+                "example": "She was excited to be a member of the annual book club meeting.",
+                "example_hebrew": "היא התרגשה להיות חברה במפגש השנתי של מועדון הספרים."
+            },
+            {
+                "definition": "An individual belonging to a group, organization, or team",
+                "definition_hebrew": "אדם השייך לקבוצה, ארגון או צוות",
+                "example": "John is a proud member of his local soccer league.",
+                "example_hebrew": "ג'ון הוא חבר גאה בליגת הכדורגל המקומית שלו."
+            },
+            {
+                "definition": "A person included in a set or series; one of the things making up such a whole",
+                "definition_hebrew": "אדם הנכלל בסט או בסדרה; אחד הדברים המרכיבים שלם כזה",
+                "example": "The key features of this product include its fast response and easy-to-use interface, which are major members of our customer satisfaction criteria.",
+                "example_hebrew": "המאפיינים העיקריים של מוצר זה כוללים את התגובה המהירה שלו ואת הממשק הקל לשימוש, שהם חברים מרכזיים בקריטריונים של שביעות רצון הלקוחות שלנו."
+            },
+            {
+                "definition": "A component part or member of an instrumental mechanism or system",
+                "definition_hebrew": "חלק מרכיב או איבר במנגנון או מערכת אינסטרומנטלית",
+                "example": "Each string on a guitar is attached to one end of a tuning peg and the other end serves as a member in sound production.",
+                "example_hebrew": "כל מיתר בגיטרה מחובר לקצה אחד של יתד מכוון והקצה השני משמש כחבר בהפקת סאונד."
+            }
+        ]
+    }
+]

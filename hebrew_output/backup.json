@@ -1,0 +1,40 @@
+[
+    {
+        "word": "backup",
+        "word_hebrew": "גיבוי",
+        "main_definition": "A backup is a copy of data or information that serves as an additional safeguard against loss, damage, or corruption.",
+        "main_definition_hebrew": "גיבוי הוא עותק של נתונים או מידע המשמש כהגנה נוספת מפני אובדן, נזק או שחיתות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To provide support in case the primary option fails or becomes unavailable",
+                "definition_hebrew": "לספק תמיכה במקרה שהאפשרות הראשית נכשלת או לא תהיה זמינה",
+                "example": "If my internet goes down, I have a backup plan to use my phone's data connection.",
+                "example_hebrew": "אם האינטרנט שלי מתקלקל, יש לי תוכנית גיבוי לשימוש בחיבור הנתונים של הטלפון שלי."
+            },
+            {
+                "definition": "A secondary copy of files or information stored for recovery purposes",
+                "definition_hebrew": "עותק משני של קבצים או מידע המאוחסן למטרות שחזור",
+                "example": "I regularly back up important documents on an external hard drive to prevent data loss.",
+                "example_hebrew": "אני מגבה באופן קבוע מסמכים חשובים בכונן קשיח חיצוני כדי למנוע אובדן נתונים."
+            },
+            {
+                "definition": "To retrace one's steps in a situation, especially when unsure about the correct path",
+                "definition_hebrew": "לחזור על עקבותיו במצב, במיוחד כאשר לא בטוחים בנתיב הנכון",
+                "example": "Feeling lost in the city, I decided to backup my route and take the familiar back roads home.",
+                "example_hebrew": "הרגשתי אבודה בעיר, החלטתי לגבות את המסלול שלי ולנסוע בדרכים האחוריות המוכרות הביתה."
+            },
+            {
+                "definition": "A less preferred alternative or option that is available if the primary choice does not work out",
+                "definition_hebrew": "חלופה פחות מועדפת או אפשרות זמינה אם הבחירה העיקרית לא מסתדרת",
+                "example": "If he doesn't get a promotion this year, his backup plan might be to apply for a different position within the company next year.",
+                "example_hebrew": "אם הוא לא יקבל קידום השנה, ייתכן שתוכנית הגיבוי שלו תהיה להגיש מועמדות לתפקיד אחר בחברה בשנה הבאה."
+            },
+            {
+                "definition": "In sports, referring to an alternate player who can step in if the starting athlete is unable to play",
+                "definition_hebrew": "בספורט, הכוונה לשחקן חלופי שיכול להתערב אם הספורטאי המתחיל אינו מסוגל לשחק",
+                "example": "The coach had a strong backup quarterback ready to take over during halftime due to the star QB's injury.",
+                "example_hebrew": "למאמן היה רכז גיבוי חזק מוכן להשתלט במהלך המחצית בגלל הפציעה של הכוכב QB."
+            }
+        ]
+    }
+]

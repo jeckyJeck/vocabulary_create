@@ -1,0 +1,28 @@
+[
+    {
+        "word": "gdp",
+        "word_hebrew": "gdp",
+        "main_definition": "Gross Domestic Product (GDP) is the total monetary or market value of all finished goods and services produced within a country's borders in a specific time period.",
+        "main_definition_hebrew": "תוצר מקומי גולמי (GDP) הוא הערך הכספי או השוק הכולל של כל המוצרים והשירותים המוגמרים המיוצרים בגבולות המדינה בפרק זמן מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Economic indicator",
+                "definition_hebrew": "אינדיקטור כלכלי",
+                "example": "The GDP growth rate provides insight into the health of an economy.",
+                "example_hebrew": "קצב צמיחת התמ\"ג מספק תובנה לגבי בריאותה של כלכלה."
+            },
+            {
+                "definition": "Total economic output measure",
+                "definition_hebrew": "מדד תפוקה כלכלית כוללת",
+                "example": "In 2020, the United States had a GDP of approximately $21.43 trillion.",
+                "example_hebrew": "בשנת 2020, לארצות הברית היה תוצר של כ-21.43 טריליון דולר."
+            },
+            {
+                "definition": "Indicator of living standards and well-being",
+                "definition_hebrew": "אינדיקטור של רמת חיים ורווחה",
+                "example": "Higher GDP per capita often correlates with higher living standards in a country.",
+                "example_hebrew": "תוצר גבוה יותר לנפש מתאם לרוב עם רמת חיים גבוהה יותר במדינה."
+            }
+        ]
+    }
+]

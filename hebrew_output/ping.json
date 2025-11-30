@@ -1,0 +1,28 @@
+[
+    {
+        "word": "ping",
+        "word_hebrew": "פינג",
+        "main_definition": "Ping is an idiom referring to a notification or signal sent to check the status of a network connection, system, or service.",
+        "main_definition_hebrew": "פינג הוא אידיום המתייחס להודעה או לאות שנשלחו כדי לבדוק את המצב של חיבור רשת, מערכת או שירות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To send a small data packet over the internet to test if a device is reachable and to measure latency",
+                "definition_hebrew": "לשלוח חבילת נתונים קטנה דרך האינטרנט כדי לבדוק אם ניתן להגיע למכשיר ולמדוד זמן אחזור",
+                "example": "The IT technician sent a ping to the server to check its availability.",
+                "example_hebrew": "טכנאי ה-IT שלח פינג לשרת כדי לבדוק את זמינותו."
+            },
+            {
+                "definition": "A response received from an echo request sent by a network diagnostic tool like 'ping'",
+                "definition_hebrew": "תגובה שהתקבלה מבקשת הד שנשלחה על ידי כלי אבחון רשת כמו 'פינג'",
+                "example": "The system replied with a series of echo reply messages after receiving a ping command.",
+                "example_hebrew": "המערכת השיבה בסדרה של הודעות תשובה הד לאחר קבלת פקודת ping."
+            },
+            {
+                "definition": "An informal term used to describe someone who is active, alert, or trying to get attention",
+                "definition_hebrew": "מונח לא רשמי המשמש לתיאור מישהו פעיל, ערני או מנסה למשוך תשומת לב",
+                "example": "Whenever she sees something interesting, she pings us immediately by messaging on our group chat.",
+                "example_hebrew": "בכל פעם שהיא רואה משהו מעניין, היא מצלצלת אלינו מיד על ידי הודעות בצ'אט הקבוצתי שלנו."
+            }
+        ]
+    }
+]

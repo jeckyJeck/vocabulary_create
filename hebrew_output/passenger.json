@@ -1,0 +1,34 @@
+[
+    {
+        "word": "passenger",
+        "word_hebrew": "נוֹסֵעַ",
+        "main_definition": "A person who is traveling in a vehicle but does not operate it.",
+        "main_definition_hebrew": "אדם שנוסע ברכב אך אינו מפעיל אותו.",
+        "meanings_and_examples": [
+            {
+                "definition": "One who rides on a public transportation service, such as a bus or train.",
+                "definition_hebrew": "מי שנוסע בשירות תחבורה ציבורית, כמו אוטובוס או רכבת.",
+                "example": "The passenger boarded the city bus and found a seat near the window.",
+                "example_hebrew": "הנוסע עלה לאוטובוס העירוני ומצא מושב ליד החלון."
+            },
+            {
+                "definition": "A person traveling by air in an aircraft; an individual seated on an airplane.",
+                "definition_hebrew": "אדם הנוסע באוויר בכלי טיס; אדם יושב על מטוס.",
+                "example": "During takeoff, each passenger received their safety instructions from the flight attendant.",
+                "example_hebrew": "במהלך ההמראה קיבל כל נוסע את הוראות הבטיחות שלו מהדיילת."
+            },
+            {
+                "definition": "Someone who rides as a guest or non-operating member of a vehicle such as a car, taxi, or limousine.",
+                "definition_hebrew": "מי שנוסע כאורח או כחבר לא פעיל ברכב כגון מכונית, מונית או לימוזינה.",
+                "example": "The tour guide offered to be a passenger in the back seat for better navigation during their trip.",
+                "example_hebrew": "מדריך הטיולים הציע להיות נוסע במושב האחורי לניווט טוב יותר במהלך הטיול."
+            },
+            {
+                "definition": "An individual who is being transported by someone else, often without payment. This can include emergency medical passengers, military personnel on duty, or family members of those traveling.",
+                "definition_hebrew": "אדם שמועבר על ידי מישהו אחר, לרוב ללא תשלום. זה יכול לכלול נוסעי חירום רפואיים, אנשי צבא בתפקיד או בני משפחה של הנוסעים.",
+                "example": "The paramedic became a passenger in the ambulance, providing care to an injured person.",
+                "example_hebrew": "הפרמדיק הפך לנוסע באמבולנס, והעניק טיפול לפצוע."
+            }
+        ]
+    }
+]

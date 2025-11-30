@@ -1,0 +1,40 @@
+[
+    {
+        "word": "permits",
+        "word_hebrew": "היתרים",
+        "main_definition": "Allows or gives authorization to do something.",
+        "main_definition_hebrew": "מאפשר או נותן הרשאה לעשות משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To allow the occurrence of a specific action, event, or process.",
+                "definition_hebrew": "כדי לאפשר התרחשות של פעולה, אירוע או תהליך ספציפיים.",
+                "example": "The new policy permits employees to work from home on Fridays.",
+                "example_hebrew": "המדיניות החדשה מתירה לעובדים לעבוד מהבית בימי שישי."
+            },
+            {
+                "definition": "A document granting permission for an activity that would otherwise be illegal or restricted.",
+                "definition_hebrew": "מסמך המעניק אישור לפעילות שאחרת תהיה בלתי חוקית או מוגבלת.",
+                "example": "He obtained a permit to build a fence around his property.",
+                "example_hebrew": "הוא השיג אישור לבנות גדר סביב רכושו."
+            },
+            {
+                "definition": "To enable or make possible by providing the necessary conditions or resources.",
+                "definition_hebrew": "לאפשר או לאפשר על ידי מתן התנאים או המשאבים הדרושים.",
+                "example": "The availability of online resources permits students to learn at their own pace.",
+                "example_hebrew": "הזמינות של משאבים מקוונים מאפשרת לתלמידים ללמוד בקצב שלהם."
+            },
+            {
+                "definition": "In statistics, a term used for a parameter in probability distributions that indicates the maximum value an outcome can take.",
+                "definition_hebrew": "בסטטיסטיקה, מונח המשמש לפרמטר בהתפלגויות הסתברות המציין את הערך המקסימלי שתוצאה יכולה לקבל.",
+                "example": "The Poisson distribution has a parameter λ which permits us to calculate probabilities of certain events occurring within a fixed interval.",
+                "example_hebrew": "להתפלגות Poisson יש פרמטר λ המאפשר לנו לחשב הסתברויות של אירועים מסוימים המתרחשים במרווח קבוע."
+            },
+            {
+                "definition": "In law, referring to official approval or authorization for something like construction work or special events.",
+                "definition_hebrew": "בחוק, התייחסות לאישור רשמי או הרשאה למשהו כמו עבודות בנייה או אירועים מיוחדים.",
+                "example": "Before starting the renovation project, we had to apply for and obtain several permits from the city council.",
+                "example_hebrew": "לפני התחלת פרויקט השיפוץ, היינו צריכים להגיש בקשה ולקבל מספר אישורים ממועצת העיר."
+            }
+        ]
+    }
+]

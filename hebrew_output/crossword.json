@@ -1,0 +1,28 @@
+[
+    {
+        "word": "crossword",
+        "word_hebrew": "צְלָבִית",
+        "main_definition": "A puzzle featuring a grid of squares containing clues, where the goal is to fill in words horizontally and vertically according to given definitions.",
+        "main_definition_hebrew": "פאזל הכולל רשת של ריבועים המכילים רמזים, כאשר המטרה היא למלא מילים בצורה אופקית ואנכית לפי הגדרות נתונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Crossword puzzle as a form of word game",
+                "definition_hebrew": "תשבץ כצורת משחק מילים",
+                "example": "I enjoy solving crossword puzzles during my free time.",
+                "example_hebrew": "אני נהנה לפתור תשבצים בזמני הפנוי."
+            },
+            {
+                "definition": "A grid or layout involving intersecting lines and points, metaphorically used to describe a situation with multiple interrelated components",
+                "definition_hebrew": "רשת או פריסה הכוללים קווים ונקודות מצטלבים, המשמשים באופן מטפורי לתיאור מצב עם רכיבים מרובים הקשורים זה בזה",
+                "example": "The project was complex like a crossword puzzle, requiring careful attention to detail in all areas.",
+                "example_hebrew": "הפרויקט היה מורכב כמו תשבץ, שדרש תשומת לב קפדנית לפרטים בכל התחומים."
+            },
+            {
+                "definition": "An unexpected challenge or obstacle that requires creative problem-solving skills, often used metaphorically",
+                "definition_hebrew": "אתגר או מכשול בלתי צפוי הדורשים כישורי פתרון בעיות יצירתיים, המשמשים לעתים קרובות באופן מטפורי",
+                "example": "Finding affordable housing can be a real crossword for many people moving to a new city.",
+                "example_hebrew": "מציאת דיור בר השגה יכולה להיות תשבץ אמיתי עבור אנשים רבים שעוברים לעיר חדשה."
+            }
+        ]
+    }
+]

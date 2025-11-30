@@ -1,0 +1,34 @@
+[
+    {
+        "word": "operational",
+        "word_hebrew": "מִבצָעִי",
+        "main_definition": "Relating to the functioning or processes of a system, machine, or organization.",
+        "main_definition_hebrew": "התייחסות לתפקוד או לתהליכים של מערכת, מכונה או ארגון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Pertaining to day-to-day activities and tasks that need to be carried out for an operation to run smoothly",
+                "definition_hebrew": "הנוגע לפעילויות ולמשימות היומיומיות שצריכות להתבצע כדי שהמבצע יתנהל בצורה חלקה",
+                "example": "The company's operational procedures ensure timely delivery of products.",
+                "example_hebrew": "הנהלים התפעוליים של החברה מבטיחים אספקה בזמן של מוצרים."
+            },
+            {
+                "definition": "Relating to the physical or technical aspects necessary for a system, machine, or organization to function correctly",
+                "definition_hebrew": "התייחסות להיבטים הפיזיים או הטכניים הדרושים למערכת, מכונה או ארגון לתפקוד תקין",
+                "example": "Operational safety measures are implemented in nuclear power plants.",
+                "example_hebrew": "אמצעי בטיחות תפעוליים מיושמים בתחנות כוח גרעיניות."
+            },
+            {
+                "definition": "Involving actual work and operations rather than planning or preparation",
+                "definition_hebrew": "כרוך בעבודה ותפעול בפועל ולא בתכנון או הכנה",
+                "example": "The operational phase of the project started next month.",
+                "example_hebrew": "השלב התפעולי של הפרויקט החל בחודש הבא."
+            },
+            {
+                "definition": "Concerned with the practical aspects of a system, machine, or organization's functioning",
+                "definition_hebrew": "מודאגים בהיבטים המעשיים של תפקוד מערכת, מכונה או ארגון",
+                "example": "Our team focuses on improving the operational efficiency of our manufacturing processes.",
+                "example_hebrew": "הצוות שלנו מתמקד בשיפור היעילות התפעולית של תהליכי הייצור שלנו."
+            }
+        ]
+    }
+]

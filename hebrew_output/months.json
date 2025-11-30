@@ -1,0 +1,28 @@
+[
+    {
+        "word": "months",
+        "word_hebrew": "חודשים",
+        "main_definition": "Months refer to the divisions of a year, typically consisting of around 30 or 31 days, used for measuring time.",
+        "main_definition_hebrew": "חודשים מתייחסים לחלוקות של שנה, המורכבות בדרך כלל מסביבות 30 או 31 ימים, המשמשות למדידת זמן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Time duration",
+                "definition_hebrew": "משך זמן",
+                "example": "I have been living in this city for six months.",
+                "example_hebrew": "אני גר בעיר הזאת כבר שישה חודשים."
+            },
+            {
+                "definition": "Plurality of months within a year",
+                "definition_hebrew": "ריבוי חודשים בתוך שנה",
+                "example": "There are twelve months in a year, starting from January to December.",
+                "example_hebrew": "ישנם שנים עשר חודשים בשנה, החל מינואר עד דצמבר."
+            },
+            {
+                "definition": "Month names",
+                "definition_hebrew": "שמות חודשים",
+                "example": "February is the second month of the year.",
+                "example_hebrew": "פברואר הוא החודש השני בשנה."
+            }
+        ]
+    }
+]

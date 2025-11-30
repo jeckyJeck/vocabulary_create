@@ -1,0 +1,40 @@
+[
+    {
+        "word": "reviewer",
+        "word_hebrew": "סוקר",
+        "main_definition": "A reviewer is a person who evaluates or assesses the quality, content, or value of something, such as a book, movie, product, or service.",
+        "main_definition_hebrew": "מבקר הוא אדם שמעריך או מעריך את האיכות, התוכן או הערך של משהו, כגון ספר, סרט, מוצר או שירות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A critic who analyzes and rates films, books, or other creative works",
+                "definition_hebrew": "מבקר שמנתח ומדרג סרטים, ספרים או יצירות יצירתיות אחרות",
+                "example": "The reviewer gave the latest blockbuster an excellent rating for its storytelling and acting.",
+                "example_hebrew": "המבקר נתן לשובר הקופות האחרון דירוג מצוין על סיפורו ומשחקו."
+            },
+            {
+                "definition": "An individual who examines a product's features before purchase to help consumers make informed decisions",
+                "definition_hebrew": "אדם שבוחן את תכונות המוצר לפני הרכישה כדי לעזור לצרכנים לקבל החלטות מושכלות",
+                "example": "Online reviews by tech experts helped me choose the best laptop model for my needs.",
+                "example_hebrew": "ביקורות מקוונות של מומחי טכנולוגיה עזרו לי לבחור את דגם המחשב הנייד הטוב ביותר עבור הצרכים שלי."
+            },
+            {
+                "definition": "A professional who reads and evaluates manuscripts or research papers in a specific field, often providing recommendations to publishers or academic journals",
+                "definition_hebrew": "איש מקצוע שקורא ומעריך כתבי יד או מאמרי מחקר בתחום ספציפי, לעתים קרובות מספק המלצות למפרסמים או לכתבי עת אקדמיים",
+                "example": "The reviewer's positive feedback on the research paper led to its acceptance for publication.",
+                "example_hebrew": "המשוב החיובי של המבקר על עבודת המחקר הוביל לקבלתה לפרסום."
+            },
+            {
+                "definition": "A person who assesses and rates hotels, restaurants, or travel experiences",
+                "definition_hebrew": "אדם שמעריך ומדרג בתי מלון, מסעדות או חוויות טיול",
+                "example": "I booked my vacation based on a detailed review by an experienced hotel reviewer.",
+                "example_hebrew": "הזמנתי את החופשה שלי על סמך סקירה מפורטת של מבקר מלונות מנוסה."
+            },
+            {
+                "definition": "An employee of a company or organization that reads and evaluates customer feedback to identify areas for improvement",
+                "definition_hebrew": "עובד של חברה או ארגון שקורא ומעריך משוב מלקוחות כדי לזהות תחומים לשיפור",
+                "example": "The reviewer's analysis helped the company enhance its product quality and customer service.",
+                "example_hebrew": "הניתוח של המבקר עזר לחברה לשפר את איכות המוצר ושירות הלקוחות שלה."
+            }
+        ]
+    }
+]

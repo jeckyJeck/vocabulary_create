@@ -1,0 +1,34 @@
+[
+    {
+        "word": "protest",
+        "word_hebrew": "למחות",
+        "main_definition": "A public demonstration of objection or disapproval, often to express a collective stance against an issue or policy.",
+        "main_definition_hebrew": "הפגנה פומבית של התנגדות או אי הסכמה, לעתים קרובות כדי להביע עמדה קולקטיבית נגד נושא או מדיניות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To make a formal complaint about something that is perceived as unjust or harmful.",
+                "definition_hebrew": "להגיש תלונה רשמית על משהו שנתפס כלא צודק או מזיק.",
+                "example": "The citizens protested against the government'utax increase, arguing it unfairly burdened low-income families.",
+                "example_hebrew": "האזרחים מחו נגד העלאת מס הממשלתי, בטענה שהיא מכבידה באופן בלתי הוגן על משפחות מעוטות יכולת."
+            },
+            {
+                "definition": "A group action expressing strong dissent typically involving a gathering of people, chanting, and possibly civil disobedience.",
+                "definition_hebrew": "פעולה קבוצתית המביעה התנגדות חזקה הכוללת בדרך כלל התכנסות של אנשים, קריאות, ואולי אי ציות אזרחי.",
+                "example": "Thousands gathered to protest the construction of a pipeline through an indigenous land without consent.",
+                "example_hebrew": "אלפים התאספו כדי למחות על בניית צינור דרך ארץ ילידים ללא הסכמה."
+            },
+            {
+                "definition": "To raise a voice against something or someone in public.",
+                "definition_hebrew": "להרים קול נגד משהו או מישהו בפומבי.",
+                "example": "The labor union leaders will protest management's decision by holding a rally outside the company headquarters.",
+                "example_hebrew": "ראשי איגודי העובדים ימחו על החלטת ההנהלה על ידי קיום עצרת מחוץ למטה החברה."
+            },
+            {
+                "definition": "A formal declaration of objection, typically signed and issued as a statement to an authority or governing body.",
+                "definition_hebrew": "הצהרת התנגדות רשמית, בדרך כלל חתומה ומונפקת כהצהרה לרשות או לגוף שלטוני.",
+                "example": "After reviewing environmental reports, companies often issue protest statements against proposed regulations that they believe are overly restrictive.",
+                "example_hebrew": "לאחר עיון בדוחות סביבתיים, חברות מפרסמות לעתים קרובות הצהרות מחאה נגד תקנות מוצעות שלדעתן מגבילות מדי."
+            }
+        ]
+    }
+]

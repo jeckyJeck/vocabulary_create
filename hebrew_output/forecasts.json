@@ -1,0 +1,34 @@
+[
+    {
+        "word": "forecasts",
+        "word_hebrew": "תחזיות",
+        "main_definition": "Forecasts refer to predictions or estimates about future events, particularly in the context of weather, economics, trends, etc.",
+        "main_definition_hebrew": "תחזיות מתייחסות לתחזיות או להערכות לגבי אירועים עתידיים, במיוחד בהקשר של מזג אוויר, כלכלה, מגמות וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "A prediction about the weather conditions for a specific time and location",
+                "definition_hebrew": "תחזית לגבי תנאי מזג האוויר לזמן ומיקום ספציפיים",
+                "example": "The forecast predicts heavy rain tomorrow afternoon.",
+                "example_hebrew": "התחזית צופה גשם חזק מחר אחר הצהריים."
+            },
+            {
+                "definition": "An estimate of future economic trends or financial outcomes",
+                "definition_hebrew": "אומדן של מגמות כלכליות עתידיות או תוצאות פיננסיות",
+                "example": "The company's revenue forecasts show significant growth over the next five years.",
+                "example_hebrew": "תחזיות ההכנסות של החברה מראות צמיחה משמעותית בחמש השנים הקרובות."
+            },
+            {
+                "definition": "A projection about future events, such as population growth or technological advancements",
+                "definition_hebrew": "תחזית לגבי אירועים עתידיים, כגון גידול אוכלוסיה או התקדמות טכנולוגית",
+                "example": "Experts have made forecasts about a 20% increase in global smartphone usage by 2030.",
+                "example_hebrew": "מומחים עשו תחזיות לגבי עלייה של 20% בשימוש העולמי בסמארטפונים עד 2030."
+            },
+            {
+                "definition": "An estimate of potential outcomes based on current data and trends, often used in sports or competitions",
+                "definition_hebrew": "אומדן של תוצאות פוטנציאליות מבוסס על נתונים ומגמות עדכניות, המשמשים לעתים קרובות בספורט או בתחרויות",
+                "example": "The coach's bets for the upcoming game are based on various forecasts of how well each team will perform.",
+                "example_hebrew": "ההימורים של המאמן למשחק הקרוב מבוססים על תחזיות שונות לגבי הביצועים של כל קבוצה."
+            }
+        ]
+    }
+]

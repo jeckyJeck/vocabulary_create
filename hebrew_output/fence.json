@@ -1,0 +1,34 @@
+[
+    {
+        "word": "fence",
+        "word_hebrew": "גָדֵר",
+        "main_definition": "A barrier, either physical or metaphorical, used to separate, enclose, or protect an area.",
+        "main_definition_hebrew": "מחסום, פיזי או מטפורי, המשמש להפרדה, להקיף או להגן על אזור.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical structure enclosing a piece of land",
+                "definition_hebrew": "מבנה פיזי התוחם פיסת אדמה",
+                "example": "The white picket fence surrounding the Johnson's backyard.",
+                "example_hebrew": "גדר הכלים הלבנה המקיפה את החצר האחורית של ג'ונסון."
+            },
+            {
+                "definition": "A boundary for animals in an open area, like farmland or zoo",
+                "definition_hebrew": "גבול לבעלי חיים בשטח פתוח, כמו אדמה חקלאית או גן חיות",
+                "example": "The electric fence is used to keep deer away from the crops on the farm.",
+                "example_hebrew": "הגדר החשמלית משמשת להרחקת צבאים מהגידולים בחווה."
+            },
+            {
+                "definition": "Discussing issues with someone who disagrees while maintaining respect",
+                "definition_hebrew": "דיון בנושאים עם מישהו שלא מסכים תוך שמירה על כבוד",
+                "example": "They decided to fence diplomatically about their political differences during a debate.",
+                "example_hebrew": "הם החליטו לגדר באופן דיפלומטי לגבי חילוקי הדעות הפוליטיים ביניהם במהלך ויכוח."
+            },
+            {
+                "definition": "To set limits or restrictions on something, such as freedom of movement",
+                "definition_hebrew": "להציב גבולות או הגבלות על משהו, כגון חופש התנועה",
+                "example": "The company has imposed strict rules and policies; they are fencing off access to certain files.",
+                "example_hebrew": "החברה הטילה כללים ומדיניות נוקשים; הם מגדירים גישה לקבצים מסוימים."
+            }
+        ]
+    }
+]

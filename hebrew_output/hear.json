@@ -1,0 +1,40 @@
+[
+    {
+        "word": "hear",
+        "word_hebrew": "לִשְׁמוֹעַ",
+        "main_definition": "To perceive sound by the ear.",
+        "main_definition_hebrew": "לקלוט צליל על ידי האוזן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Understand a spoken statement or message.",
+                "definition_hebrew": "הבן אמירה או הודעה מדוברת.",
+                "example": "I heard that our company is merging with another one.",
+                "example_hebrew": "שמעתי שהחברה שלנו מתמזגת עם חברה אחרת."
+            },
+            {
+                "definition": "Become aware of something through sound, without intentionally seeking it out.",
+                "definition_hebrew": "להיות מודע למשהו באמצעות צליל, מבלי לחפש אותו בכוונה.",
+                "example": "The distant siren was barely audible; I could hear it but couldn't make out the details.",
+                "example_hebrew": "הצפירה הרחוקה בקושי נשמעה; יכולתי לשמוע את זה אבל לא הצלחתי להבין את הפרטים."
+            },
+            {
+                "definition": "To give attention to a person or message by acknowledging them verbally.",
+                "definition_hebrew": "לתת תשומת לב לאדם או למסר על ידי הכרה מילולית.",
+                "example": "When you enter a room, please say 'hello' if you don't mind hearing me speak.",
+                "example_hebrew": "כשאתה נכנס לחדר, בבקשה אמור 'שלום' אם לא אכפת לך לשמוע אותי מדבר."
+            },
+            {
+                "definition": "In the context of music and performance arts, it refers to an audience member perceiving the sound produced by performers.",
+                "definition_hebrew": "בהקשר של מוזיקה ואמנויות מיצג, הכוונה היא לחבר קהל שתופס את הצליל המופק על ידי מבצעים.",
+                "example": "The crowd was really able to hear every note in the singer's powerful voice during that concert.",
+                "example_hebrew": "הקהל באמת הצליח לשמוע כל תו בקולו החזק של הזמר במהלך אותו קונצרט."
+            },
+            {
+                "definition": "To expressly mention something after hearing about it for the first time, often seeking confirmation or clarification.",
+                "definition_hebrew": "להזכיר משהו במפורש לאחר ששמעתי עליו בפעם הראשונה, לעתים קרובות בחיפוש אחר אישור או הבהרה.",
+                "example": "After hearing rumors of a policy change at work, I asked my manager to hear directly from HR.",
+                "example_hebrew": "לאחר ששמעתי שמועות על שינוי מדיניות בעבודה, ביקשתי מהמנהל שלי לשמוע ישירות מ-HR."
+            }
+        ]
+    }
+]

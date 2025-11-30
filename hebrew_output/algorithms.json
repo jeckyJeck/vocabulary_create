@@ -1,0 +1,28 @@
+[
+    {
+        "word": "algorithms",
+        "word_hebrew": "אלגוריתמים",
+        "main_definition": "Algorithms are step-by-step procedures or a set of rules to be followed in problem-solving operations, often used in computer science for data processing and automated reasoning.",
+        "main_definition_hebrew": "אלגוריתמים הם נהלים שלב אחר שלב או מערכת כללים שיש לפעול לפיהם בפעולות פתרון בעיות, המשמשים לעתים קרובות במדעי המחשב לעיבוד נתונים והנמקה אוטומטית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A sequence of instructions or steps designed to perform a specific task or solve a particular problem, especially within the context of computer programming.",
+                "definition_hebrew": "רצף של הוראות או שלבים שנועדו לבצע משימה מסוימת או לפתור בעיה מסוימת, במיוחד בהקשר של תכנות מחשב.",
+                "example": "The algorithm for sorting an array involves repeatedly comparing and swapping elements until they are in the correct order.",
+                "example_hebrew": "האלגוריתם למיון מערך כולל השוואה והחלפה חוזרת של אלמנטים עד שהם בסדר הנכון."
+            },
+            {
+                "definition": "A mathematical formula used to calculate unknown values by applying specific rules or operations on known data, often utilized in various scientific fields.",
+                "definition_hebrew": "נוסחה מתמטית המשמשת לחישוב ערכים לא ידועים על ידי יישום כללים או פעולות ספציפיות על נתונים ידועים, המשמשים לעתים קרובות בתחומים מדעיים שונים.",
+                "example": "The quadratic formula is an algorithm that calculates the roots of a quadratic equation given its coefficients.",
+                "example_hebrew": "הנוסחה הריבועית היא אלגוריתם שמחשב את השורשים של משוואה ריבועית בהינתן המקדמים שלה."
+            },
+            {
+                "definition": "In everyday language, algorithms refer to recipes or methods for accomplishing tasks efficiently and effectively, not necessarily related to computers.",
+                "definition_hebrew": "בשפה היומיומית, אלגוריתמים מתייחסים למתכונים או לשיטות לביצוע משימות ביעילות וביעילות, לא בהכרח קשורים למחשבים.",
+                "example": "A cookbook provides various algorithms for preparing different dishes with specific ingredients and techniques.",
+                "example_hebrew": "ספר בישול מספק אלגוריתמים שונים להכנת מנות שונות עם מרכיבים וטכניקות ספציפיות."
+            }
+        ]
+    }
+]

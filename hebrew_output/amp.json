@@ -1,0 +1,34 @@
+[
+    {
+        "word": "amp",
+        "word_hebrew": "אמפר",
+        "main_definition": "Amp is an abbreviation derived from the word 'ampere', a unit of electric current, but it also has other meanings in different contexts.",
+        "main_definition_hebrew": "Amp הוא קיצור שנגזר מהמילה 'אמפר', יחידה של זרם חשמלי, אך יש לו גם משמעויות אחרות בהקשרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Abbreviation for ampere",
+                "definition_hebrew": "קיצור של אמפר",
+                "example": "The battery provides 9V and 2A power.",
+                "example_hebrew": "הסוללה מספקת מתח של 9V ו-2A."
+            },
+            {
+                "definition": "Antonym of 'mini' or 'small', used in various contexts like 'amp head' referring to a large-capacity speakers system",
+                "definition_hebrew": "אנטונים של 'מיני' או 'קטן', בשימוש בהקשרים שונים כמו 'ראש מגבר' המתייחס למערכת רמקולים בעלת קיבולת גדולה",
+                "example": "He uses an amp for his home theater audio system.",
+                "example_hebrew": "הוא משתמש במגבר עבור מערכת השמע של הקולנוע הביתי שלו."
+            },
+            {
+                "definition": "A prefix denoting multiplication, as seen in amplify (to increase or intensify) and amplitude (the height of a wave),",
+                "definition_hebrew": "קידומת המציינת כפל, כפי שניתן לראות ב-amplify (להגדיל או להעצים) ובמשרעת (גובהו של גל),",
+                "example": "The radio's volume control increases the amplitude of sound waves to make them louder.",
+                "example_hebrew": "בקרת עוצמת הקול של הרדיו מגבירה את משרעת גלי הקול כדי להחמיר אותם."
+            },
+            {
+                "definition": "A type of headphones, usually featuring large drivers for high audio quality",
+                "definition_hebrew": "סוג של אוזניות, בדרך כלל כולל דרייברים גדולים לאיכות שמע גבוהה",
+                "example": "She loves listening to music on her amp while jogging.",
+                "example_hebrew": "היא אוהבת להאזין למוזיקה על המגבר שלה בזמן ריצה."
+            }
+        ]
+    }
+]

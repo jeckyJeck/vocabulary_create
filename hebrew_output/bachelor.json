@@ -1,0 +1,28 @@
+[
+    {
+        "word": "bachelor",
+        "word_hebrew": "בוגר תואר ראשון",
+        "main_definition": "A man who has never been married or a person, typically a young adult, living alone without being engaged to be married.",
+        "main_definition_hebrew": "גבר שמעולם לא היה נשוי או אדם, בדרך כלל מבוגר צעיר, שחי לבד מבלי להיות מאורס להיות נשוי.",
+        "meanings_and_examples": [
+            {
+                "definition": "An unmarried man",
+                "definition_hebrew": "גבר לא נשוי",
+                "example": "John is a bachelor and hasn't found the right woman yet.",
+                "example_hebrew": "ג'ון הוא רווק ועדיין לא מצא את האישה הנכונה."
+            },
+            {
+                "definition": "A person who has not been married, regardless of gender",
+                "definition_hebrew": "אדם שלא היה נשוי, ללא קשר למין",
+                "example": "She considers herself a bachelor as she enjoys living alone without being in a committed relationship.",
+                "example_hebrew": "היא מחשיבה את עצמה כרווקה מכיוון שהיא נהנית לחיות לבד מבלי להיות במערכת יחסים מחויבת."
+            },
+            {
+                "definition": "A young adult living independently, often without a spouse or significant other",
+                "definition_hebrew": "מבוגר צעיר שחי באופן עצמאי, לרוב ללא בן זוג או בן זוג משמעותי",
+                "example": "At 25 years old, he is still considered a bachelor because he hasn't settled down yet.",
+                "example_hebrew": "בגיל 25 הוא עדיין נחשב רווק כי הוא עדיין לא התייצב."
+            }
+        ]
+    }
+]

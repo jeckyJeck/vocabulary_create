@@ -1,0 +1,34 @@
+[
+    {
+        "word": "democracy",
+        "word_hebrew": "דֵמוֹקרָטִיָה",
+        "main_definition": "Democracy is a system of government where the power to make decisions is vested in the people, who exercise it directly or through elected representatives.",
+        "main_definition_hebrew": "דמוקרטיה היא שיטת ממשל שבה הכוח לקבל החלטות נתון בידי העם, המפעיל אותה ישירות או באמצעות נציגים נבחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A political system based on free and fair elections with multiple parties",
+                "definition_hebrew": "מערכת פוליטית המבוססת על בחירות חופשיות והוגנות עם מספר מפלגות",
+                "example": "The United States operates under a democratic system where citizens vote for their preferred candidates in presidential, congressional, and local elections.",
+                "example_hebrew": "ארצות הברית פועלת תחת שיטה דמוקרטית שבה אזרחים מצביעים עבור המועמדים המועדפים עליהם בבחירות לנשיאות, לקונגרס ומקומיות."
+            },
+            {
+                "definition": "Rule by the people through majority rule or consensus decision-making",
+                "definition_hebrew": "שלטון העם באמצעות שלטון רוב או קבלת החלטות בקונצנזוס",
+                "example": "In direct democracy, such as ancient Athens, all citizens would gather to vote on legislation directly rather than electing representatives to make decisions for them.",
+                "example_hebrew": "בדמוקרטיה ישירה, כמו אתונה העתיקה, כל האזרחים היו מתאספים כדי להצביע ישירות על חקיקה במקום לבחור נציגים כדי לקבל החלטות עבורם."
+            },
+            {
+                "definition": "A political system that emphasizes the protection of individual rights and freedoms",
+                "definition_hebrew": "מערכת פוליטית ששמה דגש על הגנה על זכויות וחירויות הפרט",
+                "example": "The concept of a liberal democracy places high value on civil liberties, such as freedom of speech, religion, and assembly.",
+                "example_hebrew": "התפיסה של דמוקרטיה ליברלית מייחסת ערך גבוה לחירויות האזרח, כגון חופש הביטוי, הדת והאסיפה."
+            },
+            {
+                "definition": "An ideology advocating for equal political participation in decision-making processes",
+                "definition_hebrew": "אידיאולוגיה הדוגלת בהשתתפות פוליטית שווה בתהליכי קבלת החלטות",
+                "example": "Democratic socialism is an ideological variant that combines democracy with socialist economic principles, emphasizing workers' control over the means of production.",
+                "example_hebrew": "סוציאליזם דמוקרטי הוא גרסה אידיאולוגית המשלבת דמוקרטיה עם עקרונות כלכליים סוציאליסטיים, תוך שימת דגש על שליטת העובדים באמצעי הייצור."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "assists",
+        "word_hebrew": "מסייע",
+        "main_definition": "To provide help or support to someone in achieving a task or goal.",
+        "main_definition_hebrew": "לספק עזרה או תמיכה למישהו בהשגת משימה או מטרה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Helps someone complete a specific action or task",
+                "definition_hebrew": "עוזר למישהו להשלים פעולה או משימה ספציפית",
+                "example": "The volunteer assists the elderly woman with grocery shopping.",
+                "example_hebrew": "המתנדב מסייע לקשישה בקניית מצרכים."
+            },
+            {
+                "definition": "Supports another person's efforts in reaching an objective",
+                "definition_hebrew": "תומך במאמצים של אדם אחר להגיע ליעד",
+                "example": "The teacher assists students by providing additional resources for learning.",
+                "example_hebrew": "המורה מסייע לתלמידים על ידי מתן משאבים נוספים ללמידה."
+            },
+            {
+                "definition": "Contributes to the overall effort of a team or group towards a common goal",
+                "definition_hebrew": "תורם למאמץ הכולל של צוות או קבוצה לקראת מטרה משותפת",
+                "example": "The software developer assists other developers in debugging code issues.",
+                "example_hebrew": "מפתח התוכנה מסייע למפתחים אחרים באיתור בעיות קוד."
+            },
+            {
+                "definition": "Provides assistance as part of one's job role",
+                "definition_hebrew": "מעניק סיוע כחלק מתפקידו",
+                "example": "Nurses assist doctors during medical procedures.",
+                "example_hebrew": "אחיות מסייעות לרופאים במהלך הליכים רפואיים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "sandwich",
+        "word_hebrew": "כריך",
+        "main_definition": "A sandwich is a food item consisting of one or more fillings placed between slices of bread, buns, or rolls.",
+        "main_definition_hebrew": "כריך הוא פריט מזון המורכב ממלית אחת או יותר המונחות בין פרוסות לחם, לחמניות או לחמניות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Literal meaning related to food preparation",
+                "definition_hebrew": "משמעות מילולית הקשורה להכנת מזון",
+                "example": "For lunch today, I made a turkey and cheese sandwich with lettuce and tomato.",
+                "example_hebrew": "לארוחת צהריים היום הכנתי כריך הודו וגבינה עם חסה ועגבנייה."
+            },
+            {
+                "definition": "Used metaphorically to describe being caught between two conflicting interests or issues",
+                "definition_hebrew": "משמש באופן מטפורי כדי לתאר את היותו לכוד בין שני אינטרסים או נושאים מנוגדים",
+                "example": "I feel like I'm in the middle of a political sandwich, having to choose sides between my family members during an argument.",
+                "example_hebrew": "אני מרגיש כאילו אני באמצע סנדוויץ' פוליטי, צריך לבחור צד בין בני משפחתי במהלך ויכוח."
+            },
+            {
+                "definition": "A term for a device that consists of two opposing parts held together by a spring or similar mechanism",
+                "definition_hebrew": "כינוי למכשיר המורכב משני חלקים מנוגדים המוחזקים יחד על ידי קפיץ או מנגנון דומה",
+                "example": "The zipper on her jacket is broken; it's like trying to open and close the sandwich when one side won't budge.",
+                "example_hebrew": "הרוכסן על הז'קט שלה שבור; זה כמו לנסות לפתוח ולסגור את הסנדוויץ' כשצד אחד לא זז."
+            },
+            {
+                "definition": "An informal term for an item that requires two complementary components, similar to a pair",
+                "definition_hebrew": "מונח לא פורמלי לפריט הדורש שני מרכיבים משלימים, בדומה לזוג",
+                "example": "A good pair of shoes is essential; it’s like finding the perfect sandwich with bread and filling that go together perfectly.",
+                "example_hebrew": "זוג נעליים טוב הוא חיוני; זה כמו למצוא את הכריך המושלם עם לחם ומילוי שהולכים ביחד בצורה מושלמת."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "cleaners",
+        "word_hebrew": "מנקים",
+        "main_definition": "Cleaners are substances or tools used to remove dirt, stains, and contaminants from various surfaces.",
+        "main_definition_hebrew": "חומרי ניקוי הם חומרים או כלים המשמשים להסרת לכלוך, כתמים ומזהמים ממשטחים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Products designed for cleaning household surfaces such as floors, countertops, and appliances",
+                "definition_hebrew": "מוצרים המיועדים לניקוי משטחים ביתיים כגון רצפות, משטחים ומכשירי חשמל",
+                "example": "Mr. Smith purchased commercial-grade floor cleaners to maintain the shine of his marble flooring.",
+                "example_hebrew": "מר סמית' רכש חומרי ניקוי לרצפה בדרגה מסחרית כדי לשמור על הברק של ריצוף השיש שלו."
+            },
+            {
+                "definition": "Professionals who perform cleaning services in homes, offices, or other establishments",
+                "definition_hebrew": "אנשי מקצוע המבצעים שירותי ניקיון בבתים, משרדים או מפעלים אחרים",
+                "example": "The housekeeping staff arrived early each morning to provide comprehensive cleaning for the hotel guests.",
+                "example_hebrew": "צוות משק הבית הגיע מוקדם מדי בוקר כדי לספק ניקיון מקיף לאורחי המלון."
+            },
+            {
+                "definition": "Individuals responsible for sanitizing and maintaining hygiene standards in public areas such as restaurants or hospitals",
+                "definition_hebrew": "אנשים האחראים על חיטוי ושמירה על תקני היגיינה באזורים ציבוריים כגון מסעדות או בתי חולים",
+                "example": "The janitorial staff diligently worked to ensure that all surfaces were cleaned and disinfected after the restaurant closed.",
+                "example_hebrew": "צוות הניקיון פעל במרץ כדי להבטיח שכל המשטחים ינוקו ויחוטו לאחר סגירת המסעדה."
+            },
+            {
+                "definition": "Programs, tools, or methods used for data cleansing in databases or information systems",
+                "definition_hebrew": "תוכניות, כלים או שיטות המשמשות לניקוי נתונים בבסיסי נתונים או במערכות מידע",
+                "example": "The IT team employed advanced data cleansing techniques to remove duplicates and correct errors from their customer database.",
+                "example_hebrew": "צוות ה-IT השתמש בטכניקות מתקדמות לניקוי נתונים כדי להסיר כפילויות ולתקן שגיאות ממסד הנתונים של הלקוחות שלהם."
+            }
+        ]
+    }
+]

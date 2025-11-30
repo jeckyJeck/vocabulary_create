@@ -1,0 +1,34 @@
+[
+    {
+        "word": "rated",
+        "word_hebrew": "מדורג",
+        "main_definition": "To evaluate or assess the quality, performance, value, or level of something based on certain criteria.",
+        "main_definition_hebrew": "להעריך או להעריך את האיכות, הביצועים, הערך או הרמה של משהו על סמך קריטריונים מסוימים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To assign a numerical rating to an entity, such as a film, product, or individual's ability",
+                "definition_hebrew": "להקצות דירוג מספרי לישות, כגון סרט, מוצר או יכולת של אדם",
+                "example": "The movie has been rated 8 out of 10 by most critics.",
+                "example_hebrew": "הסרט דורג 8 מתוך 10 על ידי רוב המבקרים."
+            },
+            {
+                "definition": "To determine the level of difficulty, complexity, or intensity of something",
+                "definition_hebrew": "כדי לקבוע את רמת הקושי, המורכבות או העוצמה של משהו",
+                "example": "This hiking trail is a challenging one and will be rated as difficult for beginners.",
+                "example_hebrew": "מסלול הליכה זה הוא מסלול מאתגר ויוגדר כקשה למתחילים."
+            },
+            {
+                "definition": "To express an opinion or judgement about someone's character, skills, or performance",
+                "definition_hebrew": "להביע דעה או שיפוט לגבי האופי, הכישורים או הביצועים של מישהו",
+                "example": "The coach rated the players based on their teamwork and communication during practice sessions.",
+                "example_hebrew": "המאמן דירג את השחקנים על סמך עבודת הצוות והתקשורת שלהם במהלך האימונים."
+            },
+            {
+                "definition": "To classify or categorize something into different levels or groups according to specific criteria",
+                "definition_hebrew": "לסווג או לסווג משהו לרמות או קבוצות שונות לפי קריטריונים ספציפיים",
+                "example": "Products are often rated by quality grades such as A, B, C, etc., before being put on the market.",
+                "example_hebrew": "מוצרים מדורגים לרוב לפי דרגות איכות כמו A, B, C וכו', לפני שהם יוצאים לשוק."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "tip",
+        "word_hebrew": "עֵצָה",
+        "main_definition": "A piece of advice or a small amount given as gratitude, especially in relation to services rendered.",
+        "main_definition_hebrew": "עצה או סכום קטן שניתן כהכרת תודה, במיוחד ביחס לשירותים שניתנו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To move the tip or pointed end of an object slightly while directing it toward someone or something.",
+                "definition_hebrew": "להזיז מעט את הקצה או הקצה המחודד של חפץ תוך כדי הפנייתו לכיוון מישהו או משהו.",
+                "example": "He tipped his hat towards her as a sign of respect.",
+                "example_hebrew": "הוא הטה את כובעו לעברה לאות כבוד."
+            },
+            {
+                "definition": "A small gift given to service workers (like waiters) in addition to payment for services rendered, usually at the end of a meal.",
+                "definition_hebrew": "מתנה קטנה הניתנת לעובדי שירות (כמו מלצרים) בנוסף לתשלום עבור שירותים שניתנו, בדרך כלל בתום ארוחה.",
+                "example": "After enjoying their dinner, they left an extra dollar as a tip for the server.",
+                "example_hebrew": "לאחר שנהנו מארוחת הערב, הם השאירו דולר נוסף כטיפ לשרת."
+            },
+            {
+                "definition": "A small amount given to someone out of goodwill or gratitude, often in situations where it's not expected or required.",
+                "definition_hebrew": "סכום קטן שניתן למישהו מתוך רצון טוב או הכרת תודה, לעתים קרובות במצבים שבהם זה לא צפוי או נדרש.",
+                "example": "She tipped the mail carrier after delivering her package on time during a snowstorm.",
+                "example_hebrew": "היא העבירה את המוביל לאחר שמסרה את החבילה שלה בזמן בסופת שלגים."
+            },
+            {
+                "definition": "An informal piece of advice given to someone regarding a situation they are facing, often based on personal experience or knowledge.",
+                "definition_hebrew": "עצה לא רשמית שניתנת למישהו בנוגע למצב שהוא מתמודד איתו, לרוב על סמך ניסיון או ידע אישי.",
+                "example": "As he was about to invest in stocks, his uncle gave him some valuable tips based on years of trading.",
+                "example_hebrew": "כשהוא עמד להשקיע במניות, דודו נתן לו כמה טיפים חשובים המבוססים על שנים של מסחר."
+            },
+            {
+                "definition": "To provide a brief and concise piece of information that can help someone understand a situation better or make decisions.",
+                "definition_hebrew": "לספק פיסת מידע קצרה ותמציתית שיכולה לעזור למישהו להבין מצב טוב יותר או לקבל החלטות.",
+                "example": "The financial advisor offered her some useful tips to manage her personal finances more effectively.",
+                "example_hebrew": "היועץ הפיננסי הציע לה כמה עצות שימושיות לניהול הכספים האישיים שלה בצורה יעילה יותר."
+            }
+        ]
+    }
+]

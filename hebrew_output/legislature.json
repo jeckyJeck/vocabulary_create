@@ -1,0 +1,34 @@
+[
+    {
+        "word": "legislature",
+        "word_hebrew": "בֵּית מְחוֹקְקִים",
+        "main_definition": "A legislature is a governing or lawmaking body, typically in the form of an elected parliamentary or congressional assembly.",
+        "main_definition_hebrew": "בית מחוקקים הוא גוף שלטוני או מחוקק, בדרך כלל בצורה של אספה פרלמנטרית או קונגרס נבחרת.",
+        "meanings_and_examples": [
+            {
+                "definition": "The group of individuals who have been elected to represent the citizens and make laws for the country",
+                "definition_hebrew": "קבוצת הפרטים שנבחרה לייצג את האזרחים ולעשות חוקים למדינה",
+                "example": "The United States Congress is a legislature that consists of two houses: The Senate and The House of Representatives.",
+                "example_hebrew": "הקונגרס של ארצות הברית הוא בית מחוקקים המורכב משני בתים: הסנאט ובית הנבחרים."
+            },
+            {
+                "definition": "A meeting or session where lawmakers debate, create, and pass laws",
+                "definition_hebrew": "פגישה או מושב שבו מחוקקים מתווכחים, יוצרים ומעבירים חוקים",
+                "example": "During the annual session in 2019, the British Parliament passed several new laws affecting healthcare and education.",
+                "example_hebrew": "במהלך המושב השנתי בשנת 2019, הפרלמנט הבריטי העביר מספר חוקים חדשים המשפיעים על שירותי בריאות וחינוך."
+            },
+            {
+                "definition": "The entire body of legislative rules or statutes that govern a nation, region, or organization",
+                "definition_hebrew": "כל הגוף של חוקי חקיקה או חוקים השולטים במדינה, אזור או ארגון",
+                "example": "Canada's legislature consists of numerous federal and provincial laws collectively known as the Canadian legal system.",
+                "example_hebrew": "בית המחוקקים של קנדה מורכב מחוקים פדרליים ומחוזיים רבים הידועים ביחד בשם מערכת המשפט הקנדית."
+            },
+            {
+                "definition": "A specific governmental institution responsible for creating and amending national law",
+                "definition_hebrew": "מוסד ממשלתי ספציפי האחראי על יצירת ותיקון החוק הלאומי",
+                "example": "The National People's Congress is China's highest state body and a legislature with the power to enact laws.",
+                "example_hebrew": "הקונגרס העממי הלאומי הוא הגוף הממלכתי העליון בסין ובית מחוקקים בעל הסמכות לחוקק חוקים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "return",
+        "word_hebrew": "לַחֲזוֹר",
+        "main_definition": "To go or move back to a place, position, or condition of origin; bring something (usually money) back after it has been spent; give or send something back as a response or in exchange for receiving.",
+        "main_definition_hebrew": "ללכת או לחזור למקום, לתפקיד או למצב של מוצא; להחזיר משהו (בדרך כלל כסף) לאחר שהוא הוצא; לתת או לשלוח משהו בחזרה כתגובה או תמורת קבלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Give back an item",
+                "definition_hebrew": "תחזיר פריט",
+                "example": "After borrowing the book, she returned it to her friend.",
+                "example_hebrew": "לאחר שהשאלה את הספר, היא החזירה אותו לחברתה."
+            },
+            {
+                "definition": "Go back to a place or location previously visited",
+                "definition_hebrew": "חזור למקום או מיקום שביקרתם בו בעבר",
+                "example": "We had dinner at our favorite restaurant and then we decided to return home.",
+                "example_hebrew": "אכלנו ארוחת ערב במסעדה האהובה עלינו ואז החלטנו לחזור הביתה."
+            },
+            {
+                "definition": "Receive money in exchange for goods, services, or investments",
+                "definition_hebrew": "קבל כסף בתמורה לסחורות, שירותים או השקעות",
+                "example": "The company earned profits by returning dividends to its shareholders.",
+                "example_hebrew": "החברה הרוויחה מהחזרת דיבידנדים לבעלי המניות שלה."
+            },
+            {
+                "definition": "Return a positive result in an experiment or test",
+                "definition_hebrew": "החזר תוצאה חיובית בניסוי או בבדיקה",
+                "example": "After running the code multiple times, it returned consistent results.",
+                "example_hebrew": "לאחר הפעלת הקוד מספר פעמים, הוא החזיר תוצאות עקביות."
+            },
+            {
+                "definition": "Responding to someone's communication",
+                "definition_hebrew": "להגיב לתקשורת של מישהו",
+                "example": "He wrote back and apologized for his previous email.",
+                "example_hebrew": "הוא כתב בחזרה והתנצל על האימייל הקודם שלו."
+            }
+        ]
+    }
+]

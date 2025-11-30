@@ -1,0 +1,40 @@
+[
+    {
+        "word": "threat",
+        "word_hebrew": "אִיוּם",
+        "main_definition": "A threat is an expression of intent to inflict harm, damage or loss on someone or something.",
+        "main_definition_hebrew": "איום הוא ביטוי של כוונה לגרום נזק, נזק או אובדן למישהו או משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Potential danger that can cause fear or alarm",
+                "definition_hebrew": "סכנה פוטנציאלית שיכולה לגרום לפחד או אזעקה",
+                "example": "The storm was a severe threat to the coastal town.",
+                "example_hebrew": "הסופה הייתה איום חמור על עיירת החוף."
+            },
+            {
+                "definition": "A person who intends to harm someone or something",
+                "definition_hebrew": "אדם שמתכוון לפגוע במישהו או במשהו",
+                "example": "The bank robber posed a significant threat to public safety.",
+                "example_hebrew": "שודד הבנק היווה איום משמעותי לשלום הציבור."
+            },
+            {
+                "definition": "An unpleasant possibility that could cause trouble",
+                "definition_hebrew": "אפשרות לא נעימה שעלולה לגרום לצרות",
+                "example": "His constant negative comments were a threat to the team's morale.",
+                "example_hebrew": "ההערות השליליות הקבועות שלו היו איום על המורל של הקבוצה."
+            },
+            {
+                "definition": "A warning or expression of hostility towards someone or something",
+                "definition_hebrew": "אזהרה או הבעת עוינות כלפי מישהו או משהו",
+                "example": "The nation issued a strong and clear threat against any further aggression.",
+                "example_hebrew": "האומה פרסמה איום חזק וברור נגד כל תוקפנות נוספת."
+            },
+            {
+                "definition": "Anything that could potentially cause harm, damage, or negative impact",
+                "definition_hebrew": "כל דבר שעלול לגרום לנזק, נזק או השפעה שלילית",
+                "example": "Cybersecurity threats like viruses can cause significant harm to computer systems.",
+                "example_hebrew": "איומי אבטחת סייבר כמו וירוסים יכולים לגרום נזק משמעותי למערכות מחשב."
+            }
+        ]
+    }
+]

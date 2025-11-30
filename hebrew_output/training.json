@@ -1,0 +1,40 @@
+[
+    {
+        "word": "training",
+        "word_hebrew": "הַדְרָכָה",
+        "main_definition": "Training refers to the process of learning or practicing skills, techniques, or knowledge in order to improve performance or proficiency.",
+        "main_definition_hebrew": "אימון מתייחס לתהליך של למידה או תרגול מיומנויות, טכניקות או ידע על מנת לשפר ביצועים או מיומנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Learning and development activities aimed at improving work-related skills",
+                "definition_hebrew": "פעילויות למידה ופיתוח שמטרתן שיפור מיומנויות הקשורות לעבודה",
+                "example": "The company organized a training program for new employees on customer service.",
+                "example_hebrew": "החברה ארגנה תוכנית הכשרה לעובדים חדשים בנושא שירות לקוחות."
+            },
+            {
+                "definition": "A course of instruction or practice intended to impart knowledge, skill, or competence",
+                "definition_hebrew": "קורס הדרכה או תרגול שנועד להקנות ידע, מיומנות או יכולת",
+                "example": "She enrolled in an online coding bootcamp as part of her career development training.",
+                "example_hebrew": "היא נרשמה לאתחול מקוון לקידוד כחלק מההכשרה שלה לפיתוח קריירה."
+            },
+            {
+                "definition": "The process by which animals learn behaviors necessary for survival and reproduction",
+                "definition_hebrew": "התהליך שבו בעלי חיים לומדים התנהגויות הכרחיות להישרדות ורבייה",
+                "example": "Birds undergo flight training to master the art of flying before they can leave their nests.",
+                "example_hebrew": "ציפורים עוברות אימוני טיסה כדי לשלוט באמנות הטיסה לפני שהן יכולות לעזוב את הקינים שלהן."
+            },
+            {
+                "definition": "Training in a specific sport or physical activity to enhance performance",
+                "definition_hebrew": "אימון בספורט ספציפי או בפעילות גופנית כדי לשפר את הביצועים",
+                "example": "He dedicated hours each week to swimming lessons for competitive sports training.",
+                "example_hebrew": "הוא הקדיש שעות מדי שבוע לשיעורי שחייה לאימוני ספורט תחרותיים."
+            },
+            {
+                "definition": "Educational process that prepares individuals for a particular job role, often leading to certification",
+                "definition_hebrew": "תהליך חינוכי שמכין אנשים לתפקיד מסוים בעבודה, לעתים קרובות מוביל להסמכה",
+                "example": "After completing her medical training at university, she obtained a license to practice as a doctor.",
+                "example_hebrew": "לאחר שסיימה את הכשרתה הרפואית באוניברסיטה, היא קיבלה רישיון לעסוק כרופאה."
+            }
+        ]
+    }
+]

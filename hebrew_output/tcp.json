@@ -1,0 +1,34 @@
+[
+    {
+        "word": "tcp",
+        "word_hebrew": "tcp",
+        "main_definition": "Transmission Control Protocol (TCP) is a core protocol of the Internet Protocol Suite that ensures reliable, ordered, and error-checked delivery of data between network devices.",
+        "main_definition_hebrew": "פרוטוקול בקרת שידור (TCP) הוא פרוטוקול ליבה של חבילת פרוטוקול האינטרנט המבטיח מסירה אמינה, מסודרת ונבדקת שגיאות של נתונים בין התקני רשת.",
+        "meanings_and_examples": [
+            {
+                "definition": "A transport layer protocol in computer networking",
+                "definition_hebrew": "פרוטוקול שכבת תחבורה ברשת מחשבים",
+                "example": "When sending files over the internet, TCP is used to ensure they arrive intact.",
+                "example_hebrew": "בעת שליחת קבצים דרך האינטרנט, נעשה שימוש ב-TCP כדי להבטיח שהם מגיעים שלמים."
+            },
+            {
+                "definition": "An abbreviation for 'Transmission Control Protocol'",
+                "definition_hebrew": "קיצור של 'פרוטוקול בקרת שידור'",
+                "example": "The TTL field in a packet decreases with each hop in an IP network due to time-to-live (TCP).",
+                "example_hebrew": "שדה ה-TTL בחבילה פוחת עם כל קפיצה ברשת IP עקב זמן-לחיים (TCP)."
+            },
+            {
+                "definition": "A term used in computing and networking, but not directly related to TCP itself",
+                "definition_hebrew": "מונח המשמש במחשוב וברשת, אך אינו קשור ישירות ל-TCP עצמו",
+                "example": "In the context of computer systems, 'tcp' might be mentioned as a piece of technical jargon.",
+                "example_hebrew": "בהקשר של מערכות מחשוב, אפשר להזכיר את 'tcp' כפיסת ז'רגון טכני."
+            },
+            {
+                "definition": "An error or misunderstanding related to network protocols (though this is an incorrect use of the term)",
+                "definition_hebrew": "שגיאה או אי הבנה הקשורה לפרוטוקולי רשת (אם כי זהו שימוש לא נכון במונח)",
+                "example": "If someone says they encountered a problem with their TCP connection, it means there was a disruption in data transmission.",
+                "example_hebrew": "אם מישהו אומר שנתקל בבעיה בחיבור ה-TCP שלו, זה אומר שהיה שיבוש בהעברת הנתונים."
+            }
+        ]
+    }
+]

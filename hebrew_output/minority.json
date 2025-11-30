@@ -1,0 +1,28 @@
+[
+    {
+        "word": "minority",
+        "word_hebrew": "מיעוט",
+        "main_definition": "A group of people within a community or society that is less in number, smaller in proportion compared to the majority.",
+        "main_definition_hebrew": "קבוצת אנשים בתוך קהילה או חברה שמספרם קטן יותר, פרופורציה קטנה יותר בהשוואה לרוב.",
+        "meanings_and_examples": [
+            {
+                "definition": "Smaller portion of a population by numbers",
+                "definition_hebrew": "חלק קטן יותר של אוכלוסייה לפי מספרים",
+                "example": "In Country X, ethnic minorities make up only 10% of the total population.",
+                "example_hebrew": "במדינה X, מיעוטים אתניים מהווים רק 10% מכלל האוכלוסייה."
+            },
+            {
+                "definition": "Group having less political power or representation due to their smaller number in society",
+                "definition_hebrew": "לקבוצה יש פחות כוח או ייצוג פוליטי בגלל מספרם הקטן יותר בחברה",
+                "example": "The LGBTQ+ community is considered a social minority as they face discrimination and have limited representation in government.",
+                "example_hebrew": "קהילת ה-LGBTQ+ נחשבת למיעוט חברתי מכיוון שהם מתמודדים עם אפליה ויש להם ייצוג מוגבל בממשלה."
+            },
+            {
+                "definition": "A specific subset within a demographic group that holds less power or influence",
+                "definition_hebrew": "תת-קבוצה ספציפית בתוך קבוצה דמוגרפית שמחזיקה בפחות כוח או השפעה",
+                "example": "Women are often seen as a minority even when their numbers match men, due to historical societal roles limiting their influence and rights.",
+                "example_hebrew": "נשים נתפסות לעתים קרובות כמיעוט גם כאשר מספרן תואם לגברים, בשל תפקידים חברתיים היסטוריים המגבילים את השפעתן וזכויותיהן."
+            }
+        ]
+    }
+]

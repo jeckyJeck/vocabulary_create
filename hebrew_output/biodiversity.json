@@ -1,0 +1,34 @@
+[
+    {
+        "word": "biodiversity",
+        "word_hebrew": "המגוון הביולוגי",
+        "main_definition": "Biodiversity refers to the variety of life in a particular habitat or ecosystem, including the different species of plants, animals, and microorganisms that live there, as well as the genetic differences within these species.",
+        "main_definition_hebrew": "המגוון הביולוגי מתייחס למגוון החיים בבית גידול מסוים או במערכת אקולוגית, לרבות המינים השונים של צמחים, בעלי חיים ומיקרואורגניזמים החיים שם, כמו גם ההבדלים הגנטיים בתוך מינים אלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The variety of plant and animal species",
+                "definition_hebrew": "מגוון מיני צמחים ובעלי חיים",
+                "example": "The Amazon rainforest is home to a rich biodiversity with thousands of different species.",
+                "example_hebrew": "יער הגשם באמזונס הוא בית למגוון ביולוגי עשיר עם אלפי מינים שונים."
+            },
+            {
+                "definition": "The genetic variation within species",
+                "definition_hebrew": "השונות הגנטית בתוך המינים",
+                "example": "Conservation efforts aim to preserve the biodiversity, including the genetic diversity among individual plants and animals.",
+                "example_hebrew": "מאמצי השימור מטרתם לשמר את המגוון הביולוגי, לרבות המגוון הגנטי בין צמחים ובעלי חיים בודדים."
+            },
+            {
+                "definition": "The variety of ecosystems in a given area",
+                "definition_hebrew": "מגוון המערכות האקולוגיות באזור נתון",
+                "example": "A national park may protect not only its wildlife but also the different types of habitats that contribute to the region's biodiversity, such as forests, wetlands, and grasslands.",
+                "example_hebrew": "פארק לאומי עשוי להגן לא רק על חיות הבר שלו אלא גם על סוגי בתי הגידול השונים התורמים למגוון הביולוגי של האזור, כגון יערות, אדמות ביצות ואדמות עשב."
+            },
+            {
+                "definition": "The balance between species in an ecosystem",
+                "definition_hebrew": "האיזון בין המינים במערכת אקולוגית",
+                "example": "A balanced ecosystem with high biodiversity ensures that no single species dominates the others, maintaining a healthy environment for all life forms.",
+                "example_hebrew": "מערכת אקולוגית מאוזנת עם מגוון ביולוגי גבוה מבטיחה שאף מין אחד לא ישלוט באחרים, ושומרת על סביבה בריאה לכל צורות החיים."
+            }
+        ]
+    }
+]

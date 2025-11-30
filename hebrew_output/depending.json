@@ -1,0 +1,34 @@
+[
+    {
+        "word": "depending",
+        "word_hebrew": "תלוי",
+        "main_definition": "The state of relying or being influenced by something else, often in terms of outcomes, conditions, or events.",
+        "main_definition_hebrew": "המצב של הסתמכות או מושפע ממשהו אחר, לרוב במונחים של תוצאות, תנאים או אירועים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to the condition or circumstance that can vary or change",
+                "definition_hebrew": "מתייחס למצב או לנסיבות שיכולים להשתנות או להשתנות",
+                "example": "Whether you get a discount depends on how much you buy.",
+                "example_hebrew": "אם אתה מקבל הנחה תלוי כמה אתה קונה."
+            },
+            {
+                "definition": "Requiring something else as a factor in an outcome or decision",
+                "definition_hebrew": "דרישה למשהו אחר כגורם לתוצאה או להחלטה",
+                "example": "The success of the project is depending on the cooperation of all team members.",
+                "example_hebrew": "הצלחת הפרויקט תלויה בשיתוף פעולה של כל חברי הצוות."
+            },
+            {
+                "definition": "Varying according to another element, variable, or condition",
+                "definition_hebrew": "משתנה לפי אלמנט אחר, משתנה או מצב אחר",
+                "example": "His mood depends on how well he sleeps at night.",
+                "example_hebrew": "מצב הרוח שלו תלוי כמה טוב הוא ישן בלילה."
+            },
+            {
+                "definition": "Pertaining to an event's outcome being influenced by other factors",
+                "definition_hebrew": "לגבי תוצאת האירוע המושפעת מגורמים אחרים",
+                "example": "The start of the concert will depend on whether it stops raining.",
+                "example_hebrew": "תחילת הקונצרט תלויה אם יפסיק לרדת גשם."
+            }
+        ]
+    }
+]

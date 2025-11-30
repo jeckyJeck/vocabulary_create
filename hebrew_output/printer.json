@@ -1,0 +1,52 @@
+[
+    {
+        "word": "printer",
+        "word_hebrew": "מדפסת",
+        "main_definition": "A device or software that produces a hard copy of documents from digital data.",
+        "main_definition_hebrew": "מכשיר או תוכנה שמייצרים עותק קשיח של מסמכים מנתונים דיגיטליים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of computers, an inkjet printer is a type of printer that sprays tiny droplets of liquid ink onto paper to create text and images.",
+                "definition_hebrew": "בהקשר של מחשבים, מדפסת הזרקת דיו היא סוג של מדפסת המרססת טיפות זעירות של דיו נוזלי על נייר ליצירת טקסט ותמונות.",
+                "example": "My old HP inkjet printer used to print documents for my home office.",
+                "example_hebrew": "מדפסת הזרקת הדיו הישנה שלי של HP נהגה להדפיס מסמכים עבור המשרד הביתי שלי."
+            },
+            {
+                "definition": "A dot matrix printer uses a series of pins that strike an inked ribbon against the paper, creating dots or characters. It is commonly found in older computer systems and automotive repair shops.",
+                "definition_hebrew": "מדפסת מטריצת נקודות משתמשת בסדרה של סיכות הפוגעות בסרט עם דיו על הנייר, ויוצרות נקודות או תווים. זה נפוץ במערכות מחשוב ישנות יותר ובחנויות לתיקון רכב.",
+                "example": "The vintage office used a dot matrix printer to create carbon copies of documents.",
+                "example_hebrew": "משרד הוינטג' השתמש במדפסת מטריצת נקודות כדי ליצור עותקי פחמן של מסמכים."
+            },
+            {
+                "definition": "A laser printer uses a laser beam to produce an image on a drum, which is then transferred onto paper using toner (powdered ink). It's known for its fast printing speeds and high-quality output.",
+                "definition_hebrew": "מדפסת לייזר משתמשת בקרן לייזר כדי להפיק תמונה על תוף, אשר לאחר מכן מועברת על גבי נייר באמצעות טונר (דיו אבקת). זה ידוע במהירויות ההדפסה המהירות שלו ובפלט האיכותי שלו.",
+                "example": "My new Epson laser printer can print entire documents within seconds.",
+                "example_hebrew": "מדפסת הלייזר החדשה שלי Epson יכולה להדפיס מסמכים שלמים תוך שניות."
+            },
+            {
+                "definition": "A 3D printer is a type of printer that creates three-dimensional objects by depositing material layer upon layer according to digital design files. It's used in prototyping and manufacturing.",
+                "definition_hebrew": "מדפסת תלת מימד היא סוג של מדפסת היוצרת אובייקטים תלת מימדיים על ידי הפקדת חומר שכבה על שכבה לפי קבצי עיצוב דיגיטליים. הוא משמש ביצירת אב טיפוס וייצור.",
+                "example": "The company uses a 3D printer to create custom parts for their products.",
+                "example_hebrew": "החברה משתמשת במדפסת תלת מימד כדי ליצור חלקים מותאמים אישית למוצרים שלה."
+            },
+            {
+                "definition": "In printing businesses, 'printing press' refers to the group of machines that print newspapers, books, or other materials. It involves setting movable type and inking paper.",
+                "definition_hebrew": "בבתי דפוס, 'דפוס' מתייחס לקבוצת המכונות המדפיסות עיתונים, ספרים או חומרים אחרים. זה כרוך בהגדרת סוג נייד ונייר דיו.",
+                "example": "The Gutenberg Bible was printed using a traditional printing press.",
+                "example_hebrew": "התנ\"ך גוטנברג הודפס באמצעות מכונת דפוס מסורתית."
+            },
+            {
+                "definition": "A 'printer queue' is a list of print jobs waiting to be processed by the printer, typically found in computer operating systems like Windows or macOS.",
+                "definition_hebrew": "'תור מדפסת' הוא רשימה של עבודות הדפסה הממתינות לעיבוד על ידי המדפסת, שנמצאות בדרך כלל במערכות הפעלה של מחשבים כמו Windows או macOS.",
+                "example": "I had several documents open when my printer ran out of paper, causing all those files to appear at the top of the printing queue.",
+                "example_hebrew": "היו לי כמה מסמכים פתוחים כשהנייר למדפסת שלי נגמר, מה שגרם לכל הקבצים האלה להופיע בראש תור ההדפסה."
+            },
+            {
+                "definition": "When referring to people's roles, 'printer' can mean someone who presses ink onto a surface (like fabric or metal) through manual labor. This usage is more archaic.",
+                "definition_hebrew": "כאשר מתייחסים לתפקידים של אנשים, 'מדפסת' יכולה להתכוון למי שלוחץ דיו על משטח (כמו בד או מתכת) באמצעות עבודת כפיים. השימוש הזה יותר ארכאי.",
+                "example": "In ancient times, the local printer would print official documents on parchment.",
+                "example_hebrew": "בימי קדם, המדפיס המקומי היה מדפיס מסמכים רשמיים על קלף."
+            }
+        ]
+    }
+]

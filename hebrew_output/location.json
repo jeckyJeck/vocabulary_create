@@ -1,0 +1,40 @@
+[
+    {
+        "word": "location",
+        "word_hebrew": "מקום",
+        "main_definition": "A specific point or area where something is situated, positioned, or occurs.",
+        "main_definition_hebrew": "נקודה או אזור ספציפיים שבהם משהו ממוקם, ממוקם או מתרחש.",
+        "meanings_and_examples": [
+            {
+                "definition": "The geographical place of an event or incident.",
+                "definition_hebrew": "המקום הגיאוגרפי של אירוע או אירוע.",
+                "example": "The robbery location was determined to be the back alley behind the store.",
+                "example_hebrew": "מיקום השוד נקבע כסמטה האחורית מאחורי החנות."
+            },
+            {
+                "definition": "A particular spot where a person, animal, or object is found or placed.",
+                "definition_hebrew": "נקודה מסוימת שבה אדם, חיה או חפץ נמצא או ממוקם.",
+                "example": "She left her keys at home; now I'm looking for them in every room of the house as their location.",
+                "example_hebrew": "היא השאירה את המפתחות בבית; עכשיו אני מחפש אותם בכל חדר בבית כמיקומם."
+            },
+            {
+                "definition": "The site within a digital context where data is stored.",
+                "definition_hebrew": "האתר בהקשר דיגיטלי בו מאוחסנים נתונים.",
+                "example": "After transferring my files, I needed to find the correct location on my computer's hard drive.",
+                "example_hebrew": "לאחר העברת הקבצים שלי, הייתי צריך למצוא את המיקום הנכון בכונן הקשיח של המחשב שלי."
+            },
+            {
+                "definition": "A fixed point in space for reference or navigation purposes.",
+                "definition_hebrew": "נקודה קבועה בחלל למטרות התייחסות או ניווט.",
+                "example": "The GPS system provided directions with specific waypoints as locations along our route.",
+                "example_hebrew": "מערכת ה-GPS סיפקה הנחיות עם נקודות ציון ספציפיות כמיקומים לאורך המסלול שלנו."
+            },
+            {
+                "definition": "The positioning of a business, service, or facility within an area to maximize visibility and accessibility.",
+                "definition_hebrew": "מיקום של עסק, שירות או מתקן בתוך אזור כדי למקסם את הנראות והנגישות.",
+                "example": "Choosing the right location for their new coffee shop was crucial for attracting customers during peak hours.",
+                "example_hebrew": "בחירת המיקום הנכון לבית הקפה החדש שלהם הייתה חיונית למשיכת לקוחות בשעות השיא."
+            }
+        ]
+    }
+]

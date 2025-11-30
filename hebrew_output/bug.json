@@ -1,0 +1,28 @@
+[
+    {
+        "word": "bug",
+        "word_hebrew": "חרק",
+        "main_definition": "A bug is a general term referring to various meanings, including an insect, a glitch or error in software or programming, or a minor problem.",
+        "main_definition_hebrew": "באג הוא מונח כללי המתייחס למשמעויות שונות, כולל חרק, תקלה או שגיאה בתוכנה או בתכנות, או בעיה קלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Insect of the order Hemiptera",
+                "definition_hebrew": "חרק מסדר המיפטרה",
+                "example": "The ladybug is a popular garden bug that eats harmful pests.",
+                "example_hebrew": "פרת משה רבנו היא פשפש גינה פופולרי שאוכל מזיקים מזיקים."
+            },
+            {
+                "definition": "A mistake or glitch in software, usually one that causes unexpected behavior or outcomes.",
+                "definition_hebrew": "טעות או תקלה בתוכנה, בדרך כלל כזו שגורמת להתנהגות או תוצאות בלתי צפויות.",
+                "example": "I found a bug in the code when it crashed every time I tried to save my work.",
+                "example_hebrew": "מצאתי באג בקוד כשהוא קרס בכל פעם שניסיתי לשמור את העבודה שלי."
+            },
+            {
+                "definition": "A small problem or difficulty encountered while trying to achieve something",
+                "definition_hebrew": "בעיה קטנה או קושי שנתקלתם בניסיון להשיג משהו",
+                "example": "The team faced several bugs during their project, but they were eventually resolved and the product was completed successfully.",
+                "example_hebrew": "הצוות התמודד עם מספר באגים במהלך הפרויקט, אך הם נפתרו בסופו של דבר והמוצר הושלם בהצלחה."
+            }
+        ]
+    }
+]

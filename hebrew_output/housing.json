@@ -1,0 +1,34 @@
+[
+    {
+        "word": "housing",
+        "word_hebrew": "דיור",
+        "main_definition": "Housing refers to the provision of living spaces, including the construction or rental of homes and residential buildings.",
+        "main_definition_hebrew": "דיור מתייחס לאספקת שטחי מגורים, לרבות בנייה או השכרה של בתים ומבני מגורים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of providing shelter for people through constructing houses or apartments",
+                "definition_hebrew": "פעולת מתן מחסה לאנשים באמצעות בניית בתים או דירות",
+                "example": "The government's housing program aims to provide affordable homes for low-income families.",
+                "example_hebrew": "תוכנית הדיור הממשלתית שמה לה למטרה לספק בתים במחירים סבירים למשפחות מעוטות יכולת."
+            },
+            {
+                "definition": "A policy aimed at ensuring access to safe and adequate living spaces",
+                "definition_hebrew": "מדיניות שמטרתה להבטיח גישה למרחבי מגורים בטוחים והולם",
+                "example": "Housing rights include the right to live in a habitable environment without discrimination based on race, religion or income level.",
+                "example_hebrew": "זכויות הדיור כוללות את הזכות לחיות בסביבה ראויה למגורים ללא אפליה על בסיס גזע, דת או רמת הכנסה."
+            },
+            {
+                "definition": "The real estate industry focused on building, selling, or renting residential properties",
+                "definition_hebrew": "תעשיית הנדל\"ן התמקדה בבנייה, מכירה או השכרה של נכסים למגורים",
+                "example": "She started her own housing development company, specializing in eco-friendly homes.",
+                "example_hebrew": "היא הקימה חברה משלה לפיתוח דיור, המתמחה בבתים ידידותיים לסביבה."
+            },
+            {
+                "definition": "A system of supportive services designed to help people secure and maintain safe and affordable housing",
+                "definition_hebrew": "מערכת של שירותים תומכים שנועדה לעזור לאנשים להבטיח ולתחזק דיור בטוח ובמחיר סביר",
+                "example": "Housing assistance programs provide rental subsidies or temporary shelter for homeless individuals.",
+                "example_hebrew": "תוכניות סיוע בדיור מספקות סובסידיות להשכרה או מקלט זמני לחסרי בית."
+            }
+        ]
+    }
+]

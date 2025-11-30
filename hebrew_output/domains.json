@@ -1,0 +1,34 @@
+[
+    {
+        "word": "domains",
+        "word_hebrew": "דומיינים",
+        "main_definition": "Domains refer to the areas of expertise, authority, or control that an individual or entity has over a particular subject matter.",
+        "main_definition_hebrew": "תחומים מתייחסים לתחומי המומחיות, הסמכות או השליטה שיש לאדם או לישות בנושא מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Area of scientific study or knowledge",
+                "definition_hebrew": "תחום מחקר או ידע מדעי",
+                "example": "The domains of biology include genetics, ecology, and physiology.",
+                "example_hebrew": "תחומי הביולוגיה כוללים גנטיקה, אקולוגיה ופיזיולוגיה."
+            },
+            {
+                "definition": "Authority or control over a particular subject matter",
+                "definition_hebrew": "סמכות או שליטה על נושא מסוים",
+                "example": "As the CEO of the company, he has full authority in his domain of business operations.",
+                "example_hebrew": "כמנכ\"ל החברה, יש לו סמכות מלאה בתחום הפעילות העסקית שלו."
+            },
+            {
+                "definition": "The various sectors or segments that make up a larger field or industry",
+                "definition_hebrew": "המגזרים או המגזרים השונים המרכיבים תחום או תעשייה גדולים יותר",
+                "example": "In the technology industry, some important domains include software development, hardware manufacturing, and cybersecurity.",
+                "example_hebrew": "בתעשיית הטכנולוגיה, כמה תחומים חשובים כוללים פיתוח תוכנה, ייצור חומרה ואבטחת סייבר."
+            },
+            {
+                "definition": "A collection of web addresses managed by a domain name registrar",
+                "definition_hebrew": "אוסף של כתובות אינטרנט המנוהלות על ידי רשם שמות מתחם",
+                "example": "My company manages several domains for our clients' websites, such as www.example.com and www.sample-site.org.",
+                "example_hebrew": "החברה שלי מנהלת מספר דומיינים עבור אתרי האינטרנט של הלקוחות שלנו, כגון www.example.com ו-www.sample-site.org."
+            }
+        ]
+    }
+]

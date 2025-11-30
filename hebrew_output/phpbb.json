@@ -1,0 +1,28 @@
+[
+    {
+        "word": "phpbb",
+        "word_hebrew": "phpbb",
+        "main_definition": "PHPBB is a popular internet forum software written in PHP that allows users to create discussion boards, or 'forums', online.",
+        "main_definition_hebrew": "PHPBB היא תוכנת פורומים פופולרית באינטרנט הכתובה ב-PHP המאפשרת למשתמשים ליצור לוחות דיונים, או 'פורומים', באינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Internet forum software",
+                "definition_hebrew": "תוכנת פורומים באינטרנט",
+                "example": "A user installs phpbb on their server to host a community-driven discussion platform.",
+                "example_hebrew": "משתמש מתקין phpbb בשרת שלו כדי לארח פלטפורמת דיון מונעת על ידי קהילה."
+            },
+            {
+                "definition": "Online discussion board system",
+                "definition_hebrew": "מערכת לוח דיונים מקוונת",
+                "example": "Users engage in conversations about various topics through posts and replies within the phpBB forums.",
+                "example_hebrew": "משתמשים משתתפים בשיחות על נושאים שונים באמצעות פוסטים ותשובות בפורומים של phpBB."
+            },
+            {
+                "definition": "Web-based forum management tool",
+                "definition_hebrew": "כלי ניהול פורומים מבוסס אינטרנט",
+                "example": "Administrators use phpbb to manage user accounts, moderate discussions, and maintain the forum's structure and rules.",
+                "example_hebrew": "מנהלי מערכת משתמשים ב-phpbb כדי לנהל חשבונות משתמש, לנהל דיונים ולתחזק את המבנה והחוקים של הפורום."
+            }
+        ]
+    }
+]

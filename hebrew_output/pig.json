@@ -1,0 +1,34 @@
+[
+    {
+        "word": "pig",
+        "word_hebrew": "חֲזִיר",
+        "main_definition": "The term 'pig' can refer to an animal or be used as an idiom with various meanings in English.",
+        "main_definition_hebrew": "המונח 'חזיר' יכול להתייחס לבעל חיים או לשמש כביטוי בעל משמעויות שונות באנגלית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Animal belonging to the species Sus scrofa, characterized by a thick skin, short legs and a large body",
+                "definition_hebrew": "בעל חיים המשתייך למין Sus scrofa, המאופיינת בעור עבה, רגליים קצרות וגוף גדול",
+                "example": "The farm had many pigs roaming around its fields.",
+                "example_hebrew": "בחווה הסתובבו חזירים רבים בשדותיה."
+            },
+            {
+                "definition": "A person who is greedy or excessively consumes resources",
+                "definition_hebrew": "אדם תאב בצע או צורך יתר על המידה משאבים",
+                "example": "He's such a pig when it comes to eating; he never seems satisfied with just one serving.",
+                "example_hebrew": "הוא כזה חזיר כשזה מגיע לאכילה; הוא אף פעם לא נראה מרוצה רק עם מנה אחת."
+            },
+            {
+                "definition": "Used in informal language to describe someone being very cheap, especially about money",
+                "definition_hebrew": "משמש בשפה לא רשמית כדי לתאר מישהו שהוא מאוד זול, במיוחד לגבי כסף",
+                "example": "She asked for the cheapest option at the restaurant, a bit like a pig when it comes to spending.",
+                "example_hebrew": "היא ביקשה את האפשרות הזולה ביותר במסעדה, קצת כמו חזיר כשזה מגיע להוצאות."
+            },
+            {
+                "definition": "A figure of speech indicating something is done thoroughly or excessively, often in a negative context",
+                "definition_hebrew": "דמות דיבור המציינת משהו נעשית בצורה יסודית או מוגזמת, לעתים קרובות בהקשר שלילי",
+                "example": "He was a real pig about his work; he'd always stay late and finish every task with great attention to detail.",
+                "example_hebrew": "הוא היה חזיר אמיתי בעבודתו; הוא תמיד היה מאוחר ומסיים כל משימה עם תשומת לב רבה לפרטים."
+            }
+        ]
+    }
+]

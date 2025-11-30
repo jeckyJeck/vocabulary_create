@@ -1,0 +1,32 @@
+{
+    "word": "ranges",
+    "word_hebrew": "טווחים",
+    "main_definition": "The term 'ranges' can refer to a series of numbers between two given points, geographical areas covered by certain types of trees or vegetation in forestry, the different levels or grades that products can achieve within a particular category, or a group of related things organized according to some criteria.",
+    "main_definition_hebrew": "המונח 'טווחים' יכול להתייחס לסדרה של מספרים בין שתי נקודות נתונות, אזורים גיאוגרפיים המכוסים על ידי סוגים מסוימים של עצים או צמחייה ביער, הרמות או הדרגות השונות שמוצרים יכולים להשיג בקטגוריה מסוימת, או קבוצה של דברים קשורים מאורגן על פי כמה קריטריונים.",
+    "meanings_and_examples": [
+        {
+            "definition": "A series of numbers between two given points",
+            "definition_hebrew": "סדרה של מספרים בין שתי נקודות נתונות",
+            "example": "The number range from 10 to 50 includes all the integers starting at 10 and ending at 50.",
+            "example_hebrew": "טווח המספרים בין 10 ל-50 כולל את כל המספרים השלמים שמתחילים ב-10 ומסתיימים ב-50."
+        },
+        {
+            "definition": "Geographical areas covered by certain types of trees or vegetation in forestry",
+            "definition_hebrew": "אזורים גיאוגרפיים המכוסים על ידי סוגים מסוימים של עצים או צמחייה ביער",
+            "example": "Pine rangelands are forested lands dominated primarily by pine trees, often found in cold climates.",
+            "example_hebrew": "שטחי אורן הם אדמות מיוערות שנשלטות בעיקר על ידי עצי אורן, הנמצאים לעתים קרובות באקלים קר."
+        },
+        {
+            "definition": "Different levels or grades that products can achieve within a particular category",
+            "definition_hebrew": "רמות או ציונים שונים שמוצרים יכולים להשיג בקטגוריה מסוימת",
+            "example": "This kitchen appliance comes in various ranges from basic to professional level models.",
+            "example_hebrew": "מכשיר מטבח זה מגיע בטווחים שונים מדגמים ברמה בסיסית ועד מקצועית."
+        },
+        {
+            "definition": "A group of related things organized according to some criteria",
+            "definition_hebrew": "קבוצה של דברים קשורים מאורגנת לפי כמה קריטריונים",
+            "example": "The warehouse has five different product ranging options, including small boxes and large pallets.",
+            "example_hebrew": "למחסן יש חמש אפשרויות שונות למגוון מוצרים, כולל קופסאות קטנות ומשטחים גדולים."
+        }
+    ]
+}

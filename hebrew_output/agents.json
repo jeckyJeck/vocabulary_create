@@ -1,0 +1,40 @@
+[
+    {
+        "word": "agents",
+        "word_hebrew": "סוכנים",
+        "main_definition": "Agents are individuals or entities that act on behalf of others, often with a specific purpose or task to accomplish.",
+        "main_definition_hebrew": "סוכנים הם יחידים או ישויות הפועלים בשם אחרים, לרוב עם מטרה או משימה ספציפית לביצוע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Individuals who perform various tasks for someone else",
+                "definition_hebrew": "אנשים שמבצעים משימות שונות עבור מישהו אחר",
+                "example": "The real estate agents helped clients find their dream homes.",
+                "example_hebrew": "סוכני הנדל\"ן עזרו ללקוחות למצוא את בתי החלומות שלהם."
+            },
+            {
+                "definition": "Persons authorized to represent or act on behalf of another party in a legal context",
+                "definition_hebrew": "אנשים המורשים לייצג או לפעול בשמו של צד אחר בהקשר משפטי",
+                "example": "A lawyer acting as an agent for his client during negotiations with the other party.",
+                "example_hebrew": "עורך דין הפועל כסוכן עבור לקוחו במהלך משא ומתן עם הצד השני."
+            },
+            {
+                "definition": "Organisms that can cause disease, such as viruses and bacteria",
+                "definition_hebrew": "אורגניזמים שעלולים לגרום למחלות, כמו וירוסים וחיידקים",
+                "example": "Viruses are microscopic agents responsible for various illnesses like the common cold or flu.",
+                "example_hebrew": "וירוסים הם גורמים מיקרוסקופיים האחראים למחלות שונות כמו הצטננות או שפעת."
+            },
+            {
+                "definition": "A substance or entity that initiates a chemical reaction in another substance",
+                "definition_hebrew": "חומר או ישות שמתחילים תגובה כימית בחומר אחר",
+                "example": "Enzymes act as catalysts, which can be considered as agents in biochemical reactions.",
+                "example_hebrew": "אנזימים פועלים כזרזים, שיכולים להיחשב כסוכנים בתגובות ביוכימיות."
+            },
+            {
+                "definition": "The people responsible for the implementation of public policies and government decisions",
+                "definition_hebrew": "האנשים האחראים ליישום מדיניות ציבורית והחלטות ממשלה",
+                "example": "Government agencies hire social workers to implement poverty alleviation programs effectively.",
+                "example_hebrew": "סוכנויות ממשלתיות שוכרות עובדים סוציאליים כדי ליישם ביעילות תוכניות להקלת העוני."
+            }
+        ]
+    }
+]

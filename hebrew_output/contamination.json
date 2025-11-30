@@ -1,0 +1,34 @@
+[
+    {
+        "word": "contamination",
+        "word_hebrew": "נְגִיעוּת",
+        "main_definition": "The presence of unwanted substances or impurities that negatively affect the purity, quality, or safety of a certain environment or material.",
+        "main_definition_hebrew": "נוכחות של חומרים או זיהומים לא רצויים המשפיעים לרעה על הטוהר, האיכות או הבטיחות של סביבה או חומר מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Infecting an area or population with disease-causing organisms",
+                "definition_hebrew": "הדבקה של אזור או אוכלוסייה באורגניזמים גורמי מחלות",
+                "example": "The contamination of food by salmonella bacteria can cause widespread illness.",
+                "example_hebrew": "זיהום המזון על ידי חיידקי סלמונלה עלול לגרום למחלות נרחבות."
+            },
+            {
+                "definition": "Introducing impurities into a chemical process or product",
+                "definition_hebrew": "החדרת זיהומים לתהליך או מוצר כימיים",
+                "example": "The production facility was shut down due to the discovery of industrial contaminants in their pharmaceutical products.",
+                "example_hebrew": "מתקן הייצור הושבת עקב גילוי של מזהמים תעשייתיים במוצרים הפרמצבטיים שלהם."
+            },
+            {
+                "definition": "Political corruption involving illegal influence on government decisions",
+                "definition_hebrew": "שחיתות פוליטית הכרוכה בהשפעה בלתי חוקית על החלטות ממשלה",
+                "example": "The alleged election campaign finance violations led to claims that there was political contamination involved.",
+                "example_hebrew": "הפרות הכספים לכאורה של מערכת הבחירות הובילו לטענות כי מדובר בזיהום פוליטי."
+            },
+            {
+                "definition": "Polluting or spoiling the natural environment, such as air, water, and land",
+                "definition_hebrew": "זיהום או קלקול הסביבה הטבעית, כגון אוויר, מים ואדמה",
+                "example": "Oil spill in the ocean resulted in severe environmental contamination affecting marine life.",
+                "example_hebrew": "דליפת נפט באוקיינוס הביאה לזיהום סביבתי חמור שהשפיע על החיים הימיים."
+            }
+        ]
+    }
+]

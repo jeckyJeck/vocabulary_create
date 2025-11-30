@@ -1,0 +1,40 @@
+[
+    {
+        "word": "countries",
+        "word_hebrew": "מדינות",
+        "main_definition": "Countries refer to geographical areas that are defined by political boundaries, have a government, and possess a distinct identity in terms of culture, language, and economy.",
+        "main_definition_hebrew": "מדינות מתייחסות לאזורים גיאוגרפיים המוגדרים על ידי גבולות פוליטיים, שיש להם ממשלה ובעלי זהות מובחנת מבחינת תרבות, שפה וכלכלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Political entities",
+                "definition_hebrew": "ישויות פוליטיות",
+                "example": "Canada is one of the countries in North America.",
+                "example_hebrew": "קנדה היא אחת המדינות בצפון אמריקה."
+            },
+            {
+                "definition": "Sovereign states with defined territories and populations",
+                "definition_hebrew": "מדינות ריבוניות בעלות טריטוריות ואוכלוסיות מוגדרות",
+                "example": "France, Germany, and Japan are sovereign countries in Europe and Asia.",
+                "example_hebrew": "צרפת, גרמניה ויפן הן מדינות ריבוניות באירופה ובאסיה."
+            },
+            {
+                "definition": "Areas where a single nation has full legal jurisdiction",
+                "definition_hebrew": "אזורים שבהם לאומה אחת יש סמכות משפטית מלאה",
+                "example": "The United States of America consists of 50 distinct countries within its boundaries.",
+                "example_hebrew": "ארצות הברית של אמריקה מורכבת מ-50 מדינות שונות בגבולותיה."
+            },
+            {
+                "definition": "Distinct geographical areas with their own governments and cultures",
+                "definition_hebrew": "אזורים גיאוגרפיים מובהקים עם ממשלות ותרבויות משלהם",
+                "example": "India is a country in South Asia known for its diverse culture, languages, and traditions.",
+                "example_hebrew": "הודו היא מדינה בדרום אסיה הידועה בתרבות, בשפות ובמסורות המגוונות שלה."
+            },
+            {
+                "definition": "Divisions of the world based on different political systems or ideologies",
+                "definition_hebrew": "חלוקות של העולם המבוססות על מערכות פוליטיות או אידיאולוגיות שונות",
+                "example": "The Eastern Bloc during the Cold War was composed of countries aligned with communist governments.",
+                "example_hebrew": "הגוש המזרחי בתקופת המלחמה הקרה הורכב ממדינות שהיו מיושרות עם ממשלות קומוניסטיות."
+            }
+        ]
+    }
+]

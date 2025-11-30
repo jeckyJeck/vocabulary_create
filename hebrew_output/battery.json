@@ -1,0 +1,40 @@
+[
+    {
+        "word": "battery",
+        "word_hebrew": "סוֹלְלָה",
+        "main_definition": "A battery is a device consisting of one or more electrochemical cells that convert stored chemical energy into electrical energy.",
+        "main_definition_hebrew": "סוללה היא מכשיר המורכב מתא אלקטרוכימי אחד או יותר הממיר אנרגיה כימית מאוחסנת לאנרגיה חשמלית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Electrochemical cell used to store electricity and power electronic devices",
+                "definition_hebrew": "תא אלקטרוכימי המשמש לאחסון חשמל והנעת מכשירים אלקטרוניים",
+                "example": "The battery in my laptop keeps it running for hours.",
+                "example_hebrew": "הסוללה במחשב הנייד שלי שומרת אותו פועל במשך שעות."
+            },
+            {
+                "definition": "Collection of cells that provide electrical energy when connected in a circuit",
+                "definition_hebrew": "אוסף תאים המספקים אנרגיה חשמלית כשהם מחוברים במעגל",
+                "example": "When I dropped my remote, the TV screen went dark because its batteries disconnected from the internal collection of cells.",
+                "example_hebrew": "כשהפלתי את השלט, מסך הטלוויזיה החשיך כי הסוללות שלו התנתקו מהאוסף הפנימי של התאים."
+            },
+            {
+                "definition": "A unit of measurement for electrical charge equal to approximately 26.8 million electrons",
+                "definition_hebrew": "יחידת מדידה למטען חשמלי השווה לכ-26.8 מיליון אלקטרונים",
+                "example": "The car's battery capacity is rated at 500 milliampere-hours, which translates to around 13,400 discharge/charge cycles.",
+                "example_hebrew": "קיבולת הסוללה של המכונית מדורגת ב-500 מיליאמפר-שעה, מה שמתורגם לכ-13,400 מחזורי פריקה/טעינה."
+            },
+            {
+                "definition": "A phrase meaning 'to mentally prepare and energize oneself', metaphorically using the concept of a battery",
+                "definition_hebrew": "ביטוי שמשמעותו \"להתכונן נפשית ולהמריץ את עצמו\", באופן מטפורי באמצעות המושג סוללה",
+                "example": "After a long day, I need to recharge myself with some restful sleep; it's like charging my internal battery.",
+                "example_hebrew": "אחרי יום ארוך, אני צריך להטעין את עצמי עם קצת שינה רגועה; זה כמו לטעון את הסוללה הפנימית שלי."
+            },
+            {
+                "definition": "In certain slang or colloquial usage, 'battery' refers to an unpleasant experience that can be emotionally draining",
+                "definition_hebrew": "בסלנג מסויים או בשפה דיבורית, 'סוללה' מתייחסת לחוויה לא נעימה שעלולה לרוקן רגשית",
+                "example": "She described her time in prison as a whole series of batteries; they took all her energy and hope.",
+                "example_hebrew": "היא תיארה את תקופתה בכלא כסדרה שלמה של סוללות; הם לקחו את כל האנרגיה והתקווה שלה."
+            }
+        ]
+    }
+]

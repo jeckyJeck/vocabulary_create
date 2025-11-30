@@ -1,0 +1,40 @@
+[
+    {
+        "word": "bandwidth",
+        "word_hebrew": "רוחב פס",
+        "main_definition": "In computing, the term 'bandwidth' refers to the data transfer capacity of a network or communication channel; in non-technical contexts, it can represent various concepts related to width and capacity.",
+        "main_definition_hebrew": "במחשוב, המונח 'רוחב פס' מתייחס ליכולת העברת הנתונים של רשת או ערוץ תקשורת; בהקשרים לא טכניים, הוא יכול לייצג מושגים שונים הקשורים לרוחב וקיבולת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Computing bandwidth",
+                "definition_hebrew": "רוחב פס מחשוב",
+                "example": "The internet connection has a bandwidth of 100 Mbps (megabits per second), which determines the speed at which data can be transferred.",
+                "example_hebrew": "לחיבור האינטרנט יש רוחב פס של 100 Mbps (מגה-ביט לשנייה), שקובע את המהירות שבה ניתן להעביר נתונים."
+            },
+            {
+                "definition": "Audio/Video bandwidth",
+                "definition_hebrew": "רוחב פס של אודיו/וידאו",
+                "example": "High-definition video requires more bandwidth than standard definition to maintain clear picture and sound quality.",
+                "example_hebrew": "וידאו בהבחנה גבוהה דורש יותר רוחב פס מאשר הגדרה רגילה כדי לשמור על איכות תמונה וצליל ברורה."
+            },
+            {
+                "definition": "Bandwidth in communications",
+                "definition_hebrew": "רוחב פס בתקשורת",
+                "example": "A two-way radio channel has a limited bandwidth, allowing only one person's transmission at a time for clarity of communication.",
+                "example_hebrew": "לערוץ רדיו דו-כיווני יש רוחב פס מוגבל, המאפשר רק שידור של אדם אחד בכל פעם לבהירות התקשורת."
+            },
+            {
+                "definition": "Width or capacity for carrying information",
+                "definition_hebrew": "רוחב או יכולת לשאת מידע",
+                "example": "The term 'bandwidth' is also used metaphorically to describe the range of topics someone can discuss or understand, such as having a wide bandwidth in knowledge on various subjects.",
+                "example_hebrew": "המונח 'רוחב פס' משמש גם באופן מטפורי כדי לתאר את מגוון הנושאים שמישהו יכול לדון או להבין, כגון בעל רוחב פס רחב בידע בנושאים שונים."
+            },
+            {
+                "definition": "Frequency range available for signals",
+                "definition_hebrew": "טווח תדרים זמין עבור אותות",
+                "example": "Radio stations are allocated different frequency bands within which they can operate without interfering with each other.",
+                "example_hebrew": "לתחנות רדיו מוקצים פסי תדר שונים שבתוכם הם יכולים לפעול מבלי להפריע זו לזו."
+            }
+        ]
+    }
+]

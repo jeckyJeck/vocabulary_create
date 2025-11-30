@@ -1,0 +1,34 @@
+[
+    {
+        "word": "breach",
+        "word_hebrew": "הֲפָרָה",
+        "main_definition": "A violation or infringement, usually referring to a gap or hole in something, such as a wall or barrier.",
+        "main_definition_hebrew": "הפרה או הפרה, בדרך כלל מתייחסים לפער או חור במשהו, כגון קיר או מחסום.",
+        "meanings_and_examples": [
+            {
+                "definition": "To break through a physical barrier",
+                "definition_hebrew": "לפרוץ מחסום פיזי",
+                "example": "The soldiers managed to breach the enemy's defenses during the battle.",
+                "example_hebrew": "החיילים הצליחו לפרוץ את הגנות האויב במהלך הקרב."
+            },
+            {
+                "definition": "A violation of rules, law or contractual obligations",
+                "definition_hebrew": "הפרה של כללים, חוק או התחייבויות חוזיות",
+                "example": "The company was sued for breaching their agreement with a supplier by failing to pay on time.",
+                "example_hebrew": "החברה נתבעה בגין הפרת ההסכם עם ספק בכך שלא שילמה במועד."
+            },
+            {
+                "definition": "An act that goes against established norms or expectations",
+                "definition_hebrew": "מעשה הנוגד נורמות או ציפיות שנקבעו",
+                "example": "She faced criticism for her breach of etiquette at the formal event.",
+                "example_hebrew": "היא התמודדה עם ביקורת על הפרת הנימוס שלה באירוע הרשמי."
+            },
+            {
+                "definition": "A gap, opening or hole in a wall, barrier, boundary, etc.",
+                "definition_hebrew": "פער, פתח או חור בקיר, מחסום, גבול וכו'.",
+                "example": "The strong winds caused a breach in the dam's structure.",
+                "example_hebrew": "הרוחות החזקות גרמו לפריצה במבנה הסכר."
+            }
+        ]
+    }
+]

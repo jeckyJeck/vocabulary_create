@@ -1,0 +1,40 @@
+[
+    {
+        "word": "axis",
+        "word_hebrew": "צִיר",
+        "main_definition": "An imaginary line around which an object rotates or is structured, often used in various contexts such as physics, mathematics, and idiomatic expressions.",
+        "main_definition_hebrew": "קו דמיוני שסביבו אובייקט מסתובב או בנוי, משמש לעתים קרובות בהקשרים שונים כגון פיזיקה, מתמטיקה וביטויים אידיומטיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In astronomy, the invisible line around a celestial body that it spins on",
+                "definition_hebrew": "באסטרונומיה, הקו הבלתי נראה מסביב לגוף שמימי שהוא מסתובב עליו",
+                "example": "The Earth's axis is tilted at an angle of 23.5 degrees.",
+                "example_hebrew": "ציר כדור הארץ נוטה בזווית של 23.5 מעלות."
+            },
+            {
+                "definition": "A straight line around which something rotates or is structured, often used in reference to mechanical and mathematical systems",
+                "definition_hebrew": "קו ישר שסביבו משהו מסתובב או בנוי, משמש לעתים קרובות בהתייחסות למערכות מכניות ומתמטיות",
+                "example": "In a spinning top, the shaft acts as its axis.",
+                "example_hebrew": "בסביבון, הציר משמש כציר שלו."
+            },
+            {
+                "definition": "A central concept or theme that serves as a foundation for an argument or discussion",
+                "definition_hebrew": "מושג או נושא מרכזי המשמשים בסיס לויכוח או דיון",
+                "example": "The principle of supply and demand is at the heart (axis) of economics.",
+                "example_hebrew": "עקרון ההיצע והביקוש נמצא בלב (ציר) הכלכלה."
+            },
+            {
+                "definition": "In geometry, one of two perpendicular lines used to define the dimensions of a shape",
+                "definition_hebrew": "בגיאומטריה, אחד משני קווים מאונכים המשמשים להגדרת הממדים של צורה",
+                "example": "A line segment can be thought of as having an axis that helps establish its direction and length.",
+                "example_hebrew": "ניתן לחשוב על קטע קו כבעל ציר שעוזר לבסס את הכיוון והאורכו שלו."
+            },
+            {
+                "definition": "In statistics, a reference value or point in data around which measurements are distributed",
+                "definition_hebrew": "בסטטיסטיקה, ערך ייחוס או נקודה בנתונים שסביבם מפוזרות מדידות",
+                "example": "The mean score is the statistical 'axis' on which individual test scores deviate.",
+                "example_hebrew": "הציון הממוצע הוא ה'ציר' הסטטיסטי שבו חורגים ציוני מבחנים בודדים."
+            }
+        ]
+    }
+]

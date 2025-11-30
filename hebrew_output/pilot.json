@@ -1,0 +1,34 @@
+[
+    {
+        "word": "pilot",
+        "word_hebrew": "טַיָס",
+        "main_definition": "A person who operates the controls of an aircraft, spacecraft, or boat.",
+        "main_definition_hebrew": "אדם המפעיל את הפקדים של כלי טיס, חללית או סירה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Professional aviator",
+                "definition_hebrew": "טייס מקצועי",
+                "example": "The pilot skillfully landed the plane during a heavy thunderstorm.",
+                "example_hebrew": "הטייס הנחית את המטוס במיומנות במהלך סופת רעמים חזקה."
+            },
+            {
+                "definition": "A person in charge of testing or experimenting with new technology, equipment, or systems before it is used on a larger scale",
+                "definition_hebrew": "אדם שאחראי על בדיקה או התנסות בטכנולוגיה, ציוד או מערכות חדשות לפני השימוש בקנה מידה גדול יותר",
+                "example": "Our company hired a pilot to test out the latest drone models and assess their performance.",
+                "example_hebrew": "החברה שלנו שכרה טייס כדי לבדוק את דגמי המל\"טים העדכניים ביותר ולהעריך את הביצועים שלהם."
+            },
+            {
+                "definition": "Initial trial version of a product or program, especially for testing purposes.",
+                "definition_hebrew": "גרסת ניסיון ראשונית של מוצר או תוכנית, במיוחד למטרות בדיקה.",
+                "example": "The software had its first pilot run last week to identify any bugs before release.",
+                "example_hebrew": "התוכנה הרצה את הפיילוט הראשון שלה בשבוע שעבר כדי לזהות באגים לפני השחרור."
+            },
+            {
+                "definition": "A person who guides or leads in business, politics, etc., as an advisor",
+                "definition_hebrew": "אדם המדריך או מוביל בעסקים, בפוליטיקה וכדומה, כיועץ",
+                "example": "She was the chief pilot of her company's new market entry strategy.",
+                "example_hebrew": "היא הייתה הטייסת הראשית של אסטרטגיית הכניסה לשוק החדשה של החברה שלה."
+            }
+        ]
+    }
+]

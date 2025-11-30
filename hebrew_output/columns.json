@@ -1,0 +1,28 @@
+[
+    {
+        "word": "columns",
+        "word_hebrew": "עמודות",
+        "main_definition": "Columns can refer to vertical supports in structures, distinct units within a spreadsheet or database, or represent groupings of similar items.",
+        "main_definition_hebrew": "עמודות יכולות להתייחס לתמיכות אנכיות במבנים, יחידות נפרדות בגיליון אלקטרוני או מסד נתונים, או לייצג קבוצות של פריטים דומים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Vertical supports in architecture or engineering that carry loads and maintain the integrity of structures",
+                "definition_hebrew": "תמיכות אנכיות בארכיטקטורה או הנדסה הנושאות עומסים ושומרות על שלמות מבנים",
+                "example": "The columns of the ancient Roman Colosseum are still standing today, over 1,900 years later.",
+                "example_hebrew": "העמודים של הקולוסיאום הרומי העתיק עדיין עומדים היום, למעלה מ-1,900 שנים מאוחר יותר."
+            },
+            {
+                "definition": "In data management, a column is an array of values, one for each row in a table. It represents a specific attribute of the data.",
+                "definition_hebrew": "בניהול נתונים, עמודה היא מערך של ערכים, אחד עבור כל שורה בטבלה. זה מייצג תכונה ספציפית של הנתונים.",
+                "example": "The 'Date' column contains all the dates when transactions occurred within our financial database.",
+                "example_hebrew": "העמודה 'תאריך' מכילה את כל התאריכים שבהם התרחשו עסקאות במסד הנתונים הפיננסי שלנו."
+            },
+            {
+                "definition": "A grouping or division based on similar characteristics or criteria",
+                "definition_hebrew": "קיבוץ או חלוקה המבוססים על מאפיינים או קריטריונים דומים",
+                "example": "In journalism, columns are often used to separate news stories and opinions in a newspaper layout.",
+                "example_hebrew": "בעיתונאות, עמודות משמשות לעתים קרובות כדי להפריד בין כתבות חדשותיות ודעות בפריסת עיתון."
+            }
+        ]
+    }
+]

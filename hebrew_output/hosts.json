@@ -1,0 +1,34 @@
+[
+    {
+        "word": "hosts",
+        "word_hebrew": "מארחים",
+        "main_definition": "In general, hosts refer to the entities that provide accommodation or resources for guests, visitors, events, viruses (in computing), or organisms in a symbiotic relationship.",
+        "main_definition_hebrew": "באופן כללי, מארחים מתייחסים לישויות המספקות לינה או משאבים לאורחים, מבקרים, אירועים, וירוסים (במחשוב) או אורגניזמים בקשר סימביוטי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Organisms providing nourishment and habitat in a symbiotic relationship",
+                "definition_hebrew": "אורגניזמים המספקים הזנה ובית גידול בקשר סימביוטי",
+                "example": "Legumes host nitrogen-fixing bacteria in their root nodules.",
+                "example_hebrew": "הקטניות מארחות חיידקים מקבעי חנקן בגושי השורש שלהן."
+            },
+            {
+                "definition": "An individual or organization that provides lodging for guests, visitors, etc.",
+                "definition_hebrew": "אדם או ארגון המספקים לינה לאורחים, מבקרים וכו'.",
+                "example": "The hotel hosts a conference next month and has reserved rooms for the attendees.",
+                "example_hebrew": "המלון מארח כנס בחודש הבא ויש לו חדרים שמורים לנוכחים."
+            },
+            {
+                "definition": "A computer file hosting malware, such as viruses or worms",
+                "definition_hebrew": "קובץ מחשב המארח תוכנות זדוניות, כגון וירוסים או תולעים",
+                "example": "Antivirus software detected a virus host within my downloaded program.",
+                "example_hebrew": "תוכנת אנטי-וירוס זיהתה מארח וירוס בתוך התוכנית שהורדתי."
+            },
+            {
+                "definition": "The entity that hosts an event or function, like a party, wedding, conference, etc.",
+                "definition_hebrew": "הישות המארחת אירוע או אירוע, כמו מסיבה, חתונה, כנס וכו'.",
+                "example": "She has been booked as the main host for the charity gala next week.",
+                "example_hebrew": "היא הוזמנה כמארחת הראשית לחגיגת הצדקה בשבוע הבא."
+            }
+        ]
+    }
+]

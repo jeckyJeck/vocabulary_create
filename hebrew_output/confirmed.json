@@ -1,0 +1,40 @@
+[
+    {
+        "word": "confirmed",
+        "word_hebrew": "מְאוּשָׁר",
+        "main_definition": "Acknowledged, verified or validated as true or definite.",
+        "main_definition_hebrew": "אושר, מאומת או מאומת כנכון או מובהק.",
+        "meanings_and_examples": [
+            {
+                "definition": "To officially acknowledge something as true or accurate.",
+                "definition_hebrew": "להכיר באופן רשמי במשהו כנכון או מדויק.",
+                "example": "The scientist's findings were confirmed by multiple experiments.",
+                "example_hebrew": "הממצאים של המדען אושרו על ידי ניסויים מרובים."
+            },
+            {
+                "definition": "Having one's identity, such as a name or gender, acknowledged and accepted without dispute.",
+                "definition_hebrew": "קבלת הזהות של האדם, כגון שם או מין, מוכרת ומתקבלת ללא מחלוקת.",
+                "example": "When the child was born, her parents immediately filled out forms to confirm her sex at birth.",
+                "example_hebrew": "כשהילד נולד, הוריה מילאו מיד טפסים כדי לאשר את מינו בלידה."
+            },
+            {
+                "definition": "To make certain about something by seeking evidence or proof.",
+                "definition_hebrew": "לוודא משהו על ידי חיפוש ראיות או הוכחות.",
+                "example": "Before making a final decision on the investment opportunity, he sought further information to confirm its viability.",
+                "example_hebrew": "לפני קבלת החלטה סופית על הזדמנות ההשקעה, הוא חיפש מידע נוסף כדי לאשר את כדאיותה."
+            },
+            {
+                "definition": "In religion, specifically within Christianity, referring to baptism performed when someone is old enough to make their own religious decisions.",
+                "definition_hebrew": "בדת, במיוחד בתוך הנצרות, הכוונה לטבילה המבוצעת כאשר מישהו מבוגר מספיק כדי לקבל החלטות דתיות משלו.",
+                "example": "The priest performed a confirmed baptism for the 12-year-old boy who was ready to embrace his faith.",
+                "example_hebrew": "הכומר ביצע טבילה מאושרת לילד בן ה-12 שהיה מוכן לאמץ את אמונתו."
+            },
+            {
+                "definition": "In sports, referring to an athlete's skill being officially recognized as superior or exceptional by official bodies.",
+                "definition_hebrew": "בספורט, הכוונה למיומנות של ספורטאי המוכרת רשמית כעולה או חריגה על ידי גופים רשמיים.",
+                "example": "Her confirmed status as a world record holder drew large crowds for her competitions.",
+                "example_hebrew": "מעמדה המאושר כמחזיקת שיא עולמי משך קהל רב לתחרויות שלה."
+            }
+        ]
+    }
+]

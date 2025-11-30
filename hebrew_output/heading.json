@@ -1,0 +1,40 @@
+[
+    {
+        "word": "heading",
+        "word_hebrew": "כּוֹתֶרֶת",
+        "main_definition": "A heading is a title or label that describes the content of a section, paragraph, text, or list in written language.",
+        "main_definition_hebrew": "כותרת היא כותרת או תווית המתארת את התוכן של סעיף, פסקה, טקסט או רשימה בשפה כתובה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In reference to an introduction or title at the beginning of a document or article",
+                "definition_hebrew": "בהתייחסות למבוא או לכותרת בתחילת מסמך או מאמר",
+                "example": "The heading 'Introduction' is followed by several sentences explaining the purpose and scope of the text.",
+                "example_hebrew": "אחרי הכותרת 'מבוא' מופיעים מספר משפטים המסבירים את מטרת הטקסט והיקפו."
+            },
+            {
+                "definition": "Used in navigation menus, outlining different sections within digital content",
+                "definition_hebrew": "משמש בתפריטי ניווט, המתאר קטעים שונים בתוכן דיגיטלי",
+                "example": "Within a webpage, there are multiple headings such as 'Home', 'About Us', and 'Contact Information' to help users navigate the site.",
+                "example_hebrew": "בתוך דף אינטרנט, ישנן מספר כותרות כגון 'בית', 'אודותינו' ו'מידע ליצירת קשר' כדי לעזור למשתמשים לנווט באתר."
+            },
+            {
+                "definition": "The leading text at the top of a page or section that indicates what follows",
+                "definition_hebrew": "הטקסט המוביל בראש עמוד או קטע המציין את מה שאחריו",
+                "example": "The heading 'Chapter 3: Climate Change' appears at the top of the third chapter, signaling the start of new content on climate change.",
+                "example_hebrew": "הכותרת 'פרק 3: שינויי אקלים' מופיעה בראש הפרק השלישי, ומאותתת על תחילתו של תוכן חדש בנושא שינויי אקלים."
+            },
+            {
+                "definition": "In listings, it is a bullet point or number that denotes items in an ordered or unordered list",
+                "definition_hebrew": "ברשימות, זהו נקודת תבליט או מספר שמציינים פריטים ברשימה מסודרת או לא מסודרת",
+                "example": "The heading 'Tasks for Today' contains a list with items like 'Reply to emails', 'Attend meeting', and 'Write report.'",
+                "example_hebrew": "הכותרת 'משימות להיום' מכילה רשימה עם פריטים כמו 'השב למיילים', 'השתתף בפגישה' ו'כתוב דוח'."
+            },
+            {
+                "definition": "A term used to indicate the direction or point of travel in maps, charts, graphs, etc.",
+                "definition_hebrew": "מונח המשמש לציון כיוון או נקודת הנסיעה במפות, תרשימים, גרפים וכו'.",
+                "example": "On a map, arrows marked with heading symbols show directions such as north (↑), south (↓), east (→), and west (←).",
+                "example_hebrew": "במפה, חיצים המסומנים בסמלי כותרת מציגים כיוונים כגון צפון (↑), דרום (↓), מזרח (→) ומערב (←)."
+            }
+        ]
+    }
+]

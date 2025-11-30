@@ -1,0 +1,40 @@
+[
+    {
+        "word": "constraint",
+        "word_hebrew": "אילוץ",
+        "main_definition": "A limitation or restriction that affects actions, decisions, or outcomes.",
+        "main_definition_hebrew": "מגבלה או הגבלה המשפיעים על פעולות, החלטות או תוצאות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Lack of flexibility in movement or action due to physical limitations.",
+                "definition_hebrew": "חוסר גמישות בתנועה או פעולה עקב מגבלות פיזיות.",
+                "example": "After the accident, she faced several constraints on her ability to run.",
+                "example_hebrew": "לאחר התאונה, היא התמודדה עם מספר מגבלות על יכולתה לרוץ."
+            },
+            {
+                "definition": "A factor that limits choices or opportunities in decision-making processes.",
+                "definition_hebrew": "גורם המגביל אפשרויות בחירה או הזדמנויות בתהליכי קבלת החלטות.",
+                "example": "The budget constraint forced the company to cut back on expenses.",
+                "example_hebrew": "המגבלה התקציבית אילצה את החברה לקצץ בהוצאות."
+            },
+            {
+                "definition": "An element of a mathematical problem or model that restricts variables and solutions.",
+                "definition_hebrew": "אלמנט של בעיה או מודל מתמטית המגבילים משתנים ופתרונות.",
+                "example": "In linear programming, constraints are used to define the feasible region for optimization problems.",
+                "example_hebrew": "בתכנות ליניארי, משתמשים באילוצים כדי להגדיר את האזור האפשרי לבעיות אופטימיזציה."
+            },
+            {
+                "definition": "A condition imposed by rules, laws, or regulations that must be followed.",
+                "definition_hebrew": "תנאי שהוטל על ידי כללים, חוקים או תקנות שיש לפעול לפיהם.",
+                "example": "The environmental constraint requires businesses to reduce their carbon footprint.",
+                "example_hebrew": "המגבלה הסביבתית מחייבת עסקים להפחית את טביעת הרגל הפחמנית שלהם."
+            },
+            {
+                "definition": "An aspect of a situation that makes it difficult to achieve desired goals or outcomes.",
+                "definition_hebrew": "היבט של מצב המקשה על השגת המטרות או התוצאות הרצויות.",
+                "example": "Time constraints made it challenging for the team to complete the project on schedule.",
+                "example_hebrew": "אילוצי זמן הפכו את הצוות לאתגר להשלים את הפרויקט לפי לוח הזמנים."
+            }
+        ]
+    }
+]

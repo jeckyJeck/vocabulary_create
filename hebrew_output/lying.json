@@ -1,0 +1,28 @@
+[
+    {
+        "word": "lying",
+        "word_hebrew": "שֶׁקֶר",
+        "main_definition": "Lying refers to the act of giving false information or deceiving someone intentionally.",
+        "main_definition_hebrew": "שקר מתייחס למעשה של מסירת מידע כוזב או הונאה של מישהו בכוונה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Telling untruths directly to others.",
+                "definition_hebrew": "אמירת אי-אמת ישירות לאחרים.",
+                "example": "She was caught lying about where she had been last night.",
+                "example_hebrew": "היא נתפסה כשהיא משקרת לגבי המקום בו הייתה אתמול בלילה."
+            },
+            {
+                "definition": "Creating a false representation of reality, often metaphorically.",
+                "definition_hebrew": "יצירת מצג שווא של המציאות, לרוב באופן מטפורי.",
+                "example": "He felt like he was living in a world full of lies and deceit.",
+                "example_hebrew": "הוא הרגיש שהוא חי בעולם מלא שקרים ורמאות."
+            },
+            {
+                "definition": "To present something as true when it is not, typically to avoid blame or punishment.",
+                "definition_hebrew": "להציג משהו כנכון כשהוא לא, בדרך כלל כדי להימנע מאשמה או עונש.",
+                "example": "The politician tried to lie his way out of the controversy by denying any wrongdoing.",
+                "example_hebrew": "הפוליטיקאי ניסה לשקר את דרכו לצאת מהמחלוקת על ידי הכחשת כל עוולה."
+            }
+        ]
+    }
+]

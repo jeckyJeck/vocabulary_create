@@ -1,0 +1,40 @@
+[
+    {
+        "word": "surface",
+        "word_hebrew": "משטח",
+        "main_definition": "Surface refers to the outermost layer or topmost part of something, often in terms of objects or materials.",
+        "main_definition_hebrew": "משטח מתייחס לשכבה החיצונית ביותר או לחלק העליון ביותר של משהו, לעתים קרובות במונחים של חפצים או חומרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The outermost layer of a solid object, such as a planet or rock",
+                "definition_hebrew": "השכבה החיצונית ביותר של עצם מוצק, כגון כוכב לכת או סלע",
+                "example": "When observing Mars through a telescope, we can see its dusty and cratered surface.",
+                "example_hebrew": "כאשר צופים במאדים דרך טלסקופ, אנו יכולים לראות את פני השטח המאובקים והמכתשים שלו."
+            },
+            {
+                "definition": "The top part or layer that is visible on an object",
+                "definition_hebrew": "החלק העליון או השכבה הנראית על אובייקט",
+                "example": "A freshly painted wooden table has a smooth and shiny surface.",
+                "example_hebrew": "שולחן עץ צבוע טרי בעל משטח חלק ומבריק."
+            },
+            {
+                "definition": "In chemistry, the surface of a liquid where substances can dissolve",
+                "definition_hebrew": "בכימיה, פני השטח של נוזל שבו חומרים יכולים להתמוסס",
+                "example": "Sugar begins to dissolve in water at the liquid's surface.",
+                "example_hebrew": "סוכר מתחיל להתמוסס במים על פני הנוזל."
+            },
+            {
+                "definition": "A person's outward appearance or demeanor",
+                "definition_hebrew": "מראה חיצוני או התנהגות של אדם",
+                "example": "His calm and composed surface hid his inner turmoil.",
+                "example_hebrew": "פניו הרגועים והמורכבים הסתירו את המהומה הפנימית שלו."
+            },
+            {
+                "definition": "In computing, the interface between a computer system and its user",
+                "definition_hebrew": "במחשוב, הממשק בין מערכת מחשב למשתמש בה",
+                "example": "The graphical user interface provides an easy-to-use surface for users to interact with their devices.",
+                "example_hebrew": "ממשק המשתמש הגרפי מספק משטח קל לשימוש למשתמשים לאינטראקציה עם המכשירים שלהם."
+            }
+        ]
+    }
+]

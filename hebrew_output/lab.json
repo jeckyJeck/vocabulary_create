@@ -1,0 +1,34 @@
+[
+    {
+        "word": "lab",
+        "word_hebrew": "מַעבָּדָה",
+        "main_definition": "A lab, short for laboratory, is a facility where scientific research, experiments, and measurements are conducted under controlled conditions.",
+        "main_definition_hebrew": "מעבדה, קיצור של מעבדה, היא מתקן שבו מחקר מדעי, ניסויים ומדידות נערכים בתנאים מבוקרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A place where chemical or physical processes are performed to study various phenomena",
+                "definition_hebrew": "מקום בו מתבצעים תהליכים כימיים או פיזיקליים לחקר תופעות שונות",
+                "example": "The chemistry lab was filled with bubbling beakers as the students mixed different substances.",
+                "example_hebrew": "המעבדה לכימיה הייתה מלאה בכוסות מבעבעות כשהתלמידים ערבבו חומרים שונים."
+            },
+            {
+                "definition": "A location for conducting scientific experiments, often in biology or medical research",
+                "definition_hebrew": "מקום לביצוע ניסויים מדעיים, לרוב בביולוגיה או במחקר רפואי",
+                "example": "The virology lab at the university studies infectious diseases and develops new treatments.",
+                "example_hebrew": "המעבדה הוירולוגית באוניברסיטה חוקרת מחלות זיהומיות ומפתחת טיפולים חדשים."
+            },
+            {
+                "definition": "An environment where testing of products, prototypes, and technology takes place to ensure quality control",
+                "definition_hebrew": "סביבה שבה מתבצעות בדיקות של מוצרים, אבות טיפוס וטכנולוגיה כדי להבטיח בקרת איכות",
+                "example": "The automotive company's test lab assessed the durability of their latest vehicle model under extreme conditions.",
+                "example_hebrew": "מעבדת הבדיקה של חברת הרכב העריכה את העמידות של דגם הרכב האחרון שלהם בתנאים קיצוניים."
+            },
+            {
+                "definition": "A facility for teaching students about scientific methodologies and research techniques",
+                "definition_hebrew": "מתקן להוראת תלמידים על מתודולוגיות מדעיות וטכניקות מחקר",
+                "example": "Students spent a day in the physics lab learning how to set up experiments and collect data.",
+                "example_hebrew": "התלמידים בילו יום במעבדת הפיזיקה ולומדים כיצד להגדיר ניסויים ולאסוף נתונים."
+            }
+        ]
+    }
+]

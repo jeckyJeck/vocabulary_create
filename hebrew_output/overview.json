@@ -1,0 +1,28 @@
+[
+    {
+        "word": "overview",
+        "word_hebrew": "סקירה כללית",
+        "main_definition": "An overview is a general summary or broad perspective of something, giving an understanding of the main points or important aspects.",
+        "main_definition_hebrew": "סקירה כללית היא סיכום כללי או פרספקטיבה רחבה של משהו, המקנה הבנה של הנקודות העיקריות או ההיבטים החשובים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A brief examination or summary of a subject to provide context and background information.",
+                "definition_hebrew": "בחינה קצרה או סיכום של נושא כדי לספק הקשר ורקע.",
+                "example": "After reading the research paper, I will give you an overview of its findings.",
+                "example_hebrew": "לאחר קריאת עבודת המחקר, אתן לך סקירה כללית על ממצאיה."
+            },
+            {
+                "definition": "An overarching view that encapsulates all key details and elements without focusing on specifics.",
+                "definition_hebrew": "מבט כולל שמכיל את כל הפרטים והאלמנטים המרכזיים מבלי להתמקד בפרטים.",
+                "example": "Before diving into the project's intricacies, let's get a high-level overview of its goals.",
+                "example_hebrew": "לפני שנצלול לנבכי הפרויקט, בואו לקבל סקירה ברמה גבוהה של מטרותיו."
+            },
+            {
+                "definition": "A visual representation or presentation that displays data, information, or concepts in a concise and accessible format.",
+                "definition_hebrew": "ייצוג חזותי או מצגת המציגים נתונים, מידע או מושגים בפורמט תמציתי ונגיש.",
+                "example": "The company created an infographic overview to illustrate their revenue growth over the past five years.",
+                "example_hebrew": "החברה יצרה סקירה אינפוגרפית כדי להמחיש את הצמיחה בהכנסות שלהם בחמש השנים האחרונות."
+            }
+        ]
+    }
+]

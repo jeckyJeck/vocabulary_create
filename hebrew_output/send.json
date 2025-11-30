@@ -1,0 +1,40 @@
+[
+    {
+        "word": "send",
+        "word_hebrew": "לִשְׁלוֹחַ",
+        "main_definition": "To cause or allow to go or be taken somewhere, typically by some mode of transportation or communication.",
+        "main_definition_hebrew": "לגרום או לאפשר ללכת או להילקח למקום, בדרך כלל באמצעי תחבורה או תקשורת.",
+        "meanings_and_examples": [
+            {
+                "definition": "To dispatch someone or something for a specific purpose or task.",
+                "definition_hebrew": "לשלוח מישהו או משהו למטרה או משימה מסוימת.",
+                "example": "The manager will send an assistant to handle the customer's complaint.",
+                "example_hebrew": "המנהל ישלח עוזר לטפל בתלונת הלקוח."
+            },
+            {
+                "definition": "To cause an object, message, or signal to move from one place to another through physical transportation.",
+                "definition_hebrew": "לגרום לחפץ, מסר או אות לעבור ממקום למקום באמצעות תחבורה פיזית.",
+                "example": "He sent his car keys with a friend so he wouldn't be late for work.",
+                "example_hebrew": "הוא שלח את מפתחות המכונית שלו עם חבר כדי שלא יאחר לעבודה."
+            },
+            {
+                "definition": "To transmit information, messages, or signals electronically, typically via the internet or phone lines.",
+                "definition_hebrew": "להעביר מידע, הודעות או אותות באופן אלקטרוני, בדרך כלל דרך האינטרנט או קווי הטלפון.",
+                "example": "She sends an email to her colleagues every morning with updates on the project.",
+                "example_hebrew": "היא שולחת מייל לעמיתיה בכל בוקר עם עדכונים על הפרויקט."
+            },
+            {
+                "definition": "To give something to someone as a gift or token of appreciation.",
+                "definition_hebrew": "לתת משהו למישהו כמתנה או אות הוקרה.",
+                "example": "For his birthday, she sent him a bouquet of flowers and chocolates.",
+                "example_hebrew": "ליום הולדתו היא שלחה לו זר פרחים ושוקולדים."
+            },
+            {
+                "definition": "To entrust with the care or management of another person's affairs temporarily.",
+                "definition_hebrew": "להפקיד את הטיפול או ניהול ענייניו של אדם אחר באופן זמני.",
+                "example": "The president sent one of his advisors to negotiate trade deals on behalf of the country.",
+                "example_hebrew": "הנשיא שלח את אחד מיועציו לנהל משא ומתן על עסקאות סחר בשם המדינה."
+            }
+        ]
+    }
+]

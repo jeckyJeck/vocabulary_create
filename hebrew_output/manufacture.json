@@ -1,0 +1,40 @@
+[
+    {
+        "word": "manufacture",
+        "word_hebrew": "יִצוּר",
+        "main_definition": "To produce or create goods in large quantities, typically using machinery.",
+        "main_definition_hebrew": "לייצר או ליצור סחורה בכמויות גדולות, בדרך כלל באמצעות מכונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Creating an artificial product through industrial processes.",
+                "definition_hebrew": "יצירת מוצר מלאכותי באמצעות תהליכים תעשייתיים.",
+                "example": "The company manufactures plastic toys for children.",
+                "example_hebrew": "החברה מייצרת צעצועי פלסטיק לילדים."
+            },
+            {
+                "definition": "To produce something in a systematic and organized manner, often involving assembly or construction.",
+                "definition_hebrew": "לייצר משהו בצורה שיטתית ומאורגנת, לרוב כרוכה בהרכבה או בנייה.",
+                "example": "A factory manufactures cars on an assembly line.",
+                "example_hebrew": "מפעל מייצר מכוניות בפס ייצור."
+            },
+            {
+                "definition": "Cultivating plants for the purpose of harvesting their products (like paper).",
+                "definition_hebrew": "טיפוח צמחים לצורך קצירת מוצריהם (כמו נייר).",
+                "example": "The mill manufactures high-quality cotton paper for printing books.",
+                "example_hebrew": "המפעל מייצר נייר כותנה איכותי להדפסת ספרים."
+            },
+            {
+                "definition": "To create or develop a concept, idea, or plan through careful thought and design.",
+                "definition_hebrew": "ליצור או לפתח קונספט, רעיון או תכנון באמצעות מחשבה ועיצוב מדוקדקים.",
+                "example": "Artists often say they are manufacturing their next masterpiece in their minds.",
+                "example_hebrew": "אמנים אומרים לעתים קרובות שהם מייצרים בראשם את יצירת המופת הבאה שלהם."
+            },
+            {
+                "definition": "The act of deceiving someone by creating false information or claims.",
+                "definition_hebrew": "מעשה הטעיית מישהו על ידי יצירת מידע או טענות כוזבים.",
+                "example": "He was accused of attempting to manufacture evidence against his opponent in the trial.",
+                "example_hebrew": "הוא הואשם בניסיון לייצר ראיות נגד יריבו במשפט."
+            }
+        ]
+    }
+]

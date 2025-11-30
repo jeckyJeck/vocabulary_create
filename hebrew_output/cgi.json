@@ -1,0 +1,28 @@
+[
+    {
+        "word": "cgi",
+        "word_hebrew": "cgi",
+        "main_definition": "The acronym 'CGI' stands for Common Gateway Interface, which is a standard way of interfacing external applications with web servers.",
+        "main_definition_hebrew": "ראשי התיבות 'CGI' מייצגים Common Gateway Interface, שהיא דרך סטנדרטית של ממשק יישומים חיצוניים עם שרתי אינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Common Gateway Interface (CGI) in computing",
+                "definition_hebrew": "ממשק שער משותף (CGI) במחשוב",
+                "example": "The CGI script processed the user's request and sent back an HTML page through the server.",
+                "example_hebrew": "סקריפט CGI עיבד את בקשת המשתמש ושלח חזרה דף HTML דרך השרת."
+            },
+            {
+                "definition": "Computer Graphics Interchange Format (CGIF)",
+                "definition_hebrew": "Computer Graphics Interchange Format (CGIF)",
+                "example": "This file, saved as .cgif, contains a high-resolution image that can be viewed on different devices without losing quality.",
+                "example_hebrew": "קובץ זה, שנשמר כ-.cgif, מכיל תמונה ברזולוציה גבוהה שניתן לצפות בה במכשירים שונים מבלי לאבד איכות."
+            },
+            {
+                "definition": "Container Gardening in Agriculture",
+                "definition_hebrew": "גינון מכולות בחקלאות",
+                "example": "The farmer used cgi pots to plant his vegetables more efficiently and effectively.",
+                "example_hebrew": "החקלאי השתמש בעציצי cgi כדי לשתול את הירקות שלו בצורה יעילה ויעילה יותר."
+            }
+        ]
+    }
+]

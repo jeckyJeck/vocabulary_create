@@ -1,0 +1,34 @@
+[
+    {
+        "word": "consumption",
+        "word_hebrew": "צְרִיכָה",
+        "main_definition": "The act of using up resources or goods, especially food, energy, or fuel.",
+        "main_definition_hebrew": "הפעולה של ניצול משאבים או סחורות, במיוחד מזון, אנרגיה או דלק.",
+        "meanings_and_examples": [
+            {
+                "definition": "Economic consumption related to the purchase and use of goods and services by individuals, households, or businesses.",
+                "definition_hebrew": "צריכה כלכלית הקשורה לרכישה ושימוש בסחורות ושירותים על ידי יחידים, משקי בית או עסקים.",
+                "example": "The rise in consumer spending has significantly contributed to economic growth.",
+                "example_hebrew": "העלייה בהוצאות הצרכנים תרמה משמעותית לצמיחה הכלכלית."
+            },
+            {
+                "definition": "The process of utilizing energy resources such as coal, oil, natural gas, etc., often with reference to environmental impacts.",
+                "definition_hebrew": "תהליך ניצול משאבי אנרגיה כגון פחם, נפט, גז טבעי וכו', לרוב תוך התייחסות להשפעות סביבתיות.",
+                "example": "Renewable energy sources are gaining popularity due to concerns about fossil fuel consumption and climate change.",
+                "example_hebrew": "מקורות אנרגיה מתחדשים צוברים פופולריות עקב חששות לגבי צריכת דלק מאובנים ושינויי אקלים."
+            },
+            {
+                "definition": "The act of ingesting substances, which can be food or drugs/medications.",
+                "definition_hebrew": "פעולת בליעת חומרים, שיכולים להיות מזון או תרופות/תרופות.",
+                "example": "Smoking cigarettes is a form of consumption that poses serious health risks.",
+                "example_hebrew": "עישון סיגריות הוא סוג של צריכה המהווה סיכונים בריאותיים חמורים."
+            },
+            {
+                "definition": "A term used in healthcare to describe the intake of nutrients through eating and drinking.",
+                "definition_hebrew": "מונח המשמש בתחום הבריאות לתיאור צריכת חומרים מזינים דרך אכילה ושתייה.",
+                "example": "Proper dietary consumption ensures all necessary vitamins and minerals are obtained for good health.",
+                "example_hebrew": "צריכה תזונתית נכונה מבטיחה את כל הוויטמינים והמינרלים הדרושים לבריאות טובה."
+            }
+        ]
+    }
+]

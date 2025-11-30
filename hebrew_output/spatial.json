@@ -1,0 +1,28 @@
+[
+    {
+        "word": "spatial",
+        "word_hebrew": "מֶרחָבִי",
+        "main_definition": "Relating to space or the physical dimensions of an area.",
+        "main_definition_hebrew": "התייחסות לחלל או לממדים הפיזיים של אזור.",
+        "meanings_and_examples": [
+            {
+                "definition": "Involving three-dimensional space and objects within it.",
+                "definition_hebrew": "מערב מרחב תלת מימדי וחפצים בתוכו.",
+                "example": "The architect designed a spatial layout for the new building.",
+                "example_hebrew": "האדריכל תכנן מתווה מרחבי לבניין החדש."
+            },
+            {
+                "definition": "Relating to or concerning one's perception of space, including directional cues and distance.",
+                "definition_hebrew": "מתייחס או נוגע לתפיסת המרחב של האדם, כולל רמזים כיוונים ומרחק.",
+                "example": "She has excellent spatial awareness when driving in heavy traffic.",
+                "example_hebrew": "יש לה מודעות מרחבית מעולה בנהיגה בתנועה כבדה."
+            },
+            {
+                "definition": "Pertaining to the study of objects in relation to each other within a given area or volume.",
+                "definition_hebrew": "הנוגע לחקר אובייקטים ביחס זה לזה בתוך שטח או נפח נתון.",
+                "example": "The art professor taught her students about the importance of spatial relationships in sculpture.",
+                "example_hebrew": "הפרופסור לאמנות לימד את תלמידיה על החשיבות של יחסים מרחביים בפיסול."
+            }
+        ]
+    }
+]

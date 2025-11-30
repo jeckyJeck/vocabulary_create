@@ -1,0 +1,40 @@
+[
+    {
+        "word": "basics",
+        "word_hebrew": "יסודות",
+        "main_definition": "The fundamental principles, essential elements or elementary aspects of a subject.",
+        "main_definition_hebrew": "העקרונות הבסיסיים, האלמנטים החיוניים או ההיבטים היסודיים של נושא.",
+        "meanings_and_examples": [
+            {
+                "definition": "The foundational skills and knowledge in any field that form the starting point for learning.",
+                "definition_hebrew": "הכישורים והידע הבסיסיים בכל תחום המהווים את נקודת המוצא ללמידה.",
+                "example": "Understanding addition and subtraction is a basic skill required to grasp algebra.",
+                "example_hebrew": "הבנת חיבור וחיסור היא מיומנות בסיסית הנדרשת כדי להבין אלגברה."
+            },
+            {
+                "definition": "The most important or essential parts of something, often considered as necessary prerequisites.",
+                "definition_hebrew": "החלקים החשובים או המהותיים ביותר של משהו, נחשבים לעתים קרובות כדרישות קדם הכרחיות.",
+                "example": "When learning to cook, mastering the basics like chopping vegetables and using kitchen tools are key first steps.",
+                "example_hebrew": "כאשר לומדים לבשל, ​​שליטה ביסודות כמו חיתוך ירקות ושימוש בכלי מטבח הם צעדים ראשונים מרכזיים."
+            },
+            {
+                "definition": "A collection of fundamental concepts in a subject that form its core structure.",
+                "definition_hebrew": "אוסף של מושגי יסוד בנושא המהווים את מבנה הליבה שלו.",
+                "example": "The study of physics includes various basic principles such as force, motion, energy, and matter.",
+                "example_hebrew": "לימודי הפיזיקה כוללים עקרונות בסיסיים שונים כמו כוח, תנועה, אנרגיה וחומר."
+            },
+            {
+                "definition": "Fundamental or simple features of something, often used to describe the essential aspects of everyday life.",
+                "definition_hebrew": "תכונות בסיסיות או פשוטות של משהו, המשמשות לעתים קרובות לתיאור ההיבטים החיוניים של חיי היומיום.",
+                "example": "In daily routines, brushing teeth, eating meals, and wearing clean clothes are basic necessities for hygiene.",
+                "example_hebrew": "בשגרה היומיומית, צחצוח שיניים, אכילת ארוחות ולבישת בגדים נקיים הם צרכים בסיסיים להיגיינה."
+            },
+            {
+                "definition": "The most crucial components or core ideas that provide a simple but comprehensive understanding of something.",
+                "definition_hebrew": "המרכיבים או רעיונות הליבה החשובים ביותר המספקים הבנה פשוטה אך מקיפה של משהו.",
+                "example": "When learning about nutrition, knowing the basics such as macronutrients and micronutrients is essential for making healthy food choices.",
+                "example_hebrew": "כאשר לומדים על תזונה, הכרת היסודות כגון מאקרו-נוטריינטים ומיקרו-נוטריינטים חיונית לבחירה במזון בריא."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "unavailable",
+        "word_hebrew": "אינו זמין",
+        "main_definition": "Not accessible or not able to be used, contacted, or reached.",
+        "main_definition_hebrew": "לא נגיש או לא ניתן להשתמש בו, ליצור קשר או להגיע אליו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not at one's disposal for use or service",
+                "definition_hebrew": "לא לרשותו של אדם לשימוש או שירות",
+                "example": "The product is currently unavailable due to high demand.",
+                "example_hebrew": "המוצר אינו זמין כעת עקב ביקוש רב."
+            },
+            {
+                "definition": "Inaccessible, out of reach",
+                "definition_hebrew": "לא נגיש, מחוץ להישג יד",
+                "example": "I tried calling him, but he was unavailable all day yesterday.",
+                "example_hebrew": "ניסיתי להתקשר אליו, אבל הוא לא היה זמין כל היום אתמול."
+            },
+            {
+                "definition": "Not able or not permitted to be contacted",
+                "definition_hebrew": "לא ניתן או אסור ליצור קשר",
+                "example": "The customer service line is currently unavailable because the staff is on break.",
+                "example_hebrew": "קו שירות הלקוחות אינו זמין כעת מכיוון שהצוות בהפסקה."
+            },
+            {
+                "definition": "Not available for selection, choice or use in a particular situation",
+                "definition_hebrew": "לא זמין לבחירה, בחירה או שימוש במצב מסוים",
+                "example": "Unfortunately, that model of phone is unavailable due to limited stock.",
+                "example_hebrew": "למרבה הצער, דגם הטלפון הזה אינו זמין עקב מלאי מוגבל."
+            },
+            {
+                "definition": "Incapable of fulfilling an obligation or role",
+                "definition_hebrew": "לא מסוגל למלא חובה או תפקיד",
+                "example": "The team's lead programmer was unexpectedly unavailable for the project deadline.",
+                "example_hebrew": "המתכנת הראשי של הצוות לא היה זמין באופן בלתי צפוי עבור המועד האחרון של הפרויקט."
+            }
+        ]
+    }
+]

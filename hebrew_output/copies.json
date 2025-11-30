@@ -1,0 +1,34 @@
+[
+    {
+        "word": "copies",
+        "word_hebrew": "עותקים",
+        "main_definition": "Copies refer to the act of making identical or similar versions of a document, image, object, etc., or it can also mean multiple instances or replicas of something.",
+        "main_definition_hebrew": "עותקים מתייחסים לפעולה של יצירת גרסאות זהות או דומות של מסמך, תמונה, אובייקט וכו', או שזה יכול להיות גם מספר מקרים או העתקים של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To reproduce or duplicate an original item such as a written document, photo, or artwork.",
+                "definition_hebrew": "לשכפל או לשכפל פריט מקורי כגון מסמך כתוב, תמונה או יצירות אמנות.",
+                "example": "The secretary made copies of the meeting minutes for all attendees.",
+                "example_hebrew": "המזכיר הכין העתקים של פרוטוקול הפגישה לכל הנוכחים."
+            },
+            {
+                "definition": "Multiple instances of something that are similar but not necessarily exact replicas.",
+                "definition_hebrew": "מקרים מרובים של משהו דומה אך לא בהכרח העתקים מדויקים.",
+                "example": "They had three different models, or copies, of a car available to choose from.",
+                "example_hebrew": "היו להם שלושה דגמים שונים, או עותקים, של מכונית זמינים לבחירה."
+            },
+            {
+                "definition": "To make an identical version of digital content like files or documents for backup or distribution purposes.",
+                "definition_hebrew": "ליצור גרסה זהה של תוכן דיגיטלי כמו קבצים או מסמכים למטרות גיבוי או הפצה.",
+                "example": "Before sending the email, he made multiple copies as backups in case one got lost during transmission.",
+                "example_hebrew": "לפני שליחת המייל, הוא עשה מספר עותקים כגיבוי למקרה שאחד ילך לאיבוד במהלך השידור."
+            },
+            {
+                "definition": "In computing and technology, referring to the act of duplicating data across storage devices.",
+                "definition_hebrew": "בתחום המחשוב והטכנולוגיה, הכוונה לפעולה של שכפול נתונים בין התקני אחסון.",
+                "example": "The server performed a backup by creating hard disk copies of all files.",
+                "example_hebrew": "השרת ביצע גיבוי על ידי יצירת עותקי דיסק קשיח של כל הקבצים."
+            }
+        ]
+    }
+]

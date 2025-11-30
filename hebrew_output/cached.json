@@ -1,0 +1,28 @@
+[
+    {
+        "word": "cached",
+        "word_hebrew": "במטמון",
+        "main_definition": "To store or save data temporarily in a location where it can be quickly accessed when needed.",
+        "main_definition_hebrew": "לאחסן או לשמור נתונים באופן זמני במיקום שבו ניתן לגשת אליהם במהירות בעת הצורך.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing, to store data that has been retrieved from the internet for faster access later on",
+                "definition_hebrew": "בתחום המחשוב, לאחסן נתונים שאוחזרו מהאינטרנט לגישה מהירה יותר מאוחר יותר",
+                "example": "When I download a large file over the internet and then cache it in my browser, I can quickly open it again without having to download it again.",
+                "example_hebrew": "כאשר אני מוריד קובץ גדול מהאינטרנט ואז מאחסן אותו בדפדפן שלי, אני יכול לפתוח אותו במהירות שוב ללא צורך להוריד אותו שוב."
+            },
+            {
+                "definition": "To keep information readily available for easy retrieval or use",
+                "definition_hebrew": "לשמור מידע זמין לאחזור או שימוש קל",
+                "example": "The website uses caching techniques so that when you visit a page frequently, the content is stored and loaded faster each time.",
+                "example_hebrew": "האתר משתמש בטכניקות מטמון כך שכאשר אתה מבקר בדף לעתים קרובות, התוכן מאוחסן ונטען מהר יותר בכל פעם."
+            },
+            {
+                "definition": "In sports, to store an object in anticipation of using it again",
+                "definition_hebrew": "בספורט, לאחסן חפץ בציפייה להשתמש בו שוב",
+                "example": "The basketball player cached his hands under the hoop while waiting for the ball to come over.",
+                "example_hebrew": "שחקן הכדורסל תפס את ידיו מתחת לחישוק בזמן שהמתין לכדור."
+            }
+        ]
+    }
+]

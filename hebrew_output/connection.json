@@ -1,0 +1,40 @@
+[
+    {
+        "word": "connection",
+        "word_hebrew": "חיבור",
+        "main_definition": "The state of being linked or joined together; a relationship between people, ideas, places, etc.",
+        "main_definition_hebrew": "מצב החיבור או החיבור; מערכת יחסים בין אנשים, רעיונות, מקומות וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "Establishing a bond or link with someone else.",
+                "definition_hebrew": "יצירת קשר או קשר עם מישהו אחר.",
+                "example": "I made a new connection at the networking event last night.",
+                "example_hebrew": "יצרתי קשר חדש באירוע הרשת אתמול בערב."
+            },
+            {
+                "definition": "The act of joining or linking together two things, such as wires or cables.",
+                "definition_hebrew": "פעולת החיבור או הקישור בין שני דברים, כגון חוטים או כבלים.",
+                "example": "She twisted the cords to make all the electronic devices connected.",
+                "example_hebrew": "היא סובבה את החוטים כדי לחבר את כל המכשירים האלקטרוניים."
+            },
+            {
+                "definition": "A shared interest or commonality between people that helps build relationships.",
+                "definition_hebrew": "עניין משותף או משותף בין אנשים שעוזר לבנות מערכות יחסים.",
+                "example": "They have a strong connection through their love for hiking and nature.",
+                "example_hebrew": "יש להם חיבור חזק דרך אהבתם לטיולים ולטבע."
+            },
+            {
+                "definition": "The relationship or association between two or more things, places, events, etc., as demonstrated by the fact of being connected or related in some way.",
+                "definition_hebrew": "הקשר או האסוציאציה בין שני דברים או יותר, מקומות, אירועים וכו', כפי שמוכיחים את העובדה שהם קשורים או קשורים בדרך כלשהי.",
+                "example": "This book has a lot to do with my own life experiences and personal connections.",
+                "example_hebrew": "ספר זה קשור רבות לחוויות חיי ולקשרים אישיים שלי."
+            },
+            {
+                "definition": "A means of communication; an electronic link that allows for data transfer between two devices.",
+                "definition_hebrew": "אמצעי תקשורת; קישור אלקטרוני המאפשר העברת נתונים בין שני מכשירים.",
+                "example": "I'm using this Bluetooth connection to send the file from my phone to my laptop.",
+                "example_hebrew": "אני משתמש בחיבור Bluetooth הזה כדי לשלוח את הקובץ מהטלפון שלי למחשב הנייד שלי."
+            }
+        ]
+    }
+]

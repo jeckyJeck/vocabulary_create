@@ -1,0 +1,40 @@
+[
+    {
+        "word": "rates",
+        "word_hebrew": "תעריפים",
+        "main_definition": "Rates refer to the levels, degrees, or values assigned to something, often used in terms of cost per unit, frequency, or speed.",
+        "main_definition_hebrew": "תעריפים מתייחסים לרמות, לדרגות או לערכים שהוקצו למשהו, המשמשים לעתים קרובות במונחים של עלות ליחידה, תדירות או מהירות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Cost per unit of a product or service",
+                "definition_hebrew": "עלות ליחידה של מוצר או שירות",
+                "example": "The shipping company charges $5 for every pound the package weighs.",
+                "example_hebrew": "חברת השילוח גובה 5 דולר עבור כל קילו שהחבילה שוקלת."
+            },
+            {
+                "definition": "Frequency of an event occurring",
+                "definition_hebrew": "תדירות התרחשות אירוע",
+                "example": "He visits his grandmother's house once a week, which is her visitation rate.",
+                "example_hebrew": "הוא מבקר בבית סבתו פעם בשבוע, שזה שיעור הביקורים שלה."
+            },
+            {
+                "definition": "Speed or velocity at which something happens",
+                "definition_hebrew": "מהירות או מהירות שבה משהו קורה",
+                "example": "The car was traveling at a high speed of 100 miles per hour on the highway.",
+                "example_hebrew": "המכונית נסעה במהירות גבוהה של 100 מייל לשעה בכביש המהיר."
+            },
+            {
+                "definition": "Rate of interest charged by banks for lending money",
+                "definition_hebrew": "שיעור הריבית שגובים הבנקים עבור הלוואות כספים",
+                "example": "He borrowed $5,000 with an annual interest rate of 4% from his bank.",
+                "example_hebrew": "הוא לווה 5,000 דולר בריבית שנתית של 4% מהבנק שלו."
+            },
+            {
+                "definition": "The rating given to a performance or quality level",
+                "definition_hebrew": "הדירוג שניתן לרמת ביצועים או איכות",
+                "example": "This restaurant has received a high food rating of 4.5 stars on the review website.",
+                "example_hebrew": "מסעדה זו קיבלה דירוג אוכל גבוה של 4.5 כוכבים באתר הביקורות."
+            }
+        ]
+    }
+]

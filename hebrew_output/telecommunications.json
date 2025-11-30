@@ -1,0 +1,28 @@
+[
+    {
+        "word": "telecommunications",
+        "word_hebrew": "תקשורת",
+        "main_definition": "Telecommunications refers to the technology, systems, and processes involved in transmitting information over long distances using electronic means.",
+        "main_definition_hebrew": "תקשורת מתייחסת לטכנולוגיה, למערכות ולתהליכים הכרוכים בהעברת מידע למרחקים ארוכים באמצעים אלקטרוניים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The industry related to providing communication services such as telephone, internet, and television",
+                "definition_hebrew": "התעשייה קשורה במתן שירותי תקשורת כגון טלפון, אינטרנט וטלוויזיה",
+                "example": "AT&T is a leading company in the telecommunications industry.",
+                "example_hebrew": "AT&T היא חברה מובילה בתעשיית הטלקומוניקציה."
+            },
+            {
+                "definition": "The transmission of information using electronic means like radio waves, optical fibers, or satellites",
+                "definition_hebrew": "העברת מידע באמצעות אמצעים אלקטרוניים כמו גלי רדיו, סיבים אופטיים או לוויינים",
+                "example": "With advancements in technology, we can now send and receive data across continents almost instantaneously.",
+                "example_hebrew": "עם התקדמות הטכנולוגיה, אנו יכולים כעת לשלוח ולקבל נתונים על פני יבשות כמעט באופן מיידי."
+            },
+            {
+                "definition": "A system that connects people globally to communicate with each other despite geographical distances",
+                "definition_hebrew": "מערכת שמחברת אנשים ברחבי העולם כדי לתקשר אחד עם השני למרות המרחקים הגיאוגרפיים",
+                "example": "The internet is a prime example of an extensive telecommunications network.",
+                "example_hebrew": "האינטרנט הוא דוגמה מצוינת לרשת תקשורת נרחבת."
+            }
+        ]
+    }
+]

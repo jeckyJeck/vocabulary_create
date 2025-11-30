@@ -1,0 +1,34 @@
+[
+    {
+        "word": "relocation",
+        "word_hebrew": "רילוקיישן",
+        "main_definition": "The process of moving to a new place or changing the location of something.",
+        "main_definition_hebrew": "תהליך המעבר למקום חדש או שינוי המיקום של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Moving one's residence or home from one place to another, usually for personal reasons such as career change or lifestyle preference.",
+                "definition_hebrew": "העברת מקום מגורים או בית ממקום למקום, בדרך כלל מסיבות אישיות כמו שינוי קריירה או העדפת אורח חיים.",
+                "example": "After being offered a job in New York, John had to undergo the relocation of his family and their belongings.",
+                "example_hebrew": "לאחר שהוצע לו עבודה בניו יורק, ג'ון נאלץ לעבור את רילוקיישן של משפחתו וחפציהם."
+            },
+            {
+                "definition": "The process whereby businesses move their operations from one location to another, often for economic reasons such as cost reduction or market expansion.",
+                "definition_hebrew": "התהליך שבו עסקים מעבירים את פעילותם ממקום אחד לאחר, לרוב מסיבות כלכליות כמו הפחתת עלויות או הרחבת שוק.",
+                "example": "To take advantage of lower taxes, Widget Inc. decided to relocate its manufacturing facility to a neighboring country.",
+                "example_hebrew": "כדי לנצל את המסים הנמוכים יותר, Widget Inc. החליטה להעביר את מתקן הייצור שלה למדינה שכנה."
+            },
+            {
+                "definition": "The act of changing the geographical position of an ecosystem's constituents due to environmental changes or human intervention.",
+                "definition_hebrew": "הפעולה של שינוי המיקום הגיאוגרפי של מרכיבי המערכת האקולוגית עקב שינויים סביבתיים או התערבות אנושית.",
+                "example": "Habitat fragmentation, resulting from relocation of natural elements by human activities like deforestation and urbanization.",
+                "example_hebrew": "פיצול בתי גידול, הנובע מהעברת אלמנטים טבעיים על ידי פעילויות אנושיות כמו כריתת יערות ועיור."
+            },
+            {
+                "definition": "The transfer of assets or investments from one place to another for better returns or risk management.",
+                "definition_hebrew": "העברת נכסים או השקעות ממקום אחד למשנהו לצורך תשואות טובות יותר או ניהול סיכונים.",
+                "example": "In order to diversify her portfolio, Sarah decided to relocate some of her investments into international markets.",
+                "example_hebrew": "כדי לגוון את תיק ההשקעות שלה, שרה החליטה להעביר חלק מהשקעותיה לשווקים בינלאומיים."
+            }
+        ]
+    }
+]

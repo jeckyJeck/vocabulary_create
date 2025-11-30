@@ -1,0 +1,40 @@
+[
+    {
+        "word": "payment",
+        "word_hebrew": "תַשְׁלוּם",
+        "main_definition": "Payment is the act of giving money or something of value to fulfill a financial obligation, such as repaying a debt, purchasing goods or services, or compensating for damages.",
+        "main_definition_hebrew": "תשלום הוא הפעולה של מתן כסף או משהו בעל ערך למילוי התחייבות כספית, כגון החזר חוב, רכישת סחורה או שירותים או פיצוי על נזקים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Settlement of a debt",
+                "definition_hebrew": "הסדר חוב",
+                "example": "She made the payment on her credit card bill to avoid late fees.",
+                "example_hebrew": "היא ביצעה את התשלום בחשבון כרטיס האשראי שלה כדי למנוע עמלות איחור."
+            },
+            {
+                "definition": "Compensation for services rendered or goods provided",
+                "definition_hebrew": "פיצוי עבור שירותים שניתנו או סחורה שניתנה",
+                "example": "The mechanic received his payment after completing the car repair.",
+                "example_hebrew": "המכונאי קיבל את התשלום שלו לאחר שסיים את תיקון הרכב."
+            },
+            {
+                "definition": "Refund of a purchased item that is defective or not as expected",
+                "definition_hebrew": "החזר על פריט שנרכש פגום או לא כצפוי",
+                "example": "I requested a refund, and the store processed my payment accordingly.",
+                "example_hebrew": "ביקשתי החזר, והחנות עיבדה את התשלום שלי בהתאם."
+            },
+            {
+                "definition": "Transferring funds for rent or housing expenses",
+                "definition_hebrew": "העברת כספים לשכר דירה או הוצאות דיור",
+                "example": "The landlord deposited his monthly payment into his bank account to cover property taxes.",
+                "example_hebrew": "בעל הבית הפקיד את התשלום החודשי שלו לחשבון הבנק שלו לכיסוי ארנונה."
+            },
+            {
+                "definition": "Payment of bills and other financial obligations",
+                "definition_hebrew": "תשלום חשבונות והתחייבויות כספיות אחרות",
+                "example": "She set up automatic payments for her utilities to avoid missing any deadlines.",
+                "example_hebrew": "היא הגדירה תשלומים אוטומטיים עבור השירותים שלה כדי למנוע החמצת מועדים."
+            }
+        ]
+    }
+]

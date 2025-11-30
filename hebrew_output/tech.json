@@ -1,0 +1,34 @@
+[
+    {
+        "word": "tech",
+        "word_hebrew": "טכנולוגיה",
+        "main_definition": "The field of technology, encompassing various tools, systems, devices, and applications used in everyday life.",
+        "main_definition_hebrew": "תחום הטכנולוגיה, הכולל כלים, מערכות, מכשירים ויישומים שונים המשמשים בחיי היומיום.",
+        "meanings_and_examples": [
+            {
+                "definition": "Related to computers or computer science",
+                "definition_hebrew": "קשור למחשבים או למדעי המחשב",
+                "example": "She is a tech enthusiast who loves exploring the latest advancements in computing technology.",
+                "example_hebrew": "היא חובבת טכנולוגיה שאוהבת לחקור את ההתקדמות האחרונה בטכנולוגיית מחשוב."
+            },
+            {
+                "definition": "Pertaining to electronic devices and gadgets",
+                "definition_hebrew": "בקשר למכשירים אלקטרוניים וגאדג'טים",
+                "example": "The company specializes in designing innovative smartphones, tablets, and wearables, which fall under the tech category.",
+                "example_hebrew": "החברה מתמחה בעיצוב סמארטפונים, טאבלטים וציוד לביש חדשניים, הנכללים בקטגוריית הטכנולוגיה."
+            },
+            {
+                "definition": "Term used informally for people working in technology-related fields or jobs",
+                "definition_hebrew": "מונח המשמש באופן לא רשמי עבור אנשים העובדים בתחומים או בעבודות הקשורות לטכנולוגיה",
+                "example": "He works as a software engineer at a leading tech firm.",
+                "example_hebrew": "הוא עובד כמהנדס תוכנה בחברת טכנולוגיה מובילה."
+            },
+            {
+                "definition": "Abbreviation of 'technology'",
+                "definition_hebrew": "קיצור של 'טכנולוגיה'",
+                "example": "The new app uses cutting-edge tech to improve user experience.",
+                "example_hebrew": "האפליקציה החדשה משתמשת בטכנולוגיה מתקדמת כדי לשפר את חווית המשתמש."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "pets",
+        "word_hebrew": "חיות מחמד",
+        "main_definition": "Pets are animals kept primarily for companionship, pleasure, or amusement rather than as working animals, livestock, or laboratory animals.",
+        "main_definition_hebrew": "חיות מחמד הן חיות המוחזקות בעיקר למטרת חברות, הנאה או שעשוע ולא כחיות עבודה, משק חי או חיות מעבדה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Domesticated animals owned by people",
+                "definition_hebrew": "חיות מבויתות בבעלות אנשים",
+                "example": "My dog is my pet cat.",
+                "example_hebrew": "הכלב שלי הוא חתול המחמד שלי."
+            },
+            {
+                "definition": "Animals kept for pleasure and companionship",
+                "definition_hebrew": "בעלי חיים שנשמרו לשם הנאה ולוויה",
+                "example": "Taking care of fish as pets can be a relaxing hobby.",
+                "example_hebrew": "טיפול בדגים כחיות מחמד יכול להיות תחביב מרגיע."
+            },
+            {
+                "definition": "Small animals often cared for by children or adults in the household",
+                "definition_hebrew": "חיות קטנות מטופלות לרוב על ידי ילדים או מבוגרים במשק הבית",
+                "example": "My daughter has a pet hamster she loves to play with.",
+                "example_hebrew": "לבת שלי יש אוגר מחמד שהיא אוהבת לשחק איתו."
+            }
+        ]
+    }
+]

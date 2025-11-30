@@ -1,0 +1,46 @@
+[
+    {
+        "word": "degree",
+        "word_hebrew": "תוֹאַר",
+        "main_definition": "A measure of the extent or intensity of something, often used in contexts such as temperature, angle, academic achievement, or qualification.",
+        "main_definition_hebrew": "מדד להיקף או עוצמתו של משהו, המשמש לעתים קרובות בהקשרים כמו טמפרטורה, זווית, הישגים אקדמיים או הסמכה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In mathematics and geometry, a unit of measurement for angles. For example: 'The angle between the two lines is 90 degrees.'",
+                "definition_hebrew": "במתמטיקה וגיאומטריה, יחידת מדידה לזוויות. לדוגמה: 'הזווית בין שני הקווים היא 90 מעלות'.",
+                "example": "'She drew an acute angle that measured exactly 45 degrees on her notebook.'",
+                "example_hebrew": "\"היא ציירה זווית חדה שנמדדה בדיוק 45 מעלות על המחברת שלה.\""
+            },
+            {
+                "definition": "A measure of temperature, typically used in weather and science contexts. For example: 'The room was uncomfortably hot at 90 degrees Fahrenheit.'",
+                "definition_hebrew": "מדד של טמפרטורה, המשמש בדרך כלל בהקשרים של מזג אוויר ומדע. לדוגמה: 'החדר היה חם בצורה לא נוחה ב-90 מעלות פרנהייט'.",
+                "example": "'During summer days, the average temperature reaches up to 85 degrees Celsius.'",
+                "example_hebrew": "'בימי הקיץ הטמפרטורה הממוצעת מגיעה עד ל-85 מעלות צלזיוס'."
+            },
+            {
+                "definition": "A measure of academic qualification or rank. For example: 'She earned her master's degree in computer science.'",
+                "definition_hebrew": "מדד לכשירות או דירוג אקדמיים. למשל: 'היא קיבלה את התואר השני שלה במדעי המחשב'.",
+                "example": "'He has a doctorate degree in astrophysics from MIT.'",
+                "example_hebrew": "'יש לו תואר דוקטור באסטרופיזיקה מ-MIT'."
+            },
+            {
+                "definition": "In chemistry, it refers to the concentration of a substance in solution. For example: 'The molarity of sodium chloride in this solution is 1 mole per liter.'",
+                "definition_hebrew": "בכימיה, זה מתייחס לריכוז של חומר בתמיסה. לדוגמה: 'המולריות של נתרן כלורי בתמיסה זו היא 1 מול לליטר.'",
+                "example": "'To dilute the acid, add water slowly while monitoring the degree of acid concentration.'",
+                "example_hebrew": "'כדי לדלל את החומצה, הוסף מים לאט תוך ניטור מידת ריכוז החומצה'."
+            },
+            {
+                "definition": "An indicator or representation of a particular level within something. For example: 'She holds a senior degree in marketing.'",
+                "definition_hebrew": "אינדיקטור או ייצוג של רמה מסוימת בתוך משהו. למשל: 'היא בעלת תואר בכיר בשיווק'.",
+                "example": "'Having a high degree in statistics is valuable for many careers.'",
+                "example_hebrew": "\"בעל תואר גבוה בסטטיסטיקה הוא בעל ערך עבור קריירות רבות.\""
+            },
+            {
+                "definition": "In politics, it refers to the majority required to pass legislation or make decisions. For example: 'The bill requires a two-thirds degree of approval to become law.'",
+                "definition_hebrew": "בפוליטיקה, זה מתייחס לרוב הנדרש כדי להעביר חקיקה או לקבל החלטות. למשל: 'הצעת החוק דורשת אישור של שני שלישים כדי להפוך לחוק'.",
+                "example": "'To ensure the policy's passage, they aimed for an overwhelming majority degree in support.'",
+                "example_hebrew": "\"כדי להבטיח את העברת המדיניות, הם כיוונו לרוב מכריע בתמיכה\"."
+            }
+        ]
+    }
+]

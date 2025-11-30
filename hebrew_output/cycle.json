@@ -1,0 +1,28 @@
+[
+    {
+        "word": "cycle",
+        "word_hebrew": "מחזור",
+        "main_definition": "A cycle refers to a sequence of events that repeat in the same order, a type of bike or wheel-based transportation system, or an economic concept related to business operations.",
+        "main_definition_hebrew": "מחזור מתייחס לרצף של אירועים שחוזרים על עצמם באותו סדר, סוג של מערכת תחבורה מבוססת אופניים או גלגלים, או מושג כלכלי הקשור לפעילות העסקית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Repeating sequence of events",
+                "definition_hebrew": "רצף חוזר של אירועים",
+                "example": "The water cycle involves evaporation, condensation, precipitation, and collection.",
+                "example_hebrew": "מחזור המים כולל אידוי, עיבוי, משקעים ואיסוף."
+            },
+            {
+                "definition": "A type of bike or wheel-based transportation system",
+                "definition_hebrew": "סוג של מערכת תחבורה מבוססת אופניים או גלגלים",
+                "example": "He rode his bicycle to work every day.",
+                "example_hebrew": "הוא רכב על אופניו לעבודה כל יום."
+            },
+            {
+                "definition": "An economic concept related to business operations, where a product goes through stages such as production, distribution, and consumption before returning back to the beginning of the cycle.",
+                "definition_hebrew": "תפיסה כלכלית הקשורה לפעילות עסקית, שבה מוצר עובר שלבים כמו ייצור, הפצה וצריכה לפני החזרה לתחילת המחזור.",
+                "example": "The car manufacturing process involves various cycles including assembly line production, quality control, and vehicle delivery.",
+                "example_hebrew": "תהליך ייצור הרכב כולל מחזורים שונים כולל ייצור פס ייצור, בקרת איכות ואספקת רכב."
+            }
+        ]
+    }
+]

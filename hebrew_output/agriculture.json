@@ -1,0 +1,40 @@
+[
+    {
+        "word": "agriculture",
+        "word_hebrew": "חַקלָאוּת",
+        "main_definition": "Agriculture refers to the practice of cultivating soil, growing crops, and raising livestock for food production, economic gain, or other purposes.",
+        "main_definition_hebrew": "חקלאות מתייחסת לתרגול של עיבוד אדמה, גידול יבולים וגידול בעלי חיים לייצור מזון, רווח כלכלי או מטרות אחרות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The science and art of farming",
+                "definition_hebrew": "המדע והאמנות של החקלאות",
+                "example": "John's expertise in the science and art of farming allows him to efficiently manage his crops.",
+                "example_hebrew": "המומחיות של ג'ון במדע ובאמנות החקלאות מאפשרת לו לנהל ביעילות את היבול שלו."
+            },
+            {
+                "definition": "Activities related to cultivating land and raising animals for food production",
+                "definition_hebrew": "פעילויות הקשורות לעיבוד אדמה וגידול בעלי חיים לייצור מזון",
+                "example": "Agriculture is a crucial industry that involves activities such as planting, harvesting, breeding livestock, and managing farms.",
+                "example_hebrew": "חקלאות היא ענף מכריע הכולל פעילויות כמו שתילה, קציר, גידול בעלי חיים וניהול חוות."
+            },
+            {
+                "definition": "The study of the economic aspects of agricultural practices and policies",
+                "definition_hebrew": "חקר ההיבטים הכלכליים של שיטות ומדיניות חקלאיות",
+                "example": "Rebecca's degree in agricultural economics allows her to analyze the market trends affecting farmers worldwide.",
+                "example_hebrew": "התואר של רבקה בכלכלה חקלאית מאפשר לה לנתח את מגמות השוק המשפיעות על חקלאים ברחבי העולם."
+            },
+            {
+                "definition": "A system involving soil cultivation, planting seeds or saplings, harvesting crops and tending livestock",
+                "definition_hebrew": "מערכת הכוללת עיבוד קרקע, שתילת זרעים או שתילים, קצירת יבולים וטיפול בבעלי חיים",
+                "example": "The agricultural sector encompasses various processes such as land preparation, crop management, animal husbandry, and post-harvest handling.",
+                "example_hebrew": "המגזר החקלאי כולל תהליכים שונים כגון הכנת קרקע, ניהול יבולים, גידול בעלי חיים וטיפול לאחר הקטיף."
+            },
+            {
+                "definition": "A way of life or occupation focused on producing food crops and raising animals",
+                "definition_hebrew": "דרך חיים או עיסוק המתמקדים בייצור גידולי מזון וגידול בעלי חיים",
+                "example": "For many people in rural areas, agriculture is not just a job but also an integral part of their lifestyle and culture.",
+                "example_hebrew": "עבור אנשים רבים באזורים כפריים, חקלאות היא לא רק עבודה אלא גם חלק בלתי נפרד מאורח החיים והתרבות שלהם."
+            }
+        ]
+    }
+]

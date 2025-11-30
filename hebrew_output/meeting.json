@@ -1,0 +1,40 @@
+[
+    {
+        "word": "meeting",
+        "word_hebrew": "פְּגִישָׁה",
+        "main_definition": "A gathering of people for a discussion or exchange of information.",
+        "main_definition_hebrew": "מפגש של אנשים לדיון או חילופי מידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Business-related assembly to discuss work matters and plans.",
+                "definition_hebrew": "אסיפה הקשורה לעסקים לדיון בענייני עבודה ותוכניות.",
+                "example": "The weekly marketing team meeting to review campaign progress.",
+                "example_hebrew": "פגישת צוות השיווק השבועית לבדיקת התקדמות הקמפיין."
+            },
+            {
+                "definition": "A social gathering where people come together informally.",
+                "definition_hebrew": "מפגש חברתי שבו אנשים מתכנסים באופן לא רשמי.",
+                "example": "My family's annual reunion picnic in the park.",
+                "example_hebrew": "פיקניק איחוד שנתי של משפחתי בפארק."
+            },
+            {
+                "definition": "An official or ceremonial assembly, often held at a formal venue.",
+                "definition_hebrew": "אסיפה רשמית או טקסית, הנערכת לעתים קרובות במקום רשמי.",
+                "example": "The city council's meeting to announce new policies.",
+                "example_hebrew": "ישיבת מועצת העיר להכרזת מדיניות חדשה."
+            },
+            {
+                "definition": "A session of members who are elected by the public and have come together for legislative purposes.",
+                "definition_hebrew": "מושב של חברים שנבחרו על ידי הציבור והתכנסו לצורכי חקיקה.",
+                "example": "The parliamentary committee meeting to discuss a bill.",
+                "example_hebrew": "ישיבת הוועדה הפרלמנטרית לדיון בהצעת חוק."
+            },
+            {
+                "definition": "A gathering where representatives from different organizations or groups meet to coordinate efforts.",
+                "definition_hebrew": "מפגש שבו נציגים מארגונים או קבוצות שונות נפגשים כדי לתאם מאמצים.",
+                "example": "Stakeholders' meeting between local businesses and the city government.",
+                "example_hebrew": "מפגש מחזיקי עניין בין עסקים מקומיים לממשלת העיר."
+            }
+        ]
+    }
+]

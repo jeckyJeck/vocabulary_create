@@ -1,0 +1,34 @@
+[
+    {
+        "word": "regular",
+        "word_hebrew": "רגיל",
+        "main_definition": "Occurring often or at expected intervals; consistent or habitual.",
+        "main_definition_hebrew": "מתרחש לעתים קרובות או במרווחים צפויים; עקבי או רגיל.",
+        "meanings_and_examples": [
+            {
+                "definition": "Following a predictable pattern or schedule consistently",
+                "definition_hebrew": "מעקב אחר דפוס או לוח זמנים צפויים באופן עקבי",
+                "example": "He takes his regular morning jog every day.",
+                "example_hebrew": "הוא עושה את ריצת הבוקר הרגילה שלו כל יום."
+            },
+            {
+                "definition": "Having equal sides and angles, not irregular",
+                "definition_hebrew": "בעל צלעות וזוויות שוות, לא לא סדירות",
+                "example": "A square is a shape with four regular sides of the same length.",
+                "example_hebrew": "ריבוע הוא צורה עם ארבע צלעות קבועות באורך זהה."
+            },
+            {
+                "definition": "Not varied or different; conforming to a standard",
+                "definition_hebrew": "לא מגוון או שונה; עומד בתקן",
+                "example": "They prefer regular milk rather than flavored alternatives.",
+                "example_hebrew": "הם מעדיפים חלב רגיל ולא חלופות בטעמים."
+            },
+            {
+                "definition": "Accepted as normal, usual, or expected in terms of frequency, quantity, appearance, etc.",
+                "definition_hebrew": "מקובל כרגיל, רגיל או צפוי מבחינת תדירות, כמות, מראה וכו'.",
+                "example": "Going to the gym regularly can help maintain a healthy lifestyle.",
+                "example_hebrew": "ללכת לחדר כושר באופן קבוע יכול לעזור לשמור על אורח חיים בריא."
+            }
+        ]
+    }
+]

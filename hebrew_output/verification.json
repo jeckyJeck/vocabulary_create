@@ -1,0 +1,40 @@
+[
+    {
+        "word": "verification",
+        "word_hebrew": "אימות",
+        "main_definition": "The process of establishing the truth or accuracy of something, often by examining evidence or using specific methods.",
+        "main_definition_hebrew": "תהליך ביסוס האמת או הדיוק של משהו, לעתים קרובות על ידי בחינת ראיות או שימוש בשיטות ספציפיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Confirmation that a fact or assertion is true or accurate.",
+                "definition_hebrew": "אישור שעובדה או קביעה נכונה או מדויקת.",
+                "example": "Upon arrival at home, John's landlord wanted to verify his identity before granting him entry.",
+                "example_hebrew": "עם הגעתו לבית, בעל הבית של ג'ון רצה לאמת את זהותו לפני שהעניק לו כניסה."
+            },
+            {
+                "definition": "The act of validating information by checking its authenticity and accuracy.",
+                "definition_hebrew": "פעולת אימות המידע על ידי בדיקת האותנטיות והדיוק שלו.",
+                "example": "Before accepting a job offer, the employer requested further verification of the candidate's educational qualifications.",
+                "example_hebrew": "לפני קבלת הצעת עבודה, המעסיק ביקש אימות נוסף של כישוריו החינוכיים של המועמד."
+            },
+            {
+                "definition": "The process of ensuring that something meets specified criteria or standards.",
+                "definition_hebrew": "תהליך הבטחת שמשהו עומד בקריטריונים או סטנדרטים מוגדרים.",
+                "example": "A quality control team performs regular verification checks on products to ensure they meet industry regulations and safety standards.",
+                "example_hebrew": "צוות בקרת איכות מבצע בדיקות אימות קבועות על מוצרים כדי להבטיח שהם עומדים בתקנות התעשייה ובתקני הבטיחות."
+            },
+            {
+                "definition": "In the context of online transactions, it refers to confirming a user's identity through various security measures.",
+                "definition_hebrew": "בהקשר של עסקאות מקוונות, הכוונה היא לאישור זהות המשתמש באמצעות אמצעי אבטחה שונים.",
+                "example": "When making an online purchase, the website requires verification by entering a password or using biometric data like fingerprint scanning.",
+                "example_hebrew": "בעת ביצוע רכישה מקוונת, האתר דורש אימות על ידי הזנת סיסמה או שימוש בנתונים ביומטריים כמו סריקת טביעות אצבע."
+            },
+            {
+                "definition": "In legal settings, verification often involves validating documents and their authenticity to establish facts in court.",
+                "definition_hebrew": "במסגרות משפטיות, אימות כולל לרוב אימות מסמכים ואמיתותם כדי לקבוע עובדות בבית המשפט.",
+                "example": "During a trial, both parties present evidence for verification by the judge or jury to determine its credibility and relevance.",
+                "example_hebrew": "במהלך משפט, שני הצדדים מציגים ראיות לאימות על ידי השופט או חבר המושבעים כדי לקבוע את מהימנותן והרלוונטיות שלה."
+            }
+        ]
+    }
+]

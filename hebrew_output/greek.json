@@ -1,0 +1,34 @@
+[
+    {
+        "word": "greek",
+        "word_hebrew": "יווני",
+        "main_definition": "The term 'Greek' can refer to several meanings, including a person from Greece, the language spoken in Greece, or an idiomatic expression used to describe something that is unexpected or unfamiliar.",
+        "main_definition_hebrew": "המונח 'יווני' יכול להתייחס למספר משמעויות, כולל אדם מיוון, השפה המדוברת ביוון, או ביטוי אידיומטי המשמש לתיאור משהו בלתי צפוי או לא מוכר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to Greece and its people",
+                "definition_hebrew": "מתייחס ליוון ואנשיה",
+                "example": "She studied ancient Greek history for her degree.",
+                "example_hebrew": "היא למדה היסטוריה יוונית עתיקה לתואר שלה."
+            },
+            {
+                "definition": "Pertaining to the language spoken in Greece, descended from the Hellenic languages of Ancient Greece",
+                "definition_hebrew": "הנוגע לשפה המדוברת ביוון, צאצאי השפות ההלניות של יוון העתיקה",
+                "example": "The professor was an expert in Modern Greek literature and could fluently speak it.",
+                "example_hebrew": "הפרופסור היה מומחה לספרות יוונית מודרנית וידע לדבר אותה בשטף."
+            },
+            {
+                "definition": "An idiom used to describe something that is unusual or surprising, often with a negative connotation",
+                "definition_hebrew": "ניב המשמש לתיאור משהו שהוא יוצא דופן או מפתיע, לעתים קרובות עם קונוטציה שלילית",
+                "example": "When he announced the new project at such short notice, his colleagues looked at him as if he had said a Greek word they didn't understand.",
+                "example_hebrew": "כשהכריז על הפרויקט החדש בהתראה כה קצרה, עמיתיו הביטו בו כאילו אמר מילה יוונית שהם לא הבינו."
+            },
+            {
+                "definition": "An idiomatic expression suggesting that something is overly complicated or incomprehensible",
+                "definition_hebrew": "ביטוי אידיומטי המצביע על כך שמשהו מסובך מדי או בלתי מובן",
+                "example": "The instructions for the new software are written in such technical jargon; it feels like reading a Greek text!",
+                "example_hebrew": "ההוראות לתוכנה החדשה כתובות בז'רגון טכני כזה; זה מרגיש כמו לקרוא טקסט יווני!"
+            }
+        ]
+    }
+]

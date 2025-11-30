@@ -1,0 +1,40 @@
+[
+    {
+        "word": "effect",
+        "word_hebrew": "השפעה",
+        "main_definition": "Effect refers to the result or outcome of an action, cause, or event.",
+        "main_definition_hebrew": "השפעה מתייחסת לתוצאה או לתוצאה של פעולה, סיבה או אירוע.",
+        "meanings_and_examples": [
+            {
+                "definition": "To bring about or influence a change in something",
+                "definition_hebrew": "לחולל או להשפיע על שינוי במשהו",
+                "example": "The new manager's strategies had a positive effect on employee morale.",
+                "example_hebrew": "לאסטרטגיות של המנהל החדש הייתה השפעה חיובית על מורל העובדים."
+            },
+            {
+                "definition": "A consequence, result, or impact of an action or event",
+                "definition_hebrew": "תוצאה, תוצאה או השפעה של פעולה או אירוע",
+                "example": "The medication had an unexpected side effect that caused dizziness.",
+                "example_hebrew": "לתרופה הייתה תופעת לוואי בלתי צפויה שגרמה לסחרחורת."
+            },
+            {
+                "definition": "A stylistic device used to create a particular impression in the mind of readers or listeners",
+                "definition_hebrew": "מכשיר סגנוני המשמש ליצירת רושם מסוים במוחם של הקוראים או המאזינים",
+                "example": "She wrote with such vivid imagery, her words had a powerful effect on me.",
+                "example_hebrew": "היא כתבה בדימויים כה חיים, למילים שלה הייתה השפעה חזקה עליי."
+            },
+            {
+                "definition": "The legally enforceable power of a court judgment or order",
+                "definition_hebrew": "הסמכות הניתנת לאכיפה משפטית של פסק דין או צו בית משפט",
+                "example": "The judge issued an injunction to prevent the company from continuing its harmful practices.",
+                "example_hebrew": "השופט הוציא צו מניעה למנוע מהחברה להמשיך בשיטות המזיקות שלה."
+            },
+            {
+                "definition": "A term used in mathematics and statistics to describe how much one variable changes when another variable changes",
+                "definition_hebrew": "מונח המשמש במתמטיקה וסטטיסטיקה כדי לתאר כמה משתנה אחד משתנה כאשר משתנה אחר משתנה",
+                "example": "In this experiment, we are interested in the effect of temperature on enzyme activity.",
+                "example_hebrew": "בניסוי זה, אנו מתעניינים בהשפעת הטמפרטורה על פעילות האנזים."
+            }
+        ]
+    }
+]

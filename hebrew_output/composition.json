@@ -1,0 +1,40 @@
+[
+    {
+        "word": "composition",
+        "word_hebrew": "הרכב",
+        "main_definition": "Composition refers to the arrangement or combination of elements, often used in different contexts such as writing, music, art, etc.",
+        "main_definition_hebrew": "קומפוזיציה מתייחסת לסידור או לשילוב של אלמנטים, המשמשים לעתים קרובות בהקשרים שונים כמו כתיבה, מוזיקה, אמנות וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "A written work that is structured with various parts including introduction, body, and conclusion",
+                "definition_hebrew": "עבודה כתובה הבנויה עם חלקים שונים כולל מבוא, גוף ומסקנה",
+                "example": "Shakespeare's play 'Romeo and Juliet' is a classic example of literary composition.",
+                "example_hebrew": "המחזה 'רומיאו ויוליה' של שייקספיר הוא דוגמה קלאסית להלחנה ספרותית."
+            },
+            {
+                "definition": "The arrangement or sequence of musical notes in time to form a piece of music",
+                "definition_hebrew": "סידור או רצף של תווים מוזיקליים בזמן ליצירת יצירה מוזיקלית",
+                "example": "Beethoven's 5th Symphony showcases his unique composition style with the famous four-note motif.",
+                "example_hebrew": "הסימפוניה החמישית של בטהובן מציגה את סגנון הקומפוזיציה הייחודי שלו עם מוטיב ארבעת התווים המפורסם."
+            },
+            {
+                "definition": "A combination of colors, shapes, and lines in visual arts that creates an overall effect or aesthetic",
+                "definition_hebrew": "שילוב של צבעים, צורות וקווים באמנות חזותית שיוצר אפקט כולל או אסתטי",
+                "example": "The painting 'Starry Night' by Vincent van Gogh is renowned for its composition with swirling patterns and vivid colors.",
+                "example_hebrew": "הציור 'לילה כוכבים' מאת וינסנט ואן גוך ידוע בקומפוזיציה שלו עם דפוסים מתערבלים וצבעים חיים."
+            },
+            {
+                "definition": "An arrangement of elements, such as objects in space, to create a specific structure or design",
+                "definition_hebrew": "סידור של אלמנטים, כגון אובייקטים בחלל, ליצירת מבנה או עיצוב ספציפיים",
+                "example": "The architectural design of the Taj Mahal exhibits careful consideration of composition in its symmetry and balance.",
+                "example_hebrew": "העיצוב האדריכלי של הטאג' מאהל מפגין התחשבות קפדנית בקומפוזיציה בסימטריה ובאיזון שלו."
+            },
+            {
+                "definition": "A mixture or blend of different substances or components",
+                "definition_hebrew": "תערובת או תערובת של חומרים או רכיבים שונים",
+                "example": "Making a fruit salad involves combining various fruits, resulting in a delicious composition.",
+                "example_hebrew": "הכנת סלט פירות כרוכה בשילוב פירות שונים, וכתוצאה מכך הרכב טעים."
+            }
+        ]
+    }
+]

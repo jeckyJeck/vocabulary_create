@@ -1,0 +1,28 @@
+[
+    {
+        "word": "wireless",
+        "word_hebrew": "אַלחוּט",
+        "main_definition": "Relating to or using technology that does not require physical connections, such as wires.",
+        "main_definition_hebrew": "התייחסות או שימוש בטכנולוגיה שאינה דורשת חיבורים פיזיים, כגון חוטים.",
+        "meanings_and_examples": [
+            {
+                "definition": "No connection or use of cables; operating without a wire link.",
+                "definition_hebrew": "אין חיבור או שימוש בכבלים; פועל ללא קישור תיל.",
+                "example": "A wireless router allows devices to connect to the internet without using Ethernet cables.",
+                "example_hebrew": "נתב אלחוטי מאפשר למכשירים להתחבר לאינטרנט ללא שימוש בכבלי Ethernet."
+            },
+            {
+                "definition": "Relating to radio frequency technology that transmits data through airwaves.",
+                "definition_hebrew": "מתייחס לטכנולוגיית תדרי רדיו המעבירה נתונים באמצעות גלי אוויר.",
+                "example": "Wireless headphones use Bluetooth technology to wirelessly stream audio from a device.",
+                "example_hebrew": "אוזניות אלחוטיות משתמשות בטכנולוגיית Bluetooth כדי להזרים אודיו באופן אלחוטי ממכשיר."
+            },
+            {
+                "definition": "Refers to devices or services that do not need physical connections for their operation, such as wireless charging or mobile phones.",
+                "definition_hebrew": "הכוונה למכשירים או שירותים שאינם זקוקים לחיבורים פיזיים לצורך פעולתם, כגון טעינה אלחוטית או טלפונים ניידים.",
+                "example": "I forgot my charger, but I was able to use the wireless charging pad at the cafe.",
+                "example_hebrew": "שכחתי את המטען שלי, אבל הצלחתי להשתמש במשטח הטעינה האלחוטי בבית הקפה."
+            }
+        ]
+    }
+]

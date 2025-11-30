@@ -1,0 +1,34 @@
+[
+    {
+        "word": "deferred",
+        "word_hebrew": "דָחוּי",
+        "main_definition": "To postpone or delay an action, decision, or event to a later time.",
+        "main_definition_hebrew": "לדחות או לדחות פעולה, החלטה או אירוע למועד מאוחר יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "to put off or delay an event, task, or obligation until a future date or moment",
+                "definition_hebrew": "לדחות או לדחות אירוע, משימה או התחייבות לתאריך או לרגע עתידיים",
+                "example": "The company decided to defer the product launch due to unforeseen technical issues.",
+                "example_hebrew": "החברה החליטה לדחות את השקת המוצר עקב בעיות טכניות בלתי צפויות."
+            },
+            {
+                "definition": "To postpone paying an owed amount of money or debt for a later date",
+                "definition_hebrew": "לדחות תשלום סכום כסף או חוב למועד מאוחר יותר",
+                "example": "She had to defer her loan repayment due to financial difficulties during the pandemic.",
+                "example_hebrew": "היא נאלצה לדחות את החזר ההלוואה בשל קשיים כלכליים במהלך המגיפה."
+            },
+            {
+                "definition": "An agreement between two parties where one party agrees not to enforce their legal right in regards to something until a specified time has passed",
+                "definition_hebrew": "הסכם בין שני צדדים שבו צד אחד מסכים לא לאכוף את זכותם החוקית ביחס למשהו עד שיחלוף זמן מוגדר",
+                "example": "They signed a deferred payment plan for his education, allowing him to pay later without penalty.",
+                "example_hebrew": "הם חתמו על תוכנית תשלומים דחויים עבור השכלתו, המאפשרת לו לשלם מאוחר יותר ללא קנס."
+            },
+            {
+                "definition": "To prioritize less important tasks or issues over more urgent ones",
+                "definition_hebrew": "לתעדף משימות או נושאים פחות חשובים על פני דחופים יותר",
+                "example": "Due to limited resources, the team had to defer their attention from minor bugs to critical system failures first.",
+                "example_hebrew": "בשל משאבים מוגבלים, הצוות נאלץ לדחות את תשומת לבם מבאגים קלים לתקלות מערכת קריטיות תחילה."
+            }
+        ]
+    }
+]

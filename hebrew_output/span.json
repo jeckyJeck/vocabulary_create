@@ -1,0 +1,34 @@
+[
+    {
+        "word": "span",
+        "word_hebrew": "לְהַקִיף",
+        "main_definition": "A span can refer to a range or period of time, an object's length, the act of extending something across, or a specific measurement in certain contexts.",
+        "main_definition_hebrew": "טווח יכול להתייחס לטווח או פרק זמן, אורך אובייקט, פעולת הרחבת משהו על פניו, או מדידה ספציפית בהקשרים מסוימים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Range or period of time",
+                "definition_hebrew": "טווח או פרק זמן",
+                "example": "She was married for over four decades, spanning 40 years.",
+                "example_hebrew": "היא הייתה נשואה למעלה מארבעה עשורים, 40 שנה."
+            },
+            {
+                "definition": "Length of an object from one end to another",
+                "definition_hebrew": "אורך חפץ מקצה אחד למשנהו",
+                "example": "The table span is six feet long.",
+                "example_hebrew": "אורך השולחן הוא שישה מטרים."
+            },
+            {
+                "definition": "Act of extending something across or over",
+                "definition_hebrew": "פעולה של הרחבת משהו לרוחב או מעל",
+                "example": "He used a rope to span the gap between two cliffs.",
+                "example_hebrew": "הוא השתמש בחבל כדי לפלס את הפער בין שני צוקים."
+            },
+            {
+                "definition": "Specific measurement in certain contexts, such as spans of bridges or ships.",
+                "definition_hebrew": "מדידה ספציפית בהקשרים מסוימים, כגון טווחי גשרים או ספינות.",
+                "example": "The bridge has a total length of 1.5 kilometers and consists of three spans.",
+                "example_hebrew": "אורך הגשר כולל של 1.5 קילומטרים והוא מורכב משלושה טפחים."
+            }
+        ]
+    }
+]

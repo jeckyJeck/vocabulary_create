@@ -1,0 +1,34 @@
+[
+    {
+        "word": "recommendations",
+        "word_hebrew": "המלצות",
+        "main_definition": "Advice or suggestions given to someone based on expertise, experience, or personal opinion.",
+        "main_definition_hebrew": "עצות או הצעות שניתנו למישהו על סמך מומחיות, ניסיון או דעה אישית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Suggestions for improvement provided by experts or knowledgeable individuals in a specific field.",
+                "definition_hebrew": "הצעות לשיפור מסופקות על ידי מומחים או אנשים בעלי ידע בתחום ספציפי.",
+                "example": "The doctor gave recommendations for exercises to help with post-surgery recovery.",
+                "example_hebrew": "הרופא נתן המלצות לתרגילים שיעזרו בהחלמה לאחר הניתוח."
+            },
+            {
+                "definition": "Advice given by someone on what actions they believe will be most beneficial, often based on personal experience or observation.",
+                "definition_hebrew": "עצות שניתנו על ידי מישהו לגבי הפעולות שהוא מאמין שיהיו מועילות ביותר, לעתים קרובות על סמך ניסיון אישי או התבוננות.",
+                "example": "After seeing the movie, my friend gave me recommendations for other similar films to watch.",
+                "example_hebrew": "לאחר שראיתי את הסרט, חבר שלי נתן לי המלצות לסרטים דומים אחרים לצפייה."
+            },
+            {
+                "definition": "Lists of places or products suggested as worthwhile by someone with knowledge about them.",
+                "definition_hebrew": "רשימות של מקומות או מוצרים שהוצעו כראויים על ידי מישהו שיש לו ידע עליהם.",
+                "example": "The hotel concierge provided a list of local restaurant and activity recommendations for tourists.",
+                "example_hebrew": "קונסיירז' המלון סיפק רשימה של מסעדות מקומיות והמלצות לפעילות לתיירים."
+            },
+            {
+                "definition": "Suggestions made to improve an individual's chances in competitive situations, such as job applications or school admissions.",
+                "definition_hebrew": "הצעות שהועלו כדי לשפר את סיכוייו של אדם במצבים תחרותיים, כגון מועמדות לעבודה או קבלה לבית הספר.",
+                "example": "The college counselor gave several recommendations on how to enhance my application for scholarships.",
+                "example_hebrew": "היועץ במכללה נתן מספר המלצות כיצד לשפר את הבקשה שלי למלגות."
+            }
+        ]
+    }
+]

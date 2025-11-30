@@ -1,0 +1,40 @@
+[
+    {
+        "word": "thing",
+        "word_hebrew": "דָבָר",
+        "main_definition": "A thing is a general term referring to any object, entity, concept or idea that can be identified or described.",
+        "main_definition_hebrew": "דבר הוא מונח כללי המתייחס לכל אובייקט, ישות, מושג או רעיון שניתן לזהות או לתאר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Object or item",
+                "definition_hebrew": "חפץ או פריט",
+                "example": "The pen on the table is a thing.",
+                "example_hebrew": "העט על השולחן הוא דבר."
+            },
+            {
+                "definition": "Anything with existence",
+                "definition_hebrew": "כל דבר עם קיום",
+                "example": "In philosophy, 'being' can be referred to as 'a thing.'",
+                "example_hebrew": "בפילוסופיה אפשר להתייחס ל'הוויה' כאל 'דבר'."
+            },
+            {
+                "definition": "Concept or idea",
+                "definition_hebrew": "קונספט או רעיון",
+                "example": "Freedom is a thing that many people strive for.",
+                "example_hebrew": "חופש הוא דבר שאנשים רבים שואפים אליו."
+            },
+            {
+                "definition": "A person (informal)",
+                "definition_hebrew": "אדם (לא פורמלי)",
+                "example": "He's not the sharpest tool in the shed, but he's still just a thing when it comes to family.",
+                "example_hebrew": "הוא לא הכלי הכי חד בסככה, אבל הוא עדיין רק דבר כשזה מגיע למשפחה."
+            },
+            {
+                "definition": "Something that exists or occurs",
+                "definition_hebrew": "משהו שקיים או מתרחש",
+                "example": "There is nothing special about this particular thing happening again tomorrow.",
+                "example_hebrew": "אין שום דבר מיוחד בכך שהדבר המסוים הזה יקרה שוב מחר."
+            }
+        ]
+    }
+]

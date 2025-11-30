@@ -1,0 +1,40 @@
+[
+    {
+        "word": "bank",
+        "word_hebrew": "בַּנק",
+        "main_definition": "A financial institution that accepts deposits, makes loans, and provides other services associated with money management.",
+        "main_definition_hebrew": "מוסד פיננסי המקבל פיקדונות, נותן הלוואות ומספק שירותים נוספים הקשורים לניהול כספים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The land alongside or sloping down to a river or lake.",
+                "definition_hebrew": "האדמה לצד נהר או אגם או משופעת בו.",
+                "example": "We had a picnic on the bank of the river.",
+                "example_hebrew": "עשינו פיקניק על גדת הנהר."
+            },
+            {
+                "definition": "A reservoir for holding money in an account at a financial institution.",
+                "definition_hebrew": "מאגר להחזקת כסף בחשבון במוסד פיננסי.",
+                "example": "I deposited my paycheck into my savings bank account.",
+                "example_hebrew": "הפקדתי את המשכורת שלי לחשבון בנק החיסכון שלי."
+            },
+            {
+                "definition": "The edge or slope of something, such as the side of a hill or riverbank.",
+                "definition_hebrew": "קצה או שיפוע של משהו, כגון צד של גבעה או גדת נהר.",
+                "example": "We sat on the grassy bank overlooking the valley below.",
+                "example_hebrew": "ישבנו על גדת הדשא המשקיפה על העמק למטה."
+            },
+            {
+                "definition": "A financial institution that offers various services like savings and checking accounts, loans, and investments.",
+                "definition_hebrew": "מוסד פיננסי המציע שירותים שונים כמו חיסכון וחשבונות עובר ושב, הלוואות והשקעות.",
+                "example": "She withdrew cash from her bank to pay for groceries.",
+                "example_hebrew": "היא משכה מזומנים מהבנק שלה כדי לשלם עבור מצרכים."
+            },
+            {
+                "definition": "To rely on the support of someone or something as a safeguard or backup.",
+                "definition_hebrew": "להסתמך על התמיכה של מישהו או משהו כהגנה או גיבוי.",
+                "example": "I'll bank on my friend's promise that he won't miss our meeting.",
+                "example_hebrew": "אני אעמוד בהבטחה של חבר שלי שהוא לא יחמיץ את הפגישה שלנו."
+            }
+        ]
+    }
+]

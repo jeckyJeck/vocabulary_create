@@ -1,0 +1,34 @@
+[
+    {
+        "word": "toolbar",
+        "word_hebrew": "סרגל כלים",
+        "main_definition": "A toolbar is a graphical control element containing interactive controls or buttons, often used in software applications to perform specific tasks.",
+        "main_definition_hebrew": "סרגל כלים הוא רכיב בקרה גרפי המכיל פקדים או כפתורים אינטראקטיביים, המשמשים לעתים קרובות ביישומי תוכנה לביצוע משימות ספציפיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing, it refers to a row of icons or buttons on the interface that allows users to quickly access various functions and features of an application.",
+                "definition_hebrew": "בתחום המחשוב, הכוונה היא לשורה של סמלים או כפתורים בממשק המאפשרת למשתמשים לגשת במהירות לפונקציות ותכונות שונות של אפליקציה.",
+                "example": "The toolbar at the top of the web browser provides quick links to open new tabs, search for content, and manage bookmarks.",
+                "example_hebrew": "סרגל הכלים בחלק העליון של דפדפן האינטרנט מספק קישורים מהירים לפתיחת כרטיסיות חדשות, חיפוש תוכן וניהול סימניות."
+            },
+            {
+                "definition": "A tool in graphic design software that contains commonly used tools like brushes, erasers, or shapes.",
+                "definition_hebrew": "כלי בתוכנת עיצוב גרפי המכיל כלים נפוצים כמו מברשות, מחקים או צורות.",
+                "example": "The Photoshop toolbar includes various drawing tools such as the pen, pencil, and eraser for image editing.",
+                "example_hebrew": "סרגל הכלים של פוטושופ כולל כלי ציור שונים כגון עט, עיפרון ומחק לעריכת תמונה."
+            },
+            {
+                "definition": "In video games, it is a row of buttons that allows players to execute specific commands during gameplay.",
+                "definition_hebrew": "במשחקי וידאו, זוהי שורת כפתורים המאפשרת לשחקנים לבצע פקודות ספציפיות במהלך המשחק.",
+                "example": "Using the control bar in Fortnite, I selected my character's actions such as jumping, sprinting, or using weapons.",
+                "example_hebrew": "באמצעות סרגל הבקרה בפורטנייט, בחרתי את הפעולות של הדמות שלי כמו קפיצה, ספרינט או שימוש בנשק."
+            },
+            {
+                "definition": "In word processing software like Microsoft Word, it is a set of commonly used functions and commands displayed on-screen.",
+                "definition_hebrew": "בתוכנת עיבוד תמלילים כמו Microsoft Word, זוהי קבוצה של פונקציות ופקודות נפוצות המוצגות על המסך.",
+                "example": "The toolbar in Microsoft Word includes buttons for saving files, formatting text, and inserting images into the document.",
+                "example_hebrew": "סרגל הכלים ב-Microsoft Word כולל לחצנים לשמירת קבצים, עיצוב טקסט והכנסת תמונות למסמך."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "tank",
+        "word_hebrew": "טַנק",
+        "main_definition": "A large container or receptacle for holding liquids, often used in military vehicles or as a metaphor for financial resources.",
+        "main_definition_hebrew": "מיכל גדול או כלי קיבול להחזקת נוזלים, המשמש לרוב בכלי רכב צבאיים או כמטאפורה למשאבים כספיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Military vehicle equipped with heavy armament",
+                "definition_hebrew": "רכב צבאי מצויד בחימוש כבד",
+                "example": "The tanks were deployed to secure the area during the conflict.",
+                "example_hebrew": "הטנקים נפרסו לאבטחת השטח במהלך העימות."
+            },
+            {
+                "definition": "A large container for holding liquids, such as water or fuel",
+                "definition_hebrew": "מיכל גדול להחזקת נוזלים כמו מים או דלק",
+                "example": "We filled up our car's gasoline tank at the station.",
+                "example_hebrew": "מילאנו את מיכל הבנזין של המכונית שלנו בתחנה."
+            },
+            {
+                "definition": "Financial resources in abundance; strong economic position",
+                "definition_hebrew": "משאבים כספיים בשפע; מעמד כלכלי חזק",
+                "example": "The company has a large financial tank to invest in new projects.",
+                "example_hebrew": "לחברה טנק פיננסי גדול להשקעה בפרויקטים חדשים."
+            },
+            {
+                "definition": "A unit of measurement for volume, specifically 159 liters (45 US gallons)",
+                "definition_hebrew": "יחידת מדידה לנפח, ספציפית 159 ליטר (45 גלונים בארה\"ב)",
+                "example": "He drank four-and-a-half tanks of water during the marathon.",
+                "example_hebrew": "הוא שתה ארבעה וחצי מיכלי מים במהלך המרתון."
+            },
+            {
+                "definition": "To deplete or exhaust resources",
+                "definition_hebrew": "כדי לרוקן או למצות משאבים",
+                "example": "The aggressive marketing campaign drained their financial tank quickly.",
+                "example_hebrew": "מסע השיווק האגרסיבי רוקן את המיכל הפיננסי שלהם במהירות."
+            }
+        ]
+    }
+]

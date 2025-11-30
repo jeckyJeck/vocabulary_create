@@ -1,0 +1,40 @@
+[
+    {
+        "word": "owners",
+        "word_hebrew": "בעלים",
+        "main_definition": "Owners are individuals or entities that possess legal rights over property, assets, or businesses.",
+        "main_definition_hebrew": "בעלים הם אנשים או ישויות שיש להם זכויות משפטיות על רכוש, נכסים או עסקים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Individuals who own a house or residential property.",
+                "definition_hebrew": "אנשים בעלי בית או נכס למגורים.",
+                "example": "John and Jane Smith are the proud owners of their beautiful suburban home.",
+                "example_hebrew": "ג'ון וג'יין סמית הם הבעלים הגאים של בית הפרברים היפה שלהם."
+            },
+            {
+                "definition": "Companies that hold exclusive rights to operate in a particular market or industry.",
+                "definition_hebrew": "חברות המחזיקות בזכויות בלעדיות לפעול בשוק או בענף מסוים.",
+                "example": "Apple Inc. is an owner of various technology patents, giving them competitive advantage over others.",
+                "example_hebrew": "אפל בע\"מ היא הבעלים של פטנטים טכנולוגיים שונים, המעניקים להם יתרון תחרותי על פני אחרים."
+            },
+            {
+                "definition": "Persons who have ownership stake in a corporation through stocks.",
+                "definition_hebrew": "אנשים שיש להם חלק בעלות בתאגיד באמצעות מניות.",
+                "example": "As shareholders, the owners benefit from the company's profits and growth.",
+                "example_hebrew": "כבעלי מניות, הבעלים נהנים מרווחי החברה ומצמיחה."
+            },
+            {
+                "definition": "The party responsible for maintenance and care of pets or animals.",
+                "definition_hebrew": "הגורם האחראי לתחזוקה וטיפול בחיות מחמד או בעלי חיים.",
+                "example": "Sarah is the owner of three cats and ensures they receive proper care.",
+                "example_hebrew": "שרה היא הבעלים של שלושה חתולים ומבטיחה שהם יקבלו טיפול הולם."
+            },
+            {
+                "definition": "Entities that have ownership over intellectual property like trademarks, copyrights, or patents.",
+                "definition_hebrew": "ישויות שיש להן בעלות על קניין רוחני כמו סימנים מסחריים, זכויות יוצרים או פטנטים.",
+                "example": "Microsoft Corporation is an owner of several software patents for its Windows operating system.",
+                "example_hebrew": "Microsoft Corporation היא הבעלים של מספר פטנטים על תוכנה עבור מערכת ההפעלה Windows שלה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "word": "positive",
+        "word_hebrew": "חִיוּבִי",
+        "main_definition": "Positive refers to having a favorable or affirmative nature, attitude, or outcome.",
+        "main_definition_hebrew": "חיובי מתייחס לבעל אופי, גישה או תוצאה חיוביים או חיוביים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to optimism or good feelings about something.",
+                "definition_hebrew": "מתייחס לאופטימיות או לרגשות טובים לגבי משהו.",
+                "example": "She has a positive outlook on life and always sees the bright side of things.",
+                "example_hebrew": "יש לה השקפה חיובית על החיים ותמיד רואה את הצד החיובי של הדברים."
+            },
+            {
+                "definition": "Characterized by favorable qualities, such as being constructive or beneficial.",
+                "definition_hebrew": "מאופיין בתכונות חיוביות, כמו להיות בונה או מועיל.",
+                "example": "A positive review can greatly boost the reputation of a product.",
+                "example_hebrew": "ביקורת חיובית יכולה לשפר מאוד את המוניטין של המוצר."
+            },
+            {
+                "definition": "Pertaining to or expressing positivity in language and communication.",
+                "definition_hebrew": "נוגע או הבעת חיוביות בשפה ובתקשורת.",
+                "example": "Using 'yes' instead of 'no' is an example of speaking in a positive manner.",
+                "example_hebrew": "שימוש ב'כן' במקום 'לא' הוא דוגמה לדיבור בצורה חיובית."
+            },
+            {
+                "definition": "Refers to the positive electrode (+) in electrical circuits, having more free electrons than holes.",
+                "definition_hebrew": "הכוונה לאלקטרודה החיובית (+) במעגלים חשמליים, בעלת יותר אלקטרונים חופשיים מאשר חורים.",
+                "example": "The positive terminal of a battery attracts negatively charged particles.",
+                "example_hebrew": "המסוף החיובי של הסוללה מושך חלקיקים טעונים שלילי."
+            },
+            {
+                "definition": "A number greater than zero; not negative or zero.",
+                "definition_hebrew": "מספר גדול מאפס; לא שלילי או אפס.",
+                "example": "Having a positive balance in your bank account means you have money available.",
+                "example_hebrew": "יתרה חיובית בחשבון הבנק שלך פירושה שיש לך כסף זמין."
+            },
+            {
+                "definition": "In statistics, the positive part of a distribution that lies on and above the zero point, excluding any negative values.",
+                "definition_hebrew": "בסטטיסטיקה, החלק החיובי של התפלגות שנמצא על ומעל נקודת האפס, לא כולל ערכים שליליים.",
+                "example": "The mean income of the population is $50,000, which represents a positive average wage.",
+                "example_hebrew": "ההכנסה הממוצעת של האוכלוסייה היא 50,000 דולר, המייצגים שכר ממוצע חיובי."
+            },
+            {
+                "definition": "In photography or image processing, having a brightness value greater than black (0).",
+                "definition_hebrew": "בצילום או בעיבוד תמונה, בעל ערך בהירות גדול משחור (0).",
+                "example": "Positive exposure in a photograph means there's enough light to capture the scene without overexposure.",
+                "example_hebrew": "חשיפה חיובית בצילום פירושה שיש מספיק אור כדי ללכוד את הסצנה ללא חשיפת יתר."
+            }
+        ]
+    }
+]

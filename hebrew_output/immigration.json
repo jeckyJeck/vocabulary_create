@@ -1,0 +1,34 @@
+[
+    {
+        "word": "immigration",
+        "word_hebrew": "עלייה",
+        "main_definition": "The act of moving to a new country with the intent to settle there permanently.",
+        "main_definition_hebrew": "מעשה המעבר לארץ חדשה מתוך כוונה להתיישב בה לצמיתות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The process and conditions under which people move into a foreign country to live.",
+                "definition_hebrew": "התהליך והתנאים שבהם אנשים עוברים למדינה זרה כדי לחיות.",
+                "example": "John immigrated from Mexico to Canada in search of better job opportunities.",
+                "example_hebrew": "ג'ון היגר ממקסיקו לקנדה בחיפוש אחר הזדמנויות עבודה טובות יותר."
+            },
+            {
+                "definition": "A policy or law concerning the management and regulation of people entering a country.",
+                "definition_hebrew": "מדיניות או חוק הנוגעים לניהול והסדרה של אנשים הנכנסים למדינה.",
+                "example": "The government implemented strict immigration policies to control the number of foreigners allowed entry.",
+                "example_hebrew": "הממשלה יישמה מדיניות הגירה קפדנית כדי לשלוט במספר הזרים המותרים לכניסה."
+            },
+            {
+                "definition": "Refugees fleeing their home countries due to conflict, persecution, or other hardships seeking asylum in another country.",
+                "definition_hebrew": "פליטים הבורחים ממדינות מוצאם עקב סכסוך, רדיפה או קשיים אחרים המבקשים מקלט במדינה אחרת.",
+                "example": "A Syrian family sought refuge and immigration in Germany after escaping the war-torn conditions at home.",
+                "example_hebrew": "משפחה סורית חיפשה מקלט והגירה בגרמניה לאחר שנמלטה מתנאי המלחמה בבית."
+            },
+            {
+                "definition": "The cultural impact of a significant number of people from one culture moving into an area dominated by another culture.",
+                "definition_hebrew": "ההשפעה התרבותית של מספר לא מבוטל של אנשים מתרבות אחת העוברים לאזור שנשלט על ידי תרבות אחרת.",
+                "example": "The influx of Indian immigrants has greatly influenced the local cuisine and festivals in London.",
+                "example_hebrew": "זרם המהגרים ההודיים השפיע רבות על המטבח המקומי והפסטיבלים בלונדון."
+            }
+        ]
+    }
+]

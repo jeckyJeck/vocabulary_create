@@ -1,0 +1,46 @@
+[
+    {
+        "word": "intermediate",
+        "word_hebrew": "ביניים",
+        "main_definition": "A level or stage that is between two extremes, often used to describe a degree of proficiency or complexity.",
+        "main_definition_hebrew": "רמה או שלב שנמצאים בין שני קצוות, המשמשים לרוב לתיאור מידה של בקיאות או מורכבות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In terms of skill or knowledge, it refers to an intermediate level where the person has more experience than beginner but not as much as advanced.",
+                "definition_hebrew": "במונחים של מיומנות או ידע, זה מתייחס לרמת ביניים שבה לאדם יש יותר ניסיון מאשר למתחילים, אבל לא כמו מתקדם.",
+                "example": "After completing a few years of practice, she is now considered an intermediate-level pianist.",
+                "example_hebrew": "לאחר שסיימה כמה שנים של תרגול, היא נחשבת כיום לפסנתרנית ברמה בינונית."
+            },
+            {
+                "definition": "In education and learning, it denotes a stage in between elementary or basic level and higher education where the learner has gained some foundational knowledge.",
+                "definition_hebrew": "בחינוך ובלמידה, זה מציין שלב בין רמה יסודית או בסיסית לבין השכלה גבוהה שבו הלומד צבר ידע בסיסי.",
+                "example": "The program caters to students who have completed high school but are not yet ready for college-level courses.",
+                "example_hebrew": "התכנית פונה לסטודנטים שסיימו תיכון אך עדיין לא מוכנים לקורסים ברמת המכללה."
+            },
+            {
+                "definition": "In sports, it indicates a competition tier that is less competitive than elite or professional levels, often involving recreational players.",
+                "definition_hebrew": "בספורט, זה מצביע על דרג תחרותי פחות תחרותי מרמות עילית או מקצועיות, לעתים קרובות מעורבים שחקני פנאי.",
+                "example": "The community soccer league has different divisions including intermediate level games where adults can play together with kids.",
+                "example_hebrew": "בליגת הכדורגל הקהילתית יש חטיבות שונות כולל משחקים ברמה בינונית שבהם מבוגרים יכולים לשחק יחד עם ילדים."
+            },
+            {
+                "definition": "In computer science and technology, it refers to a stage in which users have developed basic understanding but still need more practice or learning.",
+                "definition_hebrew": "במדעי המחשב והטכנולוגיה, זה מתייחס לשלב שבו משתמשים פיתחו הבנה בסיסית אך עדיין זקוקים ליותר תרגול או למידה.",
+                "example": "He is proficient with computers, having moved past the beginner phase into intermediate level where he can navigate software with ease.",
+                "example_hebrew": "הוא בקיא במחשבים, לאחר שעבר את שלב המתחילים לרמת ביניים שבה הוא יכול לנווט בתוכנה בקלות."
+            },
+            {
+                "definition": "In geography and travel, it suggests a moderate difficulty of hiking trails that are neither easy nor strenuous.",
+                "definition_hebrew": "בגיאוגרפיה ובטיולים, זה מרמז על קושי בינוני של מסלולי הליכה שאינם קלים ואינם מפרכים.",
+                "example": "The hike was rated as an intermediate trail because it involved steep sections but no technical climbing.",
+                "example_hebrew": "הטיול דורג כשביל ביניים מכיוון שהוא כלל קטעים תלולים אך ללא טיפוס טכני."
+            },
+            {
+                "definition": "In cooking, it implies a recipe or technique level that requires some skill and knowledge beyond basic dishes.",
+                "definition_hebrew": "בבישול, זה מרמז על רמת מתכון או טכניקה שדורשת קצת מיומנות וידע מעבר למנות בסיסיות.",
+                "example": "Making homemade pasta from scratch is considered an intermediate culinary task for home chefs.",
+                "example_hebrew": "הכנת פסטה ביתית מאפס נחשבת למשימה קולינרית ביניים עבור שפים ביתיים."
+            }
+        ]
+    }
+]

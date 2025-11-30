@@ -1,0 +1,34 @@
+[
+    {
+        "word": "destroyed",
+        "word_hebrew": "נהרס",
+        "main_definition": "To cause severe damage or ruin to something, making it unusable or unrepairable.",
+        "main_definition_hebrew": "לגרום נזק חמור או הרס למשהו, מה שהופך אותו לבלתי שמיש או לתיקון.",
+        "meanings_and_examples": [
+            {
+                "definition": "To completely ruin or spoil the condition of something.",
+                "definition_hebrew": "להרוס לחלוטין או לקלקל את מצבו של משהו.",
+                "example": "The heavy rain destroyed the outdoor furniture.",
+                "example_hebrew": "הגשם הרב הרס את ריהוט החוץ."
+            },
+            {
+                "definition": "To severely damage an object so that it cannot perform its intended function anymore.",
+                "definition_hebrew": "פגיעה חמורה בחפץ כך שלא יוכל לבצע יותר את תפקידו המיועד.",
+                "example": "A massive fire destroyed his entire house, leaving nothing but rubble behind.",
+                "example_hebrew": "שריפה אדירה הרסה את כל ביתו, ולא השאירה מאחור דבר מלבד הריסות."
+            },
+            {
+                "definition": "In a figurative sense, to cause someone's life or reputation to suffer greatly.",
+                "definition_hebrew": "במובן פיגורטיבי, לגרום לחייו או למוניטין של מישהו לסבול מאוד.",
+                "example": "The scandal destroyed her chances of being elected as the mayor.",
+                "example_hebrew": "השערורייה הרסה את סיכוייה להיבחר לראשות העיר."
+            },
+            {
+                "definition": "To eliminate or eradicate something completely and irreversibly, often in an ecological context.",
+                "definition_hebrew": "לחסל או למגר משהו באופן מוחלט ובלתי הפיך, לרוב בהקשר אקולוגי.",
+                "example": "Deforestation has destroyed many habitats for wildlife.",
+                "example_hebrew": "כריתת היערות הרסה בתי גידול רבים לחיות בר."
+            }
+        ]
+    }
+]

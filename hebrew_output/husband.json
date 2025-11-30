@@ -1,0 +1,28 @@
+[
+    {
+        "word": "husband",
+        "word_hebrew": "בַּעַל",
+        "main_definition": "A husband is a married man in relation to his spouse.",
+        "main_definition_hebrew": "בעל הוא גבר נשוי ביחס לבן זוגו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Spouse of a woman",
+                "definition_hebrew": "בן זוג של אישה",
+                "example": "John has been happily married to his wife, Mary, for 10 years.",
+                "example_hebrew": "ג'ון נשוי באושר לאשתו, מרי, כבר 10 שנים."
+            },
+            {
+                "definition": "Head of the family unit in some cultures",
+                "definition_hebrew": "ראש תא משפחתי בחלק מהתרבויות",
+                "example": "In many traditional societies, the husband is seen as the provider and protector of his family.",
+                "example_hebrew": "בחברות מסורתיות רבות, הבעל נתפס כמפרנס ומגן של משפחתו."
+            },
+            {
+                "definition": "Partner responsible for supporting a spouse financially and emotionally",
+                "definition_hebrew": "שותף אחראי על תמיכה כלכלית ורגשית בבן הזוג",
+                "example": "As a supportive husband, David ensures that he contributes to their household expenses and provides emotional comfort to his wife during tough times.",
+                "example_hebrew": "כבעל תומך, דויד מבטיח שהוא יתרום להוצאות הבית שלהם ומעניק נחמה רגשית לאשתו בזמנים קשים."
+            }
+        ]
+    }
+]

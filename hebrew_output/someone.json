@@ -1,0 +1,34 @@
+[
+    {
+        "word": "someone",
+        "word_hebrew": "מִישֶׁהוּ",
+        "main_definition": "A person in general, without specifying a particular individual.",
+        "main_definition_hebrew": "אדם באופן כללי, מבלי לציין פרט מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Any person at all; an unspecified or unknown person.",
+                "definition_hebrew": "כל אדם בכלל; אדם לא מוגדר או לא ידוע.",
+                "example": "When you ask 'Who can help me?', the answer could be 'someone'.",
+                "example_hebrew": "כשאתה שואל 'מי יכול לעזור לי?', התשובה יכולה להיות 'מישהו'."
+            },
+            {
+                "definition": "A specific, but unidentified individual within a broader group or category.",
+                "definition_hebrew": "אדם ספציפי אך לא מזוהה בתוך קבוצה או קטגוריה רחבה יותר.",
+                "example": "When talking about team members, you might say 'someone' instead of naming everyone on the list.",
+                "example_hebrew": "כשמדברים על חברי צוות, אולי תגידו 'מישהו' במקום לתת שם לכל מי שברשימה."
+            },
+            {
+                "definition": "A person who is not currently being directly addressed or known to the speaker in a conversation.",
+                "definition_hebrew": "אדם שכרגע אינו פונה ישירות או מוכר לדובר בשיחה.",
+                "example": "'Who are you?' - 'Someone' as an informal way of answering that question without revealing identity.",
+                "example_hebrew": "'מי אתה?' - 'מישהו' כדרך לא רשמית לענות על השאלה הזו מבלי לחשוף זהות."
+            },
+            {
+                "definition": "A person who is a potential candidate for something or someone in need of help, especially when not specified.",
+                "definition_hebrew": "אדם שהוא מועמד פוטנציאלי למשהו או מישהו הזקוק לעזרה, במיוחד כשלא מצוין.",
+                "example": "'Someone' will respond to your ad offering the chance to assist with whatever issue you are posting about.",
+                "example_hebrew": "'מישהו' יגיב למודעה שלך ויציע לך הזדמנות לסייע בכל נושא שאתה מפרסם לגביו."
+            }
+        ]
+    }
+]

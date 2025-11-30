@@ -1,0 +1,40 @@
+[
+    {
+        "word": "secure",
+        "word_hebrew": "לבטח",
+        "main_definition": "To make or become safe from danger, loss, or injury; to ensure protection or stability.",
+        "main_definition_hebrew": "כדי להפוך או להיות בטוח מפני סכנה, אובדן או פציעה; כדי להבטיח הגנה או יציבות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To safeguard against theft or damage",
+                "definition_hebrew": "כדי להגן מפני גניבה או נזק",
+                "example": "I always lock my door and windows to secure my house.",
+                "example_hebrew": "אני תמיד נועל את הדלת והחלונות שלי כדי לאבטח את הבית שלי."
+            },
+            {
+                "definition": "To ensure confidence, certainty, or reliability",
+                "definition_hebrew": "כדי להבטיח ביטחון, ודאות או מהימנות",
+                "example": "We need to secure our data by using strong passwords and encryption methods.",
+                "example_hebrew": "אנחנו צריכים לאבטח את הנתונים שלנו באמצעות סיסמאות חזקות ושיטות הצפנה."
+            },
+            {
+                "definition": "To support or stabilize an object or structure",
+                "definition_hebrew": "לתמוך או לייצב חפץ או מבנה",
+                "example": "The pillars of the bridge were reinforced to secure its stability during earthquakes.",
+                "example_hebrew": "עמודי הגשר חוזקו כדי להבטיח את יציבותו בעת רעידות אדמה."
+            },
+            {
+                "definition": "In finance, to guarantee payment on a loan or debt",
+                "definition_hebrew": "בפיננסים, להבטיח תשלום על הלוואה או חוב",
+                "example": "He offered his house as collateral to secure the bank loan for his business.",
+                "example_hebrew": "הוא הציע את ביתו כערובה להבטחת ההלוואה הבנקאית לעסק שלו."
+            },
+            {
+                "definition": "To hold something firmly in place",
+                "definition_hebrew": "להחזיק משהו במקומו בחוזקה",
+                "example": "Please make sure the jewelry is secure before you leave it on display.",
+                "example_hebrew": "אנא ודא שהתכשיט מאובטח לפני שאתה משאיר אותם בתצוגה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "laboratories",
+        "word_hebrew": "מעבדות",
+        "main_definition": "Laboratories are facilities or rooms where scientific experiments, tests, or research is conducted under controlled conditions.",
+        "main_definition_hebrew": "מעבדות הן מתקנים או חדרים שבהם נערכים ניסויים, בדיקות או מחקר מדעיים בתנאים מבוקרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A place for conducting chemical and biological experiments",
+                "definition_hebrew": "מקום לעריכת ניסויים כימיים וביולוגיים",
+                "example": "The pharmaceutical company's laboratories were equipped with advanced technology to test new drug formulations.",
+                "example_hebrew": "מעבדות חברת התרופות צוידו בטכנולוגיה מתקדמת לבדיקת פורמולציות תרופות חדשות."
+            },
+            {
+                "definition": "An environment where scientific research takes place",
+                "definition_hebrew": "סביבה שבה מתקיים מחקר מדעי",
+                "example": "The university's physics department collaborated closely with its state-of-the-art laboratories for groundbreaking experiments on quantum mechanics.",
+                "example_hebrew": "המחלקה לפיזיקה של האוניברסיטה שיתפה פעולה הדוק עם המעבדות המתקדמות שלה לניסויים פורצי דרך במכניקת הקוונטים."
+            },
+            {
+                "definition": "A setting where various tests and analyses are performed to gather data or results",
+                "definition_hebrew": "הגדרה שבה מבוצעות בדיקות וניתוחים שונים כדי לאסוף נתונים או תוצאות",
+                "example": "The food safety laboratory conducted multiple tests on the sample to ensure its compliance with health regulations.",
+                "example_hebrew": "המעבדה לבטיחות מזון ערכה בדיקות מרובות לדגימה כדי להבטיח את עמידתה בתקנות הבריאות."
+            },
+            {
+                "definition": "Offices of a research institution, often equipped with specialized tools and machinery for scientific investigation",
+                "definition_hebrew": "משרדים של מוסד מחקר, מצוידים לרוב בכלים ומכונות מיוחדות לחקירה מדעית",
+                "example": "The environmental research laboratories studied air samples using complex instrumentation to measure pollution levels.",
+                "example_hebrew": "מעבדות המחקר הסביבתי חקרו דגימות אוויר באמצעות מכשור מורכב למדידת רמות הזיהום."
+            }
+        ]
+    }
+]

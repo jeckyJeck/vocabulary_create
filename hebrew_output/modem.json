@@ -1,0 +1,28 @@
+[
+    {
+        "word": "modem",
+        "word_hebrew": "מוֹדֶם",
+        "main_definition": "A modem is a device that connects computer systems to the internet or other remote networks, typically by converting digital data into analog signals for transmission over telephone lines.",
+        "main_definition_hebrew": "מודם הוא מכשיר המחבר מערכות מחשב לאינטרנט או לרשתות מרוחקות אחרות, בדרך כלל על ידי המרת נתונים דיגיטליים לאותות אנלוגיים לשידור דרך קווי טלפון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Technical term in telecommunications",
+                "definition_hebrew": "מונח טכני בתקשורת",
+                "example": "The modem allowed me to connect my computer to the internet.",
+                "example_hebrew": "המודם אפשר לי לחבר את המחשב שלי לאינטרנט."
+            },
+            {
+                "definition": "Device that modulates and demodulates signals for communication purposes",
+                "definition_hebrew": "מכשיר המווסת ומפרקת אותות למטרות תקשורת",
+                "example": "When I want to access the online world, I need a modem to convert digital data into analog form.",
+                "example_hebrew": "כשאני רוצה לגשת לעולם המקוון, אני צריך מודם כדי להמיר נתונים דיגיטליים לצורה אנלוגית."
+            },
+            {
+                "definition": "An older term for 'modulator-demodulator' (modem)",
+                "definition_hebrew": "מונח ישן יותר ל'מודן-מאפנן' (מודם)",
+                "example": "In the 1980s, everyone had a dial-up connection with their computer using a modem.",
+                "example_hebrew": "בשנות ה-80, לכולם היה חיבור בחיוג עם המחשב שלו באמצעות מודם."
+            }
+        ]
+    }
+]

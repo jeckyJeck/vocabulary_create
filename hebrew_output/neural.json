@@ -1,0 +1,28 @@
+[
+    {
+        "word": "neural",
+        "word_hebrew": "עֲצַבִּי",
+        "main_definition": "Relating to the nerves or neural system in the body, especially those of animals.",
+        "main_definition_hebrew": "קשור לעצבים או למערכת העצבית בגוף, במיוחד לאלה של בעלי חיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Concerning the nervous system and its functioning",
+                "definition_hebrew": "לגבי מערכת העצבים ותפקודה",
+                "example": "Neural responses were observed when the subject was exposed to various stimuli.",
+                "example_hebrew": "תגובות עצביות נצפו כאשר הנבדק נחשף לגירויים שונים."
+            },
+            {
+                "definition": "Pertaining to neurons, which are the basic building blocks of the brain and nervous system",
+                "definition_hebrew": "הנוגע לנוירונים, שהם אבני הבניין הבסיסיות של המוח ומערכת העצבים",
+                "example": "The neural network in his brain allowed him to process complex information quickly.",
+                "example_hebrew": "הרשת העצבית במוחו אפשרה לו לעבד מידע מורכב במהירות."
+            },
+            {
+                "definition": "Involving or relating to artificial intelligence systems that mimic human brains and nervous systems",
+                "definition_hebrew": "מעורבות או קשורה למערכות בינה מלאכותית המחקות את המוח האנושי ואת מערכות העצבים",
+                "example": "Neural networks are being used by researchers to develop more advanced AI models.",
+                "example_hebrew": "רשתות עצביות נמצאות בשימוש על ידי חוקרים לפיתוח מודלים מתקדמים יותר של AI."
+            }
+        ]
+    }
+]

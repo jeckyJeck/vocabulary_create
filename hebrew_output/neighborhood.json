@@ -1,0 +1,34 @@
+[
+    {
+        "word": "neighborhood",
+        "word_hebrew": "שְׁכוּנָה",
+        "main_definition": "A neighborhood refers to a geographical area or locality within a city, town, or suburb where people live in close proximity to one another, often sharing common amenities and social interactions.",
+        "main_definition_hebrew": "שכונה מתייחסת לאזור גיאוגרפי או ליישוב בתוך עיר, עיירה או פרבר, שבהם אנשים חיים בסמיכות זה לזה, ולעתים קרובות חולקים שירותים משותפים ואינטראקציות חברתיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "An area surrounding a person's home",
+                "definition_hebrew": "אזור המקיף את ביתו של אדם",
+                "example": "John lives in the same neighborhood as Sarah. They are just a few blocks apart.",
+                "example_hebrew": "ג'ון גר באותה שכונה כמו שרה. הם רק כמה רחובות זה מזה."
+            },
+            {
+                "definition": "A community of residents living near each other",
+                "definition_hebrew": "קהילה של תושבים המתגוררים זה ליד זה",
+                "example": "The annual block party brought together all the families from our neighborhood for an evening of fun and socializing.",
+                "example_hebrew": "מסיבת הבלוק השנתית ריכזה את כל המשפחות מהשכונה שלנו לערב של כיף וחברות."
+            },
+            {
+                "definition": "An area designated by city planning or zoning regulations",
+                "definition_hebrew": "אזור המיועד בתקנות תכנון עיר או ייעוד",
+                "example": "The new shopping mall was built within the boundaries of Maplewood Neighborhood, as per the city's urban development plan.",
+                "example_hebrew": "הקניון החדש נבנה בגבולות שכונת מייפלווד, בהתאם לתוכנית הפיתוח העירונית של העיר."
+            },
+            {
+                "definition": "A group of houses and streets with a shared identity",
+                "definition_hebrew": "קבוצת בתים ורחובות בעלי זהות משותפת",
+                "example": "Maple Street is known for its tree-lined sidewalks and Victorian-style homes that give it a distinct neighborhood character.",
+                "example_hebrew": "רחוב מייפל ידוע במדרכות עטורות העצים ובבתים בסגנון ויקטוריאני המעניקים לו אופי שכונתי מובהק."
+            }
+        ]
+    }
+]

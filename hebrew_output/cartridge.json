@@ -1,0 +1,34 @@
+[
+    {
+        "word": "cartridge",
+        "word_hebrew": "מַחסָנִית",
+        "main_definition": "A container holding bullets, pellets, or ink used for shooting, firing, or printing.",
+        "main_definition_hebrew": "מיכל המכיל כדורים, כדורים או דיו המשמשים לירי, ירי או הדפסה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A component of a firearm that holds ammunition and is inserted into the gun's chamber.",
+                "definition_hebrew": "רכיב של כלי ירייה המחזיק תחמושת ומוכנס לחדר האקדח.",
+                "example": "He loaded the cartridge with precision before aiming at his target.",
+                "example_hebrew": "הוא טען את המחסנית בדיוק לפני שכיוון למטרה שלו."
+            },
+            {
+                "definition": "The printed paper or plastic sheet inside a printer, containing ink for producing text or images.",
+                "definition_hebrew": "הנייר או הפלסטיק המודפס בתוך מדפסת, המכיל דיו להפקת טקסט או תמונות.",
+                "example": "After replacing the empty cartridges, the printer resumed printing documents without any issues.",
+                "example_hebrew": "לאחר החלפת המחסניות הריקות, המדפסת חידשה את הדפסת המסמכים ללא בעיות."
+            },
+            {
+                "definition": "A unit of measure for electric current used mainly to describe the power capacity of batteries and other devices.",
+                "definition_hebrew": "יחידת מידה לזרם חשמלי המשמשת בעיקר לתיאור קיבולת ההספק של סוללות והתקנים אחרים.",
+                "example": "The device's specifications mentioned a 1500mAh cartridge, indicating its energy storage capability.",
+                "example_hebrew": "מפרטי המכשיר הזכירו מחסנית של 1500mAh, המעידה על יכולת אחסון האנרגיה שלו."
+            },
+            {
+                "definition": "A small container holding ink or paint used for various artistic applications such as drawing, painting, and printing.",
+                "definition_hebrew": "מיכל קטן המכיל דיו או צבע המשמש ליישומים אמנותיים שונים כגון ציור, ציור והדפסה.",
+                "example": "The artist refilled the cartridge with vibrant colors to continue her masterpiece on canvas.",
+                "example_hebrew": "האמנית מילאה מחדש את המחסנית בצבעים מרהיבים כדי להמשיך את יצירת המופת שלה על קנבס."
+            }
+        ]
+    }
+]

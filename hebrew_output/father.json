@@ -1,0 +1,34 @@
+[
+    {
+        "word": "father",
+        "word_hebrew": "אַבָּא",
+        "main_definition": "A male parent who is responsible for the care, nurturing, and guidance of his children.",
+        "main_definition_hebrew": "הורה זכר שאחראי לטיפול, טיפוח והדרכת ילדיו.",
+        "meanings_and_examples": [
+            {
+                "definition": "The biological parent or male guardian of a child.",
+                "definition_hebrew": "ההורה הביולוגי או האפוטרופוס הגברי של ילד.",
+                "example": "John's father works as an engineer.",
+                "example_hebrew": "אביו של ג'ון עובד כמהנדס."
+            },
+            {
+                "definition": "A figure representing authority, protection, and support in various contexts, often used metaphorically.",
+                "definition_hebrew": "דמות המייצגת סמכות, הגנה ותמיכה בהקשרים שונים, משמשת לעתים קרובות באופן מטפורי.",
+                "example": "He is the father of innovation within his company.",
+                "example_hebrew": "הוא אבי החדשנות בחברה שלו."
+            },
+            {
+                "definition": "An idiomatic expression indicating a source or origin of something, typically referring to one's ancestry.",
+                "definition_hebrew": "ביטוי אידיומטי המציין מקור או מקור של משהו, המתייחס בדרך כלל למוצאו של האדם.",
+                "example": "This tradition has been passed down from my father.",
+                "example_hebrew": "מסורת זו הועברה מאבי."
+            },
+            {
+                "definition": "In some languages and dialects, 'father' is used as a term for older male relatives who play significant roles in family life but are not the biological parents of one's children.",
+                "definition_hebrew": "בשפות ובדיאלקטים מסוימים, 'אבא' משמש כינוי לקרובים גברים מבוגרים הממלאים תפקידים משמעותיים בחיי המשפחה אך אינם ההורים הביולוגיים של ילדיו.",
+                "example": "Uncle Tom is like my father; he raised me when I was young.",
+                "example_hebrew": "דוד תום הוא כמו אבא שלי; הוא גידל אותי כשהייתי צעיר."
+            }
+        ]
+    }
+]

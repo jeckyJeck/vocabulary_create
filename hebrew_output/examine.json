@@ -1,0 +1,34 @@
+[
+    {
+        "word": "examine",
+        "word_hebrew": "לִבחוֹן",
+        "main_definition": "To inspect or scrutinize closely in order to understand, evaluate, or determine its nature or quality.",
+        "main_definition_hebrew": "לבדוק או לבחון מקרוב על מנת להבין, להעריך או לקבוע את טיבו או איכותו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To look at something carefully and thoroughly to gain information about it.",
+                "definition_hebrew": "להסתכל על משהו בזהירות וביסודיות כדי לקבל מידע עליו.",
+                "example": "The detective decided to examine the crime scene for any clues.",
+                "example_hebrew": "הבלש החליט לבדוק את זירת הפשע לאיתור רמזים כלשהם."
+            },
+            {
+                "definition": "To study or inspect with careful attention, typically in a formal or academic context.",
+                "definition_hebrew": "ללמוד או לבדוק בתשומת לב קפדנית, בדרך כלל בהקשר רשמי או אקדמי.",
+                "example": "Students were asked to examine different types of plants and their structures during biology class.",
+                "example_hebrew": "התלמידים התבקשו לבחון סוגים שונים של צמחים ואת המבנים שלהם במהלך שיעור ביולוגיה."
+            },
+            {
+                "definition": "To review something critically to assess its value or authenticity, especially when questioning its validity or truth.",
+                "definition_hebrew": "לסקור משהו באופן ביקורתי כדי להעריך את ערכו או האותנטיות שלו, במיוחד כשמטילים ספק בתקפותו או באמיתותו.",
+                "example": "The historian examined the ancient manuscripts to determine if they were genuine.",
+                "example_hebrew": "ההיסטוריון בחן את כתבי היד העתיקים כדי לקבוע אם הם אמיתיים."
+            },
+            {
+                "definition": "In a medical context, to physically inspect an area of the body for signs of health or disease.",
+                "definition_hebrew": "בהקשר רפואי, לבדוק פיזית אזור בגוף לאיתור סימני בריאות או מחלה.",
+                "example": "The doctor will examine your knee and check for any signs of injury.",
+                "example_hebrew": "הרופא יבדוק את הברך שלך ויבדוק אם יש סימני פציעה."
+            }
+        ]
+    }
+]

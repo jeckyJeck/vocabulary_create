@@ -1,0 +1,40 @@
+[
+    {
+        "word": "fuzzy",
+        "word_hebrew": "מְעוּרפָּל",
+        "main_definition": "Fuzzy describes something that is not clear, sharp, or distinct; it often refers to images with low resolution or ambiguity.",
+        "main_definition_hebrew": "מטושטש מתאר משהו שאינו ברור, חד או מובחן; לעתים קרובות זה מתייחס לתמונות עם רזולוציה נמוכה או עמימות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not clearly defined or understood",
+                "definition_hebrew": "לא מוגדר או מובן בבירור",
+                "example": "When I first heard the term 'quantum entanglement', my head was spinning and everything seemed fuzzy.",
+                "example_hebrew": "כששמעתי לראשונה את המונח 'הסתבכות קוונטית', הראש שלי הסתחרר והכל נראה מעורפל."
+            },
+            {
+                "definition": "Having a texture that is soft, fluffy, and not sharply textured",
+                "definition_hebrew": "בעל מרקם רך, אוורירי, ובעל מרקם לא חד",
+                "example": "The cat's fur looked particularly fuzzy after it had spent the day grooming itself in the sunshine.",
+                "example_hebrew": "פרוות החתול נראתה מטושטשת במיוחד לאחר שבילה את היום בטיפוח עצמו בשמש."
+            },
+            {
+                "definition": "Vague or unclear; lacking precision or definiteness",
+                "definition_hebrew": "מעורפל או לא ברור; חסר דיוק או הגדרה",
+                "example": "The instructions for assembling the furniture were so vague that they left a lot of room for interpretation, making them seem fuzzy.",
+                "example_hebrew": "ההוראות להרכבת הרהיטים היו כה מעורפלות שהן השאירו מקום רב לפרשנות, מה שגרם להן להיראות מטושטשות."
+            },
+            {
+                "definition": "Inexact or not precise",
+                "definition_hebrew": "לא מדויק או לא מדויק",
+                "example": "When describing complex mathematical concepts, sometimes terms can become fuzzy as the explanation gets more abstract.",
+                "example_hebrew": "כאשר מתארים מושגים מתמטיים מורכבים, לפעמים מונחים יכולים להיות מטושטשים ככל שההסבר נעשה מופשט יותר."
+            },
+            {
+                "definition": "Relating to a feeling of being unsettled or confused",
+                "definition_hebrew": "מתייחס לתחושה של חוסר נוחות או מבולבל",
+                "example": "After hearing conflicting reports about the event, I was left with a fuzzy understanding and couldn't piece together what actually happened.",
+                "example_hebrew": "לאחר ששמעתי דיווחים סותרים על האירוע, נותרתי עם הבנה מעורפלת ולא יכולתי לחבר מה קרה בפועל."
+            }
+        ]
+    }
+]

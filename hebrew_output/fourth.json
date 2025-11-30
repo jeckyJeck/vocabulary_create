@@ -1,0 +1,34 @@
+[
+    {
+        "word": "fourth",
+        "word_hebrew": "רביעי",
+        "main_definition": "The ordinal number indicating the position following third, often used in various contexts including time, ranking, or measurements.",
+        "main_definition_hebrew": "המספר הסידורי המציין את המיקום שלאחר השלישי, משמש לעתים קרובות בהקשרים שונים כולל זמן, דירוג או מדידות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A fraction representing one-quarter of a whole, equivalent to 1/4",
+                "definition_hebrew": "שבר המייצג רבע מהשלם, שווה ערך ל-1/4",
+                "example": "If you cut an apple into four equal parts, each part is called a fourth.",
+                "example_hebrew": "אם חותכים תפוח לארבעה חלקים שווים, כל חלק נקרא רביעי."
+            },
+            {
+                "definition": "The position following third in a sequence or ranking",
+                "definition_hebrew": "המיקום הבא במקום השלישי ברצף או בדירוג",
+                "example": "She finished the marathon in fourth place.",
+                "example_hebrew": "היא סיימה את המרתון במקום הרביעי."
+            },
+            {
+                "definition": "A segment of time that follows immediately after the third hour, typically referring to the period from 3:00 PM to 4:59 PM",
+                "definition_hebrew": "קטע זמן שמגיע מיד לאחר השעה השלישית, מתייחס בדרך כלל לתקופה מ-15:00 עד 16:59",
+                "example": "The meeting is scheduled for 2:00 PM, but I have a fourth-hour appointment right before.",
+                "example_hebrew": "הפגישה מתוכננת לשעה 14:00, אבל יש לי תור לשעה רביעית ממש לפני."
+            },
+            {
+                "definition": "A term used in publishing to refer to the fourth issue of a publication, such as magazine or newsletter",
+                "definition_hebrew": "מונח המשמש בפרסום כדי להתייחס לגיליון הרביעי של הוצאה לאור, כגון מגזין או ניוזלטר",
+                "example": "This month's 'Fourth Edition' includes some updated information on climate change.",
+                "example_hebrew": "'המהדורה הרביעית' של החודש כוללת מידע מעודכן על שינויי אקלים."
+            }
+        ]
+    }
+]

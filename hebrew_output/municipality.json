@@ -1,0 +1,34 @@
+[
+    {
+        "word": "municipality",
+        "word_hebrew": "עִירִיָה",
+        "main_definition": "A municipality is a city, town, or other district that has its own local government to manage services such as water supply, waste management, roads, and public transportation.",
+        "main_definition_hebrew": "עירייה היא עיר, עיירה או מחוז אחר שיש לה שלטון מקומי משלה לניהול שירותים כגון אספקת מים, ניהול פסולת, כבישים ותחבורה ציבורית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Local administrative division",
+                "definition_hebrew": "חלוקה מינהלית מקומית",
+                "example": "The municipality of Springfield is responsible for managing the city's parks, libraries, and police department.",
+                "example_hebrew": "עיריית ספרינגפילד אחראית על ניהול הפארקים, הספריות ומחלקת המשטרה של העיר."
+            },
+            {
+                "definition": "A civil or urban local government body",
+                "definition_hebrew": "גוף שלטון מקומי אזרחי או עירוני",
+                "example": "The municipal council elects a mayor to oversee the day-to-day operations within the municipality.",
+                "example_hebrew": "מועצת העירייה בוחרת ראש עיר שיפקח על הפעילות השוטפת בתוך העירייה."
+            },
+            {
+                "definition": "An area of land under the jurisdiction of a municipal authority",
+                "definition_hebrew": "שטח קרקע בסמכותה של רשות עירונית",
+                "example": "Residents are required to pay property taxes directly to their local municipality for services provided in their neighborhood.",
+                "example_hebrew": "התושבים נדרשים לשלם ארנונה ישירות לעירייתם המקומית עבור שירותים הניתנים בשכונתם."
+            },
+            {
+                "definition": "A political subdivision with its own government, typically responsible for providing public services to residents within the area it governs",
+                "definition_hebrew": "תת מחלקה פוליטית עם ממשלה משלה, אחראית בדרך כלל על מתן שירותים ציבוריים לתושבים באזור שהיא שולטת בה",
+                "example": "The Municipality of Toronto handles city planning and infrastructure development while also overseeing cultural events.",
+                "example_hebrew": "עיריית טורונטו מטפלת בתכנון עיר ופיתוח תשתיות תוך פיקוח על אירועי תרבות."
+            }
+        ]
+    }
+]

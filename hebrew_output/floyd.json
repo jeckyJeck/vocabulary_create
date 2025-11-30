@@ -1,0 +1,34 @@
+[
+    {
+        "word": "floyd",
+        "word_hebrew": "פלויד",
+        "main_definition": "A common name that can refer to a person's first or last name, as well as an idiomatic term related to the 'Floyd loop', which is a programming concept in computer science.",
+        "main_definition_hebrew": "שם נפוץ שיכול להתייחס לשם הפרטי או שם המשפחה של אדם, כמו גם מונח אידיומטי הקשור ל'לולאת פלויד', שהיא מושג תכנות במדעי המחשב.",
+        "meanings_and_examples": [
+            {
+                "definition": "Last name",
+                "definition_hebrew": "שם משפחה",
+                "example": "In popular culture, Floyd refers to Edward Floyd, a character from the British TV show 'The Sopranos'.",
+                "example_hebrew": "בתרבות הפופולרית, פלויד מתייחס לאדוארד פלויד, דמות מתוכנית הטלוויזיה הבריטית \"הסופרנוס\"."
+            },
+            {
+                "definition": "Floyd loop or infinite loop in programming",
+                "definition_hebrew": "פלויד לולאה או לולאה אינסופית בתכנות",
+                "example": "An example of a Floyd loop is when a program continuously executes a block of code without terminating due to an erroneous condition, like this: while(true) {}",
+                "example_hebrew": "דוגמה ללולאת פלויד היא כאשר תוכנית מבצעת ברציפות גוש קוד מבלי להסתיים עקב מצב שגוי, כמו זה: while(true) {}"
+            },
+            {
+                "definition": "Floyd cycle detection algorithm",
+                "definition_hebrew": "אלגוריתם זיהוי מחזורי פלויד",
+                "example": "'Floyd's Tortoise and Hare' is an algorithm used in computer science for detecting cycles within a sequence of iterated integers. It uses two pointers, which move at different speeds to find the loop.",
+                "example_hebrew": "'הצב והארנב של פלויד' הוא אלגוריתם המשמש במדעי המחשב לזיהוי מחזורים בתוך רצף של מספרים שלמים חוזרים. הוא משתמש בשני מצביעים, שנעים במהירויות שונות כדי למצוא את הלולאה."
+            },
+            {
+                "definition": "A variation on Fibonacci numbers",
+                "definition_hebrew": "וריאציה על מספרי פיבונאצ'י",
+                "example": "'Floyd's triangle', named after Robert K. Floyd, is a right-angited triangular array of natural numbers where each number is the sum of two numbers above it in the previous row.",
+                "example_hebrew": "'המשולש של פלויד', על שמו של רוברט ק. פלויד, הוא מערך משולש בעל זווית ישרה של מספרים טבעיים כאשר כל מספר הוא סכום של שני מספרים מעליו בשורה הקודמת."
+            }
+        ]
+    }
+]

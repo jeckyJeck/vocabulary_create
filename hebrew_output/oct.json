@@ -1,0 +1,34 @@
+[
+    {
+        "word": "oct",
+        "word_hebrew": "אוקטובר",
+        "main_definition": "Oct is not an idiom but a prefix or abbreviation derived from the Greek word 'okto' which means eight.",
+        "main_definition_hebrew": "אוקטובר אינו ניב אלא קידומת או קיצור שמקורו במילה היוונית 'okto' שפירושה שמונה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Referring to something that has eight parts, elements, or aspects",
+                "definition_hebrew": "הכוונה למשהו שיש לו שמונה חלקים, אלמנטים או היבטים",
+                "example": "Octagonal window",
+                "example_hebrew": "חלון מתומן"
+            },
+            {
+                "definition": "Relating to the number eight in mathematics, measurements, and other fields",
+                "definition_hebrew": "מתייחס למספר שמונה במתמטיקה, מדידות ותחומים אחרים",
+                "example": "An octal number system consists of digits from 0 to 7.",
+                "example_hebrew": "מערכת מספרים אוקטליים מורכבת מספרות מ-0 עד 7."
+            },
+            {
+                "definition": "Describing a mammal with eight limbs, specifically referring to an octopus or similar creatures like octopuses in science and marine biology",
+                "definition_hebrew": "תיאור יונק בעל שמונה גפיים, הכוונה ספציפית לתמנון או ליצורים דומים כמו תמנונים במדע ובביולוגיה ימית",
+                "example": "Octopus is known for its eight arms used for locomotion.",
+                "example_hebrew": "תמנון ידוע בשמונה זרועותיו המשמשות לתנועה."
+            },
+            {
+                "definition": "Refers to the eighth month of the year in some calendars, particularly historical ones that were based on lunar cycles or religious events.",
+                "definition_hebrew": "מתייחס לחודש השמיני בשנה בכמה לוחות שנה, במיוחד אלה היסטוריים שהתבססו על מחזורי ירח או אירועים דתיים.",
+                "example": "In the ancient Roman calendar, October was considered one of the original twelve months.",
+                "example_hebrew": "בלוח הרומי העתיק, אוקטובר נחשב לאחד משנים עשר החודשים המקוריים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "teacher",
+        "word_hebrew": "מוֹרֶה",
+        "main_definition": "A teacher is a person who instructs, guides, and supports students in their learning process.",
+        "main_definition_hebrew": "מורה הוא אדם שמדריך, מדריך ותומך בתלמידים בתהליך הלמידה שלהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "An educator or professional who provides academic instruction to learners at various levels of education",
+                "definition_hebrew": "איש חינוך או איש מקצוע המעניק הדרכה אקדמית ללומדים ברמות השכלה שונות",
+                "example": "Mrs. Johnson is a primary school teacher who teaches math and science to her third-grade students.",
+                "example_hebrew": "גברת ג'ונסון היא מורה בבית ספר יסודי המלמדת מתמטיקה ומדעים לתלמידיה בכיתה ג'."
+            },
+            {
+                "definition": "A mentor or guide who imparts knowledge, wisdom, and skills to help individuals develop personally and professionally",
+                "definition_hebrew": "מנטור או מדריך המקנה ידע, חוכמה ומיומנויות כדי לעזור לאנשים להתפתח באופן אישי ומקצועי",
+                "example": "The life coach serves as a teacher by guiding clients in achieving their personal and career goals.",
+                "example_hebrew": "מאמן החיים משמש כמורה על ידי הדרכת לקוחות בהשגת מטרותיהם האישיות והקריירה."
+            },
+            {
+                "definition": "An individual responsible for delivering instruction and fostering learning in non-formal settings, such as community programs or after-school activities",
+                "definition_hebrew": "אדם האחראי על העברת הוראה וטיפוח למידה במסגרות לא פורמליות, כגון תוכניות קהילתיות או פעילויות לאחר בית הספר",
+                "example": "The local library organizes weekly reading sessions led by volunteer teachers to promote literacy among children.",
+                "example_hebrew": "הספרייה המקומית מארגנת מפגשי קריאה שבועיים בהנחיית מורים מתנדבים לקידום אוריינות בקרב ילדים."
+            },
+            {
+                "definition": "A facilitator of group workshops and training that focuses on skill development, personal growth, or community engagement",
+                "definition_hebrew": "מנחה סדנאות והדרכות קבוצתיות המתמקדות בפיתוח מיומנויות, צמיחה אישית או מעורבות קהילתית",
+                "example": "The non-profit organization conducts a teacher-led leadership program for underprivileged youth to empower them through education.",
+                "example_hebrew": "העמותה מקיימת תכנית מנהיגות מורה לבני נוער מוחלשים כדי להעצים אותם באמצעות חינוך."
+            },
+            {
+                "definition": "A professional who provides specialized instruction and support in specific fields such as art, music, or sports",
+                "definition_hebrew": "איש מקצוע המעניק הדרכה ותמיכה מיוחדים בתחומים ספציפיים כגון אמנות, מוזיקה או ספורט",
+                "example": "The ballet instructor is like a teacher guiding students in mastering dance techniques and choreography.",
+                "example_hebrew": "מדריך הבלט הוא כמו מורה שמנחה תלמידים בשליטה בטכניקות ריקוד ובכוריאוגרפיה."
+            }
+        ]
+    }
+]

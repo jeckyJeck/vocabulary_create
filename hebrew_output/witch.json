@@ -1,0 +1,34 @@
+[
+    {
+        "word": "witch",
+        "word_hebrew": "מְכַשֵׁפָה",
+        "main_definition": "A witch is a person, usually female, who is believed to possess magical powers or practices sorcery.",
+        "main_definition_hebrew": "מכשפה היא אדם, בדרך כלל נקבה, אשר מאמינים כי הוא בעל כוחות מאגיים או נוהג בכישוף.",
+        "meanings_and_examples": [
+            {
+                "definition": "Slang term for an old woman",
+                "definition_hebrew": "כינוי סלנג לאישה זקנה",
+                "example": "She was called 'witch' by the children when she walked down the street.",
+                "example_hebrew": "הילדים קראו לה 'מכשפה' כשהלכה ברחוב."
+            },
+            {
+                "definition": "One who practices magic, sorcery or witchcraft according to folklore and superstition",
+                "definition_hebrew": "כזה שעוסק בקסמים, כישוף או כישוף לפי פולקלור ואמונות טפלות",
+                "example": "'The old woman in our village is a real witch. She can supposedly control the weather.'",
+                "example_hebrew": "״הזקנה בכפר שלנו היא מכשפה אמיתית. היא יכולה כביכול לשלוט במזג האוויר״."
+            },
+            {
+                "definition": "A person accused of practicing evil magic, often associated with harmful or malevolent intentions",
+                "definition_hebrew": "אדם שהואשם בתרגול קסם מרושע, הקשור לרוב בכוונות מזיקות או מרושעות",
+                "example": "'In those days, people were afraid to be alone at night because they believed witches would come and curse them.'",
+                "example_hebrew": "'באותם ימים, אנשים פחדו להיות לבד בלילה כי האמינו שמכשפות יבואו ויקללו אותם'."
+            },
+            {
+                "definition": "A female devil or demon in religious contexts",
+                "definition_hebrew": "שטן או שד נקבה בהקשרים דתיים",
+                "example": "'During the Salem Witch Trials, accused individuals claimed that they had been visited by a witch who was actually a malevolent spirit.'",
+                "example_hebrew": "\"במהלך משפטי המכשפות של סאלם, אנשים נאשמים טענו כי ביקרה אותם מכשפה שהיא למעשה רוח זדונית.\""
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "scheduled",
+        "word_hebrew": "מתוזמן",
+        "main_definition": "Planned or arranged to occur at a specific time or date.",
+        "main_definition_hebrew": "מתוכנן או מסודר להתרחש בשעה או בתאריך ספציפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Related to an event or task that has been set for a particular day and time in advance.",
+                "definition_hebrew": "קשור לאירוע או משימה שנקבעו ליום ושעה מסוימים מראש.",
+                "example": "The meeting is scheduled for 3 PM tomorrow.",
+                "example_hebrew": "המפגש מתוכנן לשעה 15:00 מחר."
+            },
+            {
+                "definition": "Refers to something, like medication or maintenance work, being planned at regular intervals.",
+                "definition_hebrew": "מתייחס למשהו, כמו תרופות או עבודות תחזוקה, המתוכנן במרווחי זמן קבועים.",
+                "example": "My doctor has scheduled my flu vaccine every year on October 1st.",
+                "example_hebrew": "הרופא שלי קבע את חיסון השפעת שלי כל שנה ב-1 באוקטובר."
+            },
+            {
+                "definition": "Describes a transport service that is pre-arranged and operates according to an established timetable.",
+                "definition_hebrew": "מתאר שירות הובלה שנקבע מראש ופועל לפי לוח זמנים שנקבע.",
+                "example": "I have a train ticket, so I'm scheduled to arrive in New York at noon tomorrow.",
+                "example_hebrew": "יש לי כרטיס רכבת, אז אני אמור להגיע מחר בצהריים לניו יורק."
+            },
+            {
+                "definition": "Used informally when something has been planned or organized but not necessarily fixed to the same degree as before.",
+                "definition_hebrew": "משמש באופן לא רשמי כאשר משהו תוכנן או מאורגן אך לא בהכרח תוקן באותה מידה כמו קודם.",
+                "example": "Since we couldn't make it on Saturday, let's see if we can schedule a new time for our get-together.",
+                "example_hebrew": "מכיוון שלא יכולנו להגיע בשבת, בואו נראה אם נוכל לקבוע מועד חדש למפגש שלנו."
+            },
+            {
+                "definition": "Indicates something that has been designated or allotted within an organizational structure or system.",
+                "definition_hebrew": "מציין משהו שהוקצה או הוקצה בתוך מבנה או מערכת ארגונית.",
+                "example": "Our project workload is scheduled among the different teams according to their specialization areas.",
+                "example_hebrew": "עומס העבודה בפרויקט שלנו מתוזמן בין הצוותים השונים בהתאם לתחומי ההתמחות שלהם."
+            }
+        ]
+    }
+]

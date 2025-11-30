@@ -1,0 +1,28 @@
+[
+    {
+        "word": "css",
+        "word_hebrew": "css",
+        "main_definition": "CSS stands for Cascading Style Sheets, a language used to describe the presentation of web pages written in HTML or XML.",
+        "main_definition_hebrew": "CSS ראשי תיבות של Cascading Style Sheets, שפה המשמשת לתיאור הצגת דפי אינטרנט הכתובים ב-HTML או XML.",
+        "meanings_and_examples": [
+            {
+                "definition": "Computer Science and Technology term",
+                "definition_hebrew": "מונח מדעי המחשב והטכנולוגיה",
+                "example": "When creating websites, developers use CSS alongside HTML.",
+                "example_hebrew": "בעת יצירת אתרים, מפתחים משתמשים ב-CSS לצד HTML."
+            },
+            {
+                "definition": "Cascading Style Sheets, a language used to describe the presentation of web pages written in HTML or XML.",
+                "definition_hebrew": "גליונות סגנונות מדורגים, שפה המשמשת לתיאור הצגת דפי אינטרנט הכתובים ב-HTML או XML.",
+                "example": "I need to learn CSS so I can style my website'utimately making it more appealing and user-friendly.",
+                "example_hebrew": "אני צריך ללמוד CSS כדי שאוכל לעצב את האתר שלי כדי להפוך אותו ליותר מושך וידידותי למשתמש."
+            },
+            {
+                "definition": "A popular nickname for someone who is cool, stylish, or fashionable",
+                "definition_hebrew": "כינוי פופולרי למי שהוא מגניב, מסוגנן או אופנתי",
+                "example": "She has a unique sense of style that makes her stand out. She really knows how to put together an awesome 'css' look!",
+                "example_hebrew": "יש לה חוש סגנון ייחודי שגורם לה להתבלט. היא באמת יודעת להרכיב מראה 'css' מדהים!"
+            }
+        ]
+    }
+]

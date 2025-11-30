@@ -1,0 +1,40 @@
+[
+    {
+        "word": "showtimes",
+        "word_hebrew": "זמני ההצגה",
+        "main_definition": "The specific times at which a movie, play, concert, or other event is scheduled to be presented.",
+        "main_definition_hebrew": "הזמנים הספציפיים שבהם מתוכנן להציג סרט, מחזה, קונצרט או אירוע אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Movie theater schedules for when movies will be shown during the day",
+                "definition_hebrew": "לוחות זמנים של בתי קולנוע מתי יוצגו סרטים במהלך היום",
+                "example": "Today's showtimes at the local cinema are 1:00 PM, 3:30 PM, and 6:45 PM.",
+                "example_hebrew": "שעות ההקרנה היום בקולנוע המקומי הן 13:00, 15:30 ו-18:45."
+            },
+            {
+                "definition": "Specific times for a play or performance to be staged",
+                "definition_hebrew": "זמנים ספציפיים להעלאת מחזה או הופעה",
+                "example": "The upcoming Shakespearean play has showtimes at 7:00 PM on Thursdays and Fridays.",
+                "example_hebrew": "להצגה שייקספירית הקרובה יש זמני הקרנה בשעה 19:00 בימי חמישי ושישי."
+            },
+            {
+                "definition": "Scheduled times of concerts by various artists",
+                "definition_hebrew": "זמנים מתוכננים של קונצרטים של אמנים שונים",
+                "example": "Check the website for the band's showtimes, as they perform tonight in multiple cities.",
+                "example_hebrew": "בדוק באתר את זמני ההופעה של הלהקה, שכן היא מופיעה הערב במספר ערים."
+            },
+            {
+                "definition": "The specific times at which a television program or series is scheduled to be broadcasted",
+                "definition_hebrew": "הזמנים הספציפיים שבהם מתוכננת שידור של תוכנית טלוויזיה או סדרה",
+                "example": "Remember to tune into your favorite TV show that airs every Tuesday and Thursday at 8:00 PM.",
+                "example_hebrew": "זכור להתכוונן לתוכנית הטלוויזיה האהובה עליך שמשודרת מדי שלישי וחמישי בשעה 20:00."
+            },
+            {
+                "definition": "Times for public transportation services, such as buses or trains, when they will arrive",
+                "definition_hebrew": "זמני הגעה לשירותי תחבורה ציבורית, כגון אוטובוסים או רכבות",
+                "example": "The train to New York has a 4:35 PM showtime from this station every Monday and Wednesday.",
+                "example_hebrew": "לרכבת לניו יורק יש זמן הופעה בשעה 16:35 מתחנה זו בכל שני ורביעי."
+            }
+        ]
+    }
+]

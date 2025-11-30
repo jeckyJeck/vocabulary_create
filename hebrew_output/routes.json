@@ -1,0 +1,34 @@
+[
+    {
+        "word": "routes",
+        "word_hebrew": "מסלולים",
+        "main_definition": "Routes refer to paths or ways that are taken to reach a destination, especially in transportation systems like roads, waterways, air travel, or data networks.",
+        "main_definition_hebrew": "מסלולים מתייחסים לנתיבים או דרכים שנלקחות כדי להגיע ליעד, במיוחד במערכות תחבורה כמו כבישים, נתיבי מים, נסיעות אוויריות או רשתות נתונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of road transportation, routes represent specific pathways or streets used for vehicular traffic.",
+                "definition_hebrew": "בהקשר של תחבורה בכבישים, נתיבים מייצגים נתיבים או רחובות ספציפיים המשמשים לתנועת כלי רכב.",
+                "example": "The delivery truck followed Route 66 on its journey to Chicago.",
+                "example_hebrew": "משאית המשלוח הלכה על כביש 66 בנסיעתה לשיקגו."
+            },
+            {
+                "definition": "Within waterway navigation, routes are predefined paths taken by ships and boats along rivers, canals, and coastal areas.",
+                "definition_hebrew": "בתוך ניווט בדרכי מים, מסלולים הם נתיבים מוגדרים מראש של ספינות וסירות לאורך נהרות, תעלות ואזורי חוף.",
+                "example": "The cruise ship planned its route to include stops at the major ports on the Mississippi River.",
+                "example_hebrew": "ספינת השייט תכננה את מסלולה כך שיכלול עצירות בנמלים הגדולים על נהר המיסיסיפי."
+            },
+            {
+                "definition": "In air travel, routes refer to specific flight paths between airports that are scheduled for regular service by aircraft.",
+                "definition_hebrew": "בנסיעות אוויריות, קווים מתייחסים לנתיבי טיסה ספציפיים בין שדות תעופה המתוכננים לשירות סדיר במטוסים.",
+                "example": "Flight 123 takes a direct route from New York's JFK Airport to London's Heathrow International.",
+                "example_hebrew": "טיסה 123 יוצאת בנתיב ישיר מנמל התעופה JFK בניו יורק אל הית'רו הבינלאומי של לונדון."
+            },
+            {
+                "definition": "In data networking, routes describe the pathways through which data packets travel between nodes in a network.",
+                "definition_hebrew": "ברשת נתונים, מסלולים מתארים את המסלולים דרכם עוברים מנות נתונים בין צמתים ברשת.",
+                "example": "The routing table on the router lists all possible paths for data packets entering the local area network (LAN).",
+                "example_hebrew": "טבלת הניתוב בנתב מפרטת את כל הנתיבים האפשריים עבור מנות נתונים הנכנסות לרשת המקומית (LAN)."
+            }
+        ]
+    }
+]

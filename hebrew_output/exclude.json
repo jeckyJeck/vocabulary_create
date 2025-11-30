@@ -1,0 +1,34 @@
+[
+    {
+        "word": "exclude",
+        "word_hebrew": "לא לכלול",
+        "main_definition": "To deliberately leave out or not include someone or something in a group, list, discussion, etc.",
+        "main_definition_hebrew": "להשאיר בכוונה או לא לכלול מישהו או משהו בקבוצה, רשימה, דיון וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not to allow someone participation or involvement",
+                "definition_hebrew": "לא לאפשר למישהו השתתפות או מעורבות",
+                "example": "The team decided to exclude Sarah from the project due to her lack of commitment.",
+                "example_hebrew": "הצוות החליט להדיר את שרה מהפרויקט בגלל חוסר מחויבותה."
+            },
+            {
+                "definition": "To remove something from a group, set, or category",
+                "definition_hebrew": "כדי להסיר משהו מקבוצה, סט או קטגוריה",
+                "example": "In this exercise, we need to exclude numbers divisible by 3 from our list.",
+                "example_hebrew": "בתרגיל זה, עלינו להוציא מספרים המתחלקים ב-3 מהרשימה שלנו."
+            },
+            {
+                "definition": "To fail to consider someone's opinion in decision-making",
+                "definition_hebrew": "לא להתחשב בדעה של מישהו בקבלת החלטות",
+                "example": "The board excluded the feedback of junior staff when finalizing their strategy.",
+                "example_hebrew": "הדירקטוריון לא כלל את המשוב של הצוות הזוטר בעת סיום האסטרטגיה שלהם."
+            },
+            {
+                "definition": "To not cover or mention something in a report, analysis, etc.",
+                "definition_hebrew": "לא לכסות או להזכיר משהו בדוח, ניתוח וכו'.",
+                "example": "The review did not exclude any potential threats to the company's future growth.",
+                "example_hebrew": "הסקירה לא שללה איומים פוטנציאליים על הצמיחה העתידית של החברה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "auctions",
+        "word_hebrew": "מכירות פומביות",
+        "main_definition": "A public sale where goods or property are sold to the highest bidder.",
+        "main_definition_hebrew": "מכירה פומבית שבה נמכרים סחורה או נכס למציע הגבוה ביותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "An event where items are sold to the highest bidder through competitive bidding.",
+                "definition_hebrew": "אירוע שבו פריטים נמכרים להצעה הגבוהה ביותר באמצעות הצעות תחרותיות.",
+                "example": "The vintage car was put up for auction at the local garage.",
+                "example_hebrew": "המכונית הוותיקה הועמדה למכירה פומבית במוסך המקומי."
+            },
+            {
+                "definition": "A method of selling property, often used by banks or governments when foreclosing on a property.",
+                "definition_hebrew": "שיטה למכירת נכס, המשמשת לרוב בנקים או ממשלות בעת עיקול נכס.",
+                "example": "The bank held an auction to sell the house after the owner failed to pay the mortgage.",
+                "example_hebrew": "הבנק ערך מכרז למכירת הבית לאחר שהבעלים לא שילם את המשכנתא."
+            },
+            {
+                "definition": "An informal term for a competitive bidding process where participants compete to purchase an item or service.",
+                "definition_hebrew": "מונח לא רשמי לתהליך מכרזים תחרותי שבו המשתתפים מתחרים על רכישת פריט או שירות.",
+                "example": "John attended the silent auction at the charity gala, hoping to win the gift basket raffle.",
+                "example_hebrew": "ג'ון השתתף במכירה הפומבית השקטה בגאלה הצדקה, בתקווה לזכות בהגרלת סל המתנות."
+            },
+            {
+                "definition": "A type of fundraising event where items are sold for profit with a portion going towards a cause.",
+                "definition_hebrew": "סוג של אירוע לגיוס כספים שבו פריטים נמכרים למטרות רווח כאשר חלקם הולך למטרה.",
+                "example": "The non-profit organization organized an auction to raise money for their local homeless shelter.",
+                "example_hebrew": "הארגון ללא מטרות רווח ארגנו מכירה פומבית כדי לגייס כסף למקלט המקומי לחסרי בית שלהם."
+            }
+        ]
+    }
+]

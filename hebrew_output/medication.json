@@ -1,0 +1,40 @@
+[
+    {
+        "word": "medication",
+        "word_hebrew": "תרופות",
+        "main_definition": "Medication refers to the substances used to diagnose, treat, or prevent disease, typically in the form of drugs.",
+        "main_definition_hebrew": "טיפול תרופתי מתייחס לחומרים המשמשים לאבחון, טיפול או מניעת מחלות, בדרך כלל בצורה של תרופות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of providing a patient with medicinal drugs",
+                "definition_hebrew": "הפעולה של מתן תרופות מרפא למטופל",
+                "example": "After examining the patient's condition, the doctor decided to administer medication.",
+                "example_hebrew": "לאחר בדיקת מצבו של החולה החליט הרופא לתת תרופות."
+            },
+            {
+                "definition": "A drug or substance that is prescribed or recommended by a healthcare professional",
+                "definition_hebrew": "תרופה או חומר שנקבע או מומלץ על ידי איש מקצוע בתחום הבריאות",
+                "example": "The pharmacist handed over the prescription for her medication after she collected it from the doctor's office.",
+                "example_hebrew": "הרוקח מסר את המרשם לתרופות שלה לאחר שאספה אותו ממשרד הרופא."
+            },
+            {
+                "definition": "Refers to the process of using drugs as part of treatment for a specific illness or medical condition",
+                "definition_hebrew": "הכוונה לתהליך השימוש בתרופות כחלק מטיפול במחלה או מצב רפואי ספציפי",
+                "example": "The patient underwent chemotherapy, which is a type of medication used to treat cancer.",
+                "example_hebrew": "המטופל עבר כימותרפיה, שהיא סוג של תרופה המשמשת לטיפול בסרטן."
+            },
+            {
+                "definition": "A substance that is taken into the body in order to have a therapeutic effect",
+                "definition_hebrew": "חומר הנלקח לגוף על מנת לקבל אפקט טיפולי",
+                "example": "Many people take pain relief medication when they are feeling unwell.",
+                "example_hebrew": "אנשים רבים נוטלים תרופות לשיכוך כאבים כאשר הם חשים ברע."
+            },
+            {
+                "definition": "The set of all drugs prescribed for a particular patient, including dosage and frequency",
+                "definition_hebrew": "הסט של כל התרופות שנקבעו למטופל מסוים, כולל מינון ותדירות",
+                "example": "His medication includes blood pressure pills to be taken twice daily and an antidepressant once every morning.",
+                "example_hebrew": "התרופות שלו כוללות כדורי לחץ דם שתילקח פעמיים ביום ותרופה נוגדת דיכאון פעם אחת בכל בוקר."
+            }
+        ]
+    }
+]

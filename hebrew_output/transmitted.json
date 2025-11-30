@@ -1,0 +1,34 @@
+[
+    {
+        "word": "transmitted",
+        "word_hebrew": "מועבר",
+        "main_definition": "To send or transfer something, such as information, signals, or diseases, from one place to another.",
+        "main_definition_hebrew": "לשלוח או להעביר משהו, כגון מידע, אותות או מחלות, ממקום אחד לאחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To communicate (information, data) across a distance.",
+                "definition_hebrew": "לתקשר (מידע, נתונים) למרחקים.",
+                "example": "The message was transmitted via email and received by the recipient within minutes.",
+                "example_hebrew": "ההודעה הועברה באמצעות דואר אלקטרוני והתקבלה על ידי הנמען תוך דקות."
+            },
+            {
+                "definition": "To pass on or spread an infectious disease to others.",
+                "definition_hebrew": "להעביר או להפיץ מחלה זיהומית לאחרים.",
+                "example": "The flu virus can be easily transmitted through coughs, sneezes, or touching contaminated surfaces.",
+                "example_hebrew": "נגיף השפעת יכול להיות מועבר בקלות באמצעות שיעול, התעטשות או נגיעה במשטחים מזוהמים."
+            },
+            {
+                "definition": "To broadcast signals, typically electromagnetic waves, for communication purposes.",
+                "definition_hebrew": "לשדר אותות, בדרך כלל גלים אלקטרומגנטיים, למטרות תקשורת.",
+                "example": "Radio stations transmit music and news to listeners across the city via radio waves.",
+                "example_hebrew": "תחנות רדיו משדרות מוזיקה וחדשות למאזינים ברחבי העיר באמצעות גלי רדיו."
+            },
+            {
+                "definition": "To send a signal or command through an electronic device or network.",
+                "definition_hebrew": "לשלוח אות או פקודה דרך מכשיר אלקטרוני או רשת.",
+                "example": "The security system transmitted an alert when it detected movement in the house after hours.",
+                "example_hebrew": "מערכת האבטחה שידרה התראה כאשר זיהתה תנועה בבית לאחר שעות העבודה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "transport",
+        "word_hebrew": "תַחְבּוּרָה",
+        "main_definition": "To move people or goods from one place to another, usually by using vehicles or other means of transportation.",
+        "main_definition_hebrew": "להעביר אנשים או סחורות ממקום למקום, בדרך כלל באמצעות כלי רכב או כלי תחבורה אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To convey information or messages across different mediums or channels.",
+                "definition_hebrew": "כדי להעביר מידע או מסרים על פני מדיומים או ערוצים שונים.",
+                "example": "The radio station is used as a form of mass communication, effectively transporting news and entertainment to listeners.",
+                "example_hebrew": "תחנת הרדיו משמשת כצורה של תקשורת המונים, המעבירה ביעילות חדשות ובידור למאזינים."
+            },
+            {
+                "definition": "In sports, the act of moving an object (like a ball) through space from one place to another during play.",
+                "definition_hebrew": "בספורט, פעולת הזזת חפץ (כמו כדור) בחלל ממקום למקום במהלך משחק.",
+                "example": "During a soccer match, players skillfully transport the ball across the field using dribbling and passing techniques.",
+                "example_hebrew": "במהלך משחק כדורגל, שחקנים מעבירים את הכדור במיומנות על פני המגרש תוך שימוש בטכניקות של כדרור ומעבר."
+            },
+            {
+                "definition": "The process of transferring energy or signals over distances for various applications such as telecommunications or computing.",
+                "definition_hebrew": "תהליך העברת אנרגיה או אותות על פני מרחקים עבור יישומים שונים כגון טלקומוניקציה או מחשוב.",
+                "example": "Fiber optic cables are used to transport light signals, enabling high-speed internet connections across vast distances.",
+                "example_hebrew": "כבלים סיבים אופטיים משמשים להעברת אותות אור, המאפשרים חיבורי אינטרנט מהירים למרחקים עצומים."
+            }
+        ]
+    }
+]

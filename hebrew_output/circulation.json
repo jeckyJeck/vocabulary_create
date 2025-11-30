@@ -1,0 +1,34 @@
+[
+    {
+        "word": "circulation",
+        "word_hebrew": "מחזור",
+        "main_definition": "The process of circulating or being circulated, especially referring to the movement of blood through the body, the distribution of printed material (such as newspapers), or the spreading and exchange of information.",
+        "main_definition_hebrew": "תהליך המחזור או ההפצה, במיוחד בהתייחס לתנועת הדם בגוף, הפצת חומר מודפס (כגון עיתונים), או הפצה והחלפת מידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Blood flow in the body",
+                "definition_hebrew": "זרימת דם בגוף",
+                "example": "The circulation of blood is essential for delivering oxygen and nutrients to cells.",
+                "example_hebrew": "מחזור הדם חיוני לאספקת חמצן וחומרי מזון לתאים."
+            },
+            {
+                "definition": "Distribution and sales of printed material",
+                "definition_hebrew": "הפצה ומכירה של חומר מודפס",
+                "example": "The newspaper's circulation increased after implementing a new subscription model.",
+                "example_hebrew": "תפוצת העיתון גדלה לאחר הטמעת מודל מנוי חדש."
+            },
+            {
+                "definition": "Spread or distribution of information, ideas, or rumors",
+                "definition_hebrew": "הפצה או הפצה של מידע, רעיונות או שמועות",
+                "example": "The rumor about the company's bankruptcy quickly spread through social media and affected its stock prices.",
+                "example_hebrew": "השמועה על פשיטת הרגל של החברה התפשטה במהירות ברשתות החברתיות והשפיעה על מחירי המניות שלה."
+            },
+            {
+                "definition": "Exchange of currency within an economy",
+                "definition_hebrew": "החלפת מטבע בתוך כלכלה",
+                "example": "Inflation can negatively impact a country's circulation due to reduced buying power of money.",
+                "example_hebrew": "אינפלציה עלולה להשפיע לרעה על תפוצת המדינה בשל כוח הקניה המופחת של הכסף."
+            }
+        ]
+    }
+]

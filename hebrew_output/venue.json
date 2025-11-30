@@ -1,0 +1,34 @@
+[
+    {
+        "word": "venue",
+        "word_hebrew": "מָקוֹם מִפגָשׁ",
+        "main_definition": "A place where an event or activity takes place, such as a meeting, concert, or sports competition.",
+        "main_definition_hebrew": "מקום שבו מתקיים אירוע או פעילות, כגון מפגש, קונצרט או תחרות ספורט.",
+        "meanings_and_examples": [
+            {
+                "definition": "A location for hosting events and gatherings",
+                "definition_hebrew": "מיקום לאירוח אירועים והתכנסויות",
+                "example": "The theater was a perfect venue for our annual charity gala.",
+                "example_hebrew": "התיאטרון היה מקום מושלם לחגיגת הצדקה השנתית שלנו."
+            },
+            {
+                "definition": "A place where legal proceedings occur",
+                "definition_hebrew": "מקום בו מתקיימים הליכים משפטיים",
+                "example": "The courthouse served as the venue for the high-profile trial.",
+                "example_hebrew": "בית המשפט שימש כמקום למשפט המתוקשר."
+            },
+            {
+                "definition": "An online platform or service that facilitates various activities and interactions",
+                "definition_hebrew": "פלטפורמה או שירות מקוונים המאפשרים פעילויות ואינטראקציות שונות",
+                "example": "Online streaming platforms like Netflix serve as a digital venue for watching movies and shows.",
+                "example_hebrew": "פלטפורמות סטרימינג מקוונות כמו נטפליקס משמשות כמקום דיגיטלי לצפייה בסרטים ותוכניות."
+            },
+            {
+                "definition": "The particular site where an event takes place, often implying its suitability or prestige",
+                "definition_hebrew": "האתר המסוים שבו מתקיים אירוע, לעתים קרובות מרמז על התאמתו או יוקרתו",
+                "example": "The city's convention center was chosen as the premier venue for the international conference.",
+                "example_hebrew": "מרכז הכנסים של העיר נבחר כמקום המוביל לכנס הבינלאומי."
+            }
+        ]
+    }
+]

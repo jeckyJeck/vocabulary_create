@@ -1,0 +1,40 @@
+[
+    {
+        "word": "maps",
+        "word_hebrew": "מפות",
+        "main_definition": "Maps refer to representations of geographical areas, showing physical features and spatial relationships.",
+        "main_definition_hebrew": "מפות מתייחסות לייצוגים של אזורים גיאוגרפיים, המציגות מאפיינים פיזיים ויחסים מרחביים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A visual representation of an area, usually a part or whole of Earth's surface, as shown on a flat map.",
+                "definition_hebrew": "ייצוג חזותי של אזור, בדרך כלל חלק או שלם של פני השטח של כדור הארץ, כפי שמוצג במפה שטוחה.",
+                "example": "The world map shows the continents and oceans.",
+                "example_hebrew": "מפת העולם מציגה את היבשות והאוקיינוסים."
+            },
+            {
+                "definition": "Symbolic representations used in mathematics to demonstrate relationships between different points, lines, angles, etc.",
+                "definition_hebrew": "ייצוגים סמליים המשמשים במתמטיקה כדי להדגים קשרים בין נקודות, קווים, זוויות וכו'.",
+                "example": "Geometry involves using maps or diagrams to solve problems related to shapes and space.",
+                "example_hebrew": "גיאומטריה כוללת שימוש במפות או דיאגרמות כדי לפתור בעיות הקשורות לצורות ולמרחב."
+            },
+            {
+                "definition": "A guide showing the relative location of places on Earth's surface",
+                "definition_hebrew": "מדריך המראה את המיקום היחסי של מקומות על פני כדור הארץ",
+                "example": "The travel map helped us understand our route through the city.",
+                "example_hebrew": "מפת הטיולים עזרה לנו להבין את המסלול שלנו בעיר."
+            },
+            {
+                "definition": "Tools used by cartographers to create maps, including software and devices for capturing geographic data.",
+                "definition_hebrew": "כלים המשמשים קרטוגרפים ליצירת מפות, כולל תוכנות והתקנים ללכידת נתונים גיאוגרפיים.",
+                "example": "Aerial photographs taken with drones can be used as part of map creation.",
+                "example_hebrew": "ניתן להשתמש בצילומי אוויר שצולמו עם מל\"טים כחלק מיצירת המפה."
+            },
+            {
+                "definition": "The act or process of drawing a map",
+                "definition_hebrew": "הפעולה או התהליך של ציור מפה",
+                "example": "She learned how to hand-draw maps in her art class.",
+                "example_hebrew": "היא למדה איך לצייר מפות ביד בשיעור האמנות שלה."
+            }
+        ]
+    }
+]

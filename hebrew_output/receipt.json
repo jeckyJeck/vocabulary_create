@@ -1,0 +1,40 @@
+[
+    {
+        "word": "receipt",
+        "word_hebrew": "קַבָּלָה",
+        "main_definition": "A receipt is a written acknowledgment that something, especially money, has been received.",
+        "main_definition_hebrew": "קבלה היא אישור בכתב שמשהו, במיוחד כסף, התקבל.",
+        "meanings_and_examples": [
+            {
+                "definition": "Document proving purchase transaction",
+                "definition_hebrew": "מסמך המוכיח את עסקת הרכישה",
+                "example": "After buying groceries, I received a receipt showing the list of items and their prices.",
+                "example_hebrew": "לאחר קניית מצרכים, קיבלתי קבלה על רשימת הפריטים ומחיריהם."
+            },
+            {
+                "definition": "Record or proof that goods have been sold at certain price",
+                "definition_hebrew": "רישום או הוכחה לכך שהסחורה נמכרה במחיר מסוים",
+                "example": "The store provided me with a receipt detailing the electronics I purchased, including the cost and taxes paid.",
+                "example_hebrew": "החנות סיפקה לי קבלה המפרטת את מוצרי האלקטרוניקה שרכשתי, כולל העלות והמסים ששולמו."
+            },
+            {
+                "definition": "Statement of money received by an account holder",
+                "definition_hebrew": "הצהרת כסף שקיבל בעל חשבון",
+                "example": "I checked my bank's online portal to see the latest receipts for deposits made into my savings account.",
+                "example_hebrew": "בדקתי בפורטל המקוון של הבנק שלי כדי לראות את הקבלות העדכניות ביותר עבור הפקדות שבוצעו לחשבון החיסכון שלי."
+            },
+            {
+                "definition": "Acknowledgment that taxes or duties have been paid on a purchase",
+                "definition_hebrew": "אישור ששולמו מסים או מכסים על רכישה",
+                "example": "Upon exporting goods, I was given an official receipt confirming payment of import duties.",
+                "example_hebrew": "עם ייצוא הסחורה, קיבלתי קבלה רשמית המאשרת תשלום מסי יבוא."
+            },
+            {
+                "definition": "Confirmation that services rendered were compensated in full",
+                "definition_hebrew": "אישור שהשירותים שניתנו קיבלו פיצוי מלא",
+                "example": "The contractor handed me the receipts for all completed work on my home renovation project.",
+                "example_hebrew": "הקבלן מסר לי את הקבלות על כל העבודות שהושלמו בפרויקט שיפוץ הבית שלי."
+            }
+        ]
+    }
+]

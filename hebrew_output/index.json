@@ -1,0 +1,34 @@
+[
+    {
+        "word": "index",
+        "word_hebrew": "אינדקס",
+        "main_definition": "An index is a reference used to locate information within a document or collection of documents.",
+        "main_definition_hebrew": "אינדקס הוא הפניה המשמשת לאיתור מידע בתוך מסמך או אוסף מסמכים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A numerical indicator showing the relative position of an item in a list or sequence.",
+                "definition_hebrew": "מחוון מספרי המראה את המיקום היחסי של פריט ברשימה או ברצף.",
+                "example": "The index number 32 indicates that this page contains the third paragraph.",
+                "example_hebrew": "האינדקס מספר 32 מציין שדף זה מכיל את הפסקה השלישית."
+            },
+            {
+                "definition": "An alphabetical listing of names, subjects, etc., with references to where they are found within a document or collection.",
+                "definition_hebrew": "רשימה אלפביתית של שמות, נושאים וכו', עם הפניות למקום שבו הם נמצאים בתוך מסמך או אוסף.",
+                "example": "You can use an index at the back of a book to find information on specific topics quickly.",
+                "example_hebrew": "אתה יכול להשתמש באינדקס בחלק האחורי של הספר כדי למצוא מידע על נושאים ספציפיים במהירות."
+            },
+            {
+                "definition": "A statistical measure that indicates the change in price level for consumer goods and services over time.",
+                "definition_hebrew": "מדד סטטיסטי המצביע על השינוי ברמת המחירים של מוצרי צריכה ושירותים לאורך זמן.",
+                "example": "The Consumer Price Index measures changes in prices paid by urban consumers for a market basket of consumer goods and services.",
+                "example_hebrew": "מדד המחירים לצרכן מודד שינויים במחירים שמשלמים צרכנים עירוניים עבור סל שוק של מוצרי צריכה ושירותים."
+            },
+            {
+                "definition": "A reference system used to identify specific items or properties within an electronic document, such as a database table or spreadsheet.",
+                "definition_hebrew": "מערכת התייחסות המשמשת לזיהוי פריטים או מאפיינים ספציפיים בתוך מסמך אלקטרוני, כגון טבלת מסד נתונים או גיליון אלקטרוני.",
+                "example": "The index in the Excel file helps you quickly locate cells containing certain data.",
+                "example_hebrew": "האינדקס בקובץ Excel עוזר לך לאתר במהירות תאים המכילים נתונים מסוימים."
+            }
+        ]
+    }
+]

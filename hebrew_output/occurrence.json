@@ -1,0 +1,34 @@
+[
+    {
+        "word": "occurrence",
+        "word_hebrew": "הִתרַחֲשׁוּת",
+        "main_definition": "An event or situation that happens, especially one of a series.",
+        "main_definition_hebrew": "אירוע או מצב שמתרחש, במיוחד אחד מסדרה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of something happening again or being repeated.",
+                "definition_hebrew": "הפעולה של משהו שקורה שוב או חוזר על עצמו.",
+                "example": "The occurrence of the earthquake was unexpected.",
+                "example_hebrew": "התרחשות רעידת האדמה הייתה בלתי צפויה."
+            },
+            {
+                "definition": "An instance, case, or example that shows a particular phenomenon in action.",
+                "definition_hebrew": "מופע, מקרה או דוגמה המציגים תופעה מסוימת בפעולה.",
+                "example": "This study is based on several occurrences of the disease outbreak.",
+                "example_hebrew": "מחקר זה מבוסס על מספר מקרים של התפרצות המחלה."
+            },
+            {
+                "definition": "A single event within a series or sequence of events.",
+                "definition_hebrew": "אירוע בודד בתוך סדרה או רצף של אירועים.",
+                "example": "The occurrence of this solar eclipse marks the third one this year.",
+                "example_hebrew": "התרחשות ליקוי החמה הזה מסמנת את הליקוי השלישי השנה."
+            },
+            {
+                "definition": "An incident that takes place, especially one with potential consequences.",
+                "definition_hebrew": "אירוע שמתרחש, במיוחד כזה שיש לו השלכות אפשריות.",
+                "example": "There was an occurrence at the factory that led to a temporary shutdown.",
+                "example_hebrew": "אירעה אירוע במפעל שהוביל להשבתה זמנית."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "toxic",
+        "word_hebrew": "רַעִיל",
+        "main_definition": "Toxic refers to something that is harmful, poisonous, or has a negative impact.",
+        "main_definition_hebrew": "רעיל מתייחס למשהו מזיק, רעיל או בעל השפעה שלילית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Harmful to living organisms",
+                "definition_hebrew": "מזיק לאורגניזמים חיים",
+                "example": "The chemical waste was highly toxic and caused damage to the surrounding environment.",
+                "example_hebrew": "הפסולת הכימית הייתה רעילה מאוד וגרמה לפגיעה בסביבה."
+            },
+            {
+                "definition": "Negatively impacting one's mental health",
+                "definition_hebrew": "השפעה שלילית על הבריאות הנפשית של האדם",
+                "example": "Toxic behavior from a friend can lead to emotional distress and harm your well-being.",
+                "example_hebrew": "התנהגות רעילה של חבר עלולה להוביל למצוקה רגשית ולפגוע ברווחתך."
+            },
+            {
+                "definition": "Relating to or involving poison",
+                "definition_hebrew": "קשור או כרוך ברעל",
+                "example": "The snake's venom is highly toxic, making it dangerous for humans.",
+                "example_hebrew": "ארס הנחש רעיל מאוד, מה שהופך אותו למסוכן לבני אדם."
+            },
+            {
+                "definition": "Negatively impacting one's relationships",
+                "definition_hebrew": "השפעה שלילית על מערכות היחסים של האדם",
+                "example": "His constant criticism and negative attitude are toxic to our team dynamics.",
+                "example_hebrew": "הביקורת המתמדת והגישה השלילית שלו רעילים לדינמיקה של הצוות שלנו."
+            },
+            {
+                "definition": "Dangerously corrosive or damaging substances",
+                "definition_hebrew": "חומרים מאכלים או מזיקים בצורה מסוכנת",
+                "example": "The rust on the metal surface has become highly toxic, making it unsafe for touching or handling.",
+                "example_hebrew": "החלודה על משטח המתכת הפכה רעילה מאוד, מה שהופך אותו לא בטוח למגע או לטיפול."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "efficient",
+        "word_hebrew": "יָעִיל",
+        "main_definition": "achieving maximum productivity with minimum wasted effort or expense.",
+        "main_definition_hebrew": "השגת פרודוקטיביות מקסימלית במינימום בזבוז מאמץ או הוצאות.",
+        "meanings_and_examples": [
+            {
+                "definition": "capable of accomplishing a task with little waste of time and resources, without unnecessary complications",
+                "definition_hebrew": "מסוגל לבצע משימה עם מעט בזבוז זמן ומשאבים, ללא סיבוכים מיותרים",
+                "example": "The company implemented new software to make their work processes more efficient.",
+                "example_hebrew": "החברה הטמיעה תוכנה חדשה כדי לייעל את תהליכי העבודה שלה."
+            },
+            {
+                "definition": "having an ability to perform tasks quickly, precisely, and effectively",
+                "definition_hebrew": "בעל יכולת לבצע משימות במהירות, במדויק וביעילות",
+                "example": "She was very efficient at her job, completing all tasks on time with great accuracy.",
+                "example_hebrew": "היא הייתה מאוד יעילה בעבודתה, השלימה את כל המשימות בזמן בדיוק רב."
+            },
+            {
+                "definition": "achieving a result using the least amount of effort or resources possible",
+                "definition_hebrew": "השגת תוצאה תוך שימוש במינימום המאמץ או המשאבים האפשריים",
+                "example": "To be environmentally friendly, we try to use energy-efficient appliances in our home.",
+                "example_hebrew": "כדי להיות ידידותיים לסביבה, אנו מנסים להשתמש במכשירים חסכוניים באנרגיה בבית שלנו."
+            },
+            {
+                "definition": "in terms of design and functionality, something that is effective without being complicated or wasteful",
+                "definition_hebrew": "מבחינת עיצוב ופונקציונליות, משהו יעיל בלי להיות מסובך או בזבזני",
+                "example": "Their new car model was praised for its efficiency, offering great mileage while still providing modern features.",
+                "example_hebrew": "דגם המכונית החדש שלהם זכה לשבחים על היעילות שלו, ומציע קילומטראז' נהדר תוך מתן תכונות מודרניות."
+            }
+        ]
+    }
+]

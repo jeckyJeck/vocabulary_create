@@ -1,0 +1,40 @@
+[
+    {
+        "word": "gateway",
+        "word_hebrew": "כְּנִיסָה",
+        "main_definition": "A gateway is a point of entry or exit, often serving as an important or symbolic passage from one place to another.",
+        "main_definition_hebrew": "שער הוא נקודת כניסה או יציאה, המשמשת לרוב כמעבר חשוב או סמלי ממקום למקום.",
+        "meanings_and_examples": [
+            {
+                "definition": "Access point for digital resources",
+                "definition_hebrew": "נקודת גישה למשאבים דיגיטליים",
+                "example": "The company's website acts as a gateway to its products and services.",
+                "example_hebrew": "אתר החברה משמש כשער למוצריה ולשירותיה."
+            },
+            {
+                "definition": "Metaphorical entryway or starting point",
+                "definition_hebrew": "כניסה או נקודת התחלה מטפורית",
+                "example": "Learning a new language can be seen as the gateway to understanding different cultures.",
+                "example_hebrew": "ניתן לראות בלימוד שפה חדשה את השער להבנת תרבויות שונות."
+            },
+            {
+                "definition": "Physical door or entrance",
+                "definition_hebrew": "דלת או כניסה פיזית",
+                "example": "The castle's grand gatehouse was the main gateway into the fortress.",
+                "example_hebrew": "בית השער הגדול של הטירה היה השער הראשי אל המבצר."
+            },
+            {
+                "definition": "Bridge between two places, often geographically distant",
+                "definition_hebrew": "גשר בין שני מקומות, לרוב מרוחקים גיאוגרפית",
+                "example": "Space exploration has served as a gateway to discovering new planets and galaxies.",
+                "example_hebrew": "חקר החלל שימש שער לגילוי כוכבי לכת וגלקסיות חדשים."
+            },
+            {
+                "definition": "Point of initiation in the process or procedure",
+                "definition_hebrew": "נקודת פתיחה בתהליך או בהליך",
+                "example": "The onboarding process is the gateway for new employees joining a company.",
+                "example_hebrew": "תהליך ההצטרפות הוא השער להצטרפות עובדים חדשים לחברה."
+            }
+        ]
+    }
+]

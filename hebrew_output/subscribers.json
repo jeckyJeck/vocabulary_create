@@ -1,0 +1,28 @@
+[
+    {
+        "word": "subscribers",
+        "word_hebrew": "מנויים",
+        "main_definition": "Subscribers are individuals or entities that have signed up to receive regular updates, such as newsletters, emails, or content, from a particular source.",
+        "main_definition_hebrew": "מנויים הם אנשים או גופים שנרשמו לקבלת עדכונים שוטפים, כגון ניוזלטרים, מיילים או תוכן, ממקור מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Audience members who follow and support a specific media outlet",
+                "definition_hebrew": "חברי קהל שעוקבים ותומכים בכלי תקשורת ספציפי",
+                "example": "The subscribers of the 'Tech Today' magazine eagerly await each new issue for cutting-edge technology news.",
+                "example_hebrew": "המנויים של המגזין 'Tech Today' מחכים בקוצר רוח לכל גיליון חדש לחדשות טכנולוגיות מתקדמות."
+            },
+            {
+                "definition": "Persons who have registered to receive periodic deliveries or services from a business or service provider",
+                "definition_hebrew": "אנשים שנרשמו לקבלת משלוחים או שירותים תקופתיים מעסק או נותן שירות",
+                "example": "After purchasing an online course, students become subscribers and will automatically receive weekly lesson updates via email.",
+                "example_hebrew": "לאחר רכישת קורס מקוון, התלמידים הופכים למנויים ויקבלו באופן אוטומטי עדכוני שיעורים שבועיים בדוא\"ל."
+            },
+            {
+                "definition": "Users of a platform that require continuous updates in order to fully utilize the product's features",
+                "definition_hebrew": "משתמשי פלטפורמה הדורשים עדכונים רציפים על מנת לנצל את תכונות המוצר במלואו",
+                "example": "The app users need to be subscribed to get access to premium content and advanced functionalities within the application.",
+                "example_hebrew": "משתמשי האפליקציה צריכים להיות רשומים כדי לקבל גישה לתוכן פרימיום ולפונקציות מתקדמות בתוך האפליקציה."
+            }
+        ]
+    }
+]

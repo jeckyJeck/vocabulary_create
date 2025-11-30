@@ -1,0 +1,28 @@
+[
+    {
+        "word": "compiler",
+        "word_hebrew": "מַהְדֵר",
+        "main_definition": "A compiler is a program that translates source code written in one programming language into another, typically from a high-level language to machine code or assembly language.",
+        "main_definition_hebrew": "מהדר הוא תוכנה המתרגמת קוד מקור שנכתב בשפת תכנות אחת לאחרת, בדרך כלל משפה ברמה גבוהה לקוד מכונה או שפת אסמבלינג.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of computer science",
+                "definition_hebrew": "בהקשר של מדעי המחשב",
+                "example": "The compiler converts the C++ program into executable machine code.",
+                "example_hebrew": "המהדר ממיר את תוכנית C++ לקוד מכונה בר הפעלה."
+            },
+            {
+                "definition": "A metaphor for any device or system that transforms input to produce output",
+                "definition_hebrew": "מטאפורה לכל מכשיר או מערכת שהופך קלט לייצור פלט",
+                "example": "Just like a translator compiles written text from one language to another, a smartphone's voice-to-text feature is said to compile spoken words into text.",
+                "example_hebrew": "בדיוק כמו שמתרגם אוסף טקסט כתוב משפה אחת לאחרת, תכונת הקול-לטקסט של הסמארטפון אמורה ללקט מילים מדוברות לטקסט."
+            },
+            {
+                "definition": "In the context of media production",
+                "definition_hebrew": "בהקשר של הפקת מדיה",
+                "example": "A video editor uses a 'compiler' to stitch together footage from various sources into one coherent film or animation.",
+                "example_hebrew": "עורך וידאו משתמש ב'קומפיילר' כדי לחבר קטעים ממקורות שונים לסרט או אנימציה קוהרנטיים אחד."
+            }
+        ]
+    }
+]

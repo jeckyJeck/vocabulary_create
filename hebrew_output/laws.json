@@ -1,0 +1,40 @@
+[
+    {
+        "word": "laws",
+        "word_hebrew": "חוקים",
+        "main_definition": "Laws refer to a set of rules established by a governing authority, which are enforceable through the legal system.",
+        "main_definition_hebrew": "חוקים מתייחסים למערכת של כללים שנקבעו על ידי רשות שלטונית, הניתנים לאכיפה באמצעות מערכת המשפט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Scientific principles or constants that govern natural phenomena",
+                "definition_hebrew": "עקרונות מדעיים או קבועים השולטים בתופעות הטבע",
+                "example": "In physics, the laws of motion describe how objects behave under various forces.",
+                "example_hebrew": "בפיזיקה, חוקי התנועה מתארים כיצד אובייקטים מתנהגים תחת כוחות שונים."
+            },
+            {
+                "definition": "Rules in a game or sport specifying what players can and cannot do",
+                "definition_hebrew": "כללים במשחק או בספורט המפרטים מה שחקנים יכולים ומה לא יכולים לעשות",
+                "example": "The rules of soccer dictate that you cannot use your hands to touch the ball.",
+                "example_hebrew": "חוקי הכדורגל מכתיבים שאתה לא יכול להשתמש בידיים שלך כדי לגעת בכדור."
+            },
+            {
+                "definition": "Social norms or ethical codes governing behavior within a society",
+                "definition_hebrew": "נורמות חברתיות או קודים אתיים השולטים בהתנהגות בתוך חברה",
+                "example": "In many cultures, it is considered rude to speak loudly in public places.",
+                "example_hebrew": "בתרבויות רבות, זה נחשב גס לדבר בקול רם במקומות ציבוריים."
+            },
+            {
+                "definition": "Legal regulations established by the government to maintain order and protect citizens' rights",
+                "definition_hebrew": "תקנות משפטיות שנקבעו על ידי הממשלה כדי לשמור על הסדר ולהגן על זכויות האזרח",
+                "example": "Traffic laws require drivers to stop at red lights.",
+                "example_hebrew": "חוקי התעבורה מחייבים נהגים לעצור ברמזור אדום."
+            },
+            {
+                "definition": "Informal rules that govern interactions within specific communities or groups",
+                "definition_hebrew": "כללים לא פורמליים השולטים באינטראקציות בתוך קהילות או קבוצות ספציפיות",
+                "example": "The unspoken rule in some workplaces is not to use company resources for personal projects.",
+                "example_hebrew": "הכלל הבלתי נאמר בחלק ממקומות העבודה הוא לא להשתמש במשאבי החברה לפרויקטים אישיים."
+            }
+        ]
+    }
+]

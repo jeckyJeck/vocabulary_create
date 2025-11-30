@@ -1,0 +1,28 @@
+[
+    {
+        "word": "petroleum",
+        "word_hebrew": "נֵפט",
+        "main_definition": "Petroleum is a naturally occurring, flammable liquid mixture of hydrocarbons that can be refined into usable products such as gasoline, diesel fuel, and other petrochemicals.",
+        "main_definition_hebrew": "נפט הוא תערובת נוזלית דליקה של פחמימנים המופיעה באופן טבעי, הניתנת לזיקוק למוצרים שמישים כגון בנזין, סולר ופטרוכימיקלים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A fossil fuel",
+                "definition_hebrew": "דלק מאובנים",
+                "example": "Petroleum is one of the primary sources of energy worldwide.",
+                "example_hebrew": "נפט הוא אחד ממקורות האנרגיה העיקריים בעולם."
+            },
+            {
+                "definition": "Refined crude oil product",
+                "definition_hebrew": "מוצר נפט גולמי מזוקק",
+                "example": "The gasoline derived from petroleum is used to power cars and motorcycles.",
+                "example_hebrew": "הבנזין המופק מנפט משמש להנעת מכוניות ואופנועים."
+            },
+            {
+                "definition": "Industrial feedstock or raw material",
+                "definition_hebrew": "חומר גלם או חומר גלם תעשייתי",
+                "example": "Petroleum serves as the base for various products like plastics, detergents, pharmaceuticals, etc.",
+                "example_hebrew": "נפט משמש כבסיס למוצרים שונים כמו פלסטיק, חומרי ניקוי, תרופות וכו'."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "scanning",
+        "word_hebrew": "סריקה",
+        "main_definition": "Scanning refers to the act of examining or inspecting something systematically, often with a device that detects signals, images, or information.",
+        "main_definition_hebrew": "סריקה מתייחסת לפעולה של בדיקה או בדיקה של משהו באופן שיטתי, לעתים קרובות עם מכשיר שמזהה אותות, תמונות או מידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "To look over quickly for the purpose of understanding or finding something specific",
+                "definition_hebrew": "להסתכל במהירות במטרה להבין או למצוא משהו ספציפי",
+                "example": "She scanned the room to find her friend among the crowd.",
+                "example_hebrew": "היא סרקה את החדר כדי למצוא את חברתה בין הקהל."
+            },
+            {
+                "definition": "Using a device such as a barcode reader, laser, or optical sensor to read encoded information",
+                "definition_hebrew": "שימוש במכשיר כגון קורא ברקוד, לייזר או חיישן אופטי לקריאת מידע מקודד",
+                "example": "The cashier used a barcode scanner to check out items at the grocery store.",
+                "example_hebrew": "הקופאית השתמשה בסורק ברקוד כדי לבדוק פריטים במכולת."
+            },
+            {
+                "definition": "To analyze data or text for keywords, phrases, or patterns",
+                "definition_hebrew": "כדי לנתח נתונים או טקסט עבור מילות מפתח, ביטויים או דפוסים",
+                "example": "Computer software is used to scan documents and highlight important terms.",
+                "example_hebrew": "תוכנת מחשב משמשת לסריקת מסמכים והדגשת מונחים חשובים."
+            },
+            {
+                "definition": "The process of examining something with a scanner to convert it into a digital format",
+                "definition_hebrew": "תהליך בחינת משהו עם סורק כדי להמיר אותו לפורמט דיגיטלי",
+                "example": "He handed the paper document over for scanning, so that all his records would be stored digitally.",
+                "example_hebrew": "הוא מסר את מסמך הנייר לסריקה, כדי שכל הרישומים שלו יאוחסנו בצורה דיגיטלית."
+            }
+        ]
+    }
+]

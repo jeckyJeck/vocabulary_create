@@ -1,0 +1,40 @@
+[
+    {
+        "word": "delivery",
+        "word_hebrew": "מְסִירָה",
+        "main_definition": "The process of bringing or transporting something, especially mail or goods, to the recipient.",
+        "main_definition_hebrew": "תהליך הבאת או הובלת משהו, במיוחד דואר או סחורה, אל הנמען.",
+        "meanings_and_examples": [
+            {
+                "definition": "In a general sense, it refers to the act of transferring an item from one place to another.",
+                "definition_hebrew": "במובן כללי, הכוונה היא לפעולת העברת פריט ממקום למקום.",
+                "example": "The delivery man arrived at my door with the pizza.",
+                "example_hebrew": "השליח הגיע לדלת שלי עם הפיצה."
+            },
+            {
+                "definition": "As used in the context of food services, it means bringing prepared meals or dishes directly to a customer's location.",
+                "definition_hebrew": "בשימוש בהקשר של שירותי מזון, המשמעות היא להביא ארוחות מוכנות או מנות ישירות למקום הלקוח.",
+                "example": "I ordered from the local restaurant and they delivered our dinner to our front porch.",
+                "example_hebrew": "הזמנתי מהמסעדה המקומית והם העבירו את ארוחת הערב שלנו למרפסת הקדמית שלנו."
+            },
+            {
+                "definition": "In terms of healthcare, delivery refers to the process of giving birth in medical contexts.",
+                "definition_hebrew": "במונחים של טיפול רפואי, לידה מתייחסת לתהליך הלידה בהקשרים רפואיים.",
+                "example": "The expectant mother went through a natural waterbirth, which is considered an eco-friendly and less stressful type of delivery.",
+                "example_hebrew": "היולדת עברה לידת מים טבעית, הנחשבת לסוג לידה ידידותי לסביבה ופחות מלחיץ."
+            },
+            {
+                "definition": "In the business world, it can refer to the process of fulfilling orders or contracts for goods or services.",
+                "definition_hebrew": "בעולם העסקים, זה יכול להתייחס לתהליך של מילוי הזמנות או חוזים עבור סחורות או שירותים.",
+                "example": "The company successfully completed the order deliveries on time despite facing supply chain challenges.",
+                "example_hebrew": "החברה השלימה בהצלחה את אספקת ההזמנות בזמן למרות התמודדות עם אתגרי שרשרת האספקה."
+            },
+            {
+                "definition": "It also has a technological meaning in computing and telecommunications, where it refers to sending data from one computer system or server to another over a network.",
+                "definition_hebrew": "יש לזה גם משמעות טכנולוגית בתחום המחשוב והטלקומוניקציה, כאשר הוא מתייחס לשליחת נתונים ממערכת מחשב או שרת אחת לאחרת דרך רשת.",
+                "example": "The IT team resolved the issue by configuring the new software for efficient delivery of files between servers.",
+                "example_hebrew": "צוות ה-IT פתר את הבעיה על ידי הגדרת התוכנה החדשה לאספקה יעילה של קבצים בין שרתים."
+            }
+        ]
+    }
+]

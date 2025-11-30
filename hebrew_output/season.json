@@ -1,0 +1,40 @@
+[
+    {
+        "word": "season",
+        "word_hebrew": "עונה",
+        "main_definition": "Season is a period marked by particular weather conditions, often associated with specific events or activities.",
+        "main_definition_hebrew": "עונה היא תקופה המסומנת בתנאי מזג אוויר מסוימים, הקשורים לעתים קרובות לאירועים או פעילויות ספציפיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A division of the year based on changes in weather, daylight hours, and ecological phenomena",
+                "definition_hebrew": "חלוקה של השנה המבוססת על שינויים במזג האוויר, שעות האור ותופעות אקולוגיות",
+                "example": "The four seasons are spring, summer, autumn, and winter.",
+                "example_hebrew": "ארבע העונות הן אביב, קיץ, סתיו וחורף."
+            },
+            {
+                "definition": "An episode or period within a series with distinct characteristics",
+                "definition_hebrew": "פרק או תקופה בתוך סדרה עם מאפיינים מובהקים",
+                "example": "In the TV show 'Breaking Bad', each episode could be seen as its own season of storylines and character development.",
+                "example_hebrew": "בתוכנית הטלוויזיה 'שובר שורות', ניתן היה לראות בכל פרק עונה משלו של קווי עלילה ופיתוח דמויות."
+            },
+            {
+                "definition": "A specific time of year that is particularly suitable for certain activities, events or crops",
+                "definition_hebrew": "תקופה מסוימת בשנה המתאימה במיוחד לפעילויות, אירועים או גידולים מסוימים",
+                "example": "The summer season is ideal for planting tomatoes in the garden.",
+                "example_hebrew": "עונת הקיץ אידיאלית לשתילת עגבניות בגינה."
+            },
+            {
+                "definition": "One of several periods within a particular series where story arcs are resolved and new ones begin",
+                "definition_hebrew": "אחת מכמה תקופות בסדרה מסוימת שבהן קשתות סיפור נפתרות ומתחילות חדשות",
+                "example": "In 'Game of Thrones', each book (or sometimes movie) installment was considered its own season of plot development.",
+                "example_hebrew": "ב'משחקי הכס', כל פרק של ספר (או לפעמים סרט) נחשב לעונה משלו של פיתוח עלילה."
+            },
+            {
+                "definition": "An aspect or characteristic that repeats regularly, like a pattern",
+                "definition_hebrew": "היבט או מאפיין שחוזרים על עצמם באופן קבוע, כמו דפוס",
+                "example": "The changing seasons are an example of nature's repeating patterns.",
+                "example_hebrew": "העונות המתחלפות הן דוגמה לדפוסים החוזרים על עצמם של הטבע."
+            }
+        ]
+    }
+]

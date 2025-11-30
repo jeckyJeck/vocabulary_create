@@ -1,0 +1,40 @@
+[
+    {
+        "word": "forbidden",
+        "word_hebrew": "אסור",
+        "main_definition": "Something that is not allowed or prohibited by law, rule, authority, or custom.",
+        "main_definition_hebrew": "דבר שאינו מותר או אסור על פי חוק, כלל, סמכות או מנהג.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not permitted; banned by a rule or regulation.",
+                "definition_hebrew": "לא מורשה; אסור על פי כלל או תקנה.",
+                "example": "Smoking is forbidden in this airport terminal.",
+                "example_hebrew": "עישון אסור בטרמינל שדה התעופה הזה."
+            },
+            {
+                "definition": "Prohibited due to religious, moral, or social reasons.",
+                "definition_hebrew": "אסור מסיבות דתיות, מוסריות או חברתיות.",
+                "example": "Crossing the desert was forbidden according to local tradition.",
+                "example_hebrew": "חציית המדבר נאסרה על פי המסורת המקומית."
+            },
+            {
+                "definition": "Restricted for safety or security purposes.",
+                "definition_hebrew": "מוגבל לצורכי בטיחות או אבטחה.",
+                "example": "Entering a restricted military zone is strictly forbidden.",
+                "example_hebrew": "הכניסה לאזור צבאי מוגבל אסורה בהחלט."
+            },
+            {
+                "definition": "Not allowed because it's considered unethical, immoral, or harmful.",
+                "definition_hebrew": "אסור כי זה נחשב לא אתי, לא מוסרי או מזיק.",
+                "example": "Plagiarism in academic work is forbidden and can result in serious consequences.",
+                "example_hebrew": "גניבת דעת בעבודה אקדמית אסורה ועלולה לגרום לתוצאות חמורות."
+            },
+            {
+                "definition": "The act of banning something formally.",
+                "definition_hebrew": "המעשה של איסור על משהו באופן רשמי.",
+                "example": "After the scandal, several companies were forced to ban their CEOs from public appearances.",
+                "example_hebrew": "לאחר השערורייה, כמה חברות נאלצו לאסור על המנכ\"לים שלהן להופיע בפומבי."
+            }
+        ]
+    }
+]

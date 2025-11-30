@@ -1,0 +1,28 @@
+[
+    {
+        "word": "ecology",
+        "word_hebrew": "אֵקוֹלוֹגִיָה",
+        "main_definition": "Ecology is the scientific study of interactions among organisms and their environment, including both biotic (living) and abiotic (non-living) factors.",
+        "main_definition_hebrew": "אקולוגיה היא המחקר המדעי של אינטראקציות בין אורגניזמים וסביבתם, כולל גורמים ביוטיים (חיים) ואביוטיים (לא חיים).",
+        "meanings_and_examples": [
+            {
+                "definition": "The interdependence between living organisms in a community",
+                "definition_hebrew": "התלות ההדדית בין אורגניזמים חיים בקהילה",
+                "example": "In the forest ecosystem, plants depend on bees for pollination while bees rely on flowers for nectar.",
+                "example_hebrew": "במערכת האקולוגית של היער, צמחים תלויים בדבורים לצורך האבקה ואילו דבורים מסתמכות על פרחים לצוף."
+            },
+            {
+                "definition": "The relationship between species and their physical environment",
+                "definition_hebrew": "הקשר בין המינים לסביבתם הפיזית",
+                "example": "Fish in coral reefs have evolved to live among the complex structures of the reef ecosystem, providing shelter while benefiting from nutrients.",
+                "example_hebrew": "דגים בשוניות אלמוגים התפתחו לחיות בין המבנים המורכבים של המערכת האקולוגית של השונית, ומספקים מחסה תוך שהם נהנים מחומרים מזינים."
+            },
+            {
+                "definition": "A holistic approach that considers multiple levels of biological organization",
+                "definition_hebrew": "גישה הוליסטית המתחשבת במספר רבדים של ארגון ביולוגי",
+                "example": "Ecologists study not just individual species but entire habitats and their interconnected systems, such as a forest's canopy and understory layers.",
+                "example_hebrew": "אקולוגים חוקרים לא רק מינים בודדים אלא בתי גידול שלמים ואת המערכות המקושרות ביניהם, כגון חופה של יער ושכבות תת-קרקעיות."
+            }
+        ]
+    }
+]

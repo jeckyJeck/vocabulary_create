@@ -1,0 +1,34 @@
+[
+    {
+        "word": "century",
+        "word_hebrew": "מֵאָה",
+        "main_definition": "A period of 100 years, or the century in which a specific year falls.",
+        "main_definition_hebrew": "תקופה של 100 שנים, או המאה שבה חלה שנה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Time span of 100 years",
+                "definition_hebrew": "טווח זמן של 100 שנים",
+                "example": "The 20th century saw significant technological advancements.",
+                "example_hebrew": "המאה ה-20 ראתה התקדמות טכנולוגית משמעותית."
+            },
+            {
+                "definition": "Century in a specific calendar year",
+                "definition_hebrew": "מאה בשנה קלנדרית מסוימת",
+                "example": "We are currently living in the 21st century (2001-2100).",
+                "example_hebrew": "אנו חיים כיום במאה ה-21 (2001-2100)."
+            },
+            {
+                "definition": "A group of people, typically sharing cultural or historical characteristics, spanning over 100 years",
+                "definition_hebrew": "קבוצה של אנשים, בדרך כלל חולקים מאפיינים תרבותיים או היסטוריים, המשתרעת על פני 100 שנים",
+                "example": "The Renaissance was a vibrant century in European history from the 14th to the 17th century.",
+                "example_hebrew": "הרנסנס היה מאה תוססת בהיסטוריה האירופית מהמאה ה-14 עד המאה ה-17."
+            },
+            {
+                "definition": "One hundredth part of a millennium (a period of one thousand years)",
+                "definition_hebrew": "חלק המאה של המילניום (תקופה של אלף שנה)",
+                "example": "We are in the third century BC, which means it is three times one hundred years before AD 1.",
+                "example_hebrew": "אנחנו במאה השלישית לפני הספירה, כלומר זה שלוש פעמים מאה שנה לפני שנת 1 לספירה."
+            }
+        ]
+    }
+]

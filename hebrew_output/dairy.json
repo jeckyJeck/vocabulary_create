@@ -1,0 +1,46 @@
+[
+    {
+        "word": "dairy",
+        "word_hebrew": "מַחלָבָה",
+        "main_definition": "Dairy refers to anything related to milk or products derived from milk, typically produced by dairy farms.",
+        "main_definition_hebrew": "חלב מתייחס לכל דבר הקשור לחלב או למוצרים המופקים מחלב, המיוצרים בדרך כלל על ידי רפתות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A place where milk is processed and packaged for sale, such as a cheese factory or butter manufacturer.",
+                "definition_hebrew": "מקום שבו חלב מעובד וארוז למכירה, כמו מפעל גבינות או יצרן חמאה.",
+                "example": "The local dairy produces both milk and cheddar cheese.",
+                "example_hebrew": "המחלבה המקומית מייצרת גם חלב וגם גבינת צ'דר."
+            },
+            {
+                "definition": "Products made from milk, including items like yogurt, ice cream, and other cultured foods.",
+                "definition_hebrew": "מוצרים העשויים מחלב, כולל פריטים כמו יוגורט, גלידה ומזונות תרבותיים אחרים.",
+                "example": "She enjoys eating a bowl of dairy-rich Greek yogurt for breakfast.",
+                "example_hebrew": "היא נהנית לאכול קערת יוגורט יווני עשיר בחלב לארוחת הבוקר."
+            },
+            {
+                "definition": "A type of business or industry related to the production, processing, and distribution of milk and its products.",
+                "definition_hebrew": "סוג של עסק או תעשייה הקשורים לייצור, עיבוד והפצה של חלב ומוצריו.",
+                "example": "The 'dairy' sector contributes significantly to the country's economy.",
+                "example_hebrew": "מגזר 'החלב' תורם משמעותית לכלכלת המדינה."
+            },
+            {
+                "definition": "Dairy farming or dairy cattle breeding - raising cows primarily for the purpose of obtaining milk.",
+                "definition_hebrew": "גידול חלב או גידול בקר לחלב - גידול פרות בעיקר לצורך השגת חלב.",
+                "example": "His family has been in the business of dairy farming for generations, with a herd of Holsteins.",
+                "example_hebrew": "משפחתו עוסקת ברפת במשך דורות, עם עדר הולשטיין."
+            },
+            {
+                "definition": "A term used to describe food products that contain significant amounts of lactose or other dairy ingredients.",
+                "definition_hebrew": "מונח המשמש לתיאור מוצרי מזון המכילים כמויות משמעותיות של לקטוז או מרכיבי חלב אחרים.",
+                "example": "This product is labeled as 'dairy-free', meaning it doesn't include any milk or milk derivatives.",
+                "example_hebrew": "מוצר זה מסומן כ\"ללא חלב\", כלומר אינו כולל חלב או נגזרות חלב."
+            },
+            {
+                "definition": "A dietary restriction where individuals abstain from consuming products derived from animals, including dairy.",
+                "definition_hebrew": "הגבלה תזונתית שבה אנשים נמנעים מצריכת מוצרים שמקורם בבעלי חיים, לרבות מוצרי חלב.",
+                "example": "She follows a vegan lifestyle and avoids all forms of dairy, like cheese and butter.",
+                "example_hebrew": "היא מקפידה על אורח חיים טבעוני ונמנעת מכל סוגי מוצרי החלב, כמו גבינה וחמאה."
+            }
+        ]
+    }
+]

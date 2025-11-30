@@ -1,0 +1,40 @@
+[
+    {
+        "word": "suppose",
+        "word_hebrew": "לְהַנִיחַ",
+        "main_definition": "To assume something is true or to begin an analysis based on a hypothesis.",
+        "main_definition_hebrew": "להניח שמשהו נכון או להתחיל ניתוח המבוסס על השערה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To assume for the sake of argument or planning without proof",
+                "definition_hebrew": "להניח למען הטיעון או התכנון ללא הוכחה",
+                "example": "Supposing you'll be late, I can start dinner early.",
+                "example_hebrew": "בהנחה שתאחר, אני יכול להתחיל את ארוחת הערב מוקדם."
+            },
+            {
+                "definition": "To think that something is true despite a lack of evidence",
+                "definition_hebrew": "לחשוב שמשהו נכון למרות חוסר ראיות",
+                "example": "I suppose it could rain later, but the sky looks clear now.",
+                "example_hebrew": "אני מניח שיכול לרדת גשם מאוחר יותר, אבל השמיים נראים בהירים עכשיו."
+            },
+            {
+                "definition": "To consider as likely or possible",
+                "definition_hebrew": "לשקול ככל האפשר או האפשרי",
+                "example": "We can only suppose he left before sunrise; there were no signs that he had been here afterward.",
+                "example_hebrew": "אנחנו יכולים רק להניח שהוא עזב לפני הזריחה; לא היו סימנים שהוא היה כאן אחר כך."
+            },
+            {
+                "definition": "To imagine a situation in order to discuss it further",
+                "definition_hebrew": "לדמיין מצב כדי לדון בו יותר",
+                "example": "Let's suppose you have two apples. If I give you another, how many do you have?",
+                "example_hebrew": "נניח שיש לך שני תפוחים. אם אתן לך עוד, כמה יש לך?"
+            },
+            {
+                "definition": "Used to introduce a hypothetical scenario or condition",
+                "definition_hebrew": "משמש להצגת תרחיש או מצב היפותטי",
+                "example": "Suppose we were stranded on an island; what would be our survival strategy?",
+                "example_hebrew": "נניח שנתקענו על אי; מה תהיה אסטרטגיית ההישרדות שלנו?"
+            }
+        ]
+    }
+]

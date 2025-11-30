@@ -1,0 +1,28 @@
+[
+    {
+        "word": "webcams",
+        "word_hebrew": "מצלמות אינטרנט",
+        "main_definition": "Webcams are digital video cameras that can stream live footage over the internet, often used for remote monitoring or personal communication.",
+        "main_definition_hebrew": "מצלמות אינטרנט הן מצלמות וידאו דיגיטליות שיכולות להזרים צילומים חיים דרך האינטרנט, המשמשות לעתים קרובות לניטור מרחוק או לתקשורת אישית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A device used to record videos online in real-time",
+                "definition_hebrew": "מכשיר המשמש להקלטת סרטונים מקוונים בזמן אמת",
+                "example": "Sarah set up her webcam and began streaming a live cooking tutorial.",
+                "example_hebrew": "שרה הקימה את מצלמת האינטרנט שלה והחלה להזרים ערכת בישול בשידור חי."
+            },
+            {
+                "definition": "A video conferencing tool that allows people to see each other and communicate remotely",
+                "definition_hebrew": "כלי לשיחות ועידה בווידאו המאפשר לאנשים לראות אחד את השני ולתקשר מרחוק",
+                "example": "The family used their webcams during the virtual reunion, chatting while seeing themselves on the screen.",
+                "example_hebrew": "המשפחה השתמשה במצלמות הרשת שלהם במהלך המפגש הווירטואלי, תוך כדי שהם רואים את עצמם על המסך."
+            },
+            {
+                "definition": "A surveillance system component that provides remote monitoring capabilities",
+                "definition_hebrew": "רכיב מערכת מעקב המספק יכולות ניטור מרחוק",
+                "example": "The security company installed webcams to monitor the property from a central control room.",
+                "example_hebrew": "חברת האבטחה התקינה מצלמות רשת כדי לנטר את הנכס מחדר בקרה מרכזי."
+            }
+        ]
+    }
+]

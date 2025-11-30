@@ -1,0 +1,28 @@
+[
+    {
+        "word": "stored",
+        "word_hebrew": "מְאוּחסָן",
+        "main_definition": "To keep something in a specific place or to have information saved for later use.",
+        "main_definition_hebrew": "לשמור משהו במקום מסוים או לשמור מידע לשימוש מאוחר יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To save or retain data, such as files on a computer or cloud storage.",
+                "definition_hebrew": "כדי לשמור או לשמור נתונים, כגון קבצים במחשב או באחסון בענן.",
+                "example": "I stored the document on my desktop so I can easily access it next time.",
+                "example_hebrew": "אחסנתי את המסמך על שולחן העבודה שלי כדי שאוכל לגשת אליו בקלות בפעם הבאה."
+            },
+            {
+                "definition": "To keep goods in a warehouse for future delivery to customers.",
+                "definition_hebrew": "לשמור סחורה במחסן למשלוח עתידי ללקוחות.",
+                "example": "The company has several stores where they store their products until they are shipped out.",
+                "example_hebrew": "לחברה מספר חנויות בהן הם מאחסנים את המוצרים שלהם עד למשלוחם."
+            },
+            {
+                "definition": "To have information or data held ready for use, such as stored instructions or knowledge.",
+                "definition_hebrew": "להחזיק מידע או נתונים מוכנים לשימוש, כגון הוראות או ידע מאוחסנים.",
+                "example": "The chef had all the recipes stored in her memory and could cook any dish without looking at a book.",
+                "example_hebrew": "לשפית היו כל המתכונים שמורים בזיכרונה ויכלה לבשל כל מאכל מבלי להסתכל בספר."
+            }
+        ]
+    }
+]

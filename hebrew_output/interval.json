@@ -1,0 +1,40 @@
+[
+    {
+        "word": "interval",
+        "word_hebrew": "הַפסָקָה",
+        "main_definition": "An interval refers to a gap or space between two things, events, points in time, or musical notes.",
+        "main_definition_hebrew": "מרווח מתייחס לפער או לרווח בין שני דברים, אירועים, נקודות זמן או תווים מוזיקליים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A specific period of time between two events or moments.",
+                "definition_hebrew": "פרק זמן מסוים בין שני אירועים או רגעים.",
+                "example": "The interval between her birth and the day she graduated was four years.",
+                "example_hebrew": "המרווח בין לידתה ליום בו סיימה היה ארבע שנים."
+            },
+            {
+                "definition": "A gap in a sequence or series of numbers, letters, or musical notes.",
+                "definition_hebrew": "פער ברצף או בסדרה של מספרים, אותיות או תווים מוזיקליים.",
+                "example": "In the sequence 2, 4, 6, there is an interval of two between each number.",
+                "example_hebrew": "ברצף 2, 4, 6, יש מרווח של שניים בין כל מספר."
+            },
+            {
+                "definition": "The distance between points on a line or curve.",
+                "definition_hebrew": "המרחק בין נקודות על קו או עקומה.",
+                "example": "When measuring the length of the room, we need to consider the intervals at both ends.",
+                "example_hebrew": "כאשר מודדים את אורך החדר, עלינו לקחת בחשבון את המרווחים בשני הקצוות."
+            },
+            {
+                "definition": "A measure of space used in astronomy and geography to describe distances within our solar system or Earth.",
+                "definition_hebrew": "מדד החלל המשמש באסטרונומיה וגיאוגרפיה לתיאור מרחקים בתוך מערכת השמש שלנו או כדור הארץ.",
+                "example": "The distance between Mars and Jupiter is often measured in astronomical units (AU), which represents an interval of approximately 150 million miles.",
+                "example_hebrew": "המרחק בין מאדים לצדק נמדד לרוב ביחידות אסטרונומיות (AU), המייצגות מרווח של כ-150 מיליון מיילים."
+            },
+            {
+                "definition": "A range of pitches played by instruments, where each note is separated from the next by a fixed interval.",
+                "definition_hebrew": "טווח של צלילים מנוגנים על ידי כלים, כאשר כל תו מופרד מהאחר במרווח קבוע.",
+                "example": "The music teacher asked the students to practice scales and identify the intervals between notes.",
+                "example_hebrew": "המורה למוזיקה ביקשה מהתלמידים לתרגל סולמות ולזהות את המרווחים בין התווים."
+            }
+        ]
+    }
+]

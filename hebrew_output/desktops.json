@@ -1,0 +1,28 @@
+[
+    {
+        "word": "desktops",
+        "word_hebrew": "שולחנות עבודה",
+        "main_definition": "In the context of computers, 'desktops' refers to powerful personal computers designed primarily for general office work or gaming.",
+        "main_definition_hebrew": "בהקשר של מחשבים, 'שולחניים' מתייחס למחשבים אישיים רבי עוצמה המיועדים בעיקר לעבודה משרדית כללית או למשחקים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Computers without monitor enclosures",
+                "definition_hebrew": "מחשבים ללא מארזי צג",
+                "example": "He has a few desktops in his home office.",
+                "example_hebrew": "יש לו כמה שולחנות עבודה במשרד הביתי שלו."
+            },
+            {
+                "definition": "General-purpose personal computers for work or gaming",
+                "definition_hebrew": "מחשבים אישיים לשימוש כללי לעבודה או למשחקים",
+                "example": "The latest desktop models have improved graphics and processing power.",
+                "example_hebrew": "לדגמי שולחן העבודה האחרונים יש גרפיקה וכוח עיבוד משופרים."
+            },
+            {
+                "definition": "Desktop publishing software used to create documents with text, images, and layout",
+                "definition_hebrew": "תוכנת פרסום שולחנית המשמשת ליצירת מסמכים עם טקסט, תמונות ופריסה",
+                "example": "She uses Adobe InDesign, a popular desktop publishing tool, for creating professional-looking brochures.",
+                "example_hebrew": "היא משתמשת ב-Adobe InDesign, כלי פופולרי לפרסום שולחני, ליצירת עלונים בעלי מראה מקצועי."
+            }
+        ]
+    }
+]

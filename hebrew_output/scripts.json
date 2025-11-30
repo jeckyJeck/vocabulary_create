@@ -1,0 +1,34 @@
+[
+    {
+        "word": "scripts",
+        "word_hebrew": "תסריטים",
+        "main_definition": "Scripts refer to written texts, especially those used by actors or computers, which guide the performance of a play, movie, or software function.",
+        "main_definition_hebrew": "תסריטים מתייחסים לטקסטים כתובים, במיוחד אלה המשמשים שחקנים או מחשבים, המנחים את הביצוע של מחזה, סרט או תוכנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Written guidelines for plays and movies",
+                "definition_hebrew": "הנחיות כתובות למחזות וסרטים",
+                "example": "The script for Shakespeare's 'Romeo and Juliet' outlines the dialogues and stage directions.",
+                "example_hebrew": "התסריט של 'רומיאו ויוליה' של שייקספיר מתאר את הדיאלוגים ואת כיווני הבמה."
+            },
+            {
+                "definition": "Source code written to automate tasks in software development",
+                "definition_hebrew": "קוד מקור שנכתב לאוטומציה של משימות בפיתוח תוכנה",
+                "example": "A developer writes scripts using a programming language like Python or Bash to perform repetitive data processing tasks.",
+                "example_hebrew": "מפתח כותב סקריפטים באמצעות שפת תכנות כמו Python או Bash לביצוע משימות עיבוד נתונים חוזרות ונשנות."
+            },
+            {
+                "definition": "An abbreviation for 'screenplay', the written text of a play or film script",
+                "definition_hebrew": "קיצור של 'תסריט', הטקסט הכתוב של מחזה או תסריט לסרט",
+                "example": "The Hollywood screenwriter was hired to revise an existing scripts before production began.",
+                "example_hebrew": "התסריטאי ההוליוודי נשכר כדי לשנות תסריטים קיימים לפני תחילת ההפקה."
+            },
+            {
+                "definition": "A set of pre-written instructions in video games to guide players through game levels and objectives",
+                "definition_hebrew": "קבוצה של הוראות כתובות מראש במשחקי וידאו כדי להדריך את השחקנים ברמות ומטרות המשחק",
+                "example": "As you progress in the game, new scripts appear that help you navigate challenging obstacles.",
+                "example_hebrew": "ככל שאתה מתקדם במשחק, מופיעים סקריפטים חדשים שעוזרים לך לנווט במכשולים מאתגרים."
+            }
+        ]
+    }
+]

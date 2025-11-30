@@ -1,0 +1,40 @@
+[
+    {
+        "word": "pattern",
+        "word_hebrew": "תבנית",
+        "main_definition": "A repeated or regular arrangement of elements that can represent a concept, behavior, or design.",
+        "main_definition_hebrew": "סידור חוזר או קבוע של אלמנטים שיכולים לייצג מושג, התנהגות או עיצוב.",
+        "meanings_and_examples": [
+            {
+                "definition": "Design or arrangement in which something is organized regularly",
+                "definition_hebrew": "עיצוב או סידור שבו משהו מאורגן באופן קבוע",
+                "example": "The pattern on the butterfly's wings was symmetrical and mesmerizing.",
+                "example_hebrew": "הדוגמה על כנפי הפרפר הייתה סימטרית ומהפנטת."
+            },
+            {
+                "definition": "A method that can be repeated to achieve a desired result or outcome",
+                "definition_hebrew": "שיטה שניתן לחזור עליה כדי להשיג תוצאה או תוצאה רצויה",
+                "example": "She followed a workout pattern of cardio exercises for five days a week.",
+                "example_hebrew": "היא עקבה אחר דפוס אימון של תרגילי אירובי במשך חמישה ימים בשבוע."
+            },
+            {
+                "definition": "Recurring events, behaviors, or phenomena that follow a predictable sequence",
+                "definition_hebrew": "אירועים, התנהגויות או תופעות שחוזרים על עצמם העוקבים אחר רצף צפוי",
+                "example": "The seasons have a natural pattern of changing throughout the year.",
+                "example_hebrew": "לעונות השנה יש דפוס טבעי של שינוי לאורך השנה."
+            },
+            {
+                "definition": "A formula or algorithm used to solve a problem or create something new",
+                "definition_hebrew": "נוסחה או אלגוריתם המשמשים כדי לפתור בעיה או ליצור משהו חדש",
+                "example": "Programmers use algorithms as patterns to write efficient code.",
+                "example_hebrew": "מתכנתים משתמשים באלגוריתמים כתבניות כדי לכתוב קוד יעיל."
+            },
+            {
+                "definition": "An example that can be repeated for consistency and uniformity",
+                "definition_hebrew": "דוגמה שניתן לחזור עליה לצורך עקביות ואחידות",
+                "example": "The chef provided a recipe with detailed steps, ensuring the dish's pattern was followed correctly.",
+                "example_hebrew": "השף סיפק מתכון עם שלבים מפורטים, והבטיח שהתבנית של המנה בוצעה כהלכה."
+            }
+        ]
+    }
+]

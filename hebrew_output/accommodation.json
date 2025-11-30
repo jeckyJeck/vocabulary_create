@@ -1,0 +1,34 @@
+[
+    {
+        "word": "accommodation",
+        "word_hebrew": "דִיוּר",
+        "main_definition": "The action of making a place or arrangement suitable or comfortable for someone.",
+        "main_definition_hebrew": "הפעולה של הפיכת מקום או סידור מתאים או נוח למישהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To provide with lodging and facilities at an affordable price",
+                "definition_hebrew": "לספק לינה ומתקנים במחיר סביר",
+                "example": "The hotel offered great accommodation rates during the off-season.",
+                "example_hebrew": "המלון הציע מחירי לינה מעולים במהלך עונת החוץ."
+            },
+            {
+                "definition": "A place to live, especially one that is not very desirable or attractive",
+                "definition_hebrew": "מקום מגורים, במיוחד כזה שהוא לא מאוד נחשק או אטרקטיבי",
+                "example": "He found a cheap but run-down apartment as his first form of accommodation in the city.",
+                "example_hebrew": "הוא מצא דירה זולה אך מוזנחת כצורת הלינה הראשונה שלו בעיר."
+            },
+            {
+                "definition": "The act of adjusting something or making changes so it will fit better or work more effectively",
+                "definition_hebrew": "הפעולה של התאמת משהו או ביצוע שינויים כך שהוא יתאים יותר או יעבוד בצורה יעילה יותר",
+                "example": "She had to make some accommodations to her schedule to attend her daughter's soccer game.",
+                "example_hebrew": "היא נאלצה לעשות כמה התאמות ללוח הזמנים שלה כדי להשתתף במשחק הכדורגל של בתה."
+            },
+            {
+                "definition": "A suitable place for a particular purpose, especially in terms of living arrangements",
+                "definition_hebrew": "מקום מתאים למטרה מסוימת, בעיקר מבחינת סידורי מגורים",
+                "example": "Finding good accommodation was the first challenge they faced when moving to a new country.",
+                "example_hebrew": "מציאת מקום מגורים טוב היה האתגר הראשון שעמד בפניהם כשעברו למדינה חדשה."
+            }
+        ]
+    }
+]

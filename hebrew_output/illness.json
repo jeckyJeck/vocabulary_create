@@ -1,0 +1,34 @@
+[
+    {
+        "word": "illness",
+        "word_hebrew": "מחלה",
+        "main_definition": "Illness refers to a state of poor health or disease that affects an individual'utility, productivity, or overall well-being.",
+        "main_definition_hebrew": "מחלה מתייחסת למצב של בריאות לקויה או מחלה המשפיעה על התועלת, הפרודוקטיביות או הרווחה הכללית של האדם.",
+        "meanings_and_examples": [
+            {
+                "definition": "General term for any physical or mental disorder",
+                "definition_hebrew": "מונח כללי לכל הפרעה פיזית או נפשית",
+                "example": "The flu is a common illness that many people experience annually.",
+                "example_hebrew": "שפעת היא מחלה נפוצה שאנשים רבים חווים מדי שנה."
+            },
+            {
+                "definition": "A temporary state of feeling unwell, which may not necessarily be caused by a disease",
+                "definition_hebrew": "מצב זמני של הרגשה לא טובה, שלא בהכרח נגרם על ידי מחלה",
+                "example": "She was in an illness after eating too much junk food during the weekend.",
+                "example_hebrew": "היא הייתה במחלה לאחר שאכלה יותר מדי ג'אנק פוד במהלך סוף השבוע."
+            },
+            {
+                "definition": "A condition or disorder that prevents normal functioning and requires medical attention",
+                "definition_hebrew": "מצב או הפרעה המונעים תפקוד תקין ודורשים טיפול רפואי",
+                "example": "Diabetes is a chronic illness that affects how her body processes blood sugar.",
+                "example_hebrew": "סוכרת היא מחלה כרונית המשפיעה על האופן שבו הגוף שלה מעבד את הסוכר בדם."
+            },
+            {
+                "definition": "A disease or sickness that can spread from person to person, often causing outbreaks or epidemics",
+                "definition_hebrew": "מחלה או מחלה שעלולים להתפשט מאדם לאדם, ולעתים קרובות לגרום להתפרצויות או מגיפות",
+                "example": "The COVID-19 pandemic is a global health crisis caused by the novel coronavirus illness.",
+                "example_hebrew": "מגיפת COVID-19 היא משבר בריאות עולמי שנגרם על ידי מחלת הקורונה החדשה."
+            }
+        ]
+    }
+]

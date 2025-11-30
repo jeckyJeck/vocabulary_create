@@ -1,0 +1,40 @@
+[
+    {
+        "word": "innovation",
+        "word_hebrew": "חדשנות",
+        "main_definition": "The process of introducing new ideas, methods, or products to improve upon existing systems or processes.",
+        "main_definition_hebrew": "תהליך של הצגת רעיונות, שיטות או מוצרים חדשים לשיפור מערכות או תהליכים קיימים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Creating something new and unique that solves a problem or meets a need.",
+                "definition_hebrew": "יצירת משהו חדש וייחודי שפותר בעיה או עונה על צורך.",
+                "example": "The invention of the smartphone revolutionized communication by combining phone, internet, and camera functionalities into one device.",
+                "example_hebrew": "המצאת הסמארטפון חוללה מהפכה בתקשורת על ידי שילוב פונקציונליות הטלפון, האינטרנט והמצלמה למכשיר אחד."
+            },
+            {
+                "definition": "Improving an existing product, service, or process to make it better or more efficient.",
+                "definition_hebrew": "שיפור מוצר, שירות או תהליך קיימים כדי להפוך אותם לטובים או יעילים יותר.",
+                "example": "By implementing a new inventory management system, the company reduced waste and increased sales by streamlining their supply chain.",
+                "example_hebrew": "על ידי הטמעת מערכת ניהול מלאי חדשה, החברה צמצמה את הפסולת והגדילה את המכירות על ידי ייעול שרשרת האספקה שלה."
+            },
+            {
+                "definition": "Adopting new technologies or techniques that change how work is done in an industry or sector.",
+                "definition_hebrew": "אימוץ טכנולוגיות או טכניקות חדשות שמשנות את אופן העבודה בתעשייה או במגזר.",
+                "example": "The rise of automation technology has transformed manufacturing processes, making them faster and more precise while reducing the need for manual labor.",
+                "example_hebrew": "עלייתה של טכנולוגיית האוטומציה שינתה את תהליכי הייצור, והפכה אותם למהירים ומדויקים יותר תוך הפחתת הצורך בעבודת כפיים."
+            },
+            {
+                "definition": "Development of novel approaches to solve complex problems that traditional methods cannot address effectively.",
+                "definition_hebrew": "פיתוח גישות חדשות לפתרון בעיות מורכבות ששיטות מסורתיות אינן יכולות לטפל בהן ביעילות.",
+                "example": "In healthcare, innovations like telemedicine have made it possible for patients in remote areas to receive medical consultation and care from specialists around the world.",
+                "example_hebrew": "בתחום הבריאות, חידושים כמו רפואה טלפונית אפשרו למטופלים באזורים מרוחקים לקבל ייעוץ וטיפול רפואי ממומחים ברחבי העולם."
+            },
+            {
+                "definition": "The introduction of new ideas or ways of doing things that challenge established norms and practices.",
+                "definition_hebrew": "הכנסת רעיונות חדשים או דרכים לעשות דברים המאתגרים נורמות ופרקטיקות מבוססות.",
+                "example": "Sustainable energy solutions such as solar panels and wind turbines represent an innovation in how we generate electricity, moving away from reliance on fossil fuels.",
+                "example_hebrew": "פתרונות אנרגיה בת קיימא כגון פאנלים סולאריים וטורבינות רוח מייצגים חידוש באופן שבו אנו מייצרים חשמל, ומתרחקים מהסתמכות על דלקים מאובנים."
+            }
+        ]
+    }
+]

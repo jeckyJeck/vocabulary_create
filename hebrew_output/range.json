@@ -1,0 +1,46 @@
+[
+    {
+        "word": "range",
+        "word_hebrew": "טווח",
+        "main_definition": "The main definition of 'range' is a variety or assortment of different things, typically referring to the extent between two extremes.",
+        "main_definition_hebrew": "ההגדרה העיקרית של 'טווח' היא מגוון או מבחר של דברים שונים, המתייחסים בדרך כלל להיקף שבין שני קצוות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A series of numbers that increase in a uniform pattern (e.g., counting by ones).",
+                "definition_hebrew": "סדרה של מספרים הגדלים בתבנית אחידה (למשל, ספירה באחדים).",
+                "example": "The number range from 10 to 20 includes the sequence: 10, 11, 12, ..., 19, 20.",
+                "example_hebrew": "טווח המספרים בין 10 ל-20 כולל את הרצף: 10, 11, 12, ..., 19, 20."
+            },
+            {
+                "definition": "A group of mountains or hills.",
+                "definition_hebrew": "קבוצה של הרים או גבעות.",
+                "example": "The Rocky Mountains form a large range in North America.",
+                "example_hebrew": "הרי הרוקי יוצרים טווח גדול בצפון אמריקה."
+            },
+            {
+                "definition": "The distance between the farthest and nearest points of something (e.g., temperature).",
+                "definition_hebrew": "המרחק בין הנקודות הרחוקות והקרובות ביותר של משהו (למשל, טמפרטורה).",
+                "example": "The freezer has a range from -10°C to -20°C.",
+                "example_hebrew": "למקפיא טווח של -10°C עד -20°C."
+            },
+            {
+                "definition": "A set or group of items, often used in reference to kitchen appliances.",
+                "definition_hebrew": "סט או קבוצת פריטים, המשמשים לעתים קרובות בהתייחסות למכשירי חשמל למטבח.",
+                "example": "This stainless steel cooking range is both durable and energy-efficient.",
+                "example_hebrew": "טווח בישול זה מנירוסטה הוא גם עמיד וגם חסכוני באנרגיה."
+            },
+            {
+                "definition": "The variety of prices for a particular item (e.g., products).",
+                "definition_hebrew": "מגוון המחירים של פריט מסוים (למשל, מוצרים).",
+                "example": "There's a wide price range for these designer shoes, from $50 to over $300.",
+                "example_hebrew": "יש טווח מחירים רחב לנעלי מעצבים אלה, מ-$50 ועד למעלה מ-$300."
+            },
+            {
+                "definition": "A selection or choice among alternatives.",
+                "definition_hebrew": "מבחר או בחירה בין חלופות.",
+                "example": "The menu offers a range of dishes that cater to different dietary preferences.",
+                "example_hebrew": "התפריט מציע מגוון מנות העונות על העדפות תזונתיות שונות."
+            }
+        ]
+    }
+]

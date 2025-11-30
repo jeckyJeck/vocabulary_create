@@ -1,0 +1,40 @@
+[
+    {
+        "word": "copy",
+        "word_hebrew": "עותק",
+        "main_definition": "To replicate or reproduce something, either physically or in terms of information or style.",
+        "main_definition_hebrew": "לשכפל או לשחזר משהו, פיזית או במונחים של מידע או סגנון.",
+        "meanings_and_examples": [
+            {
+                "definition": "To make an exact likeness or duplicate of an object or document.",
+                "definition_hebrew": "כדי ליצור דמיון או שכפול מדויק של חפץ או מסמך.",
+                "example": "The office clerk made a copy of the contract for their records.",
+                "example_hebrew": "פקיד המשרד הכין עותק של החוזה לרישומיהם."
+            },
+            {
+                "definition": "To imitate or mimic someone's actions, behavior, or style.",
+                "definition_hebrew": "לחקות או לחקות פעולות, התנהגות או סגנונו של מישהו.",
+                "example": "She copied her friend's fashion sense and started wearing similar outfits.",
+                "example_hebrew": "היא העתקה את החוש האופנתי של חברתה והתחילה ללבוש תלבושות דומות."
+            },
+            {
+                "definition": "To reproduce written material by hand or with a copying machine.",
+                "definition_hebrew": "לשכפל חומר כתוב ביד או במכונת העתקה.",
+                "example": "I asked the librarian to photocopy this article for me.",
+                "example_hebrew": "ביקשתי מהספרנית שתצלם עבורי את המאמר הזה."
+            },
+            {
+                "definition": "To record information from one source and transfer it onto another medium.",
+                "definition_hebrew": "להקליט מידע ממקור אחד ולהעבירו למדיום אחר.",
+                "example": "The teacher handed out copies of the lesson plan on paper.",
+                "example_hebrew": "המורה חילקה עותקים של מערך השיעור על נייר."
+            },
+            {
+                "definition": "In sports, to replicate a successful play or maneuver by an opposing team.",
+                "definition_hebrew": "בספורט, לשחזר משחק מוצלח או תמרון של קבוצה יריבה.",
+                "example": "After studying the game footage, they tried to copy their opponents' winning strategy.",
+                "example_hebrew": "לאחר שלמדו את קטעי המשחק, הם ניסו להעתיק את אסטרטגיית הניצחון של יריביהם."
+            }
+        ]
+    }
+]

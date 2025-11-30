@@ -1,0 +1,40 @@
+[
+    {
+        "word": "optimization",
+        "word_hebrew": "אופטימיזציה",
+        "main_definition": "The process of making something as effective, perfect, or functional as possible.",
+        "main_definition_hebrew": "התהליך של יצירת משהו יעיל, מושלם או פונקציונלי ככל האפשר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Improving the efficiency of a system, machine, or method by making it function more effectively and at less cost",
+                "definition_hebrew": "שיפור היעילות של מערכת, מכונה או שיטה על ידי הפיכתן לתפקוד יעיל יותר ובעלות נמוכה יותר",
+                "example": "Optimizing traffic flow in a city by implementing smart signaling systems.",
+                "example_hebrew": "ייעול זרימת התנועה בעיר על ידי הטמעת מערכות איתות חכמות."
+            },
+            {
+                "definition": "Enhancing performance or output through adjustments or improvements",
+                "definition_hebrew": "שיפור הביצועים או התפוקה באמצעות התאמות או שיפורים",
+                "example": "An athlete optimizes their training regimen to improve running speed and endurance.",
+                "example_hebrew": "ספורטאי מייעל את משטר האימונים שלו כדי לשפר את מהירות הריצה והסיבולת."
+            },
+            {
+                "definition": "Refining a plan, strategy, or decision-making process for the best possible outcome",
+                "definition_hebrew": "חידוד תוכנית, אסטרטגיה או תהליך קבלת החלטות לתוצאה הטובה ביותר האפשרית",
+                "example": "A company may optimize its marketing strategy by analyzing data and adjusting targets accordingly.",
+                "example_hebrew": "חברה עשויה לייעל את אסטרטגיית השיווק שלה על ידי ניתוח נתונים והתאמת יעדים בהתאם."
+            },
+            {
+                "definition": "Adjusting parameters in mathematical models to get the most desirable results",
+                "definition_hebrew": "התאמת פרמטרים במודלים מתמטיים כדי לקבל את התוצאות הרצויות ביותר",
+                "example": "Graphical analysis is used to optimize the design of an engine for maximum efficiency.",
+                "example_hebrew": "ניתוח גרפי משמש כדי לייעל את העיצוב של המנוע ליעילות מרבית."
+            },
+            {
+                "definition": "Reducing waste and unnecessary components or steps in a process while maintaining quality",
+                "definition_hebrew": "הפחתת פסולת ורכיבים או שלבים מיותרים בתהליך תוך שמירה על איכות",
+                "example": "Manufacturers often use optimization techniques to streamline production, reduce costs, and lower environmental impact.",
+                "example_hebrew": "יצרנים משתמשים לעתים קרובות בטכניקות אופטימיזציה כדי לייעל את הייצור, להפחית עלויות ולהפחית את ההשפעה הסביבתית."
+            }
+        ]
+    }
+]

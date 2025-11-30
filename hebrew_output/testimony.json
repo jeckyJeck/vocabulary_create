@@ -1,0 +1,34 @@
+[
+    {
+        "word": "testimony",
+        "word_hebrew": "עֵד",
+        "main_definition": "Testimony refers to a statement or declaration given by a witness under oath, typically in a court of law, but it can also be used more broadly to describe any account provided based on personal knowledge.",
+        "main_definition_hebrew": "עדות מתייחסת להצהרה או הצהרה שניתנה על ידי עד בשבועה, בדרך כלל בבית משפט, אך ניתן להשתמש בה גם בצורה רחבה יותר כדי לתאר כל חשבון שניתן על סמך ידע אישי.",
+        "meanings_and_examples": [
+            {
+                "definition": "A formal statement made in a legal proceeding",
+                "definition_hebrew": "הצהרה רשמית בהליך משפטי",
+                "example": "The witness gave his testimony before the judge and jury.",
+                "example_hebrew": "העד מסר את עדותו בפני השופט וחבר המושבעים."
+            },
+            {
+                "definition": "An account or narrative provided by someone who has direct knowledge of the events in question",
+                "definition_hebrew": "תיאור או נרטיב מסופק על ידי מישהו שיש לו ידע ישיר על האירועים המדוברים",
+                "example": "The journalist's testimony shed light on the political corruption scandal.",
+                "example_hebrew": "עדותו של העיתונאי שפכה אור על פרשת השחיתות הפוליטית."
+            },
+            {
+                "definition": "A declaration made by a witness to support their claims or accusations",
+                "definition_hebrew": "הצהרה של עד כדי לתמוך בטענותיו או האשמותיהם",
+                "example": "The victim’s testimony was crucial in proving her innocence.",
+                "example_hebrew": "לעדותה של הקורבן הייתה חשיבות מכרעת להוכחת חפותה."
+            },
+            {
+                "definition": "Any statement that is used as evidence because of the personal knowledge it provides on a particular matter",
+                "definition_hebrew": "כל הצהרה המשמשת כראיה בגלל הידע האישי שהיא מספקת בעניין מסוים",
+                "example": "His detailed testimony about the incident helped solve the mystery.",
+                "example_hebrew": "עדותו המפורטת על התקרית סייעה לפתור את התעלומה."
+            }
+        ]
+    }
+]

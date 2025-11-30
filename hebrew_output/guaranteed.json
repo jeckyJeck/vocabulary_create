@@ -1,0 +1,40 @@
+[
+    {
+        "word": "guaranteed",
+        "word_hebrew": "מוּבטָח",
+        "main_definition": "Confirmed to be true or certain, often used in the context of a promise or assurance.",
+        "main_definition_hebrew": "מאושר כנכון או בטוח, משמש לעתים קרובות בהקשר של הבטחה או הבטחה.",
+        "meanings_and_examples": [
+            {
+                "definition": "1. Certain to happen, without any doubt or possibility of failure.",
+                "definition_hebrew": "1. בטוח יקרה, ללא כל ספק או אפשרות לכישלון.",
+                "example": "The contract states that payment is guaranteed upon delivery.",
+                "example_hebrew": "החוזה קובע כי התשלום מובטח בעת המסירה."
+            },
+            {
+                "definition": "2. A formal assurance, especially one given by a company or government, promising to repair or replace defective products within a specified period.",
+                "definition_hebrew": "2. הבטחה רשמית, במיוחד כזו שניתנת על ידי חברה או ממשלה, המבטיחה לתקן או להחליף מוצרים פגומים בתוך תקופה מוגדרת.",
+                "example": "I purchased a laptop with a three-year warranty guaranteeing free repairs if it malfunctions.",
+                "example_hebrew": "רכשתי מחשב נייד עם אחריות לשלוש שנים המבטיחה תיקונים חינם אם הוא יתקלקל."
+            },
+            {
+                "definition": "3. To provide complete assurance or certainty about something, often used to express confidence in an outcome.",
+                "definition_hebrew": "3. לספק ביטחון מלא או ודאות לגבי משהו, משמש לעתים קרובות כדי להביע אמון בתוצאה.",
+                "example": "The coach guaranteed that the team would win the championship this season with their strong performance during practice.",
+                "example_hebrew": "המאמן הבטיח שהקבוצה תזכה העונה באליפות עם הופעה חזקה במהלך האימון."
+            },
+            {
+                "definition": "4. Having a guarantee, meaning being covered by some kind of insurance or protection against loss or damage.",
+                "definition_hebrew": "4. בעל ערבות, כלומר מכוסה בביטוח כלשהו או הגנה מפני אובדן או נזק.",
+                "example": "My house is guaranteed under my homeowner's insurance policy in case of any damages due to natural disasters.",
+                "example_hebrew": "הבית שלי מובטח במסגרת פוליסת ביטוח בעלי הבית שלי למקרה של נזקים כלשהם עקב אסונות טבע."
+            },
+            {
+                "definition": "5. The act of making sure that something will happen, often by taking steps to prevent problems or issues.",
+                "definition_hebrew": "5. הפעולה של לוודא שמשהו יקרה, לרוב על ידי נקיטת צעדים למניעת בעיות או בעיות.",
+                "example": "The project manager guaranteed the completion of the task within the deadline by closely monitoring the team's progress.",
+                "example_hebrew": "מנהל הפרויקט הבטיח את השלמת המשימה בתוך המועד על ידי מעקב צמוד אחר התקדמות הצוות."
+            }
+        ]
+    }
+]

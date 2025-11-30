@@ -1,0 +1,34 @@
+[
+    {
+        "word": "sector",
+        "word_hebrew": "מִגזָר",
+        "main_definition": "A sector refers to a distinct segment or division within an economy, industry, society, or organization.",
+        "main_definition_hebrew": "מגזר מתייחס למגזר או חטיבה מובחנים בתוך כלכלה, תעשייה, חברה או ארגון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Part of the economy: A sector is a group of industries that are closely related in terms of their production processes and markets. For example, the technology sector includes companies involved in computer hardware, software development, telecommunications, etc.",
+                "definition_hebrew": "חלק מהכלכלה: מגזר הוא קבוצה של תעשיות הקשורות קשר הדוק מבחינת תהליכי הייצור והשווקים שלהן. לדוגמה, מגזר הטכנולוגיה כולל חברות העוסקות בחומרת מחשבים, פיתוח תוכנה, טלקומוניקציה וכו'.",
+                "example": "The healthcare industry has experienced significant growth over the past decade.",
+                "example_hebrew": "תעשיית הבריאות חוותה צמיחה משמעותית בעשור האחרון."
+            },
+            {
+                "definition": "Geographical division: In geography or urban planning, a sector can refer to a portion of land that is bounded by streets and includes various buildings. For example, 'the residential sector' refers to neighborhoods primarily composed of homes.",
+                "definition_hebrew": "חלוקה גיאוגרפית: בגיאוגרפיה או בתכנון ערים, מגזר יכול להתייחס לחלק קרקע התחום ברחובות וכולל מבנים שונים. לדוגמה, \"מגזר המגורים\" מתייחס לשכונות המורכבות בעיקר מבתים.",
+                "example": "The downtown area consists of three sectors - the commercial, entertainment, and governmental sectors.",
+                "example_hebrew": "אזור מרכז העיר מורכב משלושה מגזרים - המסחר, הבידור והמגזר הממשלתי."
+            },
+            {
+                "definition": "Grouping within organizations: Within large companies or institutions, a sector can refer to a department that handles specific tasks or manages certain products. For example, 'the manufacturing sector' of an automobile company may include divisions responsible for designing and producing engines.",
+                "definition_hebrew": "קיבוץ בתוך ארגונים: בתוך חברות או מוסדות גדולים, מגזר יכול להתייחס למחלקה המטפלת במשימות ספציפיות או מנהלת מוצרים מסוימים. לדוגמה, 'מגזר הייצור' של חברת רכב עשוי לכלול חטיבות האחראיות על תכנון וייצור מנועים.",
+                "example": "The education sector comprises various departments such as student services, curriculum development, and admissions.",
+                "example_hebrew": "מגזר החינוך כולל מחלקות שונות כגון שירותי סטודנטים, פיתוח תכניות לימודים וקבלה."
+            },
+            {
+                "definition": "Area or field: In broader contexts, a sector can also mean an area of interest or expertise. For example, 'the environmental sector' refers to those involved in studying and addressing ecological issues.",
+                "definition_hebrew": "תחום או תחום: בהקשרים רחבים יותר, מגזר יכול להיות גם תחום עניין או מומחיות. לדוגמה, 'המגזר הסביבתי' מתייחס לעוסקים בלימוד ובטיפול בנושאים אקולוגיים.",
+                "example": "He is working on his PhD thesis within the artificial intelligence (AI) sector.",
+                "example_hebrew": "הוא עובד על עבודת הדוקטורט שלו בתחום הבינה המלאכותית (AI)."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "sectors",
+        "word_hebrew": "מגזרים",
+        "main_definition": "Sectors refer to distinct parts or divisions within a broader context, often used in economic, political, or social discussions.",
+        "main_definition_hebrew": "מגזרים מתייחסים לחלקים או חלוקות נפרדות בהקשר רחב יותר, המשמשים לעתים קרובות בדיונים כלכליים, פוליטיים או חברתיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Economic sectors",
+                "definition_hebrew": "מגזרים כלכליים",
+                "example": "The economy is typically divided into three main sectors: the primary (agriculture), secondary (manufacturing), and tertiary (services) sectors.",
+                "example_hebrew": "המשק מחולק בדרך כלל לשלושה מגזרים עיקריים: המגזר הראשוני (חקלאות), המשני (ייצור) והשלישוני (שירותים)."
+            },
+            {
+                "definition": "Geographical sectors",
+                "definition_hebrew": "מגזרים גיאוגרפיים",
+                "example": "A city might be divided into different geographic sectors, such as residential, commercial, industrial, or recreational areas.",
+                "example_hebrew": "עיר עשויה להיות מחולקת למגזרים גיאוגרפיים שונים, כגון אזורי מגורים, מסחר, תעשייה או פנאי."
+            },
+            {
+                "definition": "Political sectors",
+                "definition_hebrew": "מגזרים פוליטיים",
+                "example": "In politics, a country can have various political parties that represent distinct ideological sectors of the population, like conservatives, liberals, socialists, etc.",
+                "example_hebrew": "בפוליטיקה, למדינה יכולות להיות מפלגות פוליטיות שונות המייצגות מגזרים אידיאולוגיים מובהקים של האוכלוסייה, כמו שמרנים, ליברלים, סוציאליסטים וכו'."
+            }
+        ]
+    }
+]

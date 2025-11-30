@@ -1,0 +1,40 @@
+[
+    {
+        "word": "soma",
+        "word_hebrew": "סומא",
+        "main_definition": "Soma is a word with multiple meanings, primarily in the context of medicine and biology referring to bodily fluid or an idiomatic expression related to life's pleasures.",
+        "main_definition_hebrew": "סומה היא מילה בעלת משמעויות מרובות, בעיקר בהקשר של רפואה וביולוגיה המתייחסת לנוזל הגוף או לביטוי אידיומטי הקשור להנאות החיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In biology, 'soma' refers to the cell body (or cytoplasm) of a neuron or other nerve cells. It is the part of the cell that contains the nucleus and various organelles.",
+                "definition_hebrew": "בביולוגיה, 'סומה' מתייחס לגוף התא (או הציטופלזמה) של נוירון או תאי עצב אחרים. זהו החלק בתא המכיל את הגרעין והאברונים השונים.",
+                "example": "The soma of a neuron integrates incoming signals from dendrites before passing them along.",
+                "example_hebrew": "הסומא של נוירון משלבת אותות נכנסים מדנדריטים לפני שהוא מעביר אותם."
+            },
+            {
+                "definition": "'Soma' also refers to bodily fluid in humans, which encompasses all the liquid substances within our body (e.g., blood plasma).",
+                "definition_hebrew": "'סומה' מתייחס גם לנוזל הגוף בבני אדם, המקיף את כל החומרים הנוזליים בגופנו (למשל, פלזמת דם).",
+                "example": "Doctors often test somatic fluids like blood or urine for medical diagnostics.",
+                "example_hebrew": "רופאים בודקים לעתים קרובות נוזלים סומטיים כמו דם או שתן לצורך אבחון רפואי."
+            },
+            {
+                "definition": "'Soma' is an idiom that refers to any pleasure-inducing substance, activity, or experience. It often carries connotations of escapism and temporary relief from life's hardships.",
+                "definition_hebrew": "'סומה' הוא ניב המתייחס לכל חומר, פעילות או חוויה מעוררת הנאה. לעתים קרובות יש בו קונוטציות של אסקפיזם והקלה זמנית מתלאות החיים.",
+                "example": "She indulged in soma by spending her weekends at the beach.",
+                "example_hebrew": "היא התפנקה בסומה בכך שבילתה את סופי השבוע שלה בחוף הים."
+            },
+            {
+                "definition": "'Soma', as used by Aldous Huxley in his novel 'Brave New World,' specifically refers to a fictional drug that provides pleasure and happiness, symbolizing synthetic means of escapism.",
+                "definition_hebrew": "'סומה', כפי ששימש את אלדוס האקסלי ברומן שלו 'עולם חדש ואמיץ', מתייחס ספציפית לסם בדיוני המספק הנאה ואושר, המסמל אמצעים סינתטיים של אסקפיזם.",
+                "example": "In the world of 'Brave New World', soma was consumed daily to avoid pain and maintain societal harmony.",
+                "example_hebrew": "בעולם של 'Brave New World', סומא נצרך מדי יום כדי למנוע כאב ולשמור על הרמוניה חברתית."
+            },
+            {
+                "definition": "'Soma' can also be an acronym for 'Society Of Mental Health Professionals', referring to organizations that focus on mental health.",
+                "definition_hebrew": "'Soma' יכול להיות גם ראשי תיבות של 'Society Of Mental Health Professionals', המתייחס לארגונים המתמקדים בבריאות הנפש.",
+                "example": "The SOMH provides resources and support for individuals dealing with depression.",
+                "example_hebrew": "ה-SOMH מספק משאבים ותמיכה לאנשים המתמודדים עם דיכאון."
+            }
+        ]
+    }
+]

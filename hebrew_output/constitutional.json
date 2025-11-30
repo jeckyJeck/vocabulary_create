@@ -1,0 +1,40 @@
+[
+    {
+        "word": "constitutional",
+        "word_hebrew": "חוּקָתִי",
+        "main_definition": "Relating to or in accordance with a constitution, especially the fundamental principles of law that govern an entity.",
+        "main_definition_hebrew": "בהתייחס לחוקה או בהתאם לחוקה, במיוחד לעקרונות היסוד של החוק השולטים בישות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In line with the country's constitution and legal framework.",
+                "definition_hebrew": "בהתאם לחוקה ולמסגרת החוקית של המדינה.",
+                "example": "The presidential candidate is running for office under a constitutional process.",
+                "example_hebrew": "המועמד לנשיאות מתמודד לתפקיד במסגרת הליך חוקתי."
+            },
+            {
+                "definition": "Compliant with or within the boundaries of a constitutionally established body, such as a court system.",
+                "definition_hebrew": "תואם או בתוך גבולותיו של גוף שהוקם חוקתית, כגון מערכת בתי משפט.",
+                "example": "A lawsuit was dismissed because it violated constitutional norms.",
+                "example_hebrew": "תביעה נדחתה משום שהיא הפרה נורמות חוקתיות."
+            },
+            {
+                "definition": "Conforming to the provisions and principles laid out in a country's constitution, particularly regarding human rights and freedoms.",
+                "definition_hebrew": "התאמה להוראות ולעקרונות הקבועים בחוקה של מדינה, במיוחד לגבי זכויות אדם וחירויות.",
+                "example": "The government passed legislation that protects freedom of speech, ensuring it is constitutional.",
+                "example_hebrew": "הממשלה העבירה חקיקה המגנה על חופש הביטוי, ומבטיחה שהוא חוקתי."
+            },
+            {
+                "definition": "Pertaining to or concerning the structure and powers defined by a constitution for governing an organization or institution.",
+                "definition_hebrew": "הנוגעים או נוגעים למבנה ולסמכויות המוגדרים בחוקה לניהול ארגון או מוסד.",
+                "example": "A public university has certain constitutional duties towards its students.",
+                "example_hebrew": "לאוניברסיטה ציבורית יש חובות חוקתיות מסוימות כלפי תלמידיה."
+            },
+            {
+                "definition": "Existing within legal bounds as outlined in a constitution, especially when discussing governmental actions or policies.",
+                "definition_hebrew": "קיים בגבולות חוקיים כפי שמתואר בחוקה, במיוחד כאשר דנים בפעולות או מדיניות ממשלתית.",
+                "example": "The new tax policy was deemed unconstitutional because it overstepped the powers granted by the constitution.",
+                "example_hebrew": "מדיניות המס החדשה נחשבה לא חוקתית מכיוון שהיא חרגה מהסמכויות הניתנות על ידי החוקה."
+            }
+        ]
+    }
+]

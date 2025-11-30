@@ -1,0 +1,40 @@
+[
+    {
+        "word": "security",
+        "word_hebrew": "בִּטָחוֹן",
+        "main_definition": "Security refers to the state of being safe from danger or harm, as well as measures taken to protect against potential threats.",
+        "main_definition_hebrew": "אבטחה מתייחסת למצב של ביטחון מפני סכנה או פגיעה, כמו גם לאמצעים שננקטו כדי להגן מפני איומים פוטנציאליים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Protection against physical damage or unauthorized access",
+                "definition_hebrew": "הגנה מפני נזק פיזי או גישה לא מורשית",
+                "example": "Installing a security system in your home includes cameras and alarms.",
+                "example_hebrew": "התקנת מערכת אבטחה בבית כוללת מצלמות ואזעקות."
+            },
+            {
+                "definition": "The state of being free from danger, risk, or anxiety",
+                "definition_hebrew": "המצב של חופש מסכנה, סיכון או חרדה",
+                "example": "Feeling secure on a well-lit street is comforting at night.",
+                "example_hebrew": "להרגיש בטוח ברחוב מואר זה מנחם בלילה."
+            },
+            {
+                "definition": "Policies and procedures to safeguard against loss or unauthorized activity in financial transactions",
+                "definition_hebrew": "מדיניות ונהלים להגנה מפני אובדן או פעילות בלתי מורשית בעסקאות פיננסיות",
+                "example": "A bank requires two forms of identification for security purposes when someone wants to access their account.",
+                "example_hebrew": "בנק דורש שתי צורות זיהוי למטרות אבטחה כאשר מישהו רוצה לגשת לחשבון שלו."
+            },
+            {
+                "definition": "The legal measures taken to ensure that a prisoner is not released without justification",
+                "definition_hebrew": "האמצעים המשפטיים שננקטו כדי להבטיח שאסיר לא ישוחרר ללא הצדקה",
+                "example": "Prisoners are usually kept in solitary confinement as part of the security protocol.",
+                "example_hebrew": "אסירים מוחזקים בדרך כלל בבידוד כחלק מפרוטוקול הביטחון."
+            },
+            {
+                "definition": "Ensuring safety and well-being within an organization or community, often through rules and regulations",
+                "definition_hebrew": "הבטחת בטיחות ורווחה בתוך ארגון או קהילה, לעתים קרובות באמצעות חוקים ותקנות",
+                "example": "The company has strict security policies to protect its employees' personal data.",
+                "example_hebrew": "לחברה יש מדיניות אבטחה קפדנית כדי להגן על הנתונים האישיים של עובדיה."
+            }
+        ]
+    }
+]

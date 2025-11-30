@@ -1,0 +1,34 @@
+[
+    {
+        "word": "detector",
+        "word_hebrew": "גַלַאִי",
+        "main_definition": "A device or system designed to detect specific objects, substances, or changes in a given environment.",
+        "main_definition_hebrew": "מכשיר או מערכת שנועדו לזהות עצמים, חומרים או שינויים ספציפיים בסביבה נתונה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A tool used for discovering the presence of something hidden or not easily visible.",
+                "definition_hebrew": "כלי המשמש לגילוי נוכחות של משהו נסתר או שאינו גלוי בקלות.",
+                "example": "The metal detector can find coins buried underground.",
+                "example_hebrew": "גלאי המתכות יכול למצוא מטבעות קבורים מתחת לאדמה."
+            },
+            {
+                "definition": "An instrument that identifies and measures specific gases, such as carbon monoxide in a home environment.",
+                "definition_hebrew": "מכשיר המזהה ומודד גזים ספציפיים, כמו פחמן חד חמצני בסביבה ביתית.",
+                "example": "A smoke detector alerts residents to the presence of dangerous levels of smoke or fire.",
+                "example_hebrew": "גלאי עשן מתריע בפני התושבים על נוכחות של רמות מסוכנות של עשן או אש."
+            },
+            {
+                "definition": "Software used for detecting and analyzing patterns in data, commonly applied in fields like security and fraud detection.",
+                "definition_hebrew": "תוכנה המשמשת לאיתור וניתוח דפוסים בנתונים, המיושמת בדרך כלל בתחומים כמו אבטחה וזיהוי הונאה.",
+                "example": "The bank's fraud detection system flagged suspicious transactions on the customer's account.",
+                "example_hebrew": "מערכת גילוי ההונאות של הבנק סימנה עסקאות חשודות בחשבון הלקוח."
+            },
+            {
+                "definition": "A device that senses changes in physical phenomena, such as temperature or pressure, to monitor an environment or process.",
+                "definition_hebrew": "מכשיר שחש שינויים בתופעות פיזיקליות, כגון טמפרטורה או לחץ, כדי לנטר סביבה או תהליך.",
+                "example": "A water level detector alerts operators when a tank reaches its maximum capacity.",
+                "example_hebrew": "גלאי מפלס מים מתריע למפעילים כאשר מיכל מגיע לקיבולת המקסימלית שלו."
+            }
+        ]
+    }
+]

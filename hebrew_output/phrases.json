@@ -1,0 +1,34 @@
+[
+    {
+        "word": "phrases",
+        "word_hebrew": "ביטויים",
+        "main_definition": "Phrases are groups of words that come together to convey a particular idea, concept or expression in language.",
+        "main_definition_hebrew": "ביטויים הם קבוצות של מילים שמתחברות יחד כדי להעביר רעיון, מושג או ביטוי מסוים בשפה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Sets of words used commonly as idioms",
+                "definition_hebrew": "קבוצות של מילים המשמשות בדרך כלל כביטויים",
+                "example": "Break the ice",
+                "example_hebrew": "לשבור את הקרח"
+            },
+            {
+                "definition": "Group of words forming a conceptual unit",
+                "definition_hebrew": "קבוצת מילים היוצרות יחידה מושגית",
+                "example": "The early bird catches the worm.",
+                "example_hebrew": "הציפור המוקדמת לוכדת את התולעת."
+            },
+            {
+                "definition": "Selections from written or spoken material to highlight an idea",
+                "definition_hebrew": "מבחר מחומר כתוב או מדובר כדי להדגיש רעיון",
+                "example": "She used several phrases like 'time flies' and 'a piece of cake' in her speech.",
+                "example_hebrew": "היא השתמשה בכמה ביטויים כמו 'הזמן טס' ו'חתיכת עוגה' בנאום שלה."
+            },
+            {
+                "definition": "Words that are commonly used together, often with a particular meaning beyond the literal words themselves",
+                "definition_hebrew": "מילים המשמשות בדרך כלל יחד, לרוב בעלות משמעות מסוימת מעבר למילים המילוליות עצמן",
+                "example": "The ball is in your court",
+                "example_hebrew": "הכדור במגרש שלך"
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "receivers",
+        "word_hebrew": "מקלטים",
+        "main_definition": "In the context of communication, receivers refer to individuals or devices that receive signals, messages, or information.",
+        "main_definition_hebrew": "בהקשר של תקשורת, מקלטים מתייחסים ליחידים או מכשירים המקבלים אותות, הודעות או מידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Individuals in a telecommunication system who receive transmitted data",
+                "definition_hebrew": "אנשים במערכת טלקומוניקציה המקבלים נתונים משודרים",
+                "example": "The receivers at the end user's location are responsible for decoding and displaying the received television signals.",
+                "example_hebrew": "המקלטים במיקום משתמש הקצה אחראים על פענוח והצגת אותות הטלוויזיה המתקבלים."
+            },
+            {
+                "definition": "Devices used to detect, collect or amplify incoming electromagnetic signals",
+                "definition_hebrew": "מכשירים המשמשים לאיתור, איסוף או הגברה של אותות אלקטרומגנטיים נכנסים",
+                "example": "Receivers in a radio system can include antennas that capture radio waves from broadcast stations.",
+                "example_hebrew": "מקלטים במערכת רדיו יכולים לכלול אנטנות הלוכדות גלי רדיו מתחנות שידור."
+            },
+            {
+                "definition": "In sports, the offensive players who are tasked with catching and processing passes during a game",
+                "definition_hebrew": "בספורט, שחקני ההתקפה עליהם מוטלת המשימה לתפוס ולעבד מסירות במהלך משחק",
+                "example": "The receivers on the football team quickly caught the ball thrown by their quarterback for an advancing play.",
+                "example_hebrew": "המקלטים בקבוצת הכדורגל תפסו במהירות את הכדור שנזרק על ידי הקוורטרבק שלהם למשחק מתקדם."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "copyright",
+        "word_hebrew": "זכויות יוצרים",
+        "main_definition": "Copyright is a legal right that grants the creator of an original work exclusive rights to its use and distribution, typically lasting for the creator's lifetime plus a set number of years after their death.",
+        "main_definition_hebrew": "זכויות יוצרים היא זכות משפטית המעניקה ליוצר של יצירה מקורית זכויות בלעדיות לשימוש ולהפצתה, הנמשכות בדרך כלל למשך כל חייו של היוצר בתוספת מספר מוגדר של שנים לאחר מותם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Protection against unauthorized copying",
+                "definition_hebrew": "הגנה מפני העתקה בלתי מורשית",
+                "example": "When you create an original painting, applying copyright protects it from being reproduced without your permission.",
+                "example_hebrew": "כאשר אתה יוצר ציור מקורי, החלת זכויות יוצרים מגינה עליו מפני שכפול ללא רשותך."
+            },
+            {
+                "definition": "Legal right granted to the creator of an original work",
+                "definition_hebrew": "זכות משפטית הניתנת ליוצר יצירה מקורית",
+                "example": "A songwriter obtaining a copyright for their new music prevents others from using the lyrics or melody without consent.",
+                "example_hebrew": "כותב שירים שמקבל זכויות יוצרים על המוזיקה החדשה שלו מונע מאחרים להשתמש במילים או במנגינה ללא הסכמה."
+            },
+            {
+                "definition": "Extended period after the death of the creator during which works are protected by copyright law",
+                "definition_hebrew": "תקופה ממושכת לאחר מות היוצר שבמהלכה יצירות מוגנות בחוק זכויות יוצרים",
+                "example": "In most countries, if an author died in 1950, their work would remain under copyright protection until at least 70 years after that year.",
+                "example_hebrew": "ברוב המדינות, אם מחבר נפטר בשנת 1950, יצירתו תישאר תחת הגנת זכויות יוצרים עד 70 שנה לפחות לאחר אותה שנה."
+            },
+            {
+                "definition": "A type of intellectual property",
+                "definition_hebrew": "סוג של קניין רוחני",
+                "example": "Just as patents protect inventions and trademarks protect brands, copyrights safeguard the creative works from copying or misuse.",
+                "example_hebrew": "בדיוק כפי שפטנטים מגנים על המצאות וסימנים מסחריים מגנים על מותגים, זכויות יוצרים מגינות על היצירות היצירתיות מפני העתקה או שימוש לרעה."
+            }
+        ]
+    }
+]

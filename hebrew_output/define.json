@@ -1,0 +1,34 @@
+[
+    {
+        "word": "define",
+        "word_hebrew": "לְהַגדִיר",
+        "main_definition": "To state the exact meaning of a word, phrase, or concept.",
+        "main_definition_hebrew": "לציין את המשמעות המדויקת של מילה, ביטוי או מושג.",
+        "meanings_and_examples": [
+            {
+                "definition": "To give the precise meaning of an unfamiliar term or idea.",
+                "definition_hebrew": "לתת את המשמעות המדויקת של מונח או רעיון לא מוכרים.",
+                "example": "The dictionary defines 'cryptocurrency' as digital or virtual currency that uses cryptography for security.",
+                "example_hebrew": "המילון מגדיר 'מטבע קריפטוגרפי' כמטבע דיגיטלי או וירטואלי המשתמש בקריפטוגרפיה לצורך אבטחה."
+            },
+            {
+                "definition": "To establish clear boundaries and parameters for something (like a project).",
+                "definition_hebrew": "לקבוע גבולות ופרמטרים ברורים למשהו (כמו פרויקט).",
+                "example": "They defined the scope of their research by identifying specific objectives and methods to be used.",
+                "example_hebrew": "הם הגדירו את היקף המחקר שלהם על ידי זיהוי מטרות ושיטות ספציפיות לשימוש."
+            },
+            {
+                "definition": "To provide an explanation or interpretation that clarifies meaning.",
+                "definition_hebrew": "לספק הסבר או פרשנות שמבהירה משמעות.",
+                "example": "The teacher defined the term 'photosynthesis' as the process through which plants use sunlight to convert carbon dioxide into glucose.",
+                "example_hebrew": "המורה הגדיר את המונח 'פוטוסינתזה' כתהליך שבאמצעותו צמחים משתמשים באור השמש כדי להמיר פחמן דו חמצני לגלוקוז."
+            },
+            {
+                "definition": "In a legal context, it means to describe something in detail for official purposes.",
+                "definition_hebrew": "בהקשר משפטי, זה אומר לתאר משהו בפירוט למטרות רשמיות.",
+                "example": "The court defined the terms of service and privacy policy before proceeding with user consent.",
+                "example_hebrew": "בית המשפט הגדיר את תנאי השירות ומדיניות הפרטיות בטרם המשיך בהסכמת המשתמש."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "wire",
+        "word_hebrew": "חוּט",
+        "main_definition": "A thin, flexible thread of metal used to conduct electricity or a phrase that conveys the idea of quick action or communication.",
+        "main_definition_hebrew": "חוט דק וגמיש של מתכת המשמש להולכת חשמל או ביטוי המעביר את הרעיון של פעולה מהירה או תקשורת.",
+        "meanings_and_examples": [
+            {
+                "definition": "A strand of thin, flexible metal, typically made of copper or aluminum, used for transmitting electricity or signals from one point to another",
+                "definition_hebrew": "גדיל של מתכת דקה וגמישה, עשויה בדרך כלל מנחושת או אלומיניום, המשמשת להעברת חשמל או אותות מנקודה אחת לאחרת",
+                "example": "The electricians replaced the old copper wire with a new one in the house's wiring system.",
+                "example_hebrew": "החשמלאים החליפו את חוט הנחושת הישן בחדש במערכת החיווט של הבית."
+            },
+            {
+                "definition": "An expression that emphasizes speed and efficiency, often used when someone acts quickly or communicates rapidly",
+                "definition_hebrew": "ביטוי המדגיש מהירות ויעילות, משמש לעתים קרובות כאשר מישהו פועל במהירות או מתקשר במהירות",
+                "example": "She shot off an email to confirm the meeting time; she really got on wire with it!",
+                "example_hebrew": "היא ירתה אימייל כדי לאשר את שעת הפגישה; היא ממש עלתה על זה!"
+            },
+            {
+                "definition": "A phrase or idiomatic expression that suggests swift action or rapid communication",
+                "definition_hebrew": "ביטוי או ביטוי אידיומטי המציע פעולה מהירה או תקשורת מהירה",
+                "example": "When there was a change in plans, he had to get on the wires and inform everyone immediately.",
+                "example_hebrew": "כשהיה שינוי בתוכניות, הוא נאלץ לעלות על החוטים ולהודיע לכולם מיד."
+            },
+            {
+                "definition": "The act of transmitting signals through a wire, such as telephone lines or internet connections",
+                "definition_hebrew": "הפעולה של העברת אותות דרך חוט, כגון קווי טלפון או חיבורי אינטרנט",
+                "example": "Phone calls are made possible by transmitting voice signals through physical wires connecting different locations.",
+                "example_hebrew": "שיחות טלפון מתאפשרות על ידי העברת אותות קוליים דרך חוטים פיזיים המחברים בין מיקומים שונים."
+            },
+            {
+                "definition": "A thin metal rope used in rigging and climbing equipment to provide support and stability",
+                "definition_hebrew": "חבל מתכת דק המשמש בציוד חבלול וטיפוס כדי לספק תמיכה ויציבות",
+                "example": "The rock climber carefully secured his safety wire before attempting the challenging ascent.",
+                "example_hebrew": "מטפס הסלעים איבטח בזהירות את חוט הבטיחות שלו לפני שניסה את העלייה האתגרית."
+            }
+        ]
+    }
+]

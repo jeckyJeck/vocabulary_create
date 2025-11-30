@@ -1,0 +1,40 @@
+[
+    {
+        "word": "designer",
+        "word_hebrew": "מְעַצֵב",
+        "main_definition": "A person who plans or creates a design, typically in the fields of fashion, architecture, product development, etc.",
+        "main_definition_hebrew": "אדם המתכנן או יוצר עיצוב, בדרך כלל בתחומי אופנה, אדריכלות, פיתוח מוצרים וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "Fashion designer",
+                "definition_hebrew": "מעצב אופנה",
+                "example": "Alexander McQueen is renowned as a fashion designer known for his avant-garde designs.",
+                "example_hebrew": "אלכסנדר מקווין ידוע כמעצב אופנה הידוע בעיצוביו האוונגרדיים."
+            },
+            {
+                "definition": "Interior designer",
+                "definition_hebrew": "מעצב פנים",
+                "example": "Jane Doe transformed the living room with her exceptional interior design skills, creating an inviting and stylish space.",
+                "example_hebrew": "ג'יין דו שינתה את הסלון עם כישורי עיצוב הפנים יוצאי הדופן שלה, ויצרה חלל מזמין ומסוגנן."
+            },
+            {
+                "definition": "Graphic designer",
+                "definition_hebrew": "מעצב גרפי",
+                "example": "John Smith crafted a striking logo for XYZ Corporation as a graphic designer using Adobe Illustrator.",
+                "example_hebrew": "ג'ון סמית' יצר לוגו בולט עבור XYZ Corporation כמעצב גרפי באמצעות Adobe Illustrator."
+            },
+            {
+                "definition": "Architect",
+                "definition_hebrew": "אַדְרִיכָל",
+                "example": "The renowned architect Zaha Hadid designed the stunning Heydar Aliyev Center in Azerbaijan, blending art and architecture.",
+                "example_hebrew": "האדריכלית הנודעת זאהה חדיד עיצבה את מרכז היידר אלייב המדהים באזרבייג'ן, תוך שילוב של אמנות ואדריכלות."
+            },
+            {
+                "definition": "Product designer",
+                "definition_hebrew": "מעצב מוצר",
+                "example": "As a product designer at Apple Inc., Jane Doe played a key role in creating ergonomic and aesthetic designs for the iPhone X.",
+                "example_hebrew": "כמעצבת מוצר ב-Apple Inc., ג'יין דו שיחקה תפקיד מפתח ביצירת עיצובים ארגונומיים ואסתטיים לאייפון X."
+            }
+        ]
+    }
+]

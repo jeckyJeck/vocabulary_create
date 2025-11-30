@@ -1,0 +1,28 @@
+[
+    {
+        "word": "guestbook",
+        "word_hebrew": "ספר אורחים",
+        "main_definition": "A guestbook is a book, usually bound, where visitors or guests can write their names and comments when they visit an event, place of interest, or individual's home.",
+        "main_definition_hebrew": "ספר אורחים הוא ספר, בדרך כלל כרוך, שבו מבקרים או אורחים יכולים לכתוב את שמם והערותיהם כאשר הם מבקרים באירוע, מקום מעניין או בביתו של אדם.",
+        "meanings_and_examples": [
+            {
+                "definition": "An actual physical book for guests to sign",
+                "definition_hebrew": "ספר פיזי אמיתי לחתום לאורחים",
+                "example": "After attending the wedding ceremony, Jane signed her name and a heartfelt message in the couple's guestbook.",
+                "example_hebrew": "לאחר שהשתתפה בטקס החתונה, חתמה ג'יין את שמה והודעה מכל הלב בספר האורחים של הזוג."
+            },
+            {
+                "definition": "A digital version of a guestbook where comments can be left online",
+                "definition_hebrew": "גרסה דיגיטלית של ספר אורחים שבה ניתן להשאיר הערות באינטרנט",
+                "example": "The hotel provided an online guestbook for guests to leave reviews about their stay on the website.",
+                "example_hebrew": "המלון סיפק ספר אורחים מקוון לאורחים להשאיר ביקורות על שהותם באתר."
+            },
+            {
+                "definition": "An electronic system that allows users to post messages and share experiences with others",
+                "definition_hebrew": "מערכת אלקטרונית המאפשרת למשתמשים לפרסם הודעות ולחלוק חוויות עם אחרים",
+                "example": "The museum's interactive exhibit had a digital guestbook feature where visitors could upload pictures and write notes related to their visit.",
+                "example_hebrew": "התערוכה האינטראקטיבית של המוזיאון כללה מאפיין ספר אורחים דיגיטלי שבו המבקרים יכלו להעלות תמונות ולכתוב הערות הקשורות לביקורם."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "arbitrary",
+        "word_hebrew": "שרירותי",
+        "main_definition": "based on random choice or personal whim, rather than any reason or system.",
+        "main_definition_hebrew": "מבוסס על בחירה אקראית או גחמה אישית, ולא על כל סיבה או מערכת.",
+        "meanings_and_examples": [
+            {
+                "definition": "having no definite pattern; chosen at random",
+                "definition_hebrew": "ללא דפוס מוגדר; נבחר באקראי",
+                "example": "The teacher randomly selected students to answer questions in class.",
+                "example_hebrew": "המורה בחר באקראי תלמידים לענות על שאלות בכיתה."
+            },
+            {
+                "definition": "based on the whim or arbitrary judgment of an individual",
+                "definition_hebrew": "מבוסס על גחמה או שיקול דעת שרירותי של אדם",
+                "example": "The decision was made arbitrarily by the manager without consulting anyone else.",
+                "example_hebrew": "ההחלטה התקבלה באופן שרירותי על ידי המנהל מבלי להתייעץ עם מישהו אחר."
+            },
+            {
+                "definition": "having no clear basis in fact or reason; seemingly random",
+                "definition_hebrew": "ללא בסיס ברור בעובדה או סיבה; לכאורה אקראי",
+                "example": "The selection process for the award seemed arbitrary and lacked transparent criteria.",
+                "example_hebrew": "תהליך הבחירה לפרס נראה שרירותי וחסר קריטריונים שקופים."
+            },
+            {
+                "definition": "unreasonable, unjustifiable",
+                "definition_hebrew": "לא הגיוני, לא מוצדק",
+                "example": "His decision to penalize students arbitrarily was met with outrage from both parents and educators.",
+                "example_hebrew": "החלטתו להעניש תלמידים באופן שרירותי התקבלה בזעם הן מצד ההורים והן מצד המחנכים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "physical",
+        "word_hebrew": "גוּפָנִי",
+        "main_definition": "Pertaining to the body, matter, or material reality.",
+        "main_definition_hebrew": "הנוגע לגוף, לחומר או למציאות החומרית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to the physical body and its movements",
+                "definition_hebrew": "התייחסות לגוף הפיזי ולתנועותיו",
+                "example": "He demonstrated his strength in a physical challenge at the gym.",
+                "example_hebrew": "הוא הפגין את כוחו באתגר פיזי בחדר הכושר."
+            },
+            {
+                "definition": "Concerning tangible objects or substances",
+                "definition_hebrew": "לגבי חפצים או חומרים מוחשיים",
+                "example": "The science class conducted an experiment with various physical materials like wood, metal, and plastic.",
+                "example_hebrew": "כיתת המדעים ערכה ניסוי עם חומרים פיזיקליים שונים כמו עץ, מתכת ופלסטיק."
+            },
+            {
+                "definition": "Involving actual touch or contact rather than virtual or imaginary interaction",
+                "definition_hebrew": "כרוך במגע או מגע בפועל ולא באינטראקציה וירטואלית או דמיונית",
+                "example": "We had a face-to-face meeting instead of a video call to discuss the project.",
+                "example_hebrew": "קיימנו פגישה פנים אל פנים במקום שיחת וידאו כדי לדון בפרויקט."
+            },
+            {
+                "definition": "Not involving thoughts, ideas, or emotions; relating to concrete things",
+                "definition_hebrew": "לא לערב מחשבות, רעיונות או רגשות; מתייחס לדברים קונקרטיים",
+                "example": "She could not help but feel overwhelmed by the physical evidence of her achievement.",
+                "example_hebrew": "היא לא יכלה שלא להרגיש המומה מהראיות הפיזיות להישג שלה."
+            }
+        ]
+    }
+]

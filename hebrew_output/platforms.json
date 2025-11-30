@@ -1,0 +1,40 @@
+[
+    {
+        "word": "platforms",
+        "word_hebrew": "פלטפורמות",
+        "main_definition": "Platforms refer to surfaces or structures that support activities, events, products, or services.",
+        "main_definition_hebrew": "פלטפורמות מתייחסות למשטחים או מבנים התומכים בפעילויות, אירועים, מוצרים או שירותים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical platforms as stages for public speaking or performances",
+                "definition_hebrew": "במות פיזיות כבמות לדיבור או הופעות",
+                "example": "The TEDx event used a large platform for speakers to present their ideas.",
+                "example_hebrew": "אירוע TEDx השתמש בפלטפורמה גדולה לדוברים כדי להציג את רעיונותיהם."
+            },
+            {
+                "definition": "Digital platforms, such as websites and apps that host various content",
+                "definition_hebrew": "פלטפורמות דיגיטליות, כגון אתרים ואפליקציות המארחות תכנים שונים",
+                "example": "YouTube serves as an online platform where users can watch videos from different creators.",
+                "example_hebrew": "YouTube משמש כפלטפורמה מקוונת שבה משתמשים יכולים לצפות בסרטונים של יוצרים שונים."
+            },
+            {
+                "definition": "Infrastructure or frameworks supporting a particular industry or technology",
+                "definition_hebrew": "תשתית או מסגרות התומכות בתעשייה או בטכנולוגיה מסוימת",
+                "example": "Blockchain platforms provide the infrastructure for cryptocurrency transactions and smart contracts.",
+                "example_hebrew": "פלטפורמות בלוקצ'יין מספקות תשתית לעסקאות קריפטו וחוזים חכמים."
+            },
+            {
+                "definition": "A series of connected activities, events, or services that promote something specific",
+                "definition_hebrew": "סדרה של פעילויות, אירועים או שירותים מחוברים המקדמים משהו ספציפי",
+                "example": "The fashion show was a platform to launch new designs by several clothing brands simultaneously.",
+                "example_hebrew": "תצוגת האופנה הייתה פלטפורמה להשיק עיצובים חדשים של כמה מותגי לבוש בו זמנית."
+            },
+            {
+                "definition": "Supporting structure for products on store shelves or in inventory systems",
+                "definition_hebrew": "מבנה תומך למוצרים על מדפי החנויות או במערכות מלאי",
+                "example": "Supermarkets use shopping cart platforms to hold and organize various items during checkout.",
+                "example_hebrew": "סופרמרקטים משתמשים בפלטפורמות של עגלת קניות כדי להחזיק ולארגן פריטים שונים במהלך התשלום."
+            }
+        ]
+    }
+]

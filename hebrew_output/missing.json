@@ -1,0 +1,40 @@
+[
+    {
+        "word": "missing",
+        "word_hebrew": "חָסֵר",
+        "main_definition": "Not present or not able to be found; something is absent or unavailable.",
+        "main_definition_hebrew": "לא נוכח או לא ניתן למצוא; משהו נעדר או לא זמין.",
+        "meanings_and_examples": [
+            {
+                "definition": "To fail to attend or be present at a scheduled event, appointment, etc.",
+                "definition_hebrew": "לא להשתתף או להיות נוכח באירוע שנקבע, פגישה וכו'.",
+                "example": "He always seems to miss the morning meetings due to oversleeping.",
+                "example_hebrew": "נראה שהוא תמיד מתגעגע לפגישות הבוקר בגלל שינה יתר."
+            },
+            {
+                "definition": "The absence of something that is required or expected",
+                "definition_hebrew": "היעדר משהו שנדרש או צפוי",
+                "example": "She missed her train and had to find an alternative way home.",
+                "example_hebrew": "היא פספסה את הרכבת שלה ונאלצה למצוא דרך חלופית הביתה."
+            },
+            {
+                "definition": "To not have something in the proper place or order; misplaced",
+                "definition_hebrew": "לא שיהיה משהו במקום או בסדר הנכון; לא במקום",
+                "example": "I can't find my car keys anywhere, they must be missing!",
+                "example_hebrew": "אני לא מוצא את מפתחות הרכב שלי בשום מקום, הם בטח חסרים!"
+            },
+            {
+                "definition": "Unable to locate a person after they go missing, often leading to an investigation.",
+                "definition_hebrew": "לא ניתן לאתר אדם לאחר שנעלם, מה שמוביל לרוב לחקירה.",
+                "example": "The police are searching for the missing child.",
+                "example_hebrew": "המשטרה מחפשת אחר הילד הנעדר."
+            },
+            {
+                "definition": "To not fulfill or lack in quantity",
+                "definition_hebrew": "לא להגשים או להיעדר בכמות",
+                "example": "Our team is missing one member due to illness.",
+                "example_hebrew": "לצוות שלנו חסר חבר אחד עקב מחלה."
+            }
+        ]
+    }
+]

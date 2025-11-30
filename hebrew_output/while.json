@@ -1,0 +1,34 @@
+[
+    {
+        "word": "while",
+        "word_hebrew": "בזמן",
+        "main_definition": "While is a conjunction or an idiom used to indicate that two events are happening simultaneously.",
+        "main_definition_hebrew": "בעוד הוא צירוף או ניב המשמש לציון ששני אירועים מתרחשים בו זמנית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Conjunction meaning indicating simultaneous occurrence of events",
+                "definition_hebrew": "משמעות צירוף המציינת התרחשות בו-זמנית של אירועים",
+                "example": "I read a book while drinking coffee.",
+                "example_hebrew": "קראתי ספר בזמן ששתיתי קפה."
+            },
+            {
+                "definition": "Idiomatic expression used to indicate a period or duration of time, equivalent to 'during the time that'",
+                "definition_hebrew": "ביטוי אידיומטי המשמש לציון תקופה או משך זמן, שווה ערך ל'בזמן שבו'",
+                "example": "While I was studying for my exams, I didn't have much free time.",
+                "example_hebrew": "בזמן שלמדתי למבחנים, לא היה לי הרבה זמן פנוי."
+            },
+            {
+                "definition": "Used in informal conversation to mean 'because' when expressing a reason or explanation",
+                "definition_hebrew": "משמש בשיחה לא רשמית במשמעות 'מפני' בעת הבעת סיבה או הסבר",
+                "example": "I couldn't go out because while you were sleeping, the car broke down.",
+                "example_hebrew": "לא יכולתי לצאת כי בזמן שישנת הרכב התקלקל."
+            },
+            {
+                "definition": "Used as an adverb meaning 'for the time being', 'temporarily'",
+                "definition_hebrew": "משמש כפתגם שמשמעותו 'בינתיים', 'זמני'",
+                "example": "While I don't know everything about that topic yet, I can give you some information to start with.",
+                "example_hebrew": "למרות שאני עדיין לא יודע הכל על הנושא הזה, אני יכול לתת לך קצת מידע מלכתחילה."
+            }
+        ]
+    }
+]

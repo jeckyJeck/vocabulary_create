@@ -1,0 +1,40 @@
+[
+    {
+        "word": "generates",
+        "word_hebrew": "מייצר",
+        "main_definition": "To produce or create something, typically by starting a process that results in the creation of new items or energy.",
+        "main_definition_hebrew": "לייצר או ליצור משהו, בדרך כלל על ידי התחלת תהליך שמביא ליצירת פריטים או אנרגיה חדשים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To originate or cause something to happen or exist.",
+                "definition_hebrew": "ליצור או לגרום למשהו לקרות או להתקיים.",
+                "example": "A strong market demand generates significant profits for companies.",
+                "example_hebrew": "ביקוש חזק בשוק מייצר רווחים משמעותיים לחברות."
+            },
+            {
+                "definition": "To create electricity, especially from renewable sources like wind or solar power.",
+                "definition_hebrew": "ליצור חשמל, במיוחד ממקורות מתחדשים כמו רוח או אנרגיה סולארית.",
+                "example": "The new wind farm generates clean energy for the local community.",
+                "example_hebrew": "חוות הרוח החדשה מייצרת אנרגיה נקייה לקהילה המקומית."
+            },
+            {
+                "definition": "In mathematics, to produce a sequence of numbers with specific properties or characteristics.",
+                "definition_hebrew": "במתמטיקה, לייצר רצף של מספרים עם תכונות או מאפיינים ספציפיים.",
+                "example": "Fibonacci's formula generates an infinite series of numbers where each number is the sum of the two preceding ones.",
+                "example_hebrew": "הנוסחה של פיבונאצ'י יוצרת סדרה אינסופית של מספרים כאשר כל מספר הוא הסכום של שני הקודמים."
+            },
+            {
+                "definition": "To bring forth offspring or descendants in various life forms, especially animals and plants.",
+                "definition_hebrew": "להביא צאצאים או צאצאים בצורות חיים שונות, בעיקר בעלי חיים וצמחים.",
+                "example": "The fertile soil allows crops to generate healthy yields every season.",
+                "example_hebrew": "האדמה הפורייה מאפשרת לגידולים לייצר יבולים בריאים בכל עונה."
+            },
+            {
+                "definition": "In business contexts, to create revenue or financial gain through sales or products.",
+                "definition_hebrew": "בהקשרים עסקיים, ליצור הכנסות או רווח כספי באמצעות מכירות או מוצרים.",
+                "example": "Online marketing strategies can generate significant sales for e-commerce platforms.",
+                "example_hebrew": "אסטרטגיות שיווק מקוונות יכולות לייצר מכירות משמעותיות עבור פלטפורמות מסחר אלקטרוני."
+            }
+        ]
+    }
+]

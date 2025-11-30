@@ -1,0 +1,34 @@
+[
+    {
+        "word": "yards",
+        "word_hebrew": "מטרים",
+        "main_definition": "A unit of measurement equal to 3 feet or approximately 0.9144 meters, often used in reference to length.",
+        "main_definition_hebrew": "יחידת מדידה השווה ל-3 רגל או כ-0.9144 מטר, משמשת לעתים קרובות בהתייחסות לאורך.",
+        "meanings_and_examples": [
+            {
+                "definition": "In distance, referring to a long way or span",
+                "definition_hebrew": "במרחק, הכוונה לדרך ארוכה או טווח",
+                "example": "She took a walk of several yards before sitting down.",
+                "example_hebrew": "היא עשתה הליכה של כמה מטרים לפני שהתיישבה."
+            },
+            {
+                "definition": "A unit of measurement in length equal to 3 feet (approximately 0.9144 meters)",
+                "definition_hebrew": "יחידת מדידה באורך שווה ל-3 רגל (0.9144 מטר בקירוב)",
+                "example": "The field was marked with fences every ten yards.",
+                "example_hebrew": "השדה סומן בגדרות כל עשרה מטרים."
+            },
+            {
+                "definition": "An area enclosed by a boundary",
+                "definition_hebrew": "אזור תחום בגבול",
+                "example": "We played catch in the yard behind our house.",
+                "example_hebrew": "שיחקנו בתפיסה בחצר מאחורי הבית שלנו."
+            },
+            {
+                "definition": "A short distance, colloquially used to describe something not very far away",
+                "definition_hebrew": "מרחק קצר, בשפה הרווחת כדי לתאר משהו לא רחוק מאוד",
+                "example": "It's just around the corner, only yards away.",
+                "example_hebrew": "זה ממש מעבר לפינה, רק מטרים משם."
+            }
+        ]
+    }
+]

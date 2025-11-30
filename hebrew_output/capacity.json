@@ -1,0 +1,40 @@
+[
+    {
+        "word": "capacity",
+        "word_hebrew": "קיבולת",
+        "main_definition": "Capacity refers to the maximum amount that something can hold, produce, or contain.",
+        "main_definition_hebrew": "קיבולת מתייחסת לכמות המקסימלית שמשהו יכול להחזיק, לייצר או להכיל.",
+        "meanings_and_examples": [
+            {
+                "definition": "The ability of a person to understand and process information efficiently.",
+                "definition_hebrew": "היכולת של אדם להבין ולעבד מידע ביעילות.",
+                "example": "Having high intellectual capacity allows an individual to grasp complex concepts quickly.",
+                "example_hebrew": "יכולת אינטלקטואלית גבוהה מאפשרת לאדם לתפוס מושגים מורכבים במהירות."
+            },
+            {
+                "definition": "The maximum amount that something can hold or contain, usually referring to physical space.",
+                "definition_hebrew": "הכמות המקסימלית שמשהו יכול להכיל או להכיל, בדרך כלל מתייחסת למרחב פיזי.",
+                "example": "A storage tank has a capacity of 10,000 gallons.",
+                "example_hebrew": "למיכל אחסון קיבולת של 10,000 גלונים."
+            },
+            {
+                "definition": "The total output or production level of an organization over a specific period.",
+                "definition_hebrew": "סך התפוקה או רמת הייצור של ארגון לאורך תקופה מסוימת.",
+                "example": "In Q3, the company reached its maximum manufacturing capacity due to increased demand.",
+                "example_hebrew": "ברבעון השלישי הגיעה החברה ליכולת הייצור המקסימלית שלה בשל ביקוש מוגבר."
+            },
+            {
+                "definition": "The potential for growth and development in an individual's abilities or skills.",
+                "definition_hebrew": "הפוטנציאל לצמיחה והתפתחות ביכולות או כישוריו של הפרט.",
+                "example": "With proper training, a young athlete can increase their capacity on the field.",
+                "example_hebrew": "עם אימון נכון, ספורטאי צעיר יכול להגדיל את היכולת שלו על המגרש."
+            },
+            {
+                "definition": "The maximum amount of liquid that a container can hold at its fullest point.",
+                "definition_hebrew": "כמות הנוזל המקסימלית שמיכל יכול להכיל בנקודה המלאה ביותר שלו.",
+                "example": "A water jug has a 2-gallon capacity.",
+                "example_hebrew": "לקנקן מים קיבולת של 2 ליטר."
+            }
+        ]
+    }
+]

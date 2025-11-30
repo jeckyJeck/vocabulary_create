@@ -1,0 +1,34 @@
+[
+    {
+        "word": "bugs",
+        "word_hebrew": "באגים",
+        "main_definition": "The term 'bugs' can refer to various concepts, including insects or software glitches in the context of technology.",
+        "main_definition_hebrew": "המונח 'באגים' יכול להתייחס למושגים שונים, כולל חרקים או תקלות תוכנה בהקשר של טכנולוגיה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Insects that are small and crawling",
+                "definition_hebrew": "חרקים קטנים וזוחלים",
+                "example": "I saw several bugs flying around my garden.",
+                "example_hebrew": "ראיתי כמה חרקים עפים בגינה שלי."
+            },
+            {
+                "definition": "A glitch or error in software code",
+                "definition_hebrew": "תקלה או שגיאה בקוד התוכנה",
+                "example": "The app crashed every time I tried to add a new contact, it seems like there's a bug.",
+                "example_hebrew": "האפליקציה קרסה בכל פעם שניסיתי להוסיף איש קשר חדש, נראה שיש באג."
+            },
+            {
+                "definition": "An annoyance or problem causing frustration",
+                "definition_hebrew": "מטרד או בעיה הגורמים לתסכול",
+                "example": "Dealing with constant bugs in the product has been very irritating for our customers.",
+                "example_hebrew": "התמודדות עם באגים קבועים במוצר מעצבנת מאוד את הלקוחות שלנו."
+            },
+            {
+                "definition": "Used colloquially to describe unexpected issues",
+                "definition_hebrew": "משמש בשפה הדיבורית לתיאור בעיות בלתי צפויות",
+                "example": "We encountered a few minor bugs during testing, but they were quickly resolved.",
+                "example_hebrew": "נתקלנו בכמה באגים קלים במהלך הבדיקה, אך הם נפתרו במהירות."
+            }
+        ]
+    }
+]

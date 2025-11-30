@@ -1,0 +1,40 @@
+[
+    {
+        "word": "reduce",
+        "word_hebrew": "לְהַפחִית",
+        "main_definition": "To make something smaller or less in amount, degree, or size.",
+        "main_definition_hebrew": "לעשות משהו קטן יותר או פחות בכמות, תואר או גודל.",
+        "meanings_and_examples": [
+            {
+                "definition": "To decrease the quantity of something while maintaining its quality.",
+                "definition_hebrew": "להקטין את הכמות של משהו תוך שמירה על איכותו.",
+                "example": "I'll try to reduce my sugar intake without compromising on taste.",
+                "example_hebrew": "אני אנסה להפחית את צריכת הסוכר בלי להתפשר על הטעם."
+            },
+            {
+                "definition": "To lessen the extent or severity of a problem or difficulty.",
+                "definition_hebrew": "כדי להפחית את מידת או החומרה של בעיה או קושי.",
+                "example": "The first aid training helped us reduce the impact of injuries in our community.",
+                "example_hebrew": "הכשרת העזרה הראשונה עזרה לנו להפחית את השפעת הפציעות בקהילה שלנו."
+            },
+            {
+                "definition": "To make something smaller by cutting, trimming, or shrinking it.",
+                "definition_hebrew": "לעשות משהו קטן יותר על ידי חיתוך, חיתוך או כיווץ שלו.",
+                "example": "She reduced her shirt size to fit better after gaining weight.",
+                "example_hebrew": "היא הקטינה את מידת החולצה שלה כדי להתאים יותר לאחר עלייה במשקל."
+            },
+            {
+                "definition": "To bring down the cost of a product or service.",
+                "definition_hebrew": "כדי להוזיל את העלות של מוצר או שירות.",
+                "example": "The store offered a 20% reduction on all electronics during the holiday sale.",
+                "example_hebrew": "החנות הציעה הנחה של 20% על כל מוצרי האלקטרוניקה במהלך מבצע החג."
+            },
+            {
+                "definition": "To simplify by eliminating unnecessary parts or complexity.",
+                "definition_hebrew": "כדי לפשט על ידי ביטול חלקים מיותרים או מורכבות.",
+                "example": "He reduced his morning routine to save time before work.",
+                "example_hebrew": "הוא צמצם את שגרת הבוקר שלו כדי לחסוך זמן לפני העבודה."
+            }
+        ]
+    }
+]

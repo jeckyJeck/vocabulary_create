@@ -1,0 +1,40 @@
+[
+    {
+        "word": "outer",
+        "word_hebrew": "חִיצוֹנִי",
+        "main_definition": "Referring to something positioned or occurring at the furthest point away from a central axis, reference point, or center.",
+        "main_definition_hebrew": "הכוונה למשהו הממוקם או מתרחש בנקודה הרחוקה ביותר מציר מרכזי, נקודת ייחוס או מרכז.",
+        "meanings_and_examples": [
+            {
+                "definition": "Pertaining to the outermost part of something",
+                "definition_hebrew": "נוגע לחלק החיצוני של משהו",
+                "example": "The outer edges of the table were covered in paint.",
+                "example_hebrew": "הקצוות החיצוניים של השולחן כוסו בצבע."
+            },
+            {
+                "definition": "Located on or near the periphery, edge, or boundary",
+                "definition_hebrew": "ממוקם על או ליד הפריפריה, הקצה או הגבול",
+                "example": "He lived in an apartment with a view of the outer city limits.",
+                "example_hebrew": "הוא גר בדירה עם נוף לגבולות העיר החיצוניים."
+            },
+            {
+                "definition": "Relating to something that is external or outside; not internal or within",
+                "definition_hebrew": "התייחסות למשהו שהוא חיצוני או חיצוני; לא פנימי או פנימי",
+                "example": "The company's security policies focus on protecting the outer network from potential threats.",
+                "example_hebrew": "מדיניות האבטחה של החברה מתמקדת בהגנה על הרשת החיצונית מפני איומים פוטנציאליים."
+            },
+            {
+                "definition": "Applied in context of clothing, referring to garments worn over another layer",
+                "definition_hebrew": "מיושם בהקשר של לבוש, הכוונה לבגדים הנלבשים על שכבה נוספת",
+                "example": "She put on her jacket before stepping out into the cold weather.",
+                "example_hebrew": "היא לבשה את הז'קט לפני שיצאה אל מזג האוויר הקר."
+            },
+            {
+                "definition": "In astronomy or geography, describing something farther away from Earth's center as opposed to closer objects such as planets and stars",
+                "definition_hebrew": "באסטרונומיה או גיאוגרפיה, מתאר משהו רחוק יותר ממרכז כדור הארץ בניגוד לעצמים קרובים יותר כמו כוכבי לכת וכוכבים",
+                "example": "The outer reaches of our solar system are home to distant dwarf planets like Pluto.",
+                "example_hebrew": "החלקים החיצוניים של מערכת השמש שלנו הם ביתם של כוכבי לכת ננסיים מרוחקים כמו פלוטו."
+            }
+        ]
+    }
+]

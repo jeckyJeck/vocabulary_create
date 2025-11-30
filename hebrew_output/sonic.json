@@ -1,0 +1,34 @@
+[
+    {
+        "word": "sonic",
+        "word_hebrew": "קוֹלִי",
+        "main_definition": "Relating to or caused by sound, especially high-pitched sound.",
+        "main_definition_hebrew": "קשור או נגרם על ידי צליל, במיוחד צליל גבוה.",
+        "meanings_and_examples": [
+            {
+                "definition": "High frequency of sound",
+                "definition_hebrew": "תדר גבוה של צליל",
+                "example": "The sonic boom is a loud explosive noise similar to the sound of thunder.",
+                "example_hebrew": "הבום הקולי הוא רעש נפץ חזק הדומה לקול הרעם."
+            },
+            {
+                "definition": "A type of missile or weapon that uses high-speed projectiles",
+                "definition_hebrew": "סוג של טיל או נשק המשתמשים בקליעים במהירות גבוהה",
+                "example": "During World War II, both sides used sonic devices as weapons.",
+                "example_hebrew": "במהלך מלחמת העולם השנייה, שני הצדדים השתמשו במכשירים קוליים ככלי נשק."
+            },
+            {
+                "definition": "An attribute of sound waves related to their speed and intensity",
+                "definition_hebrew": "תכונה של גלי קול הקשורה למהירותם ולעוצמתם",
+                "example": "The frequency of a sonic wave determines its pitch. The higher the frequency, the higher the pitch.",
+                "example_hebrew": "התדר של גל קולי קובע את גובה הצליל שלו. ככל שהתדירות גבוהה יותר, כך הגובה גבוה יותר."
+            },
+            {
+                "definition": "A measurement unit for velocity or speed in physics (m/s)",
+                "definition_hebrew": "יחידת מדידה למהירות או מהירות בפיזיקה (m/s)",
+                "example": "Sonic boom is measured in meters per second (m/s).",
+                "example_hebrew": "בום קולי נמדד במטרים לשנייה (m/s)."
+            }
+        ]
+    }
+]

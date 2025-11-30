@@ -1,0 +1,34 @@
+[
+    {
+        "word": "magazine",
+        "word_hebrew": "מגזין",
+        "main_definition": "A periodical publication containing articles, stories, photographs, and advertisements.",
+        "main_definition_hebrew": "פרסום תקופתי המכיל מאמרים, סיפורים, צילומים ופרסומות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Publication for general readership, usually published weekly or monthly.",
+                "definition_hebrew": "הוצאה לאור לקהל הקוראים הכללי, מתפרסם בדרך כלל מדי שבוע או חודשי.",
+                "example": "I just picked up the latest issue of National Geographic magazine.",
+                "example_hebrew": "בדיוק לקחתי את הגיליון האחרון של מגזין נשיונל ג'יאוגרפיק."
+            },
+            {
+                "definition": "Collection of articles and illustrations related to a particular subject",
+                "definition_hebrew": "אוסף מאמרים ואיורים הקשורים לנושא מסוים",
+                "example": "She subscribes to various magazines like Vogue, Cosmopolitan, and Teen Magazine.",
+                "example_hebrew": "היא מנויה למגזינים שונים כמו ווג, קוסמופוליטן ומגזין העשרה."
+            },
+            {
+                "definition": "Periodical that covers news, features, and other content in a specific niche or industry.",
+                "definition_hebrew": "כתב עת שמסקר חדשות, תכונות ותוכן אחר בנישה או בתעשייה ספציפית.",
+                "example": "The Wall Street Journal is a well-known business magazine.",
+                "example_hebrew": "הוול סטריט ג'ורנל הוא מגזין עסקי ידוע."
+            },
+            {
+                "definition": "A publication with articles related to hobbies or leisure activities",
+                "definition_hebrew": "פרסום עם מאמרים הקשורים לתחביבים או לפעילויות פנאי",
+                "example": "My son loves reading comic books and collecting issues of Marvel and DC magazines.",
+                "example_hebrew": "הבן שלי אוהב לקרוא חוברות קומיקס ולאסוף גיליונות של מגזינים של מארוול ו-DC."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "telecom",
+        "word_hebrew": "טלקום",
+        "main_definition": "Telecom refers to the industry or sector that deals with telecommunication services, equipment, and technology.",
+        "main_definition_hebrew": "טלקום מתייחסת לתעשייה או למגזר העוסקים בשירותי תקשורת, ציוד וטכנולוגיה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The broad field involving companies providing telephone and internet-related services",
+                "definition_hebrew": "התחום הרחב הכולל חברות המספקות שירותים טלפוניים ואינטרנט",
+                "example": "Vodafone is a leading telecom company offering mobile phones and data plans.",
+                "example_hebrew": "Vodafone היא חברת טלקום מובילה המציעה טלפונים ניידים ותוכניות נתונים."
+            },
+            {
+                "definition": "A network infrastructure used for transmitting voice, data, or video signals over long distances",
+                "definition_hebrew": "תשתית רשת המשמשת להעברת אותות קול, נתונים או וידאו למרחקים ארוכים",
+                "example": "Fiber-optic cables are part of the telecommunication networks that connect cities worldwide.",
+                "example_hebrew": "כבלים סיבים אופטיים הם חלק מרשתות התקשורת המקשרות בין ערים ברחבי העולם."
+            },
+            {
+                "definition": "The process of transmitting information from one place to another using electronic means",
+                "definition_hebrew": "תהליך העברת מידע ממקום למקום באמצעים אלקטרוניים",
+                "example": "Teleconferencing allows people in different locations to hold meetings via voice and video transmission.",
+                "example_hebrew": "שיחות ועידה טלפוניות מאפשרות לאנשים במיקומים שונים לקיים פגישות באמצעות שידור קול ווידאו."
+            }
+        ]
+    }
+]

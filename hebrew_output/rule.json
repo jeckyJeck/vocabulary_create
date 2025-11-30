@@ -1,0 +1,40 @@
+[
+    {
+        "word": "rule",
+        "word_hebrew": "כְּלָל",
+        "main_definition": "A guideline or principle that governs behavior, action, or procedure in various contexts such as games, sports, social norms, laws, etc.",
+        "main_definition_hebrew": "קו מנחה או עיקרון השולט בהתנהגות, פעולה או נוהל בהקשרים שונים כגון משחקים, ספורט, נורמות חברתיות, חוקים וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "Authority to command and make decisions",
+                "definition_hebrew": "סמכות לפקד ולקבל החלטות",
+                "example": "The queen rules over the kingdom with absolute power.",
+                "example_hebrew": "המלכה שולטת על הממלכה בכוח מוחלט."
+            },
+            {
+                "definition": "A statement or condition that must be obeyed or adhered to in a particular context",
+                "definition_hebrew": "הצהרה או תנאי שיש לציית או לדבוק בהם בהקשר מסוים",
+                "example": "In chess, moving your pawn two steps forward on its first move is known as the rule of pawn movement.",
+                "example_hebrew": "בשחמט, הזזת הפיון שלך שני צעדים קדימה במהלך הראשון שלו ידוע בתור כלל תנועת הפיון."
+            },
+            {
+                "definition": "The principles and guidelines used for making decisions or judgments in games, sports, or other competitive activities",
+                "definition_hebrew": "העקרונות וההנחיות המשמשים לקבלת החלטות או שיפוטים במשחקים, ספורט או פעילויות תחרותיות אחרות",
+                "example": "In soccer, offside rules help determine whether a player is allowed to receive the ball while being near an opponent.",
+                "example_hebrew": "בכדורגל, חוקי אופסייד עוזרים לקבוע אם לשחקן מותר לקבל את הכדור כשהוא ליד יריב."
+            },
+            {
+                "definition": "A set of regulations governing behavior and actions within a community or organization",
+                "definition_hebrew": "סט של תקנות המסדירות התנהגות ופעולות בתוך קהילה או ארגון",
+                "example": "The school enforces strict dress code as part of its rules for students.",
+                "example_hebrew": "בית הספר אוכף קוד לבוש מחמיר כחלק מהכללים שלו לתלמידים."
+            },
+            {
+                "definition": "An official statement that sets out the principles to be followed in a certain situation, often with legal implications",
+                "definition_hebrew": "הצהרה רשמית המפרטת את העקרונות שיש לנקוט במצב מסוים, לרוב עם השלכות משפטיות",
+                "example": "The rule against discrimination ensures equal treatment regardless of race, gender, or religion.",
+                "example_hebrew": "הכלל נגד אפליה מבטיח יחס שווה ללא הבדל גזע, מין או דת."
+            }
+        ]
+    }
+]

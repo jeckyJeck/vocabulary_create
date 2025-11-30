@@ -1,0 +1,34 @@
+[
+    {
+        "word": "corruption",
+        "word_hebrew": "שְׁחִיתוּת",
+        "main_definition": "Corruption refers to dishonest or fraudulent conduct by those in power, typically involving bribery or other illicit gain.",
+        "main_definition_hebrew": "שחיתות מתייחסת להתנהלות לא ישרה או הונאה של בעלי השלטון, הכרוכה בדרך כלל בשוחד או רווח בלתי חוקי אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Bribery",
+                "definition_hebrew": "שׁוֹחַד",
+                "example": "The corrupt politician received a large sum of money to vote against his colleague's bill.",
+                "example_hebrew": "הפוליטיקאי המושחת קיבל סכום כסף גדול כדי להצביע נגד הצעת החוק של עמיתו."
+            },
+            {
+                "definition": "Fraud",
+                "definition_hebrew": "הונאה",
+                "example": "A company engaged in accounting fraud by manipulating financial statements to deceive investors.",
+                "example_hebrew": "חברה שעוסקת בהונאה חשבונאית על ידי מניפולציה של דוחות כספיים כדי להונות משקיעים."
+            },
+            {
+                "definition": "Graft",
+                "definition_hebrew": "שֶׁתֶל",
+                "example": "The construction project was awarded through graft, with contracts being given to friends and associates without proper bidding.",
+                "example_hebrew": "פרויקט הבנייה הוענק באמצעות שתל, כאשר חוזים ניתנו לחברים ומקורבים ללא הגשת הצעות מתאימה."
+            },
+            {
+                "definition": "Misuse of power",
+                "definition_hebrew": "שימוש לרעה בכוח",
+                "example": "A judge who accepts gifts from a defendant in exchange for lenient sentencing is misusing their power.",
+                "example_hebrew": "שופט שמקבל מתנות מנאשם בתמורה לעונש מקל מנצל את כוחו לרעה."
+            }
+        ]
+    }
+]

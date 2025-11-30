@@ -1,0 +1,34 @@
+[
+    {
+        "word": "postage",
+        "word_hebrew": "דְמֵי מִשׁלוֹחַ",
+        "main_definition": "The fee paid to a postal service for sending mail.",
+        "main_definition_hebrew": "האגרה המשולמת לשירות דואר עבור שליחת דואר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Amount of money charged by the postal service to send an item through the mail system.",
+                "definition_hebrew": "סכום כסף שגוב שירות הדואר כדי לשלוח פריט דרך מערכת הדואר.",
+                "example": "She had to pay $2.50 in postage to mail her letter.",
+                "example_hebrew": "היא נאלצה לשלם 2.50 דולר בדואר כדי לשלוח את מכתבה."
+            },
+            {
+                "definition": "The act or process of affixing a stamp on an envelope or package as payment for postal service delivery.",
+                "definition_hebrew": "הפעולה או התהליך של הדבקת בול על מעטפה או חבילה כתשלום עבור משלוח שירות הדואר.",
+                "example": "He carefully licked the back of each stamp and stuck it onto his parcel, ensuring proper postage.",
+                "example_hebrew": "הוא ליקק בזהירות את החלק האחורי של כל בול והדביק אותו על החבילה שלו, והבטיח דמי משלוח נאותים."
+            },
+            {
+                "definition": "A system that involves transportation and delivery of letters, parcels, etc., through a network of postal workers and offices.",
+                "definition_hebrew": "מערכת הכוללת הובלה ומשלוח של מכתבים, חבילות וכדומה, באמצעות רשת עובדי דואר ומשרדים.",
+                "example": "The efficiency of the country's postage system was evident in its ability to deliver mail across vast distances swiftly.",
+                "example_hebrew": "יעילותה של מערכת הדואר בארץ באה לידי ביטוי ביכולתה להעביר דואר למרחקים עצומים במהירות."
+            },
+            {
+                "definition": "A metaphorical expression used when referring to dealing with or overcoming a challenge or obstacle, similar to sending something through postal service.",
+                "definition_hebrew": "ביטוי מטפורי המשמש כאשר מתייחסים להתמודדות עם או להתגבר על אתגר או מכשול, בדומה לשליחת משהו דרך שירות הדואר.",
+                "example": "After months of hard work and dedication, she finally hit the postage on her project proposal and saw it approved.",
+                "example_hebrew": "לאחר חודשים של עבודה מאומצת ומסירות, היא סוף סוף הגיעה לדואר בהצעת הפרויקט שלה וראתה אותה מאושרת."
+            }
+        ]
+    }
+]

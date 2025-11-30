@@ -1,0 +1,28 @@
+[
+    {
+        "word": "obesity",
+        "word_hebrew": "הַשׁמָנָה",
+        "main_definition": "Obesity is a medical condition characterized by an excessive accumulation of body fat, which can negatively impact health.",
+        "main_definition_hebrew": "השמנת יתר היא מצב רפואי המאופיין בהצטברות מוגזמת של שומן בגוף, שעלול להשפיע לרעה על הבריאות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A prevalent health issue related to being overweight",
+                "definition_hebrew": "בעיה בריאותית רווחת הקשורה לעודף משקל",
+                "example": "The rise in childhood obesity has become a significant public health concern worldwide.",
+                "example_hebrew": "העלייה בהשמנת ילדים הפכה לדאגה משמעותית לבריאות הציבור ברחבי העולם."
+            },
+            {
+                "definition": "A term used to describe an individual's weight status due to excess body fat",
+                "definition_hebrew": "מונח המשמש לתיאור מצב המשקל של אדם עקב עודף שומן בגוף",
+                "example": "According to the BMI scale, individuals with a Body Mass Index of 30 or higher are considered obese.",
+                "example_hebrew": "על פי סולם ה-BMI, אנשים עם אינדקס מסת גוף של 30 ומעלה נחשבים להשמנת יתר."
+            },
+            {
+                "definition": "The result of poor diet and lifestyle choices leading to an unhealthy weight",
+                "definition_hebrew": "תוצאה של תזונה לקויה ובחירות אורח חיים מובילות למשקל לא בריא",
+                "example": "Obesity can often be traced back to high consumption of processed foods and lack of physical activity.",
+                "example_hebrew": "לעיתים קרובות ניתן לייחס השמנת יתר לצריכה גבוהה של מזון מעובד והיעדר פעילות גופנית."
+            }
+        ]
+    }
+]

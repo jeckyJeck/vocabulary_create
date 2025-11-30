@@ -1,0 +1,34 @@
+[
+    {
+        "word": "attacked",
+        "word_hebrew": "תקפו",
+        "main_definition": "To be subjected to a hostile action, usually by force or aggression.",
+        "main_definition_hebrew": "להיות נתון לפעולה עוינת, בדרך כלל בכוח או בתוקפנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To physically assault someone or something with violence.",
+                "definition_hebrew": "לתקוף פיזית מישהו או משהו באלימות.",
+                "example": "The neighbor's dog was attacked by the stray cat.",
+                "example_hebrew": "הכלב של השכן הותקף על ידי חתול הרחוב."
+            },
+            {
+                "definition": "To criticize strongly and aggressively, often in a public manner.",
+                "definition_hebrew": "למתוח ביקורת חריפה ואגרסיבית, לרוב בפומבי.",
+                "example": "His new book was fiercely attacked by critics before its release.",
+                "example_hebrew": "ספרו החדש הותקף בעוז על ידי מבקרים לפני יציאתו לאור."
+            },
+            {
+                "definition": "To launch an offensive action against an enemy or opponent in a military context.",
+                "definition_hebrew": "לפתוח בפעולה התקפית נגד אויב או יריב בהקשר צבאי.",
+                "example": "The army launched a coordinated attack on the enemy's stronghold.",
+                "example_hebrew": "הצבא פתח במתקפה מתואמת על מעוז האויב."
+            },
+            {
+                "definition": "To make a sudden, forceful attempt to solve a problem or achieve something quickly and decisively.",
+                "definition_hebrew": "לעשות ניסיון פתאומי וכוחני לפתור בעיה או להשיג משהו במהירות ובנחישות.",
+                "example": "She attacked the problem with new software tools to find a solution faster.",
+                "example_hebrew": "היא תקפה את הבעיה עם כלי תוכנה חדשים כדי למצוא פתרון מהר יותר."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "exception",
+        "word_hebrew": "יוצא מן הכלל",
+        "main_definition": "An exception is a case or situation that does not follow a general rule or pattern.",
+        "main_definition_hebrew": "חריג הוא מקרה או מצב שאינם עוקבים אחר כלל או דפוס כללי.",
+        "meanings_and_examples": [
+            {
+                "definition": "A departure from what is standard, normal, or expected",
+                "definition_hebrew": "סטייה ממה שהוא סטנדרטי, רגיל או צפוי",
+                "example": "She received special treatment due to her status as an exception.",
+                "example_hebrew": "היא קיבלה יחס מיוחד בשל מעמדה כחריגה."
+            },
+            {
+                "definition": "A person who does not fit a general rule or pattern",
+                "definition_hebrew": "אדם שאינו מתאים לכלל או דפוס כללי",
+                "example": "The only child in the family was considered an exception to the norm of having siblings.",
+                "example_hebrew": "הילד היחיד במשפחה נחשב חריג לנורמה של הבאת אחים."
+            },
+            {
+                "definition": "Something that is extraordinary and unusual, often as a deviation from what is normal",
+                "definition_hebrew": "משהו שהוא יוצא דופן ויוצא דופן, לרוב כחריגה מהרגיל",
+                "example": "He received a perfect score on the test, which was an exceptional achievement given his usual performance.",
+                "example_hebrew": "הוא קיבל ציון מושלם במבחן, שהיה הישג יוצא דופן בהתחשב בביצועיו הרגילים."
+            },
+            {
+                "definition": "An exemption or privilege granted to someone who meets specific criteria",
+                "definition_hebrew": "פטור או הרשאה שניתנים למי שעומד בקריטריונים ספציפיים",
+                "example": "During the pandemic, certain employees were granted exceptions from working remotely due to their roles requiring on-site presence.",
+                "example_hebrew": "במהלך המגיפה, עובדים מסוימים קיבלו חריגים מעבודה מרחוק בשל תפקידם הדורש נוכחות באתר."
+            }
+        ]
+    }
+]

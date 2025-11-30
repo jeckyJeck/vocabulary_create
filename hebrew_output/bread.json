@@ -1,0 +1,34 @@
+[
+    {
+        "word": "bread",
+        "word_hebrew": "לחם",
+        "main_definition": "In general, bread refers to a staple food made from flour and water that is baked until it becomes firm yet soft in texture.",
+        "main_definition_hebrew": "באופן כללי, לחם מתייחס למזון יסוד העשוי מקמח ומים, שנאפה עד שהוא הופך ליציב אך רך במרקם.",
+        "meanings_and_examples": [
+            {
+                "definition": "A common means of sustenance",
+                "definition_hebrew": "אמצעי פרנסה נפוץ",
+                "example": "Bread has been the primary source of nutrition for many people throughout history.",
+                "example_hebrew": "לחם היה המקור העיקרי לתזונה עבור אנשים רבים לאורך ההיסטוריה."
+            },
+            {
+                "definition": "The material used to make a loaf of bread or other baked goods",
+                "definition_hebrew": "החומר המשמש להכנת כיכר לחם או מאפים אחרים",
+                "example": "He was kneading the dough made from flour, water and yeast, which is commonly known as 'bread.'",
+                "example_hebrew": "הוא לש את הבצק העשוי מקמח, מים ושמרים, הידוע בכינויו 'לחם'."
+            },
+            {
+                "definition": "A unit of currency in some countries (e.g., Australia)",
+                "definition_hebrew": "יחידת מטבע במדינות מסוימות (למשל, אוסטרליה)",
+                "example": "The price of goods at that store was quite reasonable, costing only one Australian bread per kilogram.",
+                "example_hebrew": "מחיר הסחורה בחנות ההיא היה סביר למדי, ועלה רק לחם אוסטרלי אחד לקילוגרם."
+            },
+            {
+                "definition": "An expression used to signify basic sustenance or the bare essentials",
+                "definition_hebrew": "ביטוי המשמש לסימן פרנסה בסיסית או העיקר",
+                "example": "After losing his job, he could only afford a meager breakfast consisting of just two slices of bread and some butter.",
+                "example_hebrew": "לאחר שאיבד את עבודתו, הוא יכול היה להרשות לעצמו רק ארוחת בוקר דלה המורכבת משתי פרוסות לחם וקצת חמאה."
+            }
+        ]
+    }
+]

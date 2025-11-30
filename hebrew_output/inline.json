@@ -1,0 +1,34 @@
+[
+    {
+        "word": "inline",
+        "word_hebrew": "בשורה",
+        "main_definition": "Inline refers to something that is arranged in a straight line or sequence without interruption, as well as an idiomatic expression used when referring to things happening concurrently.",
+        "main_definition_hebrew": "Inline מתייחס למשהו שמסודר בקו ישר או ברצף ללא הפרעה, כמו גם ביטוי אידיומטי המשמש כאשר מתייחסים לדברים המתרחשים במקביל.",
+        "meanings_and_examples": [
+            {
+                "definition": "Arranged in a straight line",
+                "definition_hebrew": "מסודר בקו ישר",
+                "example": "The cars were parked in-line along the street.",
+                "example_hebrew": "המכוניות חנו בתור לאורך הרחוב."
+            },
+            {
+                "definition": "Simultaneously or concurrently",
+                "definition_hebrew": "במקביל או במקביל",
+                "example": "The TV show started to air inline with another popular series, attracting a large audience.",
+                "example_hebrew": "תוכנית הטלוויזיה החלה לעלות בשורה עם סדרה פופולרית נוספת, ומשכה קהל רב."
+            },
+            {
+                "definition": "In computer programming and related fields, when elements are placed next to each other without breaks in the code or sequence.",
+                "definition_hebrew": "בתכנות מחשבים ובתחומים קשורים, כאשר אלמנטים ממוקמים זה ליד זה ללא הפסקות בקוד או ברצף.",
+                "example": "He carefully arranged his CSS styles inline so that they could be easily modified directly within the HTML file.",
+                "example_hebrew": "הוא סידר בקפידה את סגנונות ה-CSS שלו בשורה כך שניתן יהיה לשנות אותם בקלות ישירות בתוך קובץ ה-HTML."
+            },
+            {
+                "definition": "When referring to a list where items follow one another sequentially",
+                "definition_hebrew": "כאשר מתייחסים לרשימה שבה פריטים עוקבים זה אחר זה ברצף",
+                "example": "The shopping list was written in-line with bullet points for each item.",
+                "example_hebrew": "רשימת הקניות נכתבה בשורה עם תבליטים עבור כל פריט."
+            }
+        ]
+    }
+]

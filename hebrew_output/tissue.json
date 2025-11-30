@@ -1,0 +1,34 @@
+[
+    {
+        "word": "tissue",
+        "word_hebrew": "רִקמָה",
+        "main_definition": "Tissue refers to a group of cells that work together to perform a specific function, or it can also refer to the soft, connective substance in our body.",
+        "main_definition_hebrew": "רקמה מתייחסת לקבוצת תאים הפועלים יחד כדי לבצע תפקיד מסוים, או שהיא יכולה להתייחס גם לחומר הרך והמחבר בגופנו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Group of cells with similar functions",
+                "definition_hebrew": "קבוצת תאים בעלי פונקציות דומות",
+                "example": "In biology, muscle tissue consists of elongated cells that contract and relax to create movement.",
+                "example_hebrew": "בביולוגיה, רקמת השריר מורכבת מתאים מוארכים המתכווצים ונרגעים ליצירת תנועה."
+            },
+            {
+                "definition": "Soft connective substance in the body",
+                "definition_hebrew": "חומר חיבור רך בגוף",
+                "example": "The doctor examined my wound carefully, ensuring there was no damaged tissue left behind after cleaning it.",
+                "example_hebrew": "הרופא בדק את הפצע שלי בקפידה, וידא שלא נשארה רקמה פגומה לאחר ניקויו."
+            },
+            {
+                "definition": "Material for medical purposes",
+                "definition_hebrew": "חומר למטרות רפואיות",
+                "example": "Due to its similarity with human skin tissue, the laboratory developed a synthetic tissue that could be used in surgical procedures.",
+                "example_hebrew": "בשל הדמיון שלה לרקמת עור אנושית, המעבדה פיתחה רקמה סינתטית שניתן להשתמש בה בפרוצדורות כירורגיות."
+            },
+            {
+                "definition": "An organized collection of cells or fibers bound together by intercellular substances",
+                "definition_hebrew": "אוסף מאורגן של תאים או סיבים הקשורים זה לזה על ידי חומרים בין-תאיים",
+                "example": "The engineer designed a flexible fabric using natural plant fibers, creating an eco-friendly tissue that could be used for insulation.",
+                "example_hebrew": "המהנדס עיצב בד גמיש באמצעות סיבים צמחיים טבעיים, ויצר רקמה ידידותית לסביבה שיכולה לשמש לבידוד."
+            }
+        ]
+    }
+]

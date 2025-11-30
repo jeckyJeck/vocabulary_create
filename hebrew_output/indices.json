@@ -1,0 +1,40 @@
+[
+    {
+        "word": "indices",
+        "word_hebrew": "מדדים",
+        "main_definition": "Indices typically refer to numerical values that indicate the relative position or rank of an item within a list, array, or series; they can also mean measures used in various fields such as finance and statistics.",
+        "main_definition_hebrew": "מדדים מתייחסים בדרך כלל לערכים מספריים המציינים את המיקום או הדירוג היחסיים של פריט בתוך רשימה, מערך או סדרה; הם יכולים גם להתכוון למדדים המשמשים בתחומים שונים כגון פיננסים וסטטיסטיקה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Numerical symbols indicating the position of letters in the alphabet",
+                "definition_hebrew": "סמלים מספריים המציינים את מיקום האותיות באלפבית",
+                "example": "The index 'A' represents the first letter, while 'Z' represents the 26th.",
+                "example_hebrew": "האינדקס 'A' מייצג את האות הראשונה, בעוד 'Z' מייצג את האות ה-26."
+            },
+            {
+                "definition": "Measures that indicate the performance or value of an investment portfolio compared to a benchmark",
+                "definition_hebrew": "מדדים המעידים על ביצועים או שווי של תיק השקעות בהשוואה למדד",
+                "example": "An S&P 500 index shows how well major US companies are performing in comparison to this market standard.",
+                "example_hebrew": "מדד S&P 500 מראה את ביצועי החברות הגדולות בארה\"ב בהשוואה לסטנדרט שוק זה."
+            },
+            {
+                "definition": "A measure used in statistics and data analysis to quantify the relationship between two or more variables",
+                "definition_hebrew": "מדד המשמש בסטטיסטיקה וניתוח נתונים כדי לכמת את הקשר בין שני משתנים או יותר",
+                "example": "The correlation coefficient is an index that measures the degree of linear dependency between two sets of numbers.",
+                "example_hebrew": "מקדם המתאם הוא אינדקס המודד את מידת התלות הליניארית בין שתי קבוצות של מספרים."
+            },
+            {
+                "definition": "Numerical values representing the ranking, positioning, or level within a sequence or list",
+                "definition_hebrew": "ערכים מספריים המייצגים את הדירוג, המיקום או הרמה בתוך רצף או רשימה",
+                "example": "In stock market indices like NASDAQ, individual stocks are ranked and indexed based on their performance relative to others in the index.",
+                "example_hebrew": "במדדי שוק מניות כמו נאסד\"ק, מניות בודדות מדורגות ומוצמדות לפי ביצועיהן ביחס לאחרים במדד."
+            },
+            {
+                "definition": "A measure used to describe the extent of change over time for certain phenomena",
+                "definition_hebrew": "מדד המשמש לתיאור מידת השינוי לאורך זמן עבור תופעות מסוימות",
+                "example": "The Consumer Price Index (CPI) is an economic indicator that measures changes over time in the price level of a market basket of consumer goods and services.",
+                "example_hebrew": "מדד המחירים לצרכן (CPI) הוא אינדיקטור כלכלי המודד שינויים לאורך זמן ברמת המחירים של סל שוק של מוצרי צריכה ושירותים."
+            }
+        ]
+    }
+]

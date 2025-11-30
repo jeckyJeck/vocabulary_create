@@ -1,0 +1,40 @@
+[
+    {
+        "word": "relations",
+        "word_hebrew": "יחסים",
+        "main_definition": "Relations refer to the connections, associations, or interactions between people, groups, countries, objects, or concepts.",
+        "main_definition_hebrew": "יחסים מתייחסים לקשרים, אסוציאציות או אינטראקציות בין אנשים, קבוצות, מדינות, אובייקטים או מושגים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Connections or bonds between individuals or families",
+                "definition_hebrew": "קשרים או קשרים בין יחידים או משפחות",
+                "example": "She has a good relation with her cousins.",
+                "example_hebrew": "יש לה קשר טוב עם בני הדודים שלה."
+            },
+            {
+                "definition": "Interaction or communication between countries",
+                "definition_hebrew": "אינטראקציה או תקשורת בין מדינות",
+                "example": "The two nations have maintained friendly relations for decades.",
+                "example_hebrew": "שתי המדינות שמרו על יחסי ידידות במשך עשרות שנים."
+            },
+            {
+                "definition": "Associations or relationships within organizations, such as departments or teams",
+                "definition_hebrew": "אסוציאציות או מערכות יחסים בתוך ארגונים, כגון מחלקות או צוותים",
+                "example": "The marketing and sales departments maintain good relations to achieve common goals.",
+                "example_hebrew": "מחלקות השיווק והמכירות מקיימות קשרים טובים להשגת מטרות משותפות."
+            },
+            {
+                "definition": "Mathematical relationship between numbers or variables in equations",
+                "definition_hebrew": "קשר מתמטי בין מספרים או משתנים במשוואות",
+                "example": "There is a linear relation between the number of hours worked and the amount earned.",
+                "example_hebrew": "קיים קשר ליניארי בין מספר שעות העבודה לסכום שהרוויח."
+            },
+            {
+                "definition": "The historical, cultural, or political connections among different regions",
+                "definition_hebrew": "הקשרים ההיסטוריים, התרבותיים או הפוליטיים בין אזורים שונים",
+                "example": "The relations between Eastern Europe and Western culture have been influenced by centuries of interaction.",
+                "example_hebrew": "היחסים בין מזרח אירופה לתרבות המערב הושפעו ממאות שנים של אינטראקציה."
+            }
+        ]
+    }
+]

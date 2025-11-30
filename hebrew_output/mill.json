@@ -1,0 +1,34 @@
+[
+    {
+        "word": "mill",
+        "word_hebrew": "טחנה",
+        "main_definition": "A place where grain is ground into flour, or a unit of measurement equivalent to 1/1000th of a horsepower.",
+        "main_definition_hebrew": "מקום שבו גרגרים נטחנים לקמח, או יחידת מדידה שווה ערך ל-1/1000 כוח סוס.",
+        "meanings_and_examples": [
+            {
+                "definition": "Grinding facility for processing grains",
+                "definition_hebrew": "מתקן טחינה לעיבוד גרעינים",
+                "example": "The wheat was sent to the mill to be ground into flour.",
+                "example_hebrew": "החיטה נשלחה לטחנה לטחון לקמח."
+            },
+            {
+                "definition": "A unit of power equal to one-thousandth (1/1000) of a horsepower",
+                "definition_hebrew": "יחידת כוח השווה לאלף (1/1000) כוח סוס",
+                "example": "The engine has 5000 mills, which is equivalent to 5 horsepower.",
+                "example_hebrew": "למנוע יש 5000 מילס, שזה שווה ערך ל-5 כוחות סוס."
+            },
+            {
+                "definition": "To grind or reduce in size by crushing",
+                "definition_hebrew": "לטחון או להקטין את גודלו על ידי ריסוק",
+                "example": "She needs to mill the grains before using them for baking bread.",
+                "example_hebrew": "היא צריכה לטחון את הגרגירים לפני השימוש בהם לאפיית לחם."
+            },
+            {
+                "definition": "An old term used as slang, meaning to deceive or mislead someone",
+                "definition_hebrew": "מונח ישן המשמש כסלנג, כלומר להונות או להטעות מישהו",
+                "example": "Don't trust him; he just wants to mill you with false promises.",
+                "example_hebrew": "אל תסמוך עליו; הוא רק רוצה לטחון אותך בהבטחות שווא."
+            }
+        ]
+    }
+]

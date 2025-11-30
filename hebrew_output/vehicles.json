@@ -1,0 +1,28 @@
+[
+    {
+        "word": "vehicles",
+        "word_hebrew": "כלי רכב",
+        "main_definition": "Vehicles refer to modes of transportation or conveyances that carry people, goods, or equipment from one place to another.",
+        "main_definition_hebrew": "כלי רכב מתייחסים לאמצעי תחבורה או כלי שינוע המובילים אנשים, סחורות או ציוד ממקום אחד למשנהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical means of transportation on land",
+                "definition_hebrew": "אמצעי תחבורה פיזיים ביבשה",
+                "example": "Cars, trucks, motorcycles, and bicycles are examples of vehicles that help people travel across cities or towns.",
+                "example_hebrew": "מכוניות, משאיות, אופנועים ואופניים הם דוגמאות לכלי רכב שעוזרים לאנשים לנסוע ברחבי ערים או עיירות."
+            },
+            {
+                "definition": "Water-based conveyances for transporting goods or passengers",
+                "definition_hebrew": "כלי שינוע על בסיס מים להובלת סחורות או נוסעים",
+                "example": "Boats, ships, and ferries serve as waterborne vehicles to transport cargo and passengers across seas and rivers.",
+                "example_hebrew": "סירות, ספינות ומעבורות משמשות כלי רכב הנישאים במים להובלת מטענים ונוסעים על פני ימים ונהרות."
+            },
+            {
+                "definition": "Airborne conveyances used for passenger and cargo travel",
+                "definition_hebrew": "כלי שינוע מוטסים המשמשים לנסיעות נוסעים ומטען",
+                "example": "Aircraft such as airplanes, helicopters, and drones are examples of vehicles that enable long-distance and remote transportation.",
+                "example_hebrew": "כלי טיס כמו מטוסים, מסוקים ומזל\"טים הם דוגמאות לכלי רכב המאפשרים תחבורה למרחקים ארוכים ומרוחקים."
+            }
+        ]
+    }
+]

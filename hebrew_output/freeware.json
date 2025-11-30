@@ -1,0 +1,34 @@
+[
+    {
+        "word": "freeware",
+        "word_hebrew": "תוכנה חופשית",
+        "main_definition": "Freeware is a type of software that is available free of charge to users, but it typically cannot be modified or redistributed.",
+        "main_definition_hebrew": "תוכנה חופשית היא סוג של תוכנה הזמינה ללא תשלום למשתמשים, אך בדרך כלל לא ניתן לשנות אותה או להפיץ אותה מחדש.",
+        "meanings_and_examples": [
+            {
+                "definition": "Software available for use without any cost",
+                "definition_hebrew": "תוכנה זמינה לשימוש ללא כל עלות",
+                "example": "The Windows operating system was originally distributed as freeware before Microsoft started charging for support and services.",
+                "example_hebrew": "מערכת ההפעלה Windows הופצה במקור בתור תוכנה חופשית לפני שמיקרוסופט החלה לגבות תשלום עבור תמיכה ושירותים."
+            },
+            {
+                "definition": "Freely accessible open-source software",
+                "definition_hebrew": "תוכנת קוד פתוח נגישה בחינם",
+                "example": "GIMP (GNU Image Manipulation Program) is an example of a program that can be considered both free and open-source, but it's not always referred to as freeware since its source code is available for modification.",
+                "example_hebrew": "GIMP (GNU Image Manipulation Program) היא דוגמה לתוכנית שיכולה להיחשב גם חינמית וגם בקוד פתוח, אבל היא לא תמיד מכונה תוכנה חופשית מכיוון שקוד המקור שלה זמין לשינוי."
+            },
+            {
+                "definition": "Software offered by developers without the intention for profit",
+                "definition_hebrew": "תוכנה המוצעת על ידי מפתחים ללא כוונה לרווח",
+                "example": "Adobe used to offer some of their software like Acrobat Reader under a 'freeware' model, where they did not charge users but also didn't necessarily provide support or updates.",
+                "example_hebrew": "אדובי נהגה להציע חלק מהתוכנות שלהם כמו Acrobat Reader תחת מודל 'תוכנה חינמית', שבה הם לא גבו תשלום מהמשתמשים אך גם לא בהכרח סיפקו תמיכה או עדכונים."
+            },
+            {
+                "definition": "Software that is free for personal use and distribution",
+                "definition_hebrew": "תוכנה חינמית לשימוש אישי ולהפצה",
+                "example": "The Linux kernel, which powers various distributions of the popular operating system Ubuntu, can be considered freeware since it's available to anyone without cost but cannot be modified due to its proprietary license.",
+                "example_hebrew": "ליבת לינוקס, המפעילה הפצות שונות של מערכת ההפעלה הפופולרית אובונטו, יכולה להיחשב תוכנה חופשית מכיוון שהיא זמינה לכל אחד ללא עלות אך לא ניתנת לשינוי בשל הרישיון הקנייני שלה."
+            }
+        ]
+    }
+]

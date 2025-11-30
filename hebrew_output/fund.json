@@ -1,0 +1,40 @@
+[
+    {
+        "word": "fund",
+        "word_hebrew": "קֶרֶן",
+        "main_definition": "A fund refers to a pool of financial resources set aside for specific purposes, such as investment or supporting projects/organizations.",
+        "main_definition_hebrew": "קרן מתייחסת למאגר של משאבים כספיים המופרשים למטרות ספציפיות, כגון השקעה או תמיכה בפרויקטים/ארגונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A financial asset or pool of money accumulated for future use",
+                "definition_hebrew": "נכס פיננסי או מאגר כסף שנצבר לשימוש עתידי",
+                "example": "The charity received a $1 million fund to support its programs.",
+                "example_hebrew": "ארגון הצדקה קיבל קרן של מיליון דולר כדי לתמוך בתוכניות שלה."
+            },
+            {
+                "definition": "An organization dedicated to achieving specific goals, often related to finance or education",
+                "definition_hebrew": "ארגון המוקדש להשגת יעדים ספציפיים, לרוב הקשורים לפיננסים או לחינוך",
+                "example": "I volunteer at the Global Fund for Education every weekend.",
+                "example_hebrew": "אני מתנדב בקרן העולמית לחינוך בכל סוף שבוע."
+            },
+            {
+                "definition": "A sum of money allocated by a government, institution, or individual for a particular purpose",
+                "definition_hebrew": "סכום כסף שהוקצה על ידי ממשלה, מוסד או אדם למטרה מסוימת",
+                "example": "The city council established an infrastructure fund to improve roads and bridges.",
+                "example_hebrew": "מועצת העיר הקימה קרן תשתיות לשיפור כבישים וגשרים."
+            },
+            {
+                "definition": "An investment in stocks, bonds, real estate, or other financial instruments with the goal of earning profit",
+                "definition_hebrew": "השקעה במניות, אג\"ח, נדל\"ן או מכשירים פיננסיים אחרים במטרה להרוויח רווח",
+                "example": "She decided to diversify her portfolio by adding a technology fund.",
+                "example_hebrew": "היא החליטה לגוון את תיק ההשקעות שלה על ידי הוספת קרן טכנולוגיה."
+            },
+            {
+                "definition": "A designated amount set aside for emergency expenses or unforeseen events",
+                "definition_hebrew": "סכום ייעודי שהופרש להוצאות חירום או אירועים בלתי צפויים",
+                "example": "The company established an operational fund to cover unexpected costs during the transition period.",
+                "example_hebrew": "החברה הקימה קרן תפעולית לכיסוי עלויות בלתי צפויות בתקופת המעבר."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "does",
+        "word_hebrew": "עושה",
+        "main_definition": "In simple English, 'does' is a versatile word that can be used as an action verb to indicate the performance of a task or activity in various contexts.",
+        "main_definition_hebrew": "באנגלית פשוטה, 'עושה' היא מילה רב-תכליתית שיכולה לשמש כפועל פעולה לציון ביצוע משימה או פעילות בהקשרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To perform or carry out an action or task",
+                "definition_hebrew": "לבצע או לבצע פעולה או משימה",
+                "example": "She does her homework every evening.",
+                "example_hebrew": "היא עושה שיעורי בית כל ערב."
+            },
+            {
+                "definition": "To make something happen or come about",
+                "definition_hebrew": "לגרום למשהו לקרות או להתרחש",
+                "example": "The new marketing campaign will do wonders for our sales.",
+                "example_hebrew": "הקמפיין השיווקי החדש יעשה פלאים למכירות שלנו."
+            },
+            {
+                "definition": "To cause an effect, typically in the past tense with auxiliary verb 'did'",
+                "definition_hebrew": "כדי לגרום להשפעה, בדרך כלל בזמן עבר עם פועל עזר 'עשה'",
+                "example": "Did that report help you understand the project better?",
+                "example_hebrew": "האם הדוח הזה עזר לך להבין את הפרויקט טוב יותר?"
+            },
+            {
+                "definition": "A question word used to ask for information about a third person's action or state of being",
+                "definition_hebrew": "מילת שאלה המשמשת לבקשת מידע על פעולתו או מצבו של אדם שלישי",
+                "example": "'Does she like coffee?' is a common inquiry.",
+                "example_hebrew": "\"היא אוהבת קפה?\" היא חקירה נפוצה."
+            }
+        ]
+    }
+]

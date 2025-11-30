@@ -1,0 +1,34 @@
+[
+    {
+        "word": "plugins",
+        "word_hebrew": "תוספים",
+        "main_definition": "In computing, plugins are extensions or modules that add specific features or extend the capabilities of a software application.",
+        "main_definition_hebrew": "בתחום המחשוב, תוספים הם הרחבות או מודולים שמוסיפים תכונות ספציפיות או מרחיבים את היכולות של יישום תוכנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Software components for web browsers",
+                "definition_hebrew": "רכיבי תוכנה לדפדפני אינטרנט",
+                "example": "A Flash plugin allows you to view and interact with multimedia content on websites.",
+                "example_hebrew": "תוסף פלאש מאפשר לך להציג ולקיים אינטראקציה עם תוכן מולטימדיה באתרי אינטרנט."
+            },
+            {
+                "definition": "Programming modules or libraries that add specific functionality to a software application",
+                "definition_hebrew": "מודולי תכנות או ספריות המוסיפים פונקציונליות ספציפית ליישום תוכנה",
+                "example": "An image processing plugin can be added to a photo editing program to enhance the capabilities for handling images.",
+                "example_hebrew": "ניתן להוסיף תוסף עיבוד תמונה לתוכנת עריכת תמונות כדי לשפר את היכולות לטיפול בתמונות."
+            },
+            {
+                "definition": "Additional tools and features in content management systems (CMS)",
+                "definition_hebrew": "כלים ותכונות נוספות במערכות ניהול תוכן (CMS)",
+                "example": "A WordPress plugin provides additional features such as social media integration, SEO optimization, or security enhancements within a WordPress website.",
+                "example_hebrew": "תוסף וורדפרס מספק תכונות נוספות כגון שילוב מדיה חברתית, אופטימיזציה של SEO או שיפורי אבטחה באתר וורדפרס."
+            },
+            {
+                "definition": "Extensions for software applications that add new functions or capabilities",
+                "definition_hebrew": "הרחבות ליישומי תוכנה המוסיפים פונקציות או יכולות חדשות",
+                "example": "Music production plugins like virtual instruments and effects processors extend the sound-editing features of digital audio workstations (DAWs).",
+                "example_hebrew": "תוספים להפקת מוזיקה כמו כלים וירטואליים ומעבדי אפקטים מרחיבים את תכונות עריכת הקול של תחנות עבודה אודיו דיגיטליות (DAWs)."
+            }
+        ]
+    }
+]

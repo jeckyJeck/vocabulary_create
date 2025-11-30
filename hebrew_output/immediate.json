@@ -1,0 +1,34 @@
+[
+    {
+        "word": "immediate",
+        "word_hebrew": "מִיָדִי",
+        "main_definition": "Occurring or done without delay; instantaneous, direct.",
+        "main_definition_hebrew": "מתרחש או נעשה ללא דיחוי; מיידי, ישיר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Without any time to lose (rush); acting right away and quickly.",
+                "definition_hebrew": "בלי שום זמן להפסיד (מהר); לפעול מיד ובמהירות.",
+                "example": "When he heard the fire alarm go off, he immediately evacuated the building.",
+                "example_hebrew": "כששמע את אזעקת השריפה, הוא פינה מיד את הבניין."
+            },
+            {
+                "definition": "Existing or happening at once; directly following another event without interruption.",
+                "definition_hebrew": "קיים או קורה בבת אחת; ישירות בעקבות אירוע אחר ללא הפרעה.",
+                "example": "The immediate response of emergency services was crucial in controlling the situation.",
+                "example_hebrew": "התגובה המיידית של שירותי החירום הייתה מכרעת בשליטה על המצב."
+            },
+            {
+                "definition": "Without any intervening time or space; exact and unaltered.",
+                "definition_hebrew": "ללא כל זמן או מרחב מתערבים; מדויק וללא שינוי.",
+                "example": "She received an immediate answer to her question when she asked for clarification.",
+                "example_hebrew": "היא קיבלה תשובה מיידית לשאלתה כשביקשה הבהרות."
+            },
+            {
+                "definition": "Within a very short period of time, immediately after another event.",
+                "definition_hebrew": "תוך פרק זמן קצר מאוד, מיד לאחר אירוע נוסף.",
+                "example": "The team was required to provide immediate feedback on the new project proposal during their meeting.",
+                "example_hebrew": "הצוות נדרש לספק משוב מיידי על הצעת הפרויקט החדשה במהלך פגישתם."
+            }
+        ]
+    }
+]

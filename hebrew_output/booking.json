@@ -1,0 +1,40 @@
+[
+    {
+        "word": "booking",
+        "word_hebrew": "הזמנה",
+        "main_definition": "A booking refers to the act of reserving or scheduling a service, event, or accommodation in advance.",
+        "main_definition_hebrew": "הזמנה מתייחסת לפעולה של הזמנה או תזמון של שירות, אירוע או אירוח מראש.",
+        "meanings_and_examples": [
+            {
+                "definition": "Reservation for an appointment or meeting",
+                "definition_hebrew": "הזמנה לפגישה או פגישה",
+                "example": "I made a doctor's appointment and secured my booking.",
+                "example_hebrew": "קבעתי תור לרופא והבטחתי את ההזמנה שלי."
+            },
+            {
+                "definition": "Commitment to attend an event or function",
+                "definition_hebrew": "מחויבות להשתתף באירוע או פונקציה",
+                "example": "She confirmed her RSVP by completing the seat booking for the conference.",
+                "example_hebrew": "היא אישרה את ה-RSVP שלה על ידי השלמת הזמנת המושבים לכנס."
+            },
+            {
+                "definition": "Reservation of accommodations, such as hotel rooms or rental cars",
+                "definition_hebrew": "הזמנת מקומות לינה, כגון חדרי מלון או רכבים להשכרה",
+                "example": "The couple called to book a suite at the resort for their anniversary celebration.",
+                "example_hebrew": "בני הזוג התקשרו להזמין סוויטה באתר הנופש לרגל חגיגת יום השנה שלהם."
+            },
+            {
+                "definition": "Processing of flight ticket orders",
+                "definition_hebrew": "טיפול בהזמנות כרטיסי טיסה",
+                "example": "I completed my flight booking online and received an electronic confirmation.",
+                "example_hebrew": "השלמתי את הזמנת הטיסה שלי באינטרנט וקיבלתי אישור אלקטרוני."
+            },
+            {
+                "definition": "Commitment to perform or participate in a particular task, such as on stage",
+                "definition_hebrew": "מחויבות לבצע או להשתתף במשימה מסוימת, כגון על הבמה",
+                "example": "The actors have their scripts ready and are prepared for the next show's bookings.",
+                "example_hebrew": "השחקנים מכינים את התסריטים שלהם ומוכנים להזמנות של ההצגה הבאה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "gamma",
+        "word_hebrew": "גמא",
+        "main_definition": "Gamma is an alpha-numeric symbol representing a concept in physics, mathematics, or idiomatic expressions.",
+        "main_definition_hebrew": "גמא הוא סמל אלפא-נומרי המייצג מושג בפיזיקה, מתמטיקה או ביטויים אידיומטיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In nuclear physics, Gamma refers to high-energy electromagnetic radiation emitted from the nucleus of an atom during radioactive decay.",
+                "definition_hebrew": "בפיזיקה גרעינית, Gamma מתייחס לקרינה אלקטרומגנטית עתירת אנרגיה הנפלטת מגרעין האטום במהלך התפרקות רדיואקטיבית.",
+                "example": "Gamma rays can penetrate through many types of materials and require protective measures.",
+                "example_hebrew": "קרני גמא יכולות לחדור דרך סוגים רבים של חומרים ודורשות אמצעי הגנה."
+            },
+            {
+                "definition": "In mathematics, particularly calculus, Gamma is a function that extends factorial to non-integer values. It's commonly used in various formulas.",
+                "definition_hebrew": "במתמטיקה, במיוחד בחשבון, גמא היא פונקציה שמרחיבה ערכים פקטוריים לערכים שאינם שלמים. הוא משמש בדרך כלל בנוסחאות שונות.",
+                "example": "The gamma function (Γ(n)) is the integral of x^(n-1)e^(-x)dx from 0 to infinity.",
+                "example_hebrew": "פונקציית הגמא (Γ(n)) היא האינטגרל של x^(n-1)e^(-x)dx מ-0 עד אינסוף."
+            },
+            {
+                "definition": "In finance, Gamma refers to an option strategy known as 'Gamma Neutral' which aims to minimize the risk related to changes in the underlying asset's price.",
+                "definition_hebrew": "בפיננסים, Gamma מתייחס לאסטרטגיית אופציות המכונה 'Gamma Neutral' שמטרתה למזער את הסיכון הקשור לשינויים במחיר נכס הבסיס.",
+                "example": "A trader creates a gamma neutral position by adjusting the quantities of long and short options positions.",
+                "example_hebrew": "סוחר יוצר פוזיציית גמא נייטרלית על ידי התאמת כמויות אופציות ארוכות וקצרות."
+            },
+            {
+                "definition": "In computer science, specifically in programming languages like Python, Gamma is sometimes used to represent variables or functions. For example, 'g' could be a function that calculates the factorial using the gamma function.",
+                "definition_hebrew": "במדעי המחשב, במיוחד בשפות תכנות כמו Python, משתמשים ב-Gamma לפעמים לייצוג משתנים או פונקציות. לדוגמה, 'g' יכולה להיות פונקציה שמחשבת את הפקטוראלי באמצעות פונקציית הגמא.",
+                "example": "def g(x): return math.gamma(x+1)",
+                "example_hebrew": "def g(x): החזר math.gamma(x+1)"
+            },
+            {
+                "definition": "In physics and engineering, Gamma is used to describe certain characteristics of materials or phenomena. For instance, it can refer to thermal conductivity in a specific context.",
+                "definition_hebrew": "בפיזיקה ובהנדסה, גמא משמשת לתיאור מאפיינים מסוימים של חומרים או תופעות. לדוגמה, זה יכול להתייחס למוליכות תרמית בהקשר ספציפי.",
+                "example": "The gamma rays emitted by the material indicated its high-energy state.",
+                "example_hebrew": "קרני הגמא הנפלטות מהחומר הצביעו על מצבו עתיר האנרגיה."
+            }
+        ]
+    }
+]

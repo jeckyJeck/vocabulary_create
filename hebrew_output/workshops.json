@@ -1,0 +1,34 @@
+[
+    {
+        "word": "workshops",
+        "word_hebrew": "סדנאות",
+        "main_definition": "Workshops are organized sessions where people gather to learn, practice, or exchange knowledge about a specific topic.",
+        "main_definition_hebrew": "סדנאות הן מפגשים מאורגנים שבהם אנשים מתאספים כדי ללמוד, לתרגל או להחליף ידע על נושא מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A training session for employees on new techniques and tools relevant to their job",
+                "definition_hebrew": "מפגש הדרכה לעובדים על טכניקות וכלים חדשים הרלוונטיים לתפקידם",
+                "example": "The marketing team attended an IT workshop to learn how to use the latest social media advertising platforms.",
+                "example_hebrew": "צוות השיווק השתתף בסדנת IT כדי ללמוד כיצד להשתמש בפלטפורמות הפרסום העדכניות ביותר של מדיה חברתית."
+            },
+            {
+                "definition": "An educational gathering where experts share insights or discuss trends in a particular field",
+                "definition_hebrew": "מפגש חינוכי שבו מומחים חולקים תובנות או דנים במגמות בתחום מסוים",
+                "example": "A literary workshop brought together writers and publishers to talk about emerging themes in contemporary literature.",
+                "example_hebrew": "סדנה ספרותית הפגישה סופרים ומוציאים לאור לשיחה על נושאים מתעוררים בספרות העכשווית."
+            },
+            {
+                "definition": "Hands-on sessions aimed at practicing skills or exploring new concepts",
+                "definition_hebrew": "מפגשים מעשיים שמטרתם לתרגל מיומנויות או לחקור מושגים חדשים",
+                "example": "The art school offered pottery making workshops for students to learn various techniques of ceramic arts.",
+                "example_hebrew": "בית הספר לאמנות הציע סדנאות לייצור קדרות לתלמידים כדי ללמוד טכניקות שונות של אמנויות קרמיקה."
+            },
+            {
+                "definition": "Collaborative meetings focused on problem solving and ideation within a specific industry or project scope",
+                "definition_hebrew": "פגישות שיתופיות התמקדו בפתרון בעיות ורעיונות בתעשייה או פרויקט ספציפי",
+                "example": "Engineering firms frequently conduct design thinking workshops to brainstorm innovative solutions for complex projects.",
+                "example_hebrew": "חברות הנדסה מקיימות לעתים קרובות סדנאות חשיבה עיצובית כדי לגבש סיעור מוחות על פתרונות חדשניים לפרויקטים מורכבים."
+            }
+        ]
+    }
+]

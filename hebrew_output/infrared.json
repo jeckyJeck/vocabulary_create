@@ -1,0 +1,28 @@
+[
+    {
+        "word": "infrared",
+        "word_hebrew": "אינפרא אדום",
+        "main_definition": "Infrared refers to a type of electromagnetic radiation with wavelengths longer than those of visible light but shorter than those of microwaves.",
+        "main_definition_hebrew": "אינפרא אדום מתייחס לסוג של קרינה אלקטרומגנטית עם אורכי גל ארוכים מאלה של אור נראה אך קצרים מאלה של גלי מיקרו.",
+        "meanings_and_examples": [
+            {
+                "definition": "The portion of the electromagnetic spectrum that is invisible to human eyes, characterized by wavelengths ranging from approximately 700 nanometers (nm) to 1 millimeter (mm).",
+                "definition_hebrew": "החלק של הספקטרום האלקטרומגנטי שאינו נראה לעיניים אנושיות, המאופיין באורכי גל הנעים בין כ-700 ננומטר (ננומטר) ל-1 מילימטר (מ\"מ).",
+                "example": "Infrared cameras can detect heat signatures in complete darkness.",
+                "example_hebrew": "מצלמות אינפרא אדום יכולות לזהות חתימות חום בחושך מוחלט."
+            },
+            {
+                "definition": "A technology used for remote sensing and imaging, which captures images based on the infrared radiation emitted or reflected by objects.",
+                "definition_hebrew": "טכנולוגיה המשמשת לחישה והדמיה מרחוק, הלוכדת תמונות המבוססות על קרינת אינפרא אדומה הנפלטת או מוחזרת על ידי עצמים.",
+                "example": "The military uses infrared night vision goggles to see in low-light conditions.",
+                "example_hebrew": "הצבא משתמש במשקפי ראיית לילה אינפרא אדום כדי לראות בתנאי תאורה חלשה."
+            },
+            {
+                "definition": "A type of heat transfer that occurs through electromagnetic waves, commonly associated with thermal energy and warmth.",
+                "definition_hebrew": "סוג של העברת חום המתרחשת באמצעות גלים אלקטרומגנטיים, הקשורים בדרך כלל לאנרגיה תרמית ולחום.",
+                "example": "Objects like a heated blanket or the sun's rays warm our skin by infrared radiation.",
+                "example_hebrew": "חפצים כמו שמיכה מחוממת או קרני השמש מחממים את עורנו על ידי קרינת אינפרא אדום."
+            }
+        ]
+    }
+]

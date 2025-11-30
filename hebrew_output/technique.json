@@ -1,0 +1,40 @@
+[
+    {
+        "word": "technique",
+        "word_hebrew": "טֶכנִיקָה",
+        "main_definition": "A specific procedure or method used to achieve a particular result, especially in the arts or mechanical operations.",
+        "main_definition_hebrew": "הליך או שיטה ספציפיים המשמשים להשגת תוצאה מסוימת, במיוחד באמנויות או בפעולות מכניות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Method of performing a task effectively and efficiently, often in a specialized area.",
+                "definition_hebrew": "שיטת ביצוע משימה בצורה יעילה ויעילה, לרוב בתחום מיוחד.",
+                "example": "In painting, using the technique called 'impasto' allows for thick application of paint to create texture.",
+                "example_hebrew": "בציור, שימוש בטכניקה הנקראת 'אימפסטו' מאפשרת מריחה עבה של צבע ליצירת טקסטורה."
+            },
+            {
+                "definition": "A way of doing something that is learned or practiced over time.",
+                "definition_hebrew": "דרך לעשות משהו שנלמד או מתורגל לאורך זמן.",
+                "example": "The chef developed a unique cooking technique to perfectly sear steak without burning it.",
+                "example_hebrew": "השף פיתח טכניקת בישול ייחודית לצרוב סטייק בצורה מושלמת מבלי לשרוף אותו."
+            },
+            {
+                "definition": "The skillful use of tools, materials, and processes in various fields such as sports, arts, and industry.",
+                "definition_hebrew": "שימוש מיומן בכלים, חומרים ותהליכים בתחומים שונים כגון ספורט, אומנויות ותעשייה.",
+                "example": "A gymnast's technique on the balance beam involves precise movements and body control to execute complex routines safely.",
+                "example_hebrew": "טכניקת מתעמל על קרן שיווי המשקל כוללת תנועות מדויקות ושליטה בגוף כדי לבצע שגרות מורכבות בבטחה."
+            },
+            {
+                "definition": "The application of scientific knowledge for practical purposes, especially in uncovering or solving problems.",
+                "definition_hebrew": "יישום ידע מדעי למטרות מעשיות, במיוחד בגילוי או פתרון בעיות.",
+                "example": "Biologists use molecular techniques such as PCR (Polymerase Chain Reaction) to amplify and study specific DNA sequences.",
+                "example_hebrew": "ביולוגים משתמשים בטכניקות מולקולריות כמו PCR (תגובת שרשרת פולימראז) כדי להגביר ולחקור רצפי DNA ספציפיים."
+            },
+            {
+                "definition": "The way of handling a situation or dealing with people in order to achieve a particular goal.",
+                "definition_hebrew": "דרך הטיפול במצב או התמודדות עם אנשים על מנת להשיג מטרה מסוימת.",
+                "example": "In diplomacy, knowing the appropriate techniques for negotiations can lead to successful outcomes.",
+                "example_hebrew": "בדיפלומטיה, הכרת הטכניקות המתאימות למשא ומתן יכולה להוביל לתוצאות מוצלחות."
+            }
+        ]
+    }
+]

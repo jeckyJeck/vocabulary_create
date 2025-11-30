@@ -1,0 +1,34 @@
+[
+    {
+        "word": "modified",
+        "word_hebrew": "שונה",
+        "main_definition": "Changed or altered from its original form, state, or condition.",
+        "main_definition_hebrew": "שונה או שונה מצורתו, מצבו או מצבו המקוריים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Adapted for a different purpose or context",
+                "definition_hebrew": "מותאם למטרה או הקשר אחר",
+                "example": "The movie was modified to make it suitable for younger audiences.",
+                "example_hebrew": "הסרט שונה כדי שיתאים לקהל צעיר יותר."
+            },
+            {
+                "definition": "Adjusted in design, function, or appearance from its original version",
+                "definition_hebrew": "מותאם בעיצוב, בתפקוד או במראה מהגרסה המקורית שלו",
+                "example": "She purchased a modified car with custom paint and new features.",
+                "example_hebrew": "היא רכשה מכונית שונה עם צבע מותאם אישית ותכונות חדשות."
+            },
+            {
+                "definition": "Altered through changes or improvements made to enhance performance or functionality",
+                "definition_hebrew": "השתנו באמצעות שינויים או שיפורים שבוצעו כדי לשפר את הביצועים או הפונקציונליות",
+                "example": "The software was modified to fix bugs and improve usability.",
+                "example_hebrew": "התוכנה שונתה כדי לתקן באגים ולשפר את השימושיות."
+            },
+            {
+                "definition": "Changed from its original form due to necessity, such as medical treatments or modifications for accessibility",
+                "definition_hebrew": "שונה מצורתו המקורית עקב צורך, כגון טיפולים רפואיים או שינויים לצורך נגישות",
+                "example": "His prosthetic limb is a modification that allows him to walk again.",
+                "example_hebrew": "האיבר התותב שלו הוא שינוי המאפשר לו ללכת שוב."
+            }
+        ]
+    }
+]

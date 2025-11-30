@@ -1,0 +1,34 @@
+[
+    {
+        "word": "router",
+        "word_hebrew": "נתב",
+        "main_definition": "A router is a device used in networking to connect multiple devices together, directing data packets between them.",
+        "main_definition_hebrew": "נתב הוא מכשיר המשמש ברשתות לחיבור התקנים מרובים יחדיו, מכוון מנות נתונים ביניהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing and telecommunications, a 'router' refers to a network hardware device that forwards data packets between computer networks.",
+                "definition_hebrew": "בתחום המחשוב והטלקומוניקציה, 'נתב' מתייחס להתקן חומרת רשת המעביר מנות נתונים בין רשתות מחשבים.",
+                "example": "The router in my office helps connect our local computers with the internet.",
+                "example_hebrew": "הנתב במשרד שלי עוזר לחבר את המחשבים המקומיים שלנו לאינטרנט."
+            },
+            {
+                "definition": "A 'router' is also used as an idiom meaning someone who directs or influences people towards a particular course of action.",
+                "definition_hebrew": "'נתב' משמש גם כניב כלומר מישהו שמכוון או משפיע על אנשים לעבר דרך פעולה מסוימת.",
+                "example": "She acted as a router, guiding her team to focus on customer satisfaction rather than speedy delivery.",
+                "example_hebrew": "היא פעלה כנתב, והנחתה את הצוות שלה להתמקד בשביעות רצון הלקוחות ולא באספקה מהירה."
+            },
+            {
+                "definition": "In sports, 'routing' means defeating an opponent in a series or sequence of matches without conceding a loss.",
+                "definition_hebrew": "בספורט, 'ניתוב' פירושו להביס יריב בסדרה או ברצף של משחקים מבלי לוותר על הפסד.",
+                "example": "The team has been routed by their rivals three times this season in the championship playoffs.",
+                "example_hebrew": "הקבוצה נותבה על ידי יריבותיה שלוש פעמים העונה בפלייאוף האליפות."
+            },
+            {
+                "definition": "In a metaphorical sense, 'rout' is an older term meaning to defeat or overthrow someone or something decisively.",
+                "definition_hebrew": "במובן מטפורי, 'שבירה' הוא מונח ישן יותר שמשמעותו להביס או להפיל מישהו או משהו באופן נחרץ.",
+                "example": "The political protests were so powerful that they routed the government and led to significant policy changes.",
+                "example_hebrew": "המחאות הפוליטיות היו כל כך חזקות שהן ניתבו את הממשלה והובילו לשינויי מדיניות משמעותיים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "operated",
+        "word_hebrew": "מוּפעָל",
+        "main_definition": "To perform a surgical procedure or carry out an action with skill, effort, or intervention.",
+        "main_definition_hebrew": "לבצע הליך כירורגי או לבצע פעולה במיומנות, מאמץ או התערבות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Performing medical surgery on someone.",
+                "definition_hebrew": "ביצוע ניתוח רפואי במישהו.",
+                "example": "The doctor will operate to remove the patient's gallbladder.",
+                "example_hebrew": "הרופא ינתח להסרת כיס המרה של המטופל."
+            },
+            {
+                "definition": "To function or work as intended after an intervention, repair, or adjustment.",
+                "definition_hebrew": "לתפקד או לעבוד כמתוכנן לאחר התערבות, תיקון או התאמה.",
+                "example": "After replacing the faulty part, the machine operated smoothly again.",
+                "example_hebrew": "לאחר החלפת החלק הפגום, המכונה פעלה שוב בצורה חלקה."
+            },
+            {
+                "definition": "To control or manage something with authority and expertise.",
+                "definition_hebrew": "לשלוט או לנהל משהו עם סמכות ומומחיות.",
+                "example": "The project manager will operate the team to ensure everything runs on schedule.",
+                "example_hebrew": "מנהל הפרויקט יתפעל את הצוות כדי להבטיח שהכל יתנהל לפי לוח הזמנים."
+            }
+        ]
+    }
+]

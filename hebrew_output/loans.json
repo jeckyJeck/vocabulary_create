@@ -1,0 +1,28 @@
+[
+    {
+        "word": "loans",
+        "word_hebrew": "הלוואות",
+        "main_definition": "Loans refer to the act of lending money or other valuable items with an agreement that it will be repaid, usually with interest.",
+        "main_definition_hebrew": "הלוואות מתייחסות למעשה של השאלת כספים או פריטים יקרי ערך אחרים עם הסכם כי הם יוחזרו, בדרך כלל עם ריבית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A financial obligation where one party (the borrower) receives something of value from another party (the lender) and agrees to return the equivalent amount plus interest over time",
+                "definition_hebrew": "התחייבות פיננסית שבה צד אחד (הלווה) מקבל משהו בעל ערך מצד אחר (המלווה) ומסכים להחזיר את הסכום השווה בתוספת ריבית לאורך זמן",
+                "example": "When you take out a car loan, you borrow money from a bank to purchase your vehicle.",
+                "example_hebrew": "כאשר אתה לוקח הלוואת רכב, אתה לווה כסף מבנק כדי לרכוש את הרכב שלך."
+            },
+            {
+                "definition": "Loans can also refer to loans of goods or assets that must be returned after use",
+                "definition_hebrew": "הלוואות יכולות להתייחס גם להלוואות של סחורות או נכסים שיש להחזיר לאחר השימוש",
+                "example": "A mechanic might provide parts on a loan basis for repairs and expect them back once the job is done.",
+                "example_hebrew": "מכונאי עשוי לספק חלקים על בסיס הלוואה לתיקונים ולצפות להם בחזרה לאחר סיום העבודה."
+            },
+            {
+                "definition": "In slang, 'loan' can mean to temporarily borrow money from someone without any formal agreement or expectation of immediate return",
+                "definition_hebrew": "בסלנג, \"הלוואה\" יכולה להיות ללוות כסף באופן זמני ממישהו ללא כל הסכם פורמלי או ציפייה להחזר מיידי",
+                "example": "When I was short on rent, my friend lent me some cash until payday.",
+                "example_hebrew": "כשחסר לי שכר דירה, חבר שלי הלווה לי קצת מזומן עד יום המשכורת."
+            }
+        ]
+    }
+]

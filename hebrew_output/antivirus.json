@@ -1,0 +1,28 @@
+[
+    {
+        "word": "antivirus",
+        "word_hebrew": "אנטי וירוס",
+        "main_definition": "Antivirus refers to a type of software designed to detect, prevent, and remove malicious software (malware) from computers.",
+        "main_definition_hebrew": "אנטי וירוס מתייחס לסוג תוכנה שנועדה לזהות, למנוע ולהסיר תוכנות זדוניות (תוכנות זדוניות) ממחשבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Software for scanning files and programs on a computer to find viruses",
+                "definition_hebrew": "תוכנה לסריקת קבצים ותוכנות במחשב לאיתור וירוסים",
+                "example": "When I ran the antivirus scan, it found and removed several threats that could harm my system.",
+                "example_hebrew": "כשהרצתי את סריקת האנטי-וירוס, הוא מצא והסיר מספר איומים שעלולים להזיק למערכת שלי."
+            },
+            {
+                "definition": "A solution or product aimed at protecting computers against virus infections",
+                "definition_hebrew": "פתרון או מוצר שמטרתם להגן על מחשבים מפני זיהומי וירוסים",
+                "example": "I installed an antivirus program to safeguard my computer from potential viruses while browsing the internet.",
+                "example_hebrew": "התקנתי תוכנת אנטי וירוס כדי להגן על המחשב שלי מפני וירוסים פוטנציאליים בזמן הגלישה באינטרנט."
+            },
+            {
+                "definition": "An industry term for a company producing and selling antivirus software",
+                "definition_hebrew": "כינוי תעשייתי לחברה המייצרת ומוכרת תוכנת אנטי וירוס",
+                "example": "Norton Antivirus is one of the leading companies providing reliable security solutions to combat malware.",
+                "example_hebrew": "Norton Antivirus היא אחת החברות המובילות המספקות פתרונות אבטחה אמינים למלחמה בתוכנות זדוניות."
+            }
+        ]
+    }
+]

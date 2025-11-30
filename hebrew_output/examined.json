@@ -1,0 +1,40 @@
+[
+    {
+        "word": "examined",
+        "word_hebrew": "בדק",
+        "main_definition": "To inspect or scrutinize something carefully, either physically or intellectually.",
+        "main_definition_hebrew": "לבדוק או לבחון משהו בקפידה, פיזית או אינטלקטואלית.",
+        "meanings_and_examples": [
+            {
+                "definition": "To look at closely in order to learn about it or understand it better.",
+                "definition_hebrew": "להסתכל מקרוב כדי ללמוד על זה או להבין את זה טוב יותר.",
+                "example": "The students examined the artifacts with great interest.",
+                "example_hebrew": "התלמידים בחנו את החפצים בעניין רב."
+            },
+            {
+                "definition": "To study something carefully and thoroughly, especially for research purposes.",
+                "definition_hebrew": "ללמוד משהו בקפידה וביסודיות, במיוחד למטרות מחקר.",
+                "example": "Historians will examine primary sources from that time period to gather information about daily life.",
+                "example_hebrew": "היסטוריונים יבחנו מקורות ראשוניים מאותה תקופה כדי לאסוף מידע על חיי היומיום."
+            },
+            {
+                "definition": "To inspect or observe someone or something in order to assess their condition or value.",
+                "definition_hebrew": "לבדוק או לצפות במישהו או משהו כדי להעריך את מצבו או ערכו.",
+                "example": "The doctor examined the patient's wound for signs of infection.",
+                "example_hebrew": "הרופא בדק את הפצע של המטופל לאיתור סימני זיהום."
+            },
+            {
+                "definition": "In a legal context, to investigate by studying documents and evidence.",
+                "definition_hebrew": "בהקשר משפטי, לחקור על ידי לימוד מסמכים וראיות.",
+                "example": "The court will examine all available records related to the case before making a decision.",
+                "example_hebrew": "בית המשפט יבחן את כל הרישומים הזמינים הקשורים לתיק בטרם יקבל החלטה."
+            },
+            {
+                "definition": "To analyze or evaluate something in detail, often with the aim of reaching conclusions.",
+                "definition_hebrew": "לנתח או להעריך משהו בפירוט, לעתים קרובות במטרה להגיע למסקנות.",
+                "example": "The research team examined the data carefully and concluded that there was no significant correlation between the variables studied.",
+                "example_hebrew": "צוות המחקר בחן את הנתונים בקפידה והגיע למסקנה שאין מתאם מובהק בין המשתנים שנחקרו."
+            }
+        ]
+    }
+]

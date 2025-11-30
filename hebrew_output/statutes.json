@@ -1,0 +1,34 @@
+[
+    {
+        "word": "statutes",
+        "word_hebrew": "חוקים",
+        "main_definition": "Statutes are written laws established by legislative bodies such as parliaments or congresses.",
+        "main_definition_hebrew": "חוקים הם חוקים כתובים שנקבעו על ידי גופים מחוקקים כמו פרלמנטים או קונגרסים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Legal provisions enacted by a legislature",
+                "definition_hebrew": "הוראות חוק שנקבעו על ידי בית מחוקקים",
+                "example": "The state statutes regulate the use of fireworks in residential areas.",
+                "example_hebrew": "חוקי המדינה מסדירים את השימוש בזיקוקים באזורי מגורים."
+            },
+            {
+                "definition": "A set of rules or laws that are formally written and codified",
+                "definition_hebrew": "אוסף של כללים או חוקים שנכתבים וקודמים באופן רשמי",
+                "example": "Civil rights statutes protect citizens from discrimination based on race, gender, or religion.",
+                "example_hebrew": "חוקי זכויות האזרח מגנים על אזרחים מפני אפליה על רקע גזע, מין או דת."
+            },
+            {
+                "definition": "Historical acts passed by a legislative body in the past which have remained unchanged until amended",
+                "definition_hebrew": "מעשים היסטוריים שעברו על ידי גוף מחוקק בעבר, אשר נותרו ללא שינוי עד לתיקון",
+                "example": "The British statutes of old were revised after many years to keep up with modern society needs.",
+                "example_hebrew": "החוקים הבריטיים של פעם תוקנו לאחר שנים רבות כדי לעמוד בקצב צורכי החברה המודרנית."
+            },
+            {
+                "definition": "Legal principles and rules established by courts through precedent, often codified in the form of statutes later on",
+                "definition_hebrew": "עקרונות וכללים משפטיים שנקבעו על ידי בתי משפט באמצעות תקדים, לעתים קרובות מקודדים בצורה של חוקים מאוחר יותר",
+                "example": "The judge based his ruling on established legal principles before they were enshrined as statutes.",
+                "example_hebrew": "השופט ביסס את פסיקתו על עקרונות משפטיים שנקבעו לפני שהם עוגנו כחוק."
+            }
+        ]
+    }
+]

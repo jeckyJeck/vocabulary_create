@@ -1,0 +1,28 @@
+[
+    {
+        "word": "routers",
+        "word_hebrew": "נתבים",
+        "main_definition": "Routers are devices used in networking to connect multiple computer networks together, directing data packets between them based on their IP addresses.",
+        "main_definition_hebrew": "נתבים הם מכשירים המשמשים ברשת לחיבור מספר רשתות מחשבים יחד, ומכוונים ביניהם מנות נתונים על סמך כתובות ה-IP שלהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of computing and technology, routers refer to network devices that route traffic across different networks by analyzing the information in packet headers",
+                "definition_hebrew": "בהקשר של מחשוב וטכנולוגיה, נתבים מתייחסים להתקני רשת המנתבים תעבורה על פני רשתות שונות על ידי ניתוח המידע בכותרות מנות.",
+                "example": "The new router installed at home helps my computer connect with the internet and other local networks.",
+                "example_hebrew": "הנתב החדש המותקן בבית עוזר למחשב שלי להתחבר לאינטרנט ולרשתות מקומיות אחרות."
+            },
+            {
+                "definition": "In a figurative sense, 'router' can refer to someone who manipulates or redirects people or events for their own purposes",
+                "definition_hebrew": "במובן הפיגורטיבי, 'נתב' יכול להתייחס למישהו שמתמרן או מפנה מחדש אנשים או אירועים למטרותיהם.",
+                "example": "He was seen as a political 'router', maneuvering the situation to his advantage during negotiations.",
+                "example_hebrew": "הוא נתפס כ'נתב' פוליטי, המתמרן את המצב לטובתו במהלך המשא ומתן."
+            },
+            {
+                "definition": "In sports terminology, particularly in basketball, 'routers' can be used informally to describe an aggressive or forceful passing action where players often collide.",
+                "definition_hebrew": "בטרמינולוגיה של ספורט, במיוחד בכדורסל, ניתן להשתמש ב'נתבים' באופן לא רשמי כדי לתאר פעולת מסירה אגרסיבית או כוחנית שבה שחקנים מתנגשים לעתים קרובות.",
+                "example": "The team was criticized for their overly physical 'routers', which sometimes resulted in unnecessary fouls during the game.",
+                "example_hebrew": "הקבוצה זכתה לביקורת על ה'נתבים' הפיזיים מדי שלה, שלעיתים גרמו לעבירות מיותרות במהלך המשחק."
+            }
+        ]
+    }
+]

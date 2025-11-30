@@ -1,0 +1,34 @@
+[
+    {
+        "word": "filters",
+        "word_hebrew": "מסננים",
+        "main_definition": "Filters are devices or processes that remove or separate unwanted materials, substances, or information from a source.",
+        "main_definition_hebrew": "מסננים הם מכשירים או תהליכים שמסירים או מפרידים חומרים, חומרים או מידע לא רצויים ממקור.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of technology and media, filters refer to tools used to block or screen out certain content based on specific criteria. For example, a social media user might use photo filters to enhance their images before posting them.",
+                "definition_hebrew": "בהקשר של טכנולוגיה ומדיה, מסננים מתייחסים לכלים המשמשים לחסום או לסנן תוכן מסוים על סמך קריטריונים ספציפיים. לדוגמה, משתמש במדיה חברתית עשוי להשתמש במסנני תמונות כדי לשפר את התמונות שלו לפני פרסום אותן.",
+                "example": "She applied various photo filters to her vacation pictures for a more vibrant look.",
+                "example_hebrew": "היא החילה מסנני תמונות שונים על תמונות החופשה שלה למראה חי יותר."
+            },
+            {
+                "definition": "In terms of materials and substances, filters are used to separate or remove unwanted particles from fluids or gases. For example, water purification involves using physical filters to trap impurities.",
+                "definition_hebrew": "מבחינת חומרים וחומרים, מסננים משמשים להפרדה או הסרה של חלקיקים לא רצויים מנוזלים או גזים. לדוגמה, טיהור מים כולל שימוש במסננים פיזיים כדי ללכוד זיהומים.",
+                "example": "The water treatment plant uses sand and charcoal filters to clean the river water before releasing it back into nature.",
+                "example_hebrew": "המפעל לטיהור המים משתמש במסנני חול ופחם כדי לנקות את מי הנהר לפני שחרורם חזרה לטבע."
+            },
+            {
+                "definition": "Filters can also refer to processes used in information or data analysis, such as algorithms that screen out irrelevant content. For example, search engine filters help users find relevant results by excluding unrelated links.",
+                "definition_hebrew": "מסננים יכולים גם להתייחס לתהליכים המשמשים בניתוח מידע או נתונים, כגון אלגוריתמים המסננים תוכן לא רלוונטי. לדוגמה, מסננים למנועי חיפוש עוזרים למשתמשים למצוא תוצאות רלוונטיות על ידי אי הכללה של קישורים לא קשורים.",
+                "example": "The advanced algorithm filters out advertisements from the search results.",
+                "example_hebrew": "האלגוריתם המתקדם מסנן פרסומות מתוצאות החיפוש."
+            },
+            {
+                "definition": "In a metaphorical sense, filtering can describe an individual's ability to judge or discern. For instance, having good taste in music means one is adept at choosing and appreciating songs that resonate with them.",
+                "definition_hebrew": "במובן מטפורי, סינון יכול לתאר את יכולתו של אדם לשפוט או להבחין. למשל, טעם טוב במוזיקה אומר שאדם מיומן בבחירת שירים המהדהדים להם ולהעריך אותם.",
+                "example": "He has excellent filters for selecting quality jazz records.",
+                "example_hebrew": "יש לו פילטרים מצוינים לבחירת תקליטי ג'אז איכותיים."
+            }
+        ]
+    }
+]

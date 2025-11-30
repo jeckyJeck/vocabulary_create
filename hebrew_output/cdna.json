@@ -1,0 +1,28 @@
+[
+    {
+        "word": "cdna",
+        "word_hebrew": "cdna",
+        "main_definition": "In the context of genetics, cdna stands for complementary DNA, which refers to a double-stranded sequence derived from an mRNA template through reverse transcription.",
+        "main_definition_hebrew": "בהקשר של גנטיקה, cdna מייצג DNA משלים, המתייחס לרצף דו-גדילי הנגזר מתבנית mRNA דרך שעתוק הפוך.",
+        "meanings_and_examples": [
+            {
+                "definition": "Acronym",
+                "definition_hebrew": "ראשי תיבות",
+                "example": "The term 'CDNA' is commonly used in genetics.",
+                "example_hebrew": "המונח 'CDNA' נפוץ בגנטיקה."
+            },
+            {
+                "definition": "Complementary DNA",
+                "definition_hebrew": "DNA משלים",
+                "example": "Scientists created a CDNA sequence by reverse transcribing the mRNA from a cell sample.",
+                "example_hebrew": "מדענים יצרו רצף CDNA על ידי תעתיק לאחור של ה-mRNA מדגימת תא."
+            },
+            {
+                "definition": "A type of synthetic DNA used in genetic research and biotechnology",
+                "definition_hebrew": "סוג של DNA סינתטי המשמש במחקר גנטי וביוטכנולוגיה",
+                "example": "The gene of interest was cloned into a plasmid containing a CDNA backbone for expression in bacteria.",
+                "example_hebrew": "הגן המעניין שובט לתוך פלסמיד המכיל עמוד שדרה CDNA לביטוי בחיידקים."
+            }
+        ]
+    }
+]

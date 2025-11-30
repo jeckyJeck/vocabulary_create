@@ -1,0 +1,34 @@
+[
+    {
+        "word": "given",
+        "word_hebrew": "נָתוּן",
+        "main_definition": "Used to indicate something that is already known, assumed, or provided as a fact.",
+        "main_definition_hebrew": "משמש לציון משהו שכבר ידוע, מוערך או מסופק כעובדה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Assumed or taken for granted in an argument or discussion.",
+                "definition_hebrew": "מובן או מובן מאליו בוויכוח או בדיון.",
+                "example": "In this situation, it's given that the weather will be good.",
+                "example_hebrew": "במצב זה, זה נתון שמזג האוויר יהיה טוב."
+            },
+            {
+                "definition": "Something already known to both parties in a conversation.",
+                "definition_hebrew": "משהו שכבר ידוע לשני הצדדים בשיחה.",
+                "example": "Given her expertise in the field, we can trust her judgment on the matter.",
+                "example_hebrew": "לאור מומחיותה בתחום, אנו יכולים לסמוך על שיקול דעתה בעניין."
+            },
+            {
+                "definition": "To provide or give someone with something as an acknowledgment or reward.",
+                "definition_hebrew": "לספק או לתת למישהו משהו כהוקרה או פרס.",
+                "example": "The company gave each employee a bonus for their hard work throughout the year.",
+                "example_hebrew": "החברה העניקה לכל עובד בונוס על עבודתו הקשה לאורך כל השנה."
+            },
+            {
+                "definition": "A condition that is provided by default, without needing to be explicitly stated.",
+                "definition_hebrew": "תנאי שניתן כברירת מחדל, ללא צורך לציין זאת במפורש.",
+                "example": "In most countries, citizens are given free education up to a certain level.",
+                "example_hebrew": "ברוב המדינות ניתן לאזרחים חינוך חינם עד לרמה מסוימת."
+            }
+        ]
+    }
+]

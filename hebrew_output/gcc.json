@@ -1,0 +1,16 @@
+[
+    {
+        "word": "gcc",
+        "word_hebrew": "gcc",
+        "main_definition": "gcc is not a common idiom or phrase, but rather an acronym for 'GNU Compiler Collection', which refers to the compiler suite that compiles programs written in various programming languages into executable machine code.",
+        "main_definition_hebrew": "gcc אינו ניב או ביטוי נפוץ, אלא ראשי תיבות של 'אוסף מהדרים של GNU', המתייחס לחבילת המהדר שמרכיבה תוכניות הכתובות בשפות תכנות שונות לקוד מכונה בר הפעלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "GNU Compiler Collection (gcc)",
+                "definition_hebrew": "GNU Compiler Collection (gcc)",
+                "example": "To compile a C program, one would use gcc by typing 'gcc filename.c -o output' in the terminal.",
+                "example_hebrew": "כדי להרכיב תוכנית C, יש להשתמש ב-gcc על ידי הקלדת 'gcc filename.c -o output' בטרמינל."
+            }
+        ]
+    }
+]

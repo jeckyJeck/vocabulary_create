@@ -1,0 +1,40 @@
+[
+    {
+        "word": "specify",
+        "word_hebrew": "לפרט",
+        "main_definition": "To clearly define or identify something by stating it in detail.",
+        "main_definition_hebrew": "להגדיר או לזהות משהו בבירור על ידי ציונו בפירוט.",
+        "meanings_and_examples": [
+            {
+                "definition": "To state exactly what is needed, desired, etc. and why; to indicate in detail.",
+                "definition_hebrew": "לציין בדיוק מה צריך, רצוי וכו' ולמה; לציין בפירוט.",
+                "example": "Please specify the requirements for this project so we can start working on it.",
+                "example_hebrew": "אנא ציין את הדרישות לפרויקט זה כדי שנוכל להתחיל לעבוד עליו."
+            },
+            {
+                "definition": "To determine or identify something precisely by examining its characteristics.",
+                "definition_hebrew": "לקבוע או לזהות משהו במדויק על ידי בחינת מאפייניו.",
+                "example": "The doctor needs to specify what type of cells are causing the illness in order to prescribe the right treatment.",
+                "example_hebrew": "הרופא צריך לציין איזה סוג של תאים גורמים למחלה כדי לרשום את הטיפול הנכון."
+            },
+            {
+                "definition": "To give a detailed description or explanation about something, making it clear and precise.",
+                "definition_hebrew": "לתת תיאור מפורט או הסבר לגבי משהו, תוך ביצוע ברור ומדויק.",
+                "example": "When submitting your application for this job, you must specify your previous work experience and skills.",
+                "example_hebrew": "בעת הגשת מועמדותך למשרה זו, עליך לציין את ניסיון העבודה והכישורים הקודמים שלך."
+            },
+            {
+                "definition": "To point out with particularity; to designate distinctly.",
+                "definition_hebrew": "לציין בפרטיות; לייעד באופן מובהק.",
+                "example": "If I could just specify what kind of music you like, it would help me recommend some songs.",
+                "example_hebrew": "אם הייתי יכול רק לציין איזה סוג של מוזיקה אתה אוהב, זה יעזור לי להמליץ על כמה שירים."
+            },
+            {
+                "definition": "To determine the exact measurements or specifications for something, such as a product's dimensions or requirements.",
+                "definition_hebrew": "כדי לקבוע את המידות או המפרט המדויק של משהו, כגון מידות או דרישות של מוצר.",
+                "example": "Before manufacturing the product, we need to specify its size and material composition.",
+                "example_hebrew": "לפני ייצור המוצר, עלינו לציין את גודלו והרכב החומרים שלו."
+            }
+        ]
+    }
+]

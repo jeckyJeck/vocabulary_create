@@ -1,0 +1,28 @@
+[
+    {
+        "word": "fares",
+        "word_hebrew": "תעריפים",
+        "main_definition": "In simple English, 'fares' refers to the money paid for travel or transportation services.",
+        "main_definition_hebrew": "באנגלית פשוטה, 'תעריפים' מתייחס לכסף ששולם עבור שירותי נסיעות או תחבורה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Payment required for a journey using public transportation such as buses or trains",
+                "definition_hebrew": "נדרש תשלום עבור נסיעה באמצעות תחבורה ציבורית כגון אוטובוסים או רכבות",
+                "example": "I checked the fares before buying my train ticket.",
+                "example_hebrew": "בדקתי את התעריפים לפני קניית כרטיס הרכבת שלי."
+            },
+            {
+                "definition": "Fees charged by airlines for each passenger on an aircraft",
+                "definition_hebrew": "עמלות שגובות חברות התעופה עבור כל נוסע במטוס",
+                "example": "The total cost of our trip increased due to additional passengers, raising the fare.",
+                "example_hebrew": "העלות הכוללת של הטיול שלנו גדלה עקב נוסעים נוספים, שהעלו את התעריף."
+            },
+            {
+                "definition": "Rates or costs associated with rental vehicles like cars or bikes",
+                "definition_hebrew": "תעריפים או עלויות הקשורות לרכבים להשכרה כמו מכוניות או אופניים",
+                "example": "We had to pay a daily fare for renting the scooter during our vacation.",
+                "example_hebrew": "נאלצנו לשלם תעריף יומי עבור השכרת הקטנוע במהלך החופשה שלנו."
+            }
+        ]
+    }
+]

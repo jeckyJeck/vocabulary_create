@@ -1,0 +1,34 @@
+[
+    {
+        "word": "identifying",
+        "word_hebrew": "זיהוי",
+        "main_definition": "The act of recognizing or establishing the identity of something, whether it's a person, object, or concept.",
+        "main_definition_hebrew": "הפעולה של זיהוי או ביסוס הזהות של משהו, בין אם זה אדם, חפץ או מושג.",
+        "meanings_and_examples": [
+            {
+                "definition": "To determine or recognize who someone is",
+                "definition_hebrew": "לקבוע או לזהות מיהו מישהו",
+                "example": "The police officer was able to identify the suspect from several hours of surveillance footage.",
+                "example_hebrew": "השוטר הצליח לזהות את החשוד מצילומי מעקב של מספר שעות."
+            },
+            {
+                "definition": "To distinguish between two or more similar things based on specific characteristics",
+                "definition_hebrew": "להבחין בין שני דברים דומים או יותר על סמך מאפיינים ספציפיים",
+                "example": "In biology, scientists use identifying features like leaf shape and flower color to classify different plant species.",
+                "example_hebrew": "בביולוגיה, מדענים משתמשים במאפיינים מזהים כמו צורת עלים וצבע פרח כדי לסווג מיני צמחים שונים."
+            },
+            {
+                "definition": "The process of determining the unique attributes that differentiate one thing from another",
+                "definition_hebrew": "תהליך קביעת התכונות הייחודיות המבדילות בין דבר אחד למשנהו",
+                "example": "When purchasing a used car, it's important to identify its make, model, year, and condition to ensure you are making an informed decision.",
+                "example_hebrew": "בעת רכישת רכב משומש, חשוב לזהות את המותג, הדגם, השנה והמצב שלו כדי להבטיח שאתה מקבל החלטה מושכלת."
+            },
+            {
+                "definition": "To establish or confirm something as being related to or belonging to a particular group, category, or entity",
+                "definition_hebrew": "לקבוע או לאשר משהו כקשור או שייך לקבוצה, קטגוריה או ישות מסוימת",
+                "example": "The museum used DNA analysis to help identify the remains of ancient human populations.",
+                "example_hebrew": "המוזיאון השתמש בניתוח DNA כדי לזהות שרידים של אוכלוסיות אנושיות קדומות."
+            }
+        ]
+    }
+]

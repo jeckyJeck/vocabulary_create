@@ -1,0 +1,34 @@
+[
+    {
+        "word": "failing",
+        "word_hebrew": "כושל",
+        "main_definition": "Failing refers to the act of not succeeding or falling short in achieving a goal, standard, or expectation.",
+        "main_definition_hebrew": "כישלון מתייחס למעשה של אי-הצלחה או כשל בהשגת מטרה, סטנדרט או ציפייה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not being successful in an endeavor",
+                "definition_hebrew": "לא להצליח במאמץ",
+                "example": "The student was failing his math class due to poor grades.",
+                "example_hebrew": "התלמיד נכשל בשיעור המתמטיקה שלו בגלל ציונים גרועים."
+            },
+            {
+                "definition": "A business that is not doing well financially and may be at risk of closure",
+                "definition_hebrew": "עסק שלא מצליח כלכלית ועלול להיות בסכנת סגירה",
+                "example": "Many stores on Main Street are now failing, struggling to stay afloat amidst the economic downturn.",
+                "example_hebrew": "חנויות רבות ברחוב הראשי נכשלות כעת, נאבקות להישאר על פני המים בתוך השפל הכלכלי."
+            },
+            {
+                "definition": "The process or act of letting go of a plant from which it is not possible to save through proper care and treatment",
+                "definition_hebrew": "התהליך או פעולת ההשתחררות של צמח שלא ניתן להציל ממנו באמצעות טיפול וטיפול נאותים",
+                "example": "Due to severe drought conditions, the gardener had no choice but to fail the plants in his garden.",
+                "example_hebrew": "עקב תנאי בצורת קשים, לא נותרה לגנן ברירה אלא להכשיל את הצמחים בגינתו."
+            },
+            {
+                "definition": "A test used by lenders or landlords to determine if a borrower can afford to take on debt",
+                "definition_hebrew": "בדיקה המשמשת מלווים או בעלי בית כדי לקבוע אם הלווה יכול להרשות לעצמו לקחת על עצמו חוב",
+                "example": "When applying for a mortgage, I knew that my credit score and income would be scrutinized during the approval process.",
+                "example_hebrew": "בעת הגשת בקשה למשכנתא, ידעתי שדירוג האשראי וההכנסה שלי ייבדקו במהלך תהליך האישור."
+            }
+        ]
+    }
+]

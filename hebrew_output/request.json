@@ -1,0 +1,34 @@
+[
+    {
+        "word": "request",
+        "word_hebrew": "בַּקָשָׁה",
+        "main_definition": "A request is an act of asking someone to do something or a formal demand for information, access, or permission.",
+        "main_definition_hebrew": "בקשה היא פעולה של בקשה ממישהו לעשות משהו או דרישה רשמית למידע, גישה או הרשאה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To ask politely for something.",
+                "definition_hebrew": "לבקש בנימוס משהו.",
+                "example": "She requested her colleague's help with the project.",
+                "example_hebrew": "היא ביקשה את עזרתה של עמיתה בפרויקט."
+            },
+            {
+                "definition": "A formal demand for information or clarification.",
+                "definition_hebrew": "דרישה רשמית למידע או הבהרה.",
+                "example": "He made a request for more details about the company's policies.",
+                "example_hebrew": "הוא הגיש בקשה לקבלת פרטים נוספים על מדיניות החברה."
+            },
+            {
+                "definition": "To formally ask someone to perform an action, often in writing.",
+                "definition_hebrew": "לבקש רשמית ממישהו לבצע פעולה, לרוב בכתב.",
+                "example": "The customer submitted a written request to change their order.",
+                "example_hebrew": "הלקוח הגיש בקשה בכתב לשנות את הזמנתו."
+            },
+            {
+                "definition": "A formal way of asking for access or permission.",
+                "definition_hebrew": "דרך רשמית לבקש גישה או הרשאה.",
+                "example": "He made a legal request to the court to release certain documents.",
+                "example_hebrew": "הוא הגיש בקשה משפטית לבית המשפט לשחרר מסמכים מסוימים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "viewpicture",
+        "word_hebrew": "צפה בתמונה",
+        "main_definition": "To examine or look at a photograph, image, or visual representation closely.",
+        "main_definition_hebrew": "לבחון או להתבונן בתצלום, תמונה או ייצוג חזותי מקרוב.",
+        "meanings_and_examples": [
+            {
+                "definition": "Examining an old family photo to reminisce about the past.",
+                "definition_hebrew": "בוחנים תמונה משפחתית ישנה כדי להיזכר בעבר.",
+                "example": "I decided to view picture of my grandparents' wedding day and it brought back many memories.",
+                "example_hebrew": "החלטתי לצפות בתמונה של יום החתונה של סבא וסבתא שלי וזה העלה זיכרונות רבים."
+            },
+            {
+                "definition": "Checking a screenshot or image taken from a digital device for clarity or content.",
+                "definition_hebrew": "בדיקת צילום מסך או תמונה שצולמו ממכשיר דיגיטלי לצורך בהירות או תוכן.",
+                "example": "After taking the screenshot, I viewed picture to ensure that everything was visible as expected.",
+                "example_hebrew": "לאחר שצילמתי את צילום המסך, צפיתי בתמונה כדי לוודא שהכל נראה כצפוי."
+            },
+            {
+                "definition": "Analyzing an image in photography or art for composition and visual impact.",
+                "definition_hebrew": "ניתוח תמונה בצילום או אמנות לצורך קומפוזיציה והשפעה חזותית.",
+                "example": "The photographer spent hours viewing picture of their shots before selecting the final one for publication.",
+                "example_hebrew": "הצלם בילה שעות בצפייה בתמונה של הצילומים שלהם לפני שבחר את הצילום האחרון לפרסום."
+            },
+            {
+                "definition": "Looking at a medical imaging scan such as X-ray, MRI, or CT to assess health conditions.",
+                "definition_hebrew": "הסתכלות על סריקת הדמיה רפואית כגון רנטגן, MRI או CT כדי להעריך מצבים בריאותיים.",
+                "example": "Before making a diagnosis, doctors will often view pictures from an MRI to evaluate the patient's condition.",
+                "example_hebrew": "לפני ביצוע אבחנה, הרופאים יצפו לעתים קרובות בתמונות מבדיקת MRI כדי להעריך את מצבו של המטופל."
+            }
+        ]
+    }
+]

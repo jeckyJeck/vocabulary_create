@@ -1,0 +1,34 @@
+[
+    {
+        "word": "locator",
+        "word_hebrew": "איתור",
+        "main_definition": "A locator is a tool, person or service that helps identify the location of something or someone.",
+        "main_definition_hebrew": "איתור הוא כלי, אדם או שירות שעוזרים לזהות את המיקום של משהו או מישהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "An application to find addresses in Google Maps and other mapping services.",
+                "definition_hebrew": "אפליקציה למציאת כתובות במפות גוגל ובשירותי מיפוי אחרים.",
+                "example": "I used an address locator on my phone to find the nearest gas station.",
+                "example_hebrew": "השתמשתי באיתור כתובות בטלפון שלי כדי למצוא את תחנת הדלק הקרובה ביותר."
+            },
+            {
+                "definition": "A person who assists in finding or determining a location, often for research purposes.",
+                "definition_hebrew": "אדם המסייע באיתור או קביעת מיקום, לרוב למטרות מחקר.",
+                "example": "The geologist was hired as a locator to help map out potential mineral deposits in the region.",
+                "example_hebrew": "הגיאולוג נשכר כמאתר שיעזור למפות מרבצי מינרלים פוטנציאליים באזור."
+            },
+            {
+                "definition": "Devices or systems that use technology like GPS to determine and display real-time locations of objects.",
+                "definition_hebrew": "מכשירים או מערכות המשתמשות בטכנולוגיה כמו GPS כדי לקבוע ולהציג מיקומים בזמן אמת של עצמים.",
+                "example": "Our company uses advanced locators for tracking our delivery trucks on their routes.",
+                "example_hebrew": "החברה שלנו משתמשת באיתור מתקדמים למעקב אחר משאיות המשלוחים שלנו במסלוליהן."
+            },
+            {
+                "definition": "A service that provides information about the location, availability or status of various items or resources in a database or system.",
+                "definition_hebrew": "שירות המספק מידע על מיקום, זמינות או מצב של פריטים או משאבים שונים במסד נתונים או מערכת.",
+                "example": "The inventory management system has an efficient locator feature to check item stock levels across warehouses.",
+                "example_hebrew": "למערכת ניהול המלאי יש תכונת איתור יעילה לבדיקת רמות מלאי הפריטים במחסנים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "word": "model",
+        "word_hebrew": "דֶגֶם",
+        "main_definition": "A model is a representation or an example that serves as a standard, guide, or pattern to be followed or imitated.",
+        "main_definition_hebrew": "מודל הוא ייצוג או דוגמה המשמשים כתקן, מדריך או דפוס שיש לעקוב אחריהם או לחקותו.",
+        "meanings_and_examples": [
+            {
+                "definition": "An object or person used for demonstration, explanation, or simulation",
+                "definition_hebrew": "חפץ או אדם המשמשים להדגמה, הסבר או הדמיה",
+                "example": "The new car model showcased at the dealership is a perfect example of modern design.",
+                "example_hebrew": "דגם הרכב החדש שהוצג בסוכנות הוא דוגמה מושלמת לעיצוב מודרני."
+            },
+            {
+                "definition": "A scaled-down version representing an actual object",
+                "definition_hebrew": "גרסה מוקטנת המייצגת אובייקט ממשי",
+                "example": "Architects often create models of buildings before construction to visualize the final product.",
+                "example_hebrew": "אדריכלים יוצרים לעתים קרובות מודלים של מבנים לפני הבנייה כדי לדמיין את המוצר הסופי."
+            },
+            {
+                "definition": "An individual chosen to represent a group or category in studies, surveys, etc.",
+                "definition_hebrew": "אדם שנבחר לייצג קבוצה או קטגוריה במחקרים, סקרים וכו'.",
+                "example": "In our survey, we used a model person to reflect the average characteristics of our target demographic.",
+                "example_hebrew": "בסקר שלנו, השתמשנו באדם מודל כדי לשקף את המאפיינים הממוצעים של היעד הדמוגרפי שלנו."
+            },
+            {
+                "definition": "A mathematical representation of real-world phenomena using equations and variables",
+                "definition_hebrew": "ייצוג מתמטי של תופעות בעולם האמיתי באמצעות משוואות ומשתנים",
+                "example": "Economists use models to predict market trends based on various economic indicators.",
+                "example_hebrew": "כלכלנים משתמשים במודלים כדי לחזות מגמות בשוק המבוססות על אינדיקטורים כלכליים שונים."
+            },
+            {
+                "definition": "An exemplar or prototype in fashion, art, or design",
+                "definition_hebrew": "דוגמה או אב טיפוס באופנה, אמנות או עיצוב",
+                "example": "The new fashion model became a trendsetter with her unique and stylish designs.",
+                "example_hebrew": "דוגמנית האופנה החדשה הפכה למעצבת טרנדים עם עיצוביה הייחודיים והמסוגננים."
+            },
+            {
+                "definition": "A simplified representation of complex systems for analysis and understanding",
+                "definition_hebrew": "ייצוג פשוט של מערכות מורכבות לניתוח והבנה",
+                "example": "Computer scientists often create models to simulate the behavior of intricate algorithms or networks.",
+                "example_hebrew": "מדעני מחשבים יוצרים לעתים קרובות מודלים כדי לדמות התנהגות של אלגוריתמים או רשתות מורכבות."
+            }
+        ]
+    }
+]

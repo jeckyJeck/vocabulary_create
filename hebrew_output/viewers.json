@@ -1,0 +1,34 @@
+[
+    {
+        "word": "viewers",
+        "word_hebrew": "צופים",
+        "main_definition": "Viewers are individuals who watch or observe something, such as television programs, movies, events, or content online.",
+        "main_definition_hebrew": "צופים הם אנשים שצופים או צופים במשהו, כגון תוכניות טלוויזיה, סרטים, אירועים או תוכן מקוון.",
+        "meanings_and_examples": [
+            {
+                "definition": "People who watch a particular television show",
+                "definition_hebrew": "אנשים שצופים בתוכנית טלוויזיה מסוימת",
+                "example": "The latest episode of the popular TV series had millions of viewers tuning in.",
+                "example_hebrew": "לפרק האחרון של סדרת הטלוויזיה הפופולרית צפו מיליוני צופים."
+            },
+            {
+                "definition": "Online users who access and consume digital content",
+                "definition_hebrew": "משתמשים מקוונים שניגשים וצורכים תוכן דיגיטלי",
+                "example": "The streaming platform reported an increase in its user base, attracting more viewers to their service.",
+                "example_hebrew": "פלטפורמת הסטרימינג דיווחה על עלייה בבסיס המשתמשים שלה, ומשכה יותר צופים לשירות שלה."
+            },
+            {
+                "definition": "Individuals who attend a live event or performance",
+                "definition_hebrew": "אנשים שמשתתפים באירוע או הופעה חיה",
+                "example": "The concert had thousands of fans eagerly waiting as the band took the stage for their show; they were all viewers in this context.",
+                "example_hebrew": "לקונצרט היו אלפי מעריצים שחיכו בשקיקה כשהלהקה עלתה לבמה להופעה שלה; כולם היו צופים בהקשר הזה."
+            },
+            {
+                "definition": "Participants observing something, like an experiment or observation study",
+                "definition_hebrew": "משתתפים צופים במשהו, כמו ניסוי או מחקר תצפית",
+                "example": "In a scientific research, the data collected from participants who watched and rated different films provided valuable insights into their preferences as viewers.",
+                "example_hebrew": "במחקר מדעי, הנתונים שנאספו ממשתתפים שצפו ודירגו סרטים שונים סיפקו תובנות חשובות לגבי העדפותיהם כצופים."
+            }
+        ]
+    }
+]

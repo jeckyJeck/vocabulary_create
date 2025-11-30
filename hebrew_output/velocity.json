@@ -1,0 +1,28 @@
+[
+    {
+        "word": "velocity",
+        "word_hebrew": "מְהִירוּת",
+        "main_definition": "Velocity is a physical term that refers to the speed of an object in a specific direction.",
+        "main_definition_hebrew": "מהירות היא מונח פיזי המתייחס למהירות של עצם בכיוון מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Speed alone (without regard for direction)",
+                "definition_hebrew": "מהירות לבד (ללא התחשבות בכיוון)",
+                "example": "The car's velocity was 60 miles per hour.",
+                "example_hebrew": "מהירות המכונית הייתה 60 מייל לשעה."
+            },
+            {
+                "definition": "Rate of change of position with respect to time in a specific direction",
+                "definition_hebrew": "קצב שינוי המיקום ביחס לזמן בכיוון מסוים",
+                "example": "When the ball rolled downhill, its velocity increased as it picked up speed going downward.",
+                "example_hebrew": "כאשר הכדור התגלגל במורד, מהירותו עלתה ככל שהוא עלה במהירות בירידה."
+            },
+            {
+                "definition": "In business contexts, when referring to how quickly an action is taken or completed",
+                "definition_hebrew": "בהקשרים עסקיים, כאשר מתייחסים למהירות שבה פעולה מתבצעת או הושלמה",
+                "example": "The team's work on the project had a high velocity, completing tasks faster than before.",
+                "example_hebrew": "העבודה של הצוות על הפרויקט הייתה מהירות גבוהה, והשלימה משימות מהר יותר מבעבר."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "economics",
+        "word_hebrew": "כלכלה",
+        "main_definition": "Economics is the social science that studies how individuals, governments, firms, and nations make choices about ways to allocate limited resources to satisfy their unlimited wants and needs.",
+        "main_definition_hebrew": "כלכלה היא מדע החברה החוקר כיצד אנשים, ממשלות, חברות ואומות בוחרים בדרכים להקצות משאבים מוגבלים כדי לספק את הרצונות והצרכים הבלתי מוגבלים שלהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "The study of how societies use scarce resources",
+                "definition_hebrew": "חקר האופן שבו חברות משתמשות במשאבים נדירים",
+                "example": "When a country decides between building more schools or hospitals, it is studying economics.",
+                "example_hebrew": "כשמדינה מחליטה בין לבנות עוד בתי ספר או בתי חולים, היא לומדת כלכלה."
+            },
+            {
+                "definition": "Economic theories and principles that guide decision-making",
+                "definition_hebrew": "תיאוריות ועקרונות כלכליים המנחים את קבלת ההחלטות",
+                "example": "The concept of supply and demand helps businesses decide how much to produce.",
+                "example_hebrew": "הרעיון של היצע וביקוש עוזר לעסקים להחליט כמה לייצר."
+            },
+            {
+                "definition": "The practice or occupation dealing with the production, distribution, and consumption of goods and services",
+                "definition_hebrew": "העיסוק או העיסוק העוסק בייצור, הפצה וצריכה של סחורות ושירותים",
+                "example": "A career in economics could involve working for a government agency analyzing economic data.",
+                "example_hebrew": "קריירה בכלכלה יכולה לכלול עבודה בסוכנות ממשלתית לניתוח נתונים כלכליים."
+            },
+            {
+                "definition": "An approach to understanding the impacts of human behavior on the economy",
+                "definition_hebrew": "גישה להבנת ההשפעות של התנהגות אנושית על הכלכלה",
+                "example": "Economic models help us predict how changes in consumer spending might affect businesses.",
+                "example_hebrew": "מודלים כלכליים עוזרים לנו לחזות כיצד שינויים בהוצאות הצרכנים עשויים להשפיע על עסקים."
+            }
+        ]
+    }
+]

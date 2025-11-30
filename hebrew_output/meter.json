@@ -1,0 +1,34 @@
+[
+    {
+        "word": "meter",
+        "word_hebrew": "מטר",
+        "main_definition": "A meter is a unit of measurement used to quantify length, area, volume or energy.",
+        "main_definition_hebrew": "מטר הוא יחידת מדידה המשמשת לכימות אורך, שטח, נפח או אנרגיה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Measuring device for electricity",
+                "definition_hebrew": "מכשיר מדידה לחשמל",
+                "example": "I checked the power usage with my electricity meter.",
+                "example_hebrew": "בדקתי את צריכת החשמל עם מד החשמל שלי."
+            },
+            {
+                "definition": "A unit of length equal to 100 centimeters or approximately 39.37 inches",
+                "definition_hebrew": "יחידת אורך השווה ל-100 סנטימטרים או כ-39.37 אינץ'",
+                "example": "The standard height for a doorway is typically around one meter high.",
+                "example_hebrew": "הגובה הסטנדרטי עבור פתח הוא בדרך כלל בגובה מטר אחד."
+            },
+            {
+                "definition": "An instrument used to measure the flow rate, volume, and capacity of liquids",
+                "definition_hebrew": "מכשיר המשמש למדידת קצב הזרימה, הנפח והקיבולת של נוזלים",
+                "example": "We use a water meter to track our household's consumption.",
+                "example_hebrew": "אנו משתמשים במד מים כדי לעקוב אחר הצריכה של משק הבית שלנו."
+            },
+            {
+                "definition": "A unit of electricity equal to one millionth of an ampere",
+                "definition_hebrew": "יחידת חשמל השווה למיליונית האמפר",
+                "example": "The power usage is measured in kilowatt-hours, which indicates how many meters were used over time.",
+                "example_hebrew": "צריכת החשמל נמדדת בקילווואט-שעה, מה שמציין כמה מטרים נוצלו לאורך זמן."
+            }
+        ]
+    }
+]

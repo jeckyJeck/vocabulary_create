@@ -1,0 +1,34 @@
+[
+    {
+        "word": "walked",
+        "word_hebrew": "הלך",
+        "main_definition": "To have moved by foot at a steady pace, typically covering some distance.",
+        "main_definition_hebrew": "לזוז ברגל בקצב קבוע, בדרך כלל מכסה מרחק מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical movement on foot",
+                "definition_hebrew": "תנועה פיזית ברגל",
+                "example": "She walked to the store from her house.",
+                "example_hebrew": "היא הלכה לחנות מביתה."
+            },
+            {
+                "definition": "To travel or journey by foot",
+                "definition_hebrew": "לטייל או לנסוע ברגל",
+                "example": "They walked along the Camino de Santiago, a famous pilgrimage route in Spain.",
+                "example_hebrew": "הם צעדו לאורך הקמינו דה סנטיאגו, נתיב עלייה לרגל מפורסם בספרד."
+            },
+            {
+                "definition": "A past tense verb indicating an action that was performed repeatedly in the past",
+                "definition_hebrew": "פועל בזמן עבר המציין פעולה שבוצעה שוב ושוב בעבר",
+                "example": "He walked his dog every morning for two hours.",
+                "example_hebrew": "הוא טייל עם הכלב שלו כל בוקר במשך שעתיים."
+            },
+            {
+                "definition": "Used to describe a metaphorical journey or progress made over time",
+                "definition_hebrew": "משמש לתיאור מסע מטפורי או התקדמות שנעשתה לאורך זמן",
+                "example": "After years of hard work, she finally felt like she had walked through all the obstacles in her life.",
+                "example_hebrew": "אחרי שנים של עבודה קשה, היא הרגישה סוף סוף כאילו עברה את כל המכשולים בחייה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "pollution",
+        "word_hebrew": "זיהום",
+        "main_definition": "Pollution refers to the presence or introduction of harmful substances, contaminants, or pollutants into the environment that can cause damage to ecosystems and human health.",
+        "main_definition_hebrew": "זיהום מתייחס לנוכחות או החדרה של חומרים מזיקים, מזהמים או מזהמים לסביבה העלולים לגרום נזק למערכות אקולוגיות ולבריאות האדם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Air Pollution",
+                "definition_hebrew": "זיהום אוויר",
+                "example": "The smog hanging over the city is a result of air pollution caused by car emissions and industrial waste.",
+                "example_hebrew": "הערפיח התלוי מעל העיר הוא תוצאה של זיהום אוויר הנגרם מפליטת מכוניות ופסולת תעשייתית."
+            },
+            {
+                "definition": "Water Pollution",
+                "definition_hebrew": "זיהום מים",
+                "example": "Oil spills in oceans are major sources of water pollution, affecting marine life and coastal communities.",
+                "example_hebrew": "דליפת נפט באוקיינוסים היא מקורות עיקריים לזיהום מים, המשפיעים על החיים הימיים ועל קהילות החוף."
+            },
+            {
+                "definition": "Soil Pollution",
+                "definition_hebrew": "זיהום אדמה",
+                "example": "The use of chemical fertilizers and pesticides on farmlands can lead to soil pollution, which may harm crops and local wildlife.",
+                "example_hebrew": "השימוש בדשנים כימיים וחומרי הדברה על אדמות חקלאיות עלול להוביל לזיהום קרקע, שעלול לפגוע ביבולים ובחיות הבר המקומיות."
+            },
+            {
+                "definition": "Noise Pollution",
+                "definition_hebrew": "זיהום רעש",
+                "example": "Living near a busy airport or highway exposes residents to noise pollution that can cause stress and sleep disturbances.",
+                "example_hebrew": "מגורים ליד שדה תעופה סואן או כביש מהיר חושפים את התושבים לזיהום רעש שעלול לגרום ללחץ ולהפרעות שינה."
+            }
+        ]
+    }
+]

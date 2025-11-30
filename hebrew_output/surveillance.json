@@ -1,0 +1,34 @@
+[
+    {
+        "word": "surveillance",
+        "word_hebrew": "הַשׁגָחָה",
+        "main_definition": "The act of monitoring or observing individuals, objects, or areas to gather information, ensure security, or prevent illegal activities.",
+        "main_definition_hebrew": "הפעולה של ניטור או תצפית על אנשים, חפצים או אזורים כדי לאסוף מידע, להבטיח אבטחה או למנוע פעילויות לא חוקיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Observation of behavior and activities for the purpose of maintaining law and order",
+                "definition_hebrew": "תצפית על התנהגות ופעילויות לצורך שמירת החוק והסדר",
+                "example": "The police conduct surveillance on a suspect involved in criminal activity.",
+                "example_hebrew": "המשטרה עורכת מעקבים אחר חשוד במעורבות בפלילים."
+            },
+            {
+                "definition": "Monitoring of people's movements or actions, often done through electronic means such as cameras or tracking devices",
+                "definition_hebrew": "ניטור של תנועות או פעולות של אנשים, נעשה לרוב באמצעים אלקטרוניים כגון מצלמות או מכשירי מעקב",
+                "example": "The government installed CCTV cameras for public safety and surveillance purposes.",
+                "example_hebrew": "הממשלה התקינה מצלמות טלוויזיה במעגל סגור למטרות בטיחות ומעקב."
+            },
+            {
+                "definition": "Systematic observation or supervision carried out by an organization to assess performance or compliance with rules",
+                "definition_hebrew": "תצפית או פיקוח שיטתיים המבוצעים על ידי ארגון כדי להעריך ביצועים או עמידה בכללים",
+                "example": "An employer conducts employee surveillance to ensure productivity during working hours.",
+                "example_hebrew": "מעסיק עורך מעקב אחר עובדים כדי להבטיח תפוקה במהלך שעות העבודה."
+            },
+            {
+                "definition": "The act of watching over something or someone continuously, often for security reasons",
+                "definition_hebrew": "הפעולה של השגחה על משהו או מישהו ברציפות, לעתים קרובות מסיבות ביטחוניות",
+                "example": "A homeowner may use a security system with cameras for the purpose of continuous surveillance in their property.",
+                "example_hebrew": "בעל בית רשאי להשתמש במערכת אבטחה עם מצלמות לצורך מעקב רציף ברכושו."
+            }
+        ]
+    }
+]

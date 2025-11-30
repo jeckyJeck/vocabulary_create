@@ -1,0 +1,34 @@
+[
+    {
+        "word": "modules",
+        "word_hebrew": "מודולים",
+        "main_definition": "In general, 'modules' can refer to various concepts such as parts of a larger system or units within software programming that perform specific tasks.",
+        "main_definition_hebrew": "באופן כללי, 'מודולים' יכולים להתייחס למושגים שונים כגון חלקים ממערכת גדולה יותר או יחידות בתוך תכנות תוכנה המבצעות משימות ספציפיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A part or component of a larger machine or structure",
+                "definition_hebrew": "חלק או רכיב של מכונה או מבנה גדולים יותר",
+                "example": "The car's engine is composed of several modules, including the fuel injection module and ignition module.",
+                "example_hebrew": "מנוע המכונית מורכב ממספר מודולים, כולל מודול הזרקת הדלק ומודול ההצתה."
+            },
+            {
+                "definition": "In software programming, a self-contained object that encapsulates specific functionality",
+                "definition_hebrew": "בתכנות תוכנה, אובייקט עצמאי שמכיל בתוכו פונקציונליות ספציפית",
+                "example": "An example of a module in Python could be 'math', which provides mathematical functions like square root or trigonometry operations.",
+                "example_hebrew": "דוגמה למודול ב-Python יכולה להיות 'מתמטיקה', המספקת פונקציות מתמטיות כמו שורש ריבועי או פעולות טריגונומטריה."
+            },
+            {
+                "definition": "In education, a course or unit within an academic program or curriculum",
+                "definition_hebrew": "בחינוך, קורס או יחידה במסגרת תכנית או תכנית לימודים אקדמית",
+                "example": "The biology program includes modules on genetics, ecology, and cellular processes.",
+                "example_hebrew": "תכנית הביולוגיה כוללת מודולים על גנטיקה, אקולוגיה ותהליכים תאיים."
+            },
+            {
+                "definition": "A standalone section in written work, such as a newspaper article or book chapter, often focusing on a specific topic",
+                "definition_hebrew": "חלק עצמאי בעבודה כתובה, כגון מאמר בעיתון או פרק בספר, המתמקד לעתים קרובות בנושא מסוים",
+                "example": "In this science journal, the 'Modules' section highlights various studies and research papers from different scientists.",
+                "example_hebrew": "בכתב העת המדעי הזה, המדור 'מודולים' מדגיש מחקרים שונים ומאמרי מחקר של מדענים שונים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "pharmaceuticals",
+        "word_hebrew": "תרופות",
+        "main_definition": "Pharmaceuticals refer to medications or drugs that are manufactured, sold, and regulated by the pharmaceutical industry.",
+        "main_definition_hebrew": "תרופות מתייחסות לתרופות או תרופות המיוצרות, נמכרות ומוסדרות על ידי תעשיית התרופות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Medicinal substances used for treating diseases",
+                "definition_hebrew": "חומרים רפואיים המשמשים לטיפול במחלות",
+                "example": "The patient took a dose of pharmaceuticals to manage their high blood pressure.",
+                "example_hebrew": "המטופל נטל מנה של תרופות כדי לנהל את לחץ הדם הגבוה שלו."
+            },
+            {
+                "definition": "Companies involved in the research, development, and production of drugs",
+                "definition_hebrew": "חברות העוסקות במחקר, פיתוח וייצור של תרופות",
+                "example": "Pharmaceutical companies invest heavily in developing new treatments for rare diseases.",
+                "example_hebrew": "חברות התרופות משקיעות רבות בפיתוח טיפולים חדשים למחלות נדירות."
+            },
+            {
+                "definition": "Regulatory agencies that oversee pharmaceutical products",
+                "definition_hebrew": "סוכנויות רגולטוריות המפקחות על מוצרים פרמצבטיים",
+                "example": "The FDA approved the new drug after rigorous testing and evaluation by their regulatory division.",
+                "example_hebrew": "ה-FDA אישר את התרופה החדשה לאחר בדיקות והערכה קפדנית על ידי החטיבה הרגולטורית שלהם."
+            },
+            {
+                "definition": "Individuals who work in the pharmaceutical industry, such as researchers or sales representatives",
+                "definition_hebrew": "אנשים שעובדים בתעשיית התרופות, כגון חוקרים או נציגי מכירות",
+                "example": "The scientist at a major pharmaceutical company discovered a new compound that could potentially treat Alzheimer's disease.",
+                "example_hebrew": "המדען בחברת תרופות גדולה גילה תרכובת חדשה שיכולה לטפל במחלת אלצהיימר."
+            },
+            {
+                "definition": "Products derived from natural sources used for medicinal purposes, often classified as 'natural pharmaceuticals'",
+                "definition_hebrew": "מוצרים המופקים ממקורות טבעיים המשמשים למטרות רפואיות, מסווגים לעתים קרובות כ'תרופות טבעיות'",
+                "example": "The patient opted to use herbal remedies instead of traditional pharmaceuticals due to personal preference.",
+                "example_hebrew": "המטופל בחר להשתמש בתרופות צמחיות במקום בתרופות מסורתיות בשל העדפה אישית."
+            }
+        ]
+    }
+]

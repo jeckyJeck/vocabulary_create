@@ -1,0 +1,28 @@
+[
+    {
+        "word": "julia",
+        "word_hebrew": "ג'וליה",
+        "main_definition": "Julia is a female name of Latin origin, typically used as both a given name and an adjective.",
+        "main_definition_hebrew": "ג'וליה הוא שם נקבה ממוצא לטיני, המשמש בדרך כלל גם כשם פרטי וגם כשם תואר.",
+        "meanings_and_examples": [
+            {
+                "definition": "A popular Romanian first name for girls. In Romania, it is one of the most common names.",
+                "definition_hebrew": "שם פרטי רומני פופולרי לבנות. ברומניה, זהו אחד השמות הנפוצים ביותר.",
+                "example": "Sofia was named Julia after her grandmother.",
+                "example_hebrew": "סופיה נקראה יוליה על שם סבתה."
+            },
+            {
+                "definition": "Used to describe a girl or woman in an affectionate way, often used when referring to someone's childhood friend.",
+                "definition_hebrew": "משמש לתיאור נערה או אישה בדרך חיבה, משמש לעתים קרובות כאשר מתייחסים לחבר ילדות של מישהו.",
+                "example": "My sister still refers to me as 'julia,' the nickname we had since we were kids.",
+                "example_hebrew": "אחותי עדיין מתייחסת אלי כ'ג'וליה', הכינוי שהיה לנו מאז שהיינו ילדים."
+            },
+            {
+                "definition": "In computing, a Julia language programming environment. It is an open-source system with dynamic typing and high performance in numerical computation.",
+                "definition_hebrew": "בתחום המחשוב, סביבת תכנות בשפת יוליה. זוהי מערכת קוד פתוח עם הקלדה דינמית וביצועים גבוהים בחישוב מספרי.",
+                "example": "He decided to learn Julia for his next data science project because of its advanced array processing capabilities.",
+                "example_hebrew": "הוא החליט ללמוד את ג'וליה לפרויקט מדעי הנתונים הבא שלו בגלל יכולות עיבוד המערך המתקדמות שלו."
+            }
+        ]
+    }
+]

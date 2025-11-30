@@ -1,0 +1,34 @@
+[
+    {
+        "word": "clone",
+        "word_hebrew": "שיבוט",
+        "main_definition": "To create an exact replica or duplicate of something, often in the context of genetics or technology.",
+        "main_definition_hebrew": "ליצור העתק או שכפול מדויק של משהו, לעתים קרובות בהקשר של גנטיקה או טכנולוגיה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In biology, to produce a genetically identical copy of an organism through reproduction or laboratory techniques.",
+                "definition_hebrew": "בביולוגיה, לייצר עותק זהה מבחינה גנטית של אורגניזם באמצעות רבייה או טכניקות מעבדה.",
+                "example": "Scientists have successfully cloned Dolly the sheep.",
+                "example_hebrew": "מדענים שיבטו בהצלחה את דולי הכבשה."
+            },
+            {
+                "definition": "In computing and technology, to create a duplicate of a software program, digital file, or data set.",
+                "definition_hebrew": "בתחום המחשוב והטכנולוגיה, ליצור עותק של תוכנה, קובץ דיגיטלי או מערך נתונים.",
+                "example": "The company used backup cloning techniques to ensure they could restore their server in case of failure.",
+                "example_hebrew": "החברה השתמשה בטכניקות שיבוט גיבוי כדי להבטיח שהם יוכלו לשחזר את השרת שלהם במקרה של כשל."
+            },
+            {
+                "definition": "An informal expression indicating the creation of an exact copy or imitation of someone's personal style, habits, or behavior.",
+                "definition_hebrew": "ביטוי לא פורמלי המצביע על יצירת העתק או חיקוי מדויק של הסגנון האישי, ההרגלים או ההתנהגות של מישהו.",
+                "example": "He's such a cloned version of his older brother that they could be mistaken for twins.",
+                "example_hebrew": "הוא גרסה כל כך משובטת של אחיו הבכור עד שהם יכולים להיחשב בטעות כתאומים."
+            },
+            {
+                "definition": "In mythology and fiction, to create an exact duplicate of a character using magical means or advanced technology.",
+                "definition_hebrew": "במיתולוגיה ובסיפורת, ליצור שכפול מדויק של דמות באמצעות אמצעים קסומים או טכנולוגיה מתקדמת.",
+                "example": "The sorcerer used his powers to clone the legendary hero who had saved the kingdom from destruction.",
+                "example_hebrew": "המכשף השתמש בכוחותיו כדי לשבט את הגיבור האגדי שהציל את הממלכה מהרס."
+            }
+        ]
+    }
+]

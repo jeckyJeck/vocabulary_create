@@ -1,0 +1,40 @@
+[
+    {
+        "word": "indicating",
+        "word_hebrew": "מציין",
+        "main_definition": "To show, signal or point out something in a particular manner.",
+        "main_definition_hebrew": "להראות, לאותת או להצביע על משהו בצורה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Conveying information about something indirectly through actions or signals.",
+                "definition_hebrew": "העברת מידע על משהו בעקיפין באמצעות פעולות או אותות.",
+                "example": "His nod indicated agreement with the proposal.",
+                "example_hebrew": "הנהון שלו הצביע על הסכמה להצעה."
+            },
+            {
+                "definition": "Using a sign, symbol, or gesture to demonstrate an idea, fact, or intention.",
+                "definition_hebrew": "שימוש בסימן, סמל או מחווה כדי להדגים רעיון, עובדה או כוונה.",
+                "example": "The red traffic light is indicating that vehicles should stop.",
+                "example_hebrew": "הרמזור האדום מציין שכלי רכב צריכים לעצור."
+            },
+            {
+                "definition": "Serving as evidence or proof of something's existence, presence, or truth.",
+                "definition_hebrew": "משמש כהוכחה או הוכחה לקיומו, נוכחותו או האמת של משהו.",
+                "example": "Her flushed face was indicating she had a fever.",
+                "example_hebrew": "פניה הסמוקות הצביעו על כך שיש לה חום."
+            },
+            {
+                "definition": "Expressing an idea or opinion subtly without directly stating it.",
+                "definition_hebrew": "הבעת רעיון או דעה בעדינות מבלי לציין זאת ישירות.",
+                "example": "He indicated his disapproval by wearing black on the day of celebration.",
+                "example_hebrew": "הוא הצביע על אי הסכמתו בכך שלבש שחור ביום החגיגה."
+            },
+            {
+                "definition": "Representing a condition, state, or situation through indicators like charts, graphs, or meters.",
+                "definition_hebrew": "ייצוג מצב, מצב או מצב באמצעות אינדיקטורים כמו תרשימים, גרפים או מטרים.",
+                "example": "The thermometer is indicating that the room temperature has reached 30 degrees Celsius.",
+                "example_hebrew": "מד החום מציין שטמפרטורת החדר הגיעה ל-30 מעלות צלזיוס."
+            }
+        ]
+    }
+]

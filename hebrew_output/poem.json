@@ -1,0 +1,34 @@
+[
+    {
+        "word": "poem",
+        "word_hebrew": "שִׁיר",
+        "main_definition": "A poem is a piece of writing that expresses emotions, thoughts, or ideas in a structured form, often with a rhythmic and/or metrical pattern.",
+        "main_definition_hebrew": "שיר הוא קטע כתיבה המבטא רגשות, מחשבות או רעיונות בצורה מובנית, לרוב עם דפוס קצבי ו/או מטרי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Literary art",
+                "definition_hebrew": "אמנות ספרותית",
+                "example": "Shakespeare's 'Sonnet 18', which praises the beauty of his love interest using vivid imagery and rhyming couplets.",
+                "example_hebrew": "'Sonnet 18' של שייקספיר, המשבח את היופי של עניין האהבה שלו באמצעות דימויים חיים וצמדי צמדים מתחרזים."
+            },
+            {
+                "definition": "Expression of emotions or thoughts",
+                "definition_hebrew": "ביטוי של רגשות או מחשבות",
+                "example": "A child writing a poem about their first day at school, describing their excitement and nervousness in simple language.",
+                "example_hebrew": "ילד כותב שיר על יומו הראשון בבית הספר, ומתאר את ההתרגשות והעצבנות שלו בשפה פשוטה."
+            },
+            {
+                "definition": "Structured form with patterns like rhyme and meter",
+                "definition_hebrew": "צורה מובנית עם תבניות כמו חריזה ומטר",
+                "example": "Robert Frost's 'Stopping by Woods on a Snowy Evening', which follows an AABA BBCB CCDC DDDD rhyme scheme and iambic tetrameter.",
+                "example_hebrew": "\"Stopping by Woods on a Snowy Evening\" של רוברט פרוסט, העוקב אחר ערכת חריזה של AABA BBCB CCDC DDDD וטטרמטר יאמבי."
+            },
+            {
+                "definition": "Conventional division of poetry",
+                "definition_hebrew": "חלוקה קונבנציונלית של שירה",
+                "example": "An ode, haiku, or limerick, each having distinct rules for structure and style within the broader category of a poem.",
+                "example_hebrew": "אודה, הייקו או לימריק, שלכל אחד יש כללים ברורים למבנה ולסגנון בקטגוריה הרחבה יותר של שיר."
+            }
+        ]
+    }
+]

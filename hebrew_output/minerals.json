@@ -1,0 +1,34 @@
+[
+    {
+        "word": "minerals",
+        "word_hebrew": "מינרלים",
+        "main_definition": "Minerals are naturally occurring inorganic substances with a distinct chemical composition, crystalline structure, and physical properties.",
+        "main_definition_hebrew": "מינרלים הם חומרים אנאורגניים המופיעים באופן טבעי עם הרכב כימי מובהק, מבנה גבישי ותכונות פיזיקליות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of Earth's geology, minerals refer to solid, naturally occurring inorganic substances that have a specific chemical composition and crystal structure. Minerals are found in rocks and soil.",
+                "definition_hebrew": "בהקשר של הגיאולוגיה של כדור הארץ, מינרלים מתייחסים לחומרים אנאורגניים מוצקים, המופיעים באופן טבעי, בעלי הרכב כימי ומבנה גבישי ספציפי. מינרלים נמצאים בסלעים ובאדמה.",
+                "example": "The colorful streak left on the tile after rubbing with a mineral sample was an indication of its iron content.",
+                "example_hebrew": "הפס הצבעוני שנותר על האריח לאחר שפשוף בדגימת מינרלים היה אינדיקציה לתכולת הברזל שלו."
+            },
+            {
+                "definition": "In investment terms, 'mining' refers to the process of extracting valuable minerals from the earth. Companies engaged in this activity are often referred to as mining companies.",
+                "definition_hebrew": "במונחי השקעה, 'כרייה' מתייחסת לתהליך הפקת מינרלים יקרי ערך מכדור הארץ. חברות העוסקות בפעילות זו מכונות לעתים קרובות חברות כרייה.",
+                "example": "XYZ Mining Company has recently discovered a new gold deposit and is planning to start operations.",
+                "example_hebrew": "חברת הכרייה XYZ גילתה לאחרונה מרבץ זהב חדש ומתכננת להתחיל בפעילות."
+            },
+            {
+                "definition": "Minerals can also refer to naturally occurring elements or compounds that have unique properties, such as being used in various industries for different purposes.",
+                "definition_hebrew": "מינרלים יכולים להתייחס גם ליסודות או תרכובות המופיעות באופן טבעי בעלות תכונות ייחודיות, כגון שימוש בתעשיות שונות למטרות שונות.",
+                "example": "Graphite, a mineral composed of carbon, is widely used as an electrode material and lubricant.",
+                "example_hebrew": "גרפיט, מינרל המורכב מפחמן, נמצא בשימוש נרחב כחומר אלקטרודה וכחומר סיכה."
+            },
+            {
+                "definition": "In the field of medicine, 'minerals' can refer to substances that are essential to human health. These include nutrients like calcium, iron, potassium, etc.",
+                "definition_hebrew": "בתחום הרפואה, 'מינרלים' יכולים להתייחס לחומרים החיוניים לבריאות האדם. אלה כוללים חומרים מזינים כמו סידן, ברזל, אשלגן וכו'.",
+                "example": "A balanced diet with adequate amounts of minerals and vitamins is crucial for maintaining good health.",
+                "example_hebrew": "תזונה מאוזנת עם כמויות נאותות של מינרלים וויטמינים חיונית לשמירה על הבריאות."
+            }
+        ]
+    }
+]

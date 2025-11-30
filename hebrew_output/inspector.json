@@ -1,0 +1,34 @@
+[
+    {
+        "word": "inspector",
+        "word_hebrew": "מְפַקֵחַ",
+        "main_definition": "An inspector is a person who examines or investigates something closely to assess its quality, condition, or compliance with rules.",
+        "main_definition_hebrew": "מפקח הוא אדם שבוחן או חוקר משהו מקרוב כדי להעריך את איכותו, מצבו או תאימותו לכללים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A police officer responsible for enforcing the law and maintaining public order",
+                "definition_hebrew": "שוטר האחראי על אכיפת החוק ושמירה על הסדר הציבורי",
+                "example": "The inspector arrested the suspect after finding evidence of a crime.",
+                "example_hebrew": "המפקח עצר את החשוד לאחר שמצא ראיות לפשע."
+            },
+            {
+                "definition": "An official who examines goods, buildings, or facilities to ensure they meet certain standards",
+                "definition_hebrew": "פקיד שבודק סחורות, מבנים או מתקנים כדי לוודא שהם עומדים בתקנים מסוימים",
+                "example": "The building inspector checked the construction site for safety violations before approving it for occupancy.",
+                "example_hebrew": "מפקח הבנייה בדק את אתר הבנייה לאיתור הפרות בטיחות לפני שאישר אותו לאכלוס."
+            },
+            {
+                "definition": "A person in charge of checking a company's financial records and ensuring its compliance with regulations",
+                "definition_hebrew": "אחראי על בדיקת הרישומים הפיננסיים של החברה והבטחת עמידתה בתקנות",
+                "example": "The auditor, acting as an inspector, scrutinized the corporation's accounts to detect any irregularities.",
+                "example_hebrew": "המבקר, המשמש כמפקח, בדק בקפדנות את חשבונות התאגיד כדי לאתר אי-סדרים."
+            },
+            {
+                "definition": "A person who investigates or examines something thoroughly in order to evaluate its condition or quality",
+                "definition_hebrew": "אדם שחוקר או בודק משהו ביסודיות על מנת להעריך את מצבו או איכותו",
+                "example": "As a food inspector, he carefully checked every ingredient and process for contamination.",
+                "example_hebrew": "כמפקח מזון, הוא בדק בקפידה כל מרכיב ותהליך לאיתור זיהום."
+            }
+        ]
+    }
+]

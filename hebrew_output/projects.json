@@ -1,0 +1,34 @@
+[
+    {
+        "word": "projects",
+        "word_hebrew": "פרויקטים",
+        "main_definition": "Projects refer to various concepts including undertakings or tasks, the act of displaying an image through a lens (as in photography), idiomatic expressions related to planning and initiating something, or planned activities in fields like astronomy.",
+        "main_definition_hebrew": "פרויקטים מתייחסים למושגים שונים כולל התחייבויות או משימות, פעולת הצגת תמונה דרך עדשה (כמו בצילום), ביטויים אידיומטיים הקשורים לתכנון וייזום משהו, או פעילויות מתוכננות בתחומים כמו אסטרונומיה.",
+        "meanings_and_examples": [
+            {
+                "definition": "An endeavor undertaken for a particular purpose or result; an organized plan of action designed to achieve a specific goal.",
+                "definition_hebrew": "מאמץ שנעשה למטרה מסוימת או לתוצאה מסוימת; תוכנית פעולה מאורגנת שנועדה להשיג מטרה מסוימת.",
+                "example": "The construction project is scheduled to be completed by the end of next year.",
+                "example_hebrew": "פרויקט הבנייה אמור להסתיים עד סוף השנה הבאה."
+            },
+            {
+                "definition": "In photography, the process of creating images by passing light through a lens onto photosensitive material or an electronic image sensor.",
+                "definition_hebrew": "בצילום, תהליך יצירת תמונות על ידי העברת אור דרך עדשה אל חומר רגיש לאור או חיישן תמונה אלקטרוני.",
+                "example": "She spent hours perfecting her photographs in different project settings to capture the sunset's beauty.",
+                "example_hebrew": "היא בילתה שעות בשכלול הצילומים שלה במסגרות פרויקט שונות כדי ללכוד את יופייה של השקיעה."
+            },
+            {
+                "definition": "A short, inventive saying that uses words in a figurative way; often related to planning, initiating, or envisioning something for the future.",
+                "definition_hebrew": "אמירה קצרה וממציאה המשתמשת במילים בצורה פיגורטיבית; לעתים קרובות קשור לתכנון, ליזום או לדמיין משהו לעתיד.",
+                "example": "Whenever I start thinking about my next project, I can't help but daydream about all its possibilities.",
+                "example_hebrew": "בכל פעם שאני מתחיל לחשוב על הפרויקט הבא שלי, אני לא יכול שלא לחלום בהקיץ על כל האפשרויות שלו."
+            },
+            {
+                "definition": "In astronomy and space science, a series of observations made over an extended period to gather data on celestinas or cosmic phenomena.",
+                "definition_hebrew": "באסטרונומיה ובמדעי החלל, סדרה של תצפיות שנעשו על פני תקופה ממושכת כדי לאסוף נתונים על כוכבי הלכת או תופעות קוסמיות.",
+                "example": "The Kepler project has been instrumental in discovering new exoplanets by monitoring the brightness of stars.",
+                "example_hebrew": "פרויקט קפלר סייע בגילוי כוכבי לכת חדשים על ידי ניטור בהירות הכוכבים."
+            }
+        ]
+    }
+]

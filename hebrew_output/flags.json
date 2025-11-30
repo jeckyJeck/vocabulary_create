@@ -1,0 +1,28 @@
+[
+    {
+        "word": "flags",
+        "word_hebrew": "דגלים",
+        "main_definition": "Flags can refer to multiple meanings, including physical flags representing nations or groups, signaling devices used in various contexts such as air traffic control, maritime operations, or competitive sports; and idiomatic expressions suggesting variation, changeability, or lack of consistency.",
+        "main_definition_hebrew": "דגלים יכולים להתייחס למשמעויות מרובות, כולל דגלים פיזיים המייצגים אומות או קבוצות, מכשירי איתות המשמשים בהקשרים שונים כגון בקרת תעבורה אווירית, פעולות ימיות או ספורט תחרותי; וביטויים אידיומטיים המצביעים על שונות, שינוי או חוסר עקביות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A physical flag representing a country, organization, or group",
+                "definition_hebrew": "דגל פיזי המייצג מדינה, ארגון או קבוצה",
+                "example": "The American Flag is a symbol of the United States and its values.",
+                "example_hebrew": "הדגל האמריקאי הוא סמל של ארצות הברית וערכיה."
+            },
+            {
+                "definition": "Signaling devices used in various contexts to convey information or direct action",
+                "definition_hebrew": "מכשירי איתות המשמשים בהקשרים שונים להעברת מידע או פעולה ישירה",
+                "example": "Air traffic controllers use flags on their radar screens to communicate with pilots about weather conditions or other important updates.",
+                "example_hebrew": "בקרי התנועה האווירית משתמשים בדגלים על מסכי המכ\"ם שלהם כדי לתקשר עם טייסים לגבי תנאי מזג האוויר או עדכונים חשובים אחרים."
+            },
+            {
+                "definition": "An idiomatic expression indicating variability, inconsistency, or changeability",
+                "definition_hebrew": "ביטוי אידיומטי המצביע על שונות, חוסר עקביות או שינוי",
+                "example": "His mood was like a flag changing colors frequently throughout the day.",
+                "example_hebrew": "מצב הרוח שלו היה כמו דגל שמחליף צבעים לעתים קרובות במהלך היום."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "char",
+        "word_hebrew": "לְהַשְׁחִיר",
+        "main_definition": "Char is a term that can refer to various concepts in different contexts, including units of measurement, characters or symbols used in writing systems, and an electric heater.",
+        "main_definition_hebrew": "Char הוא מונח שיכול להתייחס למושגים שונים בהקשרים שונים, כולל יחידות מדידה, תווים או סמלים המשמשים במערכות כתיבה ותנור חימום חשמלי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Unit of measurement for the smallest quantity of electrical energy",
+                "definition_hebrew": "יחידת מדידה לכמות האנרגיה החשמלית הקטנה ביותר",
+                "example": "The char on a battery indicates its charge level.",
+                "example_hebrew": "המטען בסוללה מציין את רמת הטעינה שלה."
+            },
+            {
+                "definition": "A single letter, number, or other symbol used as part of an alphabetic writing system",
+                "definition_hebrew": "אות בודדת, מספר או סמל אחר המשמש כחלק ממערכת כתיבה אלפביתית",
+                "example": "In this sentence, each word is composed of multiple chars such as 'h', 'e', 'l', 'l', and 'o'.",
+                "example_hebrew": "במשפט זה, כל מילה מורכבת ממספר תווים כגון 'h', 'e', 'l', 'l' ו-'o'."
+            },
+            {
+                "definition": "A small electric heater that can be used to warm up a room or space",
+                "definition_hebrew": "דוד חשמלי קטן שניתן להשתמש בו לחימום חדר או חלל",
+                "example": "During the winter, I often use my char to heat up my bedroom before going to sleep.",
+                "example_hebrew": "במהלך החורף, אני משתמש לעתים קרובות בפחם שלי כדי לחמם את חדר השינה שלי לפני השינה."
+            }
+        ]
+    }
+]

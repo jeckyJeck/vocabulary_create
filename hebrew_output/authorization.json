@@ -1,0 +1,40 @@
+[
+    {
+        "word": "authorization",
+        "word_hebrew": "הרשאה",
+        "main_definition": "The act of giving someone permission or approval to do something, often by issuing a document or signal.",
+        "main_definition_hebrew": "הפעולה של מתן רשות או אישור למישהו לעשות משהו, לעתים קרובות על ידי הוצאת מסמך או איתות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Granting official permission for an action or request",
+                "definition_hebrew": "מתן רשות רשמית לפעולה או בקשה",
+                "example": "I need authorization from my manager before I can access the client's files.",
+                "example_hebrew": "אני צריך אישור מהמנהל שלי לפני שאוכל לגשת לקבצים של הלקוח."
+            },
+            {
+                "definition": "Permission to use property, equipment, etc., belonging to someone else",
+                "definition_hebrew": "הרשאה להשתמש ברכוש, ציוד וכדומה השייך למישהו אחר",
+                "example": "After obtaining authorization, she was allowed to borrow her friend's car for a weekend trip.",
+                "example_hebrew": "לאחר קבלת אישור, היא הורשה לשאול את המכונית של חברתה לטיול בסוף השבוע."
+            },
+            {
+                "definition": "Authorization in the context of computer systems and software",
+                "definition_hebrew": "הרשאה בהקשר של מערכות מחשוב ותוכנות",
+                "example": "The user needs authentication before they can receive authorization to access sensitive data.",
+                "example_hebrew": "המשתמש זקוק לאימות לפני שיוכל לקבל הרשאה לגשת לנתונים רגישים."
+            },
+            {
+                "definition": "Approval by a regulatory body or government for certain activities, such as medical procedures or financial transactions",
+                "definition_hebrew": "אישור של גוף רגולטורי או ממשלה לפעילויות מסוימות, כגון הליכים רפואיים או עסקאות פיננסיות",
+                "example": "He obtained the necessary authorization from the FDA before launching his new pharmaceutical product.",
+                "example_hebrew": "הוא השיג את האישור הדרוש מה-FDA לפני שהשיק את המוצר הפרמצבטי החדש שלו."
+            },
+            {
+                "definition": "Authorization to operate an aircraft within a specific airspace",
+                "definition_hebrew": "אישור להפעיל כלי טיס בתוך מרחב אווירי מסוים",
+                "example": "Pilots must receive clearance and authorization before entering restricted airspaces.",
+                "example_hebrew": "הטייסים חייבים לקבל אישור והרשאה לפני הכניסה למרחבים אוויריים מוגבלים."
+            }
+        ]
+    }
+]

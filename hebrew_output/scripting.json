@@ -1,0 +1,40 @@
+[
+    {
+        "word": "scripting",
+        "word_hebrew": "סקריפטים",
+        "main_definition": "Scripting refers to the process of creating scripts, which are written instructions or commands used in programming, automation, and media production.",
+        "main_definition_hebrew": "Scripting מתייחס לתהליך של יצירת סקריפטים, שהם הוראות כתובות או פקודות המשמשות בתכנות, אוטומציה והפקת מדיה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing, scripting means writing a program that controls other software or programs. It's often done with interpreted languages like Python, Perl, or PHP.",
+                "definition_hebrew": "במחשוב, scripting פירושו כתיבת תוכנית השולטת בתוכנות או תוכניות אחרות. זה נעשה לעתים קרובות עם שפות מתפרשות כמו Python, Perl או PHP.",
+                "example": "Using JavaScript to automate tasks on a website.",
+                "example_hebrew": "שימוש ב-JavaScript לאוטומציה של משימות באתר."
+            },
+            {
+                "definition": "In the context of media and entertainment, scripting involves writing scripts for television shows, movies, or video games. This includes dialogue, action descriptions, and scene directions.",
+                "definition_hebrew": "בהקשר של מדיה ובידור, תסריטים כוללים כתיבת תסריטים לתוכניות טלוויזיה, סרטים או משחקי וידאו. זה כולל דיאלוג, תיאורי פעולה וכיווני סצנה.",
+                "example": "A screenwriter drafts a script for an upcoming movie.",
+                "example_hebrew": "תסריטאי מנסח תסריט לסרט שעתיד לצאת בקרוב."
+            },
+            {
+                "definition": "In the field of biology, scripting can refer to the automated process of writing sequences or genetic codes in various formats like FASTQ. It's used for analyzing and processing large volumes of sequence data.",
+                "definition_hebrew": "בתחום הביולוגיה, סקריפטים יכולים להתייחס לתהליך האוטומטי של כתיבת רצפים או קודים גנטיים בפורמטים שונים כמו FASTQ. הוא משמש לניתוח ועיבוד כמויות גדולות של נתוני רצף.",
+                "example": "A bioinformatician uses a software tool to script the handling of DNA sequencing data.",
+                "example_hebrew": "ביואינפורמטיקאי משתמש בכלי תוכנה כדי לתסריט את הטיפול בנתוני רצף DNA."
+            },
+            {
+                "definition": "In web development, scripting can refer to writing scripts that interact with HTML elements on a webpage, enhancing functionality and interactivity through JavaScript or other languages.",
+                "definition_hebrew": "בפיתוח אתרים, סקריפטים יכולים להתייחס לכתיבת סקריפטים המקיימים אינטראקציה עם רכיבי HTML בדף אינטרנט, תוך שיפור הפונקציונליות והאינטראקטיביות באמצעות JavaScript או שפות אחרות.",
+                "example": "A developer writes a jQuery script to create interactive features for an e-commerce website.",
+                "example_hebrew": "מפתח כותב סקריפט jQuery כדי ליצור תכונות אינטראקטיביות עבור אתר מסחר אלקטרוני."
+            },
+            {
+                "definition": "In the film industry, pre-production scripting can involve creating detailed storyboards, shooting scripts, and scheduling plans that guide the filmmaking process before actual production begins.",
+                "definition_hebrew": "בתעשיית הקולנוע, תסריט טרום-הפקה יכול לכלול יצירת לוחות תכנון מפורטים, צילום תסריטים ותכניות תזמון המנחות את תהליך יצירת הסרט לפני תחילת ההפקה בפועל.",
+                "example": "A screenwriter collaborates with a director to produce a detailed shooting script for an upcoming feature film.",
+                "example_hebrew": "תסריטאי משתף פעולה עם במאי כדי להפיק תסריט צילום מפורט לסרט עלילתי שעומד לצאת בקרוב."
+            }
+        ]
+    }
+]

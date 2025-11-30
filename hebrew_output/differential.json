@@ -1,0 +1,34 @@
+[
+    {
+        "word": "differential",
+        "word_hebrew": "דִיפֵרֶנציִאָלִי",
+        "main_definition": "Differential refers to the difference between two things, or in mathematics, it denotes a concept related to rates of change or derivatives.",
+        "main_definition_hebrew": "דיפרנציאל מתייחס להבדל בין שני דברים, או במתמטיקה, הוא מציין מושג הקשור לשיעורי שינוי או נגזרות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Difference between quantities, values, etc.",
+                "definition_hebrew": "הבדל בין כמויות, ערכים וכו'.",
+                "example": "The differential impact on profits was significant due to the increased production costs.",
+                "example_hebrew": "ההשפעה הדיפרנציאלית על הרווחים הייתה משמעותית עקב עליית עלויות הייצור."
+            },
+            {
+                "definition": "A mathematical concept related to rates of change and derivatives in calculus",
+                "definition_hebrew": "מושג מתמטי הקשור לשיעורי שינוי ונגזרות בחשבון",
+                "example": "In physics, the differential is used to calculate velocity by taking the derivative of position with respect to time.",
+                "example_hebrew": "בפיזיקה, ההפרש משמש לחישוב מהירות על ידי לקיחת נגזרת המיקום ביחס לזמן."
+            },
+            {
+                "definition": "An element or part that distinguishes two things from one another",
+                "definition_hebrew": "אלמנט או חלק שמבדילים בין שני דברים זה מזה",
+                "example": "The difference in treatment between employees was due to a differential policy based on job roles.",
+                "example_hebrew": "ההבדל ביחס בין העובדים נבע ממדיניות דיפרנציאלית המבוססת על תפקידי עבודה."
+            },
+            {
+                "definition": "A type of gear with teeth used for transmitting power or motion",
+                "definition_hebrew": "סוג של ציוד עם שיניים המשמש להעברת כוח או תנועה",
+                "example": "The differential gears allow the car's rear wheels to rotate at different speeds during turns.",
+                "example_hebrew": "גלגלי השיניים הדיפרנציאליים מאפשרים לגלגלים האחוריים של המכונית להסתובב במהירויות שונות במהלך פניות."
+            }
+        ]
+    }
+]

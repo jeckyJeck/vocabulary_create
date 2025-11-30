@@ -1,0 +1,34 @@
+[
+    {
+        "word": "theoretical",
+        "word_hebrew": "תֵאוֹרֵטִי",
+        "main_definition": "Relating to theory or based on general principles rather than practical experience.",
+        "main_definition_hebrew": "מתייחס לתיאוריה או מבוסס על עקרונות כלליים ולא על ניסיון מעשי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Concerning abstract ideas and not proven by direct observation or experimentation.",
+                "definition_hebrew": "לגבי רעיונות מופשטים ולא מוכחים בהתבוננות ישירה או בניסוי.",
+                "example": "The scientist's theoretical model provided an interesting framework but required empirical testing to validate the theory.",
+                "example_hebrew": "המודל התיאורטי של המדען סיפק מסגרת מעניינת אך הצריך בדיקות אמפיריות כדי לאמת את התיאוריה."
+            },
+            {
+                "definition": "Involving a concept that has been devised as part of a formal system rather than through practical application.",
+                "definition_hebrew": "כרוך בתפיסה שהומצאה כחלק ממערכת פורמלית ולא באמצעות יישום מעשי.",
+                "example": "The mathematical proof was purely theoretical, demonstrating a principle without any physical context.",
+                "example_hebrew": "ההוכחה המתמטית הייתה תיאורטית בלבד, והדגימה עיקרון ללא כל הקשר פיזיקלי."
+            },
+            {
+                "definition": "Having to do with theories or hypotheses formulated in the mind but not yet verified by experimentation or practice.",
+                "definition_hebrew": "קשור לתיאוריות או השערות שנוסחו במוח אך עדיין לא אומתו על ידי ניסוי או תרגול.",
+                "example": "The artist's work is highly theoretical and explores ideas rather than creating functional pieces of art.",
+                "example_hebrew": "עבודתו של האמן היא תיאורטית ביותר וחוקרת רעיונות במקום ליצור יצירות אמנות פונקציונליות."
+            },
+            {
+                "definition": "Based on abstract principles, often without consideration for practical constraints or real-world applicability.",
+                "definition_hebrew": "מבוסס על עקרונות מופשטים, לרוב ללא התחשבות באילוצים מעשיים או בישימות בעולם האמיתי.",
+                "example": "The engineer presented a theoretically sound design but failed to account for material limitations in practice.",
+                "example_hebrew": "המהנדס הציג עיצוב תיאורטי נכון אך לא הצליח להסביר את המגבלות החומריות בפועל."
+            }
+        ]
+    }
+]

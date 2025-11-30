@@ -1,0 +1,40 @@
+[
+    {
+        "word": "schema",
+        "word_hebrew": "סכֵימָה",
+        "main_definition": "A schema is a conceptual framework or pattern that organizes information, often used to represent data structures or mental models.",
+        "main_definition_hebrew": "סכימה היא מסגרת מושגית או דפוס שמארגן מידע, המשמש לעתים קרובות לייצוג מבני נתונים או מודלים מנטליים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In psychology, a cognitive schema refers to an organized pattern of thought and behavior. It's how we structure our knowledge about the world around us based on past experiences.\n",
+                "definition_hebrew": "בפסיכולוגיה, סכמה קוגניטיבית מתייחסת לדפוס מאורגן של מחשבה והתנהגות. כך אנו בונים את הידע שלנו על העולם סביבנו על סמך חוויות העבר.\n",
+                "example": "When learning new information in school, students often create schemas that help them understand complex topics by relating it to their existing knowledge.",
+                "example_hebrew": "כאשר לומדים מידע חדש בבית הספר, תלמידים יוצרים לעתים קרובות סכמות שעוזרות להם להבין נושאים מורכבים על ידי חיבורו לידע הקיים שלהם."
+            },
+            {
+                "definition": "In database design and computer science, a schema is an organized set of rules specifying the structure of data within a database. It defines how data is stored, accessed, and managed.\n",
+                "definition_hebrew": "בעיצוב מסדי נתונים ומדעי המחשב, סכימה היא קבוצה מאורגנת של כללים המציינת את מבנה הנתונים בתוך מסד נתונים. הוא מגדיר כיצד מאוחסנים, נגישות ומנוהלים נתונים.\n",
+                "example": "A user table in a relational database might have fields such as 'userID', 'name', 'email', with constraints defining what values can be entered into each field.",
+                "example_hebrew": "לטבלת משתמשים במסד נתונים יחסי עשויים לכלול שדות כגון 'userID', 'name', 'email', עם אילוצים המגדירים אילו ערכים ניתן להזין בכל שדה."
+            },
+            {
+                "definition": "In the arts, particularly film and literature, a schema is a recurring pattern or motif that appears in various works. It's a narrative device used to evoke certain themes or ideas.\n",
+                "definition_hebrew": "באמנויות, במיוחד בקולנוע ובספרות, סכמה היא תבנית או מוטיב חוזרים המופיעים ביצירות שונות. זהו מכשיר נרטיבי המשמש לעורר נושאים או רעיונות מסוימים.\n",
+                "example": "The 'damsel in distress' trope is an example of a literary schema often found in fairy tales and romantic films.",
+                "example_hebrew": "חופת ה'עלמה במצוקה' היא דוגמה לסכימה ספרותית שנמצאת לעתים קרובות באגדות ובסרטים רומנטיים."
+            },
+            {
+                "definition": "In social science, the term schema can refer to preconceived ideas or stereotypes that people hold about certain groups of individuals.\n",
+                "definition_hebrew": "במדעי החברה, המונח סכמה יכול להתייחס לרעיונות מוקדמים או סטריאוטיפים שאנשים מחזיקים לגבי קבוצות מסוימות של פרטים.\n",
+                "example": "A person might have a negative schema towards immigrants based on media portrayals and personal beliefs.",
+                "example_hebrew": "לאדם עשויה להיות סכמה שלילית כלפי מהגרים המבוססת על תיאורי תקשורת ואמונות אישיות."
+            },
+            {
+                "definition": "In linguistics, 'schema' can refer to an understanding or set of expectations about language use that people bring to conversations.\n",
+                "definition_hebrew": "בבלשנות, 'סכמה' יכולה להתייחס להבנה או לסט של ציפיות לגבי שימוש בשפה שאנשים מביאים לשיחות.\n",
+                "example": "When a native English speaker hears the phrase \"kick the bucket,\" their schema helps them understand it means someone has died, rather than literally kicking a bucket.",
+                "example_hebrew": "כאשר דובר אנגלית שפת אם שומע את המשפט \"בעוט בדלי\", הסכימה שלו עוזרת להם להבין שזה אומר שמישהו מת, במקום לבעוט בדלי."
+            }
+        ]
+    }
+]

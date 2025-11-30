@@ -1,0 +1,40 @@
+[
+    {
+        "word": "sciences",
+        "word_hebrew": "מדעים",
+        "main_definition": "The sciences refer to the systematic study of natural phenomena, based on observation, experimentation, and analysis, typically divided into various disciplines such as physics, chemistry, biology, etc.",
+        "main_definition_hebrew": "המדעים מתייחסים למחקר שיטתי של תופעות טבע, המבוסס על תצפית, ניסויים וניתוח, המחולקים בדרך כלל לדיסציפלינות שונות כמו פיזיקה, כימיה, ביולוגיה וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "General term for all fields of study",
+                "definition_hebrew": "מונח כללי לכל תחומי הלימוד",
+                "example": "The sciences encompass a wide range of subjects including astronomy, psychology, and geology.",
+                "example_hebrew": "המדעים כוללים מגוון רחב של נושאים כולל אסטרונומיה, פסיכולוגיה וגיאולוגיה."
+            },
+            {
+                "definition": "Systematic approach to studying the natural world",
+                "definition_hebrew": "גישה שיטתית לחקר עולם הטבע",
+                "example": "Scientists use the scientific method in their research to gain understanding of complex systems such as ecosystems or chemical reactions.",
+                "example_hebrew": "מדענים משתמשים בשיטה המדעית במחקר שלהם כדי לקבל הבנה של מערכות מורכבות כמו מערכות אקולוגיות או תגובות כימיות."
+            },
+            {
+                "definition": "Natural sciences, which study non-living systems and entities",
+                "definition_hebrew": "מדעי הטבע, החוקרים מערכות וישויות שאינן חיות",
+                "example": "Physics, chemistry, and astronomy are examples of natural sciences that investigate phenomena like gravity, atoms, and stars.",
+                "example_hebrew": "פיזיקה, כימיה ואסטרונומיה הם דוגמאות למדעי הטבע החוקרים תופעות כמו כוח משיכה, אטומים וכוכבים."
+            },
+            {
+                "definition": "Biological sciences, focusing on living organisms and their interactions with each other and the environment",
+                "definition_hebrew": "מדעי ביולוגיה, המתמקדים באורגניזמים חיים ובאינטראקציות שלהם זה עם זה ועם הסביבה",
+                "example": "The fields of botany, zoology, genetics, and ecology fall under biological sciences, studying plants, animals, heredity, and ecosystems.",
+                "example_hebrew": "תחומי הבוטניקה, הזואולוגיה, הגנטיקה והאקולוגיה נופלים תחת מדעי הביולוגיה, חקר צמחים, בעלי חיים, תורשה ומערכות אקולוגיות."
+            },
+            {
+                "definition": "Social sciences, which explore human society and social relationships",
+                "definition_hebrew": "מדעי החברה, החוקרים את החברה האנושית ואת היחסים החברתיים",
+                "example": "Disciplines such as sociology, anthropology, psychology, economics, and political science are part of the social sciences.",
+                "example_hebrew": "תחומים כמו סוציולוגיה, אנתרופולוגיה, פסיכולוגיה, כלכלה ומדע המדינה הם חלק ממדעי החברה."
+            }
+        ]
+    }
+]

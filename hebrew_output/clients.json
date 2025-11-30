@@ -1,0 +1,40 @@
+[
+    {
+        "word": "clients",
+        "word_hebrew": "לקוחות",
+        "main_definition": "Clients refer to individuals or entities that receive services from a professional, organization, or business.",
+        "main_definition_hebrew": "לקוחות מתייחסים לאנשים או גופים המקבלים שירותים מבעל מקצוע, ארגון או עסק.",
+        "meanings_and_examples": [
+            {
+                "definition": "In a business context, clients are customers who engage the services of professionals like lawyers, consultants, and accountants.",
+                "definition_hebrew": "בהקשר עסקי, לקוחות הם לקוחות העוסקים בשירותיהם של אנשי מקצוע כמו עורכי דין, יועצים ורואי חשבון.",
+                "example": "The lawyer's firm has several important clients in the banking industry.",
+                "example_hebrew": "למשרד עורכי הדין מספר לקוחות חשובים בענף הבנקאות."
+            },
+            {
+                "definition": "Clients can also refer to individuals or entities that receive goods from a supplier, such as stores in retail businesses.",
+                "definition_hebrew": "לקוחות יכולים גם להתייחס ליחידים או גופים המקבלים סחורה מספק, כגון חנויות בעסקים קמעונאיים.",
+                "example": "Supermarkets are considered key clients for food production companies.",
+                "example_hebrew": "סופרמרקטים נחשבים ללקוחות מפתח עבור חברות לייצור מזון."
+            },
+            {
+                "definition": "In the context of computing and technology, 'clients' can refer to computer users or end-users who utilize a software application hosted on a server.",
+                "definition_hebrew": "בהקשר של מחשוב וטכנולוגיה, 'לקוחות' יכולים להתייחס למשתמשי מחשב או משתמשי קצה המשתמשים ביישום תוכנה המתארח בשרת.",
+                "example": "The web browser acts as a client connecting with servers around the world to access websites.",
+                "example_hebrew": "דפדפן האינטרנט פועל כלקוח המתחבר לשרתים ברחבי העולם כדי לגשת לאתרים."
+            },
+            {
+                "definition": "When referring to ecology, 'clients' can mean species that rely on or interact with another (the 'host') for survival.",
+                "definition_hebrew": "כאשר מתייחסים לאקולוגיה, 'לקוחות' יכולים להתכוון למינים המסתמכים על או מקיימים אינטראקציה עם אחר (ה'מארח') לצורך הישרדות.",
+                "example": "Invasive species often become clients in new environments, affecting the native wildlife.",
+                "example_hebrew": "מינים פולשים הופכים לעתים קרובות ללקוחות בסביבות חדשות, ומשפיעים על חיות הבר המקומיות."
+            },
+            {
+                "definition": "In law enforcement, 'clients' may refer to persons who are represented by a police detective or an investigator.",
+                "definition_hebrew": "באכיפת החוק, 'לקוחות' עשויים להתייחס לאנשים שמיוצגים על ידי בלש משטרה או חוקר.",
+                "example": "The private detective was hired to track down the missing client of their partner.",
+                "example_hebrew": "הבלש הפרטי נשכר כדי לאתר את הלקוח הנעדר של בן זוגם."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "forwarding",
+        "word_hebrew": "העברה",
+        "main_definition": "The act of sending or transferring something, such as a message, package, or responsibility, to another person or place.",
+        "main_definition_hebrew": "הפעולה של שליחה או העברה של משהו, כגון הודעה, חבילה או אחריות, לאדם או למקום אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of email communication, it means to send an electronic message from one mailbox to another without changing its content.",
+                "definition_hebrew": "בהקשר של תקשורת אימייל, זה אומר לשלוח הודעה אלקטרונית מתיבת דואר אחת לאחרת מבלי לשנות את תוכנה.",
+                "example": "I have forwarded your job application to our HR department for review.",
+                "example_hebrew": "העברתי את בקשתך לעבודה למחלקת משאבי אנוש שלנו לבדיקה."
+            },
+            {
+                "definition": "Refers to a situation where goods or packages are moved from the sender's location directly to the recipient, often bypassing intermediate locations such as warehouses.",
+                "definition_hebrew": "הכוונה למצב שבו סחורה או חבילות מועברות ממיקום השולח ישירות לנמען, ולעיתים קרובות עוקפת מיקומי ביניים כגון מחסנים.",
+                "example": "The courier forwarded my package straight to me at home instead of delivering it to the post office.",
+                "example_hebrew": "השליח העביר את החבילה שלי ישר אליי הביתה במקום לשלוח אותה לדואר."
+            },
+            {
+                "definition": "In a business setting, it refers to delegating tasks or responsibilities to another person within the organization.",
+                "definition_hebrew": "במסגרת עסקית, הכוונה היא להאצלת משימות או אחריות לאדם אחר בתוך הארגון.",
+                "example": "As the vacation approached, I forwarded my client management duties to one of my colleagues while I was away.",
+                "example_hebrew": "כשהחופשה התקרבה, העברתי את חובות ניהול הלקוחות שלי לאחד מעמיתיי בזמן שלא הייתי."
+            },
+            {
+                "definition": "The act of passing a message from one individual to another in a communication network or group setting.",
+                "definition_hebrew": "הפעולה של העברת מסר מאדם אחד לאחר במסגרת רשת תקשורת או קבוצה.",
+                "example": "In our team meetings, we often discuss important updates and forward them to the rest of the staff via email.",
+                "example_hebrew": "בפגישות הצוות שלנו, לעתים קרובות אנו דנים בעדכונים חשובים ומעבירים אותם לשאר הצוות בדוא\"ל."
+            }
+        ]
+    }
+]

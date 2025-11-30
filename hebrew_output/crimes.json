@@ -1,0 +1,40 @@
+[
+    {
+        "word": "crimes",
+        "word_hebrew": "פשעים",
+        "main_definition": "Crimes refer to unlawful acts that violate legal statutes, typically punishable by fines, imprisonment, or other penalties.",
+        "main_definition_hebrew": "פשעים מתייחסים למעשים בלתי חוקיים המפרים את החוקים המשפטיים, העונשים בדרך כלל בקנסות, מאסר או עונשים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "General term for illegal activities",
+                "definition_hebrew": "מונח כללי לפעילויות בלתי חוקיות",
+                "example": "The police were investigating various crimes in the city.",
+                "example_hebrew": "המשטרה חקרה פשעים שונים בעיר."
+            },
+            {
+                "definition": "Offenses against the person, property, or public order",
+                "definition_hebrew": "עבירות נגד האדם, הרכוש או הסדר הציבורי",
+                "example": "Murder is considered one of the most severe crimes, and it involves causing unlawful harm to another individual.",
+                "example_hebrew": "רצח נחשב לאחד הפשעים החמורים ביותר, והוא כרוך בגרימת נזק בלתי חוקי לאדם אחר."
+            },
+            {
+                "definition": "Categories of criminal offenses such as felonies and misdemeanors",
+                "definition_hebrew": "קטגוריות של עבירות פליליות כגון עבירות פליליות ועבירות",
+                "example": "The burglary was classified as a felony due to the severity of his actions, while the shoplifting incident was deemed a misdemeanor.",
+                "example_hebrew": "הפריצה סווגה כעבירה פלילית בשל חומרת מעשיו, בעוד אירוע הגניבה בחנות נחשב כעבירה."
+            },
+            {
+                "definition": "Grouping related criminal acts or patterns into specific types (e.g., violent crimes, white-collar crimes)",
+                "definition_hebrew": "קיבוץ של מעשים או דפוסים פליליים קשורים לסוגים ספציפיים (למשל, פשעים אלימים, פשעי צווארון לבן)",
+                "example": "White-collar crimes are non-violent offenses committed by individuals in positions of power for personal gain.",
+                "example_hebrew": "פשעי צווארון לבן הם עבירות לא אלימות המבוצעות על ידי אנשים בעמדות כוח למען רווח אישי."
+            },
+            {
+                "definition": "Criminal behavior or actions taken as part of committing a crime",
+                "definition_hebrew": "התנהגות פלילית או פעולות שננקטו במסגרת ביצוע פשע",
+                "example": "The suspect's fingerprints were found on the weapon, suggesting involvement in the armed robbery.",
+                "example_hebrew": "על הנשק נמצאו טביעות אצבעות של החשוד המצביעות על מעורבות בשוד המזוין."
+            }
+        ]
+    }
+]

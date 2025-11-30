@@ -1,0 +1,34 @@
+[
+    {
+        "word": "recall",
+        "word_hebrew": "לִזכּוֹר",
+        "main_definition": "To bring back into one's memory or to retrieve previously stored information.",
+        "main_definition_hebrew": "להחזיר לזיכרון או לאחזר מידע שנשמר בעבר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To remember something that happened in the past.",
+                "definition_hebrew": "להיזכר במשהו שקרה בעבר.",
+                "example": "I had trouble recalling my childhood memories.",
+                "example_hebrew": "התקשיתי להיזכר בזיכרונות ילדותי."
+            },
+            {
+                "definition": "The act of retrieving a previously learned skill or information from memory.",
+                "definition_hebrew": "פעולת שליפת מיומנות או מידע שנלמדו קודם לכן מהזיכרון.",
+                "example": "She needed to recall how to play her favorite song on the piano.",
+                "example_hebrew": "היא הייתה צריכה להיזכר איך מנגנים את השיר האהוב עליה בפסנתר."
+            },
+            {
+                "definition": "A command given by authorities to return goods, often due to safety concerns or defects.",
+                "definition_hebrew": "פקודה שניתנה על ידי הרשויות להחזיר סחורה, לעתים קרובות בשל חששות בטיחות או פגמים.",
+                "example": "The government issued a recall for certain car models with faulty airbags.",
+                "example_hebrew": "הממשלה פרסמה ריקול עבור דגמי מכוניות מסוימים עם כריות אוויר פגומות."
+            },
+            {
+                "definition": "To bring back an item into the possession of its owner, especially when it was lost or misplaced.",
+                "definition_hebrew": "להחזיר פריט לחזקת בעליו, במיוחד כאשר הוא אבד או לא במקומו.",
+                "example": "I had to call customer service to help me recall my missing package.",
+                "example_hebrew": "נאלצתי להתקשר לשירות הלקוחות כדי לעזור לי לזכור את החבילה החסרה שלי."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "surgery",
+        "word_hebrew": "כִּירוּרגִיָה",
+        "main_definition": "Surgery is a medical procedure that involves the treatment of injuries or conditions in the body by cutting, altering, or repairing tissues with instruments.",
+        "main_definition_hebrew": "ניתוח הוא הליך רפואי הכולל טיפול בפציעות או מצבים בגוף על ידי חיתוך, שינוי או תיקון רקמות בעזרת מכשירים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Medical procedure involving operative intervention",
+                "definition_hebrew": "הליך רפואי הכולל התערבות אופרטיבית",
+                "example": "I had to undergo heart surgery after my diagnosis of a blocked artery.",
+                "example_hebrew": "נאלצתי לעבור ניתוח לב לאחר האבחנה שלי של עורק חסום."
+            },
+            {
+                "definition": "A branch of medicine that deals with the treatment of diseases by manual or instrumental exploration inward of the body cavities and organs",
+                "definition_hebrew": "ענף ברפואה העוסק בטיפול במחלות על ידי חקר ידני או אינסטרומנטלי פנימה של חללי הגוף והאיברים",
+                "example": "He is studying to become an orthopedic surgeon, focusing on bone-related injuries.",
+                "example_hebrew": "הוא לומד להיות מנתח אורטופד, תוך התמקדות בפציעות הקשורות לעצם."
+            },
+            {
+                "definition": "A specific surgical operation",
+                "definition_hebrew": "פעולה כירורגית ספציפית",
+                "example": "She had a successful knee replacement surgery that improved her mobility.",
+                "example_hebrew": "עברה ניתוח מוצלח להחלפת ברך ששיפר את הניידות שלה."
+            },
+            {
+                "definition": "The practice or profession of performing operations on people to improve their health, relieve pain, or correct deformities",
+                "definition_hebrew": "העיסוק או המקצוע של ביצוע פעולות באנשים כדי לשפר את בריאותם, להקל על כאבים או לתקן עיוותים",
+                "example": "Many medical students aspire to become surgeons after completing their training.",
+                "example_hebrew": "סטודנטים רבים לרפואה שואפים להיות מנתחים לאחר סיום הכשרתם."
+            }
+        ]
+    }
+]

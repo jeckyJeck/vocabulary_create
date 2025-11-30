@@ -1,0 +1,40 @@
+[
+    {
+        "word": "lawyers",
+        "word_hebrew": "עורכי דין",
+        "main_definition": "Lawyers are legal professionals who provide advice, representation, and advocacy to individuals or organizations in various legal matters.",
+        "main_definition_hebrew": "עורכי דין הם אנשי מקצוע משפטיים המספקים ייעוץ, ייצוג והסברה ליחידים או לארגונים בנושאים משפטיים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Professionals specializing in the practice of law",
+                "definition_hebrew": "אנשי מקצוע המתמחים בעריכת דין",
+                "example": "John is a lawyer who practices criminal defense.",
+                "example_hebrew": "ג'ון הוא עורך דין העוסק בהגנה פלילית."
+            },
+            {
+                "definition": "Individuals authorized to represent others in legal matters, negotiate and draft contracts",
+                "definition_hebrew": "אנשים המורשים לייצג אחרים בעניינים משפטיים, לנהל משא ומתן ולנסח חוזים",
+                "example": "The lawyer helped her client sign an employment agreement with favorable terms.",
+                "example_hebrew": "עורך הדין סייע ללקוח שלה לחתום על הסכם עבודה בתנאים נוחים."
+            },
+            {
+                "definition": "Advocates or defenders of rights, justice, or interests within the legal system",
+                "definition_hebrew": "תומכים או מגינים של זכויות, צדק או אינטרסים במערכת המשפט",
+                "example": "She is a civil rights lawyer who fights for equal opportunities in education and employment.",
+                "example_hebrew": "היא עורכת דין לזכויות אזרח הנלחמת למען שוויון הזדמנויות בחינוך ובתעסוקה."
+            },
+            {
+                "definition": "People involved in providing legal advice and representation to clients",
+                "definition_hebrew": "אנשים העוסקים במתן ייעוץ וייצוג משפטי ללקוחות",
+                "example": "The lawyers worked tirelessly to prepare the case for trial.",
+                "example_hebrew": "עורכי הדין פעלו ללא לאות כדי להכין את התיק למשפט."
+            },
+            {
+                "definition": "Individuals who have attended law school and passed a bar exam, qualified to practice law legally within a jurisdiction",
+                "definition_hebrew": "אנשים שלמדו בבית ספר למשפטים ועברו בחינת לשכת עורכי הדין, מוסמכים לעסוק בעריכת דין כחוק בתחומי שיפוט",
+                "example": "After passing her bar exam, she became a licensed lawyer in California.",
+                "example_hebrew": "לאחר שעברה את מבחן הלשכה שלה, היא הפכה לעורכת דין מוסמכת בקליפורניה."
+            }
+        ]
+    }
+]

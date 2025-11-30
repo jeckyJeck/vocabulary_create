@@ -1,0 +1,34 @@
+[
+    {
+        "word": "ctrl",
+        "word_hebrew": "ctrl",
+        "main_definition": "In computing, 'Ctrl' is a control key used to perform specific actions or commands in software applications.",
+        "main_definition_hebrew": "במחשוב, 'Ctrl' הוא מקש בקרה המשמש לביצוע פעולות או פקודות ספציפיות ביישומי תוכנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Keyboard Control Key",
+                "definition_hebrew": "מקש שליטה במקלדת",
+                "example": "Pressing Ctrl+C will copy the selected text.",
+                "example_hebrew": "לחיצה על Ctrl+C תעתיק את הטקסט שנבחר."
+            },
+            {
+                "definition": "Shortcut Command for Software Applications",
+                "definition_hebrew": "פקודת קיצור עבור יישומי תוכנה",
+                "example": "Using Ctrl+S to save a file in most applications.",
+                "example_hebrew": "שימוש ב-Ctrl+S כדי לשמור קובץ ברוב היישומים."
+            },
+            {
+                "definition": "Keyboard Control Key Used in Operating Systems",
+                "definition_hebrew": "מקש בקרת מקלדת בשימוש במערכות הפעלה",
+                "example": "Pressing Ctrl+Alt+Delete can reboot your computer or access the Task Manager.",
+                "example_hebrew": "לחיצה על Ctrl+Alt+Delete יכולה לאתחל את המחשב או לגשת למנהל המשימות."
+            },
+            {
+                "definition": "Command for Special Functions in Programming Languages",
+                "definition_hebrew": "פקודה לפונקציות מיוחדות בשפות תכנות",
+                "example": "In HTML, Ctrl+S is used to create a hyperlink.",
+                "example_hebrew": "ב-HTML, Ctrl+S משמש ליצירת היפר-קישור."
+            }
+        ]
+    }
+]

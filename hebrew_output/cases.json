@@ -1,0 +1,40 @@
+[
+    {
+        "word": "cases",
+        "word_hebrew": "מקרים",
+        "main_definition": "Cases refer to instances or examples of a particular situation, legal matters, medical conditions, or abstract concepts represented in distinctive forms.",
+        "main_definition_hebrew": "מקרים מתייחסים למקרים או דוגמאות של מצב מסוים, עניינים משפטיים, מצבים רפואיים או מושגים מופשטים המיוצגים בצורות ייחודיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Legal matters involving the court system",
+                "definition_hebrew": "עניינים משפטיים הקשורים למערכת בתי המשפט",
+                "example": "The lawyer worked on multiple criminal cases.",
+                "example_hebrew": "עורך הדין עבד במספר תיקים פליליים."
+            },
+            {
+                "definition": "Examples or instances of something occurring in a series",
+                "definition_hebrew": "דוגמאות או מקרים של משהו שמתרחש בסדרה",
+                "example": "There were several car accidents reported this week, all falling under vehicle collision cases.",
+                "example_hebrew": "השבוע דווח על מספר תאונות דרכים, כולן נפלו תחת מקרי התנגשות כלי רכב."
+            },
+            {
+                "definition": "Collection of disease symptoms presented by patients to medical professionals",
+                "definition_hebrew": "אוסף תסמיני מחלה שמציגים מטופלים בפני אנשי מקצוע רפואיים",
+                "example": "The doctor examined the different flu-related cases she encountered overnight.",
+                "example_hebrew": "הרופאה בדקה את המקרים השונים הקשורים לשפעת שבה נתקלה בן לילה."
+            },
+            {
+                "definition": "Various forms or manifestations of a concept or idea",
+                "definition_hebrew": "צורות או ביטויים שונים של מושג או רעיון",
+                "example": "In philosophy, there are many distinct cases that illustrate the theory of utilitarianism.",
+                "example_hebrew": "בפילוסופיה, ישנם מקרים רבים ומובהקים הממחישים את התיאוריה של תועלתנות."
+            },
+            {
+                "definition": "Statistics regarding reported incidents",
+                "definition_hebrew": "סטטיסטיקה לגבי אירועים מדווחים",
+                "example": "The police department released data on various types of criminal cases in the past month.",
+                "example_hebrew": "המשטרה פרסמה בחודש האחרון נתונים על סוגים שונים של תיקים פליליים."
+            }
+        ]
+    }
+]

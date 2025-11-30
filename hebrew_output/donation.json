@@ -1,0 +1,34 @@
+[
+    {
+        "word": "donation",
+        "word_hebrew": "תרומה",
+        "main_definition": "A voluntary contribution of money, goods, or services given to a charitable cause or non-profit organization without expecting any financial return.",
+        "main_definition_hebrew": "תרומה מרצון של כסף, סחורות או שירותים הניתנים למטרת צדקה או לארגון ללא כוונת רווח מבלי לצפות לתמורה כספית כלשהי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Act of giving away something you own",
+                "definition_hebrew": "פעולה של לתת משהו שבבעלותך",
+                "example": "She made a generous donation by giving her vintage car to the local museum.",
+                "example_hebrew": "היא תרמה תרומה נדיבה כשנתנה את מכונית הוינטג' שלה למוזיאון המקומי."
+            },
+            {
+                "definition": "Monetary gift given to support a charity or cause",
+                "definition_hebrew": "מתנה כספית שניתנה לתמיכה בארגון צדקה או מטרה",
+                "example": "The annual fundraiser ended with a significant monetary donation from an anonymous benefactor.",
+                "example_hebrew": "ההתרמה השנתית הסתיימה בתרומה כספית משמעותית של נדבן אנונימי."
+            },
+            {
+                "definition": "Voluntary transfer of goods, such as clothing and food, to those in need",
+                "definition_hebrew": "העברה מרצון של סחורות, כגון ביגוד ומזון, לנזקקים",
+                "example": "The community organized a food drive where people could make donations like canned goods and fresh produce.",
+                "example_hebrew": "הקהילה ארגנה מסע מזון שבו אנשים יכלו לתרום כמו שימורים ותוצרת טרייה."
+            },
+            {
+                "definition": "Support given towards the development or well-being of others by providing funds or services",
+                "definition_hebrew": "תמיכה הניתנת לפיתוח או לרווחתם של אחרים על ידי מתן כספים או שירותים",
+                "example": "A large corporation made a substantial monetary donation to support education for underprivileged children in developing countries.",
+                "example_hebrew": "תאגיד גדול תרם תרומה כספית משמעותית לתמיכה בחינוך לילדים מוחלשים במדינות מתפתחות."
+            }
+        ]
+    }
+]

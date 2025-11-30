@@ -1,0 +1,34 @@
+[
+    {
+        "word": "var",
+        "word_hebrew": "var",
+        "main_definition": "In programming, 'var' is used as a keyword to declare variables in certain languages such as JavaScript.",
+        "main_definition_hebrew": "בתכנות, 'var' משמש כמילת מפתח להצהרת משתנים בשפות מסוימות כמו JavaScript.",
+        "meanings_and_examples": [
+            {
+                "definition": "Variable that can hold different values at different times during program execution.",
+                "definition_hebrew": "משתנה שיכול להחזיק ערכים שונים בזמנים שונים במהלך הפעלת התוכנית.",
+                "example": "let x = 5; var y = 'hello';",
+                "example_hebrew": "תן x = 5; var y = 'שלום';"
+            },
+            {
+                "definition": "Used in JavaScript to declare a variable without initializing it with a value or specifying its type explicitly.",
+                "definition_hebrew": "משמש ב-JavaScript כדי להכריז על משתנה מבלי לאתחל אותו עם ערך או לציין במפורש את סוגו.",
+                "example": "var myVariable;",
+                "example_hebrew": "var myVariable;"
+            },
+            {
+                "definition": "In some programming languages, 'var' is used for implicitly typed variables where the data type of the variable is determined by the compiler based on the assigned value.",
+                "definition_hebrew": "בשפות תכנות מסוימות, 'var' משמש למשתנים המוקלדים בצורה מרומזת כאשר סוג הנתונים של המשתנה נקבע על ידי המהדר בהתבסס על הערך שהוקצה.",
+                "example": "var num = 10;",
+                "example_hebrew": "var num = 10;"
+            },
+            {
+                "definition": "Used as a storage location in memory to hold different values during the program execution.",
+                "definition_hebrew": "משמש כמיקום אחסון בזיכרון כדי להחזיק ערכים שונים במהלך ביצוע התוכנית.",
+                "example": "var result = function() { return 'Hello, World!'; }();",
+                "example_hebrew": "var result = function() { return 'Hello, World!'; }();"
+            }
+        ]
+    }
+]

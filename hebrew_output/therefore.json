@@ -1,0 +1,28 @@
+[
+    {
+        "word": "therefore",
+        "word_hebrew": "לָכֵן",
+        "main_definition": "Therefore is an adverb used to indicate a logical conclusion or consequence based on the information provided before it.",
+        "main_definition_hebrew": "לכן הוא תואר המשמש לציון מסקנה או תוצאה הגיונית על סמך המידע שסופק לפניו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Used to show causality, indicating that one thing is the reason why another thing happened.",
+                "definition_hebrew": "משמש להראות סיבתיות, המצביע על כך שדבר אחד הוא הסיבה לכך שדבר אחר קרה.",
+                "example": "She was late for work because there was heavy traffic; therefore, she received a warning.",
+                "example_hebrew": "היא איחרה לעבודה כי הייתה עומס תנועה כבד; לכן, היא קיבלה אזהרה."
+            },
+            {
+                "definition": "Indicating consequence or result from previously stated facts or ideas.",
+                "definition_hebrew": "מציין תוצאה או תוצאה מעובדות או רעיונות שצוינו קודם לכן.",
+                "example": "The experiment failed to produce the expected results; therefore, we need to reassess our hypothesis.",
+                "example_hebrew": "הניסוי לא הצליח להפיק את התוצאות הצפויות; לכן, עלינו להעריך מחדש את ההשערה שלנו."
+            },
+            {
+                "definition": "Used in formal writing to introduce a conclusion that follows logically from a statement made just before it.",
+                "definition_hebrew": "משמש בכתיבה רשמית כדי להציג מסקנה הנובעת באופן הגיוני מהצהרה שנאמרה ממש לפניה.",
+                "example": "He has always been good at mathematics. Therefore, he will likely succeed in his engineering studies as well.",
+                "example_hebrew": "הוא תמיד היה טוב במתמטיקה. לכן, סביר להניח שהוא יצליח גם בלימודי ההנדסה שלו."
+            }
+        ]
+    }
+]

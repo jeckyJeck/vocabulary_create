@@ -1,0 +1,40 @@
+[
+    {
+        "word": "guess",
+        "word_hebrew": "לְנַחֵשׁ",
+        "main_definition": "To form an opinion or estimate about something without sufficient information to be sure of its accuracy.",
+        "main_definition_hebrew": "לגבש דעה או הערכה לגבי משהו ללא מספיק מידע כדי להיות בטוח בדיוקו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Make a supposition or assumption when lacking full knowledge or evidence.",
+                "definition_hebrew": "הנח הנחה או הנחה כאשר חסר לך ידע או ראיות מלאות.",
+                "example": "I'll guess the password is '123456' since I don't have any other information.",
+                "example_hebrew": "אני מנחש שהסיסמה היא '123456' מכיוון שאין לי מידע אחר."
+            },
+            {
+                "definition": "To estimate something roughly without exactness or precision.",
+                "definition_hebrew": "להעריך משהו בערך ללא דיוק או דיוק.",
+                "example": "She can only guess how much money was spent on groceries last month; she didn't keep track of it.",
+                "example_hebrew": "היא יכולה רק לנחש כמה כסף הוצא על מצרכים בחודש שעבר; היא לא עקבה אחרי זה."
+            },
+            {
+                "definition": "An attempt to solve a problem using an educated inference rather than direct information, especially when guessing the answer to a riddle or puzzle.",
+                "definition_hebrew": "ניסיון לפתור בעיה באמצעות הסקה מושכלת ולא מידע ישיר, במיוחד כאשר מנחשים את התשובה לחידה או חידה.",
+                "example": "He tried to guess the secret code by analyzing patterns and clues provided earlier.",
+                "example_hebrew": "הוא ניסה לנחש את הקוד הסודי על ידי ניתוח דפוסים ורמזים שסופקו קודם לכן."
+            },
+            {
+                "definition": "To call upon someone's presence without explicitly asking for it; often used in invitations or social situations.",
+                "definition_hebrew": "לקרוא לנוכחות של מישהו מבלי לבקש זאת במפורש; משמש לעתים קרובות בהזמנות או בסיטואציות חברתיות.",
+                "example": "Please just come over if you can, I don't need an exact time as a guess.",
+                "example_hebrew": "בבקשה פשוט בוא אם אתה יכול, אני לא צריך זמן מדויק בתור ניחוש."
+            },
+            {
+                "definition": "A form of gambling where participants make bets on the outcome without any physical cards or dice.",
+                "definition_hebrew": "סוג של הימורים שבו המשתתפים מהמרים על התוצאה ללא קלפים פיזיים או קוביות.",
+                "example": "They enjoyed playing a game of poker by guessing which hand held the best combination of cards.",
+                "example_hebrew": "הם נהנו לשחק משחק פוקר על ידי ניחוש איזו יד החזיקה בשילוב הקלפים הטוב ביותר."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "std",
+        "word_hebrew": "סטד",
+        "main_definition": "In computing, 'std' is an abbreviation for standard output or stream, which refers to the default destination of a program's output.",
+        "main_definition_hebrew": "במחשוב, 'std' הוא קיצור של פלט רגיל או זרם, המתייחס ליעד ברירת המחדל של הפלט של תוכנית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Standard Deviation (statistics)",
+                "definition_hebrew": "סטיית תקן (סטטיסטיקה)",
+                "example": "The std deviation measures the amount of variation in a set of values.",
+                "example_hebrew": "סטיית ה-std מודדת את כמות השונות בקבוצת ערכים."
+            },
+            {
+                "definition": "Standard Documentation",
+                "definition_hebrew": "תיעוד סטנדרטי",
+                "example": "A company may refer to its product's standard documentation as 'std docs.'",
+                "example_hebrew": "חברה עשויה להתייחס לתיעוד הסטנדרטי של המוצר שלה בתור 'מסמכים סטנדרטיים'."
+            },
+            {
+                "definition": "Standard Distribution (electronics)",
+                "definition_hebrew": "הפצה רגילה (אלקטרוניקה)",
+                "example": "An electronic component manufacturer might specify the std distribution of resistors it produces.",
+                "example_hebrew": "יצרן רכיבים אלקטרוניים עשוי לציין את התפלגות הסטנדרטית של הנגדים שהוא מייצר."
+            },
+            {
+                "definition": "Standard Template Library (C++ programming)",
+                "definition_hebrew": "ספריית תבניות רגילה (תכנות C++)",
+                "example": "A developer using C++ can refer to 'std' as the Standard Template Library, which provides pre-made templates for common programming tasks.",
+                "example_hebrew": "מפתח המשתמש ב-C++ יכול להתייחס ל-'std' בתור ספריית התבניות הסטנדרטית, המספקת תבניות מוכנות מראש למשימות תכנות נפוצות."
+            }
+        ]
+    }
+]

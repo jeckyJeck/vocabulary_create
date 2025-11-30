@@ -1,0 +1,40 @@
+[
+    {
+        "word": "relative",
+        "word_hebrew": "קרוב משפחה",
+        "main_definition": "A relative is a person who shares a blood relation or familial connection with another individual, typically within the same family.",
+        "main_definition_hebrew": "קרוב משפחה הוא אדם שחולק קשר דם או קשר משפחתי עם אדם אחר, בדרך כלל בתוך אותה משפחה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Blood relative by birth",
+                "definition_hebrew": "קרוב משפחה מלידה",
+                "example": "My cousin John and I are second cousins because our great-grandparents are siblings.",
+                "example_hebrew": "בן דוד שלי ג'ון ואני בני דודים שניים כי סבא וסבתא רבא שלנו הם אחים."
+            },
+            {
+                "definition": "In-law relative through marriage",
+                "definition_hebrew": "קרוב משפחה מחותן דרך נישואין",
+                "example": "Susan's husband is my brother, so she is now part of my family as an in-law.",
+                "example_hebrew": "בעלה של סוזן הוא אחי, אז היא עכשיו חלק מהמשפחה שלי כחותנת."
+            },
+            {
+                "definition": "Distant ancestor or forebear",
+                "definition_hebrew": "אב קדמון רחוק או אב",
+                "example": "The surname 'Smith' comes from the Old English word meaning blacksmith; our distant relative was a blacksmith many generations ago.",
+                "example_hebrew": "שם המשפחה 'סמית' בא מהמילה האנגלית העתיקה שמשמעותה נפח; קרוב משפחתנו הרחוק היה נפח לפני דורות רבים."
+            },
+            {
+                "definition": "A figure in one's life who has some connection but not necessarily through blood or marriage",
+                "definition_hebrew": "דמות בחייו שיש לה קשר כלשהו אבל לאו דווקא דרך דם או נישואים",
+                "example": "My high school teacher, Mr. Thompson, is like a second father to me and I consider him as an 'uncle-like relative.'",
+                "example_hebrew": "המורה שלי בתיכון, מר תומפסון, הוא כמו אב שני עבורי ואני מחשיב אותו כ'קרוב משפחה דמוי דוד'."
+            },
+            {
+                "definition": "'Relative' in statistics refers to values that are close together on a graph or chart",
+                "definition_hebrew": "'יחסי' בסטטיסטיקה מתייחס לערכים הקרובים זה לזה בגרף או בתרשים",
+                "example": "'High sales numbers this month compared to last month show a positive relative change for the company.'",
+                "example_hebrew": "'מספרי מכירות גבוהים החודש בהשוואה לחודש שעבר מראים על שינוי יחסי חיובי עבור החברה'."
+            }
+        ]
+    }
+]

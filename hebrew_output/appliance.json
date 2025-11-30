@@ -1,0 +1,28 @@
+[
+    {
+        "word": "appliance",
+        "word_hebrew": "מַכשִׁיר",
+        "main_definition": "An appliance is a device or machine used to perform a specific function, typically in the household.",
+        "main_definition_hebrew": "מכשיר הוא מכשיר או מכונה המשמשים לביצוע פונקציה מסוימת, בדרך כלל במשק הבית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A home utility equipment used for cooking and food preparation",
+                "definition_hebrew": "ציוד ביתי המשמש לבישול והכנת מזון",
+                "example": "The oven is an essential kitchen appliance that helps us bake delicious cakes.",
+                "example_hebrew": "התנור הוא מכשיר חיוני למטבח שעוזר לנו לאפות עוגות טעימות."
+            },
+            {
+                "definition": "An electrical or mechanical device used in a household to perform specific tasks more conveniently",
+                "definition_hebrew": "מכשיר חשמלי או מכני המשמש במשק בית לביצוע משימות ספציפיות בצורה נוחה יותר",
+                "example": "A washing machine is an important home appliance that makes laundry chores easier and faster.",
+                "example_hebrew": "מכונת כביסה היא מכשיר ביתי חשוב שהופך את מטלות הכביסה לקלות ומהירות יותר."
+            },
+            {
+                "definition": "A general term for any type of equipment or machinery, not limited to the household context",
+                "definition_hebrew": "מונח כללי לכל סוג של ציוד או מכונות, לא מוגבל להקשר הביתי",
+                "example": "A printing press is a large-scale appliance used in publishing houses for producing books, magazines, etc.",
+                "example_hebrew": "מכונת דפוס היא מכשיר בקנה מידה גדול המשמש בהוצאות לאור להפקת ספרים, מגזינים וכו'."
+            }
+        ]
+    }
+]

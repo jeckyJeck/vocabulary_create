@@ -1,0 +1,40 @@
+[
+    {
+        "word": "topics",
+        "word_hebrew": "נושאים",
+        "main_definition": "Subjects or areas of interest to be discussed or studied.",
+        "main_definition_hebrew": "נושאים או תחומי עניין שיש לדון בהם או ללמוד.",
+        "meanings_and_examples": [
+            {
+                "definition": "General subjects that are being talked about",
+                "definition_hebrew": "נושאים כלליים שמדברים עליהם",
+                "example": "The topics for today's meeting include budget, marketing strategy, and team performance.",
+                "example_hebrew": "הנושאים לפגישה של היום כוללים תקציב, אסטרטגיה שיווקית וביצועי צוות."
+            },
+            {
+                "definition": "Main or important subjects in an academic field or study",
+                "definition_hebrew": "נושאים עיקריים או חשובים בתחום או לימודים אקדמיים",
+                "example": "In a literature course, the main topics could be Shakespearean tragedies, American poetry of the 20th century, and modernist prose.",
+                "example_hebrew": "בקורס ספרות, הנושאים העיקריים יכולים להיות טרגדיות שייקספיריות, שירה אמריקאית של המאה ה-20 ופרוזה מודרניסטית."
+            },
+            {
+                "definition": "Topics that are frequently discussed or debated in a particular context, such as social media trends",
+                "definition_hebrew": "נושאים הנידונים או מתווכחים לעתים קרובות בהקשר מסוים, כגון מגמות במדיה חברתית",
+                "example": "The most talked about topics on Twitter this week include climate change protests and the latest celebrity gossip.",
+                "example_hebrew": "הנושאים המדוברים ביותר בטוויטר השבוע כוללים מחאות לשינויי האקלים והרכילות האחרונה של מפורסמים."
+            },
+            {
+                "definition": "A list of subjects to be covered in an educational setting or event",
+                "definition_hebrew": "רשימה של נושאים שיש לעסוק במסגרת חינוכית או באירוע",
+                "example": "The syllabus for the semester includes various topics like calculus, history, and world languages.",
+                "example_hebrew": "הסילבוס לסמסטר כולל נושאים שונים כמו חשבון, היסטוריה ושפות עולם."
+            },
+            {
+                "definition": "Themes or subject matter explored in a piece of writing, film, or artwork",
+                "definition_hebrew": "נושאים או נושאים שנחקרו ביצירת כתיבה, סרט או יצירה",
+                "example": "One of the recurring themes in George Orwell's 'Animal Farm' is the corruption of revolutionary ideals.",
+                "example_hebrew": "אחד הנושאים החוזרים ב\"חוות החיות\" של ג'ורג' אורוול הוא השחתה של אידיאלים מהפכניים."
+            }
+        ]
+    }
+]

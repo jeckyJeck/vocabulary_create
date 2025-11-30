@@ -1,0 +1,28 @@
+[
+    {
+        "word": "mysql",
+        "word_hebrew": "mysql",
+        "main_definition": "MySQL is an open-source relational database management system used to store and retrieve data as structured query language (SQL) statements.",
+        "main_definition_hebrew": "MySQL היא מערכת ניהול מסדי נתונים יחסיים בקוד פתוח המשמשת לאחסון ואחזור נתונים כמשפטי שפת שאילתות מובנית (SQL).",
+        "meanings_and_examples": [
+            {
+                "definition": "The programming language/framework used for web development",
+                "definition_hebrew": "שפת התכנות/מסגרת המשמשת לפיתוח אתרים",
+                "example": "I am using PHP with MySQL for building my website.",
+                "example_hebrew": "אני משתמש ב-PHP עם MySQL לבניית האתר שלי."
+            },
+            {
+                "definition": "A type of database management system (DBMS)",
+                "definition_hebrew": "סוג של מערכת ניהול מסד נתונים (DBMS)",
+                "example": "My company uses MySQL as its primary DBMS to handle data storage and retrieval.",
+                "example_hebrew": "החברה שלי משתמשת ב-MySQL כ-DBMS העיקרי שלה לטיפול באחסון ואחזור נתונים."
+            },
+            {
+                "definition": "The official name of the open-source software project",
+                "definition_hebrew": "השם הרשמי של פרויקט התוכנה בקוד פתוח",
+                "example": "I am learning how to use SQL queries with MySQL database for my data science coursework.",
+                "example_hebrew": "אני לומד כיצד להשתמש בשאילתות SQL עם מסד נתונים של MySQL ללימודי מדעי הנתונים שלי."
+            }
+        ]
+    }
+]

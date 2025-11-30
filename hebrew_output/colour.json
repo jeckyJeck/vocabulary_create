@@ -1,0 +1,40 @@
+[
+    {
+        "word": "colour",
+        "word_hebrew": "צֶבַע",
+        "main_definition": "Colour refers to the visual perception of different wavelengths of light, which includes various aspects such as hues, tones, shades, and combinations thereof.",
+        "main_definition_hebrew": "צבע מתייחס לתפיסה החזותית של אורכי גל שונים של אור, הכוללת היבטים שונים כגון גוונים, גוונים, גוונים ושילובים שלהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "The characteristic that determines how a surface reflects or emits light in terms of hue",
+                "definition_hebrew": "המאפיין הקובע כיצד משטח מחזיר או פולט אור מבחינת הגוון",
+                "example": "The beautiful colour red on the sunset sky",
+                "example_hebrew": "הצבע האדום היפה בשמי השקיעה"
+            },
+            {
+                "definition": "An attribute used to describe an object, often as part of its identification or description.",
+                "definition_hebrew": "תכונה המשמשת לתיאור אובייקט, לרוב כחלק מהזיהוי או התיאור שלו.",
+                "example": "I have a green car.",
+                "example_hebrew": "יש לי מכונית ירוקה."
+            },
+            {
+                "definition": "A specific combination of hues and shades that is distinctive and recognizable.",
+                "definition_hebrew": "שילוב ספציפי של גוונים וגוונים ייחודי ומוכר.",
+                "example": "The colour blue has many variations like navy, sky blue, or royal blue.",
+                "example_hebrew": "לצבע הכחול יש וריאציות רבות כמו כהה, כחול שמיים או כחול מלכותי."
+            },
+            {
+                "definition": "Referring to the ability or lack thereof to see colors (color blindness).",
+                "definition_hebrew": "הכוונה ליכולת או היעדר שלה לראות צבעים (עיוורון צבעים).",
+                "example": "He is color-blind and cannot differentiate between red and green.",
+                "example_hebrew": "הוא עיוור צבעים ואינו יכול להבדיל בין אדום לירוק."
+            },
+            {
+                "definition": "A term used in literature, art, and culture to represent diversity and uniqueness.",
+                "definition_hebrew": "מונח המשמש בספרות, אמנות ותרבות כדי לייצג גיוון וייחודיות.",
+                "example": "The world celebrates a Rainbow Flag as an emblem of LGBTQ+ pride and inclusivity.",
+                "example_hebrew": "העולם חוגג את דגל הקשת כסמל של גאווה והכללה של LGBTQ+."
+            }
+        ]
+    }
+]

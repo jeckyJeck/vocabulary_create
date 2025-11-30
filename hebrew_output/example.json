@@ -1,0 +1,40 @@
+[
+    {
+        "word": "example",
+        "word_hebrew": "דוגמא",
+        "main_definition": "An instance or case that serves to illustrate a particular point, principle, or situation.",
+        "main_definition_hebrew": "מקרה או מקרה המשמשים להמחשת נקודה, עיקרון או מצב מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To show as an illustration of a general rule or principle.",
+                "definition_hebrew": "להראות כהמחשה של כלל או עיקרון כללי.",
+                "example": "Let's take this example where the two companies merge to demonstrate how market share can affect competition.",
+                "example_hebrew": "בואו ניקח את הדוגמה הזו שבה שתי החברות מתמזגות כדי להדגים כיצד נתח שוק יכול להשפיע על התחרות."
+            },
+            {
+                "definition": "A sample that represents something larger, typically used in education and communication to clarify ideas.",
+                "definition_hebrew": "מדגם המייצג משהו גדול יותר, המשמש בדרך כלל בחינוך ובתקשורת כדי להבהיר רעיונות.",
+                "example": "The teacher provided an apple as an example of a healthy snack for her students.",
+                "example_hebrew": "המורה סיפקה תפוח כדוגמה לחטיף בריא לתלמידיה."
+            },
+            {
+                "definition": "An instance or illustration of how something works or is done.",
+                "definition_hebrew": "דוגמה או המחשה של איך משהו עובד או נעשה.",
+                "example": "When learning Python, it's useful to look at examples of different data structures like lists and dictionaries.",
+                "example_hebrew": "כשלומדים Python, כדאי להסתכל על דוגמאות של מבני נתונים שונים כמו רשימות ומילונים."
+            },
+            {
+                "definition": "A case that serves as a model for others to follow.",
+                "definition_hebrew": "מקרה המשמש כמודל שאחרים יכולים ללכת בעקבותיו.",
+                "example": "The CEO's approach to handling crises can be seen as an example for other companies in the industry.",
+                "example_hebrew": "ניתן לראות בגישת המנכ\"ל לטיפול במשברים דוגמה לחברות אחרות בענף."
+            },
+            {
+                "definition": "An object used to explain or demonstrate the use of something, such as a tool, method, or concept.",
+                "definition_hebrew": "אובייקט המשמש כדי להסביר או להדגים את השימוש במשהו, כגון כלי, שיטה או מושג.",
+                "example": "In computer science classes, binary code is often presented with examples using switches and LEDs.",
+                "example_hebrew": "בשיעורי מדעי המחשב, קוד בינארי מוצג לעתים קרובות עם דוגמאות באמצעות מתגים ונוריות."
+            }
+        ]
+    }
+]

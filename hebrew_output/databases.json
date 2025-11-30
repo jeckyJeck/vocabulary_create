@@ -1,0 +1,34 @@
+[
+    {
+        "word": "databases",
+        "word_hebrew": "מסדי נתונים",
+        "main_definition": "Databases are structured collections of data that allow efficient storage, retrieval, management, and analysis of information.",
+        "main_definition_hebrew": "מאגרי מידע הם אוספים מובנים של נתונים המאפשרים אחסון, אחזור, ניהול וניתוח יעיל של מידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing, databases refer to organized sets of data held in a digital database. The database holds information which is consistently organized and easily accessed, managed, and updated.",
+                "definition_hebrew": "במחשוב, מסדי נתונים מתייחסים לקבוצות מאורגנות של נתונים המוחזקים במסד נתונים דיגיטלי. מסד הנתונים מחזיק מידע שמאורגן באופן עקבי ונגיש, מנוהל ומתעדכן בקלות.",
+                "example": "The company uses relational databases to store customer orders, inventory levels, and sales data.",
+                "example_hebrew": "החברה משתמשת במאגרי מידע יחסיים לאחסון הזמנות לקוחות, רמות מלאי ונתוני מכירות."
+            },
+            {
+                "definition": "In the context of business intelligence and analytics, databases can refer to repositories that store large amounts of raw or processed data for analysis by tools like SQL queries.",
+                "definition_hebrew": "בהקשר של בינה עסקית וניתוח, מסדי נתונים יכולים להתייחס למאגרים המאחסנים כמויות גדולות של נתונים גולמיים או מעובדים לצורך ניתוח על ידי כלים כמו שאילתות SQL.",
+                "example": "The marketing team analyzes their database containing customer demographics and purchasing history to identify trends.",
+                "example_hebrew": "צוות השיווק מנתח את מסד הנתונים שלהם המכיל נתונים דמוגרפיים של לקוחות והיסטוריית רכישות כדי לזהות מגמות."
+            },
+            {
+                "definition": "Databases, in a broader sense, can also refer to non-digital collections of data or information organized in an orderly manner for easy access and retrieval.",
+                "definition_hebrew": "מאגרי מידע, במובן הרחב יותר, יכולים להתייחס גם לאוספים לא דיגיטליים של נתונים או מידע המאורגנים בצורה מסודרת לגישה ואחזור קלים.",
+                "example": "The library's card catalog is a physical database where books are listed by author, title, subject, etc.",
+                "example_hebrew": "קטלוג הכרטיסים של הספרייה הוא מאגר מידע פיזי בו רשומים ספרים לפי מחבר, כותרת, נושא וכו'."
+            },
+            {
+                "definition": "In the field of linguistics, databases can refer to structured sets of language data used for research and analysis in fields such as corpus linguistics.",
+                "definition_hebrew": "בתחום הבלשנות, מסדי נתונים יכולים להתייחס לקבוצות מובנות של נתוני שפה המשמשים למחקר וניתוח בתחומים כמו קורפוס בלשנות.",
+                "example": "Researchers analyze a database containing millions of words from different languages to study syntax patterns.",
+                "example_hebrew": "חוקרים מנתחים מסד נתונים המכיל מיליוני מילים משפות שונות כדי לחקור דפוסי תחביר."
+            }
+        ]
+    }
+]

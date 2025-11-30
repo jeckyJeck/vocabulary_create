@@ -1,0 +1,40 @@
+[
+    {
+        "word": "expired",
+        "word_hebrew": "לא בתוקף",
+        "main_definition": "When a product or service is no longer valid, usable, or has reached the end of its period as per terms agreed upon.",
+        "main_definition_hebrew": "כאשר מוצר או שירות אינם תקפים עוד, שמיש או הגיע לסוף תקופתו בהתאם לתנאים שהוסכם עליהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "In reference to products such as food, medicine, or tickets",
+                "definition_hebrew": "בהתייחס למוצרים כגון מזון, תרופות או כרטיסים",
+                "example": "The milk had expired and was no longer safe to consume.",
+                "example_hebrew": "החלב פג תוקף וכבר לא היה בטוח לצריכה."
+            },
+            {
+                "definition": "Regarding documents like passports or visas which have a limited validity period",
+                "definition_hebrew": "לגבי מסמכים כמו דרכונים או אשרות אשר להם תקופת תוקף מוגבלת",
+                "example": "His passport has expired, so he needs to renew it before traveling abroad.",
+                "example_hebrew": "פג תוקפו של הדרכון שלו, אז הוא צריך לחדש אותו לפני נסיעה לחו\"ל."
+            },
+            {
+                "definition": "In the context of financial instruments such as certificates, bonds, etc.",
+                "definition_hebrew": "בהקשר של מכשירים פיננסיים כמו תעודות, איגרות חוב וכו'.",
+                "example": "The stock certificate had expired and was no longer redeemable for shares.",
+                "example_hebrew": "תעודת המניה פג ואינה ניתנת עוד לפדיון עבור מניות."
+            },
+            {
+                "definition": "When referring to contracts or agreements",
+                "definition_hebrew": "כאשר מתייחסים לחוזים או הסכמים",
+                "example": "The warranty on the product had expired, so it could not be repaired under guarantee.",
+                "example_hebrew": "פג תוקף האחריות על המוצר, כך שלא ניתן היה לתקן אותו במסגרת אחריות."
+            },
+            {
+                "definition": "Used in relation to tickets for events which cannot be used after a specific date",
+                "definition_hebrew": "משמש ביחס לכרטיסים לאירועים שלא ניתן להשתמש בהם לאחר תאריך מסוים",
+                "example": "The concert ticket has expired and I was unable to attend the event.",
+                "example_hebrew": "תוקף הכרטיס להופעה פג ולא יכולתי להשתתף באירוע."
+            }
+        ]
+    }
+]

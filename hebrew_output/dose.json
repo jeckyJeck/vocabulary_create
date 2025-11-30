@@ -1,0 +1,40 @@
+[
+    {
+        "word": "dose",
+        "word_hebrew": "מָנָה",
+        "main_definition": "A dose is a specific quantity of medicine or substance given at one time or over a period.",
+        "main_definition_hebrew": "מנה היא כמות מסוימת של תרופה או חומר הניתנת בבת אחת או על פני תקופה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Quantity of medication to be taken in one administration",
+                "definition_hebrew": "כמות התרופות שיש ליטול במנה אחת",
+                "example": "He was advised to take 500 mg of ibuprofen every six hours.",
+                "example_hebrew": "הומלץ לו ליטול 500 מ\"ג איבופרופן כל שש שעות."
+            },
+            {
+                "definition": "Amount of a drug or substance ingested at once for effectiveness",
+                "definition_hebrew": "כמות של תרופה או חומר שנבלעת בבת אחת ליעילות",
+                "example": "She took her allergy medication in the recommended dose of two tablets daily.",
+                "example_hebrew": "היא נטלה את תרופות האלרגיה שלה במינון המומלץ של שתי טבליות ביום."
+            },
+            {
+                "definition": "The act of giving someone a prescribed amount of medicine",
+                "definition_hebrew": "הפעולה של לתת למישהו כמות תרופה שנקבעה",
+                "example": "The nurse administered a dose of antibiotics to the patient.",
+                "example_hebrew": "האחות נתנה מנת אנטיביוטיקה לחולה."
+            },
+            {
+                "definition": "Amount of substance consumed for recreational use, usually referring to drugs",
+                "definition_hebrew": "כמות החומר הנצרכת לשימוש פנאי, בדרך כלל מתייחסת לסמים",
+                "example": "He admitted to smoking a heavy dose of marijuana on weekends.",
+                "example_hebrew": "הוא הודה כי עישן מנה כבדה של מריחואנה בסופי שבוע."
+            },
+            {
+                "definition": "A fixed amount or proportion used in an experiment as a standard measure",
+                "definition_hebrew": "כמות או פרופורציה קבועה המשמשת בניסוי כמדד סטנדרטי",
+                "example": "In the lab, we measured out 10 mL of liquid into each test tube for our experiments.",
+                "example_hebrew": "במעבדה, מדדנו 10 מ\"ל של נוזל לכל מבחנה עבור הניסויים שלנו."
+            }
+        ]
+    }
+]

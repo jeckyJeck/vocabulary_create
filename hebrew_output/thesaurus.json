@@ -1,0 +1,34 @@
+[
+    {
+        "word": "thesaurus",
+        "word_hebrew": "אוֹצָר מִילִים",
+        "main_definition": "A thesaurus is a reference book or electronic resource that lists words grouped together according to similarity of meaning (synonyms) and sometimes antonyms.",
+        "main_definition_hebrew": "תזאורוס הוא ספר עיון או משאב אלקטרוני המפרט מילים המקובצות יחד על פי דמיון משמעות (מילים נרדפות) ולעיתים מילים אנטונימיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Reference for synonyms",
+                "definition_hebrew": "הפניה למילים נרדפות",
+                "example": "Looking up 'happy' in a thesaurus might yield words like joyful, elated, or delighted.",
+                "example_hebrew": "חיפוש 'מאושר' בתזאורוס עשוי להניב מילים כמו משמח, מרומם או מרוצה."
+            },
+            {
+                "definition": "List of related terms",
+                "definition_hebrew": "רשימת מונחים קשורים",
+                "example": "A gardener may consult an agricultural thesaurus to find alternative terms for specific plants and gardening techniques.",
+                "example_hebrew": "גנן עשוי להתייעץ עם תזאורוס חקלאי כדי למצוא מונחים חלופיים עבור צמחים וטכניקות גינון ספציפיות."
+            },
+            {
+                "definition": "Tool for writers",
+                "definition_hebrew": "כלי לסופרים",
+                "example": "An author uses a thesaurus to enhance their writing by finding more expressive words than the ones they initially used.",
+                "example_hebrew": "מחבר משתמש בתזאורוס כדי לשפר את הכתיבה שלו על ידי מציאת מילים אקספרסיביות יותר מאלה שבהן השתמש בתחילה."
+            },
+            {
+                "definition": "A database of synonyms and antonyms",
+                "definition_hebrew": "מאגר של מילים נרדפות ואנונימיות",
+                "example": "Online dictionaries often offer thesaural tools that allow users to input a word and see its related terms in real-time.",
+                "example_hebrew": "מילונים מקוונים מציעים לעתים קרובות כלים תזאורליים המאפשרים למשתמשים להזין מילה ולראות את המונחים הקשורים לה בזמן אמת."
+            }
+        ]
+    }
+]

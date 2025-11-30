@@ -1,0 +1,40 @@
+[
+    {
+        "word": "might",
+        "word_hebrew": "אולי",
+        "main_definition": "Might refers to the possibility or capability of someone or something to do something, often in terms of power or strength.",
+        "main_definition_hebrew": "עשוי מתייחס לאפשרות או היכולת של מישהו או משהו לעשות משהו, לעתים קרובות במונחים של כוח או כוח.",
+        "meanings_and_examples": [
+            {
+                "definition": "Possibility of doing something; ability",
+                "definition_hebrew": "אפשרות לעשות משהו; יְכוֹלֶת",
+                "example": "Given his experience and skills, he might be able to solve the complex problem.",
+                "example_hebrew": "בהתחשב בניסיונו ובכישוריו, ייתכן שהוא יוכל לפתור את הבעיה המורכבת."
+            },
+            {
+                "definition": "Used to express a low likelihood or possibility that something will happen",
+                "definition_hebrew": "משמש להבעת סבירות נמוכה או אפשרות שמשהו יקרה",
+                "example": "It might rain later in the day, but there is no clear forecast yet.",
+                "example_hebrew": "ייתכן גשם בהמשך היום, אך עדיין אין תחזית ברורה."
+            },
+            {
+                "definition": "A conditional or hypothetical situation; often used with 'if'",
+                "definition_hebrew": "מצב מותנה או היפותטי; משמש לעתים קרובות עם 'אם'",
+                "example": "If you finish your work on time, you might go out for dinner tonight.",
+                "example_hebrew": "אם תסיים את העבודה שלך בזמן, אולי תצא לארוחת ערב הערב."
+            },
+            {
+                "definition": "Informal expression to convey a suggestion or proposal without strong commitment",
+                "definition_hebrew": "ביטוי לא פורמלי להעברת הצעה או הצעה ללא התחייבות חזקה",
+                "example": "I was thinking we could meet at the park; what do you say?",
+                "example_hebrew": "חשבתי שנוכל להיפגש בפארק; מה אתה אומר?"
+            },
+            {
+                "definition": "Used in negations and questions, similar to 'can' but implies less capability",
+                "definition_hebrew": "משמש בשלילה ובשאלות, בדומה ל'יכול' אך מרמז על פחות יכולת",
+                "example": "Can a human live on Mars? No, they might not survive without proper equipment.",
+                "example_hebrew": "האם אדם יכול לחיות על מאדים? לא, ייתכן שהם לא ישרדו ללא ציוד מתאים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "astrology",
+        "word_hebrew": "אַסטרוֹלוֹגִיָה",
+        "main_definition": "A belief system that suggests a relationship between the positions of celestial bodies and events in human lives.",
+        "main_definition_hebrew": "מערכת אמונות המציעה קשר בין עמדות גרמי השמים לבין אירועים בחיי אדם.",
+        "meanings_and_examples": [
+            {
+                "definition": "The study of horoscopes or astrological charts based on birth dates",
+                "definition_hebrew": "חקר הורוסקופים או מפות אסטרולוגיות המבוססות על תאריכי לידה",
+                "example": "Creating an astrological chart for someone born on July 21, 1985.",
+                "example_hebrew": "יצירת מפה אסטרולוגית עבור מישהו שנולד ב-21 ביולי 1985."
+            },
+            {
+                "definition": "A belief in the influence of celestial bodies on human behavior and destiny",
+                "definition_hebrew": "אמונה בהשפעת גרמי השמים על התנהגות וגורל האדם",
+                "example": "An individual who believes that their love life is affected by the position of Venus at their time of birth.",
+                "example_hebrew": "אדם שמאמין שחיי האהבה שלו מושפעים ממיקומו של ונוס בזמן לידתו."
+            },
+            {
+                "definition": "The practice of interpreting the positions of stars, planets, and other celestial bodies to predict future events",
+                "definition_hebrew": "התרגול לפרש את מיקומם של כוכבים, כוכבי הלכת וגופים שמימיים אחרים כדי לחזות אירועים עתידיים",
+                "example": "A fortune teller reading an astrological chart to provide insights about a person's career or relationship prospects.",
+                "example_hebrew": "מגדת עתידות קוראת מפה אסטרולוגית כדי לספק תובנות לגבי הקריירה או סיכויי מערכת היחסים של אדם."
+            },
+            {
+                "definition": "The study of how the positions and movements of celestial objects influence human affairs, particularly with regard to personality traits",
+                "definition_hebrew": "חקר האופן שבו עמדות ותנועות של עצמים שמימיים משפיעות על ענייני האדם, במיוחד בהתייחס לתכונות אישיות",
+                "example": "An astrologer explaining that someone's sun sign can reveal insights into their temperament and life path.",
+                "example_hebrew": "אסטרולוג שמסביר שסימן השמש של מישהו יכול לחשוף תובנות לגבי המזג ומסלול החיים שלו."
+            },
+            {
+                "definition": "The pseudoscientific field of using the positions of celestial bodies in relation to Earth for divination or fortune-telling",
+                "definition_hebrew": "התחום הפסאודו-מדעי של שימוש בעמדות של גרמי שמים ביחס לכדור הארץ לצורך חיזוי או חיזוי עתידות",
+                "example": "A website offering free astrological predictions based on a user's birth date and time.",
+                "example_hebrew": "אתר אינטרנט המציע תחזיות אסטרולוגיות בחינם המבוססות על תאריך ושעת הלידה של המשתמש."
+            }
+        ]
+    }
+]

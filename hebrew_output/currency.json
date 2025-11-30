@@ -1,0 +1,40 @@
+[
+    {
+        "word": "currency",
+        "word_hebrew": "מַטְבֵּעַ",
+        "main_definition": "Currency refers to a system of money in general use in a particular country or region, as well as the value of such money expressed by its price relative to other monies; and it can also denote an exchange rate between currencies.",
+        "main_definition_hebrew": "מטבע מתייחס למערכת של כסף בשימוש כללי במדינה מסוימת או באזור מסוים, וכן לערך של כסף כזה מבוטא במחירו ביחס לכספים אחרים; והוא יכול גם לציין שער חליפין בין מטבעות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A medium of exchange used for transactions within a specific geographical area",
+                "definition_hebrew": "אמצעי חליפין המשמש לעסקאות בתוך אזור גיאוגרפי מסוים",
+                "example": "The Euro is the currency used by many countries in Europe.",
+                "example_hebrew": "האירו הוא המטבע בו משתמשים מדינות רבות באירופה."
+            },
+            {
+                "definition": "An exchange rate or value comparison between different currencies",
+                "definition_hebrew": "השוואת שער או ערך בין מטבעות שונים",
+                "example": "When traveling to Japan, you can compare the US dollar's value against Japanese yen as their currency exchange rate.",
+                "example_hebrew": "בעת נסיעה ליפן, אתה יכול להשוות את הערך של הדולר האמריקאי מול הין היפני כשער המטבע שלהם."
+            },
+            {
+                "definition": "A measure of a country's economic stability and growth, often expressed through its inflation rate or purchasing power",
+                "definition_hebrew": "מדד ליציבות הכלכלית והצמיחה של מדינה, המתבטאים לרוב באמצעות שיעור האינפלציה או כוח הקנייה שלה",
+                "example": "The strengthening of the British Pound can indicate an increase in confidence about the UK economy.",
+                "example_hebrew": "התחזקות הליש\"ט הבריטי יכולה להעיד על עלייה באמון בכלכלת בריטניה."
+            },
+            {
+                "definition": "In finance, refers to currencies held for investment purposes rather than for daily transactions",
+                "definition_hebrew": "בפיננסים, מתייחס למטבעות המוחזקים למטרות השקעה ולא לעסקאות יומיות",
+                "example": "Hedge funds often hold large amounts of foreign currency as part of their portfolio management strategy.",
+                "example_hebrew": "קרנות גידור מחזיקות לרוב כמויות גדולות של מטבע חוץ כחלק מאסטרטגיית ניהול התיקים שלהן."
+            },
+            {
+                "definition": "A term used in programming languages like Python and JavaScript to represent a variable that can store multiple values",
+                "definition_hebrew": "מונח המשמש בשפות תכנות כמו Python ו-JavaScript כדי לייצג משתנה שיכול לאחסן ערכים מרובים",
+                "example": "In the code snippet `x = [1, 2, 3]`, x is an array of currency with three elements.",
+                "example_hebrew": "בקטע הקוד `x = [1, 2, 3]`, x הוא מערך של מטבע עם שלושה אלמנטים."
+            }
+        ]
+    }
+]

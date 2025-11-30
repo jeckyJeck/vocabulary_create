@@ -1,0 +1,40 @@
+[
+    {
+        "word": "action",
+        "word_hebrew": "פעולה",
+        "main_definition": "Action refers to the process of doing something, usually with a specific purpose or effect in mind.",
+        "main_definition_hebrew": "פעולה מתייחסת לתהליך של ביצוע משהו, בדרך כלל מתוך מחשבה על מטרה או השפעה ספציפית.",
+        "meanings_and_examples": [
+            {
+                "definition": "The physical movement caused by muscular force.",
+                "definition_hebrew": "התנועה הפיזית הנגרמת מכוח שרירי.",
+                "example": "She performed an action by jumping up and down.",
+                "example_hebrew": "היא ביצעה פעולה על ידי קפיצה למעלה ולמטה."
+            },
+            {
+                "definition": "A deed or behavior that accomplishes a specific goal.",
+                "definition_hebrew": "מעשה או התנהגות המשיגים מטרה מסוימת.",
+                "example": "His brave actions helped save the drowning child.",
+                "example_hebrew": "מעשיו האמיצים עזרו להציל את הילד הטובע."
+            },
+            {
+                "definition": "The steps taken to achieve an objective in filmmaking, such as directing, acting, and editing.",
+                "definition_hebrew": "הצעדים שננקטו כדי להשיג מטרה ביצירת סרטים, כגון בימוי, משחק ועריכה.",
+                "example": "The director's action was crucial for the success of the movie.",
+                "example_hebrew": "פעולתו של הבמאי הייתה מכרעת להצלחת הסרט."
+            },
+            {
+                "definition": "A political or social change brought about by efforts to alter a situation or policy.",
+                "definition_hebrew": "שינוי פוליטי או חברתי שנגרם על ידי מאמצים לשנות מצב או מדיניות.",
+                "example": "The protestors took action against government corruption.",
+                "example_hebrew": "המפגינים נקטו בפעולה נגד השחיתות השלטונית."
+            },
+            {
+                "definition": "An administrative decision taken on beheavior, compliance, or performance.",
+                "definition_hebrew": "החלטה מנהלית שהתקבלה על התנהגות, ציות או ביצוע.",
+                "example": "The company issued an action regarding the late payment of invoices.",
+                "example_hebrew": "החברה הוציאה תובענה בדבר איחור בתשלום חשבוניות."
+            }
+        ]
+    }
+]

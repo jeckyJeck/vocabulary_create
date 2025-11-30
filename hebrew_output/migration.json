@@ -1,0 +1,34 @@
+[
+    {
+        "word": "migration",
+        "word_hebrew": "הֲגִירָה",
+        "main_definition": "Migration refers to the movement of people, animals or even objects from one place to another. It usually implies a change in location due to various reasons such as seasonal changes, economic opportunities, political instability, etc.",
+        "main_definition_hebrew": "הגירה מתייחסת לתנועה של אנשים, בעלי חיים או אפילו חפצים ממקום אחד למשנהו. בדרך כלל זה מרמז על שינוי במיקום בגלל סיבות שונות כמו שינויים עונתיים, הזדמנויות כלכליות, חוסר יציבות פוליטית וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "Movement of birds and other animals between different geographical locations",
+                "definition_hebrew": "תנועה של ציפורים וחיות אחרות בין מיקומים גיאוגרפיים שונים",
+                "example": "The annual migration of Monarch butterflies from North America to Mexico.",
+                "example_hebrew": "הנדידה השנתית של פרפרי מונרך מצפון אמריקה למקסיקו."
+            },
+            {
+                "definition": "Human movement, particularly across borders or continents for purposes like employment, education, or seeking refugee status",
+                "definition_hebrew": "תנועה אנושית, במיוחד חוצה גבולות או יבשות למטרות כמו תעסוקה, חינוך או חיפוש מעמד פליט",
+                "example": "Rural residents in search of better job opportunities often migrate to urban areas.",
+                "example_hebrew": "תושבים כפריים המחפשים הזדמנויות עבודה טובות יותר נודדים לעתים קרובות לאזורים עירוניים."
+            },
+            {
+                "definition": "The relocation of people due to natural disasters such as floods, earthquakes, etc.",
+                "definition_hebrew": "העברת אנשים עקב אסונות טבע כמו שיטפונות, רעידות אדמה וכו'.",
+                "example": "After the devastating earthquake in Haiti in 2010, many residents migrated to other countries for safety.",
+                "example_hebrew": "לאחר רעידת האדמה ההרסנית בהאיטי ב-2010, תושבים רבים היגרו למדינות אחרות ליתר ביטחון."
+            },
+            {
+                "definition": "Transfer or movement of goods and services from one place to another",
+                "definition_hebrew": "העברה או העברה של סחורות ושירותים ממקום אחד לאחר",
+                "example": "The migration of consumer products like smartphones and computers across borders due to global trade.",
+                "example_hebrew": "הגירה של מוצרי צריכה כמו סמארטפונים ומחשבים מעבר לגבולות עקב הסחר העולמי."
+            }
+        ]
+    }
+]

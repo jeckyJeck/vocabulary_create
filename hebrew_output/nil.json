@@ -1,0 +1,40 @@
+[
+    {
+        "word": "nil",
+        "word_hebrew": "אֶפֶס",
+        "main_definition": "Nil means nothing or zero, often used in various contexts to indicate the absence of value or quantity.",
+        "main_definition_hebrew": "אפס פירושו כלום או אפס, משמש לעתים קרובות בהקשרים שונים כדי לציין היעדר ערך או כמות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Nothingness or void",
+                "definition_hebrew": "כלום או ריק",
+                "example": "After years of searching for his lost dog, he still feels a sense of nothingness.",
+                "example_hebrew": "לאחר שנים של חיפושים אחר הכלב האבוד שלו, הוא עדיין מרגיש תחושת הכלום."
+            },
+            {
+                "definition": "Zero value in mathematics",
+                "definition_hebrew": "ערך אפס במתמטיקה",
+                "example": "In the equation 2 + 3 = x - 5, when we solve for x, it equals to nil (0).",
+                "example_hebrew": "במשוואה 2 + 3 = x - 5, כשנפתור את x, הוא שווה לאפס (0)."
+            },
+            {
+                "definition": "Absent or unavailable",
+                "definition_hebrew": "נעדר או לא זמין",
+                "example": "The meeting has been postponed, and there is no date set yet. It's still nil.",
+                "example_hebrew": "הפגישה נדחתה, ועדיין לא נקבע תאריך. זה עדיין אפסי."
+            },
+            {
+                "definition": "Empty container or space",
+                "definition_hebrew": "מיכל או חלל ריק",
+                "example": "He opened the fridge to find it all empty; the shelves were filled with nothing but air.",
+                "example_hebrew": "הוא פתח את המקרר ומצא הכל ריק; המדפים היו מלאים רק באוויר."
+            },
+            {
+                "definition": "No result in a game, test, or competition",
+                "definition_hebrew": "אין תוצאה במשחק, מבחן או תחרות",
+                "example": "The final score of the match was nil for both teams.",
+                "example_hebrew": "התוצאה הסופית של המשחק הייתה אפסית עבור שתי הקבוצות."
+            }
+        ]
+    }
+]

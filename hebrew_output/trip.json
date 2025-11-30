@@ -1,0 +1,34 @@
+[
+    {
+        "word": "trip",
+        "word_hebrew": "טיול",
+        "main_definition": "A sudden loss of balance or stumble caused by an obstacle, uneven ground, or other factors.",
+        "main_definition_hebrew": "אובדן פתאומי של שיווי משקל או מעידה שנגרמה על ידי מכשול, קרקע לא אחידה או גורמים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To fall suddenly and unexpectedly while walking or running.",
+                "definition_hebrew": "ליפול באופן פתאומי ובלתי צפוי תוך כדי הליכה או ריצה.",
+                "example": "She tripped over a crack in the sidewalk.",
+                "example_hebrew": "היא מעדה על סדק במדרכה."
+            },
+            {
+                "definition": "A short journey, usually for pleasure or education.",
+                "definition_hebrew": "מסע קצר, בדרך כלל לשם הנאה או חינוך.",
+                "example": "They took a trip to Paris last summer.",
+                "example_hebrew": "הם נסעו לפריז בקיץ שעבר."
+            },
+            {
+                "definition": "To experience an unforeseen event that causes difficulty or trouble.",
+                "definition_hebrew": "לחוות אירוע בלתי צפוי שגורם לקושי או צרות.",
+                "example": "The system experienced several trips due to overload.",
+                "example_hebrew": "המערכת חוותה מספר נסיעות עקב עומס יתר."
+            },
+            {
+                "definition": "A malfunction in electrical wiring causing a sudden surge of power, potentially damaging equipment.",
+                "definition_hebrew": "תקלה בחיווט החשמלי הגורמת לנחשול פתאומי של חשמל, שעלול לגרום נזק לציוד.",
+                "example": "The lighting system had multiple trips during the storm.",
+                "example_hebrew": "למערכת התאורה היו נסיעות מרובות במהלך הסופה."
+            }
+        ]
+    }
+]

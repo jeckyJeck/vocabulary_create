@@ -1,0 +1,34 @@
+[
+    {
+        "word": "programmes",
+        "word_hebrew": "תוכניות",
+        "main_definition": "In the context of media, 'programmes' refers to scheduled broadcasted content such as TV shows or radio segments.",
+        "main_definition_hebrew": "בהקשר של מדיה, 'תוכניות' מתייחס לתוכן משודר מתוזמן כגון תוכניות טלוויזיה או קטעי רדיו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A set of planned activities aiming to achieve a specific outcome in television and radio broadcasts",
+                "definition_hebrew": "מערך פעילויות מתוכננות במטרה להשיג תוצאה ספציפית בשידורי טלוויזיה ורדיו",
+                "example": "The BBC schedule includes various programmes like news, documentaries, dramas, and entertainment shows.",
+                "example_hebrew": "לוח הזמנים של ה-BBC כולל תוכניות שונות כמו חדשות, סרטים תיעודיים, דרמות ותוכניות בידור."
+            },
+            {
+                "definition": "Educational courses or training sessions offered by institutions",
+                "definition_hebrew": "קורסים חינוכיים או מפגשי הכשרה המוצעים על ידי מוסדות",
+                "example": "Our institution offers a range of computer programming courses to help individuals develop their skills.",
+                "example_hebrew": "המוסד שלנו מציע מגוון קורסי תכנות מחשבים כדי לעזור לאנשים לפתח את כישוריהם."
+            },
+            {
+                "definition": "A series of exercises designed for physical fitness and well-being",
+                "definition_hebrew": "סדרת תרגילים המיועדים לכושר גופני ולרווחה",
+                "example": "The gym's weekly programme includes cardio, strength training, and flexibility workouts.",
+                "example_hebrew": "התוכנית השבועית של חדר הכושר כוללת אימוני אירובי, אימוני כוח ואימוני גמישות."
+            },
+            {
+                "definition": "In computing, a sequence of coded instructions that are executed by a computer to perform specific tasks",
+                "definition_hebrew": "במחשוב, רצף של הוראות מקודדות שמבוצעות על ידי מחשב לביצוע משימות ספציפיות",
+                "example": "Programmers write code for different software programmes such as games or data analysis tools.",
+                "example_hebrew": "מתכנתים כותבים קוד עבור תוכנות שונות כגון משחקים או כלי ניתוח נתונים."
+            }
+        ]
+    }
+]

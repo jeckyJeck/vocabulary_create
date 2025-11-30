@@ -1,0 +1,40 @@
+[
+    {
+        "word": "nitrogen",
+        "word_hebrew": "חַנקָן",
+        "main_definition": "Nitrogen is a chemical element, specifically an essential component of the air we breathe, and plays critical roles in various biological processes and industrial applications.",
+        "main_definition_hebrew": "חנקן הוא יסוד כימי, במיוחד מרכיב חיוני באוויר שאנו נושמים, וממלא תפקידים קריטיים בתהליכים ביולוגיים שונים ויישומים תעשייתיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In chemistry, nitrogen refers to the seventh element on the periodic table (symbol N) with atomic number 7. It is a colorless, odorless, tasteless gas that makes up about 78% of Earth's atmosphere.",
+                "definition_hebrew": "בכימיה, חנקן מתייחס ליסוד השביעי בטבלה המחזורית (סמל N) עם המספר האטומי 7. זהו גז חסר צבע, חסר ריח וחסר טעם, המהווה כ-78% מהאטמוספרה של כדור הארץ.",
+                "example": "The molecular formula for nitrogen gas is N2.",
+                "example_hebrew": "הנוסחה המולקולרית לגז חנקן היא N2."
+            },
+            {
+                "definition": "In agriculture and gardening, 'nitrogen fixation' refers to the process by which certain bacteria convert atmospheric nitrogen into compounds usable by plants.",
+                "definition_hebrew": "בחקלאות ובגינון, 'קיבוע חנקן' מתייחס לתהליך שבו חיידקים מסוימים הופכים חנקן אטמוספרי לתרכובות הניתנות לשימוש על ידי צמחים.",
+                "example": "'The legumes in my field are helping me enrich the soil through biological nitrogen fixation.'",
+                "example_hebrew": "'הקטניות בשדה שלי עוזרות לי להעשיר את הקרקע באמצעות קיבוע חנקן ביולוגי'."
+            },
+            {
+                "definition": "Nitrogen is a key component of amino acinas, which are building blocks for proteins that play various roles in living organisms.",
+                "definition_hebrew": "חנקן הוא מרכיב מפתח באמיניות אמינו, המהוות אבני בניין לחלבונים הממלאים תפקידים שונים באורגניזמים חיים.",
+                "example": "'The body cannot produce all the essential amino acids, so they must be obtained from dietary sources.'",
+                "example_hebrew": "'הגוף לא יכול לייצר את כל חומצות האמינו החיוניות, ולכן יש לקבל אותן ממקורות תזונתיים'."
+            },
+            {
+                "definition": "'Nitrogen cycle' refers to the series of processes by which nitrogen is converted into various chemical forms as it circulates among the atmosphere, terrestrial and marine ecosystems.",
+                "definition_hebrew": "'מחזור חנקן' מתייחס לסדרת התהליכים שבאמצעותם חנקן הופך לצורות כימיות שונות בזמן שהוא מסתובב בין האטמוספרה, מערכות אקולוגיות יבשתיות וימיות.",
+                "example": "'The process of denitrification in soil involves converting nitrate (NO3-) back into atmospheric nitrogen gas (N2).'",
+                "example_hebrew": "\"תהליך הדניטריפיקציה בקרקע כולל המרת חנקה (NO3-) בחזרה לגז חנקן אטמוספרי (N2).'"
+            },
+            {
+                "definition": "'Nitrogen balance' is a measure that compares the amount of nitrogen ingested with the amount excreted, used for growth or converted to other forms.",
+                "definition_hebrew": "'מאזן חנקן' הוא מדד המשווה את כמות החנקן הנבלעת עם הכמות המופרשת, משמשת לגידול או מומרת לצורות אחרות.",
+                "example": "'A positive nitrogen balance indicates that intake exceeds loss and can be associated with periods of growth.'",
+                "example_hebrew": "\"מאזן חנקן חיובי מצביע על כך שהצריכה עולה על ההפסד ויכולה להיות קשורה לתקופות של גדילה.\""
+            }
+        ]
+    }
+]

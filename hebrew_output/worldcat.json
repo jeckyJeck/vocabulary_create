@@ -1,0 +1,28 @@
+[
+    {
+        "word": "worldcat",
+        "word_hebrew": "חתול עולמי",
+        "main_definition": "WorldCat is a global catalog of library collections, providing access to bibliographic records from libraries worldwide.",
+        "main_definition_hebrew": "WorldCat הוא קטלוג עולמי של אוספי ספריות, המספק גישה לרשומות ביבליוגרפיות מספריות ברחבי העולם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Aggregate database for libraries and their collections",
+                "definition_hebrew": "מסד נתונים מצטבר לספריות והאוספים שלהן",
+                "example": "The WorldCat website offers an extensive search platform where users can locate books across various countries.",
+                "example_hebrew": "אתר WorldCat מציע פלטפורמת חיפוש נרחבת שבה משתמשים יכולים לאתר ספרים במדינות שונות."
+            },
+            {
+                "definition": "Global catalog of library materials",
+                "definition_hebrew": "קטלוג גלובלי של חומרי ספרייה",
+                "example": "Researchers were able to find rare manuscripts in a university library listed on the WorldCat database.",
+                "example_hebrew": "חוקרים הצליחו למצוא כתבי יד נדירים בספריית אוניברסיטה הרשומה במסד הנתונים של WorldCat."
+            },
+            {
+                "definition": "Networking platform for libraries and institutions",
+                "definition_hebrew": "פלטפורמת נטוורקינג לספריות ומוסדות",
+                "example": "Libraries often collaborate using WorldCat to share resources and improve accessibility for patrons.",
+                "example_hebrew": "ספריות משתפות פעולה לעתים קרובות באמצעות WorldCat כדי לשתף משאבים ולשפר את הנגישות עבור הלקוחות."
+            }
+        ]
+    }
+]

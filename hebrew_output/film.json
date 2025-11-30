@@ -1,0 +1,34 @@
+[
+    {
+        "word": "film",
+        "word_hebrew": "סרט צילום",
+        "main_definition": "A thin layer of material, usually plastic, that covers or wraps something; in the context of entertainment and media, it refers to a motion picture.",
+        "main_definition_hebrew": "שכבה דקה של חומר, בדרך כלל פלסטיק, המכסה או עוטפת משהו; בהקשר של בידור ומדיה, זה מתייחס לסרט קולנוע.",
+        "meanings_and_examples": [
+            {
+                "definition": "In general, any thin layer covering an object",
+                "definition_hebrew": "באופן כללי, כל שכבה דקה המכסה חפץ",
+                "example": "The film on top of this glass protects it from scratches.",
+                "example_hebrew": "הסרט על גבי זכוכית זו מגן עליו מפני שריטות."
+            },
+            {
+                "definition": "A motion picture or movie in the context of entertainment and media",
+                "definition_hebrew": "סרט קולנוע או סרט בהקשר של בידור ומדיה",
+                "example": "I just watched a really good film last night at the cinema.",
+                "example_hebrew": "רק אתמול בלילה צפיתי בסרט ממש טוב בקולנוע."
+            },
+            {
+                "definition": "The plastic material used to make photographic emulsion for projecting images onto a screen, which is also applied to camera lenses in photography",
+                "definition_hebrew": "החומר הפלסטי המשמש לייצור אמולסיה צילום להקרנת תמונות על מסך, אשר מיושם גם על עדשות מצלמה בצילום",
+                "example": "Film developers use chemicals to process and develop the film after it's been exposed.",
+                "example_hebrew": "מפתחי סרטים משתמשים בכימיקלים כדי לעבד ולפתח את הסרט לאחר חשיפתו."
+            },
+            {
+                "definition": "A thin layer of material used in various applications such as insulation, packaging, or decoration",
+                "definition_hebrew": "שכבה דקה של חומר המשמשת ביישומים שונים כגון בידוד, אריזה או קישוט",
+                "example": "The gift box was wrapped with a shiny cellophane film to make it look more appealing.",
+                "example_hebrew": "קופסת המתנה נעטפה בסרט צלופן מבריק כדי לגרום לה להיראות מושך יותר."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "stadium",
+        "word_hebrew": "אִצטַדיוֹן",
+        "main_definition": "A large, open-air venue with a field or stage for sports, concerts, or other events.",
+        "main_definition_hebrew": "אולם גדול ופתוח עם מגרש או במה לספורט, קונצרטים או אירועים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In sports context, a stadium is a large facility designed to host games of various athletic competitions. It typically features seating for spectators and playing surfaces like pitches, courts, or fields.",
+                "definition_hebrew": "בהקשר ספורט, אצטדיון הוא מתקן גדול המיועד לארח משחקים של תחרויות אתלטיות שונות. הוא כולל בדרך כלל מקומות ישיבה לצופים ומשטחי משחק כמו מגרשים, מגרשים או שדות.",
+                "example": "The Olympic Stadium in London hosted the track and field events during the 2012 Summer Olympics.",
+                "example_hebrew": "האצטדיון האולימפי בלונדון אירח את אירועי האתלטיקה במהלך אולימפיאדת הקיץ 2012."
+            },
+            {
+                "definition": "In entertainment context, a stadium refers to a large venue used for concerts, performances, and other live events that draw crowds.",
+                "definition_hebrew": "בהקשר של בידור, אצטדיון מתייחס למקום גדול המשמש לקונצרטים, הופעות ואירועים חיים אחרים שמושכים קהל.",
+                "example": "The Red Rocks Amphitheatre in Colorado is known as one of the most spectacular outdoor concert venues, with its natural acoustics enhancing the experience.",
+                "example_hebrew": "האמפיתאטרון Red Rocks בקולורדו ידוע כאחד ממקומות ההופעות החיצוניים המרהיבים ביותר, עם האקוסטיקה הטבעית שלו שמעבירה את החוויה."
+            },
+            {
+                "definition": "A metaphorical use refers to any place or situation where a large group comes together for a common purpose. It can also describe an arena of competition or conflict.",
+                "definition_hebrew": "שימוש מטפורי מתייחס לכל מקום או מצב שבו קבוצה גדולה מתכנסת למטרה משותפת. זה יכול גם לתאר זירה של תחרות או סכסוך.",
+                "example": "The political debate was turning into a stadium, with candidates vying for the support of the electorate.",
+                "example_hebrew": "הוויכוח הפוליטי הפך לאצטדיון, עם מועמדים שהתחרו על תמיכת ציבור הבוחרים."
+            },
+            {
+                "definition": "A colloquial term may sometimes refer to any large area that can accommodate many people, not necessarily related to sports or entertainment.",
+                "definition_hebrew": "מונח דיבור יכול לפעמים להתייחס לכל אזור גדול שיכול להכיל אנשים רבים, לא בהכרח קשור לספורט או בידור.",
+                "example": "The city park was bustling with families and friends picnicking on the grassy fields, making it a kind of informal stadium for community gatherings.",
+                "example_hebrew": "הפארק העירוני היה הומה במשפחות וחברים שעשו פיקניק על שדות הדשא, מה שהפך אותו למעין אצטדיון לא רשמי למפגשים קהילתיים."
+            }
+        ]
+    }
+]

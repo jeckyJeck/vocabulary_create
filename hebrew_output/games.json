@@ -1,0 +1,34 @@
+[
+    {
+        "word": "games",
+        "word_hebrew": "משחקים",
+        "main_definition": "Games refer to activities involving one or more players, where the objective is to achieve a specific outcome using predefined rules and strategies.",
+        "main_definition_hebrew": "משחקים מתייחסים לפעילויות הכוללות שחקן אחד או יותר, כאשר המטרה היא להשיג תוצאה ספציפית באמצעות כללים ואסטרטגיות מוגדרים מראש.",
+        "meanings_and_examples": [
+            {
+                "definition": "Multiple recreational activities that involve competition between individuals or teams",
+                "definition_hebrew": "פעילויות פנאי מרובות הכוללות תחרות בין יחידים או צוותים",
+                "example": "Chess and football are popular games enjoyed by people of all ages.",
+                "example_hebrew": "שחמט וכדורגל הם משחקים פופולריים שאנשים מכל הגילאים נהנים מהם."
+            },
+            {
+                "definition": "The act of playing video games, usually involving interactive electronic entertainment",
+                "definition_hebrew": "פעולת משחקי וידאו, בדרך כלל כרוכה בבידור אלקטרוני אינטראקטיבי",
+                "example": "After school, I like to unwind by playing games on my Xbox console.",
+                "example_hebrew": "אחרי הלימודים, אני אוהב להירגע על ידי משחק בקונסולת ה-Xbox שלי."
+            },
+            {
+                "definition": "A form of social interaction or event where participants engage in playful activities for enjoyment and amusement",
+                "definition_hebrew": "סוג של אינטראקציה חברתית או אירוע שבו המשתתפים עוסקים בפעילויות משחקיות להנאה ושעשוע",
+                "example": "During family gatherings, we often have game nights with various board games and card games.",
+                "example_hebrew": "במהלך מפגשים משפחתיים, אנו עורכים לעתים קרובות ערבי משחקים עם משחקי לוח ומשחקי קלפים שונים."
+            },
+            {
+                "definition": "In programming, a set of instructions designed to solve a problem or perform a specific task",
+                "definition_hebrew": "בתכנות, סט הוראות שנועדו לפתור בעיה או לבצע משימה מסוימת",
+                "example": "The programmers used complex algorithms as part of the game's development process.",
+                "example_hebrew": "המתכנתים השתמשו באלגוריתמים מורכבים כחלק מתהליך הפיתוח של המשחק."
+            }
+        ]
+    }
+]

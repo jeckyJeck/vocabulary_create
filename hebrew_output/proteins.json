@@ -1,0 +1,40 @@
+[
+    {
+        "word": "proteins",
+        "word_hebrew": "חלבונים",
+        "main_definition": "Proteins are complex molecules that play critical roles in the body, including as enzymes, structural components, transport agents, and signaling molecules.",
+        "main_definition_hebrew": "חלבונים הם מולקולות מורכבות הממלאות תפקידים קריטיים בגוף, כולל כאנזימים, רכיבים מבניים, סוכני הובלה ומולקולות איתות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Biological macromolecules essential for life",
+                "definition_hebrew": "מקרומולקולות ביולוגיות חיוניות לחיים",
+                "example": "Enzymes like amylase help break down food in our digestive system.",
+                "example_hebrew": "אנזימים כמו עמילאז עוזרים לפרק מזון במערכת העיכול שלנו."
+            },
+            {
+                "definition": "Components of the immune system that defend against pathogens",
+                "definition_hebrew": "מרכיבים של מערכת החיסון המתגוננים מפני פתוגנים",
+                "example": "Antibodies are proteins that recognize and neutralize foreign substances in the body.",
+                "example_hebrew": "נוגדנים הם חלבונים המזהים ומנטרלים חומרים זרים בגוף."
+            },
+            {
+                "definition": "Structural elements providing support to cells and tissues",
+                "definition_hebrew": "אלמנטים מבניים המספקים תמיכה לתאים ולרקמות",
+                "example": "Collagen is a protein that provides structure and strength to skin, tendons, and ligaments.",
+                "example_hebrew": "קולגן הוא חלבון המספק מבנה וחוזק לעור, לגידים ולרצועות."
+            },
+            {
+                "definition": "Molecules involved in cellular signaling pathways",
+                "definition_hebrew": "מולקולות המעורבות במסלולי איתות תאיים",
+                "example": "Insulin is a hormone made of proteins that regulates blood sugar levels.",
+                "example_hebrew": "אינסולין הוא הורמון העשוי מחלבונים המווסת את רמות הסוכר בדם."
+            },
+            {
+                "definition": "Proteins can also refer to food products rich in these molecules, often used as dietary supplements",
+                "definition_hebrew": "חלבונים יכולים להתייחס גם למוצרי מזון העשירים במולקולות אלו, המשמשים לרוב כתוספי תזונה",
+                "example": "Whey protein powder is a popular post-workout supplement for muscle recovery and growth.",
+                "example_hebrew": "אבקת חלבון מי גבינה היא תוסף פופולרי לאחר אימון להתאוששות וצמיחה של השרירים."
+            }
+        ]
+    }
+]

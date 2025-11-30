@@ -1,0 +1,34 @@
+[
+    {
+        "word": "whose",
+        "word_hebrew": "של מי",
+        "main_definition": "Whose is a possessive pronoun used to inquire about or indicate ownership or association with someone or something previously mentioned.",
+        "main_definition_hebrew": "של מי הוא כינוי רכושני המשמש לבירור או לציין בעלות או קשר עם מישהו או משהו שהוזכר קודם לכן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Inquiring about the owner of something",
+                "definition_hebrew": "שואל לגבי הבעלים של משהו",
+                "example": "The book whose cover has been torn is on my desk.",
+                "example_hebrew": "הספר שכריכתו נקרעה נמצא על שולחני."
+            },
+            {
+                "definition": "Indicating a relationship or association with someone",
+                "definition_hebrew": "מציין מערכת יחסים או קשר עם מישהו",
+                "example": "That's Sarah's dog. Whose?",
+                "example_hebrew": "זה הכלב של שרה. של מי?"
+            },
+            {
+                "definition": "In asking for the subject of a clause when used in indirect questions",
+                "definition_hebrew": "בבקשת נושא סעיף כאשר משתמשים בשאלות עקיפות",
+                "example": "She asked me who it was that had called earlier.",
+                "example_hebrew": "היא שאלה אותי מי זה שהתקשר קודם לכן."
+            },
+            {
+                "definition": "Forming relative clauses to specify information about something or someone",
+                "definition_hebrew": "יצירת סעיפים יחסיים כדי לציין מידע על משהו או מישהו",
+                "example": "The car, whose engine is making a strange noise, needs servicing.",
+                "example_hebrew": "המכונית, שהמנוע שלה משמיע רעש מוזר, זקוקה לטיפול."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "undo",
+        "word_hebrew": "לבטל",
+        "main_definition": "To reverse or cancel the effects of an action, decision, or process.",
+        "main_definition_hebrew": "לבטל או לבטל את ההשפעות של פעולה, החלטה או תהליך.",
+        "meanings_and_examples": [
+            {
+                "definition": "To reverse a specific action that has been done previously.",
+                "definition_hebrew": "כדי להפוך פעולה ספציפית שנעשתה בעבר.",
+                "example": "I accidentally deleted my homework file, but I managed to undo it by restoring the backup.",
+                "example_hebrew": "מחקתי בטעות את קובץ שיעורי הבית שלי, אבל הצלחתי לבטל אותו על ידי שחזור הגיבוי."
+            },
+            {
+                "definition": "To cancel out or negate an effect of another process or decision.",
+                "definition_hebrew": "לבטל או לשלול השפעה של תהליך או החלטה אחרת.",
+                "example": "The referee's incorrect call was quickly undone when he realized his mistake and corrected the score.",
+                "example_hebrew": "הקריאה השגויה של השופט בוטלה במהירות כשהבין את טעותו ותיקן את התוצאה."
+            },
+            {
+                "definition": "In programming, to revert a file to its previous state using version control systems like Git.",
+                "definition_hebrew": "בתכנות, להחזיר קובץ למצבו הקודם באמצעות מערכות בקרת גרסאות כמו Git.",
+                "example": "After introducing new changes in my code, I used 'git checkout' command to undo them and restore the previous version.",
+                "example_hebrew": "לאחר הצגת שינויים חדשים בקוד שלי, השתמשתי בפקודה 'git checkout' כדי לבטל אותם ולשחזר את הגרסה הקודמת."
+            },
+            {
+                "definition": "To remove or get rid of something that was done earlier.",
+                "definition_hebrew": "כדי להסיר או להיפטר ממשהו שנעשה קודם לכן.",
+                "example": "I decided to undo painting my room green by repainting it with a neutral color instead.",
+                "example_hebrew": "החלטתי לבטל את צביעת החדר שלי בירוק על ידי צביעה מחדש בצבע ניטרלי במקום."
+            }
+        ]
+    }
+]

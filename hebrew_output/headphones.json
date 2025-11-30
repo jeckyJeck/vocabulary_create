@@ -1,0 +1,40 @@
+[
+    {
+        "word": "headphones",
+        "word_hebrew": "אוזניות",
+        "main_definition": "Headphones are a personal audio device designed to deliver sound directly into the ears of the user, providing an isolated listening experience without disturbing others.",
+        "main_definition_hebrew": "אוזניות הן התקן שמע אישי שנועד לספק צליל ישירות לאוזני המשתמש, לספק חווית האזנה מבודדת מבלי להפריע לאחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Audio devices for private listening",
+                "definition_hebrew": "מכשירי שמע להאזנה פרטית",
+                "example": "John uses headphones to listen to his favorite music while working.",
+                "example_hebrew": "ג'ון משתמש באוזניות כדי להאזין למוזיקה האהובה עליו בזמן העבודה."
+            },
+            {
+                "definition": "Noise-canceling feature for reducing external sound interference",
+                "definition_hebrew": "תכונת ביטול רעשים להפחתת הפרעות צליל חיצוניות",
+                "example": "Sarah enjoys her movie experience with noise-cancelling headphones that block out ambient noises.",
+                "example_hebrew": "שרה נהנית מחוויית הסרט שלה עם אוזניות מבטלות רעשים שחוסמות את רעשי הסביבה."
+            },
+            {
+                "definition": "Wired or wireless connection to a device",
+                "definition_hebrew": "חיבור קווי או אלחוטי למכשיר",
+                "example": "Michael prefers wired headphones for his gaming console due to their high audio quality and low latency.",
+                "example_hebrew": "מייקל מעדיף אוזניות חוטיות עבור קונסולת המשחקים שלו בשל איכות השמע הגבוהה והשהייה הנמוכה שלהן."
+            },
+            {
+                "definition": "Comfortable over-ear design with cushioned ear cups",
+                "definition_hebrew": "עיצוב נוח מעל האוזן עם כוסות אוזניים מרופדות",
+                "example": "After long flights, Lisa finds relief in using her soft, comfortable headphones that massage her ears.",
+                "example_hebrew": "אחרי טיסות ארוכות, ליסה מוצאת הקלה בשימוש באוזניות הרכות והנוחות שלה שמעסות את אוזניה."
+            },
+            {
+                "definition": "Integrated microphone for hands-free communication or recording",
+                "definition_hebrew": "מיקרופון משולב לתקשורת או הקלטה ללא ידיים",
+                "example": "During video conferences, David uses his headphones with a built-in microphone to communicate effectively while multitasking.",
+                "example_hebrew": "במהלך ועידות וידאו, דיוויד משתמש באוזניות שלו עם מיקרופון מובנה כדי לתקשר ביעילות תוך ריבוי משימות."
+            }
+        ]
+    }
+]

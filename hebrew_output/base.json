@@ -1,0 +1,46 @@
+[
+    {
+        "word": "base",
+        "word_hebrew": "בסיס",
+        "main_definition": "The foundation or starting point of something; a place where operations are carried out.",
+        "main_definition_hebrew": "הבסיס או נקודת המוצא של משהו; מקום שבו מתבצעות פעולות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A physical location, usually low-lying and flat, that serves as the groundwork for various activities such as military operations or sports events.",
+                "definition_hebrew": "מקום פיזי, לרוב נמוך ושטוח, המשמש בסיס לפעילויות שונות כמו מבצעים צבאיים או אירועי ספורט.",
+                "example": "The soldiers set up their base camp near the river to have access to water.",
+                "example_hebrew": "החיילים הקימו את מחנה הבסיס שלהם ליד הנהר כדי לקבל גישה למים."
+            },
+            {
+                "definition": "In mathematics and finance, it refers to a fixed amount of money that is used as a reference for calculating interest, earnings, or payments.",
+                "definition_hebrew": "במתמטיקה ובפיננסים, הכוונה היא לסכום כסף קבוע המשמש כאסמכתא לחישוב ריבית, רווחים או תשלומים.",
+                "example": "If I invest $1000 at an annual interest rate of 5%, my base amount will grow by $50 each year.",
+                "example_hebrew": "אם אני משקיע 1000$ בריבית שנתית של 5%, הסכום הבסיסי שלי יגדל ב-50$ בכל שנה."
+            },
+            {
+                "definition": "The main point or starting idea that something is based on; the foundation for a theory, argument, etc.",
+                "definition_hebrew": "הנקודה העיקרית או רעיון ההתחלה שמשהו מבוסס עליו; הבסיס לתיאוריה, טיעון וכו'.",
+                "example": "This novel is based on the author's experiences growing up in rural India.",
+                "example_hebrew": "רומן זה מבוסס על חוויותיו של המחבר שגדל בכפרי הודו."
+            },
+            {
+                "definition": "In baseball and other sports, it refers to a player who starts each game as part of the initial lineup.",
+                "definition_hebrew": "בבייסבול ובענפי ספורט אחרים, זה מתייחס לשחקן שמתחיל כל משחק כחלק מההרכב הראשוני.",
+                "example": "The team's best base runner led off for most of their innings today.",
+                "example_hebrew": "רץ הבסיס הטוב ביותר של הקבוצה הוביל את רוב הסיבובים שלהם היום."
+            },
+            {
+                "definition": "In chemistry, it is an ion or molecue that forms when atoms combine and electrons are shared or transferred to create a stable structure.",
+                "definition_hebrew": "בכימיה, זהו יון או מולקולה שנוצרים כאשר אטומים מתאחדים ואלקטרונים משותפים או מועברים ליצירת מבנה יציב.",
+                "example": "The compound calcium carbonate consists of one calcium base ion surrounded by two carbonate ions.",
+                "example_hebrew": "התרכובת סידן פחמתי מורכבת מיון בסיס סידן אחד המוקף בשני יוני קרבונט."
+            },
+            {
+                "definition": "In music, it refers to the fundamental pitch on which a piece of music is based; in other words, its root note.",
+                "definition_hebrew": "במוזיקה, זה מתייחס לגובה היסוד שעליו מבוססת יצירה מוזיקלית; במילים אחרות, הערת השורש שלו.",
+                "example": "The melody is written in C major, so the base note for this song is C.",
+                "example_hebrew": "הלחן כתוב בדו מז'ור, ולכן תו הבסיס לשיר זה הוא סי."
+            }
+        ]
+    }
+]

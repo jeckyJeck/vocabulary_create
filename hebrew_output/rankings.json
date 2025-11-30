@@ -1,0 +1,40 @@
+[
+    {
+        "word": "rankings",
+        "word_hebrew": "דירוגים",
+        "main_definition": "Rankings refer to the ordered list or position of items, individuals, organizations, or entities based on a specific criteria or set of criteria.",
+        "main_definition_hebrew": "דירוגים מתייחסים לרשימה המסודרת או למיקום של פריטים, אנשים, ארגונים או ישויות בהתבסס על קריטריונים ספציפיים או סט קריטריונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A method for ordering teams, players, or products according to their performance in a given category (e.g., sports leagues).",
+                "definition_hebrew": "שיטה להזמנת קבוצות, שחקנים או מוצרים לפי הביצועים שלהם בקטגוריה נתונה (למשל, ליגות ספורט).",
+                "example": "The soccer rankings showed Team A at the top due to their consistent wins throughout the season.",
+                "example_hebrew": "דירוג הכדורגל הראה את קבוצה A בראש הניצחונות העקביים שלה לאורך העונה."
+            },
+            {
+                "definition": "A list that ranks countries based on various socio-economic indicators such as GDP, education level, or healthcare quality.",
+                "definition_hebrew": "רשימה המדרגת מדינות על סמך מדדים סוציו-אקונומיים שונים כמו תוצר, רמת השכלה או איכות שירותי הבריאות.",
+                "example": "The World Bank's global development rankings place Country X ahead of others in terms of income per capita.",
+                "example_hebrew": "דירוג הפיתוח העולמי של הבנק העולמי מציב את המדינה X לפני האחרות מבחינת הכנסה לנפש."
+            },
+            {
+                "definition": "Ranking the popularity or relevance of certain keywords within a particular field (e.g., search engine results pages).",
+                "definition_hebrew": "דירוג הפופולריות או הרלוונטיות של מילות מפתח מסוימות בתחום מסוים (למשל, דפי תוצאות של מנוע חיפוש).",
+                "example": "The keyword ranking list helped marketers identify which phrases to target in their online advertising campaigns.",
+                "example_hebrew": "רשימת הדירוג של מילות המפתח עזרה למשווקים לזהות לאילו ביטויים למקד במסעות הפרסום המקוונים שלהם."
+            },
+            {
+                "definition": "An evaluation based on set criteria, often used by businesses or organizations to compare themselves with others in the same industry.",
+                "definition_hebrew": "הערכה המבוססת על קריטריונים מוגדרים, המשמשת לרוב עסקים או ארגונים כדי להשוות את עצמם עם אחרים באותו ענף.",
+                "example": "This year's rankings show that Company B has improved its position significantly compared to last year's results.",
+                "example_hebrew": "מדירוג השנה עולה כי חברה ב' שיפרה את מעמדה באופן משמעותי בהשוואה לתוצאות אשתקד."
+            },
+            {
+                "definition": "Ranking of colleges and universities based on their academic reputation, research output, or other criteria.",
+                "definition_hebrew": "דירוג מכללות ואוניברסיטאות בהתבסס על המוניטין האקדמי שלהם, תפוקת המחקר או קריטריונים אחרים.",
+                "example": "The top 100 rankings are a highly respected source for students choosing where to apply for college.",
+                "example_hebrew": "100 הדירוגים המובילים הם מקור מכובד מאוד לסטודנטים הבוחרים היכן להגיש בקשה למכללה."
+            }
+        ]
+    }
+]

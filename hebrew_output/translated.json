@@ -1,0 +1,34 @@
+[
+    {
+        "word": "translated",
+        "word_hebrew": "מְתוּרגָם",
+        "main_definition": "To convert the written or spoken content of one language into another while maintaining its original meaning, tone, and context.",
+        "main_definition_hebrew": "להמיר את התוכן הכתוב או המדובר של שפה אחת לאחרת תוך שמירה על המשמעות המקורית, הטון וההקשר שלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of converting written text from one language to another",
+                "definition_hebrew": "פעולת המרת טקסט כתוב משפה אחת לאחרת",
+                "example": "The book was translated into Spanish.",
+                "example_hebrew": "הספר תורגם לספרדית."
+            },
+            {
+                "definition": "To express or convey the meaning of something in a different language",
+                "definition_hebrew": "להביע או להעביר את המשמעות של משהו בשפה אחרת",
+                "example": "She translated his words for her non-English speaking friends.",
+                "example_hebrew": "היא תרגמה את דבריו עבור חבריה שאינם דוברי אנגלית."
+            },
+            {
+                "definition": "A version of an original work that has been altered to fit the culture, context, and style of another language",
+                "definition_hebrew": "גרסה של יצירה מקורית ששונתה כדי להתאים לתרבות, להקשר ולסגנון של שפה אחרת",
+                "example": "The movie was originally in French but had subtitles translated into English.",
+                "example_hebrew": "הסרט היה במקור בצרפתית אבל תורגמו כתוביות לאנגלית."
+            },
+            {
+                "definition": "To adapt or modify a piece of content so that it can be understood by speakers of different languages",
+                "definition_hebrew": "להתאים או לשנות קטע תוכן כך שיהיה מובן על ידי דוברי שפות שונות",
+                "example": "The software allows users to translate interface text for international markets.",
+                "example_hebrew": "התוכנה מאפשרת למשתמשים לתרגם טקסט ממשק לשווקים בינלאומיים."
+            }
+        ]
+    }
+]

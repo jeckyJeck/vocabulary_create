@@ -1,0 +1,40 @@
+[
+    {
+        "word": "ratio",
+        "word_hebrew": "יַחַס",
+        "main_definition": "Ratio is a mathematical term referring to the quantitative relation between two amounts, showing the number of times one value contains or is contained within the other.",
+        "main_definition_hebrew": "יחס הוא מונח מתמטי המתייחס ליחס הכמותי בין שני סכומים, המראה את מספר הפעמים שערך אחד מכיל או כלול בתוך השני.",
+        "meanings_and_examples": [
+            {
+                "definition": "A method for comparing quantities",
+                "definition_hebrew": "שיטה להשוואת כמויות",
+                "example": "The ratio of boys to girls in the classroom is 2:3.",
+                "example_hebrew": "היחס בין בנים לבנות בכיתה הוא 2:3."
+            },
+            {
+                "definition": "Proportion or rate between two related things",
+                "definition_hebrew": "פרופורציה או שיעור בין שני דברים קשורים",
+                "example": "The price-to-earnings ratio helps investors assess a company's valuation compared to its earnings.",
+                "example_hebrew": "יחס המחיר לרווח מסייע למשקיעים להעריך את הערכת השווי של חברה בהשוואה לרווחיה."
+            },
+            {
+                "definition": "A comparison of the number of times one thing is as large as another",
+                "definition_hebrew": "השוואה של מספר הפעמים שדבר אחד גדול כמו אחר",
+                "example": "In baking, the ratio of flour to water determines the consistency of dough.",
+                "example_hebrew": "באפייה, היחס בין קמח למים קובע את עקביות הבצק."
+            },
+            {
+                "definition": "The relationship between two quantities expressed as a fraction",
+                "definition_hebrew": "הקשר בין שתי כמויות המבוטאות כשבר",
+                "example": "If you mix 2 cups of sugar with 3 cups of flour, the ratio of sugar to flour is 2:3.",
+                "example_hebrew": "אם מערבבים 2 כוסות סוכר עם 3 כוסות קמח, היחס בין סוכר לקמח הוא 2:3."
+            },
+            {
+                "definition": "A specific numerical expression indicating how many times one quantity contains another",
+                "definition_hebrew": "ביטוי מספרי ספציפי המציין כמה פעמים כמות אחת מכילה אחרת",
+                "example": "The golden ratio (approximately 1.618) often appears in nature and art, signifying aesthetic balance.",
+                "example_hebrew": "יחס הזהב (בערך 1.618) מופיע לעתים קרובות בטבע ובאמנות, ומסמל איזון אסתטי."
+            }
+        ]
+    }
+]

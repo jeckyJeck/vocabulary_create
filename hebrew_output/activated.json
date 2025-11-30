@@ -1,0 +1,34 @@
+[
+    {
+        "word": "activated",
+        "word_hebrew": "מוּפעָל",
+        "main_definition": "To make something operational or initiate a process, often by applying energy or force.",
+        "main_definition_hebrew": "לגרום למשהו לפעול או ליזום תהליך, לעתים קרובות על ידי הפעלת אנרגיה או כוח.",
+        "meanings_and_examples": [
+            {
+                "definition": "To cause an electronic device to turn on and start functioning.",
+                "definition_hebrew": "כדי לגרום למכשיר אלקטרוני להידלק ולהתחיל לתפקד.",
+                "example": "Pressing the power button activated my alarm clock.",
+                "example_hebrew": "לחיצה על כפתור ההפעלה הפעילה את השעון המעורר שלי."
+            },
+            {
+                "definition": "To initiate a chemical reaction or process in biology, such as turning on genes.",
+                "definition_hebrew": "ליזום תגובה או תהליך כימי בביולוגיה, כגון הפעלת גנים.",
+                "example": "The scientist used an enzyme to activate certain proteins within the cell culture.",
+                "example_hebrew": "המדען השתמש באנזים כדי להפעיל חלבונים מסוימים בתרבית התא."
+            },
+            {
+                "definition": "To engage or start up a system, network, or mechanism.",
+                "definition_hebrew": "להפעיל או להפעיל מערכת, רשת או מנגנון.",
+                "example": "Activating the security alarm alerted us to potential danger.",
+                "example_hebrew": "הפעלת אזעקת האבטחה התריעה בפנינו על סכנה אפשרית."
+            },
+            {
+                "definition": "To make an email or message visible by sending it.",
+                "definition_hebrew": "כדי להפוך אימייל או הודעה לגלויים על ידי שליחתם.",
+                "example": "By activated response, I made my reply to her email available in our conversation thread.",
+                "example_hebrew": "בתגובה מופעלת, הפכתי את התשובה שלי לדוא\"ל שלה לזמינה בשרשור השיחה שלנו."
+            }
+        ]
+    }
+]

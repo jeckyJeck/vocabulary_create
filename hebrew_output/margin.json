@@ -1,0 +1,40 @@
+[
+    {
+        "word": "margin",
+        "word_hebrew": "שולים",
+        "main_definition": "Margin refers to the edge, border, or space around a printed or written material, as well as representing a financial concept related to profit or loss.",
+        "main_definition_hebrew": "שוליים מתייחסים לקצה, לגבול או לרווח סביב חומר מודפס או כתוב, כמו גם מייצג מושג פיננסי הקשור לרווח או הפסד.",
+        "meanings_and_examples": [
+            {
+                "definition": "The boundary or edge of something",
+                "definition_hebrew": "הגבול או הקצה של משהו",
+                "example": "She carefully trimmed the margins of her paper to ensure all text fit within.",
+                "example_hebrew": "היא גזרה בזהירות את השוליים של הנייר שלה כדי להבטיח שכל הטקסט מתאים פנימה."
+            },
+            {
+                "definition": "The area between two parallel lines, such as in a graph or chart",
+                "definition_hebrew": "השטח בין שני קווים מקבילים, כגון בגרף או בתרשים",
+                "example": "In this bar graph, the margin represents the difference in height between adjacent bars.",
+                "example_hebrew": "בגרף עמודות זה, השוליים מייצגים את ההבדל בגובה בין עמודים סמוכים."
+            },
+            {
+                "definition": "Additional space surrounding written text within documents, books, and other printed materials",
+                "definition_hebrew": "מקום נוסף סביב טקסט כתוב בתוך מסמכים, ספרים וחומרים מודפסים אחרים",
+                "example": "The left margin of my essay is uneven because I did not align it properly.",
+                "example_hebrew": "השוליים השמאליים של החיבור שלי אינם אחידים כי לא יישרתי אותו כראוי."
+            },
+            {
+                "definition": "A small amount of profit that remains after all expenses have been paid in a business context",
+                "definition_hebrew": "רווח קטן שנותר לאחר ששולמו כל ההוצאות בהקשר עסקי",
+                "example": "Company X has a healthy margin, allowing them to invest in new projects and expand their operations.",
+                "example_hebrew": "לחברה X יש מרווח בריא, המאפשר לה להשקיע בפרויקטים חדשים ולהרחיב את פעילותה."
+            },
+            {
+                "definition": "A portion or excess left over when something is divided up into parts",
+                "definition_hebrew": "חלק או עודף שנשאר כאשר משהו מחולק לחלקים",
+                "example": "She had enough ingredients left over that she could make another batch of cookies without buying more supplies.",
+                "example_hebrew": "נשארו לה מספיק מרכיבים כדי שתוכל להכין עוד אצווה של עוגיות מבלי לקנות עוד מצרכים."
+            }
+        ]
+    }
+]

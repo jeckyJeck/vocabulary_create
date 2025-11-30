@@ -1,0 +1,40 @@
+[
+    {
+        "word": "intervention",
+        "word_hebrew": "התערבות",
+        "main_definition": "An action or event that is intended to alter a course of events, often to improve the outcome.",
+        "main_definition_hebrew": "פעולה או אירוע שנועדו לשנות מהלך אירועים, לעתים קרובות כדי לשפר את התוצאה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A step taken to stop an ongoing situation from worsening.",
+                "definition_hebrew": "צעד שננקט כדי למנוע החמרה של מצב מתמשך.",
+                "example": "The government's intervention in the economy helped stabilize inflation rates.",
+                "example_hebrew": "התערבות הממשלה בכלכלה סייעה לייצב את שיעורי האינפלציה."
+            },
+            {
+                "definition": "An attempt to help or improve a situation, especially by offering aid or assistance.",
+                "definition_hebrew": "ניסיון לעזור או לשפר מצב, במיוחד על ידי מתן עזרה או סיוע.",
+                "example": "Doctors intervened by administering first-aid to the injured hikers.",
+                "example_hebrew": "רופאים התערבו על ידי מתן עזרה ראשונה למטיילים הפצועים."
+            },
+            {
+                "definition": "A diplomatic action taken by one country to influence another's policies or actions.",
+                "definition_hebrew": "פעולה דיפלומטית שננקטה על ידי מדינה אחת כדי להשפיע על מדיניות או פעולות של אחרת.",
+                "example": "The UN launched an intervention in a conflict zone to protect civilians and enforce peace.",
+                "example_hebrew": "האו\"ם פתח בהתערבות באזור סכסוך כדי להגן על אזרחים ולאכוף שלום."
+            },
+            {
+                "definition": "An organized activity, typically conducted by professionals, aimed at addressing a specific issue or problem.",
+                "definition_hebrew": "פעילות מאורגנת, הנערכת בדרך כלל על ידי אנשי מקצוע, שמטרתה לטפל בבעיה או בעיה ספציפית.",
+                "example": "A professional intervention was carried out to resolve the communication breakdown within the team.",
+                "example_hebrew": "בוצעה התערבות מקצועית לפתרון התמוטטות התקשורת בתוך הצוות."
+            },
+            {
+                "definition": "The act of intervening in someone else's affairs with the intent to help them, often without their permission.",
+                "definition_hebrew": "מעשה התערבות בענייניו של מישהו אחר מתוך כוונה לעזור לו, לרוב ללא רשותו.",
+                "example": "The concerned teacher felt compelled to intervene when he noticed a student struggling academically due to personal issues.",
+                "example_hebrew": "המורה המודאג חש נאלץ להתערב כאשר הבחין בתלמיד שמתקשה בלימודים עקב בעיות אישיות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "irrigation",
+        "word_hebrew": "השקיה",
+        "main_definition": "Irrigation is the artificial application of water to land or soil to assist in the growing of agricultural crops, maintenance of landscapes, or revegetation of disturbed soils.",
+        "main_definition_hebrew": "השקיה היא יישום מלאכותי של מים על אדמה או אדמה כדי לסייע בגידול גידולים חקלאיים, תחזוקה של נופים או חידוש קרקעות מופרעות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Process of supplying water to land or crops",
+                "definition_hebrew": "תהליך אספקת מים לאדמה או לגידולים",
+                "example": "The farmer used an irrigation system to provide water to his fields during the dry season.",
+                "example_hebrew": "החקלאי השתמש במערכת השקיה כדי לספק מים לשדותיו במהלך העונה היבשה."
+            },
+            {
+                "definition": "Act of enriching something with additional elements",
+                "definition_hebrew": "פעולה של העשרת משהו באלמנטים נוספים",
+                "example": "Irrigation refers not only to water but also to the addition of fertilizers and nutrients in agricultural practices, a process known as fertigation.",
+                "example_hebrew": "השקיה מתייחסת לא רק למים אלא גם להוספת דשנים וחומרי הזנה בשיטות חקלאיות, תהליך המכונה דישון."
+            },
+            {
+                "definition": "Method or system used for distributing liquid substances",
+                "definition_hebrew": "שיטה או מערכת המשמשת להפצת חומרים נוזליים",
+                "example": "The company developed an innovative irrigation method that uses drip lines to efficiently distribute water directly to plant roots.",
+                "example_hebrew": "החברה פיתחה שיטת השקיה חדשנית המשתמשת בקווי טפטוף כדי להפיץ מים ביעילות ישירות לשורשי הצמח."
+            }
+        ]
+    }
+]

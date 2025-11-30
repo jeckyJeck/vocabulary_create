@@ -1,0 +1,28 @@
+[
+    {
+        "word": "numerical",
+        "word_hebrew": "מִספָּרִי",
+        "main_definition": "Relating to or involving numbers, especially as a contrast with qualitative expressions.",
+        "main_definition_hebrew": "התייחסות למספרים או מעורבים בהם, במיוחד כניגוד לביטויים איכותיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Concerning the use of numbers and arithmetic calculations in describing something.",
+                "definition_hebrew": "לגבי השימוש במספרים וחישובים אריתמטיים בתיאור משהו.",
+                "example": "The numerical analysis of climate data helped scientists understand temperature trends.",
+                "example_hebrew": "הניתוח המספרי של נתוני האקלים עזר למדענים להבין את מגמות הטמפרטורה."
+            },
+            {
+                "definition": "Relating to or involving counting, measuring, or expressing quantities through digits.",
+                "definition_hebrew": "מתייחס או כולל ספירה, מדידה או ביטוי של כמויות באמצעות ספרות.",
+                "example": "Numerical proficiency is essential for anyone working in finance or engineering.",
+                "example_hebrew": "מיומנות מספרית חיונית לכל מי שעובד בתחום הפיננסים או ההנדסה."
+            },
+            {
+                "definition": "Using numbers as a basis for arguments or decisions instead of qualitative assessment.",
+                "definition_hebrew": "שימוש במספרים כבסיס לטיעונים או להחלטות במקום הערכה איכותית.",
+                "example": "While some argued it was unfair, others believed that the numerical data justified the policy change.",
+                "example_hebrew": "בעוד שחלקם טענו שזה לא הוגן, אחרים האמינו שהנתונים המספריים מצדיקים את שינוי המדיניות."
+            }
+        ]
+    }
+]

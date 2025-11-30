@@ -1,0 +1,40 @@
+[
+    {
+        "word": "stock",
+        "word_hebrew": "המניה",
+        "main_definition": "Stock is a term with various meanings, referring to the supply of goods or shares available in inventory or finance.",
+        "main_definition_hebrew": "מלאי הוא מונח בעל משמעויות שונות, המתייחס לאספקת סחורות או מניות הזמינות במלאי או במימון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Financial term for equity/shares representing ownership in a company",
+                "definition_hebrew": "מונח פיננסי להון/מניות המייצגים בעלות בחברה",
+                "example": "He sold half of his stock in Apple.",
+                "example_hebrew": "הוא מכר מחצית מהמניות שלו באפל."
+            },
+            {
+                "definition": "Supply or quantity of goods available for sale",
+                "definition_hebrew": "היצע או כמות של מוצרים זמינים למכירה",
+                "example": "The toy store had plenty of stock during the holiday season.",
+                "example_hebrew": "לחנות הצעצועים היה מלאי רב בתקופת החגים."
+            },
+            {
+                "definition": "A standard unit of measurement used in accounting and finance",
+                "definition_hebrew": "יחידת מדידה סטנדרטית המשמשת בחשבונאות ובפיננסים",
+                "example": "The company's net income was calculated at 20 million shares or $20 million stock.",
+                "example_hebrew": "הרווח הנקי של החברה חושב על 20 מיליון מניות או 20 מיליון דולר מניות."
+            },
+            {
+                "definition": "Frozen goods stored for future use",
+                "definition_hebrew": "מוצרים קפואים מאוחסנים לשימוש עתידי",
+                "example": "She kept a large stock of frozen vegetables in her freezer.",
+                "example_hebrew": "היא שמרה מלאי גדול של ירקות קפואים במקפיא שלה."
+            },
+            {
+                "definition": "Animal population at a specific time and location",
+                "definition_hebrew": "אוכלוסיית בעלי חיים בזמן ובמיקום ספציפיים",
+                "example": "The wildlife reserve keeps records of the fish, bird, and mammal stocks in its ecosystem.",
+                "example_hebrew": "שמורת חיות הבר מנהלת תיעוד של מלאי הדגים, הציפורים והיונקים במערכת האקולוגית שלה."
+            }
+        ]
+    }
+]

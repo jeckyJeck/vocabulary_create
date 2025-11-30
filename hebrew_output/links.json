@@ -1,0 +1,34 @@
+[
+    {
+        "word": "links",
+        "word_hebrew": "קישורים",
+        "main_definition": "Links can refer to a connection between two or more entities, such as websites in the context of hypertext links, or chain connections like those found in fishing gear.",
+        "main_definition_hebrew": "קישורים יכולים להתייחס לקשר בין שתי ישויות או יותר, כגון אתרי אינטרנט בהקשר של קישורי היפרטקסט, או קשרי שרשרת כמו אלו המצויים בציוד דיג.",
+        "meanings_and_examples": [
+            {
+                "definition": "Connections between web pages",
+                "definition_hebrew": "חיבורים בין דפי אינטרנט",
+                "example": "She clicked on the link to go from her current page to a different webpage.",
+                "example_hebrew": "היא לחצה על הקישור כדי לעבור מהדף הנוכחי שלה לדף אינטרנט אחר."
+            },
+            {
+                "definition": "A single strand of a chain or fishing line",
+                "definition_hebrew": "גדיל בודד של שרשרת או חוט דיג",
+                "example": "He removed one of the links in his fishing line before casting it into the lake.",
+                "example_hebrew": "הוא הסיר את אחת החוליה בחוט הדיג שלו לפני שהטיל אותה לאגם."
+            },
+            {
+                "definition": "Relationships or associations between people, organizations, or ideas",
+                "definition_hebrew": "מערכות יחסים או אסוציאציות בין אנשים, ארגונים או רעיונות",
+                "example": "She expanded her professional network by connecting with industry leaders at conferences and events.",
+                "example_hebrew": "היא הרחיבה את הרשת המקצועית שלה על ידי חיבור עם מובילי התעשייה בכנסים ואירועים."
+            },
+            {
+                "definition": "A reference to a previous discussion or topic (in writing)",
+                "definition_hebrew": "הפניה לדיון או נושא קודם (בכתב)",
+                "example": "In the following paragraph, 'links' refers back to earlier points made in our argument about climate change.",
+                "example_hebrew": "בפסקה הבאה, 'קישורים' מתייחס לנקודות קודמות שהועלו בטיעון שלנו על שינויי אקלים."
+            }
+        ]
+    }
+]

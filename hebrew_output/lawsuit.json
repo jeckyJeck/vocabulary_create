@@ -1,0 +1,28 @@
+[
+    {
+        "word": "lawsuit",
+        "word_hebrew": "תביעה משפטית",
+        "main_definition": "A lawsuit is a legal action brought to court by one party against another, alleging some harm or injury caused due to the defendant's actions.",
+        "main_definition_hebrew": "תביעה היא תביעה משפטית שהוגשה לבית המשפט על ידי צד אחד נגד אחר, בטענה לנזק או פגיעה כלשהי שנגרמו עקב מעשיו של הנתבע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Legal proceeding between two parties",
+                "definition_hebrew": "הליך משפטי בין שני צדדים",
+                "example": "The company decided to file a lawsuit against its former employee for stealing confidential information.",
+                "example_hebrew": "החברה החליטה להגיש תביעה נגד עובדה לשעבר בגין גניבת מידע סודי."
+            },
+            {
+                "definition": "A dispute resolved through the court system",
+                "definition_hebrew": "סכסוך שהוכרע באמצעות מערכת בתי המשפט",
+                "example": "After years of negotiation, they finally had to resort to filing a lawsuit to settle their differences over property rights.",
+                "example_hebrew": "לאחר שנים של משא ומתן, הם נאלצו לבסוף לפנות להגשת תביעה כדי ליישב את המחלוקות ביניהם על זכויות הקניין."
+            },
+            {
+                "definition": "A case in which one party seeks compensation for damages or losses",
+                "definition_hebrew": "מקרה בו צד אחד מבקש פיצוי בגין נזקים או הפסדים",
+                "example": "The injured plaintiff filed a lawsuit against the construction company, claiming negligence led to his injuries on-site.",
+                "example_hebrew": "התובע שנפגע הגיש תביעה נגד חברת הבנייה, בטענה שרשלנות הובילה לפציעותיו במקום."
+            }
+        ]
+    }
+]

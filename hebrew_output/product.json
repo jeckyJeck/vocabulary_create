@@ -1,0 +1,46 @@
+[
+    {
+        "word": "product",
+        "word_hebrew": "מוצר",
+        "main_definition": "A result, outcome, or item that is created through a process such as manufacturing, computation, or combination of various elements.",
+        "main_definition_hebrew": "תוצאה, תוצאה או פריט שנוצרו באמצעות תהליך כגון ייצור, חישוב או שילוב של אלמנטים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In business and economics, the term 'product' refers to an item produced by a company for sale to consumers. This includes physical goods like electronics, food products, clothing, etc., as well as services offered.",
+                "definition_hebrew": "בעסקים וכלכלה, המונח 'מוצר' מתייחס לפריט המיוצר על ידי חברה למכירה לצרכנים. זה כולל מוצרים פיזיים כמו אלקטרוניקה, מוצרי מזון, ביגוד וכו', כמו גם שירותים המוצעים.",
+                "example": "The smartphone is one of our top-selling electronic products this year.",
+                "example_hebrew": "הסמארטפון הוא אחד המוצרים האלקטרוניים הנמכרים ביותר שלנו השנה."
+            },
+            {
+                "definition": "In mathematics and computer science, 'product' denotes the result obtained by multiplying two or more numbers together. This term can also extend to operations involving arrays, matrices, or other complex structures.",
+                "definition_hebrew": "במתמטיקה ומדעי המחשב, 'תוצר' מציין את התוצאה המתקבלת על ידי הכפלת שני מספרים או יותר יחד. מונח זה יכול להתרחב גם לפעולות הכוללות מערכים, מטריצות או מבנים מורכבים אחרים.",
+                "example": "The product of 4 and 5 is 20.",
+                "example_hebrew": "המכפלה של 4 ו-5 היא 20."
+            },
+            {
+                "definition": "In everyday language, 'product' might refer to the result or consequence of a process. This could be anything from the outcome of an effort (like exercise producing fitness) to natural phenomena.",
+                "definition_hebrew": "בשפה היומיומית, 'מוצר' עשוי להתייחס לתוצאה או לתוצאה של תהליך. זה יכול להיות כל דבר, החל מתוצאה של מאמץ (כמו פעילות גופנית המייצרת כושר) ועד לתופעות טבע.",
+                "example": "After months of rigorous training and practice, her performance at the piano has become a remarkable product of her dedication.",
+                "example_hebrew": "לאחר חודשים של אימונים ותרגול קפדניים, הופעתה בפסנתר הפכה לתוצר יוצא דופן של מסירותה."
+            },
+            {
+                "definition": "When used in agriculture or gardening, 'product' can refer to items that are grown on a farm or cultivated from plants. This includes fruits, vegetables, grains, and other harvestable outputs.",
+                "definition_hebrew": "בשימוש בחקלאות או בגינון, 'מוצר' יכול להתייחס לפריטים שגדלים בחווה או מעובדים מצמחים. זה כולל פירות, ירקות, דגנים ותפוקות אחרות הניתנות לקציר.",
+                "example": "The apple orchard produces an abundant variety of apples each season.",
+                "example_hebrew": "מטע התפוחים מייצר מגוון שופע של תפוחים בכל עונה."
+            },
+            {
+                "definition": "In the context of media, 'product' can describe a piece of content or work created by a creator such as a film, book, music track, or television episode.",
+                "definition_hebrew": "בהקשר של מדיה, 'מוצר' יכול לתאר פיסת תוכן או יצירה שנוצרה על ידי יוצר כגון סרט, ספר, רצועת מוזיקה או פרק טלוויזיה.",
+                "example": "The latest blockbuster movie is touted as one of our most anticipated product releases this summer.",
+                "example_hebrew": "סרט שובר הקופות האחרון נחשב לאחד מההפצות הצפויות ביותר של המוצרים בקיץ הזה."
+            },
+            {
+                "definition": "'Product' in the realm of chemistry and industry can refer to a chemical substance that has been synthesized, whether through natural extraction or laboratory production.",
+                "definition_hebrew": "'מוצר' בתחום הכימיה והתעשייה יכול להתייחס לחומר כימי שעבר סינתזה, בין אם באמצעות מיצוי טבעי או ייצור מעבדתי.",
+                "example": "The pharmaceutical company developed a new drug as their latest product.",
+                "example_hebrew": "חברת התרופות פיתחה תרופה חדשה בתור המוצר האחרון שלה."
+            }
+        ]
+    }
+]

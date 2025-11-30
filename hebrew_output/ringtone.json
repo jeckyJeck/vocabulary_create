@@ -1,0 +1,28 @@
+[
+    {
+        "word": "ringtone",
+        "word_hebrew": "רינגטון",
+        "main_definition": "A ringtone is a sound or melody played by a mobile phone or other electronic device when receiving an incoming call, often chosen to reflect the user's personal preferences.",
+        "main_definition_hebrew": "רינגטון הוא צליל או מנגינה המושמעים על ידי טלפון נייד או מכשיר אלקטרוני אחר בעת קבלת שיחה נכנסת, שנבחר לרוב כדי לשקף את העדפותיו האישיות של המשתמש.",
+        "meanings_and_examples": [
+            {
+                "definition": "Personalized audio signal for alerting users of an incoming call on their cell phones",
+                "definition_hebrew": "אות שמע מותאם אישית להתראה על שיחה נכנסת בטלפונים הסלולריים שלהם",
+                "example": "John chose a classic rock ringtone so that everyone knows he loves music.",
+                "example_hebrew": "ג'ון בחר ברינגטון רוק קלאסי כדי שכולם ידעו שהוא אוהב מוזיקה."
+            },
+            {
+                "definition": "A song or sound used to notify the presence of a phone call, often customizable by the user",
+                "definition_hebrew": "שיר או צליל המשמשים להודיע על נוכחות של שיחת טלפון, לעתים קרובות להתאמה אישית על ידי המשתמש",
+                "example": "The default ringtone on Jane's phone is a simple beep, but she prefers using popular pop songs as her personalized ringtone.",
+                "example_hebrew": "צלצול ברירת המחדל בטלפון של ג'יין הוא צפצוף פשוט, אך היא מעדיפה להשתמש בשירי פופ פופולריים כצלצול המותאם אישית שלה."
+            },
+            {
+                "definition": "A specific audio clip used to identify incoming calls in various devices beyond cell phones",
+                "definition_hebrew": "קטע שמע ספציפי המשמש לזיהוי שיחות נכנסות במכשירים שונים מעבר לטלפונים סלולריים",
+                "example": "Alex uses the same cheerful jingle on his home answering machine and his smartwatch as a universal ringtone for all his gadgets.",
+                "example_hebrew": "אלכס משתמש באותו ג'ינגל עליז במשיבון הביתי שלו ובשעון החכם שלו כצלצול אוניברסלי לכל הגאדג'טים שלו."
+            }
+        ]
+    }
+]

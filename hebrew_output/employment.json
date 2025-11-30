@@ -1,0 +1,34 @@
+[
+    {
+        "word": "employment",
+        "word_hebrew": "תעסוקה",
+        "main_definition": "The state of having a paid job or being engaged in work, particularly as one's regular means of livelihood.",
+        "main_definition_hebrew": "המצב של עבודה בשכר או עיסוק בעבודה, במיוחד כאמצעי פרנסה קבוע.",
+        "meanings_and_examples": [
+            {
+                "definition": "A person who is hired to perform a specific job and receives compensation for their services.",
+                "definition_hebrew": "אדם שמתקבל לעבודה ספציפית ומקבל תמורה עבור שירותיו.",
+                "example": "John found employment at the local bookstore, where he works as a sales associate.",
+                "example_hebrew": "ג'ון מצא עבודה בחנות הספרים המקומית, שם הוא עובד כשותף מכירות."
+            },
+            {
+                "definition": "The act of providing someone with work or opportunities in a particular field.",
+                "definition_hebrew": "הפעולה של מתן עבודה או הזדמנויות למישהו בתחום מסוים.",
+                "example": "The company's recruitment team is responsible for finding and offering employment to qualified candidates.",
+                "example_hebrew": "צוות הגיוס של החברה אחראי על מציאת והצעת תעסוקה למועמדים מתאימים."
+            },
+            {
+                "definition": "The legal relationship between an employer and employee, including rights, responsibilities, and benefits associated with the job.",
+                "definition_hebrew": "היחסים המשפטיים בין מעסיק לעובד, לרבות זכויות, חובות והטבות הקשורות לעבודה.",
+                "example": "Her new employment contract outlines her working hours, salary, and leave entitlements.",
+                "example_hebrew": "חוזה העבודה החדש שלה מתאר את שעות העבודה, השכר והזכאות לחופשה."
+            },
+            {
+                "definition": "Engaging in or participating in paid work activities to earn income.",
+                "definition_hebrew": "עיסוק או השתתפות בפעילויות עבודה בתשלום כדי להרוויח הכנסה.",
+                "example": "After graduating from college, Jane started seeking employment to support herself financially.",
+                "example_hebrew": "לאחר שסיימה את לימודיה בקולג', ג'יין החלה לחפש עבודה כדי לפרנס את עצמה כלכלית."
+            }
+        ]
+    }
+]

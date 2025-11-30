@@ -1,0 +1,28 @@
+[
+    {
+        "word": "wifi",
+        "word_hebrew": "וויי - פיי",
+        "main_definition": "Wi-Fi is a technology that allows electronic devices to connect to a wireless local area network (LAN), usually using the 2.4 gigahertz or 5 gigahertz radio band, and provides internet access without requiring physical connections.",
+        "main_definition_hebrew": "Wi-Fi היא טכנולוגיה המאפשרת למכשירים אלקטרוניים להתחבר לרשת מקומית אלחוטית (LAN), בדרך כלל באמצעות רצועת הרדיו של 2.4 גיגה-הרץ או 5 גיגה-הרץ, ומספקת גישה לאינטרנט ללא צורך בחיבורים פיזיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A method for accessing the internet wirelessly",
+                "definition_hebrew": "שיטה לגישה לאינטרנט אלחוטית",
+                "example": "I can't work on my laptop outside because there is no Wi-Fi available.",
+                "example_hebrew": "אני לא יכול לעבוד על המחשב הנייד שלי בחוץ כי אין אינטרנט אלחוטי זמין."
+            },
+            {
+                "definition": "Wireless networking technology based on IEEE 802.11 standards",
+                "definition_hebrew": "טכנולוגיית רשת אלחוטית המבוססת על תקני IEEE 802.11",
+                "example": "My smartphone connects to the home network using Wifi, allowing me to stream videos online.",
+                "example_hebrew": "הטלפון החכם שלי מתחבר לרשת הביתית באמצעות Wifi, ומאפשר לי להזרים סרטונים באינטרנט."
+            },
+            {
+                "definition": "A brand name for a range of wireless router devices manufactured by Linksys (a Cisco Systems company)",
+                "definition_hebrew": "שם מותג למגוון התקני נתב אלחוטי המיוצרים על ידי Linksys (חברת Cisco Systems)",
+                "example": "I need to buy a new WiFi router because my old one stopped working properly.",
+                "example_hebrew": "אני צריך לקנות נתב WiFi חדש כי הישן שלי הפסיק לעבוד כמו שצריך."
+            }
+        ]
+    }
+]

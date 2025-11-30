@@ -1,0 +1,34 @@
+[
+    {
+        "word": "inquire",
+        "word_hebrew": "לברר",
+        "main_definition": "to seek information or an explanation about something by asking questions.",
+        "main_definition_hebrew": "לחפש מידע או הסבר על משהו על ידי שאילת שאלות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To ask a question formally in order to obtain information.",
+                "definition_hebrew": "לשאול שאלה באופן רשמי על מנת לקבל מידע.",
+                "example": "I will inquire with the manager about the delay of our project.",
+                "example_hebrew": "אני אברר עם המנהל לגבי העיכוב בפרויקט שלנו."
+            },
+            {
+                "definition": "Seeking out details by asking questions or requesting facts from someone.",
+                "definition_hebrew": "חיפוש פרטים על ידי שאילת שאלות או בקשת עובדות ממישהו.",
+                "example": "After hearing rumors, she decided to inquire further into her friend's sudden change in behavior.",
+                "example_hebrew": "לאחר ששמעה שמועות, היא החליטה לברר עוד על השינוי הפתאומי של חברתה בהתנהגות."
+            },
+            {
+                "definition": "To investigate or examine something closely for information.",
+                "definition_hebrew": "לחקור או לבחון משהו מקרוב לקבלת מידע.",
+                "example": "The detective began to inquire about the suspect's whereabouts on the night of the crime.",
+                "example_hebrew": "הבלש החל לברר את מקום הימצאו של החשוד בליל הפשע."
+            },
+            {
+                "definition": "A formal request for specific data or details from a person, organization, or official body.",
+                "definition_hebrew": "בקשה רשמית לנתונים או פרטים ספציפיים מאדם, ארגון או גוף רשמי.",
+                "example": "When applying for a loan, you must complete an inquiry form with your personal and financial information.",
+                "example_hebrew": "בעת הגשת בקשה להלוואה, עליך למלא טופס בירור עם המידע האישי והפיננסי שלך."
+            }
+        ]
+    }
+]

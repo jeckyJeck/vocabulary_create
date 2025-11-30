@@ -1,0 +1,40 @@
+[
+    {
+        "word": "surfaces",
+        "word_hebrew": "משטחים",
+        "main_definition": "The outer layers or exposed parts of an object, substance, or area.",
+        "main_definition_hebrew": "השכבות החיצוניות או החלקים החשופים של חפץ, חומר או אזור.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of physical objects, refers to the exterior layer that is visible and touchable.",
+                "definition_hebrew": "בהקשר של אובייקטים פיזיים, מתייחס לשכבה החיצונית הנראית לעין וניתנת למגע.",
+                "example": "When painting a room, you have to apply paint evenly on all surfaces.",
+                "example_hebrew": "כאשר צובעים חדר, יש ליישם צבע באופן שווה על כל המשטחים."
+            },
+            {
+                "definition": "In computing and data storage, it relates to an area where information can be accessed or written to.",
+                "definition_hebrew": "במחשוב ואחסון נתונים, זה מתייחס לאזור שבו ניתן לגשת למידע או לכתוב אליו.",
+                "example": "The file system allows users to save documents directly onto the surfaces of a disk drive.",
+                "example_hebrew": "מערכת הקבצים מאפשרת למשתמשים לשמור מסמכים ישירות על פני השטח של כונן דיסקים."
+            },
+            {
+                "definition": "Used in geography to describe the outer layer of landforms that are exposed and accessible.",
+                "definition_hebrew": "משמש בגיאוגרפיה לתיאור השכבה החיצונית של צורות קרקע חשופות ונגישות.",
+                "example": "Mountain climbers explore new routes on the untamed surfaces of various peaks.",
+                "example_hebrew": "מטפסי הרים חוקרים מסלולים חדשים על משטחים בלתי מאולפים של פסגות שונות."
+            },
+            {
+                "definition": "An idiomatic expression referring to becoming aware or noticing something, often after it has been hidden or overlooked.",
+                "definition_hebrew": "ביטוי אידיומטי המתייחס להיות מודע או לשים לב למשהו, לעתים קרובות לאחר שהוסתר או התעלמו ממנו.",
+                "example": "After reading her friend's diary by accident, she realized a lot had changed about their relationship; it was like surfaces were now visible.",
+                "example_hebrew": "לאחר שקראה במקרה את יומנה של חברתה, היא הבינה שהרבה השתנה ביחסים ביניהם; זה היה כאילו משטחים נראים כעת."
+            },
+            {
+                "definition": "In psychology and emotional contexts, referring to the outward manifestations of feelings or attitudes.",
+                "definition_hebrew": "בפסיכולוגיה ובהקשרים רגשיים, הכוונה לביטויים חיצוניים של רגשות או עמדות.",
+                "example": "The patient's surface behavior didn't match his deep-seated issues that he was facing.",
+                "example_hebrew": "התנהגות פני השטח של המטופל לא תאמה את הבעיות העמוקות שלו שעמן הוא מתמודד."
+            }
+        ]
+    }
+]

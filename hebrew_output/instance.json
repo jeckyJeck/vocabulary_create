@@ -1,0 +1,34 @@
+[
+    {
+        "word": "instance",
+        "word_hebrew": "למשל",
+        "main_definition": "An example or case that illustrates a particular quality, characteristic, or situation.",
+        "main_definition_hebrew": "דוגמה או מקרה הממחיש איכות, מאפיין או מצב מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A specific occurrence of something mentioned generally or in general terms.",
+                "definition_hebrew": "התרחשות ספציפית של משהו שהוזכר באופן כללי או כללי.",
+                "example": "The first instance of the new product's launch was highly successful.",
+                "example_hebrew": "המקרה הראשון של השקת המוצר החדש היה מוצלח ביותר."
+            },
+            {
+                "definition": "An individual case that represents a category, group, or class.",
+                "definition_hebrew": "מקרה בודד המייצג קטגוריה, קבוצה או מחלקה.",
+                "example": "This is an example (or instance) of how climate change affects different ecosystems.",
+                "example_hebrew": "זוהי דוגמה (או דוגמה) לאופן שבו שינויי האקלים משפיעים על מערכות אקולוגיות שונות."
+            },
+            {
+                "definition": "A single occurrence of something being demonstrated or explained in practical terms.",
+                "definition_hebrew": "התרחשות בודדת של משהו שמוצג או מוסבר במונחים מעשיים.",
+                "example": "The teacher used various instances to demonstrate the concept of gravity.",
+                "example_hebrew": "המורה השתמש במופעים שונים כדי להדגים את מושג הכבידה."
+            },
+            {
+                "definition": "An instance where a rule, principle, or law is applied and illustrated.",
+                "definition_hebrew": "מקרה שבו כלל, עיקרון או חוק מיושמים ומומחשים.",
+                "example": "In this legal case, the court ruled based on an instance similar to previous cases.",
+                "example_hebrew": "בתיק משפטי זה פסק בית המשפט בהתבסס על משפט דומה למקרים קודמים."
+            }
+        ]
+    }
+]

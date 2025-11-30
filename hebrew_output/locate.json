@@ -1,0 +1,28 @@
+[
+    {
+        "word": "locate",
+        "word_hebrew": "לְאַתֵר",
+        "main_definition": "To find the position or place of something, usually by using a map, GPS system, or other means.",
+        "main_definition_hebrew": "כדי למצוא את המיקום או המקום של משהו, בדרך כלל באמצעות מפה, מערכת GPS או אמצעים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Find out where something is situated.",
+                "definition_hebrew": "גלה היכן משהו ממוקם.",
+                "example": "I need to locate my lost keys before I can leave the house.",
+                "example_hebrew": "אני צריך לאתר את המפתחות האבודים שלי לפני שאוכל לצאת מהבית."
+            },
+            {
+                "definition": "Determine or establish the position of a person, place, object, etc.",
+                "definition_hebrew": "לקבוע או לקבוע את עמדתו של אדם, מקום, חפץ וכו'.",
+                "example": "The police were able to locate the abandoned car in the parking lot.",
+                "example_hebrew": "המשטרה הצליחה לאתר את המכונית הנטושה בחניון."
+            },
+            {
+                "definition": "Make something's location known to someone else.",
+                "definition_hebrew": "הכר את מיקומו של משהו למישהו אחר.",
+                "example": "Please locate your contact information so I can send you an invitation.",
+                "example_hebrew": "אנא אתר את פרטי הקשר שלך כדי שאוכל לשלוח לך הזמנה."
+            }
+        ]
+    }
+]

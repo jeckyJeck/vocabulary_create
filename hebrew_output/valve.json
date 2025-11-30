@@ -1,0 +1,40 @@
+[
+    {
+        "word": "valve",
+        "word_hebrew": "שסתום",
+        "main_definition": "A valve is a device that regulates, controls or directs the flow of fluids (gases, liquids, fluidized solids, or slurries) by opening, closing, or partially obstructing various passageways.",
+        "main_definition_hebrew": "שסתום הוא מכשיר המווסת, שולט או מכוון את זרימת הנוזלים (גזים, נוזלים, מוצקים מנוזלים או תמיסות) על ידי פתיחה, סגירה או חסימה חלקית של מעברים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In a mechanical sense, a valve is a device that controls the flow of liquid or gas in a pipe system.",
+                "definition_hebrew": "במובן מכני, שסתום הוא מכשיר השולט בזרימת הנוזל או הגז במערכת צינורות.",
+                "example": "The water pressure regulator uses a valve to control the amount of water entering your home.",
+                "example_hebrew": "ווסת לחץ המים משתמש בשסתום כדי לשלוט בכמות המים הנכנסת לביתך."
+            },
+            {
+                "definition": "In medicine, a heart valve refers to the flaps (cusps) within the heart that open and close with each heartbeat.",
+                "definition_hebrew": "ברפואה, מסתם לב מתייחס לדשים (קודקודים) בתוך הלב הנפתחים ונסגרים עם כל פעימת לב.",
+                "example": "Patients with faulty heart valves may require surgery to repair or replace them.",
+                "example_hebrew": "חולים עם מסתמי לב פגומים עשויים להזדקק לניתוח לתיקון או החלפתם."
+            },
+            {
+                "definition": "In an automotive context, a throttle valve regulates engine speed by controlling the amount of air entering the engine.",
+                "definition_hebrew": "בהקשר של רכב, שסתום מצערת מווסת את מהירות המנוע על ידי שליטה בכמות האוויר הנכנסת למנוע.",
+                "example": "When you press the accelerator pedal in your car, it opens the throttle valve and allows more fuel to enter the engine.",
+                "example_hebrew": "כאשר אתה לוחץ על דוושת ההאצה במכונית שלך, היא פותחת את שסתום המצערת ומאפשרת ליותר דלק להיכנס למנוע."
+            },
+            {
+                "definition": "In electronics, a diode valve is an older type of vacuum tube that controls electrical current flow between its electrodes.",
+                "definition_hebrew": "באלקטרוניקה, שסתום דיודה הוא סוג ישן יותר של צינור ואקום השולט בזרימת הזרם החשמלי בין האלקטרודות שלו.",
+                "example": "Vintage radios often use diode valves for their audio output stages.",
+                "example_hebrew": "מכשירי רדיו וינטג' משתמשים לעתים קרובות בשסתומי דיודה עבור שלבי פלט השמע שלהם."
+            },
+            {
+                "definition": "In the context of a dam or reservoir, an overflow spillway is a structure that allows excess water to escape through a controlled gate or valve.",
+                "definition_hebrew": "בהקשר של סכר או מאגר, שפך גלישה הוא מבנה המאפשר לעודפי מים לברוח דרך שער או שסתום מבוקר.",
+                "example": "During heavy rainfall, the spillway gates would open to release additional water and prevent flooding.",
+                "example_hebrew": "בזמן גשם כבד, שערי השפכים ייפתחו כדי לשחרר מים נוספים ולמנוע הצפה."
+            }
+        ]
+    }
+]

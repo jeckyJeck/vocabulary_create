@@ -1,0 +1,28 @@
+[
+    {
+        "word": "functions",
+        "word_hebrew": "פונקציות",
+        "main_definition": "In general, 'functions' refer to the various roles or operations that something performs, either in a mathematical sense or as part of an idiomatic expression.",
+        "main_definition_hebrew": "באופן כללי, 'פונקציות' מתייחסות לתפקידים או לפעולות השונות שמשהו מבצע, בין אם במובן מתמטי או כחלק מביטוי אידיומטי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mathematical meaning: In mathematics, a function is a relation between a set of inputs and a set of permissible outputs with the property that each input is related to exactly one output. Example: The sine function (sin) which maps an angle in radians to its sine value.",
+                "definition_hebrew": "משמעות מתמטית: במתמטיקה, פונקציה היא יחס בין קבוצת תשומות לקבוצה של פלטים מותרים עם התכונה שכל קלט קשור בדיוק לפלט אחד. דוגמה: פונקציית הסינוס (sin) הממפה זווית ברדיאנים לערך הסינוס שלה.",
+                "example": "The quadratic function f(x) = ax^2 + bx + c, where a, b, and c are constants.",
+                "example_hebrew": "הפונקציה הריבועית f(x) = ax^2 + bx + c, כאשר a, b ו-c הם קבועים."
+            },
+            {
+                "definition": "Operational meaning: Refers to the roles or tasks that entities such as employees in an organization perform. Example: The functions of customer service include answering queries, resolving complaints, and providing product information.",
+                "definition_hebrew": "משמעות תפעולית: מתייחס לתפקידים או למשימות שמבצעים גופים כגון עובדים בארגון. דוגמה: הפונקציות של שירות לקוחות כוללות מענה לשאילתות, פתרון תלונות ומתן מידע על המוצר.",
+                "example": "The IT department has multiple functions including system maintenance, network security monitoring, and technical support.",
+                "example_hebrew": "למחלקת ה-IT יש מספר פונקציות כולל תחזוקת מערכת, ניטור אבטחת רשת ותמיכה טכנית."
+            },
+            {
+                "definition": "Idiomatic meaning: Refers to the different aspects or characteristics that a person, thing, or situation exhibits. Example: The multifunctional printer can print, scan, copy, and fax documents.",
+                "definition_hebrew": "משמעות אידיומטית: מתייחס להיבטים או המאפיינים השונים שאדם, דבר או מצב מציגים. דוגמה: המדפסת הרב-תכליתית יכולה להדפיס, לסרוק, להעתיק ולשגר מסמכים בפקס.",
+                "example": "In our company's product lineup, each item has its own functions such as convenience, durability, affordability, and design.",
+                "example_hebrew": "במערך המוצרים של החברה שלנו, לכל פריט יש פונקציות משלו כמו נוחות, עמידות, סבירות ועיצוב."
+            }
+        ]
+    }
+]

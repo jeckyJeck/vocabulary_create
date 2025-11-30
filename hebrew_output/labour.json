@@ -1,0 +1,34 @@
+[
+    {
+        "word": "labour",
+        "word_hebrew": "עבודה",
+        "main_definition": "Labour refers to work, especially hard physical work or employment.",
+        "main_definition_hebrew": "עבודה מתייחסת לעבודה, במיוחד עבודה פיזית קשה או תעסוקה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of exerting effort physically in performing tasks",
+                "definition_hebrew": "הפעולה של מאמץ פיזי בביצוע משימות",
+                "example": "After hours of labour in the field, he finally harvested enough crops.",
+                "example_hebrew": "אחרי שעות של עבודה בשדה, הוא סוף סוף קצר מספיק יבולים."
+            },
+            {
+                "definition": "A collective term for workers or employees engaged in manual or industrial work",
+                "definition_hebrew": "כינוי כולל לעובדים או עובדים העוסקים בעבודה ידנית או תעשייתית",
+                "example": "The labour unions negotiate better wages and working conditions for their members.",
+                "example_hebrew": "איגודי העובדים מנהלים משא ומתן על שכר ותנאי עבודה טובים יותר לחבריהם."
+            },
+            {
+                "definition": "An idiomatic expression referring to the entire process of creating something, often through effort and perseverance",
+                "definition_hebrew": "ביטוי אידיומטי המתייחס לכל התהליך של יצירת משהו, לרוב באמצעות מאמץ והתמדה",
+                "example": "His dedication and hard work in pursuing his dream paid off; he successfully completed the project after months of labour.",
+                "example_hebrew": "מסירותו ועבודתו הקשה בהגשמת חלומו השתלמו; הוא השלים את הפרויקט בהצלחה לאחר חודשים של עבודה."
+            },
+            {
+                "definition": "The economic activity encompassing all types of jobs that contribute to production, services, or infrastructure",
+                "definition_hebrew": "הפעילות הכלכלית המקיפה את כל סוגי המשרות התורמות לייצור, לשירותים או לתשתיות",
+                "example": "Labour statistics are crucial for understanding and planning a country's economy.",
+                "example_hebrew": "סטטיסטיקת עבודה חיונית להבנה ולתכנון כלכלת מדינה."
+            }
+        ]
+    }
+]

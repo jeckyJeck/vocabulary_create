@@ -1,0 +1,34 @@
+[
+    {
+        "word": "products",
+        "word_hebrew": "מוצרים",
+        "main_definition": "Products refer to the result of a process, such as manufacturing or natural phenomena, that can have various meanings in different contexts.",
+        "main_definition_hebrew": "מוצרים מתייחסים לתוצאה של תהליך, כגון ייצור או תופעות טבע, שיכולות להיות להן משמעויות שונות בהקשרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Goods produced by a business or industry",
+                "definition_hebrew": "טובין המיוצרים על ידי עסק או תעשייה",
+                "example": "The company's main products include smartphones and laptops.",
+                "example_hebrew": "המוצרים העיקריים של החברה כוללים סמארטפונים ומחשבים ניידים."
+            },
+            {
+                "definition": "Outcomes or results of an action, process, or event",
+                "definition_hebrew": "תוצאות או תוצאות של פעולה, תהליך או אירוע",
+                "example": "As a result of the marketing campaign, sales have significantly increased. The products are now more popular among consumers.",
+                "example_hebrew": "כתוצאה מהקמפיין השיווקי, המכירות עלו משמעותית. המוצרים פופולריים יותר בקרב הצרכנים."
+            },
+            {
+                "definition": "In mathematics and statistics, a product is the result of multiplying two or more numbers together.",
+                "definition_hebrew": "במתמטיקה ובסטטיסטיקה, מוצר הוא תוצאה של הכפלת שני מספרים או יותר יחדיו.",
+                "example": "The total revenue for the company this quarter was calculated by multiplying the number of units sold by the price per unit (product).",
+                "example_hebrew": "סך ההכנסות של החברה ברבעון זה חושבו על ידי הכפלת מספר היחידות שנמכרו במחיר ליחידה (מוצר)."
+            },
+            {
+                "definition": "In biology and ecology, a product refers to substances created through natural processes, such as oxygen or organic matter.",
+                "definition_hebrew": "בביולוגיה ואקולוגיה, מוצר מתייחס לחומרים שנוצרו בתהליכים טבעיים, כמו חמצן או חומר אורגני.",
+                "example": "Photosynthesis in plants produces glucose (a product) and releases oxygen into the atmosphere.",
+                "example_hebrew": "פוטוסינתזה בצמחים מייצרת גלוקוז (מוצר) ומשחררת חמצן לאטמוספירה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "pension",
+        "word_hebrew": "פֶּנסִיָה",
+        "main_definition": "A fixed sum paid regularly by the government or a private organization to people who have retired from active employment.",
+        "main_definition_hebrew": "סכום קבוע המשולם באופן קבוע על ידי הממשלה או ארגון פרטי לאנשים שפרשו מעבודה פעילה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Retirement income provided by an employer upon reaching retirement age after years of service.",
+                "definition_hebrew": "הכנסת פרישה הניתנת על ידי מעסיק בהגיעו לגיל פרישה לאחר שנות ותק.",
+                "example": "John received his pension from the company he worked for for 30 years.",
+                "example_hebrew": "ג'ון קיבל את הפנסיה שלו מהחברה בה עבד 30 שנה."
+            },
+            {
+                "definition": "A sum paid regularly to a retired person, typically as a form of old-age security.",
+                "definition_hebrew": "סכום המשולם באופן קבוע לפנסיונר, בדרך כלל כסוג של ביטחון זקנה.",
+                "example": "After retiring, Maria depends on her state pension to support herself financially.",
+                "example_hebrew": "לאחר הפרישה, מריה תלויה בקצבת המדינה שלה כדי לפרנס את עצמה כלכלית."
+            },
+            {
+                "definition": "An amount set aside during one's working years by an employer or a fund for the employee's future benefit upon retirement.",
+                "definition_hebrew": "סכום שהופרש במהלך שנות עבודתו על ידי מעסיק או קרן לתגמול עתידי של העובד בעת פרישתו.",
+                "example": "The company contributed 5% of my salary each year into my pension plan, which I can withdraw when I retire.",
+                "example_hebrew": "החברה הפרישה 5% מהשכר שלי מדי שנה לתוכנית הפנסיה שלי, שאותה אוכל למשוך כשאצא לפנסיה."
+            },
+            {
+                "definition": "A sum paid to individuals after they have completed their mandatory national service or military obligations.",
+                "definition_hebrew": "סכום ששולם ליחידים לאחר שסיימו שירות לאומי חובה או חובות צבאיות.",
+                "example": "After completing his 20-year military service, James is eligible to receive a pension from the government.",
+                "example_hebrew": "לאחר שסיים את שירותו הצבאי בן 20 השנים, זכאי ג'יימס לקבל קצבה מהממשלה."
+            }
+        ]
+    }
+]

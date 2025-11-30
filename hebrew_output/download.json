@@ -1,0 +1,40 @@
+[
+    {
+        "word": "download",
+        "word_hebrew": "הורד",
+        "main_definition": "To transfer data, such as files or software, from a remote computer or server to one's own device over the internet.",
+        "main_definition_hebrew": "כדי להעביר נתונים, כגון קבצים או תוכנה, ממחשב או שרת מרוחק למכשיר משלו דרך האינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Transferring files from the internet to your device",
+                "definition_hebrew": "העברת קבצים מהאינטרנט למכשיר שלך",
+                "example": "I downloaded the latest version of Adobe Photoshop onto my laptop.",
+                "example_hebrew": "הורדתי את הגרסה האחרונה של Adobe Photoshop למחשב הנייד שלי."
+            },
+            {
+                "definition": "Obtaining digital content like music, videos or ebooks",
+                "definition_hebrew": "השגת תוכן דיגיטלי כמו מוזיקה, סרטונים או ספרים אלקטרוניים",
+                "example": "She downloaded an entire library of movies from a streaming service for her home theater setup.",
+                "example_hebrew": "היא הורידה ספרייה שלמה של סרטים משירות סטרימינג עבור מערך הקולנוע הביתי שלה."
+            },
+            {
+                "definition": "Downloading software updates to keep your device running smoothly",
+                "definition_hebrew": "הורדת עדכוני תוכנה כדי שהמכשיר שלך יפעל בצורה חלקה",
+                "example": "I need to download the latest security patch update for my operating system.",
+                "example_hebrew": "אני צריך להוריד את עדכון תיקון האבטחה האחרון עבור מערכת ההפעלה שלי."
+            },
+            {
+                "definition": "Retrieving data or information from a remote server for analysis or reference",
+                "definition_hebrew": "אחזור נתונים או מידע משרת מרוחק לצורך ניתוח או התייחסות",
+                "example": "The marketing team downloaded customer feedback surveys from their online platform for review.",
+                "example_hebrew": "צוות השיווק הוריד סקרי משוב לקוחות מהפלטפורמה המקוונת שלהם לבדיקה."
+            },
+            {
+                "definition": "Copying digital content from one device to another without the original source's permission",
+                "definition_hebrew": "העתקת תוכן דיגיטלי ממכשיר אחד לאחר ללא אישור המקור המקורי",
+                "example": "Downloading pirated movies is illegal and against copyright laws.",
+                "example_hebrew": "הורדת סרטים פיראטיים אינה חוקית ומנוגדת לחוקי זכויות יוצרים."
+            }
+        ]
+    }
+]

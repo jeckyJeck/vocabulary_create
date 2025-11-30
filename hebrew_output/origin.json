@@ -1,0 +1,40 @@
+[
+    {
+        "word": "origin",
+        "word_hebrew": "מָקוֹר",
+        "main_definition": "The point or place where something begins, arises, or is derived from.",
+        "main_definition_hebrew": "הנקודה או המקום שבו משהו מתחיל, נוצר או נגזר ממנו.",
+        "meanings_and_examples": [
+            {
+                "definition": "The source or starting point of an object, idea, or process.",
+                "definition_hebrew": "המקור או נקודת ההתחלה של אובייקט, רעיון או תהליך.",
+                "example": "The origin of the English language can be traced back to several Germanic tribes.",
+                "example_hebrew": "ניתן לאתר את מקור השפה האנגלית לכמה שבטים גרמניים."
+            },
+            {
+                "definition": "The place where a person was born and raised.",
+                "definition_hebrew": "המקום שבו אדם נולד וגדל.",
+                "example": "She often talks about her hometown as the source of her passion for cooking.",
+                "example_hebrew": "היא מרבה לדבר על עיר הולדתה כמקור התשוקה שלה לבישול."
+            },
+            {
+                "definition": "The point in time when something begins or is created.",
+                "definition_hebrew": "נקודת הזמן שבה משהו מתחיל או נוצר.",
+                "example": "The origin of democracy can be traced back to ancient Greece around 508 BCE.",
+                "example_hebrew": "מקורה של הדמוקרטיה ניתן לייחס ליוון העתיקה בסביבות 508 לפני הספירה."
+            },
+            {
+                "definition": "A geographical area from which a species originally evolved and spread.",
+                "definition_hebrew": "אזור גיאוגרפי שממנו התפתח והתפשט מין במקור.",
+                "example": "The African elephant is native to sub-Saharan Africa, where it has been living for millions of years.",
+                "example_hebrew": "הפיל האפריקאי מקורו באפריקה שמדרום לסהרה, שם הוא חי כבר מיליוני שנים."
+            },
+            {
+                "definition": "In the context of design or architecture, the original location or place from which a work was derived or created.",
+                "definition_hebrew": "בהקשר של עיצוב או אדריכלות, המיקום או המקום המקורי שממנו נגזרה או נוצרה יצירה.",
+                "example": "The architect studied the origin of this historic building to ensure accurate restoration.",
+                "example_hebrew": "האדריכל חקר את מקורו של הבניין ההיסטורי הזה כדי להבטיח שחזור מדויק."
+            }
+        ]
+    }
+]

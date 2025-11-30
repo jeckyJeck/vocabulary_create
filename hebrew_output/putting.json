@@ -1,0 +1,34 @@
+[
+    {
+        "word": "putting",
+        "word_hebrew": "לשים",
+        "main_definition": "The action of placing or positioning something in a specific location.",
+        "main_definition_hebrew": "הפעולה של הצבה או מיקום של משהו במיקום מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To physically place an object somewhere.",
+                "definition_hebrew": "למקם פיזית חפץ במקום כלשהו.",
+                "example": "I'm putting the book on the shelf.",
+                "example_hebrew": "אני מניח את הספר על המדף."
+            },
+            {
+                "definition": "The act of teaching or instructing someone in a particular skill or activity.",
+                "definition_hebrew": "פעולת לימוד או הדרכה של מישהו במיומנות או פעילות מסוימת.",
+                "example": "She is putting her students through their paces during piano lessons.",
+                "example_hebrew": "היא מעבירה את תלמידיה במהלך שיעורי הפסנתר."
+            },
+            {
+                "definition": "To express something clearly and emphatically, often as a warning or advice.",
+                "definition_hebrew": "להביע משהו בצורה ברורה ומודגשת, לעתים קרובות כאזהרה או עצה.",
+                "example": "Be careful with that glass; I'm putting it on the edge of the table!",
+                "example_hebrew": "היזהר עם הכוס הזו; אני שם את זה על קצה השולחן!"
+            },
+            {
+                "definition": "The act of applying pressure to an object in order to make changes or improvements.",
+                "definition_hebrew": "פעולת הפעלת לחץ על אובייקט על מנת לבצע שינויים או שיפורים.",
+                "example": "He is putting his foot down and not allowing any more late-night work.",
+                "example_hebrew": "הוא מוריד את רגלו ולא מאפשר עוד עבודה בשעות הלילה המאוחרות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "homepage",
+        "word_hebrew": "דף הבית",
+        "main_definition": "The main or introductory page of a website, typically featuring the site's logo, navigation menu, and highlighted content.",
+        "main_definition_hebrew": "העמוד הראשי או המבוא של אתר אינטרנט, הכולל בדרך כלל את הלוגו של האתר, תפריט הניווט ותוכן מודגש.",
+        "meanings_and_examples": [
+            {
+                "definition": "Main webpage of a website",
+                "definition_hebrew": "דף אינטרנט ראשי של אתר אינטרנט",
+                "example": "When I visit Amazon.com, the homepage is always where it starts with their branding, product listings, and shopping cart options.",
+                "example_hebrew": "כשאני מבקר ב-Amazon.com, דף הבית הוא תמיד המקום שבו הוא מתחיל עם המיתוג, רשימות המוצרים ואפשרויות עגלת הקניות שלהם."
+            },
+            {
+                "definition": "The page visited when first entering a web browser or browsing for the first time",
+                "definition_hebrew": "הדף בו ביקרת בעת הכניסה הראשונה לדפדפן אינטרנט או גלישה בפעם הראשונה",
+                "example": "When I start my laptop, the homepage that loads is usually my favorite news website to catch up on current events.",
+                "example_hebrew": "כשאני מפעיל את המחשב הנייד שלי, דף הבית שנטען הוא בדרך כלל אתר החדשות המועדף עלי להתעדכן באירועים אקטואליים."
+            },
+            {
+                "definition": "The initial screen of an application's user interface",
+                "definition_hebrew": "המסך הראשוני של ממשק המשתמש של אפליקציה",
+                "example": "Upon opening a new document in Microsoft Word, the first page I see upon launching the software is considered as its homepage.",
+                "example_hebrew": "עם פתיחת מסמך חדש ב-Microsoft Word, העמוד הראשון שאני רואה עם הפעלת התוכנה נחשב כדף הבית שלו."
+            }
+        ]
+    }
+]

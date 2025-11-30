@@ -1,0 +1,34 @@
+[
+    {
+        "word": "crew",
+        "word_hebrew": "צוות",
+        "main_definition": "A group of people working together, typically in a ship or aircraft to operate it.",
+        "main_definition_hebrew": "קבוצה של אנשים שעובדים יחד, בדרך כלל בספינה או במטוס כדי להפעיל אותה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The individuals who make up the operating team onboard ships and boats, responsible for navigation, maintenance, and operation",
+                "definition_hebrew": "האנשים המרכיבים את צוות ההפעלה על סיפון ספינות וסירות, האחראים על ניווט, תחזוקה ותפעול",
+                "example": "The crew of the cargo ship worked tirelessly to unload the containers.",
+                "example_hebrew": "צוות ספינת המשא פעל ללא לאות לפריקת המכולות."
+            },
+            {
+                "definition": "A group of people employed by an airline or aviation company to handle aircraft operations",
+                "definition_hebrew": "קבוצת אנשים המועסקים בחברת תעופה או חברת תעופה לטיפול בפעולות מטוסים",
+                "example": "The flight attendants and pilots are part of the airline's crew.",
+                "example_hebrew": "הדיילים והטייסים הם חלק מצוות חברת התעופה."
+            },
+            {
+                "definition": "Individuals responsible for operating a specific machine, equipment, or vehicle",
+                "definition_hebrew": "אנשים האחראים על הפעלת מכונה, ציוד או רכב ספציפיים",
+                "example": "The mechanic is also considered part of the car repair shop's crew when working on vehicles.",
+                "example_hebrew": "המכונאי נחשב גם לחלק מצוות התיקון לרכב בעבודה על כלי רכב."
+            },
+            {
+                "definition": "A group of individuals collaborating to achieve a common goal in various industries and fields",
+                "definition_hebrew": "קבוצת אנשים המשתפת פעולה להשגת מטרה משותפת בתעשיות ובתחומים שונים",
+                "example": "In film production, the director, actors, cinematographers, and other staff members form the crew.",
+                "example_hebrew": "בהפקת סרטים, הבמאי, השחקנים, הקולנוענים ואנשי צוות אחרים מהווים את הצוות."
+            }
+        ]
+    }
+]

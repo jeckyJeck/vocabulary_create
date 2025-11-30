@@ -1,0 +1,34 @@
+[
+    {
+        "word": "detected",
+        "word_hebrew": "זוהה",
+        "main_definition": "To discover or identify something, usually through observation, measurement, or analysis.",
+        "main_definition_hebrew": "לגלות או לזהות משהו, בדרך כלל באמצעות תצפית, מדידה או ניתוח.",
+        "meanings_and_examples": [
+            {
+                "definition": "To notice the presence of someone or something using technology like sensors or surveillance systems.",
+                "definition_hebrew": "להבחין בנוכחות של מישהו או משהו המשתמש בטכנולוגיה כמו חיישנים או מערכות מעקב.",
+                "example": "The security cameras detected an unauthorized person entering the building.",
+                "example_hebrew": "מצלמות האבטחה זיהו אדם בלתי מורשה שנכנס לבניין."
+            },
+            {
+                "definition": "To recognize a particular quality, characteristic, or condition in data or signals.",
+                "definition_hebrew": "לזהות איכות, מאפיין או מצב מסוים בנתונים או באותות.",
+                "example": "The software algorithm detected anomalies in the network traffic patterns.",
+                "example_hebrew": "אלגוריתם התוכנה זיהה חריגות בדפוסי התעבורה ברשת."
+            },
+            {
+                "definition": "To identify and discover hidden issues or problems through investigation or analysis.",
+                "definition_hebrew": "לזהות ולגלות בעיות או בעיות נסתרות באמצעות חקירה או ניתוח.",
+                "example": "The inspection team was able to detect corrosion on the metal surface.",
+                "example_hebrew": "צוות הבדיקה הצליח לזהות קורוזיה על פני המתכת."
+            },
+            {
+                "definition": "To realize or become aware of something, often after it's been happening for some time.",
+                "definition_hebrew": "להבין או להיות מודע למשהו, לעתים קרובות לאחר שזה קורה במשך זמן מה.",
+                "example": "She detected a change in his behavior which she hadn't noticed before.",
+                "example_hebrew": "היא זיהתה שינוי בהתנהגות שלו שלא הבחינה בו קודם לכן."
+            }
+        ]
+    }
+]

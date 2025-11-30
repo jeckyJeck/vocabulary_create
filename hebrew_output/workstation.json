@@ -1,0 +1,40 @@
+[
+    {
+        "word": "workstation",
+        "word_hebrew": "עמדת עבודה",
+        "main_definition": "A dedicated computer setup designed for complex tasks, typically in an office or professional environment.",
+        "main_definition_hebrew": "מערך מחשב ייעודי המיועד למשימות מורכבות, בדרך כלל בסביבה משרדית או מקצועית.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual's personal computing device with a high-performance processor and sufficient storage capacity used primarily for work purposes.",
+                "definition_hebrew": "מכשיר מחשוב אישי של אדם עם מעבד בעל ביצועים גבוהים ויכולת אחסון מספקת המשמש בעיקר למטרות עבודה.",
+                "example": "John's customized gaming laptop, which he uses as his primary workstation to handle graphic design tasks.",
+                "example_hebrew": "מחשב נייד הגיימינג המותאם אישית של ג'ון, שבו הוא משתמש כתחנת העבודה העיקרית שלו לטיפול במשימות עיצוב גרפי."
+            },
+            {
+                "definition": "A designated area within an office or professional setting equipped with a computer and related accessories used for specific job functions.",
+                "definition_hebrew": "אזור ייעודי בתוך משרד או סביבה מקצועית המצויד במחשב ואביזרים נלווים המשמשים לתפקידי עבודה ספציפיים.",
+                "example": "The marketing department's creative workstations, each furnished with high-end monitors and design software.",
+                "example_hebrew": "עמדות העבודה היצירתיות של מחלקת השיווק, כל אחת מרוהטת במסכים מתקדמים ותוכנות עיצוב."
+            },
+            {
+                "definition": "A type of desk specifically designed to accommodate a computer, peripherals, and other related equipment for productivity.",
+                "definition_hebrew": "סוג של שולחן שתוכנן במיוחד כדי להכיל מחשב, ציוד היקפי וציוד נלווה אחר לצורך פרודוקטיביות.",
+                "example": "Sarah's ergonomic workstation at the tech company, featuring an adjustable chair and keyboard tray.",
+                "example_hebrew": "עמדת העבודה הארגונומית של שרה בחברת הטכנולוגיה, הכוללת כיסא מתכוונן ומגש מקלדת."
+            },
+            {
+                "definition": "A shared computing environment within a collaborative setting where multiple users can access networked computers for various tasks.",
+                "definition_hebrew": "סביבת מחשוב משותפת בתוך מסגרת שיתופית שבה משתמשים מרובים יכולים לגשת למחשבים ברשת למשימות שונות.",
+                "example": "The open-source developers' workstations in the co-working space, allowing them to run and test their software simultaneously.",
+                "example_hebrew": "תחנות העבודה של מפתחי הקוד הפתוח במרחב העבודה המשותף, המאפשרות להם להפעיל ולבדוק את התוכנה שלהם בו זמנית."
+            },
+            {
+                "definition": "An integrated system consisting of hardware and software components designed to support an individual's or a team's professional tasks.",
+                "definition_hebrew": "מערכת משולבת המורכבת מרכיבי חומרה ותוכנה המיועדים לתמוך במשימות המקצועיות של אדם או צוות.",
+                "example": "The hospital's radiology department workstations with specialized imaging software for analyzing X-rays and scans.",
+                "example_hebrew": "עמדות עבודה במחלקת הרדיולוגיה בבית החולים עם תוכנת הדמיה ייעודית לניתוח צילומי רנטגן וסריקות."
+            }
+        ]
+    }
+]

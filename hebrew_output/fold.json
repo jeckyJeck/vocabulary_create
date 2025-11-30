@@ -1,0 +1,40 @@
+[
+    {
+        "word": "fold",
+        "word_hebrew": "לְקַפֵּל",
+        "main_definition": "Fold refers to the action of bending something, typically a piece of paper or fabric, over itself along a line or seam.",
+        "main_definition_hebrew": "קיפול מתייחס לפעולה של כיפוף משהו, בדרך כלל פיסת נייר או בד, על עצמו לאורך קו או תפר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To bend something (usually paper) gently and neatly",
+                "definition_hebrew": "לכופף משהו (בדרך כלל נייר) בעדינות ובצורה מסודרת",
+                "example": "She folded the letter into thirds before placing it in an envelope.",
+                "example_hebrew": "היא קיפלה את המכתב לשלישים לפני שהניחה אותו במעטפה."
+            },
+            {
+                "definition": "A unit of measurement for thickness, typically used to describe paper or fabric",
+                "definition_hebrew": "יחידת מדידה לעובי, המשמשת בדרך כלל לתיאור נייר או בד",
+                "example": "The standard size for a sheet of printer paper is 8.5 by 11 inches, and the weight (thickness) of this type of paper is usually 20 pounds per ream.",
+                "example_hebrew": "הגודל הסטנדרטי לגיליון נייר למדפסת הוא 8.5 על 11 אינץ', והמשקל (עובי) של נייר מסוג זה הוא בדרך כלל 20 פאונד לכל חבילה."
+            },
+            {
+                "definition": "To give up or surrender in a conflict or competition",
+                "definition_hebrew": "לוותר או להיכנע בסכסוך או בתחרות",
+                "example": "After losing several games in a row, they decided to fold their competitive efforts and focus on teamwork instead.",
+                "example_hebrew": "לאחר שהפסידו מספר משחקים ברציפות, הם החליטו לקפל את המאמצים התחרותיים שלהם ולהתמקד בעבודת צוות במקום זאת."
+            },
+            {
+                "definition": "A type of game played with cards where players fold by placing a bet and withdrawing from the round before other players",
+                "definition_hebrew": "סוג של משחק עם קלפים שבו שחקנים מתקפלים על ידי ביצוע הימור ומשיכה מהסיבוב לפני שחקנים אחרים",
+                "example": "In poker, when you 'fold', you give up your hand for that particular round without revealing any information about your cards.",
+                "example_hebrew": "בפוקר, כשאתה 'מקפל', אתה מוותר על היד שלך עבור הסיבוב המסוים הזה מבלי לחשוף מידע על הקלפים שלך."
+            },
+            {
+                "definition": "To divide or split something into sections using creases or folds",
+                "definition_hebrew": "לחלק או לפצל משהו למקטעים באמצעות קמטים או קיפולים",
+                "example": "The origami instructor demonstrated how to fold the paper square diagonally and horizontally to create a simple crane.",
+                "example_hebrew": "מדריך האוריגמי הדגים כיצד לקפל את ריבוע הנייר באלכסון ואופק ליצירת מנוף פשוט."
+            }
+        ]
+    }
+]

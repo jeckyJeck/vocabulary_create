@@ -1,0 +1,34 @@
+[
+    {
+        "word": "facts",
+        "word_hebrew": "עובדות",
+        "main_definition": "Facts are verifiable pieces of information, truths, or realities that can be proven through evidence or observation.",
+        "main_definition_hebrew": "עובדות הן פיסות מידע, אמיתות או מציאות הניתנות לאימות שניתן להוכיח באמצעות ראיות או תצפית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Information presented as true and verified.",
+                "definition_hebrew": "המידע מוצג כנכון ומאומת.",
+                "example": "The facts about climate change show a clear trend towards warming temperatures.",
+                "example_hebrew": "העובדות על שינויי האקלים מראות מגמה ברורה לקראת התחממות הטמפרטורות."
+            },
+            {
+                "definition": "Specific details that are known to be accurate or real.",
+                "definition_hebrew": "פרטים ספציפיים הידועים כמדויקים או אמיתיים.",
+                "example": "She always gives the correct facts about her family's history.",
+                "example_hebrew": "היא תמיד נותנת את העובדות הנכונות על ההיסטוריה של משפחתה."
+            },
+            {
+                "definition": "Key points of an argument, report, etc., which serve as evidence supporting a claim.",
+                "definition_hebrew": "נקודות מפתח של טיעון, דו\"ח וכדומה, המשמשות ראיה התומכת בטענה.",
+                "example": "In his speech, he emphasized several key facts to persuade the audience of his point of view.",
+                "example_hebrew": "בנאומו הוא הדגיש כמה עובדות מפתח כדי לשכנע את הקהל בנקודת מבטו."
+            },
+            {
+                "definition": "Actual data or statistics used in analysis or discussion.",
+                "definition_hebrew": "נתונים או נתונים סטטיסטיים בפועל המשמשים בניתוח או דיון.",
+                "example": "The sales report contains detailed facts about last quarter's performance.",
+                "example_hebrew": "דוח המכירות מכיל עובדות מפורטות על ביצועי הרבעון האחרון."
+            }
+        ]
+    }
+]

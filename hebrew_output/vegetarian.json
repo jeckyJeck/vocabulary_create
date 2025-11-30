@@ -1,0 +1,28 @@
+[
+    {
+        "word": "vegetarian",
+        "word_hebrew": "צִמחוֹנִי",
+        "main_definition": "A person who does not eat meat, fish, or poultry but may consume dairy products and eggs.",
+        "main_definition_hebrew": "אדם שאינו אוכל בשר, דגים או עופות אך עשוי לצרוך מוצרי חלב וביצים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Following a diet that excludes all types of meat",
+                "definition_hebrew": "הקפדה על דיאטה שאינה כוללת את כל סוגי הבשר",
+                "example": "As a vegetarian, I avoid eating beef and chicken.",
+                "example_hebrew": "כצמחוני, אני נמנע מאכילת בשר בקר ועוף."
+            },
+            {
+                "definition": "Adhering to the principles or practices of vegetarianism",
+                "definition_hebrew": "הקפדה על עקרונות או פרקטיקות של צמחונות",
+                "example": "She is deeply committed to the values of vegetarianism and advocates for plant-based diets.",
+                "example_hebrew": "היא מחויבת עמוקות לערכי הצמחונות ודוגלת בתזונה צמחית."
+            },
+            {
+                "definition": "A person who chooses not to consume meat products as part of their lifestyle or beliefs",
+                "definition_hebrew": "אדם שבוחר שלא לצרוך מוצרי בשר כחלק מאורח חייו או אמונתו",
+                "example": "Many people choose a vegetarian lifestyle for ethical reasons, such as animal rights activism.",
+                "example_hebrew": "אנשים רבים בוחרים באורח חיים צמחוני מסיבות אתיות, כמו פעילות למען זכויות בעלי חיים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "stream",
+        "word_hebrew": "זרם",
+        "main_definition": "A flowing body of water, or metaphorically an uninterrupted sequence of data or events.",
+        "main_definition_hebrew": "גוף מים זורם, או באופן מטפורי רצף בלתי מופרע של נתונים או אירועים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Natural flow of water",
+                "definition_hebrew": "זרימה טבעית של מים",
+                "example": "The small stream wound its way through the forest.",
+                "example_hebrew": "הנחל הקטן התפתל ביער."
+            },
+            {
+                "definition": "A continuous, uninterrupted sequence or series",
+                "definition_hebrew": "רצף או סדרה מתמשכים ללא הפרעות",
+                "example": "She had been streaming episodes of her favorite show online all night.",
+                "example_hebrew": "היא הזרמה פרקים מהתוכנית האהובה עליה באינטרנט כל הלילה."
+            },
+            {
+                "definition": "Transmission of data over the internet in a steady flow",
+                "definition_hebrew": "העברת נתונים דרך האינטרנט בזרימה קבועה",
+                "example": "The live video stream was smooth and without interruption.",
+                "example_hebrew": "זרם הווידאו החי היה חלק וללא הפרעות."
+            },
+            {
+                "definition": "A narrow, winding path or route",
+                "definition_hebrew": "שביל או מסלול צר ומפותל",
+                "example": "They followed the mountain stream to find their way back to camp.",
+                "example_hebrew": "הם עקבו אחר נחל ההר כדי למצוא את דרכם חזרה למחנה."
+            }
+        ]
+    }
+]

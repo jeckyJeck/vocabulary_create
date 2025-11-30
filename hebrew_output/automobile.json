@@ -1,0 +1,34 @@
+[
+    {
+        "word": "automobile",
+        "word_hebrew": "מְכוֹנִית",
+        "main_definition": "An automobile is a motor vehicle designed primarily for transportation of people rather than goods, typically with four wheels and powered by an internal combustion engine.",
+        "main_definition_hebrew": "רכב הוא כלי רכב המיועד בעיקר להובלת אנשים ולא סחורות, בדרך כלל עם ארבעה גלגלים ומופעל על ידי מנוע בעירה פנימית.",
+        "meanings_and_examples": [
+            {
+                "definition": "The general category of cars",
+                "definition_hebrew": "הקטגוריה הכללית של מכוניות",
+                "example": "My family owns a sedan, SUV, and truck - all types of automobiles.",
+                "example_hebrew": "למשפחתי יש מכונית סדאן, רכב שטח ומשאית - כל סוגי המכוניות."
+            },
+            {
+                "definition": "A self-propelled vehicle designed for passenger transportation",
+                "definition_hebrew": "רכב מתנייע המיועד להסעת נוסעים",
+                "example": "I purchased an automobile to commute to work every day.",
+                "example_hebrew": "רכשתי מכונית כדי לנסוע לעבודה כל יום."
+            },
+            {
+                "definition": "An individual car or vehicle used by a person as personal transportation",
+                "definition_hebrew": "מכונית או רכב בודדים המשמשים אדם כתחבורה אישית",
+                "example": "He owns two different automobiles: a red sports car and a white SUV.",
+                "example_hebrew": "בבעלותו שתי מכוניות שונות: מכונית ספורט אדומה ורכב שטח לבן."
+            },
+            {
+                "definition": "A four-wheeled motorized vehicle with an enclosed passenger compartment",
+                "definition_hebrew": "רכב ממונע בעל ארבעה גלגלים עם תא נוסעים סגור",
+                "example": "Automobiles have become one of the most common forms of transportation in modern society.",
+                "example_hebrew": "מכוניות הפכו לאחת מצורות התחבורה הנפוצות ביותר בחברה המודרנית."
+            }
+        ]
+    }
+]

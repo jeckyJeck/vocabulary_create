@@ -1,0 +1,40 @@
+[
+    {
+        "word": "cleaning",
+        "word_hebrew": "ניקוי",
+        "main_definition": "The act of removing dirt, dust, or clutter from an object or environment to make it tidy and hygienic.",
+        "main_definition_hebrew": "פעולת הסרת הלכלוך, האבק או העומס מחפץ או סביבה כדי שיהיה מסודר והיגייני.",
+        "meanings_and_examples": [
+            {
+                "definition": "Removing physical impurities like dirt or stains",
+                "definition_hebrew": "הסרת זיהומים פיזיים כמו לכלוך או כתמים",
+                "example": "She spent the afternoon cleaning her white shirt by removing a coffee stain.",
+                "example_hebrew": "היא בילתה את אחר הצהריים בניקוי חולצתה הלבנה על ידי הסרת כתם קפה."
+            },
+            {
+                "definition": "Organizing and tidying up living spaces or work environments",
+                "definition_hebrew": "ארגון וסידור חללי מגורים או סביבות עבודה",
+                "example": "Every Sunday, they dedicate time to thoroughly clean their house from top to bottom.",
+                "example_hebrew": "בכל יום ראשון הם מקדישים זמן לניקוי יסודי של ביתם מלמעלה למטה."
+            },
+            {
+                "definition": "Sanitizing surfaces in preparation for cooking or food handling",
+                "definition_hebrew": "חיטוי משטחים לקראת בישול או טיפול במזון",
+                "example": "Before baking cookies, it's essential to wipe down the countertops and utensils with a disinfectant cleaner.",
+                "example_hebrew": "לפני אפיית העוגיות, חיוני לנגב את המשטחים והכלים בעזרת חומר ניקוי חיטוי."
+            },
+            {
+                "definition": "Maintaining cleanliness regularly as part of routine care for possessions or spaces",
+                "definition_hebrew": "שמירה על ניקיון באופן קבוע כחלק מטיפול שוטף בחפצים או בחללים",
+                "example": "Regular cleaning is crucial in preserving carpets, which involve vacuuming and spot-cleaning when needed.",
+                "example_hebrew": "לניקוי שוטף יש חשיבות מכרעת בשימור שטיחים, הכוללים שאיבת אבק וניקוי נקודתי בעת הצורך."
+            },
+            {
+                "definition": "Professional service to deep clean a space or object",
+                "definition_hebrew": "שירות מקצועי לניקוי עמוק של חלל או חפץ",
+                "example": "The family hired professional cleaners to give their house a thorough spring cleaning before guests arrived.",
+                "example_hebrew": "המשפחה שכרה מנקים מקצועיים שיעניקו לביתם ניקיון אביבי יסודי לפני הגעת האורחים."
+            }
+        ]
+    }
+]

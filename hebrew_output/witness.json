@@ -1,0 +1,40 @@
+[
+    {
+        "word": "witness",
+        "word_hebrew": "עֵד",
+        "main_definition": "A witness is someone who has seen or observed an event, fact, or situation and can provide information about it.",
+        "main_definition_hebrew": "עד הוא מישהו שראה או צפה באירוע, עובדה או מצב ויכול לספק מידע לגביו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To testify in a court of law as a person who saw the crime or event being discussed",
+                "definition_hebrew": "להעיד בבית משפט כאדם שראה את הפשע או האירוע הנידונים",
+                "example": "The witness took the stand to give testimony about what he saw during the robbery.",
+                "example_hebrew": "העד התייצב למסור עדות על מה שראה במהלך השוד."
+            },
+            {
+                "definition": "A person who has seen an incident occur and can provide details or evidence",
+                "definition_hebrew": "אדם שראה אירוע מתרחש ויכול לספק פרטים או ראיות",
+                "example": "She was a witness to the accident, so she described everything that happened for the police report.",
+                "example_hebrew": "היא הייתה עדה לתאונה, אז היא תיארה את כל מה שקרה לדו\"ח המשטרה."
+            },
+            {
+                "definition": "To observe something firsthand without any interference or alteration of the original event",
+                "definition_hebrew": "לצפות במשהו ממקור ראשון ללא כל הפרעה או שינוי של האירוע המקורי",
+                "example": "He didn't want his presence as a witness to influence their conversation.",
+                "example_hebrew": "הוא לא רצה שנוכחותו כעד תשפיע על שיחתם."
+            },
+            {
+                "definition": "A bystander who is present at an incident but not directly involved in it",
+                "definition_hebrew": "עובר אורח שנוכח באירוע אך אינו מעורב בו ישירות",
+                "example": "The curious onlookers were all witnesses to the street performance.",
+                "example_hebrew": "הצופים הסקרנים היו כולם עדים להופעה ברחוב."
+            },
+            {
+                "definition": "To provide evidence or information regarding a situation, fact, or event",
+                "definition_hebrew": "לספק ראיות או מידע לגבי מצב, עובדה או אירוע",
+                "example": "The researcher presented his findings as a testimony based on the data he collected as a witness.",
+                "example_hebrew": "החוקר הציג את ממצאיו כעדות על סמך הנתונים שאסף כעד."
+            }
+        ]
+    }
+]

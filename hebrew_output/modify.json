@@ -1,0 +1,34 @@
+[
+    {
+        "word": "modify",
+        "word_hebrew": "לְשַׁנוֹת",
+        "main_definition": "To change or alter something, usually to improve it.",
+        "main_definition_hebrew": "לשנות או לשנות משהו, בדרך כלל כדי לשפר אותו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To make slight changes in (a plan, design, etc.) with the intention of improving it.",
+                "definition_hebrew": "לבצע שינויים קלים ב(תוכנית, עיצוב וכו') מתוך כוונה לשפר אותה.",
+                "example": "I need to modify my project's timeline after consulting with the team.",
+                "example_hebrew": "אני צריך לשנות את ציר הזמן של הפרויקט שלי לאחר התייעצות עם הצוות."
+            },
+            {
+                "definition": "To change something by making alterations or adjustments.",
+                "definition_hebrew": "לשנות משהו על ידי ביצוע שינויים או התאמות.",
+                "example": "She modified her dress according to the occasion before going out.",
+                "example_hebrew": "היא שינתה את השמלה שלה בהתאם לאירוע לפני שיצאה."
+            },
+            {
+                "definition": "To adapt or change an existing model, design, or concept for specific needs or requirements.",
+                "definition_hebrew": "להתאים או לשנות דגם, עיצוב או קונספט קיים לצרכים או דרישות ספציפיות.",
+                "example": "The software was modified to support new functionalities requested by the client.",
+                "example_hebrew": "התוכנה שונתה כדי לתמוך בפונקציות חדשות שהלקוח ביקש."
+            },
+            {
+                "definition": "To adjust something (like a vehicle) so that it can perform better or meet certain conditions.",
+                "definition_hebrew": "להתאים משהו (כמו רכב) כך שהוא יוכל לבצע ביצועים טובים יותר או לעמוד בתנאים מסוימים.",
+                "example": "I had to modify my car's suspension for off-road driving.",
+                "example_hebrew": "נאלצתי לשנות את המתלים של המכונית שלי לנסיעה בשטח."
+            }
+        ]
+    }
+]

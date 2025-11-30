@@ -1,0 +1,34 @@
+[
+    {
+        "word": "organize",
+        "word_hebrew": "לְאַרגֵן",
+        "main_definition": "To arrange or structure things in a systematic way.",
+        "main_definition_hebrew": "לסדר או לבנות דברים בצורה שיטתית.",
+        "meanings_and_examples": [
+            {
+                "definition": "To sort and group items based on their similarities or purposes.",
+                "definition_hebrew": "למיין ולקבץ פריטים על סמך קווי הדמיון או המטרות שלהם.",
+                "example": "She will organize her closet by grouping clothes into piles of shirts, dresses, and sweaters.",
+                "example_hebrew": "היא תארגן את הארון שלה על ידי קיבוץ בגדים לערימות של חולצות, שמלות וסוודרים."
+            },
+            {
+                "definition": "To plan and coordinate activities to achieve a specific goal efficiently.",
+                "definition_hebrew": "לתכנן ולתאם פעילויות להשגת מטרה ספציפית ביעילות.",
+                "example": "The event team needs to organize the schedule for the conference, including speakers' slots and break times.",
+                "example_hebrew": "צוות האירוע צריך לארגן את לוח הזמנים לכנס, כולל משבצות הדוברים ושעות ההפסקה."
+            },
+            {
+                "definition": "To arrange things in a particular order or sequence. This can be chronological, alphabetical, numerical, etc.",
+                "definition_hebrew": "לסדר דברים בסדר או רצף מסוים. זה יכול להיות כרונולוגי, אלפביתי, מספרי וכו'.",
+                "example": "He will organize his books by arranging them on the shelf firstly in alphabetical order according to their titles.",
+                "example_hebrew": "הוא יארגן את ספריו על ידי סידורם על המדף תחילה בסדר אלפביתי לפי שמותיהם."
+            },
+            {
+                "definition": "To establish an organization or structure for a group of people working together. This often involves defining roles and responsibilities.",
+                "definition_hebrew": "להקים ארגון או מבנה עבור קבוצת אנשים הפועלים יחד. זה כרוך לעתים קרובות בהגדרת תפקידים ואחריות.",
+                "example": "The company is organizing its sales department by creating different teams, each responsible for various regions.",
+                "example_hebrew": "החברה מארגנת את מחלקת המכירות שלה על ידי יצירת צוותים שונים, כל אחד אחראי על אזורים שונים."
+            }
+        ]
+    }
+]

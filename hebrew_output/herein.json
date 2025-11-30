@@ -1,0 +1,34 @@
+[
+    {
+        "word": "herein",
+        "word_hebrew": "כאן",
+        "main_definition": "a phrase used to refer back to the subject of a document or piece of writing, indicating that something is contained within it.",
+        "main_definition_hebrew": "ביטוי המשמש להתייחסות חזרה לנושא של מסמך או קטע כתיבה, המציין שמשהו כלול בתוכו.",
+        "meanings_and_examples": [
+            {
+                "definition": "referring to information or content within this text or document",
+                "definition_hebrew": "התייחסות למידע או תוכן בתוך הטקסט או המסמך הזה",
+                "example": "The terms and conditions are stated herein.",
+                "example_hebrew": "התנאים וההגבלות מפורטים כאן."
+            },
+            {
+                "definition": "indicating that something is included in the current context or argument being discussed",
+                "definition_hebrew": "המציין שמשהו כלול בהקשר הנוכחי או הטיעון הנדון",
+                "example": "All rights reserved; any reproduction of this work herein prohibited without prior permission.",
+                "example_hebrew": "כל הזכויות שמורות; כל העתקה של יצירה זו כאן אסורה ללא אישור מראש."
+            },
+            {
+                "definition": "referring to a previous statement, clause, or paragraph within the same document",
+                "definition_hebrew": "הכוונה להצהרה, סעיף או פסקה קודמים באותו מסמך",
+                "example": "The conditions outlined earlier are also applicable herein.",
+                "example_hebrew": "התנאים שפורטו קודם לכן חלים גם כאן."
+            },
+            {
+                "definition": "indicating that something is contained or enclosed in this space or location",
+                "definition_hebrew": "מציין שמשהו כלול או מוקף בחלל או במיקום זה",
+                "example": "The agreement and its annexes are all part of the same document, which can be found herein.",
+                "example_hebrew": "ההסכם ונספחיו הינם כולם חלק מאותו מסמך, אותו ניתן למצוא כאן."
+            }
+        ]
+    }
+]

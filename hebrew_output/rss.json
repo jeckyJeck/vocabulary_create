@@ -1,0 +1,34 @@
+[
+    {
+        "word": "rss",
+        "word_hebrew": "rss",
+        "main_definition": "RSS stands for 'Really Simple Syndication' or 'Rich Site Summary', which is a type of web feed that allows users to access updates to online content in a standardized format.",
+        "main_definition_hebrew": "RSS ראשי תיבות של 'Really Simple Syndication' או 'Rich Site Summary', שהוא סוג של הזנת אינטרנט המאפשרת למשתמשים לגשת לעדכונים לתוכן מקוון בפורמט סטנדרטי.",
+        "meanings_and_examples": [
+            {
+                "definition": "A software program used to fetch and display RSS feeds from various websites",
+                "definition_hebrew": "תוכנה המשמשת לאחזור והצגת הזנות RSS מאתרים שונים",
+                "example": "I use an RSS reader like Feedly to stay updated on my favorite news sites.",
+                "example_hebrew": "אני משתמש בקורא RSS כמו Feedly כדי להישאר מעודכן באתרי החדשות האהובים עלי."
+            },
+            {
+                "definition": "The abbreviation for 'Really Simple Syndication' or 'Rich Site Summary', which is a type of web feed that allows users to access updates to online content",
+                "definition_hebrew": "הקיצור של 'Really Simple Syndication' או 'Rich Site Summary', שהוא סוג של עדכון אינטרנט המאפשר למשתמשים לגשת לעדכונים לתוכן מקוון",
+                "example": "When I want to keep up with my favorite blogs, I use an RSS reader to get the latest posts.",
+                "example_hebrew": "כשאני רוצה להתעדכן בבלוגים האהובים עלי, אני משתמש בקורא RSS כדי לקבל את הפוסטים האחרונים."
+            },
+            {
+                "definition": "The file format used for distributing and synchronizing structured data such as feeds or news headlines from one site to another",
+                "definition_hebrew": "פורמט הקובץ המשמש להפצה וסנכרון של נתונים מובנים כגון עדכונים או כותרות חדשות מאתר אחד לאחר",
+                "example": "I subscribed to this website's feed so that I can receive updates whenever they post new content.",
+                "example_hebrew": "נרשמתי לעדכון של אתר זה כדי שאוכל לקבל עדכונים בכל פעם שהם מפרסמים תוכן חדש."
+            },
+            {
+                "definition": "A type of web feed format used by websites, blogs and other data publishers to provide updated content in a standardized XML format",
+                "definition_hebrew": "סוג של פורמט הזנת אינטרנט המשמש אתרים, בלוגים ומפרסמי נתונים אחרים כדי לספק תוכן מעודכן בפורמט XML סטנדרטי",
+                "example": "I installed the RSS plugin on my browser so I can easily access updates from all my favorite websites.",
+                "example_hebrew": "התקנתי את תוסף ה-RSS בדפדפן שלי כדי שאוכל לגשת בקלות לעדכונים מכל אתרי האינטרנט האהובים עלי."
+            }
+        ]
+    }
+]

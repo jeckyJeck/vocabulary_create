@@ -1,0 +1,40 @@
+[
+    {
+        "word": "corporation",
+        "word_hebrew": "תַאֲגִיד",
+        "main_definition": "A corporation is a legal entity that is separate from its owners, characterized by having limited liability and perpetual succession.",
+        "main_definition_hebrew": "תאגיד הוא ישות משפטית נפרדת מבעליה, המאופיינת באחריות מוגבלת ובירושה תמידית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Business organization or company",
+                "definition_hebrew": "ארגון עסקי או חברה",
+                "example": "Tech Corporation Inc. develops innovative software solutions.",
+                "example_hebrew": "Tech Corporation בע\"מ מפתחת פתרונות תוכנה חדשניים."
+            },
+            {
+                "definition": "Legal entity recognized by law, with rights and obligations similar to a natural person",
+                "definition_hebrew": "ישות משפטית המוכרת בחוק, בעלת זכויות וחובות דומות לאדם טבעי",
+                "example": "The corporation filed for bankruptcy due to financial difficulties.",
+                "example_hebrew": "התאגיד הגיש בקשה לפשיטת רגל עקב קשיים כלכליים."
+            },
+            {
+                "definition": "An organization incorporated under the laws of a particular jurisdiction that is authorized to conduct business as an artificial legal entity separate from its shareholders",
+                "definition_hebrew": "ארגון שהתאגד לפי החוקים של תחום שיפוט מסוים המורשה לנהל עסקים כישות משפטית מלאכותית בנפרד מבעלי המניות שלו",
+                "example": "Apple Corporation, established in 1976, operates worldwide and offers various consumer electronics.",
+                "example_hebrew": "תאגיד אפל, שהוקם בשנת 1976, פועל ברחבי העולם ומציע מוצרי אלקטרוניקה שונים."
+            },
+            {
+                "definition": "A company owned by shareholders who have limited liability for the corporation's debts or obligations",
+                "definition_hebrew": "חברה בבעלות בעלי מניות בעלי אחריות מוגבלת לחובות או התחייבויות התאגיד",
+                "example": "As a minority shareholder in XYZ Corporation, I am not personally responsible for its debts.",
+                "example_hebrew": "כבעל מניות מיעוט בתאגיד XYZ, איני אחראי באופן אישי לחובותיה."
+            },
+            {
+                "definition": "An entity that has a monopoly or significant market power and can influence prices or terms of trade",
+                "definition_hebrew": "ישות שיש לה מונופול או כוח שוק משמעותי ויכולה להשפיע על מחירים או תנאי סחר",
+                "example": "Microsoft was once considered a corporation with considerable market dominance in the software industry.",
+                "example_hebrew": "מיקרוסופט נחשבה פעם לתאגיד עם דומיננטיות ניכרת בשוק בתעשיית התוכנה."
+            }
+        ]
+    }
+]

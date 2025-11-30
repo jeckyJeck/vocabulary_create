@@ -1,0 +1,34 @@
+[
+    {
+        "word": "forces",
+        "word_hebrew": "כוחות",
+        "main_definition": "Forces refer to physical or metaphorical entities that exert pressure, influence, or compel actions.",
+        "main_definition_hebrew": "כוחות מתייחסים לישויות פיזיות או מטפוריות שמפעילות לחץ, משפיעות או מחייבות פעולות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical entities in the context of physics and mechanics exerting a push or pull on objects",
+                "definition_hebrew": "ישויות פיזיות בהקשר של פיזיקה ומכניקה המפעילים דחיפה או משיכה באובייקטים",
+                "example": "The forces acting upon an object can cause it to accelerate, decelerate, or change direction.",
+                "example_hebrew": "הכוחות הפועלים על עצם יכולים לגרום לו להאיץ, להאט או לשנות כיוון."
+            },
+            {
+                "definition": "A group of people, often military personnel, organized for the purpose of achieving a specific goal through application of power and strategy",
+                "definition_hebrew": "קבוצה של אנשים, לרוב אנשי צבא, מאורגנת במטרה להשיג מטרה מסוימת באמצעות יישום כוח ואסטרטגיה",
+                "example": "The French forces marched towards Berlin during World War II to defeat the German army.",
+                "example_hebrew": "הכוחות הצרפתיים צעדו לכיוון ברלין במהלך מלחמת העולם השנייה כדי להביס את הצבא הגרמני."
+            },
+            {
+                "definition": "Compulsory actions or decisions imposed on individuals or entities, often without their consent",
+                "definition_hebrew": "פעולות או החלטות כפויות המוטלות על יחידים או גופים, לרוב ללא הסכמתם",
+                "example": "She was forced to resign from her job due to company downsizing.",
+                "example_hebrew": "היא נאלצה להתפטר מעבודתה עקב צמצום החברה."
+            },
+            {
+                "definition": "An aspect of life or situation that presents a challenge or difficulty",
+                "definition_hebrew": "היבט של חיים או מצב המציב אתגר או קושי",
+                "example": "Dealing with the forces of nature, such as hurricanes and floods, can be incredibly challenging for communities.",
+                "example_hebrew": "התמודדות עם איתני הטבע, כמו הוריקנים ושיטפונות, יכולה להיות מאתגרת להפליא עבור קהילות."
+            }
+        ]
+    }
+]

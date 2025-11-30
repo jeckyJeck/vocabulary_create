@@ -1,0 +1,28 @@
+[
+    {
+        "word": "dvds",
+        "word_hebrew": "תקליטורי DVD",
+        "main_definition": "Digital Video Discs (DVDs) are a type of optical disc storage media used to store digital data, including movies, software, and other multimedia content.",
+        "main_definition_hebrew": "תקליטורי וידאו דיגיטליים (DVD) הם סוג של מדיה לאחסון דיסק אופטי המשמש לאחסון נתונים דיגיטליים, כולל סרטים, תוכנות ותוכן מולטימדיה אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Media for storing video content",
+                "definition_hebrew": "מדיה לאחסון תוכן וידאו",
+                "example": "I bought the latest action movie on DVD.",
+                "example_hebrew": "קניתי את סרט האקשן האחרון ב-DVD."
+            },
+            {
+                "definition": "A format of digital data storage",
+                "definition_hebrew": "פורמט של אחסון נתונים דיגיטלי",
+                "example": "My collection includes both CDs and DVDs.",
+                "example_hebrew": "האוסף שלי כולל גם תקליטורים וגם תקליטורי DVD."
+            },
+            {
+                "definition": "Physical disc used for storing computer files or multimedia content",
+                "definition_hebrew": "דיסק פיזי המשמש לאחסון קבצי מחשב או תוכן מולטימדיה",
+                "example": "I organized my movie collection by labeling each DVD with its title.",
+                "example_hebrew": "ארגנתי את אוסף הסרטים שלי על ידי תיוג כל DVD עם הכותרת שלו."
+            }
+        ]
+    }
+]

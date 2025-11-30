@@ -1,0 +1,40 @@
+[
+    {
+        "word": "percentage",
+        "word_hebrew": "אֲחוּזִים",
+        "main_definition": "Percentage is a way of expressing a proportion or ratio as a fraction of 100, often used to describe how one quantity compares to another.",
+        "main_definition_hebrew": "אחוז הוא דרך לבטא פרופורציה או יחס כשבריר של 100, המשמשת לעתים קרובות כדי לתאר כיצד כמות אחת משתווה לאחרת.",
+        "meanings_and_examples": [
+            {
+                "definition": "A part of a whole expressed as a number out of 100",
+                "definition_hebrew": "חלק משלם מבוטא כמספר מתוך 100",
+                "example": "If there are 50 red balls and 100 total balls, the percentage of red balls is 50%.",
+                "example_hebrew": "אם יש 50 כדורים אדומים ו-100 כדורים בסך הכל, אחוז הכדורים האדומים הוא 50%."
+            },
+            {
+                "definition": "A measure used to compare quantities or changes relative to their original amount",
+                "definition_hebrew": "מדד המשמש להשוואת כמויות או שינויים ביחס לכמותם המקורית",
+                "example": "The population increased by 2% last year compared to the previous year.",
+                "example_hebrew": "האוכלוסייה גדלה ב-2% בשנה שעברה בהשוואה לשנה הקודמת."
+            },
+            {
+                "definition": "A way of expressing probability as a fraction out of 100",
+                "definition_hebrew": "דרך לבטא הסתברות כשבריר מתוך 100",
+                "example": "There is a 75% chance that it will rain today according to the weather forecast.",
+                "example_hebrew": "יש סיכוי של 75% שיירד גשם היום לפי תחזית מזג האוויר."
+            },
+            {
+                "definition": "Used in statistics and business to analyze data, trends, and changes over time",
+                "definition_hebrew": "משמש בסטטיסטיקה ובעסקים לניתוח נתונים, מגמות ושינויים לאורך זמן",
+                "example": "The company's revenue grew by 10% this quarter compared to last quarter.",
+                "example_hebrew": "הכנסות החברה צמחו ב-10% ברבעון זה בהשוואה לרבעון שעבר."
+            },
+            {
+                "definition": "A way of expressing a ratio or comparison between two values using the base value as reference",
+                "definition_hebrew": "דרך לבטא יחס או השוואה בין שני ערכים תוך שימוש בערך הבסיס כהתייחסות",
+                "example": "If you scored 25 out of 30 on a test, your score is 83.3% (approximately) based on the total possible points.",
+                "example_hebrew": "אם קיבלת 25 מתוך 30 במבחן, הציון שלך הוא 83.3% (בערך) בהתבסס על סך הנקודות האפשריות."
+            }
+        ]
+    }
+]

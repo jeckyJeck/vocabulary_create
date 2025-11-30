@@ -1,0 +1,40 @@
+[
+    {
+        "word": "headlines",
+        "word_hebrew": "כותרות",
+        "main_definition": "Headlines refer to the prominent or attention-grabbing titles of news articles, often found at the top of a newspaper page or online news portal.",
+        "main_definition_hebrew": "כותרות מתייחסות לכותרות הבולטות או מושכות תשומת לב של כתבות חדשות, שנמצאות לרוב בראש עמוד עיתון או פורטל חדשות מקוון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Newsworthy event announcement in a newspaper",
+                "definition_hebrew": "הודעת אירוע ראויה לחדשות בעיתון",
+                "example": "The headline read: 'Local Hero Saves Family from Fire'.",
+                "example_hebrew": "בכותרת נכתב: 'גיבור מקומי מציל משפחה מאש'."
+            },
+            {
+                "definition": "Prominent title of an article or news story to attract readers",
+                "definition_hebrew": "כותרת בולטת של מאמר או כתבה חדשותית כדי למשוך קוראים",
+                "example": "The health crisis dominated the front page, with a bold headline: 'Pandemic Resurgence Spurs Global Concerns'.",
+                "example_hebrew": "משבר הבריאות שלט בעמוד הראשון, עם כותרת נועזת: 'התחדשות מגיפה מעוררת דאגות עולמיות'."
+            },
+            {
+                "definition": "Top stories highlighted in media outlets such as TV and online platforms",
+                "definition_hebrew": "סיפורים מובילים המודגשים בכלי תקשורת כגון טלוויזיה ופלטפורמות מקוונות",
+                "example": "'Earthquake Strikes Major City - Emergency Services Activated' was the headline shown on all news channels.",
+                "example_hebrew": "\"רעידת אדמה פוגעת בעיר הגדולה - שירותי חירום הופעלו\" הייתה הכותרת שהוצגה בכל ערוצי החדשות."
+            },
+            {
+                "definition": "The key point or summary of a news story, often used by journalists to quickly inform readers about an event",
+                "definition_hebrew": "נקודת המפתח או הסיכום של כתבה חדשותית, המשמשת לעתים קרובות עיתונאים כדי ליידע את הקוראים במהירות על אירוע",
+                "example": "The 'Sports Team Wins Championship After 50 Years' captures the essence of today's headline.",
+                "example_hebrew": "'קבוצת הספורט זוכה באליפות אחרי 50 שנה' תופסת את מהות הכותרת של היום."
+            },
+            {
+                "definition": "Key points or highlights from various news stories, compiled by editors to provide a summary for readers",
+                "definition_hebrew": "נקודות מפתח או דגשים מסיפורי חדשות שונים, שנאספו על ידי עורכים כדי לספק תקציר לקוראים",
+                "example": "Today's headlines featured 'Breakthrough in Cancer Research, Economic Downturn Amid Political Unrest'",
+                "example_hebrew": "הכותרות של היום כללו \"פריצת דרך בחקר הסרטן, שפל כלכלי על רקע אי שקט פוליטי\""
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "runtime",
+        "word_hebrew": "זמן ריצה",
+        "main_definition": "Runtime refers to the period during which a computer program is executing, from its start until it terminates.",
+        "main_definition_hebrew": "זמן ריצה מתייחס לתקופה שבה מופעלת תוכנית מחשב, מהתחלתה ועד לסיום.",
+        "meanings_and_examples": [
+            {
+                "definition": "The time during which a computer program is running and processing data.",
+                "definition_hebrew": "הזמן שבו תוכנית מחשב פועלת ומעבדת נתונים.",
+                "example": "When we talk about Java runtime, we're referring to the environment where Java programs are executed.",
+                "example_hebrew": "כשאנחנו מדברים על זמן ריצה של Java, אנחנו מתכוונים לסביבה שבה מופעלות תוכניות Java."
+            },
+            {
+                "definition": "An error that occurs while a program is executing.",
+                "definition_hebrew": "שגיאה המתרחשת בזמן הפעלת תוכנית.",
+                "example": "A 'runtime exception' in Python could be an attempt to divide by zero during execution.",
+                "example_hebrew": "'חריג בזמן ריצה' ב-Python יכול להיות ניסיון לחלק באפס במהלך הביצוע."
+            },
+            {
+                "definition": "The time it takes for a program or software application to execute and complete its tasks.",
+                "definition_hebrew": "הזמן שלוקח לתוכנית או ליישום תוכנה לבצע ולהשלים את המשימות שלה.",
+                "example": "Optimizing the runtime of this algorithm can significantly improve the performance of our web app.",
+                "example_hebrew": "אופטימיזציה של זמן הריצה של אלגוריתם זה יכולה לשפר משמעותית את הביצועים של אפליקציית האינטרנט שלנו."
+            },
+            {
+                "definition": "A platform that allows developers to create, run, and debug code without directly managing hardware resources or memory management details.",
+                "definition_hebrew": "פלטפורמה המאפשרת למפתחים ליצור, להריץ ולבצע ניפוי באגים בקוד מבלי לנהל ישירות משאבי חומרה או פרטי ניהול זיכרון.",
+                "example": "The .NET Framework provides a comprehensive runtime environment for building Windows applications.",
+                "example_hebrew": "NET Framework מספקת סביבת זמן ריצה מקיפה לבניית יישומי Windows."
+            },
+            {
+                "definition": "In programming, the period during which source code is compiled into machine-readable form before execution.",
+                "definition_hebrew": "בתכנות, התקופה שבה קוד המקור מקומפל לצורה הניתנת לקריאה במכונה לפני הביצוע.",
+                "example": "Garbage collection typically occurs at runtime in languages like Java and C# after compilation has finished.",
+                "example_hebrew": "איסוף אשפה מתרחש בדרך כלל בזמן ריצה בשפות כמו Java ו-C# לאחר סיום ההידור."
+            }
+        ]
+    }
+]

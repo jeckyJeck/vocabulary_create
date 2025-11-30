@@ -1,0 +1,28 @@
+[
+    {
+        "word": "assault",
+        "word_hebrew": "תקיפה",
+        "main_definition": "Assault refers to the intentional act of physically attacking or threatening another person, which can cause fear, injury, or harm.",
+        "main_definition_hebrew": "תקיפה מתייחסת לפעולה מכוונת של תקיפה פיזית או איום של אדם אחר, שעלולה לגרום לפחד, פציעה או נזק.",
+        "meanings_and_examples": [
+            {
+                "definition": "A deliberate physical attack on a person",
+                "definition_hebrew": "התקפה פיזית מכוונת על אדם",
+                "example": "The man was arrested for assault after he punched the other during an argument.",
+                "example_hebrew": "האיש נעצר בגין תקיפה לאחר שהכה את השני באגרופים במהלך ויכוח."
+            },
+            {
+                "definition": "An act of aggression that can cause fear or harm to another individual",
+                "definition_hebrew": "מעשה של תוקפנות שיכול לגרום פחד או נזק לאדם אחר",
+                "example": "She felt threatened when someone tried to assault her with verbal insults in a crowded place.",
+                "example_hebrew": "היא הרגישה מאוימת כשמישהו ניסה לתקוף אותה בעלבונות מילוליים במקום הומה אדם."
+            },
+            {
+                "definition": "The legal offense of unlawfully using force against another person, which may result in charges such as battery or aggravated assault",
+                "definition_hebrew": "העבירה המשפטית של שימוש שלא כדין בכוח נגד אדם אחר, שעלולה לגרום לאישומים כגון תקיפה או תקיפה בנסיבות מחמירות",
+                "example": "He was charged with assault after he injured the victim during a bar fight.",
+                "example_hebrew": "הוא הואשם בתקיפה לאחר שפצע את הקורבן במהלך קטטה בבר."
+            }
+        ]
+    }
+]

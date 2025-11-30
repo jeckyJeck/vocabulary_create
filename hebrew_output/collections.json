@@ -1,0 +1,28 @@
+[
+    {
+        "word": "collections",
+        "word_hebrew": "אוספים",
+        "main_definition": "Collections refer to various things such as a group of items, works or data gathered together due to their similarity, importance, or value; in the context of financial institutions, it refers to assets held by an institution that have not been invested in loans.",
+        "main_definition_hebrew": "אוספים מתייחסים לדברים שונים כגון קבוצת פריטים, יצירות או נתונים שנאספו יחד בשל הדמיון, חשיבותם או ערכם; בהקשר של מוסדות פיננסיים הכוונה היא לנכסים המוחזקים על ידי מוסד שלא הושקעו בהלוואות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A group of items or works collected together",
+                "definition_hebrew": "קבוצת פריטים או יצירות שנאספו יחד",
+                "example": "Her book collection included novels from various genres and authors.",
+                "example_hebrew": "אוסף ספריה כלל רומנים מז'אנרים ומסופרים שונים."
+            },
+            {
+                "definition": "Assets held by a financial institution that are not used as loans but instead invested or held for other purposes",
+                "definition_hebrew": "נכסים המוחזקים על ידי מוסד פיננסי שאינם משמשים כהלוואות אלא מושקעים או מוחזקים למטרות אחרות",
+                "example": "The museum's art collections consisted of paintings, sculptures, and historical artifacts from different cultures.",
+                "example_hebrew": "אוספי האמנות של המוזיאון כללו ציורים, פסלים וחפצים היסטוריים מתרבויות שונות."
+            },
+            {
+                "definition": "A list or assembly of data points that share a common characteristic",
+                "definition_hebrew": "רשימה או מכלול של נקודות נתונים שחולקות מאפיין משותף",
+                "example": "In the database, there was a collection of customer contact information organized by country.",
+                "example_hebrew": "במסד הנתונים, היה אוסף של פרטי קשר עם לקוחות מאורגן לפי מדינה."
+            }
+        ]
+    }
+]

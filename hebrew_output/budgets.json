@@ -1,0 +1,40 @@
+[
+    {
+        "word": "budgets",
+        "word_hebrew": "תקציבים",
+        "main_definition": "Budgets refer to financial plans that outline expected income and expenditures over a specific period, often used by individuals, businesses, or governments.",
+        "main_definition_hebrew": "תקציבים מתייחסים לתוכניות פיננסיות המתארות את ההכנסות וההוצאות הצפויות על פני תקופה מסוימת, המשמשות לרוב אנשים, עסקים או ממשלות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Financial plan for personal income allocation",
+                "definition_hebrew": "תכנית פיננסית להקצאת הכנסה אישית",
+                "example": "John creates an annual budget to manage his monthly expenses and savings goals.",
+                "example_hebrew": "ג'ון יוצר תקציב שנתי לניהול ההוצאות החודשיות ויעדי החיסכון שלו."
+            },
+            {
+                "definition": "A financial projection used by businesses to forecast revenues and costs",
+                "definition_hebrew": "תחזית פיננסית המשמשת עסקים לחיזוי הכנסות ועלויות",
+                "example": "The company's marketing department prepares a quarterly budget to estimate advertising spending.",
+                "example_hebrew": "מחלקת השיווק של החברה מכינה תקציב רבעוני להערכת הוצאות הפרסום."
+            },
+            {
+                "definition": "Government-established plan for public expenditure",
+                "definition_hebrew": "תוכנית הוצאה ציבורית שהוקמה על ידי הממשלה",
+                "example": "The local government publishes an annual education budget outlining the funding allocated to schools and universities.",
+                "example_hebrew": "השלטון המקומי מפרסם תקציב חינוך שנתי המפרט את המימון המוקצה לבתי ספר ואוניברסיטאות."
+            },
+            {
+                "definition": "An account that tracks income and spending over a period of time",
+                "definition_hebrew": "חשבון העוקב אחר הכנסות והוצאות לאורך תקופה",
+                "example": "Sarah reviews her bank statement to compare actual expenses with her monthly budget.",
+                "example_hebrew": "שרה בוחנת את הצהרת הבנק שלה כדי להשוות את ההוצאות בפועל עם התקציב החודשי שלה."
+            },
+            {
+                "definition": "Constraints imposed on financial resources in various scenarios",
+                "definition_hebrew": "מגבלות המוטלות על משאבים כספיים בתרחישים שונים",
+                "example": "The non-profit organization sets strict budgets for its projects due to limited funding from donations and grants.",
+                "example_hebrew": "העמותה מגדירה תקציבים קפדניים לפרויקטים שלה בשל מימון מוגבל מתרומות ומענקים."
+            }
+        ]
+    }
+]

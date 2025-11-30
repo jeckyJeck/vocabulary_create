@@ -1,0 +1,28 @@
+[
+    {
+        "word": "instrumentation",
+        "word_hebrew": "מִכשׁוּר",
+        "main_definition": "Instrumentation refers to the use of devices or instruments, especially in scientific research or manufacturing processes, as well as the arrangement or composition of instruments within a work or performance.",
+        "main_definition_hebrew": "מכשור מתייחס לשימוש במכשירים או מכשירים, במיוחד במחקר מדעי או תהליכי ייצור, כמו גם סידור או הרכב של מכשירים בתוך יצירה או ביצוע.",
+        "meanings_and_examples": [
+            {
+                "definition": "In music, instrumentation is the arrangement and selection of musical instruments used to perform a piece.",
+                "definition_hebrew": "במוזיקה, נגינה היא העיבוד והבחירה של כלי נגינה המשמשים לביצוע יצירה.",
+                "example": "The symphony featured a rich instrumentation with violins, cellos, trumpets, and a full brass section.",
+                "example_hebrew": "הסימפוניה כללה נגינה עשירה עם כינורות, צ'לו, חצוצרות וקטע כלי נשיפה מלא."
+            },
+            {
+                "definition": "In science and engineering, instrumentation refers to the equipment used for measuring or controlling physical quantities.",
+                "definition_hebrew": "במדע והנדסה, מכשור מתייחס לציוד המשמש למדידה או בקרה של כמויות פיזיות.",
+                "example": "The laboratory's instrumentation included thermometers, pressure gauges, and pH meters to conduct experiments accurately.",
+                "example_hebrew": "המכשור של המעבדה כלל מדי חום, מדי לחץ ומדדי pH לביצוע ניסויים בצורה מדויקת."
+            },
+            {
+                "definition": "In manufacturing, instrumentation involves the use of various tools and devices to monitor and control production processes.",
+                "definition_hebrew": "בייצור, מכשור כולל שימוש בכלים והתקנים שונים לניטור ובקרה על תהליכי ייצור.",
+                "example": "The factory employed advanced instrumentation systems like sensors and automated controls to optimize its assembly line efficiency.",
+                "example_hebrew": "המפעל השתמש במערכות מכשור מתקדמות כמו חיישנים ובקרה אוטומטית כדי לייעל את יעילות פס הייצור שלו."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "governor",
+        "word_hebrew": "מוֹשֵׁל",
+        "main_definition": "A governor is a person who holds the highest-ranking official position in a state, province, or territory, responsible for managing its government.",
+        "main_definition_hebrew": "מושל הוא אדם המחזיק בתפקיד הרשמי הבכיר ביותר במדינה, במחוז או בטריטוריה, האחראי על ניהול ממשלתו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Public official in charge of governing a region",
+                "definition_hebrew": "פקיד ציבור הממונה על ניהול אזור",
+                "example": "Governor Brown has proposed new policies to improve the economy of California.",
+                "example_hebrew": "המושל בראון הציע מדיניות חדשה לשיפור הכלכלה של קליפורניה."
+            },
+            {
+                "definition": "The person who is appointed or elected as head of government for a state, province, or territory",
+                "definition_hebrew": "האדם שמתמנה או נבחר כראש ממשלה של מדינה, מחוז או טריטוריה",
+                "example": "Serving as governor since 2015, Jane Doe works to ensure her constituents have access to essential services.",
+                "example_hebrew": "מכהנת כמושלת מאז 2015, ג'יין דו פועלת להבטיח שלבוחריה תהיה גישה לשירותים חיוניים."
+            },
+            {
+                "definition": "A device used to control the flow of liquid in machinery",
+                "definition_hebrew": "מכשיר המשמש לשליטה בזרימת הנוזל במכונות",
+                "example": "The factory's hydraulic press has a governor that regulates pressure and flow rate for safe operation.",
+                "example_hebrew": "למכבש ההידראולי של המפעל יש נגיד המווסת לחץ וקצב זרימה להפעלה בטוחה."
+            },
+            {
+                "definition": "An organ regulating the speed or power of an engine or other machine",
+                "definition_hebrew": "איבר המווסת את המהירות או הכוח של מנוע או מכונה אחרת",
+                "example": "The car engine had a faulty governor, causing it to rev higher than intended during acceleration.",
+                "example_hebrew": "למנוע המכונית היה מושל פגום, מה שגרם לו להעלות סיבובים גבוהים מהמתוכנן במהלך האצה."
+            }
+        ]
+    }
+]

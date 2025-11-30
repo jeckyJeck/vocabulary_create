@@ -1,0 +1,34 @@
+[
+    {
+        "word": "median",
+        "word_hebrew": "חֲצִיוֹן",
+        "main_definition": "The median is a measure of central tendency that represents the middle value in a set of numbers when arranged in ascending or descending order.",
+        "main_definition_hebrew": "החציון הוא מדד לנטייה מרכזית המייצגת את הערך האמצעי בקבוצת מספרים כשהם מסודרים בסדר עולה או יורד.",
+        "meanings_and_examples": [
+            {
+                "definition": "Statistical concept",
+                "definition_hebrew": "מושג סטטיסטי",
+                "example": "In a dataset consisting of 1, 3, 4, 7, and 9, the median is 4 as it lies in the middle when arranged in ascending order.",
+                "example_hebrew": "במערך נתונים המורכב מ-1, 3, 4, 7 ו-9, החציון הוא 4 שכן הוא נמצא באמצע כאשר הוא מסודר בסדר עולה."
+            },
+            {
+                "definition": "Middle value in a set with an odd number of observations",
+                "definition_hebrew": "ערך בינוני בקבוצה עם מספר אי זוגי של תצפיות",
+                "example": "In the dataset 5, 6, 8, 10, and 12, the median is 8 as it is the middle value when arranged in ascending order.",
+                "example_hebrew": "במערך הנתונים 5, 6, 8, 10 ו-12, החציון הוא 8 מכיוון שהוא הערך האמצעי כשהוא מסודר בסדר עולה."
+            },
+            {
+                "definition": "Middle value in a set with an even number of observations",
+                "definition_hebrew": "ערך בינוני בקבוצה עם מספר זוגי של תצפיות",
+                "example": "In the dataset 3, 4, 7, and 9, since there are four numbers, the median is calculated by averaging the two middle values (4+7)/2, resulting in a median of 5.5.",
+                "example_hebrew": "במערך הנתונים 3, 4, 7 ו-9, מכיוון שיש ארבעה מספרים, החציון מחושב על ידי ממוצע של שני הערכים האמצעיים (4+7)/2, וכתוצאה מכך חציון של 5.5."
+            },
+            {
+                "definition": "Average value",
+                "definition_hebrew": "ערך ממוצע",
+                "example": "In some contexts, 'median' can be used to represent an average or central tendency similar to the mean, but it is not exactly equivalent. For example, in income data with extreme values, the median may provide a more representative measure of typical income than the arithmetic mean.",
+                "example_hebrew": "בהקשרים מסוימים, ניתן להשתמש ב'חציון' כדי לייצג נטייה ממוצעת או מרכזית הדומה לממוצע, אבל זה לא בדיוק שווה ערך. לדוגמה, בנתוני הכנסה עם ערכים קיצוניים, החציון עשוי לספק מדד מייצג יותר של הכנסה טיפוסית מאשר הממוצע האריתמטי."
+            }
+        ]
+    }
+]

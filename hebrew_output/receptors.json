@@ -1,0 +1,40 @@
+[
+    {
+        "word": "receptors",
+        "word_hebrew": "קולטנים",
+        "main_definition": "Receptors are specialized structures that recognize and respond to specific signals, substances, or stimuli.",
+        "main_definition_hebrew": "קולטנים הם מבנים מיוחדים המזהים ומגיבים לאותות, חומרים או גירויים ספציפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In biology, receptors refer to proteins on the surface of cells that bind with specific chemicals like hormones, neurotransmitters, and other molecules, initiating a cellular response.",
+                "definition_hebrew": "בביולוגיה, קולטנים מתייחסים לחלבונים על פני השטח של תאים הנקשרים עם כימיקלים ספציפיים כמו הורמונים, נוירוטרנסמיטורים ומולקולות אחרות, המפעילים תגובה תאית.",
+                "example": "The insulin receptor in human cells helps regulate glucose metabolism by responding to the presence of insulin.",
+                "example_hebrew": "קולטן האינסולין בתאים אנושיים עוזר לווסת את חילוף החומרים של הגלוקוז על ידי תגובה לנוכחות אינסולין."
+            },
+            {
+                "definition": "In pharmacology, drug receptors are specific sites on target cells or tissues that drugs bind to in order to exert their therapeutic effects.",
+                "definition_hebrew": "בפרמקולוגיה, קולטני תרופות הם אתרים ספציפיים על תאי מטרה או רקמות שתרופות נקשרות אליהם כדי להפעיל את ההשפעות הטיפוליות שלהן.",
+                "example": "Antibiotics work by binding to bacterial cell wall synthesis enzymes, which act as receptors for the antibiotic molecules.",
+                "example_hebrew": "אנטיביוטיקה פועלת על ידי קשירה לאנזימי סינתזה של דופן תא חיידקים, הפועלים כקולטנים למולקולות האנטיביוטיות."
+            },
+            {
+                "definition": "In meteorology, precipitation receptors refer to instruments that measure and collect rain or snowfall.",
+                "definition_hebrew": "במטאורולוגיה, קולטני משקעים מתייחסים למכשירים המודדים ואוספים גשם או שלג.",
+                "example": "Rain gauges are common devices used as receptors to quantify the amount of rainfall in a given area.",
+                "example_hebrew": "מדי גשם הם מכשירים נפוצים המשמשים כקולטנים כדי לכמת את כמות הגשם באזור נתון."
+            },
+            {
+                "definition": "In linguistics, receptor refers to an individual's ability to understand and interpret spoken or written language.",
+                "definition_hebrew": "בבלשנות, הקולטן מתייחס ליכולתו של הפרט להבין ולפרש שפה מדוברת או כתובה.",
+                "example": "A good listener is often considered a strong receptor for verbal communication because they can accurately receive and comprehend messages.",
+                "example_hebrew": "מאזין טוב נחשב לרוב לקולטן חזק לתקשורת מילולית מכיוון שהוא יכול לקבל ולהבין במדויק מסרים."
+            },
+            {
+                "definition": "In the context of customer service, a call center representative acts as a 'receptive' agent by listening to customers' needs and providing appropriate solutions.",
+                "definition_hebrew": "במסגרת שירות לקוחות, נציג מוקד טלפוני פועל כסוכן 'קולט' בהקשבה לצרכי הלקוחות ומתן פתרונות הולמים.",
+                "example": "The receptors at a tech support hotline carefully listen to customers' problems before offering troubleshooting advice.",
+                "example_hebrew": "הקולטנים במוקד תמיכה טכנית מקשיבים בקפידה לבעיות הלקוחות לפני שהם מציעים עצות לפתרון בעיות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "anniversary",
+        "word_hebrew": "יוֹם הַשָׁנָה",
+        "main_definition": "An anniversary is a date that commemorates or marks an event, such as the founding of an organization or a marriage.",
+        "main_definition_hebrew": "יום נישואין הוא תאריך המנציח או מציין אירוע, כגון הקמת ארגון או נישואין.",
+        "meanings_and_examples": [
+            {
+                "definition": "A yearly celebration marking the date on which a couple got married",
+                "definition_hebrew": "חגיגה שנתית לציון התאריך בו זוג התחתן",
+                "example": "John and Mary celebrated their 25th wedding anniversary.",
+                "example_hebrew": "ג'ון ומרי חגגו את יום הנישואים ה-25 שלהם."
+            },
+            {
+                "definition": "The recurrence of an event or occasion every year since its occurrence",
+                "definition_hebrew": "הישנות של אירוע או אירוע מדי שנה מאז התרחשותו",
+                "example": "On January 1, we celebrate the company's founding anniversary, which is 10 years ago.",
+                "example_hebrew": "ב-1 בינואר אנו חוגגים יובל להקמת החברה, שהוא לפני 10 שנים."
+            },
+            {
+                "definition": "A special date to mark a significant historical event, often observed with commemorations and ceremonies",
+                "definition_hebrew": "תאריך מיוחד לציון אירוע היסטורי משמעותי, הנצפה לעתים קרובות עם הנצחה וטקסים",
+                "example": "The country marks the end of World War II as an anniversary every year on September 2nd.",
+                "example_hebrew": "המדינה מציינת את סופה של מלחמת העולם השנייה ביום השנה בכל שנה ב-2 בספטמבר."
+            }
+        ]
+    }
+]

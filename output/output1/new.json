@@ -1,0 +1,78 @@
+{
+    "word": "new",
+    "main_definition": "Things that are new.",
+    "meanings_and_examples": [
+        {
+            "definition": "Things that are new.",
+            "example": "Out with the old, in with the new."
+        },
+        {
+            "definition": "A naval cadet who has just embarked on training.",
+            "example": "The new midshipman eagerly started his journey as a naval cadet, ready to learn and grow in the rigorous training environment."
+        },
+        {
+            "definition": "To make new; to recreate; to renew.",
+            "example": "The company decided to 'new' its approach by completely revamping its marketing strategy, aiming for a fresh start and renewed interest from customers."
+        },
+        {
+            "definition": "Recently made, or created.",
+            "example": "This is a new scratch on my car!\u00a0\u00a0 The band just released a new album."
+        },
+        {
+            "definition": "Additional; recently discovered.",
+            "example": "We turned up some new evidence from the old files."
+        },
+        {
+            "definition": "Current or later, as opposed to former.",
+            "example": "My new car is much better than my previous one, even though it is older.\u00a0\u00a0 We had been in our new house for five years by then."
+        },
+        {
+            "definition": "Used to distinguish something established more recently, named after something or some place previously existing.",
+            "example": "New Bond Street is an extension of Bond Street."
+        },
+        {
+            "definition": "In original condition; pristine; not previously worn or used.",
+            "example": "Are you going to buy a new car or a second-hand one?"
+        },
+        {
+            "definition": "Refreshed, reinvigorated, reformed.",
+            "example": "That shirt is dirty. Go and put on a new one.\u00a0\u00a0 I feel like a new person after a good night's sleep.\u00a0\u00a0 After the accident, I saw the world with new eyes."
+        },
+        {
+            "definition": "Newborn.",
+            "example": "My sister has a new baby, and our mother is excited to finally have a grandchild."
+        },
+        {
+            "definition": "Of recent origin; having taken place recently.",
+            "example": "I can't see you for a while; the pain is still too new.\u00a0\u00a0 Did you see the new King Lear at the theatre?"
+        },
+        {
+            "definition": "Strange, unfamiliar or not previously known.",
+            "example": "The idea was new to me.\u00a0\u00a0 I need to meet new people."
+        },
+        {
+            "definition": "Recently arrived or appeared.",
+            "example": "Have you met the new guy in town?\u00a0\u00a0 He is the new kid at school."
+        },
+        {
+            "definition": "Inexperienced or unaccustomed at some task.",
+            "example": "Don't worry that you're new at this job; you'll get better with time.\u00a0\u00a0 I'm new at this business."
+        },
+        {
+            "definition": "(of a period of time) Next; about to begin or recently begun.",
+            "example": "We expect to grow at 10% annually in the new decade."
+        },
+        {
+            "definition": "Newly (especially in composition).",
+            "example": "new-born, new-formed, new-found, new-mown"
+        },
+        {
+            "definition": "As new; from scratch.",
+            "example": "They are scraping the site clean to build new."
+        },
+        {
+            "definition": "To create (an object) by calling its constructor.",
+            "example": "In JavaScript, the 'new' keyword is used to instantiate a new object by calling its constructor function. For example: const myCar = new Car();"
+        }
+    ]
+}

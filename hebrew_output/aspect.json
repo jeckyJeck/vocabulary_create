@@ -1,0 +1,34 @@
+[
+    {
+        "word": "aspect",
+        "word_hebrew": "אספקט",
+        "main_definition": "An aspect is a particular feature or component of something, often referring to the different ways in which it can be viewed, examined, or considered.",
+        "main_definition_hebrew": "היבט הוא תכונה או מרכיב מסוים של משהו, המתייחס לרוב לדרכים השונות שבהן ניתן לראות, לבחון אותו או להתייחס אליו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A specific feature or element of something",
+                "definition_hebrew": "תכונה או אלמנט ספציפי של משהו",
+                "example": "The various aspects of a job include salary, benefits, and work-life balance.",
+                "example_hebrew": "ההיבטים השונים של עבודה כוללים שכר, הטבות ואיזון בין עבודה לחיים."
+            },
+            {
+                "definition": "A particular angle or direction from which something can be viewed or considered",
+                "definition_hebrew": "זווית או כיוון מסוים שממנו ניתן לראות או לשקול משהו",
+                "example": "When examining a painting, the color palette is one aspect to consider, while composition is another.",
+                "example_hebrew": "כאשר בוחנים ציור, פלטת הצבעים היא היבט אחד שיש לקחת בחשבון, בעוד הקומפוזיציה היא אחרת."
+            },
+            {
+                "definition": "An element of a subject that may affect its understanding or perception",
+                "definition_hebrew": "מרכיב של נושא שעשוי להשפיע על הבנתו או תפיסתו",
+                "example": "The economic, political, and social aspects all contribute to shaping public opinion on an issue.",
+                "example_hebrew": "ההיבטים הכלכליים, הפוליטיים והחברתיים כולם תורמים לעיצוב דעת הקהל בנושא."
+            },
+            {
+                "definition": "A perspective or point of view in relation to something",
+                "definition_hebrew": "פרספקטיבה או נקודת מבט ביחס למשהו",
+                "example": "In literature analysis, the author's purpose is one aspect that readers may explore.",
+                "example_hebrew": "בניתוח ספרות, מטרת המחבר היא היבט אחד שהקוראים יכולים לחקור."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "seafood",
+        "word_hebrew": "פירות ים",
+        "main_definition": "A collective term referring to various forms of edible aquatic animals, including fish, shellfish, crustaceans, and other marine life products.",
+        "main_definition_hebrew": "מונח קיבוצי המתייחס לצורות שונות של חיות מים אכילות, כולל דגים, רכיכות, סרטנים ומוצרי חיים ימיים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Fish used as food",
+                "definition_hebrew": "דגים המשמשים כמזון",
+                "example": "Grilled salmon is a popular seafood dish.",
+                "example_hebrew": "סלמון בגריל הוא מנת פירות ים פופולרית."
+            },
+            {
+                "definition": "Shellfish, such as clams and shrimp, consumed as food",
+                "definition_hebrew": "רכיכות, כגון צדפות ושרימפס, נצרך כמזון",
+                "example": "I love eating oysters on the half shell; it's delicious seafood.",
+                "example_hebrew": "אני אוהב לאכול צדפות על חצי הקליפה; זה פירות ים טעימים."
+            },
+            {
+                "definition": "Crustaceans like lobsters and crabs used in cooking",
+                "definition_hebrew": "סרטנים כמו לובסטרים וסרטנים המשמשים בבישול",
+                "example": "The restaurant serves a mouthwatering crab cake as part of its seafood menu.",
+                "example_hebrew": "המסעדה מגישה עוגת סרטנים מעוררת תיאבון כחלק מתפריט פירות הים שלה."
+            },
+            {
+                "definition": "Other marine life products, such as algae or kelp, that are consumed as food",
+                "definition_hebrew": "מוצרי חיים ימיים אחרים, כגון אצות או אצות, הנצרכים כמזון",
+                "example": "Seaweed salad is considered a healthy and unique addition to the seafood platter in some Asian cuisines.",
+                "example_hebrew": "סלט אצות נחשב לתוספת בריאה וייחודית למגש פירות הים בחלק מהמטבחים האסייתים."
+            }
+        ]
+    }
+]

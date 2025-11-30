@@ -1,0 +1,34 @@
+[
+    {
+        "word": "pointer",
+        "word_hebrew": "מַצבִּיעַ",
+        "main_definition": "A pointer is an object that stores the memory address of another value in a computer program.",
+        "main_definition_hebrew": "מצביע הוא אובייקט המאחסן את כתובת הזיכרון של ערך אחר בתוכנת מחשב.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing, a pointer refers to a variable that holds the memory address of another variable.",
+                "definition_hebrew": "במחשוב, מצביע מתייחס למשתנה המחזיק את כתובת הזיכרון של משתנה אחר.",
+                "example": "int num = 5; int* ptr = &num;",
+                "example_hebrew": "int num = 5; int* ptr = &num;"
+            },
+            {
+                "definition": "A pointer in programming languages like C and C++ can be used for various purposes such as traversing data structures or manipulating arrays.",
+                "definition_hebrew": "מצביע בשפות תכנות כמו C ו-C++ יכול לשמש למטרות שונות כגון חציית מבני נתונים או מניפולציה של מערכים.",
+                "example": "for (int* ptr = arr; ptr < arr + 10; ++ptr) { /* some operation */ }",
+                "example_hebrew": "עבור (int* ptr = arr; ptr < arr + 10; ++ptr) { /* פעולה כלשהי */ }"
+            },
+            {
+                "definition": "In the context of programming, a pointer can also be used to create and manipulate dynamic memory allocation.",
+                "definition_hebrew": "בהקשר של תכנות, ניתן להשתמש במצביע גם כדי ליצור ולתפעל הקצאת זיכרון דינמית.",
+                "example": "char *str = (char*) malloc(20*sizeof(char)); // creating a string dynamically.",
+                "example_hebrew": "char *str = (char*) malloc(20*sizeof(char)); // יצירת מחרוזת באופן דינמי."
+            },
+            {
+                "definition": "An arrow or indicator that points towards an object, location, or direction in software interfaces like menus or user interfaces.",
+                "definition_hebrew": "חץ או מחוון המצביעים לעבר אובייקט, מיקום או כיוון בממשקי תוכנה כמו תפריטים או ממשקי משתמש.",
+                "example": "A button with an icon pointing rightwards to indicate the next step.",
+                "example_hebrew": "כפתור עם סמל המצביע ימינה כדי לציין את השלב הבא."
+            }
+        ]
+    }
+]

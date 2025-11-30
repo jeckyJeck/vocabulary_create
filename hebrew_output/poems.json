@@ -1,0 +1,34 @@
+[
+    {
+        "word": "poems",
+        "word_hebrew": "שירים",
+        "main_definition": "Poems are pieces of writing that express emotions, ideas, or tell a story in a creative and artistic manner through the use of language, rhythm, and imagery.",
+        "main_definition_hebrew": "שירים הם קטעי כתיבה המבטאים רגשות, רעיונות או מספרים סיפור בצורה יצירתית ואמנותית באמצעות שימוש בשפה, קצב ודימויים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Literary compositions",
+                "definition_hebrew": "יצירות ספרותיות",
+                "example": "Shakespeare's sonnets are examples of literary poems that convey deep emotions and themes.",
+                "example_hebrew": "הסונטות של שייקספיר הן דוגמאות לשירים ספרותיים המעבירים רגשות ונושאים עמוקים."
+            },
+            {
+                "definition": "Expressive works in verse form",
+                "definition_hebrew": "יצירות אקספרסיביות בצורת פסוק",
+                "example": "The 'Sonnet 18', also known as 'Shall I compare thee to a summer's day?', is an example of a poetic expression that uses vivid imagery and metaphor.",
+                "example_hebrew": "ה'סונטה 18', הידועה גם בשם 'האם אשווה אותך ליום קיץ?', היא דוגמה לביטוי פואטי המשתמש בדימויים ובמטפורה חיים."
+            },
+            {
+                "definition": "Short lyrical compositions",
+                "definition_hebrew": "יצירות ליריות קצרות",
+                "example": "A limerick, such as the one by Edward Lear, 'There was an Old Man with a beard', is a humorous poem consisting of five lines that follow a distinct rhyme and meter pattern.",
+                "example_hebrew": "לימריק, כמו זה של אדוארד ליר, 'היה איש זקן עם זקן', הוא שיר הומוריסטי המורכב מחמש שורות העוקבות אחר תבנית חריזה ומטר מובהקים."
+            },
+            {
+                "definition": "Free verse compositions",
+                "definition_hebrew": "חיבורי פסוקים חופשיים",
+                "example": "Walt Whitman's 'Leaves of Grass' showcases free verse, an unstructured poetic form where the poet is not bound by traditional rules such as rhyme or meter.",
+                "example_hebrew": "\"עלי דשא\" של וולט ויטמן מציג פסוק חופשי, צורה פואטית לא מובנית שבה המשורר אינו כבול לכללים מסורתיים כמו חריזה או מטר."
+            }
+        ]
+    }
+]

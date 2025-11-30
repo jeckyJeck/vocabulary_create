@@ -1,0 +1,40 @@
+[
+    {
+        "word": "let",
+        "word_hebrew": "לתת",
+        "main_definition": "To allow or permit something to happen, often used in the context of giving permission.",
+        "main_definition_hebrew": "לאפשר או לאפשר למשהו לקרות, משמש לעתים קרובות בהקשר של מתן רשות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To release from confinement",
+                "definition_hebrew": "להשתחרר מהכלא",
+                "example": "The prisoner was let out for fresh air.",
+                "example_hebrew": "האסיר שוחרר לאוויר צח."
+            },
+            {
+                "definition": "To allow a person to do something that they might not be able to do otherwise",
+                "definition_hebrew": "לאפשר לאדם לעשות משהו שאולי לא יוכל לעשות אחרת",
+                "example": "Let me help you lift this heavy box.",
+                "example_hebrew": "תן לי לעזור לך להרים את הקופסה הכבדה הזו."
+            },
+            {
+                "definition": "To permit someone to enter or use something",
+                "definition_hebrew": "לאפשר למישהו להיכנס או להשתמש במשהו",
+                "example": "The landlord let the tenant into the apartment after verifying their identity.",
+                "example_hebrew": "המשכיר הכניס את השוכר לדירה לאחר אימות זהותו."
+            },
+            {
+                "definition": "A request for someone's attention",
+                "definition_hebrew": "בקשה לתשומת לב של מישהו",
+                "example": "Excuse me, can I let you know about the meeting schedule?",
+                "example_hebrew": "סליחה, אפשר ליידע אותך על לוח הזמנים של הפגישה?"
+            },
+            {
+                "definition": "To cause something to fall or move downward under the force of gravity",
+                "definition_hebrew": "לגרום למשהו ליפול או לנוע כלפי מטה תחת כוח הכבידה",
+                "example": "The ripe fruit eventually fell from the tree.",
+                "example_hebrew": "הפרי הבשל נפל בסופו של דבר מהעץ."
+            }
+        ]
+    }
+]

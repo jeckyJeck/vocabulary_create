@@ -1,0 +1,40 @@
+[
+    {
+        "word": "industry",
+        "word_hebrew": "תַעֲשִׂיָה",
+        "main_definition": "Industry refers to a particular sector of economic activity concerned with the production or provision of goods, services, or both; it encompasses all commercial enterprises engaged in manufacturing and service activities.",
+        "main_definition_hebrew": "תעשייה מתייחסת למגזר מסוים של פעילות כלכלית העוסק בייצור או באספקה של סחורות, שירותים או שניהם; הוא מקיף את כל המפעלים המסחריים העוסקים בפעילויות ייצור ושירות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A field or sector of an economy dedicated to a particular kind of product or activity",
+                "definition_hebrew": "תחום או מגזר של כלכלה המוקדשים לסוג מסוים של מוצר או פעילות",
+                "example": "The automotive industry is responsible for designing, producing, and selling motor vehicles.",
+                "example_hebrew": "תעשיית הרכב אחראית על תכנון, ייצור ומכירת כלי רכב."
+            },
+            {
+                "definition": "An enterprise or business involved in commercial activities within the specified field",
+                "definition_hebrew": "מיזם או עסק המעורבים בפעילות מסחרית בתחום המפורט",
+                "example": "Tech companies like Google and Apple are leaders in their respective industries due to innovation and market dominance.",
+                "example_hebrew": "חברות טכנולוגיה כמו גוגל ואפל הן מובילות בתעשיות שלהן בשל חדשנות ודומיננטיות בשוק."
+            },
+            {
+                "definition": "A group of related companies that operate in a specific sector of commerce, often sharing common technologies or business practices",
+                "definition_hebrew": "קבוצה של חברות קשורות הפועלות במגזר ספציפי של מסחר, לעתים קרובות חולקות טכנולוגיות או שיטות עסקיות משותפות",
+                "example": "The pharmaceutical industry consists of many large corporations such as Pfizer, Merck, and Johnson & Johnson.",
+                "example_hebrew": "תעשיית התרופות מורכבת מתאגידים גדולים רבים כמו פייזר, מרק וג'ונסון אנד ג'ונסון."
+            },
+            {
+                "definition": "A term used to describe the collective activities and competitive dynamics among companies within a particular sector",
+                "definition_hebrew": "מונח המשמש לתיאור הפעילויות הקולקטיביות והדינמיקה התחרותית בין חברות במגזר מסוים",
+                "example": "The renewable energy industry is characterized by rapid growth and technological advancements, with intense competition between manufacturers of solar panels and wind turbines.",
+                "example_hebrew": "תעשיית האנרגיה המתחדשת מאופיינת בצמיחה מהירה ובהתקדמות טכנולוגית, תוך תחרות עזה בין יצרני פאנלים סולאריים וטורבינות רוח."
+            },
+            {
+                "definition": "The aggregate economic activity related to the production or provision of goods and services in a specific domain",
+                "definition_hebrew": "הפעילות הכלכלית המצרפית הקשורה לייצור או אספקת סחורות ושירותים בתחום מסוים",
+                "example": "The fashion industry includes clothing design, retail businesses, marketing, and advertising sectors working together.",
+                "example_hebrew": "תעשיית האופנה כוללת עיצוב בגדים, עסקים קמעונאיים, שיווק ומגזרי פרסום העובדים יחד."
+            }
+        ]
+    }
+]

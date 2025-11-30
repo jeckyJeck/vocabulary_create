@@ -1,0 +1,34 @@
+[
+    {
+        "word": "second",
+        "word_hebrew": "שְׁנִיָה",
+        "main_definition": "A unit of time equal to 60 seconds, or as a term used in various idioms representing sequence or position.",
+        "main_definition_hebrew": "יחידת זמן השווה ל-60 שניות, או כמונח המשמש בביטויים שונים המייצגים רצף או מיקום.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to the second place in rank or order",
+                "definition_hebrew": "מתייחס למקום השני בדרגה או בסדר",
+                "example": "In the race, he finished just one step behind the runner-up.",
+                "example_hebrew": "במרוץ, הוא סיים רק צעד אחד מאחורי סגן אלוף."
+            },
+            {
+                "definition": "A unit of time equal to 1/60th of a minute, often used to measure duration and speed",
+                "definition_hebrew": "יחידת זמן השווה ל-1/60 הדקה, משמשת לעתים קרובות למדידת משך ומהירות",
+                "example": "The sprinter completed the hundred-meter dash in exactly two seconds flat.",
+                "example_hebrew": "האצן השלים את ריצת מאה המטר תוך שתי שניות בדיוק."
+            },
+            {
+                "definition": "Second (as an ordinal number) indicating position after first, third, etc.",
+                "definition_hebrew": "שני (כמספר סידורי) המציין מיקום אחרי ראשון, שלישי וכו'.",
+                "example": "She was appointed as the second person to head her department.",
+                "example_hebrew": "היא מונתה כאדם השני לעמוד בראש המחלקה שלה."
+            },
+            {
+                "definition": "The interval between two things",
+                "definition_hebrew": "המרווח בין שני דברים",
+                "example": "There's a one-second delay before the video starts playing.",
+                "example_hebrew": "יש עיכוב של שנייה אחת לפני שהסרטון יתחיל לפעול."
+            }
+        ]
+    }
+]

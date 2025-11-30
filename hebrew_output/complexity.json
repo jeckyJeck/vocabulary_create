@@ -1,0 +1,34 @@
+[
+    {
+        "word": "complexity",
+        "word_hebrew": "מוּרכָּבוּת",
+        "main_definition": "The state or quality of being intricate, complicated, or having many interconnected parts or elements.",
+        "main_definition_hebrew": "המצב או האיכות של היותו מורכב, מסובך או בעל חלקים או אלמנטים רבים הקשורים ביניהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Difficulty in understanding due to intricate nature",
+                "definition_hebrew": "קושי בהבנה בגלל הטבע הסבוך",
+                "example": "Understanding the complexity of quantum physics can be challenging for beginners.",
+                "example_hebrew": "הבנת המורכבות של פיזיקת הקוונטים יכולה להיות מאתגרת למתחילים."
+            },
+            {
+                "definition": "The quality or state of being complex, not simple and easy to understand",
+                "definition_hebrew": "האיכות או המצב של היותו מורכב, לא פשוט וקל להבנה",
+                "example": "The complexity of modern technology often overwhelms older generations who are less familiar with it.",
+                "example_hebrew": "המורכבות של הטכנולוגיה המודרנית מציפה לרוב דורות מבוגרים שפחות מכירים אותה."
+            },
+            {
+                "definition": "A system composed of interconnected parts that function together in a coherent and orderly manner, but whose behavior is not easily understood",
+                "definition_hebrew": "מערכת המורכבת מחלקים מחוברים זה לזה הפועלים יחד בצורה קוהרנטית ומסודרת, אך התנהגותם אינה מובנת בקלות",
+                "example": "The complexity of the human brain allows for advanced cognitive functions like consciousness and abstract thinking.",
+                "example_hebrew": "המורכבות של המוח האנושי מאפשרת פונקציות קוגניטיביות מתקדמות כמו תודעה וחשיבה מופשטת."
+            },
+            {
+                "definition": "The degree to which something has many parts or factors that make it hard to describe in simple terms",
+                "definition_hebrew": "המידה שבה יש למשהו חלקים או גורמים רבים שמקשים על תיאורו במונחים פשוטים",
+                "example": "A work of art can be seen as complex due to its intricate details, multiple layers of meaning, and the skill required to create it.",
+                "example_hebrew": "ניתן לראות ביצירת אמנות מורכבת בשל פרטיה המורכבים, רבדי המשמעות המרובים והמיומנות הנדרשת ליצירתה."
+            }
+        ]
+    }
+]

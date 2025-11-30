@@ -1,0 +1,40 @@
+[
+    {
+        "word": "case",
+        "word_hebrew": "מקרה",
+        "main_definition": "A situation, instance, or example that is considered in a discussion or legal context.",
+        "main_definition_hebrew": "סיטואציה, מופע או דוגמה שנחשבים בדיון או בהקשר משפטי.",
+        "meanings_and_examples": [
+            {
+                "definition": "A container for holding items such as tools or products.",
+                "definition_hebrew": "מיכל להחזקת פריטים כמו כלי עבודה או מוצרים.",
+                "example": "She placed the screws and nails into the small case on her workbench.",
+                "example_hebrew": "היא הניחה את הברגים והמסמרים לתוך המארז הקטן על שולחן העבודה שלה."
+            },
+            {
+                "definition": "An instance of a particular event or occurrence.",
+                "definition_hebrew": "מופע של אירוע או התרחשות מסוימת.",
+                "example": "The detective studied the case to determine what had happened during the robbery.",
+                "example_hebrew": "הבלש חקר את המקרה כדי לקבוע מה קרה במהלך השוד."
+            },
+            {
+                "definition": "Legal action taken against someone, typically by an authority figure.",
+                "definition_hebrew": "צעדים משפטיים שננקטים נגד מישהו, בדרך כלל על ידי איש סמכות.",
+                "example": "The company was sued in a high-profile court case for breach of contract.",
+                "example_hebrew": "החברה נתבעה בתיק בעל פרופיל גבוה בגין הפרת חוזה."
+            },
+            {
+                "definition": "A set of circumstances or facts that surround and condition the course of events in a particular situation.",
+                "definition_hebrew": "סדרה של נסיבות או עובדות המקיפות ומתנות את מהלך האירועים במצב מסוים.",
+                "example": "The doctor analyzed all aspects of the patient's case before making a diagnosis.",
+                "example_hebrew": "הרופא ניתח את כל ההיבטים של המקרה של המטופל לפני ביצוע האבחנה."
+            },
+            {
+                "definition": "A problem or difficulty needing resolution, as when an issue is presented for discussion.",
+                "definition_hebrew": "בעיה או קושי הדורשים פתרון, כמו כאשר נושא מוצג לדיון.",
+                "example": "There are several cases to be discussed at tomorrow's town hall meeting.",
+                "example_hebrew": "יש כמה מקרים לדיון בישיבת העירייה מחר."
+            }
+        ]
+    }
+]

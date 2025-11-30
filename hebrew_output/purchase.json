@@ -1,0 +1,40 @@
+[
+    {
+        "word": "purchase",
+        "word_hebrew": "לִרְכּוֹשׁ",
+        "main_definition": "To acquire an item or service by paying money in exchange.",
+        "main_definition_hebrew": "לרכוש פריט או שירות על ידי תשלום כסף בתמורה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of buying goods from a store or marketplace.",
+                "definition_hebrew": "הפעולה של קניית סחורה מחנות או משוק.",
+                "example": "I made the purchase of a new pair of shoes at the mall.",
+                "example_hebrew": "קניתי זוג נעליים חדש בקניון."
+            },
+            {
+                "definition": "To obtain something through negotiation, such as property in real estate transactions.",
+                "definition_hebrew": "להשיג משהו באמצעות משא ומתן, כמו רכוש בעסקאות מקרקעין.",
+                "example": "They successfully negotiated and completed the purchase of an old building to convert it into apartments.",
+                "example_hebrew": "הם ניהלו בהצלחה משא ומתן והשלימו רכישת בניין ישן כדי להסב אותו לדירות."
+            },
+            {
+                "definition": "The amount of money exchanged for a product or service.",
+                "definition_hebrew": "סכום הכסף שהוחלף עבור מוצר או שירות.",
+                "example": "The total cost of my recent purchase, including taxes and shipping fees, came out to $50.",
+                "example_hebrew": "העלות הכוללת של הרכישה האחרונה שלי, כולל מיסים ודמי משלוח, הגיעה ל-$50."
+            },
+            {
+                "definition": "To support financially the production or creation of something, such as art or music.",
+                "definition_hebrew": "לתמוך כלכלית בייצור או יצירה של משהו, כגון אמנות או מוזיקה.",
+                "example": "She made a substantial financial purchase by funding an artist's new album.",
+                "example_hebrew": "היא ביצעה רכישה כספית משמעותית על ידי מימון אלבום חדש של אמן."
+            },
+            {
+                "definition": "The action of securing a job through an offer and acceptance process.",
+                "definition_hebrew": "הפעולה של הבטחת עבודה באמצעות תהליך קבלה של הצעה.",
+                "example": "After the interview, I received a formal purchase offer for the position as a marketing manager.",
+                "example_hebrew": "לאחר הראיון קיבלתי הצעת רכש רשמית לתפקיד מנהל שיווק."
+            }
+        ]
+    }
+]

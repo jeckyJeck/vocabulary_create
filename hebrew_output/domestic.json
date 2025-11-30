@@ -1,0 +1,34 @@
+[
+    {
+        "word": "domestic",
+        "word_hebrew": "בֵּיתִי",
+        "main_definition": "Relating to the home or family, typically within a country's borders.",
+        "main_definition_hebrew": "מתייחסים לבית או למשפחה, בדרך כלל בגבולות המדינה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Within one's own household or home environment",
+                "definition_hebrew": "בתוך משק הבית או הסביבה הביתית שלו",
+                "example": "She had domestic chores like cooking and cleaning.",
+                "example_hebrew": "היו לה מטלות בית כמו בישול וניקיון."
+            },
+            {
+                "definition": "Relating to the internal affairs of a country, excluding foreign relations",
+                "definition_hebrew": "הנוגע לענייני פנים של מדינה, למעט יחסי חוץ",
+                "example": "The government focuses on domestic policies rather than international issues.",
+                "example_hebrew": "הממשלה מתמקדת במדיניות פנים ולא בסוגיות בינלאומיות."
+            },
+            {
+                "definition": "Involving or characteristic of animals used for work within a farm environment",
+                "definition_hebrew": "מעורבות או מאפיין של בעלי חיים המשמשים לעבודה בסביבת חווה",
+                "example": "He was studying the behavior and needs of domestic livestock such as cows and chickens.",
+                "example_hebrew": "הוא חקר את ההתנהגות והצרכים של בעלי חיים ביתיים כמו פרות ותרנגולות."
+            },
+            {
+                "definition": "Relating to things that are produced, consumed or available locally instead of imported from elsewhere",
+                "definition_hebrew": "מתייחס לדברים שמיוצרים, נצרכים או זמינים במקום במקום מיובאים ממקום אחר",
+                "example": "The store sells mostly domestic products like local fruits and vegetables.",
+                "example_hebrew": "החנות מוכרת בעיקר מוצרים מקומיים כמו פירות וירקות מקומיים."
+            }
+        ]
+    }
+]

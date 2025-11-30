@@ -1,0 +1,40 @@
+[
+    {
+        "word": "mineral",
+        "word_hebrew": "מִינֵרָלִי",
+        "main_definition": "A mineral is a naturally occurring inorganic solid substance with a crystal structure, formed by geological processes.",
+        "main_definition_hebrew": "מינרל הוא חומר מוצק אנאורגני הקיים באופן טבעי בעל מבנה גבישי, הנוצר על ידי תהליכים גיאולוגיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of health and beauty products, 'mineral' refers to any ingredient derived from minerals or earth elements that is used for its beneficial effects on skin or hair.",
+                "definition_hebrew": "בהקשר של מוצרי בריאות ויופי, 'מינרל' מתייחס לכל מרכיב המופק ממינרלים או יסודות אדמה המשמשים להשפעותיו המיטיבות על העור או השיער.",
+                "example": "'Mineral-rich face masks often contain clays like kaolin or bentonite, which can help cleanse and detoxify the skin.'",
+                "example_hebrew": "\"מסכות פנים עשירות במינרלים מכילות לרוב חימר כמו קאולין או בנטוניט, שיכולים לסייע בניקוי העור ובניקוי רעלים.\""
+            },
+            {
+                "definition": "In geology, 'mineral' refers to a substance that is naturally occurring, solid at room temperature, inorganic, and has a specific chemical composition and crystalline structure.",
+                "definition_hebrew": "בגיאולוגיה, 'מינרל' מתייחס לחומר המופיע באופן טבעי, מוצק בטמפרטורת החדר, אנאורגני, ובעל הרכב כימי ומבנה גבישי ספציפי.",
+                "example": "'Quartz is a mineral composed of silicon dioxide with a hexagonal crystal lattice.'",
+                "example_hebrew": "'קוורץ הוא מינרל המורכב מסיליקון דו חמצני עם סריג קריסטל משושה'."
+            },
+            {
+                "definition": "In the context of finance or economics, 'minerals' can refer to natural resources that are extracted and sold for their value.",
+                "definition_hebrew": "בהקשר של פיננסים או כלכלה, 'מינרלים' יכולים להתייחס למשאבי טבע המופקים ונמכרים עבור ערכם.",
+                "example": "'The country's economy heavily relies on the export of diamonds and gold as valuable minerals.'",
+                "example_hebrew": "\"כלכלת המדינה מסתמכת במידה רבה על ייצוא של יהלומים וזהב כמינרלים יקרי ערך.\""
+            },
+            {
+                "definition": "In a colloquial sense, 'mineral' can be used to describe someone with an unwavering or stubborn personality.",
+                "definition_hebrew": "במובן הדיבורי, 'מינרל' יכול לשמש כדי לתאר מישהו עם אישיות בלתי מעורערת או עקשנית.",
+                "example": "'Despite all the advice, she remained a true mineral about her choice of career.'",
+                "example_hebrew": "\"למרות כל העצות, היא נשארה מינרל אמיתי לגבי בחירת הקריירה שלה.\""
+            },
+            {
+                "definition": "In environmental conservation, 'minerals' refer to soil components and other non-organic substances essential for plant growth.",
+                "definition_hebrew": "בשימור הסביבה, 'מינרלים' מתייחסים לרכיבי קרקע וחומרים לא אורגניים אחרים החיוניים לצמיחת צמחים.",
+                "example": "'The farmer added lime to the soil, a common mineral used to adjust pH levels for optimal crop yield.'",
+                "example_hebrew": "\"החקלאי הוסיף סיד לאדמה, מינרל נפוץ המשמש להתאמת רמות ה-pH לתפוקת יבול מיטבית.\""
+            }
+        ]
+    }
+]

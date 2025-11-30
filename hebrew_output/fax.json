@@ -1,0 +1,28 @@
+[
+    {
+        "word": "fax",
+        "word_hebrew": "פַקס",
+        "main_definition": "A fax, or facsimile, is a document scanned by a computer and transmitted to a receiver via the telephone network.",
+        "main_definition_hebrew": "פקס, או פקסימיליה, הוא מסמך שנסרק על ידי מחשב ומשודר למקלט דרך רשת הטלפון.",
+        "meanings_and_examples": [
+            {
+                "definition": "The process of sending documents via fax machine",
+                "definition_hebrew": "תהליך שליחת מסמכים באמצעות מכשיר פקס",
+                "example": "I need to send you my report. I'll fax it over to your office.",
+                "example_hebrew": "אני צריך לשלוח לך את הדו\"ח שלי. אני אשלח את זה בפקס למשרד שלך."
+            },
+            {
+                "definition": "A document transmitted using a facsimile technology",
+                "definition_hebrew": "מסמך המועבר באמצעות טכנולוגיית פקסימיליה",
+                "example": "The contract is being sent as a fax from the lawyer's office.",
+                "example_hebrew": "החוזה נשלח בפקס ממשרד עורך הדין."
+            },
+            {
+                "definition": "An outdated method of sending documents, replaced by email and electronic communication",
+                "definition_hebrew": "שיטה מיושנת לשליחת מסמכים, מוחלפת במייל ובתקשורת אלקטרונית",
+                "example": "In today's digital age, using a fax machine to send important information seems unnecessary.",
+                "example_hebrew": "בעידן הדיגיטלי של היום, השימוש במכשיר פקס לשליחת מידע חשוב נראה מיותר."
+            }
+        ]
+    }
+]

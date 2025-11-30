@@ -1,0 +1,40 @@
+[
+    {
+        "word": "local",
+        "word_hebrew": "מְקוֹמִי",
+        "main_definition": "Refers to something related to or situated in a particular area, region, or vicinity.",
+        "main_definition_hebrew": "מתייחס למשהו הקשור או ממוקם באזור מסוים, אזור או סביבה מסוימים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Concerning a specific area or neighborhood within a city or town.",
+                "definition_hebrew": "לגבי אזור או שכונה ספציפיים בתוך עיר או עיירה.",
+                "example": "I'm looking for a local bakery to buy some pastries.",
+                "example_hebrew": "אני מחפש מאפייה מקומית לקנות כמה מאפים."
+            },
+            {
+                "definition": "Of or relating to the immediate surroundings or community where one lives or works.",
+                "definition_hebrew": "של הסביבה הקרובה או הקהילה שבה אדם חי או עובד, או קשור אליה.",
+                "example": "There are several volunteer opportunities available in our local community center.",
+                "example_hebrew": "ישנן מספר הזדמנויות התנדבות זמינות במרכז הקהילתי המקומי שלנו."
+            },
+            {
+                "definition": "Native or pertaining to a particular area, often used to describe products made there or by people from that region.",
+                "definition_hebrew": "מקורי או קשור לאזור מסוים, משמש לעתים קרובות לתיאור מוצרים שיוצרו שם או על ידי אנשים מאותו אזור.",
+                "example": "This is a popular brand of coffee known for its strong flavor, which comes from its local sources in Colombia.",
+                "example_hebrew": "זהו מותג פופולרי של קפה הידוע בטעמו החזק, המגיע ממקורותיו המקומיים בקולומביה."
+            },
+            {
+                "definition": "The closest or nearest point to the place where one currently is.",
+                "definition_hebrew": "הנקודה הקרובה ביותר או הקרובה ביותר למקום בו נמצא כעת.",
+                "example": "Could you please direct me to the nearest gas station?",
+                "example_hebrew": "תוכל בבקשה להפנות אותי לתחנת הדלק הקרובה?"
+            },
+            {
+                "definition": "Belonging or native to a certain geographic region, especially in terms of flora and fauna.",
+                "definition_hebrew": "שייך או יליד לאזור גיאוגרפי מסוים, במיוחד מבחינת החי והצומח.",
+                "example": "This plant species is considered local because it only grows naturally in this specific ecosystem.",
+                "example_hebrew": "מין צמח זה נחשב מקומי מכיוון שהוא גדל באופן טבעי רק במערכת אקולוגית ספציפית זו."
+            }
+        ]
+    }
+]

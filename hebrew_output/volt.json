@@ -1,0 +1,28 @@
+[
+    {
+        "word": "volt",
+        "word_hebrew": "ווֹלט",
+        "main_definition": "Volt is a unit of electrical potential difference or electromotive force in the International System of Units (SI).",
+        "main_definition_hebrew": "וולט הוא יחידה של הפרש פוטנציאל חשמלי או כוח אלקטרו-מוטורי במערכת היחידות הבינלאומית (SI).",
+        "meanings_and_examples": [
+            {
+                "definition": "Electrical charge difference between two points, used to measure voltage.",
+                "definition_hebrew": "הפרש מטען חשמלי בין שתי נקודות, המשמש למדידת מתח.",
+                "example": "The battery provides a voltage of 12 volts.",
+                "example_hebrew": "הסוללה מספקת מתח של 12 וולט."
+            },
+            {
+                "definition": "A unit of electromotive force in the SI system. One volt is equal to one joule per coulomb.",
+                "definition_hebrew": "יחידה של כוח אלקטרו-מוטורי במערכת SI. וולט אחד שווה לג'אול אחד לכל קולומב.",
+                "example": "The power supply delivers an output of 9 volts.",
+                "example_hebrew": "ספק הכוח מספק תפוקה של 9 וולט."
+            },
+            {
+                "definition": "In slang or informal language, 'volt' can be used as a verb meaning to attempt or put effort into something, similar to 'try'.",
+                "definition_hebrew": "בסלנג או בשפה לא רשמית, \"וולט\" יכול לשמש כפועל שמשמעותו לנסות או להשקיע מאמץ במשהו, בדומה ל\"נסה\".",
+                "example": "He decided to volt and ask her out on a date.",
+                "example_hebrew": "הוא החליט לצאת ולבקש ממנה לצאת לדייט."
+            }
+        ]
+    }
+]

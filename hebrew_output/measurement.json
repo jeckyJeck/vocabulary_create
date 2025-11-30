@@ -1,0 +1,34 @@
+[
+    {
+        "word": "measurement",
+        "word_hebrew": "מדידה",
+        "main_definition": "The act of determining the size, quantity, or degree of something using standard units.",
+        "main_definition_hebrew": "הפעולה של קביעת הגודל, הכמות או הדרגה של משהו באמצעות יחידות סטנדרטיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A numerical value representing a property such as length, volume, mass, time, or temperature.",
+                "definition_hebrew": "ערך מספרי המייצג תכונה כגון אורך, נפח, מסה, זמן או טמפרטורה.",
+                "example": "The measurement of his height is 180 centimeters.",
+                "example_hebrew": "מדידת גובהו היא 180 סנטימטרים."
+            },
+            {
+                "definition": "The process of establishing the size or quantity of something through systematic observation and recording.",
+                "definition_hebrew": "תהליך קביעת הגודל או הכמות של משהו באמצעות תצפית ורישום שיטתיים.",
+                "example": "To measure the rainfall, we used a rain gauge to collect water.",
+                "example_hebrew": "כדי למדוד את כמות הגשמים, השתמשנו במד גשם כדי לאסוף מים."
+            },
+            {
+                "definition": "Using standard units to express an attribute such as weight, length, volume, time, etc.",
+                "definition_hebrew": "שימוש ביחידות סטנדרטיות לביטוי תכונה כגון משקל, אורך, נפח, זמן וכו'.",
+                "example": "The measurement of ingredients in baking often requires precise amounts, like 200 grams of flour.",
+                "example_hebrew": "מדידת החומרים באפייה דורשת לרוב כמויות מדויקות, כמו 200 גרם קמח."
+            },
+            {
+                "definition": "A comparison between the actual value and a standard or reference to determine accuracy.",
+                "definition_hebrew": "השוואה בין הערך בפועל לבין תקן או התייחסות לקביעת דיוק.",
+                "example": "To ensure quality control, we compare the product's dimensions against the set measurements.",
+                "example_hebrew": "כדי להבטיח בקרת איכות, אנו משווים את מידות המוצר מול המידות שנקבעו."
+            }
+        ]
+    }
+]

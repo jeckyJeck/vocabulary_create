@@ -1,0 +1,40 @@
+[
+    {
+        "word": "pain",
+        "word_hebrew": "כְּאֵב",
+        "main_definition": "Pain is a distressing feeling often caused by physical injury, illness, or emotional distress.",
+        "main_definition_hebrew": "כאב הוא תחושת מצוקה הנגרמת לרוב מפציעה פיזית, מחלה או מצוקה רגשית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical discomfort or suffering",
+                "definition_hebrew": "אי נוחות פיזית או סבל",
+                "example": "After stubbing my toe on the coffee table, I experienced intense pain.",
+                "example_hebrew": "לאחר שדחפתי את הבוהן על שולחן הקפה, חוויתי כאב עז."
+            },
+            {
+                "definition": "Severe emotional distress",
+                "definition_hebrew": "מצוקה רגשית קשה",
+                "example": "The loss of her pet caused her great pain and sadness.",
+                "example_hebrew": "אובדן חיית המחמד שלה גרם לה לכאב ועצב רב."
+            },
+            {
+                "definition": "An expression indicating difficulty or struggle",
+                "definition_hebrew": "ביטוי המצביע על קושי או מאבק",
+                "example": "I'm feeling a bit lost right now, this is causing me some pain.",
+                "example_hebrew": "אני מרגיש קצת אבוד עכשיו, זה גורם לי קצת כאב."
+            },
+            {
+                "definition": "The result of injury or damage to the body",
+                "definition_hebrew": "תוצאה של פציעה או נזק לגוף",
+                "example": "His sprained ankle was in considerable pain after playing basketball.",
+                "example_hebrew": "הקרסול הנקוע שלו סבל מכאבים ניכרים לאחר ששיחק כדורסל."
+            },
+            {
+                "definition": "A metaphorical expression of discomfort with a situation, decision, etc.",
+                "definition_hebrew": "ביטוי מטפורי של אי נוחות עם מצב, החלטה וכו'.",
+                "example": "The idea that they were cutting her out of the company felt like a punch to the gut.",
+                "example_hebrew": "הרעיון שהם חותכים אותה מהחברה הרגיש כמו אגרוף בבטן."
+            }
+        ]
+    }
+]

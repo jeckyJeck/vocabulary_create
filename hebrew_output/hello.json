@@ -1,0 +1,28 @@
+[
+    {
+        "word": "hello",
+        "word_hebrew": "שלום",
+        "main_definition": "Hello is a common greeting used to acknowledge or attract attention of someone, expressing politeness or friendliness.",
+        "main_definition_hebrew": "שלום היא ברכה נפוצה המשמשת כדי להכיר או למשוך תשומת לב של מישהו, להביע נימוס או ידידותיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A salutation or greeting when meeting or addressing someone",
+                "definition_hebrew": "ברכה או ברכה בעת פגישה או פנייה למישהו",
+                "example": "When I arrived at the party, I said 'Hello' to everyone.",
+                "example_hebrew": "כשהגעתי למסיבה אמרתי 'שלום' לכולם."
+            },
+            {
+                "definition": "An expression used to get attention in a polite manner",
+                "definition_hebrew": "ביטוי המשמש למשיכת תשומת לב בצורה מנומסת",
+                "example": "'Hello?' she called out from across the street as she waved her hand.",
+                "example_hebrew": "'שלום?' היא קראה מעבר לרחוב כשהיא מניפה את ידה."
+            },
+            {
+                "definition": "A way of acknowledging someone's presence or showing interest in starting a conversation",
+                "definition_hebrew": "דרך להכיר בנוכחותו של מישהו או להראות עניין בפתיחת שיחה",
+                "example": "He nodded and said 'Hello, how are you today?'",
+                "example_hebrew": "הוא הנהן ואמר 'שלום, מה שלומך היום?'"
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "duplicate",
+        "word_hebrew": "לְשַׁכְפֵּל",
+        "main_definition": "To make an exact copy or reproduction of something.",
+        "main_definition_hebrew": "לעשות עותק או רפרודוקציה מדויקת של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Creating a replica that is identical in appearance and function to the original object or information. For example, making two copies of a document using a photocopier.",
+                "definition_hebrew": "יצירת העתק זהה במראה ובתפקוד לאובייקט או למידע המקורי. לדוגמה, הכנת שני עותקים של מסמך באמצעות מכונת צילום.",
+                "example": "She duplicated her homework assignment by copying it into another sheet.",
+                "example_hebrew": "היא שכפלה את מטלת הבית שלה על ידי העתקה לגיליון אחר."
+            },
+            {
+                "definition": "In computing, referring to the process of creating an identical copy of data or files. For example, when you save a file as 'Duplicate' in some software.",
+                "definition_hebrew": "במחשוב, הכוונה לתהליך של יצירת עותק זהה של נתונים או קבצים. לדוגמה, כאשר אתה שומר קובץ בתור 'כפול' בתוכנה כלשהי.",
+                "example": "The user accidentally duplicated their project folder, resulting in two identical folders on the desktop.",
+                "example_hebrew": "המשתמש שיכפל בטעות את תיקיית הפרויקט שלו, וכתוצאה מכך שתי תיקיות זהות בשולחן העבודה."
+            },
+            {
+                "definition": "In biology and genetics, referring to offspring or cells that are genetically identical to the parent organism. For example, twins who share the same DNA.",
+                "definition_hebrew": "בביולוגיה וגנטיקה, הכוונה לצאצאים או לתאים זהים גנטית לאורגניזם האב. למשל, תאומים שחולקים את אותו DNA.",
+                "example": "The laboratory created several duplicates of a particular plant cell for their experiment.",
+                "example_hebrew": "המעבדה יצרה מספר כפילויות של תא צמח מסוים לצורך הניסוי שלהם."
+            },
+            {
+                "definition": "To repeat something verbally or in writing. For example, someone might duplicate information by quoting it from an original source.",
+                "definition_hebrew": "לחזור על משהו בעל פה או בכתב. לדוגמה, מישהו עשוי לשכפל מידע על ידי ציטוט שלו ממקור מקורי.",
+                "example": "He didn't take notes during the lecture but later duplicated everything he could remember onto his laptop.",
+                "example_hebrew": "הוא לא רשם הערות במהלך ההרצאה, אבל מאוחר יותר שיכפל את כל מה שהוא יכול לזכור על המחשב הנייד שלו."
+            }
+        ]
+    }
+]

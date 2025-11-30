@@ -1,0 +1,40 @@
+[
+    {
+        "word": "lane",
+        "word_hebrew": "נתיב",
+        "main_definition": "A lane is a specific section of a road or path, typically used by vehicles or pedestrians to travel in an organized manner.",
+        "main_definition_hebrew": "נתיב הוא קטע מסוים של כביש או נתיב, המשמש בדרך כלל כלי רכב או הולכי רגל לנסיעה בצורה מאורגנת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Roadway division",
+                "definition_hebrew": "חלוקת כבישים",
+                "example": "The city has divided the main highway into three lanes for traffic flow.",
+                "example_hebrew": "העיר חילקה את הכביש הראשי לשלושה נתיבים לזרימת התנועה."
+            },
+            {
+                "definition": "Cycling path",
+                "definition_hebrew": "שביל רכיבה על אופניים",
+                "example": "Bicyclists use the dedicated cycling lane to safely ride alongside vehicles on the road.",
+                "example_hebrew": "רוכבי אופניים משתמשים בנתיב הרכיבה הייעודי כדי לנסוע בבטחה לצד כלי רכב על הכביש."
+            },
+            {
+                "definition": "Air traffic control",
+                "definition_hebrew": "בקרת תנועה אווירית",
+                "example": "Each aircraft is assigned a specific altitude and airspace, creating distinct lanes for safe navigation.",
+                "example_hebrew": "לכל מטוס מוקצים גובה ומרחב אווירי ספציפיים, ויוצרים נתיבים נפרדים לניווט בטוח."
+            },
+            {
+                "definition": "Maritime navigation",
+                "definition_hebrew": "ניווט ימי",
+                "example": "Ships at sea are directed into designated shipping lanes to ensure efficient and collision-free passage.",
+                "example_hebrew": "ספינות בים מופנות לנתיבי שיט ייעודיים כדי להבטיח מעבר יעיל וללא התנגשות."
+            },
+            {
+                "definition": "Virtual or online space division",
+                "definition_hebrew": "חלוקת חלל וירטואלית או מקוונת",
+                "example": "On a gaming platform, players are assigned their own unique lane within the virtual arena for strategic gameplay.",
+                "example_hebrew": "בפלטפורמת משחקים, השחקנים מקבלים מסלול ייחודי משלהם בזירה הוירטואלית למשחק אסטרטגי."
+            }
+        ]
+    }
+]

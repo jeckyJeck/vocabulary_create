@@ -1,0 +1,28 @@
+[
+    {
+        "word": "searched",
+        "word_hebrew": "חיפשו",
+        "main_definition": "To have looked thoroughly or carefully in order to find something.",
+        "main_definition_hebrew": "חיפשתי ביסודיות או בקפידה כדי למצוא משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Past tense of search, meaning having conducted a thorough examination or inquiry.",
+                "definition_hebrew": "זמן עבר של חיפוש, כלומר עריכת בדיקה או חקירה יסודית.",
+                "example": "The detective searched the house for clues.",
+                "example_hebrew": "הבלש חיפש בבית אחר רמזים."
+            },
+            {
+                "definition": "To attempt to find something by looking carefully and systematically.",
+                "definition_hebrew": "לנסות למצוא משהו על ידי הסתכלות זהירה ושיטתית.",
+                "example": "She searched through her bag but couldn't find her keys.",
+                "example_hebrew": "היא חיפשה בתיק שלה אבל לא מצאה את המפתחות שלה."
+            },
+            {
+                "definition": "In a digital context, referring to the act of querying a database or using tools like search engines to locate information.",
+                "definition_hebrew": "בהקשר דיגיטלי, הכוונה לפעולת השאילתה למסד נתונים או שימוש בכלים כמו מנועי חיפוש כדי לאתר מידע.",
+                "example": "He used various search engines to research his topic online.",
+                "example_hebrew": "הוא השתמש במנועי חיפוש שונים כדי לחקור את הנושא שלו באינטרנט."
+            }
+        ]
+    }
+]

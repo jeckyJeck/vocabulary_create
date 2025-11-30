@@ -1,0 +1,46 @@
+[
+    {
+        "word": "cable",
+        "word_hebrew": "כֶּבֶל",
+        "main_definition": "A strong rope-like structure made of many wires or cords, used to transmit signals or electricity, or a connection between two places.",
+        "main_definition_hebrew": "מבנה חזק דמוי חבל העשוי מחוטים או חוטים רבים, המשמש להעברת אותות או חשמל, או חיבור בין שני מקומות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Infrastructure for transmitting power",
+                "definition_hebrew": "תשתית להעברת כוח",
+                "example": "The electrical cable connected the generator to the house's electrical system.",
+                "example_hebrew": "כבל החשמל חיבר את הגנרטור למערכת החשמל של הבית."
+            },
+            {
+                "definition": "A strong rope-like structure used in historical times or maritime contexts",
+                "definition_hebrew": "מבנה חזק דמוי חבל בשימוש בזמנים היסטוריים או בהקשרים ימיים",
+                "example": "Explorers used a series of cables anchored to rocks underwater for climbing steep coastal cliffs.",
+                "example_hebrew": "חוקרים השתמשו בסדרה של כבלים שעוגנו לסלעים מתחת למים לטיפוס על צוקי חוף תלולים."
+            },
+            {
+                "definition": "In media, referring to the distribution network for broadcasting content (e.g., television or radio signals)",
+                "definition_hebrew": "בתקשורת, הכוונה לרשת ההפצה לשידור תוכן (כגון אותות טלוויזיה או רדיו)",
+                "example": "The cable company provides access to a wide range of channels and services.",
+                "example_hebrew": "חברת הכבלים מספקת גישה למגוון רחב של ערוצים ושירותים."
+            },
+            {
+                "definition": "A connection between two points",
+                "definition_hebrew": "חיבור בין שתי נקודות",
+                "example": "They fixed a data cable to connect the main server room with the new office building.",
+                "example_hebrew": "הם תיקנו כבל נתונים כדי לחבר את חדר השרתים הראשי עם בניין המשרדים החדש."
+            },
+            {
+                "definition": "Grouping or collection of similar things",
+                "definition_hebrew": "קיבוץ או אוסף של דברים דומים",
+                "example": "He sorted all his cables by type and length for easier management.",
+                "example_hebrew": "הוא מייין את כל הכבלים שלו לפי סוג ואורך לניהול קל יותר."
+            },
+            {
+                "definition": "A series of connected televisions (as in a cable television system)",
+                "definition_hebrew": "סדרה של טלוויזיות מחוברות (כמו במערכת טלוויזיה בכבלים)",
+                "example": "I subscribe to a cable TV service that offers hundreds of channels.",
+                "example_hebrew": "אני מנוי לשירות טלוויזיה בכבלים שמציע מאות ערוצים."
+            }
+        ]
+    }
+]

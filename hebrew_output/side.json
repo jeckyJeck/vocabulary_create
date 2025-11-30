@@ -1,0 +1,34 @@
+[
+    {
+        "word": "side",
+        "word_hebrew": "צַד",
+        "main_definition": "Side refers to a position or direction, as well as the flank of an object or individual.",
+        "main_definition_hebrew": "צד מתייחס למיקום או לכיוון, כמו גם לצד של אובייקט או פרט.",
+        "meanings_and_examples": [
+            {
+                "definition": "One of the two parts into which something is divided or the space on one side of an object or person",
+                "definition_hebrew": "אחד משני החלקים שלתוכם משהו מחולק או החלל בצד אחד של חפץ או אדם",
+                "example": "I was standing next to her, on her right side.",
+                "example_hebrew": "עמדתי לידה, בצד ימין שלה."
+            },
+            {
+                "definition": "The position or direction that something faces or moves towards",
+                "definition_hebrew": "המיקום או הכיוון שמשהו פונה או נע לעברו",
+                "example": "He turned his car to the left side of the road.",
+                "example_hebrew": "הוא סובב את מכוניתו לצד שמאל של הכביש."
+            },
+            {
+                "definition": "An alliance or faction supporting a cause or person",
+                "definition_hebrew": "ברית או סיעה התומכים במטרה או באדם",
+                "example": "There were two sides in the argument: one for and one against.",
+                "example_hebrew": "היו שני צדדים בטיעון: אחד בעד ואחד נגד."
+            },
+            {
+                "definition": "A secondary opinion, perspective, or interpretation about an event or situation",
+                "definition_hebrew": "דעה משנית, פרספקטיבה או פרשנות לגבי אירוע או מצב",
+                "example": "In any given debate, there are multiple sides to consider before making a decision.",
+                "example_hebrew": "בכל דיון נתון, ישנם מספר צדדים שיש לקחת בחשבון לפני קבלת החלטה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "police",
+        "word_hebrew": "מִשׁטָרָה",
+        "main_definition": "The police are a civil force in the community responsible for maintaining public order, preventing crime, and enforcing laws.",
+        "main_definition_hebrew": "המשטרה היא כוח אזרחי בקהילה האחראי על שמירת הסדר הציבורי, מניעת פשיעה ואכיפת חוקים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Law Enforcement Agency",
+                "definition_hebrew": "סוכנות אכיפת החוק",
+                "example": "The New York Police Department (NYPD) is one of the largest law enforcement agencies in the United States.",
+                "example_hebrew": "משטרת ניו יורק (NYPD) היא אחת מסוכנויות אכיפת החוק הגדולות בארצות הברית."
+            },
+            {
+                "definition": "Public Order Maintenance",
+                "definition_hebrew": "שמירה על הסדר הציבורי",
+                "example": "When protesters were causing a disturbance, the police arrived to restore order and ensure public safety.",
+                "example_hebrew": "כאשר המפגינים עוררו הפרת סדר, המשטרה הגיעה על מנת להחזיר את הסדר על כנו ולהבטיח את ביטחון הציבור."
+            },
+            {
+                "definition": "Crime Prevention",
+                "definition_hebrew": "מניעת פשע",
+                "example": "The neighborhood watch program works with local police to prevent crime in their community.",
+                "example_hebrew": "תוכנית משמר השכונה עובדת עם המשטרה המקומית למניעת פשיעה בקהילה שלהם."
+            },
+            {
+                "definition": "Legal Enforcement",
+                "definition_hebrew": "אכיפה משפטית",
+                "example": "A police officer issued a ticket for running a red light, enforcing traffic laws.",
+                "example_hebrew": "שוטר הוציא כרטיס לרמזור אדום, אכיפת חוקי התעבורה."
+            },
+            {
+                "definition": "Community Service",
+                "definition_hebrew": "שירות קהילתי",
+                "example": "The local police department organizes community service events like neighborhood cleanups and food drives.",
+                "example_hebrew": "מחלקת המשטרה המקומית מארגנת אירועי שירות קהילתי כמו ניקיון שכונת ונסיעות אוכל."
+            }
+        ]
+    }
+]

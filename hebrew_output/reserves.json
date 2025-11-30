@@ -1,0 +1,40 @@
+[
+    {
+        "word": "reserves",
+        "word_hebrew": "עתודות",
+        "main_definition": "Reserves refer to the act of setting aside or holding back something, such as money, resources, or time.",
+        "main_definition_hebrew": "מילואים מתייחסים לפעולה של הצדה או עיכוב של משהו, כגון כסף, משאבים או זמן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Financial reserves: The portion of a company's assets set aside for future use, emergencies, or unexpected expenses.",
+                "definition_hebrew": "עתודות פיננסיות: החלק מנכסי החברה שהופרש לשימוש עתידי, למקרי חירום או להוצאות בלתי צפויות.",
+                "example": "The bank requires companies to maintain certain financial reserves to ensure stability.",
+                "example_hebrew": "הבנק דורש מחברות לשמור על עתודות פיננסיות מסוימות כדי להבטיח יציבות."
+            },
+            {
+                "definition": "Natural resources reservation: Designating areas where natural resources are protected and preserved for environmental conservation.",
+                "definition_hebrew": "שמירת משאבי טבע: ייעוד אזורים שבהם משאבי טבע מוגנים ומשמרים לשימור הסביבה.",
+                "example": "The government established a national park as a reserve of its pristine rainforests.",
+                "example_hebrew": "הממשלה הקימה פארק לאומי כשמורה של יערות הגשם הבתוליים שלה."
+            },
+            {
+                "definition": "Time reservation: Setting aside specific time slots for particular activities or commitments.",
+                "definition_hebrew": "הזמנת זמן: הקצאת משבצות זמן ספציפיות לפעילויות או התחייבויות מסוימות.",
+                "example": "I reserved the meeting room from 2 pm to 4 pm for our project discussion.",
+                "example_hebrew": "שמרתי את חדר הישיבות מ-14:00 עד 16:00 לדיון בפרויקט שלנו."
+            },
+            {
+                "definition": "Wine reserves: A term used in viticulture referring to a practice where wine is stored and aged under specific conditions.",
+                "definition_hebrew": "עתודות יין: מונח המשמש בגידול גפנים המתייחס לפרקטיקה שבה יין מאוחסן ומתיישן בתנאים ספציפיים.",
+                "example": "The winery's top-quality wines are kept in special reserves, allowing them to age gracefully.",
+                "example_hebrew": "היינות האיכותיים של היקב נשמרים בשמורות מיוחדות, המאפשרות להם להתיישן בחן."
+            },
+            {
+                "definition": "Reservation of rights: The act of acknowledging that a party may have some claims or defenses but has not yet committed themselves.",
+                "definition_hebrew": "שמירת זכויות: מעשה ההכרה בכך שלצד עשויות להיות טענות או הגנות מסוימות, אך טרם התחייב.",
+                "example": "The landlord made a formal reservation of rights regarding the tenant's potential damages.",
+                "example_hebrew": "המשכיר עשה הסתייגות רשמית של זכויות לגבי הנזקים הפוטנציאליים של השוכר."
+            }
+        ]
+    }
+]

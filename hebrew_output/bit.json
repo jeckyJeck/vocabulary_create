@@ -1,0 +1,40 @@
+[
+    {
+        "word": "bit",
+        "word_hebrew": "קצת",
+        "main_definition": "A small piece of something, or a unit of information in computing.",
+        "main_definition_hebrew": "חתיכה קטנה של משהו, או יחידת מידע במחשוב.",
+        "meanings_and_examples": [
+            {
+                "definition": "To have a slight physical injury caused by teeth or nails.",
+                "definition_hebrew": "יש פציעה פיזית קלה הנגרמת משיניים או ציפורניים.",
+                "example": "After being scratched by the cat's claws, she felt a bit painful.",
+                "example_hebrew": "לאחר שנשרטה בציפורני החתול, היא הרגישה מעט כואבת."
+            },
+            {
+                "definition": "A small amount of something, often used in context to describe quantity or degree.",
+                "definition_hebrew": "כמות קטנה של משהו, משמשת לעתים קרובות בהקשר לתיאור כמות או תואר.",
+                "example": "He only had a bit of time before he needed to leave for his appointment.",
+                "example_hebrew": "היה לו רק מעט זמן לפני שהיה צריך לעזוב לפגישה שלו."
+            },
+            {
+                "definition": "In computing, a bit is the basic unit of information that can have one of two values (0 or 1).",
+                "definition_hebrew": "במחשוב, ביט הוא יחידת המידע הבסיסית שיכולה להיות בעלת אחד משני ערכים (0 או 1).",
+                "example": "Each character in a text file is represented by a series of bits.",
+                "example_hebrew": "כל תו בקובץ טקסט מיוצג על ידי סדרה של ביטים."
+            },
+            {
+                "definition": "A small piece of something.",
+                "definition_hebrew": "חתיכה קטנה ממשהו.",
+                "example": "She broke off a bit from the large chocolate bar to share with her friend.",
+                "example_hebrew": "היא נפרדה קצת מחטיפת השוקולד הגדולה כדי לחלוק עם חברתה."
+            },
+            {
+                "definition": "To cause to bite, especially as an injury or irritation.",
+                "definition_hebrew": "לגרום לנשיכה, במיוחד כפציעה או גירוי.",
+                "example": "The mosquito's bite was so itchy and annoying.",
+                "example_hebrew": "עקיצת היתוש הייתה כל כך מגרדת ומעצבנת."
+            }
+        ]
+    }
+]

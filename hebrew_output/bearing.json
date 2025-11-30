@@ -1,0 +1,34 @@
+[
+    {
+        "word": "bearing",
+        "word_hebrew": "מֵסַב",
+        "main_definition": "Bearing refers to the attitude, demeanor, or way in which a person carries themselves or presents their thoughts or opinions.",
+        "main_definition_hebrew": "נשיאה מתייחסת לגישה, להתנהגות או לדרך שבה אדם נושא את עצמו או מציג את מחשבותיו או דעותיו.",
+        "meanings_and_examples": [
+            {
+                "definition": "The manner in which someone behaves or conducts themselves",
+                "definition_hebrew": "האופן שבו מישהו מתנהג או מתנהל",
+                "example": "Despite facing many challenges, she maintained a calm and composed bearing.",
+                "example_hebrew": "למרות התמודדות עם אתגרים רבים, היא שמרה על נטייה רגועה ושלווה."
+            },
+            {
+                "definition": "A fixed point used for reference, often indicating position or direction",
+                "definition_hebrew": "נקודה קבועה המשמשת להתייחסות, לעתים קרובות מציינת מיקום או כיוון",
+                "example": "The compass indicated that we were heading due north from our current bearing.",
+                "example_hebrew": "המצפן הצביע על כך שאנו הולכים צפונה מהכיוון הנוכחי שלנו."
+            },
+            {
+                "definition": "The way in which a situation is carried out or dealt with",
+                "definition_hebrew": "אופן ביצוע או טיפול במצב",
+                "example": "His approach to resolving conflicts at work demonstrated his pragmatic bearing.",
+                "example_hebrew": "הגישה שלו לפתרון קונפליקטים בעבודה הוכיחה את יחסו הפרגמטי."
+            },
+            {
+                "definition": "A measure of the distance between two points on a circular path, expressed as an angle in degrees from north or south",
+                "definition_hebrew": "מדד של המרחק בין שתי נקודות בנתיב מעגלי, מבוטא כזווית במעלות מצפון או מדרום",
+                "example": "The bearing of our ship changed by 45 degrees to avoid the storm ahead.",
+                "example_hebrew": "המיסב של הספינה שלנו השתנה ב-45 מעלות כדי למנוע את הסערה שלפנינו."
+            }
+        ]
+    }
+]

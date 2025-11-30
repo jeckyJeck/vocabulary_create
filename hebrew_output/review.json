@@ -1,0 +1,34 @@
+[
+    {
+        "word": "review",
+        "word_hebrew": "סקירה",
+        "main_definition": "A critical analysis or assessment of something, typically in order to make a decision about it.",
+        "main_definition_hebrew": "ניתוח או הערכה ביקורתית של משהו, בדרך כלל על מנת לקבל החלטה לגביו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To examine and evaluate the content, quality, or performance of something, such as a book, film, or product.",
+                "definition_hebrew": "לבחון ולהעריך את התוכן, האיכות או הביצועים של משהו, כגון ספר, סרט או מוצר.",
+                "example": "I need to review this article before submitting my final comments.",
+                "example_hebrew": "אני צריך לעיין במאמר זה לפני שליחת ההערות האחרונות שלי."
+            },
+            {
+                "definition": "A formal report providing an assessment or evaluation of someone's job performance over a period of time.",
+                "definition_hebrew": "דוח רשמי המספק הערכה או הערכה של ביצועי העבודה של מישהו לאורך תקופה.",
+                "example": "The manager requested a yearly performance review for each employee.",
+                "example_hebrew": "המנהל ביקש סקירת ביצועים שנתית עבור כל עובד."
+            },
+            {
+                "definition": "To look back on and consider something again, especially to make changes or improvements based on past experiences.",
+                "definition_hebrew": "להסתכל אחורה ולשקול שוב משהו, במיוחד כדי לבצע שינויים או שיפורים על סמך חוויות העבר.",
+                "example": "Before starting our new marketing campaign, we need to review the previous one's results.",
+                "example_hebrew": "לפני שמתחילים במסע השיווק החדש שלנו, עלינו לסקור את התוצאות של הקודם."
+            },
+            {
+                "definition": "A summary of a piece of work or event that provides an overview and analysis for readers or viewers.",
+                "definition_hebrew": "סיכום של יצירה או אירוע המספק סקירה וניתוח לקוראים או לצופים.",
+                "example": "The movie review discusses the plot, acting, and overall quality of the film.",
+                "example_hebrew": "ביקורת הסרט דנה בעלילה, המשחק והאיכות הכללית של הסרט."
+            }
+        ]
+    }
+]

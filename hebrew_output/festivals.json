@@ -1,0 +1,34 @@
+[
+    {
+        "word": "festivals",
+        "word_hebrew": "פסטיבלים",
+        "main_definition": "Festivals are special events that celebrate various cultural, religious, seasonal, or historical aspects of a community, often featuring performances, food, and activities.",
+        "main_definition_hebrew": "פסטיבלים הם אירועים מיוחדים החוגגים היבטים תרבותיים, דתיים, עונתיים או היסטוריים שונים של קהילה, ולרוב כוללים הופעות, אוכל ופעילויות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Cultural festivals",
+                "definition_hebrew": "פסטיבלי תרבות",
+                "example": "The Chinese New Year festival is an annual event that celebrates the beginning of the lunar new year with dragon dances, fireworks, and traditional foods.",
+                "example_hebrew": "פסטיבל ראש השנה הסיני הוא אירוע שנתי שחוגג את תחילת השנה החדשה הירחי עם ריקודי דרקונים, זיקוקים ומאכלים מסורתיים."
+            },
+            {
+                "definition": "Religious festivals",
+                "definition_hebrew": "פסטיבלים דתיים",
+                "example": "Easter is a religious festival celebrated by Christians worldwide to commemorate the resurrection of Jesus Christ. It often involves church services, egg hunting, and feasting.",
+                "example_hebrew": "חג הפסחא הוא פסטיבל דתי שנחגג על ידי נוצרים ברחבי העולם כדי להנציח את תחייתו של ישוע המשיח. לעתים קרובות זה כרוך בשירותי כנסייה, ציד ביצים ומשתה."
+            },
+            {
+                "definition": "Seasonal festivals",
+                "definition_hebrew": "פסטיבלים עונתיים",
+                "example": "Thanksgiving is a seasonal festival in the United States that celebrates giving thanks for the harvest and blessings of the past year. It typically involves a large meal with family and friends.",
+                "example_hebrew": "חג ההודיה הוא פסטיבל עונתי בארצות הברית שחוגג הודיה על הקציר והברכות של השנה האחרונה. זה בדרך כלל כולל ארוחה גדולה עם משפחה וחברים."
+            },
+            {
+                "definition": "Historical festivals",
+                "definition_hebrew": "פסטיבלים היסטוריים",
+                "example": "The Battle of Hastings reenactment is an annual historical festival in England that recreates the events of the 1066 battle between the Normans and English. It includes costumes, mock battles, and educational exhibits.",
+                "example_hebrew": "שחזור קרב הייסטינגס הוא פסטיבל היסטורי שנתי באנגליה המשחזר את אירועי הקרב ב-1066 בין הנורמנים לאנגלים. הוא כולל תלבושות, קרבות מדומה ותערוכות חינוכיות."
+            }
+        ]
+    }
+]

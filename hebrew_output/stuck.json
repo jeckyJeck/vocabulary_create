@@ -1,0 +1,34 @@
+[
+    {
+        "word": "stuck",
+        "word_hebrew": "תָקוּעַ",
+        "main_definition": "To be unable to move or progress, often due to obstacles or a specific situation.",
+        "main_definition_hebrew": "לא להיות מסוגל לזוז או להתקדם, לעתים קרובות בגלל מכשולים או מצב ספציפי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Immobile and unable to free oneself from a particular position or location.",
+                "definition_hebrew": "חסר תנועה ואינו מסוגל להשתחרר מעמדה או מיקום מסוים.",
+                "example": "I got stuck in the mud while hiking.",
+                "example_hebrew": "נתקעתי בבוץ בזמן טיול."
+            },
+            {
+                "definition": "Unable to make progress due to an obstacle or challenge.",
+                "definition_hebrew": "לא מצליח להתקדם עקב מכשול או אתגר.",
+                "example": "Our project is stuck because we can't agree on a budget.",
+                "example_hebrew": "הפרויקט שלנו תקוע כי אנחנו לא יכולים להסכים על תקציב."
+            },
+            {
+                "definition": "Prevented from doing something by someone else, often against one's will.",
+                "definition_hebrew": "מישהו אחר מונע ממנו לעשות משהו, לעתים קרובות בניגוד לרצונו.",
+                "example": "She was stuck with the task of cleaning the house after everyone left.",
+                "example_hebrew": "היא הייתה תקועה עם המשימה לנקות את הבית אחרי שכולם עזבו."
+            },
+            {
+                "definition": "Fixed in a particular way or position and unable to change.",
+                "definition_hebrew": "קבוע בצורה או עמדה מסוימת ואינו מסוגל לשנות.",
+                "example": "I'm stuck following this recipe without any flexibility.",
+                "example_hebrew": "אני תקוע אחרי המתכון הזה בלי שום גמישות."
+            }
+        ]
+    }
+]

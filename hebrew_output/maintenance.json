@@ -1,0 +1,34 @@
+[
+    {
+        "word": "maintenance",
+        "word_hebrew": "תחזוקה",
+        "main_definition": "Maintenance refers to the process of maintaining or keeping something in a state of good repair, operation, or condition.",
+        "main_definition_hebrew": "תחזוקה מתייחסת לתהליך של תחזוקה או שמירה על משהו במצב של תיקון, פעולה או מצב תקין.",
+        "meanings_and_examples": [
+            {
+                "definition": "Regular upkeep and care for equipment or infrastructure",
+                "definition_hebrew": "תחזוקה שוטפת וטיפול בציוד או תשתית",
+                "example": "The maintenance crew checks the airplane's engines every month.",
+                "example_hebrew": "צוות התחזוקה בודק את מנועי המטוס מדי חודש."
+            },
+            {
+                "definition": "Process of correcting, improving, and preserving a system or structure over time",
+                "definition_hebrew": "תהליך של תיקון, שיפור ושימור מערכת או מבנה לאורך זמן",
+                "example": "Software updates are part of regular computer maintenance to ensure it runs smoothly.",
+                "example_hebrew": "עדכוני תוכנה הם חלק מתחזוקה שוטפת של המחשב כדי להבטיח שהוא פועל בצורה חלקה."
+            },
+            {
+                "definition": "Actions taken to preserve the value or usefulness of something",
+                "definition_hebrew": "פעולות שננקטו כדי לשמר את הערך או התועלת של משהו",
+                "example": "The homeowner performed routine maintenance on their house, such as painting and landscaping.",
+                "example_hebrew": "בעל הבית ביצע בביתו תחזוקה שוטפת, כגון צביעה וגינון."
+            },
+            {
+                "definition": "Legal process for preserving a person's rights or interests in property after death",
+                "definition_hebrew": "הליך משפטי לשמירה על זכויות או אינטרסים של אדם ברכוש לאחר מותו",
+                "example": "John left detailed instructions about the estate maintenance through his will to ensure proper distribution of assets after his passing.",
+                "example_hebrew": "ג'ון השאיר הנחיות מפורטות לגבי אחזקת העיזבון באמצעות צוואתו כדי להבטיח חלוקה נכונה של הנכסים לאחר פטירתו."
+            }
+        ]
+    }
+]

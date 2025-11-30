@@ -1,0 +1,34 @@
+[
+    {
+        "word": "comic",
+        "word_hebrew": "קוֹמִי",
+        "main_definition": "A comic can refer to a person who excels in humor, a genre of entertainment that combines visual art with storytelling often involving exaggerated characters and situations, or written works intended for publication in such format. It may also refer to the medium through which these stories are presented.",
+        "main_definition_hebrew": "קומיקס יכול להתייחס לאדם המצטיין בהומור, ז'אנר של בידור המשלב אמנות חזותית עם סיפורים הכוללים לעתים קרובות דמויות וסיטואציות מוגזמות, או יצירות כתובות המיועדות לפרסום בפורמט כזה. זה עשוי להתייחס גם למדיום שדרכו הסיפורים הללו מוצגים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A person who excels in humor",
+                "definition_hebrew": "אדם מצטיין בהומור",
+                "example": "John is a comic known for his witty one-liners.",
+                "example_hebrew": "ג'ון הוא קומיקס הידוע ב-one-liners השנון שלו."
+            },
+            {
+                "definition": "A genre of entertainment combining visual art and storytelling with humorous elements",
+                "definition_hebrew": "ז'אנר של בידור המשלב אמנות חזותית וסיפור עם אלמנטים הומוריסטיים",
+                "example": "The graphic novel 'Calvin and Hobbes' is a popular example of the comic book format in this sense.",
+                "example_hebrew": "הרומן הגרפי 'קלווין והובס' הוא דוגמה פופולרית לפורמט הקומיקס במובן זה."
+            },
+            {
+                "definition": "Written works intended for publication, typically illustrated, featuring humor or satire",
+                "definition_hebrew": "יצירות כתובות המיועדות לפרסום, מאוירות בדרך כלל, עם הומור או סאטירה",
+                "example": "'Cathy's Book' by Cathy Guisewite is an American comic strip that focuses on the daily life and relationships of a suburban housewife.",
+                "example_hebrew": "'הספר של קאתי' מאת Cathy Guisewite הוא סרט קומיקס אמריקאי המתמקד בחיי היומיום ובמערכות היחסים של עקרת בית בפרברים."
+            },
+            {
+                "definition": "The medium through which these stories are presented, often in the form of strips or panels",
+                "definition_hebrew": "המדיום דרכו מוצגים הסיפורים הללו, לרוב בצורת רצועות או לוחות",
+                "example": "Comics can be found as newspapers' comic sections or collected in graphic novel format.",
+                "example_hebrew": "ניתן למצוא קומיקס כמדורי קומיקס של עיתונים או לאסוף בפורמט רומן גרפי."
+            }
+        ]
+    }
+]

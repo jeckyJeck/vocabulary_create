@@ -1,0 +1,40 @@
+[
+    {
+        "word": "fluid",
+        "word_hebrew": "נוֹזֵל",
+        "main_definition": "A substance that flows, such as a liquid or gas, often used metaphorically to describe something flexible, adaptable, or not rigid.",
+        "main_definition_hebrew": "חומר שזורם, כמו נוזל או גז, משמש לעתים קרובות באופן מטפורי כדי לתאר משהו גמיש, מסתגל או לא נוקשה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Having the ability to flow easily and freely; smoothly adaptable",
+                "definition_hebrew": "בעל יכולת לזרום בקלות ובחופשיות; מסתגל בצורה חלקה",
+                "example": "The company's fluid approach allowed it to quickly adjust to market changes.",
+                "example_hebrew": "הגישה הקולחת של החברה אפשרה לה להסתגל במהירות לשינויים בשוק."
+            },
+            {
+                "definition": "A substance that flows, typically a liquid or gas",
+                "definition_hebrew": "חומר שזורם, בדרך כלל נוזל או גז",
+                "example": "Water is a common example of a fluid because it takes the shape of its container and can flow freely.",
+                "example_hebrew": "מים הם דוגמה נפוצה לנוזל מכיוון שהם מקבלים את צורת המיכל שלהם ויכולים לזרום בחופשיות."
+            },
+            {
+                "definition": "The ease with which something operates or functions; efficiency",
+                "definition_hebrew": "הקלות שבה משהו פועל או מתפקד; יְעִילוּת",
+                "example": "The new software has improved the fluidity of our data processing tasks, making them much faster.",
+                "example_hebrew": "התוכנה החדשה שיפרה את הזרימה של משימות עיבוד הנתונים שלנו, והפכה אותן למהירות הרבה יותר."
+            },
+            {
+                "definition": "The ability to express oneself easily in communication or writing",
+                "definition_hebrew": "היכולת לבטא את עצמו בקלות בתקשורת או בכתיבה",
+                "example": "His poetic style allows for a very fluid expression of his emotions and thoughts.",
+                "example_hebrew": "סגנונו הפיוטי מאפשר ביטוי קולח מאוד של רגשותיו ומחשבותיו."
+            },
+            {
+                "definition": "A liquid that flows readily, such as oil or mercury",
+                "definition_hebrew": "נוזל שזורם בקלות, כגון שמן או כספית",
+                "example": "The engine's coolant system relies on the fluidity of motor oil to function properly.",
+                "example_hebrew": "מערכת נוזל הקירור של המנוע מסתמכת על נזילות שמן המנוע לתפקוד תקין."
+            }
+        ]
+    }
+]

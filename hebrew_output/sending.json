@@ -1,0 +1,40 @@
+[
+    {
+        "word": "sending",
+        "word_hebrew": "שְׁלִיחָה",
+        "main_definition": "To transmit or deliver something from one place to another, usually through a medium like mail or electronic communication.",
+        "main_definition_hebrew": "לשדר או להעביר משהו ממקום אחד לאחר, בדרך כלל באמצעות מדיום כמו דואר או תקשורת אלקטרונית.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of dispatching an item for delivery or transportation",
+                "definition_hebrew": "פעולת שליחת פריט למשלוח או הובלה",
+                "example": "I am sending the package to my friend in New York today.",
+                "example_hebrew": "אני שולח את החבילה לחבר שלי בניו יורק היום."
+            },
+            {
+                "definition": "Sending electronic messages or information via email, chat, or other digital platforms",
+                "definition_hebrew": "שליחת הודעות אלקטרוניות או מידע באמצעות דואר אלקטרוני, צ'אט או פלטפורמות דיגיטליות אחרות",
+                "example": "She is sending her report through a cloud storage service for everyone to access.",
+                "example_hebrew": "היא שולחת את הדוח שלה דרך שירות אחסון בענן שכולם יוכלו לגשת אליו."
+            },
+            {
+                "definition": "In sports, referring to the action of passing an object (like a ball) from one player to another during gameplay",
+                "definition_hebrew": "בספורט, הכוונה לפעולה של העברת חפץ (כמו כדור) משחקן אחד לאחר במהלך משחק",
+                "example": "The quarterback successfully sent the football across the field to his receiver.",
+                "example_hebrew": "הקוורטרבק שלח בהצלחה את הכדורגל מעבר למגרש אל השפופרת שלו."
+            },
+            {
+                "definition": "Sending out invitations or announcements for events, gatherings, etc.",
+                "definition_hebrew": "שליחת הזמנות או הודעות לאירועים, התכנסויות וכו'.",
+                "example": "They are sending out wedding invitations to their guests next weekend.",
+                "example_hebrew": "הם שולחים הזמנות לחתונה לאורחים שלהם בסוף השבוע הבא."
+            },
+            {
+                "definition": "In computing and programming, referring to the process of transmitting data or commands between systems",
+                "definition_hebrew": "במחשוב ובתכנות, הכוונה לתהליך העברת נתונים או פקודות בין מערכות",
+                "example": "The server is sending a request to retrieve user information from the database.",
+                "example_hebrew": "השרת שולח בקשה לאחזור מידע משתמש ממסד הנתונים."
+            }
+        ]
+    }
+]

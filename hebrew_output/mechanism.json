@@ -1,0 +1,34 @@
+[
+    {
+        "word": "mechanism",
+        "word_hebrew": "מַנגָנוֹן",
+        "main_definition": "A mechanism is a system or device designed to perform a particular function, often involving moving parts.",
+        "main_definition_hebrew": "מנגנון הוא מערכת או מכשיר שנועדו לבצע פונקציה מסוימת, לעתים קרובות מעורבים חלקים נעים.",
+        "meanings_and_examples": [
+            {
+                "definition": "General term for devices with moving parts",
+                "definition_hebrew": "מונח כללי למכשירים עם חלקים נעים",
+                "example": "The clock in the hallway has intricate gears and levers as part of its mechanism.",
+                "example_hebrew": "לשעון במסדרון יש גלגלי שיניים ומנופים מורכבים כחלק מהמנגנון שלו."
+            },
+            {
+                "definition": "Process or series of actions by which something is brought about",
+                "definition_hebrew": "תהליך או סדרה של פעולות שבאמצעותן נוצר משהו",
+                "example": "The democratic process includes mechanisms like voting and debates to determine a country's leadership.",
+                "example_hebrew": "התהליך הדמוקרטי כולל מנגנונים כמו הצבעה ודיונים לקביעת הנהגת מדינה."
+            },
+            {
+                "definition": "A method used to achieve an end, often in the context of science or technology",
+                "definition_hebrew": "שיטה המשמשת להשגת מטרה, לעתים קרובות בהקשר של מדע או טכנולוגיה",
+                "example": "Photography has evolved through various mechanical innovations, such as the camera shutter mechanism and lens adjustments.",
+                "example_hebrew": "הצילום התפתח באמצעות חידושים מכניים שונים, כמו מנגנון תריס המצלמה והתאמת העדשות."
+            },
+            {
+                "definition": "The inner workings of a system that enable it to function properly",
+                "definition_hebrew": "פעולתה הפנימית של מערכת המאפשרת לה לפעול כראוי",
+                "example": "Understanding the heart's circulatory mechanism is crucial for medical students studying anatomy.",
+                "example_hebrew": "הבנת מנגנון מחזור הדם של הלב חיונית לסטודנטים לרפואה הלומדים אנטומיה."
+            }
+        ]
+    }
+]

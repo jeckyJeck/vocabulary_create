@@ -1,0 +1,28 @@
+[
+    {
+        "word": "pgp",
+        "word_hebrew": "pgp",
+        "main_definition": "Pretty Good Privacy (PGP) is a data encryption and decryption program that provides cryptographic privacy and authentication through its use of digital signatures and strong public-key cryptography.",
+        "main_definition_hebrew": "Pretty Good Privacy (PGP) היא תוכנית הצפנת ופענוח נתונים המספקת פרטיות ואימות קריפטוגרפי באמצעות שימוש בחתימות דיגיטליות והצפנה חזקה של מפתח ציבורי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Data encryption software",
+                "definition_hebrew": "תוכנת הצפנת נתונים",
+                "example": "John uses PGP to encrypt sensitive emails before sending them.",
+                "example_hebrew": "ג'ון משתמש ב-PGP כדי להצפין מיילים רגישים לפני שליחתם."
+            },
+            {
+                "definition": "Digital signature technology",
+                "definition_hebrew": "טכנולוגיית חתימה דיגיטלית",
+                "example": "Mary digitally signed her document using PGP, ensuring its authenticity and integrity.",
+                "example_hebrew": "מרי חתמה דיגיטלית על המסמך שלה באמצעות PGP, מה שמבטיח את האותנטיות והשלמות שלו."
+            },
+            {
+                "definition": "Strong public-key cryptography system",
+                "definition_hebrew": "מערכת הצפנה חזקה של מפתח ציבורי",
+                "example": "The company adopted PGP as their standard for secure communications due to its robust public-key cryptography capabilities.",
+                "example_hebrew": "החברה אימצה את PGP כסטנדרט שלה לתקשורת מאובטחת בשל יכולות ההצפנה החזקות שלה עם מפתח ציבורי."
+            }
+        ]
+    }
+]

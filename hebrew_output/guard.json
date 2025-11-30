@@ -1,0 +1,40 @@
+[
+    {
+        "word": "guard",
+        "word_hebrew": "שומר",
+        "main_definition": "To protect or watch over something or someone, ensuring safety and security.",
+        "main_definition_hebrew": "להגן או להשגיח על משהו או מישהו, להבטיח בטיחות וביטחון.",
+        "meanings_and_examples": [
+            {
+                "definition": "A person responsible for protecting a place, object, or group of people from harm or danger.",
+                "definition_hebrew": "אדם האחראי להגנה על מקום, חפץ או קבוצת אנשים מפני פגיעה או סכנה.",
+                "example": "The guard at the museum keeps an eye on visitors to ensure they don't touch any artwork.",
+                "example_hebrew": "השומר במוזיאון פוקח עין על המבקרים כדי להבטיח שהם לא נוגעים באף יצירות אמנות."
+            },
+            {
+                "definition": "An action taken to prevent unauthorized access or actions against a certain area, object, or individual.",
+                "definition_hebrew": "פעולה שננקטה כדי למנוע גישה בלתי מורשית או פעולות נגד אזור מסוים, חפץ או אדם מסוים.",
+                "example": "Installing security cameras serves as a guard for the company's assets by deterring potential thieves.",
+                "example_hebrew": "התקנת מצלמות אבטחה משמשת כשומר על נכסי החברה על ידי הרתעת גנבים פוטנציאליים."
+            },
+            {
+                "definition": "A group of people tasked with protecting an important person, such as a head of state or royal family member.",
+                "definition_hebrew": "קבוצה של אנשים עם המשימה להגן על אדם חשוב, כגון ראש מדינה או בן משפחת המלוכה.",
+                "example": "The presidential security detail acts as a guard to ensure the safety of the President during public events.",
+                "example_hebrew": "פרט האבטחה הנשיאותי פועל כשומר כדי להבטיח את שלומו של הנשיא במהלך אירועים פומביים."
+            },
+            {
+                "definition": "To monitor and watch over something closely in order to maintain its integrity or condition.",
+                "definition_hebrew": "לפקח ולפקח על משהו מקרוב כדי לשמור על שלמותו או מצבו.",
+                "example": "A gardener guards his plants by watering them regularly and checking for pests.",
+                "example_hebrew": "גנן שומר על הצמחים שלו על ידי השקייתם באופן קבוע ובדיקת מזיקים."
+            },
+            {
+                "definition": "An organization responsible for providing security services, such as policing or military protection.",
+                "definition_hebrew": "ארגון האחראי על מתן שירותי אבטחה, כגון שיטור או הגנה צבאית.",
+                "example": "The police serve as a guard against crime in the city, working to maintain public safety.",
+                "example_hebrew": "המשטרה משמשת כשומר מפני הפשיעה בעיר, הפועלת לשמירה על ביטחון הציבור."
+            }
+        ]
+    }
+]

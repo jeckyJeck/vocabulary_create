@@ -1,0 +1,34 @@
+[
+    {
+        "word": "killing",
+        "word_hebrew": "הֶרֶג",
+        "main_definition": "Killing refers to the act of causing death, either intentionally or unintentionally.",
+        "main_definition_hebrew": "הרג מתייחס למעשה של גרימת מוות, בכוונה או שלא בכוונה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Intentional and purposeful taking of a life",
+                "definition_hebrew": "נטילת חיים מכוונת ומכוונת",
+                "example": "The criminal was arrested for killing his neighbor.",
+                "example_hebrew": "הפושע נעצר בגין הריגת שכנו."
+            },
+            {
+                "definition": "Metaphorically ending or destroying something or someone",
+                "definition_hebrew": "מטאפורית לסיים או להרוס משהו או מישהו",
+                "example": "The harsh criticism from her boss nearly killed her enthusiasm for the job.",
+                "example_hebrew": "הביקורת הקשה מהבוס שלה כמעט הרגה את ההתלהבות שלה מהעבודה."
+            },
+            {
+                "definition": "An idiomatic expression implying a significant impact on something, often negative",
+                "definition_hebrew": "ביטוי אידיומטי המרמז על השפעה משמעותית על משהו, לרוב שלילי",
+                "example": "This new policy will kill his chances of getting promoted.",
+                "example_hebrew": "המדיניות החדשה הזו תהרוג את סיכוייו להתקדם."
+            },
+            {
+                "definition": "The action or process of killing living organisms in agriculture (e.g., pest control)",
+                "definition_hebrew": "הפעולה או התהליך של הריגת אורגניזמים חיים בחקלאות (למשל, הדברה)",
+                "example": "Through crop rotation and natural predators, we aim to reduce the need for chemical pesticide killing.",
+                "example_hebrew": "באמצעות מחזור יבולים וטורפים טבעיים, אנו שואפים להפחית את הצורך בהרג חומרי הדברה כימיים."
+            }
+        ]
+    }
+]

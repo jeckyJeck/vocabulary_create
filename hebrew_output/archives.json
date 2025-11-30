@@ -1,0 +1,28 @@
+[
+    {
+        "word": "archives",
+        "word_hebrew": "אַרְכִיוֹן",
+        "main_definition": "Archives refer to collections of historical documents or records that are preserved due to their cultural, legal, or informational value.",
+        "main_definition_hebrew": "ארכיונים מתייחסים לאוספים של מסמכים היסטוריים או רשומות שנשמרו בשל ערכם התרבותי, המשפטי או האינפורמטיבי.",
+        "meanings_and_examples": [
+            {
+                "definition": "A place where official government documents and papers are stored",
+                "definition_hebrew": "מקום שבו מאוחסנים מסמכים וניירות ממשלתיים רשמיים",
+                "example": "The National Archives in Washington D.C., where the U.S. Constitution is preserved.",
+                "example_hebrew": "הארכיון הלאומי בוושינגטון הבירה, שם נשמרת החוקה של ארה\"ב."
+            },
+            {
+                "definition": "Collections of historical records or documents, often pertaining to a specific organization, institution, or event",
+                "definition_hebrew": "אוספים של רשומות או מסמכים היסטוריים, לרוב הנוגעים לארגון, מוסד או אירוע ספציפי",
+                "example": "A company archive containing all its old sales and marketing strategies.",
+                "example_hebrew": "ארכיון חברה המכיל את כל אסטרטגיות המכירות והשיווק הישנות שלה."
+            },
+            {
+                "definition": "Digital storage for scanned copies of physical documents",
+                "definition_hebrew": "אחסון דיגיטלי עבור עותקים סרוקים של מסמכים פיזיים",
+                "example": "The online archives that store digitized versions of newspapers from the 19th century.",
+                "example_hebrew": "הארכיונים המקוונים המאחסנים גרסאות דיגיטאליות של עיתונים מהמאה ה-19."
+            }
+        ]
+    }
+]

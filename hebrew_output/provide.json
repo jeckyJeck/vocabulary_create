@@ -1,0 +1,40 @@
+[
+    {
+        "word": "provide",
+        "word_hebrew": "לְסַפֵּק",
+        "main_definition": "To make something available or accessible to someone, often by supplying it.",
+        "main_definition_hebrew": "להפוך משהו לזמין או נגיש למישהו, לעתים קרובות על ידי אספקתו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To offer a service or assistance",
+                "definition_hebrew": "להציע שירות או סיוע",
+                "example": "The non-profit organization provides food and shelter for homeless individuals.",
+                "example_hebrew": "העמותה מספקת מזון ומחסה לחסרי בית."
+            },
+            {
+                "definition": "To supply something that is needed or wanted",
+                "definition_hebrew": "לספק משהו שצריך או רצוי",
+                "example": "I will provide you with the necessary documents to complete your application.",
+                "example_hebrew": "אספק לך את המסמכים הדרושים להשלמת הבקשה שלך."
+            },
+            {
+                "definition": "To make information available",
+                "definition_hebrew": "להנגיש מידע",
+                "example": "The teacher provides clear instructions for completing the assignment.",
+                "example_hebrew": "המורה מספק הנחיות ברורות למילוי המשימה."
+            },
+            {
+                "definition": "To furnish or equip a space with certain items",
+                "definition_hebrew": "לרהט או לצייד חלל בפריטים מסוימים",
+                "example": "We need to provide chairs and tables for the upcoming conference.",
+                "example_hebrew": "אנחנו צריכים לספק כסאות ושולחנות לכנס הקרוב."
+            },
+            {
+                "definition": "To make available resources, such as money or time",
+                "definition_hebrew": "כדי להפוך משאבים זמינים, כגון כסף או זמן",
+                "example": "The government will provide funding to support the new research project.",
+                "example_hebrew": "הממשלה תעניק מימון לתמיכה בפרויקט המחקר החדש."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "certified",
+        "word_hebrew": "מוּסמָך",
+        "main_definition": "Confirmed or authorized by official documentation as meeting specific standards, requirements, or qualifications.",
+        "main_definition_hebrew": "אושר או מורשה על ידי תיעוד רשמי כמי שעומד בתקנים, דרישות או כישורים ספציפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Having been officially recognized for a particular skill or ability",
+                "definition_hebrew": "לאחר שהוכר רשמית עבור מיומנות או יכולת מסוימת",
+                "example": "The carpenter is certified in advanced woodworking techniques.",
+                "example_hebrew": "הנגר מוסמך בטכניקות עיבוד עץ מתקדמות."
+            },
+            {
+                "definition": "Acknowledged as meeting certain standards or regulations, often by an official body",
+                "definition_hebrew": "מוכר כמי שעומד בתקנים או תקנות מסוימים, לעתים קרובות על ידי גוף רשמי",
+                "example": "This product has been certified safe for consumer use by the FDA.",
+                "example_hebrew": "מוצר זה אושר בטוח לשימוש צרכנים על ידי ה-FDA."
+            },
+            {
+                "definition": "Endorsed with a professional credential indicating that one has met specific criteria and is qualified to perform certain tasks or duties",
+                "definition_hebrew": "מאושר עם תעודה מקצועית המעידה על כך שהאדם עמד בקריטריונים ספציפיים והוא כשיר לבצע משימות או חובות מסוימות",
+                "example": "The teacher holds a valid teaching certificate from her state's department of education.",
+                "example_hebrew": "המורה מחזיקה בתעודת הוראה תקפה ממחלקת החינוך במדינתה."
+            },
+            {
+                "definition": "Confirmed by an official document, such as a diploma or degree, indicating that one has completed the necessary coursework or training",
+                "definition_hebrew": "מאושר על ידי מסמך רשמי, כגון תעודה או תואר, המעיד על כך שאדם השלים את הקורסים או ההכשרה הדרושים",
+                "example": "He was certified in project management with a PMP credential.",
+                "example_hebrew": "הוא הוסמך בניהול פרויקטים עם תעודת PMP."
+            }
+        ]
+    }
+]

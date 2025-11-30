@@ -1,0 +1,28 @@
+[
+    {
+        "word": "keyword",
+        "word_hebrew": "מילת מפתח",
+        "main_definition": "A keyword is a significant or special word that holds particular importance in a text, usually used to express an idea, theme, or topic.",
+        "main_definition_hebrew": "מילת מפתח היא מילה משמעותית או מיוחדת שיש לה חשיבות מיוחדת בטקסט, המשמשת בדרך כלל לביטוי רעיון, נושא או נושא.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of search engines and internet keywords",
+                "definition_hebrew": "בהקשר של מנועי חיפוש ומילות מפתח באינטרנט",
+                "example": "When creating content for SEO (Search Engine Optimization), using relevant keywords can help your website rank higher on Google's search results.",
+                "example_hebrew": "בעת יצירת תוכן לקידום אתרים (אופטימיזציה למנועי חיפוש), שימוש במילות מפתח רלוונטיות יכול לעזור לאתר שלך לדרג גבוה יותר בתוצאות החיפוש של גוגל."
+            },
+            {
+                "definition": "In programming and coding languages",
+                "definition_hebrew": "בשפות תכנות וקידוד",
+                "example": "A keyword in a program is a reserved word used to instruct the computer or define data types, structures, or operations. For instance, 'if', 'while', and 'return' are keywords in many programming languages.",
+                "example_hebrew": "מילת מפתח בתוכנית היא מילה שמורה המשמשת להוראה למחשב או להגדיר סוגי נתונים, מבנים או פעולות. לדוגמה, 'אם', 'בזמן' ו'החזרה' הן מילות מפתח בשפות תכנות רבות."
+            },
+            {
+                "definition": "In writing and literature",
+                "definition_hebrew": "בכתיבה ובספרות",
+                "example": "The phrase 'the early bird catches the worm' is a common idiom where both words are considered key or keyword phrases that convey an important message about opportunity and action.",
+                "example_hebrew": "הביטוי 'הציפור המוקדמת תופסת את התולעת' הוא ניב נפוץ שבו שתי המילים נחשבות לביטויי מפתח או מילות מפתח המעבירות מסר חשוב לגבי הזדמנות ופעולה."
+            }
+        ]
+    }
+]

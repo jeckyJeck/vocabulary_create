@@ -1,0 +1,40 @@
+[
+    {
+        "word": "lift",
+        "word_hebrew": "מעלית",
+        "main_definition": "To raise or elevate something, typically by physical effort.",
+        "main_definition_hebrew": "להעלות או להעלות משהו, בדרך כלל על ידי מאמץ פיזי.",
+        "meanings_and_examples": [
+            {
+                "definition": "To physically raise or elevate an object or person from the ground. Example: She needed help to lift the heavy box onto the shelf.",
+                "definition_hebrew": "להרים או להעלות פיזית חפץ או אדם מהקרקע. דוגמה: היא הייתה זקוקה לעזרה להרים את הקופסה הכבדה על המדף.",
+                "example": "I couldn't lift my suitcase by myself, so I asked for assistance.",
+                "example_hebrew": "לא יכולתי להרים את המזוודה שלי לבד, אז ביקשתי עזרה."
+            },
+            {
+                "definition": "A mechanical device used to move objects vertically through a shaft.",
+                "definition_hebrew": "מכשיר מכני המשמש להזזת עצמים אנכית דרך פיר.",
+                "example": "The factory installed new machinery to lift raw materials onto the second floor for processing.",
+                "example_hebrew": "המפעל התקין מכונות חדשות להרמת חומרי גלם לקומה השנייה לצורך עיבוד."
+            },
+            {
+                "definition": "To give someone a ride, typically in an elevator or similar vehicle. Example: The kind stranger offered to lift her up to the tenth floor when she missed her stop on the elevator.",
+                "definition_hebrew": "לתת למישהו טרמפ, בדרך כלל במעלית או ברכב דומה. דוגמה: הזר האדיב הציע להעלות אותה לקומה העשירית כשהיא פספסה את העצירה שלה במעלית.",
+                "example": "I asked my friend if he could lift me to my apartment since I was stuck at the fifth floor.",
+                "example_hebrew": "שאלתי את חבר שלי אם הוא יכול להעלות אותי לדירה שלי מכיוון שנתקעתי בקומה החמישית."
+            },
+            {
+                "definition": "To remove an object, person or device from a lower position and raise it. Example: The rescue team lifted the injured hiker out of the ravine using ropes.",
+                "definition_hebrew": "כדי להסיר חפץ, אדם או מכשיר ממצב נמוך יותר ולהרים אותו. דוגמה: צוות החילוץ הרים את המטייל הפצוע מהגיא באמצעות חבלים.",
+                "example": "The construction crew used cranes to lift heavy beams into place.",
+                "example_hebrew": "צוות הבנייה השתמש במנופים להרמת קורות כבדות למקומן."
+            },
+            {
+                "definition": "To increase the price or value of something, typically through efforts such as marketing and promotions. Example: The company's latest campaign has successfully lifted its brand image.",
+                "definition_hebrew": "להגדיל את המחיר או הערך של משהו, בדרך כלל באמצעות מאמצים כגון שיווק וקידום מכירות. דוגמה: הקמפיין האחרון של החברה העלה בהצלחה את תדמית המותג שלה.",
+                "example": "After implementing a new pricing strategy, their sales numbers have significantly increased.",
+                "example_hebrew": "לאחר הטמעת אסטרטגיית תמחור חדשה, מספרי המכירות שלהם גדלו משמעותית."
+            }
+        ]
+    }
+]

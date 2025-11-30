@@ -1,0 +1,34 @@
+[
+    {
+        "word": "interactions",
+        "word_hebrew": "אינטראקציות",
+        "main_definition": "The communication or involvement between two or more people, objects, or systems.",
+        "main_definition_hebrew": "התקשורת או המעורבות בין שני אנשים, חפצים או מערכות או יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Social interactions involving exchange of information and ideas.",
+                "definition_hebrew": "אינטראקציות חברתיות הכוללות חילופי מידע ורעיונות.",
+                "example": "During the conference, participants had engaging discussions and shared valuable insights with each other.",
+                "example_hebrew": "במהלך הכנס, המשתתפים ניהלו דיונים מרתקים וחלקו זה עם זה תובנות חשובות."
+            },
+            {
+                "definition": "Mechanical or physical contact between objects that produce effects like friction or attraction.",
+                "definition_hebrew": "מגע מכני או פיזי בין עצמים המייצר אפקטים כמו חיכוך או משיכה.",
+                "example": "The rubbing of hands together creates heat due to interactions at the microscopic level, a process known as kinesthetic sensation.",
+                "example_hebrew": "שפשוף הידיים יוצר חום עקב אינטראקציות ברמה המיקרוסקופית, תהליך המכונה תחושה קינסתטית."
+            },
+            {
+                "definition": "Biological interaction where different organisms affect each other's survival and reproduction.",
+                "definition_hebrew": "אינטראקציה ביולוגית שבה אורגניזמים שונים משפיעים זה על ההישרדות והרבייה של זה.",
+                "example": "Bees pollinating flowers is an essential ecological interaction that benefits both the plant and bee species.",
+                "example_hebrew": "דבורים מאביקות פרחים היא אינטראקציה אקולוגית חיונית המועילה הן לצמח והן למיני הדבורים."
+            },
+            {
+                "definition": "The process of two or more software entities communicating with each other, typically in a networked environment.",
+                "definition_hebrew": "תהליך של שתי ישויות תוכנה או יותר המתקשרות ביניהן, בדרך כלל בסביבת רשת.",
+                "example": "In web development, AJAX interactions allow web pages to communicate with servers asynchronously without reloading the page.",
+                "example_hebrew": "בפיתוח אתרים, אינטראקציות AJAX מאפשרות לדפי אינטרנט לתקשר עם שרתים באופן אסינכרוני מבלי לטעון מחדש את הדף."
+            }
+        ]
+    }
+]

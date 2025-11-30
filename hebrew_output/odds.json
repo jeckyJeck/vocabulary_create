@@ -1,0 +1,34 @@
+[
+    {
+        "word": "odds",
+        "word_hebrew": "קְטָטָה",
+        "main_definition": "Odds refer to the likelihood or probability of a specific event happening, often expressed as a ratio or fraction.",
+        "main_definition_hebrew": "הסיכויים מתייחסים לסבירות או ההסתברות של אירוע מסוים להתרחש, לעתים קרובות מתבטאים כיחס או שבר.",
+        "meanings_and_examples": [
+            {
+                "definition": "The chance that something will happen; odds in favor of an outcome",
+                "definition_hebrew": "הסיכוי שמשהו יקרה; סיכויים לטובת תוצאה",
+                "example": "With these odds, there's only a 1 in 3 chance the team will win.",
+                "example_hebrew": "עם הסיכויים האלה, יש רק סיכוי של 1 ל-3 שהקבוצה תנצח."
+            },
+            {
+                "definition": "The ratio of one number to another in betting or gambling situations",
+                "definition_hebrew": "היחס בין מספר אחד למשנהו במצבי הימורים או הימורים",
+                "example": "If you have odds of 2:1 against a horse race, it means for every $2 wagered on that horse, you will win $3 if the horse wins.",
+                "example_hebrew": "אם יש לך סיכויים של 2:1 מול מירוץ סוסים, זה אומר שעל כל $2 שהומר על הסוס הזה, תזכה ב-$3 אם הסוס ינצח."
+            },
+            {
+                "definition": "A synonym for 'unlikely' or 'improbable', often used in informal contexts",
+                "definition_hebrew": "מילה נרדפת ל'לא סביר' או 'לא סביר', משמשת לעתים קרובות בהקשרים לא פורמליים",
+                "example": "That promotion is unlikely/odds are against it due to his short tenure at the company.",
+                "example_hebrew": "קידום זה לא סביר/הסיכויים נגדו עקב כהונתו הקצרה בחברה."
+            },
+            {
+                "definition": "In some colloquial expressions, it can imply that something is happening by chance or luck",
+                "definition_hebrew": "בכמה ביטויים דיבוריים, זה יכול לרמוז שמשהו קורה במקרה או במזל",
+                "example": "He got the job odds on a whim when he decided to show up unannounced for an interview.",
+                "example_hebrew": "הוא קיבל את סיכויי העבודה בגחמה כשהחליט להתייצב ללא הודעה לראיון."
+            }
+        ]
+    }
+]

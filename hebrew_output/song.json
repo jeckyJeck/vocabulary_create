@@ -1,0 +1,34 @@
+[
+    {
+        "word": "song",
+        "word_hebrew": "שִׁיר",
+        "main_definition": "A song is a musical composition intended to be sung or performed vocally, often accompanied by instrumental music.",
+        "main_definition_hebrew": "שיר הוא חיבור מוסיקלי שנועד לשיר או לביצוע קולית, לרוב בליווי מוזיקה אינסטרומנטלית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Artistic expression through lyrics and melody",
+                "definition_hebrew": "ביטוי אמנותי באמצעות מילים ולחן",
+                "example": "John's heartfelt ballad about lost love moved the audience to tears.",
+                "example_hebrew": "הבלדה הלבבית של ג'ון על אהבה אבודה ריגשה את הקהל עד דמעות."
+            },
+            {
+                "definition": "A piece of music that is designed for singing or vocal performance",
+                "definition_hebrew": "קטע מוזיקלי שמיועד לשירה או לביצוע ווקאלי",
+                "example": "The opera singer delivered a breathtaking aria in her latest song.",
+                "example_hebrew": "זמרת האופרה הגישה אריה עוצרת נשימה בשיר האחרון שלה."
+            },
+            {
+                "definition": "An arrangement with musical accompaniment intended to be sung by a voice, typically within the context of popular music",
+                "definition_hebrew": "עיבוד בליווי מוזיקלי המיועד לשיר על ידי קול, בדרך כלל בהקשר של מוזיקה פופולרית",
+                "example": "The band's new hit song featured catchy lyrics and an upbeat melody that resonated with fans.",
+                "example_hebrew": "שיר הלהיט החדש של הלהקה כלל מילים קליטות ולחן אופטימי שהדהד בקרב המעריצים."
+            },
+            {
+                "definition": "A composition in verse or prose set to music",
+                "definition_hebrew": "חיבור בחרוזים או פרוזה לצלילי מוזיקה",
+                "example": "The children's choir performed a delightful song about the joys of nature during recess.",
+                "example_hebrew": "מקהלת הילדים ביצעה שיר מענג על שמחת הטבע בהפסקה."
+            }
+        ]
+    }
+]

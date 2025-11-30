@@ -1,0 +1,34 @@
+[
+    {
+        "word": "boundary",
+        "word_hebrew": "גְבוּל",
+        "main_definition": "A boundary is a dividing line or border that separates one area, entity, or concept from another.",
+        "main_definition_hebrew": "גבול הוא קו הפרדה או גבול המפריד בין אזור, ישות או מושג אחד לאחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Geographical division between two countries, states, or regions.",
+                "definition_hebrew": "חלוקה גיאוגרפית בין שתי מדינות, מדינות או אזורים.",
+                "example": "The Canada-US border serves as the boundary between Canada and the United States.",
+                "example_hebrew": "הגבול בין קנדה לארה\"ב משמש כגבול בין קנדה לארצות הברית."
+            },
+            {
+                "definition": "A point of transition from one physical or metaphorical space to another.",
+                "definition_hebrew": "נקודת מעבר ממרחב פיזי או מטפורי אחד למשנהו.",
+                "example": "As she crossed the edge of the forest, she entered a clearing that marked the boundary between woods and fields.",
+                "example_hebrew": "כשחצתה את שפת היער, היא נכנסה לקרחת יער שסימנה את הגבול בין חורשות ושדות."
+            },
+            {
+                "definition": "Limit set by rules on behavior, speech, or actions within certain contexts.",
+                "definition_hebrew": "מגבלה שנקבעה על ידי כללים על התנהגות, דיבור או פעולות בהקשרים מסוימים.",
+                "example": "The company has established its boundaries regarding acceptable use of social media during work hours.",
+                "example_hebrew": "החברה קבעה את גבולותיה לגבי שימוש מקובל במדיה חברתית בשעות העבודה."
+            },
+            {
+                "definition": "A line that marks the end or limit of something; an extreme point in a particular direction.",
+                "definition_hebrew": "קו שמסמן את הסוף או הגבול של משהו; נקודת קיצון בכיוון מסוים.",
+                "example": "She reached her career boundary and decided to pursue further education instead.",
+                "example_hebrew": "היא הגיעה לגבול הקריירה שלה והחליטה להמשיך בלימודים במקום."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "connector",
+        "word_hebrew": "מַחבֵּר",
+        "main_definition": "A connector is a device, term or phrase used to join or link two things together.",
+        "main_definition_hebrew": "מחבר הוא התקן, מונח או ביטוי המשמשים לחיבור או קישור בין שני דברים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An electronic component that joins circuits together in electrical engineering and electronics.",
+                "definition_hebrew": "רכיב אלקטרוני המחבר יחד מעגלים בהנדסת חשמל ואלקטרוניקה.",
+                "example": "The connector on the power supply connects it to the main circuit board.",
+                "example_hebrew": "המחבר בספק הכוח מחבר אותו ללוח המעגל הראשי."
+            },
+            {
+                "definition": "A person who facilitates or encourages connections between individuals or groups.",
+                "definition_hebrew": "אדם המאפשר או מעודד קשרים בין יחידים או קבוצות.",
+                "example": "She works as a matchmaker, helping people find compatible partners.",
+                "example_hebrew": "היא עובדת כשדכנית ועוזרת לאנשים למצוא בני זוג תואמים."
+            },
+            {
+                "definition": "In grammar and writing, a connector is a word that joins phrases or clauses together to improve flow.",
+                "definition_hebrew": "בדקדוק ובכתיבה, מחבר הוא מילה שמחברת ביטויים או סעיפים יחד כדי לשפר את הזרימה.",
+                "example": "The conjunction 'and' acts as a connector between two related ideas in this sentence: 'I like apples, and I also enjoy bananas.'",
+                "example_hebrew": "הצירוף 'ו' פועל כמחבר בין שני רעיונות קשורים במשפט זה: 'אני אוהב תפוחים, ואני גם נהנה מבננות'."
+            },
+            {
+                "definition": "A role within social structures that involves bringing people together or facilitating communication.",
+                "definition_hebrew": "תפקיד בתוך מבנים חברתיים הכולל קירוב אנשים או הקלת תקשורת.",
+                "example": "The community organizer served as a connector among various neighborhood groups.",
+                "example_hebrew": "מארגן הקהילה שימש כמחבר בין קבוצות שכונתיות שונות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "canon",
+        "word_hebrew": "קָנוֹן",
+        "main_definition": "A canon refers to a set of works considered authoritative or classic in a particular field, such as literature, art, music, or religion.",
+        "main_definition_hebrew": "קאנון מתייחס לסט של יצירות הנחשבות סמכותיות או קלאסיות בתחום מסוים, כגון ספרות, אמנות, מוזיקה או דת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Literary Canon",
+                "definition_hebrew": "קנון ספרותי",
+                "example": "The literary canon includes famous authors like William Shakespeare and Jane Austen.",
+                "example_hebrew": "הקאנון הספרותי כולל סופרים מפורסמים כמו ויליאם שייקספיר וג'יין אוסטן."
+            },
+            {
+                "definition": "Religious Canon",
+                "definition_hebrew": "קנון דתי",
+                "example": "In Christianity, the Bible is considered a religious canon containing sacred texts and teachings.",
+                "example_hebrew": "בנצרות, התנ\"ך נחשב לקאנון דתי המכיל טקסטים ותורות קדושות."
+            },
+            {
+                "definition": "Artistic Canon",
+                "definition_hebrew": "קנון אמנותי",
+                "example": "The artistic canon comprises works by renowned painters such as Leonardo da Vinci or Michelangelo.",
+                "example_hebrew": "הקאנון האמנותי כולל יצירות של ציירים ידועים כמו ליאונרדו דה וינצ'י או מיכלאנג'לו."
+            },
+            {
+                "definition": "Musical Canon",
+                "definition_hebrew": "קנון מוזיקלי",
+                "example": "A musical canon is a composition where the same melody is played in different voices, each starting at a different time. An example of this can be found in Pachelbel's 'Canon in D.'",
+                "example_hebrew": "קאנון מוזיקלי הוא הרכב שבו אותה מנגינה מתנגנת בקולות שונים, כל אחד מתחיל בזמן אחר. דוגמה לכך ניתן למצוא ב'קאנון בד' של פאכלבל."
+            },
+            {
+                "definition": "Media Canon",
+                "definition_hebrew": "מדיה קנון",
+                "example": "In media studies, certain films or television shows may form part of the canon due to their significant cultural impact and enduring popularity.",
+                "example_hebrew": "במחקרי מדיה, סרטים מסוימים או תוכניות טלוויזיה עשויים להוות חלק מהקאנון בשל השפעתם התרבותית המשמעותית והפופולריות המתמשכת."
+            }
+        ]
+    }
+]

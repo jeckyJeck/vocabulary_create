@@ -1,0 +1,34 @@
+[
+    {
+        "word": "beverage",
+        "word_hebrew": "מַשׁקֶה",
+        "main_definition": "A drink, typically consumed by humans, that provides hydration or refreshment.",
+        "main_definition_hebrew": "משקה, הנצרך בדרך כלל על ידי בני אדם, המספק לחות או רענון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Any liquid intended for consumption (not including water)",
+                "definition_hebrew": "כל נוזל המיועד לצריכה (לא כולל מים)",
+                "example": "I enjoy a good cup of coffee as my beverage in the morning.",
+                "example_hebrew": "אני נהנה מכוס קפה טובה בתור המשקה שלי בבוקר."
+            },
+            {
+                "definition": "A non-alcoholic drink",
+                "definition_hebrew": "משקה ללא אלכוהול",
+                "example": "She prefers to have her tea or other non-alcoholic beverages during social gatherings.",
+                "example_hebrew": "היא מעדיפה לשתות את התה שלה או משקאות לא אלכוהוליים אחרים במהלך מפגשים חברתיים."
+            },
+            {
+                "definition": "Any kind of soft drink (sodas)",
+                "definition_hebrew": "כל סוג של משקה קל (משקאות מוגזים)",
+                "example": "At the convenience store, I bought a cola and a bottle of soda as my favorite beverages.",
+                "example_hebrew": "בחנות הנוחות קניתי קולה ובקבוק סודה בתור המשקאות האהובים עליי."
+            },
+            {
+                "definition": "A hot drink",
+                "definition_hebrew": "משקה חם",
+                "example": "On cold winter nights, nothing warms me up more than a cup of hot chocolate or tea.",
+                "example_hebrew": "בלילות החורף הקרים, שום דבר לא מחמם אותי יותר מכוס שוקו חם או תה."
+            }
+        ]
+    }
+]

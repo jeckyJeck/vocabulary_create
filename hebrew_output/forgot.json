@@ -1,0 +1,34 @@
+[
+    {
+        "word": "forgot",
+        "word_hebrew": "שכח",
+        "main_definition": "To fail to remember or recall something previously known.",
+        "main_definition_hebrew": "להיכשל לזכור או להיזכר במשהו ידוע קודם לכן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Failing to remember an event, task, person, or thing that one should remember.",
+                "definition_hebrew": "אי לזכור אירוע, משימה, אדם או דבר שצריך לזכור.",
+                "example": "I forgot my friend's birthday.",
+                "example_hebrew": "שכחתי את יום ההולדת של חבר שלי."
+            },
+            {
+                "definition": "To lose the memory of something previously known due to lack of repetition or attention.",
+                "definition_hebrew": "לאבד את הזיכרון של משהו שהיה ידוע קודם לכן בגלל חוסר חזרה או תשומת לב.",
+                "example": "She forgot how to ride a bike after many years without practice.",
+                "example_hebrew": "היא שכחה איך לרכוב על אופניים אחרי שנים רבות ללא תרגול."
+            },
+            {
+                "definition": "Informal expression used when someone fails to remember an action they were supposed to do, often leading to inconvenience.",
+                "definition_hebrew": "ביטוי לא פורמלי המשמש כאשר מישהו לא מצליח לזכור פעולה שהוא היה אמור לעשות, מה שמוביל לעתים קרובות לאי נוחות.",
+                "example": "I totally forgot to bring my ID card for the event!",
+                "example_hebrew": "שכחתי לגמרי להביא את תעודת הזהות שלי לאירוע!"
+            },
+            {
+                "definition": "A common occurrence where one unintentionally forgets something that was mentioned or required previously.",
+                "definition_hebrew": "אירוע שכיח שבו אדם שוכח ללא כוונה משהו שהוזכר או נדרש קודם לכן.",
+                "example": "Didn't you say we should buy milk on our way home?",
+                "example_hebrew": "לא אמרת שאנחנו צריכים לקנות חלב בדרך הביתה?"
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "incomplete",
+        "word_hebrew": "לא שלם",
+        "main_definition": "Something that is not finished or lacks some necessary parts, elements, or details.",
+        "main_definition_hebrew": "משהו שלא נגמר או חסר כמה חלקים, אלמנטים או פרטים הכרחיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not having all the required components or information to make a complete and functional thing.",
+                "definition_hebrew": "אין את כל הרכיבים או המידע הנדרשים כדי ליצור דבר שלם ופונקציונלי.",
+                "example": "The puzzle was incomplete because it was missing several pieces.",
+                "example_hebrew": "הפאזל לא היה שלם כי היו חסרים בו כמה חלקים."
+            },
+            {
+                "definition": "Relating to something that is not fully developed or finished; lacking in finality or completeness.",
+                "definition_hebrew": "התייחסות למשהו שאינו מפותח או גמור במלואו; חסר סופיות או שלמות.",
+                "example": "His essay on climate change seemed incomplete as he had only covered half of the topic.",
+                "example_hebrew": "החיבור שלו על שינויי אקלים נראה לא שלם מכיוון שהוא כיסה רק חצי מהנושא."
+            },
+            {
+                "definition": "In an examination, a student's work does not meet all the requirements and is therefore incomplete.",
+                "definition_hebrew": "בבחינה, עבודתו של סטודנט אינה עומדת בכל הדרישות ולכן אינה שלמה.",
+                "example": "The teacher marked her answer sheet as incomplete because she didn't provide explanations for some questions.",
+                "example_hebrew": "המורה סימנה את דף התשובות שלה כלא שלם כי היא לא סיפקה הסברים לכמה שאלות."
+            },
+            {
+                "definition": "A situation or story that lacks depth or fullness, potentially leaving a reader wanting more detail or resolution.",
+                "definition_hebrew": "סיטואציה או סיפור חסרי עומק או מלאות, ועשויים להשאיר את הקורא רוצה יותר פרטים או רזולוציה.",
+                "example": "The movie left viewers feeling the ending was somewhat incomplete since it resolved only part of the plot.",
+                "example_hebrew": "הסרט הותיר את הצופים בתחושה שהסוף לא שלם במקצת מכיוון שהוא פתר רק חלק מהעלילה."
+            }
+        ]
+    }
+]

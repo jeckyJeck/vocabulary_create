@@ -1,0 +1,34 @@
+[
+    {
+        "word": "custody",
+        "word_hebrew": "משמורת",
+        "main_definition": "The legal right or responsibility to care for a child, typically after separation or divorce.",
+        "main_definition_hebrew": "הזכות או האחריות החוקית לטפל בילד, בדרך כלל לאחר פרידה או גירושין.",
+        "meanings_and_examples": [
+            {
+                "definition": "Legal possession and control of a person (typically a minor) by the court system",
+                "definition_hebrew": "החזקה ושליטה משפטית באדם (בדרך כלל קטין) על ידי מערכת בתי המשפט",
+                "example": "After the parents' divorce, legal custody was granted to both mother and father.",
+                "example_hebrew": "לאחר גירושין של ההורים, ניתנה משמורת חוקית הן לאם והן לאב."
+            },
+            {
+                "definition": "The care, control, and maintenance of a child or children when not in the parental home",
+                "definition_hebrew": "טיפול, בקרה ותחזוקה של ילד או ילדים כאשר הם אינם בבית ההורים",
+                "example": "The relative took custody of my niece while her parents were on vacation.",
+                "example_hebrew": "קרובת המשפחה לקחה את המשמורת על האחיינית שלי בזמן שהוריה היו בחופשה."
+            },
+            {
+                "definition": "A type of protective order issued by a court to prevent harm or harassment from an individual towards someone they have contact with, typically involving children",
+                "definition_hebrew": "סוג של צו הגנה שהוצא על ידי בית משפט כדי למנוע פגיעה או הטרדה מצד אדם כלפי מישהו שיש לו קשר איתו, בדרך כלל מעורבים ילדים",
+                "example": "The judge granted the mother custody and issued a restraining order against her ex-husband.",
+                "example_hebrew": "השופט העניק לאם משמורת והוציא צו מניעה נגד בעלה לשעבר."
+            },
+            {
+                "definition": "A specific term used in legal context to refer to both physical placement (where) and decision-making authority (who) regarding the child",
+                "definition_hebrew": "מונח ספציפי המשמש בהקשר משפטי להתייחס הן למיקום פיזי (היכן) והן לסמכות קבלת החלטות (מי) לגבי הילד",
+                "example": "The court decided joint custody would be best for the children, allowing them equal time with each parent.",
+                "example_hebrew": "בית המשפט החליט שמשמורת משותפת תהיה הטובה ביותר עבור הילדים, ותאפשר להם זמן שווה עם כל הורה."
+            }
+        ]
+    }
+]

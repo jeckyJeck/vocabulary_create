@@ -1,0 +1,34 @@
+[
+    {
+        "word": "solve",
+        "word_hebrew": "לִפְתוֹר",
+        "main_definition": "To find an answer or a way to overcome a problem, puzzle, or challenge.",
+        "main_definition_hebrew": "למצוא תשובה או דרך להתגבר על בעיה, חידה או אתגר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To determine the value of variables in mathematics problems",
+                "definition_hebrew": "לקבוע את ערכם של משתנים בבעיות מתמטיקה",
+                "example": "She solved the equation 2x + 3 = 9 by finding that x equals 3.",
+                "example_hebrew": "היא פתרה את המשוואה 2x + 3 = 9 בכך שמצאה ש-x שווה ל-3."
+            },
+            {
+                "definition": "To find a way to fix or address an issue or conflict",
+                "definition_hebrew": "כדי למצוא דרך לתקן או לטפל בבעיה או התנגשות",
+                "example": "The mediator helped them solve their disagreement and reach an agreement.",
+                "example_hebrew": "המגשר עזר להם לפתור את מחלוקתם ולהגיע להסכמה."
+            },
+            {
+                "definition": "To resolve the components of a complex problem step by step",
+                "definition_hebrew": "לפתור את המרכיבים של בעיה מורכבת צעד אחר צעד",
+                "example": "He solved the crime by following leads, collecting evidence, and analyzing motives.",
+                "example_hebrew": "הוא פתר את הפשע על ידי מעקב אחר מובילים, איסוף ראיות וניתוח מניעים."
+            },
+            {
+                "definition": "To find an answer to a riddle or puzzle",
+                "definition_hebrew": "למצוא תשובה לחידה או חידה",
+                "example": "She solved the crossword clue with 'a six-letter word for joy' by writing 'delightful.'",
+                "example_hebrew": "היא פתרה את רמז התשבץ ב'מילה בת שש אותיות לשמחה' על ידי כתיבת 'מענג'."
+            }
+        ]
+    }
+]

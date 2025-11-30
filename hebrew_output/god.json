@@ -1,0 +1,34 @@
+[
+    {
+        "word": "god",
+        "word_hebrew": "אלוהים",
+        "main_definition": "God is a supreme being or deity, often considered as the creator and ruler of the universe in various religious traditions.",
+        "main_definition_hebrew": "אלוהים הוא ישות עליונה או אלוהות, הנחשבת לעתים קרובות כבורא ושליט היקום במסורות דתיות שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Personification of divine authority and power",
+                "definition_hebrew": "האנשה של סמכות וכוח אלוהיים",
+                "example": "When we say 'God bless you,' it is a way to invoke divine protection or good fortune.",
+                "example_hebrew": "כאשר אנו אומרים 'אלוהים יברך אותך', זו דרך לעורר הגנה אלוהית או מזל טוב."
+            },
+            {
+                "definition": "The creator deity in monotheistic religions (e.g., Christianity, Islam, Judaism)",
+                "definition_hebrew": "האלוהות הבוראת בדתות המונותאיסטיות (למשל, נצרות, אסלאם, יהדות)",
+                "example": "'Jesus is the son of God' is an expression used by Christians to indicate that Jesus is the divine offspring and messiah.",
+                "example_hebrew": "'ישו הוא בנו של אלוהים' הוא ביטוי המשמש את הנוצרים כדי לציין שישוע הוא הצאצא והמשיח האלוהי."
+            },
+            {
+                "definition": "The embodiment of moral goodness and justice",
+                "definition_hebrew": "התגלמות הטוב והצדק המוסרי",
+                "example": "'God's will be done' represents a surrender to perceived divine intentions, often seen in religious contexts as an acceptance of fate or destiny.",
+                "example_hebrew": "'רצון אלוהים ייעשה' מייצג כניעה לכוונות אלוהיות נתפסות, הנראות לרוב בהקשרים דתיים כקבלת הגורל או הגורל."
+            },
+            {
+                "definition": "A personification used for respectful address in prayer and conversation",
+                "definition_hebrew": "האנשה המשמשת לפנייה מכבדת בתפילה ובשיחה",
+                "example": "'Lord God Almighty' is a phrase that refers to the Christian God, often recited in prayers as an act of reverence.",
+                "example_hebrew": "'אדון אלוהים הכל יכול' הוא ביטוי המתייחס לאל הנוצרי, הנקרא לעתים קרובות בתפילות כמעשה של יראת שמים."
+            }
+        ]
+    }
+]

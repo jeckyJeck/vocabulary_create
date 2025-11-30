@@ -1,0 +1,40 @@
+[
+    {
+        "word": "bite",
+        "word_hebrew": "נְשִׁיכָה",
+        "main_definition": "To use one's teeth to cut, grip or cause pain by putting them in something.",
+        "main_definition_hebrew": "להשתמש בשיניים כדי לחתוך, לאחוז או לגרום לכאב על ידי הכנסתן למשהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical act of using teeth to grasp or cut",
+                "definition_hebrew": "פעולה פיזית של שימוש בשיניים כדי לתפוס או לחתוך",
+                "example": "The dog gave a small bite on my hand when I tried to pet it.",
+                "example_hebrew": "הכלב נתן לי נשיכה קטנה ביד כשניסיתי ללטף אותו."
+            },
+            {
+                "definition": "To express disapproval sharply and often aggressively",
+                "definition_hebrew": "להביע אי הסכמה בחריפות ולעתים קרובות באגרסיביות",
+                "example": "His rude comment really bit him in the end as people started avoiding him.",
+                "example_hebrew": "ההערה הגסה שלו באמת נשכה אותו בסופו של דבר כשאנשים התחילו להתחמק ממנו."
+            },
+            {
+                "definition": "The act of taking a small amount from something, usually without permission or as a form of punishment",
+                "definition_hebrew": "הפעולה של לקיחת כמות קטנה ממשהו, לרוב ללא רשות או כסוג של עונש",
+                "example": "My parents used to bite my allowance when I broke curfew.",
+                "example_hebrew": "ההורים שלי נהגו לנשוך את הקצבה שלי כשהפרתי את העוצר."
+            },
+            {
+                "definition": "To consume in bites (as food), typically referring to eating with the mouth closed and not swallowing whole pieces",
+                "definition_hebrew": "לצרוך בביסים (כמזון), מתייחס בדרך כלל לאכילה בפה סגור ולא לבלוע חתיכות שלמות",
+                "example": "She started to eat her apple, taking small bites until she finished it.",
+                "example_hebrew": "היא התחילה לאכול את התפוח שלה, לקחה נגיסות קטנות עד שסיימה אותו."
+            },
+            {
+                "definition": "A sudden sharp pain or sensation caused by something unexpectedly attacking or penetrating",
+                "definition_hebrew": "כאב או תחושה חדה פתאומית הנגרמים ממשהו שתוקף או חודר באופן בלתי צפוי",
+                "example": "He felt a bite of cold wind on his face as he stepped outside without a jacket.",
+                "example_hebrew": "הוא חש נגיסה של רוח קרה על פניו כשיצא החוצה בלי ז'קט."
+            }
+        ]
+    }
+]

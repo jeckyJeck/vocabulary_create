@@ -1,0 +1,40 @@
+[
+    {
+        "word": "book",
+        "word_hebrew": "סֵפֶר",
+        "main_definition": "A book is a written or printed work consisting of pages bound together, typically containing stories, information, or other content.",
+        "main_definition_hebrew": "ספר הוא יצירה כתובה או מודפסת המורכבת מדפים כרוכים יחד, המכילים בדרך כלל סיפורים, מידע או תוכן אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To reserve something for future use by noting it down in advance",
+                "definition_hebrew": "כדי לשמור משהו לשימוש עתידי על ידי רישום זה מראש",
+                "example": "I need to book a hotel room for our upcoming vacation.",
+                "example_hebrew": "אני צריך להזמין חדר במלון לחופשה הקרובה שלנו."
+            },
+            {
+                "definition": "A collection of written, printed or blank pages fastened together and protected by a cover",
+                "definition_hebrew": "אוסף של דפים כתובים, מודפסים או ריקים מהודקים יחד ומוגנים בכריכה",
+                "example": "She read the Harry Potter series from start to finish. Each installment was like opening a new book each time.",
+                "example_hebrew": "היא קראה את סדרת הארי פוטר מההתחלה ועד הסוף. כל פרק היה כמו לפתוח ספר חדש בכל פעם."
+            },
+            {
+                "definition": "To make an appointment for a service (e.g., medical, legal)",
+                "definition_hebrew": "כדי לקבוע תור לשירות (למשל, רפואי, משפטי)",
+                "example": "I need to book an appointment with my doctor next week.",
+                "example_hebrew": "אני צריך לקבוע תור לרופא שלי בשבוע הבא."
+            },
+            {
+                "definition": "A reference work containing articles on a particular subject or body of knowledge",
+                "definition_hebrew": "עבודת עיון המכילה מאמרים בנושא או גוף ידע מסוים",
+                "example": "The encyclopedia is a great book for learning about different topics.",
+                "example_hebrew": "האנציקלופדיה היא ספר מצוין ללמידה על נושאים שונים."
+            },
+            {
+                "definition": "An instructional guide or manual detailing how to do something",
+                "definition_hebrew": "מדריך הדרכה או מדריך המפרט כיצד לעשות משהו",
+                "example": "I used the user's manual that came with my new phone as a helpful book of instructions.",
+                "example_hebrew": "השתמשתי במדריך למשתמש שהגיע עם הטלפון החדש שלי בתור ספר הוראות שימושי."
+            }
+        ]
+    }
+]

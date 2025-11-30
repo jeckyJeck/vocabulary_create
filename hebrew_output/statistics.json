@@ -1,0 +1,40 @@
+[
+    {
+        "word": "statistics",
+        "word_hebrew": "סטָטִיסטִיקָה",
+        "main_definition": "Statistics is a branch of mathematics that deals with the collection, analysis, interpretation, presentation, and organization of data in order to understand trends and patterns.",
+        "main_definition_hebrew": "סטטיסטיקה היא ענף במתמטיקה העוסק באיסוף, ניתוח, פרשנות, הצגה וארגון של נתונים על מנת להבין מגמות ודפוסים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The numerical data collected from observations or experiments",
+                "definition_hebrew": "הנתונים המספריים שנאספו מתצפיות או ניסויים",
+                "example": "In a survey about favorite ice cream flavors, the statistics would include numbers representing how many people chose each option.",
+                "example_hebrew": "בסקר על טעמי גלידה מועדפים, הסטטיסטיקה תכלול מספרים המייצגים כמה אנשים בחרו בכל אפשרות."
+            },
+            {
+                "definition": "The science of organizing, summarizing and analyzing numerical data to make it more understandable",
+                "definition_hebrew": "המדע של ארגון, סיכום וניתוח נתונים מספריים כדי להפוך אותם למובנים יותר",
+                "example": "A company uses statistical methods to analyze sales trends over the past year to predict future performance.",
+                "example_hebrew": "חברה משתמשת בשיטות סטטיסטיות כדי לנתח מגמות מכירות בשנה האחרונה כדי לחזות ביצועים עתידיים."
+            },
+            {
+                "definition": "Statistical results or findings reported from a research study or analysis",
+                "definition_hebrew": "תוצאות או ממצאים סטטיסטיים שדווחו ממחקר או ניתוח",
+                "example": "The statistics of a clinical trial indicate that a new drug is effective in treating a disease with minimal side effects.",
+                "example_hebrew": "הנתונים הסטטיסטיים של ניסוי קליני מצביעים על כך שתרופה חדשה יעילה בטיפול במחלה עם מינימום תופעות לוואי."
+            },
+            {
+                "definition": "A set of rules, principles and methods used to gather data, analyze it and present the results",
+                "definition_hebrew": "מערכת כללים, עקרונות ושיטות המשמשים לאיסוף נתונים, ניתוחם והצגת התוצאות",
+                "example": "When conducting an opinion poll, statisticians follow a specific set of guidelines (statistics) to ensure the accuracy of their findings.",
+                "example_hebrew": "בעת עריכת סקר דעת קהל, סטטיסטיקאים פועלים לפי סדרה מסוימת של קווים מנחים (סטטיסטיקה) כדי להבטיח את דיוק הממצאים שלהם."
+            },
+            {
+                "definition": "A numerical measure that summarizes or describes aspects of a data set",
+                "definition_hebrew": "מדד מספרי המסכם או מתאר היבטים של מערך נתונים",
+                "example": "The mean (average), median and mode are all types of statistics used to describe a dataset's central tendency.",
+                "example_hebrew": "הממוצע (ממוצע), החציון והמצב הם כל סוגי הסטטיסטיקה המשמשים לתיאור הנטייה המרכזית של מערך נתונים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "transcript",
+        "word_hebrew": "תמליל",
+        "main_definition": "A written or printed copy of a spoken dialogue, speech, or presentation; an official record of examinations or proceedings.",
+        "main_definition_hebrew": "עותק כתוב או מודפס של דיאלוג, נאום או מצגת מדוברת; רישום רשמי של בחינות או הליכים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Record of a lecture or class session in higher education",
+                "definition_hebrew": "תיעוד של הרצאה או מפגש כיתתי בהשכלה הגבוהה",
+                "example": "The student requested a transcript of the chemistry lectures for review.",
+                "example_hebrew": "הסטודנט ביקש תמליל של הרצאות הכימיה לעיון."
+            },
+            {
+                "definition": "A written copy of spoken words, such as court proceedings or speeches",
+                "definition_hebrew": "עותק כתוב של מילים מדוברות, כגון הליכים משפטיים או נאומים",
+                "example": "The journalist obtained a transcript of the political debate to write an article about it.",
+                "example_hebrew": "העיתונאי השיג תמליל של הדיון הפוליטי כדי לכתוב עליו מאמר."
+            },
+            {
+                "definition": "An official record of examinations or test results",
+                "definition_hebrew": "רישום רשמי של בדיקות או תוצאות מבחנים",
+                "example": "She handed in her SAT score transcript for college applications.",
+                "example_hebrew": "היא מסרה את תמליל ציון ה-SAT שלה לבקשות לקולג'."
+            },
+            {
+                "definition": "A written account or report that summarizes a meeting, conference, or event",
+                "definition_hebrew": "חשבון כתוב או דוח המסכם פגישה, כנס או אירוע",
+                "example": "The organizers provided the attendees with a transcript of the workshop's discussions and outcomes.",
+                "example_hebrew": "המארגנים סיפקו למשתתפים תמליל של דיוני הסדנה ותוצאותיה."
+            }
+        ]
+    }
+]

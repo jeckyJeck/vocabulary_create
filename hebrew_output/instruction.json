@@ -1,0 +1,34 @@
+[
+    {
+        "word": "instruction",
+        "word_hebrew": "הוראה",
+        "main_definition": "Instructions refer to guidance, directions, or orders given to someone to perform a task or activity.",
+        "main_definition_hebrew": "הוראות מתייחסות להנחיה, הנחיות או פקודות שניתנו למישהו לבצע משימה או פעילות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Detailed information on how to do something",
+                "definition_hebrew": "מידע מפורט על איך לעשות משהו",
+                "example": "The instruction manual provided with the electronic device explains step-by-step how to set it up and operate it.",
+                "example_hebrew": "מדריך ההוראות המצורף למכשיר האלקטרוני מסביר שלב אחר שלב כיצד להגדיר אותו ולהפעיל אותו."
+            },
+            {
+                "definition": "A command or order given by an authority figure",
+                "definition_hebrew": "פקודה או פקודה שניתנה על ידי איש סמכות",
+                "example": "The general issued clear instructions for his troops during battle, emphasizing discipline and strategy.",
+                "example_hebrew": "הגנרל הוציא הוראות ברורות לחייליו במהלך הקרב, תוך שימת דגש על משמעת ואסטרטגיה."
+            },
+            {
+                "definition": "An educational tool used to teach students a specific subject or skill",
+                "definition_hebrew": "כלי חינוכי המשמש ללמד את התלמידים נושא או מיומנות ספציפיים",
+                "example": "Teachers use textbooks as instructional materials to guide their lesson plans in the classroom.",
+                "example_hebrew": "מורים משתמשים בספרי לימוד כחומרי הדרכה כדי להנחות את מערכי השיעור שלהם בכיתה."
+            },
+            {
+                "definition": "A set of rules governing behavior and interactions within an organization",
+                "definition_hebrew": "מערכת כללים המסדירים התנהגות ואינטראקציות בתוך ארגון",
+                "example": "The company's code of conduct provides instructions for employees on professional etiquette and workplace policies.",
+                "example_hebrew": "קוד ההתנהגות של החברה מספק הנחיות לעובדים לגבי נימוס מקצועי ומדיניות מקום העבודה."
+            }
+        ]
+    }
+]

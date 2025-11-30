@@ -1,0 +1,22 @@
+[
+    {
+        "word": "msgstr",
+        "word_hebrew": "msgstr",
+        "main_definition": "In the context of translation tools, 'msgstr' is a command-line argument used to specify an alternative string or translation.",
+        "main_definition_hebrew": "בהקשר של כלי תרגום, 'msgstr' הוא ארגומנט שורת פקודה המשמש לציון מחרוזת או תרגום חלופי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Command-line argument in gettext for specifying translations",
+                "definition_hebrew": "ארגומנט שורת הפקודה ב-gettext לציון תרגומים",
+                "example": "'po msgstr -o FILE.mo MY_TEXT' will provide a translated text of 'MY_TEXT' to be included in the '.mo' file.",
+                "example_hebrew": "'po msgstr -o FILE.mo MY_TEXT' יספק טקסט מתורגם של 'MY_TEXT' שייכלל בקובץ '.mo'."
+            },
+            {
+                "definition": "Placeholder for translation string in source code files using gettext",
+                "definition_hebrew": "מציין מיקום עבור מחרוזת תרגום בקובצי קוד מקור באמצעות gettext",
+                "example": "'msgid ",
+                "example_hebrew": "'msgid "
+            }
+        ]
+    }
+]

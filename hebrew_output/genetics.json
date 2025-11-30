@@ -1,0 +1,34 @@
+[
+    {
+        "word": "genetics",
+        "word_hebrew": "גנטיקה",
+        "main_definition": "Genetics is the scientific study of heredity, genes, and the variation of organisms.",
+        "main_definition_hebrew": "גנטיקה היא המחקר המדעי של תורשה, גנים ושונות של אורגניזמים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The branch of biology that deals with the inheritance and transmission of traits from parents to offspring",
+                "definition_hebrew": "ענף הביולוגיה העוסק בהורשה והעברה של תכונות מהורים לצאצאים",
+                "example": "Mendelian genetics is named after Gregor Mendel, who discovered fundamental laws of inheritance.",
+                "example_hebrew": "הגנטיקה המנדלית נקראת על שם גרגור מנדל, שגילה חוקי ירושה בסיסיים."
+            },
+            {
+                "definition": "Genetic engineering or gene editing refers to manipulating an organism's DNA to modify its characteristics",
+                "definition_hebrew": "הנדסה גנטית או עריכת גנים מתייחסת למניפולציה של ה-DNA של האורגניזם כדי לשנות את מאפייניו",
+                "example": "CRISPR-Cas9 technology allows scientists to edit genes in living cells, which can lead to breakthroughs in medicine and agriculture.",
+                "example_hebrew": "טכנולוגיית CRISPR-Cas9 מאפשרת למדענים לערוך גנים בתאים חיים, מה שיכול להוביל לפריצות דרך ברפואה ובחקלאות."
+            },
+            {
+                "definition": "A term used metaphorically to describe the fundamental aspects or core elements of something",
+                "definition_hebrew": "מונח המשמש באופן מטפורי לתיאור ההיבטים הבסיסיים או מרכיבי הליבה של משהו",
+                "example": "The company has a strong foundation in technology and innovation at its genetic core.",
+                "example_hebrew": "לחברה יש בסיס חזק בטכנולוגיה וחדשנות בליבה הגנטי."
+            },
+            {
+                "definition": "In biology, referring to the study of how traits are passed from one generation to another through DNA",
+                "definition_hebrew": "בביולוגיה, הכוונה לחקר האופן שבו תכונות מועברות מדור לדור דרך DNA",
+                "example": "DNA sequencing helps scientists understand the genetics behind certain diseases and conditions.",
+                "example_hebrew": "רצף DNA עוזר למדענים להבין את הגנטיקה מאחורי מחלות ומצבים מסוימים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "body",
+        "word_hebrew": "גוּף",
+        "main_definition": "The term 'body' can refer to the physical structure of a living being, including humans, animals, or plants; an organization comprising different parts that work together, such as a company or government body; and figuratively, it may denote the essence or central part of something.",
+        "main_definition_hebrew": "המונח 'גוף' יכול להתייחס למבנה הפיזי של יצור חי, לרבות בני אדם, בעלי חיים או צמחים; ארגון הכולל חלקים שונים הפועלים יחד, כגון חברה או גוף ממשלתי; ובאופן פיגורטיבי, זה עשוי לציין את המהות או החלק המרכזי של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical structure of a living being",
+                "definition_hebrew": "מבנה פיזי של יצור חי",
+                "example": "The human body is composed of various systems like the circulatory system.",
+                "example_hebrew": "גוף האדם מורכב ממערכות שונות כמו מערכת הדם."
+            },
+            {
+                "definition": "Organization or institution",
+                "definition_hebrew": "ארגון או מוסד",
+                "example": "He works in the financial body of our company, dealing with budgets and expenses.",
+                "example_hebrew": "הוא עובד בגוף הפיננסי של החברה שלנו, עוסק בתקציבים ובהוצאות."
+            },
+            {
+                "definition": "Central part or essence of something",
+                "definition_hebrew": "חלק מרכזי או מהות של משהו",
+                "example": "The heart is often referred to as the 'body's engine', symbolizing its central role in circulation and vitality.",
+                "example_hebrew": "הלב מכונה לעתים קרובות 'מנוע הגוף', המסמל את תפקידו המרכזי במחזור הדם והחיוניות."
+            }
+        ]
+    }
+]

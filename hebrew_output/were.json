@@ -1,0 +1,28 @@
+[
+    {
+        "word": "were",
+        "word_hebrew": "היו",
+        "main_definition": "Were is the past tense of the verb 'to be', used to describe a state or condition in the past that does not exist anymore.",
+        "main_definition_hebrew": "Were הוא זמן עבר של הפועל 'להיות', המשמש לתיאור מצב או מצב בעבר שאינם קיימים יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Used as an auxiliary verb for the subjunctive mood, expressing hypothetical situations contrary to fact",
+                "definition_hebrew": "משמש כפועל עזר למצב הרוח המשנה, המבטא מצבים היפותטיים בניגוד לעובדה",
+                "example": "If I were richer, I would travel the world.",
+                "example_hebrew": "אם הייתי עשיר יותר, הייתי מטייל בעולם."
+            },
+            {
+                "definition": "Used in reported speech or indirect questions when referring to something that happened in the past",
+                "definition_hebrew": "משמש בדיבור מדווח או בשאלות עקיפות כאשר מתייחסים למשהו שקרה בעבר",
+                "example": "She said she was going to the store yesterday.",
+                "example_hebrew": "היא אמרה שהיא הולכת לחנות אתמול."
+            },
+            {
+                "definition": "A contraction of 'were' used before a singular noun, indicating an imaginary or hypothetical situation involving that person",
+                "definition_hebrew": "התכווצות של 'היו' בשימוש לפני שם עצם יחיד, המצביע על מצב דמיוני או היפותטי הכולל את אותו אדם",
+                "example": "If I were you, I would apologize for my mistake.",
+                "example_hebrew": "במקומך, הייתי מתנצל על הטעות שלי."
+            }
+        ]
+    }
+]

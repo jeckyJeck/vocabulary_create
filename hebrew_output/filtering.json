@@ -1,0 +1,34 @@
+[
+    {
+        "word": "filtering",
+        "word_hebrew": "סִנוּן",
+        "main_definition": "The process of separating or removing unwanted components from a substance, data set, or content.",
+        "main_definition_hebrew": "תהליך של הפרדה או הסרה של רכיבים לא רצויים מחומר, מערך נתונים או תוכן.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of selecting and retaining certain information while discarding others, especially in the context of processing signals or data streams.",
+                "definition_hebrew": "פעולת הבחירה והשמירה של מידע מסוים תוך השלכת מידע אחר, במיוחד בהקשר של עיבוד אותות או זרמי נתונים.",
+                "example": "The audio system uses a low-pass filter to remove high-frequency noise from the signal.",
+                "example_hebrew": "מערכת השמע משתמשת במסנן נמוך כדי להסיר רעש בתדר גבוה מהאות."
+            },
+            {
+                "definition": "The practice of eliminating undesirable elements from materials such as air or water by passing them through a filtering medium.",
+                "definition_hebrew": "התרגול של סילוק אלמנטים לא רצויים מחומרים כמו אוויר או מים על ידי העברתם דרך מדיום סינון.",
+                "example": "A coffee shop filters used grounds and spent beans to produce clean brewing water for customers.",
+                "example_hebrew": "בית קפה מסנן טחון משומש ושעועית מבוזבזת לייצור מי בישול נקיים ללקוחות."
+            },
+            {
+                "definition": "The act of editing content to remove irrelevant, inappropriate, or sensitive information, typically to comply with regulations or guidelines.",
+                "definition_hebrew": "פעולת עריכת תוכן כדי להסיר מידע לא רלוונטי, לא הולם או רגיש, בדרך כלל כדי לציית לתקנות או להנחיות.",
+                "example": "Social media platforms use filtering algorithms to flag and hide offensive posts from their users.",
+                "example_hebrew": "פלטפורמות מדיה חברתית משתמשות באלגוריתמי סינון כדי לסמן ולהסתיר פוסטים פוגעניים מהמשתמשים שלהן."
+            },
+            {
+                "definition": "The process of refining a set of data by excluding unrelated or redundant entries to improve the focus or accuracy of analysis.",
+                "definition_hebrew": "תהליך חידוד קבוצת הנתונים על ידי אי הכללה של ערכים לא קשורים או מיותרים כדי לשפר את המיקוד או הדיוק של הניתוח.",
+                "example": "Data analysts apply filters on sales reports to highlight significant trends and patterns.",
+                "example_hebrew": "מנתחי נתונים מיישמים מסננים על דוחות מכירות כדי להדגיש מגמות ודפוסים משמעותיים."
+            }
+        ]
+    }
+]

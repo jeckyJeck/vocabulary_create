@@ -1,0 +1,40 @@
+[
+    {
+        "word": "paper",
+        "word_hebrew": "עיתון",
+        "main_definition": "Paper refers to a thin material produced by pressing together moist fibers derived from the pulped cellulose fiber of wood, rags, or grasses, often used for writing, printing, or packaging.",
+        "main_definition_hebrew": "נייר מתייחס לחומר דק המיוצר על ידי לחיצה של סיבים לחים שמקורם בסיבי תאית של עץ, סמרטוטים או עשבים, המשמשים לעתים קרובות לכתיבה, הדפסה או אריזה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A written or printed document",
+                "definition_hebrew": "מסמך כתוב או מודפס",
+                "example": "I received a paper from my professor outlining the project requirements.",
+                "example_hebrew": "קיבלתי עבודה מהפרופסור שלי המתארת את דרישות הפרויקט."
+            },
+            {
+                "definition": "An official document that serves as proof of identity, ownership, or transaction",
+                "definition_hebrew": "מסמך רשמי המשמש כהוכחה לזהות, בעלות או עסקה",
+                "example": "She presented her birth certificate and driver's license to prove her age for purchasing alcohol.",
+                "example_hebrew": "היא הציגה את תעודת הלידה ורישיון הנהיגה שלה כדי להוכיח את גילה לרכישת אלכוהול."
+            },
+            {
+                "definition": "A piece of news reported in a newspaper or other publication",
+                "definition_hebrew": "ידיעה שדווחה בעיתון או בפרסום אחר",
+                "example": "The local paper ran an article about the town hall meeting last night.",
+                "example_hebrew": "העיתון המקומי פרסם כתבה על ישיבת העירייה אמש."
+            },
+            {
+                "definition": "To test or examine something, usually by asking questions (similar to 'interrogate')",
+                "definition_hebrew": "לבדוק או לבחון משהו, בדרך כלל על ידי שאילת שאלות (בדומה ל'תחקר')",
+                "example": "During his interview for the job, he was asked a lot of probing questions; they really papered him.",
+                "example_hebrew": "במהלך הראיון שלו לתפקיד, הוא נשאל הרבה שאלות בוחן; הם באמת צייצו אותו."
+            },
+            {
+                "definition": "A sheet made from pulped material and intended for writing or printing on",
+                "definition_hebrew": "דף עשוי מחומר עיסת ומיועד לכתיבה או הדפסה עליו",
+                "example": "He wrote an important letter on a clean piece of paper before sending it in the mail.",
+                "example_hebrew": "הוא כתב מכתב חשוב על פיסת נייר נקייה לפני ששלח אותו בדואר."
+            }
+        ]
+    }
+]

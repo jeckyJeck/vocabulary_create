@@ -1,0 +1,34 @@
+[
+    {
+        "word": "conventions",
+        "word_hebrew": "מוסכמות",
+        "main_definition": "Conventions refer to the agreed-upon rules, customs, or standards that are commonly accepted in a particular field, culture, or society.",
+        "main_definition_hebrew": "אמנות מתייחסות לכללים, למנהגים או לסטנדרטים המוסכמים המקובלים בדרך כלל בתחום, תרבות או חברה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Social conventions, referring to widely accepted norms and behaviors within a society",
+                "definition_hebrew": "מוסכמות חברתיות, המתייחסות לנורמות והתנהגויות מקובלות בחברה",
+                "example": "In many Western cultures, it is considered polite to say 'please' and 'thank you' when making requests or receiving help.",
+                "example_hebrew": "בתרבויות מערביות רבות, זה נחשב מנומס לומר 'בבקשה' ו'תודה' בעת פניות או קבלת עזרה."
+            },
+            {
+                "definition": "Conventions in literature and storytelling, referring to established rules for writing a coherent narrative",
+                "definition_hebrew": "מוסכמות בספרות ובסיפור סיפורים, המתייחסות לכללים שנקבעו לכתיבת נרטיב קוהרנטי",
+                "example": "The three-act structure is a common convention used in many films and plays that divides the plot into setup, confrontation, and resolution.",
+                "example_hebrew": "מבנה שלושת המערכות הוא מוסכמה נפוצה בשימוש בסרטים ובמחזות רבים, המחלקת את העלילה להגדרה, עימות ורזולוציה."
+            },
+            {
+                "definition": "Conventions in professional settings, referring to accepted practices or standards within specific industries",
+                "definition_hebrew": "מוסכמות במסגרות מקצועיות, המתייחסות לפרקטיקות או תקנים מקובלים בתעשיות ספציפיות",
+                "example": "In software development, conventions such as using camel case for variable names and adhering to coding style guidelines are common.",
+                "example_hebrew": "בפיתוח תוכנה, נפוצות מוסכמות כמו שימוש במארז גמל עבור שמות משתנים והקפדה על הנחיות סגנון קידוד."
+            },
+            {
+                "definition": "Scientific conventions, referring to the widely accepted methods or principles used in research and experimentation",
+                "definition_hebrew": "מוסכמות מדעיות, המתייחסות לשיטות או לעקרונות המקובלים בשימוש במחקר ובניסויים",
+                "example": "The convention of using the Celsius scale for temperature measurement is standard in many scientific disciplines worldwide.",
+                "example_hebrew": "המוסכמה של שימוש בסולם צלזיוס למדידת טמפרטורה היא סטנדרטית בדיסציפלינות מדעיות רבות ברחבי העולם."
+            }
+        ]
+    }
+]

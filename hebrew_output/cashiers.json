@@ -1,0 +1,28 @@
+[
+    {
+        "word": "cashiers",
+        "word_hebrew": "קוּפּוֹת",
+        "main_definition": "Cashiers are individuals who handle the process of cash transactions, typically in a retail or business setting.",
+        "main_definition_hebrew": "קופאים הם אנשים שמטפלים בתהליך של עסקאות מזומן, בדרך כלל בסביבה קמעונאית או עסקית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A person responsible for handling payments at a store checkout counter",
+                "definition_hebrew": "אחראי על טיפול בתשלומים בקופה בחנות",
+                "example": "The customer handed their items to the cashier who scanned each one and processed the payment.",
+                "example_hebrew": "הלקוח מסר את הפריטים שלו לקופאית שסרקה כל אחד ועיבדה את התשלום."
+            },
+            {
+                "definition": "An automated system used in stores or businesses to process transactions, often replacing manual cash handling",
+                "definition_hebrew": "מערכת אוטומטית המשמשת בחנויות או בעסקים לעיבוד עסקאות, לעתים קרובות מחליפה טיפול ידני במזומן",
+                "example": "As part of modernizing operations, the grocery store installed self-service kiosks where customers could pay for their items.",
+                "example_hebrew": "כחלק מהמודרניזציה של הפעילות, המכולת הציבה קיוסקים בשירות עצמי שבהם יכלו הלקוחות לשלם עבור הפריטים שלהם."
+            },
+            {
+                "definition": "A term referring to the act or skill of managing money and making financial decisions in a business context",
+                "definition_hebrew": "מונח המתייחס לפעולה או למיומנות של ניהול כסף וקבלת החלטות פיננסיות בהקשר עסקי",
+                "example": "The company hired a new finance manager, skilled at cashiers' duties like budgeting and forecasting.",
+                "example_hebrew": "החברה שכרה מנהל כספים חדש, מיומן בתפקידי קופאיות כמו תקצוב וחיזוי."
+            }
+        ]
+    }
+]

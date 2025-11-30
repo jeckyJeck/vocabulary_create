@@ -1,0 +1,34 @@
+[
+    {
+        "word": "memo",
+        "word_hebrew": "תַזכִּיר",
+        "main_definition": "A memorandum, often abbreviated as 'memo', is a written message or note used within an organization to communicate information among its members.",
+        "main_definition_hebrew": "תזכיר, המקוצר לעתים קרובות כ'תזכיר', הוא הודעה כתובה או הערה המשמשת בתוך ארגון כדי להעביר מידע בין חבריו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Internal communication tool in businesses and organizations",
+                "definition_hebrew": "כלי תקשורת פנימי בעסקים וארגונים",
+                "example": "The manager wrote a memo to the team about the new project deadlines.",
+                "example_hebrew": "המנהל כתב תזכיר לצוות על מועדי הפרויקט החדשים."
+            },
+            {
+                "definition": "Short for memorandum, which is used as a formal way of referring to written communications within an organization",
+                "definition_hebrew": "קיצור של מזכר, המשמש כדרך רשמית להתייחסות לתקשורת כתובה בתוך ארגון",
+                "example": "She submitted her report in a formal memorandum format to be reviewed by upper management.",
+                "example_hebrew": "היא הגישה את הדו\"ח שלה בפורמט תזכיר רשמי שייבחן על ידי ההנהלה העליונה."
+            },
+            {
+                "definition": "A document that provides official information or instructions from higher authorities in the company to employees",
+                "definition_hebrew": "מסמך המספק מידע רשמי או הנחיות מרשויות גבוהות בחברה לעובדים",
+                "example": "The CEO's memo detailed changes in company policy and its implications for all staff members.",
+                "example_hebrew": "תזכיר המנכ\"ל פירט שינויים במדיניות החברה והשלכותיה על כלל אנשי הצוות."
+            },
+            {
+                "definition": "An informal note used for reminders, personal communication, or recording thoughts within an organization",
+                "definition_hebrew": "הערה לא רשמית המשמשת לתזכורות, תקשורת אישית או הקלטת מחשבות בתוך ארגון",
+                "example": "He kept a small notepad by his desk to jot down memos about daily tasks and meeting schedules.",
+                "example_hebrew": "הוא שמר פנקס קטן ליד שולחנו כדי לרשום תזכירים על משימות יומיות ועמידה בלוחות זמנים."
+            }
+        ]
+    }
+]

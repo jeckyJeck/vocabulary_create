@@ -1,0 +1,28 @@
+[
+    {
+        "word": "oracle",
+        "word_hebrew": "נבואה",
+        "main_definition": "An oracle is a person, place or thing regarded as able to provide wise counsel or prophetic predictions.",
+        "main_definition_hebrew": "אורקל הוא אדם, מקום או דבר הנחשבים כמסוגלים לספק עצות נבונות או תחזיות נבואיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A person believed to have the ability to foretell the future or provide divine insight",
+                "definition_hebrew": "אדם האמין שיש לו את היכולת לחזות את העתיד או לספק תובנה אלוהית",
+                "example": "In ancient Greece, an oracle was consulted before making important decisions. The most famous of these was the Pythia at Delphi.",
+                "example_hebrew": "ביוון העתיקה התייעצו עם אורקל לפני קבלת החלטות חשובות. המפורסם שבהם היה הפיתיה בדלפי."
+            },
+            {
+                "definition": "A machine designed for predicting stock market trends",
+                "definition_hebrew": "מכונה המיועדת לניבוי מגמות בבורסה",
+                "example": "Many financial institutions use algorithmic oracles to forecast future movements in various markets.",
+                "example_hebrew": "מוסדות פיננסיים רבים משתמשים באורקלים אלגוריתמיים כדי לחזות תנועות עתידיות בשווקים שונים."
+            },
+            {
+                "definition": "An online platform that provides expert advice and solutions to users' queries",
+                "definition_hebrew": "פלטפורמה מקוונת המספקת ייעוץ מקצועי ופתרונות לשאלות המשתמשים",
+                "example": "Ask an oracle app allows individuals to get answers from subject matter experts on a wide range of topics.",
+                "example_hebrew": "שאל אפליקציית אורקל מאפשרת לאנשים לקבל תשובות ממומחים לנושא במגוון רחב של נושאים."
+            }
+        ]
+    }
+]

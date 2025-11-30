@@ -1,0 +1,40 @@
+[
+    {
+        "word": "analyze",
+        "word_hebrew": "לְנַתֵחַ",
+        "main_definition": "To examine or study something in detail to understand it better, especially by breaking it down into its component parts.",
+        "main_definition_hebrew": "לבחון או ללמוד משהו בפירוט כדי להבין אותו טוב יותר, במיוחד על ידי פירוקו לחלקים המרכיבים אותו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To examine closely and critically with a focus on understanding the underlying principles or structure",
+                "definition_hebrew": "לבחון מקרוב וביקורתי תוך התמקדות בהבנת העקרונות או המבנה הבסיסיים",
+                "example": "The scientist analyzed the data to identify patterns in the results.",
+                "example_hebrew": "המדען ניתח את הנתונים כדי לזהות דפוסים בתוצאות."
+            },
+            {
+                "definition": "To study thoroughly by separating it into individual elements for better comprehension",
+                "definition_hebrew": "ללמוד ביסודיות על ידי הפרדתו לאלמנטים בודדים להבנה טובה יותר",
+                "example": "She analyzed the poem line by line to appreciate its deeper meaning and literary techniques.",
+                "example_hebrew": "היא ניתחה את השיר שורה אחר שורה כדי להעריך את המשמעות העמוקה יותר ואת הטכניקות הספרותיות שלו."
+            },
+            {
+                "definition": "To investigate or scrutinize something in order to understand or draw conclusions about it",
+                "definition_hebrew": "לחקור או לבחון משהו כדי להבין או להסיק עליו מסקנות",
+                "example": "The detective analyzed the crime scene to gather evidence and identify potential suspects.",
+                "example_hebrew": "הבלש ניתח את זירת הפשע כדי לאסוף ראיות ולזהות חשודים פוטנציאליים."
+            },
+            {
+                "definition": "To interpret or make sense of information, often by considering its context",
+                "definition_hebrew": "לפרש או להבין מידע, לעתים קרובות על ידי התחשבות בהקשר שלו",
+                "example": "He analyzed the financial report to understand how it reflected on the company's performance.",
+                "example_hebrew": "הוא ניתח את הדוח הכספי כדי להבין כיצד הוא משקף את ביצועי החברה."
+            },
+            {
+                "definition": "To break down a complex problem into smaller parts in order to solve it more effectively",
+                "definition_hebrew": "לפרק בעיה מורכבת לחלקים קטנים יותר על מנת לפתור אותה בצורה יעילה יותר",
+                "example": "The engineer analyzed the car engine malfunction to isolate and address each issue.",
+                "example_hebrew": "המהנדס ניתח את התקלה במנוע המכונית כדי לבודד ולטפל בכל בעיה."
+            }
+        ]
+    }
+]

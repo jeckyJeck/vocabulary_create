@@ -1,0 +1,34 @@
+[
+    {
+        "word": "inputs",
+        "word_hebrew": "תשומות",
+        "main_definition": "Inputs refer to data or resources provided into a system, process, or device that will be processed or transformed.",
+        "main_definition_hebrew": "קלט מתייחס לנתונים או משאבים המסופקים למערכת, לתהליך או למכשיר שיעובדו או יעברו טרנספורמציה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing, inputs are the information entered into a computer or program by users through various interfaces like keyboard, mouse, touch screen, etc.",
+                "definition_hebrew": "במחשוב, קלט הוא המידע המוזן למחשב או לתוכנית על ידי משתמשים באמצעות ממשקים שונים כמו מקלדת, עכבר, מסך מגע וכו'.",
+                "example": "The user inputted their login credentials into the website's form.",
+                "example_hebrew": "המשתמש הזין את אישורי הכניסה שלו בטופס של האתר."
+            },
+            {
+                "definition": "In business and economics, inputs can refer to raw materials, resources, or labor that are used in production processes to create goods or services.",
+                "definition_hebrew": "בעסקים ובכלכלה, תשומות יכולות להתייחס לחומרי גלם, משאבים או עבודה המשמשים בתהליכי ייצור ליצירת סחורות או שירותים.",
+                "example": "The factory's inputs included steel, plastic, and skilled workers.",
+                "example_hebrew": "התשומות של המפעל כללו פלדה, פלסטיק ועובדים מיומנים."
+            },
+            {
+                "definition": "Inputs can also mean financial investments made into a business or project with the expectation of generating returns over time.",
+                "definition_hebrew": "תשומות יכולות להיות גם השקעות פיננסיות שבוצעו בעסק או בפרויקט עם ציפייה להניב תשואות לאורך זמן.",
+                "example": "John invested his savings as an input in a start-up company to earn potential profits later on.",
+                "example_hebrew": "ג'ון השקיע את חסכונותיו כתשומה בחברת סטארט-אפ כדי להרוויח רווחים פוטנציאליים בהמשך."
+            },
+            {
+                "definition": "In general conversation, inputs may refer to suggestions or recommendations given by one person to another for consideration or action.",
+                "definition_hebrew": "בשיחה כללית, תשומות עשויות להתייחס להצעות או המלצות שניתן על ידי אדם אחד לאחר לצורך שיקול או פעולה.",
+                "example": "The teacher provided helpful inputs to guide the students in their research paper writing.",
+                "example_hebrew": "המורה סיפק מידע מועיל כדי להנחות את התלמידים בכתיבת עבודת המחקר שלהם."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "analysts",
+        "word_hebrew": "אנליסטים",
+        "main_definition": "Analysts are professionals who examine, evaluate, and interpret data to provide insights, recommendations, or forecasts in various fields.",
+        "main_definition_hebrew": "אנליסטים הם אנשי מקצוע שבוחנים, מעריכים ומפרשים נתונים כדי לספק תובנות, המלצות או תחזיות בתחומים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Financial analysts",
+                "definition_hebrew": "אנליסטים פיננסיים",
+                "example": "A financial analyst reviews a company's financial health, investment potential, and market trends to advise clients on stock purchases.",
+                "example_hebrew": "אנליסט פיננסי סוקר את הבריאות הפיננסית של החברה, פוטנציאל ההשקעה ומגמות השוק כדי לייעץ ללקוחות לגבי רכישת מניות."
+            },
+            {
+                "definition": "Data analysts",
+                "definition_hebrew": "מנתחי נתונים",
+                "example": "A data analyst collects, cleans, and processes large volumes of raw data to extract meaningful patterns and insights for business decision-making.",
+                "example_hebrew": "מנתח נתונים אוסף, מנקה ומעבד כמויות גדולות של נתונים גולמיים כדי לחלץ דפוסים ותובנות משמעותיות לקבלת החלטות עסקיות."
+            },
+            {
+                "definition": "Sports analysts",
+                "definition_hebrew": "מנתחי ספורט",
+                "example": "A sports analyst evaluates player performance statistics to predict outcomes of games or tournaments and provide commentary during broadcasts.",
+                "example_hebrew": "מנתח ספורט מעריך נתונים סטטיסטיים של ביצועי שחקנים כדי לחזות תוצאות של משחקים או טורנירים ולספק פרשנות במהלך השידורים."
+            },
+            {
+                "definition": "Market research analysts",
+                "definition_hebrew": "אנליסטים של מחקרי שוק",
+                "example": "A market research analyst conducts surveys, gathers consumer data, and analyzes trends to help businesses understand their target audience and make informed marketing strategies.",
+                "example_hebrew": "אנליסט מחקרי שוק עורך סקרים, אוסף נתוני צרכנים ומנתח מגמות כדי לעזור לעסקים להבין את קהל היעד שלהם וליצור אסטרטגיות שיווק מושכלות."
+            }
+        ]
+    }
+]

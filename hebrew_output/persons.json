@@ -1,0 +1,34 @@
+[
+    {
+        "word": "persons",
+        "word_hebrew": "אנשים",
+        "main_definition": "Persons refers to people or individuals, specifically in the context of human beings.",
+        "main_definition_hebrew": "אנשים מתייחסים לאנשים או ליחידים, במיוחד בהקשר של בני אדם.",
+        "meanings_and_examples": [
+            {
+                "definition": "A plural term for individual human beings",
+                "definition_hebrew": "כינוי רבים לבני אדם בודדים",
+                "example": "The museum has a collection featuring various persons from different historical periods.",
+                "example_hebrew": "במוזיאון יש אוסף הכולל אנשים שונים מתקופות היסטוריות שונות."
+            },
+            {
+                "definition": "People as subjects of legal documents or agreements",
+                "definition_hebrew": "אנשים כנושאים של מסמכים משפטיים או הסכמים",
+                "example": "In the contract, 'persons' refers to all signatory individuals involved in the agreement.",
+                "example_hebrew": "בחוזה, \"אנשים\" מתייחס לכל האנשים החתומים המעורבים בהסכם."
+            },
+            {
+                "definition": "The people who are affected by a particular situation or policy",
+                "definition_hebrew": "האנשים המושפעים ממצב או מדיניות מסוימת",
+                "example": "The new law will impact persons living below the poverty line.",
+                "example_hebrew": "החוק החדש ישפיע על אנשים החיים מתחת לקו העוני."
+            },
+            {
+                "definition": "A group of human beings considered as a collective entity",
+                "definition_hebrew": "קבוצה של בני אדם הנחשבת כישות קולקטיבית",
+                "example": "The jury consisted of twelve persons who were tasked with making an impartial decision.",
+                "example_hebrew": "חבר המושבעים כלל שנים-עשר אנשים שהוטל עליהם לקבל החלטה חסרת פניות."
+            }
+        ]
+    }
+]

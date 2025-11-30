@@ -1,0 +1,40 @@
+[
+    {
+        "word": "south",
+        "word_hebrew": "דָרוֹם",
+        "main_definition": "South is a cardinal direction, opposite to north, and can also be an idiom with various meanings.",
+        "main_definition_hebrew": "דרום הוא כיוון קרדינלי, מנוגד לצפון, ויכול להיות גם ניב בעל משמעויות שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A direction or compass point that is opposite of north",
+                "definition_hebrew": "נקודת כיוון או מצפן הפוכה לצפון",
+                "example": "The sun sets in the south.",
+                "example_hebrew": "השמש שוקעת בדרום."
+            },
+            {
+                "definition": "The southern part of a region, area, or country",
+                "definition_hebrew": "החלק הדרומי של אזור, אזור או מדינה",
+                "example": "Australia's Great Barrier Reef is located in the southern hemisphere.",
+                "example_hebrew": "שונית המחסום הגדולה של אוסטרליה נמצאת בחצי הכדור הדרומי."
+            },
+            {
+                "definition": "An idiomatic expression meaning to give up or surrender",
+                "definition_hebrew": "ביטוי אידיומטי שמשמעותו לוותר או להיכנע",
+                "example": "After losing the game for the third time, he finally decided to go south and quit playing football.",
+                "example_hebrew": "לאחר שהפסיד במשחק בפעם השלישית, הוא סוף סוף החליט לנסוע דרומה ולהפסיק לשחק כדורגל."
+            },
+            {
+                "definition": "A figurative term indicating a decline in quality, condition, or situation",
+                "definition_hebrew": "מונח פיגורטיבי המציין ירידה באיכות, במצב או במצב",
+                "example": "The company's profits went south after mismanagement of funds.",
+                "example_hebrew": "רווחי החברה ירדו דרומה לאחר ניהול לא נכון של הכספים."
+            },
+            {
+                "definition": "In some cultures and languages, 'going south' may refer to traveling towards the equator or warmer climates",
+                "definition_hebrew": "בתרבויות ושפות מסוימות, \"ללכת דרומה\" עשויה להתייחס לנסיעה לכיוון קו המשווה או אקלים חם יותר",
+                "example": "During winter, many Europeans choose to go south for a vacation to escape the cold.",
+                "example_hebrew": "במהלך החורף, אירופאים רבים בוחרים לנסוע דרומה לחופשה כדי לברוח מהקור."
+            }
+        ]
+    }
+]

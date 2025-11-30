@@ -1,0 +1,34 @@
+[
+    {
+        "word": "seo",
+        "word_hebrew": "SEO",
+        "main_definition": "Search Engine Optimization is the practice of increasing the quantity and quality of traffic to a website through organic search engine results.",
+        "main_definition_hebrew": "אופטימיזציה למנועי חיפוש היא הפרקטיקה של הגדלת כמות ואיכות התנועה לאתר באמצעות תוצאות מנועי חיפוש אורגניות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A strategy for improving visibility in search engine rankings",
+                "definition_hebrew": "אסטרטגיה לשיפור הנראות בדירוג מנועי החיפוש",
+                "example": "To enhance our site's SEO, we focused on keyword optimization and link building.",
+                "example_hebrew": "כדי לשפר את SEO של האתר שלנו, התמקדנו באופטימיזציה של מילות מפתח ובניית קישורים."
+            },
+            {
+                "definition": "The process of optimizing web content to increase its ranking in search engines",
+                "definition_hebrew": "תהליך אופטימיזציה של תוכן אינטרנט כדי להגדיל את דירוגו במנועי החיפוש",
+                "example": "After conducting an audit, the agency implemented several SEO techniques to improve our website's performance.",
+                "example_hebrew": "לאחר ביצוע ביקורת, הסוכנות הטמיעה מספר טכניקות SEO כדי לשפר את ביצועי האתר שלנו."
+            },
+            {
+                "definition": "A set of tools and strategies used for promoting a site or page on search engine results pages (SERPs)",
+                "definition_hebrew": "סט של כלים ואסטרטגיות המשמשים לקידום אתר או דף בדפי תוצאות של מנועי חיפוש (SERP)",
+                "example": "SEO specialists utilize various methods like backlinking, content creation, and social media marketing to boost SERP visibility.",
+                "example_hebrew": "מומחי SEO משתמשים בשיטות שונות כמו קישורים נכנסים, יצירת תוכן ושיווק במדיה חברתית כדי להגביר את נראות ה-SERP."
+            },
+            {
+                "definition": "The practice of improving website accessibility to attract more organic traffic",
+                "definition_hebrew": "הפרקטיקה של שיפור נגישות האתר כדי למשוך יותר תנועה אורגנית",
+                "example": "We invested in SEO services to make our website more accessible and appealing to potential customers searching online.",
+                "example_hebrew": "השקענו בשירותי קידום אתרים כדי להפוך את האתר שלנו לנגיש ומושך יותר ללקוחות פוטנציאליים המחפשים באינטרנט."
+            }
+        ]
+    }
+]

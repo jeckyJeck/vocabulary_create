@@ -1,0 +1,40 @@
+[
+    {
+        "word": "damage",
+        "word_hebrew": "נֵזֶק",
+        "main_definition": "Damage refers to harm or negative impact caused to something, such as a property, object, reputation, or well-being.",
+        "main_definition_hebrew": "נזק מתייחס לנזק או השפעה שלילית הנגרמים למשהו, כגון רכוש, חפץ, מוניטין או רווחה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical harm or impairment resulting in loss of function",
+                "definition_hebrew": "פגיעה פיזית או פגיעה הגורמת לאובדן תפקוד",
+                "example": "The heavy rain caused damage to the roof of my house.",
+                "example_hebrew": "הגשם הרב גרם לנזק לגג הבית שלי."
+            },
+            {
+                "definition": "Financial loss or expenses due to an incident",
+                "definition_hebrew": "הפסד כספי או הוצאות עקב אירוע",
+                "example": "The car accident damaged both vehicles, leading to significant repair costs.",
+                "example_hebrew": "תאונת הדרכים גרמה נזק לשני כלי הרכב, מה שהוביל לעלויות תיקון משמעותיות."
+            },
+            {
+                "definition": "Psychological impact causing emotional distress",
+                "definition_hebrew": "השפעה פסיכולוגית הגורמת למצוקה רגשית",
+                "example": "Being publicly criticized severely damaged her self-esteem.",
+                "example_hebrew": "ביקורת פומבית פגעה קשות בהערכה העצמית שלה."
+            },
+            {
+                "definition": "Deterioration or spoilage of an object over time due to various factors",
+                "definition_hebrew": "הידרדרות או קלקול של חפץ לאורך זמן עקב גורמים שונים",
+                "example": "Leaving a metal tool out in the rain will cause damage and lead to rust.",
+                "example_hebrew": "השארת כלי מתכת בחוץ בגשם תגרום לנזק ותוביל לחלודה."
+            },
+            {
+                "definition": "Negative effect on relationships, reputation, or social standing",
+                "definition_hebrew": "השפעה שלילית על מערכות יחסים, מוניטין או מעמד חברתי",
+                "example": "The false rumor damaged his reputation among colleagues.",
+                "example_hebrew": "השמועה הכוזבת פגעה במוניטין שלו בקרב עמיתים."
+            }
+        ]
+    }
+]

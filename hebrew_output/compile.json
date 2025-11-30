@@ -1,0 +1,34 @@
+[
+    {
+        "word": "compile",
+        "word_hebrew": "לְלַקֵט",
+        "main_definition": "To bring together various components, ideas, or pieces of information to form a coherent whole.",
+        "main_definition_hebrew": "להפגיש מרכיבים שונים, רעיונות או פיסות מידע כדי ליצור שלם קוהרנטי.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of computer programming, compile means to convert source code written in a high-level language into machine code that can be executed by a computer's CPU.",
+                "definition_hebrew": "בהקשר של תכנות מחשבים, אמצעי קומפילציה להמרת קוד מקור שנכתב בשפה ברמה גבוהה לקוד מכונה שניתן להפעיל על ידי ה-CPU של המחשב.",
+                "example": "After writing my program in Python, I used an interpreter to compile it and then run it on my computer.",
+                "example_hebrew": "לאחר כתיבת התוכנית שלי ב- Python, השתמשתי במתורגמן כדי לקמפל אותה ואז הפעלתי אותה במחשב שלי."
+            },
+            {
+                "definition": "To gather materials or resources for a project or endeavor systematically.",
+                "definition_hebrew": "לאסוף חומרים או משאבים לפרויקט או מאמץ שיטתי.",
+                "example": "The committee began the task of compiling research reports from various departments for their annual review meeting.",
+                "example_hebrew": "הוועדה החלה במלאכת חיבור דוחות מחקר ממחלקות שונות לישיבת הסקירה השנתית שלהן."
+            },
+            {
+                "definition": "To prepare and put together documents, such as legal papers or academic work, often involving editing and formatting.",
+                "definition_hebrew": "להכין ולהרכיב מסמכים, כגון מאמרים משפטיים או עבודה אקדמית, הכרוכים לעתים קרובות בעריכה ועיצוב.",
+                "example": "Before submitting her thesis to graduate school, she spent hours compiling all of her research notes into a cohesive document.",
+                "example_hebrew": "לפני הגשת התזה שלה לבית הספר לתואר שני, היא הקדישה שעות ללקט את כל הערות המחקר שלה למסמך מגובש."
+            },
+            {
+                "definition": "To assemble or put together various elements in music production to create the final soundtrack.",
+                "definition_hebrew": "להרכיב או להרכיב אלמנטים שונים בהפקה מוזיקלית ליצירת הפסקול הסופי.",
+                "example": "The producer carefully compiled different tracks and instruments to produce an engaging musical composition.",
+                "example_hebrew": "המפיק ליקט בקפידה רצועות וכלים שונים כדי לייצר הרכב מוזיקלי מושך."
+            }
+        ]
+    }
+]

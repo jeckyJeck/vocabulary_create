@@ -1,0 +1,28 @@
+[
+    {
+        "word": "eds",
+        "word_hebrew": "עורכים",
+        "main_definition": "The abbreviation 'EDS' commonly stands for 'Electronic Data Systems', a multinational information technology (IT) service provider, or it can refer to different concepts in various fields such as medicine ('Enterostomy Drainage') and education.",
+        "main_definition_hebrew": "הקיצור 'EDS' מייצג בדרך כלל 'Electronic Data Systems', ספק שירותי טכנולוגיית מידע רב לאומית (IT), או שהוא יכול להתייחס למושגים שונים בתחומים שונים כגון רפואה ('ניקוז אנטרוסטומי') וחינוך.",
+        "meanings_and_examples": [
+            {
+                "definition": "Electronic Data Systems",
+                "definition_hebrew": "מערכות נתונים אלקטרוניות",
+                "example": "EDS was a pioneering company in the IT industry that provided comprehensive technology services, such as systems development, integration, and management.",
+                "example_hebrew": "EDS הייתה חברה פורצת דרך בתעשיית ה-IT שסיפקה שירותים טכנולוגיים מקיפים, כגון פיתוח מערכות, אינטגרציה וניהול."
+            },
+            {
+                "definition": "Enterostomy Drainage (also known as ED drainage)",
+                "definition_hebrew": "ניקוז אנטרוסטומיה (ידוע גם בשם ניקוז ED)",
+                "example": "After abdominal surgery involving an enterostomy, the medical team placed an 'EDS' to manage post-operative fluid accumulation and promote healing.",
+                "example_hebrew": "לאחר ניתוח בטן הכולל ניתוח אנטרוסטומי, הצוות הרפואי הציב 'EDS' כדי לנהל את הצטברות הנוזלים לאחר הניתוח ולקדם ריפוי."
+            },
+            {
+                "definition": "Electronic Design Specification",
+                "definition_hebrew": "מפרט עיצוב אלקטרוני",
+                "example": "An engineer might create an 'EDS' file for a circuit board design, which contains all the necessary parameters for manufacturing electronic components.",
+                "example_hebrew": "מהנדס עשוי ליצור קובץ 'EDS' עבור תכנון לוח מעגלים, המכיל את כל הפרמטרים הדרושים לייצור רכיבים אלקטרוניים."
+            }
+        ]
+    }
+]

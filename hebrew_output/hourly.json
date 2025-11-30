@@ -1,0 +1,28 @@
+[
+    {
+        "word": "hourly",
+        "word_hebrew": "מדי שעה",
+        "main_definition": "Relating to or occurring every hour, typically used in the context of payment for services rendered.",
+        "main_definition_hebrew": "מתייחס או מתרחש בכל שעה, בשימוש בדרך כלל בהקשר של תשלום עבור שירותים שניתנו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Occurring once an hour",
+                "definition_hebrew": "מתרחש פעם בשעה",
+                "example": "The train arrives at this station every hour.",
+                "example_hebrew": "הרכבת מגיעה לתחנה זו כל שעה."
+            },
+            {
+                "definition": "Relating to or involving payment received for work done on an hourly basis",
+                "definition_hebrew": "מתייחס או כרוך בתשלום שהתקבל עבור עבודה שנעשתה על בסיס שעתי",
+                "example": "She earns $20 per hour as a freelance graphic designer.",
+                "example_hebrew": "היא מרוויחה $20 לשעה כמעצבת גרפית עצמאית."
+            },
+            {
+                "definition": "Regular interval of one hour, such as the frequency at which certain tasks are performed or events occur",
+                "definition_hebrew": "מרווח קבוע של שעה אחת, כגון התדירות שבה מבצעים משימות מסוימות או מתרחשים אירועים",
+                "example": "The factory runs its machinery on an hourly schedule to maximize production.",
+                "example_hebrew": "המפעל מפעיל את המכונות שלו בלוח זמנים שעתי כדי למקסם את הייצור."
+            }
+        ]
+    }
+]

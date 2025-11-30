@@ -1,0 +1,40 @@
+[
+    {
+        "word": "parent",
+        "word_hebrew": "הוֹרֶה",
+        "main_definition": "A parent is an individual who has legal or biological responsibility for a child.",
+        "main_definition_hebrew": "הורה הוא אדם שיש לו אחריות משפטית או ביולוגית לילד.",
+        "meanings_and_examples": [
+            {
+                "definition": "Legal guardian of a minor (a child under the age of majority)",
+                "definition_hebrew": "אפוטרופוס חוקי של קטין (ילד מתחת לגיל הבגרות)",
+                "example": "John's parents have been appointed as his legal guardians since he is still a minor.",
+                "example_hebrew": "הוריו של ג'ון מונו כאפוטרופוסים החוקיים שלו מאחר שהוא עדיין קטין."
+            },
+            {
+                "definition": "The biological mother or father of an individual",
+                "definition_hebrew": "האם או האב הביולוגי של אדם",
+                "example": "Alice is proud to be the parent of two beautiful children.",
+                "example_hebrew": "אליס גאה להיות הורה לשני ילדים יפים."
+            },
+            {
+                "definition": "An older person who takes care of younger family members",
+                "definition_hebrew": "אדם מבוגר שמטפל בבני משפחה צעירים יותר",
+                "example": "My grandparents, as parents in their later years, take care of my siblings when they are young.",
+                "example_hebrew": "סבי וסבתי, כהורים בשנותיהם המאוחרות, דואגים לאחים שלי כשהם צעירים."
+            },
+            {
+                "definition": "A term used to describe someone who has played a significant role in raising and nurturing another person",
+                "definition_hebrew": "מונח המשמש לתיאור מישהו שמילא תפקיד משמעותי בגידול וטיפוח אדם אחר",
+                "example": "Despite not being the biological parent, Susan's adoptive parents have raised her with love and care as if she were their own.",
+                "example_hebrew": "למרות שאינה ההורה הביולוגי, הוריה המאמצים של סוזן גידלו אותה באהבה ובאכפתיות כאילו היא שלהם."
+            },
+            {
+                "definition": "A term often used to describe a relationship between individuals who share responsibility for raising and supporting a child together",
+                "definition_hebrew": "מונח המשמש לעתים קרובות לתיאור מערכת יחסים בין אנשים החולקים אחריות על גידול ותמיכה בילד יחד",
+                "example": "The two women decided to become parents by co-parenting, sharing the responsibilities equally.",
+                "example_hebrew": "שתי הנשים החליטו להפוך להורים על ידי הורות משותפת, תוך חלוקה שווה באחריות."
+            }
+        ]
+    }
+]

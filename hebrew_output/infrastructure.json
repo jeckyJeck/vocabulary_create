@@ -1,0 +1,28 @@
+[
+    {
+        "word": "infrastructure",
+        "word_hebrew": "תַשׁתִית",
+        "main_definition": "Infrastructure refers to the fundamental physical and organizational structures, facilities, and systems needed for the functioning of a society or enterprise.",
+        "main_definition_hebrew": "תשתית מתייחסת למבנים הפיזיים והארגוניים הבסיסיים, המתקנים והמערכות הדרושים לתפקוד של חברה או ארגון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical structures such as roads, bridges, tunnels, water supply, sewers, electrical grids, and telecommunications that support economic activity",
+                "definition_hebrew": "מבנים פיזיים כגון כבישים, גשרים, מנהרות, אספקת מים, ביוב, רשתות חשמל וטלקומוניקציה התומכים בפעילות כלכלית",
+                "example": "The construction of new highways is essential for improving the transportation infrastructure.",
+                "example_hebrew": "הקמת כבישים מהירים חדשים חיונית לשיפור תשתיות התחבורה."
+            },
+            {
+                "definition": "The systems necessary to maintain order and facilitate daily life in a community or society, such as healthcare facilities, education institutions, and legal frameworks",
+                "definition_hebrew": "המערכות הנחוצות לשמירת הסדר ולהקל על חיי היומיום בקהילה או בחברה, כגון מתקני בריאות, מוסדות חינוך ומסגרות משפטיות",
+                "example": "A well-developed educational infrastructure ensures that children have access to quality schools.",
+                "example_hebrew": "תשתית חינוכית מפותחת מבטיחה שלילדים תהיה גישה לבתי ספר איכותיים."
+            },
+            {
+                "definition": "The underlying systems and components that support an organization's operations, including buildings, machinery, IT networks, and human resources management systems",
+                "definition_hebrew": "המערכות והרכיבים הבסיסיים התומכים בפעילות הארגון, לרבות מבנים, מכונות, רשתות IT ומערכות ניהול משאבי אנוש",
+                "example": "A company invests in new manufacturing equipment to upgrade its industrial infrastructure.",
+                "example_hebrew": "חברה משקיעה בציוד ייצור חדש לשדרוג התשתית התעשייתית שלה."
+            }
+        ]
+    }
+]

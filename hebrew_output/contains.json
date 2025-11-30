@@ -1,0 +1,34 @@
+[
+    {
+        "word": "contains",
+        "word_hebrew": "מכיל",
+        "main_definition": "To have or include something within a larger whole.",
+        "main_definition_hebrew": "להיות או לכלול משהו בתוך שלם גדול יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Holds or includes specific elements or substances.",
+                "definition_hebrew": "מחזיק או כולל יסודות או חומרים ספציפיים.",
+                "example": "The recipe contains flour, eggs, and sugar.",
+                "example_hebrew": "המתכון מכיל קמח, ביצים וסוכר."
+            },
+            {
+                "definition": "Features or has certain characteristics or properties.",
+                "definition_hebrew": "תכונות או בעל מאפיינים או מאפיינים מסוימים.",
+                "example": "This novel contains themes of love and loss.",
+                "example_hebrew": "הרומן הזה מכיל נושאים של אהבה ואובדן."
+            },
+            {
+                "definition": "Includes information in a larger context such as a document or text.",
+                "definition_hebrew": "כולל מידע בהקשר גדול יותר כגון מסמך או טקסט.",
+                "example": "The research paper contains references to numerous studies.",
+                "example_hebrew": "עבודת המחקר מכילה הפניות למחקרים רבים."
+            },
+            {
+                "definition": "Contains a particular message, idea, or meaning.",
+                "definition_hebrew": "מכיל מסר, רעיון או משמעות מסוימים.",
+                "example": "The movie contains powerful social commentary on wealth inequality.",
+                "example_hebrew": "הסרט מכיל פרשנות חברתית רבת עוצמה על אי שוויון בעושר."
+            }
+        ]
+    }
+]

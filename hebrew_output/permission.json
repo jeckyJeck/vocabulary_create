@@ -1,0 +1,40 @@
+[
+    {
+        "word": "permission",
+        "word_hebrew": "רְשׁוּת",
+        "main_definition": "Permission is the approval or consent granted by an authority, allowing someone to do something that would otherwise be restricted.",
+        "main_definition_hebrew": "הרשאה היא האישור או ההסכמה שניתנו על ידי רשות, המאפשרים למישהו לעשות משהו שאחרת היה מוגבל.",
+        "meanings_and_examples": [
+            {
+                "definition": "Officially allowed to enter a place",
+                "definition_hebrew": "מותר רשמית להיכנס למקום",
+                "example": "I need permission from my landlord before I can paint the walls.",
+                "example_hebrew": "אני צריך אישור מבעל הבית שלי לפני שאוכל לצבוע את הקירות."
+            },
+            {
+                "definition": "Consent to use someone else's property or belongings",
+                "definition_hebrew": "הסכמה לשימוש ברכוש או בחפצים של מישהו אחר",
+                "example": "She asked for permission to borrow her friend's car.",
+                "example_hebrew": "היא ביקשה רשות לשאול את המכונית של חברתה."
+            },
+            {
+                "definition": "Authorization to perform a specific action that may be restricted by rules or laws",
+                "definition_hebrew": "הרשאה לבצע פעולה ספציפית שעלולה להיות מוגבלת על ידי כללים או חוקים",
+                "example": "He needed permission from the school administration to take his dog on campus.",
+                "example_hebrew": "הוא היה צריך אישור מהנהלת בית הספר לקחת את הכלב שלו לקמפוס."
+            },
+            {
+                "definition": "Allowing someone else's child to participate in an event or activity",
+                "definition_hebrew": "מתן אפשרות לילד של מישהו אחר להשתתף באירוע או בפעילות",
+                "example": "I have to get permission from my daughter's parents before she can attend a sleepover at her friend's house.",
+                "example_hebrew": "אני צריך לקבל אישור מההורים של בתי לפני שהיא יכולה להשתתף בשינה בבית של חברתה."
+            },
+            {
+                "definition": "Ensuring legal compliance when using someone else's content (e.g., photos, music) in your work",
+                "definition_hebrew": "הבטחת ציות לחוק בעת שימוש בתוכן של מישהו אחר (למשל, תמונות, מוזיקה) בעבודה שלך",
+                "example": "I obtained permission from the photographer to use their picture for my blog post.",
+                "example_hebrew": "קיבלתי אישור מהצלם להשתמש בתמונה שלו לפוסט בבלוג שלי."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "weighted",
+        "word_hebrew": "מְשׁוּקלָל",
+        "main_definition": "When something is 'weighted', it means that a certain factor, influence or significance has been given more importance or heaviness to impact the overall outcome.",
+        "main_definition_hebrew": "כאשר משהו 'משוקלל', זה אומר שלגורם מסוים, השפעה או משמעות מסוימת ניתנה חשיבות או כבדות רבה יותר כדי להשפיע על התוצאה הכוללת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Giving greater importance to one aspect over others",
+                "definition_hebrew": "מתן חשיבות רבה יותר להיבט אחד על פני אחרים",
+                "example": "The teacher gave more weighted points for participation in class discussions.",
+                "example_hebrew": "המורה נתנה נקודות משוקללות יותר להשתתפות בדיונים בכיתה."
+            },
+            {
+                "definition": "Involving the consideration of multiple factors with varying degrees of influence",
+                "definition_hebrew": "כרוך בשיקול של מספר גורמים עם דרגות שונות של השפעה",
+                "example": "In a weighted voting system, each member's vote is multiplied by their assigned weight before determining the outcome.",
+                "example_hebrew": "במערכת הצבעה משוקללת, קולו של כל חבר מוכפל במשקל שנקבע לו לפני קביעת התוצאה."
+            },
+            {
+                "definition": "Using weights in calculations or analysis to represent proportional contributions",
+                "definition_hebrew": "שימוש במשקלים בחישובים או בניתוח כדי לייצג תרומות פרופורציונליות",
+                "example": "The researcher used weighted averages to account for varying sample sizes in different groups of participants.",
+                "example_hebrew": "החוקר השתמש בממוצעים משוקללים כדי להסביר גדלי מדגם משתנים בקבוצות שונות של משתתפים."
+            }
+        ]
+    }
+]

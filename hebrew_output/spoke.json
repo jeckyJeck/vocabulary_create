@@ -1,0 +1,28 @@
+[
+    {
+        "word": "spoke",
+        "word_hebrew": "דיבר",
+        "main_definition": "Spoke is the past tense of speak, indicating that someone used their voice to communicate verbally.",
+        "main_definition_hebrew": "דיבור הוא זמן עבר של דיבור, המציין שמישהו השתמש בקולו כדי לתקשר מילולית.",
+        "meanings_and_examples": [
+            {
+                "definition": "To use one's voice for speaking or communicating",
+                "definition_hebrew": "להשתמש בקול לדיבור או לתקשורת",
+                "example": "She spoke passionately about her ideas during the conference.",
+                "example_hebrew": "היא דיברה בלהט על הרעיונות שלה במהלך הכנס."
+            },
+            {
+                "definition": "To address a group of people verbally, typically in an organized manner",
+                "definition_hebrew": "לפנות לקבוצת אנשים באופן מילולי, בדרך כלל בצורה מאורגנת",
+                "example": "The mayor spoke to the crowd gathered at the town square.",
+                "example_hebrew": "ראש העיר דיבר עם הקהל שנאסף בכיכר העיר."
+            },
+            {
+                "definition": "A line or segment connecting corresponding points on two concentric circles",
+                "definition_hebrew": "קו או קטע המחבר בין נקודות מתאימות בשני מעגלים קונצנטריים",
+                "example": "In geometry, a spoke is one of the lines that connects the center of a circle with its edge in a wheel.",
+                "example_hebrew": "בגיאומטריה, חישור הוא אחד מהקווים המחברים את מרכז המעגל עם קצהו בגלגל."
+            }
+        ]
+    }
+]

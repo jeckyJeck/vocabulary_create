@@ -1,0 +1,40 @@
+[
+    {
+        "word": "error",
+        "word_hebrew": "שְׁגִיאָה",
+        "main_definition": "An error is a mistake, fault, or deviation from correctness in an action, process, system, or result.",
+        "main_definition_hebrew": "שגיאה היא טעות, תקלה או סטייה מנכונות בפעולה, בתהליך, במערכת או בתוצאה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A mistake made by a person due to lack of knowledge or attention.",
+                "definition_hebrew": "טעות שנעשתה על ידי אדם עקב חוסר ידע או תשומת לב.",
+                "example": "He made an error in his calculations by forgetting to carry over the remainder.",
+                "example_hebrew": "הוא עשה טעות בחישוביו בכך ששכח להעביר את השאר."
+            },
+            {
+                "definition": "A problem that occurs in a computer program when code does not function as intended.",
+                "definition_hebrew": "בעיה המתרחשת בתוכנת מחשב כאשר הקוד אינו פועל כמתוכנן.",
+                "example": "The software crashed after encountering an unexpected condition, which was later identified as a bug or error.",
+                "example_hebrew": "התוכנה קרסה לאחר שנתקלה במצב בלתי צפוי, אשר זוהה מאוחר יותר כבאג או שגיאה."
+            },
+            {
+                "definition": "An unintended deviation from the correct path or standard procedure.",
+                "definition_hebrew": "סטייה לא מכוונת מהנתיב הנכון או מהנוהל הסטנדרטי.",
+                "example": "During the assembly line process, one of the machines made an error by skipping a step in the sequence.",
+                "example_hebrew": "במהלך תהליך פס הייצור, אחת המכונות ביצעה שגיאה על ידי דילוג על שלב ברצף."
+            },
+            {
+                "definition": "A failure to meet expected outcomes due to incorrect assumptions or flawed methodology.",
+                "definition_hebrew": "אי עמידה בתוצאות הצפויות עקב הנחות שגויות או מתודולוגיה לקויה.",
+                "example": "The research project encountered errors when its hypothesis was based on incomplete data.",
+                "example_hebrew": "פרויקט המחקר נתקל בטעויות כאשר ההשערה שלו התבססה על נתונים לא מלאים."
+            },
+            {
+                "definition": "An unexpected and undesired result that arises from an imperfect action or decision.",
+                "definition_hebrew": "תוצאה בלתי צפויה ובלתי רצויה הנובעת מפעולה או החלטה לא מושלמת.",
+                "example": "When I tried to solve the equation, I made an error in my algebraic manipulation, leading to an incorrect answer.",
+                "example_hebrew": "כשניסיתי לפתור את המשוואה, עשיתי שגיאה במניפולציה האלגברית שלי, שהובילה לתשובה לא נכונה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "idea",
+        "word_hebrew": "רַעְיוֹן",
+        "main_definition": "An idea is a concept, thought, or suggestion that forms the basis of planning, discussion, or decision-making.",
+        "main_definition_hebrew": "רעיון הוא מושג, מחשבה או הצעה המהווים בסיס לתכנון, דיון או קבלת החלטות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A mental image or notion formed by the mind without any physical reference.",
+                "definition_hebrew": "דימוי או רעיון נפשי שנוצר על ידי הנפש ללא כל התייחסות פיזית.",
+                "example": "I had an idea to create a mobile app for organizing daily tasks.",
+                "example_hebrew": "היה לי רעיון ליצור אפליקציה לנייד לארגון משימות יומיומיות."
+            },
+            {
+                "definition": "A suggestion as to possible future course of action, typically one that is not yet fully developed or implemented.",
+                "definition_hebrew": "הצעה לגבי דרך פעולה עתידית אפשרית, בדרך כלל כזו שעדיין לא מפותחת או מיושמת במלואה.",
+                "example": "The company's growth strategy was based on the idea of expanding into new markets.",
+                "example_hebrew": "אסטרטגיית הצמיחה של החברה התבססה על הרעיון להתרחב לשווקים חדשים."
+            },
+            {
+                "definition": "An original thought or plan for something innovative and creative.",
+                "definition_hebrew": "מחשבה או תוכנית מקורית למשהו חדשני ויצירתי.",
+                "example": "She pitched her idea for a sustainable fashion line to potential investors.",
+                "example_hebrew": "היא הציגה בפני משקיעים פוטנציאליים את הרעיון שלה לקו אופנה בר קיימא."
+            },
+            {
+                "definition": "A conceptualization of the way things could be improved or changed in some aspect, often involving problem-solving.",
+                "definition_hebrew": "המשגה של הדרך בה ניתן לשפר או לשנות דברים בהיבט כלשהו, לעתים קרובות כרוכה בפתרון בעיות.",
+                "example": "The team brainstormed ideas on how to reduce production costs while maintaining quality.",
+                "example_hebrew": "הצוות העלה סיעור מוחות כיצד להפחית את עלויות הייצור תוך שמירה על איכות."
+            },
+            {
+                "definition": "In politics, an idea can refer to a policy proposal or agenda item that is under consideration for implementation by the government or organization.",
+                "definition_hebrew": "בפוליטיקה, רעיון יכול להתייחס להצעת מדיניות או לפריט על סדר היום שנמצאים בבחינה ליישום על ידי הממשלה או הארגון.",
+                "example": "The candidate's platform included several key ideas such as healthcare reform and education funding.",
+                "example_hebrew": "המצע של המועמד כלל כמה רעיונות מרכזיים כמו רפורמה בבריאות ומימון חינוך."
+            }
+        ]
+    }
+]

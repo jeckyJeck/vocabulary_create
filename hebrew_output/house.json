@@ -1,0 +1,40 @@
+[
+    {
+        "word": "house",
+        "word_hebrew": "בַּיִת",
+        "main_definition": "A house is a physical structure that provides shelter, typically consisting of one or more rooms for living purposes.",
+        "main_definition_hebrew": "בית הוא מבנה פיזי המספק מחסה, המורכב בדרך כלל מחדר אחד או יותר למטרות מגורים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A place where people live and reside together as a family unit.",
+                "definition_hebrew": "מקום בו אנשים חיים ומתגוררים יחד כתא משפחתי.",
+                "example": "They moved into their new house last week.",
+                "example_hebrew": "הם עברו לביתם החדש בשבוע שעבר."
+            },
+            {
+                "definition": "An institution for the care of children, often funded by public money.",
+                "definition_hebrew": "מוסד לטיפול בילדים, הממומן לרוב מכספי ציבור.",
+                "example": "She works at a local kindergarten to help prepare young kids for school.",
+                "example_hebrew": "היא עובדת בגן ילדים מקומי כדי לעזור להכין ילדים צעירים לבית הספר."
+            },
+            {
+                "definition": "A large, well-established community or neighborhood with its own identity and culture.",
+                "definition_hebrew": "קהילה או שכונה גדולה ומבוססת עם זהות ותרבות משלה.",
+                "example": "He grew up in the historic downtown area of his city, which is known as a vibrant house of commerce and art.",
+                "example_hebrew": "הוא גדל באזור המרכז ההיסטורי של עירו, הידוע כבית מסחר ואמנות תוסס."
+            },
+            {
+                "definition": "To bring someone under one's control or authority by force.",
+                "definition_hebrew": "להביא מישהו תחת שליטתו או סמכותו בכוח.",
+                "example": "The police had to 'house' the troublemakers in order to maintain peace during the festival.",
+                "example_hebrew": "המשטרה נאלצה 'לשכן' את עושי הצרות כדי לשמור על השקט במהלך הפסטיבל."
+            },
+            {
+                "definition": "A group of people who share common interests and spend time together, often regular gatherings at a specific location.",
+                "definition_hebrew": "קבוצה של אנשים שחולקים תחומי עניין משותפים ומבלים זמן ביחד, לעתים קרובות מפגשים קבועים במיקום מסוים.",
+                "example": "Every Thursday evening, they meet up for dinner as part of their book club house.",
+                "example_hebrew": "בכל יום חמישי בערב, הם נפגשים לארוחת ערב כחלק ממועדון הספרים שלהם."
+            }
+        ]
+    }
+]

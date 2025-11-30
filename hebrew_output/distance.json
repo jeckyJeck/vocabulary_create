@@ -1,0 +1,40 @@
+[
+    {
+        "word": "distance",
+        "word_hebrew": "מֶרְחָק",
+        "main_definition": "The measurement of the interval between two points, objects, or events in terms of length, space, time, or relationship.",
+        "main_definition_hebrew": "מדידת המרווח בין שתי נקודות, אובייקטים או אירועים במונחים של אורך, מרחב, זמן או קשר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical distance between two locations measured in units such as miles or kilometers",
+                "definition_hebrew": "מרחק פיזי בין שני מיקומים נמדד ביחידות כגון מיילים או קילומטרים",
+                "example": "The distance from my house to the nearest grocery store is approximately 2 miles.",
+                "example_hebrew": "המרחק מהבית שלי למכולת הקרובה הוא כ-2 מיילים."
+            },
+            {
+                "definition": "Emotional distance indicating a lack of intimacy or emotional connection",
+                "definition_hebrew": "ריחוק רגשי המעיד על חוסר אינטימיות או חיבור רגשי",
+                "example": "After her partner's betrayal, there was an emotional distance between them that they struggled to overcome.",
+                "example_hebrew": "לאחר בגידתו של בן זוגה, נוצר ביניהם ריחוק רגשי שהם התקשו להתגבר עליו."
+            },
+            {
+                "definition": "The difference in opinion or understanding on a subject, also known as 'perspective', 'standpoint' or 'viewpoint'",
+                "definition_hebrew": "ההבדל בדעה או בהבנה בנושא, המכונה גם 'פרספקטיבה', 'נקודת מבט' או 'נקודת מבט'",
+                "example": "There is often a significant distance in their views on politics and policy-making.",
+                "example_hebrew": "לעתים קרובות יש מרחק משמעותי בדעותיהם על פוליטיקה וקביעת מדיניות."
+            },
+            {
+                "definition": "Time interval between two events, usually expressed in hours, days, months, etc.",
+                "definition_hebrew": "מרווח זמן בין שני אירועים, מתבטא בדרך כלל בשעות, ימים, חודשים וכו'.",
+                "example": "The distance of time it takes for an email to reach its recipient can range from a few minutes to several hours.",
+                "example_hebrew": "מרחק הזמן שלוקח למייל להגיע לנמען שלו יכול לנוע בין מספר דקות למספר שעות."
+            },
+            {
+                "definition": "Separation or space created by physical barriers",
+                "definition_hebrew": "הפרדה או מרחב שנוצרו על ידי מחסומים פיזיים",
+                "example": "The two buildings are separated by a considerable distance, making it difficult to communicate between them without the use of technology.",
+                "example_hebrew": "שני המבנים מופרדים במרחק ניכר, מה שמקשה על התקשורת ביניהם ללא שימוש בטכנולוגיה."
+            }
+        ]
+    }
+]

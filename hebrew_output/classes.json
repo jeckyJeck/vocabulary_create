@@ -1,0 +1,28 @@
+[
+    {
+        "word": "classes",
+        "word_hebrew": "שיעורים",
+        "main_definition": "Classes can refer to different concepts, including groupings of students in an educational setting, categories or types within a system, and programming language object-oriented structures.",
+        "main_definition_hebrew": "שיעורים יכולים להתייחס למושגים שונים, כולל קבוצות של תלמידים בסביבה חינוכית, קטגוריות או סוגים בתוך מערכת, ומבנים מונחה עצמים של שפת תכנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Grouping of students",
+                "definition_hebrew": "קיבוץ תלמידים",
+                "example": "The math classes are scheduled for Monday and Wednesday afternoons.",
+                "example_hebrew": "שיעורי המתמטיקה מתוכננים לימי שני ורביעי אחר הצהריים."
+            },
+            {
+                "definition": "Categories or types within a system",
+                "definition_hebrew": "קטגוריות או סוגים בתוך מערכת",
+                "example": "There are several classes in the library: fiction, non-fiction, science, and history.",
+                "example_hebrew": "בספרייה מספר חוגים: סיפורת, עיון, מדע והיסטוריה."
+            },
+            {
+                "definition": "Object-oriented programming structures",
+                "definition_hebrew": "מבני תכנות מונחה עצמים",
+                "example": "In object-oriented programming, a class defines the properties and behaviors that objects of that class will have.",
+                "example_hebrew": "בתכנות מונחה עצמים, מחלקה מגדירה את המאפיינים וההתנהגויות שיהיו לאובייקטים של אותה מחלקה."
+            }
+        ]
+    }
+]

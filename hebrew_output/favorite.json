@@ -1,0 +1,28 @@
+[
+    {
+        "word": "favorite",
+        "word_hebrew": "אהוב",
+        "main_definition": "The thing that is most liked or preferred by someone.",
+        "main_definition_hebrew": "הדבר שהכי אוהב או מועדף על מישהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Preferred choice or option out of many",
+                "definition_hebrew": "בחירה או אפשרות מועדפת מתוך רבים",
+                "example": "Chocolate ice cream is my favorite flavor.",
+                "example_hebrew": "גלידת שוקולד היא הטעם האהוב עליי."
+            },
+            {
+                "definition": "A person who receives special treatment because they are liked or admired",
+                "definition_hebrew": "אדם שזוכה ליחס מיוחד בגלל שאוהבים אותו או מעריצים אותו",
+                "example": "The teacher gave the student a day off as their favorite due to their exceptional performance.",
+                "example_hebrew": "המורה נתנה לתלמיד יום חופש כמועדף עליהם בשל ביצועיו יוצאי הדופן."
+            },
+            {
+                "definition": "Someone's most loved member of a family or group",
+                "definition_hebrew": "החבר הכי אהוב על מישהו במשפחה או בקבוצה",
+                "example": "His sister is his favorite child, and he enjoys spending time with her the most.",
+                "example_hebrew": "אחותו היא הילדה האהובה עליו, והוא הכי נהנה לבלות איתה."
+            }
+        ]
+    }
+]

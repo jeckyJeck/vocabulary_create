@@ -1,0 +1,40 @@
+[
+    {
+        "word": "roles",
+        "word_hebrew": "תפקידים",
+        "main_definition": "Roles refer to the functions or parts that a person or thing plays in a particular situation, event, story, system, etc.",
+        "main_definition_hebrew": "תפקידים מתייחסים לפונקציות או לחלקים שאדם או דבר ממלאים במצב מסוים, אירוע, סיפור, מערכת וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "The responsibilities assigned to someone",
+                "definition_hebrew": "האחריות המוטלת על מישהו",
+                "example": "In our family, my role is to take care of the groceries and household chores.",
+                "example_hebrew": "במשפחה שלנו, תפקידי הוא לדאוג למצרכים ולמטלות הבית."
+            },
+            {
+                "definition": "Character or part played by an actor in a movie, play, etc.",
+                "definition_hebrew": "דמות או חלק שמגולם על ידי שחקן בסרט, מחזה וכו'.",
+                "example": "The lead actress had the most captivating role as a warrior queen.",
+                "example_hebrew": "לשחקנית הראשית היה התפקיד הכובש ביותר כמלכה לוחמת."
+            },
+            {
+                "definition": "A person's position or status within a group or organization",
+                "definition_hebrew": "מעמדו או מעמדו של אדם בתוך קבוצה או ארגון",
+                "example": "As a team leader, my role is to ensure everyone works together effectively towards our common goals.",
+                "example_hebrew": "כראש צוות, התפקיד שלי הוא להבטיח שכולם עובדים יחד ביעילות לקראת המטרות המשותפות שלנו."
+            },
+            {
+                "definition": "The function of an object in relation to other objects and its environment",
+                "definition_hebrew": "תפקידו של אובייקט ביחס לאובייקטים אחרים וסביבתו",
+                "example": "In the ecosystem, bees have different roles: pollinators, producers (by collecting nectar), or decomposers (in some cases).",
+                "example_hebrew": "במערכת האקולוגית, לדבורים תפקידים שונים: מאביקים, יצרנים (על ידי איסוף צוף), או מפרקים (במקרים מסוימים)."
+            },
+            {
+                "definition": "A set of predefined functions that a program uses",
+                "definition_hebrew": "קבוצה של פונקציות מוגדרות מראש שתוכנית משתמשת בהן",
+                "example": "In computer programming, the role of this function is to calculate the sum of an array.",
+                "example_hebrew": "בתכנות מחשב, תפקידה של פונקציה זו הוא לחשב סכום של מערך."
+            }
+        ]
+    }
+]

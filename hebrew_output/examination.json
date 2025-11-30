@@ -1,0 +1,34 @@
+[
+    {
+        "word": "examination",
+        "word_hebrew": "בְּדִיקָה",
+        "main_definition": "An examination is a process of inspection, evaluation, or assessment to gather information, determine qualities, identify issues, or make decisions based on evidence.",
+        "main_definition_hebrew": "בחינה היא תהליך של בדיקה, הערכה או הערכה לאיסוף מידע, קביעת תכונות, זיהוי בעיות או קבלת החלטות על סמך ראיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A medical procedure for checking the body's health",
+                "definition_hebrew": "הליך רפואי לבדיקת תקינות הגוף",
+                "example": "During her annual physical examination, the doctor checked her blood pressure and overall well-being.",
+                "example_hebrew": "במהלך הבדיקה הגופנית השנתית שלה, הרופא בדק את לחץ הדם ואת רווחתה הכללית."
+            },
+            {
+                "definition": "The process of reviewing or scrutinizing something in detail to understand it better",
+                "definition_hebrew": "תהליך של סקירה או בדיקה של משהו בפירוט כדי להבין אותו טוב יותר",
+                "example": "After reading a complex scientific paper, I needed more time for a thorough examination before drawing any conclusions.",
+                "example_hebrew": "לאחר קריאת מאמר מדעי מורכב, נזקקתי ליותר זמן לבדיקה יסודית לפני הסקת מסקנות כלשהן."
+            },
+            {
+                "definition": "An academic test administered by educators to evaluate students' knowledge or skills",
+                "definition_hebrew": "מבחן אקדמי הנערך על ידי מחנכים כדי להעריך את הידע או הכישורים של התלמידים",
+                "example": "Students anxiously awaited the results of their final exams which would determine their grades for the semester.",
+                "example_hebrew": "התלמידים חיכו בכיליון עיניים לתוצאות בחינות הגמר שלהם שיקבעו את ציוניהם לסמסטר."
+            },
+            {
+                "definition": "The act of investigating something thoroughly, usually with a focus on legal or official matters",
+                "definition_hebrew": "הפעולה של חקירה יסודית של משהו, בדרך כלל תוך התמקדות בעניינים משפטיים או רשמיים",
+                "example": "The police conducted an extensive examination of the crime scene to gather evidence and clues about what happened.",
+                "example_hebrew": "המשטרה ערכה בדיקה מקיפה בזירת הפשע כדי לאסוף ראיות ורמזים על מה שאירע."
+            }
+        ]
+    }
+]

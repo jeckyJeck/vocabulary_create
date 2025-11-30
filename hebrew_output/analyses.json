@@ -1,0 +1,34 @@
+[
+    {
+        "word": "analyses",
+        "word_hebrew": "ניתוחים",
+        "main_definition": "The process of examining something in detail to understand it better or draw conclusions.",
+        "main_definition_hebrew": "תהליך בחינת משהו בפירוט כדי להבין אותו טוב יותר או להסיק מסקנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A systematic investigation into the nature and causes of a phenomenon, with particular reference to the derivation of knowledge through iterated statistical analysis.",
+                "definition_hebrew": "חקירה שיטתית של מהות וגורמים לתופעה, תוך התייחסות מיוחדת לגזירת ידע באמצעות ניתוח סטטיסטי חוזר.",
+                "example": "The researchers conducted extensive analyses on the data collected from the experiment.",
+                "example_hebrew": "החוקרים ערכו ניתוחים נרחבים על הנתונים שנאספו מהניסוי."
+            },
+            {
+                "definition": "An examination or evaluation that divides something into its component parts for better understanding, often used in a scientific context.",
+                "definition_hebrew": "בחינה או הערכה המחלקים משהו לחלקים המרכיבים אותו להבנה טובה יותר, המשמשת לעתים קרובות בהקשר מדעי.",
+                "example": "Chemists performed various tests and analyses to determine the composition of the substance.",
+                "example_hebrew": "כימאים ביצעו בדיקות וניתוחים שונים לקביעת הרכב החומר."
+            },
+            {
+                "definition": "A study involving the detailed examination of an object or event with the aim of drawing conclusions about its nature, origin, or purpose.",
+                "definition_hebrew": "מחקר הכולל בדיקה מפורטת של חפץ או אירוע במטרה להסיק מסקנות לגבי טיבו, מקורו או מטרתו.",
+                "example": "The archaeologists carried out a thorough analysis of the artifacts found at the ancient site.",
+                "example_hebrew": "הארכיאולוגים ביצעו ניתוח יסודי של החפצים שנמצאו באתר העתיק."
+            },
+            {
+                "definition": "A review and study of written, spoken, or visual material to understand it better or extract valuable information.",
+                "definition_hebrew": "סקירה ומחקר של חומר כתוב, מדובר או חזותי כדי להבין אותו טוב יותר או לחלץ מידע בעל ערך.",
+                "example": "After watching the movie, I did some analyses on its symbolism and thematic elements.",
+                "example_hebrew": "לאחר הצפייה בסרט, עשיתי כמה ניתוחים על הסמליות והמרכיבים התמטיים שלו."
+            }
+        ]
+    }
+]

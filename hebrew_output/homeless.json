@@ -1,0 +1,28 @@
+[
+    {
+        "word": "homeless",
+        "word_hebrew": "חֲסַר בַּיִת",
+        "main_definition": "Lacking a permanent dwelling or not having a fixed, regular shelter as a residence.",
+        "main_definition_hebrew": "חסר דירת קבע או שאין לו מקלט קבוע ורגיל כמגורים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Without a home to live in permanently.",
+                "definition_hebrew": "בלי בית לגור בו דרך קבע.",
+                "example": "The homeless man slept on the park bench under the stars.",
+                "example_hebrew": "ההומלס ישן על הספסל בפארק מתחת לכוכבים."
+            },
+            {
+                "definition": "Lacking shelter and not having stable living conditions.",
+                "definition_hebrew": "חסר מחסה ואינו בעל תנאי חיים יציבים.",
+                "example": "During winter, many individuals become vulnerable to the harsh weather as they are homeless without adequate heating or warm clothing.",
+                "example_hebrew": "במהלך החורף, אנשים רבים הופכים פגיעים למזג האוויר הקשה מכיוון שהם חסרי בית ללא חימום הולם או ביגוד חם."
+            },
+            {
+                "definition": "A person who does not have a fixed abode and may frequently move from place to place.",
+                "definition_hebrew": "אדם שאין לו מקום מגורים קבוע ועלול לעבור תדיר ממקום למקום.",
+                "example": "Homeless people often struggle with finding food, safety, and basic services like bathrooms and laundry facilities.",
+                "example_hebrew": "חסרי בית נאבקים לעתים קרובות במציאת מזון, בטיחות ושירותים בסיסיים כמו חדרי אמבטיה ומתקני כביסה."
+            }
+        ]
+    }
+]

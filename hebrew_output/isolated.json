@@ -1,0 +1,40 @@
+[
+    {
+        "word": "isolated",
+        "word_hebrew": "מְבוּדָד",
+        "main_definition": "Living or situated far away from others, or being separated from the rest due to some reason.",
+        "main_definition_hebrew": "גר או ממוקם רחוק מאחרים, או מופרד מהשאר מסיבה כלשהי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physically alone or cut off from other people or things.",
+                "definition_hebrew": "לבד פיזית או מנותק מאנשים או דברים אחרים.",
+                "example": "The cabin in the woods is isolated, with no neighbors nearby.",
+                "example_hebrew": "הבקתה ביער מבודדת, ללא שכנים בקרבת מקום."
+            },
+            {
+                "definition": "Separated due to physical barriers such as mountains or oceans.",
+                "definition_hebrew": "מופרדים עקב מחסומים פיזיים כגון הרים או אוקיינוסים.",
+                "example": "Isolated by a wide river, the island can only be reached by boat.",
+                "example_hebrew": "מבודד על ידי נהר רחב, ניתן להגיע לאי רק בסירה."
+            },
+            {
+                "definition": "Living separately from others for reasons such as lifestyle choice, religious practices, or personal preference.",
+                "definition_hebrew": "חיים בנפרד מאחרים מסיבות כמו בחירת אורח חיים, שיטות דת או העדפה אישית.",
+                "example": "The Amish community is known for its isolated way of life, keeping to themselves and their customs.",
+                "example_hebrew": "קהילת האמיש ידועה באורח החיים המבודד שלה, תוך שמירה על עצמם ועל מנהגיהם."
+            },
+            {
+                "definition": "Excluded or set apart in some way, often unintentionally.",
+                "definition_hebrew": "לא נכלל או מופרד בדרך כלשהי, לעתים קרובות בלי כוונה.",
+                "example": "Due to her introverted nature, Sarah felt somewhat isolated during social gatherings.",
+                "example_hebrew": "בשל אופייה המופנם, שרה הרגישה מעט מבודדת במהלך מפגשים חברתיים."
+            },
+            {
+                "definition": "Infected with a disease and unable to interact normally with others due to illness.",
+                "definition_hebrew": "נגוע במחלה ואינו מסוגל לקיים אינטראקציה רגילה עם אחרים עקב מחלה.",
+                "example": "The outbreak of an infectious disease led to the isolation of those affected to prevent further spread.",
+                "example_hebrew": "התפרצות מחלה זיהומית הביאה לבידוד הנפגעים כדי למנוע התפשטות נוספת."
+            }
+        ]
+    }
+]

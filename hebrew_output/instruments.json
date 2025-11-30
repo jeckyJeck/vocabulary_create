@@ -1,0 +1,28 @@
+[
+    {
+        "word": "instruments",
+        "word_hebrew": "כלים",
+        "main_definition": "Instruments refer to tools or devices used for a specific purpose, including musical instruments for creating music, scientific instruments for conducting experiments, and legal instruments for establishing rights or obligations.",
+        "main_definition_hebrew": "כלי נגינה מתייחסים לכלים או מכשירים המשמשים למטרה מסוימת, לרבות כלי נגינה ליצירת מוזיקה, כלים מדעיים לביצוע ניסויים וכלים משפטיים לביסוס זכויות או חובות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Musical Instruments",
+                "definition_hebrew": "כלי נגינה",
+                "example": "The violin is a string instrument played by drawing a bow across the strings.",
+                "example_hebrew": "הכינור הוא כלי מיתר המנגן באמצעות שרטוט קשת על פני המיתרים."
+            },
+            {
+                "definition": "Scientific Instruments",
+                "definition_hebrew": "מכשירים מדעיים",
+                "example": "A microscope is an optical instrument used to view objects that are too small to be seen with the naked eye.",
+                "example_hebrew": "מיקרוסקופ הוא מכשיר אופטי המשמש לצפייה בעצמים קטנים מכדי שניתן לראותם בעין בלתי מזוינת."
+            },
+            {
+                "definition": "Legal Instruments",
+                "definition_hebrew": "מכשירים משפטיים",
+                "example": "A deed is a legal document that transfers ownership of property from one party to another.",
+                "example_hebrew": "שטר הוא מסמך משפטי המעביר בעלות על נכס מצד אחד למשנהו."
+            }
+        ]
+    }
+]

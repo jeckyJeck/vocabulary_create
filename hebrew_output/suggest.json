@@ -1,0 +1,40 @@
+[
+    {
+        "word": "suggest",
+        "word_hebrew": "לְהַצִיעַ",
+        "main_definition": "To propose an idea, opinion, or possibility as a thought to consider.",
+        "main_definition_hebrew": "להציע רעיון, דעה או אפשרות כמחשבה שיש לשקול.",
+        "meanings_and_examples": [
+            {
+                "definition": "To put forward a proposal indirectly without any commitment",
+                "definition_hebrew": "להעלות הצעה בעקיפין ללא כל התחייבות",
+                "example": "I don't want to suggest anything but I think we should reconsider the deadline.",
+                "example_hebrew": "אני לא רוצה להציע שום דבר אבל אני חושב שאנחנו צריכים לשקול מחדש את המועד."
+            },
+            {
+                "definition": "To advise or counsel someone in a non-binding manner",
+                "definition_hebrew": "לייעץ או לייעץ למישהו באופן לא מחייב",
+                "example": "She suggested taking an umbrella since it might rain later.",
+                "example_hebrew": "היא הציעה לקחת מטריה כי עלול לרדת גשם מאוחר יותר."
+            },
+            {
+                "definition": "To indicate something as possible, often based on evidence or prior knowledge",
+                "definition_hebrew": "לציין משהו ככל האפשר, לעתים קרובות על סמך ראיות או ידע מוקדם",
+                "example": "Based on the symptoms, I suggest that he may have caught a cold.",
+                "example_hebrew": "בהתבסס על התסמינים, אני מציע שייתכן שהוא התקרר."
+            },
+            {
+                "definition": "To express an idea lightly and casually in conversation",
+                "definition_hebrew": "להביע רעיון בקלילות ובסתמיות בשיחה",
+                "example": "You're wearing quite a bold color today. It suggests confidence!",
+                "example_hebrew": "את לובשת צבע די נועז היום. זה מעיד על ביטחון עצמי!"
+            },
+            {
+                "definition": "To propose as an option for consideration, often without strong conviction",
+                "definition_hebrew": "להציע כאופציה לשיקול, לעתים קרובות ללא הרשעה חזקה",
+                "example": "We suggest that the new policy be reviewed before implementation.",
+                "example_hebrew": "אנו מציעים לבחון את המדיניות החדשה לפני היישום."
+            }
+        ]
+    }
+]

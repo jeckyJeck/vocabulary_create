@@ -1,0 +1,28 @@
+[
+    {
+        "word": "usb",
+        "word_hebrew": "יו אס בי",
+        "main_definition": "Universal Serial Bus (USB) is a standard type of connection used to interface peripherals with computers, allowing the transfer of data and power between devices.",
+        "main_definition_hebrew": "אפיק טורי אוניברסלי (USB) הוא סוג סטנדרטי של חיבור המשמש לממשק ציוד היקפי עם מחשבים, המאפשר העברת נתונים וכוח בין מכשירים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A common term for portable storage device",
+                "definition_hebrew": "מונח נפוץ להתקן אחסון נייד",
+                "example": "I just transferred my photos from my digital camera to a USB flash drive.",
+                "example_hebrew": "בדיוק העברתי את התמונות שלי מהמצלמה הדיגיטלית שלי לכונן הבזק מסוג USB."
+            },
+            {
+                "definition": "USB cable used to connect devices",
+                "definition_hebrew": "כבל USB המשמש לחיבור מכשירים",
+                "example": "To use your printer, you need to plug the USB cable into both the computer and the printer.",
+                "example_hebrew": "כדי להשתמש במדפסת שלך, עליך לחבר את כבל ה-USB הן למחשב והן למדפסת."
+            },
+            {
+                "definition": "A type of connector interface for attaching hardware devices to a computer",
+                "definition_hebrew": "סוג של ממשק מחבר לחיבור התקני חומרה למחשב",
+                "example": "I attached my new wireless keyboard to my laptop using a USB connection.",
+                "example_hebrew": "חיברתי את המקלדת האלחוטית החדשה שלי למחשב הנייד שלי באמצעות חיבור USB."
+            }
+        ]
+    }
+]

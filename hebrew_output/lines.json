@@ -1,0 +1,40 @@
+[
+    {
+        "word": "lines",
+        "word_hebrew": "שורות",
+        "main_definition": "Lines refer to various concepts in different contexts, including physical boundaries, directions, patterns or sequences of text or speech.",
+        "main_definition_hebrew": "קווים מתייחסים למושגים שונים בהקשרים שונים, כולל גבולות פיזיים, כיוונים, דפוסים או רצפים של טקסט או דיבור.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical boundaries created by a straight path or edge",
+                "definition_hebrew": "גבולות פיזיים שנוצרו על ידי נתיב ישר או קצה",
+                "example": "The fence lines the perimeter of the garden.",
+                "example_hebrew": "הגדר תוחמת את היקף הגן."
+            },
+            {
+                "definition": "Direction in which something is moving, inclined or facing",
+                "definition_hebrew": "כיוון שבו משהו נע, נוטה או פונה",
+                "example": "He pointed to the north lines on his compass.",
+                "example_hebrew": "הוא הצביע על קווי הצפון במצפן שלו."
+            },
+            {
+                "definition": "A pattern formed by a series of straight strokes",
+                "definition_hebrew": "דפוס שנוצר על ידי סדרה של משיכות ישרות",
+                "example": "The artist's painting featured bold black lines that outlined shapes and forms.",
+                "example_hebrew": "הציור של האמן הציג קווים שחורים נועזים המתארים צורות וצורות."
+            },
+            {
+                "definition": "Text written in continuous, unbroken manner",
+                "definition_hebrew": "טקסט כתוב בצורה רציפה, ללא הפסקה",
+                "example": "She admired the beautifully written lines on the page of her favorite book.",
+                "example_hebrew": "היא התפעלה מהשורות הכתובות להפליא בעמוד הספר האהוב עליה."
+            },
+            {
+                "definition": "A sequence or series of connected objects or events that follow a particular order",
+                "definition_hebrew": "רצף או סדרה של אובייקטים או אירועים מחוברים העוקבים אחר סדר מסוים",
+                "example": "The chef carefully arranged his ingredients in specific lines before starting to cook.",
+                "example_hebrew": "השף סידר בקפידה את המרכיבים שלו בשורות ספציפיות לפני שהתחיל לבשל."
+            }
+        ]
+    }
+]

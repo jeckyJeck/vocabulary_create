@@ -1,0 +1,28 @@
+[
+    {
+        "word": "fibre",
+        "word_hebrew": "סִיב",
+        "main_definition": "Fibre refers to either the structural components that make up organic matter or a colloquial term for telling untruths.",
+        "main_definition_hebrew": "סיבים מתייחסים למרכיבים המבניים המרכיבים את החומר האורגני או למונח שפתוח לאמירת אי-אמת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Structural component of plants, animals, and other living things",
+                "definition_hebrew": "מרכיב מבני של צמחים, בעלי חיים ויצורים חיים אחרים",
+                "example": "Cellulose is an important structural fibre found in plant cell walls.",
+                "example_hebrew": "תאית היא סיב מבני חשוב המצוי בדפנות תאי הצמח."
+            },
+            {
+                "definition": "A thread-like organic substance composing the principal constituent of natural filaments",
+                "definition_hebrew": "חומר אורגני דמוי חוט המרכיב את המרכיב העיקרי של חוטים טבעיים",
+                "example": "Cotton and wool are examples of natural fibrous materials.",
+                "example_hebrew": "כותנה וצמר הם דוגמאות לחומרים סיביים טבעיים."
+            },
+            {
+                "definition": "The act of telling a lie or untruths",
+                "definition_hebrew": "הפעולה של אמירת שקר או חוסר אמת",
+                "example": "She couldn't help but fib about her whereabouts when she arrived late to the meeting.",
+                "example_hebrew": "היא לא יכלה שלא להתברבר על מקום הימצאה כשהגיעה באיחור לפגישה."
+            }
+        ]
+    }
+]

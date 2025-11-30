@@ -1,0 +1,34 @@
+[
+    {
+        "word": "physically",
+        "word_hebrew": "פיזית",
+        "main_definition": "Relating to the body or material things, as opposed to mental or spiritual aspects.",
+        "main_definition_hebrew": "התייחסות לגוף או לדברים גשמיים, בניגוד להיבטים נפשיים או רוחניים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Involving actual movement of the body and muscles.",
+                "definition_hebrew": "כרוך בתנועה ממשית של הגוף והשרירים.",
+                "example": "I physically lifted the heavy box.",
+                "example_hebrew": "הרמתי פיזית את הקופסה הכבדה."
+            },
+            {
+                "definition": "Pertaining to bodily health or functioning, not mental state.",
+                "definition_hebrew": "הנוגע לבריאות הגוף או לתפקוד, לא למצב נפשי.",
+                "example": "She was concerned about his physical well-being after the accident.",
+                "example_hebrew": "היא הייתה מודאגת מהרווחה הפיזית שלו לאחר התאונה."
+            },
+            {
+                "definition": "Involving actual contact with a person or object, as opposed to remote interaction.",
+                "definition_hebrew": "כרוך במגע ממשי עם אדם או חפץ, בניגוד לאינטראקציה מרחוק.",
+                "example": "He physically shook hands with everyone at the meeting.",
+                "example_hebrew": "הוא לחץ יד פיזית לכולם בפגישה."
+            },
+            {
+                "definition": "Relating to physical properties or attributes rather than abstract qualities.",
+                "definition_hebrew": "מתייחס לתכונות או לתכונות פיזיקליות ולא לתכונות מופשטות.",
+                "example": "The painting's colors were striking but its texture, a physical quality, was lacking.",
+                "example_hebrew": "צבעי הציור היו בולטים אך המרקם שלו, איכות פיזית, היה חסר."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "poor",
+        "word_hebrew": "עני",
+        "main_definition": "To be lacking in quantity, quality, or value; to suffer from a deficiency of resources or financial means.",
+        "main_definition_hebrew": "להיות חסר כמות, איכות או ערך; לסבול ממחסור במשאבים או באמצעים כספיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Lacking material wealth or sufficient income",
+                "definition_hebrew": "חסר עושר חומרי או הכנסה מספקת",
+                "example": "The Smith family is poor and struggles to pay their bills every month.",
+                "example_hebrew": "משפחת סמית' ענייה ומתקשה לשלם את חשבונותיה מדי חודש."
+            },
+            {
+                "definition": "Having a low level of physical health, often due to illness or malnutrition",
+                "definition_hebrew": "בעל רמה נמוכה של בריאות גופנית, לרוב עקב מחלה או תת תזונה",
+                "example": "During the winter, many children in impoverished areas suffer from poor nutrition and related health issues.",
+                "example_hebrew": "במהלך החורף, ילדים רבים באזורים עניים סובלים מתזונה לקויה ומבעיות בריאות נלוות."
+            },
+            {
+                "definition": "Unsatisfactory quality; not good enough",
+                "definition_hebrew": "איכות לא מספקת; לא מספיק טוב",
+                "example": "The customer complained about the poor service they received at the restaurant.",
+                "example_hebrew": "הלקוח התלונן על השירות הגרוע שקיבל במסעדה."
+            },
+            {
+                "definition": "Lacking in a particular quality or attribute, often used to describe something that is unrefined or inferior",
+                "definition_hebrew": "חוסר איכות או תכונה מסוימת, משמש לעתים קרובות לתיאור משהו שאינו מעודן או נחות",
+                "example": "She felt embarrassed by her poor manners during the dinner party.",
+                "example_hebrew": "היא חשה נבוכה מהנימוסים העלובים שלה במהלך ארוחת הערב."
+            }
+        ]
+    }
+]

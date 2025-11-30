@@ -1,0 +1,40 @@
+[
+    {
+        "word": "drop",
+        "word_hebrew": "יְרִידָה",
+        "main_definition": "To let or release something fall from one's hand or a higher position.",
+        "main_definition_hebrew": "לתת או לשחרר משהו ליפול מהיד או מעמדה גבוהה יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To let go of an object unintentionally, often resulting in it falling to the ground.",
+                "definition_hebrew": "להרפות מחפץ ללא כוונה, ולעתים קרובות התוצאה היא שהוא נופל על הקרקע.",
+                "example": "She accidentally dropped her phone while walking.",
+                "example_hebrew": "היא נפלה בטעות את הטלפון שלה בזמן הליכה."
+            },
+            {
+                "definition": "To reduce or decrease something significantly.",
+                "definition_hebrew": "להפחית או להקטין משהו באופן משמעותי.",
+                "example": "The company announced a drop in profits this quarter.",
+                "example_hebrew": "החברה הודיעה על ירידה ברווחים ברבעון הנוכחי."
+            },
+            {
+                "definition": "A small amount of liquid that falls, especially from the sky as rain.",
+                "definition_hebrew": "כמות קטנה של נוזל שיורדת, במיוחד מהשמים כגשם.",
+                "example": "The weather forecast predicts a few drops of rain tomorrow.",
+                "example_hebrew": "תחזית מזג האוויר צופה כמה טיפות גשם מחר."
+            },
+            {
+                "definition": "To withdraw or discontinue something such as an investment or support.",
+                "definition_hebrew": "למשוך או להפסיק משהו כמו השקעה או תמיכה.",
+                "example": "Investors decided to drop their holdings in the stock market due to economic uncertainty.",
+                "example_hebrew": "המשקיעים החליטו להוריד את אחזקותיהם בבורסה בשל אי ודאות כלכלית."
+            },
+            {
+                "definition": "A small quantity of data transferred from one place to another, often referring to digital information.",
+                "definition_hebrew": "כמות קטנה של נתונים המועברת ממקום אחד לאחר, לעתים קרובות מתייחסת למידע דיגיטלי.",
+                "example": "The file transfer resulted in a 50 MB drop in disk space usage.",
+                "example_hebrew": "העברת הקבצים הביאה לירידה של 50 MB בשימוש בשטח הדיסק."
+            }
+        ]
+    }
+]

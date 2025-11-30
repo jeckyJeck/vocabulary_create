@@ -1,0 +1,40 @@
+[
+    {
+        "word": "notifications",
+        "word_hebrew": "התראות",
+        "main_definition": "Notifications are messages or alerts that inform you about important events, updates, or actions related to a particular app, service, or system.",
+        "main_definition_hebrew": "התראות הן הודעות או התראות המודיעות לך על אירועים חשובים, עדכונים או פעולות הקשורות לאפליקציה, שירות או מערכת מסוימים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Alerts from apps on your phone",
+                "definition_hebrew": "התראות מאפליקציות בטלפון שלך",
+                "example": "I received several notifications from my social media apps while I was working.",
+                "example_hebrew": "קיבלתי מספר התראות מאפליקציות המדיה החברתית שלי בזמן שעבדתי."
+            },
+            {
+                "definition": "Messages regarding updates or changes in services you use",
+                "definition_hebrew": "הודעות לגבי עדכונים או שינויים בשירותים שבהם אתה משתמש",
+                "example": "The email notification informed me about a change in the billing cycle for my subscription service.",
+                "example_hebrew": "הודעת האימייל הודיעה לי על שינוי במחזור החיובים עבור שירות המנוי שלי."
+            },
+            {
+                "definition": "Informational messages from websites and online platforms",
+                "definition_hebrew": "הודעות מידע מאתרים ופלטפורמות מקוונות",
+                "example": "I got a notification on Facebook that one of my friends liked a post I shared.",
+                "example_hebrew": "קיבלתי הודעה בפייסבוק שאחד החברים שלי עשה לייק לפוסט ששיתפתי."
+            },
+            {
+                "definition": "Alerts related to important events or actions in your area",
+                "definition_hebrew": "התראות הקשורות לאירועים או פעולות חשובות באזור שלך",
+                "example": "The weather app sent me notifications about an incoming storm, advising me to take precautions.",
+                "example_hebrew": "אפליקציית מזג האוויר שלחה לי התראות על סערה נכנסת, והמליצה לי לנקוט באמצעי זהירות."
+            },
+            {
+                "definition": "Messages from coworkers or collaborators on shared documents and platforms",
+                "definition_hebrew": "הודעות מעמיתים לעבודה או משתפי פעולה במסמכים ופלטפורמות משותפים",
+                "example": "I received a notification that my colleague had made changes to the document we are working on together.",
+                "example_hebrew": "קיבלתי הודעה שעמיתי ביצע שינויים במסמך שאנחנו עובדים עליו ביחד."
+            }
+        ]
+    }
+]

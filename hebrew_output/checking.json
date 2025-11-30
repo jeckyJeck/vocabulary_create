@@ -1,0 +1,40 @@
+[
+    {
+        "word": "checking",
+        "word_hebrew": "בודק",
+        "main_definition": "Checking refers to the action of examining or verifying something, often in a systematic manner, whether it be documents, transactions, objects, individuals, etc.",
+        "main_definition_hebrew": "בדיקה מתייחסת לפעולה של בדיקה או אימות של משהו, לרוב בצורה שיטתית, בין אם מדובר במסמכים, עסקאות, חפצים, יחידים וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "Examining or inspecting for accuracy or errors",
+                "definition_hebrew": "בדיקה או בדיקה של דיוק או שגיאות",
+                "example": "Before submitting the report, I spent an hour checking for any factual inaccuracies.",
+                "example_hebrew": "לפני הגשת הדוח, ביליתי שעה בבדיקת אי דיוקים עובדתיים."
+            },
+            {
+                "definition": "Ensuring that something is correct by comparing it to a standard or reference point",
+                "definition_hebrew": "לוודא שמשהו נכון על ידי השוואתו לתקן או לנקודת התייחסות",
+                "example": "The quality control team was diligently checking each product against the company's standards.",
+                "example_hebrew": "צוות בקרת האיכות בדק בקפידה כל מוצר מול הסטנדרטים של החברה."
+            },
+            {
+                "definition": "To review someone's behavior, actions, or statements for validity and truthfulness",
+                "definition_hebrew": "לסקור התנהגות, פעולות או הצהרות של מישהו על תקפות ואמיתות",
+                "example": "When he lied about his whereabouts, she decided to check with his colleagues.",
+                "example_hebrew": "כשהוא שיקר לגבי מקום הימצאו, היא החליטה לבדוק עם עמיתיו."
+            },
+            {
+                "definition": "Verifying the status of a transaction in banking",
+                "definition_hebrew": "אימות סטטוס של עסקה בבנקאות",
+                "example": "I called customer service to get an update on my checking account balance.",
+                "example_hebrew": "התקשרתי לשירות הלקוחות כדי לקבל עדכון על יתרת החשבון שלי."
+            },
+            {
+                "definition": "To confirm or verify information through investigation or research",
+                "definition_hebrew": "כדי לאשר או לאמת מידע באמצעות חקירה או מחקר",
+                "example": "The journalist was checking sources for her latest article about the political scandal.",
+                "example_hebrew": "העיתונאית בדקה מקורות לכתבה האחרונה שלה על השערורייה הפוליטית."
+            }
+        ]
+    }
+]

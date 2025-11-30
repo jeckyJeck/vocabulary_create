@@ -1,0 +1,40 @@
+[
+    {
+        "word": "structure",
+        "word_hebrew": "מִבְנֶה",
+        "main_definition": "A structure refers to the arrangement, organization, or composition of something in a particular way.",
+        "main_definition_hebrew": "מבנה מתייחס לסידור, ארגון או הרכב של משהו בצורה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "The physical shape and arrangement of parts that make up an object or building.",
+                "definition_hebrew": "הצורה הפיזית והסידור של חלקים המרכיבים חפץ או בניין.",
+                "example": "The Eiffel Tower's structure is composed of wrought iron.",
+                "example_hebrew": "המבנה של מגדל אייפל מורכב מברזל יצוק."
+            },
+            {
+                "definition": "The way in which the components of a complex system are put together to function as a whole.",
+                "definition_hebrew": "האופן בו מרכיבים מרכיבים של מערכת מורכבת כדי לתפקד כמכלול.",
+                "example": "In biology, an organism's structure determines its ability to survive and reproduce.",
+                "example_hebrew": "בביולוגיה, מבנה האורגניזם קובע את יכולתו לשרוד ולהתרבות."
+            },
+            {
+                "definition": "A framework or plan for something such as an essay, business project, etc.",
+                "definition_hebrew": "מסגרת או תוכנית למשהו כמו חיבור, פרויקט עסקי וכו'.",
+                "example": "She followed a strict structure in writing her research paper to ensure coherence.",
+                "example_hebrew": "היא עקבה אחר מבנה קפדני בכתיבת עבודת המחקר שלה כדי להבטיח קוהרנטיות."
+            },
+            {
+                "definition": "The system of interrelations among the parts that form an organized whole.",
+                "definition_hebrew": "מערכת יחסי הגומלין בין החלקים היוצרים שלם מאורגן.",
+                "example": "In social sciences, studying human behavior often involves analyzing societal structures.",
+                "example_hebrew": "במדעי החברה, חקר ההתנהגות האנושית כרוך לרוב בניתוח מבנים חברתיים."
+            },
+            {
+                "definition": "A method or procedure for doing something, especially one based on scientific principles.",
+                "definition_hebrew": "שיטה או הליך לעשות משהו, במיוחד כזה המבוסס על עקרונות מדעיים.",
+                "example": "The engineer developed a new structure to solve the problem of corrosion in metal parts.",
+                "example_hebrew": "המהנדס פיתח מבנה חדש כדי לפתור את בעיית הקורוזיה בחלקי מתכת."
+            }
+        ]
+    }
+]

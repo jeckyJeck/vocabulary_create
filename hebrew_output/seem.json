@@ -1,0 +1,40 @@
+[
+    {
+        "word": "seem",
+        "word_hebrew": "נראה",
+        "main_definition": "To give the impression of being (something in certain respects) or to appear a certain way.",
+        "main_definition_hebrew": "לתת רושם של הוויה (משהו במובנים מסוימים) או להופיע בצורה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Appearing in a particular manner without actually being that thing",
+                "definition_hebrew": "להופיע בצורה מסוימת מבלי להיות הדבר הזה",
+                "example": "The fog seemed endless as we drove through it.",
+                "example_hebrew": "הערפל נראה אינסופי כשנסענו דרכו."
+            },
+            {
+                "definition": "Giving the impression of something; suggesting or indicating",
+                "definition_hebrew": "יצירת רושם של משהו; מציע או מציין",
+                "example": "The suspect's nervous behavior seemed suspicious to everyone in the room.",
+                "example_hebrew": "התנהגותו העצבנית של החשוד נראתה חשודה לכל מי שהיה בחדר."
+            },
+            {
+                "definition": "Appearing as if by chance without any apparent reason or cause",
+                "definition_hebrew": "מופיע כאילו במקרה ללא כל סיבה או סיבה נראית לעין",
+                "example": "It seemed like luck was on her side when she found a four-leaf clover.",
+                "example_hebrew": "נראה היה שהמזל לצדה כשמצאה תלתן בעל ארבעה עלים."
+            },
+            {
+                "definition": "Seemingly contrary, but actually true; apparently false, yet really so",
+                "definition_hebrew": "לכאורה מנוגד, אבל בעצם נכון; כנראה שקר, אבל באמת כך",
+                "example": "The situation seemed impossible at first, but it turned out to be achievable with the right approach.",
+                "example_hebrew": "המצב נראה בהתחלה בלתי אפשרי, אבל התברר שהוא בר השגה בגישה הנכונה."
+            },
+            {
+                "definition": "Appearing or being in a specified way; seeming so",
+                "definition_hebrew": "להופיע או להיות בצורה מוגדרת; נראה כך",
+                "example": "His voice seemed to come from nowhere as he spoke his lines on stage.",
+                "example_hebrew": "קולו כאילו בא משום מקום כשדיבר את שורותיו על הבמה."
+            }
+        ]
+    }
+]

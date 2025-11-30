@@ -1,0 +1,34 @@
+[
+    {
+        "word": "amendment",
+        "word_hebrew": "תיקון",
+        "main_definition": "An amendment is a change or addition designed to improve a document, agreement, law, or other text.",
+        "main_definition_hebrew": "תיקון הוא שינוי או תוספת שנועדו לשפר מסמך, הסכם, חוק או טקסט אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "A modification made to an existing law or legal document in order to improve it",
+                "definition_hebrew": "שינוי שנעשה בחוק קיים או במסמך משפטי על מנת לשפר אותו",
+                "example": "The constitution was amended to include the right to vote for women.",
+                "example_hebrew": "החוקה תוקנה כך שתכלול את זכות ההצבעה לנשים."
+            },
+            {
+                "definition": "An alteration added to a contract or agreement to clarify, change, or add terms",
+                "definition_hebrew": "שינוי שנוסף לחוזה או להסכם כדי להבהיר, לשנות או להוסיף תנאים",
+                "example": "After signing the rental agreement, they decided to make an amendment to extend the lease period.",
+                "example_hebrew": "לאחר חתימת הסכם השכירות, החליטו לבצע תיקון להארכת תקופת השכירות."
+            },
+            {
+                "definition": "A change made to a bill passed by legislature before it becomes law",
+                "definition_hebrew": "שינוי שנעשה בהצעת חוק שהתקבלה על ידי המחוקק בטרם הפכה לחוק",
+                "example": "The Congress proposed several amendments to the healthcare bill before passing it into law.",
+                "example_hebrew": "הקונגרס הציע מספר תיקונים להצעת חוק הבריאות לפני העברתה לחוק."
+            },
+            {
+                "definition": "An update or improvement made to a software product after its initial release",
+                "definition_hebrew": "עדכון או שיפור שנעשה למוצר תוכנה לאחר השחרור הראשוני שלו",
+                "example": "The latest version of the app includes numerous bug fixes and performance enhancements as an amendment to previous versions.",
+                "example_hebrew": "הגרסה האחרונה של האפליקציה כוללת תיקוני באגים ושיפורי ביצועים רבים כתיקון לגרסאות קודמות."
+            }
+        ]
+    }
+]

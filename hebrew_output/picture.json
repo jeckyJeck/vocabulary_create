@@ -1,0 +1,40 @@
+[
+    {
+        "word": "picture",
+        "word_hebrew": "תְמוּנָה",
+        "main_definition": "A picture refers to an image or representation of something, typically created through drawing, painting, photography, or digital means.",
+        "main_definition_hebrew": "תמונה מתייחסת לדימוי או לייצוג של משהו, שנוצר בדרך כלל באמצעות ציור, ציור, צילום או אמצעים דיגיטליים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An actual physical image captured by a camera or other device",
+                "definition_hebrew": "תמונה פיזית ממשית שצולמה על ידי מצלמה או מכשיר אחר",
+                "example": "The family gathered around the living room to admire the beautiful picture of their vacation taken last summer.",
+                "example_hebrew": "המשפחה התאספה סביב הסלון כדי להתפעל מהתמונה היפה של חופשתם שצולמה בקיץ שעבר."
+            },
+            {
+                "definition": "A visual representation, such as an illustration in books or on paper",
+                "definition_hebrew": "ייצוג חזותי, כגון איור בספרים או על נייר",
+                "example": "I found a detailed picture of the animal in my biology textbook that helped me understand its features better.",
+                "example_hebrew": "מצאתי תמונה מפורטת של בעל החיים בספר הלימוד שלי בביולוגיה שעזרה לי להבין טוב יותר את תכונותיו."
+            },
+            {
+                "definition": "An expression or metaphor used to describe a situation or concept",
+                "definition_hebrew": "ביטוי או מטאפורה המשמשים לתיאור מצב או מושג",
+                "example": "When I said 'the whole situation is out of this world,' I meant it was very unusual and surprising, not literally happening in outer space.",
+                "example_hebrew": "כשאמרתי 'כל המצב לא מהעולם הזה', התכוונתי שזה היה מאוד יוצא דופן ומפתיע, לא ממש קורה בחלל החיצון."
+            },
+            {
+                "definition": "A graphic representation of statistical data, typically using charts or graphs",
+                "definition_hebrew": "ייצוג גרפי של נתונים סטטיסטיים, בדרך כלל באמצעות תרשימים או גרפים",
+                "example": "The teacher displayed a picture showing the students' test scores as a bar chart to make it easier for them to understand their performance.",
+                "example_hebrew": "המורה הציג תמונה המציגה את ציוני המבחנים של התלמידים כתרשים עמודות כדי להקל עליהם להבין את הביצועים שלהם."
+            },
+            {
+                "definition": "An image or visual depiction in one's mind that represents something abstract, such as an idea or emotion",
+                "definition_hebrew": "תמונה או תיאור חזותי במוחו של האדם המייצג משהו מופשט, כגון רעיון או רגש",
+                "example": "She described her vision of the future city as a picture filled with green parks and modern architecture.",
+                "example_hebrew": "היא תיארה את החזון שלה לגבי העיר העתידית כתמונה מלאה בפארקים ירוקים ובאדריכלות מודרנית."
+            }
+        ]
+    }
+]

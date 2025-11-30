@@ -1,0 +1,34 @@
+[
+    {
+        "word": "recruiting",
+        "word_hebrew": "גיוס עובדים",
+        "main_definition": "The process of seeking out, attracting, and hiring new employees.",
+        "main_definition_hebrew": "תהליך חיפוש, משיכת וגיוס עובדים חדשים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Finding potential candidates for employment opportunities.",
+                "definition_hebrew": "איתור מועמדים פוטנציאליים להזדמנויות תעסוקה.",
+                "example": "The company is currently recruiting software developers with expertise in Python.",
+                "example_hebrew": "החברה מגייסת כעת מפתחי תוכנה עם מומחיות ב-Python."
+            },
+            {
+                "definition": "Enlisting people to join a group, team, or cause.",
+                "definition_hebrew": "גיוס אנשים להצטרף לקבוצה, צוות או מטרה.",
+                "example": "During the war, both sides were aggressively recruiting soldiers for their armies.",
+                "example_hebrew": "במהלך המלחמה, שני הצדדים גייסו באגרסיביות חיילים לצבאותיהם."
+            },
+            {
+                "definition": "The act of seeking out individuals with specific skills and qualifications to fill job vacancies.",
+                "definition_hebrew": "הפעולה של חיפוש אנשים עם כישורים וכישורים ספציפיים למילוי משרות פנויות.",
+                "example": "The HR department is focused on recruiting experienced project managers to lead upcoming initiatives.",
+                "example_hebrew": "מחלקת משאבי אנוש מתמקדת בגיוס מנהלי פרויקטים מנוסים להובלת יוזמות עתידיות."
+            },
+            {
+                "definition": "Gathering talent from a larger pool or community for specialized purposes, such as competitions or events.",
+                "definition_hebrew": "איסוף כישרונות מבריכה או קהילה גדולה יותר למטרות מיוחדות, כגון תחרויות או אירועים.",
+                "example": "Sports teams often engage in intense recruiting efforts during the summer months to sign new players.",
+                "example_hebrew": "קבוצות ספורט עוסקות לעתים קרובות במאמצי גיוס אינטנסיביים במהלך חודשי הקיץ כדי להחתים שחקנים חדשים."
+            }
+        ]
+    }
+]

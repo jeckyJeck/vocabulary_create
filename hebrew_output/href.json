@@ -1,0 +1,22 @@
+[
+    {
+        "word": "href",
+        "word_hebrew": "href",
+        "main_definition": "In HTML, href is an attribute used to specify the URL (Uniform Resource Locator) of a linked resource such as a webpage.",
+        "main_definition_hebrew": "ב-HTML, href היא תכונה המשמשת לציון כתובת האתר (Uniform Resource Locator) של משאב מקושר כגון דף אינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "An abbreviation for 'hypertext reference' in HTML",
+                "definition_hebrew": "קיצור של 'הפניה להיפרטקסט' ב-HTML",
+                "example": "<a href='https://www.example.com'>Visit Example</a>",
+                "example_hebrew": "<a href='https://www.example.com'>דוגמה לביקור</a>"
+            },
+            {
+                "definition": "Used as a programming variable or function name to signify referencing another value or resource",
+                "definition_hebrew": "משמש כמשתנה תכנות או שם פונקציה כדי לסמן הפניה לערך או למשאב אחר",
+                "example": "In JavaScript, you might have a function named 'href' that references another web page URL.",
+                "example_hebrew": "ב-JavaScript, ייתכן שיש לך פונקציה בשם 'href' שמפנה לכתובת URL אחרת של דף אינטרנט."
+            }
+        ]
+    }
+]

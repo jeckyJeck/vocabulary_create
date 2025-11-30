@@ -1,0 +1,34 @@
+[
+    {
+        "word": "mail",
+        "word_hebrew": "דוֹאַר",
+        "main_definition": "The system of sending and receiving letters and packages through a postal service.",
+        "main_definition_hebrew": "מערכת שליחה וקבלה של מכתבים וחבילות באמצעות שירות דואר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To send or deliver letters, documents, or parcels using the postal system.",
+                "definition_hebrew": "לשלוח או לשלוח מכתבים, מסמכים או חבילות באמצעות מערכת הדואר.",
+                "example": "I need to mail these wedding invitations tomorrow.",
+                "example_hebrew": "אני צריך לשלוח את ההזמנות לחתונה האלה מחר."
+            },
+            {
+                "definition": "A collection of letters and packages sent through the postal service at a particular time or over a period.",
+                "definition_hebrew": "אוסף מכתבים וחבילות שנשלחו דרך שירות הדואר בזמן מסוים או לאורך תקופה.",
+                "example": "The daily mail arrived today, containing bills, magazines, and junk mail.",
+                "example_hebrew": "הדואר היומי הגיע היום, ובו חשבונות, מגזינים ודואר זבל."
+            },
+            {
+                "definition": "Anxiety or excitement about an upcoming letter or package that is expected to arrive.",
+                "definition_hebrew": "חרדה או התרגשות ממכתב או חבילה קרובים שצפויים להגיע.",
+                "example": "She was eagerly waiting for the mail in hopes of finding a birthday present from her friends.",
+                "example_hebrew": "היא חיכתה בקוצר רוח לדואר בתקווה למצוא מתנת יום הולדת מחבריה."
+            },
+            {
+                "definition": "A system or network through which letters, documents, and parcels are sent and received.",
+                "definition_hebrew": "מערכת או רשת שדרכה נשלחים ומקבלים מכתבים, מסמכים וחבילות.",
+                "example": "The efficiency of his job relies on the promptness of the mail service.",
+                "example_hebrew": "יעילות עבודתו מסתמכת על זריזות שירות הדואר."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "presentation",
+        "word_hebrew": "הַצָגָה",
+        "main_definition": "A presentation is a formal way of communicating information, ideas or findings to an audience through verbal explanation, visuals, and examples.",
+        "main_definition_hebrew": "מצגת היא דרך פורמלית להעברת מידע, רעיונות או ממצאים לקהל באמצעות הסבר מילולי, חזותיים ודוגמאות.",
+        "meanings_and_examples": [
+            {
+                "definition": "An event where someone speaks in front of a group",
+                "definition_hebrew": "אירוע שבו מישהו מדבר מול קבוצה",
+                "example": "She gave a great presentation at the conference last week.",
+                "example_hebrew": "היא נתנה מצגת נהדרת בכנס בשבוע שעבר."
+            },
+            {
+                "definition": "A visual and verbal display that is used to convey information or ideas",
+                "definition_hebrew": "תצוגה ויזואלית ומילולית המשמשת להעברת מידע או רעיונות",
+                "example": "The teacher created an engaging PowerPoint presentation for her class.",
+                "example_hebrew": "המורה יצרה מצגת PowerPoint מרתקת עבור הכיתה שלה."
+            },
+            {
+                "definition": "An opportunity to showcase one's work, products, or services to potential clients, investors, or customers",
+                "definition_hebrew": "הזדמנות להציג את העבודה, המוצרים או השירותים של האדם ללקוחות פוטנציאליים, משקיעים או לקוחות",
+                "example": "The company prepared a pitch presentation to attract new business partners.",
+                "example_hebrew": "החברה הכינה מצגת פיץ' כדי למשוך שותפים עסקיים חדשים."
+            },
+            {
+                "definition": "A formal method of teaching that involves presenting information in an organized manner using various tools and techniques",
+                "definition_hebrew": "שיטת הוראה פורמלית הכוללת הצגת מידע בצורה מאורגנת תוך שימוש בכלים וטכניקות שונות",
+                "example": "Online courses often include lectures, slideshows, and interactive exercises as part of their presentation format.",
+                "example_hebrew": "קורסים מקוונים כוללים לרוב הרצאות, מצגות ותרגילים אינטראקטיביים כחלק מפורמט המצגת שלהם."
+            },
+            {
+                "definition": "The act or process of preparing a visual aid to support a spoken explanation",
+                "definition_hebrew": "הפעולה או התהליך של הכנת עזר חזותי לתמיכה בהסבר מדובר",
+                "example": "He spent hours creating an impressive chart for his business proposal's presentation.",
+                "example_hebrew": "הוא השקיע שעות ביצירת תרשים מרשים עבור המצגת של ההצעה העסקית שלו."
+            }
+        ]
+    }
+]

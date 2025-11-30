@@ -1,0 +1,28 @@
+[
+    {
+        "word": "oil",
+        "word_hebrew": "שמן",
+        "main_definition": "Oil refers to a slippery liquid derived from petroleum, used as a lubricant or fuel, and also symbolizes wealth, prosperity, or conflict in various contexts.",
+        "main_definition_hebrew": "שמן מתייחס לנוזל חלקלק שמקורו בנפט, המשמש כחומר סיכה או דלק, וגם מסמל עושר, שגשוג או סכסוך בהקשרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A substance used for lubrication",
+                "definition_hebrew": "חומר המשמש לשימון",
+                "example": "We need to add oil to the car's engine before driving it.",
+                "example_hebrew": "אנחנו צריכים להוסיף שמן למנוע של המכונית לפני הנסיעה בו."
+            },
+            {
+                "definition": "Commodity that is an economic indicator of wealth and prosperity",
+                "definition_hebrew": "סחורה שהיא אינדיקטור כלכלי לעושר ושגשוג",
+                "example": "The price of crude oil has a significant impact on the global economy, as it serves as a commodity indicative of financial stability.",
+                "example_hebrew": "למחיר הנפט הגולמי יש השפעה משמעותית על הכלכלה העולמית, שכן הוא משמש כסחורה המעידה על יציבות פיננסית."
+            },
+            {
+                "definition": "Represents conflict or animosity between groups",
+                "definition_hebrew": "מייצג עימות או איבה בין קבוצות",
+                "example": "During political negotiations, tensions 'boiled over' and resulted in oil being spilled on the floor, symbolizing a breakdown in talks.",
+                "example_hebrew": "במהלך משא ומתן מדיני, המתיחות 'רתחה' והביאה לשפך שמן על הרצפה, מה שסימל תקלה בשיחות."
+            }
+        ]
+    }
+]

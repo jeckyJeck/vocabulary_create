@@ -1,0 +1,34 @@
+[
+    {
+        "word": "airlines",
+        "word_hebrew": "חברות תעופה",
+        "main_definition": "Airlines are companies or enterprises that operate aircraft to transport passengers, cargo, and mail from one location to another.",
+        "main_definition_hebrew": "חברות תעופה הן חברות או ארגונים המפעילים מטוסים להובלת נוסעים, מטען ודואר ממקום אחד למשנהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Air travel service providers",
+                "definition_hebrew": "ספקי שירותי נסיעות אוויריות",
+                "example": "Delta Airlines offers flights across North America and Europe.",
+                "example_hebrew": "דלתא איירליינס מציעה טיסות ברחבי צפון אמריקה ואירופה."
+            },
+            {
+                "definition": "The industry as a whole, comprising all companies involved in operating air transportation services",
+                "definition_hebrew": "הענף בכללותו, הכולל את כל החברות העוסקות בהפעלת שירותי הובלה אווירית",
+                "example": "The global airline industry has been facing numerous challenges due to the COVID-19 pandemic.",
+                "example_hebrew": "תעשיית התעופה העולמית ניצבת בפני אתגרים רבים עקב מגיפת COVID-19."
+            },
+            {
+                "definition": "A collection of aircraft operated by an organization or company for commercial purposes",
+                "definition_hebrew": "אוסף מטוסים המופעלים על ידי ארגון או חברה למטרות מסחריות",
+                "example": "Southwest Airlines operates a large fleet of Boeing 737 and Airbus A320 aircraft to provide domestic flights in the United States.",
+                "example_hebrew": "סאות'ווסט איירליינס מפעילה צי גדול של מטוסי בואינג 737 ואיירבוס A320 כדי לספק טיסות פנים בארצות הברית."
+            },
+            {
+                "definition": "The physical infrastructure used by airlines, including runways, terminals, and hangars",
+                "definition_hebrew": "התשתית הפיזית המשמשת את חברות התעופה, לרבות מסלולים, מסופים והאנגרים",
+                "example": "Airport construction projects focus on expanding airline facilities for increased capacity.",
+                "example_hebrew": "פרויקטים של בניית שדות תעופה מתמקדים בהרחבת מתקני חברות התעופה להגדלת הקיבולת."
+            }
+        ]
+    }
+]

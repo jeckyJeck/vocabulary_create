@@ -1,0 +1,40 @@
+[
+    {
+        "word": "pipeline",
+        "word_hebrew": "צנרת",
+        "main_definition": "A pipeline is a system of connected pipes used to transport liquids or gases from one location to another.",
+        "main_definition_hebrew": "צינור הוא מערכת של צינורות מחוברים המשמשים להובלת נוזלים או גזים ממקום אחד למשנהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Business process",
+                "definition_hebrew": "תהליך עסקי",
+                "example": "The oil and gas industry's production pipeline, which involves exploration, extraction, processing, transportation, and sales.",
+                "example_hebrew": "צינור הייצור של תעשיית הנפט והגז, הכולל חיפושים, מיצוי, עיבוד, הובלה ומכירה."
+            },
+            {
+                "definition": "Flow of work",
+                "definition_hebrew": "זרימת עבודה",
+                "example": "Software development pipeline: requirements gathering -> design -> coding -> testing -> deployment.",
+                "example_hebrew": "צינור פיתוח תוכנה: איסוף דרישות -> עיצוב -> קידוד -> בדיקות -> פריסה."
+            },
+            {
+                "definition": "Construction process",
+                "definition_hebrew": "תהליך בנייה",
+                "example": "The construction pipeline for a new residential building, including site preparation, foundation laying, framing, and finishing work.",
+                "example_hebrew": "צינור הבנייה לבניין מגורים חדש כולל הכנת האתר, הנחת יסודות, מסגרות ועבודות גמר."
+            },
+            {
+                "definition": "Financial investment flow",
+                "definition_hebrew": "תזרים השקעות פיננסיות",
+                "example": "An investor's stock market pipeline, which includes buying and selling various financial instruments like shares, bonds, or commodities.",
+                "example_hebrew": "צנרת שוק המניות של משקיע, הכוללת קנייה ומכירה של מכשירים פיננסיים שונים כמו מניות, אג\"ח או סחורות."
+            },
+            {
+                "definition": "News distribution process",
+                "definition_hebrew": "תהליך הפצת חדשות",
+                "example": "The journalism pipeline of news gathering, editing, and distributing information to the public via newspapers, television, radio, and digital platforms.",
+                "example_hebrew": "צינור העיתונות של איסוף חדשות, עריכה והפצת מידע לציבור באמצעות עיתונים, טלוויזיה, רדיו ופלטפורמות דיגיטליות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "completion",
+        "word_hebrew": "סִיוּם",
+        "main_definition": "Completion refers to the act of making something whole or finished, reaching a final stage or end point.",
+        "main_definition_hebrew": "השלמה מתייחסת לפעולת הפיכת משהו לשלם או גמור, להגיע לשלב אחרון או לנקודת סיום.",
+        "meanings_and_examples": [
+            {
+                "definition": "The state of being completed or fully accomplished. It often implies fulfillment and satisfaction with an endeavor or task.",
+                "definition_hebrew": "המצב של הושלם או הושלם במלואו. לעתים קרובות זה מרמז על הגשמה וסיפוק ממאמץ או משימה.",
+                "example": "Completing her degree brought immense joy to Jane, as she finally achieved a significant milestone in her education.",
+                "example_hebrew": "השלמת התואר הביאה שמחה עצומה לג'יין, שכן סוף סוף השיגה ציון דרך משמעותי בהשכלתה."
+            },
+            {
+                "definition": "In construction and project management, completion indicates the finishing phase of work where all elements are done according to specifications or plans.",
+                "definition_hebrew": "בניהול בנייה ופרויקטים, סיום מציין את שלב הגמר של העבודה שבו כל האלמנטים נעשים על פי מפרטים או תוכניות.",
+                "example": "The construction company declared the building's completion after they finished installing all windows and doors as per design.",
+                "example_hebrew": "חברת הבנייה הכריזה על סיום המבנה לאחר שסיימו להתקין את כל החלונות והדלתות לפי התכנון."
+            },
+            {
+                "definition": "A term used in various contexts such as programming, writing, and project management, indicating that a task has been fully done or an object is now finalized.",
+                "definition_hebrew": "מונח המשמש בהקשרים שונים כגון תכנות, כתיבה וניהול פרויקטים, המציין שמשימה בוצעה במלואה או שאובייקט הושלם כעת.",
+                "example": "The programmer marked the completion of his code by adding comprehensive comments for each function.",
+                "example_hebrew": "המתכנת סימן את השלמת הקוד שלו על ידי הוספת הערות מקיפות לכל פונקציה."
+            },
+            {
+                "definition": "In gaming, completing refers to finishing all levels or challenges in a game, which often leads to unlocking new content or achievements.",
+                "definition_hebrew": "במשחקים, השלמה מתייחסת לסיום כל הרמות או האתגרים במשחק, מה שמוביל לרוב לפתיחת תוכן או הישגים חדשים.",
+                "example": "After conquering every level of the puzzle game, Alex felt a sense of completion and accomplishment.",
+                "example_hebrew": "לאחר שכבש כל רמה במשחק הפאזל, אלכס הרגיש תחושה של השלמה והישג."
+            },
+            {
+                "definition": "When referring to life events such as birthdays, reaching one's 18th or 21st year is considered completion of childhood.",
+                "definition_hebrew": "כאשר מתייחסים לאירועי חיים כמו ימי הולדת, הגעה לשנה 18 או 21 נחשבת להשלמת ילדות.",
+                "example": "Alice celebrated her 18th birthday with friends, marking the completion of her transition into adulthood.",
+                "example_hebrew": "אליס חגגה את יום הולדתה ה-18 עם חברים, וסימנה את השלמת המעבר שלה לבגרות."
+            }
+        ]
+    }
+]

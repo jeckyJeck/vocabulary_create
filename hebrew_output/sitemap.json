@@ -1,0 +1,28 @@
+[
+    {
+        "word": "sitemap",
+        "word_hebrew": "מפת אתר",
+        "main_definition": "A sitemap is a file used to list the pages, videos, and other files that are part of a website.",
+        "main_definition_hebrew": "מפת אתר היא קובץ המשמש לרשימת הדפים, הסרטונים וקבצים אחרים שהם חלק מאתר אינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Website structure representation",
+                "definition_hebrew": "ייצוג מבנה האתר",
+                "example": "The company's website has a detailed sitemap listing all its product categories and subpages.",
+                "example_hebrew": "באתר החברה יש מפת אתר מפורטת המפרטת את כל קטגוריות המוצרים ודפי המשנה שלה."
+            },
+            {
+                "definition": "XML file format for site mapping",
+                "definition_hebrew": "פורמט קובץ XML עבור מיפוי אתרים",
+                "example": "I updated the XML sitemap to include new blog posts added on our corporate site.",
+                "example_hebrew": "עדכנתי את מפת האתר של XML כדי לכלול פוסטים חדשים בבלוג שנוספו באתר הארגוני שלנו."
+            },
+            {
+                "definition": "Tool for search engine optimization (SEO)",
+                "definition_hebrew": "כלי לאופטימיזציה למנועי חיפוש (SEO)",
+                "example": "We submitted an XML sitemap to Google so they can crawl and index all pages of our website more effectively.",
+                "example_hebrew": "הגשנו ל-Google מפת אתר XML כדי שהם יוכלו לסרוק ולהוסיף את כל דפי האתר שלנו בצורה יעילה יותר."
+            }
+        ]
+    }
+]

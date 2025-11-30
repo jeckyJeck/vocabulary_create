@@ -1,0 +1,28 @@
+[
+    {
+        "word": "radar",
+        "word_hebrew": "מכ\"ם",
+        "main_definition": "Radar is a system that uses radio waves to detect objects, measure their distance, direction, and speed.",
+        "main_definition_hebrew": "מכ\"ם היא מערכת המשתמשת בגלי רדיו כדי לזהות עצמים, למדוד את המרחק, הכיוון והמהירות שלהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "To be aware of something through careful observation or perception",
+                "definition_hebrew": "להיות מודע למשהו באמצעות התבוננות או תפיסה מדוקדקת",
+                "example": "The manager radars changes in customer behavior patterns.",
+                "example_hebrew": "המנהל מסמן שינויים בדפוסי התנהגות הלקוחות."
+            },
+            {
+                "definition": "A device that detects the presence, direction, distance, speed, and characteristics of objects by using radio waves",
+                "definition_hebrew": "מכשיר המזהה נוכחות, כיוון, מרחק, מהירות ומאפיינים של עצמים באמצעות גלי רדיו",
+                "example": "Pilots rely on a ship's radar to navigate safely through stormy weather conditions.",
+                "example_hebrew": "טייסים מסתמכים על מכ\"ם של ספינה כדי לנווט בבטחה בתנאי מזג אוויר סוערים."
+            },
+            {
+                "definition": "To be wary or cautious about something",
+                "definition_hebrew": "להיות זהיר או זהיר לגבי משהו",
+                "example": "The detective had a bad feeling and said he would need to radar the suspect more closely.",
+                "example_hebrew": "לבלש הייתה הרגשה רעה ואמר שהוא יצטרך לדאוג לחשוד יותר מקרוב."
+            }
+        ]
+    }
+]

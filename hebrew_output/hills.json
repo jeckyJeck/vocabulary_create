@@ -1,0 +1,34 @@
+[
+    {
+        "word": "hills",
+        "word_hebrew": "גבעות",
+        "main_definition": "Hills refer to elevated areas of land with a rounded top, smaller than mountains, often forming part of the landscape.",
+        "main_definition_hebrew": "גבעות מתייחסות לאזורי אדמה מוגבהים עם ראש מעוגל, קטן מהרים, המהווים לרוב חלק מהנוף.",
+        "meanings_and_examples": [
+            {
+                "definition": "In sports and athletics, 'running hills' or hill training refers to exercises that improve endurance by repeatedly ascending and descending slopes.",
+                "definition_hebrew": "בספורט ובאתלטיקה, 'ריצת גבעות' או אימון גבעות מתייחס לתרגילים המשפרים סיבולת על ידי עלייה וירידה חוזרת במדרונות.",
+                "example": "The hilly terrain of the region is ideal for trail running.",
+                "example_hebrew": "השטח ההררי של האזור אידיאלי לריצת שבילים."
+            },
+            {
+                "definition": "An idiomatic expression meaning a minor difficulty or problem, as in 'this task has become hill', suggesting it's not insurmountable but requires effort.",
+                "definition_hebrew": "ביטוי אידיומטי שמשמעותו קושי או בעיה מינורית, כמו ב'משימה זו הפכה לגבעה', המצביע על כך שהיא לא בלתי ניתנת לפתרון אלא דורשת מאמץ.",
+                "example": "After losing her keys, finding them seemed like an uphill battle.",
+                "example_hebrew": "לאחר שאיבדה את המפתחות שלה, מציאתם נראתה כמו קרב עלייה."
+            },
+            {
+                "definition": "A metaphorical phrase used to describe a situation that is complex or full of challenges, similar in difficulty to climbing hills.",
+                "definition_hebrew": "ביטוי מטפורי המשמש לתיאור מצב מורכב או מלא באתגרים, הדומה בקושי לטיפוס על גבעות.",
+                "example": "Navigating the bureaucracy was as difficult as going up a steep hill.",
+                "example_hebrew": "ניווט הבירוקרטיה היה קשה כמו לעלות על גבעה תלולה."
+            },
+            {
+                "definition": "A unit of measurement for elevation relative to sea level or other geographic benchmarks.",
+                "definition_hebrew": "יחידת מדידה של גובה ביחס לגובה פני הים או מדדים גיאוגרפיים אחרים.",
+                "example": "The city is 300 meters above sea level, making it a high-altitude location with hilly surroundings.",
+                "example_hebrew": "העיר נמצאת בגובה 300 מטר מעל פני הים, מה שהופך אותה למיקום בגובה רב עם סביבה גבעה."
+            }
+        ]
+    }
+]

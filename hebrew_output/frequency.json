@@ -1,0 +1,34 @@
+[
+    {
+        "word": "frequency",
+        "word_hebrew": "תדירות",
+        "main_definition": "Frequency refers to how often something occurs or is repeated in a given period of time, commonly used in contexts such as sound waves, occurrences of events, and measurements over a specific interval.",
+        "main_definition_hebrew": "תדירות מתייחסת לתדירות שבה משהו מתרחש או חוזר על עצמו בפרק זמן נתון, בשימוש נפוץ בהקשרים כגון גלי קול, התרחשויות של אירועים ומדידות על פני מרווח מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In physics, frequency measures the number of cycles (such as oscillations or wave crests) that occur per unit time. It is commonly associated with sound waves, light waves, and other forms of electromagnetic radiation.",
+                "definition_hebrew": "בפיזיקה, התדר מודד את מספר המחזורים (כגון תנודות או פסגות גלים) המתרחשים ביחידת זמן. זה מקושר בדרך כלל לגלי קול, גלי אור וצורות אחרות של קרינה אלקטרומגנטית.",
+                "example": "The frequency of a particular note played on a piano determines its pitch; higher frequencies correspond to higher notes.",
+                "example_hebrew": "התדירות של תו מסוים שמנגן בפסנתר קובעת את גובה הצליל שלו; תדרים גבוהים יותר תואמים לתווים גבוהים יותר."
+            },
+            {
+                "definition": "In statistics or data analysis, the term 'frequency' describes how often an event occurs. This is often visualized through histograms or bar charts in frequency distribution tables.",
+                "definition_hebrew": "בסטטיסטיקה או בניתוח נתונים, המונח 'תדירות' מתאר באיזו תדירות מתרחש אירוע. לעתים קרובות זה מוצג באמצעות היסטוגרמות או תרשימי עמודות בטבלאות התפלגות תדרים.",
+                "example": "The frequency of rainy days in a month was recorded as 10 out of 30, indicating it rained on 10 separate days.",
+                "example_hebrew": "תדירות ימי הגשם בחודש נרשמה כ-10 מתוך 30, מה שמצביע על כך שירד גשם ב-10 ימים נפרדים."
+            },
+            {
+                "definition": "In everyday language, 'frequency' can be used to describe how often people do certain activities or repeat specific behaviors.",
+                "definition_hebrew": "בשפה היומיומית, ניתן להשתמש ב'תדירות' כדי לתאר באיזו תדירות אנשים עושים פעילויות מסוימות או חוזרים על התנהגויות ספציפיות.",
+                "example": "She exercises daily, making the frequency of her workouts a key part of her fitness routine.",
+                "example_hebrew": "היא מתאמנת מדי יום, מה שהופך את תדירות האימונים שלה לחלק מרכזי בשגרת הכושר שלה."
+            },
+            {
+                "definition": "Frequency is also relevant in time management and scheduling when referring to how often tasks should be repeated or events occur within certain intervals.",
+                "definition_hebrew": "התדירות רלוונטית גם בניהול זמן ובתזמון כאשר מתייחסים לתדירות שבה יש לחזור על משימות או להתרחש אירועים במרווחי זמן מסוימים.",
+                "example": "The project schedule was set up with weekly check-ins every Friday, establishing a frequency for team meetings.",
+                "example_hebrew": "לוח הזמנים של הפרויקט נקבע עם צ'ק אין שבועי בכל יום שישי, תוך הקמת תדירות לפגישות צוות."
+            }
+        ]
+    }
+]

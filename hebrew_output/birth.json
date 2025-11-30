@@ -1,0 +1,34 @@
+[
+    {
+        "word": "birth",
+        "word_hebrew": "הוּלֶדֶת",
+        "main_definition": "Birth refers to the process of being born or coming into existence.",
+        "main_definition_hebrew": "לידה מתייחסת לתהליך של לידת או קיום.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of giving birth to a child",
+                "definition_hebrew": "מעשה לידת ילד",
+                "example": "Sarah experienced the joy and challenges of labor during the birth of her first child.",
+                "example_hebrew": "שרה חוותה את השמחה ואת האתגרים של צירים במהלך לידת ילדה הראשון."
+            },
+            {
+                "definition": "The beginning or start of something, particularly in relation to life forms",
+                "definition_hebrew": "התחלה או התחלה של משהו, במיוחד ביחס לצורות חיים",
+                "example": "The discovery of ancient fossils revealed new insights into the early stages of human evolution.",
+                "example_hebrew": "גילוי מאובנים עתיקים חשף תובנות חדשות לגבי השלבים המוקדמים של האבולוציה האנושית."
+            },
+            {
+                "definition": "In computing and technology, the moment a software program is first released for use",
+                "definition_hebrew": "בתחום המחשוב והטכנולוגיה, הרגע שבו תוכנה יוצאת לראשונה לשימוש",
+                "example": "The birth of this revolutionary app marked a significant milestone in technological advancements.",
+                "example_hebrew": "לידתה של האפליקציה המהפכנית הזו סימנה אבן דרך משמעותית בהתקדמות הטכנולוגית."
+            },
+            {
+                "definition": "An informal expression referring to coming into existence or becoming known within a specific field or context",
+                "definition_hebrew": "ביטוי לא פורמלי המתייחס להיווצרות קיום או התוודעות בתוך תחום או הקשר ספציפי",
+                "example": "With the publication of her groundbreaking research, Dr. Thompson's work was born and gained recognition in the scientific community.",
+                "example_hebrew": "עם פרסום המחקר פורץ הדרך שלה, עבודתה של ד\"ר תומפסון נולדה וזכתה להכרה בקהילה המדעית."
+            }
+        ]
+    }
+]

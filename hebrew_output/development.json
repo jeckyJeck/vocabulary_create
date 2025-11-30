@@ -1,0 +1,40 @@
+[
+    {
+        "word": "development",
+        "word_hebrew": "התפתחות",
+        "main_definition": "The process of growth, progress or advancement in various aspects such as physical, intellectual, professional, social, etc.",
+        "main_definition_hebrew": "תהליך צמיחה, התקדמות או התקדמות בהיבטים שונים כגון פיזי, אינטלקטואלי, מקצועי, חברתי וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "The growth and maturation of a living organism from birth to adulthood",
+                "definition_hebrew": "צמיחה והתבגרות של אורגניזם חי מלידה ועד בגרות",
+                "example": "The development stages of a butterfly include egg, caterpillar, pupa, and adult.",
+                "example_hebrew": "שלבי ההתפתחות של פרפר כוללים ביצה, זחל, גולם ובוגר."
+            },
+            {
+                "definition": "The progression or improvement in skills, abilities, knowledge or other attributes",
+                "definition_hebrew": "ההתקדמות או השיפור במיומנויות, יכולות, ידע או תכונות אחרות",
+                "example": "Regular exercise is essential for the physical development of children as they grow older.",
+                "example_hebrew": "פעילות גופנית סדירה חיונית להתפתחות הגופנית של ילדים ככל שהם מתבגרים."
+            },
+            {
+                "definition": "Advancement or expansion in a professional field",
+                "definition_hebrew": "התקדמות או התרחבות בתחום מקצועי",
+                "example": "After completing her education, she started working on software development and gradually became an expert developer.",
+                "example_hebrew": "לאחר שסיימה את לימודיה, החלה לעבוד על פיתוח תוכנה והפכה בהדרגה למפתחת מומחית."
+            },
+            {
+                "definition": "The process of creating new products or services from scratch to meet market needs",
+                "definition_hebrew": "תהליך יצירת מוצרים או שירותים חדשים מאפס כדי לענות על צרכי השוק",
+                "example": "The company's focus is on the development of innovative mobile applications that improve user experience.",
+                "example_hebrew": "המיקוד של החברה הוא בפיתוח אפליקציות מובייל חדשניות המשפרים את חווית המשתמש."
+            },
+            {
+                "definition": "Improvement in social structures, institutions and standards within a community or society",
+                "definition_hebrew": "שיפור במבנים, מוסדות וסטנדרטים חברתיים בתוך קהילה או חברה",
+                "example": "Educational development involves implementing new curriculum standards to enhance learning opportunities for students.",
+                "example_hebrew": "פיתוח חינוכי כרוך ביישום סטנדרטים חדשים של תכניות לימודים כדי לשפר את הזדמנויות הלמידה לתלמידים."
+            }
+        ]
+    }
+]

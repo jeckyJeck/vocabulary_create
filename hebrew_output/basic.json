@@ -1,0 +1,34 @@
+[
+    {
+        "word": "basic",
+        "word_hebrew": "בסיסי",
+        "main_definition": "Simple, fundamental or essential aspects of something.",
+        "main_definition_hebrew": "היבטים פשוטים, בסיסיים או חיוניים של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to the most simple, primary level; not complicated or advanced.",
+                "definition_hebrew": "מתייחס לרמה הפשוטה ביותר, היסודית; לא מסובך או מתקדם.",
+                "example": "The basic version of this software is free and easy to use.",
+                "example_hebrew": "הגרסה הבסיסית של תוכנה זו היא חינמית וקלה לשימוש."
+            },
+            {
+                "definition": "Essential elements without which something would not be complete or functional.",
+                "definition_hebrew": "אלמנטים חיוניים שבלעדיהם משהו לא יהיה שלם או פונקציונלי.",
+                "example": "Water, food, and shelter are the most basic needs for survival.",
+                "example_hebrew": "מים, מזון ומחסה הם הצרכים הבסיסיים ביותר להישרדות."
+            },
+            {
+                "definition": "Having only a limited amount of knowledge about a subject; lacking in-depth understanding.",
+                "definition_hebrew": "בעל כמות מוגבלת של ידע על נושא מסוים; חסר הבנה מעמיקה.",
+                "example": "She has a basic understanding of mathematics but not an expert level.",
+                "example_hebrew": "יש לה הבנה בסיסית במתמטיקה אך לא רמת מומחה."
+            },
+            {
+                "definition": "A starting point or foundation from which something is developed.",
+                "definition_hebrew": "נקודת מוצא או בסיס שממנו מתפתח משהו.",
+                "example": "The basic skills you need to learn before moving on to more advanced techniques.",
+                "example_hebrew": "הכישורים הבסיסיים שאתה צריך ללמוד לפני שאתה עובר לטכניקות מתקדמות יותר."
+            }
+        ]
+    }
+]

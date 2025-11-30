@@ -1,0 +1,40 @@
+[
+    {
+        "word": "wash",
+        "word_hebrew": "לִשְׁטוֹף",
+        "main_definition": "To clean something by removing dirt or impurities, typically with water and sometimes soap.",
+        "main_definition_hebrew": "לנקות משהו על ידי הסרת לכלוך או זיהומים, בדרך כלל עם מים ולפעמים סבון.",
+        "meanings_and_examples": [
+            {
+                "definition": "A process of cleaning oneself using water and often a cleanser.",
+                "definition_hebrew": "תהליך של ניקוי עצמי באמצעות מים ולעיתים תכשיר ניקוי.",
+                "example": "After playing outside all day, Timmy washed his hands before dinner.",
+                "example_hebrew": "אחרי ששיחק בחוץ כל היום, טימי שטף את ידיו לפני ארוחת הערב."
+            },
+            {
+                "definition": "To remove dirt or stains from an object by rubbing it with a cloth or brush and applying water.",
+                "definition_hebrew": "להסרת לכלוך או כתמים מחפץ על ידי שפשוף עם מטלית או מברשת ומריחת מים.",
+                "example": "She used soap and warm water to wash the greasy pans in the kitchen.",
+                "example_hebrew": "היא השתמשה בסבון ובמים חמימים כדי לשטוף את המחבתות השומניות במטבח."
+            },
+            {
+                "definition": "An event where people clean clothes, cars, or other items using water and detergents.",
+                "definition_hebrew": "אירוע שבו אנשים מנקים בגדים, מכוניות או פריטים אחרים באמצעות מים וחומרי ניקוי.",
+                "example": "The laundromat offered a 24-hour service for customers who needed to wash their clothes at any time of day.",
+                "example_hebrew": "המכבסה הציעה שירות 24 שעות ביממה ללקוחות שהיו צריכים לכבס את בגדיהם בכל שעה ביום."
+            },
+            {
+                "definition": "To cause something to become clean by adding or removing liquid, often as in the context of a river becoming cleaner.",
+                "definition_hebrew": "לגרום למשהו להתנקות על ידי הוספה או הסרה של נוזל, לעתים קרובות כמו בהקשר של נהר שנעשה נקי יותר.",
+                "example": "The rain helped wash away all the dirt and grime from the dusty streets.",
+                "example_hebrew": "הגשם עזר לשטוף את כל הלכלוך והלכלוך מהרחובות המאובקים."
+            },
+            {
+                "definition": "A term used metaphorically to indicate getting rid of something undesirable or unnecessary, like 'washing one's hands of a situation.'",
+                "definition_hebrew": "מונח המשמש באופן מטפורי כדי לציין היפטרות ממשהו לא רצוי או מיותר, כמו 'לשטוף ידיים במצב'.",
+                "example": "The company decided it was time to wash its hands of the failed project and move on.",
+                "example_hebrew": "החברה החליטה שהגיע הזמן לשטוף ידיים מהפרויקט הכושל ולהמשיך הלאה."
+            }
+        ]
+    }
+]

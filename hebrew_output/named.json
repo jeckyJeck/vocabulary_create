@@ -1,0 +1,40 @@
+[
+    {
+        "word": "named",
+        "word_hebrew": "בשם",
+        "main_definition": "To give a name or title to something, person, or place; to officially acknowledge the identity of someone or something.",
+        "main_definition_hebrew": "לתת שם או תואר למשהו, אדם או מקום; להכיר רשמית בזהות של מישהו או משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Acknowledging a particular designation for an object",
+                "definition_hebrew": "הכרה בייעוד מסוים לאובייקט",
+                "example": "The company named its new product 'FuturoWidget'.",
+                "example_hebrew": "החברה כינתה את המוצר החדש שלה 'FuturoWidget'."
+            },
+            {
+                "definition": "Assigning a specific name to a person",
+                "definition_hebrew": "הקצאת שם ספציפי לאדם",
+                "example": "The parents decided to name their daughter Lily Rose Smith.",
+                "example_hebrew": "ההורים החליטו לקרוא לבתם לילי רוז סמית'."
+            },
+            {
+                "definition": "Giving a special title or position to someone in an organization",
+                "definition_hebrew": "הענקת תואר או תפקיד מיוחד למישהו בארגון",
+                "example": "After years of hard work, she was named the CEO of her company.",
+                "example_hebrew": "לאחר שנים של עבודה מאומצת, היא נבחרה למנכ\"לית החברה שלה."
+            },
+            {
+                "definition": "Designating a specific location with a name",
+                "definition_hebrew": "ייעוד מיקום ספציפי עם שם",
+                "example": "The explorers decided on naming this uncharted land 'New Hope Island'.",
+                "example_hebrew": "החוקרים החליטו לקרוא לארץ לא ידועה זו \"אי התקווה החדשה\"."
+            },
+            {
+                "definition": "Identifying or recognizing someone as the author of a particular work",
+                "definition_hebrew": "זיהוי או הכרה של מישהו כמחבר של יצירה מסוימת",
+                "example": "The novel was named after its famous writer, Jane Austen.",
+                "example_hebrew": "הרומן נקרא על שם הסופרת המפורסמת שלו, ג'יין אוסטן."
+            }
+        ]
+    }
+]

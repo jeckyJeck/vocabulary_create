@@ -1,0 +1,34 @@
+[
+    {
+        "word": "statistical",
+        "word_hebrew": "סטָטִיסטִי",
+        "main_definition": "Relating to the collection, analysis, interpretation, or presentation of data in numerical form.",
+        "main_definition_hebrew": "מתייחס לאיסוף, ניתוח, פרשנות או הצגה של נתונים בצורה מספרית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Involving or relating to statistics as a science",
+                "definition_hebrew": "מעורבות או התייחסות לסטטיסטיקה כמדע",
+                "example": "The statistical methods used to analyze the survey data were highly sophisticated.",
+                "example_hebrew": "השיטות הסטטיסטיות ששימשו לניתוח נתוני הסקר היו מתוחכמות ביותר."
+            },
+            {
+                "definition": "Concerning numerical facts and figures, especially in relation to collective data",
+                "definition_hebrew": "לגבי עובדות ונתונים מספריים, במיוחד ביחס לנתונים קולקטיביים",
+                "example": "Statistical evidence showed a significant increase in sales over the past year.",
+                "example_hebrew": "עדויות סטטיסטיות הראו עלייה משמעותית במכירות בשנה האחרונה."
+            },
+            {
+                "definition": "Used as an adjective to describe something that is based on or related to statistical analysis",
+                "definition_hebrew": "משמש כשם תואר לתיאור משהו שמבוסס או קשור לניתוח סטטיסטי",
+                "example": "The researchers presented their findings using statistical software to ensure accuracy.",
+                "example_hebrew": "החוקרים הציגו את ממצאיהם באמצעות תוכנה סטטיסטית כדי להבטיח דיוק."
+            },
+            {
+                "definition": "Of or relating to the collection of data about a population by means of random sampling",
+                "definition_hebrew": "של או בקשר לאיסוף נתונים על אוכלוסייה באמצעות דגימה אקראית",
+                "example": "A representative survey was conducted to gather statistical information on consumer preferences.",
+                "example_hebrew": "סקר מייצג נערך לאיסוף מידע סטטיסטי על העדפות הצרכנים."
+            }
+        ]
+    }
+]

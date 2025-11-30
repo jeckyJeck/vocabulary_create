@@ -1,0 +1,34 @@
+[
+    {
+        "word": "listings",
+        "word_hebrew": "רישומים",
+        "main_definition": "The various interpretations of the term 'listings' refer to different contexts, including real estate listings, media or publication listings, and product availability in catalogues.",
+        "main_definition_hebrew": "הפרשנויות השונות של המונח 'רשימות' מתייחסות להקשרים שונים, לרבות רישומי נדל\"ן, רשימות מדיה או פרסומים וזמינות מוצרים בקטלוגים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In real estate, it refers to a listing of properties for sale or rent. For example: 'The agent provided us with the latest residential property listings in the area.'",
+                "definition_hebrew": "בנדל\"ן, הכוונה היא לרישום של נכסים למכירה או להשכרה. לדוגמה: 'הסוכן סיפק לנו את הרישומים האחרונים של נכסי מגורים באזור'.",
+                "example": "'I've been looking at these online real estate listings all week.'",
+                "example_hebrew": "\"הסתכלתי על רישומי הנדל\"ן המקוונים האלה כל השבוע.'"
+            },
+            {
+                "definition": "In media, it refers to a listing of publications or events. For example: 'The radio station's latest news listings include an upcoming interview with the mayor and a special report on local elections.'",
+                "definition_hebrew": "בתקשורת, זה מתייחס לרשימה של פרסומים או אירועים. לדוגמה: 'החדשות האחרונות של תחנת הרדיו כוללות ראיון קרוב לראש העיר ודיווח מיוחד על הבחירות המקומיות'.",
+                "example": "'I just checked my email for new TV show listings; I want to know which episodes are out yet.'",
+                "example_hebrew": "״בדיוק בדקתי באימייל שלי רשימות חדשות של תוכניות טלוויזיה; אני רוצה לדעת אילו פרקים כבר יצאו״."
+            },
+            {
+                "definition": "It also refers to catalogues or print lists of products available in a store. For example: 'You can find the latest electronics, clothing, and home goods listed here.'",
+                "definition_hebrew": "זה מתייחס גם לקטלוגים או לרשימות הדפסה של מוצרים הזמינים בחנות. לדוגמה: 'אתה יכול למצוא את מוצרי האלקטרוניקה, הבגדים והמוצרים העדכניים ביותר לבית המפורטים כאן.'",
+                "example": "'I've been flipping through these retail listings looking for a new pair of shoes.'",
+                "example_hebrew": "\"דפדפתי ברשימות הקמעונאיות האלה בחיפוש אחר זוג נעליים חדש.\""
+            },
+            {
+                "definition": "In finance or investment, it can refer to listings on stock exchanges. For example: 'The company successfully completed its IPO and is now listed on the New York Stock Exchange.'",
+                "definition_hebrew": "בתחום הפיננסים או ההשקעות, זה יכול להתייחס לרישומים בבורסות. לדוגמה: 'החברה השלימה בהצלחה את ההנפקה שלה והיא רשומה כעת בבורסת ניו יורק.'",
+                "example": "'Looking at the recent market trends, I'm considering buying shares in companies with strong listing histories.'",
+                "example_hebrew": "\"בהסתכלות על המגמות האחרונות בשוק, אני שוקל לקנות מניות בחברות עם היסטוריית רישום חזקה.\""
+            }
+        ]
+    }
+]

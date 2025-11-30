@@ -1,0 +1,34 @@
+[
+    {
+        "word": "mailed",
+        "word_hebrew": "נשלח בדואר",
+        "main_definition": "To send or deliver something by mail.",
+        "main_definition_hebrew": "לשלוח או לשלוח משהו בדואר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Completed the act of sending an item through postal service.",
+                "definition_hebrew": "השלים את פעולת שליחת הפריט באמצעות שירות הדואר.",
+                "example": "I mailed my friend a birthday card yesterday.",
+                "example_hebrew": "שלחתי לחבר שלי כרטיס יום הולדת אתמול."
+            },
+            {
+                "definition": "To inform someone about something by mail, often in written form.",
+                "definition_hebrew": "ליידע מישהו על משהו בדואר, לעתים קרובות בכתב.",
+                "example": "The company mailed all employees their annual performance reviews.",
+                "example_hebrew": "החברה שלחה לכל העובדים את סקירות הביצועים השנתיות שלהם בדואר."
+            },
+            {
+                "definition": "To address and send an email or message through electronic means that simulates traditional mailing.",
+                "definition_hebrew": "להתייחס ולשלוח מייל או הודעה באמצעים אלקטרוניים המדמים דיוור מסורתי.",
+                "example": "She decided to mail her project proposal using a professional-looking PDF attached as an email.",
+                "example_hebrew": "היא החליטה לשלוח בדואר את הצעת הפרויקט שלה באמצעות PDF בעל מראה מקצועי המצורף כמייל."
+            },
+            {
+                "definition": "Refers to receiving something by mail, often used in the context of anticipating or waiting for a delivery.",
+                "definition_hebrew": "הכוונה לקבלת משהו בדואר, משמש לעתים קרובות בהקשר של ציפייה או המתנה למשלוח.",
+                "example": "I'm eagerly awaiting the return package I mailed last week.",
+                "example_hebrew": "אני מחכה בקוצר רוח לחבילת ההחזרה ששלחתי בדואר בשבוע שעבר."
+            }
+        ]
+    }
+]

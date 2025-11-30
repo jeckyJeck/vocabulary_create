@@ -1,0 +1,34 @@
+[
+    {
+        "word": "fixtures",
+        "word_hebrew": "מתקנים",
+        "main_definition": "Fixtures are items or components that are permanently attached to a building or structure, often used as standard features or equipment.",
+        "main_definition_hebrew": "מתקנים הם פריטים או רכיבים המחוברים לצמיתות לבניין או למבנה, המשמשים לרוב כמאפיינים או ציוד סטנדרטיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Items in home decoration and interior design",
+                "definition_hebrew": "פריטים בעיצוב הבית ועיצוב פנים",
+                "example": "The antique chandelier is one of the fixtures that adds elegance to the living room.",
+                "example_hebrew": "הנברשת העתיקה היא אחד המתקנים שמוסיפים אלגנטיות לסלון."
+            },
+            {
+                "definition": "Plumbing devices or fittings",
+                "definition_hebrew": "מכשירי או אביזרי אינסטלציה",
+                "example": "Sinks, bathtubs, and showerheads are examples of plumbing fixtures in a bathroom.",
+                "example_hebrew": "כיורים, אמבטיות וראשי מקלחת הם דוגמאות לאינסטלציה בחדר אמבטיה."
+            },
+            {
+                "definition": "Electrical components",
+                "definition_hebrew": "רכיבים חשמליים",
+                "example": "Light switches, outlets, and ceiling fans are common electrical fixtures found in homes.",
+                "example_hebrew": "מתגי תאורה, שקעים ומאווררי תקרה הם גופי חשמל נפוצים הנמצאים בבתים."
+            },
+            {
+                "definition": "Fixed tools or equipment used for a specific purpose in manufacturing",
+                "definition_hebrew": "כלים או ציוד קבועים המשמשים למטרה מסוימת בייצור",
+                "example": "The assembly line is equipped with various metalworking fixtures to hold parts during production.",
+                "example_hebrew": "פס הייצור מצויד במתקני עיבוד מתכת שונים כדי להחזיק חלקים במהלך הייצור."
+            }
+        ]
+    }
+]

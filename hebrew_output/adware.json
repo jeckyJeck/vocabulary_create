@@ -1,0 +1,28 @@
+[
+    {
+        "word": "adware",
+        "word_hebrew": "תוכנות פרסום",
+        "main_definition": "Adware is a type of software that automatically displays or downloads advertisements to the user, often without their consent, in an attempt to generate revenue.",
+        "main_definition_hebrew": "תוכנת פרסום היא סוג של תוכנה שמציגה או מורידה באופן אוטומטי פרסומות למשתמש, לרוב ללא הסכמתו, בניסיון לייצר הכנסה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Software that generates revenue by displaying advertisements on computer systems",
+                "definition_hebrew": "תוכנה המייצרת הכנסה על ידי הצגת פרסומות במערכות מחשב",
+                "example": "When I opened a free downloadable game and noticed ads popping up, it was likely adware.",
+                "example_hebrew": "כשפתחתי משחק להורדה בחינם והבחנתי בפרסומות שצצות, סביר להניח שזו הייתה תוכנת פרסום."
+            },
+            {
+                "definition": "Malicious software designed to annoy users with unwanted pop-ups or redirects",
+                "definition_hebrew": "תוכנה זדונית שנועדה לעצבן משתמשים עם חלונות קופצים או הפניות לא רצויות",
+                "example": "After downloading a pirated version of an application, my computer started redirecting me to suspicious websites frequently, indicating the presence of adware.",
+                "example_hebrew": "לאחר הורדת גרסה פיראטית של אפליקציה, המחשב שלי התחיל להפנות אותי לאתרים חשודים לעתים קרובות, מה שמצביע על נוכחות של תוכנת פרסום."
+            },
+            {
+                "definition": "Unwanted software bundled with legitimate programs that show advertisements",
+                "definition_hebrew": "תוכנות לא רצויות המצורפות לתוכניות לגיטימיות שמציגות פרסומות",
+                "example": "I installed a word processing tool and then found unwanted ads appearing on my screen. It turns out the program came with adware.",
+                "example_hebrew": "התקנתי כלי לעיבוד תמלילים ואז מצאתי מודעות לא רצויות שמופיעות על המסך שלי. מסתבר שהתוכנית הגיעה עם תוכנת פרסום."
+            }
+        ]
+    }
+]

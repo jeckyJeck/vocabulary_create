@@ -1,0 +1,34 @@
+[
+    {
+        "word": "translate",
+        "word_hebrew": "לתרגם",
+        "main_definition": "To express the sense of a phrase or text in another language, by rendering its words, idioms, and expressions into equivalent forms in the target language.",
+        "main_definition_hebrew": "להביע את המובן של ביטוי או טקסט בשפה אחרת, על ידי עיבוד המילים, הניבים והביטויים שלו לצורות שוות בשפת היעד.",
+        "meanings_and_examples": [
+            {
+                "definition": "Converting written material from one language to another",
+                "definition_hebrew": "המרת חומר כתוב משפה אחת לשפה אחרת",
+                "example": "The sentence 'I am going to translate this document from English to Spanish.'",
+                "example_hebrew": "המשפט 'אני הולך לתרגם את המסמך הזה מאנגלית לספרדית'."
+            },
+            {
+                "definition": "To interpret the meaning or essence of something and represent it differently",
+                "definition_hebrew": "לפרש את המשמעות או המהות של משהו ולייצג אותו אחרת",
+                "example": "A poem's beauty can be translated into a painting.",
+                "example_hebrew": "ניתן לתרגם את יופיו של שיר לציור."
+            },
+            {
+                "definition": "To render musical compositions from one language or culture to another",
+                "definition_hebrew": "עיבוד יצירות מוזיקליות משפה או תרבות אחת לאחרת",
+                "example": "The composer worked tirelessly to translate the original Chinese lyrics into English for an international audience.",
+                "example_hebrew": "המלחין עבד ללא לאות כדי לתרגם את המילים המקוריות בסינית לאנגלית עבור קהל בינלאומי."
+            },
+            {
+                "definition": "Transferring data between different formats or systems, similar to converting languages",
+                "definition_hebrew": "העברת נתונים בין פורמטים או מערכות שונות, בדומה להמרת שפות",
+                "example": "Computer programmers often have to translate code from one programming language to another.",
+                "example_hebrew": "מתכנתי מחשבים צריכים לרוב לתרגם קוד משפת תכנות אחת לאחרת."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "juvenile",
+        "word_hebrew": "צָעִיר",
+        "main_definition": "Juvenile refers to something related to young people, especially those who are not yet adults; often used in legal contexts to describe offenders under a certain age.",
+        "main_definition_hebrew": "נוער מתייחס למשהו הקשור לצעירים, במיוחד אלה שעדיין אינם בוגרים; משמש לעתים קרובות בהקשרים משפטיים לתיאור עבריינים מתחת לגיל מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to or characteristic of youth",
+                "definition_hebrew": "מתייחס לנוער או מאפיין אותו",
+                "example": "The juvenile nature of his actions was apparent.",
+                "example_hebrew": "האופי הצעיר של מעשיו היה ברור."
+            },
+            {
+                "definition": "Refers to young people, typically those under the age of 18",
+                "definition_hebrew": "מתייחס לצעירים, בדרך כלל אלה מתחת לגיל 18",
+                "example": "Juvenile delinquency refers to illegal behavior committed by minors.",
+                "example_hebrew": "עבריינות נוער מתייחסת להתנהגות בלתי חוקית המבוצעת על ידי קטינים."
+            },
+            {
+                "definition": "A juvenile animal or plant is one that has not yet reached maturity.",
+                "definition_hebrew": "בעל חיים או צמח צעיר הם כאלה שעדיין לא הגיעו לבגרות.",
+                "example": "The zoo's collection of juvenile animals includes several young gorillas and lions.",
+                "example_hebrew": "אוסף החיות הצעירות של גן החיות כולל מספר גורילות ואריות צעירים."
+            },
+            {
+                "definition": "An offender who has committed a crime but is legally considered too young to be tried as an adult",
+                "definition_hebrew": "עבריין שביצע פשע אך לפי החוק נחשב צעיר מכדי להישפט כמבוגר",
+                "example": "He was charged with burglary, but since he was under 18 at the time of the crime, his case was handled in juvenile court.",
+                "example_hebrew": "הוא הואשם בפריצה, אך מכיוון שהיה מתחת לגיל 18 בזמן הפשע, התיק שלו טופל בבית משפט לנוער."
+            }
+        ]
+    }
+]

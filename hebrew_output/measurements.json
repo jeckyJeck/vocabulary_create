@@ -1,0 +1,34 @@
+[
+    {
+        "word": "measurements",
+        "word_hebrew": "מידות",
+        "main_definition": "Measurements refer to the process of determining the size, length, quantity, or degree of something using various units of measurement.",
+        "main_definition_hebrew": "מדידות מתייחסות לתהליך של קביעת הגודל, האורך, הכמות או הדרגה של משהו באמצעות יחידות מדידה שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Acts of quantifying dimensions such as height, width, depth, weight, etc.",
+                "definition_hebrew": "פעולות של כימות מידות כגון גובה, רוחב, עומק, משקל וכו'.",
+                "example": "The measurements taken during a construction project included the length and width of each room.",
+                "example_hebrew": "המידות שנלקחו במהלך פרויקט בנייה כללו את האורך והרוחב של כל חדר."
+            },
+            {
+                "definition": "Steps or procedures used to obtain data about size, quantity, volume, distance, time, temperature, etc.,",
+                "definition_hebrew": "שלבים או נהלים המשמשים להשגת נתונים על גודל, כמות, נפח, מרחק, זמן, טמפרטורה וכו',",
+                "example": "To complete her science experiment, she took several measurements including time intervals and temperatures at different points.",
+                "example_hebrew": "כדי להשלים את הניסוי המדעי שלה, היא עשתה מספר מדידות כולל מרווחי זמן וטמפרטורות בנקודות שונות."
+            },
+            {
+                "definition": "Statistical data or numerical information used in analyses such as studies or research.",
+                "definition_hebrew": "נתונים סטטיסטיים או מידע מספרי המשמשים בניתוחים כגון מחקרים או מחקרים.",
+                "example": "The survey provided important measurements for the market analysis report, indicating customer preferences across demographics.",
+                "example_hebrew": "הסקר סיפק מדידות חשובות עבור דוח ניתוח השוק, המצביע על העדפות לקוחות על פני נתונים דמוגרפיים."
+            },
+            {
+                "definition": "A specific quantity of something that is being measured, which can be expressed using units like meters, liters, grams, etc.",
+                "definition_hebrew": "כמות מסוימת של משהו שנמדד, שניתן לבטא באמצעות יחידות כמו מטרים, ליטר, גרם וכו'.",
+                "example": "The package weighs 5 kilograms according to the weight measurements on the scale.",
+                "example_hebrew": "משקל האריזה 5 קילוגרמים לפי מידות המשקל על המשקל."
+            }
+        ]
+    }
+]

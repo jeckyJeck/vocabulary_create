@@ -1,0 +1,34 @@
+[
+    {
+        "word": "conversations",
+        "word_hebrew": "שיחות",
+        "main_definition": "Interactions between people, typically involving the exchange of ideas or information through spoken words.",
+        "main_definition_hebrew": "אינטראקציות בין אנשים, הכוללות בדרך כלל חילופי רעיונות או מידע באמצעות מילים מדוברות.",
+        "meanings_and_examples": [
+            {
+                "definition": "General talks and chats among people",
+                "definition_hebrew": "שיחות כלליות וצ'אטים בין אנשים",
+                "example": "The family had a long conversation about their plans for the upcoming weekend.",
+                "example_hebrew": "המשפחה ניהלה שיחה ארוכה על התוכניות שלה לסוף השבוע הקרוב."
+            },
+            {
+                "definition": "Discussions in a formal or organized setting, such as meetings or seminaries",
+                "definition_hebrew": "דיונים במסגרת פורמלית או מאורגנת, כגון מפגשים או סמינרים",
+                "example": "The board members held an important discussion to decide on the company's new policies.",
+                "example_hebrew": "חברי הדירקטוריון קיימו דיון חשוב כדי להחליט על המדיניות החדשה של החברה."
+            },
+            {
+                "definition": "Communication through spoken words between individuals or groups, often with different perspectives and viewpoints",
+                "definition_hebrew": "תקשורת באמצעות מילים מדוברות בין יחידים או קבוצות, לרוב עם נקודות מבט ונקודות מבט שונות",
+                "example": "During their conversations, they realized that both parties had valid points but needed to find a compromise.",
+                "example_hebrew": "במהלך השיחות שלהם, הם הבינו שלשני הצדדים יש נקודות תקפות אבל הם צריכים למצוא פשרה."
+            },
+            {
+                "definition": "Dialogues in literature, film, or other artistic mediums where characters interact with one another through spoken words",
+                "definition_hebrew": "דיאלוגים בספרות, קולנוע או מדיומים אמנותיים אחרים שבהם דמויות מתקשרות זו עם זו באמצעות מילים מדוברות",
+                "example": "The movie's dialogue-driven conversations between the protagonist and antagonist added depth to their relationship.",
+                "example_hebrew": "השיחות מונעות הדיאלוג של הסרט בין הגיבור והאנטגוניסט הוסיפו עומק ליחסים ביניהם."
+            }
+        ]
+    }
+]

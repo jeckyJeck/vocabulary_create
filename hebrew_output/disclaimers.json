@@ -1,0 +1,28 @@
+[
+    {
+        "word": "disclaimers",
+        "word_hebrew": "כתבי ויתור",
+        "main_definition": "Disclaimers are statements that deny responsibility, liability or any particular assertion in a document, contract, agreement, or communication.",
+        "main_definition_hebrew": "כתבי ויתור הם הצהרות השוללות אחריות, חבות או כל טענה מסוימת במסמך, חוזה, הסכם או תקשורת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Statements used to limit legal liability",
+                "definition_hebrew": "הצהרות המשמשות להגבלת אחריות משפטית",
+                "example": "The disclaimer at the bottom of this software states that the company is not responsible for any data loss.",
+                "example_hebrew": "כתב הוויתור בתחתית תוכנה זו קובע כי החברה אינה אחראית לכל אובדן נתונים."
+            },
+            {
+                "definition": "Phrases indicating absence or lack of a particular quality, relationship, or responsibility",
+                "definition_hebrew": "ביטויים המציינים היעדר או היעדר איכות, מערכת יחסים או אחריות מסוימת",
+                "example": "Please note: The information provided in this book does not represent the views of our publisher and we make no claims as to their accuracy.",
+                "example_hebrew": "שימו לב: המידע המסופק בספר זה אינו מייצג את דעותיו של המוציא לאור ואיננו טוענים באשר לדיוקם."
+            },
+            {
+                "definition": "Declarations denying authorship or originality",
+                "definition_hebrew": "הצהרות השוללות מחבר או מקוריות",
+                "example": "The artist included a disclaimer on his artwork stating that he did not claim ownership of any copyrighted materials used in the piece.",
+                "example_hebrew": "האמן כלל כתב ויתור על יצירות האמנות שלו לפיו הוא לא טען לבעלות על חומרים כלשהם המוגנים בזכויות יוצרים המשמשים ביצירה."
+            }
+        ]
+    }
+]

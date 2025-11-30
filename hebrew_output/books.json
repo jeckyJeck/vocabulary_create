@@ -1,0 +1,40 @@
+[
+    {
+        "word": "books",
+        "word_hebrew": "ספרים",
+        "main_definition": "Books are physical objects containing written or printed information, stories, ideas, or knowledge.",
+        "main_definition_hebrew": "ספרים הם חפצים פיזיים המכילים מידע כתוב או מודפס, סיפורים, רעיונות או ידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "A collection of written pages bound together (usually with a cover).",
+                "definition_hebrew": "אוסף של דפים כתובים כרוכים יחד (בדרך כלל עם כריכה).",
+                "example": "She spent hours browsing the shelves filled with classic novels.",
+                "example_hebrew": "היא בילתה שעות בדפדוף במדפים המלאים ברומנים קלאסיים."
+            },
+            {
+                "definition": "Informal usage to describe someone who is overly studious or dedicated to academic pursuits.",
+                "definition_hebrew": "שימוש לא רשמי לתיאור מישהו שקדן יתר על המידה או מסור לעיסוקים אקדמיים.",
+                "example": "He's always been a books guy, spending all his free time reading and studying.",
+                "example_hebrew": "הוא תמיד היה איש ספרים, מבלה את כל זמנו הפנוי בקריאה ולימוד."
+            },
+            {
+                "definition": "A unit of currency in some countries, where each unit consists of 100 smaller parts called 'books.'",
+                "definition_hebrew": "יחידת מטבע במדינות מסוימות, כאשר כל יחידה מורכבת מ-100 חלקים קטנים יותר הנקראים 'ספרים'.",
+                "example": "The price was listed as $5.23, which is equivalent to 523 books.",
+                "example_hebrew": "המחיר היה רשום כ-$5.23, שזה שווה ערך ל-523 ספרים."
+            },
+            {
+                "definition": "An abbreviation or slang term for the Bible.",
+                "definition_hebrew": "קיצור או מונח סלנג לתנ\"ך.",
+                "example": "Many people turn to their 'books' for guidance and spiritual comfort.",
+                "example_hebrew": "אנשים רבים פונים ל'ספרים' שלהם כדי לקבל הדרכה ונוחות רוחנית."
+            },
+            {
+                "definition": "A synonym for a collection of written works by an author, often collected into volumes. For example, 'the Complete Works of Shakespeare.'",
+                "definition_hebrew": "מילה נרדפת לאוסף של יצירות כתובות של מחבר, שנאספו לרוב לכרכים. לדוגמה, 'העבודות השלמות של שייקספיר'.",
+                "example": "I just finished reading all the books that make up Jane Austen's complete novels.",
+                "example_hebrew": "זה עתה סיימתי לקרוא את כל הספרים המרכיבים את הרומנים השלמים של ג'יין אוסטן."
+            }
+        ]
+    }
+]

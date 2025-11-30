@@ -1,0 +1,34 @@
+[
+    {
+        "word": "next",
+        "word_hebrew": "הַבָּא",
+        "main_definition": "Following in order or sequence, indicating the immediate following item, event, or time.",
+        "main_definition_hebrew": "עוקב לפי הסדר או הרצף, מציין את הפריט, האירוע או הזמן המיידיים הבאים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Immediately following in a sequence or series.",
+                "definition_hebrew": "מיד אחריו ברצף או בסדרה.",
+                "example": "The next train to Boston will arrive at platform 3.",
+                "example_hebrew": "הרכבת הבאה לבוסטון תגיע לרציף 3."
+            },
+            {
+                "definition": "Future, forthcoming with regard to time.",
+                "definition_hebrew": "עתיד, מתקרב לגבי זמן.",
+                "example": "My next appointment is scheduled for Tuesday morning.",
+                "example_hebrew": "התור הבא שלי נקבע ליום שלישי בבוקר."
+            },
+            {
+                "definition": "A subsequent step or action in a process.",
+                "definition_hebrew": "שלב או פעולה עוקבים בתהליך.",
+                "example": "After completing this task, the next thing we need to do is review our findings.",
+                "example_hebrew": "לאחר השלמת משימה זו, הדבר הבא שעלינו לעשות הוא לסקור את הממצאים שלנו."
+            },
+            {
+                "definition": "The following person in line or waiting order.",
+                "definition_hebrew": "האדם הבא בתור או בצו המתנה.",
+                "example": "When you arrived at the ticket counter, I was already in the queue; you will be the next one up.",
+                "example_hebrew": "כשהגעת לדלפק הכרטיסים כבר הייתי בתור; אתה תהיה הבא למעלה."
+            }
+        ]
+    }
+]

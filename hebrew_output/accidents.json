@@ -1,0 +1,34 @@
+[
+    {
+        "word": "accidents",
+        "word_hebrew": "תאונות",
+        "main_definition": "Accidents are unexpected, unfortunate events that cause damage, injury, or loss.",
+        "main_definition_hebrew": "תאונות הן אירועים בלתי צפויים ומצערים הגורמים לנזק, פציעה או אובדן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Unintentional collisions or mishaps resulting in harm or damage.",
+                "definition_hebrew": "התנגשויות לא מכוונות או תקלות הגורמות לנזק או לנזק.",
+                "example": "He was involved in a car accident when he slipped on ice.",
+                "example_hebrew": "הוא היה מעורב בתאונת דרכים כשהחליק על קרח."
+            },
+            {
+                "definition": "Events that occur by chance and are not planned, often leading to negative outcomes.",
+                "definition_hebrew": "אירועים המתרחשים במקרה ואינם מתוכננים, מובילים לרוב לתוצאות שליליות.",
+                "example": "Finding a four-leaf clover is considered good luck as it's an accidental discovery with positive connotations.",
+                "example_hebrew": "מציאת תלתן בעל ארבעה עלים נחשבת למזל טוב מכיוון שמדובר בגילוי מקרי עם קונוטציות חיוביות."
+            },
+            {
+                "definition": "In legal or insurance contexts, 'accidents' refer to events not caused by negligence but leading to injury or damage.",
+                "definition_hebrew": "בהקשרים משפטיים או ביטוחיים, 'תאונות' מתייחסות לאירועים שלא נגרמו ברשלנות אלא מובילים לפציעה או לנזק.",
+                "example": "The workers filed a claim for workplace accidents that led to injuries while operating machinery.",
+                "example_hebrew": "העובדים הגישו תביעה בגין תאונות עבודה שהובילו לפציעות בעת הפעלת מכונות."
+            },
+            {
+                "definition": "'Accidental deaths', referring specifically to unintended fatalities.",
+                "definition_hebrew": "'מוות בשוגג', הכוונה ספציפית להרוגים בשוגג.",
+                "example": "His death was ruled as accidental after an investigation into the circumstances of his car crash.",
+                "example_hebrew": "מותו נקבע כתאונה לאחר חקירה של נסיבות תאונת מכוניתו."
+            }
+        ]
+    }
+]

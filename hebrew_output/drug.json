@@ -1,0 +1,40 @@
+[
+    {
+        "word": "drug",
+        "word_hebrew": "תְרוּפָה",
+        "main_definition": "A drug is a substance that alters the normal bodily functions or mental state of an individual, often used medicinally but also sometimes abused.",
+        "main_definition_hebrew": "סם הוא חומר המשנה את תפקודי הגוף הנורמליים או את המצב הנפשי של אדם, לעתים קרובות בשימוש רפואי אך לעיתים גם מנוצל לרעה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Medicinal substance prescribed by medical professionals",
+                "definition_hebrew": "חומר רפואי שנקבע על ידי אנשי מקצוע רפואיים",
+                "example": "The doctor prescribed antibiotics as a drug to treat the bacterial infection.",
+                "example_hebrew": "הרופא רשם אנטיביוטיקה כתרופה לטיפול בזיהום החיידקי."
+            },
+            {
+                "definition": "Substance capable of causing addiction or dependency",
+                "definition_hebrew": "חומר המסוגל לגרום להתמכרות או תלות",
+                "example": "Heroin is an illegal drug that can cause severe physical and psychological dependence.",
+                "example_hebrew": "הרואין הוא סם לא חוקי שעלול לגרום לתלות פיזית ופסיכולוגית קשה."
+            },
+            {
+                "definition": "Illegal substances used recreationally to alter the state of mind",
+                "definition_hebrew": "חומרים לא חוקיים המשמשים למטרות פנאי כדי לשנות את מצב הנפש",
+                "example": "The user consumed cocaine, a powerful stimulant drug, at the party.",
+                "example_hebrew": "המשתמש צרך קוקאין, סם ממריץ רב עוצמה, במסיבה."
+            },
+            {
+                "definition": "A chemical compound with psychoactive effects",
+                "definition_hebrew": "תרכובת כימית בעלת השפעות פסיכואקטיביות",
+                "example": "LSD is a hallucinogenic drug that can alter perception and mood.",
+                "example_hebrew": "LSD הוא סם הזיה שיכול לשנות את התפיסה ואת מצב הרוח."
+            },
+            {
+                "definition": "Natural or synthetic substances used for their perceived therapeutic properties",
+                "definition_hebrew": "חומרים טבעיים או סינתטיים המשמשים לתכונותיהם הטיפוליות הנתפסות",
+                "example": "Turmeric has been used as an anti-inflammatory drug in traditional medicine.",
+                "example_hebrew": "כורכום שימש כתרופה אנטי דלקתית ברפואה המסורתית."
+            }
+        ]
+    }
+]

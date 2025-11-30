@@ -1,0 +1,40 @@
+[
+    {
+        "word": "configuring",
+        "word_hebrew": "הגדרה",
+        "main_definition": "The act of setting up, arranging, or adjusting the components or settings of a system, device, or software to achieve desired functionality or performance.",
+        "main_definition_hebrew": "הפעולה של הגדרה, סידור או התאמת הרכיבים או ההגדרות של מערכת, מכשיר או תוכנה כדי להשיג את הפונקציונליות או הביצועים הרצויים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Adjusting parameters and options within a computer program or application",
+                "definition_hebrew": "התאמת פרמטרים ואפשרויות בתוכנת מחשב או אפליקציה",
+                "example": "The IT specialist was configuring the firewall settings on the company's network.",
+                "example_hebrew": "מומחה ה-IT קבע את הגדרות חומת האש ברשת החברה."
+            },
+            {
+                "definition": "Preparing a machine, device, or system for use by setting it up with appropriate controls and functionalities",
+                "definition_hebrew": "הכנת מכונה, מכשיר או מערכת לשימוש על ידי הגדרתם עם בקרים ופונקציות מתאימות",
+                "example": "Before starting work, you need to configure your new printer with the correct paper size settings.",
+                "example_hebrew": "לפני תחילת העבודה, עליך להגדיר את המדפסת החדשה שלך עם הגדרות גודל הנייר הנכונות."
+            },
+            {
+                "definition": "Aligning components in machinery or equipment so they operate harmoniously together",
+                "definition_hebrew": "יישור רכיבים במכונות או ציוד כך שיפעלו בהרמוניה ביחד",
+                "example": "The mechanic was configuring the parts of a car engine for optimal performance.",
+                "example_hebrew": "המכונאי הגדיר את חלקי מנוע המכונית לביצועים מיטביים."
+            },
+            {
+                "definition": "Organizing and managing complex systems, such as telecommunications networks or computer hardware, to ensure proper operation",
+                "definition_hebrew": "ארגון וניהול מערכות מורכבות, כגון רשתות תקשורת או חומרת מחשבים, כדי להבטיח פעולה תקינה",
+                "example": "The network administrator is configuring the routers and switches in the office to improve data flow.",
+                "example_hebrew": "מנהל הרשת מגדיר את הנתבים והמתגים במשרד כדי לשפר את זרימת הנתונים."
+            },
+            {
+                "definition": "Modifying software or settings on a device to suit specific requirements or preferences",
+                "definition_hebrew": "שינוי תוכנה או הגדרות במכשיר כך שיתאימו לדרישות או העדפות ספציפיות",
+                "example": "She was configuring her smartphone's language, privacy, and accessibility settings.",
+                "example_hebrew": "היא קבעה את הגדרות השפה, הפרטיות והנגישות של הטלפון החכם שלה."
+            }
+        ]
+    }
+]

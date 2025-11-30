@@ -1,0 +1,40 @@
+[
+    {
+        "word": "indicator",
+        "word_hebrew": "אינדיקטור",
+        "main_definition": "An indicator is a sign, measure, or piece of information that shows the state or condition of something.",
+        "main_definition_hebrew": "אינדיקטור הוא סימן, מידה או פיסת מידע המראה את המצב או המצב של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A symbol representing an economic trend or state",
+                "definition_hebrew": "סמל המייצג מגמה כלכלית או מדינה",
+                "example": "The unemployment rate acts as an economic indicator.",
+                "example_hebrew": "שיעור האבטלה משמש כאינדיקטור כלכלי."
+            },
+            {
+                "definition": "A measure that can be used to judge the performance of a system, process, or business",
+                "definition_hebrew": "מדד שניתן להשתמש בו כדי לשפוט את הביצועים של מערכת, תהליך או עסק",
+                "example": "Customer satisfaction ratings are indicators of how well a company is performing.",
+                "example_hebrew": "דירוגי שביעות רצון לקוחות הם אינדיקטורים לרמת הביצועים של החברה."
+            },
+            {
+                "definition": "A device or mechanism designed to signal whether a particular condition exists or has occurred",
+                "definition_hebrew": "מכשיר או מנגנון שנועדו לאותת אם מצב מסוים קיים או התרחש",
+                "example": "A thermometer acts as an indicator for temperature changes.",
+                "example_hebrew": "מדחום משמש כאינדיקטור לשינויי טמפרטורה."
+            },
+            {
+                "definition": "Anything that can be used to determine the state, quality, or level of something else",
+                "definition_hebrew": "כל דבר שניתן להשתמש בו כדי לקבוע את המצב, האיכות או הרמה של משהו אחר",
+                "example": "The color change in a pH strip is an indicator of acidity levels.",
+                "example_hebrew": "שינוי הצבע ברצועת pH הוא אינדיקטור לרמות החומציות."
+            },
+            {
+                "definition": "An observable phenomenon suggesting the presence of another unseen thing or condition",
+                "definition_hebrew": "תופעה הניתנת לצפייה המצביעה על נוכחות של דבר או מצב אחר שלא נראה",
+                "example": "Migratory patterns can serve as indicators for changes in ecological conditions.",
+                "example_hebrew": "דפוסי נדידה יכולים לשמש אינדיקטורים לשינויים בתנאים האקולוגיים."
+            }
+        ]
+    }
+]

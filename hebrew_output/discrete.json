@@ -1,0 +1,34 @@
+[
+    {
+        "word": "discrete",
+        "word_hebrew": "נִבדָל",
+        "main_definition": "Refers to things that are individually separate and distinct, or not connected with others in a continuous manner.",
+        "main_definition_hebrew": "מתייחס לדברים הנפרדים ונבדלים בנפרד, או שאינם קשורים לאחרים באופן רציף.",
+        "meanings_and_examples": [
+            {
+                "definition": "In mathematics, referring to individual points or values which do not form an unbroken continuum",
+                "definition_hebrew": "במתמטיקה, הכוונה לנקודות או ערכים בודדים שאינם יוצרים רצף בלתי שבור",
+                "example": "The integers 1, 2, and 3 are discrete data.",
+                "example_hebrew": "המספרים השלמים 1, 2 ו-3 הם נתונים בדידים."
+            },
+            {
+                "definition": "Separate and distinct; individually identifiable",
+                "definition_hebrew": "מופרד ומובדל; ניתן לזהות באופן אינדיבידואלי",
+                "example": "Alice has a collection of discrete colored pencils: red, blue, green, and yellow.",
+                "example_hebrew": "לאליס יש אוסף של עפרונות צבעוניים דיסקרטיים: אדום, כחול, ירוק וצהוב."
+            },
+            {
+                "definition": "Not continuous or connected",
+                "definition_hebrew": "לא רציף או מחובר",
+                "example": "The sound of the rain is discreet from the ticking clock in the background.",
+                "example_hebrew": "קול הגשם דיסקרטי מהשעון המתקתק ברקע."
+            },
+            {
+                "definition": "Distinctly separate; clearly separate",
+                "definition_hebrew": "נפרדים באופן מובהק; נפרדים בצורה ברורה",
+                "example": "When dividing tasks among team members, ensure that responsibilities are discrete and well-defined.",
+                "example_hebrew": "בעת חלוקת משימות בין חברי הצוות, ודא שהאחריות היא דיסקרטית ומוגדרת היטב."
+            }
+        ]
+    }
+]

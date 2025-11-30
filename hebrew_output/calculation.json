@@ -1,0 +1,34 @@
+[
+    {
+        "word": "calculation",
+        "word_hebrew": "תַחשִׁיב",
+        "main_definition": "Calculation refers to the process of determining something by mathematical or logical methods, or it can denote a calculated judgment or estimate.",
+        "main_definition_hebrew": "חישוב מתייחס לתהליך של קביעת משהו בשיטות מתמטיות או לוגיות, או שהוא יכול לציין שיקול דעת או אומדן מחושבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of calculating or computing numbers",
+                "definition_hebrew": "פעולת החישוב או חישוב המספרים",
+                "example": "The accountant made a calculation of our company's profits for the year.",
+                "example_hebrew": "רואה החשבון ערך חישוב של רווחי החברה שלנו לשנה."
+            },
+            {
+                "definition": "An estimate based on logical reasoning or analysis",
+                "definition_hebrew": "אומדן המבוסס על נימוק לוגי או ניתוח",
+                "example": "Based on my calculations, I predict that we will need 50 new employees by next quarter.",
+                "example_hebrew": "בהתבסס על החישובים שלי, אני צופה שנצטרך 50 עובדים חדשים עד הרבעון הבא."
+            },
+            {
+                "definition": "A premeditated plan or strategy determined through careful thought and calculation",
+                "definition_hebrew": "תוכנית או אסטרטגיה מתוכננת מראש שנקבעת באמצעות מחשבה וחישוב מדוקדקים",
+                "example": "The heist was a well-planned calculation; they knew exactly where to strike for maximum gain.",
+                "example_hebrew": "השוד היה חישוב מתוכנן היטב; הם ידעו בדיוק היכן להכות לרווח מקסימלי."
+            },
+            {
+                "definition": "In the context of gambling, an attempt to predict an outcome based on mathematical analysis or strategy",
+                "definition_hebrew": "בהקשר של הימורים, ניסיון לחזות תוצאה המבוססת על ניתוח מתמטי או אסטרטגיה",
+                "example": "The poker player used his knowledge of probability and past gameplay as a calculation to win at blackjack.",
+                "example_hebrew": "שחקן הפוקר השתמש בידע שלו בהסתברות ובמשחק העבר כחישוב כדי לנצח בבלאק ג'ק."
+            }
+        ]
+    }
+]

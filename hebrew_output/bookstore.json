@@ -1,0 +1,40 @@
+[
+    {
+        "word": "bookstore",
+        "word_hebrew": "חֲנוּת סְפָרִים",
+        "main_definition": "A bookstore is a store where books are sold, typically offering a wide range of titles across various genres and subjects.",
+        "main_definition_hebrew": "חנות ספרים היא חנות בה נמכרים ספרים, המציעה בדרך כלל מגוון רחב של כותרים בז'אנרים ונושאים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Retail establishment specializing in the sale of printed materials",
+                "definition_hebrew": "מוסד קמעונאי המתמחה במכירת חומרים מודפסים",
+                "example": "I went to my local bookstore to purchase a novel by John Grisham.",
+                "example_hebrew": "הלכתי לחנות הספרים המקומית שלי כדי לרכוש רומן מאת ג'ון גרישם."
+            },
+            {
+                "definition": "A place where you can buy and sell second-hand books or collectible editions",
+                "definition_hebrew": "מקום בו תוכלו לקנות ולמכור ספרים יד שנייה או מהדורות אספנות",
+                "example": "The community used the town's bookstore as a hub for trading in rare, vintage comic books.",
+                "example_hebrew": "הקהילה השתמשה בחנות הספרים של העיירה כמרכז למסחר בחוברות קומיקס וינטג' נדירות."
+            },
+            {
+                "definition": "An online platform selling both new and used books",
+                "definition_hebrew": "פלטפורמה מקוונת למכירת ספרים חדשים ומשומשים כאחד",
+                "example": "I ordered a self-help book from an e-book store which delivered it to my doorstep within two days.",
+                "example_hebrew": "הזמנתי ספר לעזרה עצמית מחנות ספרים אלקטרוניים שהעבירה אותו עד פתח ביתי תוך יומיים."
+            },
+            {
+                "definition": "A literary venue where authors may come to read, sign copies of their works, or engage with the audience",
+                "definition_hebrew": "מקום ספרותי שבו סופרים יכולים לבוא לקרוא, לחתום על עותקים של יצירותיהם או לעסוק בקהל",
+                "example": "The author's latest release was celebrated at a special event hosted by a prominent bookstore in New York City.",
+                "example_hebrew": "הפרסום האחרון של המחבר נחגג באירוע מיוחד שנערך על ידי חנות ספרים בולטת בניו יורק."
+            },
+            {
+                "definition": "A store that also sells other related items such as stationery and reading accessories",
+                "definition_hebrew": "חנות שמוכרת גם פריטים קשורים נוספים כמו כלי כתיבה ואביזרי קריאה",
+                "example": "Besides books, the shop sold pencils, notebooks, and bookmarks which made it a convenient one-stop destination for students.",
+                "example_hebrew": "מלבד ספרים, החנות מכרה עפרונות, מחברות וסימניות, מה שהפך אותה ליעד נוח לסטודנטים."
+            }
+        ]
+    }
+]

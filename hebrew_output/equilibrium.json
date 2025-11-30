@@ -1,0 +1,40 @@
+[
+    {
+        "word": "equilibrium",
+        "word_hebrew": "שִׁוּוּי מִשׁקָל",
+        "main_definition": "A state of balance or stability, where opposing forces or influences are equal.",
+        "main_definition_hebrew": "מצב של איזון או יציבות, שבו כוחות או השפעות מנוגדים שווים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Balance in a chemical reaction",
+                "definition_hebrew": "איזון בתגובה כימית",
+                "example": "In the chemical equilibrium of nitrogen dioxide and dinitrogen tetroxide, NO2 reacts with N2O4 to form a balance.",
+                "example_hebrew": "בשיווי המשקל הכימי של חנקן דו חמצני ודיניטרוגן טטרוקסיד, NO2 מגיב עם N2O4 ליצירת איזון."
+            },
+            {
+                "definition": "Physical balance or stability",
+                "definition_hebrew": "איזון פיזי או יציבות",
+                "example": "A tightrope walker maintains physical equilibrium by distributing their weight evenly across the rope.",
+                "example_hebrew": "הליכון בחבל דק שומר על שיווי משקל פיזי על ידי חלוקת משקלם באופן שווה על פני החבל."
+            },
+            {
+                "definition": "Economic and financial balance between supply and demand",
+                "definition_hebrew": "איזון כלכלי ופיננסי בין היצע וביקוש",
+                "example": "In a market, equilibrium is achieved when the quantity supplied equals the quantity demanded at a certain price level.",
+                "example_hebrew": "בשוק, שיווי משקל מושג כאשר הכמות המסופקת שווה לכמות המבוקשת ברמת מחיר מסוימת."
+            },
+            {
+                "definition": "Mental or emotional state of calmness and stability",
+                "definition_hebrew": "מצב נפשי או רגשי של רוגע ויציבות",
+                "example": "After receiving good news, she felt an inner sense of equilibrium that helped her maintain composure.",
+                "example_hebrew": "לאחר שקיבלה חדשות טובות, היא הרגישה תחושה פנימית של שיווי משקל שעזרה לה לשמור על קור רוח."
+            },
+            {
+                "definition": "Political balance between different ideologies or parties",
+                "definition_hebrew": "איזון פוליטי בין אידיאולוגיות או מפלגות שונות",
+                "example": "In a democratic society with multiple political parties, equilibrium is reached when no single party holds absolute power and all have influence over policy decisions.",
+                "example_hebrew": "בחברה דמוקרטית עם מספר מפלגות פוליטיות, האיזון מושג כאשר אין מפלגה אחת שמחזיקה בכוח מוחלט ולכולן יש השפעה על החלטות מדיניות."
+            }
+        ]
+    }
+]

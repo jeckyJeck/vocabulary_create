@@ -1,0 +1,28 @@
+[
+    {
+        "word": "cms",
+        "word_hebrew": "ס\"מ",
+        "main_definition": "A content management system (CMS) is a software application that enables users to create, edit, manage, and publish digital content without needing extensive technical knowledge.",
+        "main_definition_hebrew": "מערכת ניהול תוכן (CMS) היא יישום תוכנה המאפשר למשתמשים ליצור, לערוך, לנהל ולפרסם תוכן דיגיטלי ללא צורך בידע טכני נרחב.",
+        "meanings_and_examples": [
+            {
+                "definition": "Computerized Management System",
+                "definition_hebrew": "מערכת ניהול ממוחשבת",
+                "example": "A company uses a CMS like WordPress for managing its website's content efficiently.",
+                "example_hebrew": "חברה משתמשת ב-CMS כמו וורדפרס לניהול תוכן האתר שלה ביעילות."
+            },
+            {
+                "definition": "Customer Relationship Management system",
+                "definition_hebrew": "מערכת לניהול קשרי לקוחות",
+                "example": "An e-commerce platform uses a CMS to manage customer data, interactions and support requests.",
+                "example_hebrew": "פלטפורמת מסחר אלקטרוני משתמשת ב-CMS לניהול נתוני לקוחות, אינטראקציות ובקשות תמיכה."
+            },
+            {
+                "definition": "Content Management System",
+                "definition_hebrew": "מערכת ניהול תוכן",
+                "example": "A news agency employs a CMS like Adobe Experience Manager to handle their content across various channels seamlessly.",
+                "example_hebrew": "סוכנות ידיעות משתמשת ב-CMS כמו Adobe Experience Manager כדי לטפל בתוכן שלה בערוצים שונים בצורה חלקה."
+            }
+        ]
+    }
+]

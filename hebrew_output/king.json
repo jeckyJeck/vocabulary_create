@@ -1,0 +1,40 @@
+[
+    {
+        "word": "king",
+        "word_hebrew": "מלך",
+        "main_definition": "A king is a male monarch, typically the ruler of an independent state in its own right or one of its constituent parts, who usually inherits his position by primogeniture and often rules for life.",
+        "main_definition_hebrew": "מלך הוא מלוכה זכר, בדרך כלל שליט של מדינה עצמאית בפני עצמה או של אחד מחלקיה המרכיבים אותה, אשר בדרך כלל יורש את מעמדו על ידי קדמוניה ולעתים קרובות שולט לכל החיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Leader of a country",
+                "definition_hebrew": "מנהיג מדינה",
+                "example": "King Henry VIII was the ruler of England from 1509 until his death in 1547.",
+                "example_hebrew": "המלך הנרי השמיני היה שליט אנגליה משנת 1509 ועד מותו ב-1547."
+            },
+            {
+                "definition": "A figurehead with little real power, especially in modern contexts where monarchies are symbolic or ceremonial",
+                "definition_hebrew": "דמות בעלת כוח ממשי מועט, במיוחד בהקשרים מודרניים שבהם המלכות הן סמליות או טקסיות",
+                "example": "In constitutional monarchies like the United Kingdom, kings and queens serve as symbols of unity rather than governing figures.",
+                "example_hebrew": "במלכות חוקתיות כמו בריטניה, מלכים ומלכות משמשים כסמלים של אחדות ולא דמויות שלטוניות."
+            },
+            {
+                "definition": "One who has control over others by force or threat",
+                "definition_hebrew": "מי שיש לו שליטה על אחרים בכוח או איום",
+                "example": "The dictator claimed to be a king over his oppressed nation but ruled through fear and intimidation.",
+                "example_hebrew": "הרודן טען שהוא מלך על אומתו המדוכאת אך שלט באמצעות פחד והפחדה."
+            },
+            {
+                "definition": "A person in charge of organizing a group or event, often with authority over other members",
+                "definition_hebrew": "אדם שאחראי על ארגון קבוצה או אירוע, לרוב בעל סמכות על חברים אחרים",
+                "example": "At the wedding reception, there was a 'king' who oversaw all aspects of the evening to ensure it ran smoothly.",
+                "example_hebrew": "בקבלת הפנים לחתונה, היה 'מלך' שפיקח על כל ההיבטים של הערב כדי להבטיח שהוא יתנהל בצורה חלקה."
+            },
+            {
+                "definition": "A term used in card games like poker or blackjack when referring to holding four of a kind",
+                "definition_hebrew": "מונח המשמש במשחקי קלפים כמו פוקר או בלאק ג'ק כאשר מתייחסים להחזקת ארבע יחידות",
+                "example": "John had a full house, including two kings.",
+                "example_hebrew": "לג'ון היה בית מלא, כולל שני מלכים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "qualified",
+        "word_hebrew": "מוסמך",
+        "main_definition": "Having the necessary skills, knowledge or experience to do something effectively.",
+        "main_definition_hebrew": "בעל הכישורים, הידע או הניסיון הדרושים כדי לעשות משהו ביעילות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Adjective - Lacking a degree of excellence; not fully competent or proficient in a certain area.",
+                "definition_hebrew": "שם תואר - חסר מידת הצטיינות; לא לגמרי מוכשר או בקי בתחום מסוים.",
+                "example": "His claim to expertise was qualified at best, as he had only read about the subject.",
+                "example_hebrew": "תביעתו למומחיות הייתה מוכשרת במקרה הטוב, שכן הוא קרא רק על הנושא."
+            },
+            {
+                "definition": "Adjective - Sufficiently skilled or educated to perform a particular task or job role effectively.",
+                "definition_hebrew": "שם תואר - מספיק מיומן או משכיל לבצע משימה או תפקיד מסוים ביעילות.",
+                "example": "She is a highly qualified teacher with over 10 years of experience in education.",
+                "example_hebrew": "היא מורה מוסמכת עם למעלה מ-10 שנות ניסיון בחינוך."
+            },
+            {
+                "definition": "Noun - A person who meets the necessary requirements for a job or professional position, often after an assessment or testing process.",
+                "definition_hebrew": "שם עצם - אדם העומד בדרישות הדרושות לתפקיד או לתפקיד מקצועי, לרוב לאחר תהליך הערכה או בדיקה.",
+                "example": "The company has received several applications from highly qualified candidates for the managerial role.",
+                "example_hebrew": "לחברה הגיעו מספר פניות של מועמדים מוכשרים לתפקיד הניהולי."
+            },
+            {
+                "definition": "Verb (used with object) - To limit or restrict something to certain individuals who meet specific criteria.",
+                "definition_hebrew": "פועל (בשימוש עם אובייקט) - להגביל או להגביל משהו לאנשים מסוימים העומדים בקריטריונים ספציפיים.",
+                "example": "The scholarship was qualified by requiring applicants to have a minimum GPA of 3.5.",
+                "example_hebrew": "המלגה הוסמכה על ידי דרישה מהמועמדים להיות בעלי GPA מינימלי של 3.5."
+            }
+        ]
+    }
+]

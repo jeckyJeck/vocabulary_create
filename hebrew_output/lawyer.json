@@ -1,0 +1,34 @@
+[
+    {
+        "word": "lawyer",
+        "word_hebrew": "עורך דין",
+        "main_definition": "A lawyer is a professional who practices law, either as an advocate in court or as a legal advisor to clients outside of the court.",
+        "main_definition_hebrew": "עורך דין הוא איש מקצוע העוסק בעריכת דין, בין אם כעו\"ד בבית המשפט ובין אם כיועץ משפטי ללקוחות מחוץ לבית המשפט.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual licensed to practice law and offer legal advice",
+                "definition_hebrew": "אדם בעל רישיון עריכת דין ומציע ייעוץ משפטי",
+                "example": "John is a lawyer who specializes in family law.",
+                "example_hebrew": "ג'ון הוא עורך דין המתמחה בדיני משפחה."
+            },
+            {
+                "definition": "A professional advocate for clients in court proceedings",
+                "definition_hebrew": "עו\"ד מקצועי עבור לקוחות בהליכים משפטיים",
+                "example": "The defense lawyer argued vigorously on behalf of the accused during the trial.",
+                "example_hebrew": "הסנגור טען בתוקף בשמו של הנאשם במהלך המשפט."
+            },
+            {
+                "definition": "Someone who provides legal counsel and representation to individuals, businesses, or organizations",
+                "definition_hebrew": "מישהו שמספק ייעוץ וייצוג משפטי ליחידים, עסקים או ארגונים",
+                "example": "A corporate lawyer guided a company through their merger with another firm.",
+                "example_hebrew": "עורך דין תאגידי הדריך חברה במיזוגה עם משרד אחר."
+            },
+            {
+                "definition": "An individual trained in the law and authorized to represent others before the court",
+                "definition_hebrew": "אדם בעל הכשרה בחוק והוסמך לייצג אחרים בפני בית המשפט",
+                "example": "The immigration lawyer helped her client obtain legal status in the country.",
+                "example_hebrew": "עורך הדין להגירה סייע ללקוח שלה להשיג מעמד חוקי במדינה."
+            }
+        ]
+    }
+]

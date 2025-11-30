@@ -1,0 +1,34 @@
+[
+    {
+        "word": "solaris",
+        "word_hebrew": "סולאריס",
+        "main_definition": "Solaris is a word that can refer to the sun, solar energy or things related to it in general.",
+        "main_definition_hebrew": "סולאריס היא מילה שיכולה להתייחס לשמש, לאנרגיה סולארית או לדברים הקשורים אליה באופן כללי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to the Sun (Latin origin)",
+                "definition_hebrew": "מתייחס לשמש (מקור לטיני)",
+                "example": "The solar system consists of the Sun and all objects orbiting around it.",
+                "example_hebrew": "מערכת השמש מורכבת מהשמש ומכל העצמים הסובבים סביבה."
+            },
+            {
+                "definition": "Designated for or involving solar energy",
+                "definition_hebrew": "מיועד או כרוך באנרגיה סולארית",
+                "example": "Solar panels convert sunlight into electricity, harnessing solar power.",
+                "example_hebrew": "פאנלים סולאריים ממירים את אור השמש לחשמל, תוך שימוש באנרגיה סולארית."
+            },
+            {
+                "definition": "Relating to a fictional spaceship in the novel 'Solaris' by Stanisław Lem",
+                "definition_hebrew": "מתייחס לחללית בדיונית ברומן 'סולריס' מאת סטניסלב לם",
+                "example": "The concept of identity and consciousness is explored through the interactions with the sentient ocean on Solaris, as depicted in the science fiction novel.",
+                "example_hebrew": "מושג הזהות והתודעה נחקר דרך האינטראקציות עם האוקיינוס החי בסולאריס, כפי שמתואר ברומן המדע הבדיוני."
+            },
+            {
+                "definition": "Named after a specific solar flare or solar phenomenon",
+                "definition_hebrew": "נקרא על שם התלקחות סולארית או תופעה סולארית ספציפית",
+                "example": "Astronomers study various solar flares and sunspots to understand more about our Sun's activity.",
+                "example_hebrew": "אסטרונומים חוקרים התלקחויות שמש וכתמי שמש שונים כדי להבין יותר על פעילות השמש שלנו."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "number",
+        "word_hebrew": "מספר",
+        "main_definition": "Number refers to a mathematical concept representing quantity or value, as well as an idiomatic expression used in various contexts.",
+        "main_definition_hebrew": "מספר מתייחס למושג מתמטי המייצג כמות או ערך, כמו גם ביטוי אידיומטי המשמש בהקשרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A mathematical concept denoting quantity, order, and measurable magnitude without regard to unquantifiable characteristics such as shape or color.",
+                "definition_hebrew": "מושג מתמטי המציין כמות, סדר וגודל מדיד ללא קשר למאפיינים בלתי ניתנים לכימות כמו צורה או צבע.",
+                "example": "There are seven days in a week.",
+                "example_hebrew": "יש שבעה ימים בשבוע."
+            },
+            {
+                "definition": "An identifier for objects, people, events, etc., often used in lists or databases to distinguish one item from another with the same name.",
+                "definition_hebrew": "מזהה עבור אובייקטים, אנשים, אירועים וכו', המשמש לעתים קרובות ברשימות או במסדי נתונים כדי להבחין בין פריט אחד למשנהו עם אותו שם.",
+                "example": "When I looked up his phone number, it was 555-1234.",
+                "example_hebrew": "כשחיפשתי את מספר הטלפון שלו, זה היה 555-1234."
+            },
+            {
+                "definition": "In informal contexts, 'number' is an idiomatic expression used to emphasize significance or importance of a fact or event.",
+                "definition_hebrew": "בהקשרים לא פורמליים, 'מספר' הוא ביטוי אידיומטי המשמש להדגשת המשמעות או החשיבות של עובדה או אירוע.",
+                "example": "That's not just any stain. That's the number one problem in your house!",
+                "example_hebrew": "זה לא סתם כתם. זו הבעיה מספר אחת בבית שלך!"
+            },
+            {
+                "definition": "In sports and other competitive activities, 'number' may refer to an assigned numerical position indicating rank or order.",
+                "definition_hebrew": "בספורט ובפעילויות תחרותיות אחרות, 'מספר' עשוי להתייחס למיקום מספרי שהוקצה המציין דרגה או סדר.",
+                "example": "He was determined to be the number one player on his team.",
+                "example_hebrew": "הוא היה נחוש להיות השחקן מספר אחת בקבוצתו."
+            }
+        ]
+    }
+]

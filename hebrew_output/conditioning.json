@@ -1,0 +1,34 @@
+[
+    {
+        "word": "conditioning",
+        "word_hebrew": "הַתנָיָה",
+        "main_definition": "Conditioning refers to the process of training or modifying behavior through repeated experiences, leading to a change in response patterns.",
+        "main_definition_hebrew": "התניה מתייחסת לתהליך של אימון או שינוי התנהגות באמצעות התנסויות חוזרות, המובילות לשינוי בדפוסי תגובה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Classical conditioning",
+                "definition_hebrew": "התניה קלאסית",
+                "example": "A dog salivating at the sound of a bell after it has been repeatedly associated with being fed.",
+                "example_hebrew": "כלב מרוק לקול פעמון לאחר שהוא נקשר שוב ושוב להאכלה."
+            },
+            {
+                "definition": "Operant conditioning",
+                "definition_hebrew": "מיזוג אופרנטי",
+                "example": "A child receiving praise for doing homework, which encourages them to continue working on their assignments.",
+                "example_hebrew": "ילד שמקבל שבחים על הכנת שיעורי בית, מה שמעודד אותו להמשיך לעבוד על המשימות שלו."
+            },
+            {
+                "definition": "Behavioral conditioning in psychology",
+                "definition_hebrew": "התניה התנהגותית בפסיכולוגיה",
+                "example": "Using a token economy system where children receive tokens for positive behaviors that can be exchanged for rewards.",
+                "example_hebrew": "שימוש במערכת כלכלת אסימונים שבה ילדים מקבלים אסימונים עבור התנהגויות חיוביות שניתן להחליף בתגמולים."
+            },
+            {
+                "definition": "Conditioned response in pharmacology",
+                "definition_hebrew": "תגובה מותנית בפרמקולוגיה",
+                "example": "A patient experiencing relief from withdrawal symptoms after taking medication as prescribed over a period of time.",
+                "example_hebrew": "מטופל החווה הקלה בתסמיני גמילה לאחר נטילת תרופות כפי שנקבעו במשך תקופה."
+            }
+        ]
+    }
+]

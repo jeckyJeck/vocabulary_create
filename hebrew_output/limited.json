@@ -1,0 +1,40 @@
+[
+    {
+        "word": "limited",
+        "word_hebrew": "מוגבל",
+        "main_definition": "Constrained or restricted in scope, extent, size, or duration.",
+        "main_definition_hebrew": "מוגבל או מוגבל בהיקף, היקף, גודל או משך.",
+        "meanings_and_examples": [
+            {
+                "definition": "Restricted in terms of quantity or availability.",
+                "definition_hebrew": "מוגבל מבחינת כמות או זמינות.",
+                "example": "The store has limited stock of the new product.",
+                "example_hebrew": "בחנות יש מלאי מוגבל של המוצר החדש."
+            },
+            {
+                "definition": "Defined by specific boundaries or parameters.",
+                "definition_hebrew": "מוגדר על ידי גבולות או פרמטרים ספציפיים.",
+                "example": "This offer is only valid for a limited time, until midnight.",
+                "example_hebrew": "מבצע זה תקף לזמן מוגבל בלבד, עד חצות."
+            },
+            {
+                "definition": "Having less freedom to act due to constraints.",
+                "definition_hebrew": "יש פחות חופש לפעול בגלל אילוצים.",
+                "example": "The student's access was limited after breaking the rules.",
+                "example_hebrew": "הגישה של התלמיד הוגבלה לאחר הפרת הכללים."
+            },
+            {
+                "definition": "Sparse or few in number; not plentiful.",
+                "definition_hebrew": "דל או מועט במספר; לא בשפע.",
+                "example": "There were only a limited selection of books available at the library.",
+                "example_hebrew": "היה מבחר מוגבל של ספרים זמין בספרייה."
+            },
+            {
+                "definition": "Constrained by resources, such as time or money.",
+                "definition_hebrew": "מוגבל על ידי משאבים, כגון זמן או כסף.",
+                "example": "We have a limited budget for this project.",
+                "example_hebrew": "יש לנו תקציב מוגבל לפרויקט הזה."
+            }
+        ]
+    }
+]

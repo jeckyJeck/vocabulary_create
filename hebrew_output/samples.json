@@ -1,0 +1,40 @@
+[
+    {
+        "word": "samples",
+        "word_hebrew": "דגימות",
+        "main_definition": "Samples refer to instances or pieces of something, often used in various contexts such as research, quality control, music production, and more.",
+        "main_definition_hebrew": "דוגמאות מתייחסות למקרים או קטעים של משהו, המשמשים לעתים קרובות בהקשרים שונים כגון מחקר, בקרת איכות, הפקה מוזיקלית ועוד.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of research or experiments, a sample refers to a subset of individuals from a larger population that is being studied. This allows researchers to make inferences about the whole group based on this smaller set. Example: A medical study might use samples of patients to test the effectiveness of a new drug.",
+                "definition_hebrew": "בהקשר של מחקר או ניסויים, מדגם מתייחס לתת-קבוצה של פרטים מאוכלוסייה גדולה יותר שנחקרת. זה מאפשר לחוקרים להסיק מסקנות לגבי הקבוצה כולה בהתבסס על קבוצה קטנה יותר זו. דוגמה: מחקר רפואי עשוי להשתמש בדגימות של חולים כדי לבדוק את היעילות של תרופה חדשה.",
+                "example": "The scientists collected blood samples from 100 volunteers to analyze for signs of the disease.",
+                "example_hebrew": "המדענים אספו דגימות דם מ-100 מתנדבים כדי לנתח את סימני המחלה."
+            },
+            {
+                "definition": "In quality control and manufacturing, a sample is an individual unit or small portion taken from a larger batch to check for consistency and adherence to standards. Example: A factory inspects random samples of smartphones every day to ensure they meet the required specifications.",
+                "definition_hebrew": "בבקרת איכות ובייצור, דגימה היא יחידה בודדת או חלק קטן שנלקח מאצוה גדולה יותר כדי לבדוק עקביות ועמידה בתקנים. דוגמה: מפעל בודק מדי יום דגימות אקראיות של סמארטפונים כדי לוודא שהם עומדים במפרטים הנדרשים.",
+                "example": "The technician checked the quality by testing five different samples of steel.",
+                "example_hebrew": "הטכנאי בדק את האיכות על ידי בדיקת חמש דוגמאות שונות של פלדה."
+            },
+            {
+                "definition": "In music production, a sample refers to an audio clip or snippet that is taken from one sound recording and reused in another. Example: A hip-hop artist may use drum loops as samples to create new beats for their songs.",
+                "definition_hebrew": "בהפקה מוזיקלית, דוגמה מתייחסת לקטע אודיו או קטע שמע שנלקח מהקלטת קול אחת ועושה שימוש חוזר באחרת. דוגמה: אמן היפ הופ עשוי להשתמש בלולאות תופים כסאמפלים כדי ליצור ביטים חדשים לשירים שלו.",
+                "example": "The producer used an old jazz tune as a sample for the chorus of her track.",
+                "example_hebrew": "המפיקה השתמשה בלחן ג'אז ישן כדוגמה למקהלה של הרצועה שלה."
+            },
+            {
+                "definition": "In statistics, a sample refers to a set of observations or measurements taken from a population. This subset is analyzed to make conclusions about the entire group. Example: A pollster surveys 100 people in a city (the sample) and uses that data to predict voting patterns for an upcoming election.",
+                "definition_hebrew": "בסטטיסטיקה, מדגם מתייחס לקבוצה של תצפיות או מדידות שנלקחו מאוכלוסיה. תת-קבוצה זו מנותחת כדי להגיע למסקנות לגבי הקבוצה כולה. דוגמה: סוקר סוקר 100 אנשים בעיר (המדגם) ומשתמש בנתונים האלה כדי לחזות דפוסי הצבעה לבחירות הקרובות.",
+                "example": "The survey included interviews with 200 residents as a sample to understand their opinions on local education.",
+                "example_hebrew": "הסקר כלל ראיונות עם 200 תושבים כמדגם כדי להבין את דעתם על החינוך המקומי."
+            },
+            {
+                "definition": "In computer science, particularly in programming or algorithms, a sample may refer to a small data set used for testing purposes. Example: A programmer uses an array of numbers as a sample input to verify the functionality of his sorting algorithm.",
+                "definition_hebrew": "במדעי המחשב, במיוחד בתכנות או באלגוריתמים, מדגם עשוי להתייחס לסט נתונים קטן המשמש למטרות בדיקה. דוגמה: מתכנת משתמש במערך של מספרים כקלט לדוגמה כדי לאמת את הפונקציונליות של אלגוריתם המיון שלו.",
+                "example": "The developer tested her new function with a sample of 50 randomly generated numbers.",
+                "example_hebrew": "המפתחת בדק את הפונקציה החדשה שלה עם מדגם של 50 מספרים שנוצרו באופן אקראי."
+            }
+        ]
+    }
+]

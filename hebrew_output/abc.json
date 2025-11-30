@@ -1,0 +1,28 @@
+[
+    {
+        "word": "abc",
+        "word_hebrew": "א ב ג",
+        "main_definition": "In simple English, 'abc' does not have a widely recognized idiomatic usage; it usually refers to the first three letters of the Latin alphabet.",
+        "main_definition_hebrew": "באנגלית פשוטה, ל-'abc' אין שימוש אידיומטי מוכר ברבים; זה בדרך כלל מתייחס לשלוש האותיות הראשונות של האלפבית הלטיני.",
+        "meanings_and_examples": [
+            {
+                "definition": "'Abc' is often used as shorthand for basic concepts or fundamentals in various contexts, such as 'learning the abc (the basics)'.",
+                "definition_hebrew": "'Abc' משמש לעתים קרובות כקיצור למושגים בסיסיים או יסודות בהקשרים שונים, כגון 'לימוד ה-abc (היסודות)'.",
+                "example": "Before tackling advanced calculus, it's essential to learn the abc of mathematics.",
+                "example_hebrew": "לפני התמודדות עם חשבון מתקדם, חיוני ללמוד את ה-abc של המתמטיקה."
+            },
+            {
+                "definition": "'Abc' can also refer humorously to non-existent or random letters in certain contexts.",
+                "definition_hebrew": "'Abc' יכול גם להתייחס בהומור לאותיות לא קיימות או אקראיות בהקשרים מסוימים.",
+                "example": "I'm trying to remember a word but all I have are the first three letters: 'abc'. It seems so simple yet elusive!",
+                "example_hebrew": "אני מנסה לזכור מילה אבל כל מה שיש לי הן שלוש האותיות הראשונות: 'abc'. זה נראה כל כך פשוט אך חמקמק!"
+            },
+            {
+                "definition": "'Abc' is sometimes used informally when emphasizing that something should be understood by everyone, as it represents common knowledge.",
+                "definition_hebrew": "לעתים משתמשים ב-'Abc' באופן לא רשמי כאשר מדגישים שמשהו צריך להיות מובן לכולם, מכיוון שהוא מייצג ידע נפוץ.",
+                "example": "This tutorial will cover abc; no prior experience needed.",
+                "example_hebrew": "מדריך זה יכסה abc; אין צורך בניסיון קודם."
+            }
+        ]
+    }
+]

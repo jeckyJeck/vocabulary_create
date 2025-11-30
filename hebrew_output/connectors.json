@@ -1,0 +1,28 @@
+[
+    {
+        "word": "connectors",
+        "word_hebrew": "מחברים",
+        "main_definition": "In the context of electronics, 'connectors' refer to devices used to join electrical circuits or components together, facilitating signal transmission; in a figurative sense, they can also describe people who act as intermediaries or linkages between different groups.",
+        "main_definition_hebrew": "בהקשר של אלקטרוניקה, 'מחברים' מתייחסים להתקנים המשמשים לחיבור מעגלים או רכיבים חשמליים יחד, המקלים על העברת אותות; במובן פיגורטיבי, הם יכולים גם לתאר אנשים הפועלים כמתווכים או כקשרים בין קבוצות שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Devices that establish an electrical connection",
+                "definition_hebrew": "מכשירים היוצרים חיבור לחשמל",
+                "example": "The USB connector allows devices like smartphones and cameras to connect to computers for data transfer.",
+                "example_hebrew": "מחבר ה-USB מאפשר למכשירים כמו סמארטפונים ומצלמות להתחבר למחשבים לצורך העברת נתונים."
+            },
+            {
+                "definition": "People who facilitate communication or cooperation between groups",
+                "definition_hebrew": "אנשים המקלים על תקשורת או שיתוף פעולה בין קבוצות",
+                "example": "In the business world, a liaison acts as a connector by bridging different departments within an organization.",
+                "example_hebrew": "בעולם העסקים, איש קשר פועל כמחבר על ידי גישור בין מחלקות שונות בארגון."
+            },
+            {
+                "definition": "Components that enable electrical and electronic systems to interconnect",
+                "definition_hebrew": "רכיבים המאפשרים חיבור בין מערכות חשמל ואלקטרוניקה",
+                "example": "The soldering points on a circuit board act as connectors for various components, allowing them to work together seamlessly.",
+                "example_hebrew": "נקודות ההלחמה בלוח מעגלים פועלות כמחברים לרכיבים שונים, ומאפשרות להם לעבוד יחד בצורה חלקה."
+            }
+        ]
+    }
+]

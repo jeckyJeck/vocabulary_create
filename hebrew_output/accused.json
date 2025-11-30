@@ -1,0 +1,28 @@
+[
+    {
+        "word": "accused",
+        "word_hebrew": "מואשם",
+        "main_definition": "A person who has been formally charged with a crime or wrongdoing.",
+        "main_definition_hebrew": "אדם שהואשם באופן רשמי בפשע או בעוולה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Someone alleged to have committed an offense or misdeed",
+                "definition_hebrew": "מישהו שנטען כי ביצע עבירה או מעשה פשע",
+                "example": "The man was accused of stealing the jewelry.",
+                "example_hebrew": "האיש הואשם בגניבת התכשיטים."
+            },
+            {
+                "definition": "A person who has been formally charged with a crime in legal proceedings",
+                "definition_hebrew": "אדם שהואשם רשמית בעבירה בהליכים משפטיים",
+                "example": "After reviewing the evidence, she was accused of embezzlement.",
+                "example_hebrew": "לאחר עיון בראיות, היא הואשמה במעילה."
+            },
+            {
+                "definition": "Someone suspected or implicated in an unlawful act but not yet proven guilty",
+                "definition_hebrew": "מישהו שנחשד או מעורב במעשה בלתי חוקי אך טרם הוכחה אשמתו",
+                "example": "The student was accused of cheating on the exam, but there is no conclusive evidence yet.",
+                "example_hebrew": "התלמיד הואשם בבגידה בבחינה, אך אין עדיין ראיות חותכות."
+            }
+        ]
+    }
+]

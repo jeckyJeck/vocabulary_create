@@ -1,0 +1,40 @@
+[
+    {
+        "word": "resource",
+        "word_hebrew": "מַשׁאָב",
+        "main_definition": "A resource is a source of support, supply, or aid that can be utilized to achieve a goal or solve a problem.",
+        "main_definition_hebrew": "משאב הוא מקור לתמיכה, אספקה או סיוע שניתן לנצל כדי להשיג מטרה או לפתור בעיה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Natural resources are materials found in nature that humans use for economic gain and survival.",
+                "definition_hebrew": "משאבי טבע הם חומרים המצויים בטבע שבני אדם משתמשים בהם לצורך רווח כלכלי והישרדות.",
+                "example": "Forests provide timber, which is a valuable resource used for construction.",
+                "example_hebrew": "יערות מספקים עצים, שהם משאב יקר ערך המשמש לבנייה."
+            },
+            {
+                "definition": "Human resources refer to the workforce of an organization or company, including their skills, abilities, and experience.",
+                "definition_hebrew": "משאבי אנוש מתייחסים לכוח העבודה של ארגון או חברה, כולל הכישורים, היכולות והניסיון שלהם.",
+                "example": "The HR department manages recruitment, training, and employee development, making human resources a critical asset.",
+                "example_hebrew": "מחלקת משאבי אנוש מנהלת גיוס, הכשרה ופיתוח עובדים, מה שהופך את משאבי האנוש לנכס קריטי."
+            },
+            {
+                "definition": "Financial resources are funds that are available for spending or investing, such as income from jobs or savings.",
+                "definition_hebrew": "משאבים פיננסיים הם כספים הזמינים להוצאות או השקעה, כגון הכנסה מעבודה או חסכונות.",
+                "example": "A company may use its financial resources to develop new products and expand its operations.",
+                "example_hebrew": "חברה עשויה להשתמש במשאביה הכספיים כדי לפתח מוצרים חדשים ולהרחיב את פעילותה."
+            },
+            {
+                "definition": "Educational resources include materials used in teaching and learning, like textbooks, online courses, and educational videos.",
+                "definition_hebrew": "משאבים חינוכיים כוללים חומרים המשמשים להוראה ולמידה, כמו ספרי לימוד, קורסים מקוונים וסרטונים חינוכיים.",
+                "example": "Students utilize various educational resources to enhance their understanding of complex subjects.",
+                "example_hebrew": "התלמידים מנצלים משאבים חינוכיים שונים כדי לשפר את הבנתם בנושאים מורכבים."
+            },
+            {
+                "definition": "Time as a resource refers to the availability or allocation of time for tasks, activities, or projects.",
+                "definition_hebrew": "זמן כמשאב מתייחס לזמינות או הקצאת זמן למשימות, פעילויות או פרויקטים.",
+                "example": "Effective project management involves allocating sufficient time resources to complete all necessary tasks.",
+                "example_hebrew": "ניהול פרויקטים יעיל כרוך בהקצאת משאבי זמן מספיקים להשלמת כל המשימות הדרושות."
+            }
+        ]
+    }
+]

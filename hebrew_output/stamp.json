@@ -1,0 +1,40 @@
+[
+    {
+        "word": "stamp",
+        "word_hebrew": "חותמת",
+        "main_definition": "To affix an official or decorative mark onto a document, object, or surface using ink.",
+        "main_definition_hebrew": "להדביק סימן רשמי או דקורטיבי על מסמך, חפץ או משטח באמצעות דיו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Apply pressure to create an impression of a design or seal",
+                "definition_hebrew": "הפעל לחץ כדי ליצור רושם של עיצוב או חותם",
+                "example": "She stamped her signature on the contract.",
+                "example_hebrew": "היא הטביעה את חתימתה על החוזה."
+            },
+            {
+                "definition": "To officially approve and validate with a mark or symbol",
+                "definition_hebrew": "כדי לאשר ולאשר באופן רשמי עם סימן או סמל",
+                "example": "The king used his royal seal to stamp the decree.",
+                "example_hebrew": "המלך השתמש בחותם המלכותי שלו כדי להחתים את הגזירה."
+            },
+            {
+                "definition": "To imprint an object with a raised design using ink and pressure",
+                "definition_hebrew": "להטביע אובייקט בעיצוב מוגבה באמצעות דיו ולחץ",
+                "example": "He stamps flowers onto gift wrapping for decoration.",
+                "example_hebrew": "הוא מטביע פרחים על אריזות מתנה לקישוט."
+            },
+            {
+                "definition": "To make official or authorized by marking it with the date and signature of someone in authority",
+                "definition_hebrew": "לעשות רשמי או מורשה על ידי סימון זה בתאריך ובחתימה של בעל סמכות",
+                "example": "The mayor signed and stamped the building permit.",
+                "example_hebrew": "ראש העיר חתם והחתים את היתר הבנייה."
+            },
+            {
+                "definition": "To indicate a tax, fee, or tariff has been paid by affixing a postage stamp",
+                "definition_hebrew": "כדי לציין מס, אגרה או תעריף ששולמו על ידי הדבקת בול דואר",
+                "example": "He needed to add one more stamp before mailing his letter.",
+                "example_hebrew": "הוא היה צריך להוסיף עוד חותמת אחת לפני ששלח את מכתבו בדואר."
+            }
+        ]
+    }
+]

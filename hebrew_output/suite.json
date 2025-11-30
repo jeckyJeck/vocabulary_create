@@ -1,0 +1,34 @@
+[
+    {
+        "word": "suite",
+        "word_hebrew": "סְוִיטָה",
+        "main_definition": "A set of connected rooms or facilities, often used in the context of hotels, offices, or other establishments.",
+        "main_definition_hebrew": "קבוצה של חדרים או מתקנים מחוברים, המשמשים לעתים קרובות בהקשר של בתי מלון, משרדים או מפעלים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In hospitality, a series of connected rooms typically designed for use by one guest. For example, 'We stayed at a luxurious hotel with an executive suite that included a separate living area and kitchen.'",
+                "definition_hebrew": "באירוח, סדרה של חדרים מחוברים המיועדים בדרך כלל לשימוש של אורח אחד. למשל, 'שהינו במלון מפואר עם סוויטת אקזקיוטיב שכללה סלון ומטבח נפרדים'.",
+                "example": "The hotel offered various suites for guests to choose from.",
+                "example_hebrew": "המלון הציע סוויטות שונות לבחירת האורחים."
+            },
+            {
+                "definition": "A collection of related software programs bundled together. For example, 'My office purchased Microsoft Office Suite which includes Word, Excel, PowerPoint, and other productivity tools.'",
+                "definition_hebrew": "אוסף של תוכנות קשורות המצורפות יחד. לדוגמה, 'המשרד שלי רכש את Microsoft Office Suite הכוללת Word, Excel, PowerPoint וכלי פרודוקטיביות אחרים.'",
+                "example": "The tech company released a new version of the photo editing suite.",
+                "example_hebrew": "חברת הטכנולוגיה פרסמה גרסה חדשה של חבילת עריכת התמונות."
+            },
+            {
+                "definition": "A set of rooms in an office building rented as a unit. For example, 'Several companies have leased suites in this high-rise for their expanding operations.'",
+                "definition_hebrew": "סט חדרים בבניין משרדים המושכר כיחידה. לדוגמה, 'כמה חברות שכרו סוויטות ברב הקומות הזה עבור פעילותן המתרחבת'.",
+                "example": "The startup moved into the larger suite to accommodate more staff.",
+                "example_hebrew": "הסטארט-אפ עבר לסוויטה הגדולה יותר כדי להכיל יותר צוות."
+            },
+            {
+                "definition": "A set of connected rooms or facilities within a building, often designed with specific functions. For example, 'The conference venue had various suites for different types of events.'",
+                "definition_hebrew": "קבוצה של חדרים או מתקנים מחוברים בתוך בניין, שעוצבו לעתים קרובות עם פונקציות ספציפיות. למשל, 'במקום הכנס היו סוויטות שונות לסוגים שונים של אירועים'.",
+                "example": "We reserved the event suite at the convention center for our company meeting.",
+                "example_hebrew": "שמרנו את סוויטת האירועים במרכז הכנסים לפגישת החברה שלנו."
+            }
+        ]
+    }
+]

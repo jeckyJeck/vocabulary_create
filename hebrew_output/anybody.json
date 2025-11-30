@@ -1,0 +1,34 @@
+[
+    {
+        "word": "anybody",
+        "word_hebrew": "מִישֶׁהוּ",
+        "main_definition": "Anyone at all, regardless of who they are.",
+        "main_definition_hebrew": "כל אחד בכלל, בלי קשר למי שהוא.",
+        "meanings_and_examples": [
+            {
+                "definition": "Used to refer to any person in general without specifying identity. Example: 'Is there anybody here that can help me?'",
+                "definition_hebrew": "משמש להתייחסות לכל אדם באופן כללי מבלי לציין זהות. דוגמה: 'האם יש כאן מישהו שיכול לעזור לי?'",
+                "example": "'Can anyone lend me a hand with this project?'",
+                "example_hebrew": "'מישהו יכול לתת לי יד עם הפרויקט הזה?'"
+            },
+            {
+                "definition": "Asking if there is at least one person available or willing to do something. Example: 'Anybody up for going out tonight?'",
+                "definition_hebrew": "שואלים אם יש לפחות אדם אחד פנוי או מוכן לעשות משהו. דוגמה: 'מישהו מוכן לצאת הלילה?'",
+                "example": "'Is anybody free to come along to the party?'",
+                "example_hebrew": "'האם מישהו פנוי לבוא למסיבה?'"
+            },
+            {
+                "definition": "Used to express that no particular person stands out as being responsible, capable, or involved in a situation. Example: 'It's not anybody's fault; it was an accident.'",
+                "definition_hebrew": "משמש כדי להביע שאף אדם מסוים אינו בולט כאחראי, מסוגל או מעורב במצב. דוגמה: 'זו לא אשמתו של אף אחד; זאת הייתה תאונה.'",
+                "example": "'The broken window wasn't caused by anyone specific.'",
+                "example_hebrew": "'החלון השבור לא נגרם על ידי מישהו ספציפי'."
+            },
+            {
+                "definition": "Indicating that the subject is open to anyone who wants or can participate. Example: 'This job isn't for anybody with a fear of heights.'",
+                "definition_hebrew": "מציין שהנושא פתוח לכל מי שרוצה או יכול להשתתף. דוגמה: 'העבודה הזו לא מיועדת לאף אחד עם פחד גבהים'.",
+                "example": "'The marathon run is available for anybody who decides to join.'",
+                "example_hebrew": "'ריצת המרתון זמינה לכל מי שמחליט להצטרף'."
+            }
+        ]
+    }
+]

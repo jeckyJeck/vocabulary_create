@@ -1,0 +1,28 @@
+[
+    {
+        "word": "necessarily",
+        "word_hebrew": "בהכרח",
+        "main_definition": "In a mandatory or unavoidable way.",
+        "main_definition_hebrew": "בדרך חובה או בלתי נמנעת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Without fail, without exception; inevitably.",
+                "definition_hebrew": "בלי להיכשל, בלי יוצא מן הכלל; באופן בלתי נמנע.",
+                "example": "You will necessarily need to pay taxes on your income.",
+                "example_hebrew": "אתה בהכרח צריך לשלם מסים על ההכנסה שלך."
+            },
+            {
+                "definition": "It is a requirement or essential condition for something else to happen.",
+                "definition_hebrew": "זוהי דרישה או תנאי חיוני כדי שמשהו אחר יקרה.",
+                "example": "He needs water to survive, and it's necessary that he drinks at least two liters per day.",
+                "example_hebrew": "הוא זקוק למים כדי לשרוד, ויש צורך לשתות לפחות שני ליטר ביום."
+            },
+            {
+                "definition": "Without exception; absolutely",
+                "definition_hebrew": "ללא יוצא מן הכלל; בהחלט",
+                "example": "There is no way around the fact that homework is necessarily part of a student's routine.",
+                "example_hebrew": "אין דרך לעקוף את העובדה ששיעורי בית הם בהכרח חלק מהשגרה של תלמיד."
+            }
+        ]
+    }
+]

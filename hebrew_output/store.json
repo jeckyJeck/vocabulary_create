@@ -1,0 +1,40 @@
+[
+    {
+        "word": "store",
+        "word_hebrew": "חנות",
+        "main_definition": "A place where items, especially goods or services, are kept or sold.",
+        "main_definition_hebrew": "מקום שבו נשמרים או נמכרים פריטים, במיוחד סחורות או שירותים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To keep something in a particular location for future use.",
+                "definition_hebrew": "לשמור משהו במיקום מסוים לשימוש עתידי.",
+                "example": "I need to store my winter clothes away until next year.",
+                "example_hebrew": "אני צריך לאחסן את בגדי החורף שלי עד לשנה הבאה."
+            },
+            {
+                "definition": "A retail establishment where goods are sold directly to customers.",
+                "definition_hebrew": "מפעל קמעונאי שבו סחורות נמכרות ישירות ללקוחות.",
+                "example": "Let's go shopping at the local grocery store for some fresh produce.",
+                "example_hebrew": "בוא נלך לקניות במכולת המקומית עבור תוצרת טרייה."
+            },
+            {
+                "definition": "To maintain or keep in a state of readiness or preparedness.",
+                "definition_hebrew": "לשמור או לשמור על מצב של מוכנות או מוכנות.",
+                "example": "We need to store emergency supplies and tools in case of natural disasters.",
+                "example_hebrew": "אנחנו צריכים לאחסן ציוד וכלי חירום למקרה של אסונות טבע."
+            },
+            {
+                "definition": "A place where data is stored, typically on a computer system.",
+                "definition_hebrew": "מקום שבו נתונים מאוחסנים, בדרך כלל על מערכת מחשב.",
+                "example": "I accidentally deleted my document. I hope it's still stored on the cloud server.",
+                "example_hebrew": "בטעות מחקתי את המסמך שלי. אני מקווה שזה עדיין מאוחסן בשרת הענן."
+            },
+            {
+                "definition": "An accumulation or reserve of resources for future use.",
+                "definition_hebrew": "הצטברות או עתודה של משאבים לשימוש עתידי.",
+                "example": "The warehouse is storing extra inventory in case there are any supply chain disruptions.",
+                "example_hebrew": "המחסן מאחסן מלאי נוסף למקרה שיהיו שיבושים בשרשרת האספקה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "manuals",
+        "word_hebrew": "מדריכים",
+        "main_definition": "Documents providing instructions or information about how to operate, assemble, or use something.",
+        "main_definition_hebrew": "מסמכים המספקים הוראות או מידע על אופן ההפעלה, ההרכבה או השימוש במשהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Books containing written instructions for assembling products or repairing machines and equipment.",
+                "definition_hebrew": "ספרים המכילים הוראות כתובות להרכבת מוצרים או תיקון מכונות וציוד.",
+                "example": "The car's owner manual provides detailed steps on how to change a tire.",
+                "example_hebrew": "המדריך לבעלים של המכונית מספק שלבים מפורטים כיצד להחליף צמיג."
+            },
+            {
+                "definition": "Guides providing step-by-step processes for performing tasks, especially in professional fields like computer programming or healthcare.",
+                "definition_hebrew": "מדריכים המספקים תהליכים שלב אחר שלב לביצוע משימות, במיוחד בתחומים מקצועיים כמו תכנות מחשבים או שירותי בריאות.",
+                "example": "A software development team uses coding guidelines as manuals to ensure consistency across their projects.",
+                "example_hebrew": "צוות פיתוח תוכנה משתמש בהנחיות קידוד כמדריכים כדי להבטיח עקביות בפרויקטים שלהם."
+            },
+            {
+                "definition": "Printed materials that serve as reference documents containing instructions on using a product or service.",
+                "definition_hebrew": "חומרים מודפסים המשמשים כמסמכי עזר המכילים הנחיות לשימוש במוצר או בשירות.",
+                "example": "Hotels provide housekeeping manuals for guests, detailing how to operate appliances and amenities in rooms.",
+                "example_hebrew": "מלונות מספקים מדריכי משק בית לאורחים, המפרטים כיצד להפעיל מכשירי חשמל ומתקנים בחדרים."
+            },
+            {
+                "definition": "Documentation outlining the procedures and best practices within an organization for various activities and tasks.",
+                "definition_hebrew": "תיעוד המתאר את הנהלים והפרקטיקות הטובות ביותר בארגון עבור פעילויות ומשימות שונות.",
+                "example": "A company's operations manual instructs employees on proper safety protocols, emergency response, and workplace etiquette.",
+                "example_hebrew": "מדריך התפעול של חברה מדריך את העובדים על פרוטוקולי בטיחות נאותים, תגובה לשעת חירום והתנהגות במקום העבודה."
+            }
+        ]
+    }
+]

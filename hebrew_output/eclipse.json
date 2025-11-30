@@ -1,0 +1,40 @@
+[
+    {
+        "word": "eclipse",
+        "word_hebrew": "ליקוי חמה",
+        "main_definition": "An eclipse is an astronomical event where one celestial body moves into the shadow of another, blocking its light.",
+        "main_definition_hebrew": "ליקוי חמה הוא אירוע אסטרונומי שבו גוף שמימי אחד נע לצלו של אחר, חוסם את האור שלו.",
+        "meanings_and_examples": [
+            {
+                "definition": "In a metaphorical sense, to eclipse someone or something means to surpass them in importance, influence, or reputation.",
+                "definition_hebrew": "במובן המטאפורי, להאפיל על מישהו או משהו פירושו להתעלות עליהם בחשיבות, השפעה או מוניטין.",
+                "example": "After releasing their latest album, the band's popularity eclipsed that of their previous work.",
+                "example_hebrew": "לאחר שהוציאה את אלבומה האחרון, הפופולריות של הלהקה האפילה על זו של עבודתם הקודמת."
+            },
+            {
+                "definition": "When used as a verb, 'to eclipse' means to cause something to become less prominent in comparison or overshadow it.",
+                "definition_hebrew": "כשמשתמשים בו כפועל, 'ללקוע' פירושו לגרום למשהו להיות פחות בולט בהשוואה או להאפיל עליו.",
+                "example": "The scandal surrounding the politician will eclipse his policy achievements for months to come.",
+                "example_hebrew": "השערורייה סביב הפוליטיקאי תאפיל על הישגי המדיניות שלו בחודשים הבאים."
+            },
+            {
+                "definition": "In politics and leadership, an 'election eclipsing' refers to a situation where one candidate completely dominates another in public perception or polls.",
+                "definition_hebrew": "בפוליטיקה ומנהיגות, 'ליקוי בחירות' מתייחס למצב שבו מועמד אחד שולט לחלוטין באחר בתפיסה או בסקרים ציבוריים.",
+                "example": "The mayorial election was quickly overshadowed by the city's budget crisis.",
+                "example_hebrew": "הבחירות לראשות העיר עמדו במהירות בצל המשבר התקציבי בעיר."
+            },
+            {
+                "definition": "A partial or total solar eclipse occurs when the moon passes between the sun and Earth, partially or completely blocking the sun’s light.",
+                "definition_hebrew": "ליקוי חמה חלקי או מלא מתרחש כאשר הירח עובר בין השמש לכדור הארץ, חוסם חלקית או מלאה את אור השמש.",
+                "example": "During the 2017 solar eclipse, millions of people witnessed a total solar eclipse as the Moon covered the Sun.",
+                "example_hebrew": "במהלך ליקוי החמה של 2017, מיליוני אנשים היו עדים לליקוי חמה מלא כשהירח כיסה את השמש."
+            },
+            {
+                "definition": "A lunar eclipse happens when the Earth passes between the Sun and the Moon, casting its shadow on the moon.",
+                "definition_hebrew": "ליקוי ירח מתרחש כאשר כדור הארץ עובר בין השמש לירח, ומטיל את צלו על הירח.",
+                "example": "The last lunar eclipse visible from our location occurred in 2015, with the entire event being broadcast live.",
+                "example_hebrew": "ליקוי הירח האחרון שנראה מהמיקום שלנו התרחש בשנת 2015, כשהאירוע כולו שודר בשידור חי."
+            }
+        ]
+    }
+]

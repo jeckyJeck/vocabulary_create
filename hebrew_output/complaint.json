@@ -1,0 +1,34 @@
+[
+    {
+        "word": "complaint",
+        "word_hebrew": "תְלוּנָה",
+        "main_definition": "A complaint is an expression of dissatisfaction or annoyance about a situation, often made formally to someone in authority.",
+        "main_definition_hebrew": "תלונה היא ביטוי של חוסר שביעות רצון או רוגז על מצב, לעתים קרובות מוגש באופן רשמי לגורם בעל סמכות.",
+        "meanings_and_examples": [
+            {
+                "definition": "An allegation that something is wrong or unsatisfactory",
+                "definition_hebrew": "טענה שמשהו לא בסדר או לא מספק",
+                "example": "She filed a complaint against her landlord for not fixing the heating system.",
+                "example_hebrew": "היא הגישה תלונה נגד בעל הבית על אי תיקון מערכת החימום."
+            },
+            {
+                "definition": "A written statement expressing dissatisfaction or annoyance about a service, product, or situation",
+                "definition_hebrew": "הצהרה בכתב המביעה חוסר שביעות רצון או רוגז לגבי שירות, מוצר או מצב",
+                "example": "He submitted a detailed complaint to the customer service department regarding his online shopping experience.",
+                "example_hebrew": "הוא הגיש תלונה מפורטת למחלקת שירות הלקוחות לגבי חווית הקנייה המקוונת שלו."
+            },
+            {
+                "definition": "An instance of lodging an official grievance in writing with someone who has power over you",
+                "definition_hebrew": "מקרה של הגשת תלונה רשמית בכתב עם מישהו שיש לו כוח עליך",
+                "example": "The employee filed a formal complaint against her supervisor for discrimination at work.",
+                "example_hebrew": "העובדת הגישה תלונה רשמית נגד הממונה עליה בגין אפליה בעבודה."
+            },
+            {
+                "definition": "A petition or request made to a person or organization, usually asking for some form of redress or relief from an issue or problem",
+                "definition_hebrew": "עצומה או בקשה שהוגשה לאדם או לארגון, בדרך כלל מבקשת צורה כלשהי של תיקון או סעד מבעיה או בעיה",
+                "example": "The citizens signed a community-wide complaint against the proposed construction project that threatened local wildlife.",
+                "example_hebrew": "האזרחים חתמו על תלונה כלל קהילתית נגד פרויקט הבנייה המוצע שאיים על חיות הבר המקומיות."
+            }
+        ]
+    }
+]

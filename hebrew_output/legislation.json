@@ -1,0 +1,28 @@
+[
+    {
+        "word": "legislation",
+        "word_hebrew": "חֲקִיקָה",
+        "main_definition": "The process of making or enacting laws, as well as the body of law established by such processes.",
+        "main_definition_hebrew": "תהליך ביצוע או חקיקת חוקים, כמו גם גוף החוקים שנקבע בתהליכים כאלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of creating and passing laws through a legislative body (such as a parliament or congress).",
+                "definition_hebrew": "הפעולה של יצירת חוקים והעברתם באמצעות גוף מחוקק (כגון פרלמנט או קונגרס).",
+                "example": "The government passed new legislation to address climate change.",
+                "example_hebrew": "הממשלה העבירה חקיקה חדשה לטיפול בשינויי האקלים."
+            },
+            {
+                "definition": "A collection of laws that have been enacted by a legislative body.",
+                "definition_hebrew": "אוסף חוקים שנחקקו על ידי גוף מחוקק.",
+                "example": "The Clean Air Act is an important piece of environmental legislation in the United States.",
+                "example_hebrew": "חוק האוויר הנקי הוא חלק חשוב בחקיקה סביבתית בארצות הברית."
+            },
+            {
+                "definition": "Legal regulations or rules prescribed by a legislative authority to govern conduct and activities within its jurisdiction.",
+                "definition_hebrew": "תקנות או כללים משפטיים שנקבעו על ידי רשות מחוקקת לשלוט על התנהגות ופעילויות בתחום השיפוט שלה.",
+                "example": "He was fined for violating the traffic legislation, which prohibits texting while driving.",
+                "example_hebrew": "הוא נקנס בגין הפרת חקיקת התעבורה, האוסרת לשלוח הודעות טקסט בזמן נהיגה."
+            }
+        ]
+    }
+]

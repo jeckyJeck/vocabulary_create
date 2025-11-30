@@ -1,0 +1,40 @@
+[
+    {
+        "word": "deleted",
+        "word_hebrew": "נמחק",
+        "main_definition": "To remove or eliminate something, especially from a list, document, or digital medium.",
+        "main_definition_hebrew": "כדי להסיר או לבטל משהו, במיוחד מרשימה, מסמך או מדיום דיגיטלי.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of files and documents, to erase or remove content or data permanently.",
+                "definition_hebrew": "בהקשר של קבצים ומסמכים, למחוק או להסיר תוכן או נתונים לצמיתות.",
+                "example": "After realizing she had accidentally deleted her project file, Emma frantically searched for a backup.",
+                "example_hebrew": "לאחר שהבינה שהיא מחקה בטעות את קובץ הפרויקט שלה, אמה חיפשה בטירוף גיבוי."
+            },
+            {
+                "definition": "To excise something from a written work or text",
+                "definition_hebrew": "לכרות משהו מיצירה כתובה או מטקסט",
+                "example": "The editor deleted several paragraphs to improve the flow of the article.",
+                "example_hebrew": "העורך מחק מספר פסקאות כדי לשפר את זרימת המאמר."
+            },
+            {
+                "definition": "In social media, to unfollow someone on platforms like Twitter or Instagram.",
+                "definition_hebrew": "במדיה החברתית, להפסיק לעקוב אחר מישהו בפלטפורמות כמו טוויטר או אינסטגרם.",
+                "example": "He decided to delete his ex-girlfriend's account from all his social media profiles after their breakup.",
+                "example_hebrew": "הוא החליט למחוק את החשבון של חברתו לשעבר מכל פרופילי המדיה החברתית שלו לאחר הפרידה."
+            },
+            {
+                "definition": "To remove an object or entity from a list, inventory, or database",
+                "definition_hebrew": "כדי להסיר אובייקט או ישות מרשימה, מלאי או מסד נתונים",
+                "example": "The librarian deleted the books that were overdue to update the library records.",
+                "example_hebrew": "הספרנית מחקה את הספרים שהיו באיחור לעדכון רישומי הספרייה."
+            },
+            {
+                "definition": "In telecommunications, to disconnect or terminate a service or line.",
+                "definition_hebrew": "בתקשורת, לנתק או לסיים שירות או קו.",
+                "example": "When he moved out of his home phone plan, John had to delete his old landline number from their system.",
+                "example_hebrew": "כשעזב את תוכנית הטלפון הביתי שלו, ג'ון נאלץ למחוק את המספר הקווי הישן שלו מהמערכת שלהם."
+            }
+        ]
+    }
+]

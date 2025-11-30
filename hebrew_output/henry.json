@@ -1,0 +1,28 @@
+[
+    {
+        "word": "henry",
+        "word_hebrew": "הנרי",
+        "main_definition": "Henry is a common English name or an idiom that can have multiple meanings depending on the context.",
+        "main_definition_hebrew": "הנרי הוא שם אנגלי נפוץ או ניב שיכול להיות בעל משמעויות מרובות בהתאם להקשר.",
+        "meanings_and_examples": [
+            {
+                "definition": "A person's first name, typically of English origin meaning 'defender of the faith'",
+                "definition_hebrew": "שמו הפרטי של אדם, בדרך כלל ממקור אנגלי שפירושו \"מגן האמונה\"",
+                "example": "Henry was born in London and named after his grandfather.",
+                "example_hebrew": "הנרי נולד בלונדון ונקרא על שם סבו."
+            },
+            {
+                "definition": "The unit of inductance, a measure of an object's ability to store energy in a magnetic field",
+                "definition_hebrew": "יחידת השראות, מדד ליכולת של עצם לאגור אנרגיה בשדה מגנטי",
+                "example": "A solenoid with 10 Henry has ten times the inductance compared to one with half that number.",
+                "example_hebrew": "לסולנואיד עם 10 הנרי יש פי עשרה השראות בהשוואה לסולנואיד עם חצי מהמספר הזה."
+            },
+            {
+                "definition": "An idiomatic expression referring to someone who is easily influenced or swayed by others' opinions or emotions",
+                "definition_hebrew": "ביטוי אידיומטי המתייחס למישהו המושפע או מושפע בקלות מדעות או רגשות של אחרים",
+                "example": "Henry was known among his friends as a henry because he often changed his stance on issues based on the latest trends.",
+                "example_hebrew": "הנרי היה ידוע בקרב חבריו כהנרי מכיוון שלעתים קרובות שינה את עמדתו בנושאים בהתבסס על המגמות האחרונות."
+            }
+        ]
+    }
+]

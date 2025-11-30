@@ -1,0 +1,34 @@
+[
+    {
+        "word": "container",
+        "word_hebrew": "מְכוֹלָה",
+        "main_definition": "A box, vessel or enclosure used to hold something.",
+        "main_definition_hebrew": "קופסה, כלי או מתחם המשמשים להחזיק משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "General storage unit",
+                "definition_hebrew": "יחידת אחסון כללית",
+                "example": "The plastic container in the kitchen where I store my food.",
+                "example_hebrew": "מיכל הפלסטיק במטבח שבו אני מאחסן את האוכל שלי."
+            },
+            {
+                "definition": "Shipping box or crate",
+                "definition_hebrew": "קופסת משלוח או ארגז",
+                "example": "A cardboard container used to ship goods across the country.",
+                "example_hebrew": "מיכל קרטון המשמש למשלוח סחורות לכל הארץ."
+            },
+            {
+                "definition": "Data storage device",
+                "definition_hebrew": "מכשיר אחסון נתונים",
+                "example": "The hard drive in my computer that holds all my files and documents.",
+                "example_hebrew": "הכונן הקשיח במחשב שלי שמכיל את כל הקבצים והמסמכים שלי."
+            },
+            {
+                "definition": "Athing or a system that holds something",
+                "definition_hebrew": "Athing או מערכת שמחזיקה משהו",
+                "example": "The classroom is like a container for knowledge, where students learn new things.",
+                "example_hebrew": "הכיתה היא כמו מיכל לידע, שבו התלמידים לומדים דברים חדשים."
+            }
+        ]
+    }
+]

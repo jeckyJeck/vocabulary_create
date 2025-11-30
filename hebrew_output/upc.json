@@ -1,0 +1,34 @@
+[
+    {
+        "word": "upc",
+        "word_hebrew": "upc",
+        "main_definition": "Universal Product Code (UPC) is a barcode symbology used worldwide to identify retail products in stores.",
+        "main_definition_hebrew": "קוד מוצר אוניברסלי (UPC) הוא סימבוליית ברקוד המשמשת ברחבי העולם לזיהוי מוצרים קמעונאיים בחנויות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Unique Product Code",
+                "definition_hebrew": "קוד מוצר ייחודי",
+                "example": "Each item in a store has a Unique Product Code (UPC) assigned to it for identification.",
+                "example_hebrew": "לכל פריט בחנות יש קוד מוצר ייחודי (UPC) שהוקצה לו לצורך זיהוי."
+            },
+            {
+                "definition": "Universal Product Code",
+                "definition_hebrew": "קוד מוצר אוניברסלי",
+                "example": "When scanning items at the checkout, the cashier uses a UPC scanner to read and process each product's barcode.",
+                "example_hebrew": "בעת סריקת פריטים בקופה, הקופאית משתמשת בסורק UPC כדי לקרוא ולעבד את הברקוד של כל מוצר."
+            },
+            {
+                "definition": "UPC-A barcode",
+                "definition_hebrew": "ברקוד UPC-A",
+                "example": "The black stripes on a packaged item represent its UPC-A barcode, which consists of 12 digits that identify the product.",
+                "example_hebrew": "הפסים השחורים על פריט ארוז מייצגים את הברקוד UPC-A שלו, המורכב מ-12 ספרות המזהות את המוצר."
+            },
+            {
+                "definition": "UPC-E standard for pricing",
+                "definition_hebrew": "תקן UPC-E לתמחור",
+                "example": "Some retailers use UPC-E to print price information on items in a more compact and readable format compared to traditional barcodes.",
+                "example_hebrew": "חלק מהקמעונאים משתמשים ב-UPC-E כדי להדפיס מידע על מחירים על פריטים בפורמט קומפקטי וקריא יותר בהשוואה לברקודים מסורתיים."
+            }
+        ]
+    }
+]

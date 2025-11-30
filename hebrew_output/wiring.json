@@ -1,0 +1,40 @@
+[
+    {
+        "word": "wiring",
+        "word_hebrew": "תִיוּל",
+        "main_definition": "The arrangement of conductors, typically in the form of cables or wires, used to carry electricity or signals within a building, device, or system.",
+        "main_definition_hebrew": "סידור המוליכים, בדרך כלל בצורה של כבלים או חוטים, המשמשים לשאת חשמל או אותות בתוך בניין, מכשיר או מערכת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Electrical connections and pathways",
+                "definition_hebrew": "חיבורי חשמל ושבילים",
+                "example": "The complex wiring inside an old house can be dangerous without proper maintenance.",
+                "example_hebrew": "החיווט המורכב בתוך בית ישן עלול להיות מסוכן ללא תחזוקה מתאימה."
+            },
+            {
+                "definition": "The process of installing electrical cables or conduits",
+                "definition_hebrew": "תהליך התקנת כבלים או צינורות חשמל",
+                "example": "Before moving into the new apartment, we had to hire professionals to redo the entire wiring system.",
+                "example_hebrew": "לפני המעבר לדירה החדשה, נאלצנו להזמין אנשי מקצוע שיבצעו מחדש את כל מערכת החיווט."
+            },
+            {
+                "definition": "A complex network within machinery",
+                "definition_hebrew": "רשת מורכבת בתוך מכונות",
+                "example": "The factory's assembly line required intricate wiring of sensors and actuators for efficient operation.",
+                "example_hebrew": "פס הייצור של המפעל דרש חיווט מורכב של חיישנים ומפעילים לתפעול יעיל."
+            },
+            {
+                "definition": "An arrangement or system that connects different elements",
+                "definition_hebrew": "סידור או מערכת המחברים בין אלמנטים שונים",
+                "example": "In a computer, the internal wiring determines how data is transferred between components.",
+                "example_hebrew": "במחשב, החיווט הפנימי קובע כיצד מועברים נתונים בין רכיבים."
+            },
+            {
+                "definition": "The organization of communication systems",
+                "definition_hebrew": "ארגון מערכות התקשורת",
+                "example": "Cell phone service providers manage complex wiring networks to ensure signal coverage across regions.",
+                "example_hebrew": "ספקי שירותי טלפונים סלולריים מנהלים רשתות חיווט מורכבות כדי להבטיח כיסוי אות בין אזורים."
+            }
+        ]
+    }
+]

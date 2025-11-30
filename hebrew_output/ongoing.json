@@ -1,0 +1,34 @@
+[
+    {
+        "word": "ongoing",
+        "word_hebrew": "מתמשך",
+        "main_definition": "Continuous or in progress without stopping.",
+        "main_definition_hebrew": "מתמשך או בתהליך ללא עצירה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Persisting over a period of time; not complete yet.",
+                "definition_hebrew": "מתמשך לאורך זמן; עדיין לא שלם.",
+                "example": "The renovation work on the building is an ongoing project.",
+                "example_hebrew": "עבודות השיפוץ בבניין הן פרויקט מתמשך."
+            },
+            {
+                "definition": "Continuing indefinitely, without apparent end or limit.",
+                "definition_hebrew": "ממשיכים ללא הגבלה, ללא סוף או גבול ניכרים.",
+                "example": "Ongoing efforts to address climate change are essential for our future.",
+                "example_hebrew": "מאמצים מתמשכים לטפל בשינויי האקלים חיוניים לעתידנו."
+            },
+            {
+                "definition": "Taking place concurrently with other events; happening at the same time as something else.",
+                "definition_hebrew": "מתקיימים במקביל לאירועים אחרים; מתרחש במקביל למשהו אחר.",
+                "example": "The negotiations between the two countries are ongoing while diplomatic relations remain tense.",
+                "example_hebrew": "המשא ומתן בין שתי המדינות נמשך בעוד היחסים הדיפלומטיים נותרו מתוחים."
+            },
+            {
+                "definition": "Describing a situation or process that is active and in progress, but not necessarily for an extended period.",
+                "definition_hebrew": "תיאור מצב או תהליך פעיל ונמצא בעיצומו, אך לאו דווקא לתקופה ממושכת.",
+                "example": "The team is working on improving its performance; these changes are currently ongoing.",
+                "example_hebrew": "הצוות עובד על שיפור הביצועים שלו; שינויים אלה נמשכים כעת."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "which",
+        "word_hebrew": "איזה",
+        "main_definition": "The word 'which' is a relative pronoun used to introduce clauses that provide additional information about preceding words or phrases, often in the form of questions or relative clauses.",
+        "main_definition_hebrew": "המילה 'אשר' היא כינוי יחסי המשמש להכנסת סעיפים המספקים מידע נוסף על מילים או ביטויים קודמות, לעתים קרובות בצורה של שאלות או סעיפים יחסיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Used to ask for specific information about people or things previously mentioned",
+                "definition_hebrew": "משמש לבקש מידע ספציפי על אנשים או דברים שהוזכרו קודם לכן",
+                "example": "Which book do you prefer, the one on the top shelf or the other?",
+                "example_hebrew": "איזה ספר אתם מעדיפים, האחד במדף העליון או השני?"
+            },
+            {
+                "definition": "Introduces a relative clause that gives more details about something previously mentioned in the sentence",
+                "definition_hebrew": "מציג סעיף יחסי שנותן פרטים נוספים על משהו שהוזכר קודם במשפט",
+                "example": "The car, which was red and had leather seats, caught everyone's attention.",
+                "example_hebrew": "המכונית, שהייתה אדומה ובעלת מושבי עור, משכה את תשומת הלב של כולם."
+            },
+            {
+                "definition": "Used to point out one option among others, especially when there are several possible answers or choices",
+                "definition_hebrew": "משמש להצביע על אפשרות אחת בין היתר, במיוחד כאשר ישנן מספר תשובות או אפשרויות אפשריות",
+                "example": "Which route should we take for our road trip? The coastal highway or the mountain pass?",
+                "example_hebrew": "באיזה מסלול עלינו ללכת לטיול הכביש שלנו? כביש החוף או מעבר ההרים?"
+            },
+            {
+                "definition": "Can also be used informally in questions that don't require a specific answer but rather express surprise, disbelief, or an attempt to confirm understanding",
+                "definition_hebrew": "יכול לשמש גם בשאלות שאינן דורשות תשובה ספציפית אלא מבטאות הפתעה, חוסר אמון או ניסיון לאשש הבנה",
+                "example": "Which you didn't think I would ask!",
+                "example_hebrew": "מה שלא חשבת שאשאל!"
+            },
+            {
+                "definition": "Used in formal writing and speeches as a tool to introduce complex sentences that provide essential information about the subject matter.",
+                "definition_hebrew": "משמש בכתיבה פורמלית ובנאומים ככלי להכנסת משפטים מורכבים המספקים מידע חיוני על הנושא.",
+                "example": "The researchers, which were conducting experiments on climate change, published their findings last week.",
+                "example_hebrew": "החוקרים, שערכו ניסויים בשינויי אקלים, פרסמו את ממצאיהם בשבוע שעבר."
+            }
+        ]
+    }
+]

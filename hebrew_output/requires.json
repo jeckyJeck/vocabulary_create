@@ -1,0 +1,40 @@
+[
+    {
+        "word": "requires",
+        "word_hebrew": "דורש",
+        "main_definition": "To need or demand something as necessary or essential.",
+        "main_definition_hebrew": "להזדקק או לדרוש משהו כנדרש או חיוני.",
+        "meanings_and_examples": [
+            {
+                "definition": "To need a specific skill, ability, or qualification for completing a task or achieving an outcome.",
+                "definition_hebrew": "להזדקק למיומנות, יכולת או הסמכה ספציפיים לצורך השלמת משימה או השגת תוצאה.",
+                "example": "This job requires excellent communication skills.",
+                "example_hebrew": "עבודה זו דורשת כישורי תקשורת מעולים."
+            },
+            {
+                "definition": "To demand something as necessary to make a situation better or more effective.",
+                "definition_hebrew": "לדרוש משהו לפי הצורך כדי להפוך מצב טוב יותר או יעיל יותר.",
+                "example": "The project requires additional resources and manpower.",
+                "example_hebrew": "הפרויקט דורש משאבים נוספים וכוח אדם."
+            },
+            {
+                "definition": "To need a particular item, condition, or circumstance in order for something else to function properly or exist.",
+                "definition_hebrew": "צריך פריט, מצב או נסיבות מסוימות כדי שמשהו אחר יתפקד כראוי או יתקיים.",
+                "example": "This computer requires an operating system to run applications.",
+                "example_hebrew": "מחשב זה דורש מערכת הפעלה כדי להפעיל יישומים."
+            },
+            {
+                "definition": "To necessitate the use of certain criteria or standards before proceeding with an action or decision.",
+                "definition_hebrew": "לחייב שימוש בקריטריונים או סטנדרטים מסוימים לפני המשך פעולה או החלטה.",
+                "example": "The court case requires meeting specific evidentiary requirements.",
+                "example_hebrew": "תיק בית המשפט מחייב עמידה בדרישות ראייתיות ספציפיות."
+            },
+            {
+                "definition": "To call for a particular effort, contribution, or response from someone in order to achieve a goal or solve a problem.",
+                "definition_hebrew": "לקרוא למאמץ, תרומה או תגובה מסוימת ממישהו כדי להשיג מטרה או לפתור בעיה.",
+                "example": "We require your participation in this important community event.",
+                "example_hebrew": "אנו דורשים את השתתפותכם באירוע קהילתי חשוב זה."
+            }
+        ]
+    }
+]

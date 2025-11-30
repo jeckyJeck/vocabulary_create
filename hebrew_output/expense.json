@@ -1,0 +1,40 @@
+[
+    {
+        "word": "expense",
+        "word_hebrew": "הוֹצָאָה",
+        "main_definition": "Expense refers to the act of spending money or resources, often associated with costs incurred by individuals, businesses, or governments.",
+        "main_definition_hebrew": "הוצאה מתייחסת לפעולת הוצאת כסף או משאבים, הקשורים לעתים קרובות לעלויות שנגרמו ליחידים, עסקים או ממשלות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The cost incurred for goods and services used during an accounting period.",
+                "definition_hebrew": "העלות שנגרמה עבור סחורות ושירותים ששימשו במהלך תקופה חשבונאית.",
+                "example": "At the end of the year, the company calculated its total expenses to determine net profit.",
+                "example_hebrew": "בסוף השנה חישבה החברה את סך הוצאותיה לקביעת הרווח הנקי."
+            },
+            {
+                "definition": "An action or process that results in financial loss or outlay.",
+                "definition_hebrew": "פעולה או תהליך שמביאים להפסד כספי או הוצאה כספית.",
+                "example": "The homeowner faced a significant expense when repairing damage caused by a storm.",
+                "example_hebrew": "בעל הבית עמד בפני הוצאה משמעותית בעת תיקון נזקים שנגרמו מסופה."
+            },
+            {
+                "definition": "A charge for something consumed or used, such as electricity, fuel, or other resources.",
+                "definition_hebrew": "תשלום עבור משהו שנצרך או נעשה בו שימוש, כגון חשמל, דלק או משאבים אחרים.",
+                "example": "Her phone bill showed various monthly expenses, including data usage and calls made.",
+                "example_hebrew": "חשבון הטלפון שלה הראה הוצאות חודשיות שונות, כולל שימוש בנתונים ושיחות שבוצעו."
+            },
+            {
+                "definition": "The amount of money spent on items that are not capital in nature but necessary for daily functioning.",
+                "definition_hebrew": "כמות הכסף שהוצאה על פריטים שאינם הוניים בטבעם אך הכרחיים לתפקוד יומיומי.",
+                "example": "Groceries, transportation costs, and utility bills are examples of typical monthly expenses.",
+                "example_hebrew": "מצרכים, עלויות הובלה וחשבונות חשמל הם דוגמאות להוצאות חודשיות טיפוסיות."
+            },
+            {
+                "definition": "A deduction from revenue or income as a result of spending money on particular items or services.",
+                "definition_hebrew": "ניכוי מהכנסה או הכנסה כתוצאה מהוצאת כסף על פריטים או שירותים מסוימים.",
+                "example": "In the business's financial statement, 'expense' was listed under operating costs to reduce overall profitability.",
+                "example_hebrew": "בדוח הכספי של העסק נרשמה 'הוצאה' תחת עלויות תפעול להפחתת הרווחיות הכוללת."
+            }
+        ]
+    }
+]

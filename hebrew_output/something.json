@@ -1,0 +1,34 @@
+[
+    {
+        "word": "something",
+        "word_hebrew": "משהו",
+        "main_definition": "A term used to refer to an unspecified or unknown object, action, or idea.",
+        "main_definition_hebrew": "מונח המשמש להתייחס לאובייקט, פעולה או רעיון לא מוגדר או לא ידוע.",
+        "meanings_and_examples": [
+            {
+                "definition": "An indefinite thing or person; anything at all. Used when the exact identity is not known.",
+                "definition_hebrew": "דבר או אדם בלתי מוגדר; כל דבר. משמש כאשר הזהות המדויקת אינה ידועה.",
+                "example": "I need something to write with.",
+                "example_hebrew": "אני צריך משהו לכתוב איתו."
+            },
+            {
+                "definition": "A small amount of a substance, often used to indicate that there isn't much of it available.",
+                "definition_hebrew": "כמות קטנה של חומר, משמשת לעתים קרובות כדי לציין שאין הרבה ממנו זמין.",
+                "example": "He had nothing to eat at home, so he brought some something from the store.",
+                "example_hebrew": "לא היה לו מה לאכול בבית, אז הוא הביא משהו מהחנות."
+            },
+            {
+                "definition": "An unspecified or unknown thing in an abstract sense; a certain amount or quality not specified by quantity or degree.",
+                "definition_hebrew": "דבר לא מוגדר או לא ידוע במובן מופשט; כמות מסוימת או איכות שאינה מוגדרת לפי כמות או תואר.",
+                "example": "The teacher asked them for something that would demonstrate their understanding of the topic.",
+                "example_hebrew": "המורה ביקשה מהם משהו שימחיש את הבנתם בנושא."
+            },
+            {
+                "definition": "Used to describe any object, action, or idea when it is not specific or particular.",
+                "definition_hebrew": "משמש לתיאור כל אובייקט, פעולה או רעיון כאשר הוא אינו ספציפי או מסוים.",
+                "example": "She's looking for something interesting in this book.",
+                "example_hebrew": "היא מחפשת משהו מעניין בספר הזה."
+            }
+        ]
+    }
+]

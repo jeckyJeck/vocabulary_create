@@ -1,0 +1,40 @@
+[
+    {
+        "word": "title",
+        "word_hebrew": "כותרת",
+        "main_definition": "A title refers to the name or designation given to a person, object, work of art, book, movie, or other entity that signifies its nature, importance, or ownership.",
+        "main_definition_hebrew": "כותרת מתייחסת לשם או לייעוד שניתן לאדם, חפץ, יצירת אמנות, ספר, סרט או ישות אחרת המסמלת את אופיו, חשיבותו או בעלותו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Name or designation for a person",
+                "definition_hebrew": "שם או ייעוד לאדם",
+                "example": "Her title as the CEO of the company is 'Chief Executive Officer'.",
+                "example_hebrew": "התואר שלה כמנכ\"ל החברה הוא 'מנכ\"ל'."
+            },
+            {
+                "definition": "Designation given to a work of art, book, movie etc.",
+                "definition_hebrew": "ייעוד שניתן ליצירת אמנות, ספר, סרט וכו'.",
+                "example": "'The Great Gatsby' is often referred to by its title only when discussing it as an iconic American novel.",
+                "example_hebrew": "\"גטסבי הגדול\" מכונה לעתים קרובות בכותרתו רק כאשר דנים בו כרומן אמריקאי איקוני."
+            },
+            {
+                "definition": "A name given to something for identification or ownership",
+                "definition_hebrew": "שם שניתן למשהו לשם זיהוי או בעלות",
+                "example": "When buying a car, the manufacturer's model and make (e.g., 'Toyota Camry') serve as its title.",
+                "example_hebrew": "בעת רכישת רכב, הדגם והמותג של היצרן (למשל, 'טויוטה קאמרי') משמשים ככותרתו."
+            },
+            {
+                "definition": "Heading of a written work such as a book or article",
+                "definition_hebrew": "כותרת של עבודה כתובה כגון ספר או מאמר",
+                "example": "'The History of Rome' is the title given to the book, indicating the subject matter it covers.",
+                "example_hebrew": "'ההיסטוריה של רומא' היא הכותרת שניתנה לספר, המציינת את הנושא שהוא מכסה."
+            },
+            {
+                "definition": "A phrase used in certain situations that carries particular meaning",
+                "definition_hebrew": "ביטוי המשמש במצבים מסוימים הנושא משמעות מסוימת",
+                "example": "'Title deeds' refers not only to legal documents but also colloquially means owning or controlling something.",
+                "example_hebrew": "'שטרי בעלות' מתייחס לא רק למסמכים משפטיים אלא גם פירושו בשפה הרווחת בעלות או שליטה במשהו."
+            }
+        ]
+    }
+]

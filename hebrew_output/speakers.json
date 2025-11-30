@@ -1,0 +1,28 @@
+[
+    {
+        "word": "speakers",
+        "word_hebrew": "רמקולים",
+        "main_definition": "Speakers refer to devices or individuals who produce sound, typically in the context of a public presentation or speech.",
+        "main_definition_hebrew": "רמקולים מתייחסים למכשירים או אנשים שמפיקים צליל, בדרך כלל בהקשר של מצגת או נאום פומבי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Devices used for amplifying and projecting sound during presentations or speeches",
+                "definition_hebrew": "מכשירים המשמשים להגברה והקרנת סאונד במהלך מצגות או נאומים",
+                "example": "The conference room was equipped with powerful speakers to ensure everyone in the audience could hear clearly.",
+                "example_hebrew": "חדר הישיבות היה מצויד ברמקולים חזקים כדי להבטיח שכל אחד מהקהל יוכל לשמוע בבירור."
+            },
+            {
+                "definition": "A person who delivers a spoken presentation, often at public gatherings or events",
+                "definition_hebrew": "אדם המעביר מצגת מדוברת, לעתים קרובות במפגשים ציבוריים או באירועים",
+                "example": "The motivational speaker inspired the audience with her words and personal anecdotes about overcoming adversity.",
+                "example_hebrew": "דוברת המוטיבציה העניקה השראה לקהל במילותיה ובאנקדוטות אישיות על התגברות על מצוקה."
+            },
+            {
+                "definition": "An individual assigned to represent a group's views during a debate or discussion",
+                "definition_hebrew": "אדם שהוקצה לייצג דעות של קבוצה במהלך דיון או דיון",
+                "example": "Each political party selected its speakers for the televised presidential debate, ready to articulate their policies and respond to opponents.",
+                "example_hebrew": "כל מפלגה בחרה את הדוברים שלה לדיון הנשיאותי המשודר בטלוויזיה, מוכנה לנסח את מדיניותה ולהגיב למתנגדים."
+            }
+        ]
+    }
+]

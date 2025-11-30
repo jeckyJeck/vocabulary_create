@@ -1,0 +1,34 @@
+[
+    {
+        "word": "diary",
+        "word_hebrew": "יְוֹמָן",
+        "main_definition": "A diary is a personal journal where individuals record their thoughts, experiences, emotions, and daily activities over time.",
+        "main_definition_hebrew": "יומן הוא יומן אישי שבו אנשים מתעדים את מחשבותיהם, חוויותיהם, רגשותיהם ופעילותם היומיומית לאורך זמן.",
+        "meanings_and_examples": [
+            {
+                "definition": "A book or electronic document in which an individual records events, personal reflections, and feelings.",
+                "definition_hebrew": "ספר או מסמך אלקטרוני שבו אדם מתעד אירועים, הרהורים אישיים ורגשות.",
+                "example": "Every night before going to bed, Sarah wrote about her day's experiences in her diary.",
+                "example_hebrew": "כל ערב לפני השינה כתבה שרה ביומנה על חוויות היום שלה."
+            },
+            {
+                "definition": "An account of one's life, often used as a historical record by individuals for future reference or posterity.",
+                "definition_hebrew": "תיאור של חייו של אדם, המשמש לעתים קרובות כתיעוד היסטורי על ידי אנשים לעיון עתידי או לדורות הבאים.",
+                "example": "Historians frequently refer to the private journals kept by notable figures during significant periods to understand their perspective and experiences.",
+                "example_hebrew": "היסטוריונים מתייחסים לעתים קרובות לכתבי העת הפרטיים שנשמרו על ידי דמויות בולטות במהלך תקופות משמעותיות כדי להבין את נקודת המבט והחוויות שלהם."
+            },
+            {
+                "definition": "A logbook that records events in sequential order, often used by businesses for tracking daily operations or personal usage for keeping track of specific activities.",
+                "definition_hebrew": "יומן המתעד אירועים בסדר עוקב, המשמש לרוב עסקים למעקב אחר פעולות יומיומיות או שימוש אישי למעקב אחר פעילויות ספציפיות.",
+                "example": "The construction company maintained a diary of work hours, completed tasks, and issues encountered on the job site.",
+                "example_hebrew": "חברת הבנייה ניהלה יומן של שעות עבודה, ביצוע משימות ובעיות שנתקלו באתר העבודה."
+            },
+            {
+                "definition": "An entry in a record book that documents daily occurrences, particularly those relevant to personal development or growth.",
+                "definition_hebrew": "רישום בספר תיעוד המתעד התרחשויות יומיומיות, במיוחד אלו הרלוונטיות להתפתחות או צמיחה אישית.",
+                "example": "In his self-improvement book, author John Doe dedicated each chapter as an 'episode' of his life diary entries.",
+                "example_hebrew": "בספרו לשיפור עצמי, הסופר ג'ון דו הקדיש כל פרק כ'פרק' של רשומות יומן חייו."
+            }
+        ]
+    }
+]

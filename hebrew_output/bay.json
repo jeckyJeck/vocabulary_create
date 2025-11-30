@@ -1,0 +1,34 @@
+[
+    {
+        "word": "bay",
+        "word_hebrew": "מִפרָץ",
+        "main_definition": "A bay is a body of water partially enclosed by land, with a wide mouth opening to the sea or ocean.",
+        "main_definition_hebrew": "מפרץ הוא גוף מים סגור חלקית ביבשה, עם פה רחב הנפתח אל הים או האוקיינוס.",
+        "meanings_and_examples": [
+            {
+                "definition": "Nautical term for an indentation in coastline",
+                "definition_hebrew": "כינוי ימי לשקע בקו החוף",
+                "example": "The San Francisco Bay separates the city from the Pacific Ocean.",
+                "example_hebrew": "מפרץ סן פרנסיסקו מפריד בין העיר לאוקיינוס השקט."
+            },
+            {
+                "definition": "A sheltered area of water, typically large and deep enough for ships to anchor safely",
+                "definition_hebrew": "אזור מוגן של מים, בדרך כלל גדול ועמוק מספיק כדי שספינות לעגון בבטחה",
+                "example": "Merchant ships can find safe harbor in the Chesapeake Bay during stormy weather.",
+                "example_hebrew": "ספינות סוחר יכולות למצוא נמל בטוח במפרץ צ'ספיק במהלך מזג אוויר סוער."
+            },
+            {
+                "definition": "An idiomatic expression meaning a small piece or portion of something larger",
+                "definition_hebrew": "ביטוי אידיומטי שפירושו חתיכה קטנה או חלק ממשהו גדול יותר",
+                "example": "The project is just a bay for our company's overall business strategy.",
+                "example_hebrew": "הפרויקט הוא רק מפרץ לאסטרטגיה העסקית הכוללת של החברה שלנו."
+            },
+            {
+                "definition": "A unit of measurement equal to one fathom, used especially in the context of fishing or sailing",
+                "definition_hebrew": "יחידת מדידה השווה לאב אחד, המשמשת במיוחד בהקשר של דיג או שיט",
+                "example": "The depth of this bay reaches 30 fathoms, suitable for deep-sea diving.",
+                "example_hebrew": "עומקו של מפרץ זה מגיע ל-30 פטמים, מתאים לצלילה בעומק הים."
+            }
+        ]
+    }
+]

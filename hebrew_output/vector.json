@@ -1,0 +1,40 @@
+[
+    {
+        "word": "vector",
+        "word_hebrew": "וֶקטוֹר",
+        "main_definition": "In various contexts, a vector is an entity that has both magnitude (size) and direction.",
+        "main_definition_hebrew": "בהקשרים שונים, וקטור הוא ישות שיש לה גם גודל (גודל) וגם כיוון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mathematical concept",
+                "definition_hebrew": "מושג מתמטי",
+                "example": "A three-dimensional arrow pointing in the x, y, z directions represents a mathematical vector.",
+                "example_hebrew": "חץ תלת מימדי המצביע בכיווני x, y, z מייצג וקטור מתמטי."
+            },
+            {
+                "definition": "Physics and engineering term for force or motion direction",
+                "definition_hebrew": "מונח פיזיקה והנדסה לכיוון כוח או תנועה",
+                "example": "The velocity of an object is a vector since it has both speed (magnitude) and direction.",
+                "example_hebrew": "המהירות של עצם היא וקטור מכיוון שיש לו גם מהירות (גודל) וגם כיוון."
+            },
+            {
+                "definition": "Computer science data structure",
+                "definition_hebrew": "מבנה נתונים במדעי המחשב",
+                "example": "A list of coordinates representing the location of points in space, like the pixels on a screen, can be represented as a set of vectors.",
+                "example_hebrew": "רשימה של קואורדינטות המייצגות את מיקומן של נקודות במרחב, כמו הפיקסלים על מסך, יכולה להיות מיוצגת כקבוצה של וקטורים."
+            },
+            {
+                "definition": "Statistical concept for direction and magnitude of differences between observations",
+                "definition_hebrew": "מושג סטטיסטי לכיוון וגודל ההבדלים בין תצפיות",
+                "example": "In principal component analysis, data is transformed into a new coordinate system where the greatest variance by any projection of the data comes to lie on the first axis (vector).",
+                "example_hebrew": "בניתוח רכיבים עיקריים, הנתונים הופכים למערכת קואורדינטות חדשה שבה השונות הגדולה ביותר לפי כל הקרנה של הנתונים מגיעה לציר הראשון (וקטור)."
+            },
+            {
+                "definition": "Biology term describing physical properties in an organism's phenotype",
+                "definition_hebrew": "מונח ביולוגיה המתאר תכונות פיזיקליות בפנוטיפ של אורגניזם",
+                "example": "The orientation of certain cells or tissues can be considered vectors as they have a specific direction and length.",
+                "example_hebrew": "הכיוון של תאים או רקמות מסוימים יכול להיחשב לוקטורים מכיוון שיש להם כיוון ואורך ספציפיים."
+            }
+        ]
+    }
+]

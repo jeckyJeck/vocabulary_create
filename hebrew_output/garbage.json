@@ -1,0 +1,28 @@
+[
+    {
+        "word": "garbage",
+        "word_hebrew": "אַשׁפָּה",
+        "main_definition": "Garbage refers to waste material, particularly that which is no longer useful or desired.",
+        "main_definition_hebrew": "אשפה מתייחסת לחומר פסולת, במיוחד זה שכבר אינו שימושי או רצוי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Discarded rubbish or waste material.",
+                "definition_hebrew": "אשפה או פסולת מושלך.",
+                "example": "The garbage truck came by to collect the weekly refuse.",
+                "example_hebrew": "משאית האשפה הגיעה לאסוף את האשפה השבועית."
+            },
+            {
+                "definition": "Something considered worthless, useless, or of poor quality.",
+                "definition_hebrew": "משהו שנחשב חסר ערך, חסר תועלת או באיכות ירודה.",
+                "example": "His excuse was just garbage; I didn't believe a word of it.",
+                "example_hebrew": "התירוץ שלו היה רק זבל; לא האמנתי לאף מילה מזה."
+            },
+            {
+                "definition": "A derogatory term used to express contempt towards someone or something perceived as unworthy or undesirable.",
+                "definition_hebrew": "מונח גנאי המשמש להבעת זלזול כלפי מישהו או משהו שנתפס כלא ראוי או לא רצוי.",
+                "example": "When he tried to argue, she dismissed his opinions as garbage.",
+                "example_hebrew": "כשניסה להתווכח, היא ביטלה את דעותיו כזבל."
+            }
+        ]
+    }
+]

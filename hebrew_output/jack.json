@@ -1,0 +1,34 @@
+[
+    {
+        "word": "jack",
+        "word_hebrew": "ג'ֵק",
+        "main_definition": "A versatile word with multiple meanings, including a tool used to lift heavy loads, a nickname or term of endearment, an informal name for the King card in some games, and slang referring to someone who is adept at various activities.",
+        "main_definition_hebrew": "מילה רב-תכליתית בעלת משמעויות מרובות, כולל כלי המשמש להרמת משאות כבדים, כינוי או מונח חיבה, שם לא רשמי לקלף המלך במשחקים מסוימים, וסלנג המתייחס למישהו שמיומן בפעילויות שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A mechanical device used to lift heavy loads",
+                "definition_hebrew": "מכשיר מכני המשמש להרמת משאות כבדים",
+                "example": "The construction workers use a jack to elevate the car for repairs.",
+                "example_hebrew": "פועלי הבניין משתמשים בג'ק כדי להגביה את המכונית לצורך תיקונים."
+            },
+            {
+                "definition": "An affectionate term of endearment or nickname for a male person",
+                "definition_hebrew": "מונח חיבה של חיבה או כינוי לאדם זכר",
+                "example": "John's friends call him 'Jackie', short for Jack.",
+                "example_hebrew": "חבריו של ג'ון קוראים לו 'ג'קי', קיצור של ג'ק."
+            },
+            {
+                "definition": "Informal name for the King card in some games, such as poker and bridge",
+                "definition_hebrew": "שם לא רשמי לכרטיס המלך במשחקים מסוימים, כגון פוקר ובריג'",
+                "example": "The player was dealt a jack of hearts, which is considered lucky.",
+                "example_hebrew": "השחקן קיבל ג'ק של לבבות, שנחשב למזל."
+            },
+            {
+                "definition": "Slang referring to someone who excels or is skilled at various activities",
+                "definition_hebrew": "סלנג מתייחס למי שמצטיין או מיומן בפעילויות שונות",
+                "example": "He's quite the jacks of all trades, always fixing things around the house and taking care of his family.",
+                "example_hebrew": "הוא מקצוען למדי, תמיד מתקן דברים בבית ודואג למשפחתו."
+            }
+        ]
+    }
+]

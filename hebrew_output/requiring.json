@@ -1,0 +1,34 @@
+[
+    {
+        "word": "requiring",
+        "word_hebrew": "דורש",
+        "main_definition": "Requiring refers to needing something or being in a state where certain conditions, resources, or actions are necessary.",
+        "main_definition_hebrew": "דרישה מתייחסת להזדקקות למשהו או להיות במצב שבו נחוצים תנאים, משאבים או פעולות מסוימים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Needing an action or condition",
+                "definition_hebrew": "צריך פעולה או תנאי",
+                "example": "The project is requiring regular maintenance.",
+                "example_hebrew": "הפרויקט דורש תחזוקה שוטפת."
+            },
+            {
+                "definition": "Necessary for fulfilling a goal or requirement",
+                "definition_hebrew": "הכרחי להגשמת מטרה או דרישה",
+                "example": "This software requires advanced technical knowledge to operate efficiently.",
+                "example_hebrew": "תוכנה זו דורשת ידע טכני מתקדם כדי לפעול ביעילות."
+            },
+            {
+                "definition": "Needing additional resources or support",
+                "definition_hebrew": "זקוק למשאבים נוספים או לתמיכה",
+                "example": "The event is requiring extra security measures due to its size and importance.",
+                "example_hebrew": "האירוע מצריך אמצעי אבטחה נוספים בשל גודלו וחשיבותו."
+            },
+            {
+                "definition": "Requiring approval before proceeding",
+                "definition_hebrew": "דורש אישור לפני שתמשיך",
+                "example": "Your proposal requires the manager's sign-off before implementation can begin.",
+                "example_hebrew": "ההצעה שלך מחייבת את אישור המנהל לפני שניתן להתחיל ביישום."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "handbook",
+        "word_hebrew": "חוברת הדרכה",
+        "main_definition": "A handbook is a comprehensive guide or reference book providing detailed information, instructions, or guidance on a specific topic, subject, or activity.",
+        "main_definition_hebrew": "מדריך הוא מדריך מקיף או ספר עיון המספק מידע מפורט, הנחיות או הדרכה בנושא, נושא או פעילות ספציפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A general manual for beginners offering basic knowledge and guidelines",
+                "definition_hebrew": "מדריך כללי למתחילים המציע ידע והנחיות בסיסיות",
+                "example": "The first aid handbook provides essential steps to follow in case of emergency.",
+                "example_hebrew": "ספר העזרה הראשונה מספק צעדים חיוניים שיש לבצע במקרה חירום."
+            },
+            {
+                "definition": "An official guide outlining rules, regulations or procedures within an organization",
+                "definition_hebrew": "מדריך רשמי המתאר כללים, תקנות או נהלים בתוך ארגון",
+                "example": "A company's employee handbook lays out the code of conduct and policies employees must adhere to.",
+                "example_hebrew": "מדריך לעובדים של חברה מפרט את קוד ההתנהגות והמדיניות שהעובדים צריכים לדבוק בהם."
+            },
+            {
+                "definition": "A reference book providing information on a specific subject, typically used for quick look-ups",
+                "definition_hebrew": "ספר עיון המספק מידע על נושא ספציפי, המשמש בדרך כלל לחיפוש מהיר",
+                "example": "The astronomy handbook contains detailed charts and explanations about celestial bodies.",
+                "example_hebrew": "מדריך האסטרונומיה מכיל תרשימים מפורטים והסברים על גרמי שמיים."
+            },
+            {
+                "definition": "A manual offering step-by-step instructions or guidelines to perform certain tasks or activities",
+                "definition_hebrew": "מדריך המציע הוראות שלב אחר שלב או הנחיות לביצוע משימות או פעילויות מסוימות",
+                "example": "A cooking handbook includes recipes with precise measurements and timings for various dishes.",
+                "example_hebrew": "מדריך לבישול כולל מתכונים עם מידות ותזמונים מדויקים למנות שונות."
+            }
+        ]
+    }
+]

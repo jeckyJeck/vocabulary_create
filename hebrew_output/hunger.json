@@ -1,0 +1,34 @@
+[
+    {
+        "word": "hunger",
+        "word_hebrew": "רעב",
+        "main_definition": "Hunger is a feeling of discomfort or weakness caused by lack of food, coupled with the desire to eat.",
+        "main_definition_hebrew": "רעב הוא תחושת אי נוחות או חולשה הנגרמת ממחסור באוכל, יחד עם הרצון לאכול.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical hunger due to not having eaten for an extended period",
+                "definition_hebrew": "רעב פיזי עקב אי אכילה במשך תקופה ממושכת",
+                "example": "After a long day without lunch, I felt the physical hunger gnawing at my stomach.",
+                "example_hebrew": "אחרי יום ארוך ללא ארוחת צהריים, הרגשתי את הרעב הפיזי מכרסם לי בבטן."
+            },
+            {
+                "definition": "Economic hunger or poverty leading to inability to afford food",
+                "definition_hebrew": "רעב כלכלי או עוני מובילים לחוסר יכולת לממן מזון",
+                "example": "The community faced severe economic hunger as many families could not buy enough food for their children.",
+                "example_hebrew": "הקהילה התמודדה עם רעב כלכלי קשה מאחר שמשפחות רבות לא יכלו לקנות מספיק מזון לילדיהן."
+            },
+            {
+                "definition": "Political or social unrest causing scarcity of resources including food",
+                "definition_hebrew": "אי שקט פוליטי או חברתי הגורם למחסור במשאבים כולל מזון",
+                "example": "During the war, political hunger caused disruptions in food supply leading to widespread starvation.",
+                "example_hebrew": "במהלך המלחמה, הרעב הפוליטי גרם לשיבושים באספקת המזון שהובילו לרעב נרחב."
+            },
+            {
+                "definition": "In a metaphorical sense, representing an insatiable desire or craving for something",
+                "definition_hebrew": "במובן מטפורי, מייצג תשוקה שאינה יודעת שובע או כמיהה למשהו",
+                "example": "His obsession with collecting rare stamps showed a hunger that was hard to satisfy.",
+                "example_hebrew": "האובססיה שלו לאיסוף בולים נדירים הראתה רעב שקשה היה להשביע."
+            }
+        ]
+    }
+]

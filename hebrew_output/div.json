@@ -1,0 +1,28 @@
+[
+    {
+        "word": "div",
+        "word_hebrew": "div",
+        "main_definition": "In computing, 'div' is a command used in many programming languages to perform division between two numbers.",
+        "main_definition_hebrew": "במחשוב, 'div' היא פקודה המשמשת בשפות תכנות רבות לביצוע חלוקה בין שני מספרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An abbreviation for 'Division', which refers to the process of splitting something into smaller parts or groups.",
+                "definition_hebrew": "קיצור של 'חלוקה', המתייחס לתהליך של פיצול משהו לחלקים או קבוצות קטנות יותר.",
+                "example": "The teacher asked students to divide themselves into teams of four.",
+                "example_hebrew": "המורה ביקשה מהתלמידים לחלק את עצמם לצוותים של ארבעה."
+            },
+            {
+                "definition": "A command in programming languages like C, C++, and Java that performs integer division between two numbers.",
+                "definition_hebrew": "פקודה בשפות תכנות כמו C, C++ ו-Java המבצעת חלוקת מספרים שלמים בין שני מספרים.",
+                "example": "In the code snippet `int result = 10 / 2;`, 'div' is used to divide 10 by 2.",
+                "example_hebrew": "בקטע הקוד `int result = 10 / 2;`, 'div' משמש לחלק 10 ב-2."
+            },
+            {
+                "definition": "A unit of measurement equal to one-fourth of a degree in temperature, often seen in weather forecasts.",
+                "definition_hebrew": "יחידת מדידה השווה לרבע מעלה בטמפרטורה, שרואים לעתים קרובות בתחזיות מזג אוויר.",
+                "example": "The temperature dropped from 45 degrees Fahrenheit to 37.5 degrees 'div'.",
+                "example_hebrew": "הטמפרטורה ירדה מ-45 מעלות פרנהייט ל-37.5 מעלות 'div'."
+            }
+        ]
+    }
+]

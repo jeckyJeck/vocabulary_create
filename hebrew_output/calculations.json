@@ -1,0 +1,28 @@
+[
+    {
+        "word": "calculations",
+        "word_hebrew": "חישובים",
+        "main_definition": "The process of determining a numerical value based on mathematical formulas or computations.",
+        "main_definition_hebrew": "תהליך קביעת ערך מספרי על סמך נוסחאות או חישובים מתמטיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mathematical operations used to determine an outcome, such as adding, subtracting, multiplying, or dividing numbers.",
+                "definition_hebrew": "פעולות מתמטיות המשמשות לקביעת תוצאה, כגון חיבור, חיסור, הכפל או חלוקה של מספרים.",
+                "example": "She did the calculations and found that she would need $200 for groceries this month.",
+                "example_hebrew": "היא עשתה את החישובים ומצאה שהיא תצטרך 200 דולר למצרכים החודש."
+            },
+            {
+                "definition": "The act of assessing or estimating a particular value through mathematical methods, often involving complex formulas or algorithms.",
+                "definition_hebrew": "הפעולה של הערכה או אומדן של ערך מסוים באמצעות שיטות מתמטיות, לעתים קרובות מערבות נוסחאות או אלגוריתמים מורכבים.",
+                "example": "In order to predict sales trends, the company performed extensive calculations using historical data and market analysis.",
+                "example_hebrew": "על מנת לחזות מגמות מכירות, החברה ביצעה חישובים נרחבים תוך שימוש בנתונים היסטוריים וניתוח שוק."
+            },
+            {
+                "definition": "Using numerical computations to make decisions in various fields like science, engineering, finance, etc.",
+                "definition_hebrew": "שימוש בחישובים מספריים כדי לקבל החלטות בתחומים שונים כמו מדע, הנדסה, פיננסים וכו'.",
+                "example": "The engineer made precise calculations before designing a bridge that would be safe for public use.",
+                "example_hebrew": "המהנדס ערך חישובים מדויקים לפני תכנון גשר שיהיה בטוח לשימוש הציבור."
+            }
+        ]
+    }
+]

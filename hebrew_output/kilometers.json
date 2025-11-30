@@ -1,0 +1,34 @@
+[
+    {
+        "word": "kilometers",
+        "word_hebrew": "קילומטרים",
+        "main_definition": "Kilometers is a unit of measurement used to quantify distance, where 1 kilometer equals 0.621371 miles.",
+        "main_definition_hebrew": "קילומטרים היא יחידת מדידה המשמשת לכימות מרחק, כאשר קילומטר אחד שווה ל-0.621371 מיילים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Distance between two points measured in kilometers",
+                "definition_hebrew": "מרחק בין שתי נקודות נמדד בקילומטרים",
+                "example": "The distance from New York City to Los Angeles is approximately 3945 kilometers.",
+                "example_hebrew": "המרחק מניו יורק ללוס אנג'לס הוא כ-3945 קילומטרים."
+            },
+            {
+                "definition": "Speed expressed as the number of kilometers traveled per hour",
+                "definition_hebrew": "המהירות מבוטאת כמספר הקילומטרים שנסעו בשעה",
+                "example": "The car was traveling at a speed of 100 kilometers per hour.",
+                "example_hebrew": "המכונית נסעה במהירות של 100 קמ\"ש."
+            },
+            {
+                "definition": "A unit used to measure long distances, particularly in geography and navigation",
+                "definition_hebrew": "יחידה המשמשת למדידת מרחקים ארוכים, במיוחד בגיאוגרפיה ובניווט",
+                "example": "On the map, it shows that the nearest city is about 500 kilometers away.",
+                "example_hebrew": "במפה הוא מראה שהעיר הקרובה ביותר נמצאת במרחק של כ-500 קילומטרים משם."
+            },
+            {
+                "definition": "A common term used in sports like track and field or road racing for measuring race lengths",
+                "definition_hebrew": "מונח נפוץ המשמש בענפי ספורט כמו אתלטיקה או מרוצי כביש למדידת אורכי מרוץ",
+                "example": "The marathon distance is typically 42.195 kilometers long.",
+                "example_hebrew": "מרחק המרתון הוא בדרך כלל 42.195 קילומטרים."
+            }
+        ]
+    }
+]

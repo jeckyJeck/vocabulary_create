@@ -1,0 +1,34 @@
+[
+    {
+        "word": "periodic",
+        "word_hebrew": "תְקוּפָתִי",
+        "main_definition": "Repeating or occurring at regular intervals.",
+        "main_definition_hebrew": "חוזרים או מתרחשים במרווחי זמן קבועים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Occurring repeatedly after a fixed period of time.",
+                "definition_hebrew": "מתרחש שוב ושוב לאחר פרק זמן קבוע.",
+                "example": "The periodic release of new episodes for the television show.",
+                "example_hebrew": "פרסום תקופתי של פרקים חדשים לתוכנית הטלוויזיה."
+            },
+            {
+                "definition": "Relating to or consisting of periods (lengths of time).",
+                "definition_hebrew": "קשור לתקופות או מורכבות מתקופות (אורכי זמן).",
+                "example": "Periodic maintenance checks performed on machinery every six months.",
+                "example_hebrew": "בדיקות תחזוקה תקופתיות המבוצעות במכונות כל חצי שנה."
+            },
+            {
+                "definition": "Characteristic of a phenomenon that recurs in predictable intervals.",
+                "definition_hebrew": "מאפיין תופעה שחוזרת על עצמה במרווחים צפויים.",
+                "example": "The periodic fluctuation of prices in the stock market.",
+                "example_hebrew": "התנודתיות התקופתית של המחירים בבורסה."
+            },
+            {
+                "definition": "In chemistry, referring to elements or compounds with fixed composition and structure.",
+                "definition_hebrew": "בכימיה, הכוונה ליסודות או תרכובות עם הרכב ומבנה קבועים.",
+                "example": "Hydrogen peroxide is a common example of a periodic compound found in many household products.",
+                "example_hebrew": "מי חמצן הוא דוגמה נפוצה לתרכובת תקופתית הנמצאת במוצרים ביתיים רבים."
+            }
+        ]
+    }
+]

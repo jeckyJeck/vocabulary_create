@@ -1,0 +1,40 @@
+[
+    {
+        "word": "four",
+        "word_hebrew": "ארבע",
+        "main_definition": "Four is a numerical value that comes after three and before five, often used in various contexts to represent quantity or symbolism.",
+        "main_definition_hebrew": "ארבע הוא ערך מספרי שמגיע אחרי שלוש ולפני חמש, משמש לעתים קרובות בהקשרים שונים כדי לייצג כמות או סמליות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A number representing the count of objects when there are exactly four items",
+                "definition_hebrew": "מספר המייצג את ספירת העצמים כאשר ישנם ארבעה פריטים בדיוק",
+                "example": "There were four apples on the table.",
+                "example_hebrew": "היו ארבעה תפוחים על השולחן."
+            },
+            {
+                "definition": "The ordinal position in a sequence or hierarchy, being the second smallest natural number after one",
+                "definition_hebrew": "המיקום הסידורי ברצף או בהיררכיה, הוא המספר הטבעי השני הקטן ביותר אחרי אחד",
+                "example": "In most sports leagues, teams play a double round-robin schedule, where each team plays every other team twice; four is often used to describe this format.",
+                "example_hebrew": "ברוב ליגות הספורט, קבוצות משחקות לוח סבב כפול, שבו כל קבוצה משחקת פעמיים בכל קבוצה אחרת; ארבע משמש לעתים קרובות לתיאור פורמט זה."
+            },
+            {
+                "definition": "A term or phrase that represents the concept of 'four' in various idiomatic expressions",
+                "definition_hebrew": "מונח או ביטוי המייצגים את המושג 'ארבע' בביטויים אידיומטיים שונים",
+                "example": "She has a quartet of skills: singing, dancing, acting, and comedy.",
+                "example_hebrew": "יש לה רביעיית כישורים: שירה, ריקוד, משחק וקומדיה."
+            },
+            {
+                "definition": "A symbol often used to represent ideas such as completeness or perfection due to its association with the four elements (earth, water, air, fire) in ancient philosophies",
+                "definition_hebrew": "סמל המשמש לעתים קרובות לייצוג רעיונות כמו שלמות או שלמות בשל הקשר שלו עם ארבעת היסודות (אדמה, מים, אוויר, אש) בפילוסופיות עתיקות.",
+                "example": "The 'four' year degree is considered a mark of achievement and can open doors for further academic pursuits.",
+                "example_hebrew": "התואר 'ארבע שנים' נחשב לציון הישג ויכול לפתוח דלתות לעיסוקים אקדמיים נוספים."
+            },
+            {
+                "definition": "A unit of measurement equivalent to 128 parts or units of another measure, used particularly in the context of time",
+                "definition_hebrew": "יחידת מידה שווה ערך ל-128 חלקים או יחידות של מידה אחרת, בשימוש במיוחד בהקשר של זמן",
+                "example": "There are four weeks in a month; however, this is an approximation as not all months have exactly four weeks.",
+                "example_hebrew": "יש ארבעה שבועות בחודש; עם זאת, זהו הערכה כי לא לכל החודשים יש בדיוק ארבעה שבועות."
+            }
+        ]
+    }
+]

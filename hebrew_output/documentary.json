@@ -1,0 +1,28 @@
+[
+    {
+        "word": "documentary",
+        "word_hebrew": "דוקומנטרי",
+        "main_definition": "A non-fictional film or television program intended to document a subject matter, typically involving real events, people, or issues.",
+        "main_definition_hebrew": "סרט או תוכנית טלוויזיה לא בדיונית שנועדה לתעד נושא, הכולל בדרך כלל אירועים אמיתיים, אנשים או נושאים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A type of film that presents factual information about a specific topic through interviews and visuals",
+                "definition_hebrew": "סוג של סרט המציג מידע עובדתי על נושא מסוים באמצעות ראיונות וויזואליים",
+                "example": "The 2019 documentary 'Chasing Coral' explores the efforts to save coral reefs from climate change.",
+                "example_hebrew": "הסרט התיעודי 'Chasing Coral' משנת 2019 חוקר את המאמצים להציל שוניות אלמוגים משינויי אקלים."
+            },
+            {
+                "definition": "A television program that focuses on real-life events, people, or issues and presents them in a factual manner",
+                "definition_hebrew": "תוכנית טלוויזיה המתמקדת באירועים, אנשים או נושאים מהחיים האמיתיים ומציגה אותם בצורה עובדתית",
+                "example": "'Planet Earth II', a BBC documentary series that showcases the diverse wildlife across different continents.",
+                "example_hebrew": "'Planet Earth II', סדרת תיעוד של BBC המציגה את חיות הבר המגוונות על פני יבשות שונות."
+            },
+            {
+                "definition": "An academic research project where findings are documented through written reports or visual presentations",
+                "definition_hebrew": "פרויקט מחקר אקדמי בו מתועדים הממצאים באמצעות דוחות כתובים או מצגות חזותיות",
+                "example": "The team's fieldwork in rural Africa was compiled into a comprehensive documentary report on local health practices.",
+                "example_hebrew": "עבודת השטח של הצוות באפריקה הכפרית נאספה לדו\"ח דוקומנטרי מקיף על שיטות בריאות מקומיות."
+            }
+        ]
+    }
+]

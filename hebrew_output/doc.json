@@ -1,0 +1,34 @@
+[
+    {
+        "word": "doc",
+        "word_hebrew": "דוק",
+        "main_definition": "A file with a .doc extension, commonly used to store text documents created by Microsoft Word.",
+        "main_definition_hebrew": "קובץ עם סיומת doc, המשמש בדרך כלל לאחסון מסמכי טקסט שנוצרו על ידי Microsoft Word.",
+        "meanings_and_examples": [
+            {
+                "definition": "An abbreviation for Doctor of Philosophy (Ph.D.), often used informally to address someone who holds this degree",
+                "definition_hebrew": "קיצור של דוקטור לפילוסופיה (Ph.D.), משמש לעתים קרובות באופן לא פורמלי כדי לפנות למישהו בעל תואר זה",
+                "example": "I'm so proud of my doc! He just published his first research paper.",
+                "example_hebrew": "אני כל כך גאה ברופא שלי! זה עתה פרסם את עבודת המחקר הראשונה שלו."
+            },
+            {
+                "definition": "A slang term meaning 'to do or perform something', especially with a sense of completion or finality",
+                "definition_hebrew": "מונח סלנג שפירושו 'לעשות או לבצע משהו', במיוחד עם תחושה של השלמה או סופיות",
+                "example": "After studying all night, I finally did the assignment and submitted it on time.",
+                "example_hebrew": "אחרי שלמדתי כל הלילה, סוף סוף עשיתי את המשימה והגשתי אותה בזמן."
+            },
+            {
+                "definition": "An abbreviation for 'documentation,' referring to written material that explains how something works or provides instructions",
+                "definition_hebrew": "קיצור של 'תיעוד', המתייחס לחומר כתוב שמסביר איך משהו עובד או מספק הוראות",
+                "example": "The user manual is a comprehensive doc about setting up this new software.",
+                "example_hebrew": "המדריך למשתמש הוא מסמך מקיף על הגדרת התוכנה החדשה הזו."
+            },
+            {
+                "definition": "A colloquial term used in some English-speaking countries, similar to 'dude' or 'mate', often shortened from 'friend'",
+                "definition_hebrew": "מונח דיבורי המשמש בכמה מדינות דוברות אנגלית, בדומה ל\"אחי\" או \"חבר\", מקוצר לעתים קרובות מ\"חבר\"",
+                "example": "Hey, dude! Long time no see. How's it going?",
+                "example_hebrew": "היי אחי! מזמן לא התראנו. איך הולך?"
+            }
+        ]
+    }
+]

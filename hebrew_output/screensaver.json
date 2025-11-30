@@ -1,0 +1,34 @@
+[
+    {
+        "word": "screensaver",
+        "word_hebrew": "שומר מסך",
+        "main_definition": "A screensaver is a computer program that displays images or patterns when the screen of a computer is idle to prevent phosphor burn-in.",
+        "main_definition_hebrew": "שומר מסך הוא תוכנת מחשב המציגה תמונות או דפוסים כאשר מסך המחשב אינו פעיל כדי למנוע צריבת זרחן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Computer program used for display during inactivity",
+                "definition_hebrew": "תוכנית מחשב המשמשת לתצוגה בזמן חוסר פעילות",
+                "example": "When I leave my laptop unused for an extended period, a screensaver of beach waves fills the screen to prevent image retention.",
+                "example_hebrew": "כאשר אני משאיר את המחשב הנייד שלי ללא שימוש לתקופה ממושכת, שומר מסך של גלי חוף ממלא את המסך כדי למנוע שימור תמונה."
+            },
+            {
+                "definition": "Visual effect or pattern displayed on computer monitors when not in use",
+                "definition_hebrew": "אפקט חזותי או דפוס המוצג על מסכי מחשב כאשר אינם בשימוש",
+                "example": "The dragonflies flying across the monitor are part of my chosen screensaver theme, which I set to activate after 15 minutes of inactivity.",
+                "example_hebrew": "השפיריות שעפות על הצג הן חלק מנושא שומר המסך שבחרתי, אותו הגדרתי להפעיל לאחר 15 דקות של חוסר פעילות."
+            },
+            {
+                "definition": "Historically associated with a method to prevent phosphor burn-in on CRT monitors",
+                "definition_hebrew": "קשור היסטורית לשיטה למניעת צריבת זרחן במסכי CRT",
+                "example": "In the past, using screen savers was essential when working with older computer models that had a risk of image retention or 'burn-in'.",
+                "example_hebrew": "בעבר, שימוש בשומרי מסך היה חיוני בעבודה עם דגמי מחשב ישנים יותר שהייתה להם סיכון של שימור תמונה או 'צריבה'."
+            },
+            {
+                "definition": "Alternative name for virtual background in video calls and conferencing software",
+                "definition_hebrew": "שם חלופי לרקע וירטואלי בשיחות וידאו ובתוכנת שיחות ועידה",
+                "example": "During our online meeting, we switched to the screensaver mode as an alternative to using a virtual background.",
+                "example_hebrew": "במהלך הפגישה המקוונת שלנו, עברנו למצב שומר מסך כחלופה לשימוש ברקע וירטואלי."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "logic",
+        "word_hebrew": "הִגָיוֹן",
+        "main_definition": "Logic is the study of reasoning or rational thinking, often used to evaluate arguments and determine their validity.",
+        "main_definition_hebrew": "היגיון הוא חקר היגיון או חשיבה רציונלית, המשמש לעתים קרובות כדי להעריך טיעונים ולקבוע את תקפותם.",
+        "meanings_and_examples": [
+            {
+                "definition": "The science concerned with formal principles of valid inference and correct reasoning.",
+                "definition_hebrew": "המדע עוסק בעקרונות פורמליים של מסקנות תקפות והנמקה נכונה.",
+                "example": "In mathematics, logic helps in constructing proofs that validate mathematical statements.",
+                "example_hebrew": "במתמטיקה, ההיגיון מסייע בבניית הוכחות המאשרות הצהרות מתמטיות."
+            },
+            {
+                "definition": "A method or systematic way of thinking about a problem or situation to derive logical conclusions.",
+                "definition_hebrew": "שיטה או דרך חשיבה שיטתית על בעיה או מצב כדי להסיק מסקנות הגיוניות.",
+                "example": "When faced with a complex issue at work, I applied logic to break down the problem into smaller parts and solve each one effectively.",
+                "example_hebrew": "כאשר עמדתי בפני בעיה מורכבת בעבודה, יישמתי היגיון כדי לפרק את הבעיה לחלקים קטנים יותר ולפתור כל אחד מהם ביעילות."
+            },
+            {
+                "definition": "The use of reasoning to analyze situations or arguments critically.",
+                "definition_hebrew": "השימוש בנימוקים כדי לנתח מצבים או טיעונים בצורה ביקורתית.",
+                "example": "She used logical thinking to assess the credibility of different news sources during election season.",
+                "example_hebrew": "היא השתמשה בחשיבה הגיונית כדי להעריך את האמינות של מקורות חדשותיים שונים במהלך עונת הבחירות."
+            },
+            {
+                "definition": "A mental process that involves observing patterns, establishing connections between facts and ideas, and drawing valid conclusions from them.",
+                "definition_hebrew": "תהליך נפשי הכולל התבוננות בדפוסים, יצירת קשרים בין עובדות ורעיונות והסקת מסקנות תקפות מהן.",
+                "example": "The detective applied logic to deduce who could have committed the crime based on evidence and witness statements.",
+                "example_hebrew": "הבלש יישם היגיון כדי להסיק מי יכול היה לבצע את הפשע על סמך ראיות והצהרות עדים."
+            },
+            {
+                "definition": "An understanding of what constitutes proper reasoning or sound argumentation in various contexts.",
+                "definition_hebrew": "הבנה של מהי היגיון נכון או טיעון נכון בהקשרים שונים.",
+                "example": "In philosophy class, we studied different forms of logical fallacies that can weaken an argument's persuasiveness.",
+                "example_hebrew": "בשיעור פילוסופיה, למדנו צורות שונות של כשלים לוגיים שיכולים להחליש את יכולת השכנוע של טיעון."
+            }
+        ]
+    }
+]

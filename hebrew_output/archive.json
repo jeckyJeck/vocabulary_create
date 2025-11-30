@@ -1,0 +1,34 @@
+[
+    {
+        "word": "archive",
+        "word_hebrew": "ארכיון",
+        "main_definition": "An archive is a collection of historical documents, records, or materials that are preserved due to their cultural, historical, or informational significance.",
+        "main_definition_hebrew": "ארכיון הוא אוסף של מסמכים היסטוריים, רשומות או חומרים שנשמרו בשל משמעותם התרבותית, ההיסטורית או המידעית.",
+        "meanings_and_examples": [
+            {
+                "definition": "To store information in an organized and permanent manner",
+                "definition_hebrew": "לשמור מידע בצורה מסודרת וקבועה",
+                "example": "The company decided to archive all its old customer databases for future reference.",
+                "example_hebrew": "החברה החליטה לאחסן את כל מאגרי המידע הישנים של הלקוחות שלה לעיון עתידי."
+            },
+            {
+                "definition": "A place where historical records, documents, or materials are kept",
+                "definition_hebrew": "מקום שבו נשמרים רשומות היסטוריות, מסמכים או חומרים",
+                "example": "She works at the city's archives, which houses thousands of historic documents and artifacts.",
+                "example_hebrew": "היא עובדת בארכיון העיר, שבו נמצאים אלפי מסמכים וחפצים היסטוריים."
+            },
+            {
+                "definition": "To remove content from active use but retain it for future reference or possible retrieval",
+                "definition_hebrew": "להסיר תוכן משימוש פעיל אך לשמור אותו לעיון עתידי או לאחזור אפשרי",
+                "example": "The office manager instructed to archive all outdated financial reports into the company's digital storage system.",
+                "example_hebrew": "מנהל המשרד הורה לאחסן את כל הדוחות הכספיים המיושנים לתוך מערכת האחסון הדיגיטלית של החברה."
+            },
+            {
+                "definition": "A collection of past versions and iterations of a particular file, document, or software",
+                "definition_hebrew": "אוסף של גרסאות קודמות ואיטרציות של קובץ, מסמך או תוכנה מסוימים",
+                "example": "My computer has an archive folder where it stores old backups of important files.",
+                "example_hebrew": "למחשב שלי יש תיקיית ארכיון שבה הוא מאחסן גיבויים ישנים של קבצים חשובים."
+            }
+        ]
+    }
+]

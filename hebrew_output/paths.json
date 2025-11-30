@@ -1,0 +1,34 @@
+[
+    {
+        "word": "paths",
+        "word_hebrew": "שבילים",
+        "main_definition": "Paths refer to routes or tracks that are used for traveling from one place to another, often in a natural environment.",
+        "main_definition_hebrew": "שבילים מתייחסים למסלולים או מסלולים המשמשים לנסיעה ממקום למקום, לרוב בסביבה טבעית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Actual physical trails or routes in nature",
+                "definition_hebrew": "שבילים או מסלולים פיזיים בפועל בטבע",
+                "example": "The hikers followed the well-worn paths through the forest.",
+                "example_hebrew": "המטיילים עקבו אחר השבילים השחוקים דרך היער."
+            },
+            {
+                "definition": "Metaphorical journey or progression in life",
+                "definition_hebrew": "מסע מטפורי או התקדמות בחיים",
+                "example": "After years of hard work, she finally felt that her career path was leading to success.",
+                "example_hebrew": "אחרי שנים של עבודה קשה, היא סוף סוף הרגישה שמסלול הקריירה שלה מוביל להצלחה."
+            },
+            {
+                "definition": "A method for data analysis",
+                "definition_hebrew": "שיטה לניתוח נתונים",
+                "example": "The company used a variety of different paths for analyzing the large dataset.",
+                "example_hebrew": "החברה השתמשה במגוון נתיבים שונים לניתוח מערך הנתונים הגדול."
+            },
+            {
+                "definition": "Routes in computer networks and information technology",
+                "definition_hebrew": "מסלולים ברשתות מחשבים וטכנולוגיית מידע",
+                "example": "Firewalls are designed to monitor all network traffic paths entering or leaving an organization's system.",
+                "example_hebrew": "חומות אש נועדו לנטר את כל נתיבי התעבורה ברשת הנכנסים או יוצאים ממערכת הארגון."
+            }
+        ]
+    }
+]

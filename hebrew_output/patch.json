@@ -1,0 +1,34 @@
+[
+    {
+        "word": "patch",
+        "word_hebrew": "תיקון",
+        "main_definition": "A small area or piece of material used to mend or cover a defect, often in the context of repairing clothes, software, or land.",
+        "main_definition_hebrew": "אזור קטן או פיסת חומר המשמשים לתיקון או כיסוי פגם, לרוב בהקשר של תיקון בגדים, תוכנה או קרקע.",
+        "meanings_and_examples": [
+            {
+                "definition": "To repair or fix something by applying a patch",
+                "definition_hebrew": "לתקן או לתקן משהו על ידי הנחת תיקון",
+                "example": "He patched up his old jeans with a piece of cloth.",
+                "example_hebrew": "הוא תיקן את הג'ינס הישן שלו בחתיכת בד."
+            },
+            {
+                "definition": "An area where the landscape is different, often due to changes in terrain or soil composition",
+                "definition_hebrew": "אזור בו הנוף שונה, לרוב בשל שינויים בשטח או בהרכב הקרקע",
+                "example": "The farmland was divided by a large patch of rocky land that couldn't be used for cultivation.",
+                "example_hebrew": "השטח החקלאי היה מחולק על ידי חלקת אדמה סלעית גדולה שלא ניתן היה לשמש לעיבוד."
+            },
+            {
+                "definition": "A small section within software code that addresses a bug or issue, often temporary until a full update is released",
+                "definition_hebrew": "קטע קטן בתוך קוד תוכנה המטפל בבאג או בעיה, לרוב זמני עד לשחרור עדכון מלא",
+                "example": "After updating the graphics driver, my game started working fine after I applied a patch to fix the rendering problem.",
+                "example_hebrew": "לאחר עדכון מנהל ההתקן הגרפי, המשחק שלי התחיל לעבוד בסדר לאחר שהחלתי תיקון כדי לתקן את בעיית העיבוד."
+            },
+            {
+                "definition": "An act of covering something temporarily with a cloth or material to conceal it",
+                "definition_hebrew": "פעולה של כיסוי משהו באופן זמני בבד או בחומר כדי להסתיר אותו",
+                "example": "She placed a decorative patch on her dress to cover the small stain.",
+                "example_hebrew": "היא הניחה טלאי דקורטיבי על שמלתה כדי לכסות את הכתם הקטן."
+            }
+        ]
+    }
+]

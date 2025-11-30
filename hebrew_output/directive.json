@@ -1,0 +1,34 @@
+[
+    {
+        "word": "directive",
+        "word_hebrew": "הוֹרָאָה",
+        "main_definition": "A directive is a formal instruction or guidance, often issued by an authority to control or influence actions and decisions.",
+        "main_definition_hebrew": "הנחיה היא הוראה פורמלית או הנחיה, המונפקת לרוב על ידי רשות לשלוט או להשפיע על פעולות והחלטות.",
+        "meanings_and_examples": [
+            {
+                "definition": "An official order or instruction given by someone in power or authority.",
+                "definition_hebrew": "פקודה או הוראה רשמית שניתנה על ידי בעל כוח או סמכות.",
+                "example": "The government issued new directives for public safety during the pandemic.",
+                "example_hebrew": "הממשלה פרסמה הנחיות חדשות לבטיחות הציבור במהלך המגיפה."
+            },
+            {
+                "definition": "A guideline that provides specific instructions on how to achieve a goal or comply with rules or regulations.",
+                "definition_hebrew": "קו מנחה המספק הנחיות ספציפיות כיצד להשיג מטרה או ציות לכללים או תקנות.",
+                "example": "The company's directive stated employees must wear masks and maintain social distancing in the workplace.",
+                "example_hebrew": "הוראת החברה קבעה על העובדים ללבוש מסכות ולשמור על ריחוק חברתי במקום העבודה."
+            },
+            {
+                "definition": "In programming, a directive is a command that instructs the compiler to perform specific tasks during the compilation process.",
+                "definition_hebrew": "בתכנות, הוראה היא פקודה שמנחה את המהדר לבצע משימות ספציפיות במהלך תהליך ההידור.",
+                "example": "The '#include <stdio.h>' directive tells the compiler to include the standard input/output library for use in the program.",
+                "example_hebrew": "ההנחיה '#include <stdio.h>' אומרת למהדר לכלול את ספריית הקלט/פלט הסטנדרטית לשימוש בתוכנית."
+            },
+            {
+                "definition": "In law, a directive can refer to an administrative or legal order that must be followed by individuals or organizations.",
+                "definition_hebrew": "בחוק, הנחיה יכולה להתייחס לצו מנהלי או משפטי שאנשים או ארגונים חייבים למלא אחריהם.",
+                "example": "The court issued a directive requiring the defendant to pay restitution and attend mandatory counseling sessions.",
+                "example_hebrew": "בית המשפט הוציא הוראה המחייבת את הנאשם לשלם פיצויים ולהשתתף בפגישות ייעוץ חובה."
+            }
+        ]
+    }
+]

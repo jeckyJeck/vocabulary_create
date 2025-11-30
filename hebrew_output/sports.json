@@ -1,0 +1,40 @@
+[
+    {
+        "word": "sports",
+        "word_hebrew": "ספורט",
+        "main_definition": "Sports refer to physical activities or games involving skill, rules, competition, and often organized into formal structures.",
+        "main_definition_hebrew": "ספורט מתייחס לפעילויות פיזיות או משחקים הכוללים מיומנות, חוקים, תחרות, ולעתים קרובות מאורגנים במבנים רשמיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical exercise for health and enjoyment",
+                "definition_hebrew": "פעילות גופנית לבריאות והנאה",
+                "example": "Running is a great form of sports that improves cardiovascular fitness.",
+                "example_hebrew": "ריצה היא צורת ספורט מצוינת שמשפרת את הכושר הקרדיווסקולרי."
+            },
+            {
+                "definition": "Competitive activities with rules, often played by teams or individuals",
+                "definition_hebrew": "פעילויות תחרותיות עם חוקים, לעתים קרובות על ידי צוותים או יחידים",
+                "example": "Basketball is a popular team sport where two teams score points by shooting a ball through the opposing team's hoop.",
+                "example_hebrew": "כדורסל הוא ספורט קבוצתי פופולרי שבו שתי קבוצות צוברות נקודות על ידי ירי כדור דרך חישוק הקבוצה היריבה."
+            },
+            {
+                "definition": "Entertainment for spectators in addition to participation",
+                "definition_hebrew": "בידור לצופים בנוסף להשתתפות",
+                "example": "Soccer matches attract large crowds who come to watch the game and cheer for their favorite teams.",
+                "example_hebrew": "משחקי כדורגל מושכים קהל רב שמגיע לצפות במשחק ולעודד את הקבוצות האהובות עליהם."
+            },
+            {
+                "definition": "A means of socializing, building community, and fostering cooperation",
+                "definition_hebrew": "אמצעי ליצירת קשרים חברתיים, בניית קהילה וטיפוח שיתוף פעולה",
+                "example": "High school football games are a way for students, parents, and fans to connect with each other and support local talent.",
+                "example_hebrew": "משחקי כדורגל בתיכון הם דרך לתלמידים, הורים ואוהדים להתחבר זה לזה ולתמוך בכישרון מקומי."
+            },
+            {
+                "definition": "Opportunities for physical fitness, skill development, and personal growth",
+                "definition_hebrew": "הזדמנויות לכושר גופני, פיתוח מיומנויות וצמיחה אישית",
+                "example": "Joining a martial arts class can be considered participating in sports as it offers both mental discipline and physical training.",
+                "example_hebrew": "הצטרפות לשיעור אומנויות לחימה יכולה להיחשב כהשתתפות בספורט מכיוון שהיא מציעה גם משמעת נפשית וגם אימון גופני."
+            }
+        ]
+    }
+]

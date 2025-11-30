@@ -1,0 +1,40 @@
+[
+    {
+        "word": "storage",
+        "word_hebrew": "אִחסוּן",
+        "main_definition": "Storage refers to the act of keeping or storing something in a specific place for future use, preservation, or protection.",
+        "main_definition_hebrew": "אחסון מתייחס לפעולה של שמירה או אחסון של משהו במקום מסוים לשימוש עתידי, שימור או הגנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of retaining data on a computer system.",
+                "definition_hebrew": "פעולת שמירת הנתונים במערכת ממוחשבת.",
+                "example": "I saved the document to storage so I can access it later.",
+                "example_hebrew": "שמרתי את המסמך לאחסון כדי שאוכל לגשת אליו מאוחר יותר."
+            },
+            {
+                "definition": "A place where items or goods are kept for future use.",
+                "definition_hebrew": "מקום שבו נשמרים פריטים או סחורות לשימוש עתידי.",
+                "example": "We stored our winter clothes in the attic during the summer months.",
+                "example_hebrew": "אחסנו את בגדי החורף בעליית הגג במהלך חודשי הקיץ."
+            },
+            {
+                "definition": "The capacity to hold or retain information, such as data on a device.",
+                "definition_hebrew": "היכולת להחזיק או לשמור מידע, כגון נתונים במכשיר.",
+                "example": "His computer has limited storage space and needs more memory expansion.",
+                "example_hebrew": "למחשב שלו יש שטח אחסון מוגבל וזקוק להרחבת זיכרון רבה יותר."
+            },
+            {
+                "definition": "A service that allows for the safekeeping of physical objects like jewelry or artwork.",
+                "definition_hebrew": "שירות המאפשר שמירה על חפצים פיזיים כמו תכשיטים או יצירות אמנות.",
+                "example": "She entrusted her valuable antique watch to a secure storage facility.",
+                "example_hebrew": "היא הפקידה את השעון העתיק היקר שלה למתקן אחסון מאובטח."
+            },
+            {
+                "definition": "The ability of a system, such as an electrical device or software program, to retain information.",
+                "definition_hebrew": "היכולת של מערכת, כגון מכשיר חשמלי או תוכנה, לשמור מידע.",
+                "example": "The new app has improved battery life by optimizing its energy storage efficiency.",
+                "example_hebrew": "האפליקציה החדשה שיפרה את חיי הסוללה על ידי אופטימיזציה של יעילות אחסון האנרגיה שלה."
+            }
+        ]
+    }
+]

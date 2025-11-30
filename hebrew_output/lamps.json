@@ -1,0 +1,28 @@
+[
+    {
+        "word": "lamps",
+        "word_hebrew": "מנורות",
+        "main_definition": "Lamps refers to various meanings including a source of light, an idiomatic expression related to failure or disappointment, and a type of fish species.",
+        "main_definition_hebrew": "מנורות מתייחסת למשמעויות שונות כולל מקור אור, ביטוי אידיומטי הקשור לכישלון או אכזבה, וסוג של מיני דגים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A device that produces light by the flow of electrical currents",
+                "definition_hebrew": "מכשיר שמפיק אור על ידי זרימת זרמים חשמליים",
+                "example": "She switched on the table lamp before starting her reading session.",
+                "example_hebrew": "היא הדליקה את מנורת השולחן לפני שהתחילה את סשן הקריאה שלה."
+            },
+            {
+                "definition": "An idiomatic expression meaning to fail or disappoint oneself",
+                "definition_hebrew": "ביטוי אידיומטי שמשמעותו להיכשל או לאכזב את עצמו",
+                "example": "After missing the deadline, he was completely lampsed and felt like a failure.",
+                "example_hebrew": "לאחר שהחמיץ את המועד, הוא היה מואר לחלוטין והרגיש כמו כישלון."
+            },
+            {
+                "definition": "A species of fish known as Lampetra communis in scientific nomenclature",
+                "definition_hebrew": "מין דגים המכונה Lampetra communis במינוח המדעי",
+                "example": "The biologist studied the behavior of lampreys during their migration upstream to spawn.",
+                "example_hebrew": "הביולוג חקר את התנהגותם של המפרסים במהלך נדידתם במעלה הזרם כדי להשריץ."
+            }
+        ]
+    }
+]

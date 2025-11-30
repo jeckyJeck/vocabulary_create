@@ -1,0 +1,34 @@
+[
+    {
+        "word": "significance",
+        "word_hebrew": "מַשְׁמָעוּת",
+        "main_definition": "The importance, value, or meaning of something.",
+        "main_definition_hebrew": "החשיבות, הערך או המשמעות של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "The degree to which a result is important in the context it's used in.",
+                "definition_hebrew": "המידה שבה תוצאה חשובה בהקשר שבו היא משמשת.",
+                "example": "The significance of this finding cannot be understated; it may change our understanding of genetics.",
+                "example_hebrew": "לא ניתן להמעיט במשמעות הממצא הזה; זה עשוי לשנות את ההבנה שלנו לגבי הגנטיקה."
+            },
+            {
+                "definition": "The ability of something or someone to produce an effect, influence, or make a difference.",
+                "definition_hebrew": "היכולת של משהו או מישהו לייצר אפקט, להשפיע או לעשות שינוי.",
+                "example": "His contributions have significant impact on the field of renewable energy research.",
+                "example_hebrew": "לתרומותיו יש השפעה משמעותית על תחום מחקר האנרגיה המתחדשת."
+            },
+            {
+                "definition": "A measure of how strongly evidence supports one outcome over others in statistics.",
+                "definition_hebrew": "מדד למידת החזקה של ראיות תומכות בתוצאה אחת על פני אחרות בסטטיסטיקה.",
+                "example": "The statistical significance of this study's results is high, indicating a strong effect.",
+                "example_hebrew": "המובהקות הסטטיסטית של תוצאות מחקר זה גבוהה, מה שמעיד על השפעה חזקה."
+            },
+            {
+                "definition": "An essential quality or attribute that makes something stand out as valuable or noteworthy.",
+                "definition_hebrew": "תכונה או תכונה חיונית שגורמת למשהו לבלוט כבעל ערך או ראוי לציון.",
+                "example": "Her speech on environmental conservation had significant significance for the audience and inspired action.",
+                "example_hebrew": "לנאום שלה על שימור הסביבה הייתה משמעות משמעותית עבור הקהל ועוררה השראה לפעולה."
+            }
+        ]
+    }
+]

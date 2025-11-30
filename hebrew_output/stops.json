@@ -1,0 +1,34 @@
+[
+    {
+        "word": "stops",
+        "word_hebrew": "מפסיק",
+        "main_definition": "A pause or cessation in movement, action, or process.",
+        "main_definition_hebrew": "הפסקה או הפסקה בתנועה, בפעולה או בתהליך.",
+        "meanings_and_examples": [
+            {
+                "definition": "To come to an end or halt temporarily.",
+                "definition_hebrew": "כדי לסיים או לעצור זמנית.",
+                "example": "The bus made a sudden stop when the traffic light turned red.",
+                "example_hebrew": "האוטובוס עצר בפתאומיות כשהרמזור הפך לאדום."
+            },
+            {
+                "definition": "A designated place where vehicles are allowed to cease motion and wait for pedestrians to cross safely.",
+                "definition_hebrew": "מקום ייעודי בו מותר לרכב להפסיק את התנועה ולהמתין להולכי הרגל לחצות בבטחה.",
+                "example": "I waited at the stops before crossing the busy street.",
+                "example_hebrew": "חיכיתי בתחנות לפני שחציתי את הרחוב הסואן."
+            },
+            {
+                "definition": "An action of stopping or slowing down an activity or process.",
+                "definition_hebrew": "פעולה של עצירה או האטה של פעילות או תהליך.",
+                "example": "The workers were instructed to stop hammering when it was time for a break.",
+                "example_hebrew": "העובדים קיבלו הוראה להפסיק להכות כשהגיע הזמן להפסקה."
+            },
+            {
+                "definition": "To prevent from continuing, especially in the context of movement or progress.",
+                "definition_hebrew": "למנוע מלהמשיך, במיוחד בהקשר של תנועה או התקדמות.",
+                "example": "She stopped running and caught her breath after completing the marathon.",
+                "example_hebrew": "היא הפסיקה לרוץ ועצרה את נשימתה לאחר שסיימה את המרתון."
+            }
+        ]
+    }
+]

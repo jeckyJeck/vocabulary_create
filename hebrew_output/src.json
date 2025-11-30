@@ -1,0 +1,22 @@
+[
+    {
+        "word": "src",
+        "word_hebrew": "src",
+        "main_definition": "In computing, 'src' is an abbreviation used to denote the source code of a program or software.",
+        "main_definition_hebrew": "במחשוב, 'src' הוא קיצור המשמש לציון קוד המקור של תוכנית או תוכנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Abbreviation for 'source code'.",
+                "definition_hebrew": "קיצור של 'קוד מקור'.",
+                "example": "'The src file contains all the instructions written in C language.'",
+                "example_hebrew": "'קובץ ה-src מכיל את כל ההוראות שנכתבו בשפת C.'"
+            },
+            {
+                "definition": "A directory where source files are stored.",
+                "definition_hebrew": "ספרייה שבה מאוחסנים קבצי מקור.",
+                "example": "'In my project, the src directory holds all my JavaScript and HTML files.'",
+                "example_hebrew": "'בפרויקט שלי, ספריית src מכילה את כל קובצי ה-JavaScript וה-HTML שלי.'"
+            }
+        ]
+    }
+]

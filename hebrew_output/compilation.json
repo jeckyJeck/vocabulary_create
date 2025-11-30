@@ -1,0 +1,34 @@
+[
+    {
+        "word": "compilation",
+        "word_hebrew": "הַהדָרָה",
+        "main_definition": "Compilation refers to the process of gathering, arranging, or creating a collection of items such as data, code, writings, or music.",
+        "main_definition_hebrew": "קומפילציה מתייחסת לתהליך של איסוף, סידור או יצירה של אוסף של פריטים כגון נתונים, קוד, כתבים או מוזיקה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Process of collecting pieces of writing",
+                "definition_hebrew": "תהליך איסוף קטעי כתיבה",
+                "example": "The author compiled their articles into a book.",
+                "example_hebrew": "המחבר ריכז את מאמריהם לספר."
+            },
+            {
+                "definition": "Collection of code written by multiple developers",
+                "definition_hebrew": "אוסף קוד שנכתב על ידי מפתחים מרובים",
+                "example": "The software team completed the compilation of source files for the new project.",
+                "example_hebrew": "צוות התוכנה השלים את הקומפילציה של קבצי המקור עבור הפרויקט החדש."
+            },
+            {
+                "definition": "Assembly of various music tracks into an album",
+                "definition_hebrew": "הרכבה של רצועות מוזיקה שונות לאלבום",
+                "example": "The band's latest work is a compilation of their best songs from live performances.",
+                "example_hebrew": "העבודה האחרונה של הלהקה היא אוסף של מיטב השירים שלה מהופעות חיות."
+            },
+            {
+                "definition": "Process of creating a technical documentation or manual by compiling different parts",
+                "definition_hebrew": "תהליך של יצירת תיעוד טכני או מדריך על ידי קומפילציה של חלקים שונים",
+                "example": "To compile the user guide, they gathered all written sections and formatted them into one document.",
+                "example_hebrew": "כדי להרכיב את המדריך למשתמש, הם אספו את כל הסעיפים הכתובים ועיצבו אותם למסמך אחד."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "attorney",
+        "word_hebrew": "עו\"ד",
+        "main_definition": "An attorney is a professional who provides legal advice and representation to clients in various legal matters.",
+        "main_definition_hebrew": "עורך דין הינו איש מקצוע המעניק ייעוץ וייצוג משפטי ללקוחות בנושאים משפטיים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A lawyer specializing in law practice or a specific area of law, such as criminal law",
+                "definition_hebrew": "עורך דין המתמחה בעריכת דין או תחום משפטי ספציפי, כגון משפט פלילי",
+                "example": "John hired a criminal attorney to defend him in court.",
+                "example_hebrew": "ג'ון שכר עורך דין פלילי כדי להגן עליו בבית המשפט."
+            },
+            {
+                "definition": "An advocate who represents and advises clients on legal matters, including civil, criminal, corporate, tax, or family law",
+                "definition_hebrew": "עורך דין המייצג ומייעץ ללקוחות בנושאים משפטיים, לרבות דיני אזרחים, פליליים, חברות, מס או משפחה",
+                "example": "The family attorney helped Jane navigate the complexities of her divorce proceedings.",
+                "example_hebrew": "עורך דין המשפחה עזר לג'יין לנווט את המורכבות של הליכי הגירושין שלה."
+            },
+            {
+                "definition": "A person authorized to act on behalf of another in legal affairs and court",
+                "definition_hebrew": "מי שהוסמך לפעול בשם אחר בענייני משפט ובית משפט",
+                "example": "The personal injury attorney represented his client against a large corporation in a lawsuit.",
+                "example_hebrew": "עורך הדין נזקי גוף ייצג את מרשו נגד תאגיד גדול בתביעה."
+            },
+            {
+                "definition": "An individual who holds the power to make decisions, give instructions, or take actions in someone else's behalf, particularly in legal matters",
+                "definition_hebrew": "אדם המחזיק בסמכות לקבל החלטות, לתת הוראות או לנקוט פעולות בשמו של מישהו אחר, במיוחד בעניינים משפטיים",
+                "example": "As her guardian attorney, she made all of her medical and financial decisions.",
+                "example_hebrew": "כעורך הדין האפוטרופוס שלה, היא קיבלה את כל ההחלטות הרפואיות והפיננסיות שלה."
+            },
+            {
+                "definition": "A legal professional who may represent clients in court or provide consultation for various legal issues",
+                "definition_hebrew": "עורך דין שעשוי לייצג לקוחות בבית המשפט או להעניק ייעוץ בנושאים משפטיים שונים",
+                "example": "The business attorney advised the company on compliance with labor laws.",
+                "example_hebrew": "עורך הדין העסקי ייעץ לחברה בנושא ציות לחוקי העבודה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "divide",
+        "word_hebrew": "לחלק",
+        "main_definition": "To separate or split something into parts, typically in the context of numbers or groups.",
+        "main_definition_hebrew": "להפריד או לפצל משהו לחלקים, בדרך כלל בהקשר של מספרים או קבוצות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To share out among people or things evenly.",
+                "definition_hebrew": "לחלוק בין אנשים או דברים באופן שווה.",
+                "example": "After dividing 12 candies equally among 4 children, each child gets 3 candies.",
+                "example_hebrew": "לאחר חלוקת 12 סוכריות שווה בשווה בין 4 ילדים, כל ילד מקבל 3 סוכריות."
+            },
+            {
+                "definition": "To split something into separate pieces.",
+                "definition_hebrew": "לפצל משהו לחתיכות נפרדות.",
+                "example": "The wooden plank was divided in half with a saw to create two smaller boards.",
+                "example_hebrew": "קרש העץ חולק לשניים בעזרת מסור כדי ליצור שני לוחות קטנים יותר."
+            },
+            {
+                "definition": "In mathematics, referring to the operation of separating a number into its component parts.",
+                "definition_hebrew": "במתמטיקה, הכוונה לפעולה של הפרדת מספר לחלקיו המרכיבים אותו.",
+                "example": "To divide 15 by 3 gives us an answer of 5.",
+                "example_hebrew": "לחלק 15 ב-3 נותן לנו תשובה של 5."
+            },
+            {
+                "definition": "To cause a separation or disagreement between people or groups.",
+                "definition_hebrew": "לגרום להפרדה או אי הסכמה בין אנשים או קבוצות.",
+                "example": "Their different opinions led to the division of the committee into opposing factions.",
+                "example_hebrew": "דעותיהם השונות הביאו לחלוקת הוועדה לסיעות מנוגדות."
+            }
+        ]
+    }
+]

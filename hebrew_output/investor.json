@@ -1,0 +1,34 @@
+[
+    {
+        "word": "investor",
+        "word_hebrew": "משקיע",
+        "main_definition": "An investor is an individual or entity that allocates capital with the expectation of a future financial return or profit.",
+        "main_definition_hebrew": "משקיע הוא אדם או ישות המקצה הון בציפייה לתשואה או רווח פיננסיים עתידיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A person who provides funds for business ventures in anticipation of profits",
+                "definition_hebrew": "אדם המעניק כספים למיזמים עסקיים בציפייה לרווחים",
+                "example": "John, a software investor, provided $100,000 to a startup company hoping it will grow and become profitable.",
+                "example_hebrew": "ג'ון, משקיע תוכנה, סיפק 100,000 דולר לחברת סטארט-אפ בתקווה שהיא תצמח ותהפוך לרווחית."
+            },
+            {
+                "definition": "Someone who invests money in stocks or bonds",
+                "definition_hebrew": "מישהו שמשקיע כסף במניות או באג\"ח",
+                "example": "Sarah is an equity investor who buys shares of different companies to diversify her portfolio.",
+                "example_hebrew": "שרה היא משקיעה במניות הרוכשת מניות של חברות שונות כדי לגוון את תיק ההשקעות שלה."
+            },
+            {
+                "definition": "An entity that participates in financial markets by purchasing securities with the aim of earning a return on their investment",
+                "definition_hebrew": "ישות המשתתפת בשווקים הפיננסיים על ידי רכישת ניירות ערך במטרה להרוויח תשואה על השקעתם",
+                "example": "XYZ Corporation is an institutional investor, holding shares and bonds from various companies to generate income.",
+                "example_hebrew": "תאגיד XYZ הוא משקיע מוסדי, המחזיק במניות ואג\"ח מחברות שונות כדי לייצר הכנסה."
+            },
+            {
+                "definition": "A person or organization that contributes funds into projects such as infrastructure development with the expectation of long-term benefits",
+                "definition_hebrew": "אדם או ארגון שתורמים כספים לפרויקטים כגון פיתוח תשתיות בציפייה להטבות ארוכות טווח",
+                "example": "The government became a social impact investor by injecting money into building new schools and hospitals in underserved areas.",
+                "example_hebrew": "הממשלה הפכה למשקיעה בעלת השפעה חברתית על ידי הזרמת כסף לבניית בתי ספר ובתי חולים חדשים באזורים מוחלשים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "circuits",
+        "word_hebrew": "מעגלים",
+        "main_definition": "Circuits refer to systems of interconnected components or networks that facilitate the flow of electrical current, as well as metaphorical connections in various contexts.",
+        "main_definition_hebrew": "מעגלים מתייחסים למערכות של רכיבים או רשתות מחוברים זה לזה המאפשרים את זרימת הזרם החשמלי, כמו גם חיבורים מטפוריים בהקשרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In electronics, a circuit is a closed loop through which electric current can flow.",
+                "definition_hebrew": "באלקטרוניקה, מעגל הוא לולאה סגורה שדרכה יכול לזרום זרם חשמלי.",
+                "example": "The simple LED circuit consists of an LED and a resistor connected to a battery.",
+                "example_hebrew": "מעגל ה-LED הפשוט מורכב מ-LED ומנגד המחוברים לסוללה."
+            },
+            {
+                "definition": "A social or professional network where people are interconnected with each other.",
+                "definition_hebrew": "רשת חברתית או מקצועית שבה אנשים מחוברים זה לזה.",
+                "example": "She has many connections in the circuits of her industry, which helps her career advancement.",
+                "example_hebrew": "יש לה קשרים רבים במעגלים של התעשייה שלה, מה שעוזר לקידום הקריירה שלה."
+            },
+            {
+                "definition": "In computing and programming, a circuit refers to an assembly of interrelated elements performing a specific function.",
+                "definition_hebrew": "במחשוב ובתכנות, מעגל מתייחס למכלול של אלמנטים הקשורים זה בזה המבצעים פונקציה מסוימת.",
+                "example": "The digital logic circuits are used for processing information within computers.",
+                "example_hebrew": "המעגלים הלוגיים הדיגיטליים משמשים לעיבוד מידע בתוך מחשבים."
+            },
+            {
+                "definition": "A closed loop in which fluid circulates, especially as part of a cooling system or engine.",
+                "definition_hebrew": "לולאה סגורה שבה נוזל מסתובב, במיוחד כחלק ממערכת קירור או מנוע.",
+                "example": "Coolant is pumped through the car's engine circuit to prevent overheating.",
+                "example_hebrew": "נוזל קירור נשאב דרך מעגל המנוע של המכונית כדי למנוע התחממות יתר."
+            }
+        ]
+    }
+]

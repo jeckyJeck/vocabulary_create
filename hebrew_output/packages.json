@@ -1,0 +1,34 @@
+[
+    {
+        "word": "packages",
+        "word_hebrew": "חבילות",
+        "main_definition": "The term 'packages' refers to bundled or grouped items, information, services, or shipments that are delivered together.",
+        "main_definition_hebrew": "המונח 'חבילות' מתייחס לפריטים מקובצים או מקובצים, מידע, שירותים או משלוחים המסופקים יחד.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of mail and shipping, packages refer to parcels containing goods that are sent from one location to another for delivery.",
+                "definition_hebrew": "בהקשר של דואר ומשלוח, חבילות מתייחסות לחבילות המכילות סחורה הנשלחות ממקום למקום למשלוח.",
+                "example": "I received a package today with my new books.",
+                "example_hebrew": "קיבלתי היום חבילה עם הספרים החדשים שלי."
+            },
+            {
+                "definition": "When used in computing or data transmission, 'packages' can denote bundled sets of related software components or information units.",
+                "definition_hebrew": "בשימוש במחשוב או בשידור נתונים, 'חבילות' יכולות להצביע על קבוצות מצורפות של רכיבי תוכנה קשורים או יחידות מידע.",
+                "example": "The installer created several packages containing the necessary files for our project.",
+                "example_hebrew": "המתקין יצר מספר חבילות המכילות את הקבצים הדרושים לפרויקט שלנו."
+            },
+            {
+                "definition": "In programming, a package might refer to a directory that contains multiple modules and sub-modules which are grouped together for easy access and reuse in code.",
+                "definition_hebrew": "בתכנות, חבילה עשויה להתייחס לספרייה המכילה מספר מודולים ותת-מודולים המקובצים יחד לגישה קלה ושימוש חוזר בקוד.",
+                "example": "I imported a Java package named 'java.util' to use various utility classes.",
+                "example_hebrew": "ייבאתי חבילת Java בשם 'java.util' כדי להשתמש במחלקות שירות שונות."
+            },
+            {
+                "definition": "In business, 'packages' can describe bundles of products or services offered together at a discounted rate compared to purchasing them separately.",
+                "definition_hebrew": "בעסק, 'חבילות' יכולות לתאר חבילות של מוצרים או שירותים המוצעים יחד בתעריף מוזל בהשוואה לרכישתם בנפרד.",
+                "example": "The telecommunications company offers a package that includes internet and cable TV service.",
+                "example_hebrew": "חברת התקשורת מציעה חבילה הכוללת שירות אינטרנט וטלוויזיה בכבלים."
+            }
+        ]
+    }
+]

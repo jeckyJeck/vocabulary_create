@@ -1,0 +1,40 @@
+[
+    {
+        "word": "predicted",
+        "word_hebrew": "חזו",
+        "main_definition": "To forecast or estimate an event, trend, or outcome based on available data, patterns, or information.",
+        "main_definition_hebrew": "לחזות או להעריך אירוע, מגמה או תוצאה בהתבסס על נתונים, דפוסים או מידע זמינים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In a scientific context, to make an educated guess about future events using models and calculations",
+                "definition_hebrew": "בהקשר מדעי, לעשות ניחוש מושכל לגבי אירועים עתידיים באמצעות מודלים וחישובים",
+                "example": "The meteorologist predicted heavy rainfall for the upcoming weekend based on atmospheric pressure patterns.",
+                "example_hebrew": "המטאורולוג חזה גשם כבד לסוף השבוע הקרוב בהתבסס על דפוסי לחץ אטמוספרי."
+            },
+            {
+                "definition": "To estimate or forecast something in advance without certainty, often used in everyday conversation",
+                "definition_hebrew": "להעריך או לחזות משהו מראש ללא ודאות, משמש לעתים קרובות בשיחה יומיומית",
+                "example": "She predicted that she would win the chess tournament because she had been practicing for months.",
+                "example_hebrew": "היא חזתה שהיא תנצח בטורניר השחמט כי היא התאמנה במשך חודשים."
+            },
+            {
+                "definition": "In literature and storytelling, to describe a character's ability to foresee future events or outcomes",
+                "definition_hebrew": "בספרות ובסיפור סיפורים, לתאר את יכולתה של דמות לחזות אירועים או תוצאות עתידיות",
+                "example": "The oracle in 'The Odyssey' predicted the challenges that would be faced by Odysseus on his journey home.",
+                "example_hebrew": "האורקל ב'אודיסאה' חזה את האתגרים שיתמודדו מול אודיסאוס במסעו הביתה."
+            },
+            {
+                "definition": "In sports, to make a guess about the outcome of an event before it occurs",
+                "definition_hebrew": "בספורט, לנחש לגבי התוצאה של אירוע לפני שהוא מתרחש",
+                "example": "The analysts predicted that Team A would win the match based on their past performance and current statistics.",
+                "example_hebrew": "האנליסטים חזו שצוות A תנצח במשחק על סמך ביצועי העבר והסטטיסטיקה הנוכחית שלהם."
+            },
+            {
+                "definition": "To speculate or conjecture about future trends in business, economics, or other areas of interest",
+                "definition_hebrew": "להעלות השערות או השערות לגבי מגמות עתידיות בעסקים, בכלכלה או בתחומי עניין אחרים",
+                "example": "Experts predicted a market downturn due to increasing unemployment rates and declining consumer confidence.",
+                "example_hebrew": "מומחים חזו ירידה בשוק עקב עלייה בשיעורי האבטלה וירידה באמון הצרכנים."
+            }
+        ]
+    }
+]

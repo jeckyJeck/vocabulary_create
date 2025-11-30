@@ -1,0 +1,40 @@
+[
+    {
+        "word": "hazardous",
+        "word_hebrew": "מְסוּכָּן",
+        "main_definition": "dangerous or risky, often related to a situation that could cause harm or injury.",
+        "main_definition_hebrew": "מסוכן או מסוכן, לעתים קרובות קשור למצב שעלול לגרום נזק או פציעה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Potentially causing serious physical harm or danger.",
+                "definition_hebrew": "עלול לגרום לנזק פיזי חמור או לסכנה.",
+                "example": "Working with hazardous chemicals without proper safety gear is extremely risky.",
+                "example_hebrew": "עבודה עם כימיקלים מסוכנים ללא ציוד בטיחות מתאים היא מסוכנת ביותר."
+            },
+            {
+                "definition": "Dangerously unstable, prone to sudden changes and potential for disaster.",
+                "definition_hebrew": "לא יציב בצורה מסוכנת, נוטה לשינויים פתאומיים ופוטנציאל לאסון.",
+                "example": "The volcano's eruption was highly hazardous, threatening the nearby villages with lava flows and ash clouds.",
+                "example_hebrew": "התפרצות הר הגעש הייתה מסוכנת ביותר, ואיימה על הכפרים הסמוכים בזרמי לבה וענני אפר."
+            },
+            {
+                "definition": "Involving a high degree of uncertainty or risk that could lead to loss or damage.",
+                "definition_hebrew": "כרוך בדרגה גבוהה של אי ודאות או סיכון שעלולים להוביל לאובדן או לנזק.",
+                "example": "Navigating through hazardous weather conditions like heavy fog and strong winds can be perilous for sailors.",
+                "example_hebrew": "ניווט בתנאי מזג אוויר מסוכנים כמו ערפל כבד ורוחות חזקות עלול להיות מסוכן עבור מלחים."
+            },
+            {
+                "definition": "Pertaining to situations where there is a threat of causing accidental injury, illness or damage.",
+                "definition_hebrew": "הנוגע למצבים בהם קיים איום בגרימת פציעה, מחלה או נזק בשוגג.",
+                "example": "The construction site was marked as hazardous due to the presence of heavy machinery and exposed wires.",
+                "example_hebrew": "אתר הבנייה סומן כמסוכן עקב הימצאות מכונות כבדות וחוטים חשופים."
+            },
+            {
+                "definition": "Designating something that can create danger for people's health, safety, or environment.",
+                "definition_hebrew": "ייעוד משהו שיכול ליצור סכנה לבריאותם, לבטיחותם או לסביבה של אנשים.",
+                "example": "Ascending a steep, icy mountain path requires caution as it is hazardous to one's well-beeing.",
+                "example_hebrew": "עלייה בשביל הררי תלול וקפוא מחייבת זהירות מכיוון שהיא מסוכנת לרווחתו."
+            }
+        ]
+    }
+]

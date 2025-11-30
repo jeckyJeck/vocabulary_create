@@ -1,0 +1,28 @@
+[
+    {
+        "word": "possibly",
+        "word_hebrew": "יִתָכֵן",
+        "main_definition": "Within the realm of likelihood, indicating that something may happen or be true but is not certain.",
+        "main_definition_hebrew": "בתחום הסבירות, מה שמצביע על כך שמשהו עשוי לקרות או להיות נכון אך אינו בטוח.",
+        "meanings_and_examples": [
+            {
+                "definition": "Likely to occur or exist without full confirmation",
+                "definition_hebrew": "סביר להתרחש או להתקיים ללא אישור מלא",
+                "example": "She might possibly pass her driving test next week.",
+                "example_hebrew": "אולי היא תעבור את מבחן הנהיגה שלה בשבוע הבא."
+            },
+            {
+                "definition": "With some degree of probability, but not certainty",
+                "definition_hebrew": "במידה מסוימת של הסתברות, אבל לא בוודאות",
+                "example": "There is a possibility that it will rain tomorrow, though the weather forecast isn't definitive.",
+                "example_hebrew": "קיימת אפשרות שיירד גשם מחר, אם כי תחזית מזג האוויר אינה סופית."
+            },
+            {
+                "definition": "Allowing for alternative outcomes or possibilities in decision-making",
+                "definition_hebrew": "מתן אפשרות לתוצאות או אפשרויות חלופיות בקבלת החלטות",
+                "example": "We are considering several options; however, there might possibly be better choices we haven't explored yet.",
+                "example_hebrew": "אנו שוקלים מספר אפשרויות; עם זאת, ייתכן שיהיו אפשרויות טובות יותר שעדיין לא חקרנו."
+            }
+        ]
+    }
+]

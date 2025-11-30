@@ -1,0 +1,34 @@
+[
+    {
+        "word": "retrieval",
+        "word_hebrew": "שְׁלִיפָה",
+        "main_definition": "Retrieval refers to the act of obtaining or recovering something that was previously lost, stored, or hidden.",
+        "main_definition_hebrew": "אחזור מתייחס לפעולה של השגת או שחזור של משהו שאבד בעבר, מאוחסן או הוסתר.",
+        "meanings_and_examples": [
+            {
+                "definition": "The process of accessing information from a storage medium.",
+                "definition_hebrew": "תהליך הגישה למידע מאמצעי אחסון.",
+                "example": "When I asked my computer for a specific document, it went through the retrieval process to find and display the file.",
+                "example_hebrew": "כשביקשתי מהמחשב שלי מסמך ספציפי, הוא עבר את תהליך האחזור כדי למצוא ולהציג את הקובץ."
+            },
+            {
+                "definition": "Recovering lost data or files after they have been deleted or corrupted.",
+                "definition_hebrew": "שחזור נתונים או קבצים שאבדו לאחר שהם נמחקו או הושחתו.",
+                "example": "After accidentally deleting an important spreadsheet, I used a recovery tool to retrieve the missing files from my computer's recycle bin.",
+                "example_hebrew": "לאחר שמחקתי בטעות גיליון אלקטרוני חשוב, השתמשתי בכלי שחזור כדי לאחזר את הקבצים החסרים מסל המיחזור של המחשב שלי."
+            },
+            {
+                "definition": "The act of retrieving items from storage for use or sale in retail settings.",
+                "definition_hebrew": "פעולת שליפת פריטים מאחסון לשימוש או מכירה במסגרות קמעונאיות.",
+                "example": "When customers want to buy something off the shelves, they ask a salesperson to retrieve it for them.",
+                "example_hebrew": "כאשר לקוחות רוצים לקנות משהו מהמדפים, הם מבקשים מאיש מכירות להביא אותו עבורם."
+            },
+            {
+                "definition": "Obtaining goods from an inventory or warehouse after processing a customer's order.",
+                "definition_hebrew": "קבלת סחורה ממלאי או מחסן לאחר עיבוד הזמנת לקוח.",
+                "example": "After receiving a large shipment of products, I had to manually retrieve the items listed in my orders and pack them before shipping.",
+                "example_hebrew": "לאחר קבלת משלוח גדול של מוצרים, נאלצתי לאחזר ידנית את הפריטים הרשומים בהזמנות שלי ולארוז אותם לפני המשלוח."
+            }
+        ]
+    }
+]

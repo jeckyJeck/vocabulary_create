@@ -1,0 +1,28 @@
+[
+    {
+        "word": "diagnostic",
+        "word_hebrew": "אבחון",
+        "main_definition": "A diagnostic refers to the process of determining or identifying a particular condition, problem, or disease by using various methods such as tests, analysis, or assessment.",
+        "main_definition_hebrew": "אבחון מתייחס לתהליך של קביעה או זיהוי של מצב, בעיה או מחלה מסוימת על ידי שימוש בשיטות שונות כגון בדיקות, ניתוח או הערכה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In medicine, it is an evaluation performed to determine the nature or cause of a patient's symptoms.",
+                "definition_hebrew": "ברפואה, מדובר בהערכה המבוצעת כדי לקבוע את אופי או הסיבה לתסמינים של המטופל.",
+                "example": "The doctor conducted a diagnostic test to figure out why the patient was experiencing chest pain.",
+                "example_hebrew": "הרופא ערך בדיקת אבחון כדי להבין מדוע המטופל סובל מכאבים בחזה."
+            },
+            {
+                "definition": "As an idiomatic expression, it means using observation and logical reasoning to make judgments or draw conclusions about something.",
+                "definition_hebrew": "כביטוי אידיומטי, זה אומר להשתמש בהתבוננות ובנימוקים לוגיים כדי לשפוט או להסיק מסקנות לגבי משהו.",
+                "example": "She used her diagnostic skills to determine that the car's engine noise was due to a loose belt.",
+                "example_hebrew": "היא השתמשה בכישורי האבחון שלה כדי לקבוע שרעש המנוע של המכונית נובע מחגורה רופפת."
+            },
+            {
+                "definition": "In computing, it refers to tools or procedures for identifying and resolving software or hardware issues.",
+                "definition_hebrew": "במחשוב, זה מתייחס לכלים או נהלים לזיהוי ופתרון בעיות תוכנה או חומרה.",
+                "example": "The IT technician ran a series of diagnostics on the malfunctioning computer to find the problem.",
+                "example_hebrew": "טכנאי ה-IT הפעיל סדרת אבחון במחשב התקול כדי למצוא את הבעיה."
+            }
+        ]
+    }
+]

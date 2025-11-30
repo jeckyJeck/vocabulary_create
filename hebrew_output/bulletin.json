@@ -1,0 +1,34 @@
+[
+    {
+        "word": "bulletin",
+        "word_hebrew": "עָלוֹן",
+        "main_definition": "A bulletin is a brief news report or announcement, often related to specific topics such as weather, events, or official statements.",
+        "main_definition_hebrew": "עלון הוא דיווח או הודעה חדשותית קצרה, הקשורים לרוב לנושאים ספציפיים כגון מזג אוויר, אירועים או הצהרות רשמיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "News release or press statement",
+                "definition_hebrew": "הודעה לעיתונות או הודעה לעיתונות",
+                "example": "The city issued a bulleted warning about the upcoming hurricane.",
+                "example_hebrew": "העירייה פרסמה אזהרת כדורים על ההוריקן הקרוב."
+            },
+            {
+                "definition": "A periodical publication, such as a newspaper column or magazine feature",
+                "definition_hebrew": "פרסום תקופתי, כגון טור בעיתון או מאמר מגזין",
+                "example": "Every weekend, readers receive the 'Bulletin' section in their local newspaper with various articles and columns.",
+                "example_hebrew": "מדי סוף שבוע מקבלים הקוראים את מדור 'העלון' במקומון ובו כתבות וטורים שונים."
+            },
+            {
+                "definition": "An official notification issued by an authority or organization",
+                "definition_hebrew": "הודעה רשמית שניתנה על ידי רשות או ארגון",
+                "example": "The school bulletin announced changes to the start time for classes due to a new schedule.",
+                "example_hebrew": "בעלון בית הספר הודיע על שינויים במועד תחילת השיעורים עקב לוח זמנים חדש."
+            },
+            {
+                "definition": "A brief summary of events, typically in bullet points format",
+                "definition_hebrew": "סיכום קצר של אירועים, בדרך כלל בפורמט של נקודות תבליט",
+                "example": "During the meeting, the manager gave a bulleted list of key action items and deadlines.",
+                "example_hebrew": "במהלך הפגישה, המנהל נתן רשימה עם תבליטים של פריטי פעולה מרכזיים ומועדים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "fork",
+        "word_hebrew": "מזלג",
+        "main_definition": "A device with prongs used for lifting, carrying, or manipulating objects; also an idiom representing a point of decision where different paths diverge.",
+        "main_definition_hebrew": "מכשיר עם חודים המשמשים להרמה, נשיאה או מניפולציה של חפצים; גם ניב המייצג נקודת החלטה שבה מתפצלים דרכים שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Tool for eating",
+                "definition_hebrew": "כלי לאכילה",
+                "example": "She picked up the fork and began to eat her salad.",
+                "example_hebrew": "היא הרימה את המזלג והחלה לאכול את הסלט שלה."
+            },
+            {
+                "definition": "Point in a road where it splits into two paths",
+                "definition_hebrew": "נקודה בכביש שבו הוא מתפצל לשני שבילים",
+                "example": "We reached the fork in the trail, having to decide which path to take next.",
+                "example_hebrew": "הגענו להתפצלות השביל, נאלצנו להחליט באיזה שביל ללכת."
+            },
+            {
+                "definition": "Device for lifting or carrying heavy objects",
+                "definition_hebrew": "מכשיר להרמה או נשיאה של חפצים כבדים",
+                "example": "The workers used a fork lift truck to move the crates out of the warehouse.",
+                "example_hebrew": "העובדים השתמשו במלגזה כדי להעביר את הארגזים אל מחוץ למחסן."
+            },
+            {
+                "definition": "A place where something divides into two branches",
+                "definition_hebrew": "מקום שבו משהו מתחלק לשני ענפים",
+                "example": "At this point in our project, we have reached a fork and must choose one direction over another.",
+                "example_hebrew": "בשלב זה של הפרויקט שלנו, הגענו למזלג ועלינו לבחור כיוון אחד על פני אחר."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "copying",
+        "word_hebrew": "הַעתָקָה",
+        "main_definition": "To reproduce or duplicate something, either in its entirety or specific parts, often with the intent to replicate or use it as a model.",
+        "main_definition_hebrew": "לשכפל או לשכפל משהו, בשלמותו או בחלקים ספציפיים, לעתים קרובות מתוך כוונה לשכפל או להשתמש בו כמודל.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of reproducing written, drawn, or printed material exactly as it appears",
+                "definition_hebrew": "הפעולה של שכפול חומר כתוב, מצויר או מודפס בדיוק כפי שהוא מופיע",
+                "example": "She was caught copying her friend's homework.",
+                "example_hebrew": "היא נתפסה כשהיא מעתיקה את שיעורי הבית של חברתה."
+            },
+            {
+                "definition": "To make a duplicate of something by using a technique like photocopying or scanning",
+                "definition_hebrew": "לעשות שכפול של משהו על ידי שימוש בטכניקה כמו צילום או סריקה",
+                "example": "He copied the document onto a flash drive for safekeeping.",
+                "example_hebrew": "הוא העתיק את המסמך לכונן הבזק לשמירה."
+            },
+            {
+                "definition": "In sports, to imitate an opponent's movements in order to gain an advantage",
+                "definition_hebrew": "בספורט, לחקות תנועות של יריב על מנת להשיג יתרון",
+                "example": "The soccer player tried to copy his rival's kick technique to improve his own game.",
+                "example_hebrew": "שחקן הכדורגל ניסה להעתיק את טכניקת הבעיטה של יריבו כדי לשפר את המשחק שלו."
+            },
+            {
+                "definition": "When used in the context of music or art, copying refers to the act of replicating a piece by another artist without permission",
+                "definition_hebrew": "כאשר נעשה שימוש בהקשר של מוזיקה או אמנות, העתקה מתייחסת לפעולה של שכפול יצירה על ידי אמן אחר ללא רשות",
+                "example": "Copying someone else's song lyrics and selling them as her own work is considered plagiarism.",
+                "example_hebrew": "העתקת מילות השיר של מישהו אחר ומכירתם כיצירה שלה נחשבת לגניבת דעת."
+            },
+            {
+                "definition": "In computing, it means creating an exact duplicate or backup of data files",
+                "definition_hebrew": "במחשוב, זה אומר ליצור כפיל או גיבוי מדויק של קבצי נתונים",
+                "example": "I regularly back up my computer's data by copying all the important files to a separate hard drive.",
+                "example_hebrew": "אני מגבה באופן קבוע את נתוני המחשב שלי על ידי העתקת כל הקבצים החשובים לכונן קשיח נפרד."
+            }
+        ]
+    }
+]

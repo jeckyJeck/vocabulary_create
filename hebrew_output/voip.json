@@ -1,0 +1,28 @@
+[
+    {
+        "word": "voip",
+        "word_hebrew": "voip",
+        "main_definition": "Voice over Internet Protocol (VOIP) is a technology that allows voice calls to be made over the internet rather than through traditional telephone lines.",
+        "main_definition_hebrew": "Voice over Internet Protocol (VOIP) היא טכנולוגיה המאפשרת לבצע שיחות קוליות דרך האינטרנט ולא דרך קווי טלפון מסורתיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A method of transmitting voice communications over the internet",
+                "definition_hebrew": "שיטה להעברת תקשורת קולית דרך האינטרנט",
+                "example": "John decided to switch from his landline phone to VoIP service, reducing costs and increasing convenience.",
+                "example_hebrew": "ג'ון החליט לעבור מהטלפון הקווי שלו לשירות VoIP, תוך הפחתת עלויות והגברת הנוחות."
+            },
+            {
+                "definition": "An abbreviation for Internet Protocol version 4",
+                "definition_hebrew": "קיצור של פרוטוקול אינטרנט גרסה 4",
+                "example": "VOIP is often used interchangeably with IPv4 in technical discussions about internet technologies.",
+                "example_hebrew": "VOIP משמש לעתים קרובות להחלפה עם IPv4 בדיונים טכניים על טכנולוגיות אינטרנט."
+            },
+            {
+                "definition": "A telecommunications service that provides voice communications through the use of packet-switched networks and protocols",
+                "definition_hebrew": "שירות טלקומוניקציה המספק תקשורת קולית באמצעות שימוש ברשתות ופרוטוקולים מנועי מנות",
+                "example": "Many businesses now offer VOIP services to their customers, allowing them to make calls over the internet rather than using traditional phone lines.",
+                "example_hebrew": "עסקים רבים מציעים כיום שירותי VOIP ללקוחותיהם, ומאפשרים להם לבצע שיחות דרך האינטרנט במקום להשתמש בקווי טלפון מסורתיים."
+            }
+        ]
+    }
+]

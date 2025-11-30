@@ -1,0 +1,34 @@
+[
+    {
+        "word": "metadata",
+        "word_hebrew": "מטא נתונים",
+        "main_definition": "Metadata refers to data that provides information about other data, typically describing the properties or attributes of a certain entity.",
+        "main_definition_hebrew": "מטא נתונים מתייחסים לנתונים המספקים מידע על נתונים אחרים, המתארים בדרך כלל את המאפיינים או התכונות של ישות מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Descriptive information about digital files",
+                "definition_hebrew": "מידע תיאורי על קבצים דיגיטליים",
+                "example": "The metadata of an image file may include its date created, author name, and file size.",
+                "example_hebrew": "המטא נתונים של קובץ תמונה עשויים לכלול את תאריך היצירה שלו, שם המחבר וגודל הקובץ."
+            },
+            {
+                "definition": "Data that describes other data for organizational purposes",
+                "definition_hebrew": "נתונים המתארים נתונים אחרים למטרות ארגוניות",
+                "example": "In a library catalog, the metadata might include information about book titles, authors, publication dates, and genres.",
+                "example_hebrew": "בקטלוג ספרייה, המטא נתונים עשויים לכלול מידע על כותרות ספרים, מחברים, תאריכי פרסום וז'אנרים."
+            },
+            {
+                "definition": "Supplementary information to assist with searching or understanding content",
+                "definition_hebrew": "מידע משלים כדי לסייע בחיפוש או בהבנת תוכן",
+                "example": "Online articles often contain metadata like keywords, summaries, and author details that help readers find relevant content.",
+                "example_hebrew": "מאמרים מקוונים מכילים לרוב מטא נתונים כמו מילות מפתח, סיכומים ופרטי מחבר המסייעים לקוראים למצוא תוכן רלוונטי."
+            },
+            {
+                "definition": "Structured data that helps in the management of databases",
+                "definition_hebrew": "נתונים מובנים המסייעים בניהול מאגרי מידע",
+                "example": "Database schemas include metadata that defines tables, columns, relationships, and constraints.",
+                "example_hebrew": "סכימות מסד נתונים כוללות מטא נתונים המגדירים טבלאות, עמודות, קשרים ואילוצים."
+            }
+        ]
+    }
+]

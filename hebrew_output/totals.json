@@ -1,0 +1,34 @@
+[
+    {
+        "word": "totals",
+        "word_hebrew": "סיכומים",
+        "main_definition": "The sum or aggregate amount of a set of numbers, amounts, or quantities.",
+        "main_definition_hebrew": "הסכום או הסכום המצטבר של קבוצה של מספרים, סכומים או כמויות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Summing up the total expenses incurred by a business during a specific period.",
+                "definition_hebrew": "סיכום סך ההוצאות שנגרמו לעסק בתקופה מסוימת.",
+                "example": "At the end of each month, we calculate our totals for sales revenue, cost of goods sold, and operating expenses.",
+                "example_hebrew": "בסוף כל חודש, אנו מחשבים את הסכומים שלנו עבור הכנסות ממכירות, עלות סחורה שנמכרה והוצאות תפעול."
+            },
+            {
+                "definition": "Totaling scores or points accumulated by players in a game or contest.",
+                "definition_hebrew": "סכום כולל של ציונים או נקודות שנצברו על ידי שחקנים במשחק או בתחרות.",
+                "example": "After three rounds of golf, the golfer's total score is 32 for the tournament.",
+                "example_hebrew": "לאחר שלושה סיבובי גולף, הציון הכולל של שחקן הגולף הוא 32 עבור הטורניר."
+            },
+            {
+                "definition": "Summing up individual contributions to reach an overall amount.",
+                "definition_hebrew": "סיכום תרומות בודדות כדי להגיע לסכום כולל.",
+                "example": "The committee totaled all donations received over the past year and found that they raised $50,000.",
+                "example_hebrew": "הוועדה סיכמה את כל התרומות שהתקבלו בשנה האחרונה וגילתה שהם גייסו 50,000 דולר."
+            },
+            {
+                "definition": "Combining various numerical data points into a single value representing the whole.",
+                "definition_hebrew": "שילוב של נקודות נתונים מספריות שונות לערך אחד המייצג את השלם.",
+                "example": "When calculating the total weight of shipments, we add up the weights of all individual items.",
+                "example_hebrew": "בעת חישוב המשקל הכולל של המשלוחים, אנו מחברים את המשקלים של כל הפריטים הבודדים."
+            }
+        ]
+    }
+]

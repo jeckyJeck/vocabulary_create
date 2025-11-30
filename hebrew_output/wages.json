@@ -1,0 +1,34 @@
+[
+    {
+        "word": "wages",
+        "word_hebrew": "שכר",
+        "main_definition": "Wages refer to the payment received by an employee in exchange for their labor or services, typically expressed as a regular monetary amount paid over time.",
+        "main_definition_hebrew": "שכר מתייחס לתשלום שמקבל עובד בתמורה לעבודתו או לשירותיו, המתבטא בדרך כלל כסכום כספי רגיל ששולם לאורך זמן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Compensation paid on a daily basis",
+                "definition_hebrew": "פיצוי המשולם על בסיס יומי",
+                "example": "John receives $100 per day as his wages for working at the factory.",
+                "example_hebrew": "ג'ון מקבל 100 דולר ליום כשכר העבודה שלו במפעל."
+            },
+            {
+                "definition": "Hourly earnings",
+                "definition_hebrew": "רווחים לפי שעה",
+                "example": "Sarah's hourly wage is $20, which means she earns $400 for an 8-hour workday.",
+                "example_hebrew": "השכר לשעה של שרה הוא 20 דולר, כלומר היא מרוויחה 400 דולר עבור יום עבודה של 8 שעות."
+            },
+            {
+                "definition": "Salary paid over a period of time",
+                "definition_hebrew": "משכורת ששולם על פני תקופה",
+                "example": "As part of his benefits package, Michael receives a monthly salary of $5000.",
+                "example_hebrew": "כחלק מחבילת ההטבות שלו, מייקל מקבל משכורת חודשית של 5000$."
+            },
+            {
+                "definition": "Payment for services rendered or labor performed",
+                "definition_hebrew": "תשלום עבור שירותים שניתנו או עבודה שבוצעה",
+                "example": "The company will pay the construction workers wages based on their daily progress and output.",
+                "example_hebrew": "החברה תשלם לפועלי הבניין שכר על בסיס ההתקדמות והתפוקה היומית שלהם."
+            }
+        ]
+    }
+]

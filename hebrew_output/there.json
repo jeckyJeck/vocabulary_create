@@ -1,0 +1,34 @@
+[
+    {
+        "word": "there",
+        "word_hebrew": "שם",
+        "main_definition": "There is commonly used as an adverb to indicate a place or position, or as an expletive placeholder in sentences where the specific location isn't being discussed.",
+        "main_definition_hebrew": "משמש בדרך כלל כפתגם לציון מקום או מיקום, או כמציין מיקום מפורש במשפטים שבהם המיקום הספציפי אינו נדון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Indicating a particular point or location",
+                "definition_hebrew": "ציון נקודה או מיקום מסוים",
+                "example": "The keys are over there on the table.",
+                "example_hebrew": "המפתחות שם על השולחן."
+            },
+            {
+                "definition": "As an expletive to introduce a sentence where no specific location is being discussed",
+                "definition_hebrew": "כפתיח להציג משפט שבו לא דנים במיקום ספציפי",
+                "example": "There was a great performance last night at the concert.",
+                "example_hebrew": "הייתה הופעה נהדרת אתמול בערב בהופעה."
+            },
+            {
+                "definition": "To imply existence or presence without specifying details",
+                "definition_hebrew": "לרמוז על קיום או נוכחות מבלי לציין פרטים",
+                "example": "You can go there and find many resources for your research project.",
+                "example_hebrew": "אתה יכול ללכת לשם ולמצוא משאבים רבים עבור פרויקט המחקר שלך."
+            },
+            {
+                "definition": "Used to indicate a state of being rather than a physical location",
+                "definition_hebrew": "משמש לציון מצב הוויה ולא מיקום פיזי",
+                "example": "There is no clear solution to this problem, but we will continue trying different approaches.",
+                "example_hebrew": "אין פתרון ברור לבעיה זו, אך נמשיך לנסות גישות שונות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "probe",
+        "word_hebrew": "בְּדִיקָה",
+        "main_definition": "To investigate or examine by making inquiries, especially formally; to test the accuracy or validity of something.",
+        "main_definition_hebrew": "לחקור או לבחון באמצעות בירורים, במיוחד פורמליים; כדי לבדוק את הדיוק או התקפות של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A device used for exploring and examining, particularly for scientific purposes like measuring temperature or pressure",
+                "definition_hebrew": "מכשיר המשמש לחקירה ולבדיקה, במיוחד למטרות מדעיות כמו מדידת טמפרטורה או לחץ",
+                "example": "The spacecraft's thermal probe measured the surface temperatures on Mars.",
+                "example_hebrew": "הגשושית התרמית של החללית מדדה את טמפרטורות פני השטח על מאדים."
+            },
+            {
+                "definition": "An inquiry into a matter made by an official body to gather information",
+                "definition_hebrew": "בירור בנושא שנעשה על ידי גוף רשמי לאיסוף מידע",
+                "example": "The government sent in a commission to probe into allegations of corruption within the administration.",
+                "example_hebrew": "הממשלה שלחה ועדה לחקור את ההאשמות על שחיתות בתוך הממשל."
+            },
+            {
+                "definition": "To make inquiries or investigations, especially formally and thoroughly",
+                "definition_hebrew": "לבצע בירורים או חקירות, במיוחד באופן רשמי ויסודי",
+                "example": "The journalist decided to probe deeper into the company's financial records after noticing some discrepancies.",
+                "example_hebrew": "העיתונאי החליט לחקור לעומק את הרישומים הכספיים של החברה לאחר שהבחין בכמה אי התאמות."
+            },
+            {
+                "definition": "A questioning method used to test someone's honesty or truthfulness",
+                "definition_hebrew": "שיטת תהייה המשמשת לבדיקת כנות או אמיתות של מישהו",
+                "example": "During the trial, both sides asked a series of probes to ascertain the defendant's credibility.",
+                "example_hebrew": "במהלך המשפט, שני הצדדים ביקשו שורה של בדיקות כדי לברר את אמינותו של הנאשם."
+            }
+        ]
+    }
+]

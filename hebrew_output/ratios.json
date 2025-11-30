@@ -1,0 +1,40 @@
+[
+    {
+        "word": "ratios",
+        "word_hebrew": "יחסים",
+        "main_definition": "Ratios refer to the quantitative relationship between two or more numbers, showing how many times one value contains or is contained within another.",
+        "main_definition_hebrew": "יחסים מתייחסים לקשר הכמותי בין שני מספרים או יותר, המראה כמה פעמים ערך אחד מכיל או כלול בתוך אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Comparison of quantities using division",
+                "definition_hebrew": "השוואת כמויות באמצעות חלוקה",
+                "example": "The ratio of boys to girls in a classroom with 15 boys and 10 girls is 3:2.",
+                "example_hebrew": "היחס בין בנים לבנות בכיתה עם 15 בנים ו-10 בנות הוא 3:2."
+            },
+            {
+                "definition": "Rate at which one quantity changes relative to another",
+                "definition_hebrew": "קצב שבו משתנה כמות אחת ביחס לאחרת",
+                "example": "If you travel 300 miles in 5 hours, your speed ratio (or rate) would be 60 mph.",
+                "example_hebrew": "אם אתה נוסע 300 מייל ב-5 שעות, יחס המהירות שלך (או הקצב) שלך יהיה 60 קמ\"ש."
+            },
+            {
+                "definition": "Proportion of two quantities or elements within a whole",
+                "definition_hebrew": "יחס של שתי כמויות או אלמנטים בתוך שלם",
+                "example": "The ratio of red balls to total balls in a bag containing 10 red and 20 blue balls is 1:3.",
+                "example_hebrew": "היחס בין הכדורים האדומים לסך הכדורים בשקית המכילה 10 כדורים אדומים ו-20 כדורים כחולים הוא 1:3."
+            },
+            {
+                "definition": "Comparison between corresponding parts of similar figures",
+                "definition_hebrew": "השוואה בין חלקים מקבילים של דמויות דומות",
+                "example": "If two triangles have sides with lengths of 5, 6, and 7 in one triangle and 10, 12, and 14 in another, the ratio of their side lengths is also 1:2.",
+                "example_hebrew": "אם לשני משולשים יש צלעות באורך של 5, 6 ו-7 במשולש אחד ו-10, 12 ו-14 במשולש אחר, היחס בין אורכי הצלעות שלהם הוא גם 1:2."
+            },
+            {
+                "definition": "Relationship between two or more quantities expressed as a fraction",
+                "definition_hebrew": "קשר בין שתי כמויות או יותר המבוטאות כשבר",
+                "example": "The gear ratio in a car engine can be represented by comparing the number of teeth on each gear, for instance, if one has 40 teeth and another has 20 teeth, their gear ratio is 2:1.",
+                "example_hebrew": "ניתן לייצג את יחס ההילוכים במנוע מכונית על ידי השוואת מספר השיניים בכל הילוך, למשל, אם לאחד יש 40 שיניים ולאחר יש 20 שיניים, יחס ההילוכים שלהם הוא 2:1."
+            }
+        ]
+    }
+]

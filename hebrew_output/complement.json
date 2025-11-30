@@ -1,0 +1,28 @@
+[
+    {
+        "word": "complement",
+        "word_hebrew": "מַשׁלִים",
+        "main_definition": "A thing that completes or enhances something else, making it better or more attractive.",
+        "main_definition_hebrew": "דבר שמשלים או משפר משהו אחר, מה שהופך אותו לטוב יותר או לאטרקטיבי יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of grammar and language arts, a complement is a word, phrase, or clause that provides complete information about another element in a sentence. For example: 'The sky is blue.' Here, 'blue' complements 'the sky', providing additional information.",
+                "definition_hebrew": "בהקשר של דקדוק ואומנויות שפה, משלים הוא מילה, ביטוי או סעיף המספקים מידע מלא על מרכיב אחר במשפט. למשל: 'השמים כחולים'. כאן, 'כחול' משלים את 'שמיים', ומספק מידע נוסף.",
+                "example": "'She wore a beautiful dress that perfectly complemented her figure.'",
+                "example_hebrew": "'היא לבשה שמלה יפה שהשלימה בצורה מושלמת את הגזרה שלה'."
+            },
+            {
+                "definition": "In the context of fashion and design, two items are said to complement each other if they match well together and enhance one another's appearance. For example: 'A striped shirt with checked pants can be a stylish combination.'",
+                "definition_hebrew": "בהקשר של אופנה ועיצוב, אומרים ששני פריטים משלימים זה את זה אם הם מתאימים זה לזה ומשפרים את המראה של זה. למשל: 'חולצת פסים עם מכנסיים משובצים יכולה להיות שילוב מסוגנן'.",
+                "example": "'His brown shoes and black belt perfectly complement his outfit.'",
+                "example_hebrew": "\"הנעליים החומות והחגורה השחורה שלו משלימים בצורה מושלמת את התלבושת שלו.\""
+            },
+            {
+                "definition": "In the context of skills or abilities, when two things work well together to achieve a common goal, they are said to complement each other. For example: 'Teamwork is essential for completing projects efficiently as different strengths can complement one another.'",
+                "definition_hebrew": "בהקשר של כישורים או יכולות, כששני דברים עובדים היטב יחד כדי להשיג מטרה משותפת, אומרים שהם משלימים זה את זה. לדוגמה: 'עבודת צוות חיונית להשלמת פרויקטים ביעילות, שכן חוזקות שונות יכולות להשלים זה את זה.'",
+                "example": "'Her creativity and his analytical mind complemented each other perfectly in their collaboration.'",
+                "example_hebrew": "'היצירתיות שלה והמוח האנליטי שלו השלימו זה את זה בצורה מושלמת בשיתוף הפעולה שלהם.'"
+            }
+        ]
+    }
+]

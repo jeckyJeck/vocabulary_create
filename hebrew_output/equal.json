@@ -1,0 +1,34 @@
+[
+    {
+        "word": "equal",
+        "word_hebrew": "שווה",
+        "main_definition": "When two or more things are equal, they have the same value, quantity, size, or quality.",
+        "main_definition_hebrew": "כאשר שני דברים או יותר שווים, יש להם אותו ערך, כמות, גודל או איכות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Having the same amount or number as something else.",
+                "definition_hebrew": "בעל אותו כמות או מספר כמו משהו אחר.",
+                "example": "The teams had an equal number of players.",
+                "example_hebrew": "לקבוצות היו מספר שווה של שחקנים."
+            },
+            {
+                "definition": "Not having any difference in value, size, quantity, or importance between two things.",
+                "definition_hebrew": "אין הבדל בערך, גודל, כמות או חשיבות בין שני דברים.",
+                "example": "They were equally matched in terms of skills and experience.",
+                "example_hebrew": "הם היו מתאימים באותה מידה מבחינת כישורים וניסיון."
+            },
+            {
+                "definition": "Acknowledging that everyone is treated the same way regardless of their gender, race, religion, etc.",
+                "definition_hebrew": "הכרה בכך שכל אחד זוכה ליחס זהה ללא הבדל מינו, גזע, דתו וכו'.",
+                "example": "The company promotes equal opportunities for all employees.",
+                "example_hebrew": "החברה מקדמת שוויון הזדמנויות לכל העובדים."
+            },
+            {
+                "definition": "Reflecting an unbiased or fair attitude when making decisions or judgments.",
+                "definition_hebrew": "משקף גישה לא משוחדת או הוגנת בעת קבלת החלטות או שיפוטים.",
+                "example": "He made his decision based on the merits of each candidate, treating them equally.",
+                "example_hebrew": "הוא קיבל את החלטתו על סמך הכשרון של כל מועמד, והתייחס אליהם באופן שווה."
+            }
+        ]
+    }
+]

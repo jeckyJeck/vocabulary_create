@@ -1,0 +1,34 @@
+[
+    {
+        "word": "tunnel",
+        "word_hebrew": "מִנהָרָה",
+        "main_definition": "A tunnel is an underground passage that allows transportation or communication between two points, often through a mountain or beneath water bodies.",
+        "main_definition_hebrew": "מנהרה היא מעבר תת קרקעי המאפשר תחבורה או תקשורת בין שתי נקודות, לרוב דרך הר או מתחת לגופי מים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A natural cave-like structure formed by erosion or other geological processes",
+                "definition_hebrew": "מבנה טבעי דמוי מערה שנוצר משחיקה או תהליכים גיאולוגיים אחרים",
+                "example": "The spelunkers explored the tunnel carved out of limestone.",
+                "example_hebrew": "הספונקרים חקרו את המנהרה שנחצבה מאבן גיר."
+            },
+            {
+                "definition": "An underground passage built for trains, cars, or pedestrians to cross obstacles like rivers or mountains",
+                "definition_hebrew": "מעבר תת קרקעי שנבנה עבור רכבות, מכוניות או הולכי רגל לחצות מכשולים כמו נהרות או הרים",
+                "example": "We took a train through the mountain tunnel to reach the other side.",
+                "example_hebrew": "לקחנו רכבת דרך מנהרת ההר כדי להגיע לצד השני."
+            },
+            {
+                "definition": "A metaphorical expression referring to an opportunity that allows someone to progress or escape from difficult situations, often by taking indirect routes",
+                "definition_hebrew": "ביטוי מטפורי המתייחס להזדמנות המאפשרת למישהו להתקדם או לברוח ממצבים קשים, לעתים קרובות על ידי נקיטת מסלולים עקיפים",
+                "example": "Finding another job wasn't easy, but it was like discovering a tunnel out of this financial crisis.",
+                "example_hebrew": "למצוא עבודה אחרת לא היה קל, אבל זה היה כמו לגלות מנהרה מתוך המשבר הפיננסי הזה."
+            },
+            {
+                "definition": "A communication channel between two points in computer networks where data can pass through multiple paths to reach the destination",
+                "definition_hebrew": "ערוץ תקשורת בין שתי נקודות ברשתות מחשבים שבה נתונים יכולים לעבור דרך מספר נתיבים כדי להגיע ליעד",
+                "example": "The network engineer configured a tunnel for secure data transfer over public internet lines.",
+                "example_hebrew": "מהנדס הרשת הגדיר מנהרה להעברת נתונים מאובטחת בקווי אינטרנט ציבוריים."
+            }
+        ]
+    }
+]

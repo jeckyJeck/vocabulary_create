@@ -1,0 +1,34 @@
+[
+    {
+        "word": "exploration",
+        "word_hebrew": "חֲקִירָה",
+        "main_definition": "Exploration refers to the act of searching, discovering, or investigating new areas, ideas, or concepts.",
+        "main_definition_hebrew": "חקר מתייחס לפעולה של חיפוש, גילוי או חקירה של תחומים, רעיונות או מושגים חדשים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The process of traveling through unfamiliar territory in order to learn about it.",
+                "definition_hebrew": "תהליך הנסיעה בטריטוריה לא מוכרת על מנת ללמוד עליה.",
+                "example": "Christopher Columbus's voyages were a significant exploration that led to the discovery of America.",
+                "example_hebrew": "מסעותיו של כריסטופר קולומבוס היו מחקר משמעותי שהוביל לגילוי אמריקה."
+            },
+            {
+                "definition": "The act of researching and experimenting with new ideas, technologies, or theories to advance knowledge.",
+                "definition_hebrew": "פעולת מחקר והתנסות ברעיונות, טכנולוגיות או תיאוריות חדשות כדי לקדם ידע.",
+                "example": "Space exploration involves sending robots and astronauts into space to study celestial bodies and develop new technology.",
+                "example_hebrew": "חקר החלל כולל שליחת רובוטים ואסטרונאוטים לחלל כדי לחקור גרמי שמיים ולפתח טכנולוגיה חדשה."
+            },
+            {
+                "definition": "The search for new resources, such as minerals, oil, or other natural materials.",
+                "definition_hebrew": "החיפוש אחר משאבים חדשים, כגון מינרלים, נפט או חומרים טבעיים אחרים.",
+                "example": "Oil exploration is the process of identifying potential locations where crude oil may be extracted.",
+                "example_hebrew": "חיפוש נפט הוא תהליך של זיהוי מקומות פוטנציאליים שבהם ניתן להפיק נפט גולמי."
+            },
+            {
+                "definition": "A scientific field that involves studying and understanding various phenomena by observing, recording data, and conducting experiments.",
+                "definition_hebrew": "תחום מדעי הכולל לימוד והבנה של תופעות שונות על ידי התבוננות, רישום נתונים ועריכת ניסויים.",
+                "example": "The exploration in astronomy led to the discovery of exoplanets outside our solar system.",
+                "example_hebrew": "החקר באסטרונומיה הוביל לגילוי כוכבי לכת מחוץ למערכת השמש שלנו."
+            }
+        ]
+    }
+]

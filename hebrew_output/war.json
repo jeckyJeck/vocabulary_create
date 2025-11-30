@@ -1,0 +1,34 @@
+[
+    {
+        "word": "war",
+        "word_hebrew": "מִלחָמָה",
+        "main_definition": "War is a state of armed conflict between different nations or states, typically characterized by widespread destruction and loss of life.",
+        "main_definition_hebrew": "מלחמה היא מצב של עימות מזוין בין אומות או מדינות שונות, המאופיין בדרך כלל בהרס נרחב ואובדן חיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A prolonged period of violent conflict involving large-scale hostility",
+                "definition_hebrew": "תקופה ממושכת של סכסוך אלים הכרוך בעוינות רחבת היקף",
+                "example": "World War II was a significant war that involved many countries.",
+                "example_hebrew": "מלחמת העולם השנייה הייתה מלחמה משמעותית שכללה מדינות רבות."
+            },
+            {
+                "definition": "A struggle for power or resources between two opposing sides, often using military force",
+                "definition_hebrew": "מאבק על כוח או משאבים בין שני צדדים מנוגדים, לרוב תוך שימוש בכוח צבאי",
+                "example": "The Cold War was an ideological war fought by the US and the Soviet Union without direct military confrontation.",
+                "example_hebrew": "המלחמה הקרה הייתה מלחמה אידיאולוגית שנלחמה על ידי ארה\"ב וברית המועצות ללא עימות צבאי ישיר."
+            },
+            {
+                "definition": "An idiomatic expression used to describe a situation of intense disagreement or hostility, even if it is not necessarily physical",
+                "definition_hebrew": "ביטוי אידיומטי המשמש לתיאור מצב של אי הסכמה או עוינות עזים, גם אם הוא לא בהכרח פיזי",
+                "example": "The boardroom was at war over the new marketing strategy.",
+                "example_hebrew": "חדר הישיבות היה במלחמה על אסטרטגיית השיווק החדשה."
+            },
+            {
+                "definition": "A metaphorical 'war' against an issue such as disease, where various strategies and actions are employed to combat or eradicate it",
+                "definition_hebrew": "\"מלחמה\" מטפורית נגד סוגיה כמו מחלה, שבה נעשה שימוש באסטרטגיות ופעולות שונות כדי להילחם או למגר אותה",
+                "example": "Fighting cancer is a war that requires medical intervention, research, and personal determination.",
+                "example_hebrew": "המלחמה בסרטן היא מלחמה הדורשת התערבות רפואית, מחקר ונחישות אישית."
+            }
+        ]
+    }
+]

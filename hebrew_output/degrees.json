@@ -1,0 +1,40 @@
+[
+    {
+        "word": "degrees",
+        "word_hebrew": "מעלות",
+        "main_definition": "Degrees refer to a unit of measurement used in various contexts, including temperature, angles, academic achievement, or intensity.",
+        "main_definition_hebrew": "תארים מתייחסים ליחידת מדידה המשמשת בהקשרים שונים, כולל טמפרטורה, זוויות, הישגים אקדמיים או עוצמה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Unit of measurement for temperature above absolute zero (1 degree Celsius difference is equal to 1/100th of the temperature change on the Kelvin scale)",
+                "definition_hebrew": "יחידת מדידה לטמפרטורה מעל האפס המוחלט (הפרש מעלה צלזיוס שווה ל-1/100 משינוי הטמפרטורה בסולם קלווין)",
+                "example": "The weather forecast says it will be 25 degrees Celsius tomorrow.",
+                "example_hebrew": "תחזית מזג האוויר אומרת שמחר יהיו 25 מעלות צלזיוס."
+            },
+            {
+                "definition": "A unit of measurement for angles, especially in geometry and navigation",
+                "definition_hebrew": "יחידת מדידה לזוויות, במיוחד בגיאומטריה ובניווט",
+                "example": "He measured the angle between two streets using a protractor to find out if they intersected at a right angle.",
+                "example_hebrew": "הוא מדד את הזווית בין שני רחובות באמצעות מד זווית כדי לגלות אם הם מצטלבים בזווית ישרה."
+            },
+            {
+                "definition": "Highest level achieved in an academic degree program (e.g., Bachelor's, Master's, Doctorate)",
+                "definition_hebrew": "הרמה הגבוהה ביותר שהושגה בתכנית לתואר אקדמי (למשל, תואר ראשון, שני, דוקטורט)",
+                "example": "She graduated with her Master of Science degrees in Biology and Chemistry.",
+                "example_hebrew": "היא סיימה את התואר השני שלה בביולוגיה וכימיה."
+            },
+            {
+                "definition": "Intensity or severity of something",
+                "definition_hebrew": "עוצמה או חומרה של משהו",
+                "example": "The hurricane had a devastating degree of destruction as it passed through the coastal area.",
+                "example_hebrew": "להוריקן הייתה דרגת הרס הרסנית כשחלפה באזור החוף."
+            },
+            {
+                "definition": "Number of degrees of rotation around an axis (usually in three-dimensional space)",
+                "definition_hebrew": "מספר דרגות הסיבוב סביב ציר (בדרך כלל במרחב תלת מימדי)",
+                "example": "A full rotation is 360 degrees, so turning counterclockwise by one half turn equals 180 degrees.",
+                "example_hebrew": "סיבוב מלא הוא 360 מעלות, כך שסיבוב נגד כיוון השעון בחצי סיבוב אחד שווה 180 מעלות."
+            }
+        ]
+    }
+]

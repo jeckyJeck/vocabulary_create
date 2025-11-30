@@ -1,0 +1,28 @@
+[
+    {
+        "word": "concerning",
+        "word_hebrew": "בִּדְבַר",
+        "main_definition": "Concerning refers to something relating to a particular subject or topic, indicating that it is about the specified matter.",
+        "main_definition_hebrew": "לגבי מתייחס למשהו הקשור לנושא מסוים או לנושא מסוים, המציין כי מדובר בעניין שצוין.",
+        "meanings_and_examples": [
+            {
+                "definition": "Pertaining to a specific situation or issue",
+                "definition_hebrew": "הנוגע למצב או בעיה ספציפית",
+                "example": "There are several reports concerning the recent increase in crime rates.",
+                "example_hebrew": "ישנם מספר דיווחים הנוגעים לעלייה האחרונה בשיעורי הפשיעה."
+            },
+            {
+                "definition": "Of interest or relevant to someone's current concern or focus",
+                "definition_hebrew": "מעניין או רלוונטי לדאגה או להתמקדות הנוכחית של מישהו",
+                "example": "I have some news regarding your application that you might find interesting.",
+                "example_hebrew": "יש לי כמה חדשות לגבי האפליקציה שלך שאולי תמצאו מעניינות."
+            },
+            {
+                "definition": "Indicating a connection or relevance between two subjects",
+                "definition_hebrew": "מצביע על קשר או רלוונטיות בין שני נושאים",
+                "example": "The new policy is concerning both the environment and public health.",
+                "example_hebrew": "המדיניות החדשה נוגעת הן לאיכות הסביבה והן לבריאות הציבור."
+            }
+        ]
+    }
+]

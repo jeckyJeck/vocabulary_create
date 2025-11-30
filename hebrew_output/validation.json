@@ -1,0 +1,40 @@
+[
+    {
+        "word": "validation",
+        "word_hebrew": "מַתַן תוֹקֵף",
+        "main_definition": "The process of checking or confirming that something is accurate, authentic, or meets the required standards.",
+        "main_definition_hebrew": "תהליך הבדיקה או האישור שמשהו מדויק, אותנטי או עומד בסטנדרטים הנדרשים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Ensuring the accuracy and correctness of data, information, or systems.",
+                "definition_hebrew": "הבטחת הדיוק והנכונות של נתונים, מידע או מערכות.",
+                "example": "Before processing a credit card transaction, banks perform validation to ensure that the card details entered are accurate.",
+                "example_hebrew": "לפני עיבוד עסקה בכרטיס אשראי, הבנקים מבצעים אימות כדי לוודא שפרטי הכרטיס שהוזנו מדויקים."
+            },
+            {
+                "definition": "Verifying the legitimacy or authenticity of something, such as identities or documents.",
+                "definition_hebrew": "אימות הלגיטימיות או האותנטיות של משהו, כגון זהויות או מסמכים.",
+                "example": "An immigration officer checks passports for validations before allowing someone to enter a country.",
+                "example_hebrew": "קצין הגירה בודק דרכונים לאימות לפני שהוא מאפשר למישהו להיכנס למדינה."
+            },
+            {
+                "definition": "The act of confirming that an input meets certain conditions or criteria.",
+                "definition_hebrew": "הפעולה של אישור שקלט עומד בתנאים או קריטריונים מסוימים.",
+                "example": "When filling out an online form, you may need to validate your email address by entering it into the designated field and clicking submit.",
+                "example_hebrew": "בעת מילוי טופס מקוון, ייתכן שיהיה עליך לאמת את כתובת הדוא\"ל שלך על ידי הזנתה בשדה המיועד ולחיצה על שלח."
+            },
+            {
+                "definition": "In programming, the process of ensuring a given piece of code is correct and behaves as expected.",
+                "definition_hebrew": "בתכנות, תהליך הבטחת קטע קוד נתון נכון ומתנהג כמצופה.",
+                "example": "A software developer writes tests that check for validations in their program to catch any errors or bugs before deployment.",
+                "example_hebrew": "מפתח תוכנה כותב בדיקות הבודקות אימותים בתוכנית שלו כדי לתפוס שגיאות או באגים לפני הפריסה."
+            },
+            {
+                "definition": "The act of providing formal approval or authorization, especially from a regulatory body or official entity.",
+                "definition_hebrew": "הפעולה של מתן אישור או הרשאה פורמליים, במיוחד מגוף רגולטורי או גורם רשמי.",
+                "example": "Before construction can begin on a new building, the plans must be validated by the local government to ensure they meet safety standards and regulations.",
+                "example_hebrew": "לפני שניתן להתחיל בבנייה של בניין חדש, התוכניות חייבות להיות מאומתות על ידי הממשל המקומי כדי להבטיח שהן עומדות בתקני בטיחות ובתקנות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "article",
+        "word_hebrew": "מאמר",
+        "main_definition": "An article is a written composition in a publication or online medium, typically expressing opinions, news, or analysis.",
+        "main_definition_hebrew": "מאמר הוא חיבור כתוב בפרסום או במדיום מקוון, המביע בדרך כלל דעות, חדשות או ניתוח.",
+        "meanings_and_examples": [
+            {
+                "definition": "A component of law (in legal context) referring to the sections and subsections that divide statutes into manageable parts for reference",
+                "definition_hebrew": "מרכיב של חוק (בהקשר משפטי) המתייחס לסעיפים ותתי הסעיפים המחלקים חוקים לחלקים ניתנים לניהול לצורך עיון",
+                "example": "In our jurisdiction, a new bill is divided into multiple articles before it can be passed.",
+                "example_hebrew": "בתחום השיפוט שלנו, הצעת חוק חדשה מחולקת למספר סעיפים לפני שניתן יהיה להעבירה."
+            },
+            {
+                "definition": "An item in a newspaper or magazine containing written content on various topics",
+                "definition_hebrew": "אייטם בעיתון או מגזין המכיל תוכן כתוב בנושאים שונים",
+                "example": "She reads the 'World News' every morning and enjoys reading about current events in different countries through its diverse range of articles.",
+                "example_hebrew": "היא קוראת את 'חדשות העולם' בכל בוקר ונהנית לקרוא על אירועים אקטואליים במדינות שונות באמצעות מגוון הכתבות שלה."
+            },
+            {
+                "definition": "A part that connects two things, typically used to support a structure or join components together",
+                "definition_hebrew": "חלק המחבר בין שני דברים, המשמש בדרך כלל לתמיכה במבנה או לחיבור רכיבים יחד",
+                "example": "The bridge had several metal beams called 'articles' which held the roadway segments in place.",
+                "example_hebrew": "לגשר היו כמה קורות מתכת שנקראו 'פריטים' שהחזיקו את מקטעי הכביש במקומם."
+            },
+            {
+                "definition": "An individual written piece on a particular subject by an author or journalist",
+                "definition_hebrew": "מאמר פרטני שנכתב על נושא מסוים על ידי סופר או עיתונאי",
+                "example": "Journalist John Doe wrote a thought-provoking article about climate change, highlighting its impact on our daily lives.",
+                "example_hebrew": "העיתונאי ג'ון דו כתב מאמר מעורר מחשבה על שינויי אקלים, והדגיש את השפעתם על חיי היומיום שלנו."
+            },
+            {
+                "definition": "A unit of mass measurement equal to 1/16th of a pound (0.0453592 kg)",
+                "definition_hebrew": "יחידת מדידת מסה שווה ל-1/16 של פאונד (0.0453592 ק\"ג)",
+                "example": "The weight of the package is listed as 3 articles, which is approximately half a kilogram.",
+                "example_hebrew": "משקל האריזה רשום כ-3 מאמרים, שהם כחצי קילוגרם."
+            }
+        ]
+    }
+]

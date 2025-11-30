@@ -1,0 +1,34 @@
+[
+    {
+        "word": "settlement",
+        "word_hebrew": "הֶסדֵר",
+        "main_definition": "A settlement refers to the resolution of a dispute or conflict, either legally (such as in an agreement) or geographically (as in establishing a community). It can also mean the end of negotiations between parties.",
+        "main_definition_hebrew": "פשרה מתייחסת ליישוב סכסוך או סכסוך, מבחינה משפטית (כגון בהסכם) או גיאוגרפית (כמו בהקמת קהילה). זה יכול גם להיות סיום המשא ומתן בין הצדדים.",
+        "meanings_and_examples": [
+            {
+                "definition": "End of legal proceedings",
+                "definition_hebrew": "סיום הליכים משפטיים",
+                "example": "The settlement was reached through mediation, avoiding a lengthy court trial.",
+                "example_hebrew": "ההסדר הושג בגישור, תוך הימנעות ממשפט ארוך בבית המשפט."
+            },
+            {
+                "definition": "An agreement in dispute resolution",
+                "definition_hebrew": "הסכם ליישוב סכסוכים",
+                "example": "They entered into a settlement to resolve their business disagreement amicably.",
+                "example_hebrew": "הם התקשרו בהסדר כדי לפתור את המחלוקת העסקית ביניהם בהסכמה."
+            },
+            {
+                "definition": "A community established by people who migrate to a new area",
+                "definition_hebrew": "קהילה שהוקמה על ידי אנשים הנודדים לאזור חדש",
+                "example": "The early settlers built homes and farms in the New World, creating the first European communities.",
+                "example_hebrew": "המתיישבים הראשונים בנו בתים וחוות בעולם החדש, ויצרו את הקהילות האירופיות הראשונות."
+            },
+            {
+                "definition": "Payment made as part of resolving a claim or dispute",
+                "definition_hebrew": "תשלום שנעשה במסגרת פתרון תביעה או מחלוקת",
+                "example": "After filing a lawsuit for damages, she received a settlement from the defendant.",
+                "example_hebrew": "לאחר הגשת תביעת פיצויים היא קיבלה פשרה מהנתבעת."
+            }
+        ]
+    }
+]

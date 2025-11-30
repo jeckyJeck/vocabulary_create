@@ -1,0 +1,28 @@
+[
+    {
+        "word": "physicians",
+        "word_hebrew": "רופאים",
+        "main_definition": "Physicians are medical professionals who diagnose and treat illnesses, injuries, and diseases.",
+        "main_definition_hebrew": "רופאים הם אנשי מקצוע רפואיים המאבחנים ומטפלים במחלות, פציעות ומחלות.",
+        "meanings_and_examples": [
+            {
+                "definition": "General term for doctors or medical practitioners",
+                "definition_hebrew": "מונח כללי לרופאים או רופאים",
+                "example": "The physician examined the patient and prescribed medication.",
+                "example_hebrew": "הרופא בדק את המטופל ורשם לו תרופות."
+            },
+            {
+                "definition": "Specialists in a specific area of medicine",
+                "definition_hebrew": "מומחים בתחום ספציפי ברפואה",
+                "example": "A cardiologist is a type of physician who specializes in heart health.",
+                "example_hebrew": "קרדיולוג הוא סוג של רופא המתמחה בבריאות הלב."
+            },
+            {
+                "definition": "Physicians involved in research and development of new medical treatments or procedures",
+                "definition_hebrew": "רופאים המעורבים במחקר ופיתוח של טיפולים או פרוצדורות רפואיות חדשות",
+                "example": "The team of physicians conducted clinical trials to test the effectiveness of a new drug.",
+                "example_hebrew": "צוות הרופאים ערך ניסויים קליניים כדי לבדוק את היעילות של תרופה חדשה."
+            }
+        ]
+    }
+]

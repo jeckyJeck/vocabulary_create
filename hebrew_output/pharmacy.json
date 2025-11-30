@@ -1,0 +1,40 @@
+[
+    {
+        "word": "pharmacy",
+        "word_hebrew": "בֵּית מִרקַחַת",
+        "main_definition": "A pharmacy is a facility where medications are prepared, dispensed, or sold to patients by licensed professionals.",
+        "main_definition_hebrew": "בית מרקחת הוא מתקן שבו מכינים, מחולקים או מוכרים תרופות למטופלים על ידי אנשי מקצוע מורשים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The study of drugs and their effects on the body",
+                "definition_hebrew": "חקר תרופות והשפעותיהן על הגוף",
+                "example": "Pharmaceutical sciences is a branch of science that studies pharmacy.",
+                "example_hebrew": "מדעי הרוקחות הוא ענף מדע העוסק בלימודי רוקחות."
+            },
+            {
+                "definition": "A place where prescription medications are dispensed by licensed professionals",
+                "definition_hebrew": "מקום בו ניתנות תרופות מרשם על ידי אנשי מקצוע מורשים",
+                "example": "I need to pick up my antibiotics from the local pharmacy.",
+                "example_hebrew": "אני צריך לאסוף את האנטיביוטיקה שלי מבית המרקחת המקומי."
+            },
+            {
+                "definition": "The art or practice of preparing and selling drugs",
+                "definition_hebrew": "האומנות או הפרקטיקה של הכנה ומכירת סמים",
+                "example": "The owner of the drug store is a licensed pharmacist who practices the art of pharmacy.",
+                "example_hebrew": "הבעלים של בית המרקחת הוא רוקח מורשה העוסק באמנות הרוקחות."
+            },
+            {
+                "definition": "A business that offers prescription services, over-the-counter medications, and health advice to customers",
+                "definition_hebrew": "עסק המציע שירותי מרשם, תרופות ללא מרשם וייעוץ בריאותי ללקוחות",
+                "example": "I prefer going to this neighborhood drug store rather than a chain supermarket because they have knowledgeable staff who can provide personalized health advice.",
+                "example_hebrew": "אני מעדיף ללכת לבית המרקחת השכונתי הזה ולא לסופרמרקט של רשת כי יש להם צוות מיומן שיכול לספק ייעוץ בריאותי מותאם אישית."
+            },
+            {
+                "definition": "A branch of medicine concerned with the discovery, development, production, and use of medicines",
+                "definition_hebrew": "ענף ברפואה העוסק בגילוי, פיתוח, ייצור ושימוש בתרופות",
+                "example": "Pharmacists play a vital role in pharmacy by ensuring that patients receive the correct medications for their needs.",
+                "example_hebrew": "רוקחים ממלאים תפקיד חיוני ברוקחות בכך שהם מבטיחים שהמטופלים מקבלים את התרופות הנכונות לצרכיהם."
+            }
+        ]
+    }
+]

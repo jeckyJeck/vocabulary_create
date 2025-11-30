@@ -1,0 +1,34 @@
+[
+    {
+        "word": "bathroom",
+        "word_hebrew": "חדר אמבטיה",
+        "main_definition": "A bathroom is a room in a building that typically contains facilities for personal hygiene such as a toilet, sink, and bathtub or shower.",
+        "main_definition_hebrew": "חדר אמבטיה הוא חדר בבניין המכיל בדרך כלל מתקנים להיגיינה אישית כמו שירותים, כיור ואמבטיה או מקלחת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Restroom",
+                "definition_hebrew": "שירותים",
+                "example": "I need to find the restroom before our meeting starts.",
+                "example_hebrew": "אני צריך למצוא את השירותים לפני שהפגישה שלנו מתחילה."
+            },
+            {
+                "definition": "Toilet room",
+                "definition_hebrew": "חדר שירותים",
+                "example": "Please excuse me, I'm going to the toilet room.",
+                "example_hebrew": "בבקשה תסלח לי, אני הולך לחדר השירותים."
+            },
+            {
+                "definition": "Bathing facility",
+                "definition_hebrew": "מתקן רחצה",
+                "example": "The hotel provides a private bathing facility for its guests in each of its rooms.",
+                "example_hebrew": "המלון מספק מתקן רחצה פרטי לאורחיו בכל אחד מחדריו."
+            },
+            {
+                "definition": "Toilet and sink area",
+                "definition_hebrew": "אזור שירותים וכיור",
+                "example": "I'll be waiting by the toilet and sink at the back entrance.",
+                "example_hebrew": "אני אחכה ליד השירותים והכיור בכניסה האחורית."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "stakeholders",
+        "word_hebrew": "בעלי עניין",
+        "main_definition": "Stakeholders are individuals, groups, or organizations that have an interest in the success of a project, business, or other entity due to their potential impact or investment.",
+        "main_definition_hebrew": "בעלי עניין הם יחידים, קבוצות או ארגונים שיש להם אינטרס בהצלחת פרויקט, עסק או ישות אחרת בשל השפעתם או ההשקעה הפוטנציאלית שלהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Individuals who have invested money",
+                "definition_hebrew": "אנשים שהשקיעו כסף",
+                "example": "Investors are stakeholders as they put in capital hoping for returns on their investments.",
+                "example_hebrew": "משקיעים הם בעלי עניין כשהם מכניסים הון בתקווה לתשואה על ההשקעות שלהם."
+            },
+            {
+                "definition": "Groups affected by the outcomes of a project or business",
+                "definition_hebrew": "קבוצות המושפעות מהתוצאות של פרויקט או עסק",
+                "example": "Local community members are considered stakeholders when a new development project is planned because it might impact them directly.",
+                "example_hebrew": "חברי הקהילה המקומית נחשבים לבעלי עניין כאשר מתוכנן פרויקט פיתוח חדש מכיוון שהוא עשוי להשפיע עליהם ישירות."
+            },
+            {
+                "definition": "Organizations that have an interest in the success of a project, company, or entity",
+                "definition_hebrew": "ארגונים שיש להם עניין בהצלחת פרויקט, חברה או ישות",
+                "example": "Suppliers and customers are key stakeholders as their business relationship with the company can be affected by its performance.",
+                "example_hebrew": "ספקים ולקוחות הם בעלי עניין מרכזיים שכן הקשר העסקי שלהם עם החברה יכול להיות מושפע מביצועיה."
+            },
+            {
+                "definition": "Government agencies or regulatory bodies that have an interest in monitoring or influencing a project's outcomes",
+                "definition_hebrew": "סוכנויות ממשלתיות או גופים רגולטוריים שיש להם אינטרס לנטר או להשפיע על תוצאות הפרויקט",
+                "example": "Environmental protection agencies are stakeholders when assessing the impact of industrial projects on natural resources.",
+                "example_hebrew": "סוכנויות להגנת הסביבה הן מחזיקות עניין בעת הערכת ההשפעה של פרויקטים תעשייתיים על משאבי טבע."
+            },
+            {
+                "definition": "Non-profit organizations and advocacy groups that have an interest in supporting or opposing a project's goals",
+                "definition_hebrew": "ארגונים ללא מטרות רווח וקבוצות הסברה שיש להם אינטרס לתמוך או להתנגד למטרות הפרויקט",
+                "example": "An animal rights group may be considered stakeholders if they are involved in overseeing the ethical treatment of animals in research facilities.",
+                "example_hebrew": "קבוצה לזכויות בעלי חיים עשויה להיחשב כבעלי עניין אם הם מעורבים בפיקוח על הטיפול האתי בבעלי חיים במתקני מחקר."
+            }
+        ]
+    }
+]

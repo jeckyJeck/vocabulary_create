@@ -1,0 +1,40 @@
+[
+    {
+        "word": "opt",
+        "word_hebrew": "העדיף",
+        "main_definition": "To choose or select something from a range of options.",
+        "main_definition_hebrew": "כדי לבחור או לבחור משהו מתוך מגוון אפשרויות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To prefer one thing over another.",
+                "definition_hebrew": "להעדיף דבר אחד על פני דבר אחר.",
+                "example": "I can opt for the vegetarian dish instead of the meat option.",
+                "example_hebrew": "אני יכול לבחור במנה הצמחונית במקום באופציה הבשרית."
+            },
+            {
+                "definition": "To make a decision or choice.",
+                "definition_hebrew": "לקבל החלטה או בחירה.",
+                "example": "After considering all options, I decided to opt for online classes this semester.",
+                "example_hebrew": "לאחר ששקלתי את כל האפשרויות, החלטתי לבחור בשיעורים מקוונים בסמסטר זה."
+            },
+            {
+                "definition": "To select an item from a given set of alternatives.",
+                "definition_hebrew": "כדי לבחור פריט מתוך קבוצה נתונה של חלופות.",
+                "example": "You can opt to pick either the red shirt or the blue one for your interview outfit.",
+                "example_hebrew": "אתה יכול לבחור לבחור את החולצה האדומה או הכחולה עבור תלבושת הראיון שלך."
+            },
+            {
+                "definition": "In computing, to access specific data or files in a system's directory.",
+                "definition_hebrew": "במחשוב, כדי לגשת לנתונים או קבצים ספציפיים בספרייה של מערכת.",
+                "example": "To find the file you need, you may have to opt into its folder structure.",
+                "example_hebrew": "כדי למצוא את הקובץ שאתה צריך, ייתכן שתצטרך להצטרף למבנה התיקיות שלו."
+            },
+            {
+                "definition": "To join an organization by signing up for membership.",
+                "definition_hebrew": "להצטרף לארגון על ידי הרשמה לחברות.",
+                "example": "If you want access to exclusive benefits, you can opt to become a member of this gym.",
+                "example_hebrew": "אם אתה רוצה גישה להטבות בלעדיות, אתה יכול לבחור להיות חבר בחדר הכושר הזה."
+            }
+        ]
+    }
+]

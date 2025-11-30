@@ -1,0 +1,34 @@
+[
+    {
+        "word": "correlation",
+        "word_hebrew": "מתאם",
+        "main_definition": "Correlation is a statistical measure that indicates the extent to which two or more variables fluctuate together.",
+        "main_definition_hebrew": "מתאם הוא מדד סטטיסטי המציין את המידה שבה שני משתנים או יותר משתנים יחד.",
+        "meanings_and_examples": [
+            {
+                "definition": "A relationship between changes in two different things, where they increase or decrease together",
+                "definition_hebrew": "קשר בין שינויים בשני דברים שונים, שבהם הם גדלים או יורדים ביחד",
+                "example": "There seems to be a strong correlation between ice cream sales and the number of drowning incidents. As ice cream sales go up during summer months, so do drowning incidents.",
+                "example_hebrew": "נראה שיש מתאם חזק בין מכירות גלידה למספר תקריות הטביעה. ככל שמכירות הגלידות עולות במהלך חודשי הקיץ, כך גם תקריות טביעה עולות."
+            },
+            {
+                "definition": "A positive relationship where an increase in one variable is associated with an increase in another",
+                "definition_hebrew": "קשר חיובי שבו עלייה במשתנה אחד קשורה לעלייה במשתנה אחר",
+                "example": "There is a strong correlation between hours studied and test scores; students who study more tend to score higher on tests.",
+                "example_hebrew": "יש מתאם חזק בין שעות הלימוד לבין ציוני המבחנים; תלמידים שלומדים יותר נוטים לקבל ציון גבוה יותר במבחנים."
+            },
+            {
+                "definition": "A negative relationship where an increase in one variable corresponds to a decrease in the other",
+                "definition_hebrew": "קשר שלילי שבו עלייה במשתנה אחד תואמת לירידה במשתנה השני",
+                "example": "As temperature increases, ice cream sales also rise. However, there's a negative correlation between temperatures and heating costs as warmer weather means less need for heating.",
+                "example_hebrew": "ככל שהטמפרטורה עולה, גם מכירות הגלידות עולות. עם זאת, יש מתאם שלילי בין טמפרטורות ועלויות חימום מכיוון שמזג אוויר חם יותר אומר פחות צורך בחימום."
+            },
+            {
+                "definition": "The degree to which two variables are associated or related",
+                "definition_hebrew": "המידה שבה שני משתנים קשורים או קשורים",
+                "example": "In economics, the correlation coefficient measures how strongly GDP growth and unemployment rates move together.",
+                "example_hebrew": "בכלכלה, מקדם המתאם מודד באיזו עוצמה צמיחת התמ\"ג ושיעורי האבטלה נעים יחד."
+            }
+        ]
+    }
+]

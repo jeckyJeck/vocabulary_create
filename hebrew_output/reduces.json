@@ -1,0 +1,40 @@
+[
+    {
+        "word": "reduces",
+        "word_hebrew": "מפחית",
+        "main_definition": "to make something smaller or less in amount, degree, size, number, etc.",
+        "main_definition_hebrew": "לעשות משהו קטן יותר או פחות בכמות, מידה, גודל, מספר וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "to decrease the quantity of a substance by extracting its essential elements",
+                "definition_hebrew": "להפחית את כמות החומר על ידי מיצוי היסודות החיוניים שלו",
+                "example": "The process of reducing iron ore into pure metal.",
+                "example_hebrew": "תהליך הפחתת עפרות ברזל למתכת טהורה."
+            },
+            {
+                "definition": "to lessen an amount or extent",
+                "definition_hebrew": "כדי להפחית כמות או היקף",
+                "example": "Regular exercise helps to reduce stress levels.",
+                "example_hebrew": "פעילות גופנית סדירה עוזרת להפחית את רמות הלחץ."
+            },
+            {
+                "definition": "to simplify a problem by breaking it down into smaller, more manageable parts",
+                "definition_hebrew": "כדי לפשט בעיה על ידי פירוקה לחלקים קטנים יותר וניתנים לניהול",
+                "example": "To reduce the complexity of solving a mathematical equation, we can break it down step by step.",
+                "example_hebrew": "כדי להפחית את המורכבות של פתרון משוואה מתמטית, נוכל לפרק אותה צעד אחר צעד."
+            },
+            {
+                "definition": "to diminish the impact or intensity of something negative",
+                "definition_hebrew": "להפחית את ההשפעה או העוצמה של משהו שלילי",
+                "example": "The joke was cleverly crafted to reduce the tension in the room.",
+                "example_hebrew": "הבדיחה נוצרה בחוכמה כדי להפחית את המתח בחדר."
+            },
+            {
+                "definition": "to lower the price or value of something",
+                "definition_hebrew": "להוריד את המחיר או הערך של משהו",
+                "example": "During a sale, the store reduces prices on all items by 20%.",
+                "example_hebrew": "במהלך מבצע, החנות מורידה מחירים על כל הפריטים ב-20%."
+            }
+        ]
+    }
+]

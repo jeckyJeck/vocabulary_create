@@ -1,0 +1,28 @@
+[
+    {
+        "word": "indexed",
+        "word_hebrew": "באינדקס",
+        "main_definition": "Refers to a list of items, usually words or phrases, arranged systematically with reference numbers assigned to them.",
+        "main_definition_hebrew": "מתייחס לרשימה של פריטים, בדרך כלל מילים או ביטויים, המסודרים באופן שיטתי עם מספרי אסמכתה הוקצו להם.",
+        "meanings_and_examples": [
+            {
+                "definition": "In databases and search engines, when information is organized in such a way that it can be easily found by using an index",
+                "definition_hebrew": "במאגרי מידע ובמנועי חיפוש, כאשר המידע מאורגן בצורה כזו שניתן למצוא אותו בקלות באמצעות אינדקס",
+                "example": "The database indexed all the books available for online searching.",
+                "example_hebrew": "המאגר אינדקס את כל הספרים הזמינים לחיפוש מקוון."
+            },
+            {
+                "definition": "When referring to financial documents like stocks or bonds, indicating they have been assigned standard price references",
+                "definition_hebrew": "כאשר מתייחסים למסמכים פיננסיים כמו מניות או איגרות חוב, המציין שהוקצו להם אסמכתאות מחיר סטנדרטיות",
+                "example": "Indexed bonds are quoted against a specific index such as LIBOR or Treasury yields.",
+                "example_hebrew": "איגרות חוב צמודות מצוטטות כנגד מדד מסוים כגון תשואות הליבור או האוצר."
+            },
+            {
+                "definition": "Relating to the process of adding entries into an alphabetical list (index), often used in context with books and articles",
+                "definition_hebrew": "מתייחס לתהליך של הוספת ערכים לרשימה אלפביתית (אינדקס), המשמש לעתים קרובות בהקשר עם ספרים ומאמרים",
+                "example": "The librarian was responsible for indexing all new additions to the library's catalog.",
+                "example_hebrew": "הספרנית הייתה אחראית לאינדקס כל התוספות החדשות לקטלוג הספרייה."
+            }
+        ]
+    }
+]

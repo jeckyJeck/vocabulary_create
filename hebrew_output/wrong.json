@@ -1,0 +1,34 @@
+[
+    {
+        "word": "wrong",
+        "word_hebrew": "לא בסדר",
+        "main_definition": "Incorrect or not in accordance with fact, truth, or rules.",
+        "main_definition_hebrew": "לא נכון או לא בהתאם לעובדה, לאמת או לכללים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mistakenly incorrect or false.",
+                "definition_hebrew": "בטעות שגוי או שקרי.",
+                "example": "He made a wrong guess about the answer.",
+                "example_hebrew": "הוא ניחוש שגוי לגבי התשובה."
+            },
+            {
+                "definition": "Not following the correct procedure or rule.",
+                "definition_hebrew": "לא ממלא אחר הנוהל או הכלל הנכונים.",
+                "example": "Driving on the wrong side of the road is against traffic rules.",
+                "example_hebrew": "נהיגה בצד הלא נכון של הכביש מנוגדת לחוקי התנועה."
+            },
+            {
+                "definition": "Unfairly treating someone in a way that causes harm.",
+                "definition_hebrew": "יחס לא הוגן למישהו באופן שגורם נזק.",
+                "example": "It's wrong to discriminate against people based on their race or gender.",
+                "example_hebrew": "זה לא בסדר להפלות אנשים על סמך הגזע או המגדר שלהם."
+            },
+            {
+                "definition": "Not being morally right; unjustifiable or improper behavior.",
+                "definition_hebrew": "לא להיות צודק מוסרית; התנהגות בלתי מוצדקת או פסולה.",
+                "example": "Stealing is always wrong, no matter the circumstances.",
+                "example_hebrew": "גניבה היא תמיד שגויה, ללא קשר לנסיבות."
+            }
+        ]
+    }
+]

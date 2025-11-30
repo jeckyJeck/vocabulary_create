@@ -1,0 +1,34 @@
+[
+    {
+        "word": "organisation",
+        "word_hebrew": "אִרגוּן",
+        "main_definition": "An organisation is a structured group of people working together towards common goals, typically involving roles, responsibilities, and hierarchical relationships.",
+        "main_definition_hebrew": "ארגון הוא קבוצה מובנית של אנשים הפועלים יחד לקראת מטרות משותפות, הכוללות בדרך כלל תפקידים, אחריות ויחסים היררכיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of arranging or coordinating items systematically",
+                "definition_hebrew": "פעולת סידור או תיאום פריטים באופן שיטתי",
+                "example": "After a long day at work, she organized her desk by sorting files into different folders.",
+                "example_hebrew": "אחרי יום ארוך בעבודה, היא ארגנה את שולחן העבודה שלה על ידי מיון קבצים לתיקיות שונות."
+            },
+            {
+                "definition": "A group of people with specific roles and responsibilities working together to achieve a common objective",
+                "definition_hebrew": "קבוצה של אנשים עם תפקידים ואחריות ספציפיים הפועלים יחד כדי להשיג מטרה משותפת",
+                "example": "The non-profit organisation focuses on providing clean water access in underprivileged areas, employing various staff members for different tasks.",
+                "example_hebrew": "העמותה מתמקדת במתן גישה למים נקיים באזורים מוחלשים, תוך העסקת אנשי צוות שונים למשימות שונות."
+            },
+            {
+                "definition": "A formal group established for specific purposes such as business or social functions",
+                "definition_hebrew": "קבוצה רשמית שהוקמה למטרות ספציפיות כגון פונקציות עסקיות או חברתיות",
+                "example": "She joined an artistic organization to meet other painters and participate in community exhibitions.",
+                "example_hebrew": "היא הצטרפה לארגון אמנותי כדי לפגוש ציירים אחרים ולהשתתף בתערוכות קהילתיות."
+            },
+            {
+                "definition": "The process of establishing a structured system within an entity, including defining roles, procedures, and relationships",
+                "definition_hebrew": "תהליך הקמת מערכת מובנית בתוך ישות, כולל הגדרת תפקידים, נהלים ויחסים",
+                "example": "A new manager was tasked with organising the department by creating clear job descriptions and workflows for all staff members.",
+                "example_hebrew": "על מנהל חדש הוטל לארגן את המחלקה על ידי יצירת תיאורי תפקיד וזרימות עבודה ברורות לכל אנשי הצוות."
+            }
+        ]
+    }
+]

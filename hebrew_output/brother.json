@@ -1,0 +1,34 @@
+[
+    {
+        "word": "brother",
+        "word_hebrew": "אָח",
+        "main_definition": "A 'brother' is a male sibling who shares at least one parent with another person, but it can also have extended meanings in different contexts.",
+        "main_definition_hebrew": "'אח' הוא אח זכר שחולק לפחות הורה אחד עם אדם אחר, אך יכול להיות לו גם משמעויות מורחבות בהקשרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Literal meaning - A biological or legally recognized brother (a man related by blood to someone else) who shares the same parents",
+                "definition_hebrew": "משמעות מילולית - אח ביולוגי או מוכר משפטית (אדם הקשור בדם למישהו אחר) שחולק את אותם ההורים",
+                "example": "My older brother is a doctor and lives in New York.",
+                "example_hebrew": "אחי הגדול הוא רופא וגר בניו יורק."
+            },
+            {
+                "definition": "Figurative sense - Used metaphorically to describe a person with whom one has a close, trusted relationship, often implying equality or camaraderie",
+                "definition_hebrew": "חוש פיגורטיבי - משמש באופן מטפורי לתיאור אדם שיש לו מערכת יחסים קרובה ומהימנה, לעתים קרובות מרמז על שוויון או אחווה",
+                "example": "He's my brother from another mother; we grew up together and have always been there for each other.",
+                "example_hebrew": "הוא אח שלי מאמא אחרת; גדלנו יחד ותמיד היינו שם אחד בשביל השני."
+            },
+            {
+                "definition": "Used to refer to members of an organization with a common purpose or affiliation, as if they were family",
+                "definition_hebrew": "משמש להתייחס לחברי ארגון בעלי מטרה או השתייכות משותפת, כאילו היו משפחה",
+                "example": "The volunteers at the shelter consider themselves brothers in arms, united by their shared commitment to helping those in need.",
+                "example_hebrew": "המתנדבים במקלט רואים עצמם אחים לנשק, מאוחדים במחויבותם המשותפת לעזור לנזקקים."
+            },
+            {
+                "definition": "Used colloquially when referring to male friends or peers with whom one shares a bond similar to that of siblings",
+                "definition_hebrew": "משמש בדיבור כאשר מתייחסים לחברים גברים או עמיתים שחולקים איתם קשר דומה לזה של אחים",
+                "example": "Ever since we moved here, he's been like my brother; we do everything together.",
+                "example_hebrew": "מאז שעברנו לכאן, הוא היה כמו אחי; אנחנו עושים הכל ביחד."
+            }
+        ]
+    }
+]

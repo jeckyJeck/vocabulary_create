@@ -1,0 +1,28 @@
+[
+    {
+        "word": "telephony",
+        "word_hebrew": "טלפוניה",
+        "main_definition": "Telephony is the technology, systems, and processes involved in transmitting voice communications over long distances using electronic means.",
+        "main_definition_hebrew": "טלפוניה היא הטכנולוגיה, המערכות והתהליכים המעורבים בהעברת תקשורת קולית למרחקים ארוכים באמצעים אלקטרוניים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The art or practice of operating a telephone system.",
+                "definition_hebrew": "האומנות או הפרקטיקה של הפעלת מערכת טלפון.",
+                "example": "She had years of experience in the field of telephony.",
+                "example_hebrew": "בעלת ניסיון של שנים בתחום הטלפוניה."
+            },
+            {
+                "definition": "A service provided by telecommunications companies that allows customers to make and receive calls.",
+                "definition_hebrew": "שירות הניתן על ידי חברות תקשורת המאפשר ללקוחות לבצע ולקבל שיחות.",
+                "example": "Telephony is an essential service for businesses to communicate with their clients worldwide.",
+                "example_hebrew": "טלפוניה היא שירות חיוני לעסקים כדי לתקשר עם לקוחותיהם ברחבי העולם."
+            },
+            {
+                "definition": "The technology used for transmitting voice communications over a distance.",
+                "definition_hebrew": "הטכנולוגיה המשמשת להעברת תקשורת קולית למרחקים.",
+                "example": "Analog telephony was widely used in the past, but now digital telephony dominates the industry.",
+                "example_hebrew": "טלפוניה אנלוגית הייתה בשימוש נרחב בעבר, אך כעת הטלפוניה הדיגיטלית שולטת בתעשייה."
+            }
+        ]
+    }
+]

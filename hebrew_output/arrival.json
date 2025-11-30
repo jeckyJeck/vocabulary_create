@@ -1,0 +1,34 @@
+[
+    {
+        "word": "arrival",
+        "word_hebrew": "הַגָעָה",
+        "main_definition": "The act of reaching a destination or the state of having reached a point after traveling.",
+        "main_definition_hebrew": "פעולת הגעה ליעד או מצב של הגעה לנקודה לאחר נסיעה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Reaching a place where one is expected or intended to be.",
+                "definition_hebrew": "להגיע למקום בו מצופה או מיועד להיות.",
+                "example": "John's arrival at his house was eagerly awaited by his family.",
+                "example_hebrew": "לבואו של ג'ון לביתו חיכה בקוצר רוח על ידי משפחתו."
+            },
+            {
+                "definition": "The point in time when something comes into existence, such as an event, person, etc., after a period of absence or preparation.",
+                "definition_hebrew": "נקודת הזמן שבה משהו בא לקיום, כגון אירוע, אדם וכו', לאחר תקופה של היעדרות או הכנה.",
+                "example": "The arrival of the new CEO brought much excitement to the employees at the company.",
+                "example_hebrew": "הגעתו של המנכ\"ל החדש הביאה התרגשות רבה לעובדים בחברה."
+            },
+            {
+                "definition": "The action of arriving in time for an appointment or scheduled activity.",
+                "definition_hebrew": "הפעולה של הגעה בזמן לפגישה או פעילות מתוכננת.",
+                "example": "Unfortunately, she missed her doctor's appointment due to traffic on the way there.",
+                "example_hebrew": "לרוע המזל, היא פספסה את תור הרופא שלה בגלל עומסי תנועה בדרך לשם."
+            },
+            {
+                "definition": "A person who has come into a place after traveling. Also known as 'guest arrival'.",
+                "definition_hebrew": "אדם שנכנס למקום לאחר נסיעה. ידוע גם בשם 'הגעת אורח'.",
+                "example": "The guests are expected for their arrival tomorrow evening.",
+                "example_hebrew": "האורחים צפויים להגעתם מחר בערב."
+            }
+        ]
+    }
+]

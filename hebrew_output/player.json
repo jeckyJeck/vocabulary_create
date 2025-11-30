@@ -1,0 +1,40 @@
+[
+    {
+        "word": "player",
+        "word_hebrew": "שחקן",
+        "main_definition": "A person who takes part in a game, sport or other activity; also refers to someone involved in manipulating others or situations.",
+        "main_definition_hebrew": "אדם שלוקח חלק במשחק, ספורט או פעילות אחרת; מתייחס גם למישהו המעורב במניפולציה של אחרים או במצבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual participating in sports or games, often skilled and competitive",
+                "definition_hebrew": "אדם המשתתף בספורט או במשחקים, לרוב מיומן ותחרותי",
+                "example": "The soccer player scored the winning goal during the final match.",
+                "example_hebrew": "שחקן הכדורגל כבש את שער הניצחון במשחק הגמר."
+            },
+            {
+                "definition": "A person who manipulates a situation for personal gain or advantage, typically without regard for others",
+                "definition_hebrew": "אדם שמתמרן מצב למען רווח אישי או יתרון, בדרך כלל ללא התחשבות באחרים",
+                "example": "She is known as a political player, always involved in behind-the-scenes maneuvers to achieve her goals.",
+                "example_hebrew": "היא ידועה כשחקנית פוליטית, תמיד מעורבת בתמרונים מאחורי הקלעים כדי להשיג את מטרותיה."
+            },
+            {
+                "definition": "Someone who operates electronic devices like computers and consoles, usually professionally or as part of a gaming community",
+                "definition_hebrew": "מישהו שמפעיל מכשירים אלקטרוניים כמו מחשבים וקונסולות, בדרך כלל באופן מקצועי או כחלק מקהילת משחקים",
+                "example": "The computer programmer is a skilled player in the digital world, creating software that millions use daily.",
+                "example_hebrew": "מתכנת המחשבים הוא שחקן מיומן בעולם הדיגיטלי, יוצר תוכנות שמיליונים משתמשים בהן מדי יום."
+            },
+            {
+                "definition": "A musician who performs on instruments such as guitars, drums, or keyboards, often within bands or orchestras",
+                "definition_hebrew": "מוזיקאי המופיע על כלים כגון גיטרות, תופים או קלידים, לעתים קרובות בתוך להקות או תזמורות",
+                "example": "The guitarist is a crucial player in the band's live performances, known for his energetic solos.",
+                "example_hebrew": "הגיטריסט הוא נגן מכריע בהופעות החיות של הלהקה, הידוע בסולואים האנרגטיים שלו."
+            },
+            {
+                "definition": "An individual involved in an online multiplayer game, contributing to team efforts and strategies",
+                "definition_hebrew": "אדם המעורב במשחק מרובה משתתפים מקוון, תורם למאמצים ואסטרטגיות צוותים",
+                "example": "In World of Warcraft, our team relies on skilled players who coordinate effectively during battles.",
+                "example_hebrew": "ב-World of Warcraft, הצוות שלנו מסתמך על שחקנים מיומנים שמתאמים ביעילות במהלך קרבות."
+            }
+        ]
+    }
+]

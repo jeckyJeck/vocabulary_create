@@ -1,0 +1,28 @@
+[
+    {
+        "word": "vcr",
+        "word_hebrew": "מכשיר וידאו",
+        "main_definition": "A device used to record and play back video cassettes containing analog or digital content.",
+        "main_definition_hebrew": "מכשיר המשמש להקלטה והשמעה של קלטות וידאו המכילות תוכן אנלוגי או דיגיטלי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Video Cassette Recorder (VCR) - A device that can record audio-visual content onto magnetic tape",
+                "definition_hebrew": "מקליט קלטות וידאו (VCR) - מכשיר שיכול להקליט תוכן אודיו-ויזואלי על סרט מגנטי",
+                "example": "In the 1980s, people used VCRs to watch movies at home from their own videotapes.",
+                "example_hebrew": "בשנות ה-80, אנשים השתמשו במכשירי וידאו כדי לצפות בסרטים בבית מקלטות הווידאו שלהם."
+            },
+            {
+                "definition": "A specific type of software for managing video files on a computer",
+                "definition_hebrew": "סוג מסוים של תוכנה לניהול קבצי וידאו במחשב",
+                "example": "I installed VCR software on my computer so I could easily edit and play back old home videos.",
+                "example_hebrew": "התקנתי תוכנת וידיאו במחשב שלי כדי שאוכל לערוך ולהשמיע בקלות סרטונים ביתיים ישנים."
+            },
+            {
+                "definition": "An abbreviation used in digital audio workstations (DAWs) to refer to the 'Video Clip Render' feature",
+                "definition_hebrew": "קיצור המשמש בתחנות עבודה אודיו דיגיטליות (DAWs) כדי להתייחס לתכונת 'עיבוד קליפ וידאו'",
+                "example": "I used the VCR function on my DAW software to apply video effects to a specific segment of an audio track.",
+                "example_hebrew": "השתמשתי בפונקציית הווידיאו בתוכנת ה-DAW שלי כדי להחיל אפקטי וידאו על קטע מסוים של רצועת אודיו."
+            }
+        ]
+    }
+]

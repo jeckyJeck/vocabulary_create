@@ -1,0 +1,34 @@
+[
+    {
+        "word": "configuration",
+        "word_hebrew": "תְצוּרָה",
+        "main_definition": "Configuration refers to the arrangement or setup of various elements in a system, often involving specific settings, parameters, or characteristics.",
+        "main_definition_hebrew": "תצורה מתייחסת לסידור או הגדרה של אלמנטים שונים במערכת, לעתים קרובות מערבים הגדרות, פרמטרים או מאפיינים ספציפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The process of arranging components or elements in a particular order",
+                "definition_hebrew": "תהליך של סידור רכיבים או אלמנטים בסדר מסוים",
+                "example": "When setting up a computer, the configuration includes installing software and adjusting system preferences.",
+                "example_hebrew": "בעת הגדרת מחשב, התצורה כוללת התקנת תוכנה והתאמת העדפות המערכת."
+            },
+            {
+                "definition": "A specific arrangement of parts or elements that form an overall structure or system",
+                "definition_hebrew": "סידור מסוים של חלקים או אלמנטים היוצרים מבנה או מערכת כוללת",
+                "example": "The configuration of a car engine consists of various interconnected parts such as pistons, valves, and crankshafts.",
+                "example_hebrew": "התצורה של מנוע מכונית מורכבת מחלקים שונים המחוברים ביניהם כגון בוכנות, שסתומים וגילי ארכובה."
+            },
+            {
+                "definition": "A set of parameters or settings used to define the behavior or operation of a device or software",
+                "definition_hebrew": "קבוצה של פרמטרים או הגדרות המשמשים להגדרת ההתנהגות או הפעולה של מכשיר או תוכנה",
+                "example": "The configuration of a smartphone includes screen brightness, language selection, and network preferences.",
+                "example_hebrew": "התצורה של סמארטפון כוללת בהירות מסך, בחירת שפה והעדפות רשת."
+            },
+            {
+                "definition": "The particular layout or design of components in a complex system, such as machinery or equipment",
+                "definition_hebrew": "הפריסה או העיצוב המסוימים של רכיבים במערכת מורכבת, כגון מכונות או ציוד",
+                "example": "A factory's production line configuration determines the sequence and arrangement of machines for manufacturing products efficiently.",
+                "example_hebrew": "תצורת קו הייצור של מפעל קובעת את הרצף והסידור של מכונות לייצור מוצרים ביעילות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "conclude",
+        "word_hebrew": "לְהַסִיק",
+        "main_definition": "To reach a decision or judgement after considering all relevant information, or to bring something to an end.",
+        "main_definition_hebrew": "להגיע להחלטה או לפסק דין לאחר ששקלנו את כל המידע הרלוונטי, או להביא משהו לסיומו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Reach a final judgment or decision about something based on evidence or reasoning",
+                "definition_hebrew": "להגיע לפסק דין או החלטה סופית לגבי משהו על סמך ראיות או נימוקים",
+                "example": "After examining the data and listening to both sides of the argument, I can conclude that we should proceed with the project.",
+                "example_hebrew": "לאחר בחינת הנתונים והקשבה לשני הצדדים של הטיעון, אני יכול להסיק שעלינו להמשיך בפרויקט."
+            },
+            {
+                "definition": "End an event, discussion, or activity after it has been completed",
+                "definition_hebrew": "סיים אירוע, דיון או פעילות לאחר השלמתם",
+                "example": "At the end of the meeting, they concluded the agenda items and agreed on a follow-up plan.",
+                "example_hebrew": "בתום הישיבה הם סיכמו את נושאי סדר היום וסיכמו על תוכנית המשך."
+            },
+            {
+                "definition": "Make a final decision in legal proceedings",
+                "definition_hebrew": "קבלת החלטה סופית בהליך משפטי",
+                "example": "The judge will conclude the case with his verdict after hearing all testimonies and evidence.",
+                "example_hebrew": "השופט יסיים את התיק בפסק דינו לאחר שמיעת כל העדויות והראיות."
+            },
+            {
+                "definition": "Conclude something by drawing inferences or logical conclusions from facts or observations",
+                "definition_hebrew": "סיים משהו על ידי הסקת מסקנות או מסקנות הגיוניות מעובדות או תצפיות",
+                "example": "From her behavior, I can conclude that she is not feeling well today.",
+                "example_hebrew": "מהתנהגותה אני יכול להסיק שהיא לא מרגישה טוב היום."
+            },
+            {
+                "definition": "End a written work (such as an essay or article) with summarizing remarks or final thoughts",
+                "definition_hebrew": "סיים עבודה כתובה (כגון חיבור או מאמר) בהערות סיכום או מחשבות אחרונות",
+                "example": "In the conclusion of his research paper, the author reiterated the importance of further studies in the field.",
+                "example_hebrew": "בסיום עבודת המחקר שלו חזר המחבר על חשיבותם של מחקרים נוספים בתחום."
+            }
+        ]
+    }
+]

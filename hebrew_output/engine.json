@@ -1,0 +1,40 @@
+[
+    {
+        "word": "engine",
+        "word_hebrew": "מנוע",
+        "main_definition": "An engine is a device that converts energy into useful mechanical motion or power.",
+        "main_definition_hebrew": "מנוע הוא מכשיר הממיר אנרגיה לתנועה או כוח שימושי מכאני.",
+        "meanings_and_examples": [
+            {
+                "definition": "A machine component used to convert heat energy into mechanical work, commonly found in vehicles and machinery. Example: A car's internal combustion engine burns fuel to create motion.",
+                "definition_hebrew": "רכיב מכונה המשמש להמרת אנרגיית חום לעבודה מכנית, שנמצא בדרך כלל בכלי רכב ומכונות. דוגמה: מנוע הבעירה הפנימית של המכונית שורף דלק כדי ליצור תנועה.",
+                "example": "The steam engine was a pivotal development during the Industrial Revolution.",
+                "example_hebrew": "מנוע הקיטור היה התפתחות מרכזית במהלך המהפכה התעשייתית."
+            },
+            {
+                "definition": "A person who drives or operates something, especially heavy machinery. Example: The construction engineer supervised the site and ensured all operations were running smoothly.",
+                "definition_hebrew": "אדם שנוהג או מפעיל משהו, במיוחד מכונות כבדות. דוגמה: מהנדס הבנייה פיקח על האתר והבטיח שכל הפעולות מתנהלות בצורה חלקה.",
+                "example": "The pilot was an experienced engine who expertly navigated the aircraft.",
+                "example_hebrew": "הטייס היה מנוע מנוסה שניוט במומחיות את המטוס."
+            },
+            {
+                "definition": "A person's will or determination to achieve a goal, often used metaphorically. Example: Despite facing numerous obstacles, her sheer engine carried her through and helped her succeed in business.",
+                "definition_hebrew": "רצון או נחישות של אדם להשיג מטרה, לעתים קרובות משמשים באופן מטפורי. דוגמה: למרות התמודדות עם מכשולים רבים, המנוע העצום שלה סחב אותה ועזר לה להצליח בעסקים.",
+                "example": "It took an incredible amount of engine for the team to complete such an ambitious project.",
+                "example_hebrew": "נדרשה כמות מדהימה של מנוע לצוות כדי להשלים פרויקט שאפתני שכזה."
+            },
+            {
+                "definition": "A unit of measurement that quantifies power or energy. Example: The horsepower rating on a car indicates its power output, with higher values generally meaning more speed and performance.",
+                "definition_hebrew": "יחידת מדידה המכמתת כוח או אנרגיה. דוגמה: דירוג כוח סוס במכונית מציין את תפוקת הכוח שלה, כאשר ערכים גבוהים יותר פירושם בדרך כלל יותר מהירות וביצועים.",
+                "example": "The engine's power was measured at 300 horsepower.",
+                "example_hebrew": "הספק המנוע נמדד ב-300 כוחות סוס."
+            },
+            {
+                "definition": "A system or process designed to produce specific results. Example: The company implemented a new marketing engine to increase sales and customer engagement.",
+                "definition_hebrew": "מערכת או תהליך שנועדו לייצר תוצאות ספציפיות. דוגמה: החברה הטמיעה מנוע שיווק חדש להגברת המכירות והמעורבות של הלקוחות.",
+                "example": "She developed an educational engine to help students learn programming more effectively.",
+                "example_hebrew": "היא פיתחה מנוע חינוכי כדי לעזור לתלמידים ללמוד תכנות בצורה יעילה יותר."
+            }
+        ]
+    }
+]

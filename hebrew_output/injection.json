@@ -1,0 +1,34 @@
+[
+    {
+        "word": "injection",
+        "word_hebrew": "זריקה",
+        "main_definition": "The act of introducing a substance, typically fluid or medication, into something or someone using a needle or syringe.",
+        "main_definition_hebrew": "הפעולה של החדרת חומר, בדרך כלל נוזל או תרופה, לתוך משהו או מישהו באמצעות מחט או מזרק.",
+        "meanings_and_examples": [
+            {
+                "definition": "An action to introduce something forcefully and rapidly",
+                "definition_hebrew": "פעולה להחדרת משהו בעוצמה ובמהירות",
+                "example": "Inserting the idea of reducing carbon emissions into business discussions can be an injection that sparks debate.",
+                "example_hebrew": "הכנסת הרעיון של הפחתת פליטת פחמן לדיונים עסקיים יכולה להיות זריקה שמעוררת ויכוחים."
+            },
+            {
+                "definition": "The process or act of introducing a substance into a body",
+                "definition_hebrew": "התהליך או הפעולה של החדרת חומר לגוף",
+                "example": "Getting a flu shot is an example of receiving an injection to prevent illness.",
+                "example_hebrew": "קבלת חיסון נגד שפעת היא דוגמה לקבלת זריקה למניעת מחלות."
+            },
+            {
+                "definition": "A metaphor for bringing new ideas, energy, or information into a situation",
+                "definition_hebrew": "מטאפורה להכנסת רעיונות חדשים, אנרגיה או מידע למצב",
+                "example": "Her enthusiasm injected new life and excitement into the team's project.",
+                "example_hebrew": "ההתלהבות שלה הזריקה חיים והתרגשות חדשים לפרויקט של הצוות."
+            },
+            {
+                "definition": "In computer science, data being transferred within a program",
+                "definition_hebrew": "במדעי המחשב, נתונים מועברים בתוך תוכנית",
+                "example": "The software developer added an injection to improve performance by optimizing data transfer.",
+                "example_hebrew": "מפתח התוכנה הוסיף זריקה לשיפור הביצועים על ידי אופטימיזציה של העברת הנתונים."
+            }
+        ]
+    }
+]

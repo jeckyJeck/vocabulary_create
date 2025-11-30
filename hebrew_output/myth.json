@@ -1,0 +1,28 @@
+[
+    {
+        "word": "myth",
+        "word_hebrew": "מִיתוֹס",
+        "main_definition": "A widely held but false belief or idea, often with a legendary or fictional origin.",
+        "main_definition_hebrew": "אמונה או רעיון נפוץ אך כוזב, לעתים קרובות עם מקור אגדי או בדיוני.",
+        "meanings_and_examples": [
+            {
+                "definition": "An untrue story that explains natural events or cultural practices; a traditional tale believed by some to be true within a culture.",
+                "definition_hebrew": "סיפור לא אמיתי שמסביר אירועי טבע או מנהגים תרבותיים; סיפור מסורתי שחלק מאמינים בו כנכון בתוך תרבות.",
+                "example": "The Greek myth of Pygmalion and Galatea is an example of such stories.",
+                "example_hebrew": "המיתוס היווני של פיגמליון וגלתיאה הוא דוגמה לסיפורים כאלה."
+            },
+            {
+                "definition": "A popular but false notion, belief, or theory held by people in general; often used to debunk exaggerated claims or assertions.",
+                "definition_hebrew": "תפיסה, אמונה או תיאוריה פופולרית אך שגויה שמחזיקים אנשים באופן כללי; משמש לעתים קרובות כדי להפריך טענות או קביעות מוגזמות.",
+                "example": "The myth that eating carrots improves night vision is a common example of this.",
+                "example_hebrew": "המיתוס שאכילת גזר משפרת את ראיית הלילה היא דוגמה נפוצה לכך."
+            },
+            {
+                "definition": "A story from ancient times that may have had some basis in truth but has been embellished over time to the point where it becomes purely fictional.",
+                "definition_hebrew": "סיפור מימי קדם שאולי היה לו בסיס כלשהו לאמת אבל הוא קושט עם הזמן עד לנקודה שבה הוא הופך לבדיוני גרידא.",
+                "example": "The tale of King Arthur and his knights, including Excalibur's origin, is a myth with historical roots.",
+                "example_hebrew": "הסיפור על המלך ארתור ואביריו, כולל מוצאו של אקסקליבר, הוא מיתוס בעל שורשים היסטוריים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "simulations",
+        "word_hebrew": "סימולציות",
+        "main_definition": "Simulations refer to the process of imitating or replicating real-world scenarios, events, or systems in a controlled environment to study their behavior, make predictions, and test theories.",
+        "main_definition_hebrew": "סימולציות מתייחסות לתהליך של חיקוי או שכפול של תרחישים, אירועים או מערכות בעולם האמיתי בסביבה מבוקרת כדי ללמוד את התנהגותם, לחזות ולבחון תיאוריות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In general usage, simulations are activities that mimic a particular situation or process for the purpose of learning or analysis.",
+                "definition_hebrew": "בשימוש כללי, סימולציות הן פעילויות המחקות מצב או תהליך מסוים לצורך למידה או ניתוח.",
+                "example": "The flight simulator is used to train pilots by replicating flying conditions.",
+                "example_hebrew": "סימולטור הטיסה משמש להכשרת טייסים על ידי שכפול תנאי טיסה."
+            },
+            {
+                "definition": "Simulations in computer science and technology refer to computational models used to study complex systems or processes, such as weather patterns, traffic flow, or economic trends.",
+                "definition_hebrew": "סימולציות במדעי המחשב והטכנולוגיה מתייחסות למודלים חישוביים המשמשים לחקר מערכות או תהליכים מורכבים, כגון דפוסי מזג אוויר, זרימת תנועה או מגמות כלכליות.",
+                "example": "Scientists use climate simulations to understand the potential impacts of global warming.",
+                "example_hebrew": "מדענים משתמשים בהדמיות אקלים כדי להבין את ההשפעות הפוטנציאליות של התחממות כדור הארץ."
+            },
+            {
+                "definition": "Simulations in medicine involve rehearsing surgical procedures using virtual technology to improve patient outcomes and educate medical professionals.",
+                "definition_hebrew": "סימולציות ברפואה כוללות חזרות על פרוצדורות כירורגיות תוך שימוש בטכנולוגיה וירטואלית כדי לשפר את תוצאות המטופל ולחנך אנשי מקצוע רפואיים.",
+                "example": "Surgeons practice a complex heart procedure on a simulated 3D model before performing it on a real patient.",
+                "example_hebrew": "מנתחים מתרגלים הליך לב מורכב על מודל תלת מימד מדומה לפני ביצועו על מטופל אמיתי."
+            },
+            {
+                "definition": "In gaming, simulations are types of video games that focus on imitating aspects of reality rather than fantastical elements or gameplay mechanics.",
+                "definition_hebrew": "במשחקים, סימולציות הן סוגים של משחקי וידאו המתמקדים בחיקוי היבטים של המציאות במקום אלמנטים פנטסטיים או מכניקת משחק.",
+                "example": "The strategy simulation game requires players to manage resources and build cities to thrive in a realistic setting.",
+                "example_hebrew": "משחק הדמיית האסטרטגיה דורש מהשחקנים לנהל משאבים ולבנות ערים כדי לשגשג בסביבה מציאותית."
+            },
+            {
+                "definition": "In education, simulations refer to teaching methods that provide students with experiential learning opportunities by recreating specific scenarios or problems.",
+                "definition_hebrew": "בחינוך, סימולציות מתייחסות לשיטות הוראה המספקות לתלמידים הזדמנויות למידה חווייתיות על ידי שחזור תרחישים או בעיות ספציפיות.",
+                "example": "During the lesson on ancient Rome, students engaged in a simulation where they played roles as Roman citizens, merchants, and politicians.",
+                "example_hebrew": "במהלך השיעור על רומא העתיקה, התלמידים עסקו בסימולציה שבה הם מילאו תפקידים כאזרחים רומאים, סוחרים ופוליטיקאים."
+            }
+        ]
+    }
+]

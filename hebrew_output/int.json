@@ -1,0 +1,28 @@
+[
+    {
+        "word": "int",
+        "word_hebrew": "int",
+        "main_definition": "In programming, 'int' refers to an integer data type that represents whole numbers without any decimal or fractional parts.",
+        "main_definition_hebrew": "בתכנות, 'int' מתייחס לסוג נתונים שלמים המייצגים מספרים שלמים ללא חלקים עשרוניים או חלקים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing and programming languages, 'int' is a keyword used to declare variables of the integer (whole number) data type.",
+                "definition_hebrew": "בשפות מחשוב ותכנות, 'int' היא מילת מפתח המשמשת להצהרת משתנים מסוג הנתונים של מספר שלם (מספר שלם).",
+                "example": "'int age = 25;' declares an integer variable named 'age' with a value of 25.",
+                "example_hebrew": "'int age = 25;' מכריז על משתנה מספר שלם בשם 'גיל' עם ערך של 25."
+            },
+            {
+                "definition": "In some programming languages, such as C and Java, 'int' is used to specify that the data type should be treated as an integer in various operations.",
+                "definition_hebrew": "בשפות תכנות מסוימות, כמו C ו-Java, משתמשים ב-int כדי לציין שיש להתייחס לסוג הנתונים כמספר שלם בפעולות שונות.",
+                "example": "'int x = y + z;' adds two integers (represented by variables 'y' and 'z') and stores the result in an integer variable named 'x'.",
+                "example_hebrew": "'int x = y + z;' מוסיף שני מספרים שלמים (מיוצגים על ידי משתנים 'y' ו-'z') ומאחסן את התוצאה במשתנה מספר שלם בשם 'x'."
+            },
+            {
+                "definition": "In programming, 'int' can also refer to a memory address or pointer that points to an integer value stored elsewhere in memory.",
+                "definition_hebrew": "בתכנות, 'int' יכול להתייחס גם לכתובת זיכרון או מצביע המצביע על ערך מספר שלם המאוחסן במקום אחר בזיכרון.",
+                "example": "'int* ptr = &age;' declares a pointer named 'ptr' which holds the memory address of the variable 'age', indicating it is pointing at an integer.",
+                "example_hebrew": "'int* ptr = &age;' מכריז על מצביע בשם 'ptr' המחזיק את כתובת הזיכרון של המשתנה 'גיל', המציין שהוא מצביע על מספר שלם."
+            }
+        ]
+    }
+]

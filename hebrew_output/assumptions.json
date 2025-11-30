@@ -1,0 +1,34 @@
+[
+    {
+        "word": "assumptions",
+        "word_hebrew": "הנחות",
+        "main_definition": "Assumptions are ideas or beliefs taken for granted without proof, often leading to conclusions based on limited information.",
+        "main_definition_hebrew": "הנחות הן רעיונות או אמונות הנלקחים כמובנים מאליהם ללא הוכחה, ולעתים קרובות מובילים למסקנות המבוססות על מידע מוגבל.",
+        "meanings_and_examples": [
+            {
+                "definition": "Baseless suppositions made without evidence",
+                "definition_hebrew": "השערות חסרות בסיס ללא ראיות",
+                "example": "It's just an assumption that he will not attend the meeting since there was no confirmation from him.",
+                "example_hebrew": "זו רק הנחה שהוא לא ישתתף בפגישה כי לא היה אישור ממנו."
+            },
+            {
+                "definition": "Accepted belief or principle used as a basis for reasoning, argument, or action",
+                "definition_hebrew": "אמונה או עיקרון מקובלים המשמשים כבסיס להנמקה, טיעון או פעולה",
+                "example": "In business negotiations, it is often assumed that both parties want to reach an agreement beneficial to their interests.",
+                "example_hebrew": "במשא ומתן עסקי, לרוב מניחים ששני הצדדים רוצים להגיע להסכם המועיל לאינטרסים שלהם."
+            },
+            {
+                "definition": "Hypothetical starting point from which conclusions are inferred or predictions are made",
+                "definition_hebrew": "נקודת מוצא היפותטית שממנה מסיקים מסקנות או ניבויים",
+                "example": "The assumption was that if the new policy was implemented, it would lead to increased productivity in the company.",
+                "example_hebrew": "ההנחה הייתה שאם המדיניות החדשה תיושם, היא תוביל להגברת הפריון בחברה."
+            },
+            {
+                "definition": "Taking something for granted without checking its validity",
+                "definition_hebrew": "לקחת משהו כמובן מאליו מבלי לבדוק את תקפותו",
+                "example": "We shouldn't make assumptions about people based on their appearances alone; everyone is unique and deserves respect.",
+                "example_hebrew": "אנחנו לא צריכים להניח הנחות לגבי אנשים על סמך המראה שלהם בלבד; כל אחד הוא ייחודי וראוי לכבוד."
+            }
+        ]
+    }
+]

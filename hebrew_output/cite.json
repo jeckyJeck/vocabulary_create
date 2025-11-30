@@ -1,0 +1,34 @@
+[
+    {
+        "word": "cite",
+        "word_hebrew": "לְצַטֵט",
+        "main_definition": "To quote or refer to a source of information, especially when giving evidence in support of an argument or point.",
+        "main_definition_hebrew": "לצטט או להתייחס למקור מידע, במיוחד בעת מתן עדות לתמיכה בטענה או נקודה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Quote (a passage or words from) as evidence for or justification of an argument and without expression of personal belief",
+                "definition_hebrew": "ציטוט (קטע או מילים מתוך) כהוכחה או הצדקה לטיעון וללא ביטוי של אמונה אישית",
+                "example": "The researcher cited several studies to support her hypothesis.",
+                "example_hebrew": "החוקרת ציטטה מספר מחקרים כדי לתמוך בהשערתה."
+            },
+            {
+                "definition": "To mention in a formal acknowledgment, often used in the context of literature, music, and other creative works to give credit to original sources or inspiration.",
+                "definition_hebrew": "להזכיר בהוקרה רשמית, המשמשת לעתים קרובות בהקשר של ספרות, מוזיקה ויצירות יצירתיות אחרות כדי לתת קרדיט למקורות מקוריים או להשראה.",
+                "example": "In his novel, the author cited various real-life events that influenced the plot.",
+                "example_hebrew": "ברומן שלו ציטט המחבר אירועים שונים בחיים האמיתיים שהשפיעו על העלילה."
+            },
+            {
+                "definition": "To refer to a specific provision in an official document such as laws, regulations, or contracts",
+                "definition_hebrew": "להתייחס להוראה ספציפית במסמך רשמי כגון חוקים, תקנות או חוזים",
+                "example": "The lawyer will cite section 24 of the Constitution during his argument in court.",
+                "example_hebrew": "עורך הדין יצטט את סעיף 24 לחוקה במהלך טיעונו בבית המשפט."
+            },
+            {
+                "definition": "A legal process whereby evidence is formally presented and accepted in a court to support an accusation or claim",
+                "definition_hebrew": "הליך משפטי לפיו מוצגות ראיות באופן רשמי ומתקבלות בבית משפט לתמיכה בהאשמה או טענה",
+                "example": "The prosecutor will cite witness testimonies and physical evidence against the defendant.",
+                "example_hebrew": "התובע יביא עדויות עדים וראיות פיזיות נגד הנאשם."
+            }
+        ]
+    }
+]

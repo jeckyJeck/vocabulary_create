@@ -1,0 +1,34 @@
+[
+    {
+        "word": "emails",
+        "word_hebrew": "מיילים",
+        "main_definition": "Emails refer to electronic messages sent through computer networks, primarily the internet.",
+        "main_definition_hebrew": "מיילים מתייחסים להודעות אלקטרוניות הנשלחות דרך רשתות מחשבים, בעיקר האינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Communication via email",
+                "definition_hebrew": "תקשורת במייל",
+                "example": "I received an important job offer in emails yesterday.",
+                "example_hebrew": "קיבלתי הצעת עבודה חשובה במיילים אתמול."
+            },
+            {
+                "definition": "A series of electronic messages sent to a specific address",
+                "definition_hebrew": "סדרה של הודעות אלקטרוניות הנשלחות לכתובת ספציפית",
+                "example": "She replied to all the emails that were waiting for her attention.",
+                "example_hebrew": "היא השיבה לכל המיילים שחיכו לתשומת לבה."
+            },
+            {
+                "definition": "An online discussion or forum thread created in an email format",
+                "definition_hebrew": "דיון מקוון או שרשור בפורום שנוצר בפורמט דוא\"ל",
+                "example": "Our team's weekly progress was discussed in the emails sent by each member.",
+                "example_hebrew": "ההתקדמות השבועית של הצוות שלנו נדונה באימיילים שנשלחו על ידי כל חבר."
+            },
+            {
+                "definition": "A type of digital advertising where promotional content is delivered via email to potential customers",
+                "definition_hebrew": "סוג של פרסום דיגיטלי שבו תוכן פרסומי מועבר באמצעות דואר אלקטרוני ללקוחות פוטנציאליים",
+                "example": "The company decided to launch a new campaign using emails as part of their marketing strategy.",
+                "example_hebrew": "החברה החליטה להשיק קמפיין חדש באמצעות מיילים כחלק מאסטרטגיית השיווק שלה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "geography",
+        "word_hebrew": "גֵאוֹגרַפיָה",
+        "main_definition": "Geography is the study of Earth's landscapes, environments, and the relationships between people and their environment.",
+        "main_definition_hebrew": "גיאוגרפיה היא חקר נופי כדור הארץ, סביבותיו והיחסים בין אנשים וסביבתם.",
+        "meanings_and_examples": [
+            {
+                "definition": "The physical features of a place and region including terrain, climate, natural resources etc.",
+                "definition_hebrew": "המאפיינים הפיזיים של מקום ואזור כולל שטח, אקלים, משאבי טבע וכו'.",
+                "example": "Mountain ranges, desert regions, and river systems are key geographical elements that define the landscape.",
+                "example_hebrew": "רכסי הרים, אזורים מדבריים ומערכות נהרות הם מרכיבים גיאוגרפיים מרכזיים המגדירים את הנוף."
+            },
+            {
+                "definition": "A branch of science dealing with the description of the Earth's surface, its physical features, and the distribution of life on Earth.",
+                "definition_hebrew": "ענף מדע העוסק בתיאור פני כדור הארץ, תכונותיו הפיזיקליות ובהתפלגות החיים על פני כדור הארץ.",
+                "example": "Geographers use tools like maps, remote sensing, and GIS to study and visualize data about our planet.",
+                "example_hebrew": "גיאוגרפים משתמשים בכלים כמו מפות, חישה מרחוק ו-GIS כדי ללמוד ולהמחיש נתונים על הפלנטה שלנו."
+            },
+            {
+                "definition": "The art or science dealing with mapping, regions, places, landscapes, environments, and the relationships between people and their environment.",
+                "definition_hebrew": "האמנות או המדע העוסקים במיפוי, אזורים, מקומות, נופים, סביבות ויחסים בין אנשים וסביבתם.",
+                "example": "Cartography is an essential part of geography as it involves creating maps for different purposes like navigation and planning.",
+                "example_hebrew": "קרטוגרפיה היא חלק חיוני בגיאוגרפיה מכיוון שהיא כרוכה ביצירת מפות למטרות שונות כמו ניווט ותכנון."
+            },
+            {
+                "definition": "The study or field concerned with understanding human behavior in relation to physical spaces and environments.",
+                "definition_hebrew": "המחקר או התחום העוסק בהבנת התנהגות אנושית ביחס למרחבים וסביבות פיזיות.",
+                "example": "Urban geographers examine how cities are laid out, the movement of people within them, and their socio-economic dynamics.",
+                "example_hebrew": "גיאוגרפים עירוניים בוחנים כיצד ערים מונחות, את תנועת האנשים בתוכם, ואת הדינמיקה החברתית-כלכלית שלהן."
+            },
+            {
+                "definition": "A term used for a person who studies or has knowledge about geography",
+                "definition_hebrew": "מונח המשמש לאדם שלומד או בעל ידע בגיאוגרפיה",
+                "example": "'She's a passionate geographer; she just came back from her field study in the Amazon rainforest.'",
+                "example_hebrew": "״היא גיאוגרפית נלהבת; היא בדיוק חזרה ממחקר השדה שלה ביער הגשם באמזונס.'"
+            }
+        ]
+    }
+]

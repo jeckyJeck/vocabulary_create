@@ -1,0 +1,28 @@
+[
+    {
+        "word": "mechanics",
+        "word_hebrew": "מֵכָנִיקָה",
+        "main_definition": "Mechanics refers to the principles of physics that govern the motion and behavior of objects, as well as being associated with practical aspects of machinery.",
+        "main_definition_hebrew": "מכניקה מתייחסת לעקרונות הפיזיקה השולטים בתנועה ובהתנהגות של עצמים, כמו גם להיות קשורים להיבטים מעשיים של מכונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The study of how machines work",
+                "definition_hebrew": "חקר אופן פעולת המכונות",
+                "example": "When discussing mechanics in relation to cars, we refer to the mechanical system and its components like engines, brakes, etc.",
+                "example_hebrew": "כאשר דנים במכניקה ביחס למכוניות, אנו מתייחסים למערכת המכנית ולמרכיביה כמו מנועים, בלמים וכו'."
+            },
+            {
+                "definition": "Practical aspects related to machinery or equipment",
+                "definition_hebrew": "היבטים מעשיים הקשורים למכונות או ציוד",
+                "example": "A mechanic working on an automobile engine is dealing with the practical side of machinery maintenance and repair.",
+                "example_hebrew": "מכונאי שעובד על מנוע רכב עוסק בצד המעשי של תחזוקה ותיקון מכונות."
+            },
+            {
+                "definition": "The laws that describe motion without considering forces, often used in mathematics and physics",
+                "definition_hebrew": "החוקים המתארים תנועה מבלי להתחשב בכוחות, משמשים לעתים קרובות במתמטיקה ובפיסיקה",
+                "example": "Kinematic equations are fundamental to the study of mechanics as they describe the relationships between displacement, velocity, acceleration, and time.",
+                "example_hebrew": "משוואות קינמטיות מהוות יסוד לחקר המכניקה שכן הן מתארות את היחסים בין תזוזה, מהירות, תאוצה וזמן."
+            }
+        ]
+    }
+]

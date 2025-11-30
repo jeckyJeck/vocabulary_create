@@ -1,0 +1,40 @@
+[
+    {
+        "word": "isolation",
+        "word_hebrew": "בידוד",
+        "main_definition": "The state of being separated from others or not in contact with people, often resulting in loneliness or a lack of social interaction.",
+        "main_definition_hebrew": "מצב של הפרדה מאחרים או אי מגע עם אנשים, מה שגורם לרוב לבדידות או חוסר אינטראקציה חברתית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical separation from others",
+                "definition_hebrew": "הפרדה פיזית מאחרים",
+                "example": "During the pandemic, many countries enforced isolation for those who tested positive to prevent further spread.",
+                "example_hebrew": "במהלך המגיפה, מדינות רבות אכפו בידוד עבור אלה שנבחנו חיוביים כדי למנוע התפשטות נוספת."
+            },
+            {
+                "definition": "Emotional detachment or loneliness",
+                "definition_hebrew": "ניתוק רגשי או בדידות",
+                "example": "After her dog passed away, she felt a deep sense of isolation and longing.",
+                "example_hebrew": "לאחר שהכלב שלה נפטר, היא חשה תחושה עמוקה של בידוד וגעגוע."
+            },
+            {
+                "definition": "The process by which something becomes separated from others or disconnected",
+                "definition_hebrew": "התהליך שבו משהו מופרד מאחרים או מנותק",
+                "example": "The riverbank underwent gradual erosion due to water currents, leading to the isolation of certain areas.",
+                "example_hebrew": "גדת הנהר עברה שחיקה הדרגתית עקב זרמי מים, שהובילה לבידוד של אזורים מסוימים."
+            },
+            {
+                "definition": "A state in a cell caused by lack of nutrients or other factors resulting in death",
+                "definition_hebrew": "מצב בתא הנגרם מחוסר בחומרים מזינים או גורמים אחרים הגורמים למוות",
+                "example": "Under extreme conditions, bacteria can enter a state of isolation and eventually die off.",
+                "example_hebrew": "בתנאים קיצוניים, חיידקים יכולים להיכנס למצב של בידוד ובסופו של דבר למות."
+            },
+            {
+                "definition": "The act of excluding someone from social activities or groups",
+                "definition_hebrew": "הפעולה של הדרת מישהו מפעילויות או קבוצות חברתיות",
+                "example": "She felt isolated when her friends started to exclude her from their weekly gatherings.",
+                "example_hebrew": "היא הרגישה מבודדת כאשר חבריה החלו להדיר אותה מהמפגשים השבועיים שלהם."
+            }
+        ]
+    }
+]

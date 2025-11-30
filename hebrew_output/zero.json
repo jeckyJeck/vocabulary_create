@@ -1,0 +1,40 @@
+[
+    {
+        "word": "zero",
+        "word_hebrew": "אֶפֶס",
+        "main_definition": "Zero is a numerical value representing nothing, absence of quantity or nullity.",
+        "main_definition_hebrew": "אפס הוא ערך מספרי המייצג כלום, היעדר כמות או בטלות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In mathematics, zero denotes the integer following -1 and preceding 1 on the number line. It also represents the additive identity in arithmetic, meaning that any number added to zero remains unchanged.",
+                "definition_hebrew": "במתמטיקה, אפס מציין את המספר השלם הבא אחרי -1 ולפני 1 בקו המספרים. זה גם מייצג את הזהות הנוספת בחשבון, כלומר כל מספר שנוסף לאפס נשאר ללא שינוי.",
+                "example": "The sum of five and zero is five.",
+                "example_hebrew": "הסכום של חמש ואפס הוא חמישה."
+            },
+            {
+                "definition": "Zero can be used metaphorically to represent a complete lack or absence of something. For example, 'zero tolerance' means no leniency for certain behaviors.",
+                "definition_hebrew": "ניתן להשתמש באפס באופן מטפורי כדי לייצג חוסר או היעדר מוחלט של משהו. לדוגמה, 'אפס סובלנות' פירושו אין רחמים להתנהגויות מסוימות.",
+                "example": "The company has a policy of zero tolerance towards theft.",
+                "example_hebrew": "לחברה מדיניות של אפס סובלנות כלפי גניבה."
+            },
+            {
+                "definition": "In sports and games, scoring zero often refers to not gaining any points or failing to reach a goal. For instance, 'a player scored zero goals in the match' means they did not score any.",
+                "definition_hebrew": "בספורט ובמשחקים, ציון אפס מתייחס לרוב לאי השגת נקודות או אי הגעה ליעד. לדוגמה, 'שחקן כבש אפס שערים במשחק' פירושו שהוא לא הבקיע אף אחד.",
+                "example": "The basketball team lost by default when their opponent scored zero points.",
+                "example_hebrew": "קבוצת הכדורסל הפסידה כברירת מחדל כאשר יריבתה השיגה אפס נקודות."
+            },
+            {
+                "definition": "Zero degrees Celsius is referred to as freezing point of water. It indicates a temperature below which liquid water turns into ice or solid form.",
+                "definition_hebrew": "אפס מעלות צלזיוס מכונה נקודת הקפאה של מים. זה מציין טמפרטורה שמתחתיה מים נוזליים הופכים לקרח או לצורה מוצקה.",
+                "example": "Water in the container froze at 0 degrees Celsius.",
+                "example_hebrew": "המים במיכל קפאו ב-0 מעלות צלזיוס."
+            },
+            {
+                "definition": "In finance, 'zero' can refer to an initial investment amount that is set as $0. It denotes a starting point without any money being put into an account.",
+                "definition_hebrew": "בפיננסים, 'אפס' יכול להתייחס לסכום השקעה ראשוני המוגדר כ-$0. זה מציין נקודת התחלה מבלי שהוכנס כסף לחשבון.",
+                "example": "She started her savings account with zero dollars and began depositing small amounts regularly.",
+                "example_hebrew": "היא פתחה את חשבון החיסכון שלה באפס דולרים והחלה להפקיד סכומים קטנים באופן קבוע."
+            }
+        ]
+    }
+]

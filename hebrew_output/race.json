@@ -1,0 +1,40 @@
+[
+    {
+        "word": "race",
+        "word_hebrew": "גזע",
+        "main_definition": "A competition between individuals or groups to see who can complete a certain task, usually involving speed or efficiency, in the shortest possible time.",
+        "main_definition_hebrew": "תחרות בין יחידים או קבוצות כדי לראות מי יכול לבצע משימה מסוימת, בדרך כלל כרוכה במהירות או ביעילות, בזמן הקצר ביותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "A competitive event where participants run over a specified distance",
+                "definition_hebrew": "אירוע תחרותי בו המשתתפים רצים על מרחק מוגדר",
+                "example": "The annual 5K race drew hundreds of athletes from around town.",
+                "example_hebrew": "מרוץ ה-5K השנתי משך מאות ספורטאים מרחבי העיר."
+            },
+            {
+                "definition": "Competing groups categorized by ethnicity or national origin",
+                "definition_hebrew": "קבוצות מתחרות מסווגות לפי מוצא אתני או לאומי",
+                "example": "Race relations between different cultural communities in the city were strained but improving over time.",
+                "example_hebrew": "יחסי הגזע בין קהילות תרבות שונות בעיר היו מתוחים אך השתפרו עם הזמן."
+            },
+            {
+                "definition": "A division of people based on physical characteristics such as skin color",
+                "definition_hebrew": "חלוקה של אנשים על סמך מאפיינים פיזיים כמו צבע עור",
+                "example": "There is no race when it comes to being human, we are all equal regardless of our appearances.",
+                "example_hebrew": "אין גזע כשזה מגיע להיות אנושי, כולנו שווים ללא קשר למראה החיצוני שלנו."
+            },
+            {
+                "definition": "The act of moving swiftly from one place to another",
+                "definition_hebrew": "הפעולה של מעבר מהיר ממקום אחד למשנהו",
+                "example": "She had the grace and speed that come with years of practicing dance; she raced across the floor effortlessly.",
+                "example_hebrew": "היו לה את החן והמהירות שמגיעים עם שנים של תרגול ריקוד; היא רצה על הרצפה ללא מאמץ."
+            },
+            {
+                "definition": "A line or group of people standing close together, often waiting in a queue",
+                "definition_hebrew": "תור או קבוצת אנשים עומדים קרוב זה לזה, ממתינים לרוב בתור",
+                "example": "At the bus stop, there was a long race of commuters lined up for departure.",
+                "example_hebrew": "בתחנת האוטובוס התנהל מירוץ ארוך של נוסעים שעומדים בתור ליציאה."
+            }
+        ]
+    }
+]

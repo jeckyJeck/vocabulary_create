@@ -1,0 +1,34 @@
+[
+    {
+        "word": "smallest",
+        "word_hebrew": "הכי קטן",
+        "main_definition": "The least in size, amount, or degree.",
+        "main_definition_hebrew": "המינימום בגודל, בכמות או בדרגה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Least quantity or number",
+                "definition_hebrew": "מינימום כמות או מספר",
+                "example": "Among the ten apples on the table, the smallest one is red.",
+                "example_hebrew": "בין עשרת התפוחים שעל השולחן, הקטן ביותר הוא אדום."
+            },
+            {
+                "definition": "Minimal size in comparison to others",
+                "definition_hebrew": "גודל מינימלי בהשוואה לאחרים",
+                "example": "The mouse was the smallest animal he had ever seen at that point.",
+                "example_hebrew": "העכבר היה החיה הקטנה ביותר שראה אי פעם באותה נקודה."
+            },
+            {
+                "definition": "Least degree or intensity of a particular quality",
+                "definition_hebrew": "דרגה או עוצמה הכי פחות באיכות מסוימת",
+                "example": "Of all his friends, John's sense of humor is considered the smallest.",
+                "example_hebrew": "מכל חבריו, חוש ההומור של ג'ון נחשב לקטן ביותר."
+            },
+            {
+                "definition": "Fewest amount of something in existence",
+                "definition_hebrew": "הכי פחות כמות של משהו שקיים",
+                "example": "This village holds the smallest population in the region.",
+                "example_hebrew": "כפר זה מכיל את האוכלוסייה הקטנה ביותר באזור."
+            }
+        ]
+    }
+]

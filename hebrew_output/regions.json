@@ -1,0 +1,40 @@
+[
+    {
+        "word": "regions",
+        "word_hebrew": "אזורים",
+        "main_definition": "Regions refer to large areas of land that are distinguished by certain characteristics such as geographical features, climate, or cultural aspects.",
+        "main_definition_hebrew": "אזורים מתייחסים לאזורי אדמה גדולים הנבדלים על ידי מאפיינים מסוימים כגון מאפיינים גיאוגרפיים, אקלים או היבטים תרבותיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Geographical regions defined by physical characteristics like mountains, rivers, and terrain",
+                "definition_hebrew": "אזורים גיאוגרפיים המוגדרים על ידי מאפיינים פיזיים כמו הרים, נהרות ושטח",
+                "example": "The Rocky Mountains is a prominent region in North America known for its towering peaks.",
+                "example_hebrew": "הרי הרוקי הוא אזור בולט בצפון אמריקה הידוע בפסגות המתנשאות שלו."
+            },
+            {
+                "definition": "Regions identified based on climate conditions such as deserts or tropical areas",
+                "definition_hebrew": "אזורים שזוהו על סמך תנאי אקלים כגון מדבריות או אזורים טרופיים",
+                "example": "The Sahara Desert is the world's largest hot desert, making it one of Earth's most distinct regions in terms of climate.",
+                "example_hebrew": "מדבר סהרה הוא המדבר החם הגדול בעולם, מה שהופך אותו לאחד מהאזורים המובהקים ביותר של כדור הארץ מבחינת אקלים."
+            },
+            {
+                "definition": "Cultural or political regions where certain customs, languages, and governance styles are shared",
+                "definition_hebrew": "אזורים תרבותיים או פוליטיים שבהם משותפים מסוימים מנהגים, שפות וסגנונות ממשל",
+                "example": "Southern Europe is a region characterized by its unique blend of Latin and Germanic influences on culture and language.",
+                "example_hebrew": "דרום אירופה הוא אזור המאופיין בשילוב הייחודי שלו של השפעות לטיניות וגרמניות על תרבות ושפה."
+            },
+            {
+                "definition": "Economic regions marked by the concentration of certain industries or economic activities",
+                "definition_hebrew": "אזורים כלכליים המסומנים בריכוז של תעשיות מסוימות או פעילויות כלכליות",
+                "example": "The Rust Belt in the United States, a region once dominated by heavy industry like steel manufacturing, now faces significant challenges as those industries declined.",
+                "example_hebrew": "חגורת החלודה בארצות הברית, אזור שנשלט בעבר על ידי תעשייה כבדה כמו ייצור פלדה, מתמודדת כעת עם אתגרים משמעותיים כאשר התעשיות הללו ירדו."
+            },
+            {
+                "definition": "Areas that are grouped together for statistical or administrative purposes",
+                "definition_hebrew": "אזורים המקובצים יחד למטרות סטטיסטיות או מנהליות",
+                "example": "The Northeast Megalopolis is an urbanized region in the northeastern United States consisting of several interconnected cities and metropolitan areas.",
+                "example_hebrew": "מגלופוליס הצפון מזרחי הוא אזור עירוני בצפון מזרח ארצות הברית המורכב מכמה ערים ומטרופולינים מחוברים זה לזה."
+            }
+        ]
+    }
+]

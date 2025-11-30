@@ -1,0 +1,34 @@
+[
+    {
+        "word": "virtual",
+        "word_hebrew": "וירטואלי",
+        "main_definition": "Relating to or denoting something that is not physically present but exists as an image, simulation, or representation.",
+        "main_definition_hebrew": "התייחסות או מציינת משהו שאינו נוכח פיזית אלא קיים כדימוי, הדמיה או ייצוג.",
+        "meanings_and_examples": [
+            {
+                "definition": "Having a virtual presence on the internet, often used in the context of social media and online communication.",
+                "definition_hebrew": "בעל נוכחות וירטואלית באינטרנט, משמש לעתים קרובות בהקשר של מדיה חברתית ותקשורת מקוונת.",
+                "example": "She has a strong virtual presence on Instagram with over 100k followers.",
+                "example_hebrew": "יש לה נוכחות וירטואלית חזקה באינסטגרם עם למעלה מ-100 אלף עוקבים."
+            },
+            {
+                "definition": "An event or experience that takes place through digital means rather than physically presenting itself.",
+                "definition_hebrew": "אירוע או חוויה המתרחשים באמצעים דיגיטליים ולא בהצגה פיזית.",
+                "example": "The company's annual conference was held virtually this year due to the pandemic.",
+                "example_hebrew": "הכנס השנתי של החברה התקיים כמעט השנה בשל המגיפה."
+            },
+            {
+                "definition": "Simulated, not real; existing in essence but lacking physical form or substance.",
+                "definition_hebrew": "מדומה, לא אמיתי; קיים במהותו אך חסר צורה פיזית או חומר.",
+                "example": "Virtual reality games immerse players in a simulated world that feels lifelike.",
+                "example_hebrew": "משחקי מציאות מדומה מטביעים את השחקנים בעולם מדומה שמרגיש כמו אמיתי."
+            },
+            {
+                "definition": "Relating to computer simulations or models of real-world systems and processes.",
+                "definition_hebrew": "התייחסות להדמיות מחשב או מודלים של מערכות ותהליכים בעולם האמיתי.",
+                "example": "The engineers used virtual testing methods to optimize the car's design before building a physical prototype.",
+                "example_hebrew": "המהנדסים השתמשו בשיטות בדיקה וירטואליות כדי לייעל את עיצוב המכונית לפני בניית אב טיפוס פיזי."
+            }
+        ]
+    }
+]

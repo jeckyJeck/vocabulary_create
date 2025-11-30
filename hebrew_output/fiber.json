@@ -1,0 +1,34 @@
+[
+    {
+        "word": "fiber",
+        "word_hebrew": "סִיב",
+        "main_definition": "Fiber generally refers to a thread or filament, the substance composing organic matter such as plants, or in idiomatic expressions, it often implies strength and durability.",
+        "main_definition_hebrew": "סיבים מתייחסים בדרך כלל לחוט או חוט, החומר המרכיב חומר אורגני כמו צמחים, או בביטויים אידיומטיים, זה מרמז לרוב על חוזק ועמידות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of materials, fiber refers to fine threads or strands that are used to make various textiles and products. These fibers can be natural like cotton and wool, or synthetic like nylon.",
+                "definition_hebrew": "בהקשר של חומרים, סיבים מתייחסים לחוטים עדינים או גדילים המשמשים לייצור טקסטיל ומוצרים שונים. סיבים אלו יכולים להיות טבעיים כמו כותנה וצמר, או סינתטיים כמו ניילון.",
+                "example": "Cotton is a soft, fluffy staple fiber that grows in a boll around the seeds of certain plants.",
+                "example_hebrew": "כותנה היא סיב יסוד רך ונימוח הגדל בבול סביב זרעים של צמחים מסוימים."
+            },
+            {
+                "definition": "In dietary terms, fiber refers to parts of plant foods that we cannot digest. It helps regulate our body's use of sugars, helping control hunger and maintain blood sugar levels.",
+                "definition_hebrew": "במונחים תזונתיים, סיבים מתייחסים לחלקים במזון צמחי שאיננו יכולים לעכל. זה עוזר לווסת את השימוש של הגוף שלנו בסוכרים, עוזר לשלוט ברעב ולשמור על רמות הסוכר בדם.",
+                "example": "Eating a bowl of high-fiber cereal for breakfast can help keep you feeling full until lunchtime.",
+                "example_hebrew": "אכילת קערת דגנים עתירי סיבים לארוחת הבוקר יכולה לעזור לך לשמור על תחושת שובע עד לארוחת הצהריים."
+            },
+            {
+                "definition": "In computing and telecommunications, fiber refers to optical fibers – very thin strands of pure glass that carry information as light pulses.",
+                "definition_hebrew": "בתחום המחשוב והטלקומוניקציה, סיבים מתייחסים לסיבים אופטיים - גדילים דקים מאוד של זכוכית טהורה הנושאים מידע כפולסי אור.",
+                "example": "Fiber-optic cables are used in internet connections for faster data transmission.",
+                "example_hebrew": "כבלים סיבים אופטיים משמשים בחיבורי אינטרנט להעברת נתונים מהירה יותר."
+            },
+            {
+                "definition": "In the context of idioms, fiber often implies something strong or tough. For example, when someone says 'he has a steel fiber', it means that person is very resilient and hard to break.",
+                "definition_hebrew": "בהקשר של ניבים, סיבים מרמזים לרוב על משהו חזק או קשה. לדוגמה, כשמישהו אומר 'יש לו סיבי פלדה', זה אומר שהאדם הוא גמיש מאוד וקשה לשבור אותו.",
+                "example": "Despite facing numerous challenges in life, she remained as determined as ever – truly having the iron will of an unyielding steel fiber.",
+                "example_hebrew": "למרות התמודדות עם אתגרים רבים בחיים, היא נשארה נחושה כתמיד - באמת בעלת רצון ברזל של סיב פלדה בלתי נכנע."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "beverages",
+        "word_hebrew": "מַשׁקָאוֹת",
+        "main_definition": "Beverages are drinks that people consume, usually in social settings or during meals.",
+        "main_definition_hebrew": "משקאות הם משקאות שאנשים צורכים, בדרך כלל במסגרות חברתיות או במהלך ארוחות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Non-alcoholic drinks",
+                "definition_hebrew": "משקאות לא אלכוהוליים",
+                "example": "Coffee and tea are popular non-alcoholic beverages enjoyed by many people around the world.",
+                "example_hebrew": "קפה ותה הם משקאות לא אלכוהוליים פופולריים מהם נהנים אנשים רבים ברחבי העולם."
+            },
+            {
+                "definition": "Alcoholic drinks",
+                "definition_hebrew": "משקאות אלכוהוליים",
+                "example": "Beer, wine, and cocktails like martinis and mojitos are examples of alcoholic beverages.",
+                "example_hebrew": "בירה, יין וקוקטיילים כמו מרטיני ומוחיטו הם דוגמאות למשקאות אלכוהוליים."
+            },
+            {
+                "definition": "Hydrating liquids",
+                "definition_hebrew": "נוזלי לחות",
+                "example": "Water is a hydrating liquid that helps to maintain the body's fluid balance.",
+                "example_hebrew": "מים הם נוזל לחות המסייע בשמירה על מאזן הנוזלים בגוף."
+            },
+            {
+                "definition": "Culinary drinks",
+                "definition_hebrew": "משקאות קולינריים",
+                "example": "Soups and broths are culinary beverages often served as part of a meal, particularly in cultures with hot-broth-style cuisines like Chinese or Korean food.",
+                "example_hebrew": "מרקים ומרקים הם משקאות קולינריים המוגשים לרוב כחלק מארוחה, במיוחד בתרבויות עם מטבחים בסגנון מרק חם כמו אוכל סיני או קוריאני."
+            },
+            {
+                "definition": "Specialty drinks",
+                "definition_hebrew": "משקאות מיוחדים",
+                "example": "Craft beers and artisan sodas are examples of specialty drinks that often emphasize quality ingredients and unique flavors.",
+                "example_hebrew": "בירות מלאכה ומשקאות מוגזים הם דוגמאות למשקאות מיוחדים המדגישים לרוב מרכיבים איכותיים וטעמים ייחודיים."
+            }
+        ]
+    }
+]

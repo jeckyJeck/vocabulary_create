@@ -1,0 +1,34 @@
+[
+    {
+        "word": "stack",
+        "word_hebrew": "לַעֲרוֹם",
+        "main_definition": "To pile up objects one on top of another in a neatly arranged manner, or an arrangement of such objects.",
+        "main_definition_hebrew": "ערימת חפצים זה על גבי זה בצורה מסודרת בצורה מסודרת, או סידור של חפצים כאלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing, to temporarily store data structures (such as arrays) on the call stack",
+                "definition_hebrew": "במחשוב, לאחסן באופן זמני מבני נתונים (כגון מערכים) בערימת השיחות",
+                "example": "When executing a recursive function, each time it calls itself, it places its context onto the stack.",
+                "example_hebrew": "בעת ביצוע פונקציה רקורסיבית, בכל פעם שהיא קוראת לעצמה, היא ממקמת את ההקשר שלה על הערימה."
+            },
+            {
+                "definition": "To place objects or items in a pile or heap",
+                "definition_hebrew": "למקם חפצים או פריטים בערימה או ערימה",
+                "example": "After unloading groceries from the car, I began to stack them on the kitchen counter for sorting.",
+                "example_hebrew": "לאחר שפרקתי מצרכים מהמכונית, התחלתי לערום אותם על השיש במטבח למיון."
+            },
+            {
+                "definition": "A group of cards placed one atop another to form a column",
+                "definition_hebrew": "קבוצת קלפים מונחים זה על גבי זה כדי ליצור עמודה",
+                "example": "In poker, players often 'stack' their chips in neat piles as they bet and rake off winnings.",
+                "example_hebrew": "בפוקר, שחקנים לעתים קרובות 'עורמים' את הצ'יפים שלהם בערימות מסודרות בזמן שהם מהמרים ומגרפים זכיות."
+            },
+            {
+                "definition": "To arrange objects or documents on top of each other for easy access",
+                "definition_hebrew": "לסדר חפצים או מסמכים זה על גבי זה לגישה נוחה",
+                "example": "When filing paperwork at the office, she would often stack related files together to streamline her workflow.",
+                "example_hebrew": "כשהיא מגישה ניירת במשרד, היא לעתים קרובות עורמת קבצים קשורים כדי לייעל את זרימת העבודה שלה."
+            }
+        ]
+    }
+]

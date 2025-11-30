@@ -1,0 +1,104 @@
+{
+    "word": "home",
+    "word_hebrew": "בית",
+    "main_definition": "A dwelling.",
+    "main_definition_hebrew": "בית מגורים.",
+    "meanings_and_examples": [
+        {
+            "definition": "A dwelling.",
+            "definition_hebrew": "בית מגורים.",
+            "example": "After a long day at work, John loves to come back home and relax in his comfortable living room.",
+            "example_hebrew": "אחרי יום ארוך בעבודה, ג'ון אוהב לחזור הביתה ולהירגע בסלון הנוח שלו."
+        },
+        {
+            "definition": "One’s native land; the place or country in which one dwells; the place where one’s ancestors dwell or dwelt.",
+            "definition_hebrew": "ארץ הולדתו של האדם; המקום או המדינה שבהם מתגוררים; המקום שבו שוכנים או ישבו אבותיו.",
+            "example": "Despite living abroad for many years, Maria always felt a deep connection to her homeland of Ireland, often visiting whenever possible and sharing stories about her family's roots.",
+            "example_hebrew": "למרות שחיה בחו\"ל במשך שנים רבות, מריה תמיד הרגישה קשר עמוק למולדתה אירלנד, לעתים קרובות ביקרה במידת האפשר ושיתפה סיפורים על שורשי משפחתה."
+        },
+        {
+            "definition": "The locality where a thing is usually found, or was first found, or where it is naturally abundant; habitat; seat.",
+            "definition_hebrew": "היישוב שבו בדרך כלל נמצא דבר, או נמצא לראשונה, או שבו הוא מצוי בשפע באופן טבעי; בית גידול; מושב.",
+            "example": "the home of the pine",
+            "example_hebrew": "ביתו של האורן"
+        },
+        {
+            "definition": "A focus point.",
+            "definition_hebrew": "נקודת מיקוד.",
+            "example": "In our family gatherings, the topic of everyone's home renovations became the 'home' conversation around which we all shared stories and experiences.",
+            "example_hebrew": "במפגשים המשפחתיים שלנו הפך נושא השיפוצים של כולם לשיחת ה'בית' שסביבה חלקנו סיפורים וחוויות."
+        },
+        {
+            "definition": "(of animals) To return to its owner.",
+            "definition_hebrew": "(של חיות) לחזור לבעליו.",
+            "example": "The dog homed.",
+            "example_hebrew": "הכלב חזר הביתה."
+        },
+        {
+            "definition": "(always with \"in on\") To seek or aim for something.",
+            "definition_hebrew": "(תמיד עם \"in on\") לחפש או לכוון למשהו.",
+            "example": "The missile was able to home in on the target.",
+            "example_hebrew": "הטיל הצליח להיכנס למטרה."
+        },
+        {
+            "definition": "Of or pertaining to one’s dwelling or country; domestic; not foreign; as home manufactures; home comforts.",
+            "definition_hebrew": "של או בקשר למגוריו או לארצו של האדם; בֵּיתִי; לא זר; כמו מייצר בית; נוחות ביתית.",
+            "example": "She prefers shopping for home goods at local stores rather than importing products from abroad, valuing the quality of home-made items.",
+            "example_hebrew": "היא מעדיפה לקנות מוצרים לבית בחנויות מקומיות במקום לייבא מוצרים מחו\"ל, ומעריכה את האיכות של פריטים תוצרת בית."
+        },
+        {
+            "definition": "(except in phrases) That strikes home; direct, pointed.",
+            "definition_hebrew": "(למעט בביטויים) זה מכה בבית; ישיר, מחודד.",
+            "example": "The comedian's joke about politics hit home for the audience because many of them had firsthand experience with the issues discussed.",
+            "example_hebrew": "הבדיחה של הקומיקאי על פוליטיקה תפסה מקום לקהל מכיוון שרבים מהם התנסו ממקור ראשון עם הנושאים שנדונו."
+        },
+        {
+            "definition": "Personal, intimate.",
+            "definition_hebrew": "אישי, אינטימי.",
+            "example": "After years of hardship and traveling abroad, Sarah finally returned to her home in New York City. The familiarity and warmth she felt upon stepping through the front door brought a sense of personal comfort and security.",
+            "example_hebrew": "לאחר שנים של תלאות ונסיעות לחו\"ל, שרה חזרה לבסוף לביתה בניו יורק. ההיכרות והחום שחשה כשצעדה בדלת הכניסה הביאו לתחושת נוחות וביטחון אישיים."
+        },
+        {
+            "definition": "Relating to the home team (the team at whose venue a game is played).",
+            "definition_hebrew": "מתייחס לקבוצה הביתית (הקבוצה שבה מתקיים משחק).",
+            "example": "the home end, home advantage, home supporters",
+            "example_hebrew": "מקצה הבית, יתרון ביתיות, תומכי בית"
+        },
+        {
+            "definition": "To one's home",
+            "definition_hebrew": "לבית של אחד",
+            "example": "After a long day at work, John couldn't wait to get home and relax on his couch with his favorite book.",
+            "example_hebrew": "אחרי יום ארוך בעבודה, ג'ון לא יכול היה לחכות להגיע הביתה ולהירגע על הספה שלו עם הספר האהוב עליו."
+        },
+        {
+            "definition": "At or in one's place of residence or one's customary or official location; at home",
+            "definition_hebrew": "במקום מגוריו או במקום מגוריו או במיקומו המקובל או הרשמי; בבית",
+            "example": "Everyone's gone to watch the game; there's nobody home.",
+            "example_hebrew": "כולם הלכו לראות את המשחק; אין אף אחד בבית."
+        },
+        {
+            "definition": "To a full and intimate degree; to the heart of the matter; fully, directly.",
+            "definition_hebrew": "במידה מלאה ואינטימית; ללב העניין; באופן מלא, ישירות.",
+            "example": "She spoke about her true feelings for him at home, in an honest and direct conversation.",
+            "example_hebrew": "היא דיברה על רגשותיה האמיתיים כלפיו בבית, בשיחה כנה וישירה."
+        },
+        {
+            "definition": "Into the goal",
+            "definition_hebrew": "לתוך המטרה",
+            "example": "With a final push, he managed to score the winning goal and bring his team 'home' in the match.",
+            "example_hebrew": "בדחיפה אחרונה הוא הצליח לכבוש את שער הניצחון ולהחזיר את קבוצתו 'הביתה' במשחק."
+        },
+        {
+            "definition": "Into the right, proper or stowed position",
+            "definition_hebrew": "למיקום ימין, תקין או שמור",
+            "example": "sails sheeted home",
+            "example_hebrew": "מפרשים סדינים הביתה"
+        },
+        {
+            "definition": "A directory that contains a user's files.",
+            "definition_hebrew": "ספרייה המכילה קבצים של משתמש.",
+            "example": "After logging into my computer, I accessed the 'Home' folder where all of my personal documents, photos, and other files are stored.",
+            "example_hebrew": "לאחר התחברות למחשב שלי, ניגשתי לתיקיית 'בית' שבה מאוחסנים כל המסמכים האישיים, התמונות ושאר הקבצים שלי."
+        }
+    ]
+}

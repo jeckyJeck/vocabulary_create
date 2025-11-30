@@ -1,0 +1,34 @@
+[
+    {
+        "word": "webcam",
+        "word_hebrew": "מצלמת אינטרנט",
+        "main_definition": "A webcam is a video camera that feeds its images or video directly into a computer network, typically the Internet.",
+        "main_definition_hebrew": "מצלמת אינטרנט היא מצלמת וידאו המזינה את התמונות או הווידאו שלה ישירות לרשת מחשבים, בדרך כלל לאינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Video conferencing tool",
+                "definition_hebrew": "כלי לשיחות ועידה בווידאו",
+                "example": "During remote meetings, teams use a webcam to see each other and communicate.",
+                "example_hebrew": "במהלך פגישות מרוחקות, צוותים משתמשים במצלמת אינטרנט כדי לראות אחד את השני ולתקשר."
+            },
+            {
+                "definition": "Personal video recording device",
+                "definition_hebrew": "מכשיר הקלטת וידאו אישי",
+                "example": "Parents set up a webcam in their child's room to monitor them while they sleep.",
+                "example_hebrew": "הורים מקימים מצלמת אינטרנט בחדר של ילדיהם כדי לפקח עליהם בזמן שהם ישנים."
+            },
+            {
+                "definition": "Live streaming camera for events or performances",
+                "definition_hebrew": "מצלמת סטרימינג בשידור חי לאירועים או הופעות",
+                "example": "A band uses a webcam to live stream their concert online, allowing fans worldwide to watch from home.",
+                "example_hebrew": "להקה משתמשת במצלמת אינטרנט כדי להזרים את הקונצרט שלהם באינטרנט, מה שמאפשר למעריצים ברחבי העולם לצפות מהבית."
+            },
+            {
+                "definition": "Surveillance device used in security systems",
+                "definition_hebrew": "מכשיר מעקב המשמש במערכות אבטחה",
+                "example": "An office building installs several webcams for monitoring the premises and ensuring safety.",
+                "example_hebrew": "בניין משרדים מתקין מספר מצלמות אינטרנט לניטור המקום והבטחת בטיחות."
+            }
+        ]
+    }
+]

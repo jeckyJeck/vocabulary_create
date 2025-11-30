@@ -1,0 +1,40 @@
+[
+    {
+        "word": "cancellation",
+        "word_hebrew": "ביטול",
+        "main_definition": "The act of voiding or terminating a contract, agreement, appointment, reservation, event, or plan.",
+        "main_definition_hebrew": "הפעולה של ביטול או סיום חוזה, הסכם, מינוי, הזמנה, אירוע או תוכנית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Voiding or ending a previously agreed upon arrangement or commitment",
+                "definition_hebrew": "ביטול או סיום הסדר או התחייבות שהוסכם עליהם קודם לכן",
+                "example": "We had to cancel our vacation due to unexpected work obligations.",
+                "example_hebrew": "נאלצנו לבטל את החופשה שלנו עקב התחייבויות עבודה בלתי צפויות."
+            },
+            {
+                "definition": "The action of invalidating or discharging an event, reservation, or booking",
+                "definition_hebrew": "הפעולה של ביטול או ביטול של אירוע, הזמנה או הזמנה",
+                "example": "I called the hotel to request cancellation on my non-refundable room reservation.",
+                "example_hebrew": "התקשרתי למלון כדי לבקש ביטול בהזמנת החדר ללא החזר שלי."
+            },
+            {
+                "definition": "Ending a scheduled meeting, class, appointment, or other planned gathering before it starts",
+                "definition_hebrew": "סיום פגישה, שיעור, פגישה או התכנסות מתוכננת אחרת לפני תחילתה",
+                "example": "The doctor's office had to cancel our appointment because the physician was sick.",
+                "example_hebrew": "משרד הרופא נאלץ לבטל את התור שלנו כי הרופא היה חולה."
+            },
+            {
+                "definition": "Reversing or negating a decision, order, or command that has been issued",
+                "definition_hebrew": "ביטול או שלילת החלטה, פקודה או פקודה שניתנו",
+                "example": "After realizing his mistake, the boss canceled the project's deadline extension.",
+                "example_hebrew": "לאחר שהבין את טעותו, הבוס ביטל את הארכת המועד של הפרויקט."
+            },
+            {
+                "definition": "Removing an item from one's schedule or agenda due to changes in priorities or circumstances",
+                "definition_hebrew": "הסרת פריט מלוח הזמנים או מסדר היום עקב שינויים בסדרי עדיפויות או בנסיבות",
+                "example": "I had to cancel my volunteer work at the shelter this weekend because of a family emergency.",
+                "example_hebrew": "נאלצתי לבטל את עבודתי בהתנדבות במקלט בסוף השבוע הזה בגלל מצב חירום משפחתי."
+            }
+        ]
+    }
+]

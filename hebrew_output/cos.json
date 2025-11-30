@@ -1,0 +1,22 @@
+[
+    {
+        "word": "cos",
+        "word_hebrew": "חַסַת עָלִים",
+        "main_definition": "In simple English, 'cos' can refer to the mathematical function cosine or be used as an abbreviation of 'cost.' Here are the meanings with examples:",
+        "main_definition_hebrew": "באנגלית פשוטה, 'cos' יכול להתייחס לפונקציה המתמטית cosine או לשמש כקיצור של 'עלות'. להלן המשמעויות עם דוגמאות:",
+        "meanings_and_examples": [
+            {
+                "definition": "Mathematical function representing the ratio of the adjacent side to the hypotenuse in a right-angled triangle.",
+                "definition_hebrew": "פונקציה מתמטית המייצגת את היחס בין הצלע הסמוכה לתחתית במשולש ישר זווית.",
+                "example": "The cosine of angle θ, often written as 'cos(θ),' can be found using the unit circle or trigonometric tables.",
+                "example_hebrew": "ניתן למצוא את הקוסינוס של זווית θ, הנכתב לעתים קרובות כ-'cos(θ),' באמצעות מעגל היחידה או טבלאות טריגונומטריות."
+            },
+            {
+                "definition": "'Cos' is sometimes used informally to refer to 'cost,' especially in contexts related to economics or business.",
+                "definition_hebrew": "לעתים משתמשים ב'Cos' באופן לא פורמלי כדי להתייחס ל'עלות', במיוחד בהקשרים הקשורים לכלכלה או לעסקים.",
+                "example": "The cos of producing a particular product involves considering all associated costs, such as materials and labor.",
+                "example_hebrew": "המחיר של ייצור מוצר מסוים כרוך בהתחשב בכל העלויות הנלוות, כגון חומרים ועבודה."
+            }
+        ]
+    }
+]

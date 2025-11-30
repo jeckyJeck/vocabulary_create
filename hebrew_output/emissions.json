@@ -1,0 +1,40 @@
+[
+    {
+        "word": "emissions",
+        "word_hebrew": "פליטות",
+        "main_definition": "Emissions refer to the release of gases or particles into the atmosphere, usually as a result of human activities like burning fossil fuels.",
+        "main_definition_hebrew": "פליטות מתייחסות לשחרור גזים או חלקיקים לאטמוספירה, בדרך כלל כתוצאה מפעילויות אנושיות כמו שריפת דלקים מאובנים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Environmental emissions related to pollution",
+                "definition_hebrew": "פליטות סביבתיות הקשורות לזיהום",
+                "example": "The factory's high levels of greenhouse gas emissions contribute significantly to air pollution.",
+                "example_hebrew": "הרמות הגבוהות של פליטת גזי חממה של המפעל תורמות באופן משמעותי לזיהום האוויר."
+            },
+            {
+                "definition": "Emissions from vehicles and transportation",
+                "definition_hebrew": "פליטות מכלי רכב ותחבורה",
+                "example": "Reducing vehicle emissions is crucial for improving urban air quality.",
+                "example_hebrew": "הפחתת פליטת כלי רכב חיונית לשיפור איכות האוויר העירונית."
+            },
+            {
+                "definition": "Greenhouse gas emissions causing climate change",
+                "definition_hebrew": "פליטת גזי חממה גורמת לשינויי אקלים",
+                "example": "The burning of coal releases large amounts of carbon dioxide, a major greenhouse gas emission affecting global warming.",
+                "example_hebrew": "שריפת הפחם משחררת כמויות גדולות של פחמן דו חמצני, פליטת גזי חממה גדולה המשפיעה על ההתחממות הגלובלית."
+            },
+            {
+                "definition": "Waste material released during industrial processes",
+                "definition_hebrew": "חומר פסולת המשתחרר במהלך תהליכים תעשייתיים",
+                "example": "Chemical plants often have to treat their emissions before releasing them into the environment to prevent pollution.",
+                "example_hebrew": "מפעלים כימיים צריכים לעתים קרובות לטפל בפליטות שלהם לפני שחרורם לסביבה כדי למנוע זיהום."
+            },
+            {
+                "definition": "Emissions in an idiomatic context, such as 'emission of light'",
+                "definition_hebrew": "פליטות בהקשר אידיומטי, כגון 'פליטת אור'",
+                "example": "The fireworks display was full of vibrant colors and a spectrum of emissions from different chemicals reacting with oxygen.",
+                "example_hebrew": "מופע הזיקוקים היה מלא בצבעים מרהיבים ובספקטרום של פליטות מכימיקלים שונים המגיבים עם חמצן."
+            }
+        ]
+    }
+]

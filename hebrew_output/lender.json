@@ -1,0 +1,34 @@
+[
+    {
+        "word": "lender",
+        "word_hebrew": "מַשׁאִיל",
+        "main_definition": "A lender is an individual or entity that provides money, goods, or services to another person (the borrower) with the expectation of repayment over time.",
+        "main_definition_hebrew": "מלווה הוא אדם או ישות המספקים כסף, סחורה או שירותים לאדם אחר (הלווה) עם ציפייה להחזר לאורך זמן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Financial institution providing loans",
+                "definition_hebrew": "מוסד פיננסי המעניק הלוואות",
+                "example": "The bank is a lender that offers personal and business loans to its customers.",
+                "example_hebrew": "הבנק הוא מלווה המציע הלוואות אישיות ועסקיות ללקוחותיו."
+            },
+            {
+                "definition": "Individual or entity offering financial assistance",
+                "definition_hebrew": "אדם או ישות המציעים סיוע פיננסי",
+                "example": "John, who owns a small credit union, can act as a lender by providing a loan to his community members for home improvements.",
+                "example_hebrew": "ג'ון, בעל איגוד אשראי קטן, יכול לפעול כמלווה על ידי מתן הלוואה לחברי הקהילה שלו לשיפורי הבית."
+            },
+            {
+                "definition": "One who entrusts property to another with the expectation of its return",
+                "definition_hebrew": "מי שמפקיד רכוש לאחר בציפייה להחזרתו",
+                "example": "A farmer acts as a lender when he allows someone else to use his tractor, expecting repayment or compensation later on.",
+                "example_hebrew": "חקלאי פועל כמלווה כאשר הוא מאפשר למישהו אחר להשתמש בטרקטור שלו, מצפה להחזר או פיצוי בהמשך."
+            },
+            {
+                "definition": "An entity that provides goods in exchange for payment after delivery",
+                "definition_hebrew": "ישות המספקת סחורה בתמורה לתשלום לאחר מסירה",
+                "example": "An electronics store is a type of lender when it sells computers and expects payment upon delivery to customers.",
+                "example_hebrew": "חנות אלקטרוניקה היא סוג של מלווה כאשר היא מוכרת מחשבים ומצפה לתשלום עם המסירה ללקוחות."
+            }
+        ]
+    }
+]

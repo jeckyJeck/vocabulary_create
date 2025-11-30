@@ -1,0 +1,40 @@
+[
+    {
+        "word": "figures",
+        "word_hebrew": "דמויות",
+        "main_definition": "Figures can refer to numerical values, shapes resembling a human figure, or expressions used in language (idioms) that imply specific meanings beyond their literal sense.",
+        "main_definition_hebrew": "דמויות יכולות להתייחס לערכים מספריים, לצורות הדומות לדמות אנושית, או לביטויים המשמשים בשפה (ניבים) המרמזים על משמעויות ספציפיות מעבר למובן המילולי שלהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Numerical value representing quantity",
+                "definition_hebrew": "ערך מספרי המייצג כמות",
+                "example": "The sales figures for this quarter increased by 10%.",
+                "example_hebrew": "נתוני המכירות ברבעון זה עלו ב-10%."
+            },
+            {
+                "definition": "Shapes that resemble a human figure, especially when drawn or represented in art",
+                "definition_hebrew": "צורות הדומות לדמות אנושית, במיוחד כשהן מצוירות או מיוצגות באמנות",
+                "example": "She sketched an elegant female nude, capturing the grace of her form with perfect proportions and figures.",
+                "example_hebrew": "היא שרטטה עירום נשי אלגנטי, ותפסה את החן של צורתה עם פרופורציות ודמויות מושלמות."
+            },
+            {
+                "definition": "An idiomatic expression meaning to become aware of something unexpectedly",
+                "definition_hebrew": "ביטוי אידיומטי שמשמעותו להיות מודע למשהו באופן בלתי צפוי",
+                "example": "When I heard about the promotion from my boss out of the blue, it really figures!",
+                "example_hebrew": "כששמעתי על הקידום מהבוס שלי ישר, זה באמת נראה!"
+            },
+            {
+                "definition": "A person in charge or with authority (especially in a military context)",
+                "definition_hebrew": "אדם אחראי או בעל סמכות (במיוחד בהקשר צבאי)",
+                "example": "The commanding officer gave clear orders to his subordinates before the operation began.",
+                "example_hebrew": "המפקד נתן פקודות ברורות לפקודיו לפני תחילת המבצע."
+            },
+            {
+                "definition": "To calculate or determine using mathematical methods",
+                "definition_hebrew": "לחשב או לקבוע באמצעות שיטות מתמטיות",
+                "example": "She had to figure out how much paint she would need for her living room walls.",
+                "example_hebrew": "היא הייתה צריכה להבין כמה צבע היא תצטרך לקירות הסלון שלה."
+            }
+        ]
+    }
+]

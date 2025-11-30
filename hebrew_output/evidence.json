@@ -1,0 +1,28 @@
+[
+    {
+        "word": "evidence",
+        "word_hebrew": "עֵדוּת",
+        "main_definition": "Information, facts or data supporting or refuting a belief, theory, etc.",
+        "main_definition_hebrew": "מידע, עובדות או נתונים התומכים או מפריכים אמונה, תיאוריה וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "Proof of something's existence or truth",
+                "definition_hebrew": "הוכחה לקיומו או לאמת של משהו",
+                "example": "The fingerprint was the evidence that identified him as the culprit.",
+                "example_hebrew": "טביעת האצבע הייתה הראיה שזיהתה אותו כאשם."
+            },
+            {
+                "definition": "Facts or data showing what is true, especially in a court case",
+                "definition_hebrew": "עובדות או נתונים המראים מה נכון, במיוחד בתיק בית משפט",
+                "example": "The security camera footage served as evidence against the suspect.",
+                "example_hebrew": "צילומי מצלמות האבטחה שימשו ראיה נגד החשוד."
+            },
+            {
+                "definition": "Supporting facts that can be used to demonstrate or prove something",
+                "definition_hebrew": "עובדות תומכות שניתן להשתמש בהן כדי להדגים או להוכיח משהו",
+                "example": "Her testimony and the receipt were strong evidence supporting her claim.",
+                "example_hebrew": "עדותה והקבלה היו ראיות חזקות התומכות בטענתה."
+            }
+        ]
+    }
+]

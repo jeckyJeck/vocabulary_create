@@ -1,0 +1,34 @@
+[
+    {
+        "word": "route",
+        "word_hebrew": "מַסלוּל",
+        "main_definition": "A route refers to a specific path or way taken to reach a destination, often involving various transportation methods.",
+        "main_definition_hebrew": "מסלול מתייחס לנתיב או לדרך ספציפיים שנלקחו כדי להגיע ליעד, לעתים קרובות כרוך בשיטות תחבורה שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In navigation, the actual roadway, path, or series of paths used for traveling from one place to another",
+                "definition_hebrew": "בניווט, הכביש, הנתיב או סדרת הנתיבים בפועל המשמשים לנסיעה ממקום אחד למשנהו",
+                "example": "I checked the map to find a new route to avoid traffic.",
+                "example_hebrew": "בדקתי את המפה כדי למצוא מסלול חדש כדי למנוע תנועה."
+            },
+            {
+                "definition": "The sequence of connections in a network such as computer networks or telephone networks that data packets follow",
+                "definition_hebrew": "רצף החיבורים ברשת כגון רשתות מחשבים או רשתות טלפון שמנות נתונים עוקבות אחריהן",
+                "example": "Data takes the most efficient route through our company's network.",
+                "example_hebrew": "נתונים לוקחים את המסלול היעיל ביותר דרך הרשת של החברה שלנו."
+            },
+            {
+                "definition": "A set course designated for vehicles, especially buses and trains",
+                "definition_hebrew": "מסלול מוגדר המיועד לכלי רכב, בעיקר אוטובוסים ורכבות",
+                "example": "The bus will take you along Route 27 to reach downtown quickly.",
+                "example_hebrew": "האוטובוס ייקח אתכם לאורך כביש 27 כדי להגיע למרכז העיר במהירות."
+            },
+            {
+                "definition": "An alternative or a series of alternatives to the main path in various contexts like games or problem-solving",
+                "definition_hebrew": "אלטרנטיבה או סדרה של חלופות לדרך הראשית בהקשרים שונים כמו משחקים או פתרון בעיות",
+                "example": "If we can't solve this math problem, let's try an alternate route to find the solution.",
+                "example_hebrew": "אם אנחנו לא יכולים לפתור את הבעיה המתמטית הזו, בואו ננסה מסלול חלופי כדי למצוא את הפתרון."
+            }
+        ]
+    }
+]

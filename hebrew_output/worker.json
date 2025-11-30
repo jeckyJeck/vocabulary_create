@@ -1,0 +1,40 @@
+[
+    {
+        "word": "worker",
+        "word_hebrew": "עוֹבֵד",
+        "main_definition": "A worker is an individual who engages in labor, often as part of a job or occupation, contributing to the production of goods or services.",
+        "main_definition_hebrew": "עובד הוא אדם העוסק בעבודה, לרוב כחלק מעבודה או עיסוק, התורם לייצור סחורות או שירותים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An employee engaged in manual or industrial work",
+                "definition_hebrew": "עובד העוסק בעבודה ידנית או תעשייתית",
+                "example": "The construction worker wore protective gear while operating heavy machinery.",
+                "example_hebrew": "פועל הבניין לבש ציוד מגן בעת שהפעיל מכונות כבדות."
+            },
+            {
+                "definition": "A person who performs unskilled labor for wages",
+                "definition_hebrew": "אדם המבצע עבודה לא מקצועית תמורת שכר",
+                "example": "At the factory, many workers perform repetitive tasks such as assembling parts or packaging products.",
+                "example_hebrew": "במפעל עובדים רבים מבצעים משימות שחוזרות על עצמן כמו הרכבת חלקים או אריזה של מוצרים."
+            },
+            {
+                "definition": "A person employed in a job that requires physical effort and often involves long hours",
+                "definition_hebrew": "אדם המועסק בעבודה הדורשת מאמץ פיזי ולרוב כרוכה בשעות ארוכות",
+                "example": "The farm worker spent his day plowing fields and tending to crops under the sun.",
+                "example_hebrew": "עובד החווה בילה את יומו בחריש שדות ובטיפול ביבולים תחת השמש."
+            },
+            {
+                "definition": "Someone who contributes their time and energy towards achieving goals or completing tasks, not limited by skill level",
+                "definition_hebrew": "מישהו שתורם מזמנו ומרצו להשגת מטרות או השלמת משימות, ללא הגבלה ברמת המיומנות",
+                "example": "The volunteers worked together as a team to clean up the local park.",
+                "example_hebrew": "המתנדבים עבדו יחד כצוות כדי לנקות את הפארק המקומי."
+            },
+            {
+                "definition": "A person involved in any form of labor or production process within an industry or economy",
+                "definition_hebrew": "אדם המעורב בכל צורה של תהליך עבודה או ייצור בתוך תעשייה או כלכלה",
+                "example": "In the tech industry, software developers are considered workers who create innovative digital products.",
+                "example_hebrew": "בתעשיית הטכנולוגיה, מפתחי תוכנה נחשבים לעובדים היוצרים מוצרים דיגיטליים חדשניים."
+            }
+        ]
+    }
+]

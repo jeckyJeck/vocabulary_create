@@ -1,0 +1,40 @@
+[
+    {
+        "word": "prediction",
+        "word_hebrew": "נְבוּאָה",
+        "main_definition": "A forecast or estimation of a future event, outcome, trend, or behavior based on data, experience, intuition, or other factors.",
+        "main_definition_hebrew": "תחזית או הערכה של אירוע עתידי, תוצאה, מגמה או התנהגות המבוססת על נתונים, ניסיון, אינטואיציה או גורמים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An estimate about what will happen in the future",
+                "definition_hebrew": "הערכה לגבי מה יקרה בעתיד",
+                "example": "The meteorologist made a prediction that it would rain tomorrow.",
+                "example_hebrew": "המטאורולוג ערך תחזית כי מחר יירד גשם."
+            },
+            {
+                "definition": "A statement expressing belief or opinion about something expected to occur in the future",
+                "definition_hebrew": "הצהרה המביעה אמונה או דעה לגבי משהו שצפוי להתרחש בעתיד",
+                "example": "Based on his analysis of market trends, he predicted an economic downturn.",
+                "example_hebrew": "בהתבסס על ניתוח מגמות השוק שלו, הוא חזה מיתון כלכלי."
+            },
+            {
+                "definition": "A guess or a conjecture made with some degree of confidence about a forthcoming event or outcome",
+                "definition_hebrew": "ניחוש או השערה שנעשו במידה מסוימת של ביטחון לגבי אירוע או תוצאה קרובים",
+                "example": "The book's author made a prediction that the protagonist would achieve great success in his career.",
+                "example_hebrew": "מחבר הספר ניבא כי הגיבור יגיע להצלחה רבה בקריירה שלו."
+            },
+            {
+                "definition": "In sports, a prediction refers to guessing which team will win before an actual game takes place",
+                "definition_hebrew": "בספורט, תחזית מתייחסת לניחוש איזו קבוצה תנצח לפני שמתקיים משחק בפועל",
+                "example": "Before the basketball match started, many people predicted that Team A would win.",
+                "example_hebrew": "לפני תחילת משחק הכדורסל, אנשים רבים חזו שקבוצה א' תנצח."
+            },
+            {
+                "definition": "A forecast made using scientific methods and data analysis in fields like weather, finance, or demographics",
+                "definition_hebrew": "תחזית שנעשתה באמצעות שיטות מדעיות וניתוח נתונים בתחומים כמו מזג אוויר, פיננסים או דמוגרפיה",
+                "example": "The scientists used historical climate patterns to make a prediction about future temperature trends.",
+                "example_hebrew": "המדענים השתמשו בדפוסי אקלים היסטוריים כדי לחזות את מגמות הטמפרטורה העתידיות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "wma",
+        "word_hebrew": "wma",
+        "main_definition": "WMA stands for Wide Minimum Acceptable Ratio, a tool used in digital audio processing to measure the perceptual difference between two audio signals.",
+        "main_definition_hebrew": "WMA ראשי תיבות של Wide Minimum Acceptable Ratio, כלי המשמש בעיבוד אודיו דיגיטלי למדידת ההבדל התפיסתי בין שני אותות אודיו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Digital Audio Workstation (DAW)",
+                "definition_hebrew": "תחנת עבודה אודיו דיגיטלית (DAW)",
+                "example": "Aspiring musicians often learn how to use software like Ableton Live or FL Studio as a digital audio workstation.",
+                "example_hebrew": "מוזיקאים שואפים לומדים לעתים קרובות כיצד להשתמש בתוכנות כמו Ableton Live או FL Studio כתחנת עבודה אודיו דיגיטלית."
+            },
+            {
+                "definition": "Audio Compression Ratio",
+                "definition_hebrew": "יחס דחיסת אודיו",
+                "example": "The ratio of the input volume level to the output volume level, which is used in audio processing for controlling the dynamic range of an audio signal.",
+                "example_hebrew": "היחס בין רמת עוצמת הקול של הקלט לרמת עוצמת הקול של הפלט, המשמשת בעיבוד שמע לשליטה בטווח הדינמי של אות שמע."
+            },
+            {
+                "definition": "Wide Minimum Acceptable Ratio (WMA)",
+                "definition_hebrew": "יחס מינימלי מקובל רחב (WMA)",
+                "example": "A tool developed by Microsoft that compares two audio signals and determines if they are perceptually indistinguishable, even in cases where traditional RMS (Root Mean Square) differences would not be noticeable.",
+                "example_hebrew": "כלי שפותח על ידי מיקרוסופט שמשווה בין שני אותות אודיו וקובע אם אין להבחין ביניהם מבחינה תפיסתית, גם במקרים שבהם הבדלי RMS (Root Mean Square) מסורתיים לא יהיו מורגשים."
+            }
+        ]
+    }
+]

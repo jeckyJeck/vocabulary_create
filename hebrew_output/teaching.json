@@ -1,0 +1,40 @@
+[
+    {
+        "word": "teaching",
+        "word_hebrew": "הוֹרָאָה",
+        "main_definition": "Teaching is the process of imparting knowledge, skills, and values to others through instruction or guidance.",
+        "main_definition_hebrew": "הוראה היא תהליך של הקניית ידע, מיומנויות וערכים לאחרים באמצעות הדרכה או הדרכה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of conveying information or skills from one individual (teacher) to another (student).",
+                "definition_hebrew": "פעולת העברת מידע או מיומנויות מאדם אחד (מורה) לאחר (תלמיד).",
+                "example": "As a teacher, I am responsible for explaining complex topics in simple terms.",
+                "example_hebrew": "כמורה, אני אחראי להסביר נושאים מורכבים במילים פשוטות."
+            },
+            {
+                "definition": "Providing instruction or guidance on how to perform specific tasks.",
+                "definition_hebrew": "מתן הדרכה או הדרכה כיצד לבצע משימות ספציפיות.",
+                "example": "The cooking class teaches students how to prepare various dishes.",
+                "example_hebrew": "כיתת הבישול מלמדת את התלמידים כיצד להכין מנות שונות."
+            },
+            {
+                "definition": "Using methods and techniques for teaching others, often with a focus on engagement and interaction.",
+                "definition_hebrew": "שימוש בשיטות וטכניקות להוראת אחרים, לרוב תוך התמקדות במעורבות ואינטראקציה.",
+                "example": "Her dynamic teaching style involves interactive activities that keep the students engaged.",
+                "example_hebrew": "סגנון ההוראה הדינמי שלה כולל פעילויות אינטראקטיביות ששומרות על מעורבות התלמידים."
+            },
+            {
+                "definition": "The profession or occupation of individuals who teach in educational institutions or other settings.",
+                "definition_hebrew": "מקצוע או עיסוקם של אנשים המלמדים במוסדות חינוך או במסגרות אחרות.",
+                "example": "She is an experienced teacher with 10 years of experience working in a high school.",
+                "example_hebrew": "היא מורה מנוסה עם ניסיון של 10 שנים בעבודה בתיכון."
+            },
+            {
+                "definition": "An approach that emphasizes the importance of imparting knowledge and values to others, often focusing on critical thinking and problem-solving.",
+                "definition_hebrew": "גישה המדגישה את החשיבות של הקניית ידע וערכים לזולת, לרוב מתמקדת בחשיבה ביקורתית ופתרון בעיות.",
+                "example": "Progressive teaching methods encourage students to think critically about real-world issues.",
+                "example_hebrew": "שיטות הוראה פרוגרסיביות מעודדות את התלמידים לחשוב בביקורתיות על סוגיות בעולם האמיתי."
+            }
+        ]
+    }
+]

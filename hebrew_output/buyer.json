@@ -1,0 +1,34 @@
+[
+    {
+        "word": "buyer",
+        "word_hebrew": "קוֹנֶה",
+        "main_definition": "A person or entity that purchases goods, services, or assets from a seller.",
+        "main_definition_hebrew": "אדם או ישות הרוכשים מוצרים, שירותים או נכסים ממוכר.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual who buys products for personal use.",
+                "definition_hebrew": "אדם הרוכש מוצרים לשימוש אישי.",
+                "example": "John is a buyer at the local grocery store. He picks fruits and vegetables to take home.",
+                "example_hebrew": "ג'ון הוא קונה במכולת המקומית. הוא קוטף פירות וירקות לקחת הביתה."
+            },
+            {
+                "definition": "A company that purchases goods in bulk from suppliers to resell or use them in production.",
+                "definition_hebrew": "חברה שרוכשת סחורה בכמויות גדולות מספקים כדי למכור אותן מחדש או להשתמש בהן בייצור.",
+                "example": "ABC Electronics is a buyer for various electronic components, which they then sell as part of their products.",
+                "example_hebrew": "ABC Electronics היא קונה של רכיבים אלקטרוניים שונים, אותם הם מוכרים לאחר מכן כחלק מהמוצרים שלהם."
+            },
+            {
+                "definition": "A person who invests money with the expectation of making profits from the increase in value over time.",
+                "definition_hebrew": "אדם המשקיע כסף מתוך ציפייה להפיק רווחים מעליית הערך לאורך זמן.",
+                "example": "Sarah is an investor and a buyer of stocks. She hopes that her shares will grow in worth as the company's performance improves.",
+                "example_hebrew": "שרה היא משקיעה וקונה של מניות. היא מקווה ששווי המניות שלה יגדל ככל שביצועי החברה ישתפרו."
+            },
+            {
+                "definition": "A legal entity, like a corporation or partnership, which acquires assets through purchase.",
+                "definition_hebrew": "ישות משפטית, כמו תאגיד או שותפות, הרוכשת נכסים באמצעות רכישה.",
+                "example": "XYZ Corporation is a buyer of real estate properties to expand its business operations.",
+                "example_hebrew": "XYZ Corporation היא קונה של נכסי נדל\"ן כדי להרחיב את פעילותה העסקית."
+            }
+        ]
+    }
+]

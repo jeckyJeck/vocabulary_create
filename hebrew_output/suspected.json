@@ -1,0 +1,28 @@
+[
+    {
+        "word": "suspected",
+        "word_hebrew": "חשוד",
+        "main_definition": "Believed or considered to be true, but not yet proven.",
+        "main_definition_hebrew": "האמינו או נחשבים לנכונים, אך עדיין לא הוכחו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To suspect that someone has committed a crime or wrongdoing without definitive proof.",
+                "definition_hebrew": "לחשוד שמישהו ביצע פשע או עוולה ללא הוכחה מוחלטת.",
+                "example": "The police suspected the man of stealing the jewelry.",
+                "example_hebrew": "המשטרה חשדה באיש בגניבת התכשיטים."
+            },
+            {
+                "definition": "To believe that something is true, based on circumstantial evidence or intuition.",
+                "definition_hebrew": "להאמין שמשהו נכון, על סמך ראיות נסיבתיות או אינטואיציה.",
+                "example": "She suspected her colleague was taking credit for her work.",
+                "example_hebrew": "היא חשדה שהקולגה שלה לוקח קרדיט על עבודתה."
+            },
+            {
+                "definition": "To have a preliminary idea or hypothesis about an outcome, situation, or cause.",
+                "definition_hebrew": "לקבל רעיון או השערה ראשונית לגבי תוצאה, מצב או סיבה.",
+                "example": "The scientist suspected that the sudden temperature drop could be due to global warming effects.",
+                "example_hebrew": "המדען חשד כי ירידת הטמפרטורה הפתאומית יכולה לנבוע מהשפעות ההתחממות הגלובלית."
+            }
+        ]
+    }
+]

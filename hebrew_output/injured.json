@@ -1,0 +1,28 @@
+[
+    {
+        "word": "injured",
+        "word_hebrew": "נִפגָע",
+        "main_definition": "In the context of sports or accidents, 'injured' means that a person has sustained physical harm or damage to their body.",
+        "main_definition_hebrew": "בהקשר של ספורט או תאונות, 'פצוע' פירושו שאדם סבל מפגיעה פיזית או נזק לגופו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Harm caused to one's health by an accident or disease",
+                "definition_hebrew": "נזק שנגרם לבריאותו כתוצאה מתאונה או מחלה",
+                "example": "After slipping on the wet floor, John was injured and had to go to the hospital.",
+                "example_hebrew": "לאחר שהחליק על הרצפה הרטובה, ג'ון נפצע ונאלץ ללכת לבית החולים."
+            },
+            {
+                "definition": "A sports player who has sustained physical harm during a game or event",
+                "definition_hebrew": "שחקן ספורט שנגרם לו נזק פיזי במהלך משחק או אירוע",
+                "example": "The football player got injured during the match but will likely recover soon.",
+                "example_hebrew": "שחקן הכדורגל נפצע במהלך המשחק אך ככל הנראה יחלים בקרוב."
+            },
+            {
+                "definition": "Legally, someone who has suffered damage due to another's negligence and may seek compensation",
+                "definition_hebrew": "מבחינה משפטית, מי שנגרם לו נזק עקב רשלנות של אחר ועלול לתבוע פיצויים",
+                "example": "She filed a lawsuit after being seriously injured in a car accident caused by a distracted driver.",
+                "example_hebrew": "היא הגישה תביעה לאחר שנפצעה קשה בתאונת דרכים שנגרמה על ידי נהג מוסח דעת."
+            }
+        ]
+    }
+]

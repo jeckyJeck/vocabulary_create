@@ -1,0 +1,40 @@
+[
+    {
+        "word": "restriction",
+        "word_hebrew": "הַגבָּלָה",
+        "main_definition": "A limitation or rule that prevents certain actions, behaviors, or access to something.",
+        "main_definition_hebrew": "מגבלה או כלל שמונעים פעולות מסוימות, התנהגויות או גישה למשהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Limiting the availability of a product or service.",
+                "definition_hebrew": "הגבלת הזמינות של מוצר או שירות.",
+                "example": "The restaurant imposed restrictions on when customers could dine in due to capacity limitations.",
+                "example_hebrew": "המסעדה הטילה הגבלות על מתי יוכלו הלקוחות לסעוד בשל מגבלות הקיבולת."
+            },
+            {
+                "definition": "Legal or regulatory constraints that control behavior or activities.",
+                "definition_hebrew": "אילוצים משפטיים או רגולטוריים השולטים בהתנהגות או בפעילויות.",
+                "example": "Driving under the influence of alcohol is subject to legal restriction and can result in penalties.",
+                "example_hebrew": "נהיגה תחת השפעת אלכוהול כפופה להגבלה חוקית ועלולה לגרור עונשים."
+            },
+            {
+                "definition": "Constraints applied on data access, such as privacy settings or content filters.",
+                "definition_hebrew": "אילוצים שהוחלו על גישה לנתונים, כגון הגדרות פרטיות או מסנני תוכן.",
+                "example": "On social media platforms, users may set restrictions on who can see their posts for increased privacy.",
+                "example_hebrew": "בפלטפורמות של מדיה חברתית, משתמשים עשויים להגדיר הגבלות על מי שיכול לראות את הפוסטים שלהם לצורך הגברת הפרטיות."
+            },
+            {
+                "definition": "Physical limitations that restrict movement or action.",
+                "definition_hebrew": "מגבלות פיזיות המגבילות תנועה או פעולה.",
+                "example": "The hiking trail had a restriction sign indicating steep and slippery sections not suitable for inexperienced hikers.",
+                "example_hebrew": "במסלול ההליכה היה שלט הגבלה המצביע על קטעים תלולים וחלקלקים שאינם מתאימים למטיילים חסרי ניסיון."
+            },
+            {
+                "definition": "Rules limiting the use of certain areas, such as public spaces or natural habitats.",
+                "definition_hebrew": "כללים המגבילים את השימוש בשטחים מסוימים, כגון שטחים ציבוריים או בתי גידול טבעיים.",
+                "example": "National parks often have restrictions on camping to preserve the environment and prevent overcrowding.",
+                "example_hebrew": "לפארקים הלאומיים יש לרוב הגבלות על קמפינג כדי לשמור על הסביבה ולמנוע צפיפות."
+            }
+        ]
+    }
+]

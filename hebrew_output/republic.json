@@ -1,0 +1,28 @@
+[
+    {
+        "word": "republic",
+        "word_hebrew": "רפובליקה",
+        "main_definition": "A republic is a form of government in which power resides in elected individuals representing the citizen body, and officials exercise authority based on popular consent.",
+        "main_definition_hebrew": "רפובליקה היא צורת ממשל שבה הכוח שוכן בנבחרים המייצגים את הגוף האזרחי, ופקידים מפעילים סמכות המבוססת על הסכמה עממית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Political system where sovereignty rests with the people who elect representatives to govern for them",
+                "definition_hebrew": "מערכת פוליטית שבה הריבונות מוטלת על האנשים שבוחרים נציגים למשול עבורם",
+                "example": "The United States is an example of a republic, as its citizens vote in elections to choose their president and legislative body.",
+                "example_hebrew": "ארצות הברית היא דוגמה לרפובליקה, שכן אזרחיה מצביעים בבחירות כדי לבחור את הנשיא והגוף המחוקק שלהם."
+            },
+            {
+                "definition": "A state that operates under a system where government officials are elected by the people rather than being appointed or inherited",
+                "definition_hebrew": "מדינה הפועלת תחת שיטה שבה פקידי ממשל נבחרים על ידי העם במקום להיות ממונים או עוברים בירושה",
+                "example": "France transitioned from an absolute monarchy to a republic during the French Revolution in 1789, establishing a democratic form of governance.",
+                "example_hebrew": "צרפת עברה ממונרכיה אבסולוטית לרפובליקה במהלך המהפכה הצרפתית ב-1789, והקימה צורת ממשל דמוקרטית."
+            },
+            {
+                "definition": "A political organization that upholds and promotes the ideals of a government elected by its citizens",
+                "definition_hebrew": "ארגון פוליטי המקיים ומקדם את האידיאלים של ממשלה שנבחרה על ידי אזרחיה",
+                "example": "The Republican Party in the United States advocates for limited government intervention, individual liberties, and free-market capitalism.",
+                "example_hebrew": "המפלגה הרפובליקנית בארצות הברית דוגלת בהתערבות ממשלתית מוגבלת, חירויות הפרט וקפיטליזם של שוק חופשי."
+            }
+        ]
+    }
+]

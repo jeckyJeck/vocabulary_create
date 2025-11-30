@@ -1,0 +1,40 @@
+[
+    {
+        "word": "urgent",
+        "word_hebrew": "דחוף",
+        "main_definition": "Something that requires immediate attention or action due to its importance, criticality, or time-sensitivity.",
+        "main_definition_hebrew": "משהו שדורש תשומת לב או פעולה מיידית בשל חשיבותו, קריטיותו או רגישותו לזמן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Requiring prompt attention; of great importance and needing immediate action or treatment",
+                "definition_hebrew": "דורש תשומת לב מיידית; בעל חשיבות רבה וצריך פעולה או טיפול מיידי",
+                "example": "The doctor declared the patient's condition urgent, as they were having a severe allergic reaction.",
+                "example_hebrew": "הרופא הכריז על מצבו של החולה דחוף, מכיוון שהם סבלו מתגובה אלרגית קשה."
+            },
+            {
+                "definition": "Characterized by a sense of pressing immediacy or dire necessity; pressingly important and demanding swift action",
+                "definition_hebrew": "מאופיין בתחושה של מיידיות דוחקת או נחיצות חמורה; חשוב מאוד ודורש פעולה מהירה",
+                "example": "After seeing the burst pipe in her kitchen, Sarah realized she had to handle the situation urgently before it caused more damage.",
+                "example_hebrew": "לאחר שראתה את הצינור התפוצץ במטבח שלה, הבינה שרה שעליה לטפל במצב בדחיפות לפני שהוא יגרום לנזק נוסף."
+            },
+            {
+                "definition": "Requiring immediate attention because of its critical nature or potential for causing serious consequences if delayed",
+                "definition_hebrew": "דורש התייחסות מיידית בגלל אופיו הקריטי או הפוטנציאל לגרום לתוצאות חמורות במקרה של עיכוב",
+                "example": "The safety officer called an emergency meeting due to a potentially hazardous situation that needed urgent resolution.",
+                "example_hebrew": "קצין הבטיחות זימן לישיבת חירום עקב מצב שעלול להיות מסוכן שדרש פתרון דחוף."
+            },
+            {
+                "definition": "Pertaining to a matter or issue with pressing importance and needing immediate consideration or action; of high priority",
+                "definition_hebrew": "הנוגעים לעניין או לנושא בעלי חשיבות דחופה וצריכים התייחסות או פעולה מיידית; בעדיפות גבוהה",
+                "example": "Due to the budget cuts, all non-essential projects were put on hold except for those deemed urgent.",
+                "example_hebrew": "בשל הקיצוצים בתקציב, כל הפרויקטים הלא חיוניים הוקפאו למעט אלו שנחשבו דחופים."
+            },
+            {
+                "definition": "Relating to an emergency situation that demands immediate response and attention",
+                "definition_hebrew": "התייחסות למצב חירום הדורש תגובה ותשומת לב מיידית",
+                "example": "The fire department was dispatched urgently after the alarm went off in the building.",
+                "example_hebrew": "מכבי האש נשלחו בדחיפות לאחר הפעלת האזעקה בבניין."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "dealtime",
+        "word_hebrew": "זמן עסקה",
+        "main_definition": "Dealtime refers to the guaranteed time frame within which a service or task must be completed.",
+        "main_definition_hebrew": "זמן עסקה מתייחס למסגרת הזמן המובטחת שבה יש להשלים שירות או משימה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Delivery Time Guarantee",
+                "definition_hebrew": "הבטחת זמן אספקה",
+                "example": "The online store offers free two-day shipping with a dealtime guarantee, ensuring that customers receive their packages by the end of the third business day.",
+                "example_hebrew": "החנות המקוונת מציעה משלוח חינם ליומיים עם אחריות לזמן עסקה, מה שמבטיח שהלקוחות יקבלו את החבילות שלהם עד סוף יום העסקים השלישי."
+            },
+            {
+                "definition": "Service Completion Promise",
+                "definition_hebrew": "הבטחת השלמת שירות",
+                "example": "The IT company promises to resolve network issues within 24 hours as part of its dealtime commitment to customer satisfaction.",
+                "example_hebrew": "חברת ה-IT מבטיחה לפתור בעיות רשת תוך 24 שעות כחלק מהמחויבות שלה לשביעות רצון הלקוחות."
+            },
+            {
+                "definition": "Project Deadline Commitment",
+                "definition_hebrew": "התחייבות לתאריך יעד לפרויקט",
+                "example": "The construction firm states that the completion date for a building project is set with strict adherence, ensuring they meet their dealtime goal of finishing by year-end.",
+                "example_hebrew": "חברת הבנייה מצהירה כי מועד סיום פרויקט הבנייה נקבע תוך הקפדה על עמידה ביעד העסקה שלהם לסיים עד סוף השנה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "couples",
+        "word_hebrew": "זוגות",
+        "main_definition": "A group of two people who are in a romantic relationship or partnership.",
+        "main_definition_hebrew": "קבוצה של שני אנשים שנמצאים בקשר רומנטי או זוגיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of relationships, referring to two individuals who are dating each other and often share a romantic bond.",
+                "definition_hebrew": "בהקשר של מערכות יחסים, הכוונה לשני אנשים שיוצאים זה עם זה ולעתים קרובות חולקים קשר רומנטי.",
+                "example": "They go on dates together as a couple.",
+                "example_hebrew": "הם יוצאים לדייטים ביחד כזוג."
+            },
+            {
+                "definition": "A unit or pairing in statistics or research that represents data from two related entities being studied simultaneously.",
+                "definition_hebrew": "יחידה או זיווג בסטטיסטיקה או מחקר המייצגים נתונים משתי ישויות קשורות הנלמדות בו זמנית.",
+                "example": "The survey collected data in couples to analyze the correlation between their spending habits.",
+                "example_hebrew": "הסקר אסף נתונים אצל זוגות כדי לנתח את המתאם בין הרגלי ההוצאות שלהם."
+            },
+            {
+                "definition": "In sports, a set of athletes who play together on the same team and often develop strong partnerships or camaraderie.",
+                "definition_hebrew": "בספורט, קבוצה של ספורטאים שמשחקים יחד באותה קבוצה ולעתים קרובות מפתחים שותפויות חזקות או אחווה.",
+                "example": "The basketball team's most effective couples are John and Mark, who dominate the game with their perfect coordination.",
+                "example_hebrew": "הזוגות היעילים ביותר של קבוצת הכדורסל הם ג'ון ומארק, ששולטים במשחק בקואורדינציה המושלמת שלהם."
+            },
+            {
+                "definition": "Two entities working in conjunction to achieve a common goal or solve a problem together.",
+                "definition_hebrew": "שתי ישויות הפועלות יחד כדי להשיג מטרה משותפת או לפתור בעיה ביחד.",
+                "example": "The two engineers formed a couple team to design an innovative solution for environmental sustainability.",
+                "example_hebrew": "שני המהנדסים הקימו צוות זוג כדי לתכנן פתרון חדשני לקיימות סביבתית."
+            }
+        ]
+    }
+]

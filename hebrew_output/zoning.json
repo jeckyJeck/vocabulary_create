@@ -1,0 +1,40 @@
+[
+    {
+        "word": "zoning",
+        "word_hebrew": "יעוד",
+        "main_definition": "Zoning refers to the process of dividing a land area into zones, where each zone is designated for specific types of development or usage as per local laws and regulations.",
+        "main_definition_hebrew": "ייעוד מתייחס לתהליך של חלוקת שטח קרקע לאזורים, כאשר כל אזור מיועד לסוגים ספציפיים של פיתוח או שימוש בהתאם לחוקים ולתקנות המקומיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Regulatory division of an urbanized territory",
+                "definition_hebrew": "חלוקה רגולטורית של טריטוריה עירונית",
+                "example": "The city council passed a new zoning ordinance to separate residential areas from industrial zones.",
+                "example_hebrew": "מועצת העיר העבירה פקודת ייעוד חדשה להפרדה בין אזורי מגורים מאזורי תעשייה."
+            },
+            {
+                "definition": "Law or regulation that governs the use and development of real estate",
+                "definition_hebrew": "חוק או תקנה המסדירים את השימוש והפיתוח במקרקעין",
+                "example": "A homeowner sought permission for a small business in their home, but was denied due to zoning restrictions.",
+                "example_hebrew": "בעל בית ביקש אישור לעסק קטן בביתו, אך נדחה בשל מגבלות ייעוד."
+            },
+            {
+                "definition": "Planning method used by municipalities to control land uses within their boundaries",
+                "definition_hebrew": "שיטת תכנון המשמשת עיריות לשליטה על שימושי הקרקע בתחומיהן",
+                "example": "The city's comprehensive plan includes various zones such as commercial, residential, and green spaces.",
+                "example_hebrew": "התוכנית הכוללת של העיר כוללת אזורים שונים כמו מסחר, מגורים ושטחים ירוקים."
+            },
+            {
+                "definition": "Process of determining the types of activities that can occur in certain areas based on pre-established regulations",
+                "definition_hebrew": "תהליך קביעת סוגי הפעילויות שיכולות להתרחש באזורים מסוימים בהתבסס על תקנות שנקבעו מראש",
+                "example": "When a developer proposed to build an amusement park near a school, they had to go through zoning hearings.",
+                "example_hebrew": "כאשר יזם הציע להקים פארק שעשועים ליד בית ספר, הם נאלצו לעבור דיוני ייעוד."
+            },
+            {
+                "definition": "Specific area where certain land uses are permitted or prohibited by local authorities",
+                "definition_hebrew": "אזור ספציפי שבו שימושי קרקע מסוימים מותרים או אסורים על ידי הרשויות המקומיות",
+                "example": "The downtown zone is primarily for commercial and retail establishments, while the residential zone allows only housing developments.",
+                "example_hebrew": "אזור מרכז העיר מיועד בעיקר למפעלי מסחר וקמעונאות, בעוד שאזור המגורים מאפשר רק פיתוחי דיור."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "artists",
+        "word_hebrew": "אמנים",
+        "main_definition": "Artists are individuals who create or produce art, showcasing their creativity, skill, and personal expression through various mediums.",
+        "main_definition_hebrew": "אמנים הם אנשים שיוצרים או מייצרים אמנות, המציגים את היצירתיות, המיומנות והביטוי האישי שלהם באמצעות מדיומים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Creators of visual arts such as paintings, drawings, and sculptures",
+                "definition_hebrew": "יוצרי אמנות פלסטית כגון ציורים, רישומים ופסלים",
+                "example": "Pablo Picasso is known for his contributions to the world of visual artists.",
+                "example_hebrew": "פבלו פיקאסו ידוע בתרומתו לעולם האמנים החזותיים."
+            },
+            {
+                "definition": "Individuals who create music or songs",
+                "definition_hebrew": "אנשים שיוצרים מוזיקה או שירים",
+                "example": "Ludwig van Beethoven was a famous composer and artist in the field of classical music.",
+                "example_hebrew": "לודוויג ואן בטהובן היה מלחין ואמן מפורסם בתחום המוזיקה הקלאסית."
+            },
+            {
+                "definition": "Performers such as actors, dancers, and other people involved in stage productions",
+                "definition_hebrew": "מבצעים כגון שחקנים, רקדנים ואנשים אחרים המעורבים בהפקות במה",
+                "example": "Meryl Streep is renowned for her work as an actress, making her a prominent artist in the world of performing arts.",
+                "example_hebrew": "מריל סטריפ ידועה בעבודתה כשחקנית, מה שהופך אותה לאמנית בולטת בעולם אמנויות הבמה."
+            },
+            {
+                "definition": "Creators of literary works including novels, poems, and plays",
+                "definition_hebrew": "יוצרי יצירות ספרותיות כולל רומנים, שירים ומחזות",
+                "example": "Jane Austen was a celebrated writer known for her contributions to English literature.",
+                "example_hebrew": "ג'יין אוסטן הייתה סופרת מהוללת הידועה בתרומותיה לספרות אנגלית."
+            },
+            {
+                "definition": "Designers who create graphic art such as logos, illustrations, or branding materials",
+                "definition_hebrew": "מעצבים שיוצרים אמנות גרפית כגון לוגואים, איורים או חומרי מיתוג",
+                "example": "Pauli Murray was an influential artist in the field of graphic design and advertising.",
+                "example_hebrew": "פאולי מורי הייתה אמנית משפיעה בתחום העיצוב הגרפי והפרסום."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "price",
+        "word_hebrew": "מחיר",
+        "main_definition": "The amount of money that is expected, required, or given in exchange for a product or service.",
+        "main_definition_hebrew": "סכום הכסף שצפוי, נדרש או ניתן בתמורה למוצר או שירות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Cost as an economic concept referring to the value assigned to goods and services based on factors like supply, demand, and production costs.",
+                "definition_hebrew": "עלות כמושג כלכלי המתייחס לערך המוקצה לסחורות ולשירותים בהתבסס על גורמים כמו היצע, ביקוש ועלויות ייצור.",
+                "example": "The price of gold fluctuates depending on global market conditions.",
+                "example_hebrew": "מחיר הזהב משתנה בהתאם לתנאי השוק העולמי."
+            },
+            {
+                "definition": "A numerical amount representing a monetary exchange for an item or service in commerce.",
+                "definition_hebrew": "סכום מספרי המייצג החלפה כספית עבור פריט או שירות במסחר.",
+                "example": "The price of the new smartphone is $999.",
+                "example_hebrew": "מחירו של הסמארטפון החדש הוא 999 דולר."
+            },
+            {
+                "definition": "An expression used to signify that something comes at a certain cost, often with undertones about its value or worth.",
+                "definition_hebrew": "ביטוי המשמש לסימן שמשהו מגיע בעלות מסוימת, לעתים קרובות עם נימות לגבי ערכו או ערכו.",
+                "example": "That's just too high a price to pay for such mediocre quality!",
+                "example_hebrew": "זה פשוט מחיר גבוה מכדי לשלם עבור איכות בינונית כזו!"
+            },
+            {
+                "definition": "The monetary compensation required to purchase real estate or property.",
+                "definition_hebrew": "הפיצוי הכספי הנדרש לרכישת מקרקעין או נכס.",
+                "example": "She sold her house at the asking price of $350,000.",
+                "example_hebrew": "היא מכרה את ביתה במחיר מבוקש של 350,000 דולר."
+            },
+            {
+                "definition": "A factor that influences decision-making in purchasing goods and services due to perceived value versus cost.",
+                "definition_hebrew": "גורם המשפיע על קבלת החלטות ברכישת מוצרים ושירותים עקב ערך נתפס מול עלות.",
+                "example": "Price sensitivity can greatly impact consumer behavior when shopping for groceries.",
+                "example_hebrew": "רגישות למחירים יכולה להשפיע רבות על התנהגות הצרכנים בעת קניות מצרכים."
+            }
+        ]
+    }
+]

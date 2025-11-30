@@ -1,0 +1,34 @@
+[
+    {
+        "word": "troubleshooting",
+        "word_hebrew": "פתרון תקלות",
+        "main_definition": "The process of diagnosing the source of a problem and then finding a solution to fix it.",
+        "main_definition_hebrew": "תהליך אבחון מקור הבעיה ולאחר מכן מציאת פתרון לתיקון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Identifying technical issues in electronic devices or systems",
+                "definition_hebrew": "זיהוי בעיות טכניות במכשירים או מערכות אלקטרוניות",
+                "example": "When my computer won't turn on, I start troubleshooting by checking the power supply and connections.",
+                "example_hebrew": "כשהמחשב שלי לא נדלק, אני מתחיל בפתרון בעיות על ידי בדיקת אספקת החשמל והחיבורים."
+            },
+            {
+                "definition": "Analyzing complex problems to find possible causes",
+                "definition_hebrew": "ניתוח בעיות מורכבות כדי למצוא סיבות אפשריות",
+                "example": "A detective is troubleshooting a crime scene by examining evidence and interviewing witnesses.",
+                "example_hebrew": "בלש פותר תקלות בזירת פשע על ידי בחינת ראיות וראיון עדים."
+            },
+            {
+                "definition": "Addressing customer complaints or service issues in business settings",
+                "definition_hebrew": "טיפול בתלונות לקוחות או בעיות שירות בהגדרות העסק",
+                "example": "The customer support team at an online store started troubleshooting to resolve a user's shipping problem.",
+                "example_hebrew": "צוות תמיכת הלקוחות בחנות מקוונת החל בפתרון בעיות כדי לפתור בעיית משלוח של משתמש."
+            },
+            {
+                "definition": "Adapting to unforeseen challenges and overcoming obstacles",
+                "definition_hebrew": "הסתגלות לאתגרים בלתי צפויים והתגברות על מכשולים",
+                "example": "During the project, we encountered several setbacks. We had to troubleshoot each issue before moving forward.",
+                "example_hebrew": "במהלך הפרויקט נתקלנו בכמה כישלונות. היינו צריכים לפתור כל בעיה לפני שהתקדמנו."
+            }
+        ]
+    }
+]

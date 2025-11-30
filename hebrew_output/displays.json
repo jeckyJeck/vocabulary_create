@@ -1,0 +1,34 @@
+[
+    {
+        "word": "displays",
+        "word_hebrew": "מציג",
+        "main_definition": "To show or exhibit something, often to reveal information or characteristics.",
+        "main_definition_hebrew": "להראות או להציג משהו, לעתים קרובות כדי לחשוף מידע או מאפיינים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To present something visually for others to see, such as an object or artwork.",
+                "definition_hebrew": "להציג משהו חזותי כדי שאחרים יוכלו לראות, כמו אובייקט או יצירת אמנות.",
+                "example": "The museum displayed ancient Greek pottery in its main hall.",
+                "example_hebrew": "המוזיאון הציג כלי חרס יווני עתיק באולם המרכזי שלו."
+            },
+            {
+                "definition": "To exhibit behavior that shows certain emotions or traits.",
+                "definition_hebrew": "להפגין התנהגות שמראה רגשות או תכונות מסוימות.",
+                "example": "When she lost her job, she would often display frustration and sadness.",
+                "example_hebrew": "כשהיא איבדה את עבודתה, היא הייתה מפגינה תסכול ועצב לעתים קרובות."
+            },
+            {
+                "definition": "To showcase something in a public event or exhibition to attract attention or promote it.",
+                "definition_hebrew": "להציג משהו באירוע או תערוכה ציבורית כדי למשוך תשומת לב או לקדם אותו.",
+                "example": "The company will display their latest product at the upcoming trade fair.",
+                "example_hebrew": "החברה תציג את המוצר האחרון שלהם ביריד הסחר הקרוב."
+            },
+            {
+                "definition": "In computing, to present data or results on a screen or interface for users to view and interpret.",
+                "definition_hebrew": "בתחום המחשוב, להציג נתונים או תוצאות על מסך או ממשק כדי שמשתמשים יוכלו לראות ולפרש.",
+                "example": "After running the analysis, the software displays the output graphically.",
+                "example_hebrew": "לאחר הפעלת הניתוח, התוכנה מציגה את הפלט בצורה גרפית."
+            }
+        ]
+    }
+]

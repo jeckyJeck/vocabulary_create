@@ -1,0 +1,46 @@
+[
+    {
+        "word": "gauge",
+        "word_hebrew": "מַד",
+        "main_definition": "To measure or estimate the size, amount, capacity, quality, or extent of something.",
+        "main_definition_hebrew": "למדוד או להעריך את הגודל, הכמות, הקיבולת, האיכות או ההיקף של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To determine the thickness or diameter of an object by using a device called a gauge. For example: 'The mechanic used a micrometer to gauge the width of the machine part.'",
+                "definition_hebrew": "כדי לקבוע את העובי או הקוטר של חפץ באמצעות מכשיר הנקרא מד. לדוגמה: 'המוסכניק השתמש במיקרומטר כדי לאמוד את רוחב חלק המכונה'.",
+                "example": "She gauged the size of her finger with a ruler.",
+                "example_hebrew": "היא מדדה את גודל האצבע שלה בסרגל."
+            },
+            {
+                "definition": "To assess or estimate something subjectively, based on personal judgment. For example: 'He gauges people's reactions to determine their interest in an event.'",
+                "definition_hebrew": "להעריך או להעריך משהו באופן סובייקטיבי, על סמך שיקול דעת אישי. לדוגמה: 'הוא מודד את התגובות של אנשים כדי לקבוע את העניין שלהם באירוע'.",
+                "example": "The manager will gauge the team's morale after a challenging project.",
+                "example_hebrew": "המנהל יאמוד את המורל של הצוות לאחר פרויקט מאתגר."
+            },
+            {
+                "definition": "To ascertain or establish the extent, amount, or degree of something. For example: 'They need to gauge public opinion before launching the new product.'",
+                "definition_hebrew": "לברר או לקבוע את ההיקף, הכמות או הדרגה של משהו. לדוגמה: 'הם צריכים לאמוד את דעת הקהל לפני השקת המוצר החדש'.",
+                "example": "The meteorologist used various tools to gauge the intensity of the incoming storm.",
+                "example_hebrew": "המטאורולוג השתמש בכלים שונים כדי לאמוד את עוצמת הסופה הנכנסת."
+            },
+            {
+                "definition": "To measure pressure, often in terms of water or air flow using a specific instrument. For example: 'She needs to gauge how much water is coming out of the hose.'",
+                "definition_hebrew": "למדידת לחץ, לרוב במונחים של זרימת מים או אוויר באמצעות מכשיר ספציפי. למשל: 'היא צריכה לאמוד כמה מים יוצאים מהצינור'.",
+                "example": "The plumber will gauge the water pressure in the pipes.",
+                "example_hebrew": "האינסטלטור יאמוד את לחץ המים בצנרת."
+            },
+            {
+                "definition": "To judge or evaluate something, often based on one's perception. For example: 'He cannot gauge how well he did until he receives feedback from his colleagues.'",
+                "definition_hebrew": "לשפוט או להעריך משהו, לעתים קרובות על סמך התפיסה של האדם. לדוגמה: 'הוא לא יכול לאמוד כמה טוב הוא הצליח עד שהוא מקבל משוב מעמיתיו'.",
+                "example": "The teacher will gauge her students' understanding of the material.",
+                "example_hebrew": "המורה תאמוד את הבנת תלמידיה את החומר."
+            },
+            {
+                "definition": "To determine or ascertain by examining, observing, or testing. For example: 'She will gauge whether it is safe to proceed with the construction project after assessing the soil quality.'",
+                "definition_hebrew": "לקבוע או לוודא על ידי בדיקה, התבוננות או בדיקה. לדוגמה: 'היא תעריך אם זה בטוח להמשיך בפרויקט הבנייה לאחר הערכת איכות הקרקע'.",
+                "example": "The scientist used various methods to gauge the impact of pollution on marine life.",
+                "example_hebrew": "המדען השתמש בשיטות שונות כדי לאמוד את השפעת הזיהום על החיים הימיים."
+            }
+        ]
+    }
+]

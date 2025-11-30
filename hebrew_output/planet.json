@@ -1,0 +1,28 @@
+[
+    {
+        "word": "planet",
+        "word_hebrew": "כוכב לכת",
+        "main_definition": "A celestial body that revolves around a star, has sufficient mass to assume hydrostatic equilibrium (nearly round shape), but does not produce its own light.",
+        "main_definition_hebrew": "לגוף שמימי שמסתובב סביב כוכב יש מסה מספקת כדי לקבל שיווי משקל הידרוסטטי (צורה כמעט עגולה), אך אינו מייצר אור משלו.",
+        "meanings_and_examples": [
+            {
+                "definition": "In astronomy",
+                "definition_hebrew": "באסטרונומיה",
+                "example": "Mercury is the smallest and innermost planet in our solar system.",
+                "example_hebrew": "מרקורי הוא כוכב הלכת הקטן והפנימי ביותר במערכת השמש שלנו."
+            },
+            {
+                "definition": "As an adjective describing something related to planets or outer space",
+                "definition_hebrew": "כשם תואר המתאר משהו שקשור לכוכבי לכת או לחלל החיצון",
+                "example": "The Planetarium offers a variety of shows about celestial bodies, including stars, moons, and other planets.",
+                "example_hebrew": "הפלנטריום מציע מגוון מופעים על גרמי שמיים, כולל כוכבים, ירחים וכוכבי לכת אחרים."
+            },
+            {
+                "definition": "In the context of metaphorical language referring to a well-organized approach towards achieving goals",
+                "definition_hebrew": "בהקשר של שפה מטפורית המתייחסת לגישה מאורגנת היטב להשגת מטרות",
+                "example": "The company's new business strategy is like having a solid planetary system in place for their operations.",
+                "example_hebrew": "האסטרטגיה העסקית החדשה של החברה היא כמו מערכת פלנטרית מוצקה עבור הפעילות שלה."
+            }
+        ]
+    }
+]

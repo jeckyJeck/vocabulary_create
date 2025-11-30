@@ -1,0 +1,34 @@
+[
+    {
+        "word": "municipal",
+        "word_hebrew": "עִירוֹנִי",
+        "main_definition": "Relating to a municipal corporation or its duties, functions, powers, or administration.",
+        "main_definition_hebrew": "הנוגע לתאגיד עירוני או לחובותיו, לתפקידיו, לסמכויותיו או להנהלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Involving local government and the services it provides to the residents of a city or town",
+                "definition_hebrew": "שיתוף השלטון המקומי והשירותים שהוא מספק לתושבי עיר או עיירה",
+                "example": "The municipality organized a clean-up campaign for the local park.",
+                "example_hebrew": "העירייה ארגנה מבצע ניקיון לפארק המקומי."
+            },
+            {
+                "definition": "Of, relating to, or denoting municipal corporations as legal entities that manage certain areas or functions in a country",
+                "definition_hebrew": "של, הקשורים או מציינים תאגידים עירוניים כישויות משפטיות המנהלות אזורים או תפקידים מסוימים במדינה",
+                "example": "The city council approved the budget for the upcoming fiscal year.",
+                "example_hebrew": "מועצת העיר אישרה את התקציב לשנת הכספים הקרובה."
+            },
+            {
+                "definition": "Pertaining to the duties and responsibilities of local government officials or bodies, such as mayors, councils, or departments",
+                "definition_hebrew": "בקשר לחובות ואחריות של פקידי ממשל מקומיים או גופים, כגון ראשי ערים, מועצות או מחלקות",
+                "example": "Municipal employees work tirelessly to ensure public safety during emergencies.",
+                "example_hebrew": "עובדי העירייה פועלים ללא לאות להבטחת ביטחון הציבור בשעת חירום."
+            },
+            {
+                "definition": "Relating to the taxes levied by municipal governments for financing local services and infrastructure projects",
+                "definition_hebrew": "הנוגע למיסים הנגבים על ידי ממשלות עירוניות למימון שירותים מקומיים ותשתיות",
+                "example": "Property owners pay a significant amount in municipal taxes each year.",
+                "example_hebrew": "בעלי נכסים משלמים מדי שנה סכום משמעותי בארנונה."
+            }
+        ]
+    }
+]

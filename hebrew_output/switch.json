@@ -1,0 +1,40 @@
+[
+    {
+        "word": "switch",
+        "word_hebrew": "החלף",
+        "main_definition": "To change or alter from one option, state, or condition to another.",
+        "main_definition_hebrew": "כדי לשנות או לשנות מאפשרות, מצב או תנאי אחד לאחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To turn on or off a device using a switch mechanism.",
+                "definition_hebrew": "כדי להפעיל או לכבות מכשיר באמצעות מנגנון מתג.",
+                "example": "He flipped the light switch to illuminate the room.",
+                "example_hebrew": "הוא העביר את מתג האור כדי להאיר את החדר."
+            },
+            {
+                "definition": "To change from one activity, subject, or focus to another.",
+                "definition_hebrew": "כדי לעבור מפעילות, נושא או מיקוד אחד לאחר.",
+                "example": "When I'm bored of studying math, I often just switch to reading a book.",
+                "example_hebrew": "כשמשעמם לי ללמוד מתמטיקה, לעתים קרובות אני פשוט עובר לקריאת ספר."
+            },
+            {
+                "definition": "A device that is used to interrupt the flow of electricity in a circuit by opening and closing contacts.",
+                "definition_hebrew": "מכשיר המשמש להפסקת זרימת החשמל במעגל על ידי פתיחה וסגירה של מגעים.",
+                "example": "The main electrical panel in our house has several switches controlling different outlets.",
+                "example_hebrew": "לוח החשמל הראשי בבית שלנו כולל מספר מתגים השולטים בשקעים שונים."
+            },
+            {
+                "definition": "To change one's allegiance or loyalty from one group, organization, or cause to another.",
+                "definition_hebrew": "לשנות את הנאמנות או הנאמנות של האדם מקבוצה, ארגון או מטרה אחת לאחרת.",
+                "example": "After the political scandal, many citizens decided to switch their support from Party A to Party B.",
+                "example_hebrew": "לאחר השערורייה הפוליטית, אזרחים רבים החליטו להעביר את תמיכתם ממפלגה א' למפלגה ב'."
+            },
+            {
+                "definition": "In a conversation or debate, to change the subject or argument suddenly.",
+                "definition_hebrew": "בשיחה או ויכוח, לשנות את הנושא או הטיעון פתאום.",
+                "example": "When I started talking about my vacation plans, he switched the topic to his favorite sports team.",
+                "example_hebrew": "כשהתחלתי לדבר על תוכניות החופשה שלי, הוא החליף את הנושא לקבוצת הספורט האהובה עליו."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "accounts",
+        "word_hebrew": "חשבונות",
+        "main_definition": "Accounts refer to records of financial transactions or the act of explaining an event, situation, or person.",
+        "main_definition_hebrew": "חשבונות מתייחסים לרישומים של עסקאות פיננסיות או פעולה של הסבר אירוע, מצב או אדם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Financial accounts and statements that summarize income, expenses, assets, liabilities, etc.,",
+                "definition_hebrew": "חשבונות פיננסיים ודוחות המסכמים הכנסות, הוצאות, נכסים, התחייבויות וכו',",
+                "example": "John's bank account balance increased by $500 after he received his paycheck.",
+                "example_hebrew": "יתרת חשבון הבנק של ג'ון גדלה ב-500 דולר לאחר שקיבל את תלוש המשכורת שלו."
+            },
+            {
+                "definition": "A narrative or explanation provided to someone about a particular person, event, or situation.",
+                "definition_hebrew": "נרטיב או הסבר שניתן למישהו על אדם, אירוע או מצב מסוים.",
+                "example": "She gave her friend an account of the party last night, describing all the events and people involved.",
+                "example_hebrew": "היא נתנה לחברתה דין וחשבון על המסיבה אמש, ותיארה את כל האירועים והאנשים המעורבים."
+            },
+            {
+                "definition": "The act of keeping track of something over time in terms of numbers, data, or changes.",
+                "definition_hebrew": "הפעולה של מעקב אחר משהו לאורך זמן במונחים של מספרים, נתונים או שינויים.",
+                "example": "He keeps a close account of his monthly expenses to ensure he stays within budget.",
+                "example_hebrew": "הוא מנהל חשבון צמוד של ההוצאות החודשיות שלו כדי להבטיח שהוא יישאר במסגרת התקציב."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "science",
+        "word_hebrew": "מַדָע",
+        "main_definition": "Science is the systematic study of the structure and behavior of the physical and natural world through observation, experimentation, and theoretical explanation.",
+        "main_definition_hebrew": "מדע הוא מחקר שיטתי של המבנה וההתנהגות של העולם הפיזי והטבעי באמצעות תצפית, ניסוי והסבר תיאורטי.",
+        "meanings_and_examples": [
+            {
+                "definition": "A field of study or academic discipline",
+                "definition_hebrew": "תחום לימודים או דיסציפלינה אקדמית",
+                "example": "Physics, Chemistry, Biology are all branches of science.",
+                "example_hebrew": "פיזיקה, כימיה, ביולוגיה הם כולם ענפי מדע."
+            },
+            {
+                "definition": "The pursuit and application of knowledge about the universe through systematic methods",
+                "definition_hebrew": "הרדיפה והיישום של ידע על היקום באמצעות שיטות שיטתיות",
+                "example": "Scientists use observation and experimentation to understand natural phenomena like gravity or evolution.",
+                "example_hebrew": "מדענים משתמשים בתצפית וניסויים כדי להבין תופעות טבע כמו כוח משיכה או אבולוציה."
+            },
+            {
+                "definition": "An organized body of knowledge concerning a subject, especially one acquired by scientific method",
+                "definition_hebrew": "גוף מאורגן של ידע הנוגע לנושא, במיוחד כזה שנרכש בשיטה מדעית",
+                "example": "The science of medicine involves the study of diseases, their causes, prevention, and treatment based on empirical evidence.",
+                "example_hebrew": "מדע הרפואה כולל חקר מחלות, הגורמים להן, מניעה וטיפול בהתבסס על ראיות אמפיריות."
+            },
+            {
+                "definition": "A belief or doctrine that is founded upon factual knowledge",
+                "definition_hebrew": "אמונה או דוקטרינה המושתתת על ידע עובדתי",
+                "example": "Religious faiths often incorporate elements of science to explain natural phenomena within a spiritual framework.",
+                "example_hebrew": "אמונות דתיות משלבות לרוב אלמנטים של מדע כדי להסביר תופעות טבע במסגרת רוחנית."
+            }
+        ]
+    }
+]

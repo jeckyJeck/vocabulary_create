@@ -1,0 +1,34 @@
+[
+    {
+        "word": "mystery",
+        "word_hebrew": "מִסתוֹרִין",
+        "main_definition": "A state of being mysterious or difficult to understand, comprehend, or explain.",
+        "main_definition_hebrew": "מצב של מיסתורי או קשה להבנה, הבנה או הסבר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Something that is not understood and cannot be explained; a puzzle or problem that lacks understanding.",
+                "definition_hebrew": "דבר שאינו מובן ואינו ניתן להסבר; חידה או בעיה חסרת הבנה.",
+                "example": "The disappearance of the treasure map has added to the mystery surrounding the old pirate ship.",
+                "example_hebrew": "היעלמותה של מפת האוצר הוסיפה למסתורין סביב ספינת הפיראטים הישנה."
+            },
+            {
+                "definition": "An event, fact, or situation whose cause is unknown, suspicious, or difficult to understand.",
+                "definition_hebrew": "אירוע, עובדה או מצב שסיבתו אינה ידועה, חשודה או קשה להבנה.",
+                "example": "The sudden power outage in the city remains a mystery that local authorities are trying to solve.",
+                "example_hebrew": "הפסקת החשמל הפתאומית בעיר נותרה בגדר תעלומה שהרשויות המקומיות מנסות לפתור."
+            },
+            {
+                "definition": "A secretive or intriguing event, story, or subject that captures people's curiosity and imagination.",
+                "definition_hebrew": "אירוע, סיפור או נושא סודי או מסקרן שמושכים את הסקרנות והדמיון של אנשים.",
+                "example": "Agatha Christie's novels often revolve around mysteries with unexpected twists and turns.",
+                "example_hebrew": "הרומנים של אגתה כריסטי סובבים לעתים קרובות סביב תעלומות עם פיתולים ותפניות בלתי צפויות."
+            },
+            {
+                "definition": "Something enigmatic, puzzling, or perplexing; a situation that is not immediately clear or obvious.",
+                "definition_hebrew": "משהו אניגמטי, תמוה או מביך; מצב שאינו ברור או ברור מיד.",
+                "example": "The cryptic message left by the spy added to the mystery of his true allegiance.",
+                "example_hebrew": "ההודעה הנסתרת שהשאיר המרגל הוסיפה לתעלומת הנאמנות האמיתית שלו."
+            }
+        ]
+    }
+]

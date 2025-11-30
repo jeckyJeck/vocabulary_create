@@ -1,0 +1,52 @@
+[
+    {
+        "word": "dot",
+        "word_hebrew": "נְקוּדָה",
+        "main_definition": "A small, round mark or spot; also an abbreviation symbol in writing.",
+        "main_definition_hebrew": "סימן או כתם קטן ועגול; גם סמל קיצור בכתב.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing and typography, a graphical representation of the decimal digit ''.",
+                "definition_hebrew": "במחשוב ובטיפוגרפיה, ייצוג גרפי של הספרה העשרונית ''.",
+                "example": "The sentence 'I have 10.5 apples' uses a dot to indicate the decimal point.",
+                "example_hebrew": "המשפט 'יש לי 10.5 תפוחים' משתמש בנקודה כדי לציין את הנקודה העשרונית."
+            },
+            {
+                "definition": "A small round mark used in various contexts for decoration or emphasis.",
+                "definition_hebrew": "סימן עגול קטן המשמש בהקשרים שונים לקישוט או הדגשה.",
+                "example": "She added several dots above each letter of her name as a personalized touch.",
+                "example_hebrew": "היא הוסיפה כמה נקודות מעל כל אות בשמה כמגע אישי."
+            },
+            {
+                "definition": "An abbreviation symbol often used to denote units, such as minutes and hours.",
+                "definition_hebrew": "סמל קיצור המשמש לעתים קרובות לציון יחידות, כגון דקות ושעות.",
+                "example": "The meeting lasted for 2.5 hours, indicated by two dots (hh:mm).",
+                "example_hebrew": "הפגישה נמשכה 2.5 שעות, המצוינות בשתי נקודות (שעות:ממ)."
+            },
+            {
+                "definition": "A small point or speck in a surface or substance.",
+                "definition_hebrew": "נקודה קטנה או כתם במשטח או בחומר.",
+                "example": "There was a dot of red paint on the white wall.",
+                "example_hebrew": "על הקיר הלבן הייתה נקודה של צבע אדום."
+            },
+            {
+                "definition": "An indicator used to mark specific locations, such as in sports like golf.",
+                "definition_hebrew": "מחוון המשמש לסימון מיקומים ספציפיים, כגון בספורט כמו גולף.",
+                "example": "The golfer scored well by hitting the ball into the center dot of the green.",
+                "example_hebrew": "שחקן הגולף קלע היטב על ידי חבטת הכדור לתוך הנקודה המרכזית של הירוק."
+            },
+            {
+                "definition": "In typography, a small dot or character representing an infinitive verb ending with 'to'.",
+                "definition_hebrew": "בטיפוגרפיה, נקודה קטנה או תו המייצגים פועל אינפיניטי המסתיים ב-'to'.",
+                "example": "She added a dot above the letter 'o' in the word 'going', making it look like 'g⃛ing'.",
+                "example_hebrew": "היא הוסיפה נקודה מעל האות 'o' במילה 'הולך', מה שגרם לה להיראות כמו 'ג'ינג'."
+            },
+            {
+                "definition": "A metaphorical reference to something small or insignificant.",
+                "definition_hebrew": "התייחסות מטפורית למשהו קטן או לא משמעותי.",
+                "example": "His contribution was just a dot in the grand scheme of things.",
+                "example_hebrew": "תרומתו הייתה רק נקודה בסדרה הגדולה של הדברים."
+            }
+        ]
+    }
+]

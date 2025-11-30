@@ -1,0 +1,40 @@
+[
+    {
+        "word": "balance",
+        "word_hebrew": "איזון",
+        "main_definition": "Balance refers to the state of equilibrium or stability, where opposing forces are evenly distributed, resulting in a stable condition.",
+        "main_definition_hebrew": "איזון מתייחס למצב של שיווי משקל או יציבות, שבו כוחות מנוגדים מפוזרים באופן שווה, וכתוצאה מכך מצב יציב.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical Balance",
+                "definition_hebrew": "איזון פיזי",
+                "example": "Maintaining physical balance while riding a bicycle requires concentration and skill.",
+                "example_hebrew": "שמירה על איזון פיזי בזמן רכיבה על אופניים דורשת ריכוז ומיומנות."
+            },
+            {
+                "definition": "Financial Balance",
+                "definition_hebrew": "מאזן פיננסי",
+                "example": "Having a good financial balance means that your income is equal to or greater than your expenses, avoiding debt.",
+                "example_hebrew": "מאזן פיננסי טוב אומר שההכנסה שלך שווה או גדולה מההוצאות שלך, תוך הימנעות מחובות."
+            },
+            {
+                "definition": "Work-Life Balance",
+                "definition_hebrew": "איזון בין עבודה לחיים",
+                "example": "Achieving work-life balance involves managing one's professional responsibilities while also devoting time and energy to personal life activities such as family, hobbies, or exercise.",
+                "example_hebrew": "השגת איזון בין עבודה לחיים כרוכה בניהול האחריות המקצועית של האדם תוך הקדשת זמן ואנרגיה לפעילויות חיים אישיות כגון משפחה, תחביבים או פעילות גופנית."
+            },
+            {
+                "definition": "Emotional Balance",
+                "definition_hebrew": "איזון רגשי",
+                "example": "Finding emotional balance means being able to handle different feelings without becoming overwhelmed by them.",
+                "example_hebrew": "מציאת איזון רגשי פירושה יכולת להתמודד עם רגשות שונים מבלי להיות המום מהם."
+            },
+            {
+                "definition": "Chemical Balance",
+                "definition_hebrew": "איזון כימי",
+                "example": "Maintaining chemical balance in the body is crucial for health; it involves keeping pH levels, electrolytes, and other substances within a safe range.",
+                "example_hebrew": "שמירה על איזון כימי בגוף חיונית לבריאות; זה כרוך בשמירה על רמות pH, אלקטרוליטים וחומרים אחרים בטווח בטוח."
+            }
+        ]
+    }
+]

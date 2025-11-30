@@ -1,0 +1,28 @@
+[
+    {
+        "word": "tablets",
+        "word_hebrew": "טבליות",
+        "main_definition": "Tablets can refer to various meanings including medication in the form of solid doses, portable computing devices, or flat-shaped stones used as writing surfaces.",
+        "main_definition_hebrew": "טבליות יכולות להתייחס למשמעויות שונות כולל תרופות בצורה של מנות מוצקות, מכשירי מחשוב ניידים או אבנים בצורת שטוח המשמשות כמשטחי כתיבה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Medicinal tablets",
+                "definition_hebrew": "טבליות מרפא",
+                "example": "She takes two aspirin tablets every day to help with her headache.",
+                "example_hebrew": "היא לוקחת שתי טבליות אספירין כל יום כדי לעזור לה עם כאב הראש."
+            },
+            {
+                "definition": "Portable computing devices",
+                "definition_hebrew": "מכשירי מחשוב ניידים",
+                "example": "He uses a Galaxy Tab for reading eBooks and watching movies on the go.",
+                "example_hebrew": "הוא משתמש ב-Galaxy Tab לקריאת ספרים אלקטרוניים ולצפייה בסרטים תוך כדי תנועה."
+            },
+            {
+                "definition": "Flat stones used as writing surfaces",
+                "definition_hebrew": "אבנים שטוחות המשמשות כמשטחי כתיבה",
+                "example": "In ancient times, tablets were often made of clay or stone to write cuneiform script.",
+                "example_hebrew": "בימי קדם, לוחות היו עשויים לעתים קרובות מחימר או אבן כדי לכתוב כתב יתדות."
+            }
+        ]
+    }
+]

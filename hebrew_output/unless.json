@@ -1,0 +1,28 @@
+[
+    {
+        "word": "unless",
+        "word_hebrew": "אֶלָא אִם",
+        "main_definition": "a word used to indicate that an action will only happen if a certain condition is not met.",
+        "main_definition_hebrew": "מילה המשמשת לציון שפעולה תתרחש רק אם לא מתקיים תנאי מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Used to express the idea of 'except when', introducing a clause indicating something that prevents or rules out what follows.",
+                "definition_hebrew": "משמש כדי להביע את הרעיון של 'למעט מתי', הצגת סעיף המציין משהו שמונע או פוסל את מה שאחריו.",
+                "example": "You can't go swimming unless you take off your wet clothes first.",
+                "example_hebrew": "אתה לא יכול ללכת לשחות אלא אם אתה פושט את הבגדים הרטובים שלך קודם."
+            },
+            {
+                "definition": "Indicating an exception to a general rule or statement; used in the context of 'only if not', highlighting a condition that must be met for something else to happen.",
+                "definition_hebrew": "ציון חריג לכלל כללי או הצהרה; משמש בהקשר של 'רק אם לא', תוך הדגשת תנאי שחייב להתקיים כדי שמשהו אחר יקרה.",
+                "example": "You won't get extra dessert unless you finish your dinner.",
+                "example_hebrew": "לא תקבל קינוח נוסף אלא אם תסיים את ארוחת הערב שלך."
+            },
+            {
+                "definition": "Denoting an exception, often indicating a situation where a particular outcome is expected only in the absence of certain conditions.",
+                "definition_hebrew": "ציון חריג, המצביע לרוב על מצב שבו צפויה תוצאה מסוימת רק בהיעדר תנאים מסוימים.",
+                "example": "The team can proceed with their plan unless there are any major objections raised.",
+                "example_hebrew": "הצוות יכול להמשיך עם התוכנית שלו אלא אם יועלו התנגדויות גדולות כלשהן."
+            }
+        ]
+    }
+]

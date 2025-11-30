@@ -1,0 +1,34 @@
+[
+    {
+        "word": "decimal",
+        "word_hebrew": "נקודה",
+        "main_definition": "A decimal is a number that includes a fractional part expressed as a base 10 unit, where the digits are separated by a point (.) or comma (,).",
+        "main_definition_hebrew": "עשרוני הוא מספר הכולל חלק חלקי המבוטא כיחידת בסיס 10, כאשר הספרות מופרדות בנקודה (.) או בפסיק (,).",
+        "meanings_and_examples": [
+            {
+                "definition": "Base ten numeral system",
+                "definition_hebrew": "מערכת ספרות בסיס עשר",
+                "example": "The number 35 is written in decimal notation as 35.",
+                "example_hebrew": "המספר 35 נכתב בסימון עשרוני כ-35."
+            },
+            {
+                "definition": "Decimal point",
+                "definition_hebrew": "נקודה עשרונית",
+                "example": "In the number 12.34, the decimal point separates whole numbers from fractions.",
+                "example_hebrew": "במספר 12.34, הנקודה העשרונית מפרידה בין מספרים שלמים לשברים."
+            },
+            {
+                "definition": "Unit of measurement in some metric systems",
+                "definition_hebrew": "יחידת מדידה בחלק מהמערכות המטריות",
+                "example": "A length of 50 centimeters is equivalent to half a meter or 0.5 meters.",
+                "example_hebrew": "אורך של 50 סנטימטר שווה ערך לחצי מטר או 0.5 מטר."
+            },
+            {
+                "definition": "Decimal separator used for expressing fractions",
+                "definition_hebrew": "מפריד עשרוני המשמש לביטוי שברים",
+                "example": "1.25 means one and a quarter, where the decimal separator indicates that there are two digits after the whole number part.",
+                "example_hebrew": "1.25 פירושו אחד ורבע, כאשר המפריד העשרוני מציין שיש שתי ספרות אחרי חלק המספר השלם."
+            }
+        ]
+    }
+]

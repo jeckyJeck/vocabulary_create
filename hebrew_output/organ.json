@@ -1,0 +1,34 @@
+[
+    {
+        "word": "organ",
+        "word_hebrew": "אֵיבָר",
+        "main_definition": "An organ is a part of an entity, usually referring to the body in biology or a component within a system such as music, government, or corporate structure.",
+        "main_definition_hebrew": "איבר הוא חלק מישות, בדרך כלל מתייחס לגוף בביולוגיה או לרכיב בתוך מערכת כמו מוזיקה, ממשלה או מבנה תאגידי.",
+        "meanings_and_examples": [
+            {
+                "definition": "A vital part of living things",
+                "definition_hebrew": "חלק חיוני של יצורים חיים",
+                "example": "The heart is one of the major organs responsible for pumping blood throughout the body.",
+                "example_hebrew": "הלב הוא אחד האיברים העיקריים שאחראים על שאיבת הדם בכל הגוף."
+            },
+            {
+                "definition": "An instrumental section in a musical composition or ensemble",
+                "definition_hebrew": "קטע אינסטרומנטלי בהרכב מוזיקלי או אנסמבל",
+                "example": "In an orchestra, strings, woodwinds, brass, and percussion are all separate organ sections that come together to create harmony.",
+                "example_hebrew": "בתזמורת, כלי מיתר, כלי נשיפה, כלי נשיפה וכלי הקשה הם כולם קטעי עוגב נפרדים שמתחברים יחד ליצירת הרמוניה."
+            },
+            {
+                "definition": "A part of the government with specific responsibilities",
+                "definition_hebrew": "חלק מהממשלה עם אחריות ספציפית",
+                "example": "The Department of Health is one of the many organs within a country's government dedicated to public health and safety.",
+                "example_hebrew": "משרד הבריאות הוא אחד מהאיברים הרבים בממשלת המדינה המוקדשים לבריאות הציבור ולבטיחות הציבור."
+            },
+            {
+                "definition": "An important component or element in an organization, system, or structure",
+                "definition_hebrew": "מרכיב או מרכיב חשוב בארגון, מערכת או מבנה",
+                "example": "In a corporate setting, marketing, finance, and human resources can be considered critical organs that contribute to the company's success.",
+                "example_hebrew": "במסגרת ארגונית, שיווק, כספים ומשאבי אנוש יכולים להיחשב לאיברים קריטיים התורמים להצלחת החברה."
+            }
+        ]
+    }
+]

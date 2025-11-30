@@ -1,0 +1,28 @@
+[
+    {
+        "word": "vitamins",
+        "word_hebrew": "ויטמינים",
+        "main_definition": "Vitamins are organic compounds that our bodies need in small quantities to function properly, typically found in foods or supplements.",
+        "main_definition_hebrew": "ויטמינים הם תרכובות אורגניות שהגוף שלנו צריך בכמויות קטנות כדי לתפקד כראוי, נמצאות בדרך כלל במזונות או בתוספי מזון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Nutrients necessary for growth and health maintenance",
+                "definition_hebrew": "חומרים מזינים הדרושים לצמיחה ולתחזוקה בריאותית",
+                "example": "Eating fruits and vegetables is important because they provide us with essential vitamins.",
+                "example_hebrew": "אכילת פירות וירקות חשובה כי הם מספקים לנו ויטמינים חיוניים."
+            },
+            {
+                "definition": "Supplements that can help fill nutritional gaps in a person's diet",
+                "definition_hebrew": "תוספי מזון שיכולים לסייע במילוי פערים תזונתיים בתזונה של האדם",
+                "example": "If someone doesn't get enough sunlight, they might take Vitamin D supplements to make up for it.",
+                "example_hebrew": "אם מישהו לא מקבל מספיק אור שמש, הוא עשוי לקחת תוספי ויטמין D כדי לפצות על כך."
+            },
+            {
+                "definition": "A group of compounds that play critical roles in various biochemical processes in the body",
+                "definition_hebrew": "קבוצת תרכובות הממלאות תפקידים קריטיים בתהליכים ביוכימיים שונים בגוף",
+                "example": "Vitamins like B-complex and C are involved in energy production and immune system function.",
+                "example_hebrew": "ויטמינים כמו B-complex ו-C מעורבים בייצור אנרגיה ותפקוד מערכת החיסון."
+            }
+        ]
+    }
+]

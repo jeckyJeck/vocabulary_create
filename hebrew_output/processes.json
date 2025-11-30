@@ -1,0 +1,34 @@
+[
+    {
+        "word": "processes",
+        "word_hebrew": "תהליכים",
+        "main_definition": "In simple English, 'processes' refers to a series of actions or steps taken in order to achieve a particular end result.",
+        "main_definition_hebrew": "באנגלית פשוטה, 'תהליכים' מתייחס לסדרה של פעולות או צעדים שננקטו על מנת להשיג תוצאה סופית מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Refers to methods used for data handling and manipulation",
+                "definition_hebrew": "מתייחס לשיטות המשמשות לטיפול בנתונים ולמניפולציה",
+                "example": "Database management processes ensure that our customer information is kept secure.",
+                "example_hebrew": "תהליכי ניהול מסדי נתונים מבטיחים שמידע הלקוחות שלנו נשמר מאובטח."
+            },
+            {
+                "definition": "In computing, refers to a sequence of activities performed by a computer program",
+                "definition_hebrew": "במחשוב, מתייחס לרצף של פעילויות המבוצעות על ידי תוכנת מחשב",
+                "example": "The software performs several processes like loading files, processing data and saving results.",
+                "example_hebrew": "התוכנה מבצעת מספר תהליכים כמו טעינת קבצים, עיבוד נתונים ושמירת תוצאות."
+            },
+            {
+                "definition": "In business or manufacturing context, refers to the series of steps taken to transform raw materials into finished products",
+                "definition_hebrew": "בהקשר עסקי או ייצור, מתייחס לסדרת הצעדים שננקטו כדי להפוך חומרי גלם למוצרים מוגמרים",
+                "example": "The company's assembly line is designed to streamline various production processes for efficiency.",
+                "example_hebrew": "פס הייצור של החברה נועד לייעל תהליכי ייצור שונים לצורך יעילות."
+            },
+            {
+                "definition": "Refers to a sequence of actions performed in order to accomplish an objective or reach a particular goal",
+                "definition_hebrew": "הכוונה לרצף של פעולות שבוצעו על מנת להשיג מטרה או להגיע למטרה מסוימת",
+                "example": "Implementing quality control processes helps the company ensure its products meet high standards.",
+                "example_hebrew": "הטמעת תהליכי בקרת איכות מסייעת לחברה להבטיח שמוצריה עומדים בסטנדרטים גבוהים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "controller",
+        "word_hebrew": "בקר",
+        "main_definition": "A person or device that manages, regulates, or operates something, often in a technical context.",
+        "main_definition_hebrew": "אדם או מכשיר שמנהל, מסדיר או מפעיל משהו, לעתים קרובות בהקשר טכני.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing and technology, a controller is a component that governs the operation of other components by sending commands to them. Example: A game console's controller allows users to interact with games through buttons and joysticks.",
+                "definition_hebrew": "בתחום המחשוב והטכנולוגיה, בקר הוא רכיב השולט על פעולתם של רכיבים אחרים על ידי שליחת פקודות אליהם. דוגמה: בקר של קונסולת משחקים מאפשר למשתמשים ליצור אינטראקציה עם משחקים באמצעות לחצנים וג'ויסטיקים.",
+                "example": "John picked up his Xbox controller and started playing a new racing video game.",
+                "example_hebrew": "ג'ון הרים את בקר ה-Xbox שלו והתחיל לשחק משחק וידאו חדש למירוצים."
+            },
+            {
+                "definition": "In business, a controller refers to an individual responsible for overseeing the accounting or financial aspects of an organization. Example: The company's CFO serves as the controller, managing budgets, expenses, and revenues.",
+                "definition_hebrew": "בעסק, בקר מתייחס לאדם האחראי לפיקוח על ההיבטים החשבונאיים או הפיננסיים של ארגון. דוגמה: סמנכ\"ל הכספים של החברה משמש כבקר, מנהל תקציבים, הוצאות והכנסות.",
+                "example": "The chief financial officer (CFO) acted as the controller during the annual budget meeting.",
+                "example_hebrew": "סמנכ\"ל הכספים (CFO) שימש כבקר במהלך ישיבת התקציב השנתית."
+            },
+            {
+                "definition": "In government or legislative contexts, a controller can refer to someone who supervises and manages specific activities. Example: The city's building inspector is responsible for ensuring that construction projects comply with regulations.",
+                "definition_hebrew": "בהקשרים ממשלתיים או חקיקתיים, בקר יכול להתייחס למי שמפקח ומנהל פעילויות ספציפיות. דוגמה: מפקח הבנייה בעיר אחראי לוודא שפרויקטי בנייה עומדים בתקנות.",
+                "example": "The Building Controllers are in charge of making sure all the new constructions meet safety standards.",
+                "example_hebrew": "בקרי הבניין אחראים לוודא שכל המבנים החדשים עומדים בתקני הבטיחות."
+            },
+            {
+                "definition": "In automotive industries, a controller can be part of an electronic system like anti-lock braking systems (ABS) or cruise control. Example: The ABS controller prevents wheel lock during hard braking.",
+                "definition_hebrew": "בתעשיות הרכב, בקר יכול להיות חלק ממערכת אלקטרונית כמו מערכות למניעת נעילה (ABS) או בקרת שיוט. דוגמה: בקר ה-ABS מונע נעילת גלגלים במהלך בלימה קשה.",
+                "example": "The car's ABS controller kicked in when she slammed on the brakes to avoid hitting a deer.",
+                "example_hebrew": "בקר ה-ABS של המכונית נכנס לתוכו כשהיא טרקה על הבלמים כדי להימנע מפגיעה בצבי."
+            },
+            {
+                "definition": "In film and media production, a controller refers to an individual who manages various aspects of the creative process. Example: The studio's director of photography was the controller of visual elements during post-production.",
+                "definition_hebrew": "בהפקת סרטים ומדיה, בקר מתייחס לאדם שמנהל היבטים שונים של תהליך היצירה. דוגמה: מנהל הצילום של הסטודיו היה הבקר של האלמנטים החזותיים במהלך הפוסט-פרודקשן.",
+                "example": "The cinematographer played a crucial role as the controller of lighting and camera angles.",
+                "example_hebrew": "צלם הקולנוע מילא תפקיד מכריע כבקר של זוויות תאורה ומצלמה."
+            }
+        ]
+    }
+]

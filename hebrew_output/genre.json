@@ -1,0 +1,40 @@
+[
+    {
+        "word": "genre",
+        "word_hebrew": "ז'ָאנר",
+        "main_definition": "Genre refers to a category or classification based on specific characteristics, themes, style, or content. In the context of arts, it represents different types of creative works such as literature, music, film, and others.",
+        "main_definition_hebrew": "ז'אנר מתייחס לקטגוריה או סיווג המבוססים על מאפיינים, נושאים, סגנון או תוכן ספציפיים. בהקשר של אמנויות, הוא מייצג סוגים שונים של יצירות יצירתיות כמו ספרות, מוזיקה, קולנוע ואחרות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In literature and performing arts, a genre is a category that indicates a type of work, based on form, style, or content. For example, the mystery genre includes works with detective stories where a crime is committed.",
+                "definition_hebrew": "בספרות ובאמנויות הבמה, ז'אנר הוא קטגוריה המציינת סוג של יצירה, המבוססת על צורה, סגנון או תוכן. למשל, ז'אנר המסתורין כולל יצירות עם סיפורי בלשים שבהם מבוצע פשע.",
+                "example": "The novel 'Gone Girl' by Gillian Flynn belongs to the thriller and psychological fiction genres.",
+                "example_hebrew": "הרומן \"Gone Girl\" מאת ג'יליאן פלין שייך לז'אנר מותחן וסיפורת פסיכולוגית."
+            },
+            {
+                "definition": "In music, a genre denotes a specific style or category of music. For instance, rock music is characterized by its strong beat and use of electric guitars.",
+                "definition_hebrew": "במוזיקה, ז'אנר מציין סגנון או קטגוריה ספציפית של מוזיקה. לדוגמה, מוזיקת רוק מאופיינת בקצב החזק שלה ובשימוש בגיטרות חשמליות.",
+                "example": "The band Queen's album 'A Night at the Opera' represents the progressive rock genre.",
+                "example_hebrew": "אלבומה של להקת קווין 'A Night at the Opera' מייצג את ז'אנר הרוק המתקדם."
+            },
+            {
+                "definition": "In film, genres categorize movies based on their style or content. For example, action films often feature high-energy sequences and heroic characters.",
+                "definition_hebrew": "בקולנוע, ז'אנרים מקטלגים סרטים על סמך הסגנון או התוכן שלהם. לדוגמה, סרטי אקשן מציגים לרוב רצפים עתירי אנרגיה ודמויות הרואיות.",
+                "example": "'The Dark Knight' is an epitome of the superhero/action genre in cinema.",
+                "example_hebrew": "'האביר האפל' הוא התגלמות לז'אנר גיבורי העל/אקשן בקולנוע."
+            },
+            {
+                "definition": "In art, a genre refers to distinct categories that reflect themes, subjects, or styles. For instance, landscape painting depicts natural scenery.",
+                "definition_hebrew": "באמנות, ז'אנר מתייחס לקטגוריות שונות המשקפות נושאים, נושאים או סגנונות. לדוגמה, ציור נוף מתאר נוף טבעי.",
+                "example": "'Starry Night' by Vincent van Gogh is an iconic example of the post-impressionism genre in visual arts.",
+                "example_hebrew": "'לילה כוכבים' מאת וינסנט ואן גוך הוא דוגמה איקונית לז'אנר הפוסט-אימפרסיוניזם באמנות חזותית."
+            },
+            {
+                "definition": "In gaming, a genre represents distinct categories that reflect gameplay mechanics and themes. For instance, first-person shooter (FPS) games primarily focus on gun-based combat.",
+                "definition_hebrew": "במשחקים, ז'אנר מייצג קטגוריות שונות המשקפות מכניקת משחק ונושאים. לדוגמה, משחקי יריות מגוף ראשון (FPS) מתמקדים בעיקר בלחימה מבוססת נשק.",
+                "example": "'Call of Duty: Modern Warfare' is an example of the FPS genre in video gaming.",
+                "example_hebrew": "'Call of Duty: Modern Warfare' הוא דוגמה לז'אנר FPS במשחקי וידאו."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "tested",
+        "word_hebrew": "בָּדוּק",
+        "main_definition": "Examined or subjected to a procedure in order to assess performance, quality, reliability, or suitability.",
+        "main_definition_hebrew": "נבדק או נתון להליך על מנת להעריך ביצועים, איכות, מהימנות או התאמה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Confirmed through experimentation or practical application",
+                "definition_hebrew": "אושר באמצעות ניסוי או יישום מעשי",
+                "example": "The new drug was tested for its effectiveness on patients with the disease.",
+                "example_hebrew": "התרופה החדשה נבדקה ביעילותה על חולים במחלה."
+            },
+            {
+                "definition": "Evaluated to determine the suitability of a person, object, or idea in a given context",
+                "definition_hebrew": "מוערך כדי לקבוע את התאמתו של אדם, חפץ או רעיון בהקשר נתון",
+                "example": "She has been thoroughly tested and is now considered suitable for the position.",
+                "example_hebrew": "היא נבדקה ביסודיות וכעת היא נחשבת מתאימה לתפקיד."
+            },
+            {
+                "definition": "Subjected to a trial to check quality, effectiveness, or endurance",
+                "definition_hebrew": "נתון לניסוי לבדיקת איכות, יעילות או סיבולת",
+                "example": "The car was rigorously tested under various conditions before being released in the market.",
+                "example_hebrew": "המכונית נבחנה בקפדנות בתנאים שונים לפני יציאתה לשוק."
+            },
+            {
+                "definition": "Verified by means of examination or assessment",
+                "definition_hebrew": "מאומת באמצעות בחינה או הערכה",
+                "example": "His skills were tested through a series of practical exercises.",
+                "example_hebrew": "כישוריו נבדקו באמצעות סדרה של תרגילים מעשיים."
+            }
+        ]
+    }
+]

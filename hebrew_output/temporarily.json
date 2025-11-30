@@ -1,0 +1,34 @@
+[
+    {
+        "word": "temporarily",
+        "word_hebrew": "זְמַנִית",
+        "main_definition": "For a limited time or until a certain condition is met.",
+        "main_definition_hebrew": "לזמן מוגבל או עד שיתקיים תנאי מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not permanent, lasting for only a short period of time.",
+                "definition_hebrew": "לא קבוע, נמשך רק פרק זמן קצר.",
+                "example": "I had to take the job temporarily while I looked for something better.",
+                "example_hebrew": "נאלצתי לקחת את התפקיד באופן זמני בזמן שחיפשתי משהו טוב יותר."
+            },
+            {
+                "definition": "For now or until further notice or decision is made.",
+                "definition_hebrew": "לעת עתה או עד לקבלת הודעה או החלטה נוספת.",
+                "example": "The museum will be closed temporarily due to renovations.",
+                "example_hebrew": "המוזיאון ייסגר זמנית עקב שיפוצים."
+            },
+            {
+                "definition": "Until a certain situation changes or resolves itself naturally over time.",
+                "definition_hebrew": "עד שמצב מסוים משתנה או נפתר באופן טבעי לאורך זמן.",
+                "example": "Our plans for the outdoor event were postponed until temporary weather conditions improve.",
+                "example_hebrew": "התוכניות שלנו לאירוע בחוץ נדחו עד לשיפור בתנאי מזג האוויר הזמניים."
+            },
+            {
+                "definition": "For a limited period, subject to change based on circumstances or needs.",
+                "definition_hebrew": "לתקופה מוגבלת, נתון לשינויים בהתאם לנסיבות או צרכים.",
+                "example": "The availability of this product is temporarily limited due to high demand.",
+                "example_hebrew": "הזמינות של מוצר זה מוגבלת זמנית עקב ביקוש גבוה."
+            }
+        ]
+    }
+]

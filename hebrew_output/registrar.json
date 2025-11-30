@@ -1,0 +1,40 @@
+[
+    {
+        "word": "registrar",
+        "word_hebrew": "רַשָׁם",
+        "main_definition": "A registrar is a person or entity responsible for maintaining records, documents, or other official information in an organized manner.",
+        "main_definition_hebrew": "רשם הוא אדם או ישות האחראים על שמירת רישומים, מסמכים או מידע רשמי אחר בצורה מאורגנת.",
+        "meanings_and_examples": [
+            {
+                "definition": "An official record keeper, especially one who manages birth and death certificates",
+                "definition_hebrew": "רישום רשמי, במיוחד כזה שמנהל תעודות לידה ופטירה",
+                "example": "The local registrar is responsible for recording all the births that occur within its jurisdiction.",
+                "example_hebrew": "הרשם המקומי אחראי לרישום כל הלידות המתרחשות בתחום שיפוטו."
+            },
+            {
+                "definition": "A person or organization in charge of organizing and maintaining official records such as academic transcripts, diplomas, and degrees",
+                "definition_hebrew": "אדם או ארגון שאחראים על ארגון ותחזוקת רישומים רשמיים כגון תמלילים אקדמיים, תעודות ותארים",
+                "example": "The university registrar's office handles student enrollments, grades, and degree certificates.",
+                "example_hebrew": "משרד רשם האוניברסיטאות מטפל ברישום סטודנטים, ציונים ותעודות תואר."
+            },
+            {
+                "definition": "A person or entity who manages the registration process for events like weddings, conferences, or exhibitions",
+                "definition_hebrew": "אדם או ישות שמנהלים את תהליך הרישום לאירועים כמו חתונות, כנסים או תערוכות",
+                "example": "The event registrar collected all necessary information from attendees during a large conference.",
+                "example_hebrew": "רשם האירועים אסף את כל המידע הדרוש מהמשתתפים במהלך כנס גדול."
+            },
+            {
+                "definition": "An official responsible for recording and maintaining property ownership records",
+                "definition_hebrew": "פקיד אחראי על רישום ותחזוקת רישומי הבעלות על הנכס",
+                "example": "The land registry office is overseen by a registrar who keeps track of land titles and deeds.",
+                "example_hebrew": "לשכת רישום המקרקעין מפוקחת על ידי רשם העוקב אחר כותרות קרקע ושטרים."
+            },
+            {
+                "definition": "A person or organization that collects and manages voter registration information in an election",
+                "definition_hebrew": "אדם או ארגון שאוסף ומנהל מידע על רישום בוחרים בבחירות",
+                "example": "The electoral registrar ensured all citizens were properly registered to vote before the upcoming elections.",
+                "example_hebrew": "רשם הבחירות דאג שכל האזרחים נרשמו כראוי להצביע לפני הבחירות הקרובות."
+            }
+        ]
+    }
+]

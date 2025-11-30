@@ -1,0 +1,40 @@
+[
+    {
+        "word": "ensures",
+        "word_hebrew": "מבטיחה",
+        "main_definition": "To make certain or guarantee that something will happen, be done correctly, or remain in a particular state.",
+        "main_definition_hebrew": "לוודא או להבטיח שמשהו יקרה, ייעשה בצורה נכונה או יישאר במצב מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Guarantees the completion of an action or task",
+                "definition_hebrew": "מבטיח השלמת פעולה או משימה",
+                "example": "Having someone proofread your work ensures it is free from errors.",
+                "example_hebrew": "מתן הגהה של מישהו על העבודה שלך מבטיח שהיא נקייה משגיאות."
+            },
+            {
+                "definition": "Confirms that a condition will be met or maintained",
+                "definition_hebrew": "מאשר שתנאי יתקיים או יישמר",
+                "example": "The contract ensures regular payments to the supplier every month.",
+                "example_hebrew": "החוזה מבטיח תשלומים קבועים לספק מדי חודש."
+            },
+            {
+                "definition": "Secures certainty in an outcome",
+                "definition_hebrew": "מבטיח ודאות בתוצאה",
+                "example": "Having backup power generators ensures uninterrupted electricity during outages.",
+                "example_hebrew": "שימוש במחוללי חשמל לגיבוי מבטיח חשמל ללא הפרעה במהלך הפסקות."
+            },
+            {
+                "definition": "Ensures adherence to a rule or requirement",
+                "definition_hebrew": "מבטיח הקפדה על כלל או דרישה",
+                "example": "Signing the agreement ensures compliance with environmental regulations.",
+                "example_hebrew": "חתימה על ההסכם מבטיחה עמידה בתקנות איכות הסביבה."
+            },
+            {
+                "definition": "Provides assurance that something is in place for safety or effectiveness",
+                "definition_hebrew": "מספק ביטחון שמשהו קיים לבטיחות או אפקטיביות",
+                "example": "Wearing seat belts ensures passengers' safety while driving.",
+                "example_hebrew": "חגירת חגורות בטיחות מבטיחה את בטיחות הנוסעים בזמן הנהיגה."
+            }
+        ]
+    }
+]

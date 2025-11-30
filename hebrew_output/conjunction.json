@@ -1,0 +1,28 @@
+[
+    {
+        "word": "conjunction",
+        "word_hebrew": "צירוף",
+        "main_definition": "A conjunction is a word used to connect words, phrases, or clauses in English language grammar.",
+        "main_definition_hebrew": "צירוף הוא מילה המשמשת לחיבור מילים, ביטויים או סעיפים בדקדוק בשפה האנגלית.",
+        "meanings_and_examples": [
+            {
+                "definition": "In grammar, it's an element that links together words, phrases, or clauses.",
+                "definition_hebrew": "בדקדוק, זה אלמנט שמקשר בין מילים, ביטויים או סעיפים.",
+                "example": "The conjunction 'and' connects the two ideas: She loves to read and write.",
+                "example_hebrew": "הצירוף 'ו' מחבר בין שני הרעיונות: היא אוהבת לקרוא ולכתוב."
+            },
+            {
+                "definition": "A type of word used in logic, philosophy, linguistics, rhetoric, and grammar.",
+                "definition_hebrew": "סוג של מילה המשמשת בלוגיקה, פילוסופיה, בלשנות, רטוריקה ודקדוק.",
+                "example": "In logic, a conjunction like 'if...then' connects two statements (e.g., If it rains, then I will stay home).",
+                "example_hebrew": "בהיגיון, צירוף כמו 'אם...אז' מחבר בין שתי הצהרות (למשל, אם יורד גשם, אז אני אשאר בבית)."
+            },
+            {
+                "definition": "A word used in literature to combine sentences or ideas for cohesion.",
+                "definition_hebrew": "מילה המשמשת בספרות לשילוב משפטים או רעיונות ללכידות.",
+                "example": "The phrase 'both A and B' uses the conjunction 'and' to combine two elements.",
+                "example_hebrew": "הביטוי 'גם א' וגם ב' משתמש בצירוף 'ו' כדי לשלב שני אלמנטים."
+            }
+        ]
+    }
+]

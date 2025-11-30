@@ -1,0 +1,34 @@
+[
+    {
+        "word": "radius",
+        "word_hebrew": "רַדִיוּס",
+        "main_definition": "The radius of a circle or sphere is the distance from its center to any point on its perimeter.",
+        "main_definition_hebrew": "הרדיוס של מעגל או כדור הוא המרחק ממרכזו לכל נקודה על היקפו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mathematical term referring to the distance from the center of a circle or sphere to its edge",
+                "definition_hebrew": "מונח מתמטי המתייחס למרחק ממרכז מעגל או כדור לקצה שלו",
+                "example": "The radius of this circular track is 50 meters.",
+                "example_hebrew": "הרדיוס של המסלול המעגלי הזה הוא 50 מטר."
+            },
+            {
+                "definition": "In geometry, it also refers to the straight line segment joining two points on a curve (such as a circle).",
+                "definition_hebrew": "בגיאומטריה, זה מתייחס גם לקטע הקו הישר המחבר שתי נקודות על עקומה (כגון עיגול).",
+                "example": "When drawing an arc in a circle, any chord that passes through its center forms the radius of that circle.",
+                "example_hebrew": "כאשר מציירים קשת במעגל, כל אקורד שעובר במרכזו יוצר את הרדיוס של אותו עיגול."
+            },
+            {
+                "definition": "A term used in medical contexts to describe the degree or extent of curvature in certain conditions (like scoliosis), which is not directly related to circles but uses similar terminology.",
+                "definition_hebrew": "מונח המשמש בהקשרים רפואיים לתיאור מידת או מידת העקמומיות במצבים מסוימים (כמו עקמת), שאינו קשור ישירות למעגלים אך משתמש בטרמינולוגיה דומה.",
+                "example": "The doctor assessed her spine's curvature and noted a 25-degree radius indicating mild scoliosis.",
+                "example_hebrew": "הרופא העריך את עקמומיות עמוד השדרה שלה וציין רדיוס של 25 מעלות המעיד על עקמת קלה."
+            },
+            {
+                "definition": "A term used in business or organizational contexts, particularly when discussing the reach or influence of an organization, which metaphorically refers to 'spread' but is not a direct mathematical usage.",
+                "definition_hebrew": "מונח המשמש בהקשרים עסקיים או ארגוניים, במיוחד כאשר דנים בטווח הגעה או בהשפעה של ארגון, המתייחס באופן מטפורי ל\"התפשטות\" אך אינו שימוש מתמטי ישיר.",
+                "example": "The company's market radius has expanded significantly over the past year.",
+                "example_hebrew": "רדיוס השוק של החברה התרחב משמעותית במהלך השנה האחרונה."
+            }
+        ]
+    }
+]

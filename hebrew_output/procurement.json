@@ -1,0 +1,34 @@
+[
+    {
+        "word": "procurement",
+        "word_hebrew": "רֶכֶשׁ",
+        "main_definition": "Procurement is the process of finding, acquiring, and managing goods, services, or information from external sources in an organized and efficient manner.",
+        "main_definition_hebrew": "רכש הוא תהליך של חיפוש, רכישה וניהול של סחורות, שירותים או מידע ממקורות חיצוניים בצורה מאורגנת ויעילה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Obtaining goods for a company",
+                "definition_hebrew": "השגת סחורה עבור חברה",
+                "example": "The procurement department was responsible for obtaining office supplies like paper, pens, and staplers.",
+                "example_hebrew": "מחלקת הרכש הייתה אחראית להשגת ציוד משרדי כמו נייר, עטים ומהדקים."
+            },
+            {
+                "definition": "Acquiring services such as consultancy or IT support",
+                "definition_hebrew": "רכישת שירותים כגון ייעוץ או תמיכת IT",
+                "example": "The government's procurement agency awarded a contract to an external IT firm for providing network security solutions.",
+                "example_hebrew": "סוכנות הרכש הממשלתית העניקה חוזה לחברת IT חיצונית לאספקת פתרונות אבטחת רשת."
+            },
+            {
+                "definition": "Finding and securing information or data from various sources",
+                "definition_hebrew": "איתור ואבטחת מידע או נתונים ממקורות שונים",
+                "example": "A research company engaged in procurement of market data from multiple databases, surveys, and reports.",
+                "example_hebrew": "חברת מחקר העוסקת ברכישת נתוני שוק ממספר מאגרי מידע, סקרים ודוחות."
+            },
+            {
+                "definition": "Managing the process of sourcing and purchasing goods or services",
+                "definition_hebrew": "ניהול תהליך המקור והרכישה של מוצרים או שירותים",
+                "example": "The procurement team used a digital platform to manage vendor selection and purchase orders for office furniture.",
+                "example_hebrew": "צוות הרכש השתמש בפלטפורמה דיגיטלית לניהול בחירת ספקים והזמנות רכש לריהוט משרדי."
+            }
+        ]
+    }
+]

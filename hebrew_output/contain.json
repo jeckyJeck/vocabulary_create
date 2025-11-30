@@ -1,0 +1,40 @@
+[
+    {
+        "word": "contain",
+        "word_hebrew": "לְהַכִיל",
+        "main_definition": "To hold or have something within, to include as part of a whole.",
+        "main_definition_hebrew": "להחזיק או להיות בפנים משהו, לכלול כחלק ממכלול.",
+        "meanings_and_examples": [
+            {
+                "definition": "To hold or keep (something) within a space or limits.",
+                "definition_hebrew": "להחזיק או לשמור (משהו) במרחב או בגבולות.",
+                "example": "This bottle can contain up to 500 milliliters of water.",
+                "example_hebrew": "בקבוק זה יכול להכיל עד 500 מיליליטר מים."
+            },
+            {
+                "definition": "To include as part of something, often with the implication that it is an essential component or feature.",
+                "definition_hebrew": "לכלול כחלק ממשהו, לעתים קרובות עם הכוונה שזהו רכיב או תכונה חיוניים.",
+                "example": "The package contains a variety of snacks and beverages for your convenience.",
+                "example_hebrew": "המארז מכיל מגוון חטיפים ומשקאות לנוחיותכם."
+            },
+            {
+                "definition": "To have within one's power to do or achieve; possess the ability or means to handle something.",
+                "definition_hebrew": "להיות בכוחו של האדם לעשות או להשיג; בעל יכולת או אמצעים להתמודד עם משהו.",
+                "example": "I can contain my anger in difficult situations, but I may need help to cope afterwards.",
+                "example_hebrew": "אני יכול להכיל את הכעס שלי במצבים קשים, אבל אולי אזדקק לעזרה כדי להתמודד לאחר מכן."
+            },
+            {
+                "definition": "To give a measure of the number of items that fit within a space or container.",
+                "definition_hebrew": "לתת מדד למספר הפריטים המתאימים לחלל או מיכל.",
+                "example": "This shoe box contains three pairs of shoes.",
+                "example_hebrew": "קופסת נעליים זו מכילה שלושה זוגות נעליים."
+            },
+            {
+                "definition": "In terms of data, to include (data elements) as part of a larger set.",
+                "definition_hebrew": "מבחינת נתונים, לכלול (רכיבי נתונים) כחלק ממערך גדול יותר.",
+                "example": "The spreadsheet contains information about the sales figures for all products.",
+                "example_hebrew": "הגיליון האלקטרוני מכיל מידע על נתוני המכירות של כל המוצרים."
+            }
+        ]
+    }
+]

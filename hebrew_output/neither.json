@@ -1,0 +1,28 @@
+[
+    {
+        "word": "neither",
+        "word_hebrew": "לא זה ולא זה",
+        "main_definition": "Neither is a word used to express that none of two options or choices are applicable, true, or suitable.",
+        "main_definition_hebrew": "גם לא משתמשים במילה כדי לבטא שאף אחת משתי האפשרויות או האפשרויות לא ישימה, נכונה או מתאימה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Used to negate both options in a pair.",
+                "definition_hebrew": "משמש כדי לשלול את שתי האפשרויות בזוג.",
+                "example": "I didn't like the movie; neither did my friend.",
+                "example_hebrew": "לא אהבתי את הסרט; גם לא חבר שלי."
+            },
+            {
+                "definition": "Refers to not having either of two qualities, characteristics or items.",
+                "definition_hebrew": "הכוונה לכך שאין שתי תכונות, מאפיינים או פריטים.",
+                "example": "The dessert wasn't sweet nor salty. It was just plain.",
+                "example_hebrew": "הקינוח לא היה מתוק ולא מלוח. זה היה פשוט."
+            },
+            {
+                "definition": "Used in a conditional sentence when referring to neither condition is met.",
+                "definition_hebrew": "משמש במשפט מותנה כאשר מתייחסים לאף אחד מהתנאים.",
+                "example": "If you don't study, neither will I pass the exam.",
+                "example_hebrew": "אם לא תלמד, גם אני לא אעבור את הבחינה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "healthcare",
+        "word_hebrew": "בריאות",
+        "main_definition": "Healthcare refers to the organized provision of medical care services to individuals or communities, aimed at promoting, maintaining, or restoring health.",
+        "main_definition_hebrew": "שירותי בריאות מתייחסים לאספקה מאורגנת של שירותי טיפול רפואי ליחידים או לקהילות, שמטרתם לקדם, לשמור או לשחזר בריאות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The industry that provides health-related services and products",
+                "definition_hebrew": "התעשייה המספקת שירותים ומוצרים הקשורים לבריאות",
+                "example": "As an entrepreneur in the healthcare industry, John focused on developing innovative medical devices.",
+                "example_hebrew": "כיזם בתעשיית הבריאות, ג'ון התמקד בפיתוח מכשור רפואי חדשני."
+            },
+            {
+                "definition": "A system or network for delivering care to individuals who need it",
+                "definition_hebrew": "מערכת או רשת למתן טיפול לאנשים הזקוקים לכך",
+                "example": "The country's robust public healthcare system ensures that even rural residents have access to quality medical services.",
+                "example_hebrew": "מערכת הבריאות הציבורית החזקה של המדינה מבטיחה שאפילו לתושבים כפריים תהיה גישה לשירותים רפואיים איכותיים."
+            },
+            {
+                "definition": "Services and facilities provided by hospitals, clinics, pharmacies, and other healthcare establishments",
+                "definition_hebrew": "שירותים ומתקנים הניתנים על ידי בתי חולים, מרפאות, בתי מרקחת ומוסדות בריאות אחרים",
+                "example": "After her surgery, Maria spent a few days in the hospital where she received follow-up care from nurses and doctors.",
+                "example_hebrew": "לאחר הניתוח שלה, בילתה מריה כמה ימים בבית החולים שם קיבלה טיפול מעקב מאחיות ורופאים."
+            },
+            {
+                "definition": "The practice of maintaining or improving an individual's health through organized efforts and services",
+                "definition_hebrew": "התרגול של שמירה או שיפור בריאותו של אדם באמצעות מאמצים ושירותים מאורגנים",
+                "example": "Regular exercise and balanced nutrition are integral to preventive healthcare, helping individuals avoid chronic diseases.",
+                "example_hebrew": "פעילות גופנית סדירה ותזונה מאוזנת הינם חלק בלתי נפרד מטיפול רפואי מונע, ומסייעים לאנשים להימנע ממחלות כרוניות."
+            },
+            {
+                "definition": "Government policies aimed at regulating and improving the quality of health services provided",
+                "definition_hebrew": "מדיניות ממשלתית שמטרתה להסדיר ולשפר את איכות שירותי הבריאות הניתנים",
+                "example": "The new healthcare policy introduced measures to ensure more affordable access to medications for all citizens.",
+                "example_hebrew": "מדיניות הבריאות החדשה הציגה אמצעים כדי להבטיח גישה נוחה יותר לתרופות לכל האזרחים."
+            }
+        ]
+    }
+]

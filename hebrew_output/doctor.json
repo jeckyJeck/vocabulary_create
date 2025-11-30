@@ -1,0 +1,46 @@
+[
+    {
+        "word": "doctor",
+        "word_hebrew": "דוֹקטוֹר",
+        "main_definition": "A doctor is a qualified medical professional who diagnoses, treats, and advises patients about their health.",
+        "main_definition_hebrew": "רופא הוא איש מקצוע רפואי מוסמך המאבחן, מטפל ומייעץ למטופלים לגבי בריאותם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Medical practitioner with expertise in diagnosing illnesses",
+                "definition_hebrew": "רופא מומחה באבחון מחלות",
+                "example": "The cardiologist prescribed medication to manage her heart condition.",
+                "example_hebrew": "הקרדיולוג רשם לה תרופות לטיפול במצב הלב שלה."
+            },
+            {
+                "definition": "Professional who treats patients and provides medical care",
+                "definition_hebrew": "איש מקצוע המטפל בחולים ומעניק טיפול רפואי",
+                "example": "The nurse practitioner assisted the doctor during surgery.",
+                "example_hebrew": "האחות סייעה לרופא במהלך הניתוח."
+            },
+            {
+                "definition": "A person with a medical degree, authorized to practice medicine legally",
+                "definition_hebrew": "בעל תואר רפואי, המורשה לעסוק ברפואה כחוק",
+                "example": "After completing his residency, he received his medical license and became a licensed physician.",
+                "example_hebrew": "לאחר שסיים את התמחותו, קיבל את רישיון הרפואה שלו והפך לרופא מורשה."
+            },
+            {
+                "definition": "An individual who has undergone extensive training in healthcare and cares for patients' well-being",
+                "definition_hebrew": "אדם שעבר הכשרה מקיפה בתחום הבריאות ודואג לרווחת המטופלים",
+                "example": "The pediatrician examined the child's symptoms and recommended appropriate treatment.",
+                "example_hebrew": "רופא הילדים בדק את תסמיני הילד והמליץ על טיפול מתאים."
+            },
+            {
+                "definition": "A person who studies medicine at a university or medical school",
+                "definition_hebrew": "אדם שלומד רפואה באוניברסיטה או בית ספר לרפואה",
+                "example": "She is currently pursuing her doctorate degree in pharmacology.",
+                "example_hebrew": "כעת היא ממשיכה לתואר דוקטור בפרמקולוגיה."
+            },
+            {
+                "definition": "In British slang, a doctor may refer to someone experienced and knowledgeable in their field, not necessarily limited to healthcare",
+                "definition_hebrew": "בסלנג בריטי, רופא עשוי להתייחס למישהו מנוסה ובעל ידע בתחומו, לא בהכרח מוגבל לשירותי בריאות",
+                "example": "As the senior engineer on the project, he became known as 'the doctor' for his expertise.",
+                "example_hebrew": "כמהנדס הבכיר בפרויקט, הוא נודע בתור 'הרופא' בשל מומחיותו."
+            }
+        ]
+    }
+]

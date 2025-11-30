@@ -1,0 +1,34 @@
+[
+    {
+        "word": "reader",
+        "word_hebrew": "קוֹרֵא",
+        "main_definition": "A reader is a person who reads books, articles, or other written materials as part of their leisure activity or to gain knowledge.",
+        "main_definition_hebrew": "קורא הוא אדם הקורא ספרים, מאמרים או חומרים כתובים אחרים כחלק מפעילות הפנאי שלו או כדי להשיג ידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual who regularly engages in reading for pleasure",
+                "definition_hebrew": "אדם העוסק בקריאה בקביעות להנאתו",
+                "example": "Emily is an avid reader; she spends her evenings curled up with a mystery novel.",
+                "example_hebrew": "אמילי היא קוראת נלהבת; היא מבלה את הערבים שלה מכורבלים עם רומן מסתורין."
+            },
+            {
+                "definition": "A person attending a literary event or book discussion",
+                "definition_hebrew": "אדם שמשתתף באירוע ספרותי או דיון בספר",
+                "example": "The local library hosted a meeting of readers to discuss the latest bestsellers.",
+                "example_hebrew": "הספרייה המקומית אירחה מפגש קוראים כדי לדון ברב המכר האחרונים."
+            },
+            {
+                "definition": "One who reads printed materials, such as newspapers and magazines",
+                "definition_hebrew": "כזה שקורא חומרים מודפסים, כמו עיתונים ומגזינים",
+                "example": "As a dedicated reader, John subscribes to various news outlets for daily updates.",
+                "example_hebrew": "כקורא מסור, ג'ון נרשם לרשתות חדשות שונות לקבלת עדכונים יומיים."
+            },
+            {
+                "definition": "A person who engages with written content in educational or professional settings",
+                "definition_hebrew": "אדם העוסק בתוכן כתוב במסגרות חינוכיות או מקצועיות",
+                "example": "The students are required to be readers; they must complete the assigned textbooks and articles before each class.",
+                "example_hebrew": "התלמידים נדרשים להיות קוראים; עליהם להשלים את ספרי הלימוד והמאמרים שהוקצו לפני כל שיעור."
+            }
+        ]
+    }
+]

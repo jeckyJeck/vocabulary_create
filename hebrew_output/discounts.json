@@ -1,0 +1,34 @@
+[
+    {
+        "word": "discounts",
+        "word_hebrew": "הנחות",
+        "main_definition": "Discounts refer to a reduction in the original price of an item or service, often given as an incentive or reward.",
+        "main_definition_hebrew": "הנחות מתייחסות להפחתה במחיר המקורי של פריט או שירות, ניתנת לרוב כתמריץ או פרס.",
+        "meanings_and_examples": [
+            {
+                "definition": "A financial benefit offered by sellers to increase sales",
+                "definition_hebrew": "הטבה כספית שמציעים המוכרים להגדלת המכירות",
+                "example": "The store offers a 20% discount on all items during the holiday season.",
+                "example_hebrew": "החנות מציעה 20% הנחה על כל הפריטים בתקופת החגים."
+            },
+            {
+                "definition": "Reduction in price applied due to various reasons such as overstocked items, clearance, or special occasions",
+                "definition_hebrew": "הוזלה במחיר חלה מסיבות שונות כגון מלאי יתר של פריטים, חיסול או אירועים מיוחדים",
+                "example": "During Black Friday, many retailers offer significant discounts on electronics and clothing.",
+                "example_hebrew": "במהלך הבלאק פריידי, קמעונאים רבים מציעים הנחות משמעותיות על מוצרי אלקטרוניקה וביגוד."
+            },
+            {
+                "definition": "A method used by businesses to attract customers by lowering prices temporarily",
+                "definition_hebrew": "שיטה בה משתמשים עסקים למשיכת לקוחות על ידי הורדת מחירים זמנית",
+                "example": "The online store provides a 10% discount code for first-time buyers.",
+                "example_hebrew": "החנות המקוונת מספקת קוד הנחה של 10% לקונים בפעם הראשונה."
+            },
+            {
+                "definition": "Savings obtained by paying the full amount upfront instead of using credit cards or installment plans",
+                "definition_hebrew": "חיסכון שהושג על ידי תשלום מלוא הסכום מראש במקום שימוש בכרטיסי אשראי או תוכניות תשלומים",
+                "example": "Paying cash can often result in substantial savings, as stores sometimes offer discounts for immediate payment.",
+                "example_hebrew": "תשלום במזומן יכול לעתים קרובות להביא לחיסכון משמעותי, מכיוון שלעתים חנויות מציעות הנחות לתשלום מיידי."
+            }
+        ]
+    }
+]

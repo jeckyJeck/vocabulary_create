@@ -1,0 +1,34 @@
+[
+    {
+        "word": "presents",
+        "word_hebrew": "מתנות",
+        "main_definition": "The act of giving something, or the thing given as a gift.",
+        "main_definition_hebrew": "מעשה הענקת משהו, או הדבר שניתן במתנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To give to someone formally, usually on special occasions such as birthdays or holidays.",
+                "definition_hebrew": "לתת למישהו באופן רשמי, בדרך כלל באירועים מיוחדים כמו ימי הולדת או חגים.",
+                "example": "For her birthday, I will present her with a beautiful bouquet of flowers.",
+                "example_hebrew": "ליום הולדתה אגיש לה זר פרחים יפהפה."
+            },
+            {
+                "definition": "A gift or something given voluntarily without expecting anything in return.",
+                "definition_hebrew": "מתנה או משהו שניתן מרצון מבלי לצפות לתמורה.",
+                "example": "I received several presents from my friends and family during Christmas time.",
+                "example_hebrew": "קיבלתי מספר מתנות מחברי ובני משפחתי במהלך חג המולד."
+            },
+            {
+                "definition": "To bring forward evidence, especially when it is considered to be incriminating against someone.",
+                "definition_hebrew": "להביא ראיות, במיוחד כאשר הן נחשבות כמפלילות כלפי מישהו.",
+                "example": "The prosecutor will present the witness with a series of documents as proof of guilt.",
+                "example_hebrew": "התובע יציג בפני העד שורה של מסמכים כהוכחה לאשמה."
+            },
+            {
+                "definition": "In mathematics and statistics, presents can refer to a set or sequence of data points displayed in a graphical format for better understanding.",
+                "definition_hebrew": "במתמטיקה ובסטטיסטיקה, מתנות יכולות להתייחס לקבוצה או רצף של נקודות נתונים המוצגות בפורמט גרפי להבנה טובה יותר.",
+                "example": "I plotted the sales figures over the past year on a line chart to present them visually.",
+                "example_hebrew": "שרטטתי את נתוני המכירות בשנה האחרונה על תרשים קווים כדי להציג אותם בצורה ויזואלית."
+            }
+        ]
+    }
+]

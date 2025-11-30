@@ -1,0 +1,34 @@
+[
+    {
+        "word": "once",
+        "word_hebrew": "פַּעַם",
+        "main_definition": "a past or former time, often used to indicate a single occurrence of an event or situation.",
+        "main_definition_hebrew": "זמן עבר או פעם, המשמש לעתים קרובות לציון התרחשות בודדת של אירוע או מצב.",
+        "meanings_and_examples": [
+            {
+                "definition": "referring to a specific point in the past; previously.",
+                "definition_hebrew": "הכוונה לנקודה מסוימת בעבר; קוֹדֶם.",
+                "example": "Once upon a time, there was a kingdom.",
+                "example_hebrew": "פעם הייתה ממלכה."
+            },
+            {
+                "definition": "used to indicate that something happened one single time or on one occasion.",
+                "definition_hebrew": "משמש כדי לציין שמשהו קרה פעם אחת או בהזדמנות אחת.",
+                "example": "I visited Paris once when I was younger.",
+                "example_hebrew": "ביקרתי בפריז פעם כשהייתי צעיר יותר."
+            },
+            {
+                "definition": "happening only once in a while; occasionally.",
+                "definition_hebrew": "קורה רק פעם בכמה זמן; לִפְעָמִים.",
+                "example": "It's nice to go out for dinner once in a while.",
+                "example_hebrew": "זה נחמד לצאת לארוחת ערב מדי פעם."
+            },
+            {
+                "definition": "used to express the idea that something will happen at some point in time, usually the near future.",
+                "definition_hebrew": "משמש כדי לבטא את הרעיון שמשהו יקרה בנקודת זמן מסוימת, בדרך כלל בעתיד הקרוב.",
+                "example": "I hope I see you again soon. Let's meet up once we get back from our trip.",
+                "example_hebrew": "אני מקווה שאראה אותך שוב בקרוב. בוא ניפגש ברגע שנחזור מהטיול שלנו."
+            }
+        ]
+    }
+]

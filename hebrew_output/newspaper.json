@@ -1,0 +1,34 @@
+[
+    {
+        "word": "newspaper",
+        "word_hebrew": "עיתון",
+        "main_definition": "A printed publication containing news, information, and advertising, usually issued daily or weekly.",
+        "main_definition_hebrew": "פרסום מודפס המכיל חדשות, מידע ופרסומות, המונפק בדרך כלל מדי יום או שבועי.",
+        "meanings_and_examples": [
+            {
+                "definition": "A source of current local, national, and international news and events.",
+                "definition_hebrew": "מקור לחדשות ואירועים מקומיים, לאומיים ובינלאומיים עדכניים.",
+                "example": "I read the newspaper to stay updated on the latest happenings in my city.",
+                "example_hebrew": "קראתי את העיתון כדי להתעדכן בהתרחשויות האחרונות בעיר שלי."
+            },
+            {
+                "definition": "The act of purchasing or obtaining a physical copy of printed news.",
+                "definition_hebrew": "הפעולה של רכישה או השגת עותק פיזי של חדשות מודפסות.",
+                "example": "Every morning, she buys a newspaper from her local vendor to read over breakfast.",
+                "example_hebrew": "בכל בוקר, היא קונה עיתון מהמוכר המקומי שלה כדי לקרוא בארוחת הבוקר."
+            },
+            {
+                "definition": "A medium for advertising products and services. Advertisements are often included in newspapers along with the news articles.",
+                "definition_hebrew": "מדיום לפרסום מוצרים ושירותים. פרסומות נכללות לעתים קרובות בעיתונים יחד עם הכתבות החדשותיות.",
+                "example": "The car dealership placed an ad in the Sunday edition of the newspaper, hoping to attract customers on their weekend.",
+                "example_hebrew": "סוכנות הרכב פרסמה מודעה במהדורת יום ראשון של העיתון, בתקווה למשוך לקוחות בסוף השבוע שלהם."
+            },
+            {
+                "definition": "A printed sheet containing a variety of written content, including editorials, comics, and puzzles.",
+                "definition_hebrew": "גיליון מודפס המכיל מגוון תכנים כתובים, לרבות מאמרי מערכת, קומיקס וחידות.",
+                "example": "Aside from news articles, newspapers often feature crossword puzzles or horoscopes for entertainment.",
+                "example_hebrew": "מלבד כתבות חדשותיות, עיתונים מציגים לעתים קרובות תשבצים או הורוסקופים לבידור."
+            }
+        ]
+    }
+]

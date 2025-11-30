@@ -1,0 +1,34 @@
+[
+    {
+        "word": "invoice",
+        "word_hebrew": "חשבונית",
+        "main_definition": "An invoice is a document used to request payment, detailing the products or services provided by one party to another.",
+        "main_definition_hebrew": "חשבונית היא מסמך המשמש לבקשת תשלום, המפרט את המוצרים או השירותים המסופקים על ידי צד אחד לאחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "A financial demand for goods delivered and service performed.",
+                "definition_hebrew": "דרישה כספית לסחורה שנמסרה ולשירות שבוצע.",
+                "example": "The vendor sent an invoice for the electronics purchased from them.",
+                "example_hebrew": "הספק שלח חשבונית עבור מוצרי האלקטרוניקה שנרכשו מהם."
+            },
+            {
+                "definition": "An itemized list of charges on a bill.",
+                "definition_hebrew": "רשימה מפורטת של חיובים בשטר.",
+                "example": "I received my monthly utility bill, which included various line items that made up my total charge.",
+                "example_hebrew": "קיבלתי את חשבון החשמל החודשי שלי, שכלל פריטי שורה שונים שהרכיבו את החיוב הכולל שלי."
+            },
+            {
+                "definition": "A written record or proof of transactions between two parties.",
+                "definition_hebrew": "רישום כתוב או הוכחה של עסקאות בין שני צדדים.",
+                "example": "The contractor provided an invoice to the client as evidence of work done and payment due.",
+                "example_hebrew": "הקבלן מסר ללקוח חשבונית כראיה לעבודה שנעשתה ולתשלום."
+            },
+            {
+                "definition": "An internal document used by a company for tracking sales, expenses, and revenue.",
+                "definition_hebrew": "מסמך פנימי המשמש את החברה למעקב אחר מכירות, הוצאות והכנסות.",
+                "example": "When preparing financial reports, the business analyst referred to the internal invoices issued during the quarter.",
+                "example_hebrew": "בעת הכנת הדוחות הכספיים התייחס האנליסט העסקי לחשבוניות הפנימיות שהוצאו במהלך הרבעון."
+            }
+        ]
+    }
+]

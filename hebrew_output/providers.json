@@ -1,0 +1,40 @@
+[
+    {
+        "word": "providers",
+        "word_hebrew": "ספקים",
+        "main_definition": "Individuals or organizations that offer goods, services, information, or resources to others.",
+        "main_definition_hebrew": "אנשים או ארגונים המציעים סחורות, שירותים, מידע או משאבים לאחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Companies that supply electricity",
+                "definition_hebrew": "חברות המספקות חשמל",
+                "example": "The power providers in our city include XYZ Energy and ABC Power.",
+                "example_hebrew": "ספקי החשמל בעיר שלנו כוללים את XYZ Energy ו-ABC Power."
+            },
+            {
+                "definition": "Organizations offering educational services",
+                "definition_hebrew": "ארגונים המציעים שירותי חינוך",
+                "example": "Many children receive their education from various schools and tutoring providers like ABC Learning Center or DEF Academy.",
+                "example_hebrew": "ילדים רבים מקבלים את החינוך שלהם מבתי ספר שונים ומספקי שיעורים כמו ABC Learning Center או DEF Academy."
+            },
+            {
+                "definition": "Entities providing internet connectivity",
+                "definition_hebrew": "ישויות המספקות קישוריות לאינטרנט",
+                "example": "My Wi-Fi provider is GHI Internet Service, which supplies high-speed internet access to my home.",
+                "example_hebrew": "ספק ה-Wi-Fi שלי הוא GHI Internet Service, המספק גישה לאינטרנט מהיר לביתי."
+            },
+            {
+                "definition": "Individuals or groups offering financial assistance",
+                "definition_hebrew": "יחידים או קבוצות המציעים סיוע כספי",
+                "example": "The providers of the scholarship were able to offer $5000 each to five outstanding students in our school.",
+                "example_hebrew": "ספקי המלגה יכלו להציע $5000 כל אחד לחמישה תלמידים מצטיינים בבית הספר שלנו."
+            },
+            {
+                "definition": "Entities providing healthcare services",
+                "definition_hebrew": "גופים המספקים שירותי בריאות",
+                "example": "Our local hospital is a major provider of medical care, including emergency services and specialized treatments.",
+                "example_hebrew": "בית החולים המקומי שלנו הוא ספק מרכזי של טיפול רפואי, כולל שירותי חירום וטיפולים מיוחדים."
+            }
+        ]
+    }
+]

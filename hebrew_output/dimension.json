@@ -1,0 +1,34 @@
+[
+    {
+        "word": "dimension",
+        "word_hebrew": "מֵמַד",
+        "main_definition": "A measure of the size or extent of an object, space, or concept along a particular direction.",
+        "main_definition_hebrew": "מדד לגודל או היקף של אובייקט, חלל או מושג לאורך כיוון מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical measurement of length, width, and height",
+                "definition_hebrew": "מדידה פיזית של אורך, רוחב וגובה",
+                "example": "When measuring a room, we consider its dimensions in terms of footage (length x width).",
+                "example_hebrew": "כאשר מודדים חדר, אנו מתייחסים למידותיו במונחים של מדה (אורך x רוחב)."
+            },
+            {
+                "definition": "A particular aspect or feature that defines something",
+                "definition_hebrew": "היבט או תכונה מסוימת המגדירים משהו",
+                "example": "In mathematics, the dimension refers to the number of coordinates needed to describe an object.",
+                "example_hebrew": "במתמטיקה, המימד מתייחס למספר הקואורדינטות הדרושות לתיאור עצם."
+            },
+            {
+                "definition": "The nature and scope of a conceptual idea",
+                "definition_hebrew": "טבעו והיקפו של רעיון רעיוני",
+                "example": "When discussing the dimensions of poverty, we consider factors like income, education, and healthcare access.",
+                "example_hebrew": "כאשר דנים בממדי העוני, אנו מתייחסים לגורמים כמו הכנסה, השכלה וגישה לשירותי בריאות."
+            },
+            {
+                "definition": "A direction in which an object can be extended or moved",
+                "definition_hebrew": "כיוון שאליו ניתן להרחיב או להזיז אובייקט",
+                "example": "The three spatial dimensions are length, width, and height.",
+                "example_hebrew": "שלושת הממדים המרחביים הם אורך, רוחב וגובה."
+            }
+        ]
+    }
+]

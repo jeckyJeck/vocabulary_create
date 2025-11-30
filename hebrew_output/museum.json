@@ -1,0 +1,34 @@
+[
+    {
+        "word": "museum",
+        "word_hebrew": "מוּזֵיאוֹן",
+        "main_definition": "A museum is a public institution dedicated to the acquisition, preservation, study, and exhibition of artifacts and specimens of artistic, cultural, or scientific importance.",
+        "main_definition_hebrew": "מוזיאון הוא מוסד ציבורי המוקדש לרכישה, שימור, מחקר ותצוגה של חפצים ודגימות בעלי חשיבות אמנותית, תרבותית או מדעית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A place where objects of historical, cultural, or artistic significance are displayed for public viewing",
+                "definition_hebrew": "מקום בו מוצגים חפצים בעלי משמעות היסטורית, תרבותית או אמנותית לצפייה ציבורית",
+                "example": "The Louvre in Paris is a world-renowned museum housing millions of works of art.",
+                "example_hebrew": "הלובר בפריז הוא מוזיאון בעל שם עולמי המאכלס מיליוני יצירות אמנות."
+            },
+            {
+                "definition": "An institution that collects and exhibits artifacts to educate the public about history, culture, or science",
+                "definition_hebrew": "מוסד שאוסף ומציג חפצים כדי לחנך את הציבור על היסטוריה, תרבות או מדע",
+                "example": "Visitors can learn about ancient Egypt at The British Museum in London.",
+                "example_hebrew": "המבקרים יכולים ללמוד על מצרים העתיקה במוזיאון הבריטי בלונדון."
+            },
+            {
+                "definition": "A facility where scientific specimens are displayed for educational purposes",
+                "definition_hebrew": "מתקן בו מוצגות דגימות מדעיות למטרות חינוכיות",
+                "example": "The Natural History Museum in New York showcases an extensive collection of fossils and natural history exhibits.",
+                "example_hebrew": "מוזיאון הטבע בניו יורק מציג אוסף נרחב של מאובנים ותערוכות תולדות הטבע."
+            },
+            {
+                "definition": "An establishment that preserves, restores, and conserves historical artifacts or artworks",
+                "definition_hebrew": "מוסד המשמר, משחזר ומשמר חפצים או יצירות אמנות היסטוריות",
+                "example": "The Smithsonian Institution's museum conservation department works to preserve millions of items in its collection.",
+                "example_hebrew": "מחלקת שימור המוזיאונים של מכון סמיתסוניאן פועלת לשימור מיליוני פריטים באוסף שלו."
+            }
+        ]
+    }
+]

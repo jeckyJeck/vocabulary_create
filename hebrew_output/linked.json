@@ -1,0 +1,34 @@
+[
+    {
+        "word": "linked",
+        "word_hebrew": "צָמוּד",
+        "main_definition": "When something is connected or associated with other things.",
+        "main_definition_hebrew": "כשמשהו קשור או קשור לדברים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To connect two things together physically or electronically.",
+                "definition_hebrew": "לחבר שני דברים ביחד פיזית או אלקטרונית.",
+                "example": "She linked the two computers using an Ethernet cable.",
+                "example_hebrew": "היא קישרה את שני המחשבים באמצעות כבל Ethernet."
+            },
+            {
+                "definition": "When events or phenomena are related to each other, often because they have a common cause or origin.",
+                "definition_hebrew": "כאשר אירועים או תופעות קשורים זה לזה, לרוב בגלל שיש להם סיבה או מקור משותף.",
+                "example": "The rise in crime was linked to economic downturns in the area.",
+                "example_hebrew": "העלייה בפשיעה הייתה קשורה לירידה כלכלית באזור."
+            },
+            {
+                "definition": "To refer someone to another person or source for more information or assistance.",
+                "definition_hebrew": "להפנות מישהו לאדם אחר או למקור אחר לקבלת מידע נוסף או סיוע.",
+                "example": "She was asked to link you with a specialist who can help solve this issue.",
+                "example_hebrew": "היא התבקשה לקשר אותך למומחה שיוכל לעזור בפתרון בעיה זו."
+            },
+            {
+                "definition": "Having something in common, such as interests, beliefs, or relationships.",
+                "definition_hebrew": "יש משהו משותף, כגון תחומי עניין, אמונות או מערכות יחסים.",
+                "example": "They are linked by their shared passion for environmental conservation.",
+                "example_hebrew": "הם מקושרים על ידי התשוקה המשותפת שלהם לשימור הסביבה."
+            }
+        ]
+    }
+]

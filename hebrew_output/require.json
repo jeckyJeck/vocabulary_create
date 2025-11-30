@@ -1,0 +1,40 @@
+[
+    {
+        "word": "require",
+        "word_hebrew": "לִדרוֹשׁ",
+        "main_definition": "To demand or need something as necessary, essential, or indispensable.",
+        "main_definition_hebrew": "לדרוש או להזדקק למשהו כנדרש, חיוני או הכרחי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Necessary for completion or functioning.",
+                "definition_hebrew": "הכרחי להשלמה או לתפקוד.",
+                "example": "This software requires a password to access.",
+                "example_hebrew": "תוכנה זו דורשת סיסמה כדי לגשת."
+            },
+            {
+                "definition": "Mandatory by rules, regulations, or standards.",
+                "definition_hebrew": "חובה על פי כללים, תקנות או תקנים.",
+                "example": "Employees are required to wear ID badges at all times in the office.",
+                "example_hebrew": "העובדים נדרשים לענוד תגי זהות בכל עת במשרד."
+            },
+            {
+                "definition": "Needed for achieving a goal or desired outcome.",
+                "definition_hebrew": "נחוץ להשגת מטרה או תוצאה רצויה.",
+                "example": "To achieve good grades, one must require consistent study habits.",
+                "example_hebrew": "כדי להשיג ציונים טובים, יש לדרוש הרגלי לימוד עקביים."
+            },
+            {
+                "definition": "Requires as a prerequisite; mandatory to be met before proceeding.",
+                "definition_hebrew": "דורש כתנאי מוקדם; חובה לעמוד לפני שתמשיך.",
+                "example": "A driver's license is required to rent a car legally.",
+                "example_hebrew": "רישיון נהיגה נדרש להשכרת רכב כחוק."
+            },
+            {
+                "definition": "Demand something explicitly or insistently.",
+                "definition_hebrew": "דרשו משהו במפורש או בעקשנות.",
+                "example": "The teacher requires silence in the classroom during instruction time.",
+                "example_hebrew": "המורה דורש שקט בכיתה בזמן ההוראה."
+            }
+        ]
+    }
+]

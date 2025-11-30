@@ -1,0 +1,34 @@
+[
+    {
+        "word": "disk",
+        "word_hebrew": "דִיסק",
+        "main_definition": "A flat, thin, circular object or a computing storage medium with a flat surface.",
+        "main_definition_hebrew": "חפץ שטוח, דק, עגול או אמצעי אחסון מחשוב עם משטח שטוח.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing, a disk refers to any removable data storage device that uses magnetic coating on rotating platters. It is used for storing and retrieving digital information in computers.",
+                "definition_hebrew": "במחשוב, דיסק מתייחס לכל התקן אחסון נתונים נשלף המשתמש בציפוי מגנטי על מגש מסתובב. הוא משמש לאחסון ואחזור מידע דיגיטלי במחשבים.",
+                "example": "I just backed up all my files onto an external hard disk.",
+                "example_hebrew": "רק גיביתי את כל הקבצים שלי בדיסק קשיח חיצוני."
+            },
+            {
+                "definition": "In gaming, a disk refers to a plastic circular game piece that can be moved around on a board or used as part of the rules of the game. For example, in checkers or chess.",
+                "definition_hebrew": "במשחקים, דיסק מתייחס לכלי משחק עגול מפלסטיק שניתן להזיז אותו על לוח או להשתמש בו כחלק מחוקי המשחק. למשל בדמקה או שחמט.",
+                "example": "She flicked her disc across the board, aiming for my king.",
+                "example_hebrew": "היא העיפה את הדיסק שלה על פני הלוח, מכוונת אל המלך שלי."
+            },
+            {
+                "definition": "A disk is also used to describe an object with a flat circular base and often a hole in its center. It can be attached to a shaft or rod by means of this central hole.",
+                "definition_hebrew": "דיסק משמש גם לתיאור חפץ עם בסיס עגול שטוח ולעתים קרובות חור במרכזו. זה יכול להיות מחובר לפיר או מוט באמצעות החור המרכזי הזה.",
+                "example": "The wind blew the lid off the bucket, revealing a metal wash-disc inside.",
+                "example_hebrew": "הרוח העיפה את המכסה מהדלי, וחשפה בפנים דיסק שטיפה ממתכת."
+            },
+            {
+                "definition": "In music and audio production, 'disk' refers to an old term for phonograph records or vinyl discs used to store sound.",
+                "definition_hebrew": "בהפקת מוזיקה ואודיו, 'דיסק' מתייחס למונח ישן לתקליטי פונוגרף או דיסקי ויניל המשמשים לאחסון סאונד.",
+                "example": "I have a collection of 1970s jazz albums on vinyl disks.",
+                "example_hebrew": "יש לי אוסף של אלבומי ג'אז משנות ה-70 על דיסקי ויניל."
+            }
+        ]
+    }
+]

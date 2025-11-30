@@ -1,0 +1,34 @@
+[
+    {
+        "word": "hospitals",
+        "word_hebrew": "בתי חולים",
+        "main_definition": "Hospitals are institutions dedicated to providing medical and surgical treatment, nursing care, and rehabilitation services to patients who are ill or injured.",
+        "main_definition_hebrew": "בתי חולים הם מוסדות המוקדשים למתן טיפול רפואי וכירורגי, טיפול סיעודי ושיקום לחולים חולים או פצועים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A place for treating the sick",
+                "definition_hebrew": "מקום לטיפול בחולים",
+                "example": "When Sarah fell off her bike and broke her arm, she was taken to a nearby hospital.",
+                "example_hebrew": "כששרה נפלה מאופניה ושברה את ידה, היא פונתה לבית חולים סמוך."
+            },
+            {
+                "definition": "The medical staff of a hospital",
+                "definition_hebrew": "הצוות הרפואי של בית חולים",
+                "example": "The doctors and nurses at City General Hospital work tirelessly to ensure patients receive the best care possible.",
+                "example_hebrew": "הרופאים והאחיות בבית החולים סיטי כללי פועלים ללא לאות כדי להבטיח שהמטופלים יקבלו את הטיפול הטוב ביותר שניתן."
+            },
+            {
+                "definition": "A large institution with extensive facilities for treating various illnesses or injuries",
+                "definition_hebrew": "מוסד גדול עם מתקנים נרחבים לטיפול במחלות או פציעות שונות",
+                "example": "There are several hospitals in our city, including a children's hospital and a specialized cardiac center.",
+                "example_hebrew": "בעירנו ישנם מספר בתי חולים, ביניהם בית חולים לילדים ומרכז לב מיוחד."
+            },
+            {
+                "definition": "The collective term referring to all hospitals within an area or country",
+                "definition_hebrew": "המונח הקולקטיבי המתייחס לכל בתי החולים באזור או במדינה",
+                "example": "According to the latest health report, there are over 3000 hospitals across our nation, serving millions of patients annually.",
+                "example_hebrew": "על פי דו\"ח הבריאות האחרון, ישנם למעלה מ-3000 בתי חולים ברחבי המדינה שלנו, המשרתים מיליוני חולים מדי שנה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "provided",
+        "word_hebrew": "מסופק",
+        "main_definition": "Used to indicate that one thing is true or will happen only if another thing is true or happens.",
+        "main_definition_hebrew": "משמש כדי לציין שדבר אחד נכון או יקרה רק אם דבר אחר נכון או יקרה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Conditional; contingent upon something else being true or happening",
+                "definition_hebrew": "מותנה; מותנה בכך שמשהו אחר יהיה נכון או יקרה",
+                "example": "Provided you finish your homework, we can go to the movies.",
+                "example_hebrew": "בתנאי שתסיים את שיעורי הבית, נוכל ללכת לקולנוע."
+            },
+            {
+                "definition": "Offered as a solution or course of action",
+                "definition_hebrew": "מוצע כפתרון או דרך פעולה",
+                "example": "We need additional funding, provided by the government, to complete this project.",
+                "example_hebrew": "אנו זקוקים למימון נוסף, המסופק על ידי הממשלה, כדי להשלים את הפרויקט הזה."
+            },
+            {
+                "definition": "Assuming that something is true; based on an assumption",
+                "definition_hebrew": "בהנחה שמשהו נכון; מבוסס על הנחה",
+                "example": "The analysis was conducted assuming that all data points are accurate and reliable.",
+                "example_hebrew": "הניתוח נערך בהנחה שכל נקודות הנתונים מדויקות ומהימנות."
+            },
+            {
+                "definition": "Occurring after a particular event or action has taken place",
+                "definition_hebrew": "מתרחש לאחר שהתרחש אירוע או פעולה מסוימת",
+                "example": "She will start her new job provided she passes the final interview.",
+                "example_hebrew": "היא תתחיל בעבודה החדשה שלה בתנאי שתעבור את הראיון האחרון."
+            },
+            {
+                "definition": "With the understanding that certain conditions are met",
+                "definition_hebrew": "מתוך הבנה שמתקיימים תנאים מסוימים",
+                "example": "The team can use my laptop, provided they have it back by tomorrow.",
+                "example_hebrew": "הצוות יכול להשתמש במחשב הנייד שלי, בתנאי שיש לו אותו בחזרה עד מחר."
+            }
+        ]
+    }
+]

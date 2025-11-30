@@ -1,0 +1,34 @@
+[
+    {
+        "word": "detect",
+        "word_hebrew": "לזהות",
+        "main_definition": "To discover or identify the presence of something through careful examination or analysis.",
+        "main_definition_hebrew": "לגלות או לזהות נוכחות של משהו באמצעות בחינה או ניתוח מדוקדקים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To find out or notice by perceiving it directly or indirectly; to become aware of.",
+                "definition_hebrew": "לגלות או לשים לב על ידי תפיסה ישירה או עקיפה; להיות מודעים אליו.",
+                "example": "I could detect a strange smell in my house.",
+                "example_hebrew": "יכולתי לזהות ריח מוזר בבית שלי."
+            },
+            {
+                "definition": "To uncover something through investigation, observation, or study.",
+                "definition_hebrew": "לחשוף משהו באמצעות חקירה, תצפית או מחקר.",
+                "example": "The scientists used advanced equipment to detect the presence of an unknown substance.",
+                "example_hebrew": "המדענים השתמשו בציוד מתקדם כדי לזהות נוכחות של חומר לא ידוע."
+            },
+            {
+                "definition": "To identify a particular sound (like a whisper) that is faint and difficult to hear clearly.",
+                "definition_hebrew": "לזהות צליל מסוים (כמו לחישה) קלוש וקשה לשמוע בבירור.",
+                "example": "She could barely detect his footsteps on the stairs.",
+                "example_hebrew": "היא בקושי הצליחה לזהות את צעדיו במדרגות."
+            },
+            {
+                "definition": "In law enforcement, to recognize or find evidence of criminal activity.",
+                "definition_hebrew": "באכיפת החוק, להכיר או למצוא ראיות לפעילות פלילית.",
+                "example": "The police were able to detect fingerprints at the crime scene.",
+                "example_hebrew": "המשטרה הצליחה לזהות טביעות אצבע בזירת הפשע."
+            }
+        ]
+    }
+]

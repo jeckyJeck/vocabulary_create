@@ -1,0 +1,40 @@
+[
+    {
+        "word": "header",
+        "word_hebrew": "כּוֹתֶרֶת",
+        "main_definition": "In general, a header is an introductory section or part of something that serves as a title or label to indicate the content's purpose.",
+        "main_definition_hebrew": "באופן כללי, כותרת היא קטע מבוא או חלק ממשהו המשמש ככותרת או תווית לציון מטרת התוכן.",
+        "meanings_and_examples": [
+            {
+                "definition": "In sports and games, a header refers to a player scoring by hitting the ball with their head.",
+                "definition_hebrew": "בספורט ובמשחקים, כותרת כותרת מתייחסת לשחקן שמבקיע על ידי מכה בכדור עם הראש.",
+                "example": "During the soccer match, John used his skillful headers to score two goals for his team.",
+                "example_hebrew": "במהלך משחק הכדורגל, ג'ון השתמש בכדורים המיומנים שלו כדי להבקיע שני שערים עבור קבוצתו."
+            },
+            {
+                "definition": "In computing, a header is an introductory section in data files that contains information about the rest of the file's content.",
+                "definition_hebrew": "במחשוב, כותרת היא קטע מבוא בקבצי נתונים המכיל מידע על שאר תוכן הקובץ.",
+                "example": "The CSV file had a header row with labels such as 'Name', 'Age', and 'Email'.",
+                "example_hebrew": "לקובץ ה-CSV הייתה שורת כותרת עם תוויות כגון 'שם', 'גיל' ו'אימייל'."
+            },
+            {
+                "definition": "In journalism, a header is a short introductory phrase at the top of an article that summarizes its content.",
+                "definition_hebrew": "בעיתונות, כותרת עליונה היא ביטוי מבוא קצר בראש מאמר המסכם את תוכנו.",
+                "example": "The newspaper article featured a bold header: 'Local Community Comes Together to Clean Up Park.'",
+                "example_hebrew": "הכתבה בעיתון כללה כותרת מודגשת: 'קהילה מקומית מתאחדת לנקות את הפארק'."
+            },
+            {
+                "definition": "In web design, a header is a prominent section typically located at the top of a webpage containing navigation links and other important information.",
+                "definition_hebrew": "בעיצוב אתרים, כותרת היא קטע בולט הממוקם בדרך כלל בחלק העליון של דף אינטרנט המכיל קישורי ניווט ומידע חשוב אחר.",
+                "example": "The website's header included a menu with options like 'Home', 'About Us', and 'Contact.'",
+                "example_hebrew": "הכותרת של האתר כללה תפריט עם אפשרויות כמו 'בית', 'אודותינו' ו'צור קשר'."
+            },
+            {
+                "definition": "In document formatting, a header is an area in a page layout that repeats on every page or section of the document.",
+                "definition_hebrew": "בעיצוב מסמך, כותרת עליונה היא אזור בפריסת עמוד שחוזר על עצמו בכל עמוד או קטע במסמך.",
+                "example": "The report had consistent headers at the top of each page indicating its title.",
+                "example_hebrew": "לדוח היו כותרות עקביות בראש כל עמוד המציינות את הכותרת שלו."
+            }
+        ]
+    }
+]

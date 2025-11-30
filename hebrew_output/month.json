@@ -1,0 +1,34 @@
+[
+    {
+        "word": "month",
+        "word_hebrew": "חוֹדֶשׁ",
+        "main_definition": "A month is a unit of time, typically consisting of around 30 or 31 days, that helps us measure the passage of time.",
+        "main_definition_hebrew": "חודש הוא יחידת זמן, המורכבת בדרך כלל מסביבות 30 או 31 ימים, שעוזרת לנו למדוד את חלוף הזמן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Unit of time approximately equal to one-twelfth of a year",
+                "definition_hebrew": "יחידת זמן שווה בקירוב לשתים עשרה בשנה",
+                "example": "My birthday is in August, which means it's halfway through my 12th month.",
+                "example_hebrew": "יום ההולדת שלי הוא באוגוסט, מה שאומר שהוא במחצית החודש ה-12 שלי."
+            },
+            {
+                "definition": "A calendar period used for recording and organizing events or tasks",
+                "definition_hebrew": "תקופת לוח שנה המשמשת להקלטה ולארגון אירועים או משימות",
+                "example": "I have set a reminder for the first of each month to pay bills on time.",
+                "example_hebrew": "קבעתי תזכורת לראשון בכל חודש לשלם חשבונות בזמן."
+            },
+            {
+                "definition": "The name given to specific periods, such as financial quarters in businesses",
+                "definition_hebrew": "השם שניתן לתקופות ספציפיות, כמו רבעונים פיננסיים בעסקים",
+                "example": "Our company's fiscal year is divided into four months: January-March (Q1), April-June (Q2), July-September (Q3), and October-December (Q4).",
+                "example_hebrew": "שנת הכספים של החברה שלנו מחולקת לארבעה חודשים: ינואר-מרץ (Q1), אפריל-יוני (Q2), יולי-ספטמבר (Q3) ואוקטובר-דצמבר (Q4)."
+            },
+            {
+                "definition": "A unit of measure in the agricultural industry, particularly for grains",
+                "definition_hebrew": "יחידת מידה בענף החקלאות, במיוחד עבור דגנים",
+                "example": "The farmer sold 10 tons of wheat at the market.",
+                "example_hebrew": "החקלאי מכר 10 טון חיטה בשוק."
+            }
+        ]
+    }
+]

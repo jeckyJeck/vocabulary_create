@@ -1,0 +1,34 @@
+[
+    {
+        "word": "components",
+        "word_hebrew": "רכיבים",
+        "main_definition": "Components refer to the individual parts or elements that make up a larger system, object, or structure.",
+        "main_definition_hebrew": "רכיבים מתייחסים לחלקים או אלמנטים בודדים המרכיבים מערכת, אובייקט או מבנה גדולים יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Elements in an engine or machine that work together for its functioning",
+                "definition_hebrew": "אלמנטים במנוע או במכונה הפועלים יחד לתפקודם",
+                "example": "The car's components include pistons, spark plugs, and gears.",
+                "example_hebrew": "מרכיבי המכונית כוללים בוכנות, מצתים וגלגלי שיניים."
+            },
+            {
+                "definition": "Individual parts of a computer system",
+                "definition_hebrew": "חלקים בודדים של מערכת מחשוב",
+                "example": "A computer system comprises various components such as the CPU, RAM, hard drive, etc.",
+                "example_hebrew": "מערכת מחשב כוללת רכיבים שונים כגון מעבד, זיכרון RAM, כונן קשיח וכו'."
+            },
+            {
+                "definition": "Elements in a plan or proposal that are essential for its completion",
+                "definition_hebrew": "אלמנטים בתכנית או בהצעה החיוניים להשלמתה",
+                "example": "The project's successful implementation requires several key components including time management and budget allocation.",
+                "example_hebrew": "יישום מוצלח של הפרויקט דורש מספר מרכיבים מרכזיים לרבות ניהול זמן והקצאת תקציב."
+            },
+            {
+                "definition": "Part of an argument, discussion, or piece of writing providing supporting evidence or points",
+                "definition_hebrew": "חלק מוויכוח, דיון או כתבה המספקת ראיות תומכות או נקודות",
+                "example": "In the essay about climate change, one component is the impact on marine life due to rising sea temperatures.",
+                "example_hebrew": "במאמר על שינויי אקלים, מרכיב אחד הוא ההשפעה על החיים הימיים עקב עליית טמפרטורות הים."
+            }
+        ]
+    }
+]

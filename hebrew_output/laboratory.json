@@ -1,0 +1,34 @@
+[
+    {
+        "word": "laboratory",
+        "word_hebrew": "מַעבָּדָה",
+        "main_definition": "A laboratory is a controlled environment where scientific experiments, research, and tests are conducted.",
+        "main_definition_hebrew": "מעבדה היא סביבה מבוקרת שבה נערכים ניסויים, מחקרים ובדיקות מדעיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Place for conducting scientific research and experiments",
+                "definition_hebrew": "מקום לעריכת מחקר וניסויים מדעיים",
+                "example": "The chemistry laboratory was equipped with various instruments like beakers, test tubes, and a fume hood.",
+                "example_hebrew": "המעבדה לכימיה הייתה מצוידת במכשירים שונים כמו כוסות, מבחנות ומנדף."
+            },
+            {
+                "definition": "A room or facility where tests are carried out on products",
+                "definition_hebrew": "חדר או מתקן בו מתבצעות בדיקות למוצרים",
+                "example": "Quality control in the food industry often involves testing samples in a laboratory.",
+                "example_hebrew": "בקרת איכות בתעשיית המזון כוללת לרוב בדיקת דגימות במעבדה."
+            },
+            {
+                "definition": "An institutional unit of higher education dedicated to research and teaching",
+                "definition_hebrew": "יחידה מוסדית להשכלה גבוהה המוקדשת למחקר והוראה",
+                "example": "Students at the university spend much time in their respective department's laboratories for hands-on learning.",
+                "example_hebrew": "סטודנטים באוניברסיטה מבלים זמן רב במעבדות המחלקה שלהם ללמידה מעשית."
+            },
+            {
+                "definition": "A place where work is carried out, often with reference to manual or industrial tasks rather than scientific ones",
+                "definition_hebrew": "מקום שבו מתבצעת עבודה, לרוב תוך התייחסות למשימות ידניות או תעשייתיות ולא למשימות מדעיות",
+                "example": "The factory had a large assembly line that resembled an extensive laboratory of manufacturing processes.",
+                "example_hebrew": "למפעל היה פס ייצור גדול שדמה למעבדה ענפה של תהליכי ייצור."
+            }
+        ]
+    }
+]

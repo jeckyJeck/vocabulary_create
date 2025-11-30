@@ -1,0 +1,34 @@
+[
+    {
+        "word": "lib",
+        "word_hebrew": "lib",
+        "main_definition": "The abbreviation of 'library', a place where books, resources, and information are stored and accessed.",
+        "main_definition_hebrew": "הקיצור של 'ספרייה', מקום שבו מאוחסנים ספרים, משאבים ומידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "A collection or set of books that share a common theme, topic, or author",
+                "definition_hebrew": "אוסף או קבוצה של ספרים שחולקים נושא, נושא או מחבר משותפים",
+                "example": "In the library, there is an entire section dedicated to classic literature.",
+                "example_hebrew": "בספרייה מדור שלם המוקדש לספרות קלאסית."
+            },
+            {
+                "definition": "A digital platform providing access to various multimedia resources and learning materials",
+                "definition_hebrew": "פלטפורמה דיגיטלית המספקת גישה למשאבי מולטימדיה וחומרי למידה שונים",
+                "example": "I used Libby to borrow e-books for my research paper.",
+                "example_hebrew": "השתמשתי בליבי כדי לשאול ספרים אלקטרוניים עבור עבודת המחקר שלי."
+            },
+            {
+                "definition": "An abbreviation of 'librarian', a person who manages and organizes library collections, assists with inquiries, and provides information services",
+                "definition_hebrew": "קיצור של 'ספרנית', אדם המנהל ומארגן אוספי ספרייה, מסייע בפניות ומספק שירותי מידע.",
+                "example": "The librarian helped me find the reference materials I needed for my project.",
+                "example_hebrew": "הספרנית עזרה לי למצוא את חומרי העזר שהייתי צריך עבור הפרויקט שלי."
+            },
+            {
+                "definition": "A slang term meaning to steal or take something without permission",
+                "definition_hebrew": "מונח סלנג שמשמעותו לגנוב או לקחת משהו ללא רשות",
+                "example": "Don't 'lib' other people's belongings, it's wrong and can get you into trouble.",
+                "example_hebrew": "אל תסתבבו בחפצים של אנשים אחרים, זה לא בסדר ויכול לגרום לכם לצרות."
+            }
+        ]
+    }
+]

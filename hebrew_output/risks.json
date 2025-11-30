@@ -1,0 +1,34 @@
+[
+    {
+        "word": "risks",
+        "word_hebrew": "סיכונים",
+        "main_definition": "Risks refer to potential situations or actions that may lead to undesirable outcomes, negative consequences, or losses.",
+        "main_definition_hebrew": "סיכונים מתייחסים למצבים או פעולות פוטנציאליים שעלולים להוביל לתוצאות לא רצויות, השלכות שליליות או הפסדים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The possibility of experiencing loss, harm, damage, or danger",
+                "definition_hebrew": "האפשרות לחוות אובדן, נזק, נזק או סכנה",
+                "example": "Investing in the stock market involves various risks like losing money if the value of shares drops.",
+                "example_hebrew": "השקעה בבורסה כרוכה בסיכונים שונים כמו הפסד כסף אם ערך המניות יורד."
+            },
+            {
+                "definition": "Calculating and assessing potential negative outcomes associated with a decision or action",
+                "definition_hebrew": "חישוב והערכת תוצאות שליליות אפשריות הקשורות להחלטה או לפעולה",
+                "example": "Before launching a new product, companies perform risk analysis to predict possible challenges and setbacks.",
+                "example_hebrew": "לפני השקת מוצר חדש, חברות מבצעות ניתוח סיכונים כדי לחזות אתגרים ומכשולים אפשריים."
+            },
+            {
+                "definition": "A gamble or speculative bet on an uncertain outcome that could lead to high rewards but also potential losses",
+                "definition_hebrew": "הימור או הימור ספקולטיבי על תוצאה לא ודאית שעלולה להוביל לתגמולים גבוהים אך גם להפסדים פוטנציאליים",
+                "example": "Gambling at the casino is a risky activity where you might win big, but it's equally possible to lose your money.",
+                "example_hebrew": "הימורים בקזינו הם פעילות מסוכנת שבה אתה עלול להרוויח בגדול, אבל באותה מידה אפשר להפסיד את הכסף שלך."
+            },
+            {
+                "definition": "The exposure of an individual or organization to situations that could lead to adverse effects",
+                "definition_hebrew": "החשיפה של אדם או ארגון למצבים שעלולים להוביל להשפעות שליליות",
+                "example": "Smoking cigarettes poses health risks including increased chances of lung cancer and heart disease.",
+                "example_hebrew": "עישון סיגריות מהווה סיכונים בריאותיים כולל סיכוי מוגבר לסרטן ריאות ומחלות לב."
+            }
+        ]
+    }
+]

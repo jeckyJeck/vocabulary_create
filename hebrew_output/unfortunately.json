@@ -1,0 +1,28 @@
+[
+    {
+        "word": "unfortunately",
+        "word_hebrew": "לצערי",
+        "main_definition": "in a way that causes disappointment or regret; regrettably.",
+        "main_definition_hebrew": "באופן שגורם לאכזבה או חרטה; למרבה הצער.",
+        "meanings_and_examples": [
+            {
+                "definition": "expressing displeasure about an undesirable situation or outcome",
+                "definition_hebrew": "הבעת מורת רוח ממצב או תוצאה לא רצויים",
+                "example": "Unfortunately, the concert was canceled due to bad weather.",
+                "example_hebrew": "למרבה הצער, הקונצרט בוטל עקב מזג אוויר גרוע."
+            },
+            {
+                "definition": "showing sadness over a negative event or circumstance",
+                "definition_hebrew": "מראה עצב על אירוע או נסיבות שליליות",
+                "example": "I unfortunately missed my flight because of traffic.",
+                "example_hebrew": "לצערי פספסתי את הטיסה שלי בגלל תנועה."
+            },
+            {
+                "definition": "indicating the presence of an unfortunate, regrettable, or undesirable aspect in a given situation",
+                "definition_hebrew": "המצביע על נוכחות של היבט מצער, מצער או לא רצוי במצב נתון",
+                "example": "Unfortunately, our team lost the match despite their best efforts.",
+                "example_hebrew": "למרבה הצער, הקבוצה שלנו הפסידה את המשחק למרות המאמצים שלה."
+            }
+        ]
+    }
+]

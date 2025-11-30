@@ -1,0 +1,40 @@
+[
+    {
+        "word": "exec",
+        "word_hebrew": "exec",
+        "main_definition": "To carry out or perform a task, order, or command; to execute someone (as in law enforcement) or something like an algorithm.",
+        "main_definition_hebrew": "לבצע או לבצע משימה, פקודה או פקודה; להוציא להורג מישהו (כמו באכיפת החוק) או משהו כמו אלגוריתם.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing, to run or start a program or script on a computer system.",
+                "definition_hebrew": "במחשוב, להפעיל או להפעיל תוכנית או סקריפט על מערכת מחשב.",
+                "example": "Clicking the 'Execute' button starts the batch file.",
+                "example_hebrew": "לחיצה על כפתור 'ביצוע' מפעילה את קובץ האצווה."
+            },
+            {
+                "definition": "To authorize and carry out an action within a law enforcement context, often related to arresting someone.",
+                "definition_hebrew": "לאשר ולבצע פעולה בהקשר של אכיפת חוק, הקשורה לעתים קרובות למעצר מישהו.",
+                "example": "The police were called in to execute the warrant for the suspect's arrest.",
+                "example_hebrew": "המשטרה הוזעקה לביצוע צו מעצרו של החשוד."
+            },
+            {
+                "definition": "In business or project management, to initiate or implement a plan or strategy.",
+                "definition_hebrew": "בניהול עסקים או פרויקטים, ליזום או ליישם תוכנית או אסטרטגיה.",
+                "example": "The CEO decided to exec the new marketing campaign next month.",
+                "example_hebrew": "המנכ\"ל החליט לבצע את הקמפיין השיווקי החדש בחודש הבא."
+            },
+            {
+                "definition": "To carry out an algorithm's instructions in programming.",
+                "definition_hebrew": "לבצע הוראות של אלגוריתם בתכנות.",
+                "example": "Pressing 'Run' will execute the code block, displaying its output on the screen.",
+                "example_hebrew": "לחיצה על 'הפעלה' תפעיל את בלוק הקוד, ויציג את הפלט שלו על המסך."
+            },
+            {
+                "definition": "In military or strategic terms, to implement a planned operation or maneuver.",
+                "definition_hebrew": "במונחים צבאיים או אסטרטגיים, ליישם מבצע או תמרון מתוכנן.",
+                "example": "The general ordered his troops to exec the surprise attack at dawn.",
+                "example_hebrew": "הגנרל הורה לכוחותיו לבצע את מתקפת הפתע עם עלות השחר."
+            }
+        ]
+    }
+]

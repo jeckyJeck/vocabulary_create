@@ -1,0 +1,40 @@
+[
+    {
+        "word": "baseline",
+        "word_hebrew": "קו בסיס",
+        "main_definition": "Baseline refers to a starting point, standard, or reference used as a basis for comparison in various contexts such as business, research, medical studies etc.",
+        "main_definition_hebrew": "קו בסיס מתייחס לנקודת התחלה, תקן או התייחסות המשמשים כבסיס להשוואה בהקשרים שונים כגון עסקים, מחקרים, לימודי רפואה וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "In finance and business, baseline is the initial set of data against which future changes are measured",
+                "definition_hebrew": "בפיננסים ובעסקים, קו הבסיס הוא קבוצת הנתונים הראשונית שלפיהם נמדדים שינויים עתידיים",
+                "example": "The company's financial performance last year served as a baseline for this fiscal year's projections.",
+                "example_hebrew": "הביצועים הפיננסיים של החברה בשנה שעברה שימשו קו בסיס לתחזיות של שנת הכספים."
+            },
+            {
+                "definition": "In research or medical studies, baseline refers to the collection of initial data before an intervention is applied",
+                "definition_hebrew": "במחקרים או מחקרים רפואיים, קו בסיס מתייחס לאיסוף נתונים ראשוניים לפני יישום התערבות",
+                "example": "Before starting the new drug trial, scientists collected baseline data on patients' health conditions.",
+                "example_hebrew": "לפני תחילת ניסוי התרופה החדש, מדענים אספו נתונים בסיסיים על מצבם הבריאותי של החולים."
+            },
+            {
+                "definition": "In sports and physical training, a baseline can refer to an athlete's performance level prior to beginning specific training or improvement strategies",
+                "definition_hebrew": "בספורט ובאימונים גופניים, קו בסיס יכול להתייחס לרמת הביצועים של הספורטאי לפני התחלת אימון ספציפי או אסטרטגיות שיפור",
+                "example": "Before starting the strength training program, Tom established his current lifting capacity as the baseline.",
+                "example_hebrew": "לפני שהחל את תוכנית אימוני הכוח, טום ביסס את יכולת ההרמה הנוכחית שלו כקו הבסיס."
+            },
+            {
+                "definition": "In construction and engineering, a baseline can refer to an initial set of measurements used for comparison in quality control checks",
+                "definition_hebrew": "בבנייה ובהנדסה, קו בסיס יכול להתייחס לסט ראשוני של מדידות המשמשות להשוואה בבדיקות בקרת איכות",
+                "example": "The building's structural integrity was assessed against the established baseline after its completion.",
+                "example_hebrew": "תקינותו המבנית של הבניין הוערכה מול קו הבסיס שנקבע לאחר השלמתו."
+            },
+            {
+                "definition": "In communication, 'baseline' may be used colloquially to suggest a minimal or basic level of performance or expectation",
+                "definition_hebrew": "בתקשורת, ניתן להשתמש ב-baseline בדיבור כדי להציע רמה מינימלית או בסיסית של ביצועים או ציפייה",
+                "example": "His work is at a baseline standard; he needs to improve it significantly for promotions.",
+                "example_hebrew": "עבודתו נמצאת בסטנדרט בסיס; הוא צריך לשפר את זה באופן משמעותי עבור קידום."
+            }
+        ]
+    }
+]

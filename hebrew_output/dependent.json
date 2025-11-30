@@ -1,0 +1,28 @@
+[
+    {
+        "word": "dependent",
+        "word_hebrew": "תלוי",
+        "main_definition": "A person who relies on another, especially a parent or guardian, for financial support.",
+        "main_definition_hebrew": "אדם המסתמך על אחר, במיוחד הורה או אפוטרופוס, לתמיכה כספית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Requiring assistance from someone else to function properly or survive.",
+                "definition_hebrew": "צורך בסיוע ממישהו אחר כדי לתפקד כראוי או לשרוד.",
+                "example": "As a child, I was financially dependent on my parents.",
+                "example_hebrew": "בילדותי הייתי תלוי כלכלית בהורי."
+            },
+            {
+                "definition": "Relating to or involving something that depends on another for its existence or maintenance.",
+                "definition_hebrew": "התייחסות או כרוכה בדבר התלוי באחר לקיומו או תחזוקתו.",
+                "example": "The outcome of this experiment is highly dependent on the initial conditions set by the researcher.",
+                "example_hebrew": "התוצאה של ניסוי זה תלויה מאוד בתנאים ההתחלתיים שקבע החוקר."
+            },
+            {
+                "definition": "A software component that relies on a functioning system, and may not work without it.",
+                "definition_hebrew": "רכיב תוכנה המסתמך על מערכת מתפקדת, ואולי לא יעבוד בלעדיו.",
+                "example": "When installing new drivers or applications, certain programs are said to be dependent on Windows operating system.",
+                "example_hebrew": "בעת התקנת מנהלי התקנים או יישומים חדשים, אומרים שתוכניות מסוימות תלויות במערכת ההפעלה Windows."
+            }
+        ]
+    }
+]

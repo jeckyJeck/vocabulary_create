@@ -1,0 +1,28 @@
+[
+    {
+        "word": "quantum",
+        "word_hebrew": "קוונטי",
+        "main_definition": "Quantum refers to the discrete, indivisible unit of a physical property or quantity that is considered in quantum physics.",
+        "main_definition_hebrew": "קוואנטום מתייחס ליחידה הבדידה הבלתי ניתנת לחלוקה של תכונה או כמות פיזיקלית הנחשבת בפיזיקה הקוונטית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A fundamental concept in quantum mechanics representing the smallest possible discrete quantity of some physical property (such as energy or angular momentum) within our universe.",
+                "definition_hebrew": "מושג בסיסי במכניקת הקוונטים המייצג את הכמות הבדידה הקטנה ביותר האפשרית של נכס פיזי כלשהו (כגון אנרגיה או תנע זוויתי) בתוך היקום שלנו.",
+                "example": "In an atom, electrons exist only in quantized energy levels.",
+                "example_hebrew": "באטום, אלקטרונים קיימים רק ברמות אנרגיה כמותיות."
+            },
+            {
+                "definition": "An expression used to describe a significant change or shift.",
+                "definition_hebrew": "ביטוי המשמש לתיאור שינוי או שינוי משמעותי.",
+                "example": "The transition from one political regime to another was a quantum leap for the country's future.",
+                "example_hebrew": "המעבר ממשטר פוליטי אחד למשנהו היה קפיצה קוונטית לעתידה של המדינה."
+            },
+            {
+                "definition": "A type of computer processor based on quantum mechanics principles, capable of executing complex computations much faster than classical computers.",
+                "definition_hebrew": "סוג של מעבד מחשב המבוסס על עקרונות מכניקת הקוונטים, המסוגל לבצע חישובים מורכבים הרבה יותר מהר ממחשבים קלאסיים.",
+                "example": "Quantum computers hold promise for solving certain types of problems much more efficiently than traditional computers.",
+                "example_hebrew": "מחשבים קוונטיים טומנים בחובם הבטחה לפתור סוגים מסוימים של בעיות ביעילות רבה יותר מאשר מחשבים מסורתיים."
+            }
+        ]
+    }
+]

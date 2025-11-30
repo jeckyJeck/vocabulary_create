@@ -1,0 +1,28 @@
+[
+    {
+        "word": "regards",
+        "word_hebrew": "בברכה",
+        "main_definition": "A polite expression of good wishes or regards used when parting ways with someone.",
+        "main_definition_hebrew": "ביטוי מנומס של איחולים או איחולים בשימוש כשנפרדים ממישהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "An informal way to end a letter or email, similar to saying 'sincerely'",
+                "definition_hebrew": "דרך לא רשמית לסיים מכתב או אימייל, בדומה לאמירת 'בכבוד רב'",
+                "example": "Thank you for your time. Best regards,\nJohn Doe",
+                "example_hebrew": "תודה על זמנך. כל טוב,\nפלוני אלמוני"
+            },
+            {
+                "definition": "A polite expression of good wishes when parting from someone",
+                "definition_hebrew": "ביטוי מנומס של משאלות טובות כאשר נפרדים ממישהו",
+                "example": "Goodbye, take care and best regards.",
+                "example_hebrew": "להתראות, שמרו על עצמכם ובברכה."
+            },
+            {
+                "definition": "Used to convey well-wishes or thoughts in a more informal context, similar to 'cheers'",
+                "definition_hebrew": "משמש להעברת משאלות טובות או מחשבות בהקשר יותר לא פורמלי, בדומה ל'לחיים'",
+                "example": "It was great seeing you. Cheers and good wishes for the weekend!",
+                "example_hebrew": "היה נהדר לראות אותך. ברכות ואיחולים לסוף השבוע!"
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "tension",
+        "word_hebrew": "מתח",
+        "main_definition": "Tension refers to a state of mental or emotional strain, stress, or unease.",
+        "main_definition_hebrew": "מתח מתייחס למצב של מתח נפשי או רגשי, מתח או אי נוחות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical tension as the force transmitted through a medium (like rope or wire) when it is stretched",
+                "definition_hebrew": "מתח פיזי ככוח המועבר דרך מדיום (כמו חבל או חוט) כאשר הוא נמתח",
+                "example": "The tension in the guitar string was adjusted to achieve the desired pitch.",
+                "example_hebrew": "המתח במיתר הגיטרה הותאם להשגת הצליל הרצוי."
+            },
+            {
+                "definition": "Emotional strain caused by conflicting interests, ideas, or emotions between individuals or groups",
+                "definition_hebrew": "מתח רגשי הנגרם מאינטרסים, רעיונות או רגשות מנוגדים בין יחידים או קבוצות",
+                "example": "There is a palpable tension between the two rival gangs in the neighborhood.",
+                "example_hebrew": "קיים מתח מורגש בין שתי הכנופיות היריבות בשכונה."
+            },
+            {
+                "definition": "A situation characterized by heightened anxiety and anticipation",
+                "definition_hebrew": "מצב המאופיין בחרדה מוגברת וציפייה",
+                "example": "The audience could feel the tension before the magician performed his most dangerous trick.",
+                "example_hebrew": "הקהל יכול היה להרגיש את המתח לפני שהקוסם ביצע את הטריק המסוכן ביותר שלו."
+            },
+            {
+                "definition": "In psychology, a state of mental or emotional stress that arises from conflict or discomfort",
+                "definition_hebrew": "בפסיכולוגיה, מצב של מתח נפשי או רגשי הנובע מקונפליקט או אי נוחות",
+                "example": "She was experiencing intense tension due to her upcoming exams and workload.",
+                "example_hebrew": "היא חוותה מתח עז בגלל הבחינות והעומס הצפויים שלה."
+            }
+        ]
+    }
+]

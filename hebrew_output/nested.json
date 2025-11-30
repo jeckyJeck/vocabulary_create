@@ -1,0 +1,34 @@
+[
+    {
+        "word": "nested",
+        "word_hebrew": "מקונן",
+        "main_definition": "Arranged or placed within one another, especially in a complex manner.",
+        "main_definition_hebrew": "מסודרים או ממוקמים אחד בתוך השני, במיוחד בצורה מורכבת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Involving items arranged within each other to form a structure or pattern.",
+                "definition_hebrew": "מערב פריטים המסודרים זה בתוך זה ליצירת מבנה או תבנית.",
+                "example": "A set of Russian dolls are nested inside each other.",
+                "example_hebrew": "קבוצה של בובות רוסיות מקוננות זו בתוך זו."
+            },
+            {
+                "definition": "Refers to complex programming structures, where functions or procedures call themselves repeatedly.",
+                "definition_hebrew": "הכוונה למבני תכנות מורכבים, שבהם פונקציות או הליכים קוראים לעצמם שוב ושוב.",
+                "example": "In the given algorithm, a function is used for recursive nesting.",
+                "example_hebrew": "באלגוריתם הנתון, פונקציה משמשת לקינון רקורסיבי."
+            },
+            {
+                "definition": "A type of organizational structure in which smaller units are included within larger ones.",
+                "definition_hebrew": "סוג של מבנה ארגוני שבו יחידות קטנות יותר נכללות בתוך גדולות יותר.",
+                "example": "The company's departmental hierarchy can be seen as nested levels of management.",
+                "example_hebrew": "ניתן לראות את ההיררכיה המחלקתית של החברה כרמות ניהול מקוננות."
+            },
+            {
+                "definition": "Describing a situation or problem that is complex and difficult to understand due to its interrelated parts.",
+                "definition_hebrew": "תיאור מצב או בעיה מורכבים וקשים להבנה בשל חלקיה הקשורים זה בזה.",
+                "example": "The intricacies of international trade agreements can seem deeply nested and confusing.",
+                "example_hebrew": "המורכבויות של הסכמי סחר בינלאומיים עלולים להיראות מקוננים ומבלבלים."
+            }
+        ]
+    }
+]

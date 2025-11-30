@@ -1,0 +1,28 @@
+[
+    {
+        "word": "bacteria",
+        "word_hebrew": "בַּקטֶרִיָה",
+        "main_definition": "Bacteria are microscopic, single-celled organisms that can exist in a variety of environments and may have beneficial or harmful effects.",
+        "main_definition_hebrew": "חיידקים הם אורגניזמים מיקרוסקופיים חד-תאיים שיכולים להתקיים במגוון סביבות ועשויות להיות להם השפעות מועילות או מזיקות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In medical terminology, bacteria refer to the group of single-celled microorganisms that are prokaryotic (lacking a cell nucleus).",
+                "definition_hebrew": "בטרמינולוגיה רפואית, חיידקים מתייחסים לקבוצת המיקרואורגניזמים החד-תאיים שהם פרוקריוטים (חסרי גרעין תא).",
+                "example": "Antibiotics are used to treat infections caused by harmful bacteria.",
+                "example_hebrew": "אנטיביוטיקה משמשת לטיפול בזיהומים הנגרמים על ידי חיידקים מזיקים."
+            },
+            {
+                "definition": "Metaphorically, the term 'bacteria' can be used to describe something that has negative influences or spreads negativity like a contagious disease.",
+                "definition_hebrew": "באופן מטפורי, המונח 'חיידק' יכול לשמש כדי לתאר משהו שיש לו השפעות שליליות או מפיץ שליליות כמו מחלה מדבקת.",
+                "example": "His constant complaining was like an unwelcome bacteria in our family gatherings.",
+                "example_hebrew": "התלוננות המתמדת שלו הייתה כמו חיידק לא רצוי במפגשים המשפחתיים שלנו."
+            },
+            {
+                "definition": "In microbiology, the term 'bacteria' is used to describe various species of bacterial cells that can be categorized based on their shape (e.g., cocci and bacilli), growth patterns, or metabolism.",
+                "definition_hebrew": "במיקרוביולוגיה, המונח 'חיידק' משמש לתיאור מינים שונים של תאים חיידקיים שניתן לסווג אותם על סמך צורתם (למשל, קוקי ובצילים), דפוסי גדילה או חילוף חומרים.",
+                "example": "Staphylococcus aureus is a type of spherical-shaped bacteria often found in the human body.",
+                "example_hebrew": "Staphylococcus aureus הוא סוג של חיידקים בצורת כדור המצוי לעתים קרובות בגוף האדם."
+            }
+        ]
+    }
+]

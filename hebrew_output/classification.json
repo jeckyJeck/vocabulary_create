@@ -1,0 +1,28 @@
+[
+    {
+        "word": "classification",
+        "word_hebrew": "מִיוּן",
+        "main_definition": "The process of organizing or categorizing things based on shared characteristics, qualities, or criteria.",
+        "main_definition_hebrew": "תהליך ארגון או סיווג דברים על סמך מאפיינים, תכונות או קריטריונים משותפים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A systematic arrangement of items into classes or groups according to their similar properties.",
+                "definition_hebrew": "סידור שיטתי של פריטים לכיתות או קבוצות לפי תכונותיהם הדומות.",
+                "example": "Biologists use a classification system to group living organisms based on their physical traits and evolutionary history.",
+                "example_hebrew": "ביולוגים משתמשים במערכת סיווג כדי לקבץ אורגניזמים חיים על סמך תכונותיהם הפיזיות וההיסטוריה האבולוציונית."
+            },
+            {
+                "definition": "The act of distinguishing or separating something from others, often for the purpose of study or analysis.",
+                "definition_hebrew": "פעולת ההבחנה או הפרדה של משהו מאחרים, לעתים קרובות למטרת מחקר או ניתוח.",
+                "example": "In library science, books are classified into different genres to make it easier for patrons to find what they're looking for.",
+                "example_hebrew": "במדעי הספרייה, ספרים מסווגים לז'אנרים שונים כדי להקל על הלקוחות למצוא את מה שהם מחפשים."
+            },
+            {
+                "definition": "A method used in data analysis and statistics to categorize variables based on their relationships or patterns.",
+                "definition_hebrew": "שיטה המשמשת בניתוח נתונים וסטטיסטיקה כדי לסווג משתנים על סמך הקשרים או הדפוסים שלהם.",
+                "example": "Using classification techniques, a machine learning model can be trained to identify spam emails by analyzing text patterns.",
+                "example_hebrew": "באמצעות טכניקות סיווג, ניתן לאמן מודל למידת מכונה לזהות הודעות דואר זבל על ידי ניתוח דפוסי טקסט."
+            }
+        ]
+    }
+]

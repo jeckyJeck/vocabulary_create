@@ -1,0 +1,40 @@
+[
+    {
+        "word": "shock",
+        "word_hebrew": "הֶלֶם",
+        "main_definition": "Shock refers to a sudden emotional or physical response to an unexpected, surprising, or distressing event.",
+        "main_definition_hebrew": "הלם מתייחס לתגובה רגשית או פיזית פתאומית לאירוע בלתי צפוי, מפתיע או מעיק.",
+        "meanings_and_examples": [
+            {
+                "definition": "An emotional reaction of surprise or disbelief",
+                "definition_hebrew": "תגובה רגשית של הפתעה או חוסר אמון",
+                "example": "She was shocked when she found out her friend had moved away without telling anyone.",
+                "example_hebrew": "היא הייתה המומה כשגילתה שחברתה התרחקה מבלי לספר לאיש."
+            },
+            {
+                "definition": "A state of sudden physical disturbance typically caused by a traumatic event, such as an injury or illness",
+                "definition_hebrew": "מצב של הפרעה פיזית פתאומית הנגרמת בדרך כלל על ידי אירוע טראומטי, כגון פציעה או מחלה",
+                "example": "After witnessing the car accident, he was in shock and couldn't speak for several minutes.",
+                "example_hebrew": "לאחר שראה את תאונת הדרכים, הוא היה בהלם ולא יכול היה לדבר במשך מספר דקות."
+            },
+            {
+                "definition": "An element of surprise in storytelling, used to startle readers or viewers",
+                "definition_hebrew": "אלמנט של הפתעה בסיפור סיפורים, המשמש להבהיל את הקוראים או הצופים",
+                "example": "The author introduced a twist ending that left many readers in shock.",
+                "example_hebrew": "המחבר הציג סוף טוויסט שהותיר קוראים רבים בהלם."
+            },
+            {
+                "definition": "A feeling of being greatly affected by something unexpected and difficult to comprehend",
+                "definition_hebrew": "תחושה של מושפע מאוד ממשהו בלתי צפוי וקשה להבנה",
+                "example": "She was shocked at the news of her sudden job loss during an economic downturn.",
+                "example_hebrew": "היא הייתה המומה מהידיעה על אובדן העבודה הפתאומי שלה במהלך שפל כלכלי."
+            },
+            {
+                "definition": "The state or condition of being stunned, bewildered, or overwhelmed by something surprising or unexpected",
+                "definition_hebrew": "המצב או המצב של המום, מבולבל או המום ממשהו מפתיע או בלתי צפוי",
+                "example": "He felt a deep sense of shock and confusion after losing his wallet on the subway.",
+                "example_hebrew": "הוא חש תחושה עמוקה של הלם ובלבול לאחר שאיבד את ארנקו ברכבת התחתית."
+            }
+        ]
+    }
+]

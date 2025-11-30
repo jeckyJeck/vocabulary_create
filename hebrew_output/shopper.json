@@ -1,0 +1,34 @@
+[
+    {
+        "word": "shopper",
+        "word_hebrew": "קוֹנֶה",
+        "main_definition": "A person who frequently purchases goods or services from stores, often in a casual or exploratory manner.",
+        "main_definition_hebrew": "אדם שרוכש תדיר סחורות או שירותים מחנויות, לרוב באופן מזדמן או גישוש.",
+        "meanings_and_examples": [
+            {
+                "definition": "A retail customer",
+                "definition_hebrew": "לקוח קמעונאי",
+                "example": "The shopper picked up a variety of items and checked them out at the grocery store.",
+                "example_hebrew": "הקונה אסף מגוון פריטים ובדק אותם במכולת."
+            },
+            {
+                "definition": "Someone who browses or looks around in stores without necessarily buying anything",
+                "definition_hebrew": "מישהו שגולש או מסתכל בחנויות מבלי לקנות משהו בהכרח",
+                "example": "As a casual shopper, she strolled through the mall looking for bargains and unique items.",
+                "example_hebrew": "כקונה מזדמנת, היא טיילה בקניון וחיפשה מציאות ופריטים ייחודיים."
+            },
+            {
+                "definition": "A person involved in online shopping activities",
+                "definition_hebrew": "אדם המעורב בפעילויות קניות מקוונות",
+                "example": "The website's analytics showed that hundreds of shoppers had made purchases on their platform.",
+                "example_hebrew": "הניתוח של האתר הראה שמאות קונים ביצעו רכישות בפלטפורמה שלהם."
+            },
+            {
+                "definition": "An individual engaged in comparison shopping, comparing prices and features across multiple retail outlets",
+                "definition_hebrew": "אדם שעוסק בהשוואת קניות, משווה מחירים ותכונות בין מספר חנויות קמעונאיות",
+                "example": "He was a meticulous shopper who spent hours comparing different models of smartphones before making his purchase.",
+                "example_hebrew": "הוא היה קונה קפדן שבילה שעות בהשוואה בין דגמים שונים של סמארטפונים לפני רכישתו."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "assistant",
+        "word_hebrew": "עוֹזֵר",
+        "main_definition": "A person who helps, supports or complements the work of another person by performing tasks and responsibilities assigned to them.",
+        "main_definition_hebrew": "אדם המסייע, תומך או משלים את עבודתו של אדם אחר על ידי ביצוע משימות ואחריות שהוטלו עליו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A helper in an office setting",
+                "definition_hebrew": "עוזר במשרד",
+                "example": "She is a personal assistant for her boss, helping with scheduling meetings and managing emails.",
+                "example_hebrew": "היא עוזרת אישית לבוס שלה, עוזרת בתזמון פגישות וניהול מיילים."
+            },
+            {
+                "definition": "Supportive partner or spouse",
+                "definition_hebrew": "בן זוג או בן זוג תומך",
+                "example": "He sees his wife as more than just a companion; she's his trusted life-long assistant in navigating their daily lives together.",
+                "example_hebrew": "הוא רואה באשתו יותר מסתם בת לוויה; היא העוזרת האמינה שלו לכל החיים בניווט בחיי היומיום שלהם יחד."
+            },
+            {
+                "definition": "Assistive technology devices for individuals with disabilities",
+                "definition_hebrew": "מכשירי טכנולוגיה מסייעים לאנשים עם מוגבלויות",
+                "example": "A hearing aid is an assistive device that helps people with hearing loss to hear sounds more clearly.",
+                "example_hebrew": "מכשיר שמיעה הוא מכשיר מסייע המסייע לאנשים עם אובדן שמיעה לשמוע צלילים בצורה ברורה יותר."
+            },
+            {
+                "definition": "An AI system designed to support human tasks and activities",
+                "definition_hebrew": "מערכת AI שנועדה לתמוך במשימות ובפעילויות אנושיות",
+                "example": "The company's sales assistant software uses machine learning algorithms to provide personalized product recommendations based on customer data.",
+                "example_hebrew": "תוכנת עוזר המכירות של החברה משתמשת באלגוריתמים של למידת מכונה כדי לספק המלצות מוצר מותאמות אישית המבוססות על נתוני לקוחות."
+            },
+            {
+                "definition": "A person who assists in the preparation or execution of a performance, presentation, etc.",
+                "definition_hebrew": "אדם המסייע בהכנה או ביצוע של הופעה, מצגת וכו'.",
+                "example": "She is an understudy and assistant for the lead actress, helping with costume changes during live performances.",
+                "example_hebrew": "היא סטודנטית ועוזרת לשחקנית הראשית, ועוזרת בשינויי תלבושות במהלך הופעות חיות."
+            }
+        ]
+    }
+]

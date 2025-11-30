@@ -1,0 +1,46 @@
+[
+    {
+        "word": "experiments",
+        "word_hebrew": "ניסויים",
+        "main_definition": "Experiments refer to the process of conducting tests, trials, or studies to explore ideas, theories, or phenomena in various fields such as science, technology, and social sciences.",
+        "main_definition_hebrew": "ניסויים מתייחסים לתהליך של ביצוע מבחנים, ניסויים או מחקרים כדי לחקור רעיונות, תיאוריות או תופעות בתחומים שונים כגון מדע, טכנולוגיה ומדעי החברה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In scientific contexts, experiments are controlled procedures performed under specific conditions to observe outcomes or test hypotheses.",
+                "definition_hebrew": "בהקשרים מדעיים, ניסויים הם הליכים מבוקרים המבוצעים בתנאים ספציפיים כדי לצפות בתוצאות או לבחון השערות.",
+                "example": "The scientist conducted experiments to determine the effect of temperature on chemical reactions.",
+                "example_hebrew": "המדען ערך ניסויים כדי לקבוע את השפעת הטמפרטורה על תגובות כימיות."
+            },
+            {
+                "definition": "Experiments can also imply trial and error activities aimed at learning from failures or discovering new possibilities in personal growth or problem-solving.",
+                "definition_hebrew": "ניסויים יכולים גם לרמוז על פעילויות ניסוי וטעייה שמטרתן ללמוד מכישלונות או לגלות אפשרויות חדשות בצמיחה אישית או בפתרון בעיות.",
+                "example": "Trying different recipes to perfect a dish is considered an experiment in cooking.",
+                "example_hebrew": "ניסיון של מתכונים שונים לשכלל מנה נחשב לניסוי בבישול."
+            },
+            {
+                "definition": "In business and economics, experiments refer to trial runs of products, services, or market strategies to evaluate their viability or success before full-scale implementation.",
+                "definition_hebrew": "בעסקים ובכלכלה, ניסויים מתייחסים לריצות ניסיון של מוצרים, שירותים או אסטרטגיות שוק כדי להעריך את כדאיותם או הצלחתם לפני יישום בקנה מידה מלא.",
+                "example": "The company launched a beta version of its new app as an experiment to gather user feedback.",
+                "example_hebrew": "החברה השיקה גרסת בטא של האפליקציה החדשה שלה כניסוי לאיסוף משוב ממשתמשים."
+            },
+            {
+                "definition": "In social sciences and psychology, experiments involve testing hypotheses about human behavior through controlled observations or manipulation of variables within study groups.",
+                "definition_hebrew": "במדעי החברה והפסיכולוגיה, ניסויים כוללים בדיקת השערות לגבי התנהגות אנושית באמצעות תצפיות מבוקרות או מניפולציה של משתנים בתוך קבוצות מחקר.",
+                "example": "Researchers conducted experiments with two groups of participants to assess the impact of a new teaching method on student performance.",
+                "example_hebrew": "חוקרים ערכו ניסויים עם שתי קבוצות של משתתפים כדי להעריך את ההשפעה של שיטת הוראה חדשה על ביצועי התלמידים."
+            },
+            {
+                "definition": "In computing and technology, experiments encompass testing software updates, hardware modifications, or system configurations to ensure compatibility, stability, or desired outcomes.",
+                "definition_hebrew": "בתחום המחשוב והטכנולוגיה, הניסויים כוללים בדיקת עדכוני תוכנה, שינויי חומרה או תצורות מערכת כדי להבטיח תאימות, יציבות או תוצאות רצויות.",
+                "example": "A tech company ran several tests as an experiment to optimize its new web application's performance.",
+                "example_hebrew": "חברת טכנולוגיה ערכה מספר בדיקות כניסוי כדי לייעל את ביצועי יישום האינטרנט החדש שלה."
+            },
+            {
+                "definition": "Experiments in philosophy and critical thinking involve thought experiments designed to challenge assumptions, explore concepts, or stimulate intellectual debate.",
+                "definition_hebrew": "ניסויים בפילוסופיה ובחשיבה ביקורתית כוללים ניסויים מחשבתיים שנועדו לאתגר הנחות יסוד, לחקור מושגים או לעורר דיון אינטלקטואלי.",
+                "example": "Philosophers often use hypothetical scenarios as experiments to test the limits of ethical theories.",
+                "example_hebrew": "פילוסופים משתמשים לעתים קרובות בתרחישים היפותטיים כניסויים כדי לבדוק את גבולות התיאוריות האתיות."
+            }
+        ]
+    }
+]

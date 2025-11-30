@@ -1,0 +1,34 @@
+[
+    {
+        "word": "impaired",
+        "word_hebrew": "לקוי",
+        "main_definition": "In a general sense, 'impaired' means having reduced function or quality due to some form of damage or deficiency.",
+        "main_definition_hebrew": "במובן כללי, 'פגום' פירושו ירידה בתפקוד או באיכות עקב צורה כלשהי של נזק או חוסר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Lacking normal skill or ability",
+                "definition_hebrew": "חסר מיומנות או יכולת נורמלית",
+                "example": "After the accident, his motor skills were impaired.",
+                "example_hebrew": "לאחר התאונה, מיומנויותיו המוטוריות נפגעו."
+            },
+            {
+                "definition": "Having a diminished capacity to perform tasks",
+                "definition_hebrew": "בעל יכולת מופחתת לבצע משימות",
+                "example": "The drunk driver was found to be legally impaired on the road.",
+                "example_hebrew": "לנהג השיכור נמצאה פגיעה משפטית בכביש."
+            },
+            {
+                "definition": "Affected by some condition that hinders normal functioning",
+                "definition_hebrew": "מושפע ממצב כלשהו שמפריע לתפקוד תקין",
+                "example": "His eyesight became impaired due to old age and cataracts.",
+                "example_hebrew": "ראייתו נפגעה עקב זקנה וקטרקט."
+            },
+            {
+                "definition": "Infected or contaminated with a disease, causing deterioration in health",
+                "definition_hebrew": "נגוע או מזוהם במחלה, הגורם להידרדרות בבריאות",
+                "example": "The water supply was found to be chemically impaired after the chemical spill.",
+                "example_hebrew": "אספקת המים נמצאה פגומה כימית לאחר הדליפה הכימית."
+            }
+        ]
+    }
+]

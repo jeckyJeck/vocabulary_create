@@ -1,0 +1,34 @@
+[
+    {
+        "word": "baths",
+        "word_hebrew": "אמבטיות",
+        "main_definition": "The plural form of 'bath' which refers to the act of immersing oneself in water for cleanliness, relaxation or health benefits.",
+        "main_definition_hebrew": "צורת הרבים של 'אמבטיה' המתייחסת לפעולת הטבילה במים לשם ניקיון, הרפיה או יתרונות בריאותיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Noun - A place where one can take a bath",
+                "definition_hebrew": "שם עצם - מקום בו אפשר להתרחץ",
+                "example": "The hotel has luxurious baths with marble floors and jacuzzis.",
+                "example_hebrew": "במלון אמבטיות יוקרתיות עם רצפות שיש וג'קוזי."
+            },
+            {
+                "definition": "Verb - The act of taking a bath or being bathed by someone else",
+                "definition_hebrew": "פועל - פעולת האמבטיה או הרחצה על ידי מישהו אחר",
+                "example": "Every morning, my mother takes care to give me a warm bath.",
+                "example_hebrew": "כל בוקר אמא שלי דואגת לעשות לי אמבטיה חמה."
+            },
+            {
+                "definition": "Metaphorical - A group or collection of something related in some way",
+                "definition_hebrew": "מטאפורי - קבוצה או אוסף של משהו שקשור בדרך כלשהי",
+                "example": "The city hosts an annual festival celebrating the art and culture of various ethnic groups through traditional dances, foods, and clothing; it is a 'bath' of diversity.",
+                "example_hebrew": "בעיר מתקיים פסטיבל שנתי החוגג את האמנות והתרבות של קבוצות אתניות שונות באמצעות ריקודים מסורתיים, מאכלים וביגוד; זוהי 'אמבטיה' של גיוון."
+            },
+            {
+                "definition": "Historical - A practice or custom in ancient times where people took baths in public places",
+                "definition_hebrew": "היסטורי - נוהג או מנהג בימי קדם שבו אנשים התרחצו במקומות ציבוריים",
+                "example": "In ancient Rome, the Baths of Caracalla were famous for their grand architecture and served as a social hub where Romans could bathe, exercise, and relax.",
+                "example_hebrew": "ברומא העתיקה, המרחצאות של קרקלה היו מפורסמים בארכיטקטורה המפוארת שלהם ושימשו כמרכז חברתי בו יכלו הרומאים להתרחץ, להתאמן ולהירגע."
+            }
+        ]
+    }
+]

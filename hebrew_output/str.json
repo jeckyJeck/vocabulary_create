@@ -1,0 +1,34 @@
+[
+    {
+        "word": "str",
+        "word_hebrew": "str",
+        "main_definition": "The word 'str' is not an idiom but seems to be a shorthand or typo, possibly meant as 'string'. In programming contexts, it refers to a sequence of characters. However, since it doesn't directly correspond to an established English idiom, I will provide meanings related to the concept of strings in computer science and examples.",
+        "main_definition_hebrew": "המילה 'str' אינה ניב אלא נראה כקיצור או שגיאת הקלדה, אולי הכוונה היא ל'מחרוזת'. בהקשרי תכנות, זה מתייחס לרצף של תווים. עם זאת, מכיוון שהוא אינו תואם ישירות לניב באנגלית מבוסס, אספק משמעויות הקשורות למושג מחרוזות במדעי המחשב ודוגמאות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A string is a data type used in programming that represents a sequence of characters. It can include letters, numbers, symbols, or spaces.",
+                "definition_hebrew": "מחרוזת היא סוג נתונים המשמש בתכנות המייצג רצף של תווים. זה יכול לכלול אותיות, מספרים, סמלים או רווחים.",
+                "example": "In Python, 'Hello, World!' is an example of a string.",
+                "example_hebrew": "בפייתון, 'שלום, עולם!' הוא דוגמה למחרוזת."
+            },
+            {
+                "definition": "String concatenation is the process of joining two or more strings end-to-end to create a new string in programming languages like C++, Java, and JavaScript.",
+                "definition_hebrew": "שרשור מחרוזות הוא תהליך של חיבור שתי מחרוזות או יותר מקצה לקצה כדי ליצור מחרוזת חדשה בשפות תכנות כמו C++, Java ו-JavaScript.",
+                "example": "In JavaScript, 'Hello' + ' ' + 'World!' results in the string 'Hello World!'.",
+                "example_hebrew": "ב-JavaScript, 'שלום' + ' ' + 'עולם!' תוצאות במחרוזת 'Hello World!'."
+            },
+            {
+                "definition": "String manipulation involves modifying or extracting information from strings. This can include operations such as trimming whitespace, replacing characters, and splitting a string into substrings.",
+                "definition_hebrew": "מניפולציה של מחרוזת כוללת שינוי או חילוץ מידע ממחרוזות. זה יכול לכלול פעולות כגון חיתוך רווח לבן, החלפת תווים ופיצול מחרוזת למחרוזות משנה.",
+                "example": "In Python, using the strip() method removes leading and trailing whitespace: '  hello world! '.strip() returns 'hello world!'.",
+                "example_hebrew": "ב-Python, שימוש בשיטת strip() מסיר רווחים מובילים ונגררים: ' hello world! '.strip() מחזירה 'hello world!'."
+            },
+            {
+                "definition": "A substring is a contiguous sequence of characters within a larger string. Substring operations include finding all occurrences of a specific character or sequence, slicing to extract parts of the string, and replacing substrings.",
+                "definition_hebrew": "מחרוזת משנה היא רצף רציף של תווים בתוך מחרוזת גדולה יותר. פעולות מחרוזת משנה כוללות מציאת כל המופעים של תו או רצף ספציפיים, חיתוך כדי לחלץ חלקים מהמחרוזת והחלפת מחרוזות משנה.",
+                "example": "In Java, 'HelloWorld'.replace('World', 'Universe') replaces 'World' with 'Universe' in the string.",
+                "example_hebrew": "ב-Java, 'HelloWorld'.replace('World', 'Universe') מחליף את 'World' ב'Universe' במחרוזת."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "banking",
+        "word_hebrew": "בַּנקָאוּת",
+        "main_definition": "Banking refers to the business activities conducted by financial institutions, such as deposit-taking, lending, investment services, and currency exchange.",
+        "main_definition_hebrew": "בנקאות מתייחסת לפעילות העסקית המתנהלת על ידי מוסדות פיננסיים, כגון לקיחת פיקדונות, הלוואות, שירותי השקעות והמרת מטבעות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Financial institution",
+                "definition_hebrew": "מוסד פיננסי",
+                "example": "My bank offers various products like savings accounts, loans, and credit cards.",
+                "example_hebrew": "הבנק שלי מציע מוצרים שונים כמו חשבונות חיסכון, הלוואות וכרטיסי אשראי."
+            },
+            {
+                "definition": "Deposit-taking",
+                "definition_hebrew": "לקיחת פיקדון",
+                "example": "I deposited my paycheck at the local bank yesterday.",
+                "example_hebrew": "הפקדתי את תלוש המשכורת שלי בבנק המקומי אתמול."
+            },
+            {
+                "definition": "Loaning money",
+                "definition_hebrew": "הלוואות כסף",
+                "example": "The bank approved a mortgage loan for me to buy my first home.",
+                "example_hebrew": "הבנק אישר לי הלוואת משכנתא לרכישת בית ראשון."
+            },
+            {
+                "definition": "Investment services",
+                "definition_hebrew": "שירותי השקעות",
+                "example": "I consulted with my bank's investment advisor to create an investment portfolio.",
+                "example_hebrew": "התייעצתי עם יועץ ההשקעות של הבנק שלי כדי ליצור תיק השקעות."
+            },
+            {
+                "definition": "Currency exchange",
+                "definition_hebrew": "המרת מטבע",
+                "example": "Before traveling abroad, I exchanged currency at the airport through a bank branch.",
+                "example_hebrew": "לפני הנסיעה לחו\"ל, החלפתי מטבע בשדה התעופה באמצעות סניף בנק."
+            }
+        ]
+    }
+]

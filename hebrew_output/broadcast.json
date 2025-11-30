@@ -1,0 +1,28 @@
+[
+    {
+        "word": "broadcast",
+        "word_hebrew": "מִשׁדָר",
+        "main_definition": "To transmit information or content to a wide audience, typically via radio, television, or the internet.",
+        "main_definition_hebrew": "להעביר מידע או תוכן לקהל רחב, בדרך כלל באמצעות רדיו, טלוויזיה או אינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "To disseminate information widely and simultaneously.",
+                "definition_hebrew": "להפיץ מידע באופן נרחב ובו-זמנית.",
+                "example": "The president's speech was broadcast live on national television.",
+                "example_hebrew": "נאומו של הנשיא הועבר בשידור חי בטלוויזיה הארצית."
+            },
+            {
+                "definition": "To transmit signals or messages over a distance using radio waves or similar technology.",
+                "definition_hebrew": "לשדר אותות או הודעות למרחק באמצעות גלי רדיו או טכנולוגיה דומה.",
+                "example": "The emergency alert system sends out a signal to all radios in the area, broadcasting an important message.",
+                "example_hebrew": "מערכת ההתראה לשעת חירום שולחת אות לכל מכשירי הקשר באזור, ומשדרת הודעה חשובה."
+            },
+            {
+                "definition": "A program that is shown on television or transmitted via other media formats and reaches a large audience.",
+                "definition_hebrew": "תוכנית שמוקרנת בטלוויזיה או משודרת בפורמטים אחרים של מדיה ומגיעה לקהל גדול.",
+                "example": "My favorite show was cancelled after many years of airing; it had been broadcast every Friday night for over two decades.",
+                "example_hebrew": "התוכנית האהובה עליי בוטלה לאחר שנים רבות של שידור; זה שודר בכל יום שישי בערב במשך יותר משני עשורים."
+            }
+        ]
+    }
+]

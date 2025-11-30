@@ -1,0 +1,34 @@
+[
+    {
+        "word": "aids",
+        "word_hebrew": "עזרים",
+        "main_definition": "Aid, in its most comprehensive sense, refers to the act of providing assistance or support to improve a situation.",
+        "main_definition_hebrew": "סיוע, במובן המקיף ביותר שלו, מתייחס למעשה של מתן סיוע או תמיכה לשיפור המצב.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to healthcare services for people with disabilities or special needs",
+                "definition_hebrew": "הנוגע לשירותי בריאות לאנשים עם מוגבלות או צרכים מיוחדים",
+                "example": "The organization offers various programs and resources to aid individuals with physical disabilities in their daily activities.",
+                "example_hebrew": "הארגון מציע תוכניות ומשאבים שונים לסיוע לאנשים עם מוגבלות פיזית בפעילותם היומיומית."
+            },
+            {
+                "definition": "Assistance provided by one country or organization to another, often in the form of financial aid or humanitarian assistance",
+                "definition_hebrew": "סיוע הניתן על ידי מדינה או ארגון אחד לאחר, לרוב בצורה של סיוע כספי או סיוע הומניטרי",
+                "example": "In response to the earthquake, several countries came forward to provide aid and support to help rebuild the affected areas.",
+                "example_hebrew": "בתגובה לרעידת האדמה, כמה מדינות הגיעו כדי לספק סיוע ותמיכה כדי לסייע בבנייה מחדש של האזורים שנפגעו."
+            },
+            {
+                "definition": "A non-profit organization dedicated to improving health conditions in developing countries",
+                "definition_hebrew": "ארגון ללא מטרות רווח המוקדש לשיפור מצב הבריאות במדינות מתפתחות",
+                "example": "The international aid group has been working for decades to improve access to clean water, healthcare, and education in impoverished regions of Africa.",
+                "example_hebrew": "קבוצת הסיוע הבינלאומית פועלת במשך עשרות שנים לשיפור הגישה למים נקיים, שירותי בריאות וחינוך באזורים עניים של אפריקה."
+            },
+            {
+                "definition": "The act of providing financial support or resources to a cause or organization",
+                "definition_hebrew": "הפעולה של מתן תמיכה כספית או משאבים למטרה או לארגון",
+                "example": "She donated money as an aid to the local animal shelter, helping them provide food and medical care for abandoned pets.",
+                "example_hebrew": "היא תרמה כסף כסיוע למקלט החיות המקומי, ועזרה להם לספק מזון וטיפול רפואי לחיות מחמד נטושות."
+            }
+        ]
+    }
+]

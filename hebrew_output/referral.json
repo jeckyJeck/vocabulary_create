@@ -1,0 +1,34 @@
+[
+    {
+        "word": "referral",
+        "word_hebrew": "הפניה",
+        "main_definition": "A referral is a recommendation or advice given by one person to another, often used in contexts such as healthcare, employment, education, and customer service.",
+        "main_definition_hebrew": "הפניה היא המלצה או עצה שניתנת על ידי אדם אחד לאחר, המשמשת לעתים קרובות בהקשרים כמו בריאות, תעסוקה, חינוך ושירות לקוחות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the medical field, it refers to a patient's transfer from their primary care physician to a specialist for further evaluation or treatment.",
+                "definition_hebrew": "בתחום הרפואי, הכוונה היא למעבר של מטופל מהרופא הראשוני שלו למומחה להמשך הערכה או טיפול.",
+                "example": "After her doctor diagnosed her with an anxiety disorder, she was referred to a psychiatrist.",
+                "example_hebrew": "לאחר שהרופא שלה אבחן אותה עם הפרעת חרדה, היא הופנתה לפסיכיאטר."
+            },
+            {
+                "definition": "In the professional world, it refers to an individual being recommended for employment by another company or person within their network.",
+                "definition_hebrew": "בעולם המקצועי, הכוונה היא לאדם שהומלץ לעבודה על ידי חברה או אדם אחר ברשת שלו.",
+                "example": "He received a referral from his former colleague, which led him to get hired at XYZ Corporation.",
+                "example_hebrew": "הוא קיבל הפניה מעמיתו לשעבר, מה שהוביל אותו להתקבל לעבודה בתאגיד XYZ."
+            },
+            {
+                "definition": "In the education sector, it refers to suggesting a student to pursue further studies in another school or university that might be better suited for their academic goals.",
+                "definition_hebrew": "במגזר החינוך, הכוונה היא להציע לתלמיד להמשיך בלימודים בבית ספר או באוניברסיטה אחרת שעשויים להתאים יותר למטרותיו האקדמיות.",
+                "example": "The teacher referred her top-performing students to an advanced program at a prestigious boarding school.",
+                "example_hebrew": "המורה הפנתה את תלמידיה עם הביצועים הטובים ביותר לתכנית מתקדמת בפנימייה יוקרתית."
+            },
+            {
+                "definition": "In customer service, it refers to directing customers to other departments or individuals within the organization that can better assist them with their needs.",
+                "definition_hebrew": "בשירות לקוחות, הכוונה היא להפניית לקוחות למחלקות או אנשים אחרים בתוך הארגון שיכולים לסייע להם בצורה טובה יותר בצרכיהם.",
+                "example": "The sales representative referred me to our technical support team for help resolving my computer issues.",
+                "example_hebrew": "נציג המכירות הפנה אותי לצוות התמיכה הטכנית שלנו לקבלת עזרה בפתרון בעיות המחשב שלי."
+            }
+        ]
+    }
+]

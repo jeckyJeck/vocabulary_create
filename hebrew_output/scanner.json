@@ -1,0 +1,28 @@
+[
+    {
+        "word": "scanner",
+        "word_hebrew": "סוֹרֵק",
+        "main_definition": "A device or software program that captures images of documents, such as paper-based records or physical objects, to convert them into digital format.",
+        "main_definition_hebrew": "מכשיר או תוכנה הלוכדת תמונות של מסמכים, כגון רשומות מבוססות נייר או אובייקטים פיזיים, כדי להמיר אותם לפורמט דיגיטלי.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing, a scanner is an electronic device that converts hard copy documents and printed materials into digital form for storage on a computer.",
+                "definition_hebrew": "בתחום המחשוב, סורק הוא מכשיר אלקטרוני הממיר מסמכים מודפסים וחומרים מודפסים לצורה דיגיטלית לאחסון במחשב.",
+                "example": "The office staff uses the document scanner to digitize old reports.",
+                "example_hebrew": "צוות המשרד משתמש בסורק המסמכים כדי לבצע דיגיטציה של דוחות ישנים."
+            },
+            {
+                "definition": "A portable handheld device used in retail stores or libraries to scan barcodes of products or books and retrieve information about them.",
+                "definition_hebrew": "מכשיר כף יד נייד המשמש בחנויות קמעונאיות או בספריות כדי לסרוק ברקודים של מוצרים או ספרים ולאחזר מידע עליהם.",
+                "example": "The store employee quickly scanned the price tag with a handheld scanner before ringing up the purchase.",
+                "example_hebrew": "עובד החנות סרק במהירות את תג המחיר עם סורק כף יד לפני שצלצל לרכישה."
+            },
+            {
+                "definition": "A software program that allows users to digitize physical documents by capturing images of printed material on a computer screen.",
+                "definition_hebrew": "תוכנה המאפשרת למשתמשים לבצע דיגיטציה של מסמכים פיזיים על ידי לכידת תמונות של חומר מודפס על מסך מחשב.",
+                "example": "She used an image-scanning app to scan her old family photos and save them as digital files.",
+                "example_hebrew": "היא השתמשה באפליקציית סריקת תמונות כדי לסרוק את תמונות המשפחה הישנות שלה ולשמור אותן כקבצים דיגיטליים."
+            }
+        ]
+    }
+]

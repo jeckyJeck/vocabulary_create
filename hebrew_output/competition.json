@@ -1,0 +1,40 @@
+[
+    {
+        "word": "competition",
+        "word_hebrew": "תַחֲרוּת",
+        "main_definition": "Competition is a situation in which people or groups vie against each other to achieve a goal, often related to performance, skills, or resources.",
+        "main_definition_hebrew": "תחרות היא מצב שבו אנשים או קבוצות מתחרים זה מול זה כדי להשיג מטרה, הקשורה לרוב לביצועים, מיומנויות או משאבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A contest between two or more entities",
+                "definition_hebrew": "תחרות בין שני גופים או יותר",
+                "example": "The tennis tournament was fierce competition among the top players.",
+                "example_hebrew": "טורניר הטניס היה תחרות עזה בין השחקנים המובילים."
+            },
+            {
+                "definition": "Striving to outperform others in a specific field",
+                "definition_hebrew": "שאיפה להעלות על אחרים בתחום ספציפי",
+                "example": "In academics, students often compete for high grades and scholarships.",
+                "example_hebrew": "בלימודים, תלמידים מתחרים לרוב על ציונים גבוהים ומלגות."
+            },
+            {
+                "definition": "A situation where resources are limited and entities must strive to obtain them",
+                "definition_hebrew": "מצב בו המשאבים מוגבלים ועל גופים לשאוף להשיגם",
+                "example": "The job market is highly competitive as many people vie for the same positions.",
+                "example_hebrew": "שוק העבודה הוא תחרותי ביותר שכן אנשים רבים מתחרים על אותם תפקידים."
+            },
+            {
+                "definition": "A comparison of two or more things against each other in terms of qualities, abilities, or characteristics",
+                "definition_hebrew": "השוואה של שני דברים או יותר זה מול זה מבחינת תכונות, יכולות או מאפיינים",
+                "example": "During the art exhibition, different artists competed to have their works selected for display.",
+                "example_hebrew": "במהלך תערוכת האמנות התחרו אמנים שונים על בחירת יצירותיהם לתצוגה."
+            },
+            {
+                "definition": "The process of pushing oneself or others towards improvement and excellence through rivalry",
+                "definition_hebrew": "תהליך של דחיפת עצמך או אחרים לקראת שיפור ומצוינות באמצעות יריבות",
+                "example": "Coaches encourage healthy competition among team members to foster growth and skill development.",
+                "example_hebrew": "מאמנים מעודדים תחרות בריאה בין חברי הצוות כדי לטפח צמיחה ופיתוח מיומנויות."
+            }
+        ]
+    }
+]

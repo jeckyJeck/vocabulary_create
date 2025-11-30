@@ -1,0 +1,28 @@
+[
+    {
+        "word": "referring",
+        "word_hebrew": "מתייחס",
+        "main_definition": "Referring to or mentioning something previously known or discussed.",
+        "main_definition_hebrew": "התייחסות או אזכור של משהו ידוע או נדון בעבר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To direct someone's attention to a particular point, subject, or piece of information that has been mentioned before.",
+                "definition_hebrew": "להפנות את תשומת הלב של מישהו לנקודה מסוימת, לנושא או לפיסת מידע שהוזכרה קודם לכן.",
+                "example": "In the meeting, she was referring back to her previous comments about budget allocation.",
+                "example_hebrew": "בפגישה היא חזרה להערותיה הקודמות על הקצאת תקציב."
+            },
+            {
+                "definition": "Using a term or expression previously introduced in order to avoid repetition.",
+                "definition_hebrew": "שימוש במונח או ביטוי שהוצגו בעבר על מנת למנוע חזרה.",
+                "example": "When discussing different types of vehicles, I will refer to 'electric cars' as we discussed earlier.",
+                "example_hebrew": "כאשר דנים בסוגים שונים של רכבים, אתייחס ל'מכוניות חשמליות' כפי שדיברנו קודם לכן."
+            },
+            {
+                "definition": "To cite or quote someone else's words or ideas as evidence for an argument or point being made.",
+                "definition_hebrew": "לצטט או לצטט מילים או רעיונות של מישהו אחר כהוכחה לטיעון או לטענה שהועלתה.",
+                "example": "The author was referring to historical documents to support his thesis about the era.",
+                "example_hebrew": "המחבר התייחס למסמכים היסטוריים כדי לתמוך בתזה שלו על התקופה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "justify",
+        "word_hebrew": "לְהַצְדִיק",
+        "main_definition": "To provide reasons or explanations to make something seem reasonable, fair, or correct.",
+        "main_definition_hebrew": "לספק סיבות או הסברים כדי לגרום למשהו להיראות הגיוני, הוגן או נכון.",
+        "meanings_and_examples": [
+            {
+                "definition": "To explain the reasons for an action or decision and convince others that it is valid.",
+                "definition_hebrew": "להסביר את הסיבות לפעולה או להחלטה ולשכנע אחרים שהיא תקפה.",
+                "example": "She had to justify her absence from work due to a family emergency.",
+                "example_hebrew": "היא נאלצה להצדיק את היעדרותה מהעבודה עקב מצב חירום משפחתי."
+            },
+            {
+                "definition": "To align text evenly on both sides of a page or column, typically using space between lines and paragraphs.",
+                "definition_hebrew": "ליישור טקסט באופן שווה משני צידי העמוד או העמודה, בדרך כלל תוך שימוש ברווח בין שורות ופסקאות.",
+                "example": "The designer justified the text in the document so that it would look neat and organized.",
+                "example_hebrew": "המעצב נימק את הטקסט במסמך כך שהוא ייראה מסודר ומאורגן."
+            },
+            {
+                "definition": "In mathematics, to multiply both sides of an equation by a number (or numbers) with the goal of eliminating fractions or other complex expressions.",
+                "definition_hebrew": "במתמטיקה, להכפיל את שני הצדדים של משוואה במספר (או במספרים) במטרה לבטל שברים או ביטויים מורכבים אחרים.",
+                "example": "By multiplying each side of the equation by 3, we can justify our solution.",
+                "example_hebrew": "על ידי הכפלת כל צד של המשוואה ב-3, נוכל להצדיק את הפתרון שלנו."
+            },
+            {
+                "definition": "To show that something is right or reasonable based on evidence or facts.",
+                "definition_hebrew": "להראות שמשהו נכון או סביר בהתבסס על ראיות או עובדות.",
+                "example": "The scientist could justify her theory with a wealth of empirical data.",
+                "example_hebrew": "המדען יכול להצדיק את התיאוריה שלה עם שפע של נתונים אמפיריים."
+            },
+            {
+                "definition": "In ethics, to provide sufficient reason for an action in order to deem it morally acceptable.",
+                "definition_hebrew": "באתיקה, לספק סיבה מספקת לפעולה כדי לראותה מקובלת מבחינה מוסרית.",
+                "example": "He struggled to justify his actions when they conflicted with his moral values.",
+                "example_hebrew": "הוא נאבק להצדיק את מעשיו כשהם מתנגשים עם ערכיו המוסריים."
+            }
+        ]
+    }
+]

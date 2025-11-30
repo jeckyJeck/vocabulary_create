@@ -1,0 +1,34 @@
+[
+    {
+        "word": "output",
+        "word_hebrew": "תְפוּקָה",
+        "main_definition": "Output refers to the result or product that is produced by a process, system, or device after it has undergone input and transformation.",
+        "main_definition_hebrew": "פלט מתייחס לתוצאה או למוצר שמיוצרים על ידי תהליך, מערכת או מכשיר לאחר שעברו קלט ושינוי.",
+        "meanings_and_examples": [
+            {
+                "definition": "The total amount of goods or services produced by a company or economy",
+                "definition_hebrew": "הכמות הכוללת של סחורות או שירותים המיוצרים על ידי חברה או כלכלה",
+                "example": "After implementing new machinery, the factory's output increased significantly.",
+                "example_hebrew": "לאחר הטמעת מכונות חדשות, תפוקת המפעל גדלה באופן משמעותי."
+            },
+            {
+                "definition": "Data generated as a result from processing information in computer systems",
+                "definition_hebrew": "נתונים הנוצרים כתוצאה מעיבוד מידע במערכות מחשב",
+                "example": "The program provided an output of error messages after encountering invalid input.",
+                "example_hebrew": "התוכנית סיפקה פלט של הודעות שגיאה לאחר שנתקלה בקלט לא חוקי."
+            },
+            {
+                "definition": "Result or product obtained by performing certain actions on inputs, such as calculations",
+                "definition_hebrew": "תוצאה או תוצר שהושגו על ידי ביצוע פעולות מסוימות בתשומות, כגון חישובים",
+                "example": "The mathematician's output was the answer to the complex equation he had been working on for days.",
+                "example_hebrew": "הפלט של המתמטיקאי היה התשובה למשוואה המורכבת עליה עבד במשך ימים."
+            },
+            {
+                "definition": "Sound produced by electronic devices during operation",
+                "definition_hebrew": "צליל המופק על ידי מכשירים אלקטרוניים במהלך הפעולה",
+                "example": "The printer began churning out a continuous stream of paper documents as its output.",
+                "example_hebrew": "המדפסת החלה להוציא זרם רציף של מסמכי נייר כפלט שלה."
+            }
+        ]
+    }
+]

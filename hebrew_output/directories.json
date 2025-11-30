@@ -1,0 +1,34 @@
+[
+    {
+        "word": "directories",
+        "word_hebrew": "ספריות",
+        "main_definition": "Directories can refer to organized collections of information, locations where files are stored in computing systems, or guides that provide instructions.",
+        "main_definition_hebrew": "ספריות יכולות להתייחס לאוספי מידע מסודרים, מיקומים שבהם קבצים מאוחסנים במערכות מחשוב, או מדריכים המספקים הוראות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A collection of computer data storage spaces containing indexes (or pointers) to other data",
+                "definition_hebrew": "אוסף של שטחי אחסון נתונים במחשב המכילים אינדקסים (או מצביעים) לנתונים אחרים",
+                "example": "On a Windows computer, you might find the 'Documents' directory where personal files are stored.",
+                "example_hebrew": "במחשב Windows, ייתכן שתמצא את ספריית 'מסמכים' שבה מאוחסנים קבצים אישיים."
+            },
+            {
+                "definition": "A guide or manual that provides instructions or directions on how to do something",
+                "definition_hebrew": "מדריך או מדריך המספק הוראות או הנחיות כיצד לעשות משהו",
+                "example": "The hotel's front desk gave us a map with detailed directories for various facilities like restaurants, gym, and swimming pool.",
+                "example_hebrew": "דלפק הקבלה של המלון נתן לנו מפה עם ספריות מפורטות עבור מתקנים שונים כמו מסעדות, חדר כושר ובריכת שחייה."
+            },
+            {
+                "definition": "A named list of computer files or other resources that are accessible on the network or over the internet",
+                "definition_hebrew": "רשימה עם שם של קבצי מחשב או משאבים אחרים הנגישים ברשת או דרך האינטרנט",
+                "example": "When setting up email, you need to enter the correct directories for your mailbox in order to send and receive messages.",
+                "example_hebrew": "בעת הגדרת דואר אלקטרוני, עליך להזין את הספריות הנכונות עבור תיבת הדואר שלך כדי לשלוח ולקבל הודעות."
+            },
+            {
+                "definition": "An organized arrangement of data or information typically presented hierarchically with parent-child relationships",
+                "definition_hebrew": "סידור מאורגן של נתונים או מידע המוצג בדרך כלל בצורה היררכית עם יחסי הורה-ילד",
+                "example": "The library's card catalog used a directory system where books were arranged by author, title, subject, etc.",
+                "example_hebrew": "בקטלוג הקלפים של הספרייה נעשה שימוש במערכת ספריות שבה הספרים מסודרים לפי מחבר, כותרת, נושא וכו'."
+            }
+        ]
+    }
+]

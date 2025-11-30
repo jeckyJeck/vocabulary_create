@@ -1,0 +1,34 @@
+[
+    {
+        "word": "hero",
+        "word_hebrew": "גיבור",
+        "main_definition": "A hero is a person admired for their courage, outstanding achievements, or noble qualities.",
+        "main_definition_hebrew": "גיבור הוא אדם הנערץ על אומץ ליבו, הישגיו הבולטים או תכונותיו האצילות.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual who performs brave acts and saves others from danger",
+                "definition_hebrew": "אדם שמבצע מעשים אמיצים ומציל אחרים מסכנה",
+                "example": "The firefighter was hailed as a hero after he rescued several people trapped in the burning building.",
+                "example_hebrew": "הכבאי הוכתר כגיבור לאחר שחילץ כמה לכודים בבניין הבוער."
+            },
+            {
+                "definition": "A character often portrayed with superhuman abilities or extraordinary skills in stories, movies, and games",
+                "definition_hebrew": "דמות המוצגת לעתים קרובות עם יכולות על אנושיות או כישורים יוצאי דופן בסיפורים, סרטים ומשחקים",
+                "example": "In comic books, Superman is considered a hero due to his incredible strength and ability to fly.",
+                "example_hebrew": "בחוברות קומיקס, סופרמן נחשב לגיבור בשל כוחו ויכולתו המדהימה לעוף."
+            },
+            {
+                "definition": "Someone who stands up for what they believe in despite challenges or opposition",
+                "definition_hebrew": "מישהו שעומד על מה שהוא מאמין בו למרות אתגרים או התנגדות",
+                "example": "Martin Luther King Jr. was seen as a hero during the Civil Rights Movement because of his dedication to achieving equality.",
+                "example_hebrew": "מרטין לותר קינג ג'וניור נתפס כגיבור במהלך התנועה לזכויות האזרח בגלל מסירותו להשגת שוויון."
+            },
+            {
+                "definition": "A person admired and celebrated by society for their achievements, leadership, or contributions",
+                "definition_hebrew": "אדם הנערץ והנחגג על ידי החברה על הישגיו, מנהיגותו או תרומתו",
+                "example": "Malala Yousafzai is considered a hero around the world for her advocacy for girls' education in Pakistan.",
+                "example_hebrew": "מלאלה יוספזאי נחשבת לגיבורה ברחבי העולם בזכות התמיכה שלה לחינוך בנות בפקיסטן."
+            }
+        ]
+    }
+]

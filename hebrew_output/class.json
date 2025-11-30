@@ -1,0 +1,40 @@
+[
+    {
+        "word": "class",
+        "word_hebrew": "מעמד",
+        "main_definition": "Class refers to a group of students who are taught together or an instructional session, as well as various context-specific meanings related to grouping, categorization, or learning.",
+        "main_definition_hebrew": "שיעור מתייחס לקבוצת תלמידים הנלמדים יחד או למפגש הדרכה, כמו גם משמעויות ספציפיות להקשר הקשורות לקיבוץ, לקטגוריות או ללמידה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A group of people assembled for educational purposes",
+                "definition_hebrew": "קבוצת אנשים שהתאספו למטרות חינוכיות",
+                "example": "The students are divided into two classes for the morning session.",
+                "example_hebrew": "התלמידים מחולקים לשתי כיתות למפגש הבוקר."
+            },
+            {
+                "definition": "A specific time allocated for teaching and learning",
+                "definition_hebrew": "זמן ספציפי שהוקצה להוראה ולמידה",
+                "example": "Math class starts at 9 AM every day.",
+                "example_hebrew": "שיעור מתמטיקה מתחיל ב-9 בבוקר כל יום."
+            },
+            {
+                "definition": "A category or division based on common characteristics",
+                "definition_hebrew": "קטגוריה או חלוקה המבוססת על מאפיינים משותפים",
+                "example": "There are different classes of drugs, such as over-the-counter medications and prescription medications.",
+                "example_hebrew": "ישנן סוגים שונים של תרופות, כגון תרופות ללא מרשם ותרופות מרשם."
+            },
+            {
+                "definition": "An organized group of people with a shared interest or goal",
+                "definition_hebrew": "קבוצה מאורגנת של אנשים עם עניין או מטרה משותפים",
+                "example": "The book club is considered an informal class where members read and discuss books together.",
+                "example_hebrew": "מועדון הספר נחשב לשיעור בלתי פורמלי בו חברים קוראים ודנים בספרים יחד."
+            },
+            {
+                "definition": "A course of study in an educational institution, often leading to certification or qualification",
+                "definition_hebrew": "מסלול לימודים במוסד חינוכי, לעיתים קרובות מוביל להסמכה או הסמכה",
+                "example": "She completed her business management class at the local college.",
+                "example_hebrew": "היא סיימה את שיעור ניהול העסקים שלה במכללה המקומית."
+            }
+        ]
+    }
+]

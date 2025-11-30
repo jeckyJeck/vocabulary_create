@@ -1,0 +1,40 @@
+[
+    {
+        "word": "identity",
+        "word_hebrew": "זהות",
+        "main_definition": "Identity refers to the qualities, beliefs, personality, looks, and/or expressions that make a person or thing different from others.",
+        "main_definition_hebrew": "זהות מתייחסת לאיכויות, לאמונות, לאישיות, למראה ו/או לביטויים המבדילים אדם או דבר מאחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Unique characteristics of an individual such as name, nationality, gender, age",
+                "definition_hebrew": "מאפיינים ייחודיים של אדם כמו שם, לאום, מין, גיל",
+                "example": "His identity is his name, date of birth and citizenship.",
+                "example_hebrew": "זהותו היא שמו, תאריך הלידה והאזרחות שלו."
+            },
+            {
+                "definition": "Personal or social characteristics that define who a person is, like values, beliefs, ethics",
+                "definition_hebrew": "מאפיינים אישיים או חברתיים המגדירים מיהו אדם, כמו ערכים, אמונות, אתיקה",
+                "example": "Her strong sense of justice forms an essential part of her identity.",
+                "example_hebrew": "חוש הצדק החזק שלה מהווה חלק מהותי מזהותה."
+            },
+            {
+                "definition": "The combination of personal attributes and factors such as appearance and reputation in society",
+                "definition_hebrew": "השילוב של תכונות אישיות וגורמים כמו הופעה ומוניטין בחברה",
+                "example": "His professional identity is built upon his experience, skills, and the respect he has earned among peers.",
+                "example_hebrew": "זהותו המקצועית בנויה על ניסיונו, כישוריו והכבוד שזכה לו בקרב עמיתים."
+            },
+            {
+                "definition": "A set of traits or qualities that make a person or thing recognizable and distinguishable from others",
+                "definition_hebrew": "קבוצה של תכונות או תכונות שהופכות אדם או דבר לזיהוי ולהבדיל מאחרים",
+                "example": "The unique identity of an artist may include their distinctive style and signature color palette.",
+                "example_hebrew": "הזהות הייחודית של אמן עשויה לכלול את הסגנון הייחודי שלו ואת לוח הצבעים החתימה שלו."
+            },
+            {
+                "definition": "In the context of technology, it refers to digital footprints such as usernames, passwords, and online behaviors that represent a user's presence in virtual spaces",
+                "definition_hebrew": "בהקשר של טכנולוגיה, היא מתייחסת לטביעות רגל דיגיטליות כגון שמות משתמש, סיסמאות והתנהגויות מקוונות המייצגות נוכחות של משתמש במרחבים וירטואליים.",
+                "example": "Online identity is crucial for security, encompassing aspects like password management and account settings.",
+                "example_hebrew": "זהות מקוונת חיונית לאבטחה, וכוללת היבטים כמו ניהול סיסמאות והגדרות חשבון."
+            }
+        ]
+    }
+]

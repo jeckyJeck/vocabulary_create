@@ -1,0 +1,28 @@
+[
+    {
+        "word": "api",
+        "word_hebrew": "API",
+        "main_definition": "API stands for Application Programming Interface, a set of rules and protocols that allows different software applications to communicate with each other.",
+        "main_definition_hebrew": "API ראשי תיבות של Application Programming Interface, סט של כללים ופרוטוקולים המאפשרים ליישומי תוכנה שונים לתקשר זה עם זה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Abbreviation of API",
+                "definition_hebrew": "קיצור של API",
+                "example": "The developers used the 'api' in their documentation to refer to Application Programming Interface.",
+                "example_hebrew": "המפתחים השתמשו ב-API בתיעוד שלהם כדי להתייחס לממשק תכנות יישומים."
+            },
+            {
+                "definition": "Programming interface for web services",
+                "definition_hebrew": "ממשק תכנות לשירותי אינטרנט",
+                "example": "You can easily integrate various online resources using their respective APIs. For instance, Twitter offers an API that allows you to access and retrieve user data programmatically.",
+                "example_hebrew": "אתה יכול לשלב בקלות משאבים מקוונים שונים באמצעות ממשקי ה-API שלהם. לדוגמה, טוויטר מציעה API המאפשר לך לגשת ולאחזר נתוני משתמש באופן פרוגרמטי."
+            },
+            {
+                "definition": "A method by which software applications can communicate with each other",
+                "definition_hebrew": "שיטה שבה יישומי תוכנה יכולים לתקשר אחד עם השני",
+                "example": "The weather app uses the OpenWeatherMap API to fetch real-time weather updates for different locations.",
+                "example_hebrew": "אפליקציית מזג האוויר משתמשת ב- OpenWeatherMap API כדי להביא עדכוני מזג אוויר בזמן אמת עבור מיקומים שונים."
+            }
+        ]
+    }
+]

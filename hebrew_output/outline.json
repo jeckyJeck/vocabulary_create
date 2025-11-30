@@ -1,0 +1,40 @@
+[
+    {
+        "word": "outline",
+        "word_hebrew": "מתווה",
+        "main_definition": "To provide a brief summary or overview of the main points, structure, or essential aspects of something.",
+        "main_definition_hebrew": "לספק סיכום קצר או סקירה של הנקודות העיקריות, המבנה או ההיבטים החיוניים של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A preliminary version of a written work that outlines the key ideas and sections",
+                "definition_hebrew": "גרסה ראשונית של עבודה כתובה המתארת את הרעיונות והסעיפים המרכזיים",
+                "example": "After researching her topic, Sarah created an outline to help organize her thoughts before starting her essay.",
+                "example_hebrew": "לאחר שחקרה את הנושא שלה, שרה יצרה מתווה שיעזור לארגן את מחשבותיה לפני תחילת החיבור שלה."
+            },
+            {
+                "definition": "The act of drawing or describing the basic shape and features of something without including finer details",
+                "definition_hebrew": "הפעולה של ציור או תיאור הצורה והתכונות הבסיסיות של משהו מבלי לכלול פרטים עדינים יותר",
+                "example": "Using a pencil, she began to outline the main shapes of the building on paper before adding more intricate elements.",
+                "example_hebrew": "בעזרת עיפרון היא החלה לשרטט את הצורות העיקריות של הבניין על נייר לפני שהוסיפה אלמנטים מורכבים יותר."
+            },
+            {
+                "definition": "A set boundary line that shows where one object ends and another begins",
+                "definition_hebrew": "קו גבול מוגדר המראה היכן מסתיים אובייקט אחד ומתחיל אחר",
+                "example": "The artist used an outline around his drawing to distinguish it from the white background.",
+                "example_hebrew": "האמן השתמש בקו מתאר סביב הציור שלו כדי להבחין בינו לבין הרקע הלבן."
+            },
+            {
+                "definition": "To discuss or talk about something in general terms without going into specifics",
+                "definition_hebrew": "לדון או לדבר על משהו במונחים כלליים מבלי להיכנס לפרטים",
+                "example": "At the meeting, they only gave a brief outline of their plans for the upcoming project.",
+                "example_hebrew": "בפגישה הם נתנו רק מתאר קצר של תוכניותיהם לפרויקט הקרוב."
+            },
+            {
+                "definition": "A list or plan that shows the main points to be covered before more detailed work is done",
+                "definition_hebrew": "רשימה או תוכנית המציגה את הנקודות העיקריות שיש לכסות לפני ביצוע עבודה מפורטת יותר",
+                "example": "The teacher asked each student to prepare an outline of their presentation, including key arguments and evidence.",
+                "example_hebrew": "המורה ביקשה מכל תלמיד להכין מתווה של המצגת שלו, כולל טיעונים וראיות מרכזיות."
+            }
+        ]
+    }
+]

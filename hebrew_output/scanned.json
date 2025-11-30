@@ -1,0 +1,34 @@
+[
+    {
+        "word": "scanned",
+        "word_hebrew": "נסרק",
+        "main_definition": "To examine or review something in a systematic way, usually by using technology to convert it into digital form.",
+        "main_definition_hebrew": "לבחון או לסקור משהו בצורה שיטתית, בדרך כלל באמצעות טכנולוגיה להמרתו לצורה דיגיטלית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Using a scanner to create a digital copy of a physical document or image",
+                "definition_hebrew": "שימוש בסורק ליצירת עותק דיגיטלי של מסמך פיזי או תמונה",
+                "example": "The library scanned the books to add them to their digital collection.",
+                "example_hebrew": "הספרייה סרקה את הספרים כדי להוסיף אותם לאוסף הדיגיטלי שלהם."
+            },
+            {
+                "definition": "Reviewing something quickly for relevant information or details",
+                "definition_hebrew": "סקור משהו במהירות לקבלת מידע או פרטים רלוונטיים",
+                "example": "After seeing her resume, the employer decided to scan it and review its contents before scheduling an interview.",
+                "example_hebrew": "לאחר שראה את קורות החיים שלה, החליט המעסיק לסרוק אותם ולעיין בתוכנו לפני קביעת ראיון."
+            },
+            {
+                "definition": "In medicine, scanning refers to performing a medical imaging technique like ultrasound or X-ray.",
+                "definition_hebrew": "ברפואה, סריקה מתייחסת לביצוע טכניקת הדמיה רפואית כמו אולטרסאונד או רנטגן.",
+                "example": "The doctor used a handheld Doppler device to scan the patient's abdomen for blood flow.",
+                "example_hebrew": "הרופא השתמש במכשיר דופלר כף יד כדי לסרוק את בטנו של המטופל לאיתור זרימת דם."
+            },
+            {
+                "definition": "Looking at something closely and carefully",
+                "definition_hebrew": "מסתכלים על משהו מקרוב ובזהירות",
+                "example": "She scanned the painting, examining every brushstroke and color choice.",
+                "example_hebrew": "היא סרקה את הציור, בחנה כל משיכת מכחול וכל בחירת צבע."
+            }
+        ]
+    }
+]

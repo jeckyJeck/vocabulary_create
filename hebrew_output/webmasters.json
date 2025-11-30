@@ -1,0 +1,28 @@
+[
+    {
+        "word": "webmasters",
+        "word_hebrew": "מנהלי אתרים",
+        "main_definition": "Webmasters are individuals responsible for managing, maintaining, and updating websites.",
+        "main_definition_hebrew": "מנהלי אתרים הם אנשים האחראים על ניהול, תחזוקה ועדכון של אתרי אינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "A person in charge of creating and developing a website's content and design.",
+                "definition_hebrew": "אחראי על יצירה ופיתוח תוכן ועיצוב אתר אינטרנט.",
+                "example": "John is a talented webmaster who creates visually appealing and user-friendly websites.",
+                "example_hebrew": "ג'ון הוא מנהל אתרים מוכשר שיוצר אתרים מושכים ויזואלית וידידותיים למשתמש."
+            },
+            {
+                "definition": "An individual responsible for managing the technical aspects of a website, such as server configuration, software updates, and security measures.",
+                "definition_hebrew": "אדם האחראי על ניהול ההיבטים הטכניים של אתר אינטרנט, כגון תצורת שרת, עדכוני תוכנה ואמצעי אבטחה.",
+                "example": "Lisa works as a webmaster to ensure that her company's website runs smoothly and securely.",
+                "example_hebrew": "ליסה עובדת כמנהלת אתרים כדי להבטיח שהאתר של החברה שלה יפעל בצורה חלקה ובטוחה."
+            },
+            {
+                "definition": "Someone who maintains multiple websites or manages the online presence of an organization by overseeing content updates, design changes, and SEO strategies.",
+                "definition_hebrew": "מישהו שמתחזק אתרי אינטרנט מרובים או מנהל את הנוכחות המקוונת של ארגון על ידי פיקוח על עדכוני תוכן, שינויי עיצוב ואסטרטגיות SEO.",
+                "example": "The team of webmasters at XYZ Corporation is in charge of updating all company-related websites with accurate information.",
+                "example_hebrew": "צוות מנהלי האתרים בתאגיד XYZ אחראי על עדכון כל האתרים הקשורים לחברה במידע מדויק."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "proceed",
+        "word_hebrew": "להמשיך",
+        "main_definition": "To continue or move forward with an action, plan, or process.",
+        "main_definition_hebrew": "להמשיך או להתקדם עם פעולה, תוכנית או תהליך.",
+        "meanings_and_examples": [
+            {
+                "definition": "To begin doing something that was previously planned or announced.",
+                "definition_hebrew": "להתחיל לעשות משהו שתוכנן או הוכרז בעבר.",
+                "example": "After the meeting, we will proceed to implement the new strategy.",
+                "example_hebrew": "לאחר הפגישה נמשיך ליישום האסטרטגיה החדשה."
+            },
+            {
+                "definition": "Continuing with an action despite obstacles or difficulties.",
+                "definition_hebrew": "המשך פעולה למרות מכשולים או קשיים.",
+                "example": "Even though there were some technical issues, they proceeded with the software installation.",
+                "example_hebrew": "למרות שהיו כמה בעיות טכניות, הם המשיכו בהתקנת התוכנה."
+            },
+            {
+                "definition": "To move forward in a systematic and orderly manner.",
+                "definition_hebrew": "להתקדם בצורה שיטתית ומסודרת.",
+                "example": "The project team will proceed from one phase to the next as per the plan.",
+                "example_hebrew": "צוות הפרויקט ימשיך משלב אחד למשנהו בהתאם לתכנית."
+            },
+            {
+                "definition": "To continue an activity or process without interruption.",
+                "definition_hebrew": "להמשך פעילות או תהליך ללא הפרעה.",
+                "example": "We cannot afford any delays, so we must proceed with our production schedule.",
+                "example_hebrew": "אנחנו לא יכולים להרשות לעצמנו עיכובים, אז אנחנו חייבים להמשיך עם לוח הזמנים של הייצור שלנו."
+            }
+        ]
+    }
+]

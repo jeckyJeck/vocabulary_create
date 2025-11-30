@@ -1,0 +1,40 @@
+[
+    {
+        "word": "code",
+        "word_hebrew": "קוד",
+        "main_definition": "Code refers to a system of principles or rules that are used as the basis for reasoning, communication, or calculation in various contexts such as programming, secret language, legal regulations, and more.",
+        "main_definition_hebrew": "קוד מתייחס למערכת של עקרונות או כללים המשמשים כבסיס להנמקה, תקשורת או חישוב בהקשרים שונים כגון תכנות, שפה סודית, תקנות משפטיות ועוד.",
+        "meanings_and_examples": [
+            {
+                "definition": "A set of instructions written in a programming language to perform specific tasks on a computer",
+                "definition_hebrew": "קבוצה של הוראות הכתובות בשפת תכנות לביצוע משימות ספציפיות במחשב",
+                "example": "The Python code I wrote calculates the sum of two numbers.",
+                "example_hebrew": "קוד הפייתון שכתבתי מחשב את הסכום של שני מספרים."
+            },
+            {
+                "definition": "An agreed-upon system or method for representing information, such as secret codes used by spies during wartime",
+                "definition_hebrew": "מערכת או שיטה מוסכמת לייצוג מידע, כגון קודים סודיים שבהם השתמשו מרגלים בזמן מלחמה",
+                "example": "During World War II, agents would use a special code to communicate without others understanding their messages.",
+                "example_hebrew": "במהלך מלחמת העולם השנייה, סוכנים היו משתמשים בקוד מיוחד כדי לתקשר מבלי שאחרים יבינו את המסרים שלהם."
+            },
+            {
+                "definition": "A set of rules and regulations that govern behavior or activities in certain areas such as law or society",
+                "definition_hebrew": "קבוצה של כללים וכללים השולטים בהתנהגות או בפעילויות בתחומים מסוימים כגון חוק או חברה",
+                "example": "In the legal field, we follow strict codes of ethics to ensure fairness and integrity.",
+                "example_hebrew": "בתחום המשפטי, אנו פועלים לפי קודים אתיים מחמירים כדי להבטיח הוגנות ויושרה."
+            },
+            {
+                "definition": "An abbreviation for a complex term or phrase used to simplify communication",
+                "definition_hebrew": "קיצור של מונח או ביטוי מורכבים המשמשים לפישוט התקשורת",
+                "example": "The medical code 'CAD' stands for coronary artery disease.",
+                "example_hebrew": "הקוד הרפואי 'CAD' מייצג מחלת עורקים כליליים."
+            },
+            {
+                "definition": "A coded language created by an individual, often children, that only they understand",
+                "definition_hebrew": "שפה מקודדת שנוצרה על ידי יחיד, לרוב ילדים, שרק הם מבינים",
+                "example": "My nephew invented a secret code with his friends to pass notes in class without the teacher noticing.",
+                "example_hebrew": "האחיין שלי המציא קוד סודי עם חבריו להעביר פתקים בכיתה מבלי שהמורה ישים לב."
+            }
+        ]
+    }
+]

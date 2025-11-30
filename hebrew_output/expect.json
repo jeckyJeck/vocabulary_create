@@ -1,0 +1,34 @@
+[
+    {
+        "word": "expect",
+        "word_hebrew": "לְצַפּוֹת",
+        "main_definition": "To anticipate or look forward to something happening, based on previous experience or knowledge.",
+        "main_definition_hebrew": "לצפות או לצפות שמשהו יקרה, על סמך ניסיון או ידע קודם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Anticipating a particular result or event to occur in the future.",
+                "definition_hebrew": "ציפייה לתוצאה או אירוע מסוים שיתרחש בעתיד.",
+                "example": "I expect it will rain tomorrow because there are dark clouds.",
+                "example_hebrew": "אני מצפה שירד גשם מחר כי יש עננים כהים."
+            },
+            {
+                "definition": "Assuming that something is likely to happen, often based on past experiences or general knowledge.",
+                "definition_hebrew": "בהנחה שסביר שמשהו יקרה, לרוב בהתבסס על חוויות עבר או ידע כללי.",
+                "example": "Given her excellent grades in math, I expect she'll do well on the upcoming test.",
+                "example_hebrew": "לאור הציונים המצוינים שלה במתמטיקה, אני מצפה שהיא תצליח במבחן הקרוב."
+            },
+            {
+                "definition": "To have a sense of entitlement towards certain outcomes or actions from others.",
+                "definition_hebrew": "לקבל תחושה של זכאות לתוצאות מסוימות או לפעולות של אחרים.",
+                "example": "I don't expect my friends to always remember small details about me; it's just part of friendship.",
+                "example_hebrew": "אני לא מצפה מחברי לזכור תמיד פרטים קטנים עלי; זה רק חלק מהחברות."
+            },
+            {
+                "definition": "Assuming something will happen without necessarily having evidence, but based on a strong feeling or intuition.",
+                "definition_hebrew": "בהנחה שמשהו יקרה מבלי שיהיו בהכרח ראיות, אלא על סמך תחושה חזקה או אינטואיציה.",
+                "example": "Despite the lack of any concrete signs, I can't help but expect him to arrive late as usual.",
+                "example_hebrew": "למרות היעדר סימנים קונקרטיים, אני לא יכול שלא לצפות שיגיע באיחור כרגיל."
+            }
+        ]
+    }
+]

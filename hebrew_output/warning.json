@@ -1,0 +1,40 @@
+[
+    {
+        "word": "warning",
+        "word_hebrew": "אַזהָרָה",
+        "main_definition": "A warning is a signal or indication that alerts someone to potential danger, problems, or unwanted situations.",
+        "main_definition_hebrew": "אזהרה היא אות או אינדיקציה שמתריעים על סכנה פוטנציאלית, בעיות או מצבים לא רצויים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An alert message conveying the possibility of an upcoming problem or threat",
+                "definition_hebrew": "הודעת התראה המעבירה אפשרות של בעיה או איום קרובים",
+                "example": "The weather warning advised residents to stay indoors due to severe storm conditions.",
+                "example_hebrew": "אזהרת מזג האוויר המליצה לתושבים להישאר בבית עקב תנאי סערה קשים."
+            },
+            {
+                "definition": "A notice that advises caution or care in a particular situation",
+                "definition_hebrew": "הודעה הממליצה על זהירות או זהירות במצב מסוים",
+                "example": "Before driving, the car's dashboard lit up with several warnings about low fuel and tire pressure.",
+                "example_hebrew": "לפני הנסיעה, לוח המחוונים של המכונית נדלק במספר אזהרות לגבי דלק נמוך ולחץ צמיגים נמוך."
+            },
+            {
+                "definition": "An official statement issued to inform people of an imminent danger",
+                "definition_hebrew": "הודעה רשמית פורסמה כדי ליידע אנשים על סכנה קרובה",
+                "example": "The airport issued a warning for all passengers to arrive at least three hours before their flight due to potential security issues.",
+                "example_hebrew": "שדה התעופה פרסם אזהרה לכל הנוסעים להגיע לפחות שלוש שעות לפני הטיסה בשל בעיות אבטחה אפשריות."
+            },
+            {
+                "definition": "A precautionary announcement that seeks to prevent someone from making a mistake or engaging in risky behavior",
+                "definition_hebrew": "הודעת זהירות המבקשת למנוע ממישהו לטעות או לנהוג בהתנהגות מסוכנת",
+                "example": "The game paused with a warning on the screen, reminding players not to click if they haven't completed their tasks.",
+                "example_hebrew": "המשחק הושהה עם אזהרה על המסך, שמזכירה לשחקנים לא ללחוץ אם הם לא השלימו את המשימות שלהם."
+            },
+            {
+                "definition": "A piece of advice given about possible future problems and how to avoid them",
+                "definition_hebrew": "עצה שניתנה לגבי בעיות עתידיות אפשריות וכיצד להימנע מהן",
+                "example": "At the job interview, I received a warning from my potential employer about punctuality and proper dress code.",
+                "example_hebrew": "בראיון העבודה קיבלתי אזהרה מהמעסיק הפוטנציאלי שלי על דייקנות וקוד לבוש נכון."
+            }
+        ]
+    }
+]

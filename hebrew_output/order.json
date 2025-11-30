@@ -1,0 +1,40 @@
+[
+    {
+        "word": "order",
+        "word_hebrew": "להזמין",
+        "main_definition": "Order refers to the act of requesting something or maintaining a structured arrangement in various contexts such as language, business, or everyday life.",
+        "main_definition_hebrew": "סדר מתייחס למעשה של בקשת משהו או שמירה על הסדר מובנה בהקשרים שונים כגון שפה, עסקים או חיי היומיום.",
+        "meanings_and_examples": [
+            {
+                "definition": "A command given by someone with authority",
+                "definition_hebrew": "פקודה שניתנה על ידי אדם בעל סמכות",
+                "example": "The police officer gave the suspect an order to stop.",
+                "example_hebrew": "השוטר נתן לחשוד הוראה לעצור."
+            },
+            {
+                "definition": "An official instruction or directive issued in writing",
+                "definition_hebrew": "הוראה או הנחיה רשמית שניתנו בכתב",
+                "example": "I received a legal order from my attorney outlining specific actions I must take within 24 hours.",
+                "example_hebrew": "קיבלתי צו משפטי מעורך הדין שלי המתאר פעולות ספציפיות שעלי לבצע תוך 24 שעות."
+            },
+            {
+                "definition": "A request for goods, services, or information",
+                "definition_hebrew": "בקשה למוצרים, שירותים או מידע",
+                "example": "When dining at the restaurant, I ordered a steak cooked medium-rare and a side of mashed potatoes.",
+                "example_hebrew": "כשסעדתי במסעדה, הזמנתי סטייק מבושל מדיום-רייר ותוספת של פירה."
+            },
+            {
+                "definition": "A way to organize items in sequence according to their priority or importance",
+                "definition_hebrew": "דרך לארגן פריטים ברצף לפי העדיפות או החשיבות שלהם",
+                "example": "I decided to put my tasks for the day in order, starting with the most urgent ones first.",
+                "example_hebrew": "החלטתי לעשות סדר במשימותיי להיום, החל מהדחופות ביותר."
+            },
+            {
+                "definition": "A set of actions taken by a person or group that are done systematically and purposefully",
+                "definition_hebrew": "אוסף של פעולות שנעשות על ידי אדם או קבוצה הנעשות בצורה שיטתית ומכוונת",
+                "example": "The company established an orderly process for handling customer complaints to ensure efficient resolution.",
+                "example_hebrew": "החברה הקימה תהליך מסודר לטיפול בתלונות לקוחות על מנת להבטיח פתרון יעיל."
+            }
+        ]
+    }
+]

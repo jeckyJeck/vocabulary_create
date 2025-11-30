@@ -1,0 +1,40 @@
+[
+    {
+        "word": "specialist",
+        "word_hebrew": "מוּמחֶה",
+        "main_definition": "A person who is an expert in a particular field or subject, often with advanced knowledge and skills.",
+        "main_definition_hebrew": "אדם המומחה בתחום או בנושא מסוים, לרוב בעל ידע ומיומנויות מתקדמים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual focused on one area of study or work to the exclusion of others. They have deep knowledge and understanding in their chosen domain.",
+                "definition_hebrew": "אדם המתמקד בתחום לימודים או עבודה אחד ללא הדרת אחרים. יש להם ידע והבנה עמוקים בתחום שבחרו.",
+                "example": "A cardiologist is a medical specialist who focuses exclusively on heart-related illnesses.",
+                "example_hebrew": "קרדיולוג הוא מומחה רפואי המתמקד אך ורק במחלות הקשורות ללב."
+            },
+            {
+                "definition": "Someone who has undergone specific training or education to gain expertise in a particular area. They are considered authorities in their field.",
+                "definition_hebrew": "מישהו שעבר הכשרה או השכלה ספציפית כדי לצבור מומחיות בתחום מסוים. הם נחשבים לרשויות בתחומם.",
+                "example": "An environmental engineer is an expert whose work revolves around creating solutions for environmental issues, often through scientific and technical knowledge.",
+                "example_hebrew": "מהנדס סביבה הוא מומחה שעבודתו סובבת סביב יצירת פתרונות לבעיות סביבתיות, לרוב באמצעות ידע מדעי וטכני."
+            },
+            {
+                "definition": "A professional who deals with the diagnosis and treatment of specific problems or conditions within a particular area. They provide specialized care to patients.",
+                "definition_hebrew": "איש מקצוע העוסק באבחון וטיפול בבעיות או מצבים ספציפיים בתחום מסוים. הם מספקים טיפול מיוחד למטופלים.",
+                "example": "An orthopedic surgeon is a healthcare specialist who focuses on treating issues related to bones, joints, ligaments, tendons, and muscles.",
+                "example_hebrew": "מנתח אורתופדי הוא מומחה בתחום הבריאות המתמקד בטיפול בבעיות הקשורות לעצמות, מפרקים, רצועות, גידים ושרירים."
+            },
+            {
+                "definition": "A person whose work involves handling complex or intricate aspects of a particular subject. They usually have extensive experience in their field.",
+                "definition_hebrew": "אדם שעבודתו כרוכה בטיפול בהיבטים מורכבים או סבוכים של נושא מסוים. לרוב יש להם ניסיון רב בתחומם.",
+                "example": "A computer hardware specialist works on the designing and repairing of computer systems at a highly technical level.",
+                "example_hebrew": "מומחה חומרת מחשבים עוסק בתכנון ותיקון מערכות מחשב ברמה טכנית גבוהה."
+            },
+            {
+                "definition": "An individual who devotes themselves to continuous learning within a specific discipline, often leading research or development in that area. They contribute new knowledge and advancements.",
+                "definition_hebrew": "אדם שמתמסר ללמידה מתמשכת בתוך דיסציפלינה מסוימת, ולעתים קרובות מוביל מחקר או פיתוח בתחום זה. הם תורמים ידע והתקדמות חדשים.",
+                "example": "A geneticist is a scientist specializing in the study of genes, heredity, and variation in living organisms.",
+                "example_hebrew": "גנטיקאי הוא מדען המתמחה בחקר גנים, תורשה ושונות באורגניזמים חיים."
+            }
+        ]
+    }
+]

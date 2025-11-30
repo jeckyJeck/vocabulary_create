@@ -1,0 +1,34 @@
+[
+    {
+        "word": "mobile",
+        "word_hebrew": "נייד",
+        "main_definition": "Mobile refers to something that can be easily moved or is not fixed in one place, often used as an adjective.",
+        "main_definition_hebrew": "נייד מתייחס למשהו שניתן להזיז בקלות או שאינו קבוע במקום אחד, משמש לעתים קרובות כשם תואר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to devices that have wireless communication capabilities.",
+                "definition_hebrew": "מתייחס למכשירים בעלי יכולות תקשורת אלחוטית.",
+                "example": "I use my mobile phone to make calls and send text messages.",
+                "example_hebrew": "אני משתמש בטלפון הנייד שלי כדי לבצע שיחות ולשלוח הודעות טקסט."
+            },
+            {
+                "definition": "Capable of being easily moved or not fixed in one place.",
+                "definition_hebrew": "ניתן להזזה בקלות או לא לתקן במקום אחד.",
+                "example": "The mobile office allowed the employees to work from anywhere, even on vacation.",
+                "example_hebrew": "המשרד הנייד אפשר לעובדים לעבוד מכל מקום, גם בחופשה."
+            },
+            {
+                "definition": "Annual financial statements prepared for a business entity that is required by law to be submitted periodically.",
+                "definition_hebrew": "דוחות כספיים שנתיים ערוכים עבור גוף עסקי המחויב על פי חוק להגיש מעת לעת.",
+                "example": "Companies are required to file their mobile statement with the Securities and Exchange Commission (SEC).",
+                "example_hebrew": "חברות נדרשות להגיש את ההצהרה הניידת שלהן לרשות ניירות ערך (SEC)."
+            },
+            {
+                "definition": "A term used in telecommunication to describe devices or systems designed for portability.",
+                "definition_hebrew": "מונח המשמש בתקשורת לתיאור מכשירים או מערכות המיועדות לניידות.",
+                "example": "Mobile broadband allows users to access the internet while on the move.",
+                "example_hebrew": "פס רחב נייד מאפשר למשתמשים לגשת לאינטרנט תוך כדי תנועה."
+            }
+        ]
+    }
+]

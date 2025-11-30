@@ -1,0 +1,40 @@
+[
+    {
+        "word": "comparisons",
+        "word_hebrew": "השוואות",
+        "main_definition": "Comparisons refer to the act of examining two or more things in order to note similarities, differences, or relative qualities between them.",
+        "main_definition_hebrew": "השוואות מתייחסות למעשה של בחינת שני דברים או יותר על מנת לציין קווי דמיון, הבדלים או תכונות יחסיות ביניהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Drawing parallels between different concepts or items",
+                "definition_hebrew": "ציור הקבלות בין מושגים או פריטים שונים",
+                "example": "When discussing programming languages, one might compare the syntax and features of Python with Java to highlight their similarities.",
+                "example_hebrew": "כאשר דנים בשפות תכנות, אפשר להשוות את התחביר והתכונות של Python עם Java כדי להדגיש את קווי הדמיון ביניהם."
+            },
+            {
+                "definition": "Evaluating similarities and differences in performance, quality, or value",
+                "definition_hebrew": "הערכת קווי דמיון והבדלים בביצועים, באיכות או בערך",
+                "example": "In a product review, comparing two smartphones based on camera quality, battery life, and overall cost can help consumers make an informed decision.",
+                "example_hebrew": "בסקירת מוצר, השוואה בין שני סמארטפונים על סמך איכות המצלמה, חיי הסוללה והעלות הכוללת יכולה לעזור לצרכנים לקבל החלטה מושכלת."
+            },
+            {
+                "definition": "Using comparative language to express relationships between quantities",
+                "definition_hebrew": "שימוש בשפה השוואתית לביטוי קשרים בין כמויות",
+                "example": "The price of the new model is 20% higher than its predecessor; therefore, it's a direct comparison of their prices.",
+                "example_hebrew": "מחירו של הדגם החדש גבוה ב-20% מקודמו; לכן, זו השוואה ישירה של המחירים שלהם."
+            },
+            {
+                "definition": "Expressing opinions or judgments by referring to something familiar as a point of reference",
+                "definition_hebrew": "הבעת דעות או שיפוטיות באמצעות התייחסות למשהו מוכר כנקודת התייחסות",
+                "example": "She described his singing talent as 'amazing, like the voice of an angel,' comparing her impression with a well-known quality.",
+                "example_hebrew": "היא תיארה את כישרון השירה שלו כ'מדהים, כמו קולו של מלאך', תוך השוואה בין התרשמותה לאיכות ידועה."
+            },
+            {
+                "definition": "Making observations or assessments about people's abilities, qualities, and characteristics by comparison",
+                "definition_hebrew": "עריכת תצפיות או הערכות לגבי היכולות, התכונות והמאפיינים של אנשים בהשוואה",
+                "example": "In job interviews, employers often compare the skills of multiple candidates to identify who best fits the role.",
+                "example_hebrew": "בראיונות עבודה, מעסיקים משווים לעתים קרובות את הכישורים של מספר מועמדים כדי לזהות מי הכי מתאים לתפקיד."
+            }
+        ]
+    }
+]

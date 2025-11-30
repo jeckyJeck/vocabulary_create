@@ -1,0 +1,34 @@
+[
+    {
+        "word": "typing",
+        "word_hebrew": "הקלדה",
+        "main_definition": "The act of inputting text into a computer or other electronic device by pressing keys on a keyboard.",
+        "main_definition_hebrew": "פעולת הזנת טקסט למחשב או למכשיר אלקטרוני אחר על ידי לחיצה על מקשים במקלדת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Writing using a keyboard as an output method for data processing systems",
+                "definition_hebrew": "כתיבה באמצעות מקלדת כשיטת פלט למערכות עיבוד נתונים",
+                "example": "She was typing up the report at her desk.",
+                "example_hebrew": "היא הקלידה את הדוח ליד שולחנה."
+            },
+            {
+                "definition": "The skill or ability to type quickly and accurately on a keyboard",
+                "definition_hebrew": "המיומנות או היכולת להקליד במהירות ובדייקנות על מקלדת",
+                "example": "He has great typing skills and can type over 100 words per minute.",
+                "example_hebrew": "יש לו כישורי הקלדה מעולים והוא יכול להקליד מעל 100 מילים בדקה."
+            },
+            {
+                "definition": "Using a keyboard-based game where players input sequences of characters, often for fun or competition",
+                "definition_hebrew": "שימוש במשחק מבוסס מקלדת שבו שחקנים מזינים רצפים של דמויות, לעתים קרובות לשם כיף או תחרות",
+                "example": "The family enjoyed playing the online typing game to test their reflexes.",
+                "example_hebrew": "המשפחה נהנתה לשחק במשחק ההקלדה המקוון כדי לבדוק את הרפלקסים שלהם."
+            },
+            {
+                "definition": "A term used in the context of computer programming and software development, referring to writing code by entering text on a keyboard.",
+                "definition_hebrew": "מונח המשמש בהקשר של תכנות מחשב ופיתוח תוכנה, המתייחס לכתיבת קוד על ידי הזנת טקסט על מקלדת.",
+                "example": "The programmer was concentrating on typing lines of complex Python code into the editor window.",
+                "example_hebrew": "המתכנת התרכז בהקלדת שורות של קוד Python מורכב בחלון העורך."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "coin",
+        "word_hebrew": "מַטְבֵּעַ",
+        "main_definition": "A coin is a small, flat, usually round piece of metal or plastic that has been manufactured as money.",
+        "main_definition_hebrew": "מטבע הוא חתיכת מתכת או פלסטיק קטנה, שטוחה, עגולה בדרך כלל, שיוצרה ככסף.",
+        "meanings_and_examples": [
+            {
+                "definition": "To invent or create something new.",
+                "definition_hebrew": "להמציא או ליצור משהו חדש.",
+                "example": "She coined the term 'selfie' to describe taking a self-portrait photo.",
+                "example_hebrew": "היא טבעה את המונח 'סלפי' כדי לתאר צילום דיוקן עצמי."
+            },
+            {
+                "definition": "A small piece of metal used as money, typically with an official mark denoting its value and authenticity.",
+                "definition_hebrew": "חתיכת מתכת קטנה המשמשת ככסף, בדרך כלל עם סימן רשמי המציין את ערכה ואת האותנטיות שלה.",
+                "example": "He flipped the coin into the air to make the decision on whether he would go hiking or stay home.",
+                "example_hebrew": "הוא הטיל את המטבע באוויר כדי לקבל את ההחלטה אם הוא ילך לטייל או יישאר בבית."
+            },
+            {
+                "definition": "An expression indicating the origin of something new or innovative, often introduced by someone in a specific context.",
+                "definition_hebrew": "ביטוי המציין את מקורו של משהו חדש או חדשני, המובא לעתים קרובות על ידי מישהו בהקשר מסוים.",
+                "example": "The phrase 'break the ice' was coined to describe the act of initiating social interaction among strangers.",
+                "example_hebrew": "הביטוי 'לשבור את הקרח' הוטבע כדי לתאר את פעולת ייזום אינטראקציה חברתית בין זרים."
+            },
+            {
+                "definition": "A unit of currency that is issued by a government and used as money.",
+                "definition_hebrew": "יחידת מטבע המונפקת על ידי ממשלה ומשמשת ככסף.",
+                "example": "In the United States, we use dollars, which are pennies, nickels, dimes, quarters, and coins made from different metals.",
+                "example_hebrew": "בארצות הברית, אנו משתמשים בדולרים, שהם אגורות, ניקל, אגורה, רבעים ומטבעות העשויים ממתכות שונות."
+            },
+            {
+                "definition": "A type of currency that has been officially produced and is generally accepted as a medium of exchange in various transactions.",
+                "definition_hebrew": "סוג של מטבע שיוצר באופן רשמי ומקובל בדרך כלל כאמצעי חליפין בעסקאות שונות.",
+                "example": "The British Museum houses an impressive collection of ancient Roman coins.",
+                "example_hebrew": "המוזיאון הבריטי מכיל אוסף מרשים של מטבעות רומיים עתיקים."
+            }
+        ]
+    }
+]

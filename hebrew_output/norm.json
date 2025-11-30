@@ -1,0 +1,40 @@
+[
+    {
+        "word": "norm",
+        "word_hebrew": "נוֹרמָה",
+        "main_definition": "A norm is a standard or pattern, often referring to an established behavioral or performance expectation in society.",
+        "main_definition_hebrew": "נורמה היא סטנדרט או דפוס, המתייחס לרוב לציפייה התנהגותית או ביצועית מבוססת בחברה.",
+        "meanings_and_examples": [
+            {
+                "definition": "An average level of something expected within a population or group.",
+                "definition_hebrew": "רמה ממוצעת של משהו צפוי בתוך אוכלוסייה או קבוצה.",
+                "example": "The normal body temperature for humans is 98.6 degrees Fahrenheit, but it can vary slightly from person to person.",
+                "example_hebrew": "טמפרטורת הגוף הרגילה לבני אדם היא 98.6 מעלות פרנהייט, אך היא יכולה להשתנות מעט מאדם לאדם."
+            },
+            {
+                "definition": "A standard that people generally accept as desirable and appropriate behavior.",
+                "definition_hebrew": "סטנדרט שאנשים מקבלים בדרך כלל כהתנהגות רצויה ומתאימה.",
+                "example": "In many cultures, punctuality is a norm; arriving late for meetings may be seen as disrespectful.",
+                "example_hebrew": "בתרבויות רבות, דייקנות היא נורמה; הגעה מאוחרת לפגישות עלולה להיראות כחסרת כבוד."
+            },
+            {
+                "definition": "An established rule or principle governing behavior within a society or group.",
+                "definition_hebrew": "כלל או עיקרון שנקבעו השולטים בהתנהגות בתוך חברה או קבוצה.",
+                "example": "The social norm of tipping waitstaff in restaurants varies by country, but it's generally expected to leave around 15-20%.",
+                "example_hebrew": "הנורמה החברתית של מתן טיפים לצוות המלצרים במסעדות משתנה ממדינה למדינה, אך בדרך כלל היא צפויה להשאיר בסביבות 15-20%."
+            },
+            {
+                "definition": "A statistical concept representing the central tendency of a dataset.",
+                "definition_hebrew": "מושג סטטיסטי המייצג את הנטייה המרכזית של מערך נתונים.",
+                "example": "In a set of test scores ranging from 60 to 90, a norm score might be calculated as an average value like 75.",
+                "example_hebrew": "בקבוצה של ציוני מבחנים הנעים בין 60 ל-90, ציון נורמה עשוי להיות מחושב כערך ממוצע כמו 75."
+            },
+            {
+                "definition": "An ideal or standard that people strive to achieve in various aspects of life.",
+                "definition_hebrew": "אידיאל או סטנדרט שאנשים שואפים להשיג בהיבטים שונים של החיים.",
+                "example": "Many students aim for the norm by studying diligently and maintaining good grades throughout their education.",
+                "example_hebrew": "תלמידים רבים מכוונים לנורמה על ידי לימוד חרוץ ושמירה על ציונים טובים לאורך כל השכלתם."
+            }
+        ]
+    }
+]

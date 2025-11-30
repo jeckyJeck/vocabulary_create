@@ -1,0 +1,34 @@
+[
+    {
+        "word": "ecommerce",
+        "word_hebrew": "מסחר אלקטרוני",
+        "main_definition": "E-commerce refers to the buying and selling of goods or services using the internet, and the transfer of money and data to complete transactions.",
+        "main_definition_hebrew": "מסחר אלקטרוני מתייחס לקנייה ומכירה של סחורות או שירותים באמצעות האינטרנט, והעברת כסף ונתונים להשלמת עסקאות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Online shopping",
+                "definition_hebrew": "קניות באינטרנט",
+                "example": "Jane bought a dress online from an ecommerce website.",
+                "example_hebrew": "ג'יין קנתה שמלה באינטרנט מאתר מסחר אלקטרוני."
+            },
+            {
+                "definition": "Business conducted over the internet",
+                "definition_hebrew": "עסקים מתנהלים דרך האינטרנט",
+                "example": "The company's revenue significantly increased after launching its e-commerce platform.",
+                "example_hebrew": "הכנסות החברה עלו משמעותית לאחר השקת פלטפורמת המסחר האלקטרוני שלה."
+            },
+            {
+                "definition": "Digital marketplace",
+                "definition_hebrew": "שוק דיגיטלי",
+                "example": "Amazon acts as a digital marketplace for various products sold by different sellers.",
+                "example_hebrew": "אמזון פועלת כשוק דיגיטלי עבור מוצרים שונים הנמכרים על ידי מוכרים שונים."
+            },
+            {
+                "definition": "Electronic transactions",
+                "definition_hebrew": "עסקאות אלקטרוניות",
+                "example": "The bank processes electronic transactions between customers and the online retailer.",
+                "example_hebrew": "הבנק מעבד עסקאות אלקטרוניות בין לקוחות לבין הקמעונאי המקוון."
+            }
+        ]
+    }
+]

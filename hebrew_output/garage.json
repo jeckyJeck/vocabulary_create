@@ -1,0 +1,40 @@
+[
+    {
+        "word": "garage",
+        "word_hebrew": "מוּסָך",
+        "main_definition": "A building or indoor space primarily used for parking vehicles, especially cars.",
+        "main_definition_hebrew": "מבנה או חלל פנימי המשמש בעיקר לחניית רכבים, במיוחד מכוניות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A structure attached to a house where vehicles are stored and maintained.",
+                "definition_hebrew": "מבנה צמוד לבית בו מאוחסנים ומתחזקים כלי רכב.",
+                "example": "John's family garage is connected to their home and has two parking spaces.",
+                "example_hebrew": "המוסך המשפחתי של ג'ון מחובר לביתם ויש לו שתי מקומות חניה."
+            },
+            {
+                "definition": "An area or room in a building used for storing tools, equipment, or other items related to vehicle maintenance.",
+                "definition_hebrew": "אזור או חדר בבניין המשמשים לאחסון כלים, ציוד או פריטים אחרים הקשורים לתחזוקת רכב.",
+                "example": "The overhead shelves in the garage store boxes of car parts and cleaning supplies.",
+                "example_hebrew": "המדפים העליונים במוסך מאחסנים ארגזים של חלקי חילוף לרכב וחומרי ניקוי."
+            },
+            {
+                "definition": "A gathering place where people often engage in DIY projects involving vehicles or machinery.",
+                "definition_hebrew": "מקום התכנסות בו אנשים עוסקים לעתים קרובות בפרויקטי עשה זאת בעצמך הכוללים כלי רכב או מכונות.",
+                "example": "Every weekend, his friends meet up at my garage to work on their cars together.",
+                "example_hebrew": "בכל סוף שבוע, החברים שלו נפגשים במוסך שלי לעבוד יחד על המכוניות שלהם."
+            },
+            {
+                "definition": "An informal term used to describe an area for parking multiple vehicles when a residential home does not have sufficient space.",
+                "definition_hebrew": "מונח לא רשמי המשמש לתיאור אזור לחניית רכבים מרובים כאשר לבית מגורים אין מספיק מקום.",
+                "example": "Since they lived in an apartment without a dedicated car storage, the couple parked their car in the shared garage at the building.",
+                "example_hebrew": "מאחר שהתגוררו בדירה ללא מחסן ייעודי לרכב, החנו בני הזוג את רכבם במוסך המשותף בבניין."
+            },
+            {
+                "definition": "A term sometimes used to describe a facility where vehicles are repaited or serviced, like an auto shop.",
+                "definition_hebrew": "מונח המשמש לעתים לתיאור מתקן שבו כלי רכב עוברים תיקון או שירות, כמו חנות רכב.",
+                "example": "The mechanic works on cars in his well-equipped vehicle repair garage.",
+                "example_hebrew": "המכונאי עובד על מכוניות במוסך תיקוני הרכב המאובזר שלו."
+            }
+        ]
+    }
+]

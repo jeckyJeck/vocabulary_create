@@ -1,0 +1,34 @@
+[
+    {
+        "word": "mainland",
+        "word_hebrew": "יַבֶּשֶׁת",
+        "main_definition": "The main or largest landmass of a country, separated from smaller islands or nearby territories.",
+        "main_definition_hebrew": "השטח העיקרי או הגדול ביותר של מדינה, מופרד מאיים קטנים יותר או משטחים סמוכים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Land mass that is the central or primary part of a continent or large island",
+                "definition_hebrew": "מסת אדמה שהיא החלק המרכזי או העיקרי של יבשת או אי גדול",
+                "example": "When visiting Europe, many people travel to the mainland to explore cities like Rome and Paris.",
+                "example_hebrew": "כאשר מבקרים באירופה, אנשים רבים נוסעים ליבשת כדי לחקור ערים כמו רומא ופריז."
+            },
+            {
+                "definition": "The primary country area as opposed to smaller islands or territories surrounding it",
+                "definition_hebrew": "אזור המדינה העיקרי בניגוד לאיים או טריטוריות קטנות יותר המקיפות אותו",
+                "example": "Mainland China is often contrasted with its offshore Special Administrative Regions, such as Hong Kong and Macau.",
+                "example_hebrew": "סין היבשתית מנוגדת לרוב לאזורי המינהל המיוחדים שלה מהחוף, כמו הונג קונג ומקאו."
+            },
+            {
+                "definition": "Area on a larger island that is not part of an enclave or isolated region",
+                "definition_hebrew": "אזור על אי גדול יותר שאינו חלק ממובלעת או אזור מבודד",
+                "example": "The mainland United States refers to the contiguous 48 states excluding Alaska and Hawaii.",
+                "example_hebrew": "ארצות הברית היבשתית מתייחסת ל-48 המדינות הרציפות למעט אלסקה והוואי."
+            },
+            {
+                "definition": "Landmass where the majority of inhabitants reside, as opposed to remote islands with fewer people",
+                "definition_hebrew": "שטח אדמה שבו מתגוררים רוב התושבים, בניגוד לאיים מרוחקים עם פחות אנשים",
+                "example": "When discussing Great Britain's population, most people refer to it in terms of 'the mainland UK' rather than including Northern Ireland.",
+                "example_hebrew": "כאשר דנים באוכלוסיית בריטניה הגדולה, רוב האנשים מתייחסים אליה במונחים של \"בריטניה היבשתית\" במקום לכלול את צפון אירלנד."
+            }
+        ]
+    }
+]

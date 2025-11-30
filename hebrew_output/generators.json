@@ -1,0 +1,34 @@
+[
+    {
+        "word": "generators",
+        "word_hebrew": "גנרטורים",
+        "main_definition": "Generators are devices or entities that create, produce, or supply something at a regular interval.",
+        "main_definition_hebrew": "גנרטורים הם מכשירים או ישויות שיוצרים, מייצרים או מספקים משהו במרווח קבוע.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of electricity, a generator is a device that converts mechanical energy into electrical energy.",
+                "definition_hebrew": "בהקשר של חשמל, גנרטור הוא מכשיר הממיר אנרגיה מכנית לאנרגיה חשמלית.",
+                "example": "The wind turbine acts as an electrical generator when the wind turns its blades.",
+                "example_hebrew": "טורבינת הרוח פועלת כגנרטור חשמלי כאשר הרוח מסובבת את להביה."
+            },
+            {
+                "definition": "Another meaning refers to something or someone who produces ideas, creative works, or thoughts regularly.",
+                "definition_hebrew": "משמעות נוספת מתייחסת למשהו או מישהו שמייצרים רעיונות, יצירות יצירתיות או מחשבות באופן קבוע.",
+                "example": "Many authors have a book generation process where they produce several books over their career.",
+                "example_hebrew": "לסופרים רבים יש תהליך יצירת ספרים שבו הם מייצרים מספר ספרים במהלך הקריירה שלהם."
+            },
+            {
+                "definition": "In the context of software and computing, generators are functions that yield values one at a time rather than returning a list all at once.",
+                "definition_hebrew": "בהקשר של תוכנה ומחשוב, גנרטורים הם פונקציות שמניבות ערכים אחד בכל פעם במקום להחזיר רשימה בבת אחת.",
+                "example": "A simple Python generator can be used to create an infinite sequence by only generating numbers on demand.",
+                "example_hebrew": "ניתן להשתמש במחולל Python פשוט כדי ליצור רצף אינסופי רק על ידי יצירת מספרים לפי דרישה."
+            },
+            {
+                "definition": "In biology or ecology, generators might refer to species or groups of organisms that play key roles in their environment by producing a significant amount of offspring.",
+                "definition_hebrew": "בביולוגיה או באקולוגיה, מחוללים עשויים להתייחס למינים או לקבוצות של אורגניזמים הממלאים תפקידי מפתח בסביבתם על ידי ייצור כמות משמעותית של צאצאים.",
+                "example": "Bees are considered environmental generators because they pollinate plants and produce honey.",
+                "example_hebrew": "דבורים נחשבות למחוללות סביבתיות מכיוון שהן מאביקות צמחים ומייצרות דבש."
+            }
+        ]
+    }
+]

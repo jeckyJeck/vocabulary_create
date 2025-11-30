@@ -1,0 +1,40 @@
+[
+    {
+        "word": "program",
+        "word_hebrew": "תכנית",
+        "main_definition": "A series of coded instructions designed to perform a specific task or solve a problem, often used in the context of computers and software applications.",
+        "main_definition_hebrew": "סדרה של הוראות מקודדות שנועדו לבצע משימה ספציפית או לפתור בעיה, המשמשות לרוב בהקשר של מחשבים ויישומי תוכנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A set of computer instructions that tells a computer what tasks to perform",
+                "definition_hebrew": "קבוצה של הוראות מחשב שאומרת למחשב אילו משימות לבצע",
+                "example": "The program I wrote sorts numbers from low to high.",
+                "example_hebrew": "התוכנית שכתבתי ממיינת מספרים מנמוכים לגבוהים."
+            },
+            {
+                "definition": "An organized series of events or activities with specific goals, often planned for a particular purpose such as education or entertainment",
+                "definition_hebrew": "סדרה מאורגנת של אירועים או פעילויות עם מטרות ספציפיות, המתוכננות לרוב למטרה מסוימת כמו חינוך או בידור",
+                "example": "My school's robotics club is organizing a programming competition next month.",
+                "example_hebrew": "מועדון הרובוטיקה של בית הספר שלי מארגן בחודש הבא תחרות תכנות."
+            },
+            {
+                "definition": "A plan to achieve certain objectives within an organization or project",
+                "definition_hebrew": "תוכנית להשגת יעדים מסוימים בתוך ארגון או פרויקט",
+                "example": "The marketing program for the new product launch includes social media advertising and promotional events.",
+                "example_hebrew": "תוכנית השיווק להשקת המוצר החדש כוללת פרסום ברשתות חברתיות ואירועי קידום מכירות."
+            },
+            {
+                "definition": "An organized set of scheduled activities, typically used in the context of television or other broadcasting services",
+                "definition_hebrew": "קבוצה מאורגנת של פעילויות מתוזמנות, המשמשות בדרך כלל בהקשר של שירותי טלוויזיה או שירותי שידור אחרים",
+                "example": "This week's TV program lineup features a variety of sitcoms and dramas.",
+                "example_hebrew": "מערך תוכניות הטלוויזיה של השבוע כולל מגוון סיטקומים ודרמות."
+            },
+            {
+                "definition": "A written work for publication containing content such as news, stories, or analysis",
+                "definition_hebrew": "עבודה כתובה לפרסום המכילה תוכן כגון חדשות, סיפורים או ניתוח",
+                "example": "The newspaper had an in-depth program on climate change impacts worldwide.",
+                "example_hebrew": "לעיתון הייתה תוכנית עומק על השפעות שינויי האקלים ברחבי העולם."
+            }
+        ]
+    }
+]

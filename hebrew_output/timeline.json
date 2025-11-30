@@ -1,0 +1,34 @@
+[
+    {
+        "word": "timeline",
+        "word_hebrew": "ציר זמן",
+        "main_definition": "A visual representation of a chronological sequence of events, often used to illustrate the order in which they occurred or are expected to occur.",
+        "main_definition_hebrew": "ייצוג חזותי של רצף כרונולוגי של אירועים, המשמש לעתים קרובות כדי להמחיש את הסדר שבו הם התרחשו או צפויים להתרחש.",
+        "meanings_and_examples": [
+            {
+                "definition": "An overview of important historical dates and events",
+                "definition_hebrew": "סקירה של תאריכים ואירועים היסטוריים חשובים",
+                "example": "The timeline of World War II highlights key battles, political changes, and significant milestones from 1939 to 1945.",
+                "example_hebrew": "ציר הזמן של מלחמת העולם השנייה מדגיש קרבות מפתח, שינויים פוליטיים ואבני דרך משמעותיות מ-1939 עד 1945."
+            },
+            {
+                "definition": "A sequence or series of tasks with specific start and end dates",
+                "definition_hebrew": "רצף או סדרה של משימות עם תאריכי התחלה וסיום ספציפיים",
+                "example": "The project timeline outlines the phases, deadlines, and responsibilities for each task leading up to the launch date.",
+                "example_hebrew": "ציר הזמן של הפרויקט מתאר את השלבים, המועדים והאחריות עבור כל משימה לקראת תאריך ההשקה."
+            },
+            {
+                "definition": "A personal schedule showing planned activities or commitments within a certain time frame",
+                "definition_hebrew": "לוח זמנים אישי המציג פעילויות או התחייבויות מתוכננות בתוך מסגרת זמן מסוימת",
+                "example": "My daily timeline includes my work hours, exercise routine, and leisure activities scheduled from 7 am to 10 pm.",
+                "example_hebrew": "ציר הזמן היומי שלי כולל את שעות העבודה שלי, שגרת פעילות גופנית ופעילויות פנאי המתוכננות מ-7 בבוקר עד 10 בערב."
+            },
+            {
+                "definition": "The span of time between two specific events in a narrative or storyline",
+                "definition_hebrew": "טווח הזמן בין שני אירועים ספציפיים בנרטיב או עלילה",
+                "example": "In the movie plot, the timeline jumps back and forth, showing events that happened years before the main character's current situation.",
+                "example_hebrew": "בעלילת הסרט, ציר הזמן קופץ קדימה ואחורה, מראה אירועים שקרו שנים לפני המצב הנוכחי של הדמות הראשית."
+            }
+        ]
+    }
+]

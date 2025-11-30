@@ -1,0 +1,52 @@
+[
+    {
+        "word": "effects",
+        "word_hebrew": "אפקטים",
+        "main_definition": "Effects refer to the results or consequences of an action, event, or phenomenon.",
+        "main_definition_hebrew": "השפעות מתייחסות לתוצאות או להשלכות של פעולה, אירוע או תופעה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In general terms, referring to outcomes or changes caused by a particular factor. For example: 'The effects of climate change are visible in our environment.'",
+                "definition_hebrew": "במונחים כלליים, הכוונה לתוצאות או שינויים שנגרמו על ידי גורם מסוים. למשל: 'השפעות שינויי האקלים נראות לעין בסביבה שלנו'.",
+                "example": "The effects of the economic policy were widespread, improving living standards for many citizens.",
+                "example_hebrew": "ההשפעות של המדיניות הכלכלית היו נרחבות, ושיפרה את רמת החיים של אזרחים רבים."
+            },
+            {
+                "definition": "In relation to cause and effect, meaning the results or changes that occur due to a particular action. For example: 'Smoking has numerous negative health effects.'",
+                "definition_hebrew": "ביחס לסיבה ותוצאה, כלומר התוצאות או השינויים המתרחשים עקב פעולה מסוימת. לדוגמה: 'לעישון יש השפעות בריאותיות שליליות רבות.'",
+                "example": "The new medication had several side effects including dizziness and nausea.",
+                "example_hebrew": "לתרופה החדשה היו מספר תופעות לוואי כולל סחרחורת ובחילה."
+            },
+            {
+                "definition": "In filmmaking, it refers to visual or auditory changes applied to a scene. For example: 'The director used special effects to create the illusion of flying.'",
+                "definition_hebrew": "ביצירת סרטים, זה מתייחס לשינויים חזותיים או שמיעתיים המוחלים על סצנה. לדוגמה: 'הבמאי השתמש באפקטים מיוחדים כדי ליצור אשליה של טיסה'.",
+                "example": "The superhero movie featured impressive fire and explosion effects.",
+                "example_hebrew": "סרט גיבורי העל הציג אפקטים מרשימים של אש ופיצוץ."
+            },
+            {
+                "definition": "In science, particularly chemistry, it refers to changes that occur as a result of a chemical reaction. For example: 'The rusting of iron is an effect caused by exposure to oxygen.'",
+                "definition_hebrew": "במדע, במיוחד בכימיה, זה מתייחס לשינויים המתרחשים כתוצאה מתגובה כימית. למשל: 'החלודה של ברזל היא השפעה הנגרמת מחשיפה לחמצן'.",
+                "example": "The acid rain had detrimental effects on the local ecosystem.",
+                "example_hebrew": "לגשם החומצי היו השפעות מזיקות על המערכת האקולוגית המקומית."
+            },
+            {
+                "definition": "In statistics, it refers to changes in variables over time or across different conditions. For example: 'Study of the economic data showed significant effects from policy changes.'",
+                "definition_hebrew": "בסטטיסטיקה, זה מתייחס לשינויים במשתנים לאורך זמן או בתנאים שונים. לדוגמה: 'מחקר של הנתונים הכלכליים הראה השפעות משמעותיות משינויי מדיניות'.",
+                "example": "The new training program had a noticeable effect on employee productivity.",
+                "example_hebrew": "לתוכנית ההכשרה החדשה הייתה השפעה ניכרת על תפוקת העובדים."
+            },
+            {
+                "definition": "In computing, it refers to modifications made by software or hardware to alter existing programs. For example: 'Upgrading the system introduced several effects that required additional troubleshooting.'",
+                "definition_hebrew": "במחשוב, זה מתייחס לשינויים שנעשו על ידי תוכנה או חומרה כדי לשנות תוכניות קיימות. לדוגמה: 'שדרוג המערכת הציג כמה אפקטים שדרשו פתרון בעיות נוסף'.",
+                "example": "The antivirus software had an effect on my computer's performance.",
+                "example_hebrew": "לתוכנת האנטי וירוס הייתה השפעה על ביצועי המחשב שלי."
+            },
+            {
+                "definition": "In psychology, it can refer to changes in mood or behavior as a result of external influences. For example: 'The therapy had positive effects on her anxiety.'",
+                "definition_hebrew": "בפסיכולוגיה, זה יכול להתייחס לשינויים במצב הרוח או בהתנהגות כתוצאה מהשפעות חיצוניות. למשל: 'לטיפול היו השפעות חיוביות על החרדה שלה'.",
+                "example": "Regular exercise has beneficial effects on mental health.",
+                "example_hebrew": "לפעילות גופנית סדירה יש השפעות מועילות על בריאות הנפש."
+            }
+        ]
+    }
+]

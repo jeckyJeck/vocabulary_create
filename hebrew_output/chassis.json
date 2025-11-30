@@ -1,0 +1,28 @@
+[
+    {
+        "word": "chassis",
+        "word_hebrew": "שִׁלדָה",
+        "main_definition": "The frame or structure of a vehicle, machine, or electronic device that supports the main components.",
+        "main_definition_hebrew": "המסגרת או המבנה של רכב, מכונה או מכשיר אלקטרוני התומך ברכיבים העיקריים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In automotive context, refers to the base frame and supporting structure upon which other components are mounted",
+                "definition_hebrew": "בהקשר רכב, מתייחס למסגרת הבסיס ולמבנה התומך שעליו מותקנים רכיבים אחרים",
+                "example": "The car's chassis was damaged in the accident.",
+                "example_hebrew": "בתאונה נגרם נזק לשלדת הרכב."
+            },
+            {
+                "definition": "Term used in electronics to describe the case or enclosure that houses electronic circuitry and provides structural support",
+                "definition_hebrew": "מונח המשמש באלקטרוניקה לתיאור המארז או המארז המאכלס מעגלים אלקטרוניים ומספק תמיכה מבנית",
+                "example": "The device has a sturdy metal chassis that protects its internal components.",
+                "example_hebrew": "למכשיר שלדת מתכת חזקה המגנה על מרכיביו הפנימיים."
+            },
+            {
+                "definition": "In board game terminology, refers to the base layout of the pieces on which additional elements are built",
+                "definition_hebrew": "בטרמינולוגיה של משחקי לוח, מתייחס לפריסת הבסיס של החלקים שעליהם בנויים אלמנטים נוספים",
+                "example": "To start playing checkers, set up the chessboard by placing the pieces in their starting positions.",
+                "example_hebrew": "כדי להתחיל לשחק דמקה, הגדר את לוח השחמט על ידי הנחת הכלים בעמדות ההתחלה שלהם."
+            }
+        ]
+    }
+]

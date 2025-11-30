@@ -1,0 +1,34 @@
+[
+    {
+        "word": "dialog",
+        "word_hebrew": "דו-שיח",
+        "main_definition": "A conversation between two or more people, typically involving an exchange of ideas or opinions.",
+        "main_definition_hebrew": "שיחה בין שני אנשים או יותר, הכרוכה בדרך כלל בהחלפת רעיונות או דעות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of engaging in a verbal exchange with someone to discuss something",
+                "definition_hebrew": "הפעולה של שיתוף פעולה מילולי עם מישהו כדי לדון במשהו",
+                "example": "During the meeting, there was a lively dialogue about the new company policies.",
+                "example_hebrew": "במהלך הפגישה התקיים דיאלוג ער על מדיניות החברה החדשה."
+            },
+            {
+                "definition": "A written or spoken communication between characters within a book, play, film, etc.",
+                "definition_hebrew": "תקשורת כתובה או מדוברת בין דמויות בתוך ספר, מחזה, סרט וכו'.",
+                "example": "In 'Romeo and Juliet', the dialogue between Romeo and Juliet is essential to their tragic love story.",
+                "example_hebrew": "ב'רומיאו ויוליה', הדיאלוג בין רומיאו ויוליה חיוני לסיפור האהבה הטרגי שלהם."
+            },
+            {
+                "definition": "The exchange of words between individuals in an online discussion or forum",
+                "definition_hebrew": "חילופי מילים בין אנשים בדיון מקוון או בפורום",
+                "example": "On a political debate forum, participants often engage in heated dialogues about current events.",
+                "example_hebrew": "בפורום דיונים פוליטי, המשתתפים מנהלים לעתים קרובות דיאלוגים סוערים על אירועים אקטואליים."
+            },
+            {
+                "definition": "A scripted line for actors to deliver as part of their performance",
+                "definition_hebrew": "שורה תסריטאית לשחקנים להעביר כחלק מההופעה שלהם",
+                "example": "The actor delivered his lines with such passion that the audience was fully immersed in the story.",
+                "example_hebrew": "השחקן העביר את שורותיו בתשוקה כזו שהקהל היה שקוע לגמרי בסיפור."
+            }
+        ]
+    }
+]

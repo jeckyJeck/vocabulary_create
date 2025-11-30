@@ -1,0 +1,28 @@
+[
+    {
+        "word": "tablet",
+        "word_hebrew": "לוּחַ",
+        "main_definition": "A tablet can refer to a device with touch-sensitive screen used for computing or an oblong medicinal substance administered in the form of a bar, or it can also mean a slab of stone or wood inscribed with writing.",
+        "main_definition_hebrew": "טאבלט יכול להתייחס למכשיר עם מסך רגיש למגע המשמש למחשוב או לחומר רפואי מוארך הניתן בצורת סרגל, או שהוא יכול גם להתכוון ללוח אבן או עץ עם כתובה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A portable electronic device typically equipped with a touchscreen interface for interactive use and internet connectivity.",
+                "definition_hebrew": "מכשיר אלקטרוני נייד המצויד בדרך כלל בממשק מסך מגע לשימוש אינטראקטיבי וקישוריות לאינטרנט.",
+                "example": "She uses her iPad to read e-books and watch movies.",
+                "example_hebrew": "היא משתמשת באייפד שלה כדי לקרוא ספרים אלקטרוניים ולצפות בסרטים."
+            },
+            {
+                "definition": "An oblong flat piece of medicinal substance that is intended for internal or external use, usually containing one or more active ingredients.",
+                "definition_hebrew": "חתיכה שטוחה מוארכת של חומר רפואי המיועדת לשימוש פנימי או חיצוני, המכילה לרוב מרכיב פעיל אחד או יותר.",
+                "example": "He takes a tablet with his lunch to relieve heartburn.",
+                "example_hebrew": "הוא לוקח טבליה עם ארוחת הצהריים שלו כדי להקל על צרבת."
+            },
+            {
+                "definition": "A slab of stone or wood inscribed with writing, often found in archaeological contexts.",
+                "definition_hebrew": "לוח אבן או עץ עם כתובה, נמצא לעתים קרובות בהקשרים ארכיאולוגיים.",
+                "example": "The ancient Romans used tablets as votive offerings at religious sites.",
+                "example_hebrew": "הרומאים הקדמונים השתמשו בטבליות כמנחות תרומות באתרים דתיים."
+            }
+        ]
+    }
+]

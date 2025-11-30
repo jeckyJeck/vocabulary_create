@@ -1,0 +1,40 @@
+[
+    {
+        "word": "biotechnology",
+        "word_hebrew": "ביוטכנולוגיה",
+        "main_definition": "Biotechnology is the use of living organisms or their products to modify human health and the human environment.",
+        "main_definition_hebrew": "ביוטכנולוגיה היא השימוש באורגניזמים חיים או במוצרים שלהם כדי לשנות את בריאות האדם ואת הסביבה האנושית.",
+        "meanings_and_examples": [
+            {
+                "definition": "The application of scientific and engineering principles to the processing of materials by biological agents to provide or modify products.",
+                "definition_hebrew": "היישום של עקרונות מדעיים והנדסיים על עיבוד חומרים על ידי סוכנים ביולוגיים כדי לספק או לשנות מוצרים.",
+                "example": "Genetically modified crops that are resistant to pests.",
+                "example_hebrew": "גידולים מהונדסים גנטית עמידים בפני מזיקים."
+            },
+            {
+                "definition": "A field of research involving the use of cellular and molecular processes to develop products and technologies for various industries such as medicine, agriculture, and environmental management.",
+                "definition_hebrew": "תחום מחקר הכולל שימוש בתהליכים סלולריים ומולקולריים לפיתוח מוצרים וטכנולוגיות לתעשיות שונות כגון רפואה, חקלאות וניהול סביבתי.",
+                "example": "The development of vaccines through recombinant DNA technology.",
+                "example_hebrew": "פיתוח חיסונים באמצעות טכנולוגיית DNA רקומביננטי."
+            },
+            {
+                "definition": "An area of science that combines biology with industrial processing techniques to produce goods and services.",
+                "definition_hebrew": "תחום מדע המשלב ביולוגיה עם טכניקות עיבוד תעשייתיות לייצור סחורות ושירותים.",
+                "example": "Production of antibiotics using microbial fermentation.",
+                "example_hebrew": "ייצור אנטיביוטיקה באמצעות תסיסה מיקרוביאלית."
+            },
+            {
+                "definition": "The use of living organisms, their cells or cellular components for the production of goods or technologies that improve human health and well-being.",
+                "definition_hebrew": "השימוש באורגניזמים חיים, בתאים שלהם או ברכיבים תאיים לייצור מוצרים או טכנולוגיות המשפרים את בריאות האדם ורווחתו.",
+                "example": "Use of enzymes in detergents to enhance cleaning power.",
+                "example_hebrew": "שימוש באנזימים בדטרגנטים לשיפור כוח הניקוי."
+            },
+            {
+                "definition": "A multidisciplinary approach involving biology, chemistry, engineering, and computer science for the development of products and services.",
+                "definition_hebrew": "גישה רב תחומית הכוללת ביולוגיה, כימיה, הנדסה ומדעי המחשב לפיתוח מוצרים ושירותים.",
+                "example": "Creation of bioinformatics tools for analyzing genetic data.",
+                "example_hebrew": "יצירת כלים ביואינפורמטיקה לניתוח נתונים גנטיים."
+            }
+        ]
+    }
+]

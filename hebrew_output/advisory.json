@@ -1,0 +1,28 @@
+[
+    {
+        "word": "advisory",
+        "word_hebrew": "ייעוץ",
+        "main_definition": "An advisory, in simple English, refers to a guidance or suggestion provided to help someone make decisions or understand situations better.",
+        "main_definition_hebrew": "ייעוץ, באנגלית פשוטה, מתייחס להנחיה או הצעה שסופקו כדי לעזור למישהו לקבל החלטות או להבין מצבים טוב יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "A notice that gives information about a potential danger or problem without being a formal warning",
+                "definition_hebrew": "הודעה הנותנת מידע על סכנה או בעיה פוטנציאלית מבלי להוות אזהרה רשמית",
+                "example": "The airport issued an advisory for pilots, suggesting they avoid flying in the area due to severe weather conditions.",
+                "example_hebrew": "שדה התעופה פרסם ייעוץ לטייסים, והציע להם להימנע מטיסות באזור עקב תנאי מזג אוויר קשים."
+            },
+            {
+                "definition": "An official recommendation or guidance offered by experts on how to handle a particular issue",
+                "definition_hebrew": "המלצה או הדרכה רשמית המוצעים על ידי מומחים כיצד לטפל בנושא מסוים",
+                "example": "After studying the situation, the government released an advisory recommending people stay indoors during the sandstorm.",
+                "example_hebrew": "לאחר בחינת המצב, הממשלה פרסמה ייעוץ הממליץ לאנשים להישאר בבית במהלך סופת החול."
+            },
+            {
+                "definition": "A formal document that provides advice and recommendations regarding certain policies or strategies",
+                "definition_hebrew": "מסמך רשמי המספק עצות והמלצות לגבי מדיניות או אסטרטגיות מסוימות",
+                "example": "The board issued a new energy policy advisory outlining steps to reduce carbon emissions over the next decade.",
+                "example_hebrew": "הדירקטוריון פרסם ייעוץ חדש למדיניות אנרגיה המתווה צעדים להפחתת פליטת פחמן במהלך העשור הבא."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "recipients",
+        "word_hebrew": "נמענים",
+        "main_definition": "Recipients refer to individuals or entities that receive something, such as a letter, package, gift, information, or award.",
+        "main_definition_hebrew": "נמענים מתייחסים לאנשים או ישויות שמקבלים משהו, כגון מכתב, חבילה, מתנה, מידע או פרס.",
+        "meanings_and_examples": [
+            {
+                "definition": "People who are the intended recipients of mail or packages",
+                "definition_hebrew": "אנשים שהם הנמענים המיועדים של דואר או חבילות",
+                "example": "The post office mailed out thousands of letters and packages to their recipients.",
+                "example_hebrew": "הדואר שלח אלפי מכתבים וחבילות בדואר לנמעניהם."
+            },
+            {
+                "definition": "Individuals who receive awards, honors, or other forms of recognition",
+                "definition_hebrew": "אנשים שמקבלים פרסים, הצטיינות או צורות אחרות של הכרה",
+                "example": "The winners were announced in a ceremony where they would collect their trophies as the recipients of the prize money.",
+                "example_hebrew": "הזוכים הוכרזו בטקס שבו יאספו את הגביעים שלהם כמקבלי כספי הפרסים."
+            },
+            {
+                "definition": "Participants in a research study who are given experimental treatments and observed for outcomes",
+                "definition_hebrew": "משתתפים במחקר מחקר שקיבלו טיפולים ניסיוניים ונצפו בתוצאות",
+                "example": "In the clinical trial, 200 patients were selected as recipients of either the new drug or a placebo.",
+                "example_hebrew": "בניסוי הקליני, 200 חולים נבחרו כמקבלי התרופה החדשה או פלצבו."
+            },
+            {
+                "definition": "The people designated to receive benefits under an insurance policy",
+                "definition_hebrew": "האנשים המיועדים לקבל הטבות במסגרת פוליסת ביטוח",
+                "example": "After filing for life insurance, he listed his wife and children as the beneficiaries, making them the recipients of the payout if he passed away.",
+                "example_hebrew": "לאחר שהגיש בקשה לביטוח חיים, הוא רשם את אשתו וילדיו כמוטבים, מה שהפך אותם למקבלי התשלום אם נפטר."
+            }
+        ]
+    }
+]

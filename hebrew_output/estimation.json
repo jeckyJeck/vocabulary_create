@@ -1,0 +1,34 @@
+[
+    {
+        "word": "estimation",
+        "word_hebrew": "אוּמדָן",
+        "main_definition": "An estimation is a process of approximating or calculating an approximate value, quantity, or number based on available information.",
+        "main_definition_hebrew": "אומדן הוא תהליך של קירוב או חישוב של ערך, כמות או מספר משוערים על סמך מידע זמין.",
+        "meanings_and_examples": [
+            {
+                "definition": "A rough calculation made without the use of exact data or precise methods",
+                "definition_hebrew": "חישוב גס שנעשה ללא שימוש בנתונים מדויקים או שיטות מדויקות",
+                "example": "She gave an estimation that there would be at least 100 guests for her event.",
+                "example_hebrew": "היא נתנה הערכה שיהיו לפחות 100 אורחים לאירוע שלה."
+            },
+            {
+                "definition": "The act of making a guess based on available information, often in situations where accuracy is not critical",
+                "definition_hebrew": "פעולת ניחוש בהתבסס על מידע זמין, לעיתים קרובות במצבים בהם הדיוק אינו קריטי",
+                "example": "He made an estimation about the total cost of repairs without examining the damage thoroughly.",
+                "example_hebrew": "הוא ערך הערכה לגבי עלות התיקונים הכוללת מבלי לבחון את הנזק לעומק."
+            },
+            {
+                "definition": "An educated guess or judgment used to determine the value, size, or extent of something when exact data are unavailable",
+                "definition_hebrew": "ניחוש או שיקול דעת מושכל המשמשים לקביעת הערך, הגודל או ההיקף של משהו כאשר נתונים מדויקים אינם זמינים",
+                "example": "The company provided an estimation for their annual revenue based on previous years' performance and market analysis.",
+                "example_hebrew": "החברה סיפקה אומדן להכנסותיה השנתיות על סמך ביצועי שנים קודמות וניתוח שוק."
+            },
+            {
+                "definition": "A method for approximating a number that represents a quantity, time, distance, or other measurable attribute",
+                "definition_hebrew": "שיטה לקירוב מספר המייצג כמות, זמן, מרחק או תכונה ניתנת למדידה אחרת",
+                "example": "In construction projects, estimations are used to approximate the cost of materials needed before actual purchasing.",
+                "example_hebrew": "בפרויקטי בנייה משתמשים באומדנים כדי להעריך את עלות החומרים הדרושים לפני הרכישה בפועל."
+            }
+        ]
+    }
+]

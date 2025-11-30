@@ -1,0 +1,34 @@
+[
+    {
+        "word": "crash",
+        "word_hebrew": "לְהִתְרַסֵק",
+        "main_definition": "A sudden, violent collision or impact between two or more objects resulting in damage.",
+        "main_definition_hebrew": "התנגשות פתאומית ואלימה או פגיעה בין שני עצמים או יותר וכתוצאה מכך נגרם נזק.",
+        "meanings_and_examples": [
+            {
+                "definition": "Informal term for a dramatic failure or abrupt end of an event, system, etc. often due to unexpected problems or errors.",
+                "definition_hebrew": "כינוי לא פורמלי לכשל דרמטי או סיום פתאומי של אירוע, מערכת וכו', לעתים קרובות עקב בעיות או שגיאות בלתי צפויות.",
+                "example": "The website crashed after too many users tried to access it at once.",
+                "example_hebrew": "האתר קרס לאחר שיותר מדי משתמשים ניסו לגשת אליו בבת אחת."
+            },
+            {
+                "definition": "A sudden loss of power in electrical circuits leading to the failure of electronic devices connected to them.",
+                "definition_hebrew": "אובדן חשמל פתאומי במעגלים חשמליים המוביל לכשל של מכשירים אלקטרוניים המחוברים אליהם.",
+                "example": "After a lightning strike, several computers and monitors experienced a crash and stopped working.",
+                "example_hebrew": "לאחר מכת ברק, מספר מחשבים ומסכים חוו התרסקות והפסיקו לפעול."
+            },
+            {
+                "definition": "An aggressive attack or competition between individuals or groups, often in sports, businesses, or online platforms.",
+                "definition_hebrew": "התקפה אגרסיבית או תחרות בין יחידים או קבוצות, לעתים קרובות בספורט, עסקים או פלטפורמות מקוונות.",
+                "example": "The two companies had a fierce marketing crash as they tried to outdo each other's advertisements.",
+                "example_hebrew": "לשתי החברות הייתה קריסה שיווקית עזה כשניסו להתעלות זו על הפרסומות של זו."
+            },
+            {
+                "definition": "A sudden fall from grace, leading to public humiliation and loss of reputation.",
+                "definition_hebrew": "נפילה פתאומית מהחסד, המובילה להשפלה פומבית ואובדן מוניטין.",
+                "example": "After the scandal was exposed, his career took a dramatic crash, with many losing faith in him.",
+                "example_hebrew": "לאחר חשיפת השערורייה, הקריירה שלו התרסקה דרמטית, ורבים איבדו בו אמון."
+            }
+        ]
+    }
+]

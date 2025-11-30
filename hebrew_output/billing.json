@@ -1,0 +1,40 @@
+[
+    {
+        "word": "billing",
+        "word_hebrew": "חיוב",
+        "main_definition": "Billing refers to the process of calculating charges for goods or services provided, as well as presenting these charges in a bill format.",
+        "main_definition_hebrew": "חיוב מתייחס לתהליך של חישוב חיובים עבור סחורות או שירותים הניתנים, כמו גם הצגת חיובים אלה בפורמט חיוב.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of charging customers for products or services rendered",
+                "definition_hebrew": "הפעולה של חיוב לקוחות עבור מוצרים או שירותים שניתנו",
+                "example": "After providing catering services, the company sent out bills to their clients detailing the amount due.",
+                "example_hebrew": "לאחר מתן שירותי קייטרינג, החברה שלחה ללקוחותיה חשבונות המפרטים את הסכום המגיע."
+            },
+            {
+                "definition": "A statement showing the charges incurred by a customer within a specific period of time",
+                "definition_hebrew": "הצהרה המציגה את החיובים שנגרמו ללקוח בתוך פרק זמן מסוים",
+                "example": "John received his electricity bill, which listed all the energy consumption costs for last month.",
+                "example_hebrew": "ג'ון קיבל את חשבון החשמל שלו, שרשום את כל עלויות צריכת האנרגיה לחודש שעבר."
+            },
+            {
+                "definition": "An entity responsible for creating and sending out bills to customers or clients",
+                "definition_hebrew": "גורם האחראי על יצירה ושליחה של חשבונות ללקוחות או ללקוחות",
+                "example": "The company's billing department was in charge of generating and distributing monthly statements to its customers.",
+                "example_hebrew": "מחלקת הבילינג של החברה הייתה אחראית על הפקת והפצת דוחות חודשיים ללקוחותיה."
+            },
+            {
+                "definition": "A specific type of document that lists the products, services, quantities, prices, taxes, discounts applied, and total amount due",
+                "definition_hebrew": "סוג מסוים של מסמך המפרט את המוצרים, השירותים, הכמויות, המחירים, המיסים, ההנחות שהוחלו והסכום הכולל לתשלום",
+                "example": "The salesperson handed me a detailed bill for my car purchase, including all additional fees and charges.",
+                "example_hebrew": "איש המכירות הגיש לי חשבון מפורט עבור רכישת הרכב שלי, כולל כל העמלות והחיובים הנוספים."
+            },
+            {
+                "definition": "A process in accounting to determine the cost of goods or services provided",
+                "definition_hebrew": "תהליך בהנהלת חשבונות לקביעת עלות הסחורה או השירותים הניתנים",
+                "example": "Before generating bills, the company had to calculate the costs associated with each product sold.",
+                "example_hebrew": "לפני הפקת חשבונות, החברה הייתה צריכה לחשב את העלויות הקשורות לכל מוצר שנמכר."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "software",
+        "word_hebrew": "תוֹכנָה",
+        "main_definition": "Software refers to programs, applications or data that are used by computer systems. It is the non-tangible component of computers that provides instructions for hardware components.",
+        "main_definition_hebrew": "תוכנה מתייחסת לתוכניות, יישומים או נתונים המשמשים מערכות מחשב. זהו הרכיב הלא מוחשי של מחשבים המספק הוראות לרכיבי חומרה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Computer programs",
+                "definition_hebrew": "תוכניות מחשב",
+                "example": "The software includes operating systems like Windows and macOS, which manage hardware resources and provide services for computer applications.",
+                "example_hebrew": "התוכנה כוללת מערכות הפעלה כמו Windows ו-macOS, המנהלות משאבי חומרה ומספקות שירותים ליישומי מחשב."
+            },
+            {
+                "definition": "Applications or utility programs",
+                "definition_hebrew": "יישומים או תוכניות שירות",
+                "example": "Software such as Microsoft Office, Adobe Photoshop, and antivirus programs fall under this category. They help users perform specific tasks like document creation, image editing, and protecting computers from threats.",
+                "example_hebrew": "תוכנות כגון Microsoft Office, Adobe Photoshop ותוכניות אנטי-וירוס נכללות בקטגוריה זו. הם עוזרים למשתמשים לבצע משימות ספציפיות כמו יצירת מסמכים, עריכת תמונות והגנה על מחשבים מפני איומים."
+            },
+            {
+                "definition": "Data used by the software",
+                "definition_hebrew": "נתונים המשמשים את התוכנה",
+                "example": "Databases, configuration files, scripts, or any other type of data that programs use to operate effectively are considered as software in this context.",
+                "example_hebrew": "מסדי נתונים, קבצי תצורה, סקריפטים או כל סוג אחר של נתונים שתוכנות משתמשות בהם כדי לפעול בצורה יעילה נחשבים לתוכנה בהקשר זה."
+            },
+            {
+                "definition": "Internet and network services",
+                "definition_hebrew": "שירותי אינטרנט ורשת",
+                "example": "Software like web browsers (Google Chrome, Firefox) and email clients (Outlook, Thunderbird) enable users to navigate the internet and send/receive emails respectively.",
+                "example_hebrew": "תוכנות כמו דפדפני אינטרנט (Google Chrome, Firefox) ולקוחות דוא\"ל (Outlook, Thunderbird) מאפשרות למשתמשים לנווט באינטרנט ולשלוח/לקבל מיילים בהתאמה."
+            }
+        ]
+    }
+]

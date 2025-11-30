@@ -1,0 +1,40 @@
+[
+    {
+        "word": "mission",
+        "word_hebrew": "משימה",
+        "main_definition": "A specific task or objective to accomplish, often carried out by a group of people or an organization.",
+        "main_definition_hebrew": "משימה או יעד ספציפיים שיש לבצע, לעתים קרובות מבוצעים על ידי קבוצת אנשים או ארגון.",
+        "meanings_and_examples": [
+            {
+                "definition": "An assignment given to someone with the purpose of achieving a particular goal, typically within a military context.",
+                "definition_hebrew": "משימה שניתנת למישהו במטרה להשיג מטרה מסוימת, בדרך כלל בהקשר צבאי.",
+                "example": "The mission was to secure enemy territory and gather vital information.",
+                "example_hebrew": "המשימה הייתה לאבטח את שטח האויב ולאסוף מידע חיוני."
+            },
+            {
+                "definition": "A brief period during which one is on an important errand or journey.",
+                "definition_hebrew": "תקופה קצרה שבמהלכה נמצאים בשליחות או מסע חשובים.",
+                "example": "She embarked on her business trip as part of the company's new marketing campaign, representing their latest product launch mission.",
+                "example_hebrew": "היא יצאה לנסיעת העסקים שלה כחלק מקמפיין השיווק החדש של החברה, המייצג את משימת השקת המוצר האחרונה שלהם."
+            },
+            {
+                "definition": "The main aim or purpose behind a certain action or project.",
+                "definition_hebrew": "המטרה או המטרה העיקרית מאחורי פעולה או פרויקט מסוים.",
+                "example": "Increasing access to education is at the heart of our organization's mission.",
+                "example_hebrew": "הגברת הגישה לחינוך היא לב ליבה של המשימה של הארגון שלנו."
+            },
+            {
+                "definition": "A specific task that an individual or group is responsible for completing.",
+                "definition_hebrew": "משימה ספציפית שאדם או קבוצה אחראים לביצוע.",
+                "example": "The scientists were assigned a new research mission: studying the effects of climate change on coral reefs.",
+                "example_hebrew": "המדענים קיבלו משימת מחקר חדשה: חקר השפעות שינויי האקלים על שוניות האלמוגים."
+            },
+            {
+                "definition": "An official journey undertaken by a person, typically one who represents their organization abroad.",
+                "definition_hebrew": "מסע רשמי שמבצע אדם, בדרך כלל מי שמייצג את הארגון שלו בחו\"ל.",
+                "example": "As an ambassadorial mission, he traveled to several countries to promote peace and cooperation among nations.",
+                "example_hebrew": "כשליחות שגריר, הוא נסע לכמה מדינות כדי לקדם שלום ושיתוף פעולה בין מדינות."
+            }
+        ]
+    }
+]

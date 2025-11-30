@@ -1,0 +1,34 @@
+[
+    {
+        "word": "radiation",
+        "word_hebrew": "קְרִינָה",
+        "main_definition": "Radiation refers to the emission or transmission of energy in the form of waves or particles through space or a material medium. It can also mean exposure to such emitted energy.",
+        "main_definition_hebrew": "קרינה מתייחסת לפליטה או העברה של אנרגיה בצורה של גלים או חלקיקים דרך החלל או מדיום חומרי. זה יכול גם להיות חשיפה לאנרגיה הנפלטת כזו.",
+        "meanings_and_examples": [
+            {
+                "definition": "The natural process by which high-energy particles travel through space",
+                "definition_hebrew": "התהליך הטבעי שבו חלקיקים בעלי אנרגיה גבוהה עוברים בחלל",
+                "example": "The sun emits radiation, including ultraviolet light that reaches Earth.",
+                "example_hebrew": "השמש פולטת קרינה, כולל אור אולטרה סגול שמגיע לכדור הארץ."
+            },
+            {
+                "definition": "A type of electromagnetic wave with wavelengths in the range from about 10 nanometers to 1 millimeter",
+                "definition_hebrew": "סוג של גל אלקטרומגנטי עם אורכי גל בטווח שבין כ-10 ננומטר ל-1 מילימטר",
+                "example": "X-rays are a form of radiation used in medical imaging.",
+                "example_hebrew": "קרני רנטגן הן סוג של קרינה המשמשת בהדמיה רפואית."
+            },
+            {
+                "definition": "The release of energy as electromagnetic waves or particles due to radioactive decay or nuclear reactions",
+                "definition_hebrew": "שחרור אנרגיה כגלים אלקטרומגנטיים או כחלקיקים עקב ריקבון רדיואקטיבי או תגובות גרעיניות",
+                "example": "Nuclear power plants generate electricity through the process of nuclear radiation.",
+                "example_hebrew": "תחנות כוח גרעיניות מייצרות חשמל באמצעות תהליך של קרינה גרעינית."
+            },
+            {
+                "definition": "Exposure to ionizing or non-ionizing forms of radiation that can potentially be harmful or beneficial",
+                "definition_hebrew": "חשיפה לצורות קרינה מייננות או בלתי מייננות שעלולות להיות מזיקות או מועילות",
+                "example": "Sunbathing exposes skin to ultraviolet radiation, which can increase vitamin D production but also risk sunburn.",
+                "example_hebrew": "שיזוף חושף את העור לקרינה אולטרה סגולה, שעלולה להגביר את ייצור ויטמין D אך גם לסכן כוויות שמש."
+            }
+        ]
+    }
+]

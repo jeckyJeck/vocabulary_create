@@ -1,0 +1,28 @@
+[
+    {
+        "word": "died",
+        "word_hebrew": "מת",
+        "main_definition": "To cease to live or exist, usually in a permanent state.",
+        "main_definition_hebrew": "להפסיק לחיות או להתקיים, בדרך כלל במצב קבוע.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of passing away from life. The end of one's existence.",
+                "definition_hebrew": "מעשה ההסתלקות מהחיים. סוף קיומו של האדם.",
+                "example": "My grandfather died last year.",
+                "example_hebrew": "סבא שלי נפטר בשנה שעברה."
+            },
+            {
+                "definition": "In the context of a game, to lose all remaining lives or chances. Example: In soccer, when a player has been sent off and cannot continue playing, they 'died' for their team.",
+                "definition_hebrew": "בהקשר של משחק, לאבד את כל החיים או הסיכויים שנותרו. דוגמה: בכדורגל, כאשר שחקן הורחק ואינו יכול להמשיך לשחק, הוא 'מת' עבור הקבוצה שלו.",
+                "example": "The basketball player died in the last quarter because he fouled out.",
+                "example_hebrew": "שחקן הכדורסל מת ברבע האחרון בגלל שהוא עשה עבירה."
+            },
+            {
+                "definition": "In computing or programming, to terminate an execution of a program. Example: The bug caused the application to die unexpectedly.",
+                "definition_hebrew": "במחשוב או בתכנות, להפסיק ביצוע של תוכנית. דוגמה: הבאג גרם לאפליקציה למות באופן בלתי צפוי.",
+                "example": "After encountering an error, the script died and I had to start over.",
+                "example_hebrew": "לאחר שנתקלתי בשגיאה, התסריט מת והייתי צריך להתחיל מחדש."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "fish",
+        "word_hebrew": "דג",
+        "main_definition": "Fish is a term that can refer to aquatic vertebrates, an idiom implying difficulty or failure in accomplishing something, as well as various other meanings including food and sports equipment.",
+        "main_definition_hebrew": "דגים הוא מונח שיכול להתייחס לחולייתנים מימיים, ניב המרמז על קושי או כישלון בביצוע משהו, כמו גם משמעויות שונות אחרות כולל מזון וציוד ספורט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Aquatic vertebrate animals with gills that live in water",
+                "definition_hebrew": "בעלי חוליות מימיים עם זימים שחיים במים",
+                "example": "Tuna fish swim fast to catch their prey.",
+                "example_hebrew": "דגי טונה שוחים מהר כדי לתפוס את הטרף שלהם."
+            },
+            {
+                "definition": "An idiom used when someone fails or has difficulty accomplishing something",
+                "definition_hebrew": "ניב המשמש כאשר מישהו נכשל או מתקשה להשיג משהו",
+                "example": "I can't believe I still haven't figured out how to use this new software; it really is fish!",
+                "example_hebrew": "אני לא מאמין שעדיין לא הבנתי איך להשתמש בתוכנה החדשה הזו; זה באמת דג!"
+            },
+            {
+                "definition": "A type of food, especially one served as part of a meal",
+                "definition_hebrew": "סוג של אוכל, במיוחד כזה שמוגש כחלק מארוחה",
+                "example": "The restaurant specializes in fresh salmon and grilled trout.",
+                "example_hebrew": "המסעדה מתמחה בסלמון טרי ופורל בגריל."
+            },
+            {
+                "definition": "Equipment used for catching fish or swimming",
+                "definition_hebrew": "ציוד המשמש ללכידת דגים או לשחייה",
+                "example": "He put on his wetsuit, grabbed his fishing rod, and headed to the lake.",
+                "example_hebrew": "הוא לבש את חליפת הצלילה שלו, תפס את החכה שלו ופנה לאגם."
+            }
+        ]
+    }
+]

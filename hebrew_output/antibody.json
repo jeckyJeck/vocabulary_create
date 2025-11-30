@@ -1,0 +1,28 @@
+[
+    {
+        "word": "antibody",
+        "word_hebrew": "נוֹגְדָן",
+        "main_definition": "An antibody is a protein produced by the immune system in response to harmful substances, called antigens, that may cause disease or disorder.",
+        "main_definition_hebrew": "נוגדן הוא חלבון המיוצר על ידי מערכת החיסון בתגובה לחומרים מזיקים, הנקראים אנטיגנים, שעלולים לגרום למחלה או להפרעה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A specific type of globulin proteins found in blood plasma which are used by the immune system to neutralize pathogens such as bacteria and viruses.",
+                "definition_hebrew": "סוג מסוים של חלבוני גלובולין הנמצאים בפלסמה בדם המשמשים את מערכת החיסון לנטרול פתוגנים כגון חיידקים ווירוסים.",
+                "example": "When a person gets infected with the flu virus, their body produces antibodies to fight off the infection.",
+                "example_hebrew": "כאשר אדם נדבק בנגיף השפעת, הגוף שלו מייצר נוגדנים כדי להדוף את הזיהום."
+            },
+            {
+                "definition": "A diagnostic tool used by medical professionals to identify various diseases and conditions based on the presence of specific antibodies.",
+                "definition_hebrew": "כלי אבחון המשמש אנשי מקצוע רפואיים לזיהוי מחלות ומצבים שונים בהתבסס על נוכחות של נוגדנים ספציפיים.",
+                "example": "The doctor ordered an antibody test for my patient because they were showing symptoms similar to those caused by COVID-19.",
+                "example_hebrew": "הרופא הזמין בדיקת נוגדנים למטופל שלי מכיוון שהם הראו תסמינים דומים לאלה שנגרמו על ידי COVID-19."
+            },
+            {
+                "definition": "A biological marker, often produced as a result of exposure to a foreign substance or pathogen.",
+                "definition_hebrew": "סמן ביולוגי, המיוצר לרוב כתוצאה מחשיפה לחומר זר או פתוגן.",
+                "example": "The presence of antibodies in the blood can indicate whether someone has been previously exposed to a particular disease, such as measles.",
+                "example_hebrew": "נוכחות של נוגדנים בדם יכולה להצביע על האם מישהו נחשף בעבר למחלה מסוימת, כגון חצבת."
+            }
+        ]
+    }
+]

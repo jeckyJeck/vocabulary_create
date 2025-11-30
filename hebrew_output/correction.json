@@ -1,0 +1,40 @@
+[
+    {
+        "word": "correction",
+        "word_hebrew": "תיקון",
+        "main_definition": "A rectification or improvement made to correct an error, mistake, or inaccuracy.",
+        "main_definition_hebrew": "תיקון או שיפור שנעשו כדי לתקן שגיאה, טעות או אי דיוק.",
+        "meanings_and_examples": [
+            {
+                "definition": "Rectifying a wrong or error",
+                "definition_hebrew": "תיקון טעות או טעות",
+                "example": "After realizing his calculation was incorrect, John asked for the correction.",
+                "example_hebrew": "לאחר שהבין שהחישוב שלו שגוי, ג'ון ביקש את התיקון."
+            },
+            {
+                "definition": "An act of making something right or better",
+                "definition_hebrew": "פעולה של לעשות משהו נכון או טוב יותר",
+                "example": "She made corrections to her essay after receiving feedback from her teacher.",
+                "example_hebrew": "היא ביצעה תיקונים בחיבורה לאחר שקיבלה משוב מהמורה שלה."
+            },
+            {
+                "definition": "A change in policy, law, or practice due to new information or evidence",
+                "definition_hebrew": "שינוי במדיניות, בחוק או בנוהג עקב מידע או ראיות חדשות",
+                "example": "The government issued a correction regarding the previously published statistics on unemployment rates.",
+                "example_hebrew": "הממשלה פרסמה תיקון לגבי הסטטיסטיקה שפורסמה בעבר על שיעורי האבטלה."
+            },
+            {
+                "definition": "In punctuation, an indication of where an error was made and how it should be corrected (commonly denoted by two dots '..')",
+                "definition_hebrew": "בסימני פיסוק, ציון היכן נפלה שגיאה וכיצד יש לתקן אותה (מסומן בדרך כלל בשתי נקודות '..')",
+                "example": "The sentence had a typo which is shown with a correction: ...It's sunny outside.",
+                "example_hebrew": "במשפט הייתה טעות הקלדה שמוצגת עם תיקון: ...בחוץ שמש."
+            },
+            {
+                "definition": "In writing, revising or editing to improve the quality and clarity of text",
+                "definition_hebrew": "בכתיבה, תיקון או עריכה לשיפור איכות ובהירות הטקסט",
+                "example": "The editor went through the manuscript for corrections before it was published.",
+                "example_hebrew": "העורך עבר על כתב היד לתיקונים לפני פרסומו."
+            }
+        ]
+    }
+]

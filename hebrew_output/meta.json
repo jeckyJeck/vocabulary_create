@@ -1,0 +1,40 @@
+[
+    {
+        "word": "meta",
+        "word_hebrew": "מטא",
+        "main_definition": "Meta refers to a concept or discussion that is an abstraction from, or a commentary on, the subject itself.",
+        "main_definition_hebrew": "מטא מתייחס למושג או דיון שהם הפשטה מהנושא עצמו, או פרשנות לנושא עצמו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Concerning elements that are abstracted from other things",
+                "definition_hebrew": "לגבי יסודות המופשטים מדברים אחרים",
+                "example": "The meta-data about a document includes its title and author.",
+                "example_hebrew": "המטא-נתונים על מסמך כוללים את הכותרת והמחבר שלו."
+            },
+            {
+                "definition": "Relating to or denoting the act of analyzing something in terms of itself",
+                "definition_hebrew": "מתייחס או מציין את פעולת הניתוח של משהו במונחים של עצמו",
+                "example": "This movie is a meta commentary on the film genre it parodies.",
+                "example_hebrew": "הסרט הזה הוא פרשנות מטא לז'אנר הסרט שהוא פרודיה."
+            },
+            {
+                "definition": "Reflecting upon one's own work, ideas, etc.",
+                "definition_hebrew": "הרהור בעבודה, רעיונות וכו'.",
+                "example": "The author provided a meta-analysis of his previous novels to show growth in his writing style.",
+                "example_hebrew": "המחבר סיפק מטה-אנליזה של הרומנים הקודמים שלו כדי להראות צמיחה בסגנון הכתיבה שלו."
+            },
+            {
+                "definition": "Referring to the data or information that describes other data",
+                "definition_hebrew": "הכוונה לנתונים או למידע המתאר נתונים אחרים",
+                "example": "Metadata can include details like file size, date created, and type of format.",
+                "example_hebrew": "מטא נתונים יכולים לכלול פרטים כמו גודל קובץ, תאריך יצירה וסוג הפורמט."
+            },
+            {
+                "definition": "Characterizing something as being a higher-level concept than itself",
+                "definition_hebrew": "אפיון משהו כמושג ברמה גבוהה יותר ממנו",
+                "example": "The plot of the story is meta because it self-referentially comments on storytelling techniques.",
+                "example_hebrew": "העלילה של הסיפור היא מטא מכיוון שהיא מעירה בהתייחסות עצמית לטכניקות סיפור."
+            }
+        ]
+    }
+]

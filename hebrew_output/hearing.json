@@ -1,0 +1,34 @@
+[
+    {
+        "word": "hearing",
+        "word_hebrew": "שמיעה",
+        "main_definition": "Hearing refers to the ability of an individual or a system to perceive sound, as well as to the process of listening to spoken words or sounds.",
+        "main_definition_hebrew": "שמיעה מתייחסת ליכולת של אדם או מערכת לתפוס קול, כמו גם לתהליך ההאזנה למילים או לצלילים המדוברים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The physical sense and function related to the perception of sound frequencies",
+                "definition_hebrew": "החוש הפיזי והתפקוד הקשורים לתפיסת תדרי הקול",
+                "example": "His hearing was impaired after years of working in a noisy factory.",
+                "example_hebrew": "שמיעתו נפגעה לאחר שנים של עבודה במפעל רועש."
+            },
+            {
+                "definition": "An official meeting where people gather to listen or discuss matters, often involving presentations or speeches",
+                "definition_hebrew": "פגישה רשמית שבה אנשים מתאספים להקשיב או לדון בעניינים, לעתים קרובות כולל מצגות או נאומים",
+                "example": "The board held a hearing on the new policy changes last Monday.",
+                "example_hebrew": "הדירקטוריון ערך ביום שני האחרון שימוע על שינויי המדיניות החדשים."
+            },
+            {
+                "definition": "A formal request made by a person in authority for information about someone else's activities or whereabouts, usually through a court order",
+                "definition_hebrew": "בקשה רשמית של בעל סמכות לקבלת מידע על פעילותו או מקום הימצאו של מישהו אחר, בדרך כלל באמצעות צו בית משפט",
+                "example": "After receiving an anonymous tip, the police requested a hearing to investigate possible fraud.",
+                "example_hebrew": "לאחר קבלת טיפ אנונימי, ביקשה המשטרה לקיים שימוע לחקירת מרמה אפשרית."
+            },
+            {
+                "definition": "The ability of a technology system (like a hearing aid) to receive and process sound waves",
+                "definition_hebrew": "היכולת של מערכת טכנולוגית (כמו מכשיר שמיעה) לקלוט ולעבד גלי קול",
+                "example": "Hearing-aid devices are designed to assist individuals with impaired hearing in perceiving sounds more clearly.",
+                "example_hebrew": "מכשירי שמיעה נועדו לסייע לאנשים עם שמיעה לקויה לתפוס צלילים בצורה ברורה יותר."
+            }
+        ]
+    }
+]

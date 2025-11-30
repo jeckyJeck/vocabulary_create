@@ -1,0 +1,40 @@
+[
+    {
+        "word": "scan",
+        "word_hebrew": "לִסְרוֹק",
+        "main_definition": "To examine or look over quickly, often using a device to detect and measure characteristics of an object.",
+        "main_definition_hebrew": "לבחון או להסתכל במהירות, לעתים קרובות באמצעות מכשיר כדי לזהות ולמדוד מאפיינים של אובייקט.",
+        "meanings_and_examples": [
+            {
+                "definition": "To visually check something rapidly for information or details.",
+                "definition_hebrew": "כדי לבדוק משהו במהירות עבור מידע או פרטים.",
+                "example": "I scanned the document before printing it.",
+                "example_hebrew": "סרקתי את המסמך לפני הדפסתו."
+            },
+            {
+                "definition": "To use a device to detect and measure physical characteristics of an object, such as barcodes.",
+                "definition_hebrew": "להשתמש במכשיר כדי לזהות ולמדוד מאפיינים פיזיים של אובייקט, כגון ברקודים.",
+                "example": "The cashier used a barcode scanner to scan the items at the checkout counter.",
+                "example_hebrew": "הקופאית השתמשה בסורק ברקוד כדי לסרוק את הפריטים בדלפק הקופה."
+            },
+            {
+                "definition": "To examine or search thoroughly for information or potential issues, often in a metaphorical sense.",
+                "definition_hebrew": "לבחון או לחפש ביסודיות מידע או בעיות פוטנציאליות, לעתים קרובות במובן מטפורי.",
+                "example": "He decided to scan through his old emails looking for an important message he might have missed.",
+                "example_hebrew": "הוא החליט לסרוק את המיילים הישנים שלו בחיפוש אחר הודעה חשובה שאולי החמיץ."
+            },
+            {
+                "definition": "In medical contexts, it refers to using imaging technology such as ultrasound or CT scans to view internal body structures.",
+                "definition_hebrew": "בהקשרים רפואיים, זה מתייחס לשימוש בטכנולוגיית הדמיה כגון אולטרסאונד או סריקות CT לצפייה במבני גוף פנימיים.",
+                "example": "The patient underwent a scan to check for any abnormalities in their organs.",
+                "example_hebrew": "המטופל עבר סריקה כדי לבדוק אם יש חריגות באיבריו."
+            },
+            {
+                "definition": "To search through media content, such as videos and audio files, typically using software that can automatically detect and index content.",
+                "definition_hebrew": "כדי לחפש בתוכן מדיה, כגון סרטונים וקובצי אודיו, בדרך כלל באמצעות תוכנה שיכולה לזהות אוטומטית תוכן ולהוסיף לאינדקס.",
+                "example": "I used the video scanning tool to find all my old family vacation footage.",
+                "example_hebrew": "השתמשתי בכלי סריקת הווידאו כדי למצוא את כל צילומי החופשה המשפחתית הישנה שלי."
+            }
+        ]
+    }
+]

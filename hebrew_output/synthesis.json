@@ -1,0 +1,34 @@
+[
+    {
+        "word": "synthesis",
+        "word_hebrew": "סִינתֶזָה",
+        "main_definition": "Synthesis refers to the combination of different entities to form a connected whole, often used in scientific contexts like chemistry or biology, as well as metaphorically to describe creating something complex from simpler elements.",
+        "main_definition_hebrew": "סינתזה מתייחסת לשילוב של ישויות שונות ליצירת שלם מחובר, המשמש לעתים קרובות בהקשרים מדעיים כמו כימיה או ביולוגיה, כמו גם באופן מטפורי כדי לתאר יצירת משהו מורכב מאלמנטים פשוטים יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "A chemical synthesis process wherein simple substances combine to form more complex compounds",
+                "definition_hebrew": "תהליך סינתזה כימי שבו חומרים פשוטים מתחברים ליצירת תרכובות מורכבות יותר",
+                "example": "The laboratory performed a series of reactions leading to the synthesis of aspirin from salicylic acid and acetic anhydride.",
+                "example_hebrew": "המעבדה ביצעה סדרה של תגובות שהובילו לסינתזה של אספירין מחומצה סליצילית ואנהידריד אצטית."
+            },
+            {
+                "definition": "The intellectual process of combining various ideas, concepts or theories into a cohesive understanding",
+                "definition_hebrew": "התהליך האינטלקטואלי של שילוב רעיונות, מושגים או תיאוריות שונות לכדי הבנה מגובשת",
+                "example": "In philosophy, the synthesis between rationalism and empiricism led to new schools of thought during the Enlightenment.",
+                "example_hebrew": "בפילוסופיה, הסינתזה בין רציונליזם לאמפיריציזם הובילה לאסכולות חדשות בתקופת הנאורות."
+            },
+            {
+                "definition": "Creating something by putting together elements from different sources or pieces",
+                "definition_hebrew": "יצירת משהו על ידי חיבור אלמנטים ממקורות או חלקים שונים",
+                "example": "The fashion designer's collection is a synthesis of vintage patterns with modern designs, resulting in unique outfits.",
+                "example_hebrew": "הקולקציה של מעצבת האופנה היא סינתזה של דפוסי וינטג' עם עיצובים מודרניים, וכתוצאה מכך תלבושות ייחודיות."
+            },
+            {
+                "definition": "In genetics, the process where DNA sequences are combined to form new gene variants",
+                "definition_hebrew": "בגנטיקה, התהליך שבו משולבים רצפי DNA ליצירת גרסאות גנים חדשות",
+                "example": "Gene synthesis involves artificially creating DNA sequences that can then be inserted into organisms for study or modification.",
+                "example_hebrew": "סינתזת גנים כוללת יצירה מלאכותית של רצפי DNA שניתן להחדיר לאחר מכן לאורגניזמים לצורך מחקר או שינוי."
+            }
+        ]
+    }
+]

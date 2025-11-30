@@ -1,0 +1,28 @@
+[
+    {
+        "word": "payroll",
+        "word_hebrew": "גִלְיוֹן שָׂכָר",
+        "main_definition": "Payroll refers to the list of employees eligible for wage or salary payment, as well as the total amount of money paid out in a given period.",
+        "main_definition_hebrew": "תשלומי שכר מתייחסים לרשימת העובדים הזכאים לתשלום שכר או משכורת, כמו גם סכום הכסף הכולל ששולם בתקופה נתונה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A record of employees and their compensation",
+                "definition_hebrew": "רישום עובדים ותגמולם",
+                "example": "The HR department maintains an up-to-date payroll to ensure everyone receives their correct salaries.",
+                "example_hebrew": "מחלקת משאבי אנוש מנהלת שכר מעודכן על מנת להבטיח שכולם יקבלו את השכר הנכון."
+            },
+            {
+                "definition": "Total sum of wages paid to employees in a period",
+                "definition_hebrew": "סך כל השכר ששולם לעובדים בתקופה",
+                "example": "The company's monthly payroll came out to $500,000 after all deductions and benefits were accounted for.",
+                "example_hebrew": "השכר החודשי של החברה הגיע ל-500,000 דולר לאחר שכל הניכויים וההטבות נלקחו בחשבון."
+            },
+            {
+                "definition": "Process of calculating total compensation due to employees",
+                "definition_hebrew": "תהליך חישוב סך התגמול המגיע לעובדים",
+                "example": "Before distributing the paychecks, the finance team needed to calculate the total amount owed to each employee on the payroll.",
+                "example_hebrew": "לפני חלוקת תלושי השכר, צוות הכספים היה צריך לחשב את הסכום הכולל המגיע לכל עובד בפנקס השכר."
+            }
+        ]
+    }
+]

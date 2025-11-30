@@ -1,0 +1,40 @@
+[
+    {
+        "word": "curriculum",
+        "word_hebrew": "תוכנית לימודים",
+        "main_definition": "Curriculum refers to the set of courses, content, learning experiences, and educational goals that are offered by an institution or designed for a specific group of students.",
+        "main_definition_hebrew": "תכנית הלימודים מתייחסת למכלול הקורסים, התכנים, חוויות הלמידה והיעדים החינוכיים המוצעים על ידי מוסד או מיועדים לקבוצת תלמידים ספציפית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A structured set of subjects or coursework in a particular program of study",
+                "definition_hebrew": "קבוצה מובנית של נושאים או קורסים בתוכנית לימודים מסוימת",
+                "example": "The high school curriculum includes mathematics, science, English language arts, and social studies.",
+                "example_hebrew": "תכנית הלימודים בתיכון כוללת מתמטיקה, מדעים, אמנויות בשפה האנגלית ולימודי חברה."
+            },
+            {
+                "definition": "A comprehensive plan for teaching and learning within an educational institution",
+                "definition_hebrew": "תכנית מקיפה להוראה ולמידה במסגרת מוסד חינוכי",
+                "example": "The university's undergraduate curriculum emphasizes a liberal arts approach to education with diverse elective courses available in various disciplines.",
+                "example_hebrew": "תכנית הלימודים לתואר ראשון של האוניברסיטה שמה דגש על גישת אמנויות ליברליות לחינוך עם קורסי בחירה מגוונים הזמינים בדיסציפלינות שונות."
+            },
+            {
+                "definition": "The range of subjects taught at the primary or secondary level over a school year",
+                "definition_hebrew": "מגוון המקצועות הנלמדים ברמה היסודית או התיכונית במהלך שנת לימודים",
+                "example": "The elementary school curriculum focuses on fundamental skills such as reading, writing, and arithmetic, along with social studies and science concepts appropriate for young students.",
+                "example_hebrew": "תכנית הלימודים בבית הספר היסודי מתמקדת במיומנויות יסוד כמו קריאה, כתיבה וחשבון, יחד עם לימודי חברה ומושגים מדעיים המתאימים לתלמידים צעירים."
+            },
+            {
+                "definition": "A program's educational goals and objectives for students to achieve during a specific academic term",
+                "definition_hebrew": "המטרות והיעדים החינוכיים של התכנית להגשמת התלמידים במהלך קדנציה אקדמית מסוימת",
+                "example": "The online course curriculum outlines the learning outcomes that participants should accomplish by the end of the semester, including knowledge application in real-world scenarios.",
+                "example_hebrew": "תכנית הלימודים של הקורס המקוון מתארת את תוצאות הלמידה שעל המשתתפים להשיג עד סוף הסמסטר, כולל יישום ידע בתרחישים בעולם האמיתי."
+            },
+            {
+                "definition": "A guide or framework for educators to design and implement instructional activities",
+                "definition_hebrew": "מדריך או מסגרת למחנכים לתכנון ויישום פעילויות הדרכה",
+                "example": "The school district provides a curriculum resource guide with detailed lesson plans and teaching strategies for each grade level, subject area, and classroom setting.",
+                "example_hebrew": "מחוז בית הספר מספק מדריך משאבי לימודים עם מערכי שיעור ואסטרטגיות הוראה מפורטות עבור כל כיתה, תחום מקצוע ומסגרת כיתה."
+            }
+        ]
+    }
+]

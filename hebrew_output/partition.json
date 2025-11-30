@@ -1,0 +1,34 @@
+[
+    {
+        "word": "partition",
+        "word_hebrew": "חֲלוּקָה",
+        "main_definition": "A division or separation into parts, often used in the context of dividing space or organizing data.",
+        "main_definition_hebrew": "חלוקה או הפרדה לחלקים, המשמשים לעתים קרובות בהקשר של חלוקת מרחב או ארגון נתונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To divide something physically by placing a barrier between sections.",
+                "definition_hebrew": "לחלק משהו פיזית על ידי הצבת מחסום בין חלקים.",
+                "example": "The living room was partitioned with a wall to create two separate areas.",
+                "example_hebrew": "הסלון חולק בקיר ליצירת שני אזורים נפרדים."
+            },
+            {
+                "definition": "A section within a computer's operating system that manages the allocation and organization of data.",
+                "definition_hebrew": "מדור בתוך מערכת ההפעלה של המחשב המנהל את ההקצאה והארגון של הנתונים.",
+                "example": "In Windows, file systems are often managed by partitions for better data management.",
+                "example_hebrew": "ב-Windows, מערכות קבצים מנוהלות לרוב על ידי מחיצות לניהול נתונים טוב יותר."
+            },
+            {
+                "definition": "The process of dividing land into separate lots or sections, typically in urban planning or estate design.",
+                "definition_hebrew": "תהליך חלוקת הקרקע למגרשים או קטעים נפרדים, בדרך כלל בתכנון עירוני או בתכנון אחוזה.",
+                "example": "When developing a new housing project, the land was partitioned to create individual residential plots.",
+                "example_hebrew": "בעת פיתוח פרויקט דיור חדש, הקרקע חולקה ליצירת מגרשי מגורים בודדים."
+            },
+            {
+                "definition": "A barrier used to separate different areas within an enclosed space for privacy or noise reduction.",
+                "definition_hebrew": "מחסום המשמש להפרדה בין אזורים שונים בתוך חלל סגור לצורך פרטיות או הפחתת רעש.",
+                "example": "Partitions were installed in the open-plan office to provide employees with private workspaces.",
+                "example_hebrew": "במשרד הפתוח הותקנו מחיצות כדי לספק לעובדים חללי עבודה פרטיים."
+            }
+        ]
+    }
+]

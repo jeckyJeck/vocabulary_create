@@ -1,0 +1,40 @@
+[
+    {
+        "word": "spectrum",
+        "word_hebrew": "ספֵּקטרוּם",
+        "main_definition": "The range or variety of something, often referring to a continuous sequence of colors from red to violet (visible light spectrum) or the wide variety of entities within any given category.",
+        "main_definition_hebrew": "הטווח או המגוון של משהו, לעתים קרובות מתייחס לרצף רציף של צבעים מאדום לסגול (ספקטרום האור הנראה) או המגוון הרחב של ישויות בכל קטגוריה נתונה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A continuum of different states or conditions, especially in reference to color",
+                "definition_hebrew": "רצף של מצבים או תנאים שונים, במיוחד בהתייחסות לצבע",
+                "example": "The visible light spectrum consists of colors ranging from red to violet.",
+                "example_hebrew": "ספקטרום האור הנראה מורכב מצבעים הנעים בין אדום לסגול."
+            },
+            {
+                "definition": "A range of ideas, phenomena, qualities, etc.",
+                "definition_hebrew": "מגוון רעיונות, תופעות, תכונות וכו'.",
+                "example": "There is a spectrum of opinions on climate change among scientists and policymakers.",
+                "example_hebrew": "יש קשת של דעות על שינויי אקלים בקרב מדענים וקובעי מדיניות."
+            },
+            {
+                "definition": "The total arrangement or sequence of elements",
+                "definition_hebrew": "הסידור הכולל או רצף האלמנטים",
+                "example": "In genetics, there is a DNA base pairing spectra consisting of adenine-thymine and cytosine-guanine pairs.",
+                "example_hebrew": "בגנטיקה, יש ספקטרום זיווג בסיסי של DNA המורכב מזוגות אדנין-תימין וציטוזין-גואנין."
+            },
+            {
+                "definition": "A range of wavelengths of electromagnetic radiation",
+                "definition_hebrew": "טווח של אורכי גל של קרינה אלקטרומגנטית",
+                "example": "The ultraviolet spectrum includes wavelengths shorter than visible light but longer than X-rays.",
+                "example_hebrew": "הספקטרום האולטרה סגול כולל אורכי גל קצרים מהאור הנראה אך ארוכים יותר מקרני רנטגן."
+            },
+            {
+                "definition": "Varieties or diversities in any given field",
+                "definition_hebrew": "זנים או גיוון בכל תחום נתון",
+                "example": "There is a wide spectrum of programming languages, each with its own set of features and applications.",
+                "example_hebrew": "ישנו קשת רחבה של שפות תכנות, שלכל אחת יש סט תכונות ויישומים משלה."
+            }
+        ]
+    }
+]

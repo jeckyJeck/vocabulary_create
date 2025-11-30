@@ -1,0 +1,40 @@
+[
+    {
+        "word": "project",
+        "word_hebrew": "פּרוֹיֶקט",
+        "main_definition": "A planned endeavor, typically involving research or development efforts designed to achieve a particular aim.",
+        "main_definition_hebrew": "מאמץ מתוכנן, הכולל בדרך כלל מאמצי מחקר או פיתוח שנועדו להשיג מטרה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "To cast (a shadow) by projecting light",
+                "definition_hebrew": "להטיל (צל) על ידי הקרנת אור",
+                "example": "The sun's rays projected a long shadow on the ground as it set.",
+                "example_hebrew": "קרני השמש הקרינו צל ארוך על הקרקע עם שקיעתה."
+            },
+            {
+                "definition": "A planned endeavor, typically involving research or development efforts designed to achieve a particular aim.",
+                "definition_hebrew": "מאמץ מתוכנן, הכולל בדרך כלל מאמצי מחקר או פיתוח שנועדו להשיג מטרה מסוימת.",
+                "example": "The engineering team is working on a new software 'project' with the goal of creating an innovative app.",
+                "example_hebrew": "צוות ההנדסה עובד על 'פרויקט' תוכנה חדש במטרה ליצור אפליקציה חדשנית."
+            },
+            {
+                "definition": "To estimate in advance",
+                "definition_hebrew": "להעריך מראש",
+                "example": "She projected her expenses for the upcoming year to plan her budget accordingly.",
+                "example_hebrew": "היא חזתה את הוצאותיה לשנה הקרובה כדי לתכנן את התקציב שלה בהתאם."
+            },
+            {
+                "definition": "A task or assignment given, typically as part of a job or school curriculum.",
+                "definition_hebrew": "משימה או מטלה שניתנה, בדרך כלל כחלק מתפקיד או תוכנית לימודים בבית הספר.",
+                "example": "The teacher assigned a research 'project' on endangered species to his students.",
+                "example_hebrew": "המורה הטיל על תלמידיו 'פרויקט' מחקר על מינים בסכנת הכחדה."
+            },
+            {
+                "definition": "An extended period of time during which one is engaged in an activity",
+                "definition_hebrew": "פרק זמן ממושך שבמהלכו עוסקים בפעילות",
+                "example": "He took the first two months off work for a personal project he was passionate about.",
+                "example_hebrew": "הוא לקח את החודשיים הראשונים מהעבודה עבור פרויקט אישי שהוא התלהב ממנו."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "mouse",
+        "word_hebrew": "עכבר",
+        "main_definition": "The small rodent commonly known as a mouse, or an input device used to control the cursor in computer systems.",
+        "main_definition_hebrew": "המכרסם הקטן המכונה בדרך כלל עכבר, או התקן קלט המשמש לשליטה על הסמן במערכות מחשב.",
+        "meanings_and_examples": [
+            {
+                "definition": "A small mammal with short legs and rounded body",
+                "definition_hebrew": "יונק קטן עם רגליים קצרות וגוף מעוגל",
+                "example": "I saw a little mouse scurrying across my kitchen floor.",
+                "example_hebrew": "ראיתי עכבר קטן מתרוצץ על רצפת המטבח שלי."
+            },
+            {
+                "definition": "An electronic device used for navigating graphical user interfaces on computers or other digital devices",
+                "definition_hebrew": "מכשיר אלקטרוני המשמש לניווט בממשקי משתמש גרפיים במחשבים או במכשירים דיגיטליים אחרים",
+                "example": "To click the button, I moved the computer mouse to the edge of the screen and clicked.",
+                "example_hebrew": "כדי ללחוץ על הכפתור, העברתי את עכבר המחשב לקצה המסך ולחצתי."
+            },
+            {
+                "definition": "A symbol representing a mouse in various contexts (e.g., traffic symbols)",
+                "definition_hebrew": "סמל המייצג עכבר בהקשרים שונים (למשל, סמלי תנועה)",
+                "example": "At the intersection, there was a sign with an arrow pointing towards different directions, including one depicting a small mouse.",
+                "example_hebrew": "בצומת היה שלט עם חץ המורה לכיוונים שונים, כולל אחד שמתאר עכבר קטן."
+            },
+            {
+                "definition": "To follow someone closely or sneakily",
+                "definition_hebrew": "לעקוב אחר מישהו מקרוב או בערמומיות",
+                "example": "The detective decided to mouse around his suspect in order to gather more evidence.",
+                "example_hebrew": "הבלש החליט לעקוב סביב החשוד שלו כדי לאסוף ראיות נוספות."
+            }
+        ]
+    }
+]

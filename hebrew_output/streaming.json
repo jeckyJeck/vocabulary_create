@@ -1,0 +1,40 @@
+[
+    {
+        "word": "streaming",
+        "word_hebrew": "נְהִירָה",
+        "main_definition": "The continuous transmission or broadcast of audio, video, or data over the internet without significant delay.",
+        "main_definition_hebrew": "שידור או שידור רציף של אודיו, וידאו או נתונים דרך האינטרנט ללא עיכוב משמעותי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Real-time transfer of digital media content via the Internet",
+                "definition_hebrew": "העברה בזמן אמת של תוכן מדיה דיגיטלית דרך האינטרנט",
+                "example": "Many people now prefer streaming movies and music rather than downloading files.",
+                "example_hebrew": "אנשים רבים מעדיפים כיום הזרמת סרטים ומוזיקה במקום הורדת קבצים."
+            },
+            {
+                "definition": "The act of watching or listening to content as it is being broadcasted online",
+                "definition_hebrew": "הפעולה של צפייה או האזנה לתוכן בזמן שהוא משודר באינטרנט",
+                "example": "I was binge-watching a new series on Netflix through its streaming service.",
+                "example_hebrew": "צפיתי בבולמוס בסדרה חדשה בנטפליקס דרך שירות הסטרימינג שלה."
+            },
+            {
+                "definition": "Live broadcasting events, such as sports games and concerts over the internet without delays",
+                "definition_hebrew": "אירועי שידור חי, כגון משחקי ספורט וקונצרטים דרך האינטרנט ללא עיכובים",
+                "example": "The NBA All-Star Game is available for viewers to watch live via an online streaming platform.",
+                "example_hebrew": "משחק האולסטאר של ה-NBA זמין לצפייה ישירה לצופים באמצעות פלטפורמת סטרימינג מקוונת."
+            },
+            {
+                "definition": "Process of releasing products or software updates continuously in small increments",
+                "definition_hebrew": "תהליך של שחרור מוצרים או עדכוני תוכנה באופן רציף במרווחים קטנים",
+                "example": "Apple often releases new versions of its iOS operating system through a continuous, daily-updated stream of smaller updates rather than infrequent major releases.",
+                "example_hebrew": "אפל משחררת לעתים קרובות גרסאות חדשות של מערכת ההפעלה iOS שלה באמצעות זרם רציף ומתעדכן יומי של עדכונים קטנים יותר מאשר מהדורות גדולות נדירות."
+            },
+            {
+                "definition": "A method for delivering data to consumers over the internet",
+                "definition_hebrew": "שיטה להעברת נתונים לצרכנים דרך האינטרנט",
+                "example": "The company adopted a streaming platform to distribute its digital content directly to customers' devices.",
+                "example_hebrew": "החברה אימצה פלטפורמת סטרימינג להפצת התוכן הדיגיטלי שלה ישירות למכשירי הלקוחות."
+            }
+        ]
+    }
+]

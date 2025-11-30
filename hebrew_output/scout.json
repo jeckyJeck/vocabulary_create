@@ -1,0 +1,40 @@
+[
+    {
+        "word": "scout",
+        "word_hebrew": "לְגַשֵׁשׁ",
+        "main_definition": "A scout is a person who explores an area or performs reconnaissance, often with the purpose of gathering information about a terrain, enemy forces, or resources.",
+        "main_definition_hebrew": "צופית הוא אדם אשר חוקר אזור או מבצע סיור, לרוב במטרה לאסוף מידע על שטח, כוחות אויב או משאבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual who gathers information for military purposes",
+                "definition_hebrew": "אדם שאוסף מידע למטרות צבאיות",
+                "example": "The scout reported back to his commanders about enemy positions.",
+                "example_hebrew": "הגשש דיווח למפקדיו על עמדות האויב."
+            },
+            {
+                "definition": "A participant in a sports competition, typically focusing on speed and agility",
+                "definition_hebrew": "משתתף בתחרות ספורט, בדרך כלל מתמקד במהירות ובזריזות",
+                "example": "During the track meet, young athletes showcased their skills as fast-paced scouts.",
+                "example_hebrew": "במהלך מפגש המסלול, ספורטאים צעירים הציגו את כישוריהם כצופים בקצב מהיר."
+            },
+            {
+                "definition": "An individual who joins an organized group to participate in specific activities or events",
+                "definition_hebrew": "אדם שמצטרף לקבוצה מאורגנת כדי להשתתף בפעילויות או אירועים ספציפיים",
+                "example": "The scout joined a hiking trip and learned about nature along the way.",
+                "example_hebrew": "הצופים הצטרף לטיול רגלי ולמד על הטבע בדרך."
+            },
+            {
+                "definition": "A person employed by a company, typically for low-paying jobs involving physical labor",
+                "definition_hebrew": "אדם המועסק על ידי חברה, בדרך כלל עבור עבודות בשכר נמוך הכרוכות בעבודה פיזית",
+                "example": "As a child, I used to work as a newspaper delivery scout in my neighborhood.",
+                "example_hebrew": "בילדותי עבדתי כצופית במשלוח עיתונים בשכונה שלי."
+            },
+            {
+                "definition": "The first part of a military operation aimed at collecting information and identifying objectives",
+                "definition_hebrew": "החלק הראשון של מבצע צבאי שמטרתו איסוף מידע וזיהוי מטרות",
+                "example": "Before launching the full-scale attack, the army conducted several scout missions to assess enemy defenses.",
+                "example_hebrew": "לפני שיגור המתקפה בקנה מידה מלא, הצבא ביצע מספר משימות צופים כדי להעריך את הגנות האויב."
+            }
+        ]
+    }
+]

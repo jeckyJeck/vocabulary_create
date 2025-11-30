@@ -1,0 +1,38 @@
+{
+    "word": "that",
+    "word_hebrew": "זֶה",
+    "main_definition": "That is a pronoun used to refer back to something previously mentioned or understood in the context.",
+    "main_definition_hebrew": "זהו כינוי המשמש להתייחסות חזרה למשהו שהוזכר קודם לכן או מובן בהקשר.",
+    "meanings_and_examples": [
+        {
+            "definition": "Used as a demonstrative pronoun to indicate a specific thing close at hand or being indicated or experienced.",
+            "definition_hebrew": "משמש ככינוי הדגמה לציון דבר מסוים שנמצא בהישג יד או מסומן או מנוסה.",
+            "example": "That book on the table is mine.",
+            "example_hebrew": "הספר הזה על השולחן הוא שלי."
+        },
+        {
+            "definition": "Used to refer back to an idea, situation, person, or object previously mentioned in the conversation.",
+            "definition_hebrew": "משמש להתייחסות חזרה לרעיון, מצב, אדם או חפץ שהוזכרו בעבר בשיחה.",
+            "example": "I don't like that movie because it was too long.",
+            "example_hebrew": "אני לא אוהב את הסרט הזה כי הוא היה ארוך מדי."
+        },
+        {
+            "definition": "Used to introduce a clause expressing what is happening, done, etc. at this present time (when used with 'be').",
+            "definition_hebrew": "משמש להכנסת סעיף המבטא את מה שקורה, נעשה וכו' בזמן הנוכחי (בשימוש עם 'להיות').",
+            "example": "That he has arrived is great news for us.",
+            "example_hebrew": "זה שהוא הגיע זו בשורה נהדרת עבורנו."
+        },
+        {
+            "definition": "Used in relative clauses to refer back to the noun mentioned earlier.",
+            "definition_hebrew": "משמש בסעיפים יחסיים כדי להפנות חזרה לשם העצם שהוזכר קודם לכן.",
+            "example": "The car, that I bought last week, is very reliable.",
+            "example_hebrew": "המכונית, שקניתי בשבוע שעבר, מאוד אמינה."
+        },
+        {
+            "definition": "Used as a conjunction to mean 'such' or 'as'.",
+            "definition_hebrew": "משמש כצירוף למשמעות 'כזה' או 'כמו'.",
+            "example": "He acted such a fool, that everyone was laughing at him.",
+            "example_hebrew": "הוא התנהג כל כך טיפש, שכולם צחקו עליו."
+        }
+    ]
+}

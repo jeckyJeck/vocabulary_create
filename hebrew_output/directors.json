@@ -1,0 +1,40 @@
+[
+    {
+        "word": "directors",
+        "word_hebrew": "במאים",
+        "main_definition": "Directors are individuals who oversee, guide, or control an organization's activities or specific projects.",
+        "main_definition_hebrew": "דירקטורים הם אנשים שמפקחים, מנחים או שולטים בפעילויות של ארגון או בפרויקטים ספציפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the film industry, directors are people responsible for managing a movie's creative aspects and guiding its production from start to finish. They communicate with actors, cinematographers, and other crew members to realize their artistic vision.",
+                "definition_hebrew": "בתעשיית הקולנוע, במאים הם אנשים שאחראים על ניהול ההיבטים היצירתיים של הסרט והנחיית הפקתו מתחילתו ועד סופו. הם מתקשרים עם שחקנים, צלמים ואנשי צוות אחרים כדי לממש את החזון האמנותי שלהם.",
+                "example": "The Coen brothers are renowned for their distinctive film direction style.",
+                "example_hebrew": "האחים כהן ידועים בסגנון הבימוי הקולנועי המיוחד שלהם."
+            },
+            {
+                "definition": "In the corporate world, directors refer to individuals on a company's board of directors who have legal and ethical responsibilities. They set broad policies and oversee management.",
+                "definition_hebrew": "בעולם התאגידים, דירקטורים מתייחסים ליחידים בדירקטוריון של חברה שיש להם אחריות משפטית ואתית. הם קובעים מדיניות רחבה ומפקחים על הניהול.",
+                "example": "The board of directors at Apple Inc., including Tim Cook and Arthur D. Levinson, make key decisions about the company.",
+                "example_hebrew": "מועצת המנהלים של Apple Inc., כולל טים קוק וארתור ד. לוינסון, מקבלת החלטות מפתח לגבי החברה."
+            },
+            {
+                "definition": "In sports, a game's director or match referee is an official who oversees a game to ensure fair play and enforce rules.",
+                "definition_hebrew": "בספורט, מנהל משחק או שופט משחק הוא פקיד המפקח על משחק כדי להבטיח משחק הוגן ואכיפת חוקים.",
+                "example": "The basketball game's director closely monitored player conduct during intense moments of the final quarter.",
+                "example_hebrew": "מנהל משחק הכדורסל עקב מקרוב אחר התנהלות השחקנים ברגעים אינטנסיביים של הרבע האחרון."
+            },
+            {
+                "definition": "In software development, directors are individuals in charge of managing a project. They set goals, plan tasks and delegate responsibilities among team members.",
+                "definition_hebrew": "בפיתוח תוכנה, מנהלים הם אנשים שאחראים על ניהול פרויקט. הם מציבים יעדים, מתכננים משימות ומאצילים אחריות בין חברי הצוות.",
+                "example": "The lead developer acted as the director, coordinating between different teams to ensure timely delivery of the project.",
+                "example_hebrew": "היזם המוביל שימש כמנהל, תיאום בין צוותים שונים כדי להבטיח אספקה בזמן של הפרויקט."
+            },
+            {
+                "definition": "In music, directors can refer to individuals who guide or conduct a musical performance, interpreting and expressing the composer's intentions.",
+                "definition_hebrew": "במוזיקה, במאים יכולים להתייחס לאנשים שמדריכים או מנהלים הופעה מוזיקלית, מפרשים ומבטאים את כוונותיו של המלחין.",
+                "example": "The renowned maestro conducted the symphony with great skill and passion.",
+                "example_hebrew": "המאסטרו הנודע ניצח על הסימפוניה במיומנות ותשוקה רבה."
+            }
+        ]
+    }
+]

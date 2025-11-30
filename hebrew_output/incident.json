@@ -1,0 +1,34 @@
+[
+    {
+        "word": "incident",
+        "word_hebrew": "תַקרִית",
+        "main_definition": "An event or occurrence, often unexpected and noteworthy in some way.",
+        "main_definition_hebrew": "אירוע או התרחשות, לעתים קרובות בלתי צפוי וראוי לציון בדרך כלשהי.",
+        "meanings_and_examples": [
+            {
+                "definition": "A minor accident or unfortunate event, such as a collision between cars.",
+                "definition_hebrew": "תאונה קלה או אירוע מצער, כגון התנגשות בין מכוניות.",
+                "example": "The traffic police investigated the incident involving two vehicles.",
+                "example_hebrew": "משטרת התנועה חקרה את האירוע בו היו מעורבים שני כלי רכב."
+            },
+            {
+                "definition": "An unusual occurrence that may require attention or action.",
+                "definition_hebrew": "אירוע חריג שעלול לדרוש תשומת לב או פעולה.",
+                "example": "When an employee reports an incident of bullying in the workplace, it must be addressed immediately.",
+                "example_hebrew": "כאשר עובד מדווח על אירוע של בריונות במקום העבודה, יש לטפל בו באופן מיידי."
+            },
+            {
+                "definition": "A specific point in time where something unfortunate has happened, such as a crime or attack.",
+                "definition_hebrew": "נקודת זמן מסוימת שבה קרה משהו מצער, כמו פשע או פיגוע.",
+                "example": "The security cameras captured footage of the incident at the bank robbery.",
+                "example_hebrew": "מצלמות האבטחה קלטו את התקרית בשוד הבנק."
+            },
+            {
+                "definition": "An unexpected event that causes concern or alarm.",
+                "definition_hebrew": "אירוע בלתי צפוי שגורם לדאגה או אזעקה.",
+                "example": "When the smoke appeared over the forest, people were alarmed by the possible wildfire incident.",
+                "example_hebrew": "כשהעשן הופיע מעל היער, אנשים נבהלו מתקרית השריפה האפשרית."
+            }
+        ]
+    }
+]

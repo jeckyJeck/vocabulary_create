@@ -1,0 +1,40 @@
+[
+    {
+        "word": "journalism",
+        "word_hebrew": "עיתונות",
+        "main_definition": "Journalism is the activity of gathering, assessing, creating and presenting news and information to the public through various media outlets.",
+        "main_definition_hebrew": "עיתונאות היא פעילות של איסוף, הערכה, יצירה והצגה של חדשות ומידע לציבור באמצעות כלי תקשורת שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The practice or profession of collecting, writing, editing news stories, and reporting events for newspapers, magazines, television, radio, or online platforms",
+                "definition_hebrew": "העיסוק או המקצוע של איסוף, כתיבה, עריכת כתבות חדשותיות ודיווח על אירועים עבור עיתונים, מגזינים, טלוויזיה, רדיו או פלטפורמות מקוונות",
+                "example": "As a journalist, she spent her days interviewing sources and crafting compelling articles.",
+                "example_hebrew": "כעיתונאית, היא בילתה את ימיה בראיונות מקורות וביצירת מאמרים מרתקים."
+            },
+            {
+                "definition": "The art of investigative research aimed at uncovering the truth and presenting it in an easily understandable manner to readers or viewers",
+                "definition_hebrew": "אמנות המחקר החקירתי שמטרתה לחשוף את האמת ולהציגה בצורה קלה להבנה לקוראים או לצופים",
+                "example": "His dedication to journalism led him to expose corruption within a local government office.",
+                "example_hebrew": "מסירותו לעיתונות הביאה אותו לחשוף שחיתות בתוך משרד ממשלתי מקומי."
+            },
+            {
+                "definition": "The collection, analysis, and distribution of news stories through various forms such as print media (newspapers, magazines), broadcast media (radio, television) or digital platforms (blogs, social networks)",
+                "definition_hebrew": "איסוף, ניתוח והפצה של כתבות חדשותיות באמצעות צורות שונות כגון מדיה מודפסת (עיתונים, מגזינים), מדיה משודרת (רדיו, טלוויזיה) או פלטפורמות דיגיטליות (בלוגים, רשתות חברתיות)",
+                "example": "With the rise of online journalism, many traditional newspapers have adapted to include more multimedia content in their reporting.",
+                "example_hebrew": "עם עליית העיתונות המקוונת, עיתונים מסורתיים רבים הסתגלו לכלול יותר תוכן מולטימדיה בדיווח שלהם."
+            },
+            {
+                "definition": "The act of maintaining an accurate and objective record of events as they happen",
+                "definition_hebrew": "הפעולה של שמירה על רישום מדויק ואובייקטיבי של אירועים בזמן שהם קורים",
+                "example": "A war correspondent's role is to observe and report on conflicts from the front lines, providing real-time updates to the public.",
+                "example_hebrew": "תפקידו של כתב מלחמה הוא לצפות ולדווח על סכסוכים מהקו החזית, לספק עדכונים בזמן אמת לציבור."
+            },
+            {
+                "definition": "An ethical approach that emphasizes truthfulness, accuracy, fairness, and accountability in reporting news",
+                "definition_hebrew": "גישה אתית המדגישה אמת, דיוק, הגינות ואחריות בדיווח על חדשות",
+                "example": "The newspaper's commitment to journalism means it strives for impartiality and avoiding sensationalism.",
+                "example_hebrew": "מחויבותו של העיתון לעיתונאות פירושה שהוא שואף לחוסר משוא פנים והימנעות מסנסציוניות."
+            }
+        ]
+    }
+]

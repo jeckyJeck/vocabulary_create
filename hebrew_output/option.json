@@ -1,0 +1,40 @@
+[
+    {
+        "word": "option",
+        "word_hebrew": "אוֹפְּצִיָה",
+        "main_definition": "Option refers to a choice or alternative that can be selected from among various possibilities, often used in the context of decision-making, product features, or actions.",
+        "main_definition_hebrew": "אופציה מתייחסת לבחירה או חלופה שניתן לבחור מבין אפשרויות שונות, המשמשות לעתים קרובות בהקשר של קבלת החלטות, תכונות מוצר או פעולות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A selection available for a particular situation",
+                "definition_hebrew": "מבחר זמין עבור מצב מסוים",
+                "example": "I have two options: I can either take the bus to work or cycle.",
+                "example_hebrew": "יש לי שתי אפשרויות: אני יכול לקחת את האוטובוס לעבודה או לרכוב על אופניים."
+            },
+            {
+                "definition": "The right or privilege of choosing among alternatives",
+                "definition_hebrew": "הזכות או הפריבילגיה לבחור בין חלופות",
+                "example": "Having multiple payment options (cash, card, installments) is helpful for customers.",
+                "example_hebrew": "קיום אפשרויות תשלום מרובות (מזומן, כרטיס, תשלומים) מועיל ללקוחות."
+            },
+            {
+                "definition": "A provision in a contract that allows one party to terminate the agreement under certain conditions",
+                "definition_hebrew": "הוראה בחוזה המאפשרת לצד אחד לסיים את ההסכם בתנאים מסוימים",
+                "example": "The option clause allowed us to back out of the deal if we found another job offer within 30 days.",
+                "example_hebrew": "סעיף האופציה אפשר לנו לסגת מהעסקה אם מצאנו הצעת עבודה אחרת בתוך 30 יום."
+            },
+            {
+                "definition": "An add-on feature or enhancement for a product or service",
+                "definition_hebrew": "תכונה נוספת או שיפור עבור מוצר או שירות",
+                "example": "Our internet package comes with several options, such as ad-free streaming and high-speed data plans.",
+                "example_hebrew": "חבילת האינטרנט שלנו מגיעה עם מספר אפשרויות, כגון סטרימינג ללא פרסומות ותוכניות נתונים במהירות גבוהה."
+            },
+            {
+                "definition": "A choice between different courses of action in dealing with a situation",
+                "definition_hebrew": "בחירה בין דרכי פעולה שונות בהתמודדות עם מצב",
+                "example": "The doctor presented me with two treatment options: surgery or medication.",
+                "example_hebrew": "הרופא הציג בפניי שתי אפשרויות טיפול: ניתוח או תרופות."
+            }
+        ]
+    }
+]

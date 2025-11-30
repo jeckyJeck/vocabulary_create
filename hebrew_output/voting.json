@@ -1,0 +1,34 @@
+[
+    {
+        "word": "voting",
+        "word_hebrew": "הַצבָּעָה",
+        "main_definition": "The process of making a decision by choosing between different options, typically through the selection of individuals or groups to represent one's preferences.",
+        "main_definition_hebrew": "תהליך קבלת ההחלטה על ידי בחירה בין אפשרויות שונות, בדרך כלל באמצעות בחירה של יחידים או קבוצות לייצג את העדפותיו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Participating in an election to choose representatives",
+                "definition_hebrew": "השתתפות בבחירות לבחירת נציגים",
+                "example": "During the presidential election, citizens participated by voting for their preferred candidate.",
+                "example_hebrew": "במהלך הבחירות לנשיאות, אזרחים השתתפו בהצבעה עבור המועמד המועדף עליהם."
+            },
+            {
+                "definition": "Deciding on a course of action or direction based on collective input",
+                "definition_hebrew": "החלטה על דרך פעולה או כיוון על סמך קלט קולקטיבי",
+                "example": "The board members voted to approve the new company policy after considering everyone's opinions.",
+                "example_hebrew": "חברי הדירקטוריון הצביעו בעד אישור מדיניות החברה החדשה לאחר ששקלו את דעותיהם של כולם."
+            },
+            {
+                "definition": "Casting ballots in an assembly, meeting, or group decision-making process",
+                "definition_hebrew": "הצבעה בתהליך קבלת החלטות באסיפה, בפגישה או בקבוצה",
+                "example": "At the town hall meeting, residents were asked to vote on a proposal for a new community park.",
+                "example_hebrew": "בישיבת העירייה התבקשו התושבים להצביע על הצעה לגן קהילתי חדש."
+            },
+            {
+                "definition": "Giving one's consent or approval by selecting among options",
+                "definition_hebrew": "מתן הסכמה או אישור על ידי בחירה בין האפשרויות",
+                "example": "When choosing a restaurant, we voted on whether to go Italian or Chinese for dinner.",
+                "example_hebrew": "כשבחרנו מסעדה, הצבענו אם ללכת איטלקית או סינית לארוחת ערב."
+            }
+        ]
+    }
+]

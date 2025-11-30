@@ -1,0 +1,28 @@
+[
+    {
+        "word": "wav",
+        "word_hebrew": "wav",
+        "main_definition": "WAV is not a common idiom or phrase in English, but it can be interpreted as an abbreviation of 'wave' with different meanings related to waves or signal processing.",
+        "main_definition_hebrew": "WAV אינו ניב או ביטוי נפוץ באנגלית, אך ניתן לפרש אותו כקיצור של 'גל' עם משמעויות שונות הקשורות לגלים או לעיבוד אותות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A ripple on the surface of water",
+                "definition_hebrew": "אדווה על פני המים",
+                "example": "The children threw stones into the lake, creating small wavelike disturbances.",
+                "example_hebrew": "הילדים זרקו אבנים לתוך האגם, ויצרו הפרעות קטנות דמויות גל."
+            },
+            {
+                "definition": "An action or gesture made by moving one's hand to and fro",
+                "definition_hebrew": "פעולה או מחווה שנעשית על ידי הזזת היד הלוך ושוב",
+                "example": "She gave a quick wave as she walked away from him.",
+                "example_hebrew": "היא נפנפה במהירות כשהיא התרחקה ממנו."
+            },
+            {
+                "definition": "A waveform in digital audio, representing an analog signal sampled at regular intervals",
+                "definition_hebrew": "צורת גל באודיו דיגיטלי, המייצגת אות אנלוגי שנדגם במרווחי זמן קבועים",
+                "example": "The sound engineer adjusted the WAV file to ensure high-quality audio for the recording session.",
+                "example_hebrew": "מהנדס הסאונד התאים את קובץ ה-WAV כדי להבטיח שמע באיכות גבוהה לסשן ההקלטה."
+            }
+        ]
+    }
+]

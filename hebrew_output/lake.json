@@ -1,0 +1,28 @@
+[
+    {
+        "word": "lake",
+        "word_hebrew": "אֲגַם",
+        "main_definition": "A body of water surrounded by land, usually larger than a pond.",
+        "main_definition_hebrew": "גוף מים מוקף ביבשה, לרוב גדול יותר משלולית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Metaphorical meaning representing an accumulation or storehouse",
+                "definition_hebrew": "משמעות מטפורית המייצגת מצבור או מחסן",
+                "example": "After the meeting, he stored up his thoughts like a lake holding rainwater.",
+                "example_hebrew": "לאחר הפגישה, הוא אחסן את מחשבותיו כמו אגם המחזיק מי גשמים."
+            },
+            {
+                "definition": "A reference to a calm and peaceful place in literature or conversation",
+                "definition_hebrew": "התייחסות למקום רגוע ושליו בספרות או בשיחה",
+                "example": "Their wedding was by a beautiful lake, surrounded by nature's tranquility.",
+                "example_hebrew": "החתונה שלהם הייתה ליד אגם יפהפה, מוקף בשלווה הטבע."
+            },
+            {
+                "definition": "In geology, the term 'lake bed' refers to the bottom sediment of a lake",
+                "definition_hebrew": "בגיאולוגיה, המונח 'מיטת אגם' מתייחס למשקע התחתון של אגם",
+                "example": "The study examined the composition and structure of the lake bed in Lake Baikal.",
+                "example_hebrew": "המחקר בדק את ההרכב והמבנה של ערוגת האגם באגם באיקל."
+            }
+        ]
+    }
+]

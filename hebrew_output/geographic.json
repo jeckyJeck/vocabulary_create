@@ -1,0 +1,34 @@
+[
+    {
+        "word": "geographic",
+        "word_hebrew": "גֵאוֹגרָפִי",
+        "main_definition": "Relating to the physical features, climate, or location of a place on Earth.",
+        "main_definition_hebrew": "התייחסות למאפיינים הפיזיים, האקלים או המיקום של מקום על פני כדור הארץ.",
+        "meanings_and_examples": [
+            {
+                "definition": "Pertaining to geography as a field of study",
+                "definition_hebrew": "הנוגע לגיאוגרפיה כתחום לימוד",
+                "example": "The students were studying various aspects of geographic information systems.",
+                "example_hebrew": "התלמידים למדו היבטים שונים של מערכות מידע גיאוגרפיות."
+            },
+            {
+                "definition": "Relating to the physical characteristics of an area",
+                "definition_hebrew": "התייחסות למאפיינים הפיזיים של אזור",
+                "example": "His interest in geographic patterns led him to become a cartographer.",
+                "example_hebrew": "העניין שלו בדפוסים גיאוגרפיים הוביל אותו להיות קרטוגרף."
+            },
+            {
+                "definition": "Involving or concerning large-scale spatial distributions and relationships",
+                "definition_hebrew": "מעורבות או נוגעת להפצות ויחסים מרחביים בקנה מידה גדול",
+                "example": "The research paper explored the geographic distribution of endangered species across continents.",
+                "example_hebrew": "מאמר המחקר חקר את התפוצה הגיאוגרפית של מינים בסכנת הכחדה על פני יבשות."
+            },
+            {
+                "definition": "Indicating something is spread out over a wide area",
+                "definition_hebrew": "מציין שמשהו פרוש על פני שטח רחב",
+                "example": "They experienced geographic variations in climate as they traveled from north to south.",
+                "example_hebrew": "הם חוו שינויים גיאוגרפיים באקלים כשנסעו מצפון לדרום."
+            }
+        ]
+    }
+]

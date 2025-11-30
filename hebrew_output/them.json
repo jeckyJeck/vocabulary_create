@@ -1,0 +1,28 @@
+[
+    {
+        "word": "them",
+        "word_hebrew": "אוֹתָם",
+        "main_definition": "Them is a pronoun used to refer to specific people or things previously mentioned, observed, or understood from the context.",
+        "main_definition_hebrew": "הם כינוי המשמש להתייחס לאנשים ספציפיים או לדברים שהוזכרו קודם לכן, נצפו או הובנו מהקשר.",
+        "meanings_and_examples": [
+            {
+                "definition": "A word used as an object of preposition or after verbs like give, tell, show",
+                "definition_hebrew": "מילה המשמשת כמושא של מילת יחס או אחרי פעלים כמו לתת, לספר, להראות",
+                "example": "I have no idea what to get them for their birthday.",
+                "example_hebrew": "אין לי מושג מה לקנות להם ליום ההולדת שלהם."
+            },
+            {
+                "definition": "Used in informal contexts to refer back to people being talked about",
+                "definition_hebrew": "משמש בהקשרים לא פורמליים כדי להפנות חזרה לאנשים שמדברים עליהם",
+                "example": "Sarah and John are coming over later; don't forget to greet them at the door!",
+                "example_hebrew": "שרה וג'ון מגיעים מאוחר יותר; אל תשכחו לברך אותם בדלת!"
+            },
+            {
+                "definition": "A plural third person pronoun, often used to indicate a group or category previously mentioned",
+                "definition_hebrew": "כינוי בגוף שלישי רבים, המשמש לעתים קרובות לציון קבוצה או קטגוריה שהוזכרו קודם לכן",
+                "example": "The team won the championship last year, but this year they are not performing well.",
+                "example_hebrew": "הקבוצה זכתה באליפות בשנה שעברה, אבל השנה היא לא מתפקדת טוב."
+            }
+        ]
+    }
+]

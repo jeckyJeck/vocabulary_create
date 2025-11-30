@@ -1,0 +1,40 @@
+[
+    {
+        "word": "ports",
+        "word_hebrew": "נמלים",
+        "main_definition": "Ports refer to various concepts related to transportation, communication, or points of entry in different contexts.",
+        "main_definition_hebrew": "נמלים מתייחסים למושגים שונים הקשורים לתחבורה, תקשורת או נקודות כניסה בהקשרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A location where ships can dock to load and unload cargo",
+                "definition_hebrew": "מיקום שבו ספינות יכולות לעגון כדי לטעון ולפרוק מטען",
+                "example": "The Port of Shanghai is one of the busiest ports in the world.",
+                "example_hebrew": "נמל שנגחאי הוא אחד הנמלים העמוסים ביותר בעולם."
+            },
+            {
+                "definition": "A place for loading or unloading goods from a vehicle or vessel",
+                "definition_hebrew": "מקום להעמסה או פריקת סחורה מרכב או כלי שיט",
+                "example": "At the port, workers are busy transferring containers from trucks to cranes.",
+                "example_hebrew": "בנמל עסוקים עובדים בהעברת מכולות ממשאיות למנופים."
+            },
+            {
+                "definition": "An electronic interface in computing where devices can connect and communicate with each other",
+                "definition_hebrew": "ממשק אלקטרוני במחשוב שבו מכשירים יכולים להתחבר ולתקשר אחד עם השני",
+                "example": "My phone connected to my laptop's USB port so I could charge it while using the computer.",
+                "example_hebrew": "הטלפון שלי מחובר ליציאת ה-USB של המחשב הנייד שלי כדי שאוכל לטעון אותו בזמן השימוש במחשב."
+            },
+            {
+                "definition": "A part of a communication network that allows for data transfer between different systems or locations",
+                "definition_hebrew": "חלק מרשת תקשורת המאפשרת העברת נתונים בין מערכות או מיקומים שונים",
+                "example": "The company upgraded its internal networks, including adding more ports for increased connectivity.",
+                "example_hebrew": "החברה שדרגה את הרשתות הפנימיות שלה, כולל הוספת יציאות נוספות להגברת הקישוריות."
+            },
+            {
+                "definition": "An opening in an object or surface where something can be inserted or removed",
+                "definition_hebrew": "פתח בחפץ או משטח שבו ניתן להכניס או להסיר משהו",
+                "example": "I used a port on my phone to attach the Bluetooth headset wirelessly.",
+                "example_hebrew": "השתמשתי ביציאה בטלפון שלי כדי לחבר את אוזניות ה-Bluetooth באופן אלחוטי."
+            }
+        ]
+    }
+]

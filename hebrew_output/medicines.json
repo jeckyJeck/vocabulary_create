@@ -1,0 +1,34 @@
+[
+    {
+        "word": "medicines",
+        "word_hebrew": "תרופות",
+        "main_definition": "Medicines refer to substances used for treating, preventing or diagnosing diseases or alleviating symptoms. This term can also include herbal remedies and over-the-counter drugs.",
+        "main_definition_hebrew": "תרופות מתייחסות לחומרים המשמשים לטיפול, מניעה או אבחון מחלות או הקלת תסמינים. מונח זה יכול לכלול גם תרופות צמחיות ותרופות ללא מרשם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Prescription drugs",
+                "definition_hebrew": "תרופות מרשם",
+                "example": "Antibiotics are a type of medicine that doctors prescribe to treat bacterial infections.",
+                "example_hebrew": "אנטיביוטיקה היא סוג של תרופה שרופאים רושמים לטיפול בזיהומים חיידקיים."
+            },
+            {
+                "definition": "Over-the-counter medications",
+                "definition_hebrew": "תרופות ללא מרשם",
+                "example": "Pain relievers such as ibuprofen (Advil) or acetaminophen (Tylenol) can be bought without a prescription to alleviate pain and reduce fever.",
+                "example_hebrew": "משככי כאבים כגון איבופרופן (אדוויל) או פרצטמול (טיילנול) ניתן לקנות ללא מרשם כדי להקל על הכאב ולהפחית חום."
+            },
+            {
+                "definition": "Herbal remedies",
+                "definition_hebrew": "תרופות צמחיות",
+                "example": "Peppermint tea is often used as a natural medicine to soothe stomach discomfort or headaches.",
+                "example_hebrew": "תה מנטה משמש לעתים קרובות כתרופה טבעית להרגעת אי נוחות בבטן או כאבי ראש."
+            },
+            {
+                "definition": "Vaccines",
+                "definition_hebrew": "חיסונים",
+                "example": "The COVID-19 vaccine is an example of a medicine that prevents the spread and effects of a virus.",
+                "example_hebrew": "החיסון נגד COVID-19 הוא דוגמה לתרופה המונעת התפשטות והשפעות של וירוס."
+            }
+        ]
+    }
+]

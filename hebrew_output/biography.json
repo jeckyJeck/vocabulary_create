@@ -1,0 +1,34 @@
+[
+    {
+        "word": "biography",
+        "word_hebrew": "ביוגרפיה",
+        "main_definition": "A detailed description of a person's life, including their experiences, achievements, and impact.",
+        "main_definition_hebrew": "תיאור מפורט של חייו של אדם, כולל חוויותיו, הישגיו והשפעתו.",
+        "meanings_and_examples": [
+            {
+                "definition": "An account or story written about someone's life by another person.",
+                "definition_hebrew": "חשבון או סיפור שנכתב על חייו של מישהו על ידי אדם אחר.",
+                "example": "Margaret Mitchell wrote the biography of Harriet Beecher Stowe, 'The Life of Harriet Beecher Stowe.'",
+                "example_hebrew": "מרגרט מיטשל כתבה את הביוגרפיה של הרייט ביצ'ר סטו, 'חיי הרייט ביצ'ר סטו'."
+            },
+            {
+                "definition": "A historical record that chronicles a person's life and accomplishments.",
+                "definition_hebrew": "תיעוד היסטורי המתאר את חייו והישגיו של אדם.",
+                "example": "William Manchester authored the biography titled 'The Last Lion: Winston Spencer Churchill, 1874-1965,' which documents Sir Winston Churchill's life.",
+                "example_hebrew": "וויליאם מנצ'סטר חיבר את הביוגרפיה שכותרתה \"האריה האחרון: ווינסטון ספנסר צ'רצ'יל, 1874-1965\", המתעדת את חייו של סר ווינסטון צ'רצ'יל."
+            },
+            {
+                "definition": "A nonfiction literary genre focused on the detailed account of a person's experiences and contributions.",
+                "definition_hebrew": "ז'אנר ספרותי עיון התמקד בתיאור מפורט של חוויותיו ותרומותיו של אדם.",
+                "example": "'Steve Jobs' by Walter Isaacson is an exemplary biography that explores the life and work of Apple co-founder Steve Jobs.",
+                "example_hebrew": "'סטיב ג'ובס' מאת וולטר אייזקסון הוא ביוגרפיה למופת החוקרת את חייו ופועלו של מייסד אפל, סטיב ג'ובס."
+            },
+            {
+                "definition": "A written narrative about a person's life, usually from their perspective or in collaboration with them.",
+                "definition_hebrew": "נרטיב כתוב על חייו של אדם, לרוב מנקודת מבטו או בשיתוף פעולה עמו.",
+                "example": "'The Story of My Life' by Helen Keller is an autobiography where Keller tells her own story and experiences.",
+                "example_hebrew": "'סיפור חיי' מאת הלן קלר היא אוטוביוגרפיה שבה קלר מספרת את סיפורה וחוויותיה."
+            }
+        ]
+    }
+]

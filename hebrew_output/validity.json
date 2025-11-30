@@ -1,0 +1,34 @@
+[
+    {
+        "word": "validity",
+        "word_hebrew": "תוֹקֶף",
+        "main_definition": "Validity refers to the extent to which something is sound, justified, or well-founded.",
+        "main_definition_hebrew": "תוקף מתייחס למידה שבה משהו בריא, מוצדק או מבוסס היטב.",
+        "meanings_and_examples": [
+            {
+                "definition": "In logic and reasoning, it means the ability of an argument or conclusion to be logically correct and based on true premises.",
+                "definition_hebrew": "בהיגיון ובהיגיון, המשמעות היא היכולת של טיעון או מסקנה להיות נכונים מבחינה לוגית ומבוססים על הנחות יסוד אמיתיות.",
+                "example": "The validity of his argument was questioned when he presented false information.",
+                "example_hebrew": "תקפות טיעונו הוטל בספק כאשר הציג מידע כוזב."
+            },
+            {
+                "definition": "When talking about laws or regulations, it refers to their legal binding power and enforceability by the authorities.",
+                "definition_hebrew": "כאשר מדברים על חוקים או תקנות, הכוונה היא לכוחם המשפטי המחייב ולאכיפה על ידי הרשויות.",
+                "example": "The court found that the contract lacked validity as one party had not followed proper procedures during its signing.",
+                "example_hebrew": "בית המשפט מצא כי החוזה חסר תוקף שכן צד אחד לא פעל לפי נהלים תקינים במהלך חתימתו."
+            },
+            {
+                "definition": "In research and statistics, it pertains to how well a test or measure accurately reflects what it is intended to assess.",
+                "definition_hebrew": "במחקר ובסטטיסטיקה, זה נוגע עד כמה מבחן או מדידה משקפים במדויק את מה שהם נועדו להעריך.",
+                "example": "The validity of the survey was high because it successfully captured participants' attitudes towards climate change.",
+                "example_hebrew": "תקפות הסקר הייתה גבוהה מכיוון שהוא תפס בהצלחה את עמדות המשתתפים כלפי שינויי אקלים."
+            },
+            {
+                "definition": "In quality control and testing, it means the accuracy with which a product or service meets its design specifications.",
+                "definition_hebrew": "בבקרת איכות ובדיקות, המשמעות היא הדיוק שבו מוצר או שירות עומדים במפרטי העיצוב שלו.",
+                "example": "To ensure customer satisfaction, we frequently check our products for validity against their advertised features.",
+                "example_hebrew": "כדי להבטיח את שביעות רצון הלקוחות, אנו בודקים לעתים קרובות את תקפות המוצרים שלנו מול התכונות המפורסמות שלהם."
+            }
+        ]
+    }
+]

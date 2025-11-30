@@ -1,0 +1,40 @@
+[
+    {
+        "word": "existing",
+        "word_hebrew": "קיים",
+        "main_definition": "Currently present or in operation; being experienced or occurring.",
+        "main_definition_hebrew": "כרגע קיים או בפעולה; נחווה או מתרחש.",
+        "meanings_and_examples": [
+            {
+                "definition": "To be found or exist; to have a presence in reality",
+                "definition_hebrew": "להימצא או להתקיים; לקבל נוכחות במציאות",
+                "example": "Many ancient civilizations are now existing as ruins and artifacts.",
+                "example_hebrew": "תרבויות עתיקות רבות קיימות כיום כחורבות וחפצים."
+            },
+            {
+                "definition": "The state of being present at the time of an event, fact, etc.",
+                "definition_hebrew": "מצב הנוכחות בזמן אירוע, עובדה וכו'.",
+                "example": "There were several companies existing in that industry before our startup launched.",
+                "example_hebrew": "היו כמה חברות קיימות בתעשייה הזו לפני שהסטארט-אפ שלנו הושק."
+            },
+            {
+                "definition": "Existing as a concrete form; having actual physical presence or existence",
+                "definition_hebrew": "קיים כצורה קונקרטית; בעל נוכחות או קיום פיזיים ממשיים",
+                "example": "The building is the only remaining example of Victorian architecture in town, so it's an important part of local history and culture.",
+                "example_hebrew": "הבניין הוא הדוגמה היחידה שנותרה לארכיטקטורה ויקטוריאנית בעיר, כך שהוא חלק חשוב מההיסטוריה והתרבות המקומית."
+            },
+            {
+                "definition": "To exist within a particular domain, area, or context",
+                "definition_hebrew": "להתקיים בתוך תחום, אזור או הקשר מסוים",
+                "example": "Several bird species are known to exist in this remote forest region.",
+                "example_hebrew": "ידוע שקיימים כמה מיני ציפורים באזור היער המרוחק הזה."
+            },
+            {
+                "definition": "Having an actual existence; not merely theoretical or hypothetical",
+                "definition_hebrew": "קיום ממשי; לא רק תיאורטי או היפותטי",
+                "example": "The concept of time has existed since ancient civilizations began recording their history.",
+                "example_hebrew": "מושג הזמן קיים מאז שהתחילו תרבויות עתיקות לרשום את ההיסטוריה שלהן."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "variables",
+        "word_hebrew": "משתנים",
+        "main_definition": "In various contexts, 'variables' can refer to factors that may change or influence outcomes, especially in mathematics, computer programming, science, and business.",
+        "main_definition_hebrew": "בהקשרים שונים, 'משתנים' יכולים להתייחס לגורמים שעשויים לשנות או להשפיע על התוצאות, במיוחד במתמטיקה, תכנות מחשבים, מדע ועסקים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mathematical quantity whose value is not fixed",
+                "definition_hebrew": "כמות מתמטית שערכה אינו קבוע",
+                "example": "In the equation y = mx + b, 'm' and 'b' are variables representing numbers that can change.",
+                "example_hebrew": "במשוואה y = mx + b, 'm' ו-'b' הם משתנים המייצגים מספרים שיכולים להשתנות."
+            },
+            {
+                "definition": "An element within a set of data or information in computer programming",
+                "definition_hebrew": "אלמנט בתוך קבוצה של נתונים או מידע בתכנות מחשב",
+                "example": "In Python, x is an example of a variable used to store different values throughout the program execution.",
+                "example_hebrew": "ב- Python, x הוא דוגמה למשתנה המשמש לאחסון ערכים שונים לאורך כל ביצוע התוכנית."
+            },
+            {
+                "definition": "Factors that may affect the outcome of an experiment or study in science",
+                "definition_hebrew": "גורמים שעשויים להשפיע על התוצאה של ניסוי או מחקר במדע",
+                "example": "Temperature and humidity are variables in environmental research experiments.",
+                "example_hebrew": "טמפרטורה ולחות הם משתנים בניסויים במחקר סביבתי."
+            },
+            {
+                "definition": "A factor that can be changed or controlled in business analysis to optimize outcomes",
+                "definition_hebrew": "גורם שניתן לשנות או לשלוט בניתוח עסקי כדי לייעל את התוצאות",
+                "example": "Price, advertising budget, and customer demographics are examples of variables used in marketing strategy development.",
+                "example_hebrew": "מחיר, תקציב פרסום ודמוגרפיה של לקוחות הם דוגמאות למשתנים המשמשים בפיתוח אסטרטגיית שיווק."
+            }
+        ]
+    }
+]

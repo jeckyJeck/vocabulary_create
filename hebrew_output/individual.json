@@ -1,0 +1,40 @@
+[
+    {
+        "word": "individual",
+        "word_hebrew": "אִישִׁי",
+        "main_definition": "An individual refers to a single human being, distinct from others in terms of personality, characteristics, or identity.",
+        "main_definition_hebrew": "אינדיבידואל מתייחס לאדם בודד, נבדל מאחרים במונחים של אישיות, מאפיינים או זהות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A unique member of the species Homo sapiens with their own personalities and attributes",
+                "definition_hebrew": "חבר ייחודי במין הומו סאפיינס עם אישיות ותכונות משלו",
+                "example": "Each individual has a different set of skills that they can bring to the workplace.",
+                "example_hebrew": "לכל אדם יש סט שונה של מיומנויות שהוא יכול להביא למקום העבודה."
+            },
+            {
+                "definition": "Personal possession, such as an item owned by one person",
+                "definition_hebrew": "החזקה אישית, כגון פריט בבעלות אדם אחד",
+                "example": "He showed me his collection of vintage coins, each representing various historical periods and countries.",
+                "example_hebrew": "הוא הראה לי את אוסף מטבעות הבציר שלו, כל אחד מייצג תקופות ומדינות היסטוריות שונות."
+            },
+            {
+                "definition": "A single entity or unit in a larger group or system",
+                "definition_hebrew": "ישות או יחידה בודדת בקבוצה או מערכת גדולה יותר",
+                "example": "Each individual car part must be tested for quality control before being assembled into the final product.",
+                "example_hebrew": "יש לבדוק כל חלק לרכב לבדיקת איכות לפני הרכבתו למוצר הסופי."
+            },
+            {
+                "definition": "The inherent value and rights of each person, regardless of their social status or circumstances",
+                "definition_hebrew": "הערך והזכויות הטבועים של כל אדם, ללא קשר למעמדו החברתי או לנסיבותיו",
+                "example": "Every individual deserves equal treatment under the law, irrespective of their background or beliefs.",
+                "example_hebrew": "כל אדם ראוי ליחס שווה על פי החוק, ללא קשר לרקע או אמונתו."
+            },
+            {
+                "definition": "In statistics, an observation or data point in a sample that is not influenced by others",
+                "definition_hebrew": "בסטטיסטיקה, תצפית או נתונים מצביעים על מדגם שאינו מושפע מאחרים",
+                "example": "The analysis considered each individual's response to avoid skewing the results based on group trends.",
+                "example_hebrew": "הניתוח שקל את תגובתו של כל אדם כדי להימנע מהטיית התוצאות בהתבסס על מגמות קבוצתיות."
+            }
+        ]
+    }
+]

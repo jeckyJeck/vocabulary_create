@@ -1,0 +1,40 @@
+[
+    {
+        "word": "speed",
+        "word_hebrew": "מְהִירוּת",
+        "main_definition": "Speed is the rate at which an object covers distance, indicating how fast or slow something moves.",
+        "main_definition_hebrew": "מהירות היא הקצב שבו חפץ מכסה מרחק, המציין כמה מהר או לאט משהו נע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical velocity of a moving body",
+                "definition_hebrew": "מהירות פיזית של גוף נע",
+                "example": "The speed of light in a vacuum is approximately 299,792 kilometers per second.",
+                "example_hebrew": "מהירות האור בוואקום היא כ-299,792 קילומטרים לשנייה."
+            },
+            {
+                "definition": "How quickly information or data can be processed or transmitted",
+                "definition_hebrew": "באיזו מהירות ניתן לעבד או להעביר מידע או נתונים",
+                "example": "Online streaming services use high-speed internet to deliver content without buffering.",
+                "example_hebrew": "שירותי סטרימינג מקוונים משתמשים באינטרנט במהירות גבוהה כדי לספק תוכן ללא חציצה."
+            },
+            {
+                "definition": "The pace at which a task, activity, or work is completed",
+                "definition_hebrew": "הקצב שבו הושלמה משימה, פעילות או עבודה",
+                "example": "A carpenter who works with speed can finish building the entire house ahead of schedule.",
+                "example_hebrew": "נגר שעובד במהירות יכול לסיים את בניית הבית כולו לפני המועד."
+            },
+            {
+                "definition": "Competitive racing and performance measurement in sports",
+                "definition_hebrew": "מרוצים תחרותיים ומדידות ביצועים בספורט",
+                "example": "The sprinter broke the world record, achieving an astounding speed on the track.",
+                "example_hebrew": "האצן שבר את שיא העולם, והשיג מהירות מדהימה על המסלול."
+            },
+            {
+                "definition": "Rapidly increasing or accelerating growth rate of something",
+                "definition_hebrew": "הגדלת או האצה מהירה של קצב הצמיחה של משהו",
+                "example": "During a surge in demand, the company had to increase its production speed to meet orders.",
+                "example_hebrew": "במהלך עלייה בביקוש, החברה נאלצה להגביר את מהירות הייצור שלה כדי לעמוד בהזמנות."
+            }
+        ]
+    }
+]

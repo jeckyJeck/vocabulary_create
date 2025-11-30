@@ -1,0 +1,40 @@
+[
+    {
+        "word": "hardware",
+        "word_hebrew": "חוּמרָה",
+        "main_definition": "In general, the term 'hardware' refers to physical components of a computer or electronic system. However, it can also be used metaphorically in various contexts.",
+        "main_definition_hebrew": "באופן כללי, המונח 'חומרה' מתייחס לרכיבים פיזיים של מחשב או מערכת אלקטרונית. עם זאת, ניתן להשתמש בו גם באופן מטפורי בהקשרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical parts of a computer",
+                "definition_hebrew": "חלקים פיזיים של מחשב",
+                "example": "The new keyboard and mouse are the latest hardware upgrades for my desktop.",
+                "example_hebrew": "המקלדת והעכבר החדשים הם שדרוגי החומרה האחרונים עבור שולחן העבודה שלי."
+            },
+            {
+                "definition": "Hardware stores selling tools and equipment",
+                "definition_hebrew": "חנויות לחומרי בניין לממכר כלים וציוד",
+                "example": "I bought a drill from the local home improvement store, which is considered as a type of hardware.",
+                "example_hebrew": "קניתי מקדחה מהחנות המקומית לשיפורי הבית, שנחשבת כסוג של חומרה."
+            },
+            {
+                "definition": "The tangible parts of machinery or industrial apparatuses",
+                "definition_hebrew": "החלקים המוחשיים של מכונות או מכשירים תעשייתיים",
+                "example": "When assembling furniture, it's important to use the correct screws and bolts - these are examples of hardware.",
+                "example_hebrew": "בהרכבת רהיטים, חשוב להשתמש בברגים ובברגים הנכונים - אלו דוגמאות לחומרה."
+            },
+            {
+                "definition": "Hardware in computing referring to physical devices used with software",
+                "definition_hebrew": "חומרה במחשוב המתייחסת להתקנים פיזיים המשמשים עם תוכנה",
+                "example": "The graphics card is an essential piece of computer hardware that improves gaming performance.",
+                "example_hebrew": "הכרטיס הגרפי הוא חלק חיוני של חומרת מחשב המשפר את ביצועי המשחקים."
+            },
+            {
+                "definition": "A term sometimes used informally to refer to a person, especially when emphasizing their toughness or resilience",
+                "definition_hebrew": "מונח המשמש לעתים באופן לא רשמי כדי להתייחס לאדם, במיוחד כאשר הוא מדגיש את הקשיחות או החוסן שלו",
+                "example": "After the accident, he had no choice but to bounce back like hard hardware.",
+                "example_hebrew": "לאחר התאונה, לא הייתה לו ברירה אלא להסתובב כמו חומרה קשה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "three",
+        "word_hebrew": "שְׁלוֹשָׁה",
+        "main_definition": "Three refers to the number 3 or is used as a metaphorical expression with different meanings.",
+        "main_definition_hebrew": "שלוש מתייחס למספר 3 או משמש כביטוי מטפורי בעל משמעויות שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The numerical value representing one more than two and less than four:",
+                "definition_hebrew": "הערך המספרי המייצג אחד יותר משניים ופחות מארבע:",
+                "example": "I have three apples.",
+                "example_hebrew": "יש לי שלושה תפוחים."
+            },
+            {
+                "definition": "Used to indicate a quantity that is not exact but close to the number 3; often used informally as an approximation. For example, 'Three point something.'",
+                "definition_hebrew": "משמש לציון כמות שאינה מדויקת אך קרובה למספר 3; משמש לעתים קרובות באופן בלתי פורמלי כקירוב. לדוגמה, 'שלוש נקודות משהו'.",
+                "example": "There were about three people in line at the coffee shop.",
+                "example_hebrew": "היו בערך שלושה אנשים בתור בבית הקפה."
+            },
+            {
+                "definition": "A term symbolizing completeness or perfection, derived from the biblical phrase 'trinity'. This is often used metaphorically.",
+                "definition_hebrew": "מונח המסמל שלמות או שלמות, הנגזר מהביטוי המקראי 'שילוש'. זה משמש לעתים קרובות באופן מטפורי.",
+                "example": "The Holy Trinity represents a complete and perfect unity in Christianity.",
+                "example_hebrew": "השילוש הקדוש מייצג אחדות שלמה ומושלמת בנצרות."
+            },
+            {
+                "definition": "Used to represent something that comes in sets of three; it implies symmetry, pattern, or triad relationship.",
+                "definition_hebrew": "משמש לייצג משהו שמגיע בקבוצות של שלושה; זה מרמז על סימטריה, דפוס או קשר שלשה.",
+                "example": "There are three colors on the spectrum: red, green, and blue.",
+                "example_hebrew": "ישנם שלושה צבעים על הספקטרום: אדום, ירוק וכחול."
+            }
+        ]
+    }
+]

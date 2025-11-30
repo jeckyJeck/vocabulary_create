@@ -1,0 +1,40 @@
+[
+    {
+        "word": "attributes",
+        "word_hebrew": "תכונות",
+        "main_definition": "Attributes refer to the qualities or features that characterize a person, thing, or concept.",
+        "main_definition_hebrew": "תכונות מתייחסות לאיכויות או לתכונות המאפיינות אדם, דבר או מושג.",
+        "meanings_and_examples": [
+            {
+                "definition": "Qualities of an individual, often used in describing someone's physical appearance or personal characteristics",
+                "definition_hebrew": "תכונות של אדם, המשמשות לעתים קרובות בתיאור המראה הפיזי או המאפיינים האישיים של מישהו",
+                "example": "Her attributes include her bright blue eyes and infectious laughter.",
+                "example_hebrew": "התכונות שלה כוללות את עיניה הכחולות והבוהקות וצחוק מדבק."
+            },
+            {
+                "definition": "Properties that define a particular object, concept, or phenomenon",
+                "definition_hebrew": "מאפיינים המגדירים אובייקט, מושג או תופעה מסוימת",
+                "example": "The attributes of this new technology make it more efficient than previous models.",
+                "example_hebrew": "התכונות של טכנולוגיה חדשה זו הופכות אותה ליעילה יותר מדגמים קודמים."
+            },
+            {
+                "definition": "Factors considered when evaluating something, often used in discussions about the value, importance, or worth of an item or idea",
+                "definition_hebrew": "גורמים שנלקחו בחשבון בעת הערכה של משהו, משמשים לעתים קרובות בדיונים על הערך, החשיבות או הערך של פריט או רעיון",
+                "example": "When assessing a candidate for a job, employers look at their qualifications and attributes to make a decision.",
+                "example_hebrew": "בעת הערכת מועמד לעבודה, מעסיקים בוחנים את הכישורים והתכונות שלהם כדי לקבל החלטה."
+            },
+            {
+                "definition": "Attributes can also refer to specific categories used in taxonomies (classification systems) that describe different aspects of an item",
+                "definition_hebrew": "תכונות יכולות להתייחס גם לקטגוריות ספציפיות המשמשות בטקסונומיות (מערכות סיווג) המתארות היבטים שונים של פריט",
+                "example": "In biology, the animal kingdom is divided into various attributes such as phylum, class, order, family, genus, and species.",
+                "example_hebrew": "בביולוגיה, ממלכת החיות מחולקת למאפיינים שונים כמו פילום, מעמד, סדר, משפחה, סוג ומינים."
+            },
+            {
+                "definition": "Attributes can be used in grammar to refer to words or phrases that provide additional information about other elements",
+                "definition_hebrew": "ניתן להשתמש בתכונות בדקדוק כדי להתייחס למילים או לביטויים המספקים מידע נוסף על אלמנטים אחרים",
+                "example": "In the sentence 'The girl with curly hair is my sister', 'with curly hair' is an attribute of the girl.",
+                "example_hebrew": "במשפט 'הילדה עם שיער מתולתל היא אחותי', 'עם שיער מתולתל' היא תכונה של הילדה."
+            }
+        ]
+    }
+]

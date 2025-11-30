@@ -1,0 +1,34 @@
+[
+    {
+        "word": "predict",
+        "word_hebrew": "לנבא",
+        "main_definition": "To forecast or estimate a future event or outcome based on evidence, experience, or specialized knowledge.",
+        "main_definition_hebrew": "לחזות או להעריך אירוע או תוצאה עתידית בהתבסס על ראיות, ניסיון או ידע מיוחד.",
+        "meanings_and_examples": [
+            {
+                "definition": "To declare an expected result before it occurs. Example: The weatherman can predict that there will be rain tomorrow because the atmospheric conditions are favorable for precipitation.",
+                "definition_hebrew": "להכריז על תוצאה צפויה לפני שהיא מתרחשת. דוגמה: איש מזג האוויר יכול לחזות כי מחר יהיה גשם כי התנאים האטמוספריים נוחים למשקעים.",
+                "example": "The scientist could predict the results of the experiment based on previous research.",
+                "example_hebrew": "המדען יכול לחזות את תוצאות הניסוי על סמך מחקר קודם."
+            },
+            {
+                "definition": "To make an educated guess about something before it happens. Example: The astrologer predicted that I would meet a new friend this year, and sure enough, I met someone special soon after.",
+                "definition_hebrew": "לעשות ניחוש מושכל לגבי משהו לפני שהוא קורה. דוגמה: האסטרולוג חזה שאכיר חבר חדש השנה, ובאמת, פגשתי מישהו מיוחד זמן קצר לאחר מכן.",
+                "example": "The analyst predicted the company's stock price to rise due to its strong financial performance.",
+                "example_hebrew": "האנליסט חזה שמחיר המניה של החברה יעלה בשל הביצועים הפיננסיים החזקים שלה."
+            },
+            {
+                "definition": "To foretell or divulge an event before it happens. Example: In ancient times, soothsayers were said to predict future events using various methods.",
+                "definition_hebrew": "לחזות או לחשוף אירוע לפני שהוא קורה. דוגמה: בימי קדם אמרו על מגידי עתידות לחזות אירועים עתידיים בשיטות שונות.",
+                "example": "The fortune teller predicted the protagonist's fate in a dramatic movie scene.",
+                "example_hebrew": "מגדת העתידות חזה את גורלו של הגיבור בסצינת קולנוע דרמטית."
+            },
+            {
+                "definition": "To anticipate something that is likely to happen based on current knowledge. Example: The coach can predict which team will win the match by analyzing their previous matches and statistics.",
+                "definition_hebrew": "לצפות משהו שסביר שיקרה על סמך הידע הנוכחי. דוגמה: המאמן יכול לחזות איזו קבוצה תנצח במשחק על ידי ניתוח המשחקים הקודמים והסטטיסטיקות שלו.",
+                "example": "The experienced hiker predicted they would reach the summit before sunset, given the trail's difficulty level.",
+                "example_hebrew": "המטייל המנוסה חזה שיגיעו לפסגה לפני השקיעה, לאור רמת הקושי של השביל."
+            }
+        ]
+    }
+]

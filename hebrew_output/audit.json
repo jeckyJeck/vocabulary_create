@@ -1,0 +1,34 @@
+[
+    {
+        "word": "audit",
+        "word_hebrew": "בְּדִיקָה",
+        "main_definition": "An audit is an official examination or inspection of financial accounts to check their accuracy and compliance with accounting standards.",
+        "main_definition_hebrew": "ביקורת היא בדיקה או בדיקה רשמית של חשבונות פיננסיים לבדיקת דיוקם ותאימותם לתקנים חשבונאיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A review of a company's financial statements by an independent person or firm for the purpose of verifying the accuracy and completeness of these documents",
+                "definition_hebrew": "סקירה של דוחות כספיים של חברה על ידי אדם או חברה עצמאיים לצורך אימות נכונותם ושלמותם של מסמכים אלו",
+                "example": "The external auditors conducted an annual audit to verify that XYZ Corporation's financial records were accurate.",
+                "example_hebrew": "המבקרים החיצוניים ערכו ביקורת שנתית כדי לוודא שהרשומות הפיננסיות של תאגיד XYZ היו מדויקות."
+            },
+            {
+                "definition": "An examination of internal controls within a company, ensuring compliance with laws and regulations",
+                "definition_hebrew": "בחינת בקרות פנימיות בחברה תוך הקפדה על עמידה בחוקים ובתקנות",
+                "example": "After the new tax legislation was passed, ABC Company requested an audit to ensure their internal controls were in line with current laws.",
+                "example_hebrew": "לאחר חקיקת המס החדשה התקבלה, חברת ABC ביקשה ביקורת כדי לוודא שהבקרות הפנימיות שלה עולות בקנה אחד עם החוקים הנוכחיים."
+            },
+            {
+                "definition": "A review or examination of financial transactions or operations by a third party to confirm accuracy and compliance",
+                "definition_hebrew": "סקירה או בדיקה של עסקאות או פעולות פיננסיות על ידי צד שלישי כדי לאשר דיוק ותאימות",
+                "example": "The government agency initiated an audit on the contractor's procurement process after allegations of fraud.",
+                "example_hebrew": "הסוכנות הממשלתית יזמה ביקורת על תהליך הרכש של הקבלן לאחר טענות להונאה."
+            },
+            {
+                "definition": "A thorough investigation into all aspects of financial records, often involving detailed analysis to detect errors or misconduct",
+                "definition_hebrew": "חקירה יסודית של כל ההיבטים של רשומות פיננסיות, לעתים קרובות כוללת ניתוח מפורט לאיתור שגיאות או התנהגות בלתי הולמת",
+                "example": "The forensic accountants were hired to conduct an audit following the suspected embezzlement in DEF Corporation.",
+                "example_hebrew": "רואי החשבון המשפטיים נשכרו לביצוע ביקורת בעקבות החשד למעילה בתאגיד DEF."
+            }
+        ]
+    }
+]

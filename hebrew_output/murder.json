@@ -1,0 +1,34 @@
+[
+    {
+        "word": "murder",
+        "word_hebrew": "רֶצַח",
+        "main_definition": "The unlawful killing of a person by another person.",
+        "main_definition_hebrew": "הרג בלתי חוקי של אדם על ידי אדם אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To commit homicide intentionally and unlawfully.",
+                "definition_hebrew": "לבצע רצח בכוונה ולא כדין.",
+                "example": "John decided to murder his business partner during their meeting.",
+                "example_hebrew": "ג'ון החליט לרצוח את שותפו העסקי במהלך פגישתם."
+            },
+            {
+                "definition": "An act that involves the killing of another person without legal justification or excuse.",
+                "definition_hebrew": "מעשה הכרוך בהריגת אדם אחר ללא הצדקה או תירוץ משפטי.",
+                "example": "The suspect was charged with murder after being found guilty by a court of law.",
+                "example_hebrew": "החשוד הואשם ברצח לאחר שנמצא אשם בבית המשפט."
+            },
+            {
+                "definition": "To end someone'ad life deliberately and unlawfully, often associated with criminal activity.",
+                "definition_hebrew": "לשים קץ לחייו של מישהו בכוונה ולא חוקית, לעתים קרובות קשור לפעילות פלילית.",
+                "example": "The hit-and-run driver is suspected of murdering the pedestrian they ran over.",
+                "example_hebrew": "נהג הפגע וברח חשוד ברצח הולך הרגל שדרסו."
+            },
+            {
+                "definition": "A serious crime involving intentional killing without legal justification.",
+                "definition_hebrew": "פשע חמור הכולל הרג מכוון ללא הצדקה משפטית.",
+                "example": "Murder, as a felony offense, carries severe penalties including life imprisonment or capital punishment in some jurisdictions.",
+                "example_hebrew": "רצח, כעבירה חמורה, נושא עונשים חמורים לרבות מאסר עולם או עונש מוות בחלק מתחומי השיפוט."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "feedback",
+        "word_hebrew": "מָשׁוֹב",
+        "main_definition": "Feedback refers to the response or reaction one receives from others regarding their performance, actions, or work. It can be in various forms such as comments, evaluations, or suggestions.",
+        "main_definition_hebrew": "משוב מתייחס לתגובה או התגובה שאדם מקבל מאחרים לגבי הביצועים, הפעולות או עבודתם. זה יכול להיות בצורות שונות כגון הערות, הערכות או הצעות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Information about how well a task has been performed",
+                "definition_hebrew": "מידע על כמה טוב בוצעה משימה",
+                "example": "After completing the project, I received feedback from my supervisor praising my work.",
+                "example_hebrew": "לאחר סיום הפרויקט, קיבלתי משוב מהממונה על עבודתי."
+            },
+            {
+                "definition": "Constructive criticism provided to help improve performance or behavior",
+                "definition_hebrew": "ביקורת בונה ניתנת כדי לעזור לשפר ביצועים או התנהגות",
+                "example": "The teacher gave me feedback on my essay to help me write better in the future.",
+                "example_hebrew": "המורה נתנה לי משוב על החיבור שלי כדי לעזור לי לכתוב טוב יותר בעתיד."
+            },
+            {
+                "definition": "Reaction or response from an audience, such as viewers or listeners",
+                "definition_hebrew": "תגובה או תגובה של קהל, כגון צופים או מאזינים",
+                "example": "The movie received positive feedback from audiences who enjoyed its story and acting.",
+                "example_hebrew": "הסרט קיבל משוב חיובי מקהל שנהנה מהסיפור ומהמשחק שלו."
+            },
+            {
+                "definition": "Evaluation of a product or service to determine its quality or suitability for customers",
+                "definition_hebrew": "הערכה של מוצר או שירות כדי לקבוע את איכותו או התאמתו ללקוחות",
+                "example": "We gathered customer feedback on our new app to assess its usability and functionality.",
+                "example_hebrew": "אספנו משוב מלקוחות על האפליקציה החדשה שלנו כדי להעריך את השימושיות והפונקציונליות שלה."
+            },
+            {
+                "definition": "Information shared between team members in a collaborative environment to improve group performance",
+                "definition_hebrew": "מידע משותף בין חברי הצוות בסביבה שיתופית לשיפור ביצועי הקבוצה",
+                "example": "During the meeting, we discussed each other's progress and provided feedback to ensure effective teamwork.",
+                "example_hebrew": "במהלך הפגישה, דנו אחד בהתקדמות של השני וסיפקנו משוב כדי להבטיח עבודת צוות יעילה."
+            }
+        ]
+    }
+]

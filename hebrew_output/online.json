@@ -1,0 +1,34 @@
+[
+    {
+        "word": "online",
+        "word_hebrew": "באינטרנט",
+        "main_definition": "Existing or operating on the internet, usually referring to a service that can be accessed via the World Wide Web.",
+        "main_definition_hebrew": "קיים או פועל באינטרנט, בדרך כלל הכוונה לשירות שניתן לגשת אליו דרך ה-World Wide Web.",
+        "meanings_and_examples": [
+            {
+                "definition": "Being connected to the Internet",
+                "definition_hebrew": "להיות מחובר לאינטרנט",
+                "example": "I am online right now; I'm working from home.",
+                "example_hebrew": "אני מחובר כרגע; אני עובד מהבית."
+            },
+            {
+                "definition": "Engaging in an activity or interaction via the internet",
+                "definition_hebrew": "מעורבות בפעילות או אינטראקציה דרך האינטרנט",
+                "example": "Let's have a video call with our friends who are online at the moment.",
+                "example_hebrew": "בואו לערוך שיחת וידאו עם החברים שלנו שנמצאים כרגע באינטרנט."
+            },
+            {
+                "definition": "Being available for service or use on the internet",
+                "definition_hebrew": "להיות זמין לשירות או לשימוש באינטרנט",
+                "example": "This website is offline until we fix some technical issues.",
+                "example_hebrew": "אתר זה לא מקוון עד שנתקן כמה בעיות טכניות."
+            },
+            {
+                "definition": "Accessible from a computer without needing any physical connection to an external device",
+                "definition_hebrew": "נגיש ממחשב ללא צורך בחיבור פיזי למכשיר חיצוני",
+                "example": "I prefer online shopping because I can browse and buy items without leaving my house.",
+                "example_hebrew": "אני מעדיף קניות מקוונות כי אני יכול לגלוש ולקנות פריטים מבלי לצאת מהבית."
+            }
+        ]
+    }
+]

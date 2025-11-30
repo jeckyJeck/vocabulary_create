@@ -1,0 +1,40 @@
+[
+    {
+        "word": "parameters",
+        "word_hebrew": "פרמטרים",
+        "main_definition": "Parameters are variables or elements that define the boundaries, conditions, or characteristics of a particular situation, concept, or system.",
+        "main_definition_hebrew": "פרמטרים הם משתנים או אלמנטים המגדירים את הגבולות, התנאים או המאפיינים של מצב, מושג או מערכת מסוימים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Variables used in mathematical functions, models, or algorithms to represent unknown values that can change",
+                "definition_hebrew": "משתנים המשמשים בפונקציות, מודלים או אלגוריתמים מתמטיים כדי לייצג ערכים לא ידועים שיכולים להשתנות",
+                "example": "In the equation y = mx + b, 'm' and 'b' are parameters representing slope and y-intercept respectively.",
+                "example_hebrew": "במשוואה y = mx + b, 'm' ו-'b' הם פרמטרים המייצגים שיפוע ו-y-intercept בהתאמה."
+            },
+            {
+                "definition": "Constraints or specific conditions set for a particular operation, experiment, or function to achieve desired results",
+                "definition_hebrew": "אילוצים או תנאים ספציפיים שהוגדרו עבור פעולה, ניסוי או פונקציה מסוימים כדי להשיג תוצאות רצויות",
+                "example": "When designing a website layout, the width of columns might be defined as a parameter (e.g., 300px wide) to maintain consistent appearance.",
+                "example_hebrew": "בעת עיצוב פריסת אתר, רוחב העמודות עשוי להיות מוגדר כפרמטר (למשל, ברוחב של 300 פיקסלים) כדי לשמור על מראה עקבי."
+            },
+            {
+                "definition": "Factors that can influence an outcome or affect the performance of a system",
+                "definition_hebrew": "גורמים שיכולים להשפיע על תוצאה או להשפיע על הביצועים של מערכת",
+                "example": "Investment returns depend on various parameters such as market conditions, interest rates, and economic indicators.",
+                "example_hebrew": "תשואות ההשקעה תלויות בפרמטרים שונים כגון תנאי שוק, שיעורי ריבית ואינדיקטורים כלכליים."
+            },
+            {
+                "definition": "Specifications used in computer programming to pass information into functions and control their behavior",
+                "definition_hebrew": "מפרטים המשמשים בתכנות מחשבים כדי להעביר מידע לפונקציות ולשלוט בהתנהגותן",
+                "example": "The 'radius' parameter is passed to a function calculating the area of a circle (e.g., Math.PI * radius ** 2).",
+                "example_hebrew": "הפרמטר 'רדיוס' מועבר לפונקציה המחשבת את שטח המעגל (לדוגמה, Math.PI * רדיוס ** 2)."
+            },
+            {
+                "definition": "Guidelines or rules that establish standards for something, such as quality control measures",
+                "definition_hebrew": "הנחיות או כללים הקובעים סטנדרטים למשהו, כגון אמצעי בקרת איכות",
+                "example": "Quality parameters in manufacturing might include tolerance levels for dimensions and material properties.",
+                "example_hebrew": "פרמטרי איכות בייצור עשויים לכלול רמות סובלנות לממדים ותכונות החומר."
+            }
+        ]
+    }
+]

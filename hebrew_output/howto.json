@@ -1,0 +1,28 @@
+[
+    {
+        "word": "howto",
+        "word_hebrew": "איך ל",
+        "main_definition": "A term used to refer to a guide or manual explaining the steps needed to accomplish a specific task or process.",
+        "main_definition_hebrew": "מונח המשמש להתייחסות למדריך או למדריך המסביר את השלבים הדרושים לביצוע משימה או תהליך ספציפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Instructional guide on how to perform an activity or complete a task",
+                "definition_hebrew": "מדריך הדרכה כיצד לבצע פעילות או להשלים משימה",
+                "example": "The 'Howto' book provides step-by-step instructions on building your own computer.",
+                "example_hebrew": "הספר 'איך' מספק הוראות שלב אחר שלב לבניית מחשב משלך."
+            },
+            {
+                "definition": "A set of procedures for completing a specific goal or objective",
+                "definition_hebrew": "מערכת נהלים להשלמת מטרה או יעד ספציפיים",
+                "example": "Follow the how-to guide to successfully plant and care for sunflowers in your garden.",
+                "example_hebrew": "עקוב אחר המדריך כיצד לשתול ולטפל בהצלחה בחמניות בגינה שלך."
+            },
+            {
+                "definition": "'How To' content on the internet, often found as articles, videos, or tutorials that provide instructions",
+                "definition_hebrew": "תוכן 'כיצד לעשות' באינטרנט, נמצא לעתים קרובות כמאמרים, סרטונים או מדריכים המספקים הוראות",
+                "example": "Watching this YouTube 'how to' video will help you learn how to change a car tire.",
+                "example_hebrew": "צפייה בסרטון 'כיצד לעשות' זה ביוטיוב תעזור לך ללמוד כיצד להחליף צמיג לרכב."
+            }
+        ]
+    }
+]

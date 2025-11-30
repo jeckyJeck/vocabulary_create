@@ -1,0 +1,40 @@
+[
+    {
+        "word": "attachments",
+        "word_hebrew": "קבצים מצורפים",
+        "main_definition": "Attachments refer to additional items or documents that are connected, linked, or associated with a main entity, such as an email message or file.",
+        "main_definition_hebrew": "קבצים מצורפים מתייחסים לפריטים או מסמכים נוספים המחוברים, מקושרים או משויכים לישות ראשית, כגון הודעת דואר אלקטרוני או קובץ.",
+        "meanings_and_examples": [
+            {
+                "definition": "Additional files or images in an email",
+                "definition_hebrew": "קבצים או תמונות נוספים באימייל",
+                "example": "John received an email from Sarah and noticed there were attachments of pictures she had taken on her vacation.",
+                "example_hebrew": "ג'ון קיבל אימייל משרה ושם לב שיש מצורפים של תמונות שצילמה בחופשתה."
+            },
+            {
+                "definition": "Physical items connected to a main object",
+                "definition_hebrew": "פריטים פיזיים המחוברים לאובייקט ראשי",
+                "example": "The artist attached small metal sculptures around the base of his large installation artwork.",
+                "example_hebrew": "האמן חיבר פסלי מתכת קטנים מסביב לבסיס יצירת האמנות הגדולה שלו במיצב."
+            },
+            {
+                "definition": "Emotional connections or relationships",
+                "definition_hebrew": "קשרים רגשיים או מערכות יחסים",
+                "example": "After years of separation, they were able to reconnect with their old friends as attachments that had been severed over time.",
+                "example_hebrew": "לאחר שנים של פרידה, הם הצליחו לחדש את הקשר עם חבריהם הוותיקים כהחזקות שהתנתקו עם הזמן."
+            },
+            {
+                "definition": "Legal documents connected to a case or matter",
+                "definition_hebrew": "מסמכים משפטיים הקשורים לתיק או לעניין",
+                "example": "The attorney provided the judge with all relevant attachments including contracts and previous legal filings related to the lawsuit.",
+                "example_hebrew": "עורך הדין מסר לשופט את כל הצרופות הרלוונטיות לרבות חוזים ותיקים משפטיים קודמים הקשורים לתביעה."
+            },
+            {
+                "definition": "Additional content in a presentation or report",
+                "definition_hebrew": "תוכן נוסף במצגת או בדוח",
+                "example": "In her final report, she included several charts as attachments to support her findings.",
+                "example_hebrew": "בדוח הסופי שלה, היא כללה כמה תרשימים כקבצים מצורפים כדי לתמוך בממצאיה."
+            }
+        ]
+    }
+]

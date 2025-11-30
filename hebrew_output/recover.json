@@ -1,0 +1,34 @@
+[
+    {
+        "word": "recover",
+        "word_hebrew": "לְהַחלִים",
+        "main_definition": "To regain possession or control of something lost, or to return to a normal state after illness or injury.",
+        "main_definition_hebrew": "להחזיר לעצמה או לשלוט במשהו שאבד, או לחזור למצב נורמלי לאחר מחלה או פציעה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To get back something that was lost or stolen",
+                "definition_hebrew": "כדי להחזיר משהו שאבד או נגנב",
+                "example": "After the police recovered her wallet from the thief, she felt relieved.",
+                "example_hebrew": "לאחר שהמשטרה חילצה את ארנקה מהגנב, היא חשה הקלה."
+            },
+            {
+                "definition": "To return to a healthy state after an illness or injury",
+                "definition_hebrew": "לחזור למצב בריא לאחר מחלה או פציעה",
+                "example": "It took him several weeks to recover fully from his flu and regain his strength.",
+                "example_hebrew": "לקח לו מספר שבועות להתאושש לחלוטין מהשפעת ולהחזיר את כוחו."
+            },
+            {
+                "definition": "To retrieve something that was previously taken, such as data",
+                "definition_hebrew": "כדי לאחזר משהו שצולם בעבר, כגון נתונים",
+                "example": "The company's IT team managed to recover the deleted files after a system crash.",
+                "example_hebrew": "צוות ה-IT של החברה הצליח לשחזר את הקבצים שנמחקו לאחר קריסת מערכת."
+            },
+            {
+                "definition": "To regain normalcy or stability in a situation or condition",
+                "definition_hebrew": "כדי להחזיר את הנורמליות או היציבות במצב או במצב",
+                "example": "After the storm passed, it took time for the town to recover and resume its usual activities.",
+                "example_hebrew": "לאחר חלוף הסערה, לקח זמן עד שהעיירה התאוששה וחזרה לפעילותה הרגילה."
+            }
+        ]
+    }
+]

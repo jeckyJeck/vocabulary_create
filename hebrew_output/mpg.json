@@ -1,0 +1,28 @@
+[
+    {
+        "word": "mpg",
+        "word_hebrew": "mpg",
+        "main_definition": "MPG stands for miles per gallon, a unit of measurement used to express the fuel efficiency of vehicles.",
+        "main_definition_hebrew": "MPG מייצג מייל לליטר, יחידת מדידה המשמשת לביטוי יעילות הדלק של כלי רכב.",
+        "meanings_and_examples": [
+            {
+                "definition": "Fuel Efficiency Measurement",
+                "definition_hebrew": "מדידת יעילות דלק",
+                "example": "The car gets 30 mpg on the highway.",
+                "example_hebrew": "המכונית מקבלת 30 קמ\"ג על הכביש המהיר."
+            },
+            {
+                "definition": "Comparison between fuel efficiency of different vehicles or models",
+                "definition_hebrew": "השוואה בין יעילות דלק של כלי רכב או דגמים שונים",
+                "example": "This hybrid model has a higher MPG rating than that sedan, making it more fuel-efficient.",
+                "example_hebrew": "לדגם ההיברידי הזה יש דירוג MPG גבוה יותר מהסדאן הזו, מה שהופך אותו לחסכוני יותר בדלק."
+            },
+            {
+                "definition": "Standard Unit for Fuel Efficiency in the United States",
+                "definition_hebrew": "יחידה סטנדרטית ליעילות דלק בארצות הברית",
+                "example": "When comparing cars, always check their mpg ratings to determine which one is more environmentally friendly and cost-effective over time.",
+                "example_hebrew": "בעת השוואת מכוניות, בדוק תמיד את דירוג ה-mpg שלהן כדי לקבוע איזו מהן ידידותית יותר לסביבה וחסכונית לאורך זמן."
+            }
+        ]
+    }
+]

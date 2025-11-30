@@ -1,0 +1,40 @@
+[
+    {
+        "word": "contact",
+        "word_hebrew": "איש קשר",
+        "main_definition": "A way to communicate with someone, typically through a direct or indirect connection.",
+        "main_definition_hebrew": "דרך לתקשר עם מישהו, בדרך כלל באמצעות קשר ישיר או עקיף.",
+        "meanings_and_examples": [
+            {
+                "definition": "To establish communication with someone.",
+                "definition_hebrew": "ליצור תקשורת עם מישהו.",
+                "example": "I need to contact the manager about my schedule change.",
+                "example_hebrew": "אני צריך ליצור קשר עם המנהל לגבי שינוי לוח הזמנים שלי."
+            },
+            {
+                "definition": "A person who can provide information or assistance on a particular topic or issue.",
+                "definition_hebrew": "אדם שיכול לספק מידע או סיוע בנושא או נושא מסוים.",
+                "example": "She is an expert in her field and always has valuable contacts for advice.",
+                "example_hebrew": "היא מומחית בתחומה ותמיד יש לה אנשי קשר יקרי ערך לייעוץ."
+            },
+            {
+                "definition": "The act of making physical contact with someone, usually as a form of greeting or to exchange information.",
+                "definition_hebrew": "הפעולה של יצירת מגע פיזי עם מישהו, בדרך כלל כצורת ברכה או כדי להחליף מידע.",
+                "example": "After not seeing each other for years, they shared warm handshakes when finally meeting in person.",
+                "example_hebrew": "לאחר שנים שלא התראו, הם חלקו לחיצות ידיים חמות כשסוף סוף נפגשו באופן אישי."
+            },
+            {
+                "definition": "An address used for mailing purposes, typically consisting of a recipient's name and location.",
+                "definition_hebrew": "כתובת המשמשת למטרות דיוור, המורכבת בדרך כלל משם והמיקום של הנמען.",
+                "example": "Please send the letter to John Doe at 123 Main Street.",
+                "example_hebrew": "נא לשלוח את המכתב לג'ון דו ברחוב הראשי 123."
+            },
+            {
+                "definition": "A point or line on which something can be connected or joined with another thing.",
+                "definition_hebrew": "נקודה או קו שעליו משהו יכול להיות מחובר או לחבר עם דבר אחר.",
+                "example": "The two pieces of metal were perfectly aligned and made contact along their edges.",
+                "example_hebrew": "שני חלקי המתכת היו מיושרים בצורה מושלמת ויצרו מגע לאורך הקצוות שלהם."
+            }
+        ]
+    }
+]

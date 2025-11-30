@@ -1,0 +1,28 @@
+[
+    {
+        "word": "alphabetical",
+        "word_hebrew": "אָלֶף בֵּיתִי",
+        "main_definition": "In order of the standard sequence of letters in the alphabet, usually referring to arranging items based on their starting letter.",
+        "main_definition_hebrew": "לפי סדר רצף האותיות הסטנדרטי באלפבית, בדרך כלל הכוונה לסידור פריטים על סמך האות ההתחלתית שלהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to or involving an arrangement by the first letter of each word.",
+                "definition_hebrew": "מתייחס או כרוך בסידור לפי האות הראשונה של כל מילה.",
+                "example": "She organized her bookshelf alphabetically, so it's easy to find any title.",
+                "example_hebrew": "היא ארגנה את מדף הספרים שלה בסדר אלפביתי, כך שקל למצוא כל כותרת."
+            },
+            {
+                "definition": "In sequential order according to the position of letters in the alphabet from A to Z.",
+                "definition_hebrew": "בסדר עוקב לפי מיקום האותיות באלפבית מא' עד ת'.",
+                "example": "When listing names on a guest list, they were arranged alphabetically by surname.",
+                "example_hebrew": "כאשר רשמו שמות ברשימת אורחים, הם היו מסודרים בסדר אלפביתי לפי שם משפחה."
+            },
+            {
+                "definition": "As per the standard sequence of the English alphabet; without any variation or exceptions.",
+                "definition_hebrew": "לפי הרצף הסטנדרטי של האלפבית האנגלי; ללא כל וריאציה או חריגים.",
+                "example": "The index at the end of the book is organized in an alphabetical order.",
+                "example_hebrew": "האינדקס בסוף הספר מאורגן בסדר אלפביתי."
+            }
+        ]
+    }
+]

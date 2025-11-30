@@ -1,0 +1,40 @@
+[
+    {
+        "word": "attended",
+        "word_hebrew": "השתתפו",
+        "main_definition": "To be present at an event, gathering, or function with the intention of observing, participating, or supporting it.",
+        "main_definition_hebrew": "להיות נוכח באירוע, התכנסות או לתפקד מתוך כוונה להתבונן, להשתתף או לתמוך בו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To have been present at a particular place or occasion",
+                "definition_hebrew": "להיות נוכח במקום או באירוע מסוים",
+                "example": "The conference was attended by over 500 professionals.",
+                "example_hebrew": "בכנס השתתפו למעלה מ-500 אנשי מקצוע."
+            },
+            {
+                "definition": "To be invited to and go to an event or gathering with the intention of participation or support",
+                "definition_hebrew": "להיות מוזמן וללכת לאירוע או התכנסות מתוך כוונה להשתתפות או תמיכה",
+                "example": "She attended her best friend's wedding in California last summer.",
+                "example_hebrew": "היא השתתפה בחתונה של חברתה הטובה בקליפורניה בקיץ שעבר."
+            },
+            {
+                "definition": "To accompany or escort someone, usually for a specific purpose such as attending school or work",
+                "definition_hebrew": "ללוות או ללוות מישהו, בדרך כלל למטרה מסוימת כמו לימוד או עבודה",
+                "example": "The teacher accompanied the student to his first day at a new high school.",
+                "example_hebrew": "המורה ליווה את התלמיד ליומו הראשון בתיכון חדש."
+            },
+            {
+                "definition": "To be present and participate in an organized activity like a meeting, class, or ceremony",
+                "definition_hebrew": "להיות נוכח ולהשתתף בפעילות מאורגנת כמו מפגש, שיעור או טקס",
+                "example": "They attended the annual shareholders' meeting to discuss company matters.",
+                "example_hebrew": "הם השתתפו באסיפת בעלי המניות השנתית כדי לדון בענייני החברה."
+            },
+            {
+                "definition": "To provide attendance records for someone who cannot be physically present due to illness or other reasons",
+                "definition_hebrew": "לספק רישומי נוכחות למי שאינו יכול להיות נוכח פיזית עקב מחלה או סיבות אחרות",
+                "example": "The office provided her with a list of all meetings she had attended over the past month as an alternative.",
+                "example_hebrew": "המשרד סיפק לה רשימה של כל הפגישות שבהן השתתפה בחודש האחרון כחלופה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "falls",
+        "word_hebrew": "נופל",
+        "main_definition": "The act of descending from a higher to a lower level, or the event when something drops down due to gravity.",
+        "main_definition_hebrew": "פעולת הירידה מרמה גבוהה יותר לרמה נמוכה יותר, או האירוע שבו משהו נופל מטה עקב כוח הכבידה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A natural occurrence where water flows over an elevated area",
+                "definition_hebrew": "אירוע טבעי בו זורמים מים על פני שטח מוגבה",
+                "example": "During heavy rain, the river upstream began to fall rapidly.",
+                "example_hebrew": "במהלך גשם כבד החל הנהר במעלה הזרם לרדת במהירות."
+            },
+            {
+                "definition": "An event when someone physically descends or loses balance while standing or moving",
+                "definition_hebrew": "אירוע שבו מישהו יורד פיזית או מאבד שיווי משקל בזמן עמידה או תנועה",
+                "example": "He slipped and fell on the icy pavement.",
+                "example_hebrew": "הוא החליק ונפל על המדרכה הקפואה."
+            },
+            {
+                "definition": "A decline in value, quality, or condition of something over time",
+                "definition_hebrew": "ירידה בערך, באיכות או במצב של משהו לאורך זמן",
+                "example": "The stock market experienced a significant fall last month.",
+                "example_hebrew": "הבורסה חוותה נפילה משמעותית בחודש שעבר."
+            },
+            {
+                "definition": "The action of falling asleep or succumbing to sleep involuntarily",
+                "definition_hebrew": "הפעולה של הירדמות או כניעה לשינה באופן לא רצוני",
+                "example": "After the long journey, she fell into a deep and peaceful sleep on her first night in bed.",
+                "example_hebrew": "לאחר המסע הארוך, היא שקעה בשינה עמוקה ושלווה בלילה הראשון שלה במיטה."
+            },
+            {
+                "definition": "An adverse change or deterioration in circumstances",
+                "definition_hebrew": "שינוי לרעה או הרעה בנסיבות",
+                "example": "The economy has been suffering from a fall due to the pandemic.",
+                "example_hebrew": "הכלכלה סובלת מנפילה עקב המגיפה."
+            }
+        ]
+    }
+]

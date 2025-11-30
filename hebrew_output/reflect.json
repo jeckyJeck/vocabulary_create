@@ -1,0 +1,40 @@
+[
+    {
+        "word": "reflect",
+        "word_hebrew": "משקף",
+        "main_definition": "To mirror or show an image, idea, or feeling; to think deeply about something.",
+        "main_definition_hebrew": "לשקף או להראות תמונה, רעיון או תחושה; לחשוב לעומק על משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To throw back light or heat without absorbing it.",
+                "definition_hebrew": "להחזיר אור או חום מבלי לספוג אותם.",
+                "example": "The sun's rays reflect off the surface of a calm lake.",
+                "example_hebrew": "קרני השמש משתקפות מפני השטח של אגם רגוע."
+            },
+            {
+                "definition": "To show an image on a surface by using light, such as in mirrors and shiny objects.",
+                "definition_hebrew": "כדי להציג תמונה על משטח באמצעות אור, כגון מראות וחפצים מבריקים.",
+                "example": "When you stand in front of a mirror, your face is reflected back at you.",
+                "example_hebrew": "כשאתה עומד מול מראה, הפנים שלך משתקפות אליך בחזרה."
+            },
+            {
+                "definition": "To think carefully about something",
+                "definition_hebrew": "לחשוב היטב על משהו",
+                "example": "After receiving the news, she took some time to reflect on her future plans.",
+                "example_hebrew": "לאחר שקיבלה את החדשות, היא לקחה זמן להרהר על תוכניותיה העתידיות."
+            },
+            {
+                "definition": "To show or express an idea or feeling.",
+                "definition_hebrew": "להראות או להביע רעיון או תחושה.",
+                "example": "His poem reflected his deep sorrow and longing for home.",
+                "example_hebrew": "שירו שיקף את צערו העמוק ואת געגועיו לבית."
+            },
+            {
+                "definition": "To bounce back after hitting a barrier; to recover from something difficult.",
+                "definition_hebrew": "לחזור אחורה לאחר פגיעה במחסום; להתאושש ממשהו קשה.",
+                "example": "After failing the first time, she reflected on her mistakes and tried again with renewed determination.",
+                "example_hebrew": "לאחר שנכשלה בפעם הראשונה, היא שקלה את טעויותיה וניסתה שוב בנחישות מחודשת."
+            }
+        ]
+    }
+]

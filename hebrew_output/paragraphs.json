@@ -1,0 +1,28 @@
+[
+    {
+        "word": "paragraphs",
+        "word_hebrew": "פסקאות",
+        "main_definition": "Paragraphs are distinct sections of a piece of writing that deal with separate points or ideas, typically separated by blank lines.",
+        "main_definition_hebrew": "פסקאות הן קטעים נפרדים בכתב העוסקים בנקודות או רעיונות נפרדים, המופרדים בדרך כלל על ידי שורות ריקות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Sections in written text",
+                "definition_hebrew": "קטעים בטקסט כתוב",
+                "example": "The essay was divided into three paragraphs to clearly present the main arguments.",
+                "example_hebrew": "החיבור חולק לשלוש פסקאות כדי להציג בבירור את הטיעונים העיקריים."
+            },
+            {
+                "definition": "A series of sentences on a similar subject, forming part of an essay, article, or book",
+                "definition_hebrew": "סדרה של משפטים בנושא דומה, המהווים חלק ממאמר, מאמר או ספר",
+                "example": "She wrote two short paragraphs explaining her research findings in more detail.",
+                "example_hebrew": "היא כתבה שתי פסקאות קצרות המסבירות את ממצאי המחקר שלה ביתר פירוט."
+            },
+            {
+                "definition": "In programming and computer science, paragraphs refer to a block or unit of code or text that serves as a logical entity within the program.",
+                "definition_hebrew": "בתכנות ובמדעי המחשב, פסקאות מתייחסות לבלוק או יחידת קוד או טקסט המשמשים כישות הגיונית בתוך התוכנית.",
+                "example": "The software application was organized into different paragraphs representing various functionalities for easier maintenance.",
+                "example_hebrew": "יישום התוכנה היה מאורגן בפסקאות שונות המייצגות פונקציות שונות לתחזוקה קלה יותר."
+            }
+        ]
+    }
+]

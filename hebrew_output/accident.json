@@ -1,0 +1,34 @@
+[
+    {
+        "word": "accident",
+        "word_hebrew": "תְאוּנָה",
+        "main_definition": "An unfortunate incident that happens unexpectedly and unintentionally, often causing damage or injury.",
+        "main_definition_hebrew": "תקרית מצערת המתרחשת באופן בלתי צפוי ולא מכוון, ולעתים קרובות גורמת לנזק או לפציעה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A mishap involving property damage, such as a car crash or broken window.",
+                "definition_hebrew": "תקלה הכוללת נזק לרכוש, כגון תאונת דרכים או חלון שבור.",
+                "example": "The accident on Main Street resulted in several vehicles being totaled.",
+                "example_hebrew": "התאונה ברחוב הראשי הביאה לסיכומו של מספר כלי רכב."
+            },
+            {
+                "definition": "An unforeseen event that leads to injury or harm, often medical.",
+                "definition_hebrew": "אירוע בלתי צפוי שמוביל לפציעה או נזק, לרוב רפואי.",
+                "example": "She slipped on ice and had an accident at home which required a visit to the emergency room.",
+                "example_hebrew": "היא החליקה על קרח ועברה תאונה בבית שדרשה ביקור במיון."
+            },
+            {
+                "definition": "A sudden occurrence that interrupts normal activity without any deliberate intent.",
+                "definition_hebrew": "אירוע פתאומי שמפריע לפעילות רגילה ללא כל כוונה מכוונת.",
+                "example": "The power outage caused by bad weather was an unexpected accident that disrupted our plans for the day.",
+                "example_hebrew": "הפסקת החשמל שנגרמה ממזג אוויר גרוע הייתה תאונה בלתי צפויה ששיבשה את התוכניות שלנו להיום."
+            },
+            {
+                "definition": "An incident or event that is fortuitous and leads to a positive outcome, though not necessarily planned.",
+                "definition_hebrew": "אירוע או אירוע שהם במקרה ומובילים לתוצאה חיובית, אם כי לא בהכרח מתוכנן.",
+                "example": "Finding a $20 bill on the sidewalk could be considered an accidental stroke of luck.",
+                "example_hebrew": "מציאת שטר של 20 דולר על המדרכה יכולה להיחשב למכת מזל מקרית."
+            }
+        ]
+    }
+]

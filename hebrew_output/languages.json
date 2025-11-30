@@ -1,0 +1,40 @@
+[
+    {
+        "word": "languages",
+        "word_hebrew": "שפות",
+        "main_definition": "Languages refer to systems of communication used by humans, either spoken or written, that have distinct grammar and vocabulary.",
+        "main_definition_hebrew": "שפות מתייחסות למערכות תקשורת המשמשות בני אדם, מדוברות או כתובות, שיש להן דקדוק ואוצר מילים מובהקים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Different human languages across the world",
+                "definition_hebrew": "שפות אנושיות שונות ברחבי העולם",
+                "example": "English, Spanish, Mandarin Chinese are some examples of different languages.",
+                "example_hebrew": "אנגלית, ספרדית, סינית מנדרינית הן כמה דוגמאות לשפות שונות."
+            },
+            {
+                "definition": "Programming languages used in computer science and software development",
+                "definition_hebrew": "שפות תכנות המשמשות במדעי המחשב ופיתוח תוכנה",
+                "example": "Python, Java, C++ are programming languages that allow developers to create applications or solve problems using code.",
+                "example_hebrew": "Python, Java, C++ הן שפות תכנות המאפשרות למפתחים ליצור אפליקציות או לפתור בעיות באמצעות קוד."
+            },
+            {
+                "definition": "Linguistic diversity within a specific region or community",
+                "definition_hebrew": "מגוון לשוני בתוך אזור או קהילה ספציפיים",
+                "example": "In Africa, the multitude of indigenous languages spoken by various ethnic groups exemplifies linguistic diversity.",
+                "example_hebrew": "באפריקה, ריבוי השפות הילידיות המדוברות על ידי קבוצות אתניות שונות ממחיש מגוון לשוני."
+            },
+            {
+                "definition": "The study and research of human language",
+                "definition_hebrew": "חקר ומחקר השפה האנושית",
+                "example": "Linguistics is an academic field that investigates the structure, use, and evolution of languages.",
+                "example_hebrew": "בלשנות היא תחום אקדמי החוקר את המבנה, השימוש וההתפתחות של שפות."
+            },
+            {
+                "definition": "A metaphorical term referring to effective communication across different cultures or groups",
+                "definition_hebrew": "מונח מטפורי המתייחס לתקשורת יעילה בין תרבויות או קבוצות שונות",
+                "example": "Finding common 'languages' can help diplomats communicate more effectively with representatives from diverse nations.",
+                "example_hebrew": "מציאת 'שפות' משותפות יכולה לעזור לדיפלומטים לתקשר בצורה יעילה יותר עם נציגים ממדינות שונות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "invalid",
+        "word_hebrew": "לא חוקי",
+        "main_definition": "Something that is not legally or logically sound, cannot be used as evidence in court, or no longer effective.",
+        "main_definition_hebrew": "משהו שאינו נכון מבחינה משפטית או לוגית, אינו יכול לשמש כראיה בבית המשפט, או אינו יעיל יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not legally binding or enforceable",
+                "definition_hebrew": "לא מחייב או אכיפה משפטית",
+                "example": "The contract was declared invalid due to a technicality.",
+                "example_hebrew": "החוזה הוכרז כבלתי תקף עקב עניין טכני."
+            },
+            {
+                "definition": "Incorrect, unacceptable, or not valid in logic or reasoning",
+                "definition_hebrew": "לא נכון, לא מקובל או לא תקף בהיגיון או בהיגיון",
+                "example": "His argument is invalid; he has not provided any evidence to support his claim.",
+                "example_hebrew": "הטיעון שלו פסול; הוא לא סיפק ראיות כלשהן לתמיכה בטענתו."
+            },
+            {
+                "definition": "Cannot be used as proof of age for various purposes (e.g., purchasing alcohol)",
+                "definition_hebrew": "לא יכול לשמש כהוכחה לגיל למטרות שונות (למשל, רכישת אלכוהול)",
+                "example": "The birth certificate was found to be invalid, so the person could not buy a drink.",
+                "example_hebrew": "נמצא כי תעודת הלידה אינה חוקית, ולכן האדם לא יכול היה לקנות משקה."
+            },
+            {
+                "definition": "Not approved by medical professionals",
+                "definition_hebrew": "לא אושר על ידי אנשי מקצוע רפואיים",
+                "example": "Her doctor declared her injury as invalid for participation in the marathon due to severity.",
+                "example_hebrew": "הרופא שלה הכריז על פציעתה כפסולה להשתתפות במרתון בשל חומרתה."
+            }
+        ]
+    }
+]

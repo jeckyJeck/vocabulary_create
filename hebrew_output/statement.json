@@ -1,0 +1,34 @@
+[
+    {
+        "word": "statement",
+        "word_hebrew": "הַצהָרָה",
+        "main_definition": "A statement is a definite or clear expression of something in words, often used to assert or declare an idea, opinion, or fact.",
+        "main_definition_hebrew": "אמירה היא ביטוי מוגדר או ברור של משהו במילים, המשמש לעתים קרובות כדי להצהיר או להצהיר על רעיון, דעה או עובדה.",
+        "meanings_and_examples": [
+            {
+                "definition": "An assertion made by someone about a particular subject",
+                "definition_hebrew": "קביעה של מישהו על נושא מסוים",
+                "example": "The scientist made a statement that climate change is accelerating.",
+                "example_hebrew": "המדען הצהיר ששינויי האקלים מואצים."
+            },
+            {
+                "definition": "A formal or official announcement given to the public or an organization",
+                "definition_hebrew": "הודעה רשמית או רשמית שניתנה לציבור או לארגון",
+                "example": "The government issued a statement regarding new tax reforms.",
+                "example_hebrew": "הממשלה פרסמה הודעה בנוגע לרפורמות מס חדשות."
+            },
+            {
+                "definition": "An expressed opinion, viewpoint, or position on a matter",
+                "definition_hebrew": "דעה מובעת, נקודת מבט או עמדה בעניין",
+                "example": "Her statement about animal rights sparked a debate among her peers.",
+                "example_hebrew": "הצהרתה על זכויות בעלי חיים עוררה ויכוח בין חבריה."
+            },
+            {
+                "definition": "A recorded account of facts, typically in legal contexts",
+                "definition_hebrew": "תיאור מוקלט של עובדות, בדרך כלל בהקשרים משפטיים",
+                "example": "The witness provided their statement to the court detailing what they saw during the incident.",
+                "example_hebrew": "העד מסר את הודעתו לבית המשפט ובה פירטה מה ראו במהלך האירוע."
+            }
+        ]
+    }
+]

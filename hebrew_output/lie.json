@@ -1,0 +1,34 @@
+[
+    {
+        "word": "lie",
+        "word_hebrew": "שקר",
+        "main_definition": "To intentionally give false information or deceive someone.",
+        "main_definition_hebrew": "לתת מידע כוזב בכוונה או להונות מישהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A false statement made with the intent to deceive.",
+                "definition_hebrew": "הצהרה שקרית שנאמרה בכוונה להונות.",
+                "example": "He lied about his whereabouts on Friday night.",
+                "example_hebrew": "הוא שיקר לגבי מקום הימצאו ביום שישי בערב."
+            },
+            {
+                "definition": "To position oneself or an object in a way that is not true or accurate.",
+                "definition_hebrew": "למקם את עצמך או חפץ באופן שאינו נכון או מדויק.",
+                "example": "She laid down flat, pretending she was asleep when her parents entered the room.",
+                "example_hebrew": "היא נשכבה שטוחה והעמידה פנים שהיא ישנה כשהוריה נכנסו לחדר."
+            },
+            {
+                "definition": "A bedtime story with unrealistic characters and events designed for children's entertainment.",
+                "definition_hebrew": "סיפור לפני השינה עם דמויות ואירועים לא מציאותיים המיועדים לבילוי לילדים.",
+                "example": "The fairy tale 'Cinderella' is a popular example of a classic lie in literature, where animals can talk and magical transformations occur.",
+                "example_hebrew": "האגדה 'סינדרלה' היא דוגמה פופולרית לשקר קלאסי בספרות, שבו חיות יכולות לדבר ומתרחשות תמורות קסומות."
+            },
+            {
+                "definition": "To deviate from the truth or reality without malicious intent, often used humorously.",
+                "definition_hebrew": "לסטות מהאמת או המציאות ללא כוונות זדון, לעתים קרובות נעשה שימוש בהומור.",
+                "example": "When she said her cat could fly, we knew it was just a playful lie.",
+                "example_hebrew": "כשהיא אמרה שהחתול שלה יכול לעוף, ידענו שזה רק שקר שובב."
+            }
+        ]
+    }
+]

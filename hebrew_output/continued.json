@@ -1,0 +1,34 @@
+[
+    {
+        "word": "continued",
+        "word_hebrew": "נמשך",
+        "main_definition": "Continued means to persist or maintain in a particular course of action, state, or condition.",
+        "main_definition_hebrew": "המשך פירושו להתמיד או לשמור על דרך פעולה, מצב או מצב מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To continue doing something without stopping",
+                "definition_hebrew": "להמשיך לעשות משהו בלי להפסיק",
+                "example": "Even after the project deadline passed, they continued working on it.",
+                "example_hebrew": "גם לאחר שחלף מועד הפרויקט, הם המשיכו לעבוד עליו."
+            },
+            {
+                "definition": "The act of extending or prolonging a period, event, or action",
+                "definition_hebrew": "הפעולה של הארכה או הארכה של תקופה, אירוע או פעולה",
+                "example": "The show was continued for another season due to its popularity.",
+                "example_hebrew": "התוכנית נמשכה לעונה נוספת בשל הפופולריות שלה."
+            },
+            {
+                "definition": "In mathematics and computer science, referring to an expression that has been carried forward in subsequent calculations or code executions",
+                "definition_hebrew": "במתמטיקה ומדעי המחשב, הכוונה לביטוי שהועבר בחישובים הבאים או בביצוע קוד",
+                "example": "After the first calculation, the result of 'x + 5' was continued as part of the next equation.",
+                "example_hebrew": "לאחר החישוב הראשון, התוצאה של 'x + 5' המשיכה כחלק מהמשוואה הבאה."
+            },
+            {
+                "definition": "The continuation of a narrative or series from where it left off",
+                "definition_hebrew": "המשך של נרטיב או סדרה מהמקום שבו הפסיקה",
+                "example": "The movie franchise had been successful and they decided to continue with another sequel.",
+                "example_hebrew": "זיכיון הסרט היה מוצלח והם החליטו להמשיך עם סרט המשך נוסף."
+            }
+        ]
+    }
+]

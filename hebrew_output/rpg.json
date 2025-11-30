@@ -1,0 +1,34 @@
+[
+    {
+        "word": "rpg",
+        "word_hebrew": "rpg",
+        "main_definition": "Role-playing game, a genre of video games in which players assume the roles of characters and collaboratively create stories or adventures.",
+        "main_definition_hebrew": "משחק תפקידים, ז'אנר של משחקי וידאו שבו שחקנים לובשים תפקידים של דמויות ויוצרים בשיתוף פעולה סיפורים או הרפתקאות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A subgenre of role-playing games (RPGs) that is typically played using pen-and-paper methods, such as miniatures and character sheets",
+                "definition_hebrew": "תת-ז'אנר של משחקי תפקידים (RPG) שמשחקים בדרך כלל באמצעות שיטות עט-נייר, כגון מיניאטורות ודפי דמויות",
+                "example": "In a traditional tabletop RPG session, players might use paper miniatures to represent their characters in battles.",
+                "example_hebrew": "בסשן RPG מסורתי על שולחן, שחקנים עשויים להשתמש במיניאטורות נייר כדי לייצג את הדמויות שלהם בקרבות."
+            },
+            {
+                "definition": "A video game genre that involves creating fictional characters with certain attributes (e.g., strength, intelligence) and navigating through various scenarios or quests",
+                "definition_hebrew": "ז'אנר משחק וידאו הכולל יצירת דמויות בדיוניות בעלות תכונות מסוימות (למשל, כוח, אינטליגנציה) וניווט בין תרחישים או קווסטים שונים",
+                "example": "In the popular RPG series 'The Elder Scrolls V: Skyrim', players create their own character and explore a vast open world.",
+                "example_hebrew": "בסדרת ה-RPG הפופולרית 'The Elder Scrolls V: Skyrim', שחקנים יוצרים דמות משלהם וחוקרים עולם פתוח עצום."
+            },
+            {
+                "definition": "A multiplayer online game wherein players assume roles of characters in a fictional setting, interacting with each other to complete missions or objectives",
+                "definition_hebrew": "משחק מקוון מרובה משתתפים שבו שחקנים לוקחים על עצמם תפקידים של דמויות בסביבה בדיונית, תוך אינטראקציה זה עם זה כדי להשלים משימות או יעדים",
+                "example": "Players team up in 'World of Warcraft', an MMORPG that allows them to cooperate and compete against others while exploring different realms.",
+                "example_hebrew": "שחקנים מתאחדים ב-'World of Warcraft', MMORPG המאפשר להם לשתף פעולה ולהתחרות מול אחרים תוך כדי חקר ממלכות שונות."
+            },
+            {
+                "definition": "A type of game where players create a character or avatar, often with customizable appearance and attributes, and embark on adventures in various settings",
+                "definition_hebrew": "סוג של משחק שבו שחקנים יוצרים דמות או אווטאר, לרוב עם מראה ותכונות הניתנים להתאמה אישית, ויוצאים להרפתקאות במסגרות שונות",
+                "example": "In the 'Final Fantasy' series, players can choose their characters' appearances, skills, and equipment before entering quests.",
+                "example_hebrew": "בסדרת 'Final Fantasy', שחקנים יכולים לבחור את המראה, הכישורים והציוד של הדמויות שלהם לפני שהם נכנסים למשימות."
+            }
+        ]
+    }
+]

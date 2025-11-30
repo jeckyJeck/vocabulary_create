@@ -1,0 +1,34 @@
+[
+    {
+        "word": "accessing",
+        "word_hebrew": "גישה",
+        "main_definition": "The act of obtaining entry or permission to use, view, or retrieve information from a system, database, or resource.",
+        "main_definition_hebrew": "הפעולה של קבלת כניסה או הרשאה להשתמש, להציג או לאחזר מידע ממערכת, מסד נתונים או משאב.",
+        "meanings_and_examples": [
+            {
+                "definition": "To gain entry or permission to use something",
+                "definition_hebrew": "כדי לקבל כניסה או הרשאה להשתמש במשהו",
+                "example": "I am accessing the company's confidential files with my valid login credentials.",
+                "example_hebrew": "אני ניגש לקבצים הסודיים של החברה עם אישורי הכניסה התקפים שלי."
+            },
+            {
+                "definition": "Retrieving information from a database or system",
+                "definition_hebrew": "שליפת מידע ממסד נתונים או מערכת",
+                "example": "The IT specialist is accessing customer data through the company's internal network to provide support.",
+                "example_hebrew": "מומחה ה-IT ניגש לנתוני לקוחות דרך הרשת הפנימית של החברה כדי לספק תמיכה."
+            },
+            {
+                "definition": "Acquiring physical access to a location or property",
+                "definition_hebrew": "השגת גישה פיזית למיקום או נכס",
+                "example": "Security personnel are accessing the building after receiving clearance from the administration.",
+                "example_hebrew": "אנשי הביטחון מגיעים לבניין לאחר שקיבלו אישור מהמינהל."
+            },
+            {
+                "definition": "Engaging with content on an online platform, such as videos or articles",
+                "definition_hebrew": "מעורבות בתוכן בפלטפורמה מקוונת, כגון סרטונים או מאמרים",
+                "example": "I am accessing educational videos on YouTube to learn about a new topic.",
+                "example_hebrew": "אני ניגש לסרטונים חינוכיים ב-YouTube כדי ללמוד על נושא חדש."
+            }
+        ]
+    }
+]

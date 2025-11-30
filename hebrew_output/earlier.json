@@ -1,0 +1,34 @@
+[
+    {
+        "word": "earlier",
+        "word_hebrew": "מוקדם יותר",
+        "main_definition": "referring to a point in time that is before the present moment or another specified time.",
+        "main_definition_hebrew": "הכוונה לנקודת זמן שהיא לפני הרגע הנוכחי או זמן מוגדר אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Before the current date or time",
+                "definition_hebrew": "לפני התאריך או השעה הנוכחיים",
+                "example": "I finished my homework earlier today.",
+                "example_hebrew": "סיימתי את שיעורי הבית שלי מוקדם יותר היום."
+            },
+            {
+                "definition": "With respect to a past event or occurrence",
+                "definition_hebrew": "ביחס לאירוע או התרחשות בעבר",
+                "example": "The meeting was moved an hour earlier than originally planned.",
+                "example_hebrew": "הפגישה הוזזה שעה מוקדם מהמתוכנן המקורי."
+            },
+            {
+                "definition": "Prior to the expected time of arrival or completion",
+                "definition_hebrew": "לפני זמן ההגעה הצפוי או ההשלמה",
+                "example": "The train is running earlier than its usual schedule due to delays on other lines.",
+                "example_hebrew": "הרכבת פועלת מוקדם מלוח הזמנים הרגיל בשל עיכובים בקווים אחרים."
+            },
+            {
+                "definition": "In comparison with something else that happened previously",
+                "definition_hebrew": "בהשוואה למשהו אחר שקרה בעבר",
+                "example": "I'd like to know if you have any updates about the project, especially anything happening earlier this week.",
+                "example_hebrew": "אני רוצה לדעת אם יש לך עדכונים לגבי הפרויקט, במיוחד כל מה שקורה בתחילת השבוע."
+            }
+        ]
+    }
+]

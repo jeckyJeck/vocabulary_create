@@ -1,0 +1,40 @@
+[
+    {
+        "word": "card",
+        "word_hebrew": "כַּרְטִיס",
+        "main_definition": "A piece of paper or plastic that carries information, such as a playing card, credit/debit card, identification card, etc.",
+        "main_definition_hebrew": "פיסת נייר או פלסטיק הנושאת מידע, כגון כרטיס משחק, כרטיס אשראי/חיוב, תעודת זהות וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "Playing cards used in games like poker and blackjack",
+                "definition_hebrew": "קלפים המשמשים במשחקים כמו פוקר ובלק ג'ק",
+                "example": "We shuffled the deck of cards before starting our game.",
+                "example_hebrew": "ערבבנו את חפיסת הקלפים לפני שהתחלנו את המשחק שלנו."
+            },
+            {
+                "definition": "A plastic card issued by a bank to facilitate payment transactions",
+                "definition_hebrew": "כרטיס פלסטיק שמונפק על ידי בנק כדי להקל על פעולות תשלום",
+                "example": "I swiped my credit card at the checkout counter.",
+                "example_hebrew": "העברתי את כרטיס האשראי שלי בדלפק הקופה."
+            },
+            {
+                "definition": "An identification card used for proving one's identity, like a driver's license or social security card",
+                "definition_hebrew": "תעודת זיהוי המשמשת להוכחת זהותו, כמו רישיון נהיגה או תעודת ביטוח לאומי",
+                "example": "He showed his ID card to enter the restricted area of the building.",
+                "example_hebrew": "הוא הראה את תעודת הזהות שלו כדי להיכנס לאזור המוגבל של הבניין."
+            },
+            {
+                "definition": "A card used in various games and activities (e.g., Uno, Magic: The Gathering)",
+                "definition_hebrew": "קלף המשמש במשחקים ופעילויות שונות (למשל, Uno, Magic: The Gathering)",
+                "example": "I played a few rounds of Rummy with my friends using a pack of playing cards.",
+                "example_hebrew": "שיחקתי כמה סיבובים של רמי עם החברים שלי באמצעות חבילת קלפים."
+            },
+            {
+                "definition": "A small printed sheet of paper given as an invitation to a party or event",
+                "definition_hebrew": "דף נייר מודפס קטן שניתן כהזמנה למסיבה או אירוע",
+                "example": "She received a beautifully designed wedding invitation card in the mail.",
+                "example_hebrew": "היא קיבלה בדואר כרטיס הזמנה לחתונה מעוצב להפליא."
+            }
+        ]
+    }
+]

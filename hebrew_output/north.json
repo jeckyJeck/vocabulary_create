@@ -1,0 +1,34 @@
+[
+    {
+        "word": "north",
+        "word_hebrew": "צָפוֹן",
+        "main_definition": "North is a cardinal direction, opposite of south, often used metaphorically or in idiomatic expressions.",
+        "main_definition_hebrew": "צפון הוא כיוון קרדינלי, הפוך מדרום, המשמש לעתים קרובות באופן מטפורי או בביטויים אידיומטיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Cardinal direction pointing towards the North Pole",
+                "definition_hebrew": "כיוון הקרדינל מצביע לכיוון הקוטב הצפוני",
+                "example": "We traveled north to reach our destination.",
+                "example_hebrew": "נסענו צפונה כדי להגיע ליעד."
+            },
+            {
+                "definition": "Metaphorical meaning representing a position that is opposite or contrary to another aspect, like 'a step in the wrong direction'",
+                "definition_hebrew": "משמעות מטפורית המייצגת עמדה הפוכה או מנוגדת להיבט אחר, כמו \"צעד בכיוון הלא נכון\"",
+                "example": "His criticism was seen as stepping North on her career aspirations.",
+                "example_hebrew": "הביקורת שלו נתפסה כמדריגה את צפון על שאיפותיה הקריירה."
+            },
+            {
+                "definition": "A metaphor for something unfavorable or negative situation",
+                "definition_hebrew": "מטאפורה למשהו שלילי או מצב שלילי",
+                "example": "The company faced a north wind with the current economic climate.",
+                "example_hebrew": "החברה התמודדה עם רוח צפונית עם האקלים הכלכלי הנוכחי."
+            },
+            {
+                "definition": "Used in idioms to denote difficulty, hardship, or challenging circumstances",
+                "definition_hebrew": "משמש בביטויים לציון קושי, קושי או נסיבות מאתגרות",
+                "example": "Facing financial difficulties can sometimes feel like trying to move uphill – it's like fighting against the north wind.",
+                "example_hebrew": "התמודדות עם קשיים כלכליים יכולה לפעמים להרגיש כמו לנסות לנוע בעלייה - זה כמו להילחם ברוח הצפונית."
+            }
+        ]
+    }
+]

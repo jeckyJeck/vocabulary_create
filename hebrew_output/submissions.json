@@ -1,0 +1,40 @@
+[
+    {
+        "word": "submissions",
+        "word_hebrew": "הגשות",
+        "main_definition": "Submissions refer to the act of sending in or presenting something, such as documents, ideas, proposals, etc., typically for consideration, review, or approval.",
+        "main_definition_hebrew": "הגשות מתייחסות לפעולה של שליחת או הצגת משהו, כגון מסמכים, רעיונות, הצעות וכו', בדרך כלל לשיקול, סקירה או אישור.",
+        "meanings_and_examples": [
+            {
+                "definition": "Documents or forms sent to an organization or individual",
+                "definition_hebrew": "מסמכים או טפסים שנשלחו לארגון או לאדם פרטי",
+                "example": "The university received numerous submissions of admission essays from prospective students.",
+                "example_hebrew": "האוניברסיטה קיבלה הגשות רבות של מאמרי קבלה מסטודנטים פוטנציאליים."
+            },
+            {
+                "definition": "Ideas, proposals, or suggestions submitted for consideration",
+                "definition_hebrew": "רעיונות, הצעות או הצעות שהוגשו לבחינה",
+                "example": "Artists often submit their artwork to galleries and competitions for exhibit opportunities.",
+                "example_hebrew": "לעתים קרובות אמנים מגישים את יצירות האמנות שלהם לגלריות ותחרויות להזדמנויות לתערוכות."
+            },
+            {
+                "definition": "Requests for grant applications due within a specific time frame",
+                "definition_hebrew": "בקשות למענקים המגיעות במסגרת זמן מסוימת",
+                "example": "Non-profit organizations frequently issue deadlines for submissions of grant proposals for funding.",
+                "example_hebrew": "ארגונים ללא מטרות רווח מפרסמים לעתים קרובות מועדים להגשת הצעות מענקים למימון."
+            },
+            {
+                "definition": "Articles or manuscripts submitted to an academic journal for publication",
+                "definition_hebrew": "מאמרים או כתבי יד שהוגשו לכתב עת אקדמי לפרסום",
+                "example": "A researcher submitted their findings as a paper submission to the Journal of Environmental Studies.",
+                "example_hebrew": "חוקר הגיש את ממצאיו כמאמר לכתב העת למדעי הסביבה."
+            },
+            {
+                "definition": "Requests for bid submissions from potential contractors during procurement processes",
+                "definition_hebrew": "בקשות להגשת הצעות מקבלנים פוטנציאליים במהלך תהליכי רכש",
+                "example": "The government agency released the request for submission of bids from various construction companies for infrastructure development projects.",
+                "example_hebrew": "הרשות הממשלתית פרסמה את הבקשה להגשת הצעות מחברות בנייה שונות לפרויקטי פיתוח תשתיות."
+            }
+        ]
+    }
+]

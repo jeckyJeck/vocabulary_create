@@ -1,0 +1,40 @@
+[
+    {
+        "word": "layout",
+        "word_hebrew": "מַעֲרָך",
+        "main_definition": "Layout refers to the arrangement or organization of elements in a particular space, document, or system.",
+        "main_definition_hebrew": "פריסה מתייחסת לסידור או ארגון של אלמנטים בחלל, מסמך או מערכת מסוימים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The process of designing and arranging items on a page or screen.",
+                "definition_hebrew": "תהליך עיצוב וסידור פריטים על דף או מסך.",
+                "example": "I spent hours working on the layout for my website to ensure it was visually appealing.",
+                "example_hebrew": "ביליתי שעות בעבודה על הפריסה של האתר שלי כדי להבטיח שהוא מושך חזותית."
+            },
+            {
+                "definition": "A plan showing the arrangement of buildings, rooms, spaces etc., in relation to each other and to the surrounding area.",
+                "definition_hebrew": "תכנית המציגה את סידור הבניינים, החדרים, החללים וכדומה, ביחס זה לזה ולסביבה.",
+                "example": "The blueprint included a detailed layout of the office building, specifying where walls and doors would be located.",
+                "example_hebrew": "התוכנית כללה פריסה מפורטת של בניין המשרדים, תוך ציון היכן ימוקמו קירות ודלתות."
+            },
+            {
+                "definition": "The way in which something is structured or arranged according to a particular plan or system.",
+                "definition_hebrew": "האופן שבו משהו בנוי או מסודר לפי תוכנית או מערכת מסוימת.",
+                "example": "The company's database had a very efficient layout that allowed for easy data retrieval.",
+                "example_hebrew": "למסד הנתונים של החברה היה פריסה יעילה מאוד שאפשרה אחזור נתונים קל."
+            },
+            {
+                "definition": "An arrangement of physical objects, such as furniture, in a room or space.",
+                "definition_hebrew": "סידור של חפצים פיזיים, כגון רהיטים, בחדר או בחלל.",
+                "example": "When we moved into our new house, the first thing we did was rearrange the furniture to create an appealing layout for each room.",
+                "example_hebrew": "כשעברנו לבית החדש שלנו, הדבר הראשון שעשינו היה לארגן מחדש את הרהיטים כדי ליצור פריסה מושכת לכל חדר."
+            },
+            {
+                "definition": "The way that different parts of a system are organized and work together.",
+                "definition_hebrew": "האופן שבו חלקים שונים של מערכת מאורגנים ופועלים יחד.",
+                "example": "In software development, the layout refers to how various components interact with one another within the application.",
+                "example_hebrew": "בפיתוח תוכנה, הפריסה מתייחסת לאופן שבו רכיבים שונים מתקשרים זה עם זה בתוך האפליקציה."
+            }
+        ]
+    }
+]

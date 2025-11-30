@@ -1,0 +1,40 @@
+[
+    {
+        "word": "airline",
+        "word_hebrew": "חֶברַת תְעוּפָה",
+        "main_definition": "An airline is a company that provides scheduled commercial air transport services for passengers and freight.",
+        "main_definition_hebrew": "חברת תעופה היא חברה המספקת שירותי הובלה אווירית מסחרית סדירה עבור נוסעים ומטענים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A business entity offering air travel services to the general public",
+                "definition_hebrew": "גוף עסקי המציע שירותי נסיעות אוויריות לקהל הרחב",
+                "example": "Delta Air Lines is one of the largest airlines in the world, operating flights across various domestic and international destinations.",
+                "example_hebrew": "Delta Air Lines היא אחת מחברות התעופה הגדולות בעולם, המפעילה טיסות על פני יעדים מקומיים ובינלאומיים שונים."
+            },
+            {
+                "definition": "An airline's fleet or group of aircraft operated by a particular company for transporting passengers and cargo",
+                "definition_hebrew": "צי או קבוצת מטוסים של חברת תעופה המופעלים על ידי חברה מסוימת להובלת נוסעים ומטענים",
+                "example": "American Airlines operates a large fleet of Airbus A320 and Boeing 737 aircraft, among others.",
+                "example_hebrew": "אמריקן איירליינס מפעילה צי גדול של מטוסי איירבוס A320 ובואינג 737, בין היתר."
+            },
+            {
+                "definition": "A specific route or network that an airline provides services to, including the destinations it flies between",
+                "definition_hebrew": "נתיב או רשת ספציפיים שחברת תעופה מספקת להם שירותים, כולל היעדים שביניהם היא טסה",
+                "example": "United Airlines offers a wide range of routes connecting cities across the United States and various international destinations.",
+                "example_hebrew": "יונייטד איירליינס מציעה מגוון רחב של קווים המקשרים בין ערים ברחבי ארצות הברית ויעדים בינלאומיים שונים."
+            },
+            {
+                "definition": "The system used by airlines for booking and managing reservations made by passengers, including seat assignments and ticket information",
+                "definition_hebrew": "המערכת המשמשת את חברות התעופה להזמנת וניהול הזמנות שבוצעו על ידי נוסעים, כולל הקצאת מושבים ומידע על כרטיסים",
+                "example": "Southwest Airlines' Rapid Rewards program allows frequent flyers to earn points that can be redeemed for discounts on flights or other travel services.",
+                "example_hebrew": "תוכנית Rapid Rewards של Southwest Airlines מאפשרת לנוסעים מתמידים לצבור נקודות שניתן לממש להנחות בטיסות או בשירותי נסיעות אחרים."
+            },
+            {
+                "definition": "A set of policies, regulations and standards governing the operations of an airline",
+                "definition_hebrew": "סט של מדיניות, תקנות ותקנים המסדירים את פעילותה של חברת תעופה",
+                "example": "Emirates Airline complies with Dubai's strict safety and security protocols to ensure passenger comfort and well-beranking.",
+                "example_hebrew": "Emirates Airline עומדת בפרוטוקולי הבטיחות והאבטחה המחמירים של דובאי כדי להבטיח נוחות ונוסע טוב."
+            }
+        ]
+    }
+]

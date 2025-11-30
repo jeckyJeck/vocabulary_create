@@ -1,0 +1,40 @@
+[
+    {
+        "word": "fill",
+        "word_hebrew": "למלא",
+        "main_definition": "To make something full or complete by adding more of a substance, object, or content to it.",
+        "main_definition_hebrew": "לעשות משהו מלא או שלם על ידי הוספת עוד חומר, חפץ או תוכן אליו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To put a container up with its contents",
+                "definition_hebrew": "לשים מיכל עם תכולתו",
+                "example": "Please fill the glass with water.",
+                "example_hebrew": "נא למלא את הכוס במים."
+            },
+            {
+                "definition": "To complete an empty space by adding something to it",
+                "definition_hebrew": "להשלים חלל ריק על ידי הוספת משהו אליו",
+                "example": "I need to fill in the missing piece on my puzzle.",
+                "example_hebrew": "אני צריך למלא את החלק החסר בפאזל שלי."
+            },
+            {
+                "definition": "To make a room or building soundproof",
+                "definition_hebrew": "כדי להפוך חדר או בניין לאטומים לרעש",
+                "example": "They hired someone to fill the walls with insulation for noise reduction.",
+                "example_hebrew": "הם שכרו מישהו שימלא את הקירות בבידוד להפחתת רעש."
+            },
+            {
+                "definition": "To occupy an empty position, especially in a job or role",
+                "definition_hebrew": "לתפוס תפקיד ריק, במיוחד בעבודה או בתפקיד",
+                "example": "She filled her father's shoes as CEO after he retired.",
+                "example_hebrew": "היא מילאה את נעליו של אביה כמנכ\"ל לאחר שפרש."
+            },
+            {
+                "definition": "In computing, to make data storage space available again by deleting unnecessary files",
+                "definition_hebrew": "במחשוב, להפוך שטח אחסון נתונים זמין שוב על ידי מחיקת קבצים מיותרים",
+                "example": "I need to fill up my hard drive by cleaning out the old junk files.",
+                "example_hebrew": "אני צריך למלא את הכונן הקשיח שלי על ידי ניקוי קבצי הזבל הישנים."
+            }
+        ]
+    }
+]

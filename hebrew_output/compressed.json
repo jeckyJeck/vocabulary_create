@@ -1,0 +1,34 @@
+[
+    {
+        "word": "compressed",
+        "word_hebrew": "דָחוּס",
+        "main_definition": "To make something smaller or more compact by applying pressure or reducing its size.",
+        "main_definition_hebrew": "לעשות משהו קטן יותר או קומפקטי יותר על ידי הפעלת לחץ או הקטנת גודלו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Reduction in size or volume, often for easier storage or transportation.",
+                "definition_hebrew": "הקטנה בגודל או בנפח, לעתים קרובות לאחסון או הובלה קלים יותר.",
+                "example": "The compressed air tank holds less gas than the uncompressed one.",
+                "example_hebrew": "מיכל האוויר הדחוס מכיל פחות גז מזה הלא דחוס."
+            },
+            {
+                "definition": "Using fewer words to express an idea clearly and concisely.",
+                "definition_hebrew": "שימוש בפחות מילים כדי לבטא רעיון בצורה ברורה ותמציתית.",
+                "example": "I used compression in my speech to get my point across quickly without unnecessary details.",
+                "example_hebrew": "השתמשתי בדחיסה בדיבור שלי כדי להעביר את דבריי במהירות ללא פרטים מיותרים."
+            },
+            {
+                "definition": "The process of creating a file by reducing its size through data removal, typically for storage or transmission efficiency.",
+                "definition_hebrew": "תהליך יצירת קובץ על ידי הקטנת גודלו באמצעות הסרת נתונים, בדרך כלל לצורך יעילות אחסון או שידור.",
+                "example": "I compressed the image before uploading it to ensure faster internet transfer.",
+                "example_hebrew": "דחסתי את התמונה לפני העלאתה כדי להבטיח העברה מהירה יותר לאינטרנט."
+            },
+            {
+                "definition": "A device that reduces air or gas volume for storage and release at a controlled pressure.",
+                "definition_hebrew": "מכשיר המפחית את נפח האוויר או הגז לאחסון ושחרור בלחץ מבוקר.",
+                "example": "The bicycle pump uses compression of air to inflate tires easily.",
+                "example_hebrew": "משאבת האופניים משתמשת בדחיסה של אוויר כדי לנפח צמיגים בקלות."
+            }
+        ]
+    }
+]

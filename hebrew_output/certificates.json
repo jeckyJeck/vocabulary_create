@@ -1,0 +1,40 @@
+[
+    {
+        "word": "certificates",
+        "word_hebrew": "תעודות",
+        "main_definition": "Certificates are official documents that confirm or attest to some information, qualification, achievement, or right.",
+        "main_definition_hebrew": "תעודות הן מסמכים רשמיים המאשרים או מעידים על מידע, הסמכה, הישג או זכות כלשהי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Documents granting a person's rights or entitlements",
+                "definition_hebrew": "מסמכים המעניקים זכויות או זכויות של אדם",
+                "example": "John received his birth certificate certifying his citizenship.",
+                "example_hebrew": "ג'ון קיבל את תעודת הלידה שלו המאשרת את אזרחותו."
+            },
+            {
+                "definition": "Proof of completion, qualification, or achievement in an educational setting",
+                "definition_hebrew": "הוכחת השלמה, הסמכה או הישג במסגרת חינוכית",
+                "example": "After completing her degree, Sarah proudly held her diploma certificate.",
+                "example_hebrew": "לאחר שסיימה את התואר, שרה החזיקה בגאווה בתעודת התעודה שלה."
+            },
+            {
+                "definition": "Official documents confirming a person's identity",
+                "definition_hebrew": "מסמכים רשמיים המאשרים את זהותו של אדם",
+                "example": "The immigration officer asked for Maria's passport and ID card certificates to verify her identity.",
+                "example_hebrew": "פקיד ההגירה ביקש את הדרכון ואת תעודות הזהות של מריה כדי לאמת את זהותה."
+            },
+            {
+                "definition": "Documents that certify the authenticity of goods or products",
+                "definition_hebrew": "מסמכים המאשרים את האותנטיות של סחורה או מוצרים",
+                "example": "Before selling a used car, Tim provided an emissions certificate as proof of its environmental compliance.",
+                "example_hebrew": "לפני מכירת מכונית משומשת, טים סיפק תעודת פליטה כהוכחה לתאימות הסביבתית שלה."
+            },
+            {
+                "definition": "Certificates indicating ownership rights to intellectual property such as patents, copyrights, and trademarks",
+                "definition_hebrew": "אישורים המציינים זכויות בעלות על קניין רוחני כגון פטנטים, זכויות יוצרים וסימנים מסחריים",
+                "example": "The inventor received a patent certificate for his innovative product.",
+                "example_hebrew": "הממציא קיבל תעודת פטנט על המוצר החדשני שלו."
+            }
+        ]
+    }
+]

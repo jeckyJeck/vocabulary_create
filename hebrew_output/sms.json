@@ -1,0 +1,28 @@
+[
+    {
+        "word": "sms",
+        "word_hebrew": "סמס",
+        "main_definition": "Short Message Service (SMS) is a communication service used to send short text messages between mobile devices.",
+        "main_definition_hebrew": "שירות הודעות קצר (SMS) הוא שירות תקשורת המשמש לשליחת הודעות טקסט קצרות בין מכשירים ניידים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A system for sending and receiving text messages using cellular networks",
+                "definition_hebrew": "מערכת לשליחה וקבלה של הודעות טקסט באמצעות רשתות סלולריות",
+                "example": "I sent an SMS to my friend to inform them about the meeting time.",
+                "example_hebrew": "שלחתי הודעת SMS לחבר שלי כדי להודיע להם על שעת הפגישה."
+            },
+            {
+                "definition": "The act of composing, transmitting, or reading a short message via cellular phone network",
+                "definition_hebrew": "פעולת חיבור, שידור או קריאה של הודעה קצרה דרך רשת הטלפון הסלולרי",
+                "example": "Sending multiple SMSs can be more convenient than calling someone directly.",
+                "example_hebrew": "שליחת הודעות SMS מרובות יכולה להיות נוחה יותר מאשר להתקשר ישירות למישהו."
+            },
+            {
+                "definition": "A common abbreviation for 'short messaging service'",
+                "definition_hebrew": "קיצור נפוץ ל'שירות הודעות קצרות'",
+                "example": "'I just got an SMS from mom.'",
+                "example_hebrew": "'הרגע קיבלתי SMS מאמא'."
+            }
+        ]
+    }
+]

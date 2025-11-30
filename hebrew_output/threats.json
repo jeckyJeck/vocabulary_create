@@ -1,0 +1,28 @@
+[
+    {
+        "word": "threats",
+        "word_hebrew": "איומים",
+        "main_definition": "Threats are expressions of intent to inflict harm, damage or loss upon someone or something. They can be verbal, written, or implied.",
+        "main_definition_hebrew": "איומים הם ביטויים של כוונה לגרום נזק, נזק או אובדן למישהו או משהו. הם יכולים להיות בעל פה, כתוב או מרומז.",
+        "meanings_and_examples": [
+            {
+                "definition": "Verbal threats",
+                "definition_hebrew": "איומים מילוליים",
+                "example": "John shouted at his neighbor and threatened him that he would harm his property.",
+                "example_hebrew": "ג'ון צעק על שכנו ואיים עליו שיפגע ברכושו."
+            },
+            {
+                "definition": "Written threats",
+                "definition_hebrew": "איומים בכתב",
+                "example": "A letter was found in the mailbox, containing a threatening message demanding money.",
+                "example_hebrew": "בתיבת הדואר נמצא מכתב ובו הודעה מאיימת בדרישה לכסף."
+            },
+            {
+                "definition": "Implied threats",
+                "definition_hebrew": "איומים מרומזים",
+                "example": "When Mike raised his voice and showed signs of anger towards his colleague during an argument, it implied that he might retaliate if provoked further.",
+                "example_hebrew": "כאשר מייק הרים את קולו והראה סימנים של כעס כלפי עמיתו במהלך ויכוח, זה רמז שהוא עלול להגיב אם יתגרה עוד יותר."
+            }
+        ]
+    }
+]

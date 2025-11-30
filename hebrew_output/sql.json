@@ -1,0 +1,28 @@
+[
+    {
+        "word": "sql",
+        "word_hebrew": "sql",
+        "main_definition": "Structured Query Language refers to a specialized programming language used for managing and manipulating relational databases.",
+        "main_definition_hebrew": "שפת שאילתות מובנית מתייחסת לשפת תכנות ייעודית המשמשת לניהול ומניפולציה של מסדי נתונים יחסיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A type of computer programming language",
+                "definition_hebrew": "סוג של שפת תכנות מחשב",
+                "example": "An SQL query is written in the SQL language to retrieve specific data from a database.",
+                "example_hebrew": "שאילתת SQL נכתבת בשפת SQL כדי לאחזר נתונים ספציפיים ממסד נתונים."
+            },
+            {
+                "definition": "Structured Query Language",
+                "definition_hebrew": "שפת שאילתות מובנית",
+                "example": "SQL stands for Structured Query Language, which is used by programmers and database administrators to store, manipulate and extract information from databases.",
+                "example_hebrew": "SQL ראשי תיבות של Structured Query Language, המשמשת מתכנתים ומנהלי מסדי נתונים כדי לאחסן, לתפעל ולחלץ מידע מבסיסי נתונים."
+            },
+            {
+                "definition": "A type of programming language that can perform operations on data stored in a relational database management system",
+                "definition_hebrew": "סוג של שפת תכנות שיכולה לבצע פעולות על נתונים המאוחסנים במערכת ניהול מסד נתונים יחסי",
+                "example": "Using SQL, we can join two tables based on a common column. For example: SELECT * FROM table1 INNER JOIN table2 ON table1.common_column = table2.common_column;",
+                "example_hebrew": "באמצעות SQL, נוכל לחבר שתי טבלאות המבוססות על עמודה משותפת. לדוגמה: SELECT * FROM table1 INNER JOIN table2 ON table1.common_column = table2.common_column;"
+            }
+        ]
+    }
+]

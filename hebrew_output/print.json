@@ -1,0 +1,40 @@
+[
+    {
+        "word": "print",
+        "word_hebrew": "הדפס",
+        "main_definition": "To produce a text or image, typically in the form of a physical document by reproducing it using a printing process.",
+        "main_definition_hebrew": "להפקת טקסט או תמונה, בדרך כלל בצורה של מסמך פיזי על ידי שכפולם באמצעות תהליך הדפסה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The action or process of producing something on paper or another surface",
+                "definition_hebrew": "הפעולה או התהליך של ייצור משהו על נייר או משטח אחר",
+                "example": "I need to print out my report for the meeting tomorrow.",
+                "example_hebrew": "אני צריך להדפיס את הדו\"ח שלי לפגישה מחר."
+            },
+            {
+                "definition": "To establish a record by making a copy in writing, typically using ink and paper",
+                "definition_hebrew": "ליצור תיעוד על ידי יצירת עותק בכתב, בדרך כלל באמצעות דיו ונייר",
+                "example": "The court proceedings were printed and distributed among the public.",
+                "example_hebrew": "ההליכים בבית המשפט הודפסו והופצו בקרב הציבור."
+            },
+            {
+                "definition": "A document that results from printing text or images on paper or other material",
+                "definition_hebrew": "מסמך הנובע מהדפסת טקסט או תמונות על נייר או חומר אחר",
+                "example": "She picked up a copy of her passport, which had been recently printed.",
+                "example_hebrew": "היא הרימה עותק של הדרכון שלה, שהודפס לאחרונה."
+            },
+            {
+                "definition": "To reproduce an image in color using a printer",
+                "definition_hebrew": "לשכפל תמונה בצבע באמצעות מדפסת",
+                "example": "He asked the shop to print his photographs at the local print store.",
+                "example_hebrew": "הוא ביקש מהחנות להדפיס את צילומיו בחנות הדפוס המקומית."
+            },
+            {
+                "definition": "The process or system of producing text and images by transferring them from a source onto paper",
+                "definition_hebrew": "התהליך או המערכת של הפקת טקסט ותמונות על ידי העברתם ממקור לנייר",
+                "example": "They invested in new printing technology for their publishing house.",
+                "example_hebrew": "הם השקיעו בטכנולוגיית דפוס חדשה עבור בית ההוצאה שלהם."
+            }
+        ]
+    }
+]

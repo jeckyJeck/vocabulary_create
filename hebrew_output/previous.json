@@ -1,0 +1,40 @@
+[
+    {
+        "word": "previous",
+        "word_hebrew": "קודם",
+        "main_definition": "Something that happened or existed before the present time, particularly in reference to a person's previous position, experience, or occurrence.",
+        "main_definition_hebrew": "משהו שקרה או היה קיים לפני הזמן הנוכחי, במיוחד בהתייחס לעמדה, הניסיון או ההתרחשות הקודמים של אדם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Occurring or existing before the present time.",
+                "definition_hebrew": "מתרחש או קיים לפני הזמן הנוכחי.",
+                "example": "She has previous experience working as a software engineer.",
+                "example_hebrew": "בעלת ניסיון קודם בעבודה כמהנדסת תוכנה."
+            },
+            {
+                "definition": "Pertaining to something that was done, owned, or existed in the past.",
+                "definition_hebrew": "בקשר למשהו שנעשה, היה בבעלותו או שהיה קיים בעבר.",
+                "example": "He sent me his previous book collection for review.",
+                "example_hebrew": "הוא שלח לי את אוסף הספרים הקודם שלו לסקירה."
+            },
+            {
+                "definition": "The time before the present; previously.",
+                "definition_hebrew": "הזמן שלפני ההווה; קוֹדֶם.",
+                "example": "I visited my grandparents' house during their previous summer vacation.",
+                "example_hebrew": "ביקרתי בבית סבי וסבתי בחופשת הקיץ הקודמת שלהם."
+            },
+            {
+                "definition": "A former position or role held by someone.",
+                "definition_hebrew": "תפקיד או תפקיד לשעבר שמילא מישהו.",
+                "example": "She applied for a different job in her previous employment as a marketing manager.",
+                "example_hebrew": "היא הגישה מועמדות לעבודה אחרת בהעסקתה הקודמת כמנהלת שיווק."
+            },
+            {
+                "definition": "An event, occurrence, or object that existed prior to the current situation.",
+                "definition_hebrew": "אירוע, התרחשות או חפץ שהיו קיימים לפני המצב הנוכחי.",
+                "example": "The company faced challenges during its previous financial year.",
+                "example_hebrew": "החברה התמודדה עם אתגרים במהלך שנת הכספים הקודמת שלה."
+            }
+        ]
+    }
+]

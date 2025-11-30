@@ -1,0 +1,28 @@
+[
+    {
+        "word": "external",
+        "word_hebrew": "חיצוני",
+        "main_definition": "Pertaining to or situated outside of something, not internal or internal parts.",
+        "main_definition_hebrew": "קשור או ממוקם מחוץ למשהו, לא לחלקים פנימיים או פנימיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to the outside or outer part of a thing.",
+                "definition_hebrew": "מתייחס לחלק החיצוני או החיצוני של דבר.",
+                "example": "The company's external branding is important for customer recognition.",
+                "example_hebrew": "המיתוג החיצוני של החברה חשוב להכרת הלקוח."
+            },
+            {
+                "definition": "Concerning or involving people or things that are not directly involved in a particular situation, relationship, or group.",
+                "definition_hebrew": "הנוגעים או מעורבים אנשים או דברים שאינם מעורבים ישירות במצב מסוים, מערכת יחסים או קבוצה מסוימת.",
+                "example": "External factors such as market trends can affect the success of a business project.",
+                "example_hebrew": "גורמים חיצוניים כגון מגמות בשוק יכולים להשפיע על הצלחת פרויקט עסקי."
+            },
+            {
+                "definition": "Of an organization or institution: relating to its external affairs and activities carried out with other organizations or entities outside itself.",
+                "definition_hebrew": "של ארגון או מוסד: הנוגעים לענייניו החיצוניים ולפעילויות הנעשות מול ארגונים או גופים אחרים מחוץ לו.",
+                "example": "The nonprofit focused on improving education in underprivileged communities is active in external partnerships.",
+                "example_hebrew": "העמותה המתמקדת בשיפור החינוך בקהילות מוחלשות פעילה בשותפויות חיצוניות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "organisms",
+        "word_hebrew": "אורגניזמים",
+        "main_definition": "Organisms are living entities, including microorganisms and macroorganisms (plants and animals), that exhibit the characteristics of life such as growth, reproduction, response to stimuli, metabolism, and adaptation.",
+        "main_definition_hebrew": "אורגניזמים הם ישויות חיות, כולל מיקרואורגניזמים ומקרו-אורגניזמים (צמחים ובעלי חיים), המציגים את מאפייני החיים כגון צמיחה, רבייה, תגובה לגירויים, חילוף חומרים והסתגלות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In biology, organisms refer to any living thing in general",
+                "definition_hebrew": "בביולוגיה, אורגניזמים מתייחסים לכל יצור חי באופן כללי",
+                "example": "The rainforest is home to a vast number of diverse organisms.",
+                "example_hebrew": "יער הגשם הוא ביתם של מספר עצום של אורגניזמים מגוונים."
+            },
+            {
+                "definition": "A colloquial term often used when referring to individuals or species within an ecosystem",
+                "definition_hebrew": "מונח דיבור המשמש לעתים קרובות כאשר מתייחסים לפרטים או מינים בתוך מערכת אקולוגית",
+                "example": "Researchers are studying the interaction between different organisms in this habitat.",
+                "example_hebrew": "חוקרים חוקרים את האינטראקציה בין אורגניזמים שונים בבית גידול זה."
+            },
+            {
+                "definition": "In computing, it refers to software entities that can perform actions and interact with each other",
+                "definition_hebrew": "במחשוב, הכוונה היא לישויות תוכנה שיכולות לבצע פעולות ולקיים אינטראקציה זו עם זו",
+                "example": "The system processes information through various interconnected organisms (software modules).",
+                "example_hebrew": "המערכת מעבדת מידע באמצעות אורגניזמים שונים הקשורים זה בזה (מודולי תוכנה)."
+            }
+        ]
+    }
+]

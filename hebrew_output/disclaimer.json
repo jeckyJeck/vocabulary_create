@@ -1,0 +1,28 @@
+[
+    {
+        "word": "disclaimer",
+        "word_hebrew": "כתב ויתור",
+        "main_definition": "A statement that denies responsibility, or denies any wrongdoing.",
+        "main_definition_hebrew": "הצהרה השוללת אחריות, או מכחישה כל עוול.",
+        "meanings_and_examples": [
+            {
+                "definition": "An acknowledgment of potential bias or conflict of interest in providing information or advice.",
+                "definition_hebrew": "הכרה בהטיה פוטנציאלית או ניגוד עניינים במתן מידע או ייעוץ.",
+                "example": "The article included a disclaimer stating it was not intended to provide medical advice.",
+                "example_hebrew": "המאמר כלל כתב ויתור על כך שלא נועד לספק ייעוץ רפואי."
+            },
+            {
+                "definition": "A notice that removes legal liability from the party issuing the statement, especially when publishing material with copyrighted content.",
+                "definition_hebrew": "הודעה המסירה אחריות משפטית מהצד שמוציא את ההצהרה, במיוחד בעת פרסום חומר עם תוכן המוגן בזכויות יוצרים.",
+                "example": "At the bottom of this webpage, there is a disclaimer stating that all opinions expressed are solely those of the author.",
+                "example_hebrew": "בתחתית דף אינטרנט זה, יש כתב ויתור הקובע כי כל הדעות המובעות הן אך ורק של המחבר."
+            },
+            {
+                "definition": "A cautionary notice regarding the limitations or risks associated with using a product or service.",
+                "definition_hebrew": "הערת אזהרה לגבי המגבלות או הסיכונים הקשורים לשימוש במוצר או בשירות.",
+                "example": "The instruction manual contained a disclaimer about potential injuries from misuse of the tool.",
+                "example_hebrew": "מדריך ההוראות הכיל כתב ויתור לגבי פציעות אפשריות כתוצאה משימוש לא נכון בכלי."
+            }
+        ]
+    }
+]

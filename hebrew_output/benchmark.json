@@ -1,0 +1,34 @@
+[
+    {
+        "word": "benchmark",
+        "word_hebrew": "אמת מידה",
+        "main_definition": "A standard or point of reference against which things may be compared or assessed.",
+        "main_definition_hebrew": "תקן או נקודת התייחסות שלפיהם ניתן להשוות או להעריך דברים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Measuring a performance, ability, quality or value against a pre-established standard or benchmark. Example: 'The company's financial results were below the industry benchmark for that quarter.'",
+                "definition_hebrew": "מדידת ביצועים, יכולת, איכות או ערך מול תקן או אמת מידה שנקבעו מראש. דוגמה: 'התוצאות הכספיות של החברה היו מתחת לרף התעשייה ברבעון זה'.",
+                "example": "Her grades in school are well above the academic benchmark set by her peers.",
+                "example_hebrew": "הציונים שלה בבית הספר גבוהים בהרבה מהרף האקדמי שנקבע על ידי חבריה."
+            },
+            {
+                "definition": "A test, task, or project used as a standard of judgment for gauging future performance. Example: 'The first mission was considered a success; it served as a benchmark for subsequent projects.'",
+                "definition_hebrew": "מבחן, משימה או פרויקט המשמשים כסטנדרט שיפוט לאמוד ביצועים עתידיים. דוגמה: 'המשימה הראשונה נחשבה להצלחה; זה שימש אמות מידה לפרויקטים הבאים״.",
+                "example": "They looked at the sales from last year's product launch as the benchmark to set goals for this year.",
+                "example_hebrew": "הם הסתכלו על המכירות מהשקת המוצר בשנה שעברה כאמת מידה לקביעת יעדים לשנה זו."
+            },
+            {
+                "definition": "A point of reference or goal used for comparison in measuring progress. Example: 'The new software update aims to meet user expectations, setting itself up as a benchmark against previous versions.'",
+                "definition_hebrew": "נקודת ייחוס או מטרה המשמשת להשוואה במדידת התקדמות. דוגמה: 'עדכון התוכנה החדש נועד לענות על ציפיות המשתמש, להגדיר את עצמו כנקודת מידה מול גרסאות קודמות.'",
+                "example": "In personal development, establishing monthly productivity goals can serve as benchmarks for improvement.",
+                "example_hebrew": "בפיתוח אישי, קביעת יעדי פרודוקטיביות חודשיים יכולה לשמש אמות מידה לשיפור."
+            },
+            {
+                "definition": "A comparison made between two or more entities based on their similarities and differences. Example: 'The company's market performance was compared to its competitors using the latest industry benchmark.'",
+                "definition_hebrew": "השוואה בין שתי ישויות או יותר על סמך הדמיון והשוני ביניהן. דוגמה: 'ביצועי השוק של החברה הושוו למתחרותיה תוך שימוש במדד התעשייה העדכני ביותר'.",
+                "example": "Consumers often compare different brands of electronics by looking at features, price, and overall quality as a benchmark.",
+                "example_hebrew": "צרכנים משווים לעתים קרובות מותגים שונים של מוצרי אלקטרוניקה על ידי הסתכלות על תכונות, מחיר ואיכות כללית כאמת מידה."
+            }
+        ]
+    }
+]

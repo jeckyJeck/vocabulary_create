@@ -1,0 +1,28 @@
+[
+    {
+        "word": "dvd",
+        "word_hebrew": "DVD",
+        "main_definition": "Digital Video Disc (DVD) is a type of optical disc storage medium used to store digital data, including movies, music, software, and other multimedia content.",
+        "main_definition_hebrew": "דיסק וידאו דיגיטלי (DVD) הוא סוג של מדיום אחסון דיסק אופטי המשמש לאחסון נתונים דיגיטליים, לרבות סרטים, מוזיקה, תוכנות ותוכן מולטימדיה אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "A compact disc designed for storing digital video files",
+                "definition_hebrew": "קומפקט דיסק המיועד לאחסון קבצי וידאו דיגיטליים",
+                "example": "The latest action movie is available on DVD format.",
+                "example_hebrew": "סרט הפעולה האחרון זמין בפורמט DVD."
+            },
+            {
+                "definition": "An optical storage medium used to store and playback audio-visual content",
+                "definition_hebrew": "אמצעי אחסון אופטי המשמש לאחסון והשמעה של תוכן אודיו-ויזואלי",
+                "example": "I borrowed my friend's DVD player to watch a classic film in its original format.",
+                "example_hebrew": "השאלתי את נגן ה-DVD של חברי כדי לצפות בסרט קלאסי בפורמט המקורי שלו."
+            },
+            {
+                "definition": "A data transfer method that uses laser technology to read and write information on an optical disc",
+                "definition_hebrew": "שיטת העברת נתונים המשתמשת בטכנולוגיית לייזר כדי לקרוא ולכתוב מידע על דיסק אופטי",
+                "example": "To update the software, I burned a new DVD with the latest version of the program.",
+                "example_hebrew": "כדי לעדכן את התוכנה, צרפתי DVD חדש עם הגרסה העדכנית ביותר של התוכנה."
+            }
+        ]
+    }
+]

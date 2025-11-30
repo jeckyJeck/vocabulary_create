@@ -1,0 +1,28 @@
+[
+    {
+        "word": "automatically",
+        "word_hebrew": "אוטומטית",
+        "main_definition": "To occur or operate by itself without manual intervention.",
+        "main_definition_hebrew": "להתרחש או לפעול מעצמו ללא התערבות ידנית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Without the need to manually initiate an action, usually as a result of a system or process that has been set up to perform it on its own",
+                "definition_hebrew": "ללא צורך ליזום פעולה ידנית, בדרך כלל כתוצאה ממערכת או תהליך שהוגדר לבצע אותה בעצמה",
+                "example": "The automatic doors opened when she approached them.",
+                "example_hebrew": "הדלתות האוטומטיות נפתחו כשהיא התקרבה אליהן."
+            },
+            {
+                "definition": "To have something happen by itself without any effort from the person involved",
+                "definition_hebrew": "שמשהו יקרה מעצמו ללא כל מאמץ מהאדם המעורב",
+                "example": "I forgot my umbrella, but luckily it started raining automatically and I didn't get wet.",
+                "example_hebrew": "שכחתי את המטריה שלי, אבל למזלי התחיל לרדת גשם אוטומטית ולא נרטבתי."
+            },
+            {
+                "definition": "Done as a result of some underlying cause or mechanism that operates independently of conscious decision-making",
+                "definition_hebrew": "נעשה כתוצאה מסיבה או מנגנון בסיסי כלשהו הפועלים ללא תלות בקבלת החלטות מודעת",
+                "example": "The traffic lights change color automatically to regulate the flow of vehicles.",
+                "example_hebrew": "הרמזורים משנים את צבעם אוטומטית כדי לווסת את זרימת כלי הרכב."
+            }
+        ]
+    }
+]

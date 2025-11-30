@@ -1,0 +1,34 @@
+[
+    {
+        "word": "author",
+        "word_hebrew": "מְחַבֵּר",
+        "main_definition": "An author is a person who creates written work, such as books, articles, or stories.",
+        "main_definition_hebrew": "מחבר הוא אדם שיוצר עבודה כתובה, כגון ספרים, מאמרים או סיפורים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Creator of a book or literary piece",
+                "definition_hebrew": "יוצר ספר או יצירה ספרותית",
+                "example": "J.K. Rowling is the author of the Harry Potter series.",
+                "example_hebrew": "J.K. רולינג היא המחברת של סדרת הארי פוטר."
+            },
+            {
+                "definition": "The individual who has written and published an article or essay",
+                "definition_hebrew": "האדם שכתב ופרסם מאמר או חיבור",
+                "example": "Malcolm Gladwell, the author, wrote the New Yorker article 'Small Change: Why Business Leaders Focus on Market Size Instead of Consumer Intent.'",
+                "example_hebrew": "מלקולם גלדוול, המחבר, כתב את המאמר בניו יורקר 'שינוי קטן: מדוע מנהיגים עסקיים מתמקדים בגודל השוק במקום בכוונת הצרכנים'."
+            },
+            {
+                "definition": "The person responsible for composing and publishing a play or screenplay",
+                "definition_hebrew": "האחראי על הלחנת ופרסום מחזה או תסריט",
+                "example": "'A Streetcar Named Desire' was written by Tennessee Williams, who is also considered its author.",
+                "example_hebrew": "'חשמלית ושמה תשוקה' נכתב על ידי טנסי וויליאמס, שנחשב גם למחבר שלו."
+            },
+            {
+                "definition": "Someone who has created a work of art that can be attributed to them",
+                "definition_hebrew": "מישהו שיצר יצירת אמנות שאפשר לייחס להם",
+                "example": "Leonardo da Vniversa is the author or creator of numerous paintings and sculptures during the Renaissance period.",
+                "example_hebrew": "לאונרדו דה ווניורסה הוא המחבר או היוצר של ציורים ופסלים רבים בתקופת הרנסנס."
+            }
+        ]
+    }
+]

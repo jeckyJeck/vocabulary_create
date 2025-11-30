@@ -1,0 +1,34 @@
+[
+    {
+        "word": "luggage",
+        "word_hebrew": "מטען",
+        "main_definition": "Luggage refers to the bags, cases, or containers in which a person carries their personal belongings while traveling.",
+        "main_definition_hebrew": "מזוודות מתייחסות לתיקים, מארזים או מכולות שבהם אדם נושא את חפציו האישיים בזמן נסיעה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The items and packages carried by individuals when they are traveling",
+                "definition_hebrew": "הפריטים והחבילות שנושאים על ידי אנשים כאשר הם נוסעים",
+                "example": "She had two large suitcases as her luggage for the trip.",
+                "example_hebrew": "היו לה שתי מזוודות גדולות כמטען לטיול."
+            },
+            {
+                "definition": "A person's belongings or possessions that need to be transported while moving from one place to another",
+                "definition_hebrew": "חפציו או רכושו של אדם שצריך להעביר תוך כדי מעבר ממקום למקום",
+                "example": "The movers carefully packed his furniture and other items into boxes before loading them onto the truck as luggage.",
+                "example_hebrew": "המובילים ארזו בזהירות את רהיטיו ופריטים אחרים בארגזים לפני שהעמיסו אותם על המשאית כמטען."
+            },
+            {
+                "definition": "A metaphor for burdens or responsibilities carried by a person",
+                "definition_hebrew": "מטאפורה לעומסים או אחריות שנושא אדם",
+                "example": "After losing her job, she felt like carrying heavy luggage on her shoulders due to financial stress.",
+                "example_hebrew": "לאחר שאיבדה את עבודתה, התחשק לה לשאת מטען כבד על כתפיה עקב לחץ כלכלי."
+            },
+            {
+                "definition": "In airports and travel hubs, it refers to the areas where passengers check in their luggage or pick up their checked items",
+                "definition_hebrew": "בשדות תעופה ובמרכזי נסיעות, הכוונה היא לאזורים שבהם נוסעים מבצעים את המטען שלהם או אוספים את הפריטים שנבדקו.",
+                "example": "We arrived at baggage claim after our flight landed; we picked up our luggage from the conveyor belt.",
+                "example_hebrew": "הגענו לאיסוף הכבודה לאחר שהטיסה שלנו נחתה; אספנו את המזוודות שלנו מהמסוע."
+            }
+        ]
+    }
+]

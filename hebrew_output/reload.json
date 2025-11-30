@@ -1,0 +1,34 @@
+[
+    {
+        "word": "reload",
+        "word_hebrew": "לִטעוֹן מִחָדָשׁ",
+        "main_definition": "To reload a weapon, device, or container with ammunition or content.",
+        "main_definition_hebrew": "כדי לטעון מחדש נשק, מכשיר או מיכל עם תחמושת או תוכן.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing, to load new data into memory after the previous set has been used up or is no longer needed.",
+                "definition_hebrew": "במחשוב, לטעון נתונים חדשים לזיכרון לאחר שהקבוצה הקודמת נוצלה או שאין צורך עוד.",
+                "example": "After finishing a game session on his computer, Tom decided to reload and start again.",
+                "example_hebrew": "לאחר שסיים סשן משחק במחשב שלו, טום החליט לטעון מחדש ולהתחיל מחדש."
+            },
+            {
+                "definition": "To refill a drink container with more liquid.",
+                "definition_hebrew": "למילוי מיכל משקה בנוזל נוסף.",
+                "example": "When the water in her bottle ran out, Lisa had to recharge it by going to the fridge and reloading it with fresh water.",
+                "example_hebrew": "כשהמים בבקבוק שלה אזלו, ליסה נאלצה להטעין אותו מחדש על ידי גישה למקרר וטעינה מחדש במים טריים."
+            },
+            {
+                "definition": "In video games, to load again after completing a level or finishing a mission.",
+                "definition_hebrew": "במשחקי וידאו, לטעון שוב לאחר השלמת רמה או סיום משימה.",
+                "example": "After defeating the boss in the final stage of his adventure game, Alex had to reload and try one more time to get all stars.",
+                "example_hebrew": "לאחר שהביס את הבוס בשלב האחרון של משחק ההרפתקאות שלו, אלכס נאלץ לטעון מחדש ולנסות פעם נוספת להשיג את כל הכוכבים."
+            },
+            {
+                "definition": "To replace spent ammunition with new rounds in firearms or other devices.",
+                "definition_hebrew": "כדי להחליף את התחמושת המושקעת בכדורים חדשים בנשק חם או במכשירים אחרים.",
+                "example": "Before engaging in another round of paintball games, players must recharge their guns by reloading the markers.",
+                "example_hebrew": "לפני השתתפות בסיבוב נוסף של משחקי פיינטבול, השחקנים חייבים להטעין את הרובים שלהם על ידי טעינת הסמנים מחדש."
+            }
+        ]
+    }
+]

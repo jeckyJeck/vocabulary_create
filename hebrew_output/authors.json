@@ -1,0 +1,34 @@
+[
+    {
+        "word": "authors",
+        "word_hebrew": "מחברים",
+        "main_definition": "Authors are individuals who have written or created a piece of literary work, such as books, articles, or other writings.",
+        "main_definition_hebrew": "מחברים הם אנשים שכתבו או יצרו יצירה ספרותית, כגון ספרים, מאמרים או כתבים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Writers of books and novels",
+                "definition_hebrew": "כותבי ספרים ורומנים",
+                "example": "J.K. Rowling is the author of the Harry Potter series.",
+                "example_hebrew": "J.K. רולינג היא המחברת של סדרת הארי פוטר."
+            },
+            {
+                "definition": "Creators or originators of a particular work, idea, or theory",
+                "definition_hebrew": "יוצרים או יוזמים של יצירה, רעיון או תיאוריה מסוימת",
+                "example": "Stephen Hawking was an author who developed groundbreaking theories about black holes and cosmology.",
+                "example_hebrew": "סטיבן הוקינג היה סופר שפיתח תיאוריות פורצות דרך לגבי חורים שחורים וקוסמולוגיה."
+            },
+            {
+                "definition": "Individuals responsible for producing content in various media formats (e.g., newspapers, blogs)",
+                "definition_hebrew": "אנשים האחראים על הפקת תוכן בפורמטים שונים של מדיה (למשל, עיתונים, בלוגים)",
+                "example": "The authors of The New York Times are the journalists and editors who write articles for the newspaper.",
+                "example_hebrew": "מחברי הניו יורק טיימס הם העיתונאים והעורכים שכותבים מאמרים לעיתון."
+            },
+            {
+                "definition": "People involved in creating or contributing to a collaborative work",
+                "definition_hebrew": "אנשים המעורבים ביצירה או תרומה לעבודה משותפת",
+                "example": "In academic research, co-authors contribute to writing papers together.",
+                "example_hebrew": "במחקר אקדמי, מחברים שותפים תורמים לכתיבת מאמרים יחד."
+            }
+        ]
+    }
+]

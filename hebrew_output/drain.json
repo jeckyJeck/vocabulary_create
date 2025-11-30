@@ -1,0 +1,34 @@
+[
+    {
+        "word": "drain",
+        "word_hebrew": "לנקז",
+        "main_definition": "To remove (liquid) from a container or area, causing it to become depleted of the liquid.",
+        "main_definition_hebrew": "להוציא (נוזל) ממיכל או אזור, מה שגורם לו להתרוקן מהנוזל.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical removal of fluid",
+                "definition_hebrew": "הסרה פיזית של נוזלים",
+                "example": "The plumber fixed the leaky pipe so that the water would no longer drain from the basement.",
+                "example_hebrew": "האינסטלטור תיקן את הצינור הדולף כך שהמים לא יתנקזו יותר מהמרתף."
+            },
+            {
+                "definition": "Financial loss or depletion",
+                "definition_hebrew": "הפסד כספי או דלדול",
+                "example": "After a series of bad investments, his savings began to drain rapidly.",
+                "example_hebrew": "לאחר סדרה של השקעות רעות, החסכונות שלו החלו להתרוקן במהירות."
+            },
+            {
+                "definition": "Deplete energy or resources",
+                "definition_hebrew": "לרוקן אנרגיה או משאבים",
+                "example": "The long hike drained their energy and they needed to rest for the remainder of the journey.",
+                "example_hebrew": "הטיול הארוך ריק להם את האנרגיה והם היו צריכים לנוח לשארית המסע."
+            },
+            {
+                "definition": "Discourage or dishearten someone",
+                "definition_hebrew": "להרתיע או לייאש מישהו",
+                "example": "Hearing about all the challenges ahead, she felt her enthusiasm drain away.",
+                "example_hebrew": "כששמעה על כל האתגרים שעומדים לפניה, היא הרגישה שההתלהבות שלה מתרוקנת."
+            }
+        ]
+    }
+]

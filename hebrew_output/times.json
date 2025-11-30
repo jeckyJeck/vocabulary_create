@@ -1,0 +1,34 @@
+[
+    {
+        "word": "times",
+        "word_hebrew": "פִּי",
+        "main_definition": "The term 'times' refers to the concept of multiplying two numbers or the occurrence of an event repeatedly, as well as being used in various contexts such as measuring duration or comparing quantities.",
+        "main_definition_hebrew": "המונח 'זמנים' מתייחס למושג הכפלת שני מספרים או התרחשות של אירוע שוב ושוב, כמו גם שימוש בהקשרים שונים כגון מדידת משך או השוואת כמויות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Multiplication",
+                "definition_hebrew": "כֶּפֶל",
+                "example": "The price of 5 apples at $2 each is calculated by multiplying the number of apples (times) by their cost.",
+                "example_hebrew": "מחירם של 5 תפוחים ב-$2 כל אחד מחושב על ידי הכפלת מספר התפוחים (פעמים) במחירם."
+            },
+            {
+                "definition": "Occurrence",
+                "definition_hebrew": "הִתרַחֲשׁוּת",
+                "example": "Weather phenomena like rain can happen many times throughout a year.",
+                "example_hebrew": "תופעות מזג אוויר כמו גשם יכולות להתרחש פעמים רבות במהלך השנה."
+            },
+            {
+                "definition": "Duration",
+                "definition_hebrew": "מֶשֶׁך",
+                "example": "The concert lasted for three hours, or 'three times' the length of an average song.",
+                "example_hebrew": "הקונצרט נמשך שלוש שעות, או 'פי שלוש' מאורך שיר ממוצע."
+            },
+            {
+                "definition": "Comparison",
+                "definition_hebrew": "השוואה",
+                "example": "This car is more fuel-efficient than that one; it gets twice as many miles per gallon (times) more mileage.",
+                "example_hebrew": "המכונית הזו חסכונית יותר בדלק מזו; הוא מקבל פי שניים קילומטרים לליטר (פי) יותר קילומטרים."
+            }
+        ]
+    }
+]

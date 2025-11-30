@@ -1,0 +1,40 @@
+[
+    {
+        "word": "plus",
+        "word_hebrew": "ועוד",
+        "main_definition": "In simple terms, 'plus' means to add or combine two things together.",
+        "main_definition_hebrew": "במילים פשוטות, 'פלוס' פירושו להוסיף או לשלב שני דברים יחד.",
+        "meanings_and_examples": [
+            {
+                "definition": "To add numbers or quantities together",
+                "definition_hebrew": "כדי להוסיף מספרים או כמויות יחד",
+                "example": "The sum of 5 and 3 is 8. We can represent this as 5 plus 3 equals 8.",
+                "example_hebrew": "הסכום של 5 ו-3 הוא 8. אנחנו יכולים לייצג זאת כ-5 ועוד 3 שווה ל-8."
+            },
+            {
+                "definition": "A symbol used to indicate addition in mathematics",
+                "definition_hebrew": "סמל המשמש לציון חיבור במתמטיקה",
+                "example": "In the equation 2 + 4 = 6, the '+' signifies that we should add 2 and 4 together.",
+                "example_hebrew": "במשוואה 2 + 4 = 6, ה-'+' מסמל שעלינו לחבר את 2 ו-4 ביחד."
+            },
+            {
+                "definition": "To include someone as an additional person or item in a group or list",
+                "definition_hebrew": "לכלול מישהו כאדם או פריט נוסף בקבוצה או רשימה",
+                "example": "We are going to the concert. Plus, we invited John to join us too.",
+                "example_hebrew": "אנחנו הולכים לקונצרט. בנוסף, הזמנו גם את ג'ון להצטרף אלינו."
+            },
+            {
+                "definition": "Used informally to imply improvement or enhancement",
+                "definition_hebrew": "משמש באופן לא רשמי כדי לרמוז על שיפור או שיפור",
+                "example": "If you work hard and study more, you'll get better grades. Just a little plus could make a difference.",
+                "example_hebrew": "אם תעבוד קשה ותלמד יותר, תקבל ציונים טובים יותר. רק פלוס קטן יכול לעשות את ההבדל."
+            },
+            {
+                "definition": "To indicate the presence of something extra or additional beyond what is expected",
+                "definition_hebrew": "להצביע על נוכחות של משהו נוסף או נוסף מעבר למצופה",
+                "example": "The hotel room was clean and spacious, but we were pleasantly surprised by the free breakfast plus a complimentary city tour pass.",
+                "example_hebrew": "חדר המלון היה נקי ומרווח, אבל הופתענו לטובה מארוחת הבוקר החינמית בתוספת כרטיס חינם לסיור בעיר."
+            }
+        ]
+    }
+]

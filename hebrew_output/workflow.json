@@ -1,0 +1,40 @@
+[
+    {
+        "word": "workflow",
+        "word_hebrew": "זרימת עבודה",
+        "main_definition": "A sequence of processes through which a piece of work passes from initiation to completion, often used in the context of business operations or tasks.",
+        "main_definition_hebrew": "רצף של תהליכים שבאמצעותם יצירה עוברת מתחילה ועד סיום, המשמשים לרוב בהקשר של פעולות או משימות עסקיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The process of completing a series of tasks or activities",
+                "definition_hebrew": "תהליך השלמת סדרה של משימות או פעילויות",
+                "example": "After receiving an order, our sales workflow involves contacting suppliers, assembling products, and shipping them to customers.",
+                "example_hebrew": "לאחר קבלת הזמנה, זרימת העבודה של המכירה שלנו כוללת פנייה לספקים, הרכבת מוצרים ומשלוחם ללקוחות."
+            },
+            {
+                "definition": "A set of steps that must be followed in sequence for efficient task completion",
+                "definition_hebrew": "סט שלבים שיש לבצע ברצף להשלמת משימה יעילה",
+                "example": "The software development workflow includes design, coding, testing, debugging, and deployment stages.",
+                "example_hebrew": "זרימת העבודה של פיתוח התוכנה כוללת שלבי עיצוב, קידוד, בדיקות, איתור באגים ופריסה."
+            },
+            {
+                "definition": "An organized plan or procedure to achieve a specific goal or outcome",
+                "definition_hebrew": "תוכנית או הליך מסודרים להשגת מטרה או תוצאה ספציפית",
+                "example": "To improve customer service, we implemented a new workflow that standardizes how inquiries are handled across all departments.",
+                "example_hebrew": "כדי לשפר את שירות הלקוחות, הטמענו זרימת עבודה חדשה המתקנת את אופן הטיפול בפניות בכל המחלקות."
+            },
+            {
+                "definition": "The automation of repetitive tasks within an organizational process",
+                "definition_hebrew": "אוטומציה של משימות שחוזרות על עצמן בתוך תהליך ארגוני",
+                "example": "By implementing AI-powered chatbots, the company's customer support workflow became more efficient and responsive.",
+                "example_hebrew": "על ידי הטמעת צ'אטבוטים המופעלים על ידי בינה מלאכותית, זרימת העבודה של תמיכת הלקוחות של החברה הפכה יעילה ומגיבה יותר."
+            },
+            {
+                "definition": "A way to measure productivity or efficiency in completing tasks",
+                "definition_hebrew": "דרך למדוד פרודוקטיביות או יעילות בביצוע משימות",
+                "example": "Analyzing our project management workflow can help us identify bottlenecks and areas for improvement.",
+                "example_hebrew": "ניתוח זרימת העבודה של ניהול הפרויקטים שלנו יכול לעזור לנו לזהות צווארי בקבוק ואזורים לשיפור."
+            }
+        ]
+    }
+]

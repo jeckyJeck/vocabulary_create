@@ -1,0 +1,40 @@
+[
+    {
+        "word": "added",
+        "word_hebrew": "הוסיף",
+        "main_definition": "To include or combine something with another thing, usually to enhance it.",
+        "main_definition_hebrew": "לכלול או לשלב משהו עם דבר אחר, בדרך כלל כדי לשפר אותו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To increase the amount of something by including more of it.",
+                "definition_hebrew": "להגדיל את הכמות של משהו על ידי הכללת יותר ממנו.",
+                "example": "The chef added extra salt to the recipe.",
+                "example_hebrew": "השף הוסיף מלח נוסף למתכון."
+            },
+            {
+                "definition": "To introduce a new element or factor into consideration.",
+                "definition_hebrew": "כדי להציג אלמנט או גורם חדש בחשבון.",
+                "example": "The teacher added an additional assignment for homework.",
+                "example_hebrew": "המורה הוסיפה מטלה נוספת לשיעורי בית."
+            },
+            {
+                "definition": "In the context of negotiations, it refers to incorporating demands from both sides into a final agreement.",
+                "definition_hebrew": "בהקשר של משא ומתן, הכוונה היא לשילוב דרישות משני הצדדים בהסכם סופי.",
+                "example": "After hours of discussion, they finally managed to add terms that satisfied both parties.",
+                "example_hebrew": "לאחר שעות של דיונים, הם סוף סוף הצליחו להוסיף מונחים שסיפקו את שני הצדדים."
+            },
+            {
+                "definition": "To mention something as an afterthought or extra comment in conversation.",
+                "definition_hebrew": "להזכיר משהו כמחשבה שלאחר מכן או הערה נוספת בשיחה.",
+                "example": "He added that he had seen the movie but didn't like it much.",
+                "example_hebrew": "הוא הוסיף שהוא ראה את הסרט אבל לא אהב אותו במיוחד."
+            },
+            {
+                "definition": "Used informally to indicate a small amount is being included, often without exact measurement.",
+                "definition_hebrew": "משמש באופן לא רשמי כדי לציין שכמות קטנה נכללת, לעתים קרובות ללא מדידה מדויקת.",
+                "example": "I just need some help with my project; can you add your input?",
+                "example_hebrew": "אני רק צריך קצת עזרה עם הפרויקט שלי; אתה יכול להוסיף את הקלט שלך?"
+            }
+        ]
+    }
+]

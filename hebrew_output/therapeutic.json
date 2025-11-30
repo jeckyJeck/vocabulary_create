@@ -1,0 +1,28 @@
+[
+    {
+        "word": "therapeutic",
+        "word_hebrew": "רְפוּאִי",
+        "main_definition": "Relating to the process of promoting physical or mental health, healing, or relieving pain.",
+        "main_definition_hebrew": "בהתייחס לתהליך של קידום בריאות פיזית או נפשית, ריפוי או שיכוך כאב.",
+        "meanings_and_examples": [
+            {
+                "definition": "Involving treatment aimed at improving a patient's condition and well-being",
+                "definition_hebrew": "כרוך בטיפול שמטרתו שיפור מצבו ורווחתו של המטופל",
+                "example": "The therapeutic exercises prescribed by her physiotherapist helped improve Sarah's mobility.",
+                "example_hebrew": "התרגילים הטיפוליים שרשם הפיזיותרפיסט שלה עזרו לשפר את הניידות של שרה."
+            },
+            {
+                "definition": "Relating to the healing effects of a particular activity or experience",
+                "definition_hebrew": "התייחסות להשפעות המרפאות של פעילות או חוויה מסוימת",
+                "example": "Listening to soothing music can have therapeutic benefits on one's mental health.",
+                "example_hebrew": "להאזנה למוזיקה מרגיעה יכולה להיות יתרונות טיפוליים על הבריאות הנפשית של האדם."
+            },
+            {
+                "definition": "Offering relief from emotional pain through counseling or psychotherapy",
+                "definition_hebrew": "מתן הקלה בכאב רגשי באמצעות ייעוץ או פסיכותרפיה",
+                "example": "Her weekly therapy sessions provided a safe space for her to work through her anxiety and depression.",
+                "example_hebrew": "מפגשי הטיפול השבועיים שלה סיפקו לה מרחב בטוח לעבוד עם החרדה והדיכאון שלה."
+            }
+        ]
+    }
+]

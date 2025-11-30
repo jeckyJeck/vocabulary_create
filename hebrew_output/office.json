@@ -1,0 +1,40 @@
+[
+    {
+        "word": "office",
+        "word_hebrew": "מִשׂרָד",
+        "main_definition": "An office is a place where administrative or professional work is done, typically by employees of an organization.",
+        "main_definition_hebrew": "משרד הוא מקום בו נעשית עבודה אדמיניסטרטיבית או מקצועית, בדרך כלל על ידי עובדי ארגון.",
+        "meanings_and_examples": [
+            {
+                "definition": "A physical space for conducting business activities",
+                "definition_hebrew": "מרחב פיזי לביצוע פעילות עסקית",
+                "example": "John works in the third floor office at his company.",
+                "example_hebrew": "ג'ון עובד במשרד בקומה השלישית בחברה שלו."
+            },
+            {
+                "definition": "The department or unit of an organization responsible for administrative tasks",
+                "definition_hebrew": "המחלקה או היחידה של ארגון האחראית על משימות אדמיניסטרטיביות",
+                "example": "She is part of the marketing office, where she handles promotional campaigns.",
+                "example_hebrew": "היא חלק ממשרד השיווק, בו היא מטפלת בקמפיינים פרסומיים."
+            },
+            {
+                "definition": "A location designated by a company for its employees to perform their job duties",
+                "definition_hebrew": "מקום שמיועד על ידי חברה לעובדיה לביצוע תפקידם",
+                "example": "The new intern will report to the HR office on his first day.",
+                "example_hebrew": "המתמחה החדש יתייצב במשרד משאבי אנוש ביום הראשון שלו."
+            },
+            {
+                "definition": "An authorized space where official documents are signed or processed",
+                "definition_hebrew": "מקום מורשה שבו מסמכים רשמיים נחתמים או מעובדים",
+                "example": "We need to finalize this contract in the signing office before we proceed.",
+                "example_hebrew": "אנחנו צריכים לסיים את החוזה הזה במשרד החתימה לפני שנמשיך."
+            },
+            {
+                "definition": "A collective term for employees who work together and share common tasks",
+                "definition_hebrew": "מונח כולל לעובדים שעובדים יחד וחולקים משימות משותפות",
+                "example": "The sales team gathers every morning at 9 AM in the company's main office.",
+                "example_hebrew": "צוות המכירות מתכנס מדי בוקר בשעה 9 בבוקר במשרד הראשי של החברה."
+            }
+        ]
+    }
+]

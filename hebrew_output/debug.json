@@ -1,0 +1,28 @@
+[
+    {
+        "word": "debug",
+        "word_hebrew": "לנפות",
+        "main_definition": "To identify and remove errors or problems in computer programs, hardware, or electronics.",
+        "main_definition_hebrew": "לזהות ולהסיר שגיאות או בעיות בתוכנות מחשב, חומרה או אלקטרוניקה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The process of identifying issues within a software program's code that prevent it from functioning properly.",
+                "definition_hebrew": "תהליך זיהוי הבעיות בקוד של תוכנה המונעות ממנה לפעול כראוי.",
+                "example": "After the application crashed repeatedly, the programmer began to debug the code by adding print statements and using debugging tools.",
+                "example_hebrew": "לאחר שהאפליקציה קרסה שוב ושוב, המתכנת החל לנפות באגים בקוד על ידי הוספת הצהרות הדפסה ושימוש בכלי איתור באגים."
+            },
+            {
+                "definition": "To eliminate or resolve problems in an electronic device or system",
+                "definition_hebrew": "כדי לבטל או לפתור בעיות במכשיר או מערכת אלקטרוניים",
+                "example": "The engineer had to debug a malfunctioning circuit board that was causing issues with the gadget's performance.",
+                "example_hebrew": "המהנדס נאלץ לאתר באגים במעגל פגום שגרם לבעיות בביצועי הגאדג'ט."
+            },
+            {
+                "definition": "An informal term used to describe finding and resolving errors, especially in programming context.",
+                "definition_hebrew": "מונח לא פורמלי המשמש לתיאור איתור ופתרון שגיאות, במיוחד בהקשר של תכנות.",
+                "example": "When learning to code, one of the first skills you need to master is debugging your programs when they don't work as expected.",
+                "example_hebrew": "כשאתה לומד קוד, אחת המיומנויות הראשונות שאתה צריך לשלוט היא איתור באגים בתוכניות שלך כשהן לא עובדות כמצופה."
+            }
+        ]
+    }
+]

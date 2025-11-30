@@ -1,0 +1,28 @@
+[
+    {
+        "word": "scientist",
+        "word_hebrew": "מַדְעָן",
+        "main_definition": "A scientist is an individual who systematically studies the structure and behavior of the physical and natural world through observation and experimentation.",
+        "main_definition_hebrew": "מדען הוא אדם שחוקר באופן שיטתי את המבנה וההתנהגות של העולם הפיזי והטבעי באמצעות תצפית וניסוי.",
+        "meanings_and_examples": [
+            {
+                "definition": "An expert in a specific branch of science, such as biology or chemistry",
+                "definition_hebrew": "מומחה בענף ספציפי במדע, כגון ביולוגיה או כימיה",
+                "example": "A botanist is an expert scientist who studies plant life.",
+                "example_hebrew": "בוטנאי הוא מדען מומחה שחוקר את חיי הצומח."
+            },
+            {
+                "definition": "Someone who performs scientific research and contributes to the advancement of knowledge",
+                "definition_hebrew": "מי שמבצע מחקר מדעי ותורם לקידום הידע",
+                "example": "The physicist conducted experiments to test her hypothesis about gravitational waves.",
+                "example_hebrew": "הפיזיקאית ערכה ניסויים כדי לבחון את ההשערה שלה לגבי גלי כבידה."
+            },
+            {
+                "definition": "A person engaged in a profession involving rigorous study, typically at a college or university level, focused on scientific principles and methodologies",
+                "definition_hebrew": "אדם העוסק במקצוע הכולל לימוד קפדני, בדרך כלל ברמת מכללה או אוניברסיטה, המתמקד בעקרונות ומתודולוגיות מדעיות",
+                "example": "As an aspiring scientist, she dedicated countless hours to her research project.",
+                "example_hebrew": "בתור מדענית שאפתנית, היא הקדישה אינספור שעות לפרויקט המחקר שלה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "qty",
+        "word_hebrew": "כמות",
+        "main_definition": "The abbreviation 'qty' refers to the quantity or number of items, objects, units, etc., that are being discussed or measured.",
+        "main_definition_hebrew": "הקיצור 'כמות' מתייחס לכמות או למספר הפריטים, החפצים, היחידות וכו', הנידונים או נמדדים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An abbreviation for quantity used in various contexts like inventory, orders, measurements, and more.",
+                "definition_hebrew": "קיצור של כמות המשמשת בהקשרים שונים כמו מלאי, הזמנות, מדידות ועוד.",
+                "example": "The store has limited qty of this product available.",
+                "example_hebrew": "בחנות יש כמות מוגבלת של מוצר זה."
+            },
+            {
+                "definition": "In programming or technical fields, 'qty' often represents the number of items within a data structure such as an array or list.",
+                "definition_hebrew": "בתחומי תכנות או טכניים, 'כמות' מייצגת לעתים קרובות את מספר הפריטים בתוך מבנה נתונים כגון מערך או רשימה.",
+                "example": "The list contains 100 elements, so it has a qty of 100.",
+                "example_hebrew": "הרשימה מכילה 100 אלמנטים, כך שיש לה כמות של 100."
+            },
+            {
+                "definition": "Used in shipping and logistics to indicate the number of units of goods being shipped",
+                "definition_hebrew": "משמש במשלוח ובלוגיסטיקה לציון מספר יחידות הסחורה הנשלחות",
+                "example": "Please confirm the qty of boxes you wish to ship today.",
+                "example_hebrew": "אנא אשר את כמות הארגזים שברצונך לשלוח היום."
+            }
+        ]
+    }
+]

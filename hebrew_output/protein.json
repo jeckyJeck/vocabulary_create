@@ -1,0 +1,28 @@
+[
+    {
+        "word": "protein",
+        "word_hebrew": "חֶלְבּוֹן",
+        "main_definition": "Protein refers to a complex organic compound made up of amino acids, essential for various biological processes in living organisms.",
+        "main_definition_hebrew": "חלבון מתייחס לתרכובת אורגנית מורכבת המורכבת מחומצות אמינו, החיוניות לתהליכים ביולוגיים שונים באורגניזמים חיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of food and nutrition",
+                "definition_hebrew": "בהקשר של מזון ותזונה",
+                "example": "Eating chicken breast is a good source of dietary protein.",
+                "example_hebrew": "אכילת חזה עוף היא מקור טוב לחלבון תזונתי."
+            },
+            {
+                "definition": "Related to biochemistry and molecular biology",
+                "definition_hebrew": "קשור לביוכימיה וביולוגיה מולקולרית",
+                "example": "Proteins in cells play crucial roles, such as enzymes that speed up chemical reactions.",
+                "example_hebrew": "חלבונים בתאים ממלאים תפקידים מכריעים, כמו אנזימים המזרזים תגובות כימיות."
+            },
+            {
+                "definition": "Used informally to describe someone who is strong or tough",
+                "definition_hebrew": "משמש באופן לא רשמי לתיאור מישהו חזק או קשוח",
+                "example": "He's a real protein when it comes to fixing cars; he can handle anything.",
+                "example_hebrew": "הוא חלבון אמיתי כשזה מגיע לתיקון מכוניות; הוא יכול להתמודד עם כל דבר."
+            }
+        ]
+    }
+]

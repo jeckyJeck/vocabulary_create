@@ -1,0 +1,28 @@
+[
+    {
+        "word": "could",
+        "word_hebrew": "הָיָה יָכוֹל",
+        "main_definition": "Could is a modal verb used to express possibility, potentiality, past ability, or polite request.",
+        "main_definition_hebrew": "יכול הוא פועל מודאלי המשמש לביטוי אפשרות, פוטנציאל, יכולת עבר או בקשה מנומסת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Possibility or ability in the present or future",
+                "definition_hebrew": "אפשרות או יכולת בהווה או בעתיד",
+                "example": "She can play the piano very well. She could perform at a concert someday.",
+                "example_hebrew": "היא יכולה לנגן בפסנתר טוב מאוד. היא תוכל להופיע בהופעה מתישהו."
+            },
+            {
+                "definition": "Past ability",
+                "definition_hebrew": "יכולת עבר",
+                "example": "When he was younger, he could run faster than everyone else.",
+                "example_hebrew": "כשהיה צעיר יותר, הוא יכול היה לרוץ מהר יותר מכולם."
+            },
+            {
+                "definition": "Polite request or offer",
+                "definition_hebrew": "בקשה או הצעה מנומסת",
+                "example": "Could you please pass the salt?",
+                "example_hebrew": "תוכל בבקשה להעביר את המלח?"
+            }
+        ]
+    }
+]

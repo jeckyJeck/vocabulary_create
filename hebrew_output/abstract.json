@@ -1,0 +1,40 @@
+[
+    {
+        "word": "abstract",
+        "word_hebrew": "תַקצִיר",
+        "main_definition": "Abstract refers to something that is not concrete or tangible, often related to ideas, concepts, or generalizations rather than specific instances.",
+        "main_definition_hebrew": "אבסטרקט מתייחס למשהו שאינו קונקרטי או מוחשי, לעתים קרובות קשור לרעיונות, מושגים או הכללות ולא למקרים ספציפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A non-representational work of art that does not attempt to represent an accurate depiction of visual reality but instead uses shapes, colors, forms and textures to achieve its effect.",
+                "definition_hebrew": "יצירת אמנות לא ייצוגית שאינה מנסה לייצג תיאור מדויק של המציאות החזותית אלא משתמשת בצורות, צבעים, צורות ומרקמים כדי להשיג את השפעתה.",
+                "example": "The artist created a vibrant abstract painting with bold strokes and contrasting colors.",
+                "example_hebrew": "האמן יצר ציור מופשט תוסס עם קווים עזים וצבעים מנוגדים."
+            },
+            {
+                "definition": "A summary or overview of an academic conference or event.",
+                "definition_hebrew": "סיכום או סקירה של כנס או אירוע אקדמי.",
+                "example": "Attendees received copies of the abstract for the upcoming neuroscience conference to decide if they wanted to attend specific sessions.",
+                "example_hebrew": "המשתתפים קיבלו עותקים של התקציר לכנס מדעי המוח הקרוב כדי להחליט אם הם רוצים להשתתף במפגשים ספציפיים."
+            },
+            {
+                "definition": "An essay that is submitted as part of a university application process, which describes an applicant's academic and personal achievements.",
+                "definition_hebrew": "חיבור המוגש כחלק מתהליך הגשת בקשה לאוניברסיטה, המתאר את הישגיו האקדמיים והאישיים של המועמד.",
+                "example": "The student wrote an abstract discussing her research experience and extracurricular activities for the college admissions office.",
+                "example_hebrew": "הסטודנטית כתבה תקציר שדן בניסיון המחקר שלה ובפעילויות מחוץ ללימודים עבור משרד הקבלה למכללה."
+            },
+            {
+                "definition": "An incomplete or unfinished work that lacks details or is not yet completed.",
+                "definition_hebrew": "עבודה לא שלמה או לא גמורה חסרת פרטים או שעדיין לא הושלמה.",
+                "example": "He submitted his thesis with many sections still blank, as he was struggling to finalize the abstract before the deadline.",
+                "example_hebrew": "הוא הגיש את התזה שלו עם חלקים רבים שעדיין ריקים, מכיוון שהוא נאבק לסיים את התקציר לפני המועד האחרון."
+            },
+            {
+                "definition": "Something that is theoretical or hypothetical in nature, rather than concrete and specific.",
+                "definition_hebrew": "משהו שהוא תיאורטי או היפותטי במהותו, ולא קונקרטי וספציפי.",
+                "example": "The scientist presented an abstract concept about time travel during a public lecture, sparking curiosity among attendees.",
+                "example_hebrew": "המדען הציג מושג מופשט על מסע בזמן במהלך הרצאה פומבית, שעורר סקרנות בקרב המשתתפים."
+            }
+        ]
+    }
+]

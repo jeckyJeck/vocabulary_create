@@ -1,0 +1,40 @@
+[
+    {
+        "word": "unit",
+        "word_hebrew": "יחידה",
+        "main_definition": "A unit refers to a single entity or element that forms part of a whole, often used in the context of measurement, standardization, or organization.",
+        "main_definition_hebrew": "יחידה מתייחסת לישות או אלמנט בודד המהווים חלק ממכלול, המשמש לעתים קרובות בהקשר של מדידה, סטנדרטיזציה או ארגון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Measurement value equaling one quantity of something",
+                "definition_hebrew": "ערך מדידה השווה לכמות אחת של משהו",
+                "example": "In construction, 12-inch refers to a unit where 12 inches equals one foot.",
+                "example_hebrew": "בבנייה, 12 אינץ' מתייחס ליחידה שבה 12 אינץ' שווה רגל אחת."
+            },
+            {
+                "definition": "A standardized quantity used as a basis for counting or measuring",
+                "definition_hebrew": "כמות סטנדרטית המשמשת כבסיס לספירה או מדידה",
+                "example": "The gram is a unit of mass in the metric system.",
+                "example_hebrew": "הגרם הוא יחידת מסה במערכת המטרית."
+            },
+            {
+                "definition": "An organizational element within an institution, company, or team",
+                "definition_hebrew": "אלמנט ארגוני בתוך מוסד, חברה או צוות",
+                "example": "In a military context, a platoon is a unit consisting of 15 to 40 soldiers led by a lieutenant.",
+                "example_hebrew": "בהקשר צבאי, מחלקה היא יחידה המורכבת מ-15 עד 40 חיילים בראשות סגן."
+            },
+            {
+                "definition": "A single piece of currency in some monetary systems",
+                "definition_hebrew": "פיסת מטבע אחת במערכות מוניטריות מסוימות",
+                "example": "The penny is a unit of currency equaling one cent in the United States.",
+                "example_hebrew": "האגורה היא יחידת מטבע השווה לסנט אחד בארצות הברית."
+            },
+            {
+                "definition": "A fundamental part or component that makes up something larger",
+                "definition_hebrew": "חלק או רכיב בסיסי שמרכיב משהו גדול יותר",
+                "example": "In a computer program, a function is a unit of code designed to perform a specific task.",
+                "example_hebrew": "בתוכנת מחשב, פונקציה היא יחידת קוד שנועדה לבצע משימה מסוימת."
+            }
+        ]
+    }
+]

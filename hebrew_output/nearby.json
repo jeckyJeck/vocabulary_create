@@ -1,0 +1,34 @@
+[
+    {
+        "word": "nearby",
+        "word_hebrew": "סָמוּך",
+        "main_definition": "in close proximity to a specific location or object, often within a short distance.",
+        "main_definition_hebrew": "בקרבת מקום או חפץ ספציפי, לרוב במרחק קצר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Close in physical space or geography",
+                "definition_hebrew": "קרוב במרחב הפיזי או בגיאוגרפיה",
+                "example": "There is a park nearby where I can walk my dog.",
+                "example_hebrew": "יש פארק בקרבת מקום בו אני יכול לטייל עם הכלב שלי."
+            },
+            {
+                "definition": "In close temporal proximity to an event or occurrence",
+                "definition_hebrew": "בסמיכות זמנית לאירוע או התרחשות",
+                "example": "The restaurant offered free drinks for the guests who arrived nearby during their happy hour.",
+                "example_hebrew": "המסעדה הציעה משקאות בחינם לאורחים שהגיעו בקרבת מקום במהלך ה-happy hour שלהם."
+            },
+            {
+                "definition": "Within easy access, often used when referring to services or amenities",
+                "definition_hebrew": "בגישה נוחה, משמש לעתים קרובות כאשר מתייחסים לשירותים או שירותים",
+                "example": "There are several coffee shops nearby where I can work on my laptop.",
+                "example_hebrew": "יש כמה בתי קפה בקרבת מקום שבהם אני יכול לעבוד על המחשב הנייד שלי."
+            },
+            {
+                "definition": "Related or similar in nature",
+                "definition_hebrew": "קשור או דומה באופיים",
+                "example": "These two products are by the same company, so they're quite nearby each other in terms of features and price.",
+                "example_hebrew": "שני המוצרים האלה הם של אותה חברה, כך שהם די קרובים זה לזה מבחינת תכונות ומחיר."
+            }
+        ]
+    }
+]

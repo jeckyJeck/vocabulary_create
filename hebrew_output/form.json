@@ -1,0 +1,40 @@
+[
+    {
+        "word": "form",
+        "word_hebrew": "טופס",
+        "main_definition": "Form refers to the shape, structure, or arrangement of something.",
+        "main_definition_hebrew": "צורה מתייחסת לצורה, למבנה או לסידור של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "The physical appearance or shape of an object",
+                "definition_hebrew": "המראה הפיזי או הצורה של חפץ",
+                "example": "The form of the statue is impressive.",
+                "example_hebrew": "צורת הפסל מרשימה."
+            },
+            {
+                "definition": "A standardized document or format used for specific purposes",
+                "definition_hebrew": "מסמך או פורמט סטנדרטיים המשמשים למטרות ספציפיות",
+                "example": "Please fill out this tax form accurately and submit it by April 15th.",
+                "example_hebrew": "אנא מלא טופס מס זה במדויק והגש אותו עד ה-15 באפריל."
+            },
+            {
+                "definition": "The process of molding, shaping, or assembling objects into a desired form",
+                "definition_hebrew": "תהליך של יציקה, עיצוב או הרכבה של חפצים לצורה רצויה",
+                "example": "She spent hours forming clay into beautiful pottery.",
+                "example_hebrew": "היא בילתה שעות ביצירת חימר לכלי חרס יפהפיים."
+            },
+            {
+                "definition": "A set of rules or procedures to be followed in a particular context",
+                "definition_hebrew": "קבוצה של כללים או נהלים שיש לפעול לפיהם בהקשר מסוים",
+                "example": "The company has strict forms that employees must complete for HR purposes.",
+                "example_hebrew": "לחברה יש טפסים קפדניים שעל העובדים למלא לצורכי משאבי אנוש."
+            },
+            {
+                "definition": "The way something is arranged, organized, or structured",
+                "definition_hebrew": "הדרך שבה משהו מסודר, מאורגן או מובנה",
+                "example": "To improve efficiency, the team decided to reorganize their work form.",
+                "example_hebrew": "כדי לשפר את היעילות, הצוות החליט לארגן מחדש את צורת העבודה שלהם."
+            }
+        ]
+    }
+]

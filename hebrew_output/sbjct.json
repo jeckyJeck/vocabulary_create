@@ -1,0 +1,34 @@
+[
+    {
+        "word": "sbjct",
+        "word_hebrew": "sbjct",
+        "main_definition": "Subject refers to the main topic or focus of a conversation, text, or situation.",
+        "main_definition_hebrew": "נושא מתייחס לנושא או המוקד העיקרי של שיחה, טקסט או מצב.",
+        "meanings_and_examples": [
+            {
+                "definition": "In grammar, subject is the person, place, thing, or idea that is doing or being something in a sentence.",
+                "definition_hebrew": "בדקדוק, נושא הוא האדם, המקום, הדבר או הרעיון שעושה או הוא משהו במשפט.",
+                "example": "The cat (subject) jumped over the fence.",
+                "example_hebrew": "החתול (הנבדק) קפץ מעל הגדר."
+            },
+            {
+                "definition": "Subject also refers to the theme of an artwork, performance, or piece of literature.",
+                "definition_hebrew": "הנושא מתייחס גם לנושא של יצירת אמנות, מיצג או יצירה ספרותית.",
+                "example": "The subject of her painting was a beautiful sunset at the beach.",
+                "example_hebrew": "נושא הציור שלה היה שקיעה יפה בחוף הים."
+            },
+            {
+                "definition": "In conversation and communication, 'subject' can refer to someone being talked about or addressed directly.",
+                "definition_hebrew": "בשיחה ובתקשורת, 'נושא' יכול להתייחס למישהו שמדברים עליו או פונה אליו ישירות.",
+                "example": "I don't want to talk about you; this is between me and my therapist. You are not the subject of our discussion.",
+                "example_hebrew": "אני לא רוצה לדבר עליך; זה ביני לבין המטפל שלי. אתה לא נושא הדיון שלנו."
+            },
+            {
+                "definition": "In science, particularly in biology, 'subject' can refer to an organism or group being studied.",
+                "definition_hebrew": "במדע, במיוחד בביולוגיה, 'נושא' יכול להתייחס לאורגניזם או לקבוצה שנחקרים.",
+                "example": "The researchers focused on studying the effects of pollution on a specific species as their subject.",
+                "example_hebrew": "החוקרים התמקדו בחקר השפעות הזיהום על מין ספציפי כנושא שלהם."
+            }
+        ]
+    }
+]

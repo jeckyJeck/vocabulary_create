@@ -1,0 +1,28 @@
+[
+    {
+        "word": "textbooks",
+        "word_hebrew": "ספרי לימוד",
+        "main_definition": "Textbooks are educational books used by students in schools or universities as a primary source of information and knowledge in various subjects.",
+        "main_definition_hebrew": "ספרי לימוד הם ספרי חינוך המשמשים תלמידים בבתי ספר או באוניברסיטאות כמקור עיקרי למידע וידע בנושאים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Educational publications for classroom use",
+                "definition_hebrew": "פרסומים חינוכיים לשימוש בכיתה",
+                "example": "The high school biology textbook includes chapters on genetics, evolution, and ecology.",
+                "example_hebrew": "ספר הלימוד בביולוגיה בתיכון כולל פרקים על גנטיקה, אבולוציה ואקולוגיה."
+            },
+            {
+                "definition": "Reference materials used by students to study specific subjects",
+                "definition_hebrew": "חומרי עזר המשמשים את התלמידים ללימוד נושאים ספציפיים",
+                "example": "A student uses the mathematics textbook to review algebraic equations for an upcoming exam.",
+                "example_hebrew": "תלמיד משתמש בספר הלימוד במתמטיקה כדי לסקור משוואות אלגבריות לבחינה הקרובה."
+            },
+            {
+                "definition": "Books that are frequently updated and revised to reflect current knowledge and pedagogical approaches",
+                "definition_hebrew": "ספרים המתעדכנים ומתוקנים לעתים קרובות כדי לשקף ידע עכשווי וגישות פדגוגיות",
+                "example": "The history textbook has a new edition, which includes recent historical events and discoveries.",
+                "example_hebrew": "לספר ההיסטוריה יש מהדורה חדשה, הכוללת אירועים היסטוריים ותגליות אחרונות."
+            }
+        ]
+    }
+]

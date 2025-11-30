@@ -1,0 +1,40 @@
+[
+    {
+        "word": "meaning",
+        "word_hebrew": "מַשְׁמָעוּת",
+        "main_definition": "The significance or interpretation of a word, phrase, symbol, text, or action.",
+        "main_definition_hebrew": "המשמעות או הפרשנות של מילה, ביטוי, סמל, טקסט או פעולה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Understanding the definition or explanation of something",
+                "definition_hebrew": "הבנת ההגדרה או ההסבר של משהו",
+                "example": "When you read 'the meaning of life' it refers to an understanding of why we exist.",
+                "example_hebrew": "כשאתה קורא את 'משמעות החיים' זה מתייחס להבנה של למה אנחנו קיימים."
+            },
+            {
+                "definition": "The intention behind a statement, action, or event",
+                "definition_hebrew": "הכוונה מאחורי אמירה, פעולה או אירוע",
+                "example": "His sarcastic remark had a hidden meaning that wasn't immediately apparent.",
+                "example_hebrew": "להערה הסרקסטית שלו הייתה משמעות נסתרת שלא נראתה מיד."
+            },
+            {
+                "definition": "Interpretation of symbols or signs in contexts like language and art",
+                "definition_hebrew": "פרשנות של סמלים או סימנים בהקשרים כמו שפה ואמנות",
+                "example": "In literature, the symbol of a dove often represents peace or innocence.",
+                "example_hebrew": "בספרות, הסמל של יונה מייצג לעתים קרובות שלום או תמימות."
+            },
+            {
+                "definition": "The essence conveyed by an idiom or proverb that isn't literal but metaphorical",
+                "definition_hebrew": "המהות שמועברת על ידי ניב או פתגם שאינו מילולי אלא מטפורי",
+                "example": "'Break the ice' is an idiom meaning to initiate social interactions in a new setting.",
+                "example_hebrew": "'לשבור את הקרח' הוא ניב שמשמעותו ליזום אינטראקציות חברתיות בסביבה חדשה."
+            },
+            {
+                "definition": "The purpose, importance, or usefulness of something",
+                "definition_hebrew": "המטרה, החשיבות או התועלת של משהו",
+                "example": "Understanding the meaning of this complex mathematical formula can be crucial for solving problems.",
+                "example_hebrew": "הבנת המשמעות של נוסחה מתמטית מורכבת זו יכולה להיות חיונית לפתרון בעיות."
+            }
+        ]
+    }
+]

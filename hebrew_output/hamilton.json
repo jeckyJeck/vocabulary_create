@@ -1,0 +1,40 @@
+[
+    {
+        "word": "hamilton",
+        "word_hebrew": "המילטון",
+        "main_definition": "A surname, place name, or popular phrase/idiom with multiple meanings.",
+        "main_definition_hebrew": "שם משפחה, שם מקום או ביטוי/ביטוי פופולרי עם משמעויות מרובות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Surname",
+                "definition_hebrew": "שֵׁם מִשׁפָּחָה",
+                "example": "Alexander Hamilton was one of the Founding Fathers of the United States.",
+                "example_hebrew": "אלכסנדר המילטון היה אחד מהאבות המייסדים של ארצות הברית."
+            },
+            {
+                "definition": "Place name",
+                "definition_hebrew": "שם המקום",
+                "example": "Hamilton is a city in Ontario, Canada. It's also the capital of the Province of New Zealand.",
+                "example_hebrew": "המילטון היא עיר באונטריו, קנדה. זוהי גם בירת מחוז ניו זילנד."
+            },
+            {
+                "definition": "Name of musical",
+                "definition_hebrew": "שם המחזמר",
+                "example": "The Broadway musical 'Hamilton', written by Lin-Manuel Miranda, tells the story of American Founding Father Alexander Hamilton through a blend of hip-hop and traditional show tunes.",
+                "example_hebrew": "המחזמר בברודווי 'המילטון', שנכתב על ידי לין-מנואל מירנדה, מספר את סיפורו של האב המייסד האמריקאי אלכסנדר המילטון באמצעות שילוב של היפ הופ ומנגינות מופע מסורתיות."
+            },
+            {
+                "definition": "Informal phrase referring to quick action or efficiency",
+                "definition_hebrew": "ביטוי לא רשמי המתייחס לפעולה מהירה או יעילות",
+                "example": "The team had to act 'Hamilton' to meet the deadline, working quickly and efficiently to complete the project on time.",
+                "example_hebrew": "הצוות היה צריך לפעול 'המילטון' כדי לעמוד בדד-ליין, לעבוד במהירות וביעילות כדי להשלים את הפרויקט בזמן."
+            },
+            {
+                "definition": "A term used in baseball to describe a hit that results in a runner advancing multiple bases",
+                "definition_hebrew": "מונח המשמש בבייסבול לתיאור מכה שמביאה לרץ שמתקדם במספר בסיסים",
+                "example": "'Hamiltoning' occurred when the batter hit a line drive that allowed three runners to score simultaneously. This play demonstrated both power and strategic timing.",
+                "example_hebrew": "'Hamiltoning' התרחש כאשר החובט פגע בדרייב קו שאפשר לשלושה רצים להבקיע בו זמנית. המחזה הזה הדגים גם כוח וגם תזמון אסטרטגי."
+            }
+        ]
+    }
+]

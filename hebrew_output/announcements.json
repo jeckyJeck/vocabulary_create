@@ -1,0 +1,34 @@
+[
+    {
+        "word": "announcements",
+        "word_hebrew": "הכרזות",
+        "main_definition": "Public declarations of information or news made to a group of people, often used in formal or official settings.",
+        "main_definition_hebrew": "הצהרות פומביות של מידע או חדשות שנמסרו לקבוצת אנשים, המשמשות לעתים קרובות במסגרות רשמיות או רשמיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Updates about events and activities provided by an organization or institution",
+                "definition_hebrew": "עדכונים לגבי אירועים ופעילויות שמסופקים על ידי ארגון או מוסד",
+                "example": "The school posted announcements on its bulletin board regarding the upcoming parent-teacher meetings.",
+                "example_hebrew": "בית הספר פרסם הודעות על לוח המודעות שלו לגבי אסיפות הורים-מורים הקרובות."
+            },
+            {
+                "definition": "Notice given to the public, often for important information or changes in policy",
+                "definition_hebrew": "הודעה שניתנה לציבור, לעתים קרובות עבור מידע חשוב או שינויים במדיניות",
+                "example": "The government issued an emergency announcement about a severe weather warning.",
+                "example_hebrew": "הממשלה פרסמה הודעת חירום על אזהרת מזג אוויר קשה."
+            },
+            {
+                "definition": "Announcements made during meetings, conferences, and gatherings to share relevant information",
+                "definition_hebrew": "הודעות שנמסרו במהלך פגישות, כנסים והתכנסויות כדי לשתף מידע רלוונטי",
+                "example": "At the conference, each speaker gave brief announcements before diving into their presentations.",
+                "example_hebrew": "בכנס, כל דובר מסר הודעות קצרות לפני שצלל למצגות שלו."
+            },
+            {
+                "definition": "Communication of changes in schedules or plans within an organization",
+                "definition_hebrew": "תקשורת של שינויים בלוחות זמנים או תוכניות בתוך ארגון",
+                "example": "The company sent out a memo with the new meeting schedule and related adjustments as announcements.",
+                "example_hebrew": "החברה שלחה מזכר עם לוח הזמנים החדש של הפגישות וההתאמות הנלוות כהודעות."
+            }
+        ]
+    }
+]

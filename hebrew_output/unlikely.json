@@ -1,0 +1,40 @@
+[
+    {
+        "word": "unlikely",
+        "word_hebrew": "לא סביר",
+        "main_definition": "Not probable or having a small chance of happening or being true.",
+        "main_definition_hebrew": "לא סביר או שיש סיכוי קטן לקרות או להיות אמיתי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not expected to happen",
+                "definition_hebrew": "לא צפוי לקרות",
+                "example": "Winning the lottery is unlikely.",
+                "example_hebrew": "זכייה בלוטו לא סביר."
+            },
+            {
+                "definition": "Having a low probability of occurrence or realization",
+                "definition_hebrew": "בעל סבירות נמוכה להתרחשות או מימוש",
+                "example": "Given his age, it's unlikely that he can run a marathon in under three hours.",
+                "example_hebrew": "בהתחשב בגילו, לא סביר שהוא יוכל לרוץ מרתון בפחות משלוש שעות."
+            },
+            {
+                "definition": "Unlikely to succeed; not having good chances for success",
+                "definition_hebrew": "לא סביר להצליח; אין סיכויים טובים להצלחה",
+                "example": "Considering the competition, starting this business is unlikely to be profitable at first.",
+                "example_hebrew": "בהתחשב בתחרות, פתיחת עסק זה לא צפויה להיות רווחית בהתחלה."
+            },
+            {
+                "definition": "Having a low likelihood of being correct or accurate",
+                "definition_hebrew": "בעל סבירות נמוכה להיות נכון או מדויק",
+                "example": "Despite his expertise, it's unlikely that he can predict market trends accurately without data analysis.",
+                "example_hebrew": "למרות המומחיות שלו, לא סביר שהוא יכול לחזות את מגמות השוק במדויק ללא ניתוח נתונים."
+            },
+            {
+                "definition": "Rarely occurring; not common",
+                "definition_hebrew": "מתרחש לעתים רחוקות; לא נפוץ",
+                "example": "Seeing a shooting star is an unlikely event in urban areas due to light pollution.",
+                "example_hebrew": "לראות כוכב נופל הוא אירוע לא סביר באזורים עירוניים בגלל זיהום אור."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "excuse",
+        "word_hebrew": "סְלִיחָה",
+        "main_definition": "An explanation offered in justification of a fault or minor offense, or as a reason to avoid an apology.",
+        "main_definition_hebrew": "הסבר המוצע כצידוק של תקלה או עבירה קלה, או כסיבה להימנע מהתנצלות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A statement intended to justify one's behavior or actions.",
+                "definition_hebrew": "אמירה שנועדה להצדיק את ההתנהגות או המעשים של האדם.",
+                "example": "I didn't mean to be late; it was my excuse.",
+                "example_hebrew": "לא התכוונתי לאחר; זה היה התירוץ שלי."
+            },
+            {
+                "definition": "An apology for a minor mistake, flaw, or fault.",
+                "definition_hebrew": "התנצלות על טעות קלה, פגם או תקלה.",
+                "example": "Please accept my excuse for spilling the coffee.",
+                "example_hebrew": "בבקשה קבל את התירוץ שלי לשפיכת הקפה."
+            },
+            {
+                "definition": "A reason given to justify one's behavior in response to an accusation or complaint.",
+                "definition_hebrew": "סיבה שניתנה כדי להצדיק את התנהגותו בתגובה להאשמה או תלונה.",
+                "example": "I can provide an excuse if you have any questions about why I was late.",
+                "example_hebrew": "אני יכול לספק תירוץ אם יש לך שאלות לגבי הסיבה שאיחרתי."
+            },
+            {
+                "definition": "Something used as a pretext, often unflattering and intended to deflect blame.",
+                "definition_hebrew": "משהו המשמש כעילה, לרוב לא מחמיא ונועד להסיט את האשמה.",
+                "example": "His excuse for not completing the project on time was that his dog had died.",
+                "example_hebrew": "התירוץ שלו לא לסיים את הפרויקט בזמן היה שהכלב שלו מת."
+            }
+        ]
+    }
+]

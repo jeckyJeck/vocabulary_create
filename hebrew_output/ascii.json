@@ -1,0 +1,28 @@
+[
+    {
+        "word": "ascii",
+        "word_hebrew": "ascii",
+        "main_definition": "As used as an abbreviation, ASCII stands for 'American Standard Code for Information Interchange', a character encoding standard that represents text in computers.",
+        "main_definition_hebrew": "בשימוש כקיצור, ASCII מייצג 'קוד אמריקאי למידע מחלף', תקן קידוד תווים המייצג טקסט במחשבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Computer data representation",
+                "definition_hebrew": "ייצוג נתוני מחשב",
+                "example": "The ASCII code uses 7 bits to represent each character, allowing for 128 possible characters (2^7 = 128).",
+                "example_hebrew": "קוד ASCII משתמש ב-7 ביטים כדי לייצג כל תו, מה שמאפשר 128 תווים אפשריים (2^7 = 128)."
+            },
+            {
+                "definition": "Encoded text in computers",
+                "definition_hebrew": "טקסט מקודד במחשבים",
+                "example": "When typing the letter 'A', you are inputting its ASCII code, which is 65.",
+                "example_hebrew": "בעת הקלדת האות 'A', אתה מזין את קוד ה-ASCII שלה, שהוא 65."
+            },
+            {
+                "definition": "Early character encoding standard",
+                "definition_hebrew": "תקן קידוד תווים מוקדם",
+                "example": "Originally developed for telecommunications and early computer systems in North America.",
+                "example_hebrew": "פותח במקור עבור תקשורת ומערכות מחשב מוקדמות בצפון אמריקה."
+            }
+        ]
+    }
+]

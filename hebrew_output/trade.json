@@ -1,0 +1,34 @@
+[
+    {
+        "word": "trade",
+        "word_hebrew": "סַחַר",
+        "main_definition": "Trade is the exchange of goods, services, or financial instruments between parties.",
+        "main_definition_hebrew": "סחר הוא החלפה של סחורות, שירותים או מכשירים פיננסיים בין צדדים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Business transaction involving the buying and selling of goods or services.",
+                "definition_hebrew": "עסקה עסקית הכרוכה בקנייה ומכירה של סחורות או שירותים.",
+                "example": "The company engaged in trade by importing electronics from China.",
+                "example_hebrew": "החברה עסקה במסחר בייבוא מוצרי אלקטרוניקה מסין."
+            },
+            {
+                "definition": "Exchange of currencies between countries to facilitate international commerce.",
+                "definition_hebrew": "החלפת מטבעות בין מדינות כדי להקל על מסחר בינלאומי.",
+                "example": "The central bank conducted foreign exchange operations, including trade with the US dollar and euro.",
+                "example_hebrew": "הבנק המרכזי ביצע פעולות מט\"ח, כולל סחר עם הדולר והאירו."
+            },
+            {
+                "definition": "Interesting or unusual conversation topic or anecdote that sparks discussion among people.",
+                "definition_hebrew": "נושא שיחה או אנקדוטה מעניין או יוצא דופן שמעורר דיון בין אנשים.",
+                "example": "He told a funny trade about his first job as a comedian to entertain the guests at the party.",
+                "example_hebrew": "הוא סיפר מקצוע מצחיק על עבודתו הראשונה כקומיקאי כדי לבדר את האורחים במסיבה."
+            },
+            {
+                "definition": "A mutual agreement between two parties to exchange goods, services or financial instruments.",
+                "definition_hebrew": "הסכם הדדי בין שני צדדים להחלפת סחורות, שירותים או מכשירים פיננסיים.",
+                "example": "The farmer made a trade with the local grocery store by providing fresh produce in exchange for cash.",
+                "example_hebrew": "האיכר עשה סחר עם המכולת המקומית בכך שסיפק תוצרת טרייה בתמורה למזומן."
+            }
+        ]
+    }
+]

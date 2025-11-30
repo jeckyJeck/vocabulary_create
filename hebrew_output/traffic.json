@@ -1,0 +1,34 @@
+[
+    {
+        "word": "traffic",
+        "word_hebrew": "תְנוּעָה",
+        "main_definition": "Traffic refers to the movement of vehicles, pedestrians, or any form of transportation in a specific area, as well as related issues such as congestion and regulations.",
+        "main_definition_hebrew": "תנועה מתייחסת לתנועת כלי רכב, הולכי רגל או כל צורה של תחבורה באזור מסוים, כמו גם נושאים קשורים כמו עומס ותקנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The flow of vehicles on roads",
+                "definition_hebrew": "זרימת כלי רכב בכבישים",
+                "example": "During rush hour, the traffic in downtown was heavy.",
+                "example_hebrew": "בשעות העומס התנועה במרכז העיר הייתה כבדה."
+            },
+            {
+                "definition": "A situation where many vehicles are congested and unable to move quickly or efficiently",
+                "definition_hebrew": "מצב בו רכבים רבים עמוסים ואינם יכולים לנוע במהירות או ביעילות",
+                "example": "I got stuck in traffic for over an hour on my way home from work today.",
+                "example_hebrew": "נתקעתי בפקק במשך יותר משעה בדרכי הביתה מהעבודה היום."
+            },
+            {
+                "definition": "Regulations governing the movement of vehicles, such as speed limits and traffic signals",
+                "definition_hebrew": "תקנות המסדירות את תנועת כלי הרכב, כגון הגבלת מהירות ותמרורים",
+                "example": "The police officer issued a ticket because I broke the traffic regulation by running a red light.",
+                "example_hebrew": "השוטר הוציא כרטיס כי עברתי על תקנות התעבורה בהפעלת באור אדום."
+            },
+            {
+                "definition": "A group or collection of objects or entities that move in relation to each other",
+                "definition_hebrew": "קבוצה או אוסף של חפצים או ישויות שנעים זה ביחס לזה",
+                "example": "Solar system traffic refers to the movement of planets and celestial bodies within the solar system.",
+                "example_hebrew": "תעבורת מערכת השמש מתייחסת לתנועת כוכבי לכת וגופים שמימיים בתוך מערכת השמש."
+            }
+        ]
+    }
+]

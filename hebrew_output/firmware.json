@@ -1,0 +1,28 @@
+[
+    {
+        "word": "firmware",
+        "word_hebrew": "קושחה",
+        "main_definition": "Firmware is a type of software programmed into hardware devices to control their functions.",
+        "main_definition_hebrew": "קושחה היא סוג של תוכנה המתוכנתת בהתקני חומרה כדי לשלוט בפונקציות שלהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "The software embedded in the read-only memory (ROM) of hardware components like routers, digital cameras, and printers",
+                "definition_hebrew": "התוכנה המוטמעת בזיכרון הקריאה בלבד (ROM) של רכיבי חומרה כמו נתבים, מצלמות דיגיטליות ומדפסות",
+                "example": "When you turn on a router, it runs firmware to manage network communications.",
+                "example_hebrew": "כאשר אתה מפעיל נתב, הוא מריץ קושחה לניהול תקשורת רשת."
+            },
+            {
+                "definition": "Firmware updates that can improve performance or add new features without needing to replace the hardware component",
+                "definition_hebrew": "עדכוני קושחה שיכולים לשפר את הביצועים או להוסיף תכונות חדשות ללא צורך בהחלפת רכיב החומרה",
+                "example": "I updated my printer's firmware to get better print quality and faster processing speed.",
+                "example_hebrew": "עדכנתי את הקושחה של המדפסת שלי כדי לקבל איכות הדפסה טובה יותר ומהירות עיבוד מהירה יותר."
+            },
+            {
+                "definition": "An older term for software written in low-level languages like Assembly, typically used to interact with specific hardware components",
+                "definition_hebrew": "מונח ישן יותר לתוכנה הכתובה בשפות ברמה נמוכה כמו Assembly, המשמשת בדרך כלל לאינטראקציה עם רכיבי חומרה ספציפיים",
+                "example": "In the early days of computing, assembly language code was often referred to as firmware because it directly manipulated hardware.",
+                "example_hebrew": "בימים הראשונים של המחשוב, קוד שפת assembly כונה לעתים קרובות קושחה מכיוון שהוא עשה מניפולציה ישירה של החומרה."
+            }
+        ]
+    }
+]

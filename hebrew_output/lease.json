@@ -1,0 +1,28 @@
+[
+    {
+        "word": "lease",
+        "word_hebrew": "חוזה שכירות",
+        "main_definition": "A lease is a legal contract between two parties where one party (the lessor) grants the other party (the lessee) temporary use of an asset, such as property or equipment, in exchange for regular payments over a specified period of time.",
+        "main_definition_hebrew": "חוזה שכירות הוא חוזה משפטי בין שני צדדים שבו צד אחד (המשכיר) מעניק לצד השני (החוכר) שימוש זמני בנכס, כגון רכוש או ציוד, בתמורה לתשלומים קבועים על פני פרק זמן מוגדר.",
+        "meanings_and_examples": [
+            {
+                "definition": "A long-term rental agreement",
+                "definition_hebrew": "הסכם שכירות לטווח ארוך",
+                "example": "John signed a 10-year lease to rent an office space.",
+                "example_hebrew": "ג'ון חתם על חוזה שכירות ל-10 שנים לשכירת שטח משרדים."
+            },
+            {
+                "definition": "The act of obtaining the right to use something for a specific period with regular payments",
+                "definition_hebrew": "מעשה קבלת הזכות להשתמש במשהו לתקופה מסוימת עם תשלומים קבועים",
+                "example": "Sarah is in the process of leasing her car from the dealership.",
+                "example_hebrew": "שרה נמצאת בתהליך של השכרת רכבה מהסוכנות."
+            },
+            {
+                "definition": "A written agreement outlining terms and conditions between lessor and lessee",
+                "definition_hebrew": "הסכם כתוב המתאר תנאים והגבלות בין המשכיר לשוכר",
+                "example": "The landlord presented a detailed lease contract to the potential tenant before signing it.",
+                "example_hebrew": "המשכיר הציג בפני השוכר הפוטנציאלי חוזה שכירות מפורט לפני חתימתו."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "arc",
+        "word_hebrew": "קֶשֶׁת",
+        "main_definition": "An arc is a curved line or shape that represents a portion of the circumference of a circle, a figurative turn in conversation or storyline, or an electrical charge moving through space.",
+        "main_definition_hebrew": "קשת היא קו או צורה מעוקלים המייצגים חלק מהיקף המעגל, פנייה פיגורטיבית בשיחה או קו עלילה, או מטען חשמלי שנע בחלל.",
+        "meanings_and_examples": [
+            {
+                "definition": "Part of the circumference of a circle",
+                "definition_hebrew": "חלק מהיקף מעגל",
+                "example": "The rainbow formed a beautiful arc across the sky.",
+                "example_hebrew": "הקשת יצרה קשת יפה על פני השמים."
+            },
+            {
+                "definition": "A figurative turn in conversation or storyline",
+                "definition_hebrew": "תפנית פיגורטיבית בשיחה או בקו עלילה",
+                "example": "He changed the topic, taking us on an unexpected arc from politics to cooking tips.",
+                "example_hebrew": "הוא שינה את הנושא, לקח אותנו לקשת בלתי צפויה מפוליטיקה לטיפים לבישול."
+            },
+            {
+                "definition": "An electrical charge moving through space",
+                "definition_hebrew": "מטען חשמלי נע בחלל",
+                "example": "The lightning created a bright arc across the night sky.",
+                "example_hebrew": "הברק יצר קשת בהירה על פני שמי הלילה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "directions",
+        "word_hebrew": "כיוונים",
+        "main_definition": "Guidance or instructions that explain how to reach a certain destination, often in the form of compass points (north, south, east, west) or steps.",
+        "main_definition_hebrew": "הדרכה או הנחיות המסבירות כיצד להגיע ליעד מסוים, לרוב בצורה של נקודות מצפן (צפון, דרום, מזרח, מערב) או מדרגות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Instructions for reaching a place",
+                "definition_hebrew": "הוראות הגעה למקום",
+                "example": "The sign provided directions to the nearest gas station.",
+                "example_hebrew": "השלט נתן הנחיות לתחנת הדלק הקרובה."
+            },
+            {
+                "definition": "Cardinal points of direction",
+                "definition_hebrew": "נקודות כיוון קרדינליות",
+                "example": "North is one of the four cardinal directions.",
+                "example_hebrew": "צפון הוא אחד מארבעת הכיוונים הקרדינליים."
+            },
+            {
+                "definition": "Guidance or advice for a particular task",
+                "definition_hebrew": "הדרכה או ייעוץ למשימה מסוימת",
+                "example": "The mechanic gave me clear directions on how to change my car's oil.",
+                "example_hebrew": "המוסכניק נתן לי הנחיות ברורות כיצד להחליף שמן של המכונית שלי."
+            }
+        ]
+    }
+]

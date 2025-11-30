@@ -1,0 +1,28 @@
+[
+    {
+        "word": "comm",
+        "word_hebrew": "comm",
+        "main_definition": "The abbreviation 'comm' often refers to communication, particularly in the context of radio or telecommunications.",
+        "main_definition_hebrew": "הקיצור 'comm' מתייחס לרוב לתקשורת, במיוחד בהקשר של רדיו או טלקומוניקציה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Informal slang for a message sent through communication devices such as radios and phones",
+                "definition_hebrew": "סלנג לא רשמי להודעה הנשלחת דרך מכשירי תקשורת כמו מכשירי רדיו וטלפונים",
+                "example": "I received a comm from my brother on the walkie-talkie.",
+                "example_hebrew": "קיבלתי התקשרות מאחי במכשיר הקשר."
+            },
+            {
+                "definition": "A formal written report or summary of events, typically used by police departments or military units",
+                "definition_hebrew": "דוח רשמי בכתב או סיכום אירועים, המשמש בדרך כלל מחלקות משטרה או יחידות צבאיות",
+                "example": "The officer submitted a comm detailing the incident after receiving the eyewitness accounts.",
+                "example_hebrew": "הקצין הגיש הודעה המפרטת את האירוע לאחר קבלת דיווחי עדי הראייה."
+            },
+            {
+                "definition": "In computing, 'comm' refers to a command for copying files from one system to another in Unix-like operating systems",
+                "definition_hebrew": "במחשוב, 'comm' מתייחס לפקודה להעתקת קבצים ממערכת אחת לאחרת במערכות הפעלה דמויות יוניקס",
+                "example": "To share data between servers, we used the comm command to copy necessary files.",
+                "example_hebrew": "כדי לשתף נתונים בין שרתים, השתמשנו בפקודה comm כדי להעתיק את הקבצים הדרושים."
+            }
+        ]
+    }
+]

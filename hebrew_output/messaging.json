@@ -1,0 +1,40 @@
+[
+    {
+        "word": "messaging",
+        "word_hebrew": "הודעות",
+        "main_definition": "Messaging refers to the act of communicating or exchanging information through various digital platforms, primarily text-based messages.",
+        "main_definition_hebrew": "העברת הודעות מתייחסת לפעולה של תקשורת או החלפת מידע באמצעות פלטפורמות דיגיטליות שונות, בעיקר הודעות מבוססות טקסט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Sending and receiving electronic text messages",
+                "definition_hebrew": "שליחת וקבלת הודעות טקסט אלקטרוניות",
+                "example": "I use WhatsApp for messaging my friends because it's quick and easy.",
+                "example_hebrew": "אני משתמש ב-WhatsApp כדי לשלוח הודעות לחברים שלי כי זה מהיר וקל."
+            },
+            {
+                "definition": "Conversation or discussion through digital platforms",
+                "definition_hebrew": "שיחה או דיון באמצעות פלטפורמות דיגיטליות",
+                "example": "They had a lengthy messaging conversation about the project before finally meeting in person.",
+                "example_hebrew": "הם ניהלו שיחת הודעות ארוכה על הפרויקט לפני שלבסוף נפגשו באופן אישי."
+            },
+            {
+                "definition": "Interactive communication feature within social media apps",
+                "definition_hebrew": "תכונת תקשורת אינטראקטיבית בתוך אפליקציות מדיה חברתית",
+                "example": "Instagram's direct messaging allows users to send private messages to each other directly on the app.",
+                "example_hebrew": "ההודעות הישירות של אינסטגרם מאפשרות למשתמשים לשלוח הודעות פרטיות זה לזה ישירות באפליקציה."
+            },
+            {
+                "definition": "Integration of messaging functionality in applications or services",
+                "definition_hebrew": "שילוב של פונקציונליות הודעות באפליקציות או שירותים",
+                "example": "The new email client includes a messaging feature that lets you chat with your colleagues within emails.",
+                "example_hebrew": "לקוח הדוא\"ל החדש כולל תכונת העברת הודעות המאפשרת לך לשוחח בצ'אט עם עמיתיך במיילים."
+            },
+            {
+                "definition": "Use of pre-written messages for communication purposes",
+                "definition_hebrew": "שימוש בהודעות כתובות מראש למטרות תקשורת",
+                "example": "I sent her a birthday greeting via the messaging app using one of their preset emoticons and phrases.",
+                "example_hebrew": "שלחתי לה ברכת יום הולדת דרך אפליקציית ההודעות באמצעות אחד מהרגשות והביטויים שנקבעו מראש."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "downloaded",
+        "word_hebrew": "הורד",
+        "main_definition": "The action of transferring data, such as files or software, from a remote computer or server to one's own device over the internet.",
+        "main_definition_hebrew": "הפעולה של העברת נתונים, כגון קבצים או תוכנה, ממחשב או שרת מרוחק למכשיר משלו דרך האינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "To acquire digital content, like music or videos, from an online source and save it onto your personal device",
+                "definition_hebrew": "כדי לרכוש תוכן דיגיטלי, כמו מוזיקה או סרטונים, ממקור מקוון ולשמור אותו במכשיר האישי שלך",
+                "example": "I downloaded the latest album of my favorite artist.",
+                "example_hebrew": "הורדתי את האלבום האחרון של האמן האהוב עליי."
+            },
+            {
+                "definition": "To obtain software updates or applications installed on one's computer by transferring them from a remote server",
+                "definition_hebrew": "להשיג עדכוני תוכנה או יישומים המותקנים במחשב על ידי העברתם משרת מרוחק",
+                "example": "He downloaded the security patch for his operating system to protect against new threats.",
+                "example_hebrew": "הוא הוריד את תיקון האבטחה למערכת ההפעלה שלו כדי להגן מפני איומים חדשים."
+            },
+            {
+                "definition": "The process of importing data, like spreadsheets or documents, from another user's device over the internet",
+                "definition_hebrew": "תהליך ייבוא נתונים, כמו גיליונות אלקטרוניים או מסמכים, ממכשיר של משתמש אחר דרך האינטרנט",
+                "example": "She uploaded and shared her project files with our team by downloading them onto a cloud storage platform.",
+                "example_hebrew": "היא העלתה ושיתפה את קבצי הפרויקט שלה עם הצוות שלנו על ידי הורדתם לפלטפורמת אחסון בענן."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "tracked",
+        "word_hebrew": "במעקב",
+        "main_definition": "To follow or monitor the progress, movement, or location of something or someone over time.",
+        "main_definition_hebrew": "לעקוב או לעקוב אחר ההתקדמות, התנועה או המיקום של משהו או מישהו לאורך זמן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Having followed or observed a specific path or route.",
+                "definition_hebrew": "בעקבות מעקב או צפייה בנתיב או מסלול ספציפיים.",
+                "example": "The hikers tracked their way through the dense forest to reach the mountain peak.",
+                "example_hebrew": "המטיילים עקבו אחר דרכם ביער העבות כדי להגיע לפסגת ההר."
+            },
+            {
+                "definition": "Monitoring the movement of an object, such as in sports or surveillance.",
+                "definition_hebrew": "ניטור תנועת חפץ, כגון בספורט או מעקב.",
+                "example": "The coach tracked the players' positions during the game to devise a winning strategy.",
+                "example_hebrew": "המאמן עקב אחר עמדות השחקנים במהלך המשחק כדי לתכנן אסטרטגיה מנצחת."
+            },
+            {
+                "definition": "Recording or keeping detailed records about someone's progress or activities over time.",
+                "definition_hebrew": "רישום או שמירה של רשומות מפורטות על התקדמות או פעילויות של מישהו לאורך זמן.",
+                "example": "A school counselor tracks a student's academic and social development throughout their educational journey.",
+                "example_hebrew": "יועץ בית ספר עוקב אחר התפתחותו הלימודית והחברתית של תלמיד לאורך מסעו החינוכי."
+            },
+            {
+                "definition": "Using technology to follow the location of an object, person, or device in real-time.",
+                "definition_hebrew": "שימוש בטכנולוגיה כדי לעקוב אחר המיקום של אובייקט, אדם או מכשיר בזמן אמת.",
+                "example": "Law enforcement agencies can track stolen vehicles using GPS devices.",
+                "example_hebrew": "רשויות אכיפת החוק יכולות לעקוב אחר כלי רכב גנובים באמצעות מכשירי GPS."
+            }
+        ]
+    }
+]

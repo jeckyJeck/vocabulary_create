@@ -1,0 +1,40 @@
+[
+    {
+        "word": "ppm",
+        "word_hebrew": "ppm",
+        "main_definition": "parts per million (unit of measurement) representing a ratio or concentration",
+        "main_definition_hebrew": "חלקים למיליון (יחידת מדידה) המייצגים יחס או ריכוז",
+        "meanings_and_examples": [
+            {
+                "definition": "a unit used to measure very low concentrations, such as pollutants in air, water, soil or food",
+                "definition_hebrew": "יחידה המשמשת למדידת ריכוזים נמוכים מאוד, כגון מזהמים באוויר, מים, אדמה או מזון",
+                "example": "The lead concentration in the water was found to be 10 ppm.",
+                "example_hebrew": "ריכוז העופרת במים נמצא 10 ppm."
+            },
+            {
+                "definition": "a common shorthand for 'per million' indicating a proportion out of one million units",
+                "definition_hebrew": "קיצור נפוץ של 'למיליון' המציין פרופורציה מתוך מיליון יחידות",
+                "example": "In chemistry, 250 ppm means there are 250 parts of a substance in every one million parts.",
+                "example_hebrew": "בכימיה, 250 ppm פירושו שיש 250 חלקים של חומר בכל מיליון חלקים."
+            },
+            {
+                "definition": "a measure commonly used to represent the concentration or dilution levels in industries like pharmaceuticals and manufacturing",
+                "definition_hebrew": "מדד נפוץ לייצג את רמות הריכוז או הדילול בתעשיות כמו תרופות וייצור",
+                "example": "The drug was diluted to 1 ppm before being administered to patients.",
+                "example_hebrew": "התרופה דוללה ל-1 ppm לפני שניתנה לחולים."
+            },
+            {
+                "definition": "an abbreviation for parts per million, often used informally across various fields including environment science, engineering, and finance",
+                "definition_hebrew": "קיצור של חלקים למיליון, לעתים קרובות בשימוש לא רשמי בתחומים שונים, כולל מדעי הסביבה, הנדסה וכספים",
+                "example": "The air quality report indicated that the pollution level was at 30 ppm of carbon monoxide.",
+                "example_hebrew": "דוח איכות האוויר הצביע על כך שרמת הזיהום היא 30 ppm של פחמן חד חמצני."
+            },
+            {
+                "definition": "a measurement unit utilized in environmental monitoring to express concentrations of gases or chemicals",
+                "definition_hebrew": "יחידת מדידה המשמשת בניטור סביבתי לביטוי ריכוזי גזים או כימיקלים",
+                "example": "The maximum legal limit for sulfur dioxide (SO2) levels is set at 75 ppm over an 8-hour period.",
+                "example_hebrew": "הגבול המקסימלי החוקי לרמות דו-תחמוצת הגופרית (SO2) נקבע על 75 ppm על פני תקופה של 8 שעות."
+            }
+        ]
+    }
+]

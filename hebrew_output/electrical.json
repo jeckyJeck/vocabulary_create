@@ -1,0 +1,40 @@
+[
+    {
+        "word": "electrical",
+        "word_hebrew": "חַשׁמַלִי",
+        "main_definition": "Relating to electricity, the flow of electrons or charge.",
+        "main_definition_hebrew": "מתייחס לחשמל, זרימת אלקטרונים או מטען.",
+        "meanings_and_examples": [
+            {
+                "definition": "Concerning electrical circuits and devices that use electricity.",
+                "definition_hebrew": "לגבי מעגלים חשמליים והתקנים המשתמשים בחשמל.",
+                "example": "The technician repaired the faulty electrical wiring in the house.",
+                "example_hebrew": "הטכנאי תיקן את חיווט החשמל התקול בבית."
+            },
+            {
+                "definition": "Referring to something powered by electricity, such as appliances or tools.",
+                "definition_hebrew": "הכוונה למשהו המופעל באמצעות חשמל, כגון מכשירי חשמל או כלים.",
+                "example": "She unplugged all the electrical devices before leaving home for vacation.",
+                "example_hebrew": "היא ניתקה את כל המכשירים החשמליים לפני שיצאה מהבית לחופשה."
+            },
+            {
+                "definition": "Describing a person who has expertise in dealing with electrical systems and equipment. Often used to refer to an electrician.",
+                "definition_hebrew": "תיאור אדם בעל מומחיות בטיפול במערכות חשמל וציוד. משמש לעתים קרובות להתייחסות לחשמלאי.",
+                "example": "The electrician skillfully fixed the problem within minutes.",
+                "example_hebrew": "החשמלאי פתר את הבעיה במיומנות תוך דקות."
+            },
+            {
+                "definition": "Relating to the study of electricity, its properties, and behavior. Also known as 'electricity studies' or 'physics of electrical phenomena'.",
+                "definition_hebrew": "המתייחס לחקר החשמל, תכונותיו והתנהגותו. ידוע גם בשם 'מחקרי חשמל' או 'פיזיקה של תופעות חשמל'.",
+                "example": "He studied electrical engineering at university to understand how electric currents flow.",
+                "example_hebrew": "הוא למד הנדסת חשמל באוניברסיטה כדי להבין כיצד זורמים זרמים חשמליים."
+            },
+            {
+                "definition": "Pertaining to a state in which something is charged or has the capacity for carrying an electrical charge.",
+                "definition_hebrew": "הנוגע למצב בו משהו נטען או בעל יכולת לשאת מטען חשמלי.",
+                "example": "When the object was rubbed, it became electrically charged and could attract small pieces of paper.",
+                "example_hebrew": "כאשר החפץ נשפשף, הוא נטען חשמלית ויכול היה למשוך פיסות נייר קטנות."
+            }
+        ]
+    }
+]

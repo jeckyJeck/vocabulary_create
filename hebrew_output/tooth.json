@@ -1,0 +1,34 @@
+[
+    {
+        "word": "tooth",
+        "word_hebrew": "שן",
+        "main_definition": "Tooth is a hard, calcified structure found in the jaws of many vertebrates that is used to break down food.",
+        "main_definition_hebrew": "שן היא מבנה קשה ומסויד המצוי בלסתות של בעלי חוליות רבים המשמש לפירוק מזון.",
+        "meanings_and_examples": [
+            {
+                "definition": "A part of the mouth containing an incisor, canine, premolar or molar tooth",
+                "definition_hebrew": "חלק מהפה המכיל שן חותכת, כלב, שן קדם-טוחנות או טוחנות",
+                "example": "She brushed her teeth before bedtime.",
+                "example_hebrew": "היא צחצחה שיניים לפני השינה."
+            },
+            {
+                "definition": "Refers to losing a tooth due to decay or injury",
+                "definition_hebrew": "הכוונה לאיבוד שן עקב עששת או פציעה",
+                "example": "He had his first tooth pulled out when he was five years old.",
+                "example_hebrew": "את השן הראשונה שלו עקרה כשהיה בן חמש."
+            },
+            {
+                "definition": "Used in idiomatic expressions such as 'to bite the bullet' which means facing something difficult with courage and determination, metaphorically biting down on a tooth",
+                "definition_hebrew": "משמש בביטויים אידיומטיים כמו 'לנשוך את הכדור' שפירושו להתמודד עם משהו קשה באומץ ובנחישות, באופן מטפורי לנשוך שן",
+                "example": "He knew he had to face his fears head-on; it was time for him to bite the bullet.",
+                "example_hebrew": "הוא ידע שעליו להתמודד חזיתית עם הפחדים שלו; הגיע הזמן בשבילו לנשוך את הכדור."
+            },
+            {
+                "definition": "Used in phrases like 'to have one's teeth clenched', meaning gripping something tightly",
+                "definition_hebrew": "משמש בביטויים כמו 'שיניים חשוקות', כלומר אחיזת משהו בחוזקה",
+                "example": "When he found out about his friend's betrayal, he had his teeth clenched.",
+                "example_hebrew": "כשנודע לו על בגידתו של חברו, נקשו לו שיניים."
+            }
+        ]
+    }
+]

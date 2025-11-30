@@ -1,0 +1,28 @@
+[
+    {
+        "word": "infected",
+        "word_hebrew": "נגוע",
+        "main_definition": "Affected or contaminated by a harmful agent, such as bacteria, viruses, or toxic substances.",
+        "main_definition_hebrew": "מושפע או מזוהם מגורם מזיק, כגון חיידקים, וירוסים או חומרים רעילים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In relation to diseases or health conditions",
+                "definition_hebrew": "ביחס למחלות או מצבים בריאותיים",
+                "example": "After touching the infected wound, it's important to wash your hands thoroughly.",
+                "example_hebrew": "לאחר נגיעה בפצע הנגוע, חשוב לשטוף את הידיים היטב."
+            },
+            {
+                "definition": "Impacted by a malicious computer program or virus",
+                "definition_hebrew": "מושפע מתוכנת מחשב זדונית או וירוס",
+                "example": "The computer is now infected with a ransomware that encrypts all files.",
+                "example_hebrew": "המחשב נגוע כעת בתוכנת כופר שמצפינה את כל הקבצים."
+            },
+            {
+                "definition": "Affected by the influence of an adverse idea, belief, or emotion",
+                "definition_hebrew": "מושפע מהשפעה של רעיון, אמונה או רגש שליליים",
+                "example": "He became infected with her enthusiasm and started to believe in his dreams more strongly.",
+                "example_hebrew": "הוא נדבק בהתלהבות שלה והתחיל להאמין בחלומותיו ביתר שאת."
+            }
+        ]
+    }
+]

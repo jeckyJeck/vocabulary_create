@@ -1,0 +1,28 @@
+[
+    {
+        "word": "locale",
+        "word_hebrew": "מקומי",
+        "main_definition": "A locale is a geographical or cultural location, often with specific characteristics or attributes.",
+        "main_definition_hebrew": "מיקום הוא מיקום גיאוגרפי או תרבותי, לעתים קרובות עם מאפיינים או תכונות ספציפיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Geographical location",
+                "definition_hebrew": "מיקום גאוגרפי",
+                "example": "The local café in the downtown area serves traditional dishes from around the world.",
+                "example_hebrew": "בית הקפה המקומי באזור מרכז העיר מגיש מנות מסורתיות מרחבי העולם."
+            },
+            {
+                "definition": "Cultural region or setting",
+                "definition_hebrew": "אזור או תפאורה תרבותית",
+                "example": "The locale of Shakespeare's plays is often a significant aspect, as it reflects the English society and customs of his time.",
+                "example_hebrew": "המקום של מחזותיו של שייקספיר הוא לעתים קרובות היבט משמעותי, שכן הוא משקף את החברה האנגלית ואת המנהגים של זמנו."
+            },
+            {
+                "definition": "Specific software context",
+                "definition_hebrew": "הקשר תוכנה ספציפי",
+                "example": "The application settings were adjusted according to the user's locale for language preferences and date format.",
+                "example_hebrew": "הגדרות האפליקציה הותאמו בהתאם לאזור המשתמש להעדפות שפה ופורמט תאריך."
+            }
+        ]
+    }
+]

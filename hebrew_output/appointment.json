@@ -1,0 +1,40 @@
+[
+    {
+        "word": "appointment",
+        "word_hebrew": "קביעת פגישה",
+        "main_definition": "An arrangement to meet someone at a specific time and place, or the act of assigning a particular role or responsibility.",
+        "main_definition_hebrew": "סידור לפגוש מישהו בזמן ובמקום ספציפיים, או פעולה של הקצאת תפקיד או אחריות מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "A scheduled meeting between two parties",
+                "definition_hebrew": "פגישה מתוכננת בין שני צדדים",
+                "example": "I have an appointment with my doctor tomorrow morning.",
+                "example_hebrew": "יש לי תור לרופא שלי מחר בבוקר."
+            },
+            {
+                "definition": "Assigning a person to a position or task",
+                "definition_hebrew": "שיוך אדם לתפקיד או משימה",
+                "example": "The boss appointed John as the team leader for this project.",
+                "example_hebrew": "הבוס מינה את ג'ון כראש הצוות לפרויקט זה."
+            },
+            {
+                "definition": "A date set in advance for some event or activity",
+                "definition_hebrew": "תאריך שנקבע מראש לאירוע או פעילות כלשהי",
+                "example": "We have an appointment with our travel agent next week to finalize our vacation plans.",
+                "example_hebrew": "יש לנו פגישה עם סוכן הנסיעות שלנו בשבוע הבא כדי לסיים את תוכניות החופשה שלנו."
+            },
+            {
+                "definition": "An official meeting between government officials",
+                "definition_hebrew": "פגישה רשמית בין גורמי ממשל",
+                "example": "The president and the foreign minister had a closed-door appointment today.",
+                "example_hebrew": "לנשיא ולשר החוץ היה היום מינוי בדלתיים סגורות."
+            },
+            {
+                "definition": "A scheduled period of time when a student must be present for class or tutoring",
+                "definition_hebrew": "פרק זמן מתוכנן שבו תלמיד חייב להיות נוכח בשיעור או בהדרכה",
+                "example": "She missed her appointment with the math tutor because she overslept.",
+                "example_hebrew": "היא החמיצה את הפגישה עם המורה למתמטיקה כי היא ישנה יתר על המידה."
+            }
+        ]
+    }
+]

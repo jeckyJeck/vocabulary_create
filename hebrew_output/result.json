@@ -1,0 +1,34 @@
+[
+    {
+        "word": "result",
+        "word_hebrew": "תוֹצָאָה",
+        "main_definition": "The outcome or consequence of an action, process, or event.",
+        "main_definition_hebrew": "התוצאה או התוצאה של פעולה, תהליך או אירוע.",
+        "meanings_and_examples": [
+            {
+                "definition": "A product obtained after a calculation, experiment, or analysis is completed.",
+                "definition_hebrew": "מוצר שהושג לאחר השלמת חישוב, ניסוי או ניתוח.",
+                "example": "After conducting the survey, we have results that show 60% of people prefer brand A.",
+                "example_hebrew": "לאחר ביצוע הסקר, יש לנו תוצאות שמראות ש-60% מהאנשים מעדיפים את מותג A."
+            },
+            {
+                "definition": "The end or outcome of an event, situation, or process.",
+                "definition_hebrew": "הסוף או התוצאה של אירוע, מצב או תהליך.",
+                "example": "We're eager to see what the result will be after the election.",
+                "example_hebrew": "אנחנו להוטים לראות מה תהיה התוצאה לאחר הבחירות."
+            },
+            {
+                "definition": "An effect or consequence that follows from a particular cause or action.",
+                "definition_hebrew": "תוצאה או תוצאה הנובעת מסיבה או פעולה מסוימת.",
+                "example": "The results of his hard work were evident in the success of the project.",
+                "example_hebrew": "תוצאות עבודתו הקשה ניכרו בהצלחת הפרויקט."
+            },
+            {
+                "definition": "A finding, fact, or conclusion derived from data, analysis, or research.",
+                "definition_hebrew": "ממצא, עובדה או מסקנה שנגזרו מנתונים, ניתוח או מחקר.",
+                "example": "The study's result indicated a strong correlation between exercise and improved mental health.",
+                "example_hebrew": "תוצאת המחקר הצביעה על מתאם חזק בין פעילות גופנית לשיפור הבריאות הנפשית."
+            }
+        ]
+    }
+]

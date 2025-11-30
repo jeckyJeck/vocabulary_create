@@ -1,0 +1,28 @@
+[
+    {
+        "word": "examinations",
+        "word_hebrew": "בחינות",
+        "main_definition": "Examinations are a series of tests or assessments designed to evaluate the knowledge, skills, or abilities of individuals in various subjects or fields.",
+        "main_definition_hebrew": "בחינות הן סדרה של מבחנים או הערכות שנועדו להעריך את הידע, הכישורים או היכולות של אנשים בנושאים או תחומים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "School-related testing",
+                "definition_hebrew": "בדיקות הקשורות לבית הספר",
+                "example": "Students often face high-stakes examinations like final exams and standardized tests to determine their academic progress.",
+                "example_hebrew": "סטודנטים מתמודדים לעתים קרובות עם בחינות עם סיכון גבוה כמו בחינות גמר ומבחנים סטנדרטיים כדי לקבוע את ההתקדמות האקדמית שלהם."
+            },
+            {
+                "definition": "Professional or certification assessments",
+                "definition_hebrew": "הערכות מקצועיות או הסמכה",
+                "example": "A software developer may need to pass a series of technical examinations to earn professional certifications such as the C# Expert Certification from Microsoft.",
+                "example_hebrew": "ייתכן שמפתח תוכנה יצטרך לעבור סדרה של מבחנים טכניים כדי לזכות בהסמכות מקצועיות כמו הסמכת C# Expert מבית מיקרוסופט."
+            },
+            {
+                "definition": "Healthcare diagnostic procedures",
+                "definition_hebrew": "נהלי אבחון של שירותי בריאות",
+                "example": "Doctors use medical examinations, which can include physical exams and lab tests, to diagnose illnesses or conditions in patients.",
+                "example_hebrew": "רופאים משתמשים בבדיקות רפואיות, שיכולות לכלול בדיקות גופניות ובדיקות מעבדה, כדי לאבחן מחלות או מצבים בחולים."
+            }
+        ]
+    }
+]

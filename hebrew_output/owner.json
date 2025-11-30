@@ -1,0 +1,34 @@
+[
+    {
+        "word": "owner",
+        "word_hebrew": "בעלים",
+        "main_definition": "An owner is a person or entity that has legal possession, control, or responsibility over an object, property, organization, or intellectual creation.",
+        "main_definition_hebrew": "בעלים הוא אדם או ישות שיש להם החזקה חוקית, שליטה או אחריות על חפץ, רכוש, ארגון או יצירה אינטלקטואלית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Owner of a physical asset like a car, house, or land",
+                "definition_hebrew": "בעלים של נכס פיזי כמו מכונית, בית או קרקע",
+                "example": "John is the owner of his red 2018 Tesla Model S.",
+                "example_hebrew": "ג'ון הוא הבעלים של טסלה מודל S האדומה 2018 שלו."
+            },
+            {
+                "definition": "Owner of an organization such as a business or company",
+                "definition_hebrew": "בעלים של ארגון כגון עסק או חברה",
+                "example": "Jennifer Smith is the CEO and owner of XYZ Corporation, a multinational technology firm.",
+                "example_hebrew": "ג'ניפר סמית היא המנכ\"לית והבעלים של XYZ Corporation, חברת טכנולוגיה רב לאומית."
+            },
+            {
+                "definition": "Person responsible for maintaining and managing intellectual property rights (e.g., author, inventor)",
+                "definition_hebrew": "אדם האחראי על שמירה וניהול של זכויות קניין רוחני (למשל, מחבר, ממציא)",
+                "example": "The author of the Harry Potter series, J.K. Rowling, is the owner of her literary creations.",
+                "example_hebrew": "מחבר סדרת הארי פוטר, J.K. רולינג, היא הבעלים של יצירותיה הספרותיות."
+            },
+            {
+                "definition": "Legal custodian or guardian of an individual who cannot take care of themselves",
+                "definition_hebrew": "אפוטרופוס חוקי או אפוטרופוס של אדם שאינו יכול לדאוג לעצמו",
+                "example": "Mary was appointed as the legal guardian and owner of her nephew's well-being after his parents passed away.",
+                "example_hebrew": "מרי מונתה לאפוטרופוס החוקי ולבעלים של שלומו של אחיינה לאחר שהוריו נפטרו."
+            }
+        ]
+    }
+]

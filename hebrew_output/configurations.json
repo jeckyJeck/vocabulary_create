@@ -1,0 +1,34 @@
+[
+    {
+        "word": "configurations",
+        "word_hebrew": "תצורות",
+        "main_definition": "Configurations refer to the various ways in which a system, device or concept can be set up, arranged, organized, or adapted.",
+        "main_definition_hebrew": "תצורות מתייחסות לדרכים השונות בהן ניתן להגדיר, לארגן, לארגן או להתאים מערכת, מכשיר או קונספט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Arrangements of physical components and settings within hardware devices",
+                "definition_hebrew": "הסדרים של רכיבים פיזיים והגדרות בתוך התקני חומרה",
+                "example": "The configurations for setting up a computer involve adjusting the BIOS settings, installing operating systems, configuring network settings, etc.",
+                "example_hebrew": "התצורות להגדרת מחשב כוללות התאמת הגדרות ה-BIOS, התקנת מערכות הפעלה, קביעת הגדרות רשת וכו'."
+            },
+            {
+                "definition": "Possible ways in which software can be set up or structured",
+                "definition_hebrew": "דרכים אפשריות שבהן ניתן להגדיר או לבנות תוכנה",
+                "example": "A word processing application has various configuration options like font style and size, margin settings, paragraph alignment, etc.",
+                "example_hebrew": "ליישום עיבוד תמלילים יש אפשרויות תצורה שונות כמו סגנון וגודל גופן, הגדרות שוליים, יישור פסקאות וכו'."
+            },
+            {
+                "definition": "The different variations of data models used to organize information within a database system",
+                "definition_hebrew": "הווריאציות השונות של מודלים נתונים המשמשים לארגון מידע בתוך מערכת מסד נתונים",
+                "example": "In a relational database management system (RDBMS), configurations can include setting up tables, defining relationships between them, and establishing constraints on the data.",
+                "example_hebrew": "במערכת ניהול מסד נתונים יחסי (RDBMS), תצורות יכולות לכלול הגדרת טבלאות, הגדרת קשרים ביניהן והקמת אילוצים על הנתונים."
+            },
+            {
+                "definition": "Various arrangements of elements in a graphical or visual presentation",
+                "definition_hebrew": "סידורים שונים של אלמנטים במצגת גרפית או חזותית",
+                "example": "Graphic designers work with different configurations of colors, shapes, fonts, and layouts to create visually appealing designs.",
+                "example_hebrew": "מעצבים גרפיים עובדים עם תצורות שונות של צבעים, צורות, גופנים ופריסות כדי ליצור עיצובים מושכים מבחינה ויזואלית."
+            }
+        ]
+    }
+]

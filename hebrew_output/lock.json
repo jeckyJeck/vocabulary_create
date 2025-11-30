@@ -1,0 +1,28 @@
+[
+    {
+        "word": "lock",
+        "word_hebrew": "לנעול",
+        "main_definition": "A device or mechanism used to fasten or secure something by preventing movement or access without a specific key or combination.",
+        "main_definition_hebrew": "מכשיר או מנגנון המשמשים להדק או לאבטחת משהו על ידי מניעת תנועה או גישה ללא מפתח או שילוב ספציפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To physically secure something with a lock, such as a door or container",
+                "definition_hebrew": "לאבטח פיזית משהו עם מנעול, כגון דלת או מכולה",
+                "example": "She locked the front door before leaving her house.",
+                "example_hebrew": "היא נעלה את דלת הכניסה לפני שיצאה מביתה."
+            },
+            {
+                "definition": "A metaphorical reference to securing oneself from potential harm or danger in relationships, situations, etc.",
+                "definition_hebrew": "התייחסות מטפורית להבטחת עצמך מפני פגיעה פוטנציאלית או סכנה במערכות יחסים, מצבים וכו'.",
+                "example": "He's put a lock on himself by cutting off all ties with his ex-girlfriend.",
+                "example_hebrew": "הוא שם נעל על עצמו בכך שניתק כל קשר עם חברתו לשעבר."
+            },
+            {
+                "definition": "To prevent access to something by using encryption or digital security measures",
+                "definition_hebrew": "כדי למנוע גישה למשהו באמצעות הצפנה או אמצעי אבטחה דיגיטליים",
+                "example": "The company used strong passwords and encrypted their data to keep it locked from unauthorized users.",
+                "example_hebrew": "החברה השתמשה בסיסמאות חזקות והצפינה את הנתונים שלה כדי לשמור אותם נעול מפני משתמשים לא מורשים."
+            }
+        ]
+    }
+]

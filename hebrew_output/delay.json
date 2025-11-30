@@ -1,0 +1,34 @@
+[
+    {
+        "word": "delay",
+        "word_hebrew": "לְעַכֵּב",
+        "main_definition": "A situation where something happens later than expected or planned.",
+        "main_definition_hebrew": "מצב שבו משהו קורה מאוחר מהצפוי או המתוכנן.",
+        "meanings_and_examples": [
+            {
+                "definition": "Postpone an action or event",
+                "definition_hebrew": "דחה פעולה או אירוע",
+                "example": "Due to bad weather, the school decided to delay the start of classes by one hour.",
+                "example_hebrew": "בשל מזג האוויר הגרוע החליטו בבית הספר לדחות את תחילת הלימודים בשעה."
+            },
+            {
+                "definition": "The time taken for something to occur after it has started",
+                "definition_hebrew": "הזמן שלוקח למשהו להתרחש לאחר שהוא התחיל",
+                "example": "The delivery of our package was delayed because of customs clearance.",
+                "example_hebrew": "משלוח החבילה שלנו התעכב בגלל שחרור מהמכס."
+            },
+            {
+                "definition": "A delay in a transportation system, such as a train or plane",
+                "definition_hebrew": "עיכוב במערכת תחבורה, כגון רכבת או מטוס",
+                "example": "Our flight got delayed by two hours due to air traffic congestion.",
+                "example_hebrew": "הטיסה שלנו התעכבה בשעתיים בגלל עומס בתנועה האווירית."
+            },
+            {
+                "definition": "An intentional slowdown for political reasons",
+                "definition_hebrew": "האטה מכוונת מסיבות פוליטיות",
+                "example": "The union decided to delay the work shift in order to negotiate better pay conditions.",
+                "example_hebrew": "באיגוד החליטו לדחות את משמרת העבודה כדי לנהל משא ומתן על תנאי שכר טובים יותר."
+            }
+        ]
+    }
+]

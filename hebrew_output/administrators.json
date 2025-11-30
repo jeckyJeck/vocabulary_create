@@ -1,0 +1,34 @@
+[
+    {
+        "word": "administrators",
+        "word_hebrew": "מנהלים",
+        "main_definition": "Administrators are individuals responsible for managing, organizing, and overseeing operations within an organization or system.",
+        "main_definition_hebrew": "מנהלי מערכת הם אנשים האחראים על ניהול, ארגון ופיקוח על פעולות בתוך ארגון או מערכת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Individuals who manage resources in an institution like a school or company",
+                "definition_hebrew": "אנשים שמנהלים משאבים במוסד כמו בית ספר או חברה",
+                "example": "The administrators at the university ensure that all departments function smoothly and efficiently.",
+                "example_hebrew": "המנהלים באוניברסיטה מבטיחים שכל המחלקות יפעלו בצורה חלקה ויעילה."
+            },
+            {
+                "definition": "People responsible for maintaining computer systems, networks, and data integrity",
+                "definition_hebrew": "אנשים האחראים לתחזוקת מערכות מחשב, רשתות ושלמות הנתונים",
+                "example": "System administrators regularly update software to protect against security vulnerabilities.",
+                "example_hebrew": "מנהלי מערכת מעדכנים באופן קבוע תוכנה כדי להגן מפני פרצות אבטחה."
+            },
+            {
+                "definition": "Personnel who enforce rules and regulations within a community or organization",
+                "definition_hebrew": "כוח אדם האוכפים חוקים וכללים בתוך קהילה או ארגון",
+                "example": "The park administrators ensure that visitors follow the posted guidelines for maintaining cleanliness and safety.",
+                "example_hebrew": "מנהלי הפארק מבטיחים שהמבקרים ימלאו אחר ההנחיות שפורסמו לשמירה על ניקיון ובטיחות."
+            },
+            {
+                "definition": "Leaders of governmental departments, such as city hall or state agencies",
+                "definition_hebrew": "מנהיגי מחלקות ממשלתיות, כגון בניין העירייה או סוכנויות מדינה",
+                "example": "State administrators are responsible for implementing public policies and programs at the local level.",
+                "example_hebrew": "מנהלי המדינה אחראים ליישום מדיניות ותוכניות ציבוריות ברמה המקומית."
+            }
+        ]
+    }
+]

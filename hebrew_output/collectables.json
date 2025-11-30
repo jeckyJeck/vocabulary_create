@@ -1,0 +1,34 @@
+[
+    {
+        "word": "collectables",
+        "word_hebrew": "פריטי אספנות",
+        "main_definition": "Items that are often sought after, collected, or traded by enthusiasts due to their rarity, value, aesthetic appeal, or historical significance.",
+        "main_definition_hebrew": "פריטים שלעתים קרובות מבוקשים, נאספים או נסחרים על ידי חובבים בשל נדירותם, ערכם, משיכה אסתטית או משמעות היסטורית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical items such as stamps, coins, and antiques that are often collected for personal enjoyment or investment purposes",
+                "definition_hebrew": "פריטים פיזיים כגון בולים, מטבעות ועתיקות שנאספים לרוב להנאה אישית או למטרות השקעה",
+                "example": "John has a collection of vintage postcards from the 19th century.",
+                "example_hebrew": "לג'ון יש אוסף של גלויות וינטג' מהמאה ה-19."
+            },
+            {
+                "definition": "Items related to popular culture such as figurines, memorabilia, and action figures that are often collected for nostalgic or decorative purposes",
+                "definition_hebrew": "פריטים הקשורים לתרבות פופולרית כמו פסלונים, מזכרות ודמויות פעולה שנאספות לרוב למטרות נוסטלגיות או דקורטיביות",
+                "example": "Sarah has a collection of Beanie Babies from the 1990s.",
+                "example_hebrew": "לשרה יש אוסף של Beanie Babies משנות ה-90."
+            },
+            {
+                "definition": "Items with sentimental value like family heirlooms, antique jewelry, and personal mementos that are often cherished for their emotional significance",
+                "definition_hebrew": "פריטים בעלי ערך סנטימנטלי כמו ירושה משפחתית, תכשיטים עתיקים ומזכרות אישיות שלעתים קרובות מוקירים בגלל המשמעות הרגשית שלהם",
+                "example": "Emily inherited a rare Fabergé egg from her grandmother.",
+                "example_hebrew": "אמילי ירשה ביצת פברז'ה נדירה מסבתה."
+            },
+            {
+                "definition": "Things of interest to collectors or hobbyists such as comic books, trading cards, and model cars that are often collected due to their appeal in the community",
+                "definition_hebrew": "דברים שמעניינים אספנים או חובבים כגון חוברות קומיקס, כרטיסי מסחר ודגמי מכוניות שנאספים לעתים קרובות בשל כוח המשיכה שלהם בקהילה",
+                "example": "David is an avid collector of first-edition Marvel comics.",
+                "example_hebrew": "דייוויד הוא אספן נלהב של קומיקס מהדורה ראשונה של מארוול."
+            }
+        ]
+    }
+]

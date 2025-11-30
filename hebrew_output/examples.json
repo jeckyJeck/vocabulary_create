@@ -1,0 +1,28 @@
+[
+    {
+        "word": "examples",
+        "word_hebrew": "דוגמאות",
+        "main_definition": "The term 'examples' refers to instances or cases that demonstrate a particular concept, idea, or phenomenon.",
+        "main_definition_hebrew": "המונח 'דוגמאות' מתייחס למקרים או למקרים המדגימים מושג, רעיון או תופעה מסוימים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Noun - Instances used to illustrate a point or concept",
+                "definition_hebrew": "שם עצם - מופעים המשמשים להמחשת נקודה או מושג",
+                "example": "Here are some examples of renewable energy sources: solar power and wind energy.",
+                "example_hebrew": "הנה כמה דוגמאות למקורות אנרגיה מתחדשים: אנרגיה סולארית ואנרגיית רוח."
+            },
+            {
+                "definition": "Verb - To provide instances that clarify an explanation or idea",
+                "definition_hebrew": "פועל - לספק מקרים המבהירים הסבר או רעיון",
+                "example": "Let me give you some examples to help you understand the process better.",
+                "example_hebrew": "תן לי לתת לך כמה דוגמאות כדי לעזור לך להבין את התהליך טוב יותר."
+            },
+            {
+                "definition": "Plural noun - Examples used in literature, research papers, and discussions to support arguments or illustrate ideas",
+                "definition_hebrew": "שם עצם רבים - דוגמאות המשמשות בספרות, מאמרי מחקר ודיונים כדי לתמוך בטיעונים או להמחשת רעיונות",
+                "example": "The author provides several examples of how technology affects society.",
+                "example_hebrew": "המחבר מספק מספר דוגמאות כיצד טכנולוגיה משפיעה על החברה."
+            }
+        ]
+    }
+]

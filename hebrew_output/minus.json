@@ -1,0 +1,28 @@
+[
+    {
+        "word": "minus",
+        "word_hebrew": "מִינוּס",
+        "main_definition": "Minus is primarily used as a mathematical term to denote subtraction, but it can also be an idiom indicating something lacking or less than the complete amount.",
+        "main_definition_hebrew": "מינוס משמש בעיקר כמונח מתמטי לציון חיסור, אבל זה יכול להיות גם ניב המציין משהו חסר או פחות מהסכום המלא.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mathematical symbol representing subtraction",
+                "definition_hebrew": "סמל מתמטי המייצג חיסור",
+                "example": "To calculate 10 minus 3 results in 7.",
+                "example_hebrew": "כדי לחשב 10 פחות 3 תוצאות ב-7."
+            },
+            {
+                "definition": "Used to indicate a deficiency or lack of something",
+                "definition_hebrew": "משמש להצביע על חוסר או חוסר במשהו",
+                "example": "After the storm, there were only minus trees left standing.",
+                "example_hebrew": "לאחר הסערה נותרו רק עצי מינוס עומדים."
+            },
+            {
+                "definition": "Indicating an amount less than another due to deductions or losses",
+                "definition_hebrew": "ציון סכום נמוך מאחר עקב ניכויים או הפסדים",
+                "example": "His salary is $3000 per month, but after taxes and other expenses, it's often seen as minus the full amount.",
+                "example_hebrew": "המשכורת שלו היא 3000$ לחודש, אבל אחרי מיסים והוצאות אחרות, זה נתפס לעתים קרובות כמינוס הסכום המלא."
+            }
+        ]
+    }
+]

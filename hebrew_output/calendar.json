@@ -1,0 +1,40 @@
+[
+    {
+        "word": "calendar",
+        "word_hebrew": "לוּחַ שָׁנָה",
+        "main_definition": "A system used to organize days, weeks, months, and years, typically in chronological order, to track events, appointments, or holidays.",
+        "main_definition_hebrew": "מערכת המשמשת לארגון ימים, שבועות, חודשים ושנים, בדרך כלל בסדר כרונולוגי, למעקב אחר אירועים, פגישות או חגים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A physical book with pages divided into columns representing each day of the year",
+                "definition_hebrew": "ספר פיזי עם דפים המחולקים לטורים המייצגים כל יום בשנה",
+                "example": "She checked her wall calendar hanging in the kitchen before leaving for work.",
+                "example_hebrew": "היא בדקה את לוח השנה הקיר שלה התלוי במטבח לפני שיצאה לעבודה."
+            },
+            {
+                "definition": "An electronic or online tool to manage, display, and schedule events and appointments",
+                "definition_hebrew": "כלי אלקטרוני או מקוון לניהול, תצוגה ותזמון אירועים ופגישות",
+                "example": "He uses his smartphone app as a digital calendar to keep track of meetings and deadlines.",
+                "example_hebrew": "הוא משתמש באפליקציית הסמארטפון שלו כלוח שנה דיגיטלי כדי לעקוב אחר פגישות ותאריכים."
+            },
+            {
+                "definition": "A record of holidays, public observances, or other special days throughout the year",
+                "definition_hebrew": "תיעוד של חגים, מצוות ציבוריות או ימים מיוחדים אחרים במהלך השנה",
+                "example": "The office provided each employee with a printed calendar listing national holidays for planning vacations.",
+                "example_hebrew": "המשרד סיפק לכל עובד לוח שנה מודפס המפרט את החגים הלאומיים לתכנון חופשות."
+            },
+            {
+                "definition": "An aggregate representation of dates and events within specific time frames (e.g., fiscal quarters, sports seasons)",
+                "definition_hebrew": "ייצוג מצטבר של תאריכים ואירועים במסגרות זמן ספציפיות (לדוגמה, רבעונים פיסקאליים, עונות ספורט)",
+                "example": "Financial analysts often refer to the quarterly calendar when examining a company's performance over three months.",
+                "example_hebrew": "אנליסטים פיננסיים מתייחסים לרוב ללוח השנה הרבעוני כאשר הם בוחנים את ביצועי החברה במשך שלושה חודשים."
+            },
+            {
+                "definition": "A tool for determining important dates such as anniversaries, birthdays, or religious observances",
+                "definition_hebrew": "כלי לקביעת תאריכים חשובים כגון ימי נישואין, ימי הולדת או מצוות דתיות",
+                "example": "She uses her computer's built-in reminder system to mark significant personal events on the calendar.",
+                "example_hebrew": "היא משתמשת במערכת התזכורות המובנית במחשב שלה כדי לסמן אירועים אישיים משמעותיים בלוח השנה."
+            }
+        ]
+    }
+]

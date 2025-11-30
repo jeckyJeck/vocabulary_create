@@ -1,0 +1,28 @@
+[
+    {
+        "word": "greg",
+        "word_hebrew": "גרג",
+        "main_definition": "The word 'greg' is not a recognized idiom or common English phrase, but if it were to be defined hypothetically based on similar-sounding words, we could create fictional meanings and examples. Since there are no established definitions for the term 'greg', below I will craft some made-up meanings along with their respective examples in JSON format.",
+        "main_definition_hebrew": "המילה 'גרג' אינה ביטוי מוכר או ביטוי באנגלית נפוץ, אך אם היא תוגדר בהיפותטית על סמך מילים בעלות צלילים דומה, נוכל ליצור משמעויות ודוגמאות בדיוניות. מכיוון שאין הגדרות מבוססות למונח 'גרג', להלן אצור כמה משמעויות מורכבות יחד עם הדוגמאות שלהן בפורמט JSON.",
+        "meanings_and_examples": [
+            {
+                "definition": "'Greg' as a slang term meaning someone who is easily influenced or swayed by others",
+                "definition_hebrew": "'גרג' כמונח סלנג שפירושו מישהו שאחרים מושפעים או מושפעים ממנו בקלות",
+                "example": "He was such a greg; he changed his mind about the project after just one teammate expressed an opinion.",
+                "example_hebrew": "הוא היה כזה גרג; הוא שינה את דעתו לגבי הפרויקט לאחר שרק חבר אחד לצוות הביע דעה."
+            },
+            {
+                "definition": "'Greg' used to describe something that stands out in a crowd due to its color or appearance, similar to 'gregarious.'",
+                "definition_hebrew": "'גרג' נהג לתאר משהו שבולט בקהל בשל צבעו או המראה שלו, בדומה ל'חברי'.",
+                "example": "The bright yellow greg flower caught everyone's attention at the garden party.",
+                "example_hebrew": "פרח הגרג הצהוב הבוהק משך את תשומת הלב של כולם במסיבת הגן."
+            },
+            {
+                "definition": "'Greg' as a term referring to an old-fashioned type of small, rectangular container for holding liquids.",
+                "definition_hebrew": "'גרג' כמונח המתייחס לסוג מיושן של מיכל קטן ומלבני להחזקת נוזלים.",
+                "example": "She poured her homemade lemonade into a greg to serve it at the picnic.",
+                "example_hebrew": "היא מזגה את הלימונדה הביתית שלה לתוך גרג כדי להגיש אותה בפיקניק."
+            }
+        ]
+    }
+]

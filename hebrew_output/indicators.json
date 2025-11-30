@@ -1,0 +1,34 @@
+[
+    {
+        "word": "indicators",
+        "word_hebrew": "אינדיקטורים",
+        "main_definition": "Indicators are signals, signs or measurements that provide information about a particular phenomenon, situation, or trend.",
+        "main_definition_hebrew": "אינדיקטורים הם אותות, סימנים או מדידות המספקים מידע על תופעה, מצב או מגמה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Markers of progress in data analysis and statistics.",
+                "definition_hebrew": "סמני התקדמות בניתוח נתונים וסטטיסטיקה.",
+                "example": "In business performance management, sales growth is an important indicator of company success.",
+                "example_hebrew": "בניהול ביצועים עסקיים, צמיחה במכירות היא אינדיקטור חשוב להצלחת החברה."
+            },
+            {
+                "definition": "Signs or signals that help to understand the status or condition of something.",
+                "definition_hebrew": "סימנים או אותות שעוזרים להבין את המצב או המצב של משהו.",
+                "example": "The color change of a litmus paper can act as an indicator for acidity in a solution.",
+                "example_hebrew": "שינוי הצבע של נייר לקמוס יכול לשמש כאינדיקטור לחומציות בתמיסה."
+            },
+            {
+                "definition": "Elements used to measure changes, progress, or trends in various fields such as economics, environment, health, etc.",
+                "definition_hebrew": "אלמנטים המשמשים למדידת שינויים, התקדמות או מגמות בתחומים שונים כגון כלכלה, סביבה, בריאות וכו'.",
+                "example": "In climate science, the increase of greenhouse gas concentrations serves as an indicator for global warming.",
+                "example_hebrew": "במדעי האקלים, העלייה בריכוזי גזי החממה משמשת אינדיקטור להתחממות כדור הארץ."
+            },
+            {
+                "definition": "Tools or mechanisms used to signal a state change or condition in a system.",
+                "definition_hebrew": "כלים או מנגנונים המשמשים לאותת על שינוי מצב או מצב במערכת.",
+                "example": "A thermostat acts as an indicator and control device to maintain room temperature by switching the heating on or off.",
+                "example_hebrew": "תרמוסטט משמש כמחוון וכמכשיר בקרה לשמירה על טמפרטורת החדר על ידי הפעלה או כיבוי של החימום."
+            }
+        ]
+    }
+]

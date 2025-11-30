@@ -1,0 +1,34 @@
+[
+    {
+        "word": "delete",
+        "word_hebrew": "לִמְחוֹק",
+        "main_definition": "To remove or erase something, especially data or content from a digital device.",
+        "main_definition_hebrew": "כדי להסיר או למחוק משהו, במיוחד נתונים או תוכן ממכשיר דיגיטלי.",
+        "meanings_and_examples": [
+            {
+                "definition": "To remove an item or file from a computer or storage device.",
+                "definition_hebrew": "כדי להסיר פריט או קובץ ממחשב או מהתקן אחסון.",
+                "example": "I accidentally deleted my important document, and I need to recover it.",
+                "example_hebrew": "מחקתי בטעות את המסמך החשוב שלי, ואני צריך לשחזר אותו."
+            },
+            {
+                "definition": "To eliminate or get rid of something unwanted or unnecessary.",
+                "definition_hebrew": "לחסל או להיפטר ממשהו לא רצוי או מיותר.",
+                "example": "The janitor had to delete the trash from the hallway before it attracted pests.",
+                "example_hebrew": "השוער נאלץ למחוק את האשפה מהמסדרון לפני שהוא משך מזיקים."
+            },
+            {
+                "definition": "In social situations, to no longer be involved with someone or something.",
+                "definition_hebrew": "במצבים חברתיים, לא להיות יותר מעורב עם מישהו או משהו.",
+                "example": "After their argument, they decided to delete each other from their contacts list.",
+                "example_hebrew": "לאחר הוויכוח שלהם, הם החליטו למחוק אחד את השני מרשימת אנשי הקשר שלהם."
+            },
+            {
+                "definition": "To remove a person's presence in one's life permanently.",
+                "definition_hebrew": "להסיר את נוכחותו של אדם בחייו לצמיתות.",
+                "example": "He deleted her number after she broke his trust.",
+                "example_hebrew": "הוא מחק את המספר שלה אחרי שהיא הפרה את אמונו."
+            }
+        ]
+    }
+]

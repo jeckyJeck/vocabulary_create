@@ -1,0 +1,34 @@
+[
+    {
+        "word": "term",
+        "word_hebrew": "טווח",
+        "main_definition": "A word or phrase used to describe a particular concept, idea, or thing.",
+        "main_definition_hebrew": "מילה או ביטוי המשמשים לתיאור מושג, רעיון או דבר מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "a fixed expression with an implied meaning in the context of language",
+                "definition_hebrew": "ביטוי קבוע בעל משמעות מרומזת בהקשר של שפה",
+                "example": "break the ice",
+                "example_hebrew": "לשבור את הקרח"
+            },
+            {
+                "definition": "a word used in a specific field or area to describe something unique within that domain",
+                "definition_hebrew": "מילה המשמשת בתחום או אזור ספציפי כדי לתאר משהו ייחודי בתוך אותו תחום",
+                "example": "in biology, 'species' is a term used to categorize living organisms",
+                "example_hebrew": "בביולוגיה, 'מינים' הוא מונח המשמש לסווג אורגניזמים חיים"
+            },
+            {
+                "definition": "the amount of time during which an individual performs work at a job",
+                "definition_hebrew": "משך הזמן שבו אדם מבצע עבודה בעבודה",
+                "example": "He works three ten-hour terms per week.",
+                "example_hebrew": "הוא עובד שלוש קדנציות של עשר שעות בשבוע."
+            },
+            {
+                "definition": "a legal period for the performance of duties or the operation of something, such as school or prisons",
+                "definition_hebrew": "תקופה חוקית לביצוע תפקידים או להפעלת משהו, כגון בית ספר או בתי סוהר",
+                "example": "The semester term ends in December and begins again in January.",
+                "example_hebrew": "תקופת הסמסטר מסתיימת בדצמבר ומתחילה שוב בינואר."
+            }
+        ]
+    }
+]

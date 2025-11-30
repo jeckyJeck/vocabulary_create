@@ -1,0 +1,40 @@
+[
+    {
+        "word": "contents",
+        "word_hebrew": "תוכן",
+        "main_definition": "The things that are included or contained within something, such as a document, package, or container.",
+        "main_definition_hebrew": "הדברים הכלולים או הכלולים במשהו, כגון מסמך, חבילה או מיכל.",
+        "meanings_and_examples": [
+            {
+                "definition": "What is inside a physical object like a box or envelope",
+                "definition_hebrew": "מה יש בתוך חפץ פיזי כמו קופסה או מעטפה",
+                "example": "The contents of the package were delivered to my doorstep.",
+                "example_hebrew": "תכולת החבילה נמסרה עד פתח ביתי."
+            },
+            {
+                "definition": "The material, information, and ideas found in written work or document",
+                "definition_hebrew": "החומר, המידע והרעיונות שנמצאים בעבודה כתובה או במסמך",
+                "example": "I skimmed through the contents of the article before deciding it was relevant to me.",
+                "example_hebrew": "רפרפתי על תוכן המאמר לפני שהחלטתי שהוא רלוונטי עבורי."
+            },
+            {
+                "definition": "A list of items, usually organized alphabetically, included in a publication like a magazine or newspaper",
+                "definition_hebrew": "רשימה של פריטים, המאורגנים בדרך כלל בסדר אלפביתי, הכלולים בפרסום כמו מגזין או עיתון",
+                "example": "The back cover contains an index listing all the names and topics covered in this edition's contents.",
+                "example_hebrew": "הכריכה האחורית מכילה אינדקס המפרט את כל השמות והנושאים המכוסים בתוכן מהדורה זו."
+            },
+            {
+                "definition": "What is stored within digital storage devices such as hard drives, USB flash drives, etc.",
+                "definition_hebrew": "מה מאוחסן בתוך התקני אחסון דיגיטליים כגון כוננים קשיחים, כונני הבזק מסוג USB וכו'.",
+                "example": "I checked my device to see what its contents were before I sold it.",
+                "example_hebrew": "בדקתי את המכשיר שלי כדי לראות מה תכולתו לפני שמכרתי אותו."
+            },
+            {
+                "definition": "The substance or essence of something",
+                "definition_hebrew": "המהות או המהות של משהו",
+                "example": "While the specific details may have changed over time, the core contents of our traditions remain intact.",
+                "example_hebrew": "אמנם ייתכן שהפרטים הספציפיים השתנו עם הזמן, אך תוכן הליבה של המסורות שלנו נותר ללא פגע."
+            }
+        ]
+    }
+]

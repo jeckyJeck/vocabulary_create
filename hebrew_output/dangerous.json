@@ -1,0 +1,40 @@
+[
+    {
+        "word": "dangerous",
+        "word_hebrew": "מְסוּכָּן",
+        "main_definition": "Possessing or likely to cause harm, injury, or damage.",
+        "main_definition_hebrew": "בעל או עלול לגרום לנזק, פציעה או נזק.",
+        "meanings_and_examples": [
+            {
+                "definition": "Capable of causing physical harm or injury.",
+                "definition_hebrew": "מסוגל לגרום נזק פיזי או פציעה.",
+                "example": "Swimming in shark-infested waters can be dangerous.",
+                "example_hebrew": "שחייה במים שורצי כרישים עלולה להיות מסוכנת."
+            },
+            {
+                "definition": "Potentially leading to significant loss, damage, or failure.",
+                "definition_hebrew": "עלול להוביל לאובדן משמעותי, נזק או כישלון.",
+                "example": "Driving at high speeds on icy roads is dangerous and may lead to accidents.",
+                "example_hebrew": "נהיגה במהירות גבוהה בכבישים קפואים מסוכנת ועלולה לגרום לתאונות."
+            },
+            {
+                "definition": "Introducing a substantial risk of negative outcomes in various contexts.",
+                "definition_hebrew": "הצגת סיכון משמעותי לתוצאות שליליות בהקשרים שונים.",
+                "example": "Investing all your savings into a volatile stock can be considered dangerous for financial security.",
+                "example_hebrew": "השקעת כל החסכונות שלך במניה תנודתית יכולה להיחשב מסוכנת לביטחון פיננסי."
+            },
+            {
+                "definition": "Unpredictable and likely to cause trouble or complications.",
+                "definition_hebrew": "בלתי צפוי ועלול לגרום לצרות או סיבוכים.",
+                "example": "Navigating through political turmoil in an unstable country is dangerous due to its unpredictability.",
+                "example_hebrew": "ניווט בסערה פוליטית במדינה לא יציבה הוא מסוכן בשל חוסר הניבוי שלה."
+            },
+            {
+                "definition": "Related to situations that involve a high degree of risk.",
+                "definition_hebrew": "קשור למצבים הכרוכים ברמת סיכון גבוהה.",
+                "example": "A construction site without proper safety measures can be very dangerous for workers.",
+                "example_hebrew": "אתר בנייה ללא אמצעי בטיחות מתאימים עלול להיות מסוכן מאוד לעובדים."
+            }
+        ]
+    }
+]

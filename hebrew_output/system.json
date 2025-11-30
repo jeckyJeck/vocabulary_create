@@ -1,0 +1,40 @@
+[
+    {
+        "word": "system",
+        "word_hebrew": "מערכת",
+        "main_definition": "A system is a set of connected parts working together as a whole, often used to describe complex organizations or structures with interrelated components.",
+        "main_definition_hebrew": "מערכת היא קבוצה של חלקים מחוברים הפועלים יחד כמכלול, המשמשים לעתים קרובות לתיאור ארגונים או מבנים מורכבים עם רכיבים הקשורים זה בזה.",
+        "meanings_and_examples": [
+            {
+                "definition": "An organized group of objects or concepts related in such a way that they form a coherent whole",
+                "definition_hebrew": "קבוצה מאורגנת של אובייקטים או מושגים הקשורים בצורה כזו שהם יוצרים שלם קוהרנטי",
+                "example": "The solar system consists of the sun and all the celestial bodies orbiting it.",
+                "example_hebrew": "מערכת השמש מורכבת מהשמש ומכל גרמי השמים המקיפים אותה."
+            },
+            {
+                "definition": "A set of principles or procedures intended to achieve a particular result",
+                "definition_hebrew": "קבוצה של עקרונות או נהלים שנועדו להשיג תוצאה מסוימת",
+                "example": "The company implemented a new system for managing customer relationships, resulting in increased efficiency and satisfaction.",
+                "example_hebrew": "החברה הטמיעה מערכת חדשה לניהול קשרי לקוחות, שהביאה להגברת היעילות ושביעות הרצון."
+            },
+            {
+                "definition": "A collection of elements that are related through some form of interconnectivity",
+                "definition_hebrew": "אוסף של אלמנטים הקשורים דרך צורה כלשהי של קישוריות",
+                "example": "In computer science, an operating system is a complex system made up of various components such as hardware drivers, kernel, user interfaces, etc.",
+                "example_hebrew": "במדעי המחשב, מערכת הפעלה היא מערכת מורכבת המורכבת ממרכיבים שונים כמו מנהלי חומרה, גרעין, ממשקי משתמש וכו'."
+            },
+            {
+                "definition": "A group or network of people who work together to achieve common goals",
+                "definition_hebrew": "קבוצה או רשת של אנשים הפועלים יחד כדי להשיג מטרות משותפות",
+                "example": "The healthcare system consists of doctors, nurses, hospitals, and other medical professionals working together to provide care for patients.",
+                "example_hebrew": "מערכת הבריאות מורכבת מרופאים, אחיות, בתי חולים ואנשי מקצוע רפואיים אחרים הפועלים יחד כדי לספק טיפול לחולים."
+            },
+            {
+                "definition": "An interconnected set of machines or devices that function collectively",
+                "definition_hebrew": "קבוצה מקושרת של מכונות או התקנים הפועלים באופן קולקטיבי",
+                "example": "In manufacturing, an assembly line system is used to produce goods efficiently by having different workers perform specific tasks in a sequence.",
+                "example_hebrew": "בייצור, מערכת פס ייצור משמשת לייצור סחורות ביעילות על ידי כך שעובדים שונים יבצעו משימות ספציפיות ברצף."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "batch",
+        "word_hebrew": "קבוצה",
+        "main_definition": "A group of items processed or completed at the same time.",
+        "main_definition_hebrew": "קבוצת פריטים שעובדו או הושלמו בו-זמנית.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing, a batch refers to a collection of data or programs that are processed together as a unit by an operating system or software application.",
+                "definition_hebrew": "במחשוב, אצווה מתייחסת לאוסף של נתונים או תוכניות המעובדים יחד כיחידה על ידי מערכת הפעלה או יישום תוכנה.",
+                "example": "The user submitted all his files in one batch for processing.",
+                "example_hebrew": "המשתמש שלח את כל הקבצים שלו באצווה אחת לעיבוד."
+            },
+            {
+                "definition": "A group of goods produced at the same time in manufacturing or production processes, usually before being shipped to customers.",
+                "definition_hebrew": "קבוצת סחורות המיוצרות במקביל בתהליכי ייצור או ייצור, בדרך כלל לפני משלוח ללקוחות.",
+                "example": "The bakery released a new cake flavor and included it in their daily cookie batches as well.",
+                "example_hebrew": "המאפייה הוציאה טעם עוגה חדש וכללה אותו גם במנות העוגיות היומיות שלהם."
+            },
+            {
+                "definition": "A set of items that are processed or dealt with together. It can also refer to the same group of data or programs run at once.",
+                "definition_hebrew": "קבוצה של פריטים שמעובדים או מטופלים יחד. זה יכול גם להתייחס לאותה קבוצת נתונים או תוכניות המופעלות בבת אחת.",
+                "example": "The teacher assigned a homework batch of essays due next week.",
+                "example_hebrew": "המורה הקצה שיעורי בית של חיבורים שיישלחו בשבוע הבא."
+            },
+            {
+                "definition": "A collection of similar tasks, work items, or actions that are done in succession rather than individually.",
+                "definition_hebrew": "אוסף של משימות דומות, פריטי עבודה או פעולות שנעשות ברצף ולא בנפרד.",
+                "example": "She started her day by completing the laundry batch before heading to work.",
+                "example_hebrew": "היא התחילה את יומה בהשלמת סדרת הכביסה לפני היציאה לעבודה."
+            }
+        ]
+    }
+]

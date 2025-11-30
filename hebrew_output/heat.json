@@ -1,0 +1,40 @@
+[
+    {
+        "word": "heat",
+        "word_hebrew": "חוֹם",
+        "main_definition": "Heat refers to the quality or state of being warm or hot, as well as a force that results from high temperatures.",
+        "main_definition_hebrew": "חום מתייחס לאיכות או למצב של חם או חם, כמו גם כוח הנובע מטמפרטורות גבוהות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A high temperature causing discomfort or difficulty in functioning",
+                "definition_hebrew": "טמפרטורה גבוהה הגורמת לאי נוחות או קושי בתפקוד",
+                "example": "The heat today made it hard to work outside.",
+                "example_hebrew": "החום היום הקשה על העבודה בחוץ."
+            },
+            {
+                "definition": "Intensity of feeling, passion, or emotion",
+                "definition_hebrew": "עוצמת תחושה, תשוקה או רגש",
+                "example": "There was a lot of heat between the two rival gangs during the confrontation.",
+                "example_hebrew": "היה חום רב בין שתי הכנופיות היריבות במהלך העימות."
+            },
+            {
+                "definition": "A period of strong emotions or activity",
+                "definition_hebrew": "תקופה של רגשות חזקים או פעילות",
+                "example": "The summer holidays were full of fun and heat, with lots of parties and adventures.",
+                "example_hebrew": "חופשת הקיץ הייתה מלאה בכיף וחום, עם הרבה מסיבות והרפתקאות."
+            },
+            {
+                "definition": "Physical warmth from an object or environment",
+                "definition_hebrew": "חום פיזי מחפץ או סביבה",
+                "example": "I felt the heat radiating off the stove when I touched it.",
+                "example_hebrew": "הרגשתי את החום קורן מהכיריים כשנגעתי בו."
+            },
+            {
+                "definition": "The process by which a substance increases in temperature and changes state (e.g., solid to liquid)",
+                "definition_hebrew": "התהליך שבו חומר עולה בטמפרטורה ומשנה מצב (למשל, מוצק לנוזל)",
+                "example": "Heat from the sun causes ice to melt into water.",
+                "example_hebrew": "חום מהשמש גורם לקרח להימס למים."
+            }
+        ]
+    }
+]

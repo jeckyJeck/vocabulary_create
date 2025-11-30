@@ -1,0 +1,34 @@
+[
+    {
+        "word": "estate",
+        "word_hebrew": "נכס",
+        "main_definition": "Estate refers to a large area of land, property owned by an individual or entity, or the legal process involving assets after someone's death.",
+        "main_definition_hebrew": "עיזבון מתייחס לשטח גדול של קרקע, רכוש בבעלות אדם או ישות, או ההליך המשפטי הכולל נכסים לאחר מותו של מישהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A large area of land or property",
+                "definition_hebrew": "שטח גדול של קרקע או רכוש",
+                "example": "The estate spanned over 50 acres and included a mansion.",
+                "example_hebrew": "האחוזה השתרעה על פני 50 דונם וכללה אחוזה."
+            },
+            {
+                "definition": "All the money, property, and other assets that an individual owns at the time of their death",
+                "definition_hebrew": "כל הכסף, הרכוש ושאר הנכסים שבבעלות אדם בעת מותו",
+                "example": "Upon her passing, all her personal estate was to be divided equally among her children.",
+                "example_hebrew": "עם פטירתה, כל רכושה האישי היה אמור להתחלק שווה בשווה בין ילדיה."
+            },
+            {
+                "definition": "The management or administration of a person's property during their lifetime",
+                "definition_hebrew": "ניהול או ניהול רכושו של אדם במהלך חייו",
+                "example": "She appointed an executor to manage her estate before she passed away.",
+                "example_hebrew": "היא מינתה מנהל עיזבון לנהל את עיזבונה לפני פטירתה."
+            },
+            {
+                "definition": "A title used in probate proceedings that involves the distribution of a deceased person's assets",
+                "definition_hebrew": "תואר המשמש בהליכי צוואה הכרוכה בחלוקת נכסיו של נפטר",
+                "example": "The court granted access to the decedent's estate for asset evaluation and distribution.",
+                "example_hebrew": "בית המשפט העניק גישה לעיזבונו של המנוח לצורך הערכת נכסים וחלוקתם."
+            }
+        ]
+    }
+]

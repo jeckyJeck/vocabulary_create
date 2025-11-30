@@ -1,0 +1,28 @@
+[
+    {
+        "word": "screensavers",
+        "word_hebrew": "שומרי מסך",
+        "main_definition": "Screensavers are images or animations displayed on a computer monitor when the display is not in use, primarily to prevent screen burn-in.",
+        "main_definition_hebrew": "שומרי מסך הם תמונות או אנימציות המוצגות על צג מחשב כאשר התצוגה אינה בשימוש, בעיקר כדי למנוע צריבה של מסך.",
+        "meanings_and_examples": [
+            {
+                "definition": "Visual entertainment displayed on a computer monitor",
+                "definition_hebrew": "בידור חזותי המוצג על צג מחשב",
+                "example": "When you leave your computer idle for an extended period, it shows a colorful animation as a screener.",
+                "example_hebrew": "כאשר אתה משאיר את המחשב לא פעיל למשך תקופה ממושכת, הוא מציג אנימציה צבעונית כמסנן."
+            },
+            {
+                "definition": "A technique used to prevent screen burn-in",
+                "definition_hebrew": "טכניקה המשמשת למניעת צריבת מסך",
+                "example": "In older CRT monitors, displaying static images or patterns helped avoid the permanent image stains on the screen.",
+                "example_hebrew": "במסכי CRT ישנים יותר, הצגת תמונות סטטיות או דפוסים סייעה להימנע מכתמי תמונה קבועים על המסך."
+            },
+            {
+                "definition": "Digital animations and graphics displayed as a means of decoration",
+                "definition_hebrew": "אנימציות דיגיטליות וגרפיקה המוצגות כאמצעי לקישוט",
+                "example": "The company's website features sleek digital illustrations that fade in and out to create an engaging user experience.",
+                "example_hebrew": "אתר האינטרנט של החברה כולל איורים דיגיטליים אלגנטיים הנמוגים פנימה והחוצה כדי ליצור חווית משתמש מרתקת."
+            }
+        ]
+    }
+]

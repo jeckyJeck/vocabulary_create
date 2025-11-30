@@ -1,0 +1,40 @@
+[
+    {
+        "word": "tools",
+        "word_hebrew": "כלים",
+        "main_definition": "Tools are instruments, devices, or implements used to perform a specific task or achieve a particular goal.",
+        "main_definition_hebrew": "כלים הם מכשירים, מכשירים או כלים המשמשים לביצוע משימה מסוימת או השגת מטרה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "In general use, tools refer to objects that help us complete tasks more efficiently. For example, hammers and screwdrivers are common household tools for fixing things at home.",
+                "definition_hebrew": "בשימוש כללי, כלים מתייחסים לאובייקטים שעוזרים לנו לבצע משימות בצורה יעילה יותר. לדוגמה, פטישים ומברגים הם כלי בית נפוצים לתיקון דברים בבית.",
+                "example": "When assembling furniture, I used a hammer as one of my tools.",
+                "example_hebrew": "בהרכבת רהיטים השתמשתי בפטיש כאחד הכלים שלי."
+            },
+            {
+                "definition": "In the context of software development, 'tools' can refer to computer programs that assist in programming or project management. For example, an Integrated Development Environment (IDE) is a set of tools for coding.",
+                "definition_hebrew": "בהקשר של פיתוח תוכנה, 'כלים' יכולים להתייחס לתוכנות מחשב המסייעות בתכנות או בניהול פרויקטים. לדוגמה, סביבת פיתוח משולבת (IDE) היא קבוצה של כלים לקידוד.",
+                "example": "To develop my application faster and more efficiently, I used Git as my version control tool.",
+                "example_hebrew": "כדי לפתח את האפליקציה שלי בצורה מהירה ויעילה יותר, השתמשתי ב-Git ככלי בקרת הגרסאות שלי."
+            },
+            {
+                "definition": "In business and industry, 'tools' can refer to equipment or machinery that workers use in their jobs. For example, a construction worker uses heavy-duty tools like power drills and safety gear.",
+                "definition_hebrew": "בעסקים ובתעשייה, 'כלים' יכולים להתייחס לציוד או מכונות שהעובדים משתמשים בהם בעבודתם. לדוגמה, פועל בניין משתמש בכלים כבדים כמו מקדחות חשמל וציוד בטיחות.",
+                "example": "The carpenter used saws, chisels, and sandpaper as his essential woodworking tools.",
+                "example_hebrew": "הנגר השתמש במסורים, אזמלים ונייר זכוכית ככלי עיבוד העץ החיוניים שלו."
+            },
+            {
+                "definition": "In the metaphorical sense, 'tools' can refer to strategies or methods people use to solve problems. For example, diplomacy is a tool for international relations.",
+                "definition_hebrew": "במובן המטאפורי, 'כלים' יכולים להתייחס לאסטרטגיות או שיטות שאנשים משתמשים בהם כדי לפתור בעיות. לדוגמה, דיפלומטיה היא כלי ליחסים בינלאומיים.",
+                "example": "Negotiation skills are important tools in resolving conflicts.",
+                "example_hebrew": "כישורי משא ומתן הם כלים חשובים בפתרון קונפליקטים."
+            },
+            {
+                "definition": "In education, 'educational tools' can refer to resources used by teachers and students to facilitate learning. For example, textbooks, interactive whiteboards, and educational software.",
+                "definition_hebrew": "בחינוך, 'כלים חינוכיים' יכולים להתייחס למשאבים המשמשים מורים ותלמידים כדי להקל על הלמידה. לדוגמה, ספרי לימוד, לוחות אינטראקטיביים ותוכנות חינוכיות.",
+                "example": "The teacher utilized visual aids like charts and videos as valuable educational tools.",
+                "example_hebrew": "המורה השתמש בעזרים חזותיים כמו תרשימים וסרטונים ככלים חינוכיים חשובים."
+            }
+        ]
+    }
+]

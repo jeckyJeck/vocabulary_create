@@ -1,0 +1,34 @@
+[
+    {
+        "word": "educational",
+        "word_hebrew": "חינוכית",
+        "main_definition": "Relating to or involving education, instruction, or learning.",
+        "main_definition_hebrew": "קשור או כרוך בחינוך, הוראה או למידה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Designed to teach or instruct people about a particular subject or skill.",
+                "definition_hebrew": "נועד ללמד או להדריך אנשים על נושא או מיומנות מסוימת.",
+                "example": "The educational program focused on teaching children the basics of mathematics.",
+                "example_hebrew": "התכנית החינוכית התמקדה בהוראת ילדים את יסודות המתמטיקה."
+            },
+            {
+                "definition": "Serving as a source of knowledge and learning for individuals, typically within an institutional setting like schools or universities.",
+                "definition_hebrew": "משמש כמקור ידע ולמידה עבור אנשים, בדרך כלל במסגרת מוסדית כמו בתי ספר או אוניברסיטאות.",
+                "example": "A museum offers many educational exhibits to enhance visitors' understanding of history.",
+                "example_hebrew": "מוזיאון מציע תערוכות חינוכיות רבות כדי לשפר את ההבנה של המבקרים בהיסטוריה."
+            },
+            {
+                "definition": "Concerned with the development of intellectual abilities and fostering a love for learning in individuals.",
+                "definition_hebrew": "דואג בפיתוח יכולות אינטלקטואליות וטיפוח אהבה ללמידה אצל אנשים.",
+                "example": "The curriculum is designed to be highly educational, encouraging critical thinking and problem-solving skills.",
+                "example_hebrew": "תכנית הלימודים נועדה להיות חינוכית ביותר, מעודדת חשיבה ביקורתית וכישורי פתרון בעיות."
+            },
+            {
+                "definition": "Pertaining to or related to the process of imparting knowledge, information, and skills through formal instruction.",
+                "definition_hebrew": "הנוגעים או קשורים לתהליך הקניית ידע, מידע ומיומנויות באמצעות הוראה פורמלית.",
+                "example": "Teachers are dedicated to providing an educational experience that prepares students for their future careers.",
+                "example_hebrew": "המורים מחויבים לספק חוויה חינוכית המכינה את התלמידים לקריירה העתידית שלהם."
+            }
+        ]
+    }
+]

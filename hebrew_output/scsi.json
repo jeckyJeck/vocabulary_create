@@ -1,0 +1,34 @@
+[
+    {
+        "word": "scsi",
+        "word_hebrew": "scsi",
+        "main_definition": "SCSI stands for Small Computer System Interface, a set of standards for physically connecting and transferring data between computers and peripheral devices.",
+        "main_definition_hebrew": "SCSI ראשי תיבות של Small Computer System Interface, סט של תקנים לחיבור פיזי והעברת נתונים בין מחשבים והתקנים היקפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Acronym for Small Computer System Interface",
+                "definition_hebrew": "ראשי תיבות של Small Computer System Interface",
+                "example": "The hard drive is an SCSI device.",
+                "example_hebrew": "הכונן הקשיח הוא התקן SCSI."
+            },
+            {
+                "definition": "Type of computer interface used to connect and transfer data between computers and peripherals like hard drives, tapes, or scanners",
+                "definition_hebrew": "סוג ממשק המחשב המשמש לחיבור והעברת נתונים בין מחשבים וציוד היקפי כמו כוננים קשיחים, קלטות או סורקים",
+                "example": "My laptop has a SCSI port for connecting external storage devices.",
+                "example_hebrew": "המחשב הנייד שלי כולל יציאת SCSI לחיבור התקני אחסון חיצוניים."
+            },
+            {
+                "definition": "A standardized set of protocols that allows different electronic components to communicate with each other",
+                "definition_hebrew": "קבוצה סטנדרטית של פרוטוקולים המאפשרת לרכיבים אלקטרוניים שונים לתקשר זה עם זה",
+                "example": "The printer is connected via SCSI, allowing it to communicate directly with the computer's CPU.",
+                "example_hebrew": "המדפסת מחוברת באמצעות SCSI, מה שמאפשר לה לתקשר ישירות עם המעבד של המחשב."
+            },
+            {
+                "definition": "Used as an abbreviation for Serial Cable-Attachment Interface or its later versions like Universal Serial Bus (USB) and FireWire",
+                "definition_hebrew": "משמש כקיצור ל-Serial Cable-Attachment Interface או לגרסאות מאוחרות יותר שלו כמו Universal Serial Bus (USB) ו-FireWire",
+                "example": "SCSI was once a popular interface before USB became the standard, but now it's mostly used in specialized applications.",
+                "example_hebrew": "SCSI היה פעם ממשק פופולרי לפני שה-USB הפך לסטנדרט, אבל עכשיו הוא משמש בעיקר ביישומים מיוחדים."
+            }
+        ]
+    }
+]

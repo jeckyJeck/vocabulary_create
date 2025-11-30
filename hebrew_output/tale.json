@@ -1,0 +1,34 @@
+[
+    {
+        "word": "tale",
+        "word_hebrew": "מַעֲשִׂיָה",
+        "main_definition": "A story, often fictional or narrative in nature, that is told to entertain, educate, or convey a message.",
+        "main_definition_hebrew": "סיפור, לרוב בדיוני או נרטיבי באופיו, שסופר כדי לבדר, לחנך או להעביר מסר.",
+        "meanings_and_examples": [
+            {
+                "definition": "An account of imaginary events",
+                "definition_hebrew": "תיאור של אירועים דמיוניים",
+                "example": "The tale of the Three Little Pigs was a popular bedtime story for children.",
+                "example_hebrew": "סיפור שלושת החזירים הקטנים היה סיפור פופולרי לילדים לפני השינה."
+            },
+            {
+                "definition": "A personal or family anecdote shared to entertain others",
+                "definition_hebrew": "אנקדוטה אישית או משפחתית ששותפה כדי לבדר אחרים",
+                "example": "At dinner, my grandfather began recounting his adventurous tales from when he traveled around the world as a young man.",
+                "example_hebrew": "בארוחת הערב, סבי החל לספר את סיפורי ההרפתקאות שלו מזמן שטייל ברחבי העולם כאדם צעיר."
+            },
+            {
+                "definition": "An account of historical events that may be partially based on facts but includes embellishments",
+                "definition_hebrew": "תיאור של אירועים היסטוריים שעשויים להתבסס בחלקו על עובדות אך כולל קישוטים",
+                "example": "The bard's tale of King Arthur and his knights, though rooted in some truth, is largely considered a mythical story.",
+                "example_hebrew": "סיפורו של הפייטן על המלך ארתור ואביריו, על אף שמקורו באיזו אמת, נחשב במידה רבה לסיפור מיתי."
+            },
+            {
+                "definition": "A narrative often used to illustrate moral lessons or convey cultural values",
+                "definition_hebrew": "נרטיב המשמש לעתים קרובות להמחשת שיעורי מוסר או העברת ערכים תרבותיים",
+                "example": "Fables like 'The Tortoise and the Hare' are tales that teach valuable life lessons through simple stories.",
+                "example_hebrew": "אגדות כמו 'הצב והארנב' הם סיפורים המלמדים שיעורי חיים יקרי ערך באמצעות סיפורים פשוטים."
+            }
+        ]
+    }
+]

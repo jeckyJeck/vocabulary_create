@@ -1,0 +1,34 @@
+[
+    {
+        "word": "method",
+        "word_hebrew": "שיטה",
+        "main_definition": "A systematic, step-by-step procedure or approach used to achieve a particular result.",
+        "main_definition_hebrew": "הליך או גישה שיטתית, צעד אחר צעד, המשמשת להשגת תוצאה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "A way of doing something, especially a tried and tested one.",
+                "definition_hebrew": "דרך לעשות משהו, במיוחד דרך בדוקה.",
+                "example": "The scientific method involves observation, forming hypotheses, testing those hypotheses through experimentation, and drawing conclusions.",
+                "example_hebrew": "השיטה המדעית כוללת תצפית, גיבוש השערות, בדיקת השערות אלו באמצעות ניסויים והסקת מסקנות."
+            },
+            {
+                "definition": "An algorithm or set of rules to be followed in problem-solving operations, especially by a computer.",
+                "definition_hebrew": "אלגוריתם או מערכת כללים שיש לפעול לפיהם בפעולות פתרון בעיות, במיוחד על ידי מחשב.",
+                "example": "A sorting method like bubble sort arranges elements in order using repetitive comparison and swapping.",
+                "example_hebrew": "שיטת מיון כמו מיון בועות מסדרת אלמנטים לפי סדר באמצעות השוואה חוזרת והחלפה."
+            },
+            {
+                "definition": "A particular form or manner of teaching or learning that is designed to impart knowledge or skills efficiently.",
+                "definition_hebrew": "צורה או אופן מסוים של הוראה או למידה שנועדו להקנות ידע או מיומנויות ביעילות.",
+                "example": "The Montessori method emphasizes self-directed activity, hands-on learning, and collaborative play in a multiage setting.",
+                "example_hebrew": "שיטת מונטסורי שמה דגש על פעילות מכוונת עצמית, למידה מעשית ומשחק שיתופי במסגרת רב גילאית."
+            },
+            {
+                "definition": "A procedure for completing a task or achieving a goal effectively.",
+                "definition_hebrew": "הליך להשלמת משימה או השגת מטרה ביעילות.",
+                "example": "To clean your room, you can use the method of first decluttering, then dusting surfaces, followed by vacuuming and mopping.",
+                "example_hebrew": "כדי לנקות את החדר שלך, אתה יכול להשתמש בשיטה של תחילה ניקוי הבלבול, ולאחר מכן ניקוי אבק של משטחים, ולאחר מכן שאיבת אבק וניקוי."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "cpu",
+        "word_hebrew": "מעבד",
+        "main_definition": "Central Processing Unit (CPU) is a crucial component of a computer that executes instructions from software through basic arithmetic, logic, control flow operations.",
+        "main_definition_hebrew": "יחידת עיבוד מרכזית (CPU) היא מרכיב מכריע במחשב המבצע הוראות מתוכנה דרך פעולות אריתמטיות, לוגיקה, זרימת בקרה בסיסיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Computer processing unit",
+                "definition_hebrew": "יחידת עיבוד מחשב",
+                "example": "The CPU in my laptop processes the data and runs applications.",
+                "example_hebrew": "המעבד במחשב הנייד שלי מעבד את הנתונים ומפעיל יישומים."
+            },
+            {
+                "definition": "Control unit of a computer's central processing unit",
+                "definition_hebrew": "יחידת בקרה של יחידת העיבוד המרכזית של המחשב",
+                "example": "The control unit within the CPU manages the fetching, decoding, and execution of instructions.",
+                "example_hebrew": "יחידת הבקרה בתוך ה-CPU מנהלת את השליפה, הפענוח והביצוע של הוראות."
+            },
+            {
+                "definition": "A phrase used informally to refer to someone's brain or intellect",
+                "definition_hebrew": "ביטוי המשמש באופן לא רשמי כדי להתייחס למוח או לאינטלקט של מישהו",
+                "example": "When he solved that complex problem so quickly, his 'CPU' was working overtime!",
+                "example_hebrew": "כשהוא פתר את הבעיה המורכבת הזו כל כך מהר, ה-'CPU' שלו עבד שעות נוספות!"
+            }
+        ]
+    }
+]

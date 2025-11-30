@@ -1,0 +1,34 @@
+[
+    {
+        "word": "donor",
+        "word_hebrew": "תוֹרֵם",
+        "main_definition": "A person or organization that gives blood, organs, money, or other resources to support a cause.",
+        "main_definition_hebrew": "אדם או ארגון שנותנים דם, איברים, כסף או משאבים אחרים כדי לתמוך במטרה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Individual who contributes blood in a blood drive",
+                "definition_hebrew": "אדם שתורם דם בדחף דם",
+                "example": "The donor arrived at the hospital and gave 450 milliliters of blood.",
+                "example_hebrew": "התורם הגיע לבית החולים ונתן 450 מיליליטר דם."
+            },
+            {
+                "definition": "Organ or tissue provider for transplantation",
+                "definition_hebrew": "ספק איברים או רקמות להשתלה",
+                "example": "After careful screening, John was found to be a perfect kidney donor for his sister.",
+                "example_hebrew": "לאחר בדיקה מדוקדקת, נמצא כי ג'ון הוא תורם כליה מושלם עבור אחותו."
+            },
+            {
+                "definition": "Individual who provides financial aid or support",
+                "definition_hebrew": "אדם המעניק סיוע כספי או תמיכה",
+                "example": "The wealthy businessman was a major donor to the local charity, contributing millions of dollars each year.",
+                "example_hebrew": "איש העסקים העשיר היה תורם מרכזי לארגון הצדקה המקומי, ותרם מיליוני דולרים מדי שנה."
+            },
+            {
+                "definition": "Plant species that produce seeds for others",
+                "definition_hebrew": "מיני צמחים המייצרים זרעים עבור אחרים",
+                "example": "In a forest ecosystem, certain trees act as seed donors by producing large amounts of fruit and nuts that are dispersed to other areas.",
+                "example_hebrew": "במערכת אקולוגית של יער, עצים מסוימים פועלים כתורמי זרעים על ידי הפקת כמויות גדולות של פירות ואגוזים המפוזרים לאזורים אחרים."
+            }
+        ]
+    }
+]

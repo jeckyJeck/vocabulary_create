@@ -1,0 +1,34 @@
+[
+    {
+        "word": "read",
+        "word_hebrew": "לקרוא",
+        "main_definition": "To look at and comprehend the meaning of written or printed matter.",
+        "main_definition_hebrew": "להתבונן ולהבין את המשמעות של חומר כתוב או מודפס.",
+        "meanings_and_examples": [
+            {
+                "definition": "To interpret and understand a text, document, or other form of communication in language.",
+                "definition_hebrew": "לפרש ולהבין טקסט, מסמך או צורה אחרת של תקשורת בשפה.",
+                "example": "I will read the book you recommended.",
+                "example_hebrew": "אקרא את הספר שהמלצת."
+            },
+            {
+                "definition": "To visually perceive written words by looking at them.",
+                "definition_hebrew": "לתפוס חזותית מילים כתובות על ידי התבוננות בהן.",
+                "example": "Please pass me that newspaper; I want to read it over breakfast.",
+                "example_hebrew": "בבקשה תעביר לי את העיתון הזה; אני רוצה לקרוא אותו בארוחת הבוקר."
+            },
+            {
+                "definition": "A unit of measurement for the brightness of a light source, not directly related to the verb 'read' but sometimes associated colloquially with reading.",
+                "definition_hebrew": "יחידת מדידה לבהירות של מקור אור, לא קשורה ישירות לפועל 'לקרוא' אך לעיתים קשורה בדיבור עם קריאה.",
+                "example": "The lamp was rated at 50 lumens; it provided ample light for reading.",
+                "example_hebrew": "המנורה דורגה ב-50 לומן; הוא סיפק אור רב לקריאה."
+            },
+            {
+                "definition": "In British English, an out-of-print book that is no longer being produced or available for purchase.",
+                "definition_hebrew": "באנגלית בריטית, ספר שאזל מהדפוס שכבר לא מיוצר או זמין לרכישה.",
+                "example": "I'm searching for a first edition of 'Pride and Prejudice'; I wonder if any booksellers have it in stock.",
+                "example_hebrew": "אני מחפש מהדורה ראשונה של 'גאווה ודעה קדומה'; מעניין אם לממכר ספרים יש את זה במלאי."
+            }
+        ]
+    }
+]

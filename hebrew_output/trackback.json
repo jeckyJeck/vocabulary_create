@@ -1,0 +1,34 @@
+[
+    {
+        "word": "trackback",
+        "word_hebrew": "להיזכר",
+        "main_definition": "In the context of online communication, trackback is a method used to notify another user or website about an incoming link in their blog post.",
+        "main_definition_hebrew": "בהקשר של תקשורת מקוונת, Trackback היא שיטה המשמשת להודיע למשתמש אחר או לאתר אחר על קישור נכנס בפוסט שלו בבלוג.",
+        "meanings_and_examples": [
+            {
+                "definition": "A notification that one site has received a link from another site",
+                "definition_hebrew": "הודעה על כך שאתר אחד קיבל קישור מאתר אחר",
+                "example": "Whenever I receive a trackback, it means someone has linked to my latest blog post on TechCrunch.",
+                "example_hebrew": "בכל פעם שאני מקבל trackback, זה אומר שמישהו התחבר לפוסט האחרון שלי בבלוג ב-TechCrunch."
+            },
+            {
+                "definition": "A reference or commentary on an existing content or post",
+                "definition_hebrew": "הפניה או פרשנות לתוכן או פוסט קיימים",
+                "example": "The author's response in the form of a trackback comments specifically on the points raised by another user in their article.",
+                "example_hebrew": "תגובתו של המחבר בצורה של טראקבק מעירה ספציפית על הנקודות שהעלו משתמש אחר במאמר שלו."
+            },
+            {
+                "definition": "A feature used for tracking changes and updates in online discussions or conversations",
+                "definition_hebrew": "תכונה המשמשת למעקב אחר שינויים ועדכונים בדיונים או שיחות מקוונות",
+                "example": "On our forum, users can send trackbacks to each other when they make significant contributions to a thread.",
+                "example_hebrew": "בפורום שלנו, משתמשים יכולים לשלוח מעקבים זה לזה כאשר הם תורמים תרומה משמעותית לשרשור."
+            },
+            {
+                "definition": "The automated process of following the link from one website to another within an RSS feed reader",
+                "definition_hebrew": "התהליך האוטומטי של מעקב אחר הקישור מאתר אחד לאחר בתוך קורא הזנת RSS",
+                "example": "My RSS feed reader automatically follows all the trackback links, allowing me to see which blogs are linking back to mine.",
+                "example_hebrew": "קורא הזנת ה-RSS שלי עוקב אוטומטית אחר כל קישורי ה-trackback, ומאפשר לי לראות אילו בלוגים מקשרים בחזרה לשלי."
+            }
+        ]
+    }
+]

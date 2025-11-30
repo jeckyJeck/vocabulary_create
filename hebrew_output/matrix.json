@@ -1,0 +1,40 @@
+[
+    {
+        "word": "matrix",
+        "word_hebrew": "מַטרִיצָה",
+        "main_definition": "A matrix is a concept used in various fields such as mathematics, technology, and business that represents an organized arrangement of data or elements within a structured framework.",
+        "main_definition_hebrew": "מטריצה היא מושג המשמש בתחומים שונים כגון מתמטיקה, טכנולוגיה ועסקים המייצג סידור מאורגן של נתונים או אלמנטים בתוך מסגרת מובנית.",
+        "meanings_and_examples": [
+            {
+                "definition": "In mathematics, a matrix is a rectangular array of numbers, symbols, or expressions arranged in rows and columns. It is used for various mathematical operations such as linear transformations and solving systems of equations.",
+                "definition_hebrew": "במתמטיקה, מטריצה היא מערך מלבני של מספרים, סמלים או ביטויים המסודרים בשורות ובעמודות. הוא משמש לפעולות מתמטיות שונות כגון טרנספורמציות ליניאריות ופתרון מערכות משוואות.",
+                "example": "Consider the 2x2 matrix: [[1, 2], [3, 4]]. This represents a matrix with two rows and two columns.",
+                "example_hebrew": "שקול את המטריצה 2x2: [[1, 2], [3, 4]]. זה מייצג מטריצה עם שתי שורות ושתי עמודות."
+            },
+            {
+                "definition": "In technology, particularly in computer graphics, a pixel or image matrix refers to an array of pixels forming a grid that depicts a digital image.",
+                "definition_hebrew": "בטכנולוגיה, במיוחד בגרפיקה ממוחשבת, פיקסל או מטריצת תמונה מתייחסת למערך של פיקסלים היוצרים רשת המתארת תמונה דיגיטלית.",
+                "example": "A photograph is composed of millions of tiny squares called pixels arranged in a grid pattern. This arrangement can be referred to as an image matrix.",
+                "example_hebrew": "צילום מורכב ממיליוני ריבועים זעירים הנקראים פיקסלים המסודרים בתבנית רשת. ניתן להתייחס לסידור זה כמטריצת תמונה."
+            },
+            {
+                "definition": "In business and organizational context, the term 'matrix' refers to a structure where individuals report to multiple managers or work on various projects simultaneously.",
+                "definition_hebrew": "בהקשר עסקי וארגוני, המונח 'מטריקס' מתייחס למבנה שבו אנשים מדווחים למספר מנהלים או עובדים על פרויקטים שונים בו זמנית.",
+                "example": "A software development team might have engineers working under both product and project managers in a matrix organization.",
+                "example_hebrew": "בצוות פיתוח תוכנה עשויים להיות מהנדסים העובדים תחת מנהלי מוצר ופרויקטים בארגון מטריציוני."
+            },
+            {
+                "definition": "In genetics, a gene interaction network, sometimes referred to as an expression matrix, represents the complex relationships between different genes within an organism.",
+                "definition_hebrew": "בגנטיקה, רשת אינטראקציה של גנים, המכונה לעתים מטריצת ביטוי, מייצגת את היחסים המורכבים בין גנים שונים בתוך אורגניזם.",
+                "example": "The human gene interaction matrix illustrates how various genes interact with each other and contribute to certain traits or diseases.",
+                "example_hebrew": "מטריצת האינטראקציה של הגנים האנושיים ממחישה כיצד גנים שונים מקיימים אינטראקציה זה עם זה ותורמים לתכונות או מחלות מסוימות."
+            },
+            {
+                "definition": "In music theory, a chord progression can be visualized using a musical matrix that arranges the sequence of chords in an organized manner.",
+                "definition_hebrew": "בתורת המוזיקה, ניתן להמחיש התקדמות אקורדים באמצעות מטריצה מוזיקלית המסדרת את רצף האקורדים בצורה מאורגנת.",
+                "example": "A pop song might use a I-IV-V-I chord progression. This order can be represented visually as a matrix.",
+                "example_hebrew": "שיר פופ עשוי להשתמש בהתקדמות אקורד I-IV-V-I. סדר זה יכול להיות מיוצג חזותית כמטריצה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "enters",
+        "word_hebrew": "נכנס",
+        "main_definition": "To arrive or come into a particular place, situation, or state.",
+        "main_definition_hebrew": "להגיע או להגיע למקום, מצב או מצב מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physically moving from one location to another by walking, driving, etc.",
+                "definition_hebrew": "מעבר פיזי ממקום אחד לאחר בהליכה, נהיגה וכו'.",
+                "example": "After finishing his work, John enters the house.",
+                "example_hebrew": "לאחר שסיים את עבודתו, ג'ון נכנס לבית."
+            },
+            {
+                "definition": "Introducing an idea or concept into a discussion, conversation, or written text.",
+                "definition_hebrew": "הכנסת רעיון או מושג לדיון, שיחה או טקסט כתוב.",
+                "example": "She often likes to enter new topics during meetings.",
+                "example_hebrew": "לעתים קרובות היא אוהבת להזין נושאים חדשים במהלך פגישות."
+            },
+            {
+                "definition": "Inserting data, information, or values into a computer system or program.",
+                "definition_hebrew": "הכנסת נתונים, מידע או ערכים למערכת מחשב או תוכנית.",
+                "example": "The user enters their username and password to access the account.",
+                "example_hebrew": "המשתמש מזין את שם המשתמש והסיסמה שלו כדי לגשת לחשבון."
+            },
+            {
+                "definition": "To come or arrive in a place after a period of time or absence.",
+                "definition_hebrew": "לבוא או להגיע למקום לאחר פרק זמן או היעדרות.",
+                "example": "After traveling for two weeks, my friend finally enters our city.",
+                "example_hebrew": "לאחר נסיעה של שבועיים, חבר שלי סוף סוף נכנס לעיר שלנו."
+            },
+            {
+                "definition": "The act of initiating something new or unfamiliar into an existing environment or system.",
+                "definition_hebrew": "הפעולה של ייזום משהו חדש או לא מוכר לתוך סביבה או מערכת קיימת.",
+                "example": "Entering a foreign country requires understanding and respect for the local culture.",
+                "example_hebrew": "כניסה למדינה זרה דורשת הבנה וכבוד לתרבות המקומית."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "intersection",
+        "word_hebrew": "הִצטַלְבוּת",
+        "main_definition": "An intersection is a point or location where two or more things, such as roads, paths, ideas, or elements, come together or cross.",
+        "main_definition_hebrew": "צומת הוא נקודה או מיקום שבו שני דברים או יותר, כגון כבישים, שבילים, רעיונות או אלמנטים, מתאחדים או חוצים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In transportation, an area where multiple roads meet and enable travelers to switch from one road to another",
+                "definition_hebrew": "בתחום התחבורה, אזור בו מספר דרכים נפגשות ומאפשר לנוסעים לעבור מכביש אחד לאחר",
+                "example": "The intersection of Main Street and 1st Avenue is controlled by a traffic signal.",
+                "example_hebrew": "הצומת של הרחוב הראשי והשדרה הראשונה נשלטת על ידי איתות תנועה."
+            },
+            {
+                "definition": "A conceptual point in mathematics where two lines or planes intersect",
+                "definition_hebrew": "נקודה מושגית במתמטיקה שבה שני קווים או מישורים מצטלבים",
+                "example": "In the Cartesian plane, the x-axis and y-axis intersect at the origin (0,0).",
+                "example_hebrew": "במישור הקרטזיאני, ציר ה-x וציר ה-y מצטלבים במקור (0,0)."
+            },
+            {
+                "definition": "The moment when different ideas, perspectives, or elements meet or collide in a conversation or discussion",
+                "definition_hebrew": "הרגע שבו רעיונות, נקודות מבט או אלמנטים שונים נפגשים או מתנגשים בשיחה או דיון",
+                "example": "During their debate on climate change, they reached an intersection of viewpoints regarding renewable energy.",
+                "example_hebrew": "במהלך הדיון שלהם על שינויי אקלים, הם הגיעו לצומת של נקודות מבט בנוגע לאנרגיה מתחדשת."
+            },
+            {
+                "definition": "In computing and data processing, the point where multiple sets or lists come together",
+                "definition_hebrew": "במחשוב ובעיבוד נתונים, הנקודה שבה מספר קבוצות או רשימות מתחברות יחד",
+                "example": "The intersection of two arrays in programming is a new array containing elements that appear in both original arrays.",
+                "example_hebrew": "המפגש בין שני מערכים בתכנות הוא מערך חדש המכיל אלמנטים המופיעים בשני המערכים המקוריים."
+            }
+        ]
+    }
+]

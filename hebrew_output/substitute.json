@@ -1,0 +1,40 @@
+[
+    {
+        "word": "substitute",
+        "word_hebrew": "תחליף",
+        "main_definition": "To replace someone or something with another person or thing, often temporarily.",
+        "main_definition_hebrew": "להחליף מישהו או משהו באדם או דבר אחר, לעתים קרובות באופן זמני.",
+        "meanings_and_examples": [
+            {
+                "definition": "To act as a replacement for a particular item or entity.",
+                "definition_hebrew": "לשמש כתחליף לפריט או ישות מסוימת.",
+                "example": "When I went on vacation and couldn't water the plants, my neighbor substituted himself to take care of them.",
+                "example_hebrew": "כשיצאתי לחופשה ולא יכולתי להשקות את הצמחים, השכן שלי החליף את עצמו כדי לטפל בהם."
+            },
+            {
+                "definition": "In sports, to replace one player with another during a game due to injury or tactical reasons.",
+                "definition_hebrew": "בספורט, להחליף שחקן אחד באחר במהלך משחק עקב פציעה או סיבות טקטיות.",
+                "example": "During the basketball match, when John got injured, his coach called in Mike as a substitute forward.",
+                "example_hebrew": "במהלך משחק הכדורסל, כשג'ון נפצע, מאמנו הזעיק את מייק כמחליף."
+            },
+            {
+                "definition": "To provide an alternative or replacement for something that is missing, unavailable, or problematic.",
+                "definition_hebrew": "לספק חלופה או תחליף למשהו שחסר, לא זמין או בעייתי.",
+                "example": "Since we ran out of sugar, I used honey as a sweetener to substitute it.",
+                "example_hebrew": "מכיוון שנגמר לנו הסוכר, השתמשתי בדבש כממתיק כדי להחליף אותו."
+            },
+            {
+                "definition": "In cooking, using one ingredient in place of another due to allergies or taste preferences.",
+                "definition_hebrew": "בבישול, שימוש במרכיב אחד במקום אחר עקב אלרגיות או העדפות טעם.",
+                "example": "The recipe called for butter, but since Jenny is lactose intolerant, I used olive oil as a substitute.",
+                "example_hebrew": "המתכון דרש חמאה, אבל מכיוון שג'ני אינה סובלנית ללקטוז, השתמשתי בשמן זית כתחליף."
+            },
+            {
+                "definition": "In mathematics and science, substituting one variable with another to simplify an equation or formula.",
+                "definition_hebrew": "במתמטיקה ומדעים, החלפת משתנה אחד במשתנה אחר כדי לפשט משוואה או נוסחה.",
+                "example": "To solve for x in the equation 3x + 7 = 25, we can subtract 7 from both sides, then divide by 3. This means that x equals approximately 6.",
+                "example_hebrew": "כדי לפתור את x במשוואה 3x + 7 = 25, נוכל להחסיר 7 משני הצדדים, ואז לחלק ב-3. זה אומר ש-x שווה ל-6 בערך."
+            }
+        ]
+    }
+]

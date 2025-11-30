@@ -1,0 +1,40 @@
+[
+    {
+        "word": "agent",
+        "word_hebrew": "סוֹכֵן",
+        "main_definition": "An agent is a person who represents another party in negotiations or transactions, often with the authority to make decisions on behalf of that party.",
+        "main_definition_hebrew": "סוכן הוא אדם המייצג צד אחר במשא ומתן או בעסקאות, לרוב בעל הסמכות לקבל החלטות בשמו של אותו צד.",
+        "meanings_and_examples": [
+            {
+                "definition": "A person acting on behalf of an organization or company",
+                "definition_hebrew": "אדם הפועל מטעם ארגון או חברה",
+                "example": "The travel agent booked flights and hotels for a client's vacation.",
+                "example_hebrew": "סוכן הנסיעות הזמין טיסות ומלונות לחופשה של לקוח."
+            },
+            {
+                "definition": "A secret informant working with law enforcement agencies",
+                "definition_hebrew": "מודיע סודי שעובד עם רשויות אכיפת החוק",
+                "example": "The undercover detective was an agent gathering information on organized crime.",
+                "example_hebrew": "הבלש הסמוי היה סוכן שאסף מידע על פשע מאורגן."
+            },
+            {
+                "definition": "An individual who influences or shapes events, often behind the scenes",
+                "definition_hebrew": "אדם שמשפיע או מעצב אירועים, לרוב מאחורי הקלעים",
+                "example": "The political strategist acted as an agent in shaping the party's platform for the upcoming election.",
+                "example_hebrew": "האסטרטג הפוליטי פעל כסוכן בעיצוב המצע של המפלגה לבחירות הקרובות."
+            },
+            {
+                "definition": "A substance that causes a chemical reaction in another material",
+                "definition_hebrew": "חומר הגורם לתגובה כימית בחומר אחר",
+                "example": "Sulfuric acid is a strong agent used to process various industrial materials.",
+                "example_hebrew": "חומצה גופרתית היא חומר חזק המשמש לעיבוד חומרים תעשייתיים שונים."
+            },
+            {
+                "definition": "An entity or factor contributing to an effect, result, or phenomenon",
+                "definition_hebrew": "ישות או גורם התורמים להשפעה, תוצאה או תופעה",
+                "example": "Public opinion can be considered an agent in the election's outcome.",
+                "example_hebrew": "דעת הקהל יכולה להיחשב כסוכן בתוצאות הבחירות."
+            }
+        ]
+    }
+]

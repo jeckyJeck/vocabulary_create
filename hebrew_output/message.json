@@ -1,0 +1,40 @@
+[
+    {
+        "word": "message",
+        "word_hebrew": "הוֹדָעָה",
+        "main_definition": "A message is a form of communication, typically consisting of information or instructions sent from one individual to another.",
+        "main_definition_hebrew": "הודעה היא צורת תקשורת, המורכבת בדרך כלל ממידע או הנחיות הנשלחות מאדם אחד לאחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "General communication between people",
+                "definition_hebrew": "תקשורת כללית בין אנשים",
+                "example": "She left him a detailed message explaining why she couldn't attend the meeting.",
+                "example_hebrew": "היא השאירה לו הודעה מפורטת המסבירה מדוע היא לא יכולה להשתתף בפגישה."
+            },
+            {
+                "definition": "A note or written text that conveys information",
+                "definition_hebrew": "פתק או טקסט כתוב המעביר מידע",
+                "example": "He wrote a heartfelt message on her birthday card, expressing his love and appreciation.",
+                "example_hebrew": "הוא כתב הודעה מכל הלב בכרטיס יום ההולדת שלה, והביע את אהבתו והערכתו."
+            },
+            {
+                "definition": "In the context of technology, an electronic transmission of data between devices",
+                "definition_hebrew": "בהקשר של טכנולוגיה, העברה אלקטרונית של נתונים בין מכשירים",
+                "example": "The software sent a confirmation message once it successfully updated all user accounts.",
+                "example_hebrew": "התוכנה שלחה הודעת אישור לאחר שעדכנה בהצלחה את כל חשבונות המשתמש."
+            },
+            {
+                "definition": "A secret or private piece of information intended to be kept confidential",
+                "definition_hebrew": "פיסת מידע סודית או פרטית שנועדה להישמר בסודיות",
+                "example": "She whispered the sensitive message into her friend's ear, asking him not to tell anyone else.",
+                "example_hebrew": "היא לחשה את ההודעה הרגישה לאוזן של חברתה, וביקשה ממנו לא לספר לאף אחד אחר."
+            },
+            {
+                "definition": "Informal communication between friends or family members that is often humorous or lighthearted",
+                "definition_hebrew": "תקשורת לא רשמית בין חברים או בני משפחה שלעתים קרובות היא הומוריסטית או קלילה",
+                "example": "They exchanged witty messages throughout the day, joking about their shared experiences.",
+                "example_hebrew": "הם החליפו מסרים שנונים לאורך היום, והתבדחו על החוויות המשותפות שלהם."
+            }
+        ]
+    }
+]

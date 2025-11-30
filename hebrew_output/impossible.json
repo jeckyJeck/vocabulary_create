@@ -1,0 +1,34 @@
+[
+    {
+        "word": "impossible",
+        "word_hebrew": "בלתי אפשרי",
+        "main_definition": "Something that cannot be done or achieved.",
+        "main_definition_hebrew": "משהו שאי אפשר לעשות או להשיג.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not able to happen, exist, or occur.",
+                "definition_hebrew": "לא מסוגל לקרות, להתקיים או להתרחש.",
+                "example": "It's impossible for a human to live on the moon without proper equipment.",
+                "example_hebrew": "זה בלתי אפשרי לאדם לחיות על הירח ללא ציוד מתאים."
+            },
+            {
+                "definition": "Unattainable due to current circumstances or limitations.",
+                "definition_hebrew": "לא ניתן להשגה עקב נסיבות או מגבלות נוכחיות.",
+                "example": "Having enough time to complete this project in one day is impossible given our workload.",
+                "example_hebrew": "זה בלתי אפשרי לקבל מספיק זמן להשלים את הפרויקט הזה ביום אחד בהתחשב בעומס העבודה שלנו."
+            },
+            {
+                "definition": "Not feasible because of lacking resources, skills, or other necessary elements.",
+                "definition_hebrew": "לא בר ביצוע בגלל היעדר משאבים, כישורים או אלמנטים נחוצים אחרים.",
+                "example": "Trying to fix a computer without any technical knowledge would be impossible.",
+                "example_hebrew": "ניסיון לתקן מחשב ללא כל ידע טכני יהיה בלתי אפשרי."
+            },
+            {
+                "definition": "Very unlikely to occur naturally or spontaneously.",
+                "definition_hebrew": "סביר מאוד להתרחש באופן טבעי או ספונטני.",
+                "example": "Winning the lottery multiple times in a row is considered highly improbable, if not impossible.",
+                "example_hebrew": "זכייה בלוטו מספר פעמים ברציפות נחשבת לבלתי סביר מאוד, אם לא בלתי אפשרי."
+            }
+        ]
+    }
+]

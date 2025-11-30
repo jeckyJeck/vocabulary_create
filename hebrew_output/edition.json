@@ -1,0 +1,34 @@
+[
+    {
+        "word": "edition",
+        "word_hebrew": "מַהֲדוּרָה",
+        "main_definition": "An edition refers to a specific version or print run of a published work, such as a book, magazine, newspaper, or other media.",
+        "main_definition_hebrew": "מהדורה מתייחסת לגרסה או הדפסה ספציפית של יצירה שפורסמה, כגון ספר, מגזין, עיתון או מדיה אחרת.",
+        "meanings_and_examples": [
+            {
+                "definition": "A particular printing of a book with distinctive features",
+                "definition_hebrew": "הדפסה מסוימת של ספר בעל מאפיינים ייחודיים",
+                "example": "The 20th edition of 'To Kill a Mockingbird' included an updated foreword by the author, Harper Lee.",
+                "example_hebrew": "המהדורה ה-20 של 'To Kill a Mockingbird' כללה הקדמה מעודכנת מאת המחברת, הארפר לי."
+            },
+            {
+                "definition": "An individual version or release of software or media content",
+                "definition_hebrew": "גרסה או מהדורה בודדת של תוכנה או תוכן מדיה",
+                "example": "Version 5.1 of Microsoft Word is considered an edition of the popular word processing software.",
+                "example_hebrew": "גרסה 5.1 של Microsoft Word נחשבת למהדורה של תוכנת עיבוד התמלילים הפופולרית."
+            },
+            {
+                "definition": "A specific issue or printing of a magazine, newspaper, or journal",
+                "definition_hebrew": "גיליון ספציפי או הדפסה של מגזין, עיתון או כתב עת",
+                "example": "The March edition of National Geographic included articles on climate change and its impacts.",
+                "example_hebrew": "מהדורת מרץ של נשיונל ג'יאוגרפיק כללה מאמרים על שינויי אקלים והשפעותיו."
+            },
+            {
+                "definition": "An updated release of a product to address customer feedback or new market trends",
+                "definition_hebrew": "מהדורה מעודכנת של מוצר כדי לתת מענה למשוב לקוחות או למגמות חדשות בשוק",
+                "example": "Apple released the iPhone 12 Pro Max as an edition, offering improved camera features compared to previous versions.",
+                "example_hebrew": "אפל הוציאה את ה-iPhone 12 Pro Max כמהדורה, המציעה תכונות מצלמה משופרות בהשוואה לגרסאות קודמות."
+            }
+        ]
+    }
+]

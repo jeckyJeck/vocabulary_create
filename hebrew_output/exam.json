@@ -1,0 +1,34 @@
+[
+    {
+        "word": "exam",
+        "word_hebrew": "מבחן",
+        "main_definition": "An exam is an assessment or test that evaluates a person's knowledge, skills, or abilities in a particular subject or field.",
+        "main_definition_hebrew": "בחינה היא הערכה או מבחן המעריך את הידע, הכישורים או היכולות של אדם בנושא או תחום מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A formal written test for academic purposes",
+                "definition_hebrew": "מבחן רשמי בכתב למטרות אקדמיות",
+                "example": "The final exams at the end of each semester covered all topics discussed during that term.",
+                "example_hebrew": "בחינות הגמר בסוף כל סמסטר כיסו את כל הנושאים שנדונו במהלך אותה קדנציה."
+            },
+            {
+                "definition": "An evaluation or assessment conducted in a professional setting to determine competence and proficiency",
+                "definition_hebrew": "הערכה או הערכה הנערכת במסגרת מקצועית לקביעת יכולת ובקיאות",
+                "example": "He passed his medical license exam, which demonstrated his ability to practice medicine.",
+                "example_hebrew": "הוא עבר את מבחן הרישיון הרפואי שלו, שהוכיח את יכולתו לעסוק ברפואה."
+            },
+            {
+                "definition": "A test given during job interviews to gauge an applicant's skills or knowledge related to the position",
+                "definition_hebrew": "מבחן הניתן במהלך ראיונות עבודה כדי לאמוד את כישוריו או הידע של המועמד הקשור לתפקיד",
+                "example": "The tech company administered coding tests as part of their interview process for software developers.",
+                "example_hebrew": "חברת הטכנולוגיה ערכה מבחני קידוד כחלק מתהליך הראיונות שלהם למפתחי תוכנה."
+            },
+            {
+                "definition": "An informal assessment used in personal development to measure progress or set goals",
+                "definition_hebrew": "הערכה לא רשמית המשמשת בהתפתחות אישית למדידת התקדמות או קביעת יעדים",
+                "example": "She took a weekly self-improvement exam to track her fitness and health milestones.",
+                "example_hebrew": "היא ניגשה לבחינה שבועית לשיפור עצמי כדי לעקוב אחר אבני הדרך בכושר ובריאות שלה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "embassy",
+        "word_hebrew": "שגרירות",
+        "main_definition": "An embassy is the official residence or workplace of an ambassador, which represents a country in another nation.",
+        "main_definition_hebrew": "שגרירות היא מקום מגוריו או מקום העבודה הרשמי של שגריר, המייצג מדינה במדינה אחרת.",
+        "meanings_and_examples": [
+            {
+                "definition": "A diplomatic mission located in a foreign country where the head of a state's diplomatic staff resides",
+                "definition_hebrew": "נציגות דיפלומטית הממוקמת במדינה זרה בה מתגורר ראש הסגל הדיפלומטי של מדינה",
+                "example": "The United States Embassy is responsible for representing American interests in France.",
+                "example_hebrew": "שגרירות ארצות הברית אחראית לייצוג אינטרסים אמריקאים בצרפת."
+            },
+            {
+                "definition": "A building that houses an embassy, serving as a place for ambassadors and their staff to work and live",
+                "definition_hebrew": "בניין המאכלס שגרירות, המשמש מקום לעבודה וחיים של שגרירים וצוותיהם",
+                "example": "Our colleague works at the British Embassy located downtown.",
+                "example_hebrew": "הקולגה שלנו עובד בשגרירות בריטניה הממוקמת במרכז העיר."
+            },
+            {
+                "definition": "The group of diplomats from one country who are stationed in another country, working together as a team",
+                "definition_hebrew": "קבוצת הדיפלומטים ממדינה אחת המוצבים במדינה אחרת, עובדים יחד כצוות",
+                "example": "The French delegation at the Chinese embassy includes several ambassadors and their staff.",
+                "example_hebrew": "המשלחת הצרפתית בשגרירות סין כוללת מספר שגרירים וצוותיהם."
+            },
+            {
+                "definition": "A facility where consular services such as visa applications and passport renewals are conducted for citizens of foreign countries",
+                "definition_hebrew": "מתקן שבו נערכים שירותים קונסולריים כגון בקשות ויזה וחידוש דרכונים עבור אזרחי מדינות זרות",
+                "example": "Many people go to the Russian Embassy in Washington, D.C., to get their Russian visas.",
+                "example_hebrew": "אנשים רבים הולכים לשגרירות רוסיה בוושינגטון הבירה כדי לקבל את הויזה הרוסית שלהם."
+            }
+        ]
+    }
+]

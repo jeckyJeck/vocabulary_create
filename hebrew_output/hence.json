@@ -1,0 +1,28 @@
+[
+    {
+        "word": "hence",
+        "word_hebrew": "לָכֵן",
+        "main_definition": "from this or that as a consequence or result; therefore.",
+        "main_definition_hebrew": "מזה או אחר כתוצאה או כתוצאה; לָכֵן.",
+        "meanings_and_examples": [
+            {
+                "definition": "To conclude something based on what has been said or done before. Example: 'The company was not doing well financially, hence they decided to downsize.'",
+                "definition_hebrew": "להסיק משהו על סמך מה שנאמר או נעשה קודם. דוגמה: 'החברה לא הצליחה מבחינה כלכלית, ולכן החליטו לצמצם'.",
+                "example": "'Due to the heavy rains last night, the roads are flooded; hence traffic is expected to be slower this morning.'",
+                "example_hebrew": "״בשל הגשמים העזים אמש, הכבישים מוצפים; לפיכך התנועה צפויה להיות איטית יותר הבוקר.'"
+            },
+            {
+                "definition": "From this point onwards or as a result of something previously mentioned. Example: 'The experiment was successful; hence we can move forward with further testing.'",
+                "definition_hebrew": "מנקודה זו ואילך או כתוצאה ממשהו שהוזכר קודם לכן. דוגמה: 'הניסוי הצליח; לפיכך נוכל להתקדם עם בדיקות נוספות.'",
+                "example": "'She didn't enjoy the movie, hence she decided not to watch it again.'",
+                "example_hebrew": "\"היא לא נהנתה מהסרט, ולכן היא החליטה לא לצפות בו שוב.\""
+            },
+            {
+                "definition": "Used to indicate a logical consequence or deduction. Example: 'He forgot his umbrella; hence he got wet in the rain.'",
+                "definition_hebrew": "משמש לציון תוצאה לוגית או דדוקציה. דוגמה: 'הוא שכח את המטריה שלו; לכן הוא נרטב בגשם'.",
+                "example": "'She studied hard for the exam; hence she was able to answer all the questions correctly.'",
+                "example_hebrew": "״היא למדה קשה לבחינה; לפיכך היא הצליחה לענות נכון על כל השאלות״."
+            }
+        ]
+    }
+]

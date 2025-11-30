@@ -1,0 +1,40 @@
+[
+    {
+        "word": "operators",
+        "word_hebrew": "מפעילים",
+        "main_definition": "In simple English, operators refer to people who perform tasks or control processes in various fields such as computing, telecommunications, law enforcement, and more.",
+        "main_definition_hebrew": "באנגלית פשוטה, מפעילים מתייחסים לאנשים המבצעים משימות או תהליכי בקרה בתחומים שונים כמו מחשוב, טלקומוניקציה, אכיפת חוק ועוד.",
+        "meanings_and_examples": [
+            {
+                "definition": "Individuals who manipulate computer systems",
+                "definition_hebrew": "אנשים שמתפעלים מערכות מחשב",
+                "example": "The operators at the data center managed network switches to route internet traffic efficiently.",
+                "example_hebrew": "המפעילים במרכז הנתונים ניהלו מתגי רשת לניתוב תעבורת אינטרנט ביעילות."
+            },
+            {
+                "definition": "People controlling machines or devices in manufacturing or industrial processes",
+                "definition_hebrew": "אנשים השולטים במכונות או מכשירים בתהליכי ייצור או תעשייה",
+                "example": "The operators on the assembly line adjusted robotic arms to assemble car parts accurately.",
+                "example_hebrew": "המפעילים בפס הייצור התאימו זרועות רובוטיות להרכבת חלקי רכב בצורה מדויקת."
+            },
+            {
+                "definition": "Individuals responsible for emergency services, such as police and firefighters",
+                "definition_hebrew": "אנשים האחראים על שירותי החירום, כגון משטרה וכיבוי אש",
+                "example": "Emergency operators at the local 911 center dispatched help during a house fire incident.",
+                "example_hebrew": "מפעילי חירום במוקד 911 המקומי שלחו עזרה במהלך אירוע שריפה בבית."
+            },
+            {
+                "definition": "Professionals who manage and maintain telecommunication networks",
+                "definition_hebrew": "אנשי מקצוע המנהלים ומתחזקים רשתות תקשורת",
+                "example": "Telecom operators monitored and maintained the fiber optic cables that connected cities across the country.",
+                "example_hebrew": "מפעילי טלקום ניטרו ותחזקו את כבלי הסיבים האופטיים שחיברו בין ערים ברחבי הארץ."
+            },
+            {
+                "definition": "Individuals authorized to perform certain functions, such as driving a vehicle or accessing restricted areas",
+                "definition_hebrew": "אנשים המורשים לבצע פונקציות מסוימות, כגון נהיגה ברכב או גישה לאזורים מוגבלים",
+                "example": "Security officers with access cards operated heavy machinery at the construction site.",
+                "example_hebrew": "קציני ביטחון בעלי כרטיסי גישה הפעילו מכונות כבדות באתר הבנייה."
+            }
+        ]
+    }
+]

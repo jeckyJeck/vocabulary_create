@@ -1,0 +1,34 @@
+[
+    {
+        "word": "fatal",
+        "word_hebrew": "קָטלָנִי",
+        "main_definition": "causing or characterized by death; deadly, lethal.",
+        "main_definition_hebrew": "גורם או מאופיין במוות; קטלני, קטלני.",
+        "meanings_and_examples": [
+            {
+                "definition": "resulting in death",
+                "definition_hebrew": "וכתוצאה מכך למוות",
+                "example": "The accident had a fatal outcome for the driver.",
+                "example_hebrew": "לתאונה הייתה תוצאה קטלנית לנהג."
+            },
+            {
+                "definition": "gravely injurious or damaging to life",
+                "definition_hebrew": "פגיעה חמורה או מזיק לחיים",
+                "example": "Exposure to certain chemicals can have fatal health effects.",
+                "example_hebrew": "לחשיפה לכימיקלים מסוימים עלולה להיות השפעות בריאותיות קטלניות."
+            },
+            {
+                "definition": "decisive in determining an outcome; critical",
+                "definition_hebrew": "מכריע בקביעת תוצאה; קריטי",
+                "example": "The final round of the chess game was a fatal mistake for his opponent, leading him to lose.",
+                "example_hebrew": "הסיבוב האחרון של משחק השחמט היה טעות גורלית עבור יריבו, שהוביל אותו להפסיד."
+            },
+            {
+                "definition": "inherently harmful or dangerous",
+                "definition_hebrew": "מזיק או מסוכן מטבעו",
+                "example": "Skiing without proper safety gear can be fatal.",
+                "example_hebrew": "סקי ללא ציוד בטיחות מתאים יכול להיות קטלני."
+            }
+        ]
+    }
+]

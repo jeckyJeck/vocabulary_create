@@ -1,0 +1,34 @@
+[
+    {
+        "word": "suspension",
+        "word_hebrew": "הַשׁעָיָה",
+        "main_definition": "The act of temporarily stopping or postponing an activity, event, or process.",
+        "main_definition_hebrew": "הפעולה של עצירה או דחיה זמנית של פעילות, אירוע או תהליך.",
+        "meanings_and_examples": [
+            {
+                "definition": "To stop the normal flow or movement of something, often used in reference to a vehicle's ability to move on wheels",
+                "definition_hebrew": "כדי לעצור את הזרימה הרגילה או התנועה של משהו, משמש לעתים קרובות בהתייחסות ליכולת של רכב לנוע על גלגלים",
+                "example": "When my car broke down, it was put on suspension until repairs could be made.",
+                "example_hebrew": "כשהמכונית שלי התקלקלה, היא הונחה עד שניתן היה לבצע תיקונים."
+            },
+            {
+                "definition": "A temporary release from duties or responsibilities, especially related to punishment in sports",
+                "definition_hebrew": "שחרור זמני מחובות או אחריות, במיוחד הקשורים לענישה בספורט",
+                "example": "The referee decided to give the player a two-game suspension for his unsportsmanlike conduct.",
+                "example_hebrew": "השופט החליט לתת לשחקן הרחקה לשני משחקים על התנהלותו הבלתי ספורטיבית."
+            },
+            {
+                "definition": "To withhold or delay distribution of something until further notice or evaluation",
+                "definition_hebrew": "לעכב או לעכב הפצה של משהו עד להודעה חדשה או להערכה",
+                "example": "Due to the ongoing investigation, all payments were put on hold as a form of financial suspension.",
+                "example_hebrew": "עקב החקירה המתמשכת, כל התשלומים הוקפאו כסוג של השעיה כספית."
+            },
+            {
+                "definition": "A system where students are held back from regular schooling due to disciplinary issues or academic struggles",
+                "definition_hebrew": "מערכת שבה תלמידים מונעים מלימודים רגילים עקב בעיות משמעת או מאבקים לימודיים",
+                "example": "John had been in summer school for the entire grade, but now he's able to return to his classmates after a successful suspension.",
+                "example_hebrew": "ג'ון למד בבית ספר קיץ במשך כל הכיתה, אבל כעת הוא יכול לחזור לחבריו לכיתה לאחר השעיה מוצלחת."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "shots",
+        "word_hebrew": "יריות",
+        "main_definition": "Shots refer to a variety of meanings, including actions, medical injections, or group photographs.",
+        "main_definition_hebrew": "יריות מתייחסות למגוון משמעויות, כולל פעולות, זריקות רפואיות או צילומים קבוצתיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Actions involving firing bullets from weapons such as guns or cannons",
+                "definition_hebrew": "פעולות הכרוכות בירי כדורים מכלי נשק כגון רובים או תותחים",
+                "example": "The soldiers took cover as the enemy fired several shots towards their position.",
+                "example_hebrew": "החיילים תפסו מחסה כשהאויב ירה מספר יריות לעבר עמדתם."
+            },
+            {
+                "definition": "A single dose of a medication administered through injection by a healthcare professional",
+                "definition_hebrew": "מנה אחת של תרופה הניתנת באמצעות הזרקה על ידי איש מקצוע בתחום הבריאות",
+                "example": "After getting her flu shot, she needed to rest for a while before returning to work.",
+                "example_hebrew": "לאחר שקיבלה חיסון נגד שפעת, היא הייתה צריכה לנוח זמן מה לפני שתחזור לעבודה."
+            },
+            {
+                "definition": "A series of photographs taken at one time or over a period with individuals standing side-by-side",
+                "definition_hebrew": "סדרת תצלומים שצולמו בבת אחת או לאורך תקופה כאשר אנשים עומדים זה לצד זה",
+                "example": "The family gathered for their annual holiday shots, capturing the joy on everyone's faces.",
+                "example_hebrew": "המשפחה התכנסה לצילומי החג השנתי שלה, כשהיא לכדה את השמחה על פניהם של כולם."
+            }
+        ]
+    }
+]

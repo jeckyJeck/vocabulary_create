@@ -1,0 +1,40 @@
+[
+    {
+        "word": "automotive",
+        "word_hebrew": "רכב",
+        "main_definition": "Relating to the design, development, construction or use of motor vehicles such as cars, trucks, buses, and motorcycles.",
+        "main_definition_hebrew": "הנוגע לתכנון, פיתוח, בנייה או שימוש בכלי רכב ממונעים כגון מכוניות, משאיות, אוטובוסים ואופנועים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Involving the automotive industry",
+                "definition_hebrew": "מעורבות תעשיית הרכב",
+                "example": "The region is known for its thriving automotive industry with several car manufacturing plants.",
+                "example_hebrew": "האזור ידוע בתעשיית הרכב המשגשגת שלו עם מספר מפעלי ייצור מכוניות."
+            },
+            {
+                "definition": "Relating to vehicles or transportation by vehicle",
+                "definition_hebrew": "לגבי רכבים או הובלה ברכב",
+                "example": "Automotive insurance refers to coverage specifically designed for drivers and their vehicles.",
+                "example_hebrew": "ביטוח רכב מתייחס לכיסוי המיועד במיוחד לנהגים ולרכביהם."
+            },
+            {
+                "definition": "Concerning car design, manufacturing, and maintenance",
+                "definition_hebrew": "לגבי עיצוב, ייצור ותחזוקה של מכוניות",
+                "example": "The company specializes in automotive engineering, focusing on the development of innovative vehicle designs.",
+                "example_hebrew": "החברה מתמחה בהנדסת רכב, תוך התמקדות בפיתוח עיצובי רכב חדשניים."
+            },
+            {
+                "definition": "Relating to motorcycles",
+                "definition_hebrew": "מתייחס לאופנועים",
+                "example": "Automotive enthusiasts often take pride in their customized or modified motorcycles.",
+                "example_hebrew": "חובבי רכב מתגאים לרוב באופנועים המותאמים או שעברו שינוי."
+            },
+            {
+                "definition": "Pertaining to self-driving or autonomous vehicles",
+                "definition_hebrew": "הנוגע לרכבים בנהיגה עצמית או אוטונומית",
+                "example": "The automotive industry is rapidly advancing towards the development of fully autonomous cars.",
+                "example_hebrew": "תעשיית הרכב מתקדמת במהירות לקראת פיתוח של מכוניות אוטונומיות לחלוטין."
+            }
+        ]
+    }
+]

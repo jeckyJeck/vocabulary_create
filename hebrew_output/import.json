@@ -1,0 +1,34 @@
+[
+    {
+        "word": "import",
+        "word_hebrew": "יְבוּא",
+        "main_definition": "To bring goods or services into a country from abroad, typically to use them within the domestic market.",
+        "main_definition_hebrew": "להביא סחורות או שירותים למדינה מחו\"ל, בדרך כלל כדי להשתמש בהם בשוק המקומי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Bringing in goods from another country for trade and consumption.",
+                "definition_hebrew": "הבאת סחורות ממדינה אחרת למסחר ולצריכה.",
+                "example": "The company decided to import Italian leather to manufacture high-quality shoes.",
+                "example_hebrew": "החברה החליטה לייבא עור איטלקי לייצור נעליים איכותיות."
+            },
+            {
+                "definition": "To acquire, adopt or assimilate an idea, belief, method, etc., from someone else's culture or context.",
+                "definition_hebrew": "לרכוש, לאמץ או להטמיע רעיון, אמונה, שיטה וכו', מתרבות או הקשר של מישהו אחר.",
+                "example": "After studying abroad, he started to import various cultural practices into his daily life.",
+                "example_hebrew": "לאחר לימודיו בחו\"ל, החל לייבא שיטות תרבות שונות לחיי היומיום שלו."
+            },
+            {
+                "definition": "In programming, to bring in external code written by other programmers for use in your own project.",
+                "definition_hebrew": "בתכנות, להביא קוד חיצוני שנכתב על ידי מתכנתים אחרים לשימוש בפרויקט שלך.",
+                "example": "The developer used a library to import functions for handling dates and times more easily.",
+                "example_hebrew": "המפתח השתמש בספריה כדי לייבא פונקציות לטיפול בתאריכים ושעות ביתר קלות."
+            },
+            {
+                "definition": "To regard something as of prime significance or influence; treasure as valuable.",
+                "definition_hebrew": "להתייחס למשהו כבעל משמעות או השפעה עיקרית; אוצר כבעל ערך.",
+                "example": "She holds the tradition of her family very highly, considering it an important part of their identity.",
+                "example_hebrew": "היא מחזיקה מאוד במסורת של משפחתה, ורואה בה חלק חשוב מזהותם."
+            }
+        ]
+    }
+]

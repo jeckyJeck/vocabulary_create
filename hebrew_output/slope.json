@@ -1,0 +1,28 @@
+[
+    {
+        "word": "slope",
+        "word_hebrew": "מִדרוֹן",
+        "main_definition": "In mathematics, the slope of a line is its steepness or incline measured as the ratio of the rise (vertical change) to the run (horizontal change). In other contexts, it can refer to an inclined surface or gradual increase/decrease.",
+        "main_definition_hebrew": "במתמטיקה, השיפוע של קו הוא תלילותו או השיפוע שלו הנמדדים כיחס בין העלייה (שינוי אנכי) לריצה (שינוי אופקי). בהקשרים אחרים, זה יכול להתייחס למשטח משופע או לעלייה/ירידה הדרגתית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mathematical concept describing the steepness of a line",
+                "definition_hebrew": "מושג מתמטי המתאר את תלילותו של קו",
+                "example": "The slope of a straight line is constant, while the slope of a curve changes at every point.",
+                "example_hebrew": "השיפוע של קו ישר הוא קבוע, בעוד השיפוע של עקומה משתנה בכל נקודה."
+            },
+            {
+                "definition": "Gradient or incline in geometry and physics",
+                "definition_hebrew": "שיפוע או שיפוע בגיאומטריה ובפיסיקה",
+                "example": "A ski run has a steep slope that challenges even experienced skiers.",
+                "example_hebrew": "למסלול סקי יש מדרון תלול שמאתגר אפילו גולשים מנוסים."
+            },
+            {
+                "definition": "Rate of change in various fields like economics, where it may describe the rate at which something grows or shrinks over time",
+                "definition_hebrew": "קצב השינוי בתחומים שונים כמו כלכלה, שבהם הוא עשוי לתאר את הקצב שבו משהו גדל או מתכווץ לאורך זמן",
+                "example": "The company's revenue is increasing at a steady slope, indicating consistent growth.",
+                "example_hebrew": "הכנסות החברה גדלות בשיפוע קבוע, מה שמעיד על צמיחה עקבית."
+            }
+        ]
+    }
+]

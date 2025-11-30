@@ -1,0 +1,40 @@
+[
+    {
+        "word": "configured",
+        "word_hebrew": "מוגדר",
+        "main_definition": "To set up, adjust, or arrange something according to specific requirements or preferences.",
+        "main_definition_hebrew": "כדי להגדיר, להתאים או לארגן משהו לפי דרישות או העדפות ספציפיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Arranging components in a system for optimal functioning and performance.",
+                "definition_hebrew": "סידור רכיבים במערכת לתפקוד וביצועים מיטביים.",
+                "example": "The computer was configured with the latest software updates.",
+                "example_hebrew": "המחשב הוגדר עם עדכוני התוכנה האחרונים."
+            },
+            {
+                "definition": "Setting up devices or machines to operate as desired.",
+                "definition_hebrew": "הגדרת מכשירים או מכונות לפעול כרצונך.",
+                "example": "The security camera was configured to record during nighttime hours only.",
+                "example_hebrew": "מצלמת האבטחה הוגדרה להקלטה בשעות הלילה בלבד."
+            },
+            {
+                "definition": "Organizing information, settings, or parameters in a systematic manner.",
+                "definition_hebrew": "ארגון מידע, הגדרות או פרמטרים בצורה שיטתית.",
+                "example": "She configured her email account with different filters for spam and promotional emails.",
+                "example_hebrew": "היא הגדירה את חשבון הדוא\"ל שלה עם מסננים שונים לספאם והודעות דוא\"ל לקידום מכירות."
+            },
+            {
+                "definition": "Preparing equipment or tools to be used according to specific instructions or guidelines.",
+                "definition_hebrew": "הכנת ציוד או כלים לשימוש לפי הנחיות או הנחיות ספציפיות.",
+                "example": "The lab technician configured the microscope settings before starting the experiment.",
+                "example_hebrew": "טכנאי המעבדה הגדיר את הגדרות המיקרוסקופ לפני תחילת הניסוי."
+            },
+            {
+                "definition": "Customizing features and options in software applications to suit user preferences.",
+                "definition_hebrew": "התאמה אישית של תכונות ואפשרויות ביישומי תוכנה כדי להתאים להעדפות המשתמש.",
+                "example": "I configured my social media profile with a custom theme and privacy settings.",
+                "example_hebrew": "הגדרתי את פרופיל המדיה החברתית שלי עם עיצוב מותאם אישית והגדרות פרטיות."
+            }
+        ]
+    }
+]

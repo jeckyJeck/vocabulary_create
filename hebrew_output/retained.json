@@ -1,0 +1,40 @@
+[
+    {
+        "word": "retained",
+        "word_hebrew": "שמור",
+        "main_definition": "Keeping something in a particular place or state, often after an effort to change it.",
+        "main_definition_hebrew": "שמירה על משהו במקום מסוים או במצב מסוים, לעתים קרובות לאחר מאמץ לשנות אותו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To keep someone employed for the whole period of their contract.",
+                "definition_hebrew": "להשאיר מישהו מועסק לכל תקופת החוזה שלו.",
+                "example": "Despite economic downturns, the company managed to retain all its employees.",
+                "example_hebrew": "למרות השפל הכלכלי, החברה הצליחה לשמר את כל עובדיה."
+            },
+            {
+                "definition": "To maintain possession or control over something, such as property or an item.",
+                "definition_hebrew": "לשמור על החזקה או שליטה על משהו, כגון רכוש או פריט.",
+                "example": "The family retained ownership of their ancestral home even after selling other assets.",
+                "example_hebrew": "המשפחה שמרה בבעלות על בית אבותיהם גם לאחר מכירת נכסים אחרים."
+            },
+            {
+                "definition": "In sports, to keep a player who was initially signed but then released by the team and re-signed later in the season.",
+                "definition_hebrew": "בספורט, לשמור על שחקן שהוחתם בתחילה אך לאחר מכן שוחרר על ידי הקבוצה והוחתם מחדש בהמשך העונה.",
+                "example": "After struggling with his performance, he was released from the team but managed to retain when offered again midway through the season.",
+                "example_hebrew": "לאחר שנאבק בתפקוד שלו, הוא שוחרר מהקבוצה אך הצליח לשמר כשהציעו לו שוב באמצע העונה."
+            },
+            {
+                "definition": "To hold back or keep something within (a specified amount).",
+                "definition_hebrew": "להתאפק או לשמור משהו בפנים (כמות מוגדרת).",
+                "example": "She retained a portion of her winnings for future investments.",
+                "example_hebrew": "היא שמרה על חלק מהזכייה שלה להשקעות עתידיות."
+            },
+            {
+                "definition": "In accounting, to not record an expense or income in the current period's financial statements.",
+                "definition_hebrew": "בחשבונאות, לא לרשום הוצאה או הכנסה בדוחות הכספיים של התקופה הנוכחית.",
+                "example": "The company chose to retain this loss on its balance sheet rather than recognizing it as an expense this year.",
+                "example_hebrew": "החברה בחרה להשאיר הפסד זה במאזנה ולא להכיר בו כהוצאה השנה."
+            }
+        ]
+    }
+]

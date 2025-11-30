@@ -1,0 +1,34 @@
+[
+    {
+        "word": "stuff",
+        "word_hebrew": "דברים",
+        "main_definition": "Stuff generally refers to objects, things, or content of various kinds without specifying a particular type.",
+        "main_definition_hebrew": "דברים מתייחסים בדרך כלל לחפצים, דברים או תוכן מסוגים שונים מבלי לציין סוג מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Used informally to refer to belongings or possessions.",
+                "definition_hebrew": "משמש באופן לא רשמי להתייחסות לחפצים או רכוש.",
+                "example": "I packed all my stuff for the move.",
+                "example_hebrew": "ארזתי את כל הדברים שלי לקראת המעבר."
+            },
+            {
+                "definition": "Informal term used to describe various items, especially when unspecified.",
+                "definition_hebrew": "מונח לא רשמי המשמש לתיאור פריטים שונים, במיוחד כאשר לא מצוין.",
+                "example": "What's in your bag? I just want some of that cool stuff!",
+                "example_hebrew": "מה יש בתיק שלך? אני רק רוצה כמה מהדברים המגניבים האלה!"
+            },
+            {
+                "definition": "Used to refer to food or drink without specifying what it is.",
+                "definition_hebrew": "משמש להתייחסות לאוכל או לשתייה מבלי לציין מה הם.",
+                "example": "I'm hungry. Let's grab some stuff.",
+                "example_hebrew": "אני רעב. בוא ניקח כמה דברים."
+            },
+            {
+                "definition": "A colloquial way of referring to general content, such as a movie plotline or book summary.",
+                "definition_hebrew": "דרך דיבור להתייחס לתוכן כללי, כגון קו עלילה של סרט או תקציר ספר.",
+                "example": "This novel is full of interesting stuff about the human condition.",
+                "example_hebrew": "הרומן הזה מלא בדברים מעניינים על המצב האנושי."
+            }
+        ]
+    }
+]

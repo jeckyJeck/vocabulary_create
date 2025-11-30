@@ -1,0 +1,28 @@
+[
+    {
+        "word": "inches",
+        "word_hebrew": "אינץ",
+        "main_definition": "Inches is a unit of measurement in the imperial system, representing one sixteenth of a foot or 25.4 millimeters.",
+        "main_definition_hebrew": "אינצ'ים היא יחידת מדידה במערכת הקיסרית, המייצגת שישה עשרה רגל או 25.4 מילימטרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Distance between two points measured in inches",
+                "definition_hebrew": "מרחק בין שתי נקודות נמדד באינצ'ים",
+                "example": "The table was moved five inches away from the wall.",
+                "example_hebrew": "השולחן הורחק חמישה סנטימטרים מהקיר."
+            },
+            {
+                "definition": "Inchstick or ruler used for measuring length",
+                "definition_hebrew": "אינצ'סטיק או סרגל המשמש למדידת אורך",
+                "example": "She marked the fabric with an inchstick to ensure precise measurements.",
+                "example_hebrew": "היא סימנה את הבד במקל אינצ' כדי להבטיח מידות מדויקות."
+            },
+            {
+                "definition": "Metaphorical phrase indicating a small, incremental progress or change",
+                "definition_hebrew": "ביטוי מטפורי המציין התקדמות או שינוי קטן ומצטבר",
+                "example": "The company made inches of progress towards its sales target each month.",
+                "example_hebrew": "החברה עשתה סנטימטרים של התקדמות לקראת יעד המכירות שלה מדי חודש."
+            }
+        ]
+    }
+]

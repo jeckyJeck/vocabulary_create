@@ -1,0 +1,40 @@
+[
+    {
+        "word": "farm",
+        "word_hebrew": "חווה חקלאית",
+        "main_definition": "A farm is a piece of land, generally rural, dedicated to the cultivation of crops or raising livestock.",
+        "main_definition_hebrew": "חווה היא פיסת אדמה, בדרך כלל כפרית, המוקדשת לגידול יבולים או לגידול בעלי חיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A place where people work on growing plants such as fruits and vegetables",
+                "definition_hebrew": "מקום שבו אנשים עובדים על גידול צמחים כמו פירות וירקות",
+                "example": "The Smith family owns a farm in Iowa, which primarily grows corn and soybeans.",
+                "example_hebrew": "למשפחת סמית יש חווה באיווה, שמגדלת בעיקר תירס ופולי סויה."
+            },
+            {
+                "definition": "An establishment that raises animals like cows, pigs, or chickens for meat, milk, or eggs",
+                "definition_hebrew": "מוסד המגדל בעלי חיים כמו פרות, חזירים או תרנגולות לבשר, חלב או ביצים",
+                "example": "During summer vacation, I used to work on a dairy farm where we milked cows and fed the calves.",
+                "example_hebrew": "בחופשת הקיץ עבדתי ברפת, שם חלבנו פרות והאכלנו את העגלים."
+            },
+            {
+                "definition": "A rural area of land managed for agricultural purposes",
+                "definition_hebrew": "שטח כפרי של אדמה המנוהלת למטרות חקלאיות",
+                "example": "She inherited her grandfather's farm in Nebraska, which has been passed down through generations.",
+                "example_hebrew": "היא ירשה את החווה של סבה בנברסקה, שעברה לדורותיה."
+            },
+            {
+                "definition": "An outdated or colloquial term referring to a wide range of businesses and industries related to agriculture",
+                "definition_hebrew": "מונח מיושן או דיבור המתייחס למגוון רחב של עסקים ותעשיות הקשורות לחקלאות",
+                "example": "He works at the farm supply store selling tools and equipment for farmers.",
+                "example_hebrew": "הוא עובד בחנות לציוד חקלאי ומוכר כלים וציוד לחקלאים."
+            },
+            {
+                "definition": "A metaprompt, used in programming or computing contexts",
+                "definition_hebrew": "מטאפפרופט, המשמש בהקשרי תכנות או מחשוב",
+                "example": "The developer wrote a function called 'farm' to process data related to agricultural statistics.",
+                "example_hebrew": "היזם כתב פונקציה בשם 'חווה' לעיבוד נתונים הקשורים לסטטיסטיקה חקלאית."
+            }
+        ]
+    }
+]

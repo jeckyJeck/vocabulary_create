@@ -1,0 +1,34 @@
+[
+    {
+        "word": "fault",
+        "word_hebrew": "אשמה",
+        "main_definition": "A fault can refer to various meanings including an error or mistake, a geological fault line, responsibility for blame, or a part that is out of position in mechanical systems.",
+        "main_definition_hebrew": "תקלה יכולה להתייחס למשמעויות שונות לרבות שגיאה או טעות, קו שבר גיאולוגי, אחריות לאשמה או חלק שאינו במצב במערכות מכניות.",
+        "meanings_and_examples": [
+            {
+                "definition": "An error or mistake",
+                "definition_hebrew": "טעות או טעות",
+                "example": "The teacher pointed out the student's fault in not following instructions.",
+                "example_hebrew": "המורה הצביעה על אשמתו של התלמיד באי מילוי הנחיות."
+            },
+            {
+                "definition": "A geological fault line, a crack where two blocks of land have moved relative to each other",
+                "definition_hebrew": "קו שבר גיאולוגי, סדק שבו שני גושי אדמה נעו זה ביחס לזה",
+                "example": "The earthquake was caused by the movement along the San Andreas Fault.",
+                "example_hebrew": "רעידת האדמה נגרמה על ידי התנועה לאורך שבר סן אנדראס."
+            },
+            {
+                "definition": "Responsibility for blame or guilt",
+                "definition_hebrew": "אחריות על האשמה או אשמה",
+                "example": "It's not fair to place all the fault on one person when there are many factors involved.",
+                "example_hebrew": "זה לא הוגן להטיל את כל האשמה על אדם אחד כאשר יש הרבה גורמים מעורבים."
+            },
+            {
+                "definition": "A part of a machine that is out of position, causing it to operate improperly",
+                "definition_hebrew": "חלק של מכונה שאינו במצב, מה שגורם לה לפעול בצורה לא תקינה",
+                "example": "The car would not start because the ignition switch had failed, which was considered a fault in the vehicle.",
+                "example_hebrew": "המכונית לא התניעה כי מתג ההתנעה כשל, מה שנחשב כתקלה ברכב."
+            }
+        ]
+    }
+]

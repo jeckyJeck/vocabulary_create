@@ -1,0 +1,34 @@
+[
+    {
+        "word": "assumed",
+        "word_hebrew": "הניח",
+        "main_definition": "To take something as true or factual without sufficient evidence, or to adopt a role or responsibility in advance.",
+        "main_definition_hebrew": "לקחת משהו כנכון או עובדתי ללא ראיות מספיקות, או לאמץ תפקיד או אחריות מראש.",
+        "meanings_and_examples": [
+            {
+                "definition": "To believe that something is the case without proof",
+                "definition_hebrew": "להאמין שמשהו הוא המקרה ללא הוכחה",
+                "example": "She assumed he was busy when she didn't receive an immediate reply.",
+                "example_hebrew": "היא הניחה שהוא עסוק כשלא קיבלה תשובה מיידית."
+            },
+            {
+                "definition": "To take on a responsibility or role without explicit instruction",
+                "definition_hebrew": "לקחת אחריות או תפקיד ללא הוראה מפורשת",
+                "example": "The new manager took over the team, assuming leadership after the previous leader left abruptly.",
+                "example_hebrew": "המנהל החדש השתלט על הצוות, לאחר שהמנהיג הקודם עזב בפתאומיות."
+            },
+            {
+                "definition": "To make an educated guess based on available information",
+                "definition_hebrew": "לניחוש מושכל על סמך מידע זמין",
+                "example": "Based on his shopping cart contents, I assumed he was planning a birthday party for his wife.",
+                "example_hebrew": "בהתבסס על תכולת עגלת הקניות שלו, הנחתי שהוא מתכנן מסיבת יום הולדת לאשתו."
+            },
+            {
+                "definition": "To accept something as true in the absence of confirmation or evidence",
+                "definition_hebrew": "לקבל משהו כנכון בהיעדר אישור או ראיה",
+                "example": "The jury assumed the defendant's innocence until proven guilty beyond reasonable doubt.",
+                "example_hebrew": "חבר המושבעים הניח את חפותו של הנאשם עד שהוכחה אשמתו מעבר לכל ספק סביר."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "locking",
+        "word_hebrew": "נְעִילָה",
+        "main_definition": "Locking refers to the act of securing or fastening something by using a lock, making it impossible to move freely or access without proper authorization.",
+        "main_definition_hebrew": "נעילה מתייחסת לפעולה של אבטחה או הידוק של משהו על ידי שימוש במנעול, מה שלא מאפשר לנוע בחופשיות או לגשת ללא אישור מתאים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Securing an object with a lock",
+                "definition_hebrew": "אבטחת חפץ באמצעות מנעול",
+                "example": "She locked her bicycle before going into the store.",
+                "example_hebrew": "היא נעלה את האופניים שלה לפני שנכנסה לחנות."
+            },
+            {
+                "definition": "Preventing movement by using physical constraints",
+                "definition_hebrew": "מניעת תנועה באמצעות אילוצים פיזיים",
+                "example": "The security guard locked all doors and windows to ensure safety during the event.",
+                "example_hebrew": "המאבטח נעל את כל הדלתות והחלונות כדי להבטיח בטיחות במהלך האירוע."
+            },
+            {
+                "definition": "Lock-in situation in a social or professional context, where individuals are compelled to stay due to circumstances",
+                "definition_hebrew": "מצב נעילה בהקשר חברתי או מקצועי, שבו אנשים נאלצים להישאר עקב נסיבות",
+                "example": "He found himself locked into an unhappy marriage for many years.",
+                "example_hebrew": "הוא מצא את עצמו נעול בנישואים לא מאושרים במשך שנים רבות."
+            },
+            {
+                "definition": "The action of locking one's bike with a U-lock to prevent theft",
+                "definition_hebrew": "פעולת נעילת האופניים עם מנעול U למניעת גניבה",
+                "example": "I always use a sturdy cable lock and U-lock to secure my bike when I park it outside.",
+                "example_hebrew": "אני תמיד משתמש במנעול כבל יציב ובנעילת U כדי לאבטח את האופניים שלי כשאני מחנה אותם בחוץ."
+            }
+        ]
+    }
+]

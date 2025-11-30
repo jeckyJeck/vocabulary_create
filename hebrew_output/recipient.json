@@ -1,0 +1,40 @@
+[
+    {
+        "word": "recipient",
+        "word_hebrew": "מקבל",
+        "main_definition": "A person or entity that receives something, such as a letter, package, award, or any other form of transmission.",
+        "main_definition_hebrew": "אדם או ישות שמקבלים משהו, כגון מכתב, חבילה, פרס או כל צורה אחרת של שידור.",
+        "meanings_and_examples": [
+            {
+                "definition": "One who receives an email or message",
+                "definition_hebrew": "מי שמקבל מייל או הודעה",
+                "example": "After the email was sent, I waited for its recipient to open it and respond.",
+                "example_hebrew": "לאחר שליחת המייל, חיכיתי שהנמען שלו יפתח אותו ויגיב."
+            },
+            {
+                "definition": "A person awarded a prize or gift at an event",
+                "definition_hebrew": "אדם העניק פרס או מתנה באירוע",
+                "example": "The winners of the competition were announced, and each winner received a trophy as their recipient of honor.",
+                "example_hebrew": "הוכרזו הזוכים בתחרות, וכל זוכה קיבל גביע כמקבל הכבוד."
+            },
+            {
+                "definition": "An entity that is meant to receive goods during parcel delivery",
+                "definition_hebrew": "ישות שנועדה לקבל סחורה במהלך משלוח מנות",
+                "example": "I have sent my package through postal service, and I've provided the full address for its recipient to ensure proper delivery.",
+                "example_hebrew": "שלחתי את החבילה שלי דרך שירות הדואר, וסיפקתי את הכתובת המלאה עבור הנמען שלה כדי להבטיח משלוח תקין."
+            },
+            {
+                "definition": "The person or organization to whom a donation has been made",
+                "definition_hebrew": "האדם או הארגון לו ניתנה תרומה",
+                "example": "Our charity received generous contributions from many people who wished their money to be used as recipients of support and help.",
+                "example_hebrew": "הצדקה שלנו קיבלה תרומות נדיבות מאנשים רבים שרצו שכספם ישמש כמקבלי תמיכה ועזרה."
+            },
+            {
+                "definition": "One that is the target audience for a message, advertisement, or publication",
+                "definition_hebrew": "כזה שהוא קהל היעד של מסר, פרסומת או פרסום",
+                "example": "The marketing team developed strategies tailored specifically for our product's recipient demographic to maximize engagement.",
+                "example_hebrew": "צוות השיווק פיתח אסטרטגיות המותאמות במיוחד לדמוגרפית הנמען של המוצר שלנו כדי למקסם את המעורבות."
+            }
+        ]
+    }
+]

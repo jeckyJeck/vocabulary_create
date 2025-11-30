@@ -1,0 +1,34 @@
+[
+    {
+        "word": "statutory",
+        "word_hebrew": "מְעוּגָן בַּחוֹק",
+        "main_definition": "Relating to or denoting a law, regulation, or legal requirement established by statute.",
+        "main_definition_hebrew": "מתייחס או מציין חוק, תקנה או דרישה משפטית שנקבעו בחוק.",
+        "meanings_and_examples": [
+            {
+                "definition": "Governing by law",
+                "definition_hebrew": "שולט בחוק",
+                "example": "The company must comply with statutory requirements regarding environmental protection.",
+                "example_hebrew": "על החברה לעמוד בדרישות הסטטוטוריות בנוגע להגנת הסביבה."
+            },
+            {
+                "definition": "Required or provided by legislation",
+                "definition_hebrew": "נדרש או מסופק על ידי חקיקה",
+                "example": "Statutory audits are mandatory for public companies to ensure financial transparency and accountability.",
+                "example_hebrew": "ביקורת סטטוטורית היא חובה עבור חברות ציבוריות כדי להבטיח שקיפות פיננסית ואחריות."
+            },
+            {
+                "definition": "Mandated as part of a statute or act of law",
+                "definition_hebrew": "חובה כחלק מחוק או מעשה חוק",
+                "example": "The statutory age of consent varies by country, but it is the minimum legal age at which an individual can legally engage in certain activities with others.",
+                "example_hebrew": "גיל ההסכמה הקבוע בחוק משתנה ממדינה למדינה, אך זהו הגיל החוקי המינימלי שבו אדם יכול לעסוק באופן חוקי בפעילויות מסוימות עם אחרים."
+            },
+            {
+                "definition": "Relating to governmental regulation rather than common law or judicial precedent",
+                "definition_hebrew": "מתייחס לרגולציה ממשלתית ולא לחוק המקובל או לתקדים שיפוטי",
+                "example": "The statutory definition of a 'vehicle' may differ from the legal interpretation based on court rulings, but it is determined by specific legislation.",
+                "example_hebrew": "ההגדרה הסטטוטורית של 'רכב' עשויה להיות שונה מהפרשנות המשפטית המבוססת על פסיקות בית המשפט, אך היא נקבעת בחקיקה ספציפית."
+            }
+        ]
+    }
+]

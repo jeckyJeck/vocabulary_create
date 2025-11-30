@@ -1,0 +1,40 @@
+[
+    {
+        "word": "utility",
+        "word_hebrew": "תוֹעֶלֶת",
+        "main_definition": "Utility refers to the usefulness or practicality of something, often in terms of its ability to perform a particular function or purpose.",
+        "main_definition_hebrew": "תועלת מתייחסת לתועלת או למעשיות של משהו, לרוב במונחים של יכולתו לבצע פונקציה או מטרה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "The quality of being useful and providing satisfaction or pleasure. For example, having a well-equipped kitchen is an example of utility that brings joy and convenience for cooking enthusiasts.",
+                "definition_hebrew": "האיכות של להיות שימושי ולספק סיפוק או הנאה. למשל, מטבח מאובזר הוא דוגמה לשימושיות שמביאה שמחה ונוחות לחובבי הבישול.",
+                "example": "Her collection of garden tools adds to the utility of her backyard.",
+                "example_hebrew": "אוסף כלי הגינה שלה מוסיף לתועלת של החצר האחורית שלה."
+            },
+            {
+                "definition": "In economics and engineering, it refers to the capacity or ability of a product or service to meet the needs or wants of users. For example, electricity is an essential utility that powers homes and businesses.",
+                "definition_hebrew": "בכלכלה והנדסה, זה מתייחס ליכולת או ליכולת של מוצר או שירות לענות על הצרכים או הרצונות של המשתמשים. לדוגמה, חשמל הוא כלי עזר חיוני שמניע בתים ועסקים.",
+                "example": "The water company provides various utilities such as clean drinking water and wastewater management.",
+                "example_hebrew": "חברת המים מספקת שירותים שונים כגון מי שתייה נקיים וניהול שפכים."
+            },
+            {
+                "definition": "A unit measure of a service's ability to generate revenue. In the context of public services, utility companies charge based on usage or consumption. For example, a person may pay for electricity utilities depending on how much power they use.",
+                "definition_hebrew": "מדד יחידה ליכולת של שירות לייצר הכנסה. בהקשר של שירותים ציבוריים, חברות השירות גובות על פי שימוש או צריכה. לדוגמה, אדם עשוי לשלם עבור שירותי חשמל בהתאם לכמות החשמל שהם משתמשים.",
+                "example": "The cost of natural gas is calculated per unit of therms consumed.",
+                "example_hebrew": "עלות הגז הטבעי מחושבת ליחידת תרמים שנצרכו."
+            },
+            {
+                "definition": "An economic theory that emphasizes the role of individual utility in determining market demand. For example, a consumer may buy more of a product if they perceive it as providing greater personal utility.",
+                "definition_hebrew": "תיאוריה כלכלית המדגישה את תפקידה של השירות האינדיבידואלי בקביעת הביקוש בשוק. לדוגמה, צרכן עשוי לקנות יותר ממוצר אם הוא תופס אותו כמספק תועלת אישית גדולה יותר.",
+                "example": "The concept of utility helps explain why different individuals have different preferences for goods and services.",
+                "example_hebrew": "מושג השירות עוזר להסביר מדוע לאנשים שונים יש העדפות שונות לגבי סחורות ושירותים."
+            },
+            {
+                "definition": "A subscription service that provides convenience by delivering products directly to customers' homes. For example, a laundry utility company delivers clean clothes to your doorstep.",
+                "definition_hebrew": "שירות מנוי המעניק נוחות באמצעות אספקת מוצרים ישירות לבית הלקוחות. לדוגמה, חברת שירותי כביסה מספקת בגדים נקיים עד לפתח ביתך.",
+                "example": "She signed up for the online streaming utility service to access her favorite shows and movies.",
+                "example_hebrew": "היא נרשמה לשירות הסטרימינג המקוון כדי לגשת לתוכניות ולסרטים האהובים עליה."
+            }
+        ]
+    }
+]

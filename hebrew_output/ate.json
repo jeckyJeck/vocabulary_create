@@ -1,0 +1,34 @@
+[
+    {
+        "word": "ate",
+        "word_hebrew": "אכלתי",
+        "main_definition": "To have consumed food, usually referring to a meal or specific amount of food.",
+        "main_definition_hebrew": "לצרוך מזון, בדרך כלל הכוונה לארוחה או לכמות מסוימת של מזון.",
+        "meanings_and_examples": [
+            {
+                "definition": "Past tense of 'eat', meaning to consume food by chewing and swallowing.",
+                "definition_hebrew": "זמן עבר של 'לאכול', כלומר לצרוך מזון על ידי לעיסה ובליעה.",
+                "example": "I ate breakfast this morning at 7 am.",
+                "example_hebrew": "אכלתי ארוחת בוקר הבוקר בשעה 7 בבוקר."
+            },
+            {
+                "definition": "Used metaphorically, can mean to be dominated or overwhelmed by an emotion or situation.",
+                "definition_hebrew": "בשימוש מטפורי, יכול להיות משמעו להיות נשלט או מוצף על ידי רגש או מצב.",
+                "example": "She felt like she was completely eaten up with worry about her upcoming exam.",
+                "example_hebrew": "היא הרגישה כאילו היא אכולה לגמרי מדאגה לגבי הבחינה הקרובה שלה."
+            },
+            {
+                "definition": "In colloquial speech, used to express the action of drinking alcoholic beverages excessively.",
+                "definition_hebrew": "בדיבור בדיבור, משמש לביטוי הפעולה של שתיית משקאות אלכוהוליים בצורה מוגזמת.",
+                "example": "He has a habit of getting drunk at parties, he's been known to eat too much booze.",
+                "example_hebrew": "יש לו הרגל להשתכר במסיבות, ידוע שהוא אוכל יותר מדי אלכוהול."
+            },
+            {
+                "definition": "In idiomatic expressions like 'eat your words', it means to accept or admit something previously denied or disagreed with.",
+                "definition_hebrew": "בביטויים אידיומטיים כמו 'תאכל את המילים שלך', זה אומר לקבל או להודות במשהו שהוכחש בעבר או לא הסכים איתו.",
+                "example": "After being proven wrong in the argument, he had to eat his words and apologize.",
+                "example_hebrew": "לאחר שהוכח שטעה בוויכוח, הוא נאלץ לאכול את דבריו ולהתנצל."
+            }
+        ]
+    }
+]

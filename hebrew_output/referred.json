@@ -1,0 +1,34 @@
+[
+    {
+        "word": "referred",
+        "word_hebrew": "מיוחס",
+        "main_definition": "To mention or direct someone to another source, person, or thing.",
+        "main_definition_hebrew": "להזכיר או להפנות מישהו למקור, אדם או דבר אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To mention something in a conversation as an example or explanation.",
+                "definition_hebrew": "להזכיר משהו בשיחה כדוגמה או הסבר.",
+                "example": "She referred back to the previous discussion when making her point.",
+                "example_hebrew": "היא חזרה לדיון הקודם כשהביעה את דבריה."
+            },
+            {
+                "definition": "Asking someone for help, advice, or information from another person who may have more knowledge on the subject.",
+                "definition_hebrew": "לבקש ממישהו עזרה, עצה או מידע מאדם אחר שאולי יש לו ידע נוסף בנושא.",
+                "example": "The student referred his question about history to his professor during office hours.",
+                "example_hebrew": "הסטודנט הפנה את שאלתו על היסטוריה לפרופסור שלו במהלך שעות העבודה."
+            },
+            {
+                "definition": "In a medical context, when a patient is directed by their primary care physician to see a specialist for further treatment or diagnosis.",
+                "definition_hebrew": "בהקשר רפואי, כאשר מטופל מופנה על ידי הרופא הראשי שלו לפנות למומחה להמשך טיפול או אבחון.",
+                "example": "After the physical examination, the doctor referred John to an orthopedic surgeon due to his knee injury.",
+                "example_hebrew": "לאחר הבדיקה הגופנית, הרופא הפנה את ג'ון למנתח אורטופד עקב פציעתו בברך."
+            },
+            {
+                "definition": "A statement or comment that directs attention back to something previously mentioned or discussed.",
+                "definition_hebrew": "אמירה או הערה המפנים את תשומת הלב חזרה למשהו שהוזכר או נדון קודם לכן.",
+                "example": "She said she would refer to her notes to answer your question, which you had asked earlier.",
+                "example_hebrew": "היא אמרה שהיא תפנה לרשימות שלה כדי לענות על שאלתך, ששאלת קודם לכן."
+            }
+        ]
+    }
+]

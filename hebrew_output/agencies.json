@@ -1,0 +1,34 @@
+[
+    {
+        "word": "agencies",
+        "word_hebrew": "סוכנויות",
+        "main_definition": "Agencies are organizations or entities that have a specific purpose, often related to providing services, conducting research, or performing tasks on behalf of others.",
+        "main_definition_hebrew": "סוכנויות הן ארגונים או גופים שיש להם מטרה מסוימת, הקשורה לרוב במתן שירותים, ביצוע מחקרים או ביצוע משימות בשם אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Business agencies",
+                "definition_hebrew": "סוכנויות עסקיות",
+                "example": "Advertising agencies such as Ogilvy & Mather help companies create and execute marketing campaigns.",
+                "example_hebrew": "משרדי פרסום כגון Ogilvy & Mather עוזרים לחברות ליצור ולבצע קמפיינים שיווקיים."
+            },
+            {
+                "definition": "Governmental agencies",
+                "definition_hebrew": "סוכנויות ממשלתיות",
+                "example": "The Environmental Protection Agency (EPA) is responsible for protecting human health and the environment by writing and enforcing regulations based on laws passed by Congress.",
+                "example_hebrew": "הסוכנות להגנת הסביבה (EPA) אחראית להגנה על בריאות האדם והסביבה על ידי כתיבה ואכיפת תקנות המבוססות על חוקים שעברו בקונגרס."
+            },
+            {
+                "definition": "Research and investigation agencies",
+                "definition_hebrew": "סוכנויות מחקר וחקירות",
+                "example": "The Centers for Disease Control and Prevention (CDC) conducts research and provides information to protect public health in the United States.",
+                "example_hebrew": "המרכז לבקרת מחלות ומניעתן (CDC) עורך מחקר ומספק מידע להגנה על בריאות הציבור בארצות הברית."
+            },
+            {
+                "definition": "Employment agencies",
+                "definition_hebrew": "חברות השמה",
+                "example": "Agencies like Randstad help job seekers find employment by connecting them with potential employers.",
+                "example_hebrew": "סוכנויות כמו Randstad עוזרות למחפשי עבודה למצוא תעסוקה על ידי חיבורם עם מעסיקים פוטנציאליים."
+            }
+        ]
+    }
+]

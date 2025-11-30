@@ -1,0 +1,34 @@
+[
+    {
+        "word": "desk",
+        "word_hebrew": "שׁוּלְחָן כְּתִיבָה",
+        "main_definition": "A desk is a piece of furniture with a flat surface used as a workspace, often equipped with drawers or compartments.",
+        "main_definition_hebrew": "שולחן כתיבה הוא רהיט בעל משטח שטוח המשמש כמרחב עבודה, לרוב מצויד במגירות או תאים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Noun - A table-like piece of furniture for writing, reading, and working on.",
+                "definition_hebrew": "שם עצם - רהיט דמוי שולחן לכתיבה, קריאה ועבודה עליו.",
+                "example": "She sat at her wooden desk to finish the report.",
+                "example_hebrew": "היא ישבה ליד שולחן העץ שלה כדי לסיים את הדוח."
+            },
+            {
+                "definition": "Metaphorical noun - The main workspace or area where a specific task is performed, such as 'home office' or 'jury duty desk'.",
+                "definition_hebrew": "שם עצם מטפורי - מרחב העבודה או האזור העיקרי שבו מבוצעת משימה ספציפית, כגון 'משרד ביתי' או 'שולחן מושבעים'.",
+                "example": "The home office serves as my primary desk for working remotely.",
+                "example_hebrew": "המשרד הביתי משמש כשולחן העבודה העיקרי שלי לעבודה מרחוק."
+            },
+            {
+                "definition": "Metaphorical noun - A symbol of authority or power, often used in a political context.",
+                "definition_hebrew": "שם עצם מטפורי - סמל לסמכות או כוח, המשמש לעתים קרובות בהקשר פוליטי.",
+                "example": "The senator's desk was always adorned with flags and awards signifying his position.",
+                "example_hebrew": "שולחנו של הסנאטור היה מעוטר תמיד בדגלים ובפרסים המעידים על מעמדו."
+            },
+            {
+                "definition": "Idiomatic phrase meaning to make a decision or take action after careful thought or consideration.",
+                "definition_hebrew": "ביטוי אידיומטי שפירושו לקבל החלטה או לנקוט בפעולה לאחר מחשבה או שיקול דעת מדוקדק.",
+                "example": "After weighing all the options, they finally decided on the right course of action - desk it.",
+                "example_hebrew": "לאחר שקלול כל האפשרויות, הם החליטו לבסוף על דרך הפעולה הנכונה - desk it."
+            }
+        ]
+    }
+]

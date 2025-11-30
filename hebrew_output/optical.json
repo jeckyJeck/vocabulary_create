@@ -1,0 +1,34 @@
+[
+    {
+        "word": "optical",
+        "word_hebrew": "אוֹפּטִי",
+        "main_definition": "Relating to light or the electromagnetic spectrum in the visible region, particularly concerning the properties and behavior of light.",
+        "main_definition_hebrew": "מתייחס לאור או לספקטרום האלקטרומגנטי באזור הנראה, במיוחד לגבי תכונות והתנהגות האור.",
+        "meanings_and_examples": [
+            {
+                "definition": "Pertaining to vision or eyesight",
+                "definition_hebrew": "הנוגע לראייה או לראייה",
+                "example": "He wore glasses to correct his optical impairment.",
+                "example_hebrew": "הוא הרכיב משקפיים כדי לתקן את הליקוי האופטי שלו."
+            },
+            {
+                "definition": "Relating to the science and technology of light manipulation",
+                "definition_hebrew": "מתייחס למדע ולטכנולוגיה של מניפולציה באור",
+                "example": "Optical fibers are used in telecommunications for transmitting data as light signals.",
+                "example_hebrew": "סיבים אופטיים משמשים בתקשורת להעברת נתונים כאותות אור."
+            },
+            {
+                "definition": "Involving optical illusions or visual tricks",
+                "definition_hebrew": "כולל אשליות אופטיות או טריקים חזותיים",
+                "example": "The magician performed an optical trick that made a coin disappear.",
+                "example_hebrew": "הקוסם ביצע טריק אופטי שגרם למטבע להיעלם."
+            },
+            {
+                "definition": "Relating to the use of lenses and light for vision correction",
+                "definition_hebrew": "הנוגע לשימוש בעדשות ובאור לתיקון הראייה",
+                "example": "Optical surgery uses lasers to correct refractive errors in the eye.",
+                "example_hebrew": "ניתוח אופטי משתמש בלייזר לתיקון שגיאות שבירה בעין."
+            }
+        ]
+    }
+]

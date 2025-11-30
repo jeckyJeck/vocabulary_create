@@ -1,0 +1,34 @@
+[
+    {
+        "word": "searches",
+        "word_hebrew": "חיפושים",
+        "main_definition": "The act of looking for or trying to find something, whether it's a physical object, information, or solution.",
+        "main_definition_hebrew": "הפעולה של חיפוש או ניסיון למצוא משהו, בין אם זה אובייקט פיזי, מידע או פתרון.",
+        "meanings_and_examples": [
+            {
+                "definition": "To look for someone or something actively and usually with the intention to locate them",
+                "definition_hebrew": "לחפש מישהו או משהו באופן פעיל ובדרך כלל מתוך כוונה לאתר אותם",
+                "example": "The police conduct thorough searches of the area after receiving a tip about a missing person.",
+                "example_hebrew": "המשטרה עורכת סריקות יסודיות באזור לאחר שהתקבלה טיפ על נעדר."
+            },
+            {
+                "definition": "Using methods such as scanning, browsing, or utilizing special tools to find information online",
+                "definition_hebrew": "שימוש בשיטות כגון סריקה, גלישה או שימוש בכלים מיוחדים כדי למצוא מידע באינטרנט",
+                "example": "I had to perform several internet searches to gather data for my research paper.",
+                "example_hebrew": "נאלצתי לבצע מספר חיפושים באינטרנט כדי לאסוף נתונים עבור עבודת המחקר שלי."
+            },
+            {
+                "definition": "To investigate a situation in detail, often with the aim of discovering hidden truths or facts",
+                "definition_hebrew": "לחקור מצב בפירוט, לעתים קרובות במטרה לגלות אמיתות או עובדות נסתרות",
+                "example": "The journalist conducted deep searches into the politician's past before publishing the article.",
+                "example_hebrew": "העיתונאי ערך חיפושים מעמיקים בעברו של הפוליטיקאי לפני פרסום הכתבה."
+            },
+            {
+                "definition": "The process by which one looks through different sources to find useful information for a problem or decision making",
+                "definition_hebrew": "התהליך שבו מסתכלים במקורות שונים כדי למצוא מידע שימושי לבעיה או לקבלת החלטות",
+                "example": "To make an informed choice, I had to go through various options and conduct thorough searches on each possibility.",
+                "example_hebrew": "כדי לעשות בחירה מושכלת, נאלצתי לעבור על אפשרויות שונות ולבצע חיפושים יסודיים בכל אפשרות."
+            }
+        ]
+    }
+]

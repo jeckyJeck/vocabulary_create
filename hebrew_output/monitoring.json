@@ -1,0 +1,40 @@
+[
+    {
+        "word": "monitoring",
+        "word_hebrew": "ניטור",
+        "main_definition": "The act of observing, checking, or overseeing a process, situation, or system to ensure it is functioning as intended.",
+        "main_definition_hebrew": "פעולת התבוננות, בדיקה או פיקוח על תהליך, מצב או מערכת כדי להבטיח שהם פועלים כמתוכנן.",
+        "meanings_and_examples": [
+            {
+                "definition": "To keep track of someone's actions or behavior",
+                "definition_hebrew": "כדי לעקוב אחר פעולות או התנהגות של מישהו",
+                "example": "The teacher was monitoring the students during the test to prevent cheating.",
+                "example_hebrew": "המורה עקבה אחר התלמידים במהלך המבחן כדי למנוע רמאות."
+            },
+            {
+                "definition": "The process of observing and recording data in a system, program, or environment",
+                "definition_hebrew": "תהליך התבוננות והקלטת נתונים במערכת, תוכנית או סביבה",
+                "example": "Software developers often use code monitors to track performance issues and bugs.",
+                "example_hebrew": "מפתחי תוכנה משתמשים לעתים קרובות בצגי קוד כדי לעקוב אחר בעיות ביצועים ובאגים."
+            },
+            {
+                "definition": "To watch over the health condition of patients continuously",
+                "definition_hebrew": "להשגיח באופן רציף על מצבם הבריאותי של החולים",
+                "example": "Nurses monitored Mr. Smith's vital signs throughout his hospital stay.",
+                "example_hebrew": "אחיות עקבו אחר הסימנים החיוניים של מר סמית' במהלך שהותו בבית החולים."
+            },
+            {
+                "definition": "The act of regularly checking or observing a particular area or event",
+                "definition_hebrew": "הפעולה של בדיקה או התבוננות קבועה של אזור או אירוע מסוים",
+                "example": "Security personnel were monitoring the perimeter for any suspicious activity.",
+                "example_hebrew": "אנשי אבטחה עקבו אחר ההיקף של כל פעילות חשודה."
+            },
+            {
+                "definition": "To supervise and control a process, operation, or service to ensure it is working properly",
+                "definition_hebrew": "לפקח ולשלוט על תהליך, פעולה או שירות כדי להבטיח שהם פועלים כראוי",
+                "example": "The air traffic controller was responsible for monitoring all incoming flights at the busy airport.",
+                "example_hebrew": "בקר הטיסה היה אחראי על מעקב אחר כל הטיסות הנכנסות בשדה התעופה העמוס."
+            }
+        ]
+    }
+]

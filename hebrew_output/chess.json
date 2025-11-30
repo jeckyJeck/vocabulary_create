@@ -1,0 +1,34 @@
+[
+    {
+        "word": "chess",
+        "word_hebrew": "שַׁחְמָט",
+        "main_definition": "Chess is a strategic board game played between two players, involving an 8x8 square grid with alternating light and dark squares where the goal is to checkmate the opponent's king.",
+        "main_definition_hebrew": "שחמט הוא משחק לוח אסטרטגי המשוחק בין שני שחקנים, הכולל רשת מרובעת בגודל 8x8 עם ריבועים בהירים וכהים לסירוגין כאשר המטרה היא שח-מט מלך היריב.",
+        "meanings_and_examples": [
+            {
+                "definition": "A competition or rivalry",
+                "definition_hebrew": "תחרות או יריבות",
+                "example": "The two companies were locked in a chess match for market dominance.",
+                "example_hebrew": "שתי החברות ננעלו במשחק שחמט בשל דומיננטיות בשוק."
+            },
+            {
+                "definition": "Engaging in an intellectual, tactical conflict or battle of wits",
+                "definition_hebrew": "מעורבות בעימות אינטלקטואלי, טקטי או קרב שכל",
+                "example": "She approached the debate with all the skill and strategy of a grandmaster playing chess.",
+                "example_hebrew": "היא ניגשה לדיון בכל המיומנות והאסטרטגיה של רב-אמן משחק שח."
+            },
+            {
+                "definition": "An individual's ability to strategize effectively and think critically under pressure",
+                "definition_hebrew": "יכולתו של אדם ליצור אסטרטגיה יעילה וחשיבה ביקורתית תחת לחץ",
+                "example": "The CEO is known for his sharp mind, often described as someone who has a natural talent for chess.",
+                "example_hebrew": "המנכ\"ל ידוע במוחו החד, המתואר לעתים קרובות כמי שיש לו כישרון טבעי לשחמט."
+            },
+            {
+                "definition": "A metaphorical term used to describe any situation where two sides are in conflict and needing strategic thinking",
+                "definition_hebrew": "מונח מטפורי המשמש לתיאור כל מצב שבו שני צדדים נמצאים בעימות וזקוקים לחשיבה אסטרטגית",
+                "example": "The political negotiations between the countries resembled a high-stakes game of international chess.",
+                "example_hebrew": "המשא ומתן הפוליטי בין המדינות דמה למשחק שחמט בינלאומי עם הימורים גבוהים."
+            }
+        ]
+    }
+]

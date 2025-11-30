@@ -1,0 +1,28 @@
+[
+    {
+        "word": "brands",
+        "word_hebrew": "מותגים",
+        "main_definition": "Brands refer to both the physical representations of a company's products or services, as well as the perception and reputation that these products or services have among consumers.",
+        "main_definition_hebrew": "מותגים מתייחסים הן לייצוגים הפיזיים של המוצרים או השירותים של חברה, כמו גם לתפיסה והמוניטין שיש למוצרים או לשירותים אלה בקרב צרכנים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The actual product or service offered by a company",
+                "definition_hebrew": "המוצר או השירות בפועל המוצעים על ידי חברה",
+                "example": "Coca-Cola's flagship soft drink is one of the most recognizable brands in the world.",
+                "example_hebrew": "משקה הדגל הקל של קוקה קולה הוא אחד המותגים המוכרים ביותר בעולם."
+            },
+            {
+                "definition": "A distinctive symbol, name, design, or feature that identifies a product or service and differentiates it from others",
+                "definition_hebrew": "סמל, שם, עיצוב או תכונה ייחודיים המזהים מוצר או שירות ומבדילים אותו מאחרים",
+                "example": "Apple's sleek design and unique logo make it one of the most well-known tech brands.",
+                "example_hebrew": "העיצוב המלוטש והלוגו הייחודי של אפל הופכים אותה לאחד ממותגי הטכנולוגיה הידועים ביותר."
+            },
+            {
+                "definition": "The reputation and perception consumers have about a company, its products or services",
+                "definition_hebrew": "המוניטין והתפיסה שיש לצרכנים לגבי חברה, המוצרים או השירותים שלה",
+                "example": "Nike is seen as an innovative brand that values performance and style in sportswear and footwear.",
+                "example_hebrew": "נייקי נתפסת כמותג חדשני שמעריך ביצועים וסגנון בבגדי ספורט והנעלה."
+            }
+        ]
+    }
+]

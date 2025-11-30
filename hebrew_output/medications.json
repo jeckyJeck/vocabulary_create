@@ -1,0 +1,40 @@
+[
+    {
+        "word": "medications",
+        "word_hebrew": "תרופות",
+        "main_definition": "Medications refer to drugs or substances that are used for treating, preventing, or diagnosing diseases, conditions, or symptoms.",
+        "main_definition_hebrew": "תרופות מתייחסות לתרופות או חומרים המשמשים לטיפול, מניעה או אבחון מחלות, מצבים או תסמינים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A general term for any type of drug",
+                "definition_hebrew": "כינוי כללי לכל סוג של תרופה",
+                "example": "The doctor prescribed both medications and lifestyle changes to manage the patient's hypertension.",
+                "example_hebrew": "הרופא רשם גם תרופות וגם שינויים באורח החיים כדי לנהל את יתר לחץ הדם של המטופל."
+            },
+            {
+                "definition": "Prescription drugs meant for specific illnesses or conditions",
+                "definition_hebrew": "תרופות מרשם המיועדות למחלות או מצבים ספציפיים",
+                "example": "Sarah takes antidepressant medications daily to help her cope with depression.",
+                "example_hebrew": "שרה נוטלת מדי יום תרופות נוגדות דיכאון כדי לעזור לה להתמודד עם דיכאון."
+            },
+            {
+                "definition": "Over-the-counter (OTC) drugs that can be purchased without a prescription",
+                "definition_hebrew": "תרופות ללא מרשם (OTC) שניתן לרכוש ללא מרשם",
+                "example": "John bought some cough syrup, which is an over-the-counter medication, to relieve his cold symptoms.",
+                "example_hebrew": "ג'ון קנה קצת סירופ לשיעול, שהוא תרופה ללא מרשם, כדי להקל על תסמיני ההצטננות שלו."
+            },
+            {
+                "definition": "Generic versions of branded medications",
+                "definition_hebrew": "גרסאות גנריות של תרופות ממותגות",
+                "example": "The pharmacist filled the prescription with generic aspirin instead of the brand name version.",
+                "example_hebrew": "הרוקח מילא את המרשם באספירין גנרי במקום בגרסת שם המותג."
+            },
+            {
+                "definition": "Medicinal substances used for diagnostic purposes",
+                "definition_hebrew": "חומרים רפואיים המשמשים למטרות אבחון",
+                "example": "A blood test required a special medication to help detect certain infections or illnesses.",
+                "example_hebrew": "בדיקת דם דרשה תרופה מיוחדת כדי לסייע באיתור זיהומים או מחלות מסוימות."
+            }
+        ]
+    }
+]

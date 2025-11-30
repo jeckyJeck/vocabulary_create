@@ -1,0 +1,34 @@
+[
+    {
+        "word": "brief",
+        "word_hebrew": "קָצָר",
+        "main_definition": "A short, concise statement or summary of information.",
+        "main_definition_hebrew": "הצהרה קצרה ותמציתית או סיכום מידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Short in duration or length.",
+                "definition_hebrew": "קצר משך או אורך.",
+                "example": "We had a brief meeting to discuss the project.",
+                "example_hebrew": "קיימנו פגישה קצרה כדי לדון בפרויקט."
+            },
+            {
+                "definition": "A written document outlining the main points of a legal case, usually presented by one side's attorney during a trial.",
+                "definition_hebrew": "מסמך כתוב המתאר את עיקרי התיק המשפטי, המוצג בדרך כלל על ידי עורך דינו של צד אחד במהלך משפט.",
+                "example": "The lawyer submitted a brief summarizing their arguments for the court.",
+                "example_hebrew": "עורך הדין הגיש לבית המשפט תמצית טיעוניהם בקצרה."
+            },
+            {
+                "definition": "A summary or condensed version of something longer text or information.",
+                "definition_hebrew": "סיכום או גרסה מתומצתת של טקסט או מידע ארוך יותר.",
+                "example": "He provided me with a brief overview of the book's plot before I read it myself.",
+                "example_hebrew": "הוא סיפק לי סקירה קצרה על עלילת הספר לפני שקראתי אותו בעצמי."
+            },
+            {
+                "definition": "In business, referring to an official written statement by someone in authority within a company giving instructions, information, or reasons for decisions.",
+                "definition_hebrew": "בעסקים, הכוונה להצהרה רשמית בכתב מאת בעל סמכות בחברה המספקת הוראות, מידע או נימוקים להחלטות.",
+                "example": "The CEO sent out a brief detailing the new strategic direction of the organization.",
+                "example_hebrew": "המנכ\"ל שלח תמצית המפרטת את הכיוון האסטרטגי החדש של הארגון."
+            }
+        ]
+    }
+]

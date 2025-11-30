@@ -1,0 +1,34 @@
+[
+    {
+        "word": "virus",
+        "word_hebrew": "נגיף",
+        "main_definition": "A virus is a type of infectious agent that replicates only inside the living cells of an organism, causing various diseases in plants, animals, and humans.",
+        "main_definition_hebrew": "וירוס הוא סוג של גורם זיהומי המשתכפל רק בתוך התאים החיים של האורגניזם, וגורם למחלות שונות בצמחים, בבעלי חיים ובבני אדם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Computer programming term",
+                "definition_hebrew": "מונח תכנות מחשבים",
+                "example": "The computer virus spread rapidly across networks, corrupting data.",
+                "example_hebrew": "וירוס המחשב התפשט במהירות על פני רשתות, והרס את הנתונים."
+            },
+            {
+                "definition": "Metaphor for harmful influence or destructive behavior",
+                "definition_hebrew": "מטאפורה להשפעה מזיקה או התנהגות הרסנית",
+                "example": "His negative attitude acted like a social virus, affecting everyone around him.",
+                "example_hebrew": "הגישה השלילית שלו פעלה כמו וירוס חברתי, והשפיעה על כל הסובבים אותו."
+            },
+            {
+                "definition": "Name of a popular computer game franchise",
+                "definition_hebrew": "שם של זיכיון פופולרי למשחקי מחשב",
+                "example": "I just got the latest 'Doom' video game release, it's so intense!",
+                "example_hebrew": "בדיוק קיבלתי את המהדורה האחרונה של משחק הווידאו 'דום', זה כל כך אינטנסיבי!"
+            },
+            {
+                "definition": "An abrasive or offensive substance used to remove paint or rust",
+                "definition_hebrew": "חומר שוחק או פוגע המשמש להסרת צבע או חלודה",
+                "example": "She used a wire brush, commonly known as steel wool or viruses, to clean the old car.",
+                "example_hebrew": "היא השתמשה במברשת תיל, הידועה בכינויה צמר פלדה או וירוסים, כדי לנקות את המכונית הישנה."
+            }
+        ]
+    }
+]

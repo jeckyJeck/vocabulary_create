@@ -1,0 +1,34 @@
+[
+    {
+        "word": "manually",
+        "word_hebrew": "באופן ידני",
+        "main_definition": "To perform an action or task by hand, without the aid of machines or automated processes.",
+        "main_definition_hebrew": "לבצע פעולה או משימה ביד, ללא עזרת מכונות או תהליכים אוטומטיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Doing something with physical effort and skill rather than using technology or machinery.",
+                "definition_hebrew": "לעשות משהו במאמץ פיזי ובמיומנות במקום להשתמש בטכנולוגיה או במכונות.",
+                "example": "The librarian manually checks books in and out for patrons, instead of using a computerized system.",
+                "example_hebrew": "הספרנית בודקת ידנית את הספרים עבור לקוחות, במקום להשתמש במערכת ממוחשבת."
+            },
+            {
+                "definition": "Using one's hands to operate equipment or perform tasks that could otherwise be automated.",
+                "definition_hebrew": "שימוש בידיים כדי להפעיל ציוד או לבצע משימות שאחרת יכולות להיות אוטומטיות.",
+                "example": "Technicians may need to manually adjust certain components within complex machinery when troubleshooting issues.",
+                "example_hebrew": "ייתכן שהטכנאים יצטרכו להתאים ידנית רכיבים מסוימים בתוך מכונות מורכבות בעת פתרון בעיות."
+            },
+            {
+                "definition": "Conducting a process without the aid of computers, software, or other digital tools.",
+                "definition_hebrew": "ביצוע תהליך ללא עזרת מחשבים, תוכנות או כלים דיגיטליים אחרים.",
+                "example": "The artist meticulously paints each detail by hand rather than using a computer-generated design.",
+                "example_hebrew": "האמן מצייר בקפידה כל פרט בעבודת יד ולא בעיצוב ממוחשב."
+            },
+            {
+                "definition": "Handling objects directly and physically, as opposed to placing them on automated systems for handling.",
+                "definition_hebrew": "טיפול בחפצים באופן ישיר ופיזי, בניגוד להצבתם על מערכות אוטומטיות לטיפול.",
+                "example": "Warehouse workers manually lift heavy boxes from trucks upon arrival, instead of using an automatic conveyor system.",
+                "example_hebrew": "עובדי המחסנים מרימים ידנית ארגזים כבדים ממשאיות עם ההגעה, במקום להשתמש במערכת מסועים אוטומטית."
+            }
+        ]
+    }
+]

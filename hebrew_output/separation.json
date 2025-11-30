@@ -1,0 +1,40 @@
+[
+    {
+        "word": "separation",
+        "word_hebrew": "הַפרָדָה",
+        "main_definition": "The act of dividing or keeping something apart from others, often leading to a state where individuals are no longer together.",
+        "main_definition_hebrew": "הפעולה של חלוקה או הרחקה של משהו מאחרים, לעתים קרובות מובילה למצב שבו יחידים אינם ביחד.",
+        "meanings_and_examples": [
+            {
+                "definition": "The physical distance between two objects or people",
+                "definition_hebrew": "המרחק הפיזי בין שני עצמים או אנשים",
+                "example": "Due to the ongoing pandemic, there is significant separation between family members.",
+                "example_hebrew": "בשל המגיפה המתמשכת, ישנה הפרדה משמעותית בין בני המשפחה."
+            },
+            {
+                "definition": "Ending a relationship with someone, usually in terms of marriage or partnership",
+                "definition_hebrew": "סיום מערכת יחסים עם מישהו, בדרך כלל במונחים של נישואין או זוגיות",
+                "example": "After years of fighting, they decided to go through an amicable divorce and the separation began.",
+                "example_hebrew": "לאחר שנים של מריבות, הם החליטו לעבור גירושים ידידותיים והפרידה החלה."
+            },
+            {
+                "definition": "The process by which two or more substances are separated into distinct parts",
+                "definition_hebrew": "התהליך שבו שני חומרים או יותר מופרדים לחלקים נפרדים",
+                "example": "In chemistry, a distillation process is used for the separation of mixtures based on differences in boiling points.",
+                "example_hebrew": "בכימיה, תהליך זיקוק משמש להפרדת תערובות על סמך הבדלים בנקודות הרתיחה."
+            },
+            {
+                "definition": "A period during which children live apart from their parents who have divorced or are no longer together",
+                "definition_hebrew": "תקופה שבה ילדים חיים בנפרד מהוריהם שהתגרשו או אינם ביחד",
+                "example": "The school has policies to ensure that separated families maintain regular contact with the children.",
+                "example_hebrew": "לבית הספר יש מדיניות כדי להבטיח שמשפחות מופרדות מקיימות קשר קבוע עם הילדים."
+            },
+            {
+                "definition": "Differentiating or distinguishing between elements in a group",
+                "definition_hebrew": "הבחנה או הבחנה בין אלמנטים בקבוצה",
+                "example": "In statistics, it's essential to separate outliers from the rest of the data set for accurate analysis.",
+                "example_hebrew": "בסטטיסטיקה, חיוני להפריד חריגים משאר מערך הנתונים לניתוח מדויק."
+            }
+        ]
+    }
+]

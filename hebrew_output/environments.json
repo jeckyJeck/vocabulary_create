@@ -1,0 +1,40 @@
+[
+    {
+        "word": "environments",
+        "word_hebrew": "סביבות",
+        "main_definition": "Environments refer to the surroundings or conditions in which something exists, develops, or operates. In this context, it can also mean different settings, areas, or situations where entities interact.",
+        "main_definition_hebrew": "סביבות מתייחסות לסביבה או לתנאים שבהם משהו קיים, מתפתח או פועל. בהקשר זה, זה יכול גם להתכוון להגדרות, אזורים או מצבים שונים שבהם ישויות מקיימות אינטראקציה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Places or natural areas where organisms live and interact with each other and their physical surroundings",
+                "definition_hebrew": "מקומות או אזורים טבעיים שבהם אורגניזמים חיים ומקיימים אינטראקציה זה עם זה ועם סביבתם הפיזית",
+                "example": "The rainforest is a diverse environment teeming with life.",
+                "example_hebrew": "יער הגשם הוא סביבה מגוונת שופעת חיים."
+            },
+            {
+                "definition": "A setting or situation in which someone operates, works, or lives",
+                "definition_hebrew": "מסגרת או מצב שבו מישהו פועל, עובד או חי",
+                "example": "An educational environment fosters learning and growth for students.",
+                "example_hebrew": "סביבה חינוכית מטפחת למידה וצמיחה עבור התלמידים."
+            },
+            {
+                "definition": "The ecosystem including all living organisms within a specific area and their interactions with the non-living elements of that area",
+                "definition_hebrew": "המערכת האקולוגית הכוללת את כל היצורים החיים בתוך אזור מסוים והאינטראקציות שלהם עם האלמנטים הלא חיים של אותו אזור",
+                "example": "A coral reef is an underwater environment rich in biodiversity.",
+                "example_hebrew": "שונית אלמוגים היא סביבה תת-ימית עשירה במגוון ביולוגי."
+            },
+            {
+                "definition": "Social or cultural contexts where individuals interact, including norms, values, and expectations",
+                "definition_hebrew": "הקשרים חברתיים או תרבותיים שבהם אנשים מקיימים אינטראקציה, כולל נורמות, ערכים וציפיות",
+                "example": "The corporate environment has its own set of unwritten rules and hierarchies.",
+                "example_hebrew": "לסביבה הארגונית יש מערכת משלה של כללים והיררכיות לא כתובות."
+            },
+            {
+                "definition": "Technological settings or platforms that enable the development, execution, or management of software applications",
+                "definition_hebrew": "הגדרות או פלטפורמות טכנולוגיות המאפשרות פיתוח, ביצוע או ניהול של יישומי תוכנה",
+                "example": "A cloud computing environment allows for scalable and accessible data storage.",
+                "example_hebrew": "סביבת מחשוב ענן מאפשרת אחסון נתונים ניתן להרחבה ונגיש."
+            }
+        ]
+    }
+]

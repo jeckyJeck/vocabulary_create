@@ -1,0 +1,40 @@
+[
+    {
+        "word": "host",
+        "word_hebrew": "מנחה",
+        "main_definition": "A person or entity that provides accommodation, support, or services to others; also refers to a gathering of people invited by the host.",
+        "main_definition_hebrew": "אדם או ישות המספקים מגורים, תמיכה או שירותים לאחרים; מתייחס גם למפגש של אנשים שהוזמנו על ידי המארח.",
+        "meanings_and_examples": [
+            {
+                "definition": "A person who invites guests and offers hospitality at an event, such as a party, wedding, or meeting.",
+                "definition_hebrew": "אדם שמזמין אורחים ומציע אירוח באירוע כמו מסיבה, חתונה או פגישה.",
+                "example": "The host greeted all the attendees warmly.",
+                "example_hebrew": "המארח בירך את כל הנוכחים בחום."
+            },
+            {
+                "definition": "An organism that harbors another organism within its body, often causing harm to both.",
+                "definition_hebrew": "אורגניזם שמכיל אורגניזם אחר בגופו, ולעתים קרובות גורם נזק לשניהם.",
+                "example": "Ticks are parasitic hosts for certain diseases like Lyme disease.",
+                "example_hebrew": "קרציות הן מארחים טפילים למחלות מסוימות כמו מחלת ליים."
+            },
+            {
+                "definition": "A person who owns or operates a computer network and is responsible for managing it.",
+                "definition_hebrew": "אדם המחזיק או מפעיל רשת מחשבים ואחראי על ניהולה.",
+                "example": "The IT department's host server handles all our company's data needs.",
+                "example_hebrew": "השרת המארח של מחלקת ה-IT מטפל בכל צורכי הנתונים של החברה שלנו."
+            },
+            {
+                "definition": "A large, naturally occurring area of land that provides habitat for plants and animals; also known as a 'habitat'.",
+                "definition_hebrew": "שטח אדמה גדול טבעי המספק בית גידול לצמחים ובעלי חיים; ידוע גם בשם 'בית גידול'.",
+                "example": "The coral reef acts as the host for numerous marine species.",
+                "example_hebrew": "שונית האלמוגים פועלת כמארח עבור מינים ימיים רבים."
+            },
+            {
+                "definition": "An individual who plays the role of a 'host' in a television show, guiding the conversation or events.",
+                "definition_hebrew": "אדם שממלא את התפקיד של 'מארח' בתוכנית טלוויזיה, מנחה את השיחה או האירועים.",
+                "example": "The panel discussion was led by our guest host who brought diverse perspectives to the table.",
+                "example_hebrew": "את הפאנל הוביל המארח האורח שלנו שהביא נקודות מבט מגוונות לשולחן."
+            }
+        ]
+    }
+]

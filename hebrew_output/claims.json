@@ -1,0 +1,40 @@
+[
+    {
+        "word": "claims",
+        "word_hebrew": "טוען",
+        "main_definition": "Claims refer to assertions or statements made by individuals, often without concrete proof, typically about something they believe is true.",
+        "main_definition_hebrew": "טענות מתייחסות להצהרות או הצהרות של אנשים, לעתים קרובות ללא הוכחות קונקרטיות, בדרך כלל לגבי משהו שהם מאמינים שהוא נכון.",
+        "meanings_and_examples": [
+            {
+                "definition": "An assertion of a right or an entitlement",
+                "definition_hebrew": "קביעה של זכות או זכאות",
+                "example": "The tenant claimed their right to the full payment of rent.",
+                "example_hebrew": "השוכר תבע את זכותם לתשלום דמי השכירות המלאים."
+            },
+            {
+                "definition": "A statement demanding something as due or owed",
+                "definition_hebrew": "הצהרה הדורשת משהו כפי שמגיע או חייב",
+                "example": "He claims damages for breach of contract.",
+                "example_hebrew": "הוא תובע פיצויים בגין הפרת חוזה."
+            },
+            {
+                "definition": "A declaration made by someone regarding a fact, situation, etc.",
+                "definition_hebrew": "הצהרה של מישהו לגבי עובדה, מצב וכו'.",
+                "example": "The politician claimed that the economy was improving.",
+                "example_hebrew": "הפוליטיקאי טען שהכלכלה משתפרת."
+            },
+            {
+                "definition": "An assertion without proof or evidence",
+                "definition_hebrew": "טענה ללא הוכחות או ראיות",
+                "example": "Despite lacking any concrete evidence, he continued to claim his innocence.",
+                "example_hebrew": "למרות היעדר ראיות קונקרטיות, הוא המשיך לטעון לחפותו."
+            },
+            {
+                "definition": "Insurance claims",
+                "definition_hebrew": "תביעות ביטוח",
+                "example": "After the accident, she filed an insurance claim for car repairs.",
+                "example_hebrew": "לאחר התאונה הגישה תביעת ביטוח לתיקון רכב."
+            }
+        ]
+    }
+]

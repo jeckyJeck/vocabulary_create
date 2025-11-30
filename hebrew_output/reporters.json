@@ -1,0 +1,40 @@
+[
+    {
+        "word": "reporters",
+        "word_hebrew": "עיתונאים",
+        "main_definition": "Reporters are individuals who gather, write, or broadcast information to inform the public about various events, topics, and stories.",
+        "main_definition_hebrew": "כתבים הם אנשים שאוספים, כותבים או משדרים מידע כדי ליידע את הציבור על אירועים, נושאים וסיפורים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Journalists who report news by writing articles for newspapers, magazines, or online publications",
+                "definition_hebrew": "עיתונאים המדווחים על חדשות על ידי כתיבת מאמרים לעיתונים, מגזינים או פרסומים מקוונים",
+                "example": "The reporters at The New York Times covered the latest political developments in Washington.",
+                "example_hebrew": "הכתבים ב\"ניו יורק טיימס\" סיקרו את ההתפתחויות הפוליטיות האחרונות בוושינגטון."
+            },
+            {
+                "definition": "A person responsible for reporting from a specific event, such as sports games, press conferences, or concerts",
+                "definition_hebrew": "אדם שאחראי לדיווח מאירוע מסוים, כגון משחקי ספורט, מסיבות עיתונאים או קונצרטים",
+                "example": "The football game was being closely followed by several reporters who were taking notes and interviewing players during the match.",
+                "example_hebrew": "משחק הכדורגל היה במעקב צמוד על ידי מספר כתבים שרשמו הערות וראיינו שחקנים במהלך המשחק."
+            },
+            {
+                "definition": "A professional news anchor or presenter who delivers news broadcasts on television or radio",
+                "definition_hebrew": "מגיש או מגיש חדשות מקצועי המעביר שידורי חדשות בטלוויזיה או ברדיו",
+                "example": "During the evening news, the popular TV reporter shared insights about current events with the viewers.",
+                "example_hebrew": "במהלך חדשות הערב, כתב הטלוויזיה הפופולרי שיתף את הצופים בתובנות לגבי אקטואליה."
+            },
+            {
+                "definition": "An individual providing live updates and reports from the scene of a natural disaster or emergency situation",
+                "definition_hebrew": "אדם המספק עדכונים חיים ודיווחים מזירת אסון טבע או מצב חירום",
+                "example": "The crisis reporters were on the ground in the hurricane-hit areas, relaying real-time information to the public.",
+                "example_hebrew": "כתבי המשבר היו על הקרקע באזורים שנפגעו בהוריקן, והעבירו מידע בזמן אמת לציבור."
+            },
+            {
+                "definition": "A person who investigates and reports stories related to crime, legal issues, or controversies",
+                "definition_hebrew": "אדם שחוקר ומדווח על סיפורים הקשורים לפשע, סוגיות משפטיות או מחלוקות",
+                "example": "The team of reporters specializing in investigative journalism uncovered a corruption scandal involving high-ranking officials.",
+                "example_hebrew": "צוות הכתבים המתמחה בעיתונות חוקרת חשף שערוריית שחיתות בה היו מעורבים בכירים."
+            }
+        ]
+    }
+]

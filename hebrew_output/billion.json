@@ -1,0 +1,28 @@
+[
+    {
+        "word": "billion",
+        "word_hebrew": "מיליארד",
+        "main_definition": "A billion is a numerical value equal to one thousand million, or 10^9 in scientific notation.",
+        "main_definition_hebrew": "מיליארד הוא ערך מספרי השווה לאלף מיליון, או 10^9 בסימון מדעי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Numerical quantity representing one billion units of something (e.g., money)",
+                "definition_hebrew": "כמות מספרית המייצגת מיליארד יחידות של משהו (למשל, כסף)",
+                "example": "The United States' national debt exceeded $2 trillion, which is approximately a billion dollars.",
+                "example_hebrew": "החוב הלאומי של ארצות הברית עלה על 2 טריליון דולר, שהם כמיליארד דולר."
+            },
+            {
+                "definition": "A very large number used to represent an enormous amount or quantity",
+                "definition_hebrew": "מספר גדול מאוד משמש לייצג כמות או כמות עצומה",
+                "example": "His net worth was in the billions of dollars.",
+                "example_hebrew": "השווי הנקי שלו עמד על מיליארדי דולרים."
+            },
+            {
+                "definition": "A unit of measurement in the field of statistics and data analysis representing a trillionth of something",
+                "definition_hebrew": "יחידת מדידה בתחום הסטטיסטיקה וניתוח הנתונים המייצגת טריליון ממשהו",
+                "example": "The error margin for the study was +/- 2 billion. In scientific notation, it would be expressed as +/- 0.000001b.",
+                "example_hebrew": "מרווח הטעות במחקר היה +/- 2 מיליארד. בסימון מדעי, זה יתבטא כ-+/- 0.000001b."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "attendance",
+        "word_hebrew": "נוֹכְחוּת",
+        "main_definition": "Attendance refers to the act of being present, especially in an official or scheduled event, such as school classes or meetings.",
+        "main_definition_hebrew": "נוכחות מתייחסת למעשה של נוכחות, במיוחד באירוע רשמי או מתוכנן, כגון שיעורים או פגישות בבית הספר.",
+        "meanings_and_examples": [
+            {
+                "definition": "The state of being present at a location or event",
+                "definition_hebrew": "המצב של נוכחות במקום או באירוע",
+                "example": "Her attendance was noted during the company's annual meeting.",
+                "example_hebrew": "נוכחותה צוינה במהלך האסיפה השנתית של החברה."
+            },
+            {
+                "definition": "A record or list showing who is present at an event, such as school classes or meetings",
+                "definition_hebrew": "רשומה או רשימה המציגים מי נוכח באירוע, כגון שיעורים או פגישות בבית הספר",
+                "example": "The attendance register shows that 95 students were present for today's lecture.",
+                "example_hebrew": "ממרשם הנוכחות עולה כי בהרצאה היום נכחו 95 סטודנטים."
+            },
+            {
+                "definition": "Compliance with requirements or rules, often in the context of legal or formal situations",
+                "definition_hebrew": "עמידה בדרישות או כללים, לרוב בהקשר של מצבים משפטיים או פורמליים",
+                "example": "Failure to maintain proper attendance at mandatory training sessions can result in disciplinary action.",
+                "example_hebrew": "אי שמירה על נוכחות נאותה במפגשי הכשרה חובה עלול לגרום לדין משמעתי."
+            }
+        ]
+    }
+]

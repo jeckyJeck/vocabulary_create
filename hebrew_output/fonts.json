@@ -1,0 +1,34 @@
+[
+    {
+        "word": "fonts",
+        "word_hebrew": "גופנים",
+        "main_definition": "Fonts refer to a set of characters with the same design in typography, and can also mean variations or styles of these character sets.",
+        "main_definition_hebrew": "גופנים מתייחסים לקבוצה של תווים עם אותו עיצוב בטיפוגרפיה, ויכולים להיות גם וריאציות או סגנונות של קבוצות תווים אלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In typography, fonts are different types of lettering that share common characteristics like weight, slope, and style. Each font has a unique design for letters, numbers, punctuation marks etc.",
+                "definition_hebrew": "בטיפוגרפיה, גופנים הם סוגים שונים של אותיות שחולקות מאפיינים משותפים כמו משקל, שיפוע וסגנון. לכל גופן עיצוב ייחודי לאותיות, מספרים, סימני פיסוק וכו'.",
+                "example": "The 'Arial' font is widely used due to its clean lines and simplicity.",
+                "example_hebrew": "הגופן 'Arial' נמצא בשימוש נרחב בשל הקווים הנקיים והפשטות שלו."
+            },
+            {
+                "definition": "Fonts can also refer to different variations or styles of a particular typeface. For instance, one might talk about the bold or italic version of a given font.",
+                "definition_hebrew": "גופנים יכולים גם להתייחס לווריאציות או סגנונות שונים של גופן מסוים. לדוגמה, אפשר לדבר על גרסה מודגשת או נטוי של גופן נתון.",
+                "example": "The 'Times New Roman' font has several variants including regular, bold, and italic.",
+                "example_hebrew": "לגופן 'Times New Roman' יש כמה גרסאות כולל רגיל, מודגש ונטוי."
+            },
+            {
+                "definition": "In computing, 'fonts' can refer to fonts embedded in software programs such as word processors or web browsers. These allow for consistent text representation across different platforms.",
+                "definition_hebrew": "במחשוב, 'גופנים' יכולים להתייחס לגופנים המוטמעים בתוכנות כגון מעבדי תמלילים או דפדפני אינטרנט. אלה מאפשרים ייצוג טקסט עקבי על פני פלטפורמות שונות.",
+                "example": "Microsoft Word supports various fonts like Arial, Times New Roman, and Georgia.",
+                "example_hebrew": "Microsoft Word תומך בגופנים שונים כמו Arial, Times New Roman ו- Georgia."
+            },
+            {
+                "definition": "Fonts can also be a metaphorical term referring to the style of writing or handwriting. For example, 'handwritten font' refers to the distinctive way someone writes.",
+                "definition_hebrew": "גופנים יכולים להיות גם מונח מטפורי המתייחס לסגנון הכתיבה או כתב היד. לדוגמה, 'גופן בכתב יד' מתייחס לאופן הייחודי שמישהו כותב.",
+                "example": "Her signature had a unique font that was instantly recognizable.",
+                "example_hebrew": "לחתימה שלה היה גופן ייחודי שניתן לזיהוי מיידי."
+            }
+        ]
+    }
+]

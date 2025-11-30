@@ -1,0 +1,34 @@
+[
+    {
+        "word": "requested",
+        "word_hebrew": "ביקש",
+        "main_definition": "Asking someone to do something in a polite way.",
+        "main_definition_hebrew": "לבקש ממישהו לעשות משהו בצורה מנומסת.",
+        "meanings_and_examples": [
+            {
+                "definition": "To formally ask for something, usually politely or as part of an agreement.",
+                "definition_hebrew": "לבקש רשמית משהו, בדרך כלל בנימוס או כחלק מהסכם.",
+                "example": "She requested that the report be completed by Friday.",
+                "example_hebrew": "היא ביקשה להשלים את הדוח עד יום שישי."
+            },
+            {
+                "definition": "Seeking permission to use someone's property, like asking to borrow a book from a friend.",
+                "definition_hebrew": "מבקש רשות להשתמש ברכוש של מישהו, כמו לבקש לשאול ספר מחבר.",
+                "example": "He requested to borrow my car for the weekend.",
+                "example_hebrew": "הוא ביקש לשאול את המכונית שלי לסוף השבוע."
+            },
+            {
+                "definition": "Asking for information or an answer in a formal or informal context.",
+                "definition_hebrew": "בקשת מידע או תשובה בהקשר רשמי או לא פורמלי.",
+                "example": "The student requested clarification on the assignment instructions.",
+                "example_hebrew": "התלמיד ביקש הבהרה לגבי הוראות המשימה."
+            },
+            {
+                "definition": "To demand something from someone, often with authority, like requesting service at a hotel.",
+                "definition_hebrew": "לדרוש משהו ממישהו, לרוב בעל סמכות, כמו לבקש שירות בבית מלון.",
+                "example": "I requested room service to be brought up immediately.",
+                "example_hebrew": "ביקשתי להביא שירות חדרים מיד."
+            }
+        ]
+    }
+]

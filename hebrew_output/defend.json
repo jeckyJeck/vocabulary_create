@@ -1,0 +1,40 @@
+[
+    {
+        "word": "defend",
+        "word_hebrew": "לְהַגֵן",
+        "main_definition": "To protect or support someone or something from harm, attack, or criticism.",
+        "main_definition_hebrew": "להגן או לתמוך במישהו או במשהו מפני פגיעה, התקפה או ביקורת.",
+        "meanings_and_examples": [
+            {
+                "definition": "To physically prevent an assault or harm to oneself or others.",
+                "definition_hebrew": "למנוע פיזית תקיפה או פגיעה בעצמו או באחרים.",
+                "example": "The police officer defended the victim during a mugging.",
+                "example_hebrew": "השוטר הגן על הקורבן במהלך שוד."
+            },
+            {
+                "definition": "To protect something from damage, destruction, or attack.",
+                "definition_hebrew": "כדי להגן על משהו מפני נזק, הרס או התקפה.",
+                "example": "She defended her home by installing security cameras and an alarm system.",
+                "example_hebrew": "היא הגנה על ביתה על ידי התקנת מצלמות אבטחה ומערכת אזעקה."
+            },
+            {
+                "definition": "To argue in favor of a person, idea, or cause against criticism or opposition.",
+                "definition_hebrew": "לטעון בעד אדם, רעיון או סיבה נגד ביקורת או התנגדות.",
+                "example": "The lawyer defended the client's innocence during the trial.",
+                "example_hebrew": "עורך הדין הגן על חפותו של הלקוח במהלך המשפט."
+            },
+            {
+                "definition": "To provide support and assistance for someone who is vulnerable or under attack.",
+                "definition_hebrew": "לספק תמיכה וסיוע למי שפגיע או מותקף.",
+                "example": "Volunteers defend homeless people by providing food, shelter, and resources.",
+                "example_hebrew": "מתנדבים מגנים על חסרי בית על ידי מתן מזון, מחסה ומשאבים."
+            },
+            {
+                "definition": "In chess, to position a piece in such a way that it protects other pieces from being taken.",
+                "definition_hebrew": "בשחמט, למקם כלי כך שהוא מגן על כלים אחרים מלקיחתם.",
+                "example": "The knight defended the queen from an opponent's attack.",
+                "example_hebrew": "האביר הגן על המלכה מפני התקפה של יריב."
+            }
+        ]
+    }
+]

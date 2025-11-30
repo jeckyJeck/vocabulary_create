@@ -1,0 +1,40 @@
+[
+    {
+        "word": "text",
+        "word_hebrew": "טֶקסט",
+        "main_definition": "Text refers to written or printed words, usually in a specific context.",
+        "main_definition_hebrew": "טקסט מתייחס למילים כתובות או מודפסות, בדרך כלל בהקשר מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Written language",
+                "definition_hebrew": "שפה כתובה",
+                "example": "I'm going to write a text message to my friend.",
+                "example_hebrew": "אני הולך לכתוב הודעת טקסט לחבר שלי."
+            },
+            {
+                "definition": "Content of written communication",
+                "definition_hebrew": "תוכן תקשורת בכתב",
+                "example": "The teacher assigned us an essay as homework, so we need to work on the text.",
+                "example_hebrew": "המורה הקצה לנו חיבור כשיעורי בית, אז אנחנו צריכים לעבוד על הטקסט."
+            },
+            {
+                "definition": "Excerpt from a larger piece of writing or document",
+                "definition_hebrew": "קטע מתוך כתב או מסמך גדול יותר",
+                "example": "Here's a paragraph I found in the article that supports my argument.",
+                "example_hebrew": "הנה פסקה שמצאתי במאמר שתומכת בטיעוני."
+            },
+            {
+                "definition": "A message sent through digital platforms like social media or messaging apps",
+                "definition_hebrew": "הודעה הנשלחת דרך פלטפורמות דיגיטליות כמו מדיה חברתית או אפליקציות הודעות",
+                "example": "I just received a text from Jane asking to meet for lunch.",
+                "example_hebrew": "זה עתה קיבלתי הודעת טקסט מג'יין המבקשת להיפגש לארוחת צהריים."
+            },
+            {
+                "definition": "Texting language or slang used in informal communication",
+                "definition_hebrew": "שפת טקסט או סלנג המשמשים בתקשורת לא רשמית",
+                "example": "LOL is often used at the end of a humorous message as a way to indicate laughter.",
+                "example_hebrew": "LOL משמש לעתים קרובות בסוף הודעה הומוריסטית כדרך לציין צחוק."
+            }
+        ]
+    }
+]

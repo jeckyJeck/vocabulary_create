@@ -1,0 +1,40 @@
+[
+    {
+        "word": "twenty",
+        "word_hebrew": "עשרים",
+        "main_definition": "Twenty is a numerical term representing the quantity or value of 20 units, commonly used as an ordinal number to indicate the position in a sequence.",
+        "main_definition_hebrew": "עשרים הוא מונח מספרי המייצג את הכמות או הערך של 20 יחידות, המשמש בדרך כלל כמספר סידורי לציון המיקום ברצף.",
+        "meanings_and_examples": [
+            {
+                "definition": "Ordinal Number (Position)",
+                "definition_hebrew": "מספר סידורי (מיקום)",
+                "example": "She came in twentieth place in the race.",
+                "example_hebrew": "היא הגיעה למקום העשרים במירוץ."
+            },
+            {
+                "definition": "Age",
+                "definition_hebrew": "גיל",
+                "example": "He just turned twenty years old last month.",
+                "example_hebrew": "הוא רק מלאו לו עשרים בחודש שעבר."
+            },
+            {
+                "definition": "Incremental value (in currency, weight, etc.)",
+                "definition_hebrew": "ערך מצטבר (במטבע, משקל וכו')",
+                "example": "The price of the product increased by twenty cents.",
+                "example_hebrew": "מחיר המוצר עלה בעשרים אגורות."
+            },
+            {
+                "definition": "Quantitative Grouping or Category",
+                "definition_hebrew": "קיבוץ כמותי או קטגוריה",
+                "example": "There are 20 items in this batch for quality control purposes.",
+                "example_hebrew": "ישנם 20 פריטים באצווה זו למטרות בקרת איכות."
+            },
+            {
+                "definition": "Measurement (e.g., length, time)",
+                "definition_hebrew": "מדידה (לדוגמה, אורך, זמן)",
+                "example": "The distance she ran was twenty miles.",
+                "example_hebrew": "המרחק שהיא רצה היה עשרים קילומטרים."
+            }
+        ]
+    }
+]

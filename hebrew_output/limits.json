@@ -1,0 +1,40 @@
+[
+    {
+        "word": "limits",
+        "word_hebrew": "גבולות",
+        "main_definition": "Limits refers to the boundaries or restrictions within which something operates, behaves, or exists.",
+        "main_definition_hebrew": "גבולות מתייחסים לגבולות או ההגבלות שבתוכם משהו פועל, מתנהג או קיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Boundaries or constraints that define a maximum extent or limit in various contexts.",
+                "definition_hebrew": "גבולות או אילוצים המגדירים היקף או מגבלה מקסימלית בהקשרים שונים.",
+                "example": "The company's growth is limited by the available market size.",
+                "example_hebrew": "הצמיחה של החברה מוגבלת על ידי גודל השוק הזמין."
+            },
+            {
+                "definition": "The restricted area within which one can operate, move, or exist.",
+                "definition_hebrew": "האזור המוגבל שבתוכו ניתן לפעול, לנוע או להתקיים.",
+                "example": "There are speed limits on this highway to ensure safety.",
+                "example_hebrew": "יש מגבלות מהירות בכביש המהיר הזה כדי להבטיח בטיחות."
+            },
+            {
+                "definition": "An expression of doubt or restriction in the possibilities of something happening.",
+                "definition_hebrew": "ביטוי של ספק או הגבלה באפשרויות שמשהו יקרה.",
+                "example": "I have my doubts about completing this project within the given limits.",
+                "example_hebrew": "יש לי ספקות לגבי השלמת הפרויקט הזה במגבלות הנתונות."
+            },
+            {
+                "definition": "A formal decision made by a governmental body to regulate, control, or restrict certain behaviors or actions.",
+                "definition_hebrew": "החלטה רשמית שהתקבלה על ידי גוף ממשלתי להסדיר, לשלוט או להגביל התנהגויות או פעולות מסוימות.",
+                "example": "The new legislation sets strict limits on pollution levels for factories.",
+                "example_hebrew": "החקיקה החדשה קובעת מגבלות נוקשות על רמות הזיהום למפעלים."
+            },
+            {
+                "definition": "Restrictions imposed by the physical world such as geographical boundaries.",
+                "definition_hebrew": "הגבלות המוטלות על ידי העולם הפיזי כמו גבולות גיאוגרפיים.",
+                "example": "Our team's reach is limited to our city due to funding constraints.",
+                "example_hebrew": "טווח ההגעה של הצוות שלנו מוגבל לעיר שלנו בגלל אילוצי מימון."
+            }
+        ]
+    }
+]

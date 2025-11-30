@@ -1,0 +1,28 @@
+[
+    {
+        "word": "veteran",
+        "word_hebrew": "ותיק",
+        "main_definition": "A person who has served in a particular place or capacity, especially someone with extensive experience due to long service.",
+        "main_definition_hebrew": "אדם ששירת במקום או בתפקיד מסוים, במיוחד בעל ניסיון רב עקב שירות ארוך.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual who has experienced significant events or situations throughout their life.",
+                "definition_hebrew": "אדם שחווה אירועים או מצבים משמעותיים במהלך חייו.",
+                "example": "The veteran who survived World War II is now sharing his experiences with younger generations.",
+                "example_hebrew": "הוותיק ששרד את מלחמת העולם השנייה חולק כעת את חוויותיו עם הדורות הצעירים."
+            },
+            {
+                "definition": "A person, usually in the military, who has served for an extended period of time and possesses substantial experience and knowledge.",
+                "definition_hebrew": "אדם, בדרך כלל בצבא, ששירת תקופה ממושכת ובעל ניסיון וידע משמעותיים.",
+                "example": "As a Navy veteran, John knows how to handle any maritime emergency calmly and efficiently.",
+                "example_hebrew": "בתור יוצא חיל הים, ג'ון יודע להתמודד עם כל חירום ימי בצורה רגועה ויעילה."
+            },
+            {
+                "definition": "In sports or entertainment, a skilled individual who has been involved in the field for many years.",
+                "definition_hebrew": "בספורט או בידור, אדם מיומן העוסק בתחום שנים רבות.",
+                "example": "The Hollywood veteran actor has appeared in over 100 films throughout his career.",
+                "example_hebrew": "השחקן הוותיק בהוליווד הופיע בלמעלה מ-100 סרטים לאורך הקריירה שלו."
+            }
+        ]
+    }
+]

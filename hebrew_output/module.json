@@ -1,0 +1,40 @@
+[
+    {
+        "word": "module",
+        "word_hebrew": "מודול",
+        "main_definition": "A module is a distinct part of a larger system, often with specific functionality or purpose.",
+        "main_definition_hebrew": "מודול הוא חלק מובהק ממערכת גדולה יותר, לעתים קרובות עם פונקציונליות או מטרה ספציפית.",
+        "meanings_and_examples": [
+            {
+                "definition": "In programming and computer science, a module refers to a file containing code that can be reused across different programs.",
+                "definition_hebrew": "בתכנות ומדעי המחשב, מודול מתייחס לקובץ המכיל קוד שניתן לעשות בו שימוש חוזר בתוכניות שונות.",
+                "example": "The Python standard library includes modules like os (operating system interface) and math (mathematical functions).",
+                "example_hebrew": "הספרייה הסטנדרטית של Python כוללת מודולים כמו OS (ממשק מערכת הפעלה) ומתמטיקה (פונקציות מתמטיות)."
+            },
+            {
+                "definition": "In education, a module is an individual course or segment of study within a larger program or curriculum.",
+                "definition_hebrew": "בחינוך, מודול הוא קורס בודד או קטע לימודים במסגרת תכנית או תכנית לימודים גדולה יותר.",
+                "example": "To become certified in project management, one must complete the 'Project Management' module.",
+                "example_hebrew": "כדי לקבל הסמכה בניהול פרויקטים, יש להשלים את מודול 'ניהול פרויקטים'."
+            },
+            {
+                "definition": "In engineering and manufacturing, a module refers to a self-contained unit that can be easily interchanged within a larger system or product.",
+                "definition_hebrew": "בהנדסה ובייצור, מודול מתייחס ליחידה עצמאית שניתן להחליף בקלות בתוך מערכת או מוצר גדולים יותר.",
+                "example": "The modular design of this furniture allows for easy customization by replacing different modules.",
+                "example_hebrew": "העיצוב המודולרי של רהיט זה מאפשר התאמה אישית קלה על ידי החלפת מודולים שונים."
+            },
+            {
+                "definition": "In physics and engineering, a module is a fundamental unit used in measurement systems to express certain quantities.",
+                "definition_hebrew": "בפיזיקה ובהנדסה, מודול הוא יחידה בסיסית המשמשת במערכות מדידה כדי לבטא כמויות מסוימות.",
+                "example": "A meter squared (m²) is the standard SI unit for measuring area, also known as a square metre or simply 'module.'",
+                "example_hebrew": "מטר מרובע (מ\"ר) היא יחידת ה-SI הסטנדרטית למדידת שטח, הידועה גם כמטר מרובע או פשוט 'מודול'."
+            },
+            {
+                "definition": "In transportation and logistics, module can refer to a container used for shipping goods.",
+                "definition_hebrew": "בהובלה ולוגיסטיקה, מודול יכול להתייחס למיכל המשמש למשלוח סחורות.",
+                "example": "The cargo ship was loaded with modules of various sizes for the international trade route.",
+                "example_hebrew": "ספינת המשא הייתה עמוסה במודולים בגדלים שונים עבור נתיב הסחר הבינלאומי."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "dept",
+        "word_hebrew": "מחלקה",
+        "main_definition": "Depending on the context, 'dept' can refer to an obligation or debt that someone owes, a department within an organization responsible for specific tasks, or units of measurement in various fields.",
+        "main_definition_hebrew": "בהתאם להקשר, 'מחלקה' יכולה להתייחס להתחייבות או חוב שמישהו חייב, מחלקה בתוך ארגון האחראית על משימות ספציפיות, או יחידות מדידה בתחומים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Obligation or debt",
+                "definition_hebrew": "חובה או חוב",
+                "example": "I have to pay back my dept on the credit card.",
+                "example_hebrew": "אני צריך להחזיר את המחלקה שלי בכרטיס האשראי."
+            },
+            {
+                "definition": "A division or department within an organization",
+                "definition_hebrew": "חטיבה או מחלקה בתוך ארגון",
+                "example": "The Marketing Dept is responsible for promoting our products worldwide.",
+                "example_hebrew": "מחלקת השיווק אחראית לקידום המוצרים שלנו ברחבי העולם."
+            },
+            {
+                "definition": "Units of measurement in engineering and science",
+                "definition_hebrew": "יחידות מדידה בהנדסה ומדעים",
+                "example": "In electrical engineering, dept refers to a unit of electric current equivalent to 10^-12 amperes (A/cd).",
+                "example_hebrew": "בהנדסת חשמל, מחלקה מתייחסת ליחידת זרם חשמלי שווה ערך ל-10^-12 אמפר (A/cd)."
+            }
+        ]
+    }
+]

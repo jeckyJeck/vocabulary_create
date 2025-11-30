@@ -1,0 +1,34 @@
+[
+    {
+        "word": "loading",
+        "word_hebrew": "טוען",
+        "main_definition": "Loading refers to the process of putting data or a program into memory, preparing it for use by loading it onto a device's storage.",
+        "main_definition_hebrew": "טעינה מתייחסת לתהליך של הכנסת נתונים או תוכנית לזיכרון, הכנתם לשימוש על ידי טעינתם לאחסון של מכשיר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Process of getting something ready for use",
+                "definition_hebrew": "תהליך של הכנת משהו לשימוש",
+                "example": "The loading bar on my computer progresses as the software installs.",
+                "example_hebrew": "סרגל הטעינה במחשב שלי מתקדם עם התקנת התוכנה."
+            },
+            {
+                "definition": "Starting a program or application and waiting for it to be fully operational",
+                "definition_hebrew": "הפעלת תוכנית או אפליקציה והמתנה עד שהיא תפעל במלואה",
+                "example": "After clicking 'Open,' I have to wait for the file to load before using it in my project.",
+                "example_hebrew": "לאחר לחיצה על 'פתח', אני צריך לחכות לטעינת הקובץ לפני השימוש בו בפרויקט שלי."
+            },
+            {
+                "definition": "The act of increasing weight or mass by adding more items into a vehicle, shipment, etc.",
+                "definition_hebrew": "הפעולה של הגדלת משקל או מסה על ידי הוספת פריטים נוספים לרכב, משלוח וכו'.",
+                "example": "The truck was loaded with boxes until it reached its maximum capacity.",
+                "example_hebrew": "המשאית הייתה עמוסה בארגזים עד שהגיעה לקיבולת המרבית."
+            },
+            {
+                "definition": "Preparing a machine or equipment for operation",
+                "definition_hebrew": "הכנת מכונה או ציוד לפעולה",
+                "example": "Before the race, the car's engine needed to be properly loaded and tuned by the mechanic.",
+                "example_hebrew": "לפני המירוץ, מנוע המכונית היה צריך להיות טעון כראוי ומכוון על ידי המכונאי."
+            }
+        ]
+    }
+]

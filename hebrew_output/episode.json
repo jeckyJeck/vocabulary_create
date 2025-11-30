@@ -1,0 +1,34 @@
+[
+    {
+        "word": "episode",
+        "word_hebrew": "פרק",
+        "main_definition": "An episode is a distinct event or segment, often referring to an installment of a series in various contexts such as television shows, books, medical conditions, etc.",
+        "main_definition_hebrew": "פרק הוא אירוע או קטע מובחן, לעתים קרובות מתייחס לפרק של סדרה בהקשרים שונים כגון תוכניות טלוויזיה, ספרים, מצבים רפואיים וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "A single installment or part of a serial story",
+                "definition_hebrew": "פרק בודד או חלק מסיפור סדרתי",
+                "example": "The last season of the TV show 'Friends' consists of 24 episodes.",
+                "example_hebrew": "העונה האחרונה של תוכנית הטלוויזיה 'חברים' מורכבת מ-24 פרקים."
+            },
+            {
+                "definition": "An incident or occurrence, especially in medical contexts",
+                "definition_hebrew": "אירוע או התרחשות, במיוחד בהקשרים רפואיים",
+                "example": "She experienced an episode of vertigo while standing up quickly.",
+                "example_hebrew": "היא חוותה אפיזודה של ורטיגו תוך כדי עמידה מהירה."
+            },
+            {
+                "definition": "A part of a larger work such as a book or film series",
+                "definition_hebrew": "חלק מיצירה גדולה יותר כמו ספר או סדרת סרטים",
+                "example": "The novel 'Game of Thrones' is divided into eight episodes, each representing a chapter in the storyline.",
+                "example_hebrew": "הרומן 'משחקי הכס' מחולק לשמונה פרקים, שכל אחד מהם מייצג פרק בקו העלילה."
+            },
+            {
+                "definition": "An event in a narrative or situation that contributes to the unfolding of the plot",
+                "definition_hebrew": "אירוע בנרטיב או סיטואציה התורמים להתגלגלות העלילה",
+                "example": "In the movie series 'Star Wars', each film can be seen as an episode contributing to the overall saga.",
+                "example_hebrew": "בסדרת הסרטים 'מלחמת הכוכבים' ניתן לראות כל סרט כפרק התורם לסאגה הכוללת."
+            }
+        ]
+    }
+]

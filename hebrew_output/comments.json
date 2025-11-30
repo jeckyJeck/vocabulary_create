@@ -1,0 +1,40 @@
+[
+    {
+        "word": "comments",
+        "word_hebrew": "הערות",
+        "main_definition": "Comments are expressions, remarks, or feedback provided about a particular subject, such as an article, event, situation, or conversation.",
+        "main_definition_hebrew": "הערות הן ביטויים, הערות או משוב המסופקים על נושא מסוים, כגון מאמר, אירוע, מצב או שיחה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Feedback given in response to something heard or read",
+                "definition_hebrew": "משוב שניתן בתגובה למשהו שנשמע או נקרא",
+                "example": "After reading the article on climate change, she left a comment expressing her concern.",
+                "example_hebrew": "לאחר שקראה את המאמר על שינויי אקלים, היא השאירה תגובה המביעה את דאגה."
+            },
+            {
+                "definition": "Notes added by a reader while reviewing written content",
+                "definition_hebrew": "הערות שנוספו על ידי קורא בעת סקירת תוכן כתוב",
+                "example": "Many readers add comments in the margins of books to explain or ask questions about certain parts.",
+                "example_hebrew": "קוראים רבים מוסיפים הערות בשולי הספרים כדי להסביר או לשאול שאלות על חלקים מסוימים."
+            },
+            {
+                "definition": "On-screen text displayed under, above, or alongside visual media like videos and images",
+                "definition_hebrew": "טקסט על המסך המוצג מתחת, מעל או לצד מדיה חזותית כמו סרטונים ותמונות",
+                "example": "The YouTube video had several viewer comments at the bottom sharing their thoughts on the content.",
+                "example_hebrew": "לסרטון YouTube היו כמה הערות צופים בתחתית המשתפות את מחשבותיהם על התוכן."
+            },
+            {
+                "definition": "Opinions or reactions shared publicly in a discussion forum or social network",
+                "definition_hebrew": "דעות או תגובות שחולקו בפומבי בפורום דיונים או ברשת חברתית",
+                "example": "The online forum was filled with user comments, each offering different perspectives on the topic of debate.",
+                "example_hebrew": "הפורום המקוון היה מלא בהערות משתמשים, שכל אחת מהן מציעה נקודות מבט שונות על נושא הדיון."
+            },
+            {
+                "definition": "Statements made during a live broadcast to clarify facts or provide additional information",
+                "definition_hebrew": "הצהרות שנמסרו במהלך שידור חי כדי להבהיר עובדות או לספק מידע נוסף",
+                "example": "During the TV news segment, the anchor provided a commentary on the latest updates from the event location.",
+                "example_hebrew": "במהלך קטע החדשות בטלוויזיה, המגיש סיפק פרשנות על העדכונים האחרונים ממקום האירוע."
+            }
+        ]
+    }
+]

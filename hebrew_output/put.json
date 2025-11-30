@@ -1,0 +1,40 @@
+[
+    {
+        "word": "put",
+        "word_hebrew": "לָשִׂים",
+        "main_definition": "To place or position something in a particular location.",
+        "main_definition_hebrew": "למקם או למקם משהו במיקום מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To place an object down gently.",
+                "definition_hebrew": "להניח חפץ בעדינות.",
+                "example": "She put her book on the table.",
+                "example_hebrew": "היא הניחה את הספר שלה על השולחן."
+            },
+            {
+                "definition": "To arrange or organize something in a certain way.",
+                "definition_hebrew": "לארגן או לארגן משהו בצורה מסוימת.",
+                "example": "He put his clothes neatly in the drawer.",
+                "example_hebrew": "הוא הניח את בגדיו בצורה מסודרת במגירה."
+            },
+            {
+                "definition": "To express an opinion or state of mind firmly and clearly, often in response to a question or statement.",
+                "definition_hebrew": "להביע דעה או מצב נפשי בצורה תקיפה וברורה, לעתים קרובות בתגובה לשאלה או אמירה.",
+                "example": "I don't think we should continue with this plan; I put it that way because I believe it won't work.",
+                "example_hebrew": "אני לא חושב שאנחנו צריכים להמשיך עם התוכנית הזו; אני ניסח את זה ככה כי אני מאמין שזה לא יעבוד."
+            },
+            {
+                "definition": "To insert something into another thing, usually for the purpose of fixing or attaching it.",
+                "definition_hebrew": "להכניס משהו לתוך דבר אחר, בדרך כלל לצורך תיקון או הצמדתו.",
+                "example": "He put a key in the lock and turned it to open the door.",
+                "example_hebrew": "הוא הכניס מפתח במנעול וסובב אותו כדי לפתוח את הדלת."
+            },
+            {
+                "definition": "To place someone in a particular role or position.",
+                "definition_hebrew": "להציב מישהו בתפקיד או תפקיד מסוים.",
+                "example": "The manager decided to put me in charge of the project.",
+                "example_hebrew": "המנהל החליט להפקיד אותי כאחראי על הפרויקט."
+            }
+        ]
+    }
+]

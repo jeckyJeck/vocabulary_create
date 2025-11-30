@@ -1,0 +1,40 @@
+[
+    {
+        "word": "administration",
+        "word_hebrew": "מִנהָל",
+        "main_definition": "Administration refers to the management, organization, or operation of a system, institution, or process.",
+        "main_definition_hebrew": "ניהול מתייחס לניהול, ארגון או תפעול של מערכת, מוסד או תהליך.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of managing or running an organization or governmental department.",
+                "definition_hebrew": "הפעולה של ניהול או ניהול ארגון או מחלקה ממשלתית.",
+                "example": "She has been serving as the head of administration in her company since 2015.",
+                "example_hebrew": "היא מכהנת כראש המינהל בחברה שלה מאז 2015."
+            },
+            {
+                "definition": "A group of people who manage and control a public office, institution, or other entity.",
+                "definition_hebrew": "קבוצה של אנשים המנהלים ושולטים במשרד ציבורי, מוסד או ישות אחרת.",
+                "example": "The new president appointed his trusted friends to key positions within the administration.",
+                "example_hebrew": "הנשיא החדש מינה את חבריו המהימנים לתפקידי מפתח בממשל."
+            },
+            {
+                "definition": "The process of administering medication, including preparing, prescribing, dispensing, and monitoring it.",
+                "definition_hebrew": "תהליך מתן התרופות, לרבות הכנה, רישום, ניפוק ומעקב אחריה.",
+                "example": "His role as a nurse includes assisting in the administration of drugs to patients.",
+                "example_hebrew": "תפקידו כאחות כולל סיוע במתן תרופות לחולים."
+            },
+            {
+                "definition": "The management or control of resources within an organization or system, including finances, personnel, and operations.",
+                "definition_hebrew": "ניהול או בקרה של משאבים בתוך ארגון או מערכת, לרבות כספים, כוח אדם ותפעול.",
+                "example": "Effective administration is crucial for the success of any business venture.",
+                "example_hebrew": "ניהול יעיל הוא חיוני להצלחת כל מיזם עסקי."
+            },
+            {
+                "definition": "A collection of documents and information used in managing a property or estate after the owner's death.",
+                "definition_hebrew": "אוסף של מסמכים ומידע המשמשים לניהול נכס או עיזבון לאחר מות הבעלים.",
+                "example": "The lawyer helped us organize our late father's paperwork, including his administration files.",
+                "example_hebrew": "עורך הדין עזר לנו לארגן את הניירת של אבינו המנוח, כולל תיקי הניהול שלו."
+            }
+        ]
+    }
+]

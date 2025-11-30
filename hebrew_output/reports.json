@@ -1,0 +1,34 @@
+[
+    {
+        "word": "reports",
+        "word_hebrew": "דיווחים",
+        "main_definition": "Reports refer to a document that provides information, often in the form of data or findings, usually from investigations, observations, or research.",
+        "main_definition_hebrew": "דוחות מתייחסים למסמך המספק מידע, לרוב בצורה של נתונים או ממצאים, בדרך כלל מחקירות, תצפיות או מחקרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Accounts of events or happenings",
+                "definition_hebrew": "חשבונות של אירועים או התרחשויות",
+                "example": "The weekly crime reports showed a decrease in burglary incidents.",
+                "example_hebrew": "דוחות הפשיעה השבועיים הראו ירידה באירועי הפריצה."
+            },
+            {
+                "definition": "Documents detailing findings, results, and observations from research or investigations",
+                "definition_hebrew": "מסמכים המפרטים ממצאים, תוצאות ותצפיות ממחקר או חקירות",
+                "example": "The environmental agency issued a report on the impact of climate change on local ecosystems.",
+                "example_hebrew": "הסוכנות לאיכות הסביבה פרסמה דו\"ח על השפעת שינויי האקלים על מערכות אקולוגיות מקומיות."
+            },
+            {
+                "definition": "Feedback given by an employee to their supervisor about their work performance",
+                "definition_hebrew": "משוב שניתן על ידי עובד לממונה על ביצועי עבודתו",
+                "example": "He submitted his annual reports, which included feedback from team members and progress updates.",
+                "example_hebrew": "הוא הגיש את הדוחות השנתיים שלו, שכללו משוב מחברי הצוות ועדכוני התקדמות."
+            },
+            {
+                "definition": "Statements or summaries of a meeting's discussions and decisions",
+                "definition_hebrew": "הצהרות או סיכומים של דיונים והחלטות בפגישה",
+                "example": "At the end of the board meeting, each member was asked to submit their own reports on what they had discussed.",
+                "example_hebrew": "בתום ישיבת ההנהלה התבקש כל חבר להגיש דיווחים משלו על הדברים שדנו."
+            }
+        ]
+    }
+]

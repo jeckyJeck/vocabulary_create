@@ -1,0 +1,34 @@
+[
+    {
+        "word": "cookie",
+        "word_hebrew": "עוגייה",
+        "main_definition": "In simple English, a 'cookie' can refer to a sweet baked treat or be used as an idiomatic expression with different meanings.",
+        "main_definition_hebrew": "באנגלית פשוטה, 'עוגייה' יכולה להתייחס לפינוק אפוי מתוק או לשמש כביטוי אידיומטי בעל משמעויות שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A small, flat, round cake made from dough and typically containing sugar, butter, and eggs",
+                "definition_hebrew": "עוגה קטנה שטוחה ועגולה עשויה מבצק ובדרך כלל מכילה סוכר, חמאה וביצים",
+                "example": "After baking the chocolate chip cookies for 12 minutes, they turned out perfect.",
+                "example_hebrew": "לאחר אפיית עוגיות השוקולד צ'יפס במשך 12 דקות, הן יצאו מושלמות."
+            },
+            {
+                "definition": "A reminder or signal to recall something specific (often used in computing contexts)",
+                "definition_hebrew": "תזכורת או אות להיזכר במשהו ספציפי (משמש לעתים קרובות בהקשרי מחשוב)",
+                "example": "The cookie stored on my computer helps me remember my login credentials.",
+                "example_hebrew": "קובץ ה-cookie המאוחסן במחשב שלי עוזר לי לזכור את אישורי הכניסה שלי."
+            },
+            {
+                "definition": "An expression of endearment, often used between friends or family members",
+                "definition_hebrew": "ביטוי של חיבה, המשמש לעתים קרובות בין חברים או בני משפחה",
+                "example": "Hey buddy, you're a good friend, I just wanted to say 'cookie' before we hang out!",
+                "example_hebrew": "היי חבר, אתה חבר טוב, רק רציתי להגיד 'עוגייה' לפני שאנחנו מבלים!"
+            },
+            {
+                "definition": "A token or incentive given for completing a task or achieving something",
+                "definition_hebrew": "אסימון או תמריץ שניתן להשלמת משימה או השגת משהו",
+                "example": "As a reward for finishing my project on time, my boss gave me a cookie.",
+                "example_hebrew": "כפרס על סיום הפרויקט שלי בזמן, הבוס שלי נתן לי עוגיה."
+            }
+        ]
+    }
+]

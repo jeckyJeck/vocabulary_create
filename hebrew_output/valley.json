@@ -1,0 +1,34 @@
+[
+    {
+        "word": "valley",
+        "word_hebrew": "עֶמֶק",
+        "main_definition": "A low area of land between hills or mountains, typically with a river or stream flowing through it.",
+        "main_definition_hebrew": "שטח אדמה נמוך בין גבעות או הרים, בדרך כלל עם נהר או נחל זורמים בו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Natural geographical feature",
+                "definition_hebrew": "תכונה גיאוגרפית טבעית",
+                "example": "The rolling green valley in the Swiss Alps provides breathtaking views.",
+                "example_hebrew": "העמק הירוק המתגלגל באלפים השוויצרים מספק נופים עוצרי נשימה."
+            },
+            {
+                "definition": "A depression or dip between hills, mountains, or other elevated areas of land",
+                "definition_hebrew": "שקע או טבילה בין גבעות, הרים או אזורי אדמה מוגבהים אחרים",
+                "example": "We hiked through a wide and sunny valley surrounded by towering peaks.",
+                "example_hebrew": "טיילנו בעמק רחב ושטוף שמש מוקף בפסגות נישאות."
+            },
+            {
+                "definition": "An area of low ground covered by grain fields, vineyards, forests, etc.",
+                "definition_hebrew": "אזור של קרקע נמוכה מכוסה בשדות תבואה, כרמים, יערות וכו'.",
+                "example": "The Napa Valley in California is famous for its wine production.",
+                "example_hebrew": "עמק נאפה בקליפורניה מפורסם בייצור היין שלו."
+            },
+            {
+                "definition": "A period of time when something has declined or decreased",
+                "definition_hebrew": "פרק זמן שבו משהו ירד או ירד",
+                "example": "Following the economic downturn, we entered a valley before starting to recover.",
+                "example_hebrew": "בעקבות השפל הכלכלי, נכנסנו לעמק לפני שהתחלנו להתאושש."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "suspect",
+        "word_hebrew": "חָשׁוּד",
+        "main_definition": "A person who is believed to be guilty of a crime or wrongdoing, but not yet proven.",
+        "main_definition_hebrew": "אדם שמאמינים שהוא אשם בפשע או בעוולה, אך עדיין לא הוכח.",
+        "meanings_and_examples": [
+            {
+                "definition": "To consider someone as likely responsible for an action or event.",
+                "definition_hebrew": "לראות מישהו כאחראי כנראה לפעולה או אירוע.",
+                "example": "After reviewing the security footage, they began to suspect that John had entered the building during the time of the robbery.",
+                "example_hebrew": "לאחר שבדקו את צילומי האבטחה, הם החלו לחשוד שג'ון נכנס לבניין בזמן השוד."
+            },
+            {
+                "definition": "To harbor doubts about something's truth or validity.",
+                "definition_hebrew": "להטיל ספקות לגבי האמת או תקפותו של משהו.",
+                "example": "She suspected her friend was lying when he claimed not to have seen where she left her phone.",
+                "example_hebrew": "היא חשדה שחבר שלה שיקר כשטען שלא ראה איפה היא השאירה את הטלפון שלה."
+            },
+            {
+                "definition": "A feeling of uncertainty or mistrust toward someone or something.",
+                "definition_hebrew": "תחושה של חוסר ודאות או חוסר אמון כלפי מישהו או משהו.",
+                "example": "Despite his friendly demeanor, I remained suspicious of the stranger's intentions.",
+                "example_hebrew": "למרות התנהגותו הידידותית, נשארתי חשדנית בכוונותיו של הזר."
+            }
+        ]
+    }
+]

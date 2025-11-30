@@ -1,0 +1,40 @@
+[
+    {
+        "word": "repeated",
+        "word_hebrew": "חוזר על עצמו",
+        "main_definition": "To do or say something more than once.",
+        "main_definition_hebrew": "לעשות או לומר משהו יותר מפעם אחת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Occurring again and again in the same way.",
+                "definition_hebrew": "מתרחש שוב ושוב באותו אופן.",
+                "example": "She repeated her mistake by forgetting to save her work before closing the program.",
+                "example_hebrew": "היא חזרה על טעותה בכך ששכחה לשמור את עבודתה לפני סגירת התוכנית."
+            },
+            {
+                "definition": "Asked or done repeatedly, usually out of habit or lack of creativity.",
+                "definition_hebrew": "נשאל או נעשה שוב ושוב, בדרך כלל מתוך הרגל או חוסר יצירתיות.",
+                "example": "He kept repeating the same jokes during the meeting, which made everyone lose interest.",
+                "example_hebrew": "הוא המשיך לחזור על אותן בדיחות במהלך הפגישה, מה שגרם לכולם לאבד עניין."
+            },
+            {
+                "definition": "Done or expressed more than once; said again or in various ways.",
+                "definition_hebrew": "נעשה או התבטא יותר מפעם אחת; נאמר שוב או בדרכים שונות.",
+                "example": "The teacher repeated the instructions several times to ensure that all students understood them.",
+                "example_hebrew": "המורה חזר על ההוראות מספר פעמים כדי לוודא שכל התלמידים הבינו אותן."
+            },
+            {
+                "definition": "Repeatedly doing an action, often with little variation or change over time.",
+                "definition_hebrew": "ביצוע פעולה חוזר ונשנה, לעתים קרובות עם מעט שינויים או שינויים לאורך זמן.",
+                "example": "His repetitive work routine left him feeling uninspired and bored.",
+                "example_hebrew": "שגרת העבודה החוזרת ונשנית הותירה אותו בתחושת חוסר השראה ומשועמם."
+            },
+            {
+                "definition": "Referring to something that has occurred multiple times in the past.",
+                "definition_hebrew": "הכוונה למשהו שהתרחש מספר פעמים בעבר.",
+                "example": "There have been repeated instances of this problem throughout the company's history.",
+                "example_hebrew": "היו מקרים חוזרים ונשנים של בעיה זו לאורך ההיסטוריה של החברה."
+            }
+        ]
+    }
+]

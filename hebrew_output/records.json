@@ -1,0 +1,40 @@
+[
+    {
+        "word": "records",
+        "word_hebrew": "רשומות",
+        "main_definition": "Records refer to a collection of information, data, or evidence that has been documented, preserved, and organized in a systematic manner.",
+        "main_definition_hebrew": "רשומות מתייחסות לאוסף של מידע, נתונים או ראיות שתועדו, נשמרו ואורגנו בצורה שיטתית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Documents of historical events or facts",
+                "definition_hebrew": "מסמכים של אירועים היסטוריים או עובדות",
+                "example": "The ancient records found in Egyptian tombs provide valuable insights into the culture and history of that era.",
+                "example_hebrew": "הרישומים העתיקים שנמצאו בקברים מצריים מספקים תובנות חשובות לגבי התרבות וההיסטוריה של אותה תקופה."
+            },
+            {
+                "definition": "Archives storing official documents, papers, letters, etc.",
+                "definition_hebrew": "ארכיונים לאחסון מסמכים רשמיים, ניירות, מכתבים וכו'.",
+                "example": "The city hall's archival records include important legal documents, meeting minutes, and correspondence from past officials.",
+                "example_hebrew": "הרישומים הארכיוניים של העירייה כוללים מסמכים משפטיים חשובים, פרוטוקולים של פגישות והתכתבויות של פקידי עבר."
+            },
+            {
+                "definition": "A person responsible for maintaining and managing the organization of information",
+                "definition_hebrew": "אדם האחראי על תחזוקת וניהול ארגון המידע",
+                "example": "The librarian keeps meticulous records to ensure easy retrieval of books in the library.",
+                "example_hebrew": "הספרנית מנהלת רישום קפדני כדי להבטיח שליפה קלה של ספרים בספרייה."
+            },
+            {
+                "definition": "Audio or visual media capturing events, performances, etc.",
+                "definition_hebrew": "מדיה אודיו או חזותית ללכוד אירועים, הופעות וכו'.",
+                "example": "A documentary record includes audio and video footage that narrates historical events or showcases wildlife habitats.",
+                "example_hebrew": "תיעוד דוקומנטרי כולל קטעי אודיו ווידאו המספרים אירועים היסטוריים או מציגים בתי גידול של חיות בר."
+            },
+            {
+                "definition": "Data stored in digital format for analysis and future reference",
+                "definition_hebrew": "נתונים המאוחסנים בפורמט דיגיטלי לצורך ניתוח והתייחסות עתידית",
+                "example": "The hospital's electronic health records system stores patient data, including medical history, diagnoses, treatments, and outcomes.",
+                "example_hebrew": "מערכת רישומי הבריאות האלקטרונית של בית החולים מאחסנת את נתוני המטופלים, לרבות היסטוריה רפואית, אבחנות, טיפולים ותוצאות."
+            }
+        ]
+    }
+]

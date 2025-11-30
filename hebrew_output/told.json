@@ -1,0 +1,34 @@
+[
+    {
+        "word": "told",
+        "word_hebrew": "סיפר",
+        "main_definition": "To communicate information or a story to someone, usually by speaking.",
+        "main_definition_hebrew": "להעביר מידע או סיפור למישהו, בדרך כלל על ידי דיבור.",
+        "meanings_and_examples": [
+            {
+                "definition": "To speak words directly to someone's attention",
+                "definition_hebrew": "לדבר מילים ישירות לתשומת ליבו של מישהו",
+                "example": "She told her friend about the surprise party.",
+                "example_hebrew": "היא סיפרה לחברתה על מסיבת ההפתעה."
+            },
+            {
+                "definition": "To inform or make known a fact, idea, or story verbally",
+                "definition_hebrew": "ליידע או להודיע עובדה, רעיון או סיפור בעל פה",
+                "example": "He told us that he got promoted at work.",
+                "example_hebrew": "הוא אמר לנו שהוא קיבל קידום בעבודה."
+            },
+            {
+                "definition": "Used to indicate the past simple of 'tell', often in phrases like 'have been told' or 'had been told'",
+                "definition_hebrew": "משמש לציון העבר הפשוט של 'לספר', לעתים קרובות בביטויים כמו 'נאמר' או 'נאמר'",
+                "example": "I had been told not to open it, but curiosity got the better of me.",
+                "example_hebrew": "אמרו לי לא לפתוח אותו, אבל הסקרנות גברה עליי."
+            },
+            {
+                "definition": "A colloquial way of saying that someone has revealed a secret or confidential information",
+                "definition_hebrew": "דרך דיבור לומר שמישהו חשף סוד או מידע סודי",
+                "example": "She accidentally told everyone about her surprise engagement party.",
+                "example_hebrew": "בטעות היא סיפרה לכולם על מסיבת האירוסין המפתיעה שלה."
+            }
+        ]
+    }
+]

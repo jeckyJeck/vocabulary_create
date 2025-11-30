@@ -1,0 +1,34 @@
+[
+    {
+        "word": "structural",
+        "word_hebrew": "מִבנִי",
+        "main_definition": "Relating to the arrangement or organization of elements in a system, especially in terms of their relationships and interdependencies.",
+        "main_definition_hebrew": "התייחסות לסידור או ארגון של אלמנטים במערכת, במיוחד מבחינת היחסים והתלות ההדדית ביניהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Pertaining to construction or design principles used in architecture and engineering.",
+                "definition_hebrew": "הנוגע לעקרונות בנייה או עיצוב המשמשים באדריכלות והנדסה.",
+                "example": "The structural integrity of the building was compromised due to poor foundation.",
+                "example_hebrew": "השלמות המבנית של הבניין נפגעה עקב ביסוס לקוי."
+            },
+            {
+                "definition": "Relating to the underlying framework or support system that holds a complex entity together.",
+                "definition_hebrew": "התייחסות למסגרת הבסיסית או למערכת התמיכה שמחזיקה ישות מורכבת ביחד.",
+                "example": "A company's structural change involved restructuring departments and roles.",
+                "example_hebrew": "השינוי המבני של חברה כלל ארגון מחדש של מחלקות ותפקידים."
+            },
+            {
+                "definition": "Concerning the arrangement of parts in relation to each other within an object, often in terms of stability or functionality.",
+                "definition_hebrew": "לגבי סידור החלקים ביחס זה לזה בתוך אובייקט, לרוב במונחים של יציבות או פונקציונליות.",
+                "example": "The car had a structural flaw that caused it to collapse during a crash test.",
+                "example_hebrew": "במכונית היה פגם מבני שגרם לקריסתה במהלך מבחן ריסוק."
+            },
+            {
+                "definition": "Pertaining to the study of how components fit together and interact to create a unified whole.",
+                "definition_hebrew": "הנוגע לחקר האופן שבו מרכיבים משתלבים זה בזה ומקיימים אינטראקציה כדי ליצור שלם מאוחד.",
+                "example": "Structural analysis is crucial in determining how different elements of a bridge work together.",
+                "example_hebrew": "ניתוח מבני חיוני בקביעת האופן שבו אלמנטים שונים של גשר עובדים יחד."
+            }
+        ]
+    }
+]

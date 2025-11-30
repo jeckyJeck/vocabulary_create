@@ -1,0 +1,28 @@
+[
+    {
+        "word": "via",
+        "word_hebrew": "באמצעות",
+        "main_definition": "Via is a preposition or an abbreviation used to indicate a route, method, or means of achieving something.",
+        "main_definition_hebrew": "ויה היא מילת יחס או קיצור המשמשת לציון מסלול, שיטה או אמצעי להשיג משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A pathway or way for traveling from one place to another",
+                "definition_hebrew": "מסלול או דרך לנסיעה ממקום למקום",
+                "example": "The goods are transported via the Panama Canal.",
+                "example_hebrew": "הסחורה מועברת דרך תעלת פנמה."
+            },
+            {
+                "definition": "An abbreviation of 'via' used in email addresses and web URLs",
+                "definition_hebrew": "קיצור של 'via' המשמש בכתובות דוא\"ל וכתובות אתרים באינטרנט",
+                "example": "johndoe@example.com",
+                "example_hebrew": "johndoe@example.com"
+            },
+            {
+                "definition": "Used to describe a method or process for accomplishing something",
+                "definition_hebrew": "משמש לתיאור שיטה או תהליך להשגת משהו",
+                "example": "The project will be completed via collaborative efforts.",
+                "example_hebrew": "הפרויקט יושלם באמצעות מאמצים משותפים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "birthday",
+        "word_hebrew": "יום הולדת",
+        "main_definition": "A person's birth date, especially as observed annually or celebrated.",
+        "main_definition_hebrew": "תאריך הלידה של אדם, במיוחד כפי שנצפה מדי שנה או נחגג.",
+        "meanings_and_examples": [
+            {
+                "definition": "The anniversary of the day on which a person was born.",
+                "definition_hebrew": "יום השנה ליום שבו נולד אדם.",
+                "example": "It has been two years since my friend's birthday.",
+                "example_hebrew": "עברו שנתיים מאז יום ההולדת של חבר שלי."
+            },
+            {
+                "definition": "A special day marked with celebration and often gifts due to an individual's birth date.",
+                "definition_hebrew": "יום מיוחד המסומן בחגיגה ולעיתים קרובות מתנות בשל תאריך הלידה של אדם.",
+                "example": "On her 10th birthday, she received a puppy as a gift from her parents.",
+                "example_hebrew": "ביום הולדתה ה-10 היא קיבלה גור במתנה מהוריה."
+            },
+            {
+                "definition": "The occasion of having one's age incremented by one year on the anniversary of their birth date.",
+                "definition_hebrew": "אירוע של העלאת גילו בשנה אחת ביום השנה לתאריך הלידה שלהם.",
+                "example": "Today is my son's 5th birthday, which also marks him turning five years old.",
+                "example_hebrew": "היום הוא יום הולדת 5 לבן שלי, שגם הוא מלאו לו חמש שנים."
+            }
+        ]
+    }
+]

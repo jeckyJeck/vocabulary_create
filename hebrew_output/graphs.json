@@ -1,0 +1,34 @@
+[
+    {
+        "word": "graphs",
+        "word_hebrew": "גרפים",
+        "main_definition": "Graphs are visual representations of data, used to illustrate relationships between different variables or elements.",
+        "main_definition_hebrew": "גרפים הם ייצוגים חזותיים של נתונים, המשמשים להמחשת קשרים בין משתנים או אלמנטים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Visual representation of information using symbols, bars, lines, etc., to show patterns, comparisons, and trends over time",
+                "definition_hebrew": "ייצוג חזותי של מידע באמצעות סמלים, פסים, קווים וכו', כדי להציג דפוסים, השוואות ומגמות לאורך זמן",
+                "example": "A bar graph showing the sales figures for different products in a company.",
+                "example_hebrew": "גרף עמודות המציג את נתוני המכירות של מוצרים שונים בחברה."
+            },
+            {
+                "definition": "Charts that display data points connected by straight line segments to illustrate relationships among variables",
+                "definition_hebrew": "תרשימים המציגים נקודות נתונים המחוברות על ידי קטעי קו ישר כדי להמחיש קשרים בין משתנים",
+                "example": "A line graph depicting changes in temperature throughout the week.",
+                "example_hebrew": "גרף קווי המתאר שינויים בטמפרטורה במהלך השבוע."
+            },
+            {
+                "definition": "Diagrams used in mathematics and computer science to show functions, operations or other mathematical concepts",
+                "definition_hebrew": "דיאגרמות המשמשות במתמטיקה ומדעי המחשב כדי להציג פונקציות, פעולות או מושגים מתמטיים אחרים",
+                "example": "A flowchart illustrating the steps of a complex algorithm.",
+                "example_hebrew": "תרשים זרימה הממחיש את השלבים של אלגוריתם מורכב."
+            },
+            {
+                "definition": "Plots in which data points are represented as dots, often with connected lines to indicate changes over time",
+                "definition_hebrew": "עלילות שבהן נקודות נתונים מיוצגות כנקודות, לרוב עם קווים מחוברים לציון שינויים לאורך זמן",
+                "example": "Scatter plots used to visualize the correlation between two variables like height and weight.",
+                "example_hebrew": "תרשימי פיזור המשמשים כדי להמחיש את המתאם בין שני משתנים כמו גובה ומשקל."
+            }
+        ]
+    }
+]

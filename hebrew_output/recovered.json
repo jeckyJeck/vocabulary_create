@@ -1,0 +1,34 @@
+[
+    {
+        "word": "recovered",
+        "word_hebrew": "התאושש",
+        "main_definition": "To return to a normal or healthy state, especially after an illness, injury, or setback.",
+        "main_definition_hebrew": "לחזור למצב תקין או בריא, במיוחד לאחר מחלה, פציעה או נסיגה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Returning from illness or injury",
+                "definition_hebrew": "חזרה ממחלה או פציעה",
+                "example": "After recovering from the flu, she was finally able to resume her normal activities.",
+                "example_hebrew": "לאחר שהחלימה משפעת, היא הצליחה סוף סוף לחזור לפעילותה הרגילה."
+            },
+            {
+                "definition": "Regaining data lost due to accidental deletion or technical issues",
+                "definition_hebrew": "החזרת נתונים שאבדו עקב מחיקה בשוגג או בעיות טכניות",
+                "example": "The IT team helped us recover our important files that were accidentally deleted.",
+                "example_hebrew": "צוות ה-IT עזר לנו לשחזר את הקבצים החשובים שלנו שנמחקו בטעות."
+            },
+            {
+                "definition": "Restoring something to a previous state after damage or loss",
+                "definition_hebrew": "החזרת משהו למצב קודם לאחר נזק או אובדן",
+                "example": "After the storm, we managed to recover and restore power to most of the affected areas.",
+                "example_hebrew": "לאחר הסופה הצלחנו להתאושש ולהחזיר את החשמל לרוב האזורים שנפגעו."
+            },
+            {
+                "definition": "The process of coming back on track in terms of business performance after facing losses or challenges",
+                "definition_hebrew": "תהליך החזרה למסלול במונחים של ביצועים עסקיים לאחר התמודדות עם הפסדים או אתגרים",
+                "example": "Despite initial setbacks, our company was able to recover its profits and reestablish market dominance.",
+                "example_hebrew": "למרות הכישלונות הראשוניים, החברה שלנו הצליחה לשחזר את רווחיה ולשקם את הדומיננטיות בשוק."
+            }
+        ]
+    }
+]

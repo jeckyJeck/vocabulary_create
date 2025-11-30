@@ -1,0 +1,28 @@
+[
+    {
+        "word": "earthquake",
+        "word_hebrew": "רעידת אדמה",
+        "main_definition": "An earthquake is a natural phenomenon characterized by the shaking of the Earth's surface due to the sudden release of energy in the planet's lithosphere, causing potentially significant damage and disruption.",
+        "main_definition_hebrew": "רעידת אדמה היא תופעת טבע המאופיינת ברעידות של פני כדור הארץ עקב שחרור פתאומי של אנרגיה בליתוספירה של כוכב הלכת, הגורמת נזק והפרעה משמעותיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A seismic event that results in ground tremors",
+                "definition_hebrew": "אירוע סיסמי שגורם לרעידות קרקע",
+                "example": "The 2011 Tōhoku earthquake in Japan caused widespread destruction.",
+                "example_hebrew": "רעידת האדמה ב-Tōhoku ביפן ב-2011 גרמה להרס נרחב."
+            },
+            {
+                "definition": "Metaphorically used to describe sudden, unexpected changes or shocks",
+                "definition_hebrew": "משמש באופן מטפורי לתיאור שינויים או זעזועים פתאומיים, בלתי צפויים",
+                "example": "When the company announced its bankruptcy, it was an economic earthquake for all employees.",
+                "example_hebrew": "כשהחברה הכריזה על פשיטת רגל, הייתה זו רעידת אדמה כלכלית לכל העובדים."
+            },
+            {
+                "definition": "A colloquial term for a major disruption in daily life caused by natural events",
+                "definition_hebrew": "כינוי דיבור לשיבוש גדול בחיי היומיום שנגרם כתוצאה מאירועי טבע",
+                "example": "The aftermath of Hurricane Katrina was an urban earthquake, uprooting entire communities.",
+                "example_hebrew": "ההשלכות של הוריקן קתרינה היו רעידת אדמה עירונית, שעקרה קהילות שלמות."
+            }
+        ]
+    }
+]

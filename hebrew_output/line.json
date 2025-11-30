@@ -1,0 +1,52 @@
+[
+    {
+        "word": "line",
+        "word_hebrew": "קַו",
+        "main_definition": "A line is a long, narrow mark or stroke that is straight, continuous, and extends in one direction.",
+        "main_definition_hebrew": "קו הוא סימן או קו ארוך וצר שהוא ישר, מתמשך ומתפרש בכיוון אחד.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical Line",
+                "definition_hebrew": "קו פיזי",
+                "example": "The boundary between two countries can be represented by a physical line on the map.",
+                "example_hebrew": "הגבול בין שתי מדינות יכול להיות מיוצג על ידי קו פיזי במפה."
+            },
+            {
+                "definition": "Queue or waiting line",
+                "definition_hebrew": "תור או תור המתנה",
+                "example": "I had to wait in the queue at the supermarket for 30 minutes before being served.",
+                "example_hebrew": "נאלצתי להמתין בתור בסופר 30 דקות לפני ההגשה."
+            },
+            {
+                "definition": "Direct line of sight",
+                "definition_hebrew": "קו ראייה ישיר",
+                "example": "In a game of chess, if one player's piece is directly visible from another player's perspective, it means there is no obstructing object in the way; they have direct line of sight.",
+                "example_hebrew": "במשחק שח, אם כלי של שחקן אחד גלוי ישירות מנקודת מבטו של שחקן אחר, זה אומר שאין חפץ חוסם בדרך; יש להם קו ראייה ישיר."
+            },
+            {
+                "definition": "Line as part of poetry or literature",
+                "definition_hebrew": "קו כחלק משירה או ספרות",
+                "example": "The poet used a metaphorical 'line' to describe his feelings for his lover, creating a vivid image with just words.",
+                "example_hebrew": "המשורר השתמש ב'קו' מטפורי כדי לתאר את רגשותיו כלפי אהובתו, ויצר תמונה חיה עם מילים בלבד."
+            },
+            {
+                "definition": "Connection in communication",
+                "definition_hebrew": "חיבור בתקשורת",
+                "example": "When you make an appointment or request over the phone, it is often referred to as having a 'line.'",
+                "example_hebrew": "כאשר אתה קובע פגישה או בקשה בטלפון, לרוב מתייחסים לזה כבעל 'קו'."
+            },
+            {
+                "definition": "The edge of something long and narrow",
+                "definition_hebrew": "קצהו של משהו ארוך וצר",
+                "example": "The line on the sand where the tide meets its highest point before receding back.",
+                "example_hebrew": "הקו על החול שבו הגאות פוגשת את הנקודה הגבוהה ביותר שלו לפני שהוא נסוג לאחור."
+            },
+            {
+                "definition": "A sequence or series of connected points, events, or actions",
+                "definition_hebrew": "רצף או סדרה של נקודות, אירועים או פעולות מחוברות",
+                "example": "In a movie plot, various scenes form a 'line' that leads to the climax of the story.",
+                "example_hebrew": "בעלילת קולנוע, סצנות שונות יוצרות 'קו' שמוביל לשיאו של הסיפור."
+            }
+        ]
+    }
+]

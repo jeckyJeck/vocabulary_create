@@ -1,0 +1,28 @@
+[
+    {
+        "word": "quoted",
+        "word_hebrew": "מְצוּטָט",
+        "main_definition": "To repeat or cite a statement, passage, or idea from another source in your own writing.",
+        "main_definition_hebrew": "לחזור או לצטט אמירה, קטע או רעיון ממקור אחר בכתיבה שלך.",
+        "meanings_and_examples": [
+            {
+                "definition": "Referring to the act of repeating someone else's words verbatim (word for word).",
+                "definition_hebrew": "הכוונה לפעולת חזרה על דבריו של מישהו אחר מילה במילה (מילה במילה).",
+                "example": "The journalist quoted the politician directly during her news segment.",
+                "example_hebrew": "העיתונאית ציטטה את הפוליטיקאית ישירות במהלך קטע החדשות שלה."
+            },
+            {
+                "definition": "To attribute or credit a statement made by another person, especially in written work.",
+                "definition_hebrew": "לייחס או לזכות הצהרה שנאמרה על ידי אדם אחר, במיוחד בעבודה כתובה.",
+                "example": "In his research paper, John carefully cited all sources and quoted relevant experts to support his arguments.",
+                "example_hebrew": "במאמר המחקר שלו, ג'ון ציטט בקפידה את כל המקורות וציטט מומחים רלוונטיים כדי לתמוך בטיעוניו."
+            },
+            {
+                "definition": "Using someone else's words as an example or illustration of your own point.",
+                "definition_hebrew": "שימוש במילים של מישהו אחר כדוגמה או המחשה לנקודה שלך.",
+                "example": "The teacher used a quote from Shakespeare in her lesson plan to illustrate the power of poetic language.",
+                "example_hebrew": "המורה השתמשה בציטוט של שייקספיר במערך השיעור שלה כדי להמחיש את כוחה של השפה הפואטית."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "meat",
+        "word_hebrew": "בָּשָׂר",
+        "main_definition": "Meat refers to the flesh of animals that is used as food by humans, and it can also be an idiom with different meanings in context.",
+        "main_definition_hebrew": "בשר מתייחס לבשר של בעלי חיים המשמש כמזון על ידי בני אדם, והוא יכול להיות גם ניב בעל משמעויות שונות בהקשר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Food made from animal flesh",
+                "definition_hebrew": "מזון העשוי מבשר בעלי חיים",
+                "example": "I'm having grilled chicken for dinner.",
+                "example_hebrew": "אני אוכל עוף בגריל לארוחת ערב."
+            },
+            {
+                "definition": "The main or most important part of something",
+                "definition_hebrew": "החלק העיקרי או החשוב ביותר של משהו",
+                "example": "In this company, the meat is the sales department; it generates the most revenue.",
+                "example_hebrew": "בחברה זו הבשר הוא מחלקת המכירות; זה מייצר את מירב ההכנסות."
+            },
+            {
+                "definition": "Material to be eaten or used as food",
+                "definition_hebrew": "חומר לאכילה או לשימוש כמזון",
+                "example": "He went to buy some fresh meat at the local butcher's shop.",
+                "example_hebrew": "הוא הלך לקנות בשר טרי בקצבייה המקומית."
+            },
+            {
+                "definition": "An idiomatic expression implying something of high value or importance",
+                "definition_hebrew": "ביטוי אידיומטי המרמז על משהו בעל ערך או חשיבות גבוהים",
+                "example": "Getting a job offer is the meat of their graduation year for students.",
+                "example_hebrew": "קבלת הצעת עבודה היא הבשר של שנת הסיום שלהם לסטודנטים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "motion",
+        "word_hebrew": "תְנוּעָה",
+        "main_definition": "Motion refers to the act of moving or a change in position, location, or state.",
+        "main_definition_hebrew": "תנועה מתייחסת לפעולת התנועה או לשינוי במיקום, במיקום או במצב.",
+        "meanings_and_examples": [
+            {
+                "definition": "An attempt to get something approved or accepted by making a formal proposal in a meeting or assembly",
+                "definition_hebrew": "ניסיון לקבל משהו מאושר או התקבל על ידי הגשת הצעה רשמית בפגישה או באסיפה",
+                "example": "The motion to adjourn the meeting was seconded and carried.",
+                "example_hebrew": "הבקשה לדחיית הישיבה התקבלה."
+            },
+            {
+                "definition": "Physical movement of an object, person, or phenomenon",
+                "definition_hebrew": "תנועה פיזית של חפץ, אדם או תופעה",
+                "example": "A car's wheels are rolling on the road creating a forward motion.",
+                "example_hebrew": "גלגלי מכונית מתגלגלים על הכביש ויוצרים תנועה קדימה."
+            },
+            {
+                "definition": "The state of being in constant change or flux",
+                "definition_hebrew": "המצב של להיות בשינוי או שטף מתמיד",
+                "example": "Political motions can alter the landscape of government policies.",
+                "example_hebrew": "תנועות פוליטיות יכולות לשנות את נוף מדיניות הממשלה."
+            },
+            {
+                "definition": "A legal term that refers to an action initiated by a legislative body against someone for committing wrongdoing",
+                "definition_hebrew": "מונח משפטי המתייחס לפעולה שיזם גוף מחוקק נגד מישהו בגין ביצוע עוולה",
+                "example": "The motion was filed in court, accusing the company of fraudulent activities.",
+                "example_hebrew": "הבקשה הוגשה לבית המשפט, והאשימה את החברה בפעילות מרמה."
+            },
+            {
+                "definition": "In sports or games, a planned strategy executed to gain an advantage over opponents",
+                "definition_hebrew": "בספורט או במשחקים, אסטרטגיה מתוכננת המבוצעת כדי להשיג יתרון על היריבים",
+                "example": "A chess player's opening move sets up their subsequent motion on the board.",
+                "example_hebrew": "מהלך הפתיחה של שחקן שחמט קובע את התנועה הבאה שלו על הלוח."
+            }
+        ]
+    }
+]

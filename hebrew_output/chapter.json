@@ -1,0 +1,34 @@
+[
+    {
+        "word": "chapter",
+        "word_hebrew": "פֶּרֶק",
+        "main_definition": "A chapter is a distinct section of a book or written work, often indicating a shift in content or theme.",
+        "main_definition_hebrew": "פרק הוא חלק מובהק של ספר או עבודה כתובה, המצביע לרוב על שינוי בתוכן או בנושא.",
+        "meanings_and_examples": [
+            {
+                "definition": "Part of a book divided into sections with headings",
+                "definition_hebrew": "חלק מספר המחולק לחלקים עם כותרות",
+                "example": "The novel was divided into ten chapters that each focused on different events and characters.",
+                "example_hebrew": "הרומן חולק לעשרה פרקים שכל אחד התמקד באירועים ובדמויות שונות."
+            },
+            {
+                "definition": "A period in history or life marked by significant events or developments",
+                "definition_hebrew": "תקופה בהיסטוריה או בחיים המאופיינת באירועים או התפתחויות משמעותיות",
+                "example": "The Industrial Revolution is considered a major chapter in human history, transforming economies and societies.",
+                "example_hebrew": "המהפכה התעשייתית נחשבת לפרק מרכזי בהיסטוריה האנושית, המשנה כלכלות וחברות."
+            },
+            {
+                "definition": "An episode or segment within the broader scope of an academic course or curriculum",
+                "definition_hebrew": "פרק או קטע בהיקף הרחב יותר של קורס או תכנית לימודים אקדמית",
+                "example": "In his biology class, each unit covered specific chapters on different animal species and their habitats.",
+                "example_hebrew": "בשיעור הביולוגיה שלו, כל יחידה סיקרה פרקים ספציפיים על מיני בעלי חיים שונים ובתי הגידול שלהם."
+            },
+            {
+                "definition": "A period in a person's life representing a significant developmental stage",
+                "definition_hebrew": "תקופה בחייו של אדם המייצגת שלב התפתחותי משמעותי",
+                "example": "The first chapter of her career involved learning the basics of our industry.",
+                "example_hebrew": "הפרק הראשון בקריירה שלה כלל לימוד היסודות של התעשייה שלנו."
+            }
+        ]
+    }
+]

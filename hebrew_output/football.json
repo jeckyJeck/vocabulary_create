@@ -1,0 +1,40 @@
+[
+    {
+        "word": "football",
+        "word_hebrew": "כדורגל",
+        "main_definition": "Football is a sport played between two teams, where the objective is to score goals by kicking or carrying a ball into an opposing team's net.",
+        "main_definition_hebrew": "כדורגל הוא ספורט המשוחק בין שתי קבוצות, כאשר המטרה היא להבקיע שערים על ידי בעיטה או נשיאת כדור לרשת של הקבוצה היריבה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A game involving a spherical object",
+                "definition_hebrew": "משחק הכולל חפץ כדורי",
+                "example": "In many countries like Brazil and Argentina, 'football' refers to the popular sport where teams compete by kicking a round ball into an opponent's goal.",
+                "example_hebrew": "במדינות רבות כמו ברזיל וארגנטינה, 'כדורגל' מתייחס לספורט הפופולרי שבו קבוצות מתחרות על ידי בעיטת כדור עגול לשער של היריב."
+            },
+            {
+                "definition": "The use of one foot while playing sports or games",
+                "definition_hebrew": "שימוש ברגל אחת בזמן ספורט או משחקים",
+                "example": "A soccer player prefers using his right foot for most of his goals, demonstrating the term 'football' as it relates to kicking with a single foot.",
+                "example_hebrew": "שחקן כדורגל מעדיף להשתמש ברגל ימין עבור רוב המטרות שלו, ומדגים את המונח 'כדורגל' כפי שהוא מתייחס לבעיטה ברגל בודדת."
+            },
+            {
+                "definition": "American football in other countries",
+                "definition_hebrew": "כדורגל אמריקאי במדינות אחרות",
+                "example": "In the UK and Australia, what Americans call 'football' is actually American football, which involves carrying or throwing an oval-shaped ball across the field into a goal area.",
+                "example_hebrew": "בבריטניה ובאוסטרליה, מה שהאמריקאים מכנים 'פוטבול' הוא למעשה כדורגל אמריקאי, הכולל נשיאה או זריקה של כדור בצורת אליפסה על פני המגרש לתוך אזור השער."
+            },
+            {
+                "definition": "A round object used as amusement in children",
+                "definition_hebrew": "חפץ עגול המשמש כשעשוע בילדים",
+                "example": "'Football' here refers to a small, inflated sphere that kids play with by kicking it back and forth between players, often using their feet but not necessarily aiming for goals.",
+                "example_hebrew": "'כדורגל' כאן מתייחס לכדור קטן ומנופח שילדים משחקים איתו על ידי בעיטה בו הלוך ושוב בין שחקנים, לעתים קרובות באמצעות רגליהם אך לא בהכרח מכוונים לשערים."
+            },
+            {
+                "definition": "The act of applying excessive force onto an object",
+                "definition_hebrew": "הפעולה של הפעלת כוח מופרז על חפץ",
+                "example": "'Football' in this context could be a metaprompt or a colloquial way to describe slamming one's foot down hard on something, like stubbing it.",
+                "example_hebrew": "'כדורגל' בהקשר זה יכול להיות מטאפפרומנט או דרך דיבורית לתאר הטחת רגל בחוזקה על משהו, כמו להדביק אותו."
+            }
+        ]
+    }
+]

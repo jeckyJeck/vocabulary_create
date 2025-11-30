@@ -1,0 +1,22 @@
+[
+    {
+        "word": "inf",
+        "word_hebrew": "אינפ",
+        "main_definition": "In the context of computing, an 'inf' is a shorthand representation of 'information node', which refers to a data structure that stores information or metadata.",
+        "main_definition_hebrew": "בהקשר של מחשוב, 'inf' הוא ייצוג קצר של 'צומת מידע', המתייחס למבנה נתונים המאחסן מידע או מטא נתונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A unit representing one thousandth (1/1000) in mathematics and computing",
+                "definition_hebrew": "יחידה המייצגת אלפית (1/1000) במתמטיקה ובמחשוב",
+                "example": "If you have 2 inf, it means you have 2 * 0.001 = 0.002",
+                "example_hebrew": "אם יש לך 2 אינפ, זה אומר שיש לך 2 * 0.001 = 0.002"
+            },
+            {
+                "definition": "A prefix or suffix used to denote 'information node' within metadata or data structures in computing",
+                "definition_hebrew": "קידומת או סיומת המשמשת לציון 'צומת מידע' בתוך מטא נתונים או מבני נתונים במחשוב",
+                "example": "In a DICOM file, the inf keyword may be used to represent specific information about an image such as patient name, study date, etc.",
+                "example_hebrew": "בקובץ DICOM, ניתן להשתמש במילת המפתח inf כדי לייצג מידע ספציפי על תמונה כגון שם המטופל, תאריך המחקר וכו'."
+            }
+        ]
+    }
+]

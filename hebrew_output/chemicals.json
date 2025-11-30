@@ -1,0 +1,34 @@
+[
+    {
+        "word": "chemicals",
+        "word_hebrew": "כימיקלים",
+        "main_definition": "Chemicals are substances with a distinct molecular composition that can undergo chemical changes.",
+        "main_definition_hebrew": "כימיקלים הם חומרים בעלי הרכב מולקולרי מובהק שיכולים לעבור שינויים כימיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Substances used in industrial processes and manufacturing",
+                "definition_hebrew": "חומרים המשמשים בתהליכים תעשייתיים וייצור",
+                "example": "The factory workers handle various chemicals to produce plastics.",
+                "example_hebrew": "עובדי המפעל מטפלים בכימיקלים שונים לייצור פלסטיק."
+            },
+            {
+                "definition": "Toys or games that are made from non-toxic materials for children's safety",
+                "definition_hebrew": "צעצועים או משחקים העשויים מחומרים לא רעילים למען בטיחות הילדים",
+                "example": "Many crayons marketed as 'chemical-free' are actually just regular wax crayons without harmful additives.",
+                "example_hebrew": "עפרונות רבים המשווקים כ'נטולי כימיקלים' הם למעשה רק עפרונות שעווה רגילים ללא תוספים מזיקים."
+            },
+            {
+                "definition": "To influence or affect someone emotionally, often in a negative way",
+                "definition_hebrew": "להשפיע או להשפיע על מישהו רגשית, לעתים קרובות בצורה שלילית",
+                "example": "His constant criticism was like chemicals corroding her self-esteem.",
+                "example_hebrew": "הביקורת המתמדת שלו הייתה כמו כימיקלים שפוגעים בהערכה העצמית שלה."
+            },
+            {
+                "definition": "A term used to describe secretive activities that have harmful effects on people's health or environment",
+                "definition_hebrew": "מונח המשמש לתיאור פעילויות סודיות שיש להן השפעות מזיקות על בריאותם או סביבתם של אנשים",
+                "example": "There are rumors of a company dumping waste, which could be considered chemical warfare against nature.",
+                "example_hebrew": "יש שמועות על חברה שמשליכה פסולת, מה שיכול להיחשב ללוחמה כימית נגד הטבע."
+            }
+        ]
+    }
+]

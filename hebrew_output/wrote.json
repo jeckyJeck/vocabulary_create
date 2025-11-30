@@ -1,0 +1,40 @@
+[
+    {
+        "word": "wrote",
+        "word_hebrew": "כתבתי",
+        "main_definition": "To create written or printed material using a writing instrument.",
+        "main_definition_hebrew": "ליצור חומר כתוב או מודפס באמצעות כלי כתיבה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Past tense of write, indicating the action of putting thoughts into written form.",
+                "definition_hebrew": "זמן עבר של כתיבה, המציין את פעולת הכנסת המחשבות לצורה כתובה.",
+                "example": "Yesterday, I wrote a letter to my friend.",
+                "example_hebrew": "אתמול כתבתי מכתב לחבר שלי."
+            },
+            {
+                "definition": "To record something in writing for future reference or remembrance.",
+                "definition_hebrew": "להקליט משהו בכתב לעיון או זיכרון עתידיים.",
+                "example": "She wrote down her grocery list before leaving the house.",
+                "example_hebrew": "היא רשמה את רשימת המכולת שלה לפני שיצאה מהבית."
+            },
+            {
+                "definition": "Expressing one's opinion through written words, often in a formal manner such as an article or essay.",
+                "definition_hebrew": "הבעת דעתו באמצעות מילים כתובות, לעתים קרובות בצורה פורמלית כגון מאמר או חיבור.",
+                "example": "The author wrote a compelling argument against deforestation.",
+                "example_hebrew": "המחבר כתב טיעון משכנע נגד כריתת יערות."
+            },
+            {
+                "definition": "To compose music by translating it into musical notation.",
+                "definition_hebrew": "להלחין מוזיקה על ידי תרגומה לתווים מוזיקליים.",
+                "example": "Beethoven was renowned for his skill in writing symphonies and sonatas.",
+                "example_hebrew": "בטהובן נודע במיומנותו בכתיבת סימפוניות וסונטות."
+            },
+            {
+                "definition": "In the context of computer programming, to write source code that creates a functioning program or script.",
+                "definition_hebrew": "בהקשר של תכנות מחשב, לכתוב קוד מקור שיוצר תוכנה או סקריפט מתפקדים.",
+                "example": "She spent hours writing the code necessary to complete her project.",
+                "example_hebrew": "היא השקיעה שעות בכתיבת הקוד הדרוש להשלמת הפרויקט שלה."
+            }
+        ]
+    }
+]

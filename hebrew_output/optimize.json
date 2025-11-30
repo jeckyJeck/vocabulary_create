@@ -1,0 +1,34 @@
+[
+    {
+        "word": "optimize",
+        "word_hebrew": "לייעל",
+        "main_definition": "To make the best or most effective use of a situation, opportunity, or resource.",
+        "main_definition_hebrew": "לעשות שימוש מיטבי או יעיל ביותר במצב, הזדמנות או משאב.",
+        "meanings_and_examples": [
+            {
+                "definition": "Improving efficiency and performance in an existing system or process.",
+                "definition_hebrew": "שיפור היעילות והביצועים במערכת או בתהליך קיים.",
+                "example": "The company optimized its production line to increase output while reducing waste.",
+                "example_hebrew": "החברה עשתה אופטימיזציה לקו הייצור שלה כדי להגדיל את התפוקה תוך הפחתת הפסולת."
+            },
+            {
+                "definition": "Enhancing a product, service, or design for better functionality or user experience.",
+                "definition_hebrew": "שיפור מוצר, שירות או עיצוב לשיפור הפונקציונליות או חווית המשתמש.",
+                "example": "The website was optimized for mobile viewing, improving accessibility and usability on smartphones.",
+                "example_hebrew": "האתר מותאם לצפייה במובייל, שיפור הנגישות והשימושיות בסמארטפונים."
+            },
+            {
+                "definition": "Maximizing the effectiveness of resources such as time, money, or materials.",
+                "definition_hebrew": "מקסום את האפקטיביות של משאבים כגון זמן, כסף או חומרים.",
+                "example": "She optimized her schedule by prioritizing tasks based on their importance and urgency.",
+                "example_hebrew": "היא עשתה אופטימיזציה של לוח הזמנים שלה על ידי תעדוף משימות על סמך חשיבותן ודחיפותן."
+            },
+            {
+                "definition": "Finding the best possible outcome from a set of choices or alternatives.",
+                "definition_hebrew": "מציאת התוצאה הטובה ביותר האפשרית ממערכת של אפשרויות או חלופות.",
+                "example": "The financial advisor helped him optimize his investment portfolio to achieve maximum returns with minimal risk.",
+                "example_hebrew": "היועץ הפיננסי עזר לו לייעל את תיק ההשקעות שלו כדי להשיג תשואה מקסימלית במינימום סיכון."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "era",
+        "word_hebrew": "תְקוּפָה",
+        "main_definition": "An era is a significant period in history or a person's life, characterized by notable events or conditions.",
+        "main_definition_hebrew": "עידן הוא תקופה משמעותית בהיסטוריה או בחייו של אדם, המאופיינת באירועים או תנאים בולטים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A historical period marked by distinctive features or events.",
+                "definition_hebrew": "תקופה היסטורית המסומנת במאפיינים או אירועים ייחודיים.",
+                "example": "The Renaissance was an era of cultural rebirth and artistic achievements in Europe.",
+                "example_hebrew": "הרנסנס היה עידן של לידה מחדש תרבותית והישגים אמנותיים באירופה."
+            },
+            {
+                "definition": "Geological time division indicating a span between major changes in Earth's history.",
+                "definition_hebrew": "חלוקת זמן גיאולוגית המציינת טווח בין שינויים גדולים בהיסטוריה של כדור הארץ.",
+                "example": "The Mesozoic Era, often called the Age of Dinosaurs, spanned from 252 to 66 million years ago.",
+                "example_hebrew": "עידן המזוזואיקון, המכונה לעתים קרובות עידן הדינוזאורים, השתרע בין 252 ל-66 מיליון שנים."
+            },
+            {
+                "definition": "An age or period during a person's life marked by specific experiences and personal growth.",
+                "definition_hebrew": "גיל או תקופה במהלך חייו של אדם המסומנים בחוויות ספציפיות ובצמיחה אישית.",
+                "example": "During his teenage era, John struggled with identity issues but eventually found his passion for music.",
+                "example_hebrew": "בתקופת העשרה שלו, ג'ון נאבק בבעיות זהות, אך בסופו של דבר מצא את התשוקה שלו למוזיקה."
+            }
+        ]
+    }
+]

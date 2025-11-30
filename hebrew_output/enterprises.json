@@ -1,0 +1,34 @@
+[
+    {
+        "word": "enterprises",
+        "word_hebrew": "מפעלים",
+        "main_definition": "Enterprises refer to businesses, organizations or ventures involved in commercial, industrial or professional activities aimed at generating profit.",
+        "main_definition_hebrew": "מפעלים מתייחסים לעסקים, ארגונים או מיזמים המעורבים בפעילויות מסחריות, תעשייתיות או מקצועיות שמטרתן לייצר רווח.",
+        "meanings_and_examples": [
+            {
+                "definition": "Businesses engaged in manufacturing and selling goods",
+                "definition_hebrew": "עסקים העוסקים בייצור ומכירת סחורות",
+                "example": "The automotive enterprises such as Ford and Toyota produce cars for the market.",
+                "example_hebrew": "מפעלי הרכב כמו פורד וטויוטה מייצרים מכוניות לשוק."
+            },
+            {
+                "definition": "Companies involved in providing services rather than products",
+                "definition_hebrew": "חברות העוסקות במתן שירותים ולא במוצרים",
+                "example": "Enterprises like Google provide online search services, while law firms offer legal consulting.",
+                "example_hebrew": "ארגונים כמו גוגל מספקים שירותי חיפוש מקוונים, בעוד שמשרדי עורכי דין מציעים ייעוץ משפטי."
+            },
+            {
+                "definition": "Entrepreneurial ventures or startups aimed at creating and growing new businesses",
+                "definition_hebrew": "מיזמים או סטארטאפים יזמיים שמטרתם ליצור ולהצמיח עסקים חדשים",
+                "example": "A group of entrepreneurs may establish a tech startup focused on developing innovative software solutions.",
+                "example_hebrew": "קבוצת יזמים עשויה להקים סטארטאפ טכנולוגי המתמקד בפיתוח פתרונות תוכנה חדשניים."
+            },
+            {
+                "definition": "Non-profit organizations that are involved in social enterprise activities",
+                "definition_hebrew": "ארגונים ללא מטרות רווח העוסקים בפעילות מיזמים חברתיים",
+                "example": "Enterprises like TOMS Shoes operate under the model of providing shoes to underserved communities while also making a profit.",
+                "example_hebrew": "ארגונים כמו TOMS Shoes פועלים תחת המודל של אספקת נעליים לקהילות מוחלשות תוך שהם מרוויחים."
+            }
+        ]
+    }
+]

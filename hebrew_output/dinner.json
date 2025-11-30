@@ -1,0 +1,34 @@
+[
+    {
+        "word": "dinner",
+        "word_hebrew": "אֲרוּחַת עֶרֶב",
+        "main_definition": "Dinner is a meal typically eaten in the evening, often considered the main or most significant daily meal.",
+        "main_definition_hebrew": "ארוחת ערב היא ארוחה הנאכלת בדרך כלל בערב, הנחשבת לרוב לארוחה היומית העיקרית או המשמעותית ביותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "A formal evening meal",
+                "definition_hebrew": "ארוחת ערב רשמית",
+                "example": "We had a fancy dinner at Le Gourmet restaurant last night.",
+                "example_hebrew": "אכלנו ארוחת ערב מפוארת במסעדת לה גורמה אתמול בערב."
+            },
+            {
+                "definition": "The main course of the day's meals",
+                "definition_hebrew": "המנה העיקרית של ארוחות היום",
+                "example": "Dinner is usually lighter than breakfast or brunch but heavier than lunch.",
+                "example_hebrew": "ארוחת הערב בדרך כלל קלה יותר מארוחת בוקר או בראנץ' אבל כבדה יותר מארוחת צהריים."
+            },
+            {
+                "definition": "A scheduled event for discussion, entertainment, etc.",
+                "definition_hebrew": "אירוע מתוכנן לדיון, בידור וכו'.",
+                "example": "She hosts a monthly dinner with her book club members to discuss the latest read.",
+                "example_hebrew": "היא מארחת ארוחת ערב חודשית עם חברי מועדון הספרים שלה כדי לדון בקריאה האחרונה."
+            },
+            {
+                "definition": "The evening meal in military jargon",
+                "definition_hebrew": "ארוחת הערב בעגה הצבאית",
+                "example": "At 1800 hours (6:00 PM), soldiers line up for their daily duty, mess, and dinner roll call.",
+                "example_hebrew": "בשעה 18:00 (18:00 בערב), חיילים עומדים בתור לתפקידם היומי, הבלגן ומפקד ארוחת הערב."
+            }
+        ]
+    }
+]

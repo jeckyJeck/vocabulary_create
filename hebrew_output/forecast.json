@@ -1,0 +1,40 @@
+[
+    {
+        "word": "forecast",
+        "word_hebrew": "תַחֲזִית",
+        "main_definition": "To predict or estimate a future event, trend, or condition based on available data and analysis.",
+        "main_definition_hebrew": "לחזות או להעריך אירוע, מגמה או מצב עתידיים על סמך נתונים וניתוח זמינים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Predicting the weather conditions for a specific time period",
+                "definition_hebrew": "חיזוי תנאי מזג האוויר לתקופת זמן מסוימת",
+                "example": "The meteorologist forecasted rain in the afternoon.",
+                "example_hebrew": "המטאורולוג חזה גשם אחר הצהריים."
+            },
+            {
+                "definition": "Estimating financial outcomes based on market trends and economic indicators",
+                "definition_hebrew": "הערכת תוצאות פיננסיות על סמך מגמות שוק ואינדיקטורים כלכליים",
+                "example": "Financial analysts forecast the company's earnings for the next quarter.",
+                "example_hebrew": "אנליסטים פיננסיים חזו את רווחי החברה לרבעון הבא."
+            },
+            {
+                "definition": "Projecting future events or developments in a particular field or area of study",
+                "definition_hebrew": "הקרנת אירועים או התפתחויות עתידיות בתחום מסוים או תחום לימוד",
+                "example": "The researchers provided a forecast on the impact of climate change on biodiversity.",
+                "example_hebrew": "החוקרים סיפקו תחזית לגבי השפעת שינויי האקלים על המגוון הביולוגי."
+            },
+            {
+                "definition": "Estimating traffic conditions and congestion for planning travel routes",
+                "definition_hebrew": "הערכת תנאי תנועה ועומס לתכנון מסלולי נסיעה",
+                "example": "The traffic department issued a forecast about heavy traffic during rush hour.",
+                "example_hebrew": "אגף התנועה פרסם תחזית על עומסי תנועה כבדים בשעות העומס."
+            },
+            {
+                "definition": "Predicting potential outcomes in sports, games or competitions based on player performance and statistics",
+                "definition_hebrew": "חיזוי תוצאות פוטנציאליות בספורט, במשחקים או בתחרויות על סמך ביצועי שחקנים וסטטיסטיקות",
+                "example": "The coach made a betting forecast for the upcoming football match.",
+                "example_hebrew": "המאמן ערך תחזית הימורים למשחק הכדורגל הקרוב."
+            }
+        ]
+    }
+]

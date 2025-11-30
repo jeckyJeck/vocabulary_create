@@ -1,0 +1,28 @@
+[
+    {
+        "word": "cod",
+        "word_hebrew": "בַּקָלָה",
+        "main_definition": "The term 'cod' can refer to a type of fish, an informal slang term indicating insincere behavior or speech, and an abbreviation used in computing and programming.",
+        "main_definition_hebrew": "המונח 'קוד' יכול להתייחס לסוג של דג, מונח סלנג לא רשמי המציין התנהגות או דיבור לא כנה, וקיצור המשמש במחשוב ובתכנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A type of fish",
+                "definition_hebrew": "סוג של דג",
+                "example": "I caught a fresh codfish while fishing at the lake.",
+                "example_hebrew": "תפסתי דג בקלה טרי בזמן דיג באגם."
+            },
+            {
+                "definition": "Informal slang term for insincere or false behavior",
+                "definition_hebrew": "מונח סלנג לא פורמלי להתנהגות לא כנה או שקרית",
+                "example": "His 'cod' smile didn't fool me; I could tell he was lying.",
+                "example_hebrew": "חיוך ה'בקלה' שלו לא הטעה אותי; יכולתי לראות שהוא משקר."
+            },
+            {
+                "definition": "An abbreviation used in computing and programming",
+                "definition_hebrew": "קיצור המשמש במחשוב ובתכנות",
+                "example": "The output of the program was stored in the variable named 'cod'.",
+                "example_hebrew": "הפלט של התוכנית נשמר במשתנה בשם 'קוד'."
+            }
+        ]
+    }
+]

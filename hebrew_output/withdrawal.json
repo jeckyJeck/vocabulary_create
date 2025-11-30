@@ -1,0 +1,34 @@
+[
+    {
+        "word": "withdrawal",
+        "word_hebrew": "נְסִיגָה",
+        "main_definition": "Withdrawal refers to the act of removing or taking back something, or experiencing discomfort after reducing or stopping an activity, substance, or habit.",
+        "main_definition_hebrew": "נסיגה מתייחסת לפעולה של הסרה או החזרה של משהו, או תחושת אי נוחות לאחר צמצום או הפסקה של פעילות, חומר או הרגל.",
+        "meanings_and_examples": [
+            {
+                "definition": "The action of pulling out money from a bank account",
+                "definition_hebrew": "פעולת שליפת כסף מחשבון בנק",
+                "example": "I had to withdraw $100 from the ATM before my trip.",
+                "example_hebrew": "הייתי צריך למשוך $100 מהכספומט לפני הנסיעה שלי."
+            },
+            {
+                "definition": "Feeling discomfort, such as physical symptoms or emotional distress after stopping an activity or substance intake",
+                "definition_hebrew": "תחושת אי נוחות, כגון תסמינים פיזיים או מצוקה רגשית לאחר הפסקת פעילות או צריכת חומרים",
+                "example": "After quitting smoking, he experienced severe cravings and withdrawal symptoms like irritability and difficulty sleeping.",
+                "example_hebrew": "לאחר הפסקת העישון, הוא חווה תשוקות קשות ותסמיני גמילה כמו עצבנות וקשיי שינה."
+            },
+            {
+                "definition": "Removing troops from a foreign country during military operations",
+                "definition_hebrew": "הוצאת חיילים ממדינה זרה במהלך פעולות צבאיות",
+                "example": "The government decided to withdraw its soldiers from the conflict zone as part of peace negotiations.",
+                "example_hebrew": "הממשלה החליטה להוציא את חייליה מאזור הסכסוך במסגרת משא ומתן לשלום."
+            },
+            {
+                "definition": "Reduction or elimination in demand for goods and services due to various factors",
+                "definition_hebrew": "צמצום או ביטול הביקוש לסחורות ושירותים עקב גורמים שונים",
+                "example": "The economic recession led to a significant withdrawal of investments by businesses, leading to job losses and financial struggles.",
+                "example_hebrew": "המיתון הכלכלי הוביל למשיכה משמעותית של השקעות של עסקים, מה שהוביל לאובדן מקומות עבודה ולמאבקים פיננסיים."
+            }
+        ]
+    }
+]

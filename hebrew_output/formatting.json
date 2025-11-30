@@ -1,0 +1,40 @@
+[
+    {
+        "word": "formatting",
+        "word_hebrew": "עיצוב",
+        "main_definition": "The process of arranging text, data or information in a particular way to make it more organized and readable.",
+        "main_definition_hebrew": "תהליך של סידור טקסט, נתונים או מידע בצורה מסוימת כדי להפוך אותו למאורגן וקריא יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Adjusting the layout and appearance of documents using styles and settings.",
+                "definition_hebrew": "התאמת הפריסה והמראה של מסמכים באמצעות סגנונות והגדרות.",
+                "example": "Before printing an essay, I formatted the document by adjusting font size, line spacing, and margins.",
+                "example_hebrew": "לפני הדפסת חיבור, עיצבתי את המסמך על ידי התאמת גודל הגופן, מרווח השורות והשוליים."
+            },
+            {
+                "definition": "Changing data types to make it suitable for processing or storage in a computer system.",
+                "definition_hebrew": "שינוי סוגי נתונים כדי להתאים אותם לעיבוד או אחסון במערכת מחשב.",
+                "example": "When importing files into Excel, formatting included converting date strings into proper dates for calculations.",
+                "example_hebrew": "בעת ייבוא קבצים לאקסל, העיצוב כלל המרת מחרוזות תאריכים לתאריכים מתאימים לחישובים."
+            },
+            {
+                "definition": "Setting up and preparing text by applying different styles like bold, italic, underline, etc., to enhance readability.",
+                "definition_hebrew": "הגדרה והכנת טקסט על ידי החלת סגנונות שונים כמו מודגש, נטוי, קו תחתון וכו', כדי לשפר את הקריאה.",
+                "example": "I formatted the title of my research paper as uppercase and highlighted key words using bold type.",
+                "example_hebrew": "עיצבתי את הכותרת של עבודת המחקר שלי באותיות רישיות והדגשתי מילות מפתח באמצעות אותיות מודגשות."
+            },
+            {
+                "definition": "Organizing information in a structured format such as tables, lists, or bullet points for easier understanding.",
+                "definition_hebrew": "ארגון מידע בפורמט מובנה כגון טבלאות, רשימות או תבליטים להבנה קלה יותר.",
+                "example": "The presentation had several slides that were formatted with bullet points to break down complex data into digestible chunks.",
+                "example_hebrew": "במצגת היו כמה שקפים שעוצבו עם נקודות תבליטים כדי לפרק נתונים מורכבים לגושים ניתנים לעיכול."
+            },
+            {
+                "definition": "Creating visual appeal and consistency in design by applying a consistent style guide across documents or content.",
+                "definition_hebrew": "יצירת משיכה ויזואלית ועקביות בעיצוב על ידי יישום מדריך סגנון עקבי על פני מסמכים או תוכן.",
+                "example": "Our company uses a specific formatting template for all official correspondence, ensuring uniformity in appearance.",
+                "example_hebrew": "החברה שלנו משתמשת בתבנית עיצוב ספציפית לכל התכתובת הרשמית, מה שמבטיח אחידות במראה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "country",
+        "word_hebrew": "מדינה",
+        "main_definition": "A country is a distinct geographical area with its own government, boundaries, and culture.",
+        "main_definition_hebrew": "מדינה היא אזור גיאוגרפי מובהק עם ממשלה, גבולות ותרבות משלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Nation or state",
+                "definition_hebrew": "אומה או מדינה",
+                "example": "The United States of America is a large nation composed of 50 states.",
+                "example_hebrew": "ארצות הברית של אמריקה היא מדינה גדולה המורכבת מ-50 מדינות."
+            },
+            {
+                "definition": "A geographical area that has its own government and boundaries",
+                "definition_hebrew": "אזור גיאוגרפי שיש לו ממשלה וגבולות משלו",
+                "example": "India, with its diverse cultures and languages, is a country bordered by Pakistan to the west and Bangladesh to the east.",
+                "example_hebrew": "הודו, על התרבויות והשפות המגוונות שלה, היא מדינה הגובלת בפקיסטן במערב ובנגלדש במזרח."
+            },
+            {
+                "definition": "A specific region within a larger state or nation",
+                "definition_hebrew": "אזור ספציפי בתוך מדינה או אומה גדולה יותר",
+                "example": "Scotland is a constituent country of the United Kingdom, with its own distinct culture, language (Gaelic), and legal system.",
+                "example_hebrew": "סקוטלנד היא מדינה המכוננת של הממלכה המאוחדת, עם תרבות, שפה (גאלית) ומערכת משפטית נפרדים משלה."
+            },
+            {
+                "definition": "A non-sovereign territory",
+                "definition_hebrew": "טריטוריה לא ריבונית",
+                "example": "Greenland is an autonomous constituent country within the Danish Realm but does not have full sovereignty or its own independent government.",
+                "example_hebrew": "גרינלנד היא מדינה מכוננת אוטונומית בתוך הממלכה הדנית אך אין לה ריבונות מלאה או ממשלה עצמאית משלה."
+            }
+        ]
+    }
+]

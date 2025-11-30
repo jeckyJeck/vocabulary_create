@@ -1,0 +1,34 @@
+[
+    {
+        "word": "editors",
+        "word_hebrew": "עורכים",
+        "main_definition": "Editors are individuals who oversee the content creation, editing, or publication process in various fields such as publishing, media, or software development.",
+        "main_definition_hebrew": "עורכים הם אנשים המפקחים על תהליך יצירת התוכן, העריכה או הפרסום בתחומים שונים כגון הוצאה לאור, מדיה או פיתוח תוכנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "People responsible for preparing written material (articles) for print, broadcast, or digital dissemination",
+                "definition_hebrew": "אנשים האחראים על הכנת חומר כתוב (מאמרים) לדפוס, לשידור או להפצה דיגיטלית",
+                "example": "In the magazine industry, editors review and revise articles before they are published.",
+                "example_hebrew": "בתעשיית המגזינים עורכים סוקרים ומעדכנים מאמרים לפני פרסומם."
+            },
+            {
+                "definition": "Individuals who manage and curate content on a website or social media platform",
+                "definition_hebrew": "אנשים שמנהלים ואוצרים תוכן באתר אינטרנט או בפלטפורמת מדיה חברתית",
+                "example": "Social media managers often double as content editors to ensure posts meet the platform's standards and guidelines.",
+                "example_hebrew": "מנהלי מדיה חברתית משמשים לעתים קרובות כעורכי תוכן כדי להבטיח שהפוסטים עומדים בסטנדרטים ובהנחיות של הפלטפורמה."
+            },
+            {
+                "definition": "Members of a group responsible for reviewing, revising, and approving written work in academic or research contexts",
+                "definition_hebrew": "חברי קבוצה האחראים לסקירה, תיקון ואישור עבודה כתובה בהקשרים אקדמיים או מחקריים",
+                "example": "In academia, journal editors select papers for publication after peer-review processes are completed.",
+                "example_hebrew": "באקדמיה, עורכי כתבי עת בוחרים מאמרים לפרסום לאחר השלמת תהליכי ביקורת עמיתים."
+            },
+            {
+                "definition": "Software developers who create tools to automate the editing of digital content such as text, images, and videos",
+                "definition_hebrew": "מפתחי תוכנה היוצרים כלים לאוטומציה של עריכת תוכן דיגיטלי כגון טקסט, תמונות וסרטונים",
+                "example": "A software editor helps photographers apply filters and corrections directly onto their photos.",
+                "example_hebrew": "עורך תוכנה עוזר לצלמים להחיל פילטרים ותיקונים ישירות על התמונות שלהם."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "composer",
+        "word_hebrew": "מַלחִין",
+        "main_definition": "A composer is a person who writes music, specifically the creator of musical pieces such as songs, symphonies, or operas.",
+        "main_definition_hebrew": "מלחין הוא אדם שכותב מוזיקה, במיוחד היוצר של יצירות מוזיקליות כמו שירים, סימפוניות או אופרות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In general usage, a composer refers to someone who creates any type of composition, not limited to music. For example, this can include authors creating literary works like novels and poems.",
+                "definition_hebrew": "בשימוש כללי, מלחין מתייחס למישהו שיוצר כל סוג של קומפוזיציה, לא מוגבל למוזיקה. לדוגמה, זה יכול לכלול מחברים היוצרים יצירות ספרותיות כמו רומנים ושירים.",
+                "example": "William Shakespeare is known as the 'composer' of plays.",
+                "example_hebrew": "ויליאם שייקספיר ידוע בתור 'מלחין' המחזות."
+            },
+            {
+                "definition": "In a specific context within software development or digital media creation, a composer may refer to someone who creates visual compositions using graphical design tools. This might involve arranging images and text on a page.",
+                "definition_hebrew": "בהקשר ספציפי בפיתוח תוכנה או יצירת מדיה דיגיטלית, מלחין עשוי להתייחס למישהו שיוצר קומפוזיציות ויזואליות באמצעות כלי עיצוב גרפי. זה עשוי לכלול סידור תמונות וטקסט בדף.",
+                "example": "A web designer used various design elements to compose an appealing layout for the company's website.",
+                "example_hebrew": "מעצב אתרים השתמש באלמנטים עיצוביים שונים כדי ליצור פריסה מושכת לאתר החברה."
+            },
+            {
+                "definition": "In film or television production, a composer is responsible for creating original music that accompanies the visual medium. This can include scores and soundtracks.",
+                "definition_hebrew": "בהפקת קולנוע או טלוויזיה, מלחין אחראי ליצירת מוזיקה מקורית המלווה את המדיום החזותי. זה יכול לכלול תווים ופסקול.",
+                "example": "John Williams composed the iconic musical score for the 'Star Wars' movies.",
+                "example_hebrew": "ג'ון וויליאמס הלחין את הפרטיטורה המוזיקלית האיקונית לסרטי 'מלחמת הכוכבים'."
+            },
+            {
+                "definition": "In software development related to audio or multimedia applications, a composer could be someone who creates scripts or code that handles the composition of digital sounds and music.",
+                "definition_hebrew": "בפיתוח תוכנה הקשור ליישומי אודיו או מולטימדיה, מלחין יכול להיות מישהו שיוצר סקריפטים או קוד המטפל בהרכב של צלילים דיגיטליים ומוזיקה.",
+                "example": "The developer composed custom scripting to manage sound sequences in an interactive media application.",
+                "example_hebrew": "המפתח חיבר סקריפטים מותאם אישית לניהול רצפי סאונד באפליקציית מדיה אינטראקטיבית."
+            }
+        ]
+    }
+]

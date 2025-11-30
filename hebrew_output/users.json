@@ -1,0 +1,34 @@
+[
+    {
+        "word": "users",
+        "word_hebrew": "משתמשים",
+        "main_definition": "Users refers to individuals who utilize or operate a particular system, service, software, or device.",
+        "main_definition_hebrew": "משתמשים מתייחסים לאנשים שמשתמשים או מפעילים מערכת, שירות, תוכנה או מכשיר מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "People who use a specific computer program or application",
+                "definition_hebrew": "אנשים שמשתמשים בתוכנת מחשב או יישום ספציפי",
+                "example": "The users of the new social media platform were able to connect with friends and family easily.",
+                "example_hebrew": "המשתמשים בפלטפורמת המדיה החברתית החדשה הצליחו להתחבר בקלות לחברים ובני משפחה."
+            },
+            {
+                "definition": "Individuals who utilize online services, such as websites, apps, or cloud platforms",
+                "definition_hebrew": "אנשים המשתמשים בשירותים מקוונים, כגון אתרים, אפליקציות או פלטפורמות ענן",
+                "example": "E-commerce businesses rely on their customers' active use of the website for sales and feedback.",
+                "example_hebrew": "עסקי מסחר אלקטרוני מסתמכים על השימוש הפעיל של לקוחותיהם באתר לצורך מכירות ומשוב."
+            },
+            {
+                "definition": "Members of a specific community, group, or audience that engage with content, events, or products",
+                "definition_hebrew": "חברים בקהילה, קבוצה או קהל ספציפיים שעוסקים בתוכן, באירועים או במוצרים",
+                "example": "The users of our online forum are passionate about environmental conservation and often participate in related discussions.",
+                "example_hebrew": "המשתמשים בפורום המקוון שלנו נלהבים משימור הסביבה ולעתים קרובות משתתפים בדיונים בנושא."
+            },
+            {
+                "definition": "Individuals who have access to a particular database, system, or network for data processing or information retrieval",
+                "definition_hebrew": "אנשים שיש להם גישה למסד נתונים, מערכת או רשת מסוימים לצורך עיבוד נתונים או אחזור מידע",
+                "example": "Database administrators ensure the smooth operation of users accessing and managing company records.",
+                "example_hebrew": "מנהלי מסדי נתונים מבטיחים פעולה חלקה של משתמשים הניגשים ומנהלים את רשומות החברה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "dynamics",
+        "word_hebrew": "דִינָמִיקָה",
+        "main_definition": "Dynamics refers to the forces or factors that influence change, movement, or interaction between entities in various contexts.",
+        "main_definition_hebrew": "דינמיקה מתייחסת לכוחות או לגורמים המשפיעים על שינוי, תנועה או אינטראקציה בין ישויות בהקשרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The study of motion and the forces affecting it in physics",
+                "definition_hebrew": "חקר התנועה והכוחות המשפיעים עליה בפיזיקה",
+                "example": "When learning about dynamics in a physics class, students might calculate how much force is needed to move an object.",
+                "example_hebrew": "כאשר לומדים על דינמיקה בשיעור פיזיקה, התלמידים עשויים לחשב כמה כוח נדרש כדי להזיז עצם."
+            },
+            {
+                "definition": "Changes or patterns over time within systems or processes",
+                "definition_hebrew": "שינויים או דפוסים לאורך זמן בתוך מערכות או תהליכים",
+                "example": "In economics, studying the market dynamics helps understand shifts in supply and demand.",
+                "example_hebrew": "בכלכלה, לימוד דינמיקת השוק עוזר להבין שינויים בהיצע ובביקוש."
+            },
+            {
+                "definition": "The relationship between different elements that affect each other's behavior",
+                "definition_hebrew": "הקשר בין אלמנטים שונים המשפיעים זה על התנהגותו של זה",
+                "example": "Understanding musical dynamics is important for a musician to express emotions through volume changes in their performance.",
+                "example_hebrew": "הבנת הדינמיקה המוזיקלית חשובה למוזיקאי כדי להביע רגשות באמצעות שינויים בווליום בביצועים."
+            },
+            {
+                "definition": "Forces at play within social or organizational contexts that drive change",
+                "definition_hebrew": "כוחות הפועלים בהקשרים חברתיים או ארגוניים המניעים שינוי",
+                "example": "A company may analyze market dynamics and internal dynamics to strategize new business directions.",
+                "example_hebrew": "חברה עשויה לנתח דינמיקה של שוק ודינמיקה פנימית כדי ליצור אסטרטגיה של כיוונים עסקיים חדשים."
+            }
+        ]
+    }
+]

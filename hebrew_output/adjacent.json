@@ -1,0 +1,34 @@
+[
+    {
+        "word": "adjacent",
+        "word_hebrew": "סמוך",
+        "main_definition": "Pertaining to, or situated near; adjoining.",
+        "main_definition_hebrew": "הנוגע, או ממוקם ליד; צמודים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Adjacent in a spatial sense - next to something else in physical space.",
+                "definition_hebrew": "צמוד במובן מרחבי - ליד משהו אחר במרחב הפיזי.",
+                "example": "The two houses are adjacent to each other, sharing a wall.",
+                "example_hebrew": "שני הבתים צמודים זה לזה, חולקים קיר."
+            },
+            {
+                "definition": "In mathematics and geometry, two points or shapes that share a common boundary line are considered adjacent.",
+                "definition_hebrew": "במתמטיקה ובגיאומטריה, שתי נקודות או צורות שחולקות קו גבול משותף נחשבות סמוכות.",
+                "example": "A square is formed by four adjacent equilateral triangles at its corners.",
+                "example_hebrew": "ריבוע נוצר על ידי ארבעה משולשים שווי צלעות סמוכים בפינותיו."
+            },
+            {
+                "definition": "Adjacent in time - occurring immediately before or after something else without any intervening period.",
+                "definition_hebrew": "צמוד בזמן - מתרחש מיד לפני או אחרי משהו אחר ללא כל תקופת ביניים.",
+                "example": "The sunset was so beautiful that I wished the entire evening could be adjacently perfect, with nothing to interrupt our peaceful conversation.",
+                "example_hebrew": "השקיעה הייתה כל כך יפה שהלוואי שהערב כולו יכול להיות מושלם לצד זה, בלי שום דבר שיפריע לשיחה השלווה שלנו."
+            },
+            {
+                "definition": "Adjacent in rank - directly related or following each other in a sequence without any intervening items.",
+                "definition_hebrew": "סמוכים בדרגה - קשורים ישירות או עוקבים זה אחר זה ברצף ללא פריטים מתערבים.",
+                "example": "In her resume, she listed adjacent degrees earned from the same university: Bachelor's and Master's.",
+                "example_hebrew": "בקורות החיים שלה, היא פירטה תארים סמוכים שנצברו מאותה אוניברסיטה: תואר ראשון ושני."
+            }
+        ]
+    }
+]

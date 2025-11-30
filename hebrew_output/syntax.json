@@ -1,0 +1,28 @@
+[
+    {
+        "word": "syntax",
+        "word_hebrew": "תחביר",
+        "main_definition": "Syntax refers to the set of rules that dictate the structure of sentences in a language, including word order and punctuation.",
+        "main_definition_hebrew": "תחביר מתייחס למערכת הכללים המכתיבים את מבנה המשפטים בשפה, כולל סדר מילים וסימני פיסוק.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computer programming, syntax pertains to the rules governing the sequence of characters or symbols used to write programs and commands.",
+                "definition_hebrew": "בתכנות מחשבים, התחביר נוגע לכללים המסדירים את רצף התווים או הסמלים המשמשים לכתיבת תוכניות ופקודות.",
+                "example": "The Python `print()` function must be written as 'print()' with parentheses enclosing its arguments.",
+                "example_hebrew": "הפונקציה 'print()' של Python חייבת להיכתב כ-'print()' עם סוגריים המקיפים את הארגומנטים שלה."
+            },
+            {
+                "definition": "In linguistics, syntax is concerned with how words combine to form phrases, clauses, and sentences according to specific rules.",
+                "definition_hebrew": "בבלשנות, התחביר עוסק באופן שבו מילים משתלבות ליצירת ביטויים, סעיפים ומשפטים לפי כללים ספציפיים.",
+                "example": "In English, the basic word order for a declarative sentence is subject-verb-object (SVO): 'The cat (subject) chased (verb) the mouse (object).'",
+                "example_hebrew": "באנגלית, סדר המילים הבסיסי למשפט הצהרתי הוא נושא-פועל-אובייקט (SVO): 'החתול (הנושא) רדף (פועל) את העכבר (אובייקט).'"
+            },
+            {
+                "definition": "In music theory, syntax refers to the arrangement of musical elements such as melody, harmony, and rhythm within a composition.",
+                "definition_hebrew": "בתורת המוזיקה, תחביר מתייחס לסידור של אלמנטים מוזיקליים כמו מנגינה, הרמוניה וקצב בתוך הרכב.",
+                "example": "A symphony's opening phrase sets the 'syntax' or structure for the development that follows.",
+                "example_hebrew": "ביטוי הפתיחה של סימפוניה קובע את ה'תחביר' או המבנה להתפתחות שאחריה."
+            }
+        ]
+    }
+]

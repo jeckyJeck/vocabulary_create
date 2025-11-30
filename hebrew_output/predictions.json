@@ -1,0 +1,34 @@
+[
+    {
+        "word": "predictions",
+        "word_hebrew": "תחזיות",
+        "main_definition": "Predictions are statements about what will happen in the future based on current information, observation, or analysis.",
+        "main_definition_hebrew": "תחזיות הן הצהרות לגבי מה שיקרה בעתיד בהתבסס על מידע עדכני, תצפית או ניתוח.",
+        "meanings_and_examples": [
+            {
+                "definition": "Forecasts of future events or trends",
+                "definition_hebrew": "תחזיות של אירועים או מגמות עתידיות",
+                "example": "The meteorologist's predictions indicated heavy rain and possible flooding in the area.",
+                "example_hebrew": "תחזיותיו של המטאורולוג הצביעו על גשם כבד והצפות אפשריות באזור."
+            },
+            {
+                "definition": "Estimates made before an event occurs, based on information available at that time",
+                "definition_hebrew": "הערכות שנעשו לפני התרחשות אירוע, בהתבסס על מידע זמין באותו זמן",
+                "example": "Political analysts have predicted a shift in power after recent elections.",
+                "example_hebrew": "אנליסטים פוליטיים חזו שינוי בכוח לאחר הבחירות האחרונות."
+            },
+            {
+                "definition": "Prophecies or foretelling by individuals claiming to predict future events using supernatural means",
+                "definition_hebrew": "נבואות או ניבוי של יחידים הטוענים לחזות אירועים עתידיים תוך שימוש באמצעים על טבעיים",
+                "example": "The oracle's predictions were sought by the citizens before making important decisions.",
+                "example_hebrew": "את התחזיות של האורקל חיפשו האזרחים לפני קבלת החלטות חשובות."
+            },
+            {
+                "definition": "Statements about possible outcomes in games, sports, or contests",
+                "definition_hebrew": "הצהרות לגבי תוצאות אפשריות במשחקים, ספורט או תחרויות",
+                "example": "Fans eagerly awaited the referee's prediction on who would win the upcoming championship match.",
+                "example_hebrew": "האוהדים חיכו בקוצר רוח לתחזית של השופט מי ינצח במשחק האליפות הקרוב."
+            }
+        ]
+    }
+]

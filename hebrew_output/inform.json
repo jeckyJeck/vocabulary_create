@@ -1,0 +1,40 @@
+[
+    {
+        "word": "inform",
+        "word_hebrew": "לדווח",
+        "main_definition": "To provide or convey information to someone, usually in a direct and clear manner.",
+        "main_definition_hebrew": "לספק או להעביר מידע למישהו, בדרך כלל בצורה ישירה וברורה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To give knowledge or facts about something to someone.",
+                "definition_hebrew": "לתת ידע או עובדות על משהו למישהו.",
+                "example": "I will inform you of the latest company news.",
+                "example_hebrew": "אני אעדכן אותך על החדשות האחרונות של החברה."
+            },
+            {
+                "definition": "To update someone on a particular situation or event.",
+                "definition_hebrew": "כדי לעדכן מישהו על מצב או אירוע מסוים.",
+                "example": "She informed her family about her new job in New York.",
+                "example_hebrew": "היא הודיעה למשפחתה על עבודתה החדשה בניו יורק."
+            },
+            {
+                "definition": "To tell someone something privately, often to warn them of potential danger.",
+                "definition_hebrew": "לספר למישהו משהו באופן פרטי, לעתים קרובות כדי להזהיר אותו מפני סכנה אפשרית.",
+                "example": "He warned me to inform the police if I saw any suspicious activity.",
+                "example_hebrew": "הוא הזהיר אותי להודיע למשטרה אם אראה פעילות חשודה."
+            },
+            {
+                "definition": "To make someone aware of a legal or official requirement.",
+                "definition_hebrew": "לגרום למישהו להיות מודע לדרישה משפטית או רשמית.",
+                "example": "The doctor will inform you about your test results and next steps for treatment.",
+                "example_hebrew": "הרופא יודיע לך על תוצאות הבדיקה ועל השלבים הבאים לטיפול."
+            },
+            {
+                "definition": "In computing, to update the state or value in a data structure or database.",
+                "definition_hebrew": "במחשוב, לעדכן את המצב או הערך במבנה נתונים או במסד נתונים.",
+                "example": "After receiving the user's input, the program will inform the server of the new data.",
+                "example_hebrew": "לאחר קבלת הקלט של המשתמש, התוכנית תודיע לשרת על הנתונים החדשים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "desktop",
+        "word_hebrew": "שולחן העבודה",
+        "main_definition": "Desktop refers to both a physical computer setup and an expression used in everyday language.",
+        "main_definition_hebrew": "שולחן העבודה מתייחס הן להגדרת מחשב פיזית והן לביטוי המשמש בשפה היומיומית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical computing environment, typically consisting of a central processing unit (CPU), monitor, keyboard, mouse, and storage devices.",
+                "definition_hebrew": "סביבת מחשוב פיזית, המורכבת בדרך כלל מיחידת עיבוד מרכזית (CPU), צג, מקלדת, עכבר והתקני אחסון.",
+                "example": "John set up his new computer on the desk in his home office as a desktop.",
+                "example_hebrew": "ג'ון הקים את המחשב החדש שלו על השולחן במשרדו הביתי כשולחן עבודה."
+            },
+            {
+                "definition": "A type of file with specific extensions used for storing data",
+                "definition_hebrew": "סוג קובץ עם סיומות ספציפיות המשמשים לאחסון נתונים",
+                "example": "I saved my documents as .txt files, which are commonly known as text or plain-text files on a desktop computer.",
+                "example_hebrew": "שמרתי את המסמכים שלי כקובצי txt, המוכרים בדרך כלל כקבצי טקסט או טקסט רגיל במחשב שולחני."
+            },
+            {
+                "definition": "A piece of furniture designed to accommodate one person at a workstation.",
+                "definition_hebrew": "רהיט שנועד להכיל אדם אחד בעמדת עבודה.",
+                "example": "The sleek black desk with drawers and shelves was the centerpiece in her study room.",
+                "example_hebrew": "שולחן הכתיבה השחור והחלק עם מגירות ומדפים היה החלק המרכזי בחדר העבודה שלה."
+            },
+            {
+                "definition": "An idiomatic expression referring to a fixed position or location",
+                "definition_hebrew": "ביטוי אידיומטי המתייחס למיקום או מיקום קבועים",
+                "example": "She's been working at the same job for years, like she's sitting on someone else's desktop.",
+                "example_hebrew": "היא עובדת באותה עבודה כבר שנים, כאילו היא יושבת על שולחן העבודה של מישהו אחר."
+            }
+        ]
+    }
+]

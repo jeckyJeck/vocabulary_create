@@ -1,0 +1,34 @@
+[
+    {
+        "word": "finder",
+        "word_hebrew": "מוֹצֵא",
+        "main_definition": "A person or device that locates something, often used to refer to a service that helps people locate lost items.",
+        "main_definition_hebrew": "אדם או מכשיר שמאתרים משהו, משמשים לעתים קרובות להתייחסות לשירות שעוזר לאנשים לאתר חפצים אבודים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual who assists in the recovery of lost property",
+                "definition_hebrew": "אדם המסייע בהשבת רכוש אבוד",
+                "example": "After losing her keys at the park, Jane contacted a finder to help her search for them.",
+                "example_hebrew": "לאחר שאיבדה את המפתחות שלה בפארק, ג'יין יצרה קשר עם מאתר כדי לעזור לה לחפש אותם."
+            },
+            {
+                "definition": "A service that helps people locate their missing items or belongings",
+                "definition_hebrew": "שירות המסייע לאנשים לאתר את החפצים או החפצים החסרים שלהם",
+                "example": "The local community uses a property finder service to reunite lost pets with their owners.",
+                "example_hebrew": "הקהילה המקומית משתמשת בשירות איתור רכוש כדי לאחד מחדש חיות מחמד שאבדו עם בעליהם."
+            },
+            {
+                "definition": "In legal context, the person who finds and returns an item of value found by them",
+                "definition_hebrew": "בהקשר משפטי, מי שמוצא ומחזיר פריט בעל ערך שנמצא על ידו",
+                "example": "Under the law, he is considered the finder of the gold coin since he found it on a public beach.",
+                "example_hebrew": "על פי החוק, הוא נחשב למוצא מטבע הזהב מאחר שמצא אותו בחוף ציבורי."
+            },
+            {
+                "definition": "A software program that locates information or files within a computer system",
+                "definition_hebrew": "תוכנה המאתרת מידע או קבצים בתוך מערכת מחשב",
+                "example": "The data recovery tool served as an effective finder to retrieve deleted files from my hard drive.",
+                "example_hebrew": "כלי שחזור הנתונים שימש כמוצא יעיל לאחזור קבצים שנמחקו מהכונן הקשיח שלי."
+            }
+        ]
+    }
+]

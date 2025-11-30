@@ -1,0 +1,46 @@
+[
+    {
+        "word": "gas",
+        "word_hebrew": "גַז",
+        "main_definition": "Gas is a physical state of matter with no fixed shape or volume, characterized by particles that move freely at high speeds.",
+        "main_definition_hebrew": "גז הוא מצב פיזי של חומר ללא צורה או נפח קבועים, המאופיין בחלקיקים הנעים בחופשיות במהירויות גבוהות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A substance found in the Earth's crust",
+                "definition_hebrew": "חומר המצוי בקרום כדור הארץ",
+                "example": "The gas well was tapped to extract natural gas.",
+                "example_hebrew": "באר הגז נבטה להפקת גז טבעי."
+            },
+            {
+                "definition": "An idiom meaning a feeling of uneasiness or discomfort, typically related to emotions",
+                "definition_hebrew": "ניב שמשמעותו תחושה של אי נוחות או אי נוחות, הקשורה בדרך כלל לרגשות",
+                "example": "She felt like there's something 'off', as if the air in the room is gassy.",
+                "example_hebrew": "היא הרגישה שיש משהו 'כבוי', כאילו האוויר בחדר הוא גזים."
+            },
+            {
+                "definition": "A unit of measurement for volume, equal to 22.41885 liters at standard temperature and pressure",
+                "definition_hebrew": "יחידת מדידה לנפח, שווה ל-22.41885 ליטר בטמפרטורה ולחץ סטנדרטיים",
+                "example": "The gas tank can hold up to 50 gallons (approximately 379 liters) of fuel.",
+                "example_hebrew": "מיכל הדלק יכול להכיל עד 50 גלונים (כ-379 ליטר) של דלק."
+            },
+            {
+                "definition": "A substance used as a propellant or explosive in firearms, rockets, and other devices",
+                "definition_hebrew": "חומר המשמש כחומר הנעה או חומר נפץ בנשק חם, רקטות והתקנים אחרים",
+                "example": "Black powder was commonly used to fill cannons and muskets before the advent of smokeless gunpowders.",
+                "example_hebrew": "אבקה שחורה שימשה בדרך כלל למילוי תותחים ומוסקטים לפני הופעת אבקות שריפה ללא עשן."
+            },
+            {
+                "definition": "A verb meaning to exhale air from one's lungs",
+                "definition_hebrew": "פועל שמשמעותו לנשוף אוויר מהריאות",
+                "example": "After running for a while, he had to take deep breaths or gasp for gas.",
+                "example_hebrew": "לאחר ריצה של זמן מה, הוא נאלץ לנשום עמוק או להתנשף בגז."
+            },
+            {
+                "definition": "An idiom indicating an absence of substance or depth in conversation or writing",
+                "definition_hebrew": "ניב המצביע על היעדר מהות או עומק בשיחה או בכתיבה",
+                "example": "His speech lacked any real content; it was all just fluff and empty 'gas'.",
+                "example_hebrew": "נאומו חסר כל תוכן אמיתי; הכל היה רק מוך ו'גז' ריק."
+            }
+        ]
+    }
+]

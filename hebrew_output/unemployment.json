@@ -1,0 +1,34 @@
+[
+    {
+        "word": "unemployment",
+        "word_hebrew": "אַבטָלָה",
+        "main_definition": "The state of being without a paid job, despite actively seeking employment.",
+        "main_definition_hebrew": "מצב של להיות ללא עבודה בשכר, למרות חיפוש פעיל לעבודה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A general economic condition where individuals are unable to find jobs.",
+                "definition_hebrew": "מצב כלכלי כללי שבו אנשים לא מצליחים למצוא עבודה.",
+                "example": "During the recession, unemployment rates soared as companies downsized.",
+                "example_hebrew": "במהלך המיתון, שיעורי האבטלה זינקו עם צמצום החברות."
+            },
+            {
+                "definition": "The percentage of people in an economy without work relative to the total number of people actively seeking employment.",
+                "definition_hebrew": "אחוז האנשים במשק ללא עבודה ביחס למספר הכולל של אנשים המחפשים עבודה באופן פעיל.",
+                "example": "The national unemployment rate was reported at 7.5% this quarter.",
+                "example_hebrew": "שיעור האבטלה הלאומי דווח על 7.5% ברבעון זה."
+            },
+            {
+                "definition": "A social issue, where individuals lack occupational status and income due to joblessness.",
+                "definition_hebrew": "סוגיה חברתית, שבה אנשים חסרים מעמד תעסוקתי והכנסה עקב חוסר עבודה.",
+                "example": "Unemployment can lead to increased poverty levels in affected communities.",
+                "example_hebrew": "אבטלה עלולה להוביל לעלייה ברמות העוני בקהילות המושפעות."
+            },
+            {
+                "definition": "The gap between available jobs and the workers who are seeking employment.",
+                "definition_hebrew": "הפער בין משרות פנויות לעובדים המחפשים עבודה.",
+                "example": "There is a significant unemployment issue among recent college graduates due to skill mismatches.",
+                "example_hebrew": "קיימת בעיית אבטלה משמעותית בקרב בוגרי מכללות אחרונים עקב אי התאמה של מיומנויות."
+            }
+        ]
+    }
+]

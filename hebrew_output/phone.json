@@ -1,0 +1,34 @@
+[
+    {
+        "word": "phone",
+        "word_hebrew": "טלפון",
+        "main_definition": "A device used for transmitting sound or voice communication over long distances.",
+        "main_definition_hebrew": "מכשיר המשמש להעברת קול או תקשורת קולית למרחקים ארוכים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A device that converts acoustic energy into electrical signals and vice versa, allowing people to communicate with each other through speech.",
+                "definition_hebrew": "מכשיר הממיר אנרגיה אקוסטית לאותות חשמליים ולהיפך, המאפשר לאנשים לתקשר זה עם זה באמצעות דיבור.",
+                "example": "I picked up the phone to talk to my friend who lives in another state.",
+                "example_hebrew": "הרמתי טלפון כדי לדבר עם חבר שלי שגר במדינה אחרת."
+            },
+            {
+                "definition": "An idiom used to describe a way of reaching out or seeking help from someone, often when you are in need of assistance or information.",
+                "definition_hebrew": "ניב המשמש לתיאור דרך להושיט יד או לבקש עזרה ממישהו, לעתים קרובות כאשר אתה זקוק לסיוע או מידע.",
+                "example": "When I got lost in the city, I had no choice but to phone for directions.",
+                "example_hebrew": "כשהלכתי לאיבוד בעיר, לא הייתה לי ברירה אלא להתקשר להנחיות."
+            },
+            {
+                "definition": "A verb that means to contact or communicate with someone using a telephone device, particularly by making an actual call.",
+                "definition_hebrew": "פועל שמשמעותו ליצור קשר או לתקשר עם מישהו באמצעות מכשיר טלפון, במיוחד על ידי ביצוע שיחה בפועל.",
+                "example": "She needs to phone her boss to inform him about the meeting delay.",
+                "example_hebrew": "היא צריכה להתקשר לבוס שלה כדי להודיע לו על העיכוב בפגישה."
+            },
+            {
+                "definition": "An informal term for a person's mobile phone, especially when referring to one's own or someone else's personal device used for communication.",
+                "definition_hebrew": "מונח לא רשמי לטלפון הנייד של אדם, במיוחד כאשר מתייחסים למכשיר האישי שלו או של מישהו אחר המשמש לתקשורת.",
+                "example": "My sister left her phone on the table, so I picked it up and called her.",
+                "example_hebrew": "אחותי השאירה את הטלפון שלה על השולחן, אז הרמתי אותו והתקשרתי אליה."
+            }
+        ]
+    }
+]

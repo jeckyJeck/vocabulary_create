@@ -1,0 +1,40 @@
+[
+    {
+        "word": "word",
+        "word_hebrew": "מִלָה",
+        "main_definition": "A unit of language composed of one or more sounds that convey a specific meaning, often with additional connotations and cultural significance.",
+        "main_definition_hebrew": "יחידת שפה המורכבת מצליל אחד או יותר המעבירים משמעות ספציפית, לרוב עם קונוטציות נוספות ומשמעות תרבותית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A single distinct meaningful element used in speech or writing",
+                "definition_hebrew": "אלמנט משמעותי ומובהק המשמש בדיבור או בכתיבה",
+                "example": "The word 'apple' represents the fruit.",
+                "example_hebrew": "המילה 'תפוח' מייצגת את הפרי."
+            },
+            {
+                "definition": "An idiom, a phrase whose interpretation cannot be understood from the literal meaning of its component words",
+                "definition_hebrew": "ניב, ביטוי שלא ניתן להבין את פרשנותו מהמשמעות המילולית של המילים המרכיבות אותו",
+                "example": "Break the ice is an idiom that means to initiate social interactions in a friendly manner.",
+                "example_hebrew": "לשבור את הקרח הוא ניב שמשמעותו ליזום אינטראקציות חברתיות בצורה ידידותית."
+            },
+            {
+                "definition": "A set of linguistic symbols representing one specific idea or concept, often used as part of a larger work like literature or poetry",
+                "definition_hebrew": "קבוצה של סמלים לשוניים המייצגים רעיון או מושג ספציפי אחד, המשמשים לעתים קרובות כחלק מיצירה גדולה יותר כמו ספרות או שירה",
+                "example": "The phrase 'the pen is mightier than the sword' uses words to emphasize the power of writing.",
+                "example_hebrew": "הביטוי 'העט חזק מהחרב' משתמש במילים כדי להדגיש את כוחה של הכתיבה."
+            },
+            {
+                "definition": "A unit in written language that carries meaning and can stand alone, typically consisting of one syllable but sometimes extending to multiple syllables",
+                "definition_hebrew": "יחידה בשפה כתובה הנושאת משמעות ויכולה לעמוד לבדה, מורכבת בדרך כלל מהברה אחת אך לעיתים מתרחבת למספר הברות",
+                "example": "The word 'quickly' describes how an action is performed.",
+                "example_hebrew": "המילה 'מהר' מתארת כיצד מתבצעת פעולה."
+            },
+            {
+                "definition": "An expression used by a person when communicating with others that conveys particular emotions or attitudes",
+                "definition_hebrew": "ביטוי שבו משתמש אדם בתקשורת עם אחרים, המעביר רגשות או עמדות מסוימות",
+                "example": "Saying 'I love you' expresses affection and deep feelings towards someone.",
+                "example_hebrew": "אמירת 'אני אוהב אותך' מבטאת חיבה ורגשות עמוקים כלפי מישהו."
+            }
+        ]
+    }
+]

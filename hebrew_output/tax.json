@@ -1,0 +1,34 @@
+[
+    {
+        "word": "tax",
+        "word_hebrew": "מַס",
+        "main_definition": "Tax is a mandatory financial charge or levy imposed by the government on individuals, corporations, or properties to fund various public services and functions.",
+        "main_definition_hebrew": "מס הוא חיוב כספי חובה או היטל המוטל על ידי הממשלה על יחידים, תאגידים או נכסים כדי לממן שירותים ופונקציות ציבוריות שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A compulsory financial charge imposed by the government",
+                "definition_hebrew": "חיוב כספי חובה שהוטל על ידי הממשלה",
+                "example": "The income tax is a yearly compulsory financial charge that individuals pay on their earnings.",
+                "example_hebrew": "מס הכנסה הוא חיוב כספי חובה שנתי שאנשים משלמים על הרווחים שלהם."
+            },
+            {
+                "definition": "A form of wealth redistribution",
+                "definition_hebrew": "סוג של חלוקת עושר מחדש",
+                "example": "Property taxes are levied on homeowners to help fund public services like education and infrastructure, thus serving as a means of wealth redistribution.",
+                "example_hebrew": "מיסי רכוש נגבים מבעלי בתים כדי לסייע במימון שירותים ציבוריים כמו חינוך ותשתיות, ובכך משמשים כאמצעי לחלוקת עושר מחדש."
+            },
+            {
+                "definition": "An expense deduction for businesses",
+                "definition_hebrew": "ניכוי הוצאה לעסקים",
+                "example": "Businesses can deduct certain taxes paid from their income when calculating their net earnings to reduce their overall tax liability.",
+                "example_hebrew": "עסקים יכולים לנכות מסים מסוימים ששולמו מההכנסה שלהם בעת חישוב הרווחים הנקיים שלהם כדי להפחית את חבות המס הכוללת שלהם."
+            },
+            {
+                "definition": "A term used in gambling",
+                "definition_hebrew": "מונח המשמש בהימורים",
+                "example": "In poker, if you win a hand, the bets made by other players are considered your 'taxes,' and they must be paid back when you fold or lose.",
+                "example_hebrew": "בפוקר, אם אתה זוכה ביד, ההימורים שנעשו על ידי שחקנים אחרים נחשבים ל'מסים' שלך, ויש להחזיר אותם כאשר אתה מקפל או מפסיד."
+            }
+        ]
+    }
+]

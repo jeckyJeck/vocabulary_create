@@ -1,0 +1,34 @@
+[
+    {
+        "word": "lack",
+        "word_hebrew": "חוֹסֶר",
+        "main_definition": "To be without or deficient in something; to not possess or have enough of.",
+        "main_definition_hebrew": "להיות בלי או חסר משהו; לא להחזיק או להספיק.",
+        "meanings_and_examples": [
+            {
+                "definition": "Missing an essential quality or attribute",
+                "definition_hebrew": "חסרה תכונה או תכונה חיונית",
+                "example": "His lack of confidence often held him back from pursuing his goals.",
+                "example_hebrew": "חוסר הביטחון העצמי שלו הפריע לו לעתים קרובות לרדוף אחרי מטרותיו."
+            },
+            {
+                "definition": "Not having a sufficient amount or number of something",
+                "definition_hebrew": "אין מספיק כמות או מספר של משהו",
+                "example": "The project lacks the necessary resources to be completed on time.",
+                "example_hebrew": "הפרויקט חסר את המשאבים הדרושים כדי להסתיים בזמן."
+            },
+            {
+                "definition": "Having insufficient quantity, quality, or degree",
+                "definition_hebrew": "בעל כמות, איכות או תואר לא מספיקים",
+                "example": "Her lack of experience in coding made it difficult for her to understand programming concepts.",
+                "example_hebrew": "חוסר הניסיון שלה בקידוד הקשה עליה להבין מושגי תכנות."
+            },
+            {
+                "definition": "Failing to meet a certain expectation or standard",
+                "definition_hebrew": "אי עמידה בציפייה או סטנדרט מסוים",
+                "example": "The presentation lacked the proper structure and clarity as expected from an experienced speaker.",
+                "example_hebrew": "המצגת חסרה את המבנה והבהירות המתאימים כמצופה מדבר מנוסה."
+            }
+        ]
+    }
+]

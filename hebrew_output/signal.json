@@ -1,0 +1,34 @@
+[
+    {
+        "word": "signal",
+        "word_hebrew": "אוֹת",
+        "main_definition": "A signal is a gesture, action, or phenomenon that conveys information or prompts an intended response.",
+        "main_definition_hebrew": "אות הוא מחווה, פעולה או תופעה המעבירים מידע או מעוררים תגובה מכוונת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Communication method using visual cues like flags or lights to convey messages",
+                "definition_hebrew": "שיטת תקשורת באמצעות רמזים ויזואליים כמו דגלים או אורות להעברת מסרים",
+                "example": "A lighthouse uses a signal light to warn ships of dangerous coastlines.",
+                "example_hebrew": "מגדלור משתמש באור איתות כדי להזהיר ספינות מפני קווי חוף מסוכנים."
+            },
+            {
+                "definition": "An indication, especially in technology and electronics, that is used to transmit information between devices",
+                "definition_hebrew": "אינדיקציה, במיוחד בטכנולוגיה ואלקטרוניקה, המשמשת להעברת מידע בין מכשירים",
+                "example": "When you press the power button on your computer, it sends a signal to shut down or restart the system.",
+                "example_hebrew": "כאשר אתה לוחץ על לחצן ההפעלה במחשב שלך, הוא שולח אות לכיבוי או הפעלה מחדש של המערכת."
+            },
+            {
+                "definition": "A sign or symptom of a particular condition, state, or event",
+                "definition_hebrew": "סימן או סימפטום של מצב, מצב או אירוע מסוים",
+                "example": "The flickering light was a signal that there might be an electrical issue in the house.",
+                "example_hebrew": "האור המהבהב היה סימן לכך שאולי יש בעיה חשמלית בבית."
+            },
+            {
+                "definition": "An action taken to indicate readiness for communication or operation",
+                "definition_hebrew": "פעולה שנעשתה כדי לציין מוכנות לתקשורת או הפעלה",
+                "example": "A train whistle blowing before entering a station is a signal that it's about to start moving again.",
+                "example_hebrew": "שריקת רכבת שנשמעת לפני הכניסה לתחנה היא איתות שהיא עומדת להתחיל לזוז שוב."
+            }
+        ]
+    }
+]

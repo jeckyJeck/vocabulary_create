@@ -1,0 +1,34 @@
+[
+    {
+        "word": "rentals",
+        "word_hebrew": "השכרות",
+        "main_definition": "Rentals refer to the act of renting out or leasing items, properties, vehicles, or services, typically involving payment over a period of time.",
+        "main_definition_hebrew": "השכרות מתייחסות לפעולה של השכרה או השכרה של פריטים, נכסים, כלי רכב או שירותים, בדרך כלל כרוכה בתשלום על פני תקופה של זמן.",
+        "meanings_and_examples": [
+            {
+                "definition": "The business of renting out movies for home viewing",
+                "definition_hebrew": "העסק של השכרת סרטים לצפייה ביתית",
+                "example": "I subscribed to Netflix for movie and TV show rentals.",
+                "example_hebrew": "נרשמתי לנטפליקס להשכרת סרטים ותוכניות טלוויזיה."
+            },
+            {
+                "definition": "The act of leasing or renting items like furniture, equipment, etc.",
+                "definition_hebrew": "פעולת השכרה או השכרה של פריטים כמו רהיטים, ציוד וכו'.",
+                "example": "We rented sofa beds from the furniture store for our guests during their stay.",
+                "example_hebrew": "שכרנו ספות מיטה מחנות הרהיטים עבור האורחים שלנו במהלך שהותם."
+            },
+            {
+                "definition": "Renting vehicles such as cars, boats, or planes",
+                "definition_hebrew": "השכרת רכבים כגון מכוניות, סירות או מטוסים",
+                "example": "I booked a car rental service to drive around New York City during my trip.",
+                "example_hebrew": "הזמנתי שירות השכרת רכב כדי לנסוע ברחבי ניו יורק במהלך הטיול שלי."
+            },
+            {
+                "definition": "The practice of renting residential properties like apartments or houses for temporary stays",
+                "definition_hebrew": "הנוהג של השכרת נכסי מגורים כמו דירות או בתים לשהייה זמנית",
+                "example": "We decided to rent an Airbnb for our vacation in Paris instead of staying at a hotel.",
+                "example_hebrew": "החלטנו לשכור Airbnb לחופשה שלנו בפריז במקום להישאר במלון."
+            }
+        ]
+    }
+]

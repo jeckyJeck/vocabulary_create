@@ -1,0 +1,34 @@
+[
+    {
+        "word": "prefix",
+        "word_hebrew": "קידומת",
+        "main_definition": "A prefix is a group of letters placed before the root of a word to modify its meaning.",
+        "main_definition_hebrew": "קידומת היא קבוצה של אותיות המוצבות לפני השורש של מילה כדי לשנות את משמעותה.",
+        "meanings_and_examples": [
+            {
+                "definition": "An affix that comes at the beginning of a word, changing or extending its meaning",
+                "definition_hebrew": "צירוף שמגיע בתחילת מילה, משנה או מרחיב את משמעותה",
+                "example": "The prefix 'un-' in 'unhappy' changes the meaning to not happy.",
+                "example_hebrew": "הקידומת 'לא-' ב'אומלל' משנה את המשמעות לא מאושר."
+            },
+            {
+                "definition": "A linguistic element used before another element within the same word to alter its meaning or grammatical function",
+                "definition_hebrew": "אלמנט לשוני המשמש לפני אלמנט אחר באותה מילה כדי לשנות את משמעותו או תפקודו הדקדוקי",
+                "example": "In the word 'refix', 're-' is a prefix that means again, indicating repetition.",
+                "example_hebrew": "במילה 'ריפיקס', 're-' היא קידומת שמשמעותה שוב, המציינת חזרה."
+            },
+            {
+                "definition": "A part of speech used in English and many other languages to create new words by attaching it to a base or root word",
+                "definition_hebrew": "חלק מהדיבור המשמש באנגלית ובשפות רבות אחרות ליצירת מילים חדשות על ידי הצמדתו למילת בסיס או שורש",
+                "example": "The prefix 'pre-' in 'preview' indicates something happening before the main event, like looking at a movie before seeing it.",
+                "example_hebrew": "הקידומת 'pre-' ב-'preview' מציינת שמשהו קורה לפני האירוע המרכזי, כמו להסתכל על סרט לפני שראית אותו."
+            },
+            {
+                "definition": "A historical linguistic concept used to understand language development and etymology",
+                "definition_hebrew": "מושג לשוני היסטורי המשמש להבנת התפתחות השפה והאטימולוגיה",
+                "example": "Studying the use of prefixes can help us trace back the history of English words. For instance, 'mis-' is a common prefix that has evolved from Old English roots.",
+                "example_hebrew": "לימוד השימוש בקידומות יכול לעזור לנו להתחקות אחר ההיסטוריה של מילים באנגלית. לדוגמה, 'mis-' היא קידומת נפוצה שהתפתחה משורשים באנגלית עתיקים."
+            }
+        ]
+    }
+]

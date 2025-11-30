@@ -1,0 +1,34 @@
+[
+    {
+        "word": "texts",
+        "word_hebrew": "טקסטים",
+        "main_definition": "The act of sending written messages using electronic devices or the collection of such messages.",
+        "main_definition_hebrew": "הפעולה של שליחת הודעות כתובות באמצעות מכשירים אלקטרוניים או איסוף הודעות כאלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Sending a written message via phone call",
+                "definition_hebrew": "שליחת הודעה בכתב באמצעות שיחת טלפון",
+                "example": "He didn't like getting texts; he preferred to speak on the phone.",
+                "example_hebrew": "הוא לא אהב לקבל הודעות טקסט; הוא העדיף לדבר בטלפון."
+            },
+            {
+                "definition": "A series of electronic messages sent back and forth between two or more people",
+                "definition_hebrew": "סדרה של הודעות אלקטרוניות הנשלחות הלוך ושוב בין שני אנשים או יותר",
+                "example": "They exchanged texts all day until they finally met up in person.",
+                "example_hebrew": "הם החליפו הודעות טקסט כל היום עד שלבסוף נפגשו באופן אישי."
+            },
+            {
+                "definition": "Writing a text message, typically using abbreviations and informal language",
+                "definition_hebrew": "כתיבת הודעת טקסט, בדרך כלל באמצעות קיצורים ושפה לא רשמית",
+                "example": "I'll see you at the party. Texts me if you change your mind.",
+                "example_hebrew": "נתראה במסיבה. תשלח לי הודעה אם תשנה את דעתך."
+            },
+            {
+                "definition": "Text messaging service provided by mobile phone operators",
+                "definition_hebrew": "שירות הודעות טקסט הניתן על ידי מפעילי טלפונים סלולריים",
+                "example": "To send or receive texts, I need to sign up for a texting plan with my carrier.",
+                "example_hebrew": "כדי לשלוח או לקבל הודעות טקסט, אני צריך להירשם לתוכנית הודעות טקסט עם הספק שלי."
+            }
+        ]
+    }
+]

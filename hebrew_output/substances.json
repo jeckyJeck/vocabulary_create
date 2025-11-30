@@ -1,0 +1,34 @@
+[
+    {
+        "word": "substances",
+        "word_hebrew": "חומרים",
+        "main_definition": "The term 'substances' generally refers to various types of matter, including both natural elements or compounds and artificially created chemicals.",
+        "main_definition_hebrew": "המונח 'חומרים' מתייחס בדרך כלל לסוגים שונים של חומר, כולל יסודות טבעיים או תרכובות וכימיקלים שנוצרו באופן מלאכותי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Natural substances - Matter that occurs naturally in the environment without human intervention. It includes everything from minerals to plants and animals.",
+                "definition_hebrew": "חומרים טבעיים - חומר המתרחש באופן טבעי בסביבה ללא התערבות אנושית. זה כולל הכל ממינרלים לצמחים ובעלי חיים.",
+                "example": "Water, sand, and oxygen are all examples of natural substances.",
+                "example_hebrew": "מים, חול וחמצן הם כולם דוגמאות לחומרים טבעיים."
+            },
+            {
+                "definition": "Chemical substances - Matter that has a definite chemical composition and can be classified into different categories like elements, compounds, acids, bases, etc. These substances are often created in laboratories or factories.",
+                "definition_hebrew": "חומרים כימיים - חומר בעל הרכב כימי מוגדר וניתן לסווג אותו לקטגוריות שונות כמו יסודות, תרכובות, חומצות, בסיסים וכו'. חומרים אלו נוצרים לרוב במעבדות או במפעלים.",
+                "example": "Salt (NaCl), sugar (C12H22O11), and hydrogen peroxide (H2O2) are examples of chemical substances.",
+                "example_hebrew": "מלח (NaCl), סוכר (C12H22O11) ומי חמצן (H2O2) הם דוגמאות לחומרים כימיים."
+            },
+            {
+                "definition": "Substance abuse - The harmful or hazardous use of psychoactive substances, including alcohol, caffeine, illegally obtained drugs, and other addictive compounds.",
+                "definition_hebrew": "שימוש לרעה בסמים - שימוש מזיק או מסוכן בחומרים פסיכואקטיביים, לרבות אלכוהול, קפאין, סמים שהושגו באופן בלתי חוקי ותרכובות ממכרות אחרות.",
+                "example": "Drug abuse is a serious societal issue that affects many individuals.",
+                "example_hebrew": "שימוש בסמים הוא נושא חברתי רציני שמשפיע על אנשים רבים."
+            },
+            {
+                "definition": "Substance in context of law - A particular thing or entity referred to in legal documents as 'substances', often used when discussing regulations, restrictions or prohibitions.",
+                "definition_hebrew": "חומר בהקשר של חוק - דבר או ישות מסוימת המכונה במסמכים משפטיים 'חומרים', המשמשים לעתים קרובות כאשר דנים בתקנות, הגבלות או איסורים.",
+                "example": "The government has imposed strict regulations on the use and sale of certain substances.",
+                "example_hebrew": "הממשלה הטילה תקנות מחמירות על שימוש ומכירה של חומרים מסוימים."
+            }
+        ]
+    }
+]

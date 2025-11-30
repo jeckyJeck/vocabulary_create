@@ -1,0 +1,28 @@
+[
+    {
+        "word": "webcast",
+        "word_hebrew": "שידור אינטרנט",
+        "main_definition": "A webcast is a media presentation distributed over the Internet using streaming media technology, typically in real-time, allowing viewers to watch live events or broadcasts online.",
+        "main_definition_hebrew": "שידור אינטרנט הוא מצגת מדיה המופצת דרך האינטרנט באמצעות טכנולוגיית מדיה זורמת, בדרך כלל בזמן אמת, המאפשרת לצופים לצפות באירועים חיים או בשידורים מקוונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Live event broadcasting",
+                "definition_hebrew": "שידור חי של אירועים",
+                "example": "The tech conference was webcasted so that attendees could watch the presentations from anywhere in the world.",
+                "example_hebrew": "הכנס הטכנולוגי שודר באינטרנט כדי שהמשתתפים יוכלו לצפות במצגות מכל מקום בעולם."
+            },
+            {
+                "definition": "Interactive online seminars or lectures",
+                "definition_hebrew": "סמינרים או הרצאות מקוונים אינטראקטיביים",
+                "example": "An educational institution hosted a weekly webcast featuring guest speakers discussing various academic topics, and viewers could ask questions through chat functions.",
+                "example_hebrew": "מוסד חינוכי אירח שידור אינטרנט שבועי בהשתתפות דוברים אורחים שדנו בנושאים אקדמיים שונים, והצופים יכלו לשאול שאלות באמצעות פונקציות צ'אט."
+            },
+            {
+                "definition": "Streamed corporate presentations or announcements",
+                "definition_hebrew": "מצגות או הודעות ארגוניות זורמות",
+                "example": "The company held its annual shareholders meeting via webcast, allowing stakeholders to tune in remotely without attending the physical event.",
+                "example_hebrew": "החברה קיימה את אסיפת בעלי המניות השנתית שלה באמצעות שידור אינטרנט, מה שאיפשר לבעלי עניין להתכוונן מרחוק מבלי להשתתף באירוע הפיזי."
+            }
+        ]
+    }
+]

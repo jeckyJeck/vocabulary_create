@@ -1,0 +1,34 @@
+[
+    {
+        "word": "votes",
+        "word_hebrew": "הצבעות",
+        "main_definition": "Votes refer to the expression of a choice or opinion, often used in the context of electoral processes or decision-making by groups.",
+        "main_definition_hebrew": "הצבעות מתייחסות להבעת בחירה או דעה, המשמשת לעתים קרובות בהקשר של תהליכי בחירות או קבלת החלטות על ידי קבוצות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Expressing an individual's preference during an election",
+                "definition_hebrew": "הבעת העדפה של אדם במהלך בחירות",
+                "example": "John cast his vote for Jane as the candidate he believed would best serve the community.",
+                "example_hebrew": "ג'ון הצביע לג'יין כמועמדת שלדעתו תשרת את הקהילה בצורה הטובה ביותר."
+            },
+            {
+                "definition": "Counting of votes to determine a decision or outcome in an electoral process",
+                "definition_hebrew": "ספירת קולות לקביעת החלטה או תוצאה בהליך בחירות",
+                "example": "After the polls closed, the officials began tallying the votes to see who won the election.",
+                "example_hebrew": "לאחר סגירת הקלפיות, החלו הפקידים לספור את הקולות כדי לראות מי ניצח בבחירות."
+            },
+            {
+                "definition": "A vote given as part of group consensus-making",
+                "definition_hebrew": "הצבעה שניתנה כחלק מיצירת קונצנזוס בקבוצה",
+                "example": "During a board meeting, members took a vote on whether to approve the new budget proposal.",
+                "example_hebrew": "במהלך ישיבת דירקטוריון עשו החברים הצבעה האם לאשר את הצעת התקציב החדשה."
+            },
+            {
+                "definition": "The act of voting in general, including both verbal and non-verbal expressions of choice",
+                "definition_hebrew": "פעולת ההצבעה באופן כללי, לרבות ביטויי בחירה מילוליים ולא מילוליים כאחד",
+                "example": "Participants at the conference used their votes by raising colored cards when they supported a motion.",
+                "example_hebrew": "המשתתפים בוועידה השתמשו בהצבעותיהם על ידי העלאת קלפים צבעוניים כאשר תמכו בהצעה."
+            }
+        ]
+    }
+]

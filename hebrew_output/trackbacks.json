@@ -1,0 +1,22 @@
+[
+    {
+        "word": "trackbacks",
+        "word_hebrew": "טראקבקים",
+        "main_definition": "In the context of online communication, trackbacks are notifications sent to a weblog indicating that it has referenced another blog post.",
+        "main_definition_hebrew": "בהקשר של תקשורת מקוונת, trackbacks הן הודעות שנשלחות לבלוג אינטרנט המצביעות על כך שהוא הפנה לפוסט אחר בבלוג.",
+        "meanings_and_examples": [
+            {
+                "definition": "References or acknowledgements in blog comments linking back to other posts",
+                "definition_hebrew": "הפניות או תודות בתגובות בבלוג המקשרות חזרה לפוסטים אחרים",
+                "example": "When Sarah commented on John's blog post, she included a trackback pointing to her original article.",
+                "example_hebrew": "כששרה הגיבה לפוסט בבלוג של ג'ון, היא כללה טראק-בק המצביע על המאמר המקורי שלה."
+            },
+            {
+                "definition": "A feature used by some weblogs for inter-blog communication and notification of incoming links or references",
+                "definition_hebrew": "תכונה המשמשת בלוגים מסוימים לתקשורת בין בלוגים והודעות על קישורים או הפניות נכנסות",
+                "example": "The website owner set up trackbacks on their blog to automatically notify them when others reference their content.",
+                "example_hebrew": "בעל האתר הגדיר מעקבים בבלוג שלו כדי להודיע להם באופן אוטומטי כאשר אחרים מתייחסים לתוכן שלהם."
+            }
+        ]
+    }
+]

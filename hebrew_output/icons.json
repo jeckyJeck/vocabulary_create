@@ -1,0 +1,34 @@
+[
+    {
+        "word": "icons",
+        "word_hebrew": "סמלים",
+        "main_definition": "Icons are graphical symbols or representations that stand for a particular object, concept, or function, often used in computing systems.",
+        "main_definition_hebrew": "סמלים הם סמלים או ייצוגים גרפיים המייצגים אובייקט, מושג או פונקציה מסוימים, המשמשים לעתים קרובות במערכות מחשוב.",
+        "meanings_and_examples": [
+            {
+                "definition": "Symbolic representations of people, animals, or objects",
+                "definition_hebrew": "ייצוגים סמליים של אנשים, חיות או חפצים",
+                "example": "The Eiffel Tower icon is widely recognized as the symbol for Paris.",
+                "example_hebrew": "סמל מגדל אייפל מוכר כסמל לפריז."
+            },
+            {
+                "definition": "Graphical symbols used in computing to represent applications, files, and functions",
+                "definition_hebrew": "סמלים גרפיים המשמשים במחשוב לייצוג יישומים, קבצים ופונקציות",
+                "example": "Double-clicking on a 'trash' icon will move an item to the recycle bin.",
+                "example_hebrew": "לחיצה כפולה על סמל 'אשפה' תעביר פריט לסל המיחזור."
+            },
+            {
+                "definition": "A set of icons grouped together for easy navigation or organization",
+                "definition_hebrew": "קבוצה של סמלים מקובצים יחד לניווט או ארגון קל",
+                "example": "The desktop of a computer often has folders containing various icons representing files and applications.",
+                "example_hebrew": "בשולחן העבודה של מחשב יש לעתים קרובות תיקיות המכילות אייקונים שונים המייצגים קבצים ויישומים."
+            },
+            {
+                "definition": "Popular, influential, or highly regarded individuals in specific fields",
+                "definition_hebrew": "אנשים פופולריים, משפיעים או מוערכים מאוד בתחומים ספציפיים",
+                "example": "Throughout the music industry, The Beatles are considered an iconic band.",
+                "example_hebrew": "בכל תעשיית המוזיקה, הביטלס נחשבים ללהקה איקונית."
+            }
+        ]
+    }
+]

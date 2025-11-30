@@ -1,0 +1,40 @@
+[
+    {
+        "word": "document",
+        "word_hebrew": "מסמך",
+        "main_definition": "A document is a written, printed, or electronic piece of information that provides evidence or serves as an official record.",
+        "main_definition_hebrew": "מסמך הוא פיסת מידע כתובה, מודפסת או אלקטרונית המספקת ראיות או משמשת כתיעוד רשמי.",
+        "meanings_and_examples": [
+            {
+                "definition": "An official paper containing essential details and data about something",
+                "definition_hebrew": "מאמר רשמי המכיל פרטים ונתונים חיוניים על משהו",
+                "example": "The company issued a new employee handbook to serve as the document outlining workplace policies.",
+                "example_hebrew": "החברה הוציאה ספר חדש לעובדים שישמש כמסמך המתאר את מדיניות מקום העבודה."
+            },
+            {
+                "definition": "A written record or proof of an event, transaction, agreement, or other occurrence",
+                "definition_hebrew": "תיעוד כתוב או הוכחה של אירוע, עסקה, הסכם או התרחשות אחרת",
+                "example": "She signed her will, which is now considered legal documentation verifying her last wishes.",
+                "example_hebrew": "היא חתמה על צוואתה, שנחשבת כיום לתיעוד משפטי המאמת את רצונותיה האחרונים."
+            },
+            {
+                "definition": "An authoritative book or text used as a source for information on a particular subject",
+                "definition_hebrew": "ספר או טקסט סמכותי המשמשים כמקור למידע בנושא מסוים",
+                "example": "He referred to the document titled 'The Elements of Style' by Strunk and White while revising his essay.",
+                "example_hebrew": "הוא התייחס למסמך שכותרתו 'אלמנטים של סגנון' מאת Strunk and White תוך תיקון החיבור שלו."
+            },
+            {
+                "definition": "A digital file containing text, images, audio or video that is stored electronically for future reference",
+                "definition_hebrew": "קובץ דיגיטלי המכיל טקסט, תמונות, אודיו או וידאו המאוחסן אלקטרונית לעיון עתידי",
+                "example": "She saved her research as a document on the cloud to access it from any device.",
+                "example_hebrew": "היא שמרה את המחקר שלה כמסמך בענן כדי לגשת אליו מכל מכשיר."
+            },
+            {
+                "definition": "The act of creating such a written record",
+                "definition_hebrew": "הפעולה של יצירת רשומה כתובה כזו",
+                "example": "The historian spent months documenting the events leading up to World War II.",
+                "example_hebrew": "ההיסטוריון הקדיש חודשים לתיעוד האירועים שהובילו למלחמת העולם השנייה."
+            }
+        ]
+    }
+]

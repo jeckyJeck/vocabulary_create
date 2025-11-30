@@ -1,0 +1,34 @@
+[
+    {
+        "word": "pharmacology",
+        "word_hebrew": "פַרמָקוֹלוֹגִיָה",
+        "main_definition": "Pharmacology is the scientific study of drugs and their effects, including how they interact with living organisms.",
+        "main_definition_hebrew": "פרמקולוגיה היא המחקר המדעי של תרופות והשפעותיהן, כולל האופן שבו הן מתקשרות עם אורגניזמים חיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The branch of medicine concerned with the study and use of medicines to cure or alleviate diseases",
+                "definition_hebrew": "ענף הרפואה העוסק בחקר ושימוש בתרופות לריפוי או הקלה של מחלות",
+                "example": "Pharmacology plays a critical role in developing new drugs for treating illnesses such as cancer, diabetes, and heart disease.",
+                "example_hebrew": "לפרמקולוגיה תפקיד קריטי בפיתוח תרופות חדשות לטיפול במחלות כמו סרטן, סוכרת ומחלות לב."
+            },
+            {
+                "definition": "The study of the interactions between chemicals (including pharmaceutical compounds) and living organisms",
+                "definition_hebrew": "חקר האינטראקציות בין כימיקלים (כולל תרכובות פרמצבטיות) לבין אורגניזמים חיים",
+                "example": "Pharmacology research aims to understand how various substances affect the human body, which is essential for drug development.",
+                "example_hebrew": "מחקר פרמקולוגיה נועד להבין כיצד חומרים שונים משפיעים על גוף האדם, החיוני לפיתוח תרופות."
+            },
+            {
+                "definition": "The science dealing with drugs that cause changes in physiological processes or cellular activities",
+                "definition_hebrew": "המדע העוסק בתרופות הגורמות לשינויים בתהליכים פיזיולוגיים או בפעילות התאית",
+                "example": "A pharmacologist may study how a new painkiller works at the molecular level to reduce inflammation and alleviate pain.",
+                "example_hebrew": "פרמקולוג עשוי לחקור כיצד משכך כאבים חדש פועל ברמה המולקולרית כדי להפחית דלקת ולהקל על כאב."
+            },
+            {
+                "definition": "The practice of preparing, dispensing and reviewing drugs",
+                "definition_hebrew": "הפרקטיקה של הכנה, חלוקת וסקירת תרופות",
+                "example": "Pharmacologists often work in pharmacies or hospitals, ensuring patients receive the correct medications and dosages for their conditions.",
+                "example_hebrew": "פרמקולוגים עובדים לעתים קרובות בבתי מרקחת או בבתי חולים, ומבטיחים שהמטופלים יקבלו את התרופות והמינונים הנכונים למצבם."
+            }
+        ]
+    }
+]

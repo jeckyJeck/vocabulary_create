@@ -1,0 +1,40 @@
+[
+    {
+        "word": "removable",
+        "word_hebrew": "ניתן להסרה",
+        "main_definition": "Describes something that can be taken away or detached without causing permanent damage.",
+        "main_definition_hebrew": "מתאר משהו שניתן לקחת או לנתק מבלי לגרום לנזק קבוע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Capable of being removed from a surface",
+                "definition_hebrew": "ניתן להסרה ממשטח",
+                "example": "The stickers on the wall are removable, so we can change their design whenever we want.",
+                "example_hebrew": "המדבקות על הקיר ניתנות להסרה, כך שנוכל לשנות את העיצוב שלהן מתי שנרצה."
+            },
+            {
+                "definition": "Not fixed permanently; able to be taken out or changed easily",
+                "definition_hebrew": "לא קבוע לצמיתות; ניתן להוציא או לשנות בקלות",
+                "example": "She opted for a removable ring that she could wear every day and take off when needed.",
+                "example_hebrew": "היא בחרה בטבעת נשלפת שתוכל לענוד בכל יום ולהוריד בעת הצורך."
+            },
+            {
+                "definition": "A type of insurance policy covering only specific items, which can be removed from the coverage as desired",
+                "definition_hebrew": "סוג של פוליסת ביטוח המכסה פריטים ספציפיים בלבד, אותם ניתן להסיר מהכיסוי לפי הצורך",
+                "example": "He purchased a car with a removable warranty that covered his vehicle for five years but allowed him to remove it after three.",
+                "example_hebrew": "הוא רכש מכונית עם אחריות ניתנת להסרה שכיסתה את רכבו למשך חמש שנים אך אפשרה לו להסירו לאחר שלוש."
+            },
+            {
+                "definition": "A feature of a book or software where content is not permanently linked, allowing users to navigate freely",
+                "definition_hebrew": "תכונה של ספר או תוכנה שבהם התוכן אינו מקושר באופן קבוע, המאפשר למשתמשים לנווט בחופשיות",
+                "example": "The e-book we're reading has a removable table of contents that lets us jump directly to any chapter we want.",
+                "example_hebrew": "לספר האלקטרוני שאנו קוראים יש תוכן עניינים נשלף המאפשר לנו לקפוץ ישירות לכל פרק שנרצה."
+            },
+            {
+                "definition": "A medical device used in surgery that can be taken out after the procedure is complete",
+                "definition_hebrew": "מכשיר רפואי המשמש בניתוח שניתן להוציא לאחר השלמת ההליך",
+                "example": "After the operation, the surgeon removed the removable cast from his leg for a proper inspection and cleaning.",
+                "example_hebrew": "לאחר הניתוח הסיר המנתח את הגבס הנשלף מרגלו לצורך בדיקה וניקוי מתאימים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "word": "relation",
+        "word_hebrew": "יַחַס",
+        "main_definition": "Relation refers to the connection or association between two or more things, concepts, individuals, or variables.",
+        "main_definition_hebrew": "קשר מתייחס לקשר או לקשר בין שני דברים או יותר, מושגים, פרטים או משתנים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The mathematical concept that expresses the proportionality of one variable to another.",
+                "definition_hebrew": "המושג המתמטי המבטא את המידתיות של משתנה אחד למשנהו.",
+                "example": "In geometry, the relation 'parallel' describes lines that run alongside each other without intersecting.",
+                "example_hebrew": "בגיאומטריה, היחס 'מקביל' מתאר קווים העוברים זה לצד זה מבלי להצטלב."
+            },
+            {
+                "definition": "A connection between people based on familial ties or marriage.",
+                "definition_hebrew": "קשר בין אנשים המבוסס על קשרים משפחתיים או נישואים.",
+                "example": "John and Jane are cousins; they share a biological relation as they have a common family member, their uncle.",
+                "example_hebrew": "ג'ון וג'יין הם בני דודים; הם חולקים קשר ביולוגי מכיוון שיש להם בן משפחה משותף, הדוד שלהם."
+            },
+            {
+                "definition": "The linkage of ideas within written text that shows how one concept relates to another.",
+                "definition_hebrew": "הקישור של רעיונות בתוך טקסט כתוב המראה כיצד מושג אחד קשור למשנהו.",
+                "example": "In the sentence 'Because it was raining, she took her umbrella', 'because' establishes a relation between the rain and taking an umbrella.",
+                "example_hebrew": "במשפט 'בגלל שירד גשם היא לקחה את המטריה', 'כי' מבסס קשר בין הגשם ללקיחת מטריה."
+            },
+            {
+                "definition": "The degree of similarity or difference in characteristics, behaviors, or qualities.",
+                "definition_hebrew": "מידת הדמיון או השוני במאפיינים, התנהגויות או תכונות.",
+                "example": "Two students have different relations to studying; one is studious while the other struggles with focus.",
+                "example_hebrew": "לשני תלמידים יש יחסים שונים ללימודים; אחד קפדן בעוד השני נאבק במיקוד."
+            },
+            {
+                "definition": "The way two or more things are related in terms of cause and effect, correlation, or dependency.",
+                "definition_hebrew": "האופן שבו שני דברים או יותר קשורים במונחים של סיבה ותוצאה, מתאם או תלות.",
+                "example": "There is a relation between smoking and lung disease; long-term smokers have a higher risk of developing respiratory issues.",
+                "example_hebrew": "יש קשר בין עישון למחלות ריאות; למעשנים לטווח ארוך יש סיכון גבוה יותר לפתח בעיות נשימה."
+            },
+            {
+                "definition": "The act of forming an official connection between two entities for legal, social, or administrative purposes.",
+                "definition_hebrew": "הפעולה של יצירת קשר רשמי בין שתי ישויות למטרות משפטיות, חברתיות או מנהליות.",
+                "example": "When Sarah married Tom, they established a civil relation by submitting their marriage certificate to the government.",
+                "example_hebrew": "כששרה נישאה לתום, הם יצרו קשר אזרחי על ידי הגשת תעודת הנישואין שלהם לממשלה."
+            }
+        ]
+    }
+]

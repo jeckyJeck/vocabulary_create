@@ -1,0 +1,34 @@
+[
+    {
+        "word": "address",
+        "word_hebrew": "כתובת",
+        "main_definition": "To direct a communication towards someone or to locate the position of something, often involving specific details such as name, location, and other identifying information.",
+        "main_definition_hebrew": "לכוון תקשורת כלפי מישהו או לאתר את המיקום של משהו, לעתים קרובות כרוך בפרטים ספציפיים כגון שם, מיקום ומידע מזהה אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To communicate with someone regarding an issue or concern",
+                "definition_hebrew": "לתקשר עם מישהו לגבי בעיה או דאגה",
+                "example": "I need to address your recent performance at work.",
+                "example_hebrew": "אני צריך להתייחס לביצועים האחרונים שלך בעבודה."
+            },
+            {
+                "definition": "The location of a building, person, organization, etc.",
+                "definition_hebrew": "מיקומו של בניין, אדם, ארגון וכו'.",
+                "example": "Please provide me the street address of the restaurant you visited last night.",
+                "example_hebrew": "אנא ספק לי את כתובת הרחוב של המסעדה שבה ביקרת אמש."
+            },
+            {
+                "definition": "To deal with or confront an issue",
+                "definition_hebrew": "לטפל או להתמודד עם בעיה",
+                "example": "She had to address the problem head-on and find a solution.",
+                "example_hebrew": "היא נאלצה לטפל בבעיה חזיתית ולמצוא פתרון."
+            },
+            {
+                "definition": "A formal letter, often used for legal or official purposes",
+                "definition_hebrew": "מכתב רשמי, המשמש לעתים קרובות למטרות משפטיות או רשמיות",
+                "example": "I received your address in person as part of my job application process.",
+                "example_hebrew": "קיבלתי את כתובתך באופן אישי כחלק מתהליך הגשת מועמדותי לעבודה."
+            }
+        ]
+    }
+]

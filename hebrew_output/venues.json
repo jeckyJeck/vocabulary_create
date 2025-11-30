@@ -1,0 +1,34 @@
+[
+    {
+        "word": "venues",
+        "word_hebrew": "מקומות",
+        "main_definition": "Venues refer to places where events, performances, or gatherings take place.",
+        "main_definition_hebrew": "מקומות מתייחסים למקומות שבהם מתקיימים אירועים, הופעות או התכנסויות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Places for hosting conferences and meetings",
+                "definition_hebrew": "מקומות לאירוח כנסים ומפגשים",
+                "example": "The convention center served as a venue for the annual business conference.",
+                "example_hebrew": "מרכז הכנסים שימש כמקום לכנס העסקים השנתי."
+            },
+            {
+                "definition": "Facilities where performances or events occur",
+                "definition_hebrew": "מתקנים שבהם מתרחשות הופעות או אירועים",
+                "example": "The local theatre was an excellent venue for community plays and concerts.",
+                "example_hebrew": "התיאטרון המקומי היה מקום מצוין להצגות וקונצרטים קהילתיים."
+            },
+            {
+                "definition": "Places used to sell products directly to consumers",
+                "definition_hebrew": "מקומות המשמשים למכירת מוצרים ישירות לצרכנים",
+                "example": "Street markets often serve as venues for vendors selling handmade crafts and food items.",
+                "example_hebrew": "שווקי רחוב משמשים לעתים קרובות כמקום למוכרים של מלאכת יד ופריטי מזון בעבודת יד."
+            },
+            {
+                "definition": "Areas designated for sporting events or competitions",
+                "definition_hebrew": "אזורים המיועדים לאירועי ספורט או תחרויות",
+                "example": "The stadium was the main venue for hosting the regional football championship.",
+                "example_hebrew": "האצטדיון היה המקום המרכזי לאירוח אליפות הכדורגל האזורית."
+            }
+        ]
+    }
+]

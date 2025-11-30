@@ -1,0 +1,34 @@
+[
+    {
+        "word": "illegal",
+        "word_hebrew": "בִּלתִי חוּקִי",
+        "main_definition": "Something that is not permitted by law or against the legal regulations.",
+        "main_definition_hebrew": "דבר שאינו מותר על פי חוק או בניגוד לתקנות החוק.",
+        "meanings_and_examples": [
+            {
+                "definition": "Involving criminal activity and prosecuted as a crime.",
+                "definition_hebrew": "הכרוך בפעילות פלילית והעמיד לדין כפשע.",
+                "example": "Driving under the influence of alcohol is illegal.",
+                "example_hebrew": "נהיגה תחת השפעת אלכוהול אינה חוקית."
+            },
+            {
+                "definition": "A state or condition that lacks legal validity or recognition.",
+                "definition_hebrew": "מדינה או תנאי חסרי תוקף או הכרה משפטית.",
+                "example": "An informal marriage may be considered 'illegal' in some jurisdictions if not officially registered.",
+                "example_hebrew": "נישואים לא פורמליים עשויים להיחשב 'לא חוקיים' בתחומי שיפוט מסוימים אם אינם רשומים רשמית."
+            },
+            {
+                "definition": "Not conforming to the rules and regulations set by a governing body.",
+                "definition_hebrew": "לא תואם את הכללים והתקנות שנקבעו על ידי גוף שלטוני.",
+                "example": "Selling homemade food without proper health permits can be deemed illegal.",
+                "example_hebrew": "מכירת מזון תוצרת בית ללא אישורי בריאות מתאימים יכולה להיחשב בלתי חוקית."
+            },
+            {
+                "definition": "Without legal authority or permission, often in reference to actions not permitted by law.",
+                "definition_hebrew": "ללא סמכות או רשות חוקית, לרוב בהתייחס לפעולות שאינן מותרות בחוק.",
+                "example": "Using someone else's computer without their consent is an illegal act.",
+                "example_hebrew": "שימוש במחשב של מישהו אחר ללא הסכמתו הוא מעשה בלתי חוקי."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "year",
+        "word_hebrew": "שָׁנָה",
+        "main_definition": "A period of time consisting of 365 days (or 366 in a leap year) which is used to measure the passage of time, typically marked by annual events and cycles.",
+        "main_definition_hebrew": "פרק זמן המורכב מ-365 ימים (או 366 בשנה מעוברת) המשמש למדידת חלוף הזמן, המסומן בדרך כלל על ידי אירועים שנתיים ומחזוריות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Time span from January 1st to December 31st",
+                "definition_hebrew": "טווח זמן מה-1 בינואר עד ה-31 בדצמבר",
+                "example": "The last year was a challenging one for many businesses.",
+                "example_hebrew": "השנה האחרונה הייתה מאתגרת עבור עסקים רבים."
+            },
+            {
+                "definition": "A unit of time equal to approximately 365.24 days, used in calendars and age calculation",
+                "definition_hebrew": "יחידת זמן השווה ל-365.24 ימים לערך, המשמשת בלוחות שנה ובחישוב גיל",
+                "example": "He is turning 10 years old next month.",
+                "example_hebrew": "בחודש הבא ימלאו לו 10 שנים."
+            },
+            {
+                "definition": "The period during which a particular event or situation lasts",
+                "definition_hebrew": "התקופה שבה נמשך אירוע או מצב מסוים",
+                "example": "The five-year project took meticulous planning, but it was worth the effort.",
+                "example_hebrew": "הפרויקט בן החמש שנים לקח תכנון קפדני, אבל זה היה שווה את המאמץ."
+            },
+            {
+                "definition": "A term used to describe an age range in legal documents and contracts",
+                "definition_hebrew": "מונח המשמש לתיאור טווח גילאים במסמכים וחוזים משפטיים",
+                "example": "This policy applies only for individuals under 18 years of age or those within their first year of employment.",
+                "example_hebrew": "מדיניות זו חלה רק על אנשים מתחת לגיל 18 או על אלה בתוך שנת עבודתם הראשונה."
+            },
+            {
+                "definition": "Used metaphorically to represent a period of personal growth or development",
+                "definition_hebrew": "משמש באופן מטפורי לייצג תקופה של צמיחה או התפתחות אישית",
+                "example": "In just one year, he has learned so much and become more confident in himself.",
+                "example_hebrew": "בשנה אחת בלבד, הוא למד כל כך הרבה והפך בטוח יותר בעצמו."
+            }
+        ]
+    }
+]

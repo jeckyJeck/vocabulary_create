@@ -1,0 +1,34 @@
+[
+    {
+        "word": "contributors",
+        "word_hebrew": "תורמים",
+        "main_definition": "Individuals or entities who actively participate in adding value, content, resources, or efforts towards a shared goal, project, or body of work.",
+        "main_definition_hebrew": "אנשים או ישויות המשתתפים באופן פעיל בהוספת ערך, תוכן, משאבים או מאמצים לקראת מטרה, פרויקט או גוף עבודה משותפים.",
+        "meanings_and_examples": [
+            {
+                "definition": "People who add their ideas and effort to a collaborative project",
+                "definition_hebrew": "אנשים שמוסיפים את הרעיונות והמאמץ שלהם לפרויקט שיתופי",
+                "example": "In the open-source software community, programmers are key contributors by writing code and fixing bugs.",
+                "example_hebrew": "בקהילת התוכנה בקוד פתוח, מתכנתים הם תורמים מרכזיים על ידי כתיבת קוד ותיקון באגים."
+            },
+            {
+                "definition": "Entities that provide financial support or resources for a venture or initiative",
+                "definition_hebrew": "ישויות המספקות תמיכה כספית או משאבים למיזם או יוזמה",
+                "example": "Donors can be considered as financial contributors to nonprofit organizations aiming at social welfare.",
+                "example_hebrew": "תורמים יכולים להיחשב כתורמים כספיים לעמותות שמטרתן רווחה חברתית."
+            },
+            {
+                "definition": "Authors or creators who contribute written works, articles, books, etc.",
+                "definition_hebrew": "מחברים או יוצרים התורמים יצירות כתובות, מאמרים, ספרים וכו'.",
+                "example": "Writers and poets are content contributors in the publishing industry by writing novels, stories, or poetry collections.",
+                "example_hebrew": "סופרים ומשוררים הם תורמי תוכן בתעשיית ההוצאה לאור על ידי כתיבת רומנים, סיפורים או אוספי שירה."
+            },
+            {
+                "definition": "Participants in a research study or experiment",
+                "definition_hebrew": "משתתפים במחקר או ניסוי",
+                "example": "Study participants who provide data for medical research can be seen as valuable contributors to scientific progress.",
+                "example_hebrew": "משתתפי מחקר המספקים נתונים למחקר רפואי יכולים להיראות כתורמים חשובים להתקדמות מדעית."
+            }
+        ]
+    }
+]

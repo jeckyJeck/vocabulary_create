@@ -1,0 +1,40 @@
+[
+    {
+        "word": "majority",
+        "word_hebrew": "רוֹב",
+        "main_definition": "The greater number or part; the larger portion of a group.",
+        "main_definition_hebrew": "המספר או החלק הגדולים יותר; החלק הגדול יותר של קבוצה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A numerical majority, referring to more than half of an entire population, voting body, etc.",
+                "definition_hebrew": "רוב מספרי, הכוונה ליותר ממחצית מאוכלוסיה שלמה, גוף מצביע וכו'.",
+                "example": "In the election, Candidate A won by a majority with 60% of the votes.",
+                "example_hebrew": "בבחירות זכה מועמד א' ברוב עם 60% מהקולות."
+            },
+            {
+                "definition": "The largest part or group in a situation",
+                "definition_hebrew": "החלק או הקבוצה הגדולים ביותר במצב",
+                "example": "Despite their differences, the business board managed to make decisions as a majority agreed on key issues.",
+                "example_hebrew": "למרות חילוקי הדעות ביניהם, הדירקטוריון העסקי הצליח לקבל החלטות כשהרוב הסכים בנושאים מרכזיים."
+            },
+            {
+                "definition": "A decision supported by more than half of those voting or present",
+                "definition_hebrew": "החלטה שנתמכת על ידי יותר ממחצית מהמצביעים או הנוכחים",
+                "example": "The proposal was passed with a clear majority vote in favor during the town hall meeting.",
+                "example_hebrew": "ההצעה התקבלה ברוב ברור בעד במהלך ישיבת העירייה."
+            },
+            {
+                "definition": "In legal terms, a group representing the majority interest when decisions are made collectively",
+                "definition_hebrew": "במונחים משפטיים, קבוצה המייצגת את אינטרס הרוב כאשר החלטות מתקבלות באופן קולקטיבי",
+                "example": "The shareholders' majority voted to approve the new CEO’s plan for restructuring.",
+                "example_hebrew": "רוב בעלי המניות הצביעו בעד אישור התוכנית לארגון מחדש של המנכ\"ל החדש."
+            },
+            {
+                "definition": "A larger proportion of one characteristic or element within a whole",
+                "definition_hebrew": "חלק גדול יותר של מאפיין או אלמנט אחד בתוך שלם",
+                "example": "Majority languages refer to those spoken by more than half the population in a given country.",
+                "example_hebrew": "שפות רוב מתייחסות לשפות המדוברות על ידי יותר ממחצית האוכלוסייה במדינה מסוימת."
+            }
+        ]
+    }
+]

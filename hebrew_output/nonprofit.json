@@ -1,0 +1,34 @@
+[
+    {
+        "word": "nonprofit",
+        "word_hebrew": "ללא מטרות רווח",
+        "main_definition": "A nonprofit organization is an entity that operates without the primary goal of making a profit or distributing its surplus funds to owners or shareholders, but instead focuses on furthering a social cause or providing public benefit.",
+        "main_definition_hebrew": "ארגון ללא מטרות רווח הוא ישות הפועלת ללא המטרה העיקרית להרוויח או לחלק את הכספים העודפים שלה לבעלים או לבעלי מניות, אלא מתמקדת בקידום מטרה חברתית או במתן תועלת ציבורית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A type of organization",
+                "definition_hebrew": "סוג של ארגון",
+                "example": "The Red Cross is a nonprofit organization dedicated to humanitarian aid.",
+                "example_hebrew": "הצלב האדום הוא ארגון ללא מטרות רווח המוקדש לסיוע הומניטרי."
+            },
+            {
+                "definition": "Organizations that reinvest profits back into the organization for furthering their mission",
+                "definition_hebrew": "ארגונים שמשקיעים מחדש רווחים בחזרה לארגון לקידום משימתם",
+                "example": "An animal shelter operates as a nonprofit, using any extra funds to help more animals in need.",
+                "example_hebrew": "מקלט לבעלי חיים פועל כמלכ\"ר, תוך שימוש בכל כספים נוספים כדי לעזור לבעלי חיים נוספים במצוקה."
+            },
+            {
+                "definition": "Funded through donations or grants rather than selling products or services",
+                "definition_hebrew": "ממומן באמצעות תרומות או מענקים במקום מכירת מוצרים או שירותים",
+                "example": "A community library is often funded by donations and operates as a nonprofit.",
+                "example_hebrew": "ספרייה קהילתית ממומנת לרוב על ידי תרומות ופועלת כמלכ\"ר."
+            },
+            {
+                "definition": "Exempt from certain taxes due to their charitable purpose",
+                "definition_hebrew": "פטור ממסים מסוימים בשל מטרת הצדקה שלהם",
+                "example": "Nonprofit organizations are usually exempt from income tax, such as the United Way.",
+                "example_hebrew": "ארגונים ללא מטרות רווח בדרך כלל פטורים ממס הכנסה, כמו United Way."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "age",
+        "word_hebrew": "גיל",
+        "main_definition": "Age refers to the number of years a person or object has existed since its creation, formation, or birth.",
+        "main_definition_hebrew": "גיל מתייחס למספר השנים שאדם או חפץ קיימים מאז יצירתו, היווצרותו או לידתו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Time that has passed since an event occurred",
+                "definition_hebrew": "זמן שחלף מאז התרחש אירוע",
+                "example": "I have been working at this company for 10 years.",
+                "example_hebrew": "אני עובד בחברה הזו כבר 10 שנים."
+            },
+            {
+                "definition": "The length of time someone or something has existed from birth to the present",
+                "definition_hebrew": "משך הזמן שקיים מישהו או משהו מהלידה ועד היום",
+                "example": "My grandmother is over 90 years old, and I admire her wisdom and experience.",
+                "example_hebrew": "סבתא שלי בת יותר מ-90, ואני מעריץ את החוכמה והניסיון שלה."
+            },
+            {
+                "definition": "A measure of how mature a person's appearance seems based on their age",
+                "definition_hebrew": "מדד למידת בוגרת המראה של אדם נראה על סמך גילו",
+                "example": "Despite his young age, he looks much older due to stress and lack of sleep.",
+                "example_hebrew": "למרות גילו הצעיר, הוא נראה הרבה יותר מבוגר בגלל מתח וחוסר שינה."
+            },
+            {
+                "definition": "The process by which an object or substance deteriorates over time",
+                "definition_hebrew": "התהליך שבו אובייקט או חומר מתדרדר עם הזמן",
+                "example": "This painting is starting to show signs of aging; the colors have faded significantly.",
+                "example_hebrew": "הציור הזה מתחיל להראות סימני הזדקנות; הצבעים דהו באופן משמעותי."
+            }
+        ]
+    }
+]

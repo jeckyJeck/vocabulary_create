@@ -1,0 +1,34 @@
+[
+    {
+        "word": "pet",
+        "word_hebrew": "חיית מחמד",
+        "main_definition": "A pet is a domesticated animal kept primarily for companionship.",
+        "main_definition_hebrew": "חיית מחמד היא חיה מבויתת המוחזקת בעיקר לצורכי חברות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Animal companion",
+                "definition_hebrew": "בן לוויה של בעלי חיים",
+                "example": "My cat, Whiskers, is my loyal animal companion.",
+                "example_hebrew": "החתול שלי, שפם, הוא בן לוויה הנאמן שלי לבעלי חיים."
+            },
+            {
+                "definition": "Subject of affection and care by humans",
+                "definition_hebrew": "נושא של חיבה וטיפול של בני אדם",
+                "example": "John's dog, Max, is his favorite subject of affection and care.",
+                "example_hebrew": "הכלב של ג'ון, מקס, הוא הנושא האהוב עליו של חיבה וטיפול."
+            },
+            {
+                "definition": "A term used to describe a person or object that one has special attachment to",
+                "definition_hebrew": "מונח המשמש לתיאור אדם או חפץ שיש לו קשר מיוחד אליו",
+                "example": "For her, the antique vase was more than just an item; it was her pet piece in the collection.",
+                "example_hebrew": "עבורה, האגרטל העתיק היה יותר מסתם פריט; זה היה פריט המחמד שלה באוסף."
+            },
+            {
+                "definition": "In slang, referring to something loved or cherished by someone",
+                "definition_hebrew": "בסלנג, הכוונה למשהו אהוב או מוקיר על ידי מישהו",
+                "example": "His car is his pet, he loves and takes care of it like a child.",
+                "example_hebrew": "המכונית שלו היא חיית המחמד שלו, הוא אוהב ודואג לה כמו ילד."
+            }
+        ]
+    }
+]

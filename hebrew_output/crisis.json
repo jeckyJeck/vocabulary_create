@@ -1,0 +1,40 @@
+[
+    {
+        "word": "crisis",
+        "word_hebrew": "מַשׁבֵּר",
+        "main_definition": "A time of intense difficulty, trouble, or danger; a critical turning point where immediate action is needed to prevent worsening consequences.",
+        "main_definition_hebrew": "תקופה של קושי עז, צרות או סכנה; נקודת מפנה קריטית שבה נדרשת פעולה מיידית למניעת החרפת השלכות.",
+        "meanings_and_examples": [
+            {
+                "definition": "An unexpected event causing serious change and uncertainty",
+                "definition_hebrew": "אירוע בלתי צפוי הגורם לשינוי וחוסר ודאות רציניים",
+                "example": "The financial crisis led to major bankruptcies and unemployment.",
+                "example_hebrew": "המשבר הפיננסי הוביל לפשיטות רגל גדולות ואבטלה."
+            },
+            {
+                "definition": "A situation of intense difficulty or danger that requires immediate attention",
+                "definition_hebrew": "מצב של קושי עז או סכנה הדורשת התייחסות מיידית",
+                "example": "During the pandemic, many countries faced a healthcare crisis as hospitals became overwhelmed with patients.",
+                "example_hebrew": "במהלך המגיפה, מדינות רבות התמודדו עם משבר בריאות כאשר בתי החולים הפכו למוצפים בחולים."
+            },
+            {
+                "definition": "An emotional and psychological state experienced during times of stress or uncertainty",
+                "definition_hebrew": "מצב רגשי ופסיכולוגי שנחווה בתקופות של לחץ או חוסר ודאות",
+                "example": "She was in a personal crisis after her divorce.",
+                "example_hebrew": "היא הייתה במשבר אישי לאחר גירושיה."
+            },
+            {
+                "definition": "A point at which decisions must be made that can significantly impact the future",
+                "definition_hebrew": "נקודה שבה יש לקבל החלטות שיכולות להשפיע באופן משמעותי על העתיד",
+                "example": "The company is facing an energy crisis and needs to decide whether to invest in renewable sources or continue with fossil fuels.",
+                "example_hebrew": "החברה עומדת בפני משבר אנרגיה וצריכה להחליט אם להשקיע במקורות מתחדשים או להמשיך בדלקים מאובנים."
+            },
+            {
+                "definition": "A situation of critical risk where a quick response is required to prevent further damage or loss",
+                "definition_hebrew": "מצב של סיכון קריטי בו נדרשת תגובה מהירה למניעת נזק או אובדן נוספים",
+                "example": "The environmental disaster posed a water crisis for the affected communities.",
+                "example_hebrew": "האסון הסביבתי היווה משבר מים עבור הקהילות שנפגעו."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "deputy",
+        "word_hebrew": "סְגָן",
+        "main_definition": "A deputy is a person who acts as an agent or representative, often with limited authority but in the absence of someone else.",
+        "main_definition_hebrew": "סגן הוא אדם הפועל כסוכן או נציג, לרוב בעל סמכות מוגבלת אך בהיעדר מישהו אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Second-in-command",
+                "definition_hebrew": "שני בפיקודו",
+                "example": "The governor's deputy oversees all administrative tasks while the governor is away.",
+                "example_hebrew": "סגנו של הנגיד מפקח על כל המשימות הניהוליות בזמן שהנגיד אינו."
+            },
+            {
+                "definition": "Subordinate official or assistant",
+                "definition_hebrew": "פקיד או עוזר כפוף",
+                "example": "At the police station, the deputy chief of police assists in managing daily operations.",
+                "example_hebrew": "בתחנת המשטרה מסייע סגן מפקד המשטרה בניהול הפעילות היומיומית."
+            },
+            {
+                "definition": "A representative or spokesperson for a larger group",
+                "definition_hebrew": "נציג או דובר של קבוצה גדולה יותר",
+                "example": "The student council's vice president serves as the school's deputy voice to the administration.",
+                "example_hebrew": "סגן נשיא מועצת התלמידים משמש כסגן הקול של בית הספר להנהלה."
+            },
+            {
+                "definition": "A temporary replacement in absence of another person",
+                "definition_hebrew": "תחליף זמני בהעדר אדם אחר",
+                "example": "When the head chef was sick, the sous-chef took on her duties as a food service deputy.",
+                "example_hebrew": "כשהשף הראשי היה חולה, הסו-שף קיבלה על עצמה את תפקידה כסגנית שירות מזון."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "replacing",
+        "word_hebrew": "מחליף",
+        "main_definition": "To substitute one thing or person with another in a particular context.",
+        "main_definition_hebrew": "להחליף דבר או אדם אחד באחר בהקשר מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Exchanging an item for a new or different one due to damage, wear, or obsolescence.",
+                "definition_hebrew": "החלפת פריט בחדש או אחר עקב נזק, בלאי או התיישנות.",
+                "example": "When the old car broke down, I had to replace it with a newer model.",
+                "example_hebrew": "כשהמכונית הישנה התקלקלה, נאלצתי להחליף אותה בדגם חדש יותר."
+            },
+            {
+                "definition": "Substituting one person's role or responsibilities with another in a workplace setting.",
+                "definition_hebrew": "החלפת תפקיד או אחריות של אדם אחד באחר במסגרת מקום עבודה.",
+                "example": "The manager decided to replace John as team leader because he was moving abroad.",
+                "example_hebrew": "המנהל החליט להחליף את ג'ון כראש צוות מכיוון שהוא עבר לחו\"ל."
+            },
+            {
+                "definition": "Taking the place of an object or action that is no longer present, applicable, or valid.",
+                "definition_hebrew": "תופס את מקומו של חפץ או פעולה שאינם קיימים, ישימים או תקפים עוד.",
+                "example": "When they realized the outdated map wouldn't help them, they replaced it with a GPS system.",
+                "example_hebrew": "כשהבינו שהמפה המיושנת לא תעזור להם, הם החליפו אותה במערכת GPS."
+            },
+            {
+                "definition": "Changing something old or ineffective for a new and improved version or method.",
+                "definition_hebrew": "שינוי משהו ישן או לא יעיל לגרסה או שיטה חדשה ומשופרת.",
+                "example": "The company decided to replace their old marketing strategy with a more modern approach.",
+                "example_hebrew": "החברה החליטה להחליף את אסטרטגיית השיווק הישנה שלה בגישה מודרנית יותר."
+            },
+            {
+                "definition": "To serve as an alternative or backup, often used when referring to tools or components within machinery.",
+                "definition_hebrew": "לשמש כחלופה או גיבוי, משמש לעתים קרובות כאשר מתייחסים לכלים או רכיבים בתוך מכונות.",
+                "example": "In case of failure, the spare part will be replacing the original one in the engine assembly.",
+                "example_hebrew": "במקרה של תקלה, חלק החילוף יחליף את המקורי במכלול המנוע."
+            }
+        ]
+    }
+]

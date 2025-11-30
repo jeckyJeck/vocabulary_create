@@ -1,0 +1,40 @@
+[
+    {
+        "word": "functional",
+        "word_hebrew": "פוּנקצִיוֹנָלִי",
+        "main_definition": "In simple English, 'functional' refers to something that is working properly or able to perform its intended function.",
+        "main_definition_hebrew": "באנגלית פשוטה, 'פונקציונלי' מתייחס למשהו שפועל כראוי או מסוגל לבצע את תפקידו המיועד.",
+        "meanings_and_examples": [
+            {
+                "definition": "Pertaining to a particular purpose or designed for a specific function",
+                "definition_hebrew": "נוגע למטרה מסוימת או מיועד לפונקציה מסוימת",
+                "example": "This kitchen appliance is highly functional with multiple features like blending, chopping, and grinding.",
+                "example_hebrew": "מכשיר מטבח זה פונקציונלי ביותר עם תכונות מרובות כמו מיזוג, חיתוך וטחינה."
+            },
+            {
+                "definition": "In the context of programming, 'functional' describes code that emphasizes using functions to perform tasks.",
+                "definition_hebrew": "בהקשר של תכנות, 'פונקציונלי' מתאר קוד המדגיש שימוש בפונקציות לביצוע משימות.",
+                "example": "The programmer wrote a functional script that calculates taxes based on user input.",
+                "example_hebrew": "המתכנת כתב סקריפט פונקציונלי שמחשב מיסים על סמך קלט המשתמש."
+            },
+            {
+                "definition": "Regarding furniture or equipment being in good working order",
+                "definition_hebrew": "לגבי רהיטים או ציוד במצב תקין",
+                "example": "Our office is filled with functional furniture, all of which supports us throughout the day.",
+                "example_hebrew": "משרדנו מלא ברהיטים פונקציונליים, כל אלה תומכים בנו לאורך כל היום."
+            },
+            {
+                "definition": "Describing an aesthetic style where form follows function without unnecessary decoration",
+                "definition_hebrew": "תיאור סגנון אסתטי שבו הצורה באה בעקבות הפונקציה ללא עיטור מיותר",
+                "example": "The minimalist building's design prioritized functionality over elaborate ornamentation.",
+                "example_hebrew": "העיצוב של הבניין המינימליסטי העדיף פונקציונליות על פני קישוטים משוכללים."
+            },
+            {
+                "definition": "A type of software architecture that emphasizes the separation and modularity of functions",
+                "definition_hebrew": "סוג של ארכיטקטורת תוכנה המדגישה את ההפרדה והמודולריות של פונקציות",
+                "example": "Functional programming languages like Haskell use this approach to build complex programs from simple, reusable pieces.",
+                "example_hebrew": "שפות תכנות פונקציונליות כמו Haskell משתמשות בגישה זו כדי לבנות תוכניות מורכבות מחלקים פשוטים הניתנים לשימוש חוזר."
+            }
+        ]
+    }
+]

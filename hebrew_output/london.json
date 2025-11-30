@@ -1,0 +1,46 @@
+[
+    {
+        "word": "london",
+        "word_hebrew": "לונדון",
+        "main_definition": "The capital city of the United Kingdom, famous for its historical landmarks and diverse culture.",
+        "main_definition_hebrew": "עיר הבירה של הממלכה המאוחדת, המפורסמת בזכות ציוני הדרך ההיסטוריים והתרבות המגוונת שלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A person from London or an inhabitant of the city.",
+                "definition_hebrew": "אדם מלונדון או תושב העיר.",
+                "example": "She is a native of London, born and raised in the heart of the British capital.",
+                "example_hebrew": "היא ילידת לונדון, נולדה וגדלה בלב הבירה הבריטית."
+            },
+            {
+                "definition": "An idiomatic expression referring to a person's origin from London, often used casually in conversation or writing to denote someone who embodies typical London characteristics.",
+                "definition_hebrew": "ביטוי אידיומטי המתייחס למוצאו של אדם מלונדון, המשמש לעתים קרובות כלאחר יד בשיחה או בכתיבה כדי לציין מישהו שמגלם מאפיינים לונדוניים טיפוסיים.",
+                "example": "He has that classic 'Londoner' charm and wit.",
+                "example_hebrew": "יש לו את הקסם והשנינות הקלאסיים ה'לונדוניים'."
+            },
+            {
+                "definition": "The central hub of the British transportation network, including major airports like Heathrow, rail stations such as Paddington and King's Cross, and extensive public transit systems.",
+                "definition_hebrew": "המרכז המרכזי של רשת התחבורה הבריטית, כולל שדות תעופה גדולים כמו הית'רו, תחנות רכבת כמו פדינגטון וקינגס קרוס ומערכות תחבורה ציבורית נרחבות.",
+                "example": "London is an international travel hub with its busy airport, vast railway system, and iconic red buses.",
+                "example_hebrew": "לונדון היא מרכז נסיעות בינלאומי עם נמל התעופה העמוס, מערכת הרכבות העצומה והאוטובוסים האדומים האייקוניים."
+            },
+            {
+                "definition": "A colloquial term for a type of pub or restaurant in London known for their traditional British cuisine and cozy atmosphere.",
+                "definition_hebrew": "כינוי עממי לסוג של פאב או מסעדה בלונדון הידועים במטבח הבריטי המסורתי ובאווירה הנעימה שלהם.",
+                "example": "They enjoyed a hearty meal at an old-fashioned 'Londoner' eatery, savoring the classic dishes.",
+                "example_hebrew": "הם נהנו מארוחה דשנה במזללת 'לונדונרית' מיושנת, והתענגו על המנות הקלאסיות."
+            },
+            {
+                "definition": "A nickname sometimes used to describe certain characteristics attributed to Londoners, such as being direct or having a distinctive accent.",
+                "definition_hebrew": "כינוי המשמש לעתים לתיאור מאפיינים מסוימים המיוחסים לתושבי לונדון, כגון היותו ישיר או בעל מבטא מיוחד.",
+                "example": "When she spoke with her British friend, she noticed his 'Londoner' manner of speaking and instantly recognized where he was from.",
+                "example_hebrew": "כשדיברה עם חברתה הבריטית, היא שמה לב לצורת הדיבור ה'לונדונית' שלו וזיהתה מיד מאיפה הוא."
+            },
+            {
+                "definition": "The geographical reference to the city itself or its metropolitan area, often used in contexts discussing urban development, demographics, or culture.",
+                "definition_hebrew": "ההתייחסות הגיאוגרפית לעיר עצמה או למטרופולין שלה, משמשת לעתים קרובות בהקשרים הדנים בפיתוח עירוני, דמוגרפיה או תרבות.",
+                "example": "The 'London' metro system is one of the largest and most efficient public transportation systems in the world.",
+                "example_hebrew": "מערכת המטרו 'לונדון' היא אחת ממערכות התחבורה הציבורית הגדולות והיעילות בעולם."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "podcast",
+        "word_hebrew": "פודקאסט",
+        "main_definition": "A podcast is a digital audio or video file made available on the Internet via RSS feed, typically consisting of series episodes in various topics.",
+        "main_definition_hebrew": "פודקאסט הוא קובץ אודיו או וידאו דיגיטלי הזמין באינטרנט באמצעות הזנת RSS, המורכב בדרך כלל מפרקי סדרה בנושאים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Series of spoken entertainment (audio only)",
+                "definition_hebrew": "סדרת בידור מדוברת (אודיו בלבד)",
+                "example": "The popular comedy podcast 'WTF with Marc Maron' features interviews and monologues by comedian Marc Maron.",
+                "example_hebrew": "הפודקאסט הקומדיה הפופולרי 'WTF with Marc Maron' כולל ראיונות ומונולוגים של הקומיקאי מארק מרון."
+            },
+            {
+                "definition": "Educational or informative series (audio/video)",
+                "definition_hebrew": "סדרה חינוכית או אינפורמטיבית (אודיו/וידאו)",
+                "example": "NPR's 'Science Friday' is a podcast that discusses the latest scientific research, discoveries and news in an engaging way.",
+                "example_hebrew": "'Science Friday' של NPR הוא פודקאסט שדן במחקרים המדעיים האחרונים, בתגליות ובחדשות בצורה מרתקת."
+            },
+            {
+                "definition": "Marketing tool for businesses",
+                "definition_hebrew": "כלי שיווקי לעסקים",
+                "example": "The tech company XYZ releases monthly podcast episodes featuring interviews with industry experts to promote their products.",
+                "example_hebrew": "חברת הטכנולוגיה XYZ משחררת פרקי פודקאסט חודשיים הכוללים ראיונות עם מומחים בתעשייה כדי לקדם את המוצרים שלהם."
+            },
+            {
+                "definition": "Personal or story-driven audio (audio only)",
+                "definition_hebrew": "אודיו אישי או מונחה סיפור (אודיו בלבד)",
+                "example": "'United in Grief' is a heartfelt and emotional podcast where families share stories of loved ones who have passed away due to COVID-19.",
+                "example_hebrew": "'מאוחדים בצער' הוא פודקאסט לבבי ומרגש שבו משפחות חולקות סיפורים של יקיריהם שנפטרו עקב COVID-19."
+            }
+        ]
+    }
+]

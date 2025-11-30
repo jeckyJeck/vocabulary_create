@@ -1,0 +1,28 @@
+[
+    {
+        "word": "webpage",
+        "word_hebrew": "עמוד אינטרנט",
+        "main_definition": "A webpage is a single document or page of content that is part of the World Wide Web, typically containing text, images, links to other webpages, and multimedia elements.",
+        "main_definition_hebrew": "דף אינטרנט הוא מסמך בודד או עמוד תוכן שהוא חלק מה-World Wide Web, המכיל בדרך כלל טקסט, תמונות, קישורים לדפי אינטרנט אחרים ורכיבי מולטימדיה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Internet website",
+                "definition_hebrew": "אתר אינטרנט",
+                "example": "The homepage of Amazon.com acts as a gateway to all their products and services.",
+                "example_hebrew": "עמוד הבית של Amazon.com משמש כשער לכל המוצרים והשירותים שלהם."
+            },
+            {
+                "definition": "Page on a specific subject or topic",
+                "definition_hebrew": "עמוד על נושא או נושא ספציפי",
+                "example": "A webpage dedicated to discussing the latest developments in artificial intelligence research.",
+                "example_hebrew": "דף אינטרנט המוקדש לדיון בהתפתחויות האחרונות בחקר הבינה המלאכותית."
+            },
+            {
+                "definition": "Digital marketing tool for promoting goods, services or events",
+                "definition_hebrew": "כלי שיווק דיגיטלי לקידום סחורות, שירותים או אירועים",
+                "example": "An event website with information about an upcoming music festival and ticket purchasing options.",
+                "example_hebrew": "אתר אירוע עם מידע על פסטיבל מוזיקה קרוב ואפשרויות לרכישת כרטיסים."
+            }
+        ]
+    }
+]

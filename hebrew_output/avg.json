@@ -1,0 +1,34 @@
+[
+    {
+        "word": "avg",
+        "word_hebrew": "ממוצע",
+        "main_definition": "Average refers to the typical or usual value of a set of numbers, calculated by summing all values and dividing by their count.",
+        "main_definition_hebrew": "ממוצע מתייחס לערך הטיפוסי או הרגיל של קבוצת מספרים, המחושב על ידי סיכום כל הערכים וחלוקה בספירתם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mean (arithmetic average)",
+                "definition_hebrew": "ממוצע (ממוצע אריתמטי)",
+                "example": "To find the average height of five students, add up their heights and divide by 5. If the heights are 160 cm, 170 cm, 180 cm, 190 cm, and 200 cm, then (160+170+180+190+200)/5 = 180 cm.",
+                "example_hebrew": "כדי למצוא את הגובה הממוצע של חמישה תלמידים, חברו את הגבהים שלהם וחלקו ב-5. אם הגבהים הם 160 ס\"מ, 170 ס\"מ, 180 ס\"מ, 190 ס\"מ ו-200 ס\"מ, אז (160+170+180+190+200) /5 = 180 ס\"מ."
+            },
+            {
+                "definition": "General or typical",
+                "definition_hebrew": "כללי או טיפוסי",
+                "example": "The average person has a daily intake of about two to three cups of coffee.",
+                "example_hebrew": "לאדם ממוצע יש צריכה יומית של כשתיים עד שלוש כוסות קפה."
+            },
+            {
+                "definition": "Median (middle value in an ordered set)",
+                "definition_hebrew": "חציון (ערך בינוני בקבוצה מסודרת)",
+                "example": "If we have the numbers 1, 2, 3, 4, and 5, the average would be 3. However, if two more students join with scores of 6 and 7, the median (avg) becomes 3.5.",
+                "example_hebrew": "אם יש לנו את המספרים 1, 2, 3, 4 ו-5, הממוצע יהיה 3. עם זאת, אם שני תלמידים נוספים מצטרפים עם ציונים של 6 ו-7, החציון (ממוצע) הופך ל-3.5."
+            },
+            {
+                "definition": "Mode (most frequent value)",
+                "definition_hebrew": "מצב (הערך השכיח ביותר)",
+                "example": "If a class has five boys and seven girls, the average number of children per household is not relevant here. Instead, if there are three different heights recorded among the students: 140 cm, 150 cm, and 160 cm (with each appearing twice), then the mode would be 140 cm and 150 cm.",
+                "example_hebrew": "אם בכיתה יש חמישה בנים ושבע בנות, מספר הילדים הממוצע למשק בית אינו רלוונטי כאן. במקום זאת, אם נרשמו שלושה גבהים שונים בין התלמידים: 140 ס\"מ, 150 ס\"מ ו-160 ס\"מ (כאשר כל אחד מהם מופיע פעמיים), אזי המצב יהיה 140 ס\"מ ו-150 ס\"מ."
+            }
+        ]
+    }
+]

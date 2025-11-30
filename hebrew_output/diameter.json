@@ -1,0 +1,34 @@
+[
+    {
+        "word": "diameter",
+        "word_hebrew": "קוֹטֶר",
+        "main_definition": "The diameter of a circle or sphere is the length of a straight line that passes through its center, connecting two points on its boundary.",
+        "main_definition_hebrew": "קוטר של מעגל או כדור הוא אורכו של קו ישר העובר במרכזו, המחבר בין שתי נקודות בגבולו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Measurement in geometry and mathematics",
+                "definition_hebrew": "מדידה בגיאומטריה ומתמטיקה",
+                "example": "The diameter of this circular table is 1 meter.",
+                "example_hebrew": "קוטר השולחן העגול הזה הוא 1 מטר."
+            },
+            {
+                "definition": "A unit of measurement equal to twice the radius of a circle or sphere",
+                "definition_hebrew": "יחידת מדידה השווה לרדיוס כפול של מעגל או כדור",
+                "example": "If a circle has a radius of 2 inches, its diameter would be 4 inches.",
+                "example_hebrew": "אם למעגל יש רדיוס של 2 אינץ', הקוטר שלו יהיה 4 אינץ'."
+            },
+            {
+                "definition": "In astronomy, used as an approximate measure of distance between celestial bodies",
+                "definition_hebrew": "באסטרונומיה, משמש כמדד משוער למרחק בין גרמי שמים",
+                "example": "The average distance from Earth to the Sun is about one astronomical unit or approximately 93 million miles, which can also be referred to as a 'diameter' when comparing distances within our solar system.",
+                "example_hebrew": "המרחק הממוצע מכדור הארץ לשמש הוא כיחידה אסטרונומית אחת או כ-93 מיליון מיילים, שניתן להתייחס אליהם גם כ\"קוטר\" כאשר משווים מרחקים בתוך מערכת השמש שלנו."
+            },
+            {
+                "definition": "An informal term used in various contexts metaphorically",
+                "definition_hebrew": "מונח לא פורמלי המשמש בהקשרים שונים באופן מטפורי",
+                "example": "They have a diameter issue - meaning there is a significant problem or disagreement between them.",
+                "example_hebrew": "יש להם בעיית קוטר - כלומר יש בעיה משמעותית או אי הסכמה ביניהם."
+            }
+        ]
+    }
+]

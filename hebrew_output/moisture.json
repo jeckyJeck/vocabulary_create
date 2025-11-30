@@ -1,0 +1,40 @@
+[
+    {
+        "word": "moisture",
+        "word_hebrew": "לַחוּת",
+        "main_definition": "Moisture refers to the presence of a small amount of water or liquid in an environment, often associated with dampness or humidity.",
+        "main_definition_hebrew": "לחות מתייחסת לנוכחות של כמות קטנה של מים או נוזל בסביבה, הקשורה לעתים קרובות לרטיבות או לחות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The natural condition of having some level of wetness",
+                "definition_hebrew": "המצב הטבעי של רמה מסוימת של רטיבות",
+                "example": "After rain, the ground is naturally moisturized.",
+                "example_hebrew": "לאחר גשם, האדמה לחה באופן טבעי."
+            },
+            {
+                "definition": "A measure or degree to which something contains water",
+                "definition_hebrew": "מידה או מידה שבה משהו מכיל מים",
+                "example": "High humidity levels indicate high moisture in the air.",
+                "example_hebrew": "רמות לחות גבוהות מעידות על לחות גבוהה באוויר."
+            },
+            {
+                "definition": "The process of adding moisture, often by sprinkling with water",
+                "definition_hebrew": "תהליך הוספת לחות, לרוב על ידי התזת מים",
+                "example": "We use a misting system to add moisture to indoor plants during dry periods.",
+                "example_hebrew": "אנו משתמשים במערכת ערפול כדי להוסיף לחות לצמחים מקורה בתקופות יבשות."
+            },
+            {
+                "definition": "A substance or material that absorbs and retains moisture well",
+                "definition_hebrew": "חומר או חומר הסופג ושומר היטב על לחות",
+                "example": "Fabrics like cotton are known for their ability to hold moisture.",
+                "example_hebrew": "בדים כמו כותנה ידועים ביכולתם להחזיק לחות."
+            },
+            {
+                "definition": "The presence of moisture in food, which can affect its texture and shelf-life",
+                "definition_hebrew": "נוכחות של לחות במזון, שיכולה להשפיע על המרקם ועל חיי המדף שלו",
+                "example": "Storing bread at room temperature without a sealed container may lead to increased moisture content and potential mold growth.",
+                "example_hebrew": "אחסון לחם בטמפרטורת החדר ללא מיכל אטום עלול להוביל לעלייה בתכולת הלחות ולגידול פוטנציאלי של עובש."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "false",
+        "word_hebrew": "שֶׁקֶר",
+        "main_definition": "The state or condition of being untrue, incorrect, or inaccurate.",
+        "main_definition_hebrew": "המצב או המצב של חוסר אמת, שגוי או לא מדויק.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not true or correct; contradicting reality.",
+                "definition_hebrew": "לא נכון או נכון; סותרת את המציאות.",
+                "example": "When she claimed to have completed the project, it was false.",
+                "example_hebrew": "כשהיא טענה שהשלימה את הפרויקט, זה היה שקרי."
+            },
+            {
+                "definition": "An incorrect statement intended as a joke or humor.",
+                "definition_hebrew": "אמירה לא נכונה שנועדה כבדיחה או הומור.",
+                "example": "He said he could fly like Superman but that statement turned out to be false.",
+                "example_hebrew": "הוא אמר שהוא יכול לעוף כמו סופרמן אבל האמירה הזו התבררה כשקרית."
+            },
+            {
+                "definition": "In the context of logic and reasoning, indicating something is not true.",
+                "definition_hebrew": "בהקשר של הגיון והיגיון, ציון משהו אינו נכון.",
+                "example": "The hypothesis was proven false after extensive testing.",
+                "example_hebrew": "ההשערה הוכחה כשגויה לאחר בדיקות מקיפות."
+            },
+            {
+                "definition": "Referring to an invalid or incorrect answer in a test or quiz.",
+                "definition_hebrew": "התייחסות לתשובה לא חוקית או שגויה במבחן או בחידון.",
+                "example": "She got all her answers wrong; it seemed like she believed everything on the test was false.",
+                "example_hebrew": "היא טעתה בכל תשובותיה; זה נראה כאילו היא האמינה שהכל במבחן היה שקרי."
+            }
+        ]
+    }
+]

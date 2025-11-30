@@ -1,0 +1,28 @@
+[
+    {
+        "word": "msg",
+        "word_hebrew": "הודעה",
+        "main_definition": "A message or communication, often used in the context of electronic messaging systems.",
+        "main_definition_hebrew": "הודעה או תקשורת, המשמשים לעתים קרובות בהקשר של מערכות הודעות אלקטרוניות.",
+        "meanings_and_examples": [
+            {
+                "definition": "An abbreviation for 'message' referring to a written or recorded communication between people, typically electronically transmitted.",
+                "definition_hebrew": "קיצור של 'הודעה' המתייחס לתקשורת כתובה או מוקלטת בין אנשים, המועברת בדרך כלל אלקטרונית.",
+                "example": "I sent you an important msg about our project.",
+                "example_hebrew": "שלחתי לך הודעה חשובה על הפרויקט שלנו."
+            },
+            {
+                "definition": "A term used in online communities and chat rooms as shorthand for sending text communications.",
+                "definition_hebrew": "מונח המשמש בקהילות מקוונות ובחדרי צ'אט כקיצור לשליחת הודעות טקסט.",
+                "example": "He quickly typed a quick 'msg' to his friend asking for help with the homework.",
+                "example_hebrew": "הוא הקליד במהירות 'מסג' מהיר לחברו וביקש עזרה בשיעורי הבית."
+            },
+            {
+                "definition": "Slang, often used in gaming or informal communication contexts, that refers to an instant messaging feature of a game console.",
+                "definition_hebrew": "סלנג, המשמש לעתים קרובות בהקשרי משחקים או תקשורת בלתי רשמית, המתייחס לתכונת הודעות מיידיות של קונסולת משחקים.",
+                "example": "'Let's use the msg system on our Xbox controllers to coordinate our moves during this round.'",
+                "example_hebrew": "'בואו נשתמש במערכת ה-msg בבקרי ה-Xbox שלנו כדי לתאם את המהלכים שלנו במהלך הסיבוב הזה.'"
+            }
+        ]
+    }
+]

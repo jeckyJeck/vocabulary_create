@@ -1,0 +1,34 @@
+[
+    {
+        "word": "portion",
+        "word_hebrew": "חֵלֶק",
+        "main_definition": "A part or share of something, typically food or drink.",
+        "main_definition_hebrew": "חלק או חלק של משהו, בדרך כלל אוכל או משקה.",
+        "meanings_and_examples": [
+            {
+                "definition": "An amount or piece of food that is served to someone during a meal.",
+                "definition_hebrew": "כמות או חתיכת מזון המוגשת למישהו במהלך ארוחה.",
+                "example": "The waiter brought us the portion of mashed potatoes.",
+                "example_hebrew": "המלצר הביא לנו את מנת הפירה."
+            },
+            {
+                "definition": "A part or share of something larger, like money or property.",
+                "definition_hebrew": "חלק או חלק של משהו גדול יותר, כמו כסף או רכוש.",
+                "example": "She received her portion of the inheritance after her father passed away.",
+                "example_hebrew": "היא קיבלה את חלקה בירושה לאחר שאביה נפטר."
+            },
+            {
+                "definition": "The quantity assigned to someone in a group setting.",
+                "definition_hebrew": "הכמות שהוקצתה למישהו במסגרת קבוצתית.",
+                "example": "At the buffet, each person got their own portion of desserts.",
+                "example_hebrew": "במזנון כל אחד קיבל מנת קינוחים משלו."
+            },
+            {
+                "definition": "A specified amount or share that is allocated for a specific purpose or use.",
+                "definition_hebrew": "סכום או מניה מוגדרים המוקצה למטרה או שימוש ספציפי.",
+                "example": "The school received a donation and used it to provide a portion of books for every student.",
+                "example_hebrew": "בית הספר קיבל תרומה והשתמש בה כדי לספק חלק מהספרים לכל תלמיד."
+            }
+        ]
+    }
+]

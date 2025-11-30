@@ -1,0 +1,40 @@
+[
+    {
+        "word": "bracket",
+        "word_hebrew": "סוֹגֵר",
+        "main_definition": "A punctuation mark used in various contexts, as well as a term referring to an enclosure or grouping of items.",
+        "main_definition_hebrew": "סימן פיסוק המשמש בהקשרים שונים, וכן מונח המתייחס למתחם או קיבוץ של פריטים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A punctuation mark placed between two elements that need to be considered together",
+                "definition_hebrew": "סימן פיסוק המוצב בין שני אלמנטים שיש להתייחס אליהם יחד",
+                "example": "In the expression '2 + 3 = 5', the equal sign and the number 5 are enclosed in brackets.",
+                "example_hebrew": "בביטוי '2 + 3 = 5', סימן השוויון והמספר 5 מוקפים בסוגריים."
+            },
+            {
+                "definition": "A pair of symbols used to enclose or group numbers, variables, or other expressions",
+                "definition_hebrew": "זוג סמלים המשמשים להקיף או לקבץ מספרים, משתנים או ביטויים אחרים",
+                "example": "The formula [x^2 + y^2] represents a sum of squares for x and y.",
+                "example_hebrew": "הנוסחה [x^2 + y^2] מייצגת סכום של ריבועים עבור x ו-y."
+            },
+            {
+                "definition": "Enclosure for grouping items in sports scores",
+                "definition_hebrew": "מארז לקיבוץ פריטים בתוצאות ספורט",
+                "example": "In the final score, 15-3[4], the brackets indicate that only four points were scored by the second team.",
+                "example_hebrew": "בתוצאה הסופית, 15-3[4], הסוגריים מצביעים על כך שרק ארבע נקודות השיגה הקבוצה השנייה."
+            },
+            {
+                "definition": "A device or mechanism used to hold two things apart or to separate them",
+                "definition_hebrew": "מכשיר או מנגנון המשמשים להפריד בין שני דברים או להפריד ביניהם",
+                "example": "The safety gate in our home uses a bracket system to keep it securely closed.",
+                "example_hebrew": "שער הבטיחות בביתנו משתמש במערכת תושבת כדי לשמור אותו סגור היטב."
+            },
+            {
+                "definition": "In statistics, the term 'brackets' refers to the lower and upper limits of an interval estimate (e.g., confidence interval)",
+                "definition_hebrew": "בסטטיסטיקה, המונח 'סוגריים' מתייחס לגבול התחתון והעליון של אומדן מרווח (לדוגמה, רווח סמך)",
+                "example": "A 95% confidence interval for a population mean is often expressed as [10, 20], where brackets denote the range.",
+                "example_hebrew": "רווח סמך של 95% עבור ממוצע אוכלוסיה מבוטא לעתים קרובות כ-[10, 20], כאשר סוגריים מציינים את הטווח."
+            }
+        ]
+    }
+]

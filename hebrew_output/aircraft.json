@@ -1,0 +1,46 @@
+[
+    {
+        "word": "aircraft",
+        "word_hebrew": "כְּלִי טַיִס",
+        "main_definition": "Aircraft refers to a vehicle capable of flight or flying, typically with wings and propulsion systems.",
+        "main_definition_hebrew": "כלי טיס מתייחס לכלי רכב המסוגל לעוף או לעוף, בדרך כלל עם כנפיים ומערכות הנעה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Winged transport vehicle for carrying passengers and cargo",
+                "definition_hebrew": "רכב הובלה מכונף להובלת נוסעים ומטען",
+                "example": "The Boeing 747 is an iconic aircraft known for its large size and ability to carry hundreds of passengers.",
+                "example_hebrew": "בואינג 747 הוא מטוס אייקוני הידוע בגודלו הגדול וביכולתו לשאת מאות נוסעים."
+            },
+            {
+                "definition": "Airplane used in military operations",
+                "definition_hebrew": "מטוס המשמש בפעולות צבאיות",
+                "example": "Fighter jets are a type of high-speed, maneuverable aircraft designed primarily for air-to-air combat.",
+                "example_hebrew": "מטוסי קרב הם סוג של מטוסים מהירים וניתנים לתמרון שנועדו בעיקר לקרב אוויר-אוויר."
+            },
+            {
+                "definition": "Helicopter",
+                "definition_hebrew": "מַסוֹק",
+                "example": "Medical helicopters provide rapid response and transportation services in emergency situations, such as critical injuries or natural disasters.",
+                "example_hebrew": "מסוקים רפואיים מספקים שירותי תגובה ותחבורה מהירים במצבי חירום, כגון פציעות קריטיות או אסונות טבע."
+            },
+            {
+                "definition": "Ultra-light aircraft designed for recreational flying",
+                "definition_hebrew": "מטוס קל במיוחד המיועד לטיסה פנאי",
+                "example": "The Quad City Challenger SR22 is a popular choice among amateur pilots and hobbyists for its versatility and ease of use.",
+                "example_hebrew": "Quad City Challenger SR22 הוא בחירה פופולרית בקרב טייסים וחובבים חובבים בשל הרבגוניות שלו וקלות השימוש שלו."
+            },
+            {
+                "definition": "Airship or blimp used for various purposes, including transportation, advertising, surveillance",
+                "definition_hebrew": "ספינת אוויר או בלומפ המשמשים למטרות שונות, כולל תחבורה, פרסום, מעקב",
+                "example": "The Zeppelin is a type of airship that was historically used by military forces for reconnaissance and bombing missions.",
+                "example_hebrew": "הצפלין הוא סוג של ספינת אוויר ששימשה באופן היסטורי על ידי כוחות צבא למשימות סיור והפצצה."
+            },
+            {
+                "definition": "Any vehicle designed to fly in the air",
+                "definition_hebrew": "כל רכב שנועד לעוף באוויר",
+                "example": "Drones, also known as unmanned aerial vehicles (UAVs), are a modern type of aircraft used for surveillance, delivery services, and even entertainment purposes.",
+                "example_hebrew": "מל\"טים, הידועים גם בתור כלי טיס בלתי מאוישים (מל\"טים), הם סוג מודרני של כלי טיס המשמשים למעקב, שירותי משלוח ואפילו למטרות בידור."
+            }
+        ]
+    }
+]

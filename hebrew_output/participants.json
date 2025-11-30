@@ -1,0 +1,34 @@
+[
+    {
+        "word": "participants",
+        "word_hebrew": "משתתפים",
+        "main_definition": "Individuals or groups involved in a particular activity, event, discussion, experiment, etc.",
+        "main_definition_hebrew": "אנשים או קבוצות המעורבים בפעילות מסוימת, אירוע, דיון, ניסוי וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "People who take part in an event or competition",
+                "definition_hebrew": "אנשים שלוקחים חלק באירוע או תחרות",
+                "example": "The participants of the marathon were cheered on by spectators.",
+                "example_hebrew": "משתתפי המרתון זכו לעידוד מצד הצופים."
+            },
+            {
+                "definition": "Individuals involved in a discussion, meeting, or forum",
+                "definition_hebrew": "אנשים המעורבים בדיון, פגישה או פורום",
+                "example": "During the conference, all participants shared their insights and experiences.",
+                "example_hebrew": "במהלך הכנס, כל המשתתפים חלקו את התובנות והחוויות שלהם."
+            },
+            {
+                "definition": "Persons who participate in research studies or experiments",
+                "definition_hebrew": "אנשים המשתתפים במחקרים או ניסויים",
+                "example": "The clinical trial had 50 participants willing to test a new medication.",
+                "example_hebrew": "בניסוי הקליני היו 50 משתתפים שהיו מוכנים לבדוק תרופה חדשה."
+            },
+            {
+                "definition": "Those involved in an organization's activities, such as clubs, nonprofits, etc.",
+                "definition_hebrew": "המעורבים בפעילויות של ארגון, כגון מועדונים, עמותות וכו'.",
+                "example": "All members are considered participants of the local environmental club's initiatives.",
+                "example_hebrew": "כל החברים נחשבים למשתתפים ביוזמות של המועדון המקומי לאיכות הסביבה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "reward",
+        "word_hebrew": "פרס",
+        "main_definition": "A reward is a benefit or positive outcome given in recognition of an action, effort, achievement, or behavior.",
+        "main_definition_hebrew": "פרס הוא תועלת או תוצאה חיובית הניתנת כהכרה בפעולה, מאמץ, הישג או התנהגות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Payment for good performance or service",
+                "definition_hebrew": "תשלום עבור ביצועים טובים או שירות",
+                "example": "John received a bonus as a reward for exceeding his sales target.",
+                "example_hebrew": "ג'ון קיבל בונוס כפרס על מעבר ליעד המכירות שלו."
+            },
+            {
+                "definition": "A token of appreciation or gratitude given to someone for their kindness or generosity",
+                "definition_hebrew": "אות הוקרה או הכרת תודה שניתן למישהו על טוב ליבו או נדיבותו",
+                "example": "The charity event awarded medals and certificates as rewards to the volunteers who helped organize it.",
+                "example_hebrew": "אירוע הצדקה העניק מדליות ותעודות כפרס למתנדבים שעזרו בארגון."
+            },
+            {
+                "definition": "Something that serves as an incentive or motivation",
+                "definition_hebrew": "משהו שמשמש כתמריץ או מוטיבציה",
+                "example": "Students were promised a class outing as a reward for maintaining good grades throughout the semester.",
+                "example_hebrew": "הובטח לתלמידים טיול כיתתי כפרס על שמירה על ציונים טובים לאורך הסמסטר."
+            },
+            {
+                "definition": "A punishment given to someone who has committed an offense, with the aim of discouraging further wrongdoing",
+                "definition_hebrew": "עונש שניתן למי שביצע עבירה, במטרה להרתיע מעוולות נוספות",
+                "example": "The teacher gave detention to students as a reward for their improved behavior in class.",
+                "example_hebrew": "המורה נתנה מעצר לתלמידים כפרס על שיפור התנהגותם בכיתה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "amino",
+        "word_hebrew": "אמינו",
+        "main_definition": "Amino is not an idiom but a prefix derived from the Greek word 'aminos' which means 'related to', typically used in chemistry to denote compounds containing nitrogen and carbon.",
+        "main_definition_hebrew": "אמינו אינו ניב אלא קידומת הנגזרת מהמילה היוונית 'aminos' שפירושה 'קשור ל', המשמשת בדרך כלל בכימיה לציון תרכובות המכילות חנקן ופחמן.",
+        "meanings_and_examples": [
+            {
+                "definition": "In relation to amino acids, the building blocks of proteins.",
+                "definition_hebrew": "ביחס לחומצות אמינו, אבני הבניין של חלבונים.",
+                "example": "Amino acids are essential for various biological processes.",
+                "example_hebrew": "חומצות אמינו חיוניות לתהליכים ביולוגיים שונים."
+            },
+            {
+                "definition": "Pertaining to a compound with an amine group or containing nitrogen and carbon.",
+                "definition_hebrew": "הנוגע לתרכובת בעלת קבוצת אמינים או המכילה חנקן ופחמן.",
+                "example": "An example is the amino acid glycine, which has one amine group (NH2) attached to its carbon skeleton.",
+                "example_hebrew": "דוגמה לכך היא חומצת האמינו גליצין, שקבוצת אמינית אחת (NH2) מחוברת לשלד הפחמן שלה."
+            },
+            {
+                "definition": "Related to a compound derived from an amine.",
+                "definition_hebrew": "קשור לתרכובת המופקת מאמין.",
+                "example": "Aminoethane, also known as ethylamine, is a simple aliphatic amine where the nitrogen atom is bonded to two hydrogen atoms and one carbon-containing group.",
+                "example_hebrew": "אמינואתאן, הידוע גם בשם אתילאמין, הוא אמין אליפטי פשוט שבו אטום החנקן קשור לשני אטומי מימן ולקבוצה אחת המכילה פחמן."
+            }
+        ]
+    }
+]

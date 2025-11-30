@@ -1,0 +1,40 @@
+[
+    {
+        "word": "schedules",
+        "word_hebrew": "לוחות זמנים",
+        "main_definition": "Schedules refer to planned sequences of events or tasks arranged over time, often used in various contexts such as personal planning, work routines, transportation timetables, and more.",
+        "main_definition_hebrew": "לוחות זמנים מתייחסים לרצפים מתוכננים של אירועים או משימות המסודרות לאורך זמן, המשמשים לרוב בהקשרים שונים כגון תכנון אישי, שגרת עבודה, לוחות זמנים של תחבורה ועוד.",
+        "meanings_and_examples": [
+            {
+                "definition": "A list of times at which specific activities are intended to occur",
+                "definition_hebrew": "רשימה של זמנים שבהם פעילויות ספציפיות מיועדות להתרחש",
+                "example": "My daily schedule includes waking up at 6 am, going for a run, having breakfast, starting work at 9 am, and attending meetings throughout the day.",
+                "example_hebrew": "לוח הזמנים היומי שלי כולל התעוררות ב-6 בבוקר, יציאה לריצה, ארוחת בוקר, תחילת עבודה ב-9 בבוקר והשתתפות בפגישות לאורך כל היום."
+            },
+            {
+                "definition": "A plan that outlines specific tasks or events to be completed within a given period",
+                "definition_hebrew": "תוכנית המתארת ​​משימות או אירועים ספציפיים שיש להשלים בתוך תקופה נתונה",
+                "example": "The company's quarterly schedule includes launching new products, conducting employee training sessions, and analyzing sales data for performance evaluation.",
+                "example_hebrew": "לוח הזמנים הרבעוני של החברה כולל השקת מוצרים חדשים, ביצוע הדרכות עובדים וניתוח נתוני מכירות לצורך הערכת ביצועים."
+            },
+            {
+                "definition": "Timetables provided by public transportation systems that indicate the arrival and departure times of vehicles",
+                "definition_hebrew": "לוחות זמנים הניתנים על ידי מערכות התחבורה הציבורית המציינים את זמני ההגעה והיציאה של כלי רכב",
+                "example": "I checked the train schedules to plan my commute and ensure I wouldn't miss my connection in the city center.",
+                "example_hebrew": "בדקתי את לוחות הזמנים של הרכבת כדי לתכנן את הנסיעה שלי ולהבטיח שלא אפספס את החיבור שלי במרכז העיר."
+            },
+            {
+                "definition": "An arrangement for a series of performances or events, specifying their dates and times",
+                "definition_hebrew": "סידור לסדרת הופעות או אירועים, תוך ציון תאריכים ושעותיהם",
+                "example": "The school announced its annual concert schedule, including music recitals and drama presentations throughout the semester.",
+                "example_hebrew": "בית הספר הכריז על לוח ההופעות השנתי שלו, כולל רסיטלים מוזיקליים ומצגות דרמה לאורך הסמסטר."
+            },
+            {
+                "definition": "A document outlining an individual's planned activities for a specific time period",
+                "definition_hebrew": "מסמך המתאר את הפעילויות המתוכננות של אדם לתקופת זמן מסוימת",
+                "example": "My weekly schedule includes attending therapy sessions on Mondays and Wednesdays, going to the gym after work three times a week, and volunteering at the local food bank every Saturday.",
+                "example_hebrew": "לוח הזמנים השבועי שלי כולל השתתפות במפגשי טיפול בימי שני ורביעי, הליכה לחדר כושר אחרי העבודה שלוש פעמים בשבוע, והתנדבות בבנק המזון המקומי בכל שבת."
+            }
+        ]
+    }
+]

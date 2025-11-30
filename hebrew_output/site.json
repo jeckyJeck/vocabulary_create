@@ -1,0 +1,40 @@
+[
+    {
+        "word": "site",
+        "word_hebrew": "אֲתַר",
+        "main_definition": "A specific location or place, often used in the context of physical locations, construction projects, websites, or events.",
+        "main_definition_hebrew": "מיקום או מקום ספציפי, המשמשים לעתים קרובות בהקשר של מיקומים פיזיים, פרויקטי בנייה, אתרי אינטרנט או אירועים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In general, a particular place or position where something is situated or occurs.",
+                "definition_hebrew": "באופן כללי, מקום או מיקום מסוים שבו משהו ממוקם או מתרחש.",
+                "example": "The archaeological site was discovered last summer.",
+                "example_hebrew": "האתר הארכיאולוגי התגלה בקיץ שעבר."
+            },
+            {
+                "definition": "A location specifically for construction projects, such as building foundations or industrial facilities.",
+                "definition_hebrew": "מיקום ספציפי לפרויקטי בנייה, כגון יסודות בניין או מתקנים תעשייתיים.",
+                "example": "The new factory site has been approved by the local government.",
+                "example_hebrew": "אתר המפעל החדש אושר על ידי השלטון המקומי."
+            },
+            {
+                "definition": "An area on a web page where content is displayed to visitors.",
+                "definition_hebrew": "אזור בדף אינטרנט שבו תוכן מוצג למבקרים.",
+                "example": "You can find information about our products on various product sites on this website.",
+                "example_hebrew": "אתה יכול למצוא מידע על המוצרים שלנו באתרי מוצרים שונים באתר זה."
+            },
+            {
+                "definition": "A specific place where an event, activity, or ceremony takes place.",
+                "definition_hebrew": "מקום ספציפי שבו מתקיים אירוע, פעילות או טקס.",
+                "example": "The wedding site was beautifully decorated for the couple's special day.",
+                "example_hebrew": "אתר החתונה היה מעוצב להפליא ליום המיוחד של בני הזוג."
+            },
+            {
+                "definition": "In computer science and data analysis, a set of data or information stored in a particular location.",
+                "definition_hebrew": "במדעי המחשב וניתוח נתונים, קבוצה של נתונים או מידע המאוחסנים במיקום מסוים.",
+                "example": "Our team analyzed customer purchase sites to understand buying patterns.",
+                "example_hebrew": "הצוות שלנו ניתח אתרי רכישה של לקוחות כדי להבין דפוסי קנייה."
+            }
+        ]
+    }
+]

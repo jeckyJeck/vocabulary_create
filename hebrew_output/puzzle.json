@@ -1,0 +1,34 @@
+[
+    {
+        "word": "puzzle",
+        "word_hebrew": "חִידָה",
+        "main_definition": "A puzzle refers to a game, problem or enigma that challenges one's knowledge, skills or creativity by requiring complex thinking or solving.",
+        "main_definition_hebrew": "חידה מתייחסת למשחק, בעיה או חידה המאתגרת את הידע, הכישורים או היצירתיות של האדם על ידי דרישת חשיבה או פתרון מורכבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An assortment of pieces put together in an interlocking manner",
+                "definition_hebrew": "מבחר של חלקים המורכבים בצורה משתלבת",
+                "example": "She spent hours putting the jigsaw puzzle together.",
+                "example_hebrew": "היא בילתה שעות בהרכבת הפאזל."
+            },
+            {
+                "definition": "A riddle or mystery that needs to be solved",
+                "definition_hebrew": "חידה או תעלומה שצריך לפתור",
+                "example": "The detective had to solve a complex crime, which seemed like an unsolvable puzzle at first but he eventually cracked it.",
+                "example_hebrew": "הבלש נאלץ לפתור פשע מורכב, שנראה בהתחלה כמו חידה בלתי פתירה, אבל בסופו של דבר הוא פיצח אותה."
+            },
+            {
+                "definition": "An activity or game requiring ingenuity and mental effort to accomplish",
+                "definition_hebrew": "פעילות או משחק הדורשים כושר המצאה ומאמץ מנטלי לביצוע",
+                "example": "Crossword puzzles are a popular way for people to challenge their minds on weekends.",
+                "example_hebrew": "תשבצים הם דרך פופולרית עבור אנשים לאתגר את דעתם בסופי שבוע."
+            },
+            {
+                "definition": "A type of card game involving the arrangement of numbered cards in specific patterns",
+                "definition_hebrew": "סוג של משחק קלפים הכולל סידור קלפים ממוספרים בתבניות ספציפיות",
+                "example": "He spent his evenings playing Sudoku, a challenging numerical puzzle.",
+                "example_hebrew": "הוא בילה את הערבים שלו במשחק סודוקו, פאזל מספרי מאתגר."
+            }
+        ]
+    }
+]

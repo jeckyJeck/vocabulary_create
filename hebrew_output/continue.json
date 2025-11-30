@@ -1,0 +1,34 @@
+[
+    {
+        "word": "continue",
+        "word_hebrew": "לְהַמשִׁיך",
+        "main_definition": "To persist in an activity or process without interruption.",
+        "main_definition_hebrew": "להתמיד בפעילות או בתהליך ללא הפרעה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To keep going after a pause or break.",
+                "definition_hebrew": "להמשיך אחרי הפסקה או הפסקה.",
+                "example": "After taking a short rest, she decided to continue watching the movie.",
+                "example_hebrew": "לאחר מנוחה קצרה, היא החליטה להמשיך ולצפות בסרט."
+            },
+            {
+                "definition": "To maintain an ongoing action or process indefinitely.",
+                "definition_hebrew": "לשמור על פעולה או תהליך מתמשכים ללא הגבלת זמן.",
+                "example": "The team continued practicing every day until they won the championship.",
+                "example_hebrew": "הקבוצה המשיכה להתאמן כל יום עד לזכייה באליפות."
+            },
+            {
+                "definition": "To not stop doing something due to difficulties or challenges.",
+                "definition_hebrew": "לא להפסיק לעשות משהו בגלל קשיים או אתגרים.",
+                "example": "Despite facing many obstacles, he decided to continue pursuing his dreams.",
+                "example_hebrew": "למרות שהתמודד עם מכשולים רבים, הוא החליט להמשיך להגשים את חלומותיו."
+            },
+            {
+                "definition": "In mathematics and logic, it refers to the continuation of a sequence, series, or argument without interruption.",
+                "definition_hebrew": "במתמטיקה ולוגיקה, הכוונה היא להמשך של רצף, סדרה או טיעון ללא הפרעה.",
+                "example": "The pattern continues with odd numbers in increasing order.",
+                "example_hebrew": "הדפוס ממשיך עם מספרים אי-זוגיים בסדר עולה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "left",
+        "word_hebrew": "שמאלה",
+        "main_definition": "The word 'left' can have several meanings, including a direction, an opposite of right, the remaining part after subtraction or division, and expressions related to abandonment or exclusion.",
+        "main_definition_hebrew": "למילה 'שמאל' יכולות להיות מספר משמעויות, כולל כיוון, היפוך מימין, החלק הנותר לאחר חיסור או חלוקה, וביטויים הקשורים לנטישה או הרחקה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A cardinal direction",
+                "definition_hebrew": "כיוון קרדינלי",
+                "example": "Turn left at the traffic lights.",
+                "example_hebrew": "פנה שמאלה ברמזור."
+            },
+            {
+                "definition": "The opposite of right in terms of direction",
+                "definition_hebrew": "ההפך מימין מבחינת כיוון",
+                "example": "I always get lost because I confuse left and right.",
+                "example_hebrew": "אני תמיד הולך לאיבוד כי אני מבלבל בין ימין ושמאל."
+            },
+            {
+                "definition": "What remains after subtraction or division",
+                "definition_hebrew": "מה נשאר לאחר חיסור או חלוקה",
+                "example": "After eating three pieces of cake, there is one piece left.",
+                "example_hebrew": "לאחר אכילת שלוש חתיכות עוגה, נותרה חתיכה אחת."
+            },
+            {
+                "definition": "Exclusion from participation in something",
+                "definition_hebrew": "הדרה מהשתתפות במשהו",
+                "example": "The student was left out of the group project because they didn't contribute.",
+                "example_hebrew": "התלמיד נותר מחוץ לפרויקט הקבוצתי כי הוא לא תרם."
+            },
+            {
+                "definition": "To abandon or relinquish a position, role, or responsibility",
+                "definition_hebrew": "לנטוש או לוותר על תפקיד, תפקיד או אחריות",
+                "example": "After losing his job, he decided to leave the company and start his own business.",
+                "example_hebrew": "לאחר שאיבד את עבודתו, החליט לעזוב את החברה ולהקים עסק משלו."
+            }
+        ]
+    }
+]

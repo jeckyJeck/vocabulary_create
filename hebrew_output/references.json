@@ -1,0 +1,28 @@
+[
+    {
+        "word": "references",
+        "word_hebrew": "הפניות",
+        "main_definition": "References are the use of a previous source or mention to support an argument, statement, or idea.",
+        "main_definition_hebrew": "הפניות הן שימוש במקור או אזכור קודם כדי לתמוך בטיעון, אמירה או רעיון.",
+        "meanings_and_examples": [
+            {
+                "definition": "In academic writing, references refer to the citations that provide evidence and sources for statements made in a paper.",
+                "definition_hebrew": "בכתיבה אקדמית, הפניות מתייחסות לציטוטים המספקים ראיות ומקורות להצהרות שנאמרו במאמר.",
+                "example": "The student listed multiple references from various scholarly articles to support his thesis.",
+                "example_hebrew": "הסטודנט מנה הפניות מרובות ממאמרים אקדמיים שונים כדי לתמוך בתזה שלו."
+            },
+            {
+                "definition": "When applying for a job or requesting a service, a reference is an individual who can attest to one's character, skills, and qualifications.",
+                "definition_hebrew": "בעת הגשת מועמדות לעבודה או בקשת שירות, הפניה היא אדם שיכול להעיד על אופיו, כישוריו וכישוריו.",
+                "example": "My former supervisor wrote me strong references that helped in my new career.",
+                "example_hebrew": "הממונה לשעבר שלי כתב לי התייחסויות חזקות שעזרו בקריירה החדשה שלי."
+            },
+            {
+                "definition": "In databases and computer programming, a reference refers to the path or link to another location where data is stored.",
+                "definition_hebrew": "בבסיסי נתונים ובתכנות מחשבים, הפניה מתייחסת לנתיב או לקישור למיקום אחר שבו מאוחסנים נתונים.",
+                "example": "The function used an integer reference to access the value from a different part of the program.",
+                "example_hebrew": "הפונקציה השתמשה בהפניה של מספר שלם כדי לגשת לערך מחלק אחר של התוכנית."
+            }
+        ]
+    }
+]

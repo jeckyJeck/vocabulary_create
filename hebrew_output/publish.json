@@ -1,0 +1,34 @@
+[
+    {
+        "word": "publish",
+        "word_hebrew": "לְפַרְסֵם",
+        "main_definition": "To make available to the public, especially in printed or digital form.",
+        "main_definition_hebrew": "להנגיש לציבור, במיוחד בצורה מודפסת או דיגיטלית.",
+        "meanings_and_examples": [
+            {
+                "definition": "To release a book, article, or other written work for general distribution and reading by the public.",
+                "definition_hebrew": "להוציא ספר, מאמר או עבודה כתובה אחרת להפצה כללית ולקריאה בציבור.",
+                "example": "The author decided to publish her novel after several years of writing.",
+                "example_hebrew": "המחברת החליטה לפרסם את הרומן שלה לאחר מספר שנים של כתיבה."
+            },
+            {
+                "definition": "To make something known officially or widely available online, such as through an app store.",
+                "definition_hebrew": "להפוך משהו לזמין באופן רשמי או נרחב באינטרנט, כמו דרך חנות אפליקציות.",
+                "example": "The software company is preparing to publish their new mobile application on the Google Play Store.",
+                "example_hebrew": "חברת התוכנה מתכוננת לפרסם את אפליקציית המובייל החדשה שלה בחנות Google Play."
+            },
+            {
+                "definition": "To provide information about oneself or one's work for public viewing or acknowledgment.",
+                "definition_hebrew": "לספק מידע על עצמך או על עבודתו של אדם לצפייה או הכרה בציבור.",
+                "example": "She published her credentials as a certified nutritionist so that potential clients could verify her qualifications.",
+                "example_hebrew": "היא פרסמה את האישורים שלה כתזונאית מוסמכת כדי שלקוחות פוטנציאליים יוכלו לאמת את הכישורים שלה."
+            },
+            {
+                "definition": "To make available the results of an investigation, study, or research to the public.",
+                "definition_hebrew": "להנגיש את תוצאות חקירה, מחקר או מחקר לציבור.",
+                "example": "The government agency decided to publish their findings on climate change after extensive research and analysis.",
+                "example_hebrew": "הסוכנות הממשלתית החליטה לפרסם את ממצאיה על שינויי האקלים לאחר מחקר וניתוח מקיפים."
+            }
+        ]
+    }
+]

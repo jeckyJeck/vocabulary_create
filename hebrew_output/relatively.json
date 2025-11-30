@@ -1,0 +1,40 @@
+[
+    {
+        "word": "relatively",
+        "word_hebrew": "יחסית",
+        "main_definition": "In comparison to something else; in relation or proportion to another thing.",
+        "main_definition_hebrew": "בהשוואה למשהו אחר; ביחס או פרופורציה לדבר אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Indicating a comparison between two things, often used when describing size, quantity, importance, or degree.",
+                "definition_hebrew": "מציין השוואה בין שני דברים, משמש לעתים קרובות כאשר מתארים גודל, כמות, חשיבות או מידה.",
+                "example": "The task is relatively easy for someone with experience.",
+                "example_hebrew": "המשימה קלה יחסית לאדם עם ניסיון."
+            },
+            {
+                "definition": "Denoting that something may vary in relation to other factors or variables present.",
+                "definition_hebrew": "מציין שמשהו עשוי להשתנות ביחס לגורמים או משתנים אחרים הקיימים.",
+                "example": "His performance was relatively consistent throughout the season.",
+                "example_hebrew": "ההופעה שלו הייתה עקבית יחסית לאורך העונה."
+            },
+            {
+                "definition": "Used when expressing a sense of moderation, not extreme in nature; within certain limits or range.",
+                "definition_hebrew": "משמש כאשר מבטאים תחושת מתינות, לא קיצונית באופייה; בגבולות או טווח מסוימים.",
+                "example": "The company's profits are growing relatively slowly this year compared to previous years.",
+                "example_hebrew": "רווחי החברה צומחים השנה יחסית לאט ביחס לשנים קודמות."
+            },
+            {
+                "definition": "Pertaining to the comparison of two elements regarding their magnitude, duration, frequency, etc., as a relative measure.",
+                "definition_hebrew": "הנוגע להשוואה של שני יסודות לגבי גודלם, משך התדירות שלהם וכו', כמדד יחסי.",
+                "example": "Relative humidity is the amount of moisture in the air compared with how much moisture the air can hold at that temperature.",
+                "example_hebrew": "לחות יחסית היא כמות הלחות באוויר בהשוואה לכמות הלחות שהאוויר יכול להחזיק בטמפרטורה זו."
+            },
+            {
+                "definition": "Used to indicate that something depends on or varies according to another factor, often indicating a proportional relationship.",
+                "definition_hebrew": "משמש כדי לציין שמשהו תלוי או משתנה בהתאם לגורם אחר, מה שמצביע לרוב על קשר פרופורציונלי.",
+                "example": "The price of goods is relatively high in this area due to higher demand.",
+                "example_hebrew": "מחיר הסחורה גבוה יחסית בתחום זה בגלל ביקוש גבוה יותר."
+            }
+        ]
+    }
+]

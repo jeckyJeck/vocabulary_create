@@ -1,0 +1,40 @@
+[
+    {
+        "word": "evaluations",
+        "word_hebrew": "הערכות",
+        "main_definition": "The process of assessing or judging the quality, importance, value, or utility of something.",
+        "main_definition_hebrew": "תהליך הערכת או שיפוט האיכות, החשיבות, הערך או התועלת של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Assessment of academic performance",
+                "definition_hebrew": "הערכת ביצועים אקדמיים",
+                "example": "At the end of each semester, students receive evaluations on their grades in different subjects.",
+                "example_hebrew": "בסוף כל סמסטר מקבלים הסטודנטים הערכות על ציוניהם במקצועות שונים."
+            },
+            {
+                "definition": "Appraisal or judgment of employees' work and competencies",
+                "definition_hebrew": "הערכה או שיפוט של עבודתם וכישוריהם של העובדים",
+                "example": "In a corporate setting, annual employee evaluations are conducted to review performance and provide feedback.",
+                "example_hebrew": "במסגרת ארגונית, הערכות עובדים שנתיות נערכות כדי לבדוק את הביצועים ולספק משוב."
+            },
+            {
+                "definition": "Analysis of systems, processes, or equipment efficiency",
+                "definition_hebrew": "ניתוח של מערכות, תהליכים או יעילות ציוד",
+                "example": "A machine operator may conduct regular evaluations of the machinery's functionality and safety features.",
+                "example_hebrew": "מפעיל מכונה רשאי לערוך הערכות שוטפות של תפקודיות ותכונות הבטיחות של המכונה."
+            },
+            {
+                "definition": "Assessment in research studies to measure variables or outcomes",
+                "definition_hebrew": "הערכה במחקרי מחקר למדידת משתנים או תוצאות",
+                "example": "Social scientists might perform an evaluation on a new educational program by analyzing its impact on student achievement.",
+                "example_hebrew": "מדעני חברה עשויים לבצע הערכה על תוכנית חינוכית חדשה על ידי ניתוח השפעתה על הישגי התלמידים."
+            },
+            {
+                "definition": "Review of financial assets, businesses, or investments for their value and viability",
+                "definition_hebrew": "סקירה של נכסים פיננסיים, עסקים או השקעות לגבי ערכם וכדאיותם",
+                "example": "Financial analysts provide evaluations of stock portfolios to advise clients on the best course of action.",
+                "example_hebrew": "אנליסטים פיננסיים מספקים הערכות של תיקי מניות כדי לייעץ ללקוחות על דרך הפעולה הטובה ביותר."
+            }
+        ]
+    }
+]

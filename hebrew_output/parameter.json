@@ -1,0 +1,40 @@
+[
+    {
+        "word": "parameter",
+        "word_hebrew": "פָּרָמֶטֶר",
+        "main_definition": "A parameter is a variable or a value that influences the behavior, outcome, or performance of a system, function, or process.",
+        "main_definition_hebrew": "פרמטר הוא משתנה או ערך המשפיעים על ההתנהגות, התוצאה או הביצועים של מערכת, פונקציה או תהליך.",
+        "meanings_and_examples": [
+            {
+                "definition": "In mathematics and statistics, a parameter refers to a numerical characteristic of a statistical model. It helps in defining the shape or nature of a probability distribution.",
+                "definition_hebrew": "במתמטיקה וסטטיסטיקה, פרמטר מתייחס למאפיין מספרי של מודל סטטיסטי. זה עוזר בהגדרת הצורה או הטבע של התפלגות הסתברות.",
+                "example": "The mean (average) and standard deviation are parameters that describe the normal distribution.",
+                "example_hebrew": "הממוצע (ממוצע) וסטיית התקן הם פרמטרים המתארים את ההתפלגות הנורמלית."
+            },
+            {
+                "definition": "In computer programming, a parameter is a variable used in a subroutine or function to represent input values. It acts as an argument passed into the function.",
+                "definition_hebrew": "בתכנות מחשב, פרמטר הוא משתנה המשמש בתתי שגרה או פונקציה לייצוג ערכי קלט. הוא פועל כארגומנט המועבר לפונקציה.",
+                "example": "The 'radius' parameter represents the radius of a circle when calculating its area.",
+                "example_hebrew": "הפרמטר 'רדיוס' מייצג את רדיוס המעגל בעת חישוב שטחו."
+            },
+            {
+                "definition": "In physics and engineering, parameters are quantities that define certain characteristics of systems or phenomena. They can include physical properties like mass, volume, or force.",
+                "definition_hebrew": "בפיזיקה ובהנדסה, פרמטרים הם כמויות המגדירים מאפיינים מסוימים של מערכות או תופעות. הם יכולים לכלול תכונות פיזיקליות כמו מסה, נפח או כוח.",
+                "example": "The spring constant is a parameter in Hooke's Law for the behavior of springs.",
+                "example_hebrew": "קבוע הקפיץ הוא פרמטר בחוק הוק להתנהגות קפיצים."
+            },
+            {
+                "definition": "In business and project management, parameters are specific criteria or conditions that guide decision-making, planning, or evaluation processes.",
+                "definition_hebrew": "בניהול עסקי ופרויקטים, פרמטרים הם קריטריונים או תנאים ספציפיים המנחים תהליכי קבלת החלטות, תכנון או הערכה.",
+                "example": "Project completion deadline and budget constraints can be seen as parameters in a project plan.",
+                "example_hebrew": "ניתן לראות מועד סיום פרויקט ומגבלות תקציב כפרמטרים בתוכנית פרויקט."
+            },
+            {
+                "definition": "In experimental design, a parameter is an independent variable deliberately manipulated by the researcher to observe its effect on other variables being measured.",
+                "definition_hebrew": "בתכנון ניסוי, פרמטר הוא משתנה בלתי תלוי המטופל במכוון על ידי החוקר כדי לראות את השפעתו על משתנים אחרים הנמדדים.",
+                "example": "The dosage of medication administered to patients could be considered as a parameter in a clinical trial.",
+                "example_hebrew": "מינון התרופות הניתנות לחולים יכול להיחשב כפרמטר בניסוי קליני."
+            }
+        ]
+    }
+]

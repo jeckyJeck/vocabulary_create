@@ -1,0 +1,46 @@
+[
+    {
+        "word": "cds",
+        "word_hebrew": "תקליטורים",
+        "main_definition": "Compact Discs, a digital optical disc data storage format used for audio recordings.",
+        "main_definition_hebrew": "Compact Discs, פורמט אחסון נתונים של דיסק אופטי דיגיטלי המשמש להקלטות אודיו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A physical medium for storing and playing digital music recordings. CD-ROM stands for Compact Disc Read-Only Memory.",
+                "definition_hebrew": "מדיום פיזי לאחסון והשמעת הקלטות מוזיקה דיגיטליות. CD-ROM ראשי תיבות של Compact Disc Read-Only Memory.",
+                "example": "I bought a new album on a CD.",
+                "example_hebrew": "קניתי אלבום חדש בדיסק."
+            },
+            {
+                "definition": "In finance, an initial public offering (IPO) where shares of stock are sold to the public for the first time. When referring to securities like bonds or stocks, 'CDS' stands for Credit Default Swaps.",
+                "definition_hebrew": "בפיננסים, הנפקה ראשונית לציבור (IPO) שבה מניות של מניות נמכרות לציבור בפעם הראשונה. כאשר מתייחסים לניירות ערך כמו אג\"ח או מניות, 'CDS' מייצג Credit Default Swaps.",
+                "example": "The company issued CDS in 2015 as part of its IPO.",
+                "example_hebrew": "החברה הנפיקה CDS ב-2015 כחלק מההנפקה שלה."
+            },
+            {
+                "definition": "A term used in the trading and finance industry to describe a type of derivative contract that allows an investor to 'swap' their credit risk with another party.",
+                "definition_hebrew": "מונח המשמש בתעשיית המסחר והפיננסים לתיאור סוג של חוזה נגזרים המאפשר למשקיע 'להחליף' את סיכון האשראי שלו עם גורם אחר.",
+                "example": "He profited from the CDS market by betting on certain company bonds.",
+                "example_hebrew": "הוא הרוויח משוק ה-CDS על ידי הימור על אג\"ח מסוימות של חברות."
+            },
+            {
+                "definition": "A term used in computing and electronics, specifically related to hard drives. The letters C (for 'computer') and D (for 'drive') are often combined to form 'CD', which stands for a compact disc data storage device.",
+                "definition_hebrew": "מונח המשמש במחשוב ואלקטרוניקה, הקשור במיוחד לכוננים קשיחים. האותיות C (עבור 'מחשב') ו-D (עבור 'כונן') משולבות לעתים קרובות ליצירת 'CD', המייצג התקן אחסון נתונים קומפקטי.",
+                "example": "I need to format my old CD drive before I can use it.",
+                "example_hebrew": "אני צריך לאתחל את כונן התקליטורים הישן שלי לפני שאוכל להשתמש בו."
+            },
+            {
+                "definition": "A term used in the music industry to refer to digital audio files that have been converted from analog or other formats into a standardized, easily distributable digital form.",
+                "definition_hebrew": "מונח המשמש בתעשיית המוזיקה כדי להתייחס לקבצי אודיו דיגיטליים שהומרו מפורמטים אנלוגיים או אחרים לצורה דיגיטלית סטנדרטית וניתנת להפצה בקלות.",
+                "example": "The artist released their album exclusively as CDs for a limited time.",
+                "example_hebrew": "האמן הוציא את אלבומו באופן בלעדי כתקליטורים לזמן מוגבל."
+            },
+            {
+                "definition": "An abbreviation of 'Course Delivery System', which refers to online learning platforms and systems that deliver educational content digitally.",
+                "definition_hebrew": "קיצור של 'מערכת העברת קורסים', המתייחס לפלטפורמות ומערכות למידה מקוונות המעבירות תוכן חינוכי בצורה דיגיטלית.",
+                "example": "Students can access the Courses on their laptops or tablets.",
+                "example_hebrew": "תלמידים יכולים לגשת לקורסים במחשבים הניידים או הטאבלטים שלהם."
+            }
+        ]
+    }
+]

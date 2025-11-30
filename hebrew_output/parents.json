@@ -1,0 +1,40 @@
+[
+    {
+        "word": "parents",
+        "word_hebrew": "הורים",
+        "main_definition": "Parents are the mother or father of a child.",
+        "main_definition_hebrew": "הורים הם אם או אב לילד.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mother: The female parent who gives birth to and cares for her children.",
+                "definition_hebrew": "אמא: ההורה הנשי שיולד ודואג לילדים שלה.",
+                "example": "My mom is always there for me when I need support.",
+                "example_hebrew": "אמא שלי תמיד שם בשבילי כשאני צריך תמיכה."
+            },
+            {
+                "definition": "Father: The male parent who has fathered a child with the mother, typically providing care and guidance.",
+                "definition_hebrew": "אב: ההורה הזכר שהוליד ילד עם האם, בדרך כלל מספק טיפול והכוונה.",
+                "example": "His dad taught him how to ride a bike before he started school.",
+                "example_hebrew": "אביו לימד אותו לרכוב על אופניים לפני שהתחיל ללמוד."
+            },
+            {
+                "definition": "Biological parents: The genetic individuals (mother and father) who are responsible for giving birth or raising their child, regardless of the current living situation.",
+                "definition_hebrew": "הורים ביולוגיים: הפרטים הגנטיים (אמא ואבא) שאחראים ללדת או לגדל את ילדם, ללא קשר למצב החיים הנוכחי.",
+                "example": "The biological parents decided to give up their baby for adoption.",
+                "example_hebrew": "ההורים הביולוגיים החליטו לוותר על תינוקם לאימוץ."
+            },
+            {
+                "definition": "Legal parents: Individuals recognized by law as a child's mother and father. These can include those who are biologically related or have legally adopted the child.",
+                "definition_hebrew": "הורים משפטיים: אנשים המוכרים על פי חוק כאמו ואביו של ילד. אלה יכולים לכלול כאלה שקשורים ביולוגית או שאימצו את הילד באופן חוקי.",
+                "example": "The legal parents signed up to volunteer at my school event.",
+                "example_hebrew": "ההורים החוקיים נרשמו להתנדב באירוע בית הספר שלי."
+            },
+            {
+                "definition": "Adoptive Parents: Individuals who, through the adoption process, become a child's mother and father even though they are not biologically related.",
+                "definition_hebrew": "הורים מאמצים: אנשים אשר בתהליך האימוץ הופכים לאמו ואביו של הילד למרות שאינם קשורים ביולוגית.",
+                "example": "Their adoptive parents gave them love just like any other parent.",
+                "example_hebrew": "הוריהם המאמצים נתנו להם אהבה בדיוק כמו כל הורה אחר."
+            }
+        ]
+    }
+]

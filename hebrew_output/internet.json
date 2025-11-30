@@ -1,0 +1,34 @@
+[
+    {
+        "word": "internet",
+        "word_hebrew": "מרשתת",
+        "main_definition": "The internet is a global network connecting millions of computers, allowing them to share information quickly and easily.",
+        "main_definition_hebrew": "האינטרנט הוא רשת עולמית המחברת מיליוני מחשבים, ומאפשרת להם לשתף מידע במהירות ובקלות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A virtual space for communication and exchange of information",
+                "definition_hebrew": "מרחב וירטואלי לתקשורת וחילופי מידע",
+                "example": "Through the internet, people can send emails or chat with friends across the world.",
+                "example_hebrew": "דרך האינטרנט, אנשים יכולים לשלוח אימיילים או לשוחח בצ'אט עם חברים ברחבי העולם."
+            },
+            {
+                "definition": "The infrastructure that facilitates data transfer between computers globally",
+                "definition_hebrew": "התשתית המאפשרת העברת נתונים בין מחשבים ברחבי העולם",
+                "example": "When you stream a video online, it's because of the internet's network connections.",
+                "example_hebrew": "כאשר אתה מזרים סרטון באינטרנט, זה בגלל חיבורי הרשת של האינטרנט."
+            },
+            {
+                "definition": "A collection of websites and web pages accessible via browsers",
+                "definition_hebrew": "אוסף של אתרי אינטרנט ודפי אינטרנט הנגישים באמצעות דפדפנים",
+                "example": "I enjoy browsing the internet for new recipes to try out in my kitchen.",
+                "example_hebrew": "אני נהנה לגלוש באינטרנט אחר מתכונים חדשים להתנסות במטבח שלי."
+            },
+            {
+                "definition": "The digital space where online shopping, social media, and other services operate",
+                "definition_hebrew": "המרחב הדיגיטלי שבו פועלים קניות מקוונות, מדיה חברתית ושירותים אחרים",
+                "example": "Amazon is an example of a vast online marketplace accessible via the internet.",
+                "example_hebrew": "אמזון היא דוגמה לשוק מקוון עצום הנגיש דרך האינטרנט."
+            }
+        ]
+    }
+]

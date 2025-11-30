@@ -1,0 +1,34 @@
+[
+    {
+        "word": "resort",
+        "word_hebrew": "אתר נופש",
+        "main_definition": "A place that people go to when they need a solution, help, or relief, especially one that is less than ideal but used in the absence of better options.",
+        "main_definition_hebrew": "מקום שאנשים הולכים אליו כשהם זקוקים לפתרון, עזרה או הקלה, במיוחד כזה שהוא פחות אידיאלי אבל בשימוש בהיעדר אפשרויות טובות יותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "A place where tourists stay for leisure",
+                "definition_hebrew": "מקום בו שוהים תיירים לפנאי",
+                "example": "We spent our vacation at a resort on the beach, enjoying the sun and sand.",
+                "example_hebrew": "את החופשה בילינו באתר נופש על החוף, נהנינו מהשמש והחול."
+            },
+            {
+                "definition": "To turn to for help or solution in desperate situations",
+                "definition_hebrew": "לפנות לעזרה או פתרון במצבים נואשים",
+                "example": "When faced with financial difficulties, they had no choice but to resort to borrowing money from friends.",
+                "example_hebrew": "כאשר התמודדו עם קשיים כלכליים, לא הייתה להם ברירה אלא לפנות ללוות כסף מחברים."
+            },
+            {
+                "definition": "A last-ditch effort when all other options have failed",
+                "definition_hebrew": "מאמץ אחרון כשכל האפשרויות האחרות נכשלו",
+                "example": "With time running out, the team decided to resort to using a untested software in hopes of meeting their deadline.",
+                "example_hebrew": "כשהזמן אוזל, הצוות החליט להשתמש בתוכנה שלא נבדקה בתקווה לעמוד במועד האחרון."
+            },
+            {
+                "definition": "To use or employ as an alternative measure when primary methods do not succeed",
+                "definition_hebrew": "להשתמש או להשתמש כאמצעי חלופי כאשר השיטות העיקריות אינן מצליחות",
+                "example": "The doctor had exhausted all treatment options and resorted to experimental therapy for the patient's condition.",
+                "example_hebrew": "הרופא מיצה את כל אפשרויות הטיפול ופנה לטיפול ניסיוני במצבו של המטופל."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "button",
+        "word_hebrew": "לַחְצָן",
+        "main_definition": "A small, often round or square device that can be pressed to perform a specific action.",
+        "main_definition_hebrew": "מכשיר קטן, לרוב עגול או מרובע, שניתן ללחוץ עליו כדי לבצע פעולה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "An object on a clothing item for fastening or adjusting the garment.",
+                "definition_hebrew": "חפץ על פריט לבוש להדק או התאמת הבגד.",
+                "example": "She pushed the button on her blouse to loosen it.",
+                "example_hebrew": "היא לחצה על הכפתור בחולצה שלה כדי לשחרר אותה."
+            },
+            {
+                "definition": "A physical component of a device that is pressed to activate its function.",
+                "definition_hebrew": "רכיב פיזי של מכשיר שנלחץ כדי להפעיל את תפקידו.",
+                "example": "He clicked the red button to turn off the alarm clock.",
+                "example_hebrew": "הוא לחץ על הכפתור האדום כדי לכבות את השעון המעורר."
+            },
+            {
+                "definition": "A small, easily accessible control element in software or electronic devices.",
+                "definition_hebrew": "אלמנט בקרה קטן ונגיש בתוכנה או במכשירים אלקטרוניים.",
+                "example": "She navigated through the application by clicking various buttons on the screen.",
+                "example_hebrew": "היא ניווטה באפליקציה על ידי לחיצה על כפתורים שונים על המסך."
+            },
+            {
+                "definition": "An expression or saying that figuratively implies a simple action to be taken.",
+                "definition_hebrew": "ביטוי או אמירה המרמזים באופן פיגורטיבי על פעולה פשוטה שיש לבצע.",
+                "example": "He said 'push button' meaning he expected her to act immediately and decisively.",
+                "example_hebrew": "הוא אמר 'לחצן' כלומר הוא מצפה ממנה לפעול באופן מיידי ונחרץ."
+            }
+        ]
+    }
+]

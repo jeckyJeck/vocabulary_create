@@ -1,0 +1,34 @@
+[
+    {
+        "word": "located",
+        "word_hebrew": "ממוקם",
+        "main_definition": "to find the position or place of something, usually in relation to a specific area or location.",
+        "main_definition_hebrew": "למצוא את המיקום או המקום של משהו, בדרך כלל ביחס לאזור או מיקום ספציפי.",
+        "meanings_and_examples": [
+            {
+                "definition": "To determine where an object or place is situated geographically.",
+                "definition_hebrew": "לקבוע היכן ממוקם אובייקט או מקום מבחינה גיאוגרפית.",
+                "example": "The map helped us locate our destination accurately.",
+                "example_hebrew": "המפה עזרה לנו לאתר את היעד שלנו במדויק."
+            },
+            {
+                "definition": "To describe the position of a person, building, or other feature in relation to nearby landmarks.",
+                "definition_hebrew": "כדי לתאר את מיקומו של אדם, בניין או תכונה אחרת ביחס לציוני דרך קרובים.",
+                "example": "The hotel can be easily located by following the street signs from the main square.",
+                "example_hebrew": "ניתן למקם את המלון בקלות על ידי ביצוע שלטי הרחוב מהכיכר המרכזית."
+            },
+            {
+                "definition": "Used when referring to where something is situated within an organization's structure or hierarchy.",
+                "definition_hebrew": "משמש כאשר מתייחסים למקום שבו משהו ממוקם בתוך המבנה או ההיררכיה של הארגון.",
+                "example": "She was located in the Marketing Department, specifically in the Brand Management team.",
+                "example_hebrew": "היא הייתה ממוקמת במחלקת השיווק, במיוחד בצוות ניהול המותג."
+            },
+            {
+                "definition": "To find someone who can provide information or assistance regarding a particular subject or location.",
+                "definition_hebrew": "כדי למצוא מישהו שיכול לספק מידע או סיוע לגבי נושא או מיקום מסוים.",
+                "example": "We need to locate a contact who knows about the historical landmarks in the area.",
+                "example_hebrew": "עלינו לאתר איש קשר שיודע על ציוני הדרך ההיסטוריים באזור."
+            }
+        ]
+    }
+]

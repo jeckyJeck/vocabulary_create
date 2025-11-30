@@ -1,0 +1,40 @@
+[
+    {
+        "word": "labeled",
+        "word_hebrew": "מסומן",
+        "main_definition": "To assign or designate a label, tag, or category to something.",
+        "main_definition_hebrew": "להקצות או לייעד תווית, תג או קטגוריה למשהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Identifying specific characteristics in an object or data set.",
+                "definition_hebrew": "זיהוי מאפיינים ספציפיים באובייקט או בסט נתונים.",
+                "example": "The dataset was labeled with age groups for easier analysis.",
+                "example_hebrew": "מערך הנתונים סומן עם קבוצות גיל לניתוח קל יותר."
+            },
+            {
+                "definition": "Assigning a name, tag, or label to something as part of documentation or categorization.",
+                "definition_hebrew": "הקצאת שם, תג או תווית למשהו כחלק מתיעוד או סיווג.",
+                "example": "The books in the library were labeled by genre and author's last name.",
+                "example_hebrew": "הספרים בספרייה סומנו לפי ז'אנר ושם המשפחה של המחבר."
+            },
+            {
+                "definition": "Designating an individual with a specific label for identification purposes.",
+                "definition_hebrew": "ייעוד אדם עם תווית ספציפית למטרות זיהוי.",
+                "example": "The prisoner was labeled 'high-risk' due to their past criminal behavior.",
+                "example_hebrew": "האסיר סומן ב'סיכון גבוה' בשל התנהגותם העבריינית בעבר."
+            },
+            {
+                "definition": "Marking something with a visible indicator or symbol for easy recognition.",
+                "definition_hebrew": "סימון משהו עם מחוון או סמל גלוי לזיהוי קל.",
+                "example": "The products were labeled with barcodes for inventory management.",
+                "example_hebrew": "המוצרים סומנו בברקודים לניהול מלאי."
+            },
+            {
+                "definition": "Assigning a label to data points in machine learning and statistics, often used when organizing information for analysis.",
+                "definition_hebrew": "הקצאת תווית לנקודות נתונים בלמידת מכונה וסטטיסטיקה, משמשת לעתים קרובות בעת ארגון מידע לניתוח.",
+                "example": "In the supervised classification problem, each sample was labeled with its corresponding class.",
+                "example_hebrew": "בבעיית הסיווג המפוקח, כל דגימה סומנה במחלקה המתאימה לה."
+            }
+        ]
+    }
+]

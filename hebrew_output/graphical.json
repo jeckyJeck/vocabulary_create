@@ -1,0 +1,28 @@
+[
+    {
+        "word": "graphical",
+        "word_hebrew": "גרפי",
+        "main_definition": "Relating to or involving graphics, visual representation of information.",
+        "main_definition_hebrew": "הקשורים לגרפיקה, ייצוג חזותי של מידע או מעורבות בו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Involving the use of diagrams and images for illustration or explanation",
+                "definition_hebrew": "כרוך בשימוש בתרשימים ובתמונות להמחשה או הסבר",
+                "example": "The graphical interface of the software makes it easy to navigate.",
+                "example_hebrew": "הממשק הגרפי של התוכנה מקל על הניווט."
+            },
+            {
+                "definition": "Concerning or involving graphics, charts, or pictorial representation",
+                "definition_hebrew": "לגבי או כרוך בגרפיקה, תרשימים או ייצוג ציורי",
+                "example": "Graphical data can be displayed using pie charts or bar graphs for better understanding.",
+                "example_hebrew": "ניתן להציג נתונים גרפיים באמצעות תרשימי עוגה או תרשימי עמודות להבנה טובה יותר."
+            },
+            {
+                "definition": "Describing an approach that emphasizes the importance of visual elements in conveying information",
+                "definition_hebrew": "תיאור גישה המדגישה את חשיבותם של אלמנטים ויזואליים בהעברת מידע",
+                "example": "The graphical design of this report makes it more engaging and easier to read.",
+                "example_hebrew": "העיצוב הגרפי של דוח זה הופך אותו למושך יותר וקל יותר לקריאה."
+            }
+        ]
+    }
+]

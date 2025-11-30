@@ -1,0 +1,34 @@
+[
+    {
+        "word": "cheese",
+        "word_hebrew": "גבינה",
+        "main_definition": "Cheese is a dairy product derived from milk that is produced in a wide range of flavors, textures, and forms by coagulation of the milk protein casein. It can also refer to various phrases or idioms with metaphorical meanings.",
+        "main_definition_hebrew": "גבינה היא מוצר חלב המופק מחלב המיוצר במגוון רחב של טעמים, מרקמים וצורות על ידי קרישה של חלבון החלב קזאין. זה יכול גם להתייחס לביטויים או ניבים שונים עם משמעויות מטפוריות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A noun referring to a food product made from the curdling and processing of milk.",
+                "definition_hebrew": "שם עצם המתייחס למוצר מזון העשוי מקיפוח ועיבוד חלב.",
+                "example": "I bought some gouda cheese for our dinner tonight.",
+                "example_hebrew": "קניתי גבינת גאודה לארוחת הערב שלנו הערב."
+            },
+            {
+                "definition": "An idiomatic expression used to describe someone's inability to express their feelings or thoughts clearly, often resulting in confusion or misinterpretation.",
+                "definition_hebrew": "ביטוי אידיומטי המשמש לתיאור חוסר יכולתו של מישהו להביע את רגשותיו או מחשבותיו בצורה ברורה, מה שגורם לרוב לבלבול או פרשנות שגויה.",
+                "example": "When he tried to explain his complex idea, it was like cheese; nobody could understand him.",
+                "example_hebrew": "כשניסה להסביר את הרעיון המורכב שלו, זה היה כמו גבינה; איש לא הצליח להבין אותו."
+            },
+            {
+                "definition": "An idiomatic expression used to describe an unpleasant or ridiculous situation that makes no sense but is often humorous.",
+                "definition_hebrew": "ביטוי אידיומטי המשמש לתיאור מצב לא נעים או מגוחך שאין בו שום היגיון אך לרוב הוא הומוריסטי.",
+                "example": "The instructions were so confusing, they made absolutely no sense - it was like cheese!",
+                "example_hebrew": "ההוראות היו כל כך מבלבלות, שהן ממש לא הגיוניות - זה היה כמו גבינה!"
+            },
+            {
+                "definition": "A slang term for a foolish person or someone who behaves awkwardly or inappropriately.",
+                "definition_hebrew": "כינוי סלנג לאדם טיפש או מישהו שמתנהג בצורה מביכה או לא הולם.",
+                "example": "He acted so clueless at the party; he's really acting like cheese.",
+                "example_hebrew": "הוא התנהג כל כך חסר מושג במסיבה; הוא באמת מתנהג כמו גבינה."
+            }
+        ]
+    }
+]

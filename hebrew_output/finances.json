@@ -1,0 +1,34 @@
+[
+    {
+        "word": "finances",
+        "word_hebrew": "כספים",
+        "main_definition": "Finances refer to the management of money, including income, expenses, savings, investments, and debt.",
+        "main_definition_hebrew": "כספים מתייחסים לניהול כספים, לרבות הכנסות, הוצאות, חסכונות, השקעות וחובות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The total amount of money that an individual or organization has available",
+                "definition_hebrew": "סכום הכסף הכולל שיש לאדם או לארגון",
+                "example": "After paying all her bills, she had a small balance in her finances.",
+                "example_hebrew": "לאחר ששילמה את כל החשבונות שלה, הייתה לה יתרה קטנה בכספים."
+            },
+            {
+                "definition": "The process of managing and organizing one's money, including budgeting, saving, investing, and spending wisely",
+                "definition_hebrew": "תהליך ניהול וארגון הכסף, כולל תקצוב, חיסכון, השקעה והוצאה נבונה",
+                "example": "He is very meticulous about his finances; he budgets every dollar carefully.",
+                "example_hebrew": "הוא מקפיד מאוד על כספיו; הוא מקציב כל דולר בקפידה."
+            },
+            {
+                "definition": "The financial resources of a company or organization, such as revenue, profits, assets, liabilities, and equity",
+                "definition_hebrew": "המשאבים הפיננסיים של חברה או ארגון, כגון הכנסות, רווחים, נכסים, התחייבויות והון עצמי",
+                "example": "The CFO is responsible for managing the company's finances, including its budgeting and financial reporting.",
+                "example_hebrew": "סמנכ\"ל הכספים אחראי על ניהול הכספים של החברה, לרבות התקצוב והדיווח הכספי שלה."
+            },
+            {
+                "definition": "Relating to money or the management of money; financially related",
+                "definition_hebrew": "בהתייחס לכסף או לניהול כסף; קשור כלכלית",
+                "example": "She works in the finance department at a major corporation, dealing with accounts receivable and payable.",
+                "example_hebrew": "היא עובדת במחלקת הכספים בתאגיד גדול, עוסקת בחובות וחייבים."
+            }
+        ]
+    }
+]

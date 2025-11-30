@@ -1,0 +1,34 @@
+[
+    {
+        "word": "singer",
+        "word_hebrew": "זמר",
+        "main_definition": "A singer is a person who sings, either professionally as part of a performance or occupation, or casually as an informal activity.",
+        "main_definition_hebrew": "זמר הוא אדם ששר, בין אם באופן מקצועי במסגרת הופעה או עיסוק, או כלאחר יד כפעילות בלתי פורמלית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Professional performer who uses their voice to entertain others",
+                "definition_hebrew": "פרפורמר מקצועי המשתמש בקולו כדי לבדר אחרים",
+                "example": "Adele is a renowned singer known for her soulful singing style.",
+                "example_hebrew": "אדל היא זמרת מפורסמת הידועה בסגנון השירה הנשמה שלה."
+            },
+            {
+                "definition": "Someone who sings as part of a group or choir",
+                "definition_hebrew": "מישהו ששר כחלק מקבוצה או מקהלה",
+                "example": "The school's glee club featured several talented singers, including John and Sarah.",
+                "example_hebrew": "מועדון השמחה של בית הספר כלל כמה זמרים מוכשרים, כולל ג'ון ושרה."
+            },
+            {
+                "definition": "A person who uses their voice to express emotions in personal or casual settings",
+                "definition_hebrew": "אדם שמשתמש בקולו כדי להביע רגשות במסגרות אישיות או מזדמנות",
+                "example": "After a long day at work, Maria enjoyed singing along to her favorite songs while cooking dinner.",
+                "example_hebrew": "אחרי יום ארוך בעבודה, מריה נהנתה לשיר יחד עם השירים האהובים עליה בזמן בישול ארוחת הערב."
+            },
+            {
+                "definition": "An individual who teaches others how to sing, either through formal training or informal lessons",
+                "definition_hebrew": "אדם שמלמד אחרים איך לשיר, בין אם באמצעות הכשרה פורמלית או שיעורים לא פורמליים",
+                "example": "Mr. Johnson was a retired singer who now works as a vocal coach for young aspiring singers in his neighborhood.",
+                "example_hebrew": "מר ג'ונסון היה זמר בדימוס שעובד כיום כמאמן ווקאלי לזמרים צעירים שאפתנים בשכונתו."
+            }
+        ]
+    }
+]

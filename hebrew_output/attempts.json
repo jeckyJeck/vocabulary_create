@@ -1,0 +1,34 @@
+[
+    {
+        "word": "attempts",
+        "word_hebrew": "ניסיונות",
+        "main_definition": "The act of trying to do something, often with the possibility of failing or not succeeding.",
+        "main_definition_hebrew": "הפעולה של ניסיון לעשות משהו, לעתים קרובות עם אפשרות להיכשל או לא להצליח.",
+        "meanings_and_examples": [
+            {
+                "definition": "Several efforts to achieve a goal",
+                "definition_hebrew": "מספר מאמצים להשגת מטרה",
+                "example": "She made several attempts at baking the perfect cake.",
+                "example_hebrew": "היא עשתה כמה ניסיונות לאפות את העוגה המושלמת."
+            },
+            {
+                "definition": "The process of trying or testing something for the first time",
+                "definition_hebrew": "התהליך של ניסיון או בדיקה של משהו בפעם הראשונה",
+                "example": "He attempted to fix his computer by following an online tutorial.",
+                "example_hebrew": "הוא ניסה לתקן את המחשב שלו על ידי ביצוע הדרכה מקוונת."
+            },
+            {
+                "definition": "In legal contexts, a formal effort to commit an act that may be considered illegal",
+                "definition_hebrew": "בהקשרים משפטיים, מאמץ רשמי לבצע מעשה שעלול להיחשב בלתי חוקי",
+                "example": "The burglary attempt was unsuccessful and caught on surveillance cameras.",
+                "example_hebrew": "ניסיון הפריצה לא צלח ונקלט במצלמות מעקב."
+            },
+            {
+                "definition": "A proposal or suggestion put forward for consideration",
+                "definition_hebrew": "הצעה או הצעה שהועלתה לדיון",
+                "example": "They submitted several attempts to revise the project plan to management.",
+                "example_hebrew": "הם הגישו להנהלה מספר ניסיונות לשנות את תוכנית הפרויקט."
+            }
+        ]
+    }
+]

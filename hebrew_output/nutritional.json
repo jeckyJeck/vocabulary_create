@@ -1,0 +1,40 @@
+[
+    {
+        "word": "nutritional",
+        "word_hebrew": "תזונתיים",
+        "main_definition": "Relating to the provision of nourishment or food that supplies all the necessary nutrients required by an organism.",
+        "main_definition_hebrew": "בקשר לאספקת מזון או מזון המספקים את כל אבות המזון הדרושים לאורגניזם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Pertaining to diet and the ingestion of food",
+                "definition_hebrew": "הנוגע לתזונה ולצריכת מזון",
+                "example": "A balanced, nutritional diet consists of a variety of fruits, vegetables, whole grains, lean proteins, and healthy fats.",
+                "example_hebrew": "תזונה מאוזנת ותזונתית מורכבת ממגוון של פירות, ירקות, דגנים מלאים, חלבונים רזים ושומנים בריאים."
+            },
+            {
+                "definition": "Concerned with providing or containing essential substances for growth and maintenance",
+                "definition_hebrew": "דואג לספק או להכיל חומרים חיוניים לצמיחה ותחזוקה",
+                "example": "Nutritional supplements can help individuals meet their daily requirements of vitamins and minerals.",
+                "example_hebrew": "תוספי תזונה יכולים לעזור לאנשים לעמוד בדרישות היומיות שלהם של ויטמינים ומינרלים."
+            },
+            {
+                "definition": "The process of analyzing food to determine its nutritional content",
+                "definition_hebrew": "תהליך ניתוח המזון לקביעת תכולתו התזונתית",
+                "example": "A laboratory may perform a nutritional analysis on a sample of whole grain bread to assess its fiber, protein, and fat content.",
+                "example_hebrew": "מעבדה עשויה לבצע ניתוח תזונתי על דגימה של לחם מדגנים מלאים כדי להעריך את תכולת הסיבים, החלבון והשומן שלו."
+            },
+            {
+                "definition": "Pertaining to the study of how food affects health or disease in humans",
+                "definition_hebrew": "הנוגע למחקר כיצד אוכל משפיע על בריאות או מחלות בבני אדם",
+                "example": "Nutritional epidemiology investigates the relationship between dietary patterns and chronic diseases such as heart disease or diabetes.",
+                "example_hebrew": "אפידמיולוגיה תזונתית חוקרת את הקשר בין דפוסי תזונה ומחלות כרוניות כמו מחלות לב או סוכרת."
+            },
+            {
+                "definition": "Describing a product that provides nourishment for animals",
+                "definition_hebrew": "תיאור מוצר המספק הזנה לבעלי חיים",
+                "example": "Animal feed is often designed to be nutritional, providing the necessary vitamins and minerinas for livestock growth and maintenance.",
+                "example_hebrew": "מזון לבעלי חיים מתוכנן לרוב להיות תזונתי, ומספק את הוויטמינים והמינרינות הדרושים לגידול ותחזוקה של בעלי חיים."
+            }
+        ]
+    }
+]

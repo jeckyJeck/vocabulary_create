@@ -1,0 +1,28 @@
+[
+    {
+        "word": "indexes",
+        "word_hebrew": "אינדקסים",
+        "main_definition": "Indexes can refer to a list of items or entries, pointers in programming used to access data quickly, or the act of measuring or tracking changes over time.",
+        "main_definition_hebrew": "אינדקסים יכולים להתייחס לרשימה של פריטים או ערכים, מצביעים בתכנות המשמשים לגישה מהירה לנתונים, או פעולה של מדידה או מעקב אחר שינויים לאורך זמן.",
+        "meanings_and_examples": [
+            {
+                "definition": "A numerical index that represents the relative position or rank of an item within a collection",
+                "definition_hebrew": "אינדקס מספרי המייצג את המיקום או הדירוג היחסיים של פריט בתוך אוסף",
+                "example": "The stock market often uses indexes to track the performance of groups of stocks, such as the S&P 500.",
+                "example_hebrew": "שוק המניות משתמש לעתים קרובות באינדקסים כדי לעקוב אחר הביצועים של קבוצות מניות, כגון S&P 500."
+            },
+            {
+                "definition": "Pointers in programming languages like C and Java that store memory addresses and enable fast data access",
+                "definition_hebrew": "מצביעים בשפות תכנות כמו C ו-Java המאחסנות כתובות זיכרון ומאפשרות גישה מהירה לנתונים",
+                "example": "In a linked list implementation, an 'index' is used to traverse nodes efficiently.",
+                "example_hebrew": "ביישום רשימה מקושרת, נעשה שימוש ב'אינדקס' כדי לעבור צמתים ביעילות."
+            },
+            {
+                "definition": "The process of measuring or tracking changes over time, often using indexes as tools for analysis",
+                "definition_hebrew": "תהליך המדידה או המעקב משתנה לאורך זמן, לרוב באמצעות אינדקסים ככלי ניתוח",
+                "example": "Economists use indexes like the Consumer Price Index (CPI) to measure inflation rates over several years.",
+                "example_hebrew": "כלכלנים משתמשים במדדים כמו מדד המחירים לצרכן (CPI) כדי למדוד את שיעורי האינפלציה לאורך מספר שנים."
+            }
+        ]
+    }
+]

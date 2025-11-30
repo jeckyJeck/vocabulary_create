@@ -1,0 +1,34 @@
+[
+    {
+        "word": "operation",
+        "word_hebrew": "מבצע",
+        "main_definition": "An operation refers to a process, action, or task that is carried out with specific goals in mind. It can have multiple meanings depending on the context, including medical procedures, business activities, mathematical functions, and more.",
+        "main_definition_hebrew": "פעולה מתייחסת לתהליך, לפעולה או משימה המתבצעת מתוך מחשבה על מטרות ספציפיות. זה יכול להיות בעל משמעויות מרובות בהתאם להקשר, כולל פרוצדורות רפואיות, פעילויות עסקיות, פונקציות מתמטיות ועוד.",
+        "meanings_and_examples": [
+            {
+                "definition": "A medical procedure involving surgery to treat a disease or repair body damage",
+                "definition_hebrew": "הליך רפואי הכולל ניתוח לטיפול במחלה או לתיקון נזקי גוף",
+                "example": "The doctor performed an emergency operation on the patient's heart.",
+                "example_hebrew": "הרופא ביצע ניתוח חירום בלבו של המטופל."
+            },
+            {
+                "definition": "An activity within a business that contributes towards its overall goals, such as production, marketing, or finance operations.",
+                "definition_hebrew": "פעילות בתוך עסק התורמת למטרות הכוללות שלו, כגון פעולות ייצור, שיווק או כספים.",
+                "example": "The company's sales and marketing departments are responsible for conducting daily operations to increase revenue.",
+                "example_hebrew": "מחלקות המכירות והשיווק של החברה אחראיות על ביצוע התפעול היומי להגדלת ההכנסות."
+            },
+            {
+                "definition": "A mathematical function describing a specific transformation of an input value into its corresponding output value",
+                "definition_hebrew": "פונקציה מתמטית המתארת טרנספורמציה ספציפית של ערך קלט לערך הפלט המתאים לו",
+                "example": "In linear algebra, the operation of matrix multiplication transforms two matrices into another one with different dimensions.",
+                "example_hebrew": "באלגברה לינארית, פעולת הכפל המטריצה הופכת שתי מטריצות למטריצות אחרות עם ממדים שונים."
+            },
+            {
+                "definition": "The act of using force to achieve political or military objectives",
+                "definition_hebrew": "פעולת השימוש בכוח להשגת מטרות פוליטיות או צבאיות",
+                "example": "During World War II, several countries launched operations to invade other nations and gain strategic advantages.",
+                "example_hebrew": "במהלך מלחמת העולם השנייה, כמה מדינות פתחו במבצעים לפלישה למדינות אחרות ולהשיג יתרונות אסטרטגיים."
+            }
+        ]
+    }
+]

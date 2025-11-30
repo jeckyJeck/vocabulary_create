@@ -1,0 +1,34 @@
+[
+    {
+        "word": "binary",
+        "word_hebrew": "בינארי",
+        "main_definition": "Binary refers to something that involves or is composed of two parts, often used in computing to describe the system based on numbers 0 and 1.",
+        "main_definition_hebrew": "בינארי מתייחס למשהו שמעורב או מורכב משני חלקים, המשמש לעתים קרובות במחשוב כדי לתאר את המערכת על סמך המספרים 0 ו-1.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computer science, a binary number consists only of two digits: '0' and '1'.",
+                "definition_hebrew": "במדעי המחשב, מספר בינארי מורכב רק משתי ספרות: '0' ו-'1'.",
+                "example": "The binary code for the letter 'A' is 1000001.",
+                "example_hebrew": "הקוד הבינארי של האות 'A' הוא 1000001."
+            },
+            {
+                "definition": "Binary can also refer to something that has only two possible states or options.",
+                "definition_hebrew": "בינארי יכול גם להתייחס למשהו שיש לו רק שני מצבים או אפשרויות אפשריות.",
+                "example": "In a true/false question, there are only two possibilities - True or False.",
+                "example_hebrew": "בשאלה אמת/לא נכון, יש רק שתי אפשרויות - נכון או לא נכון."
+            },
+            {
+                "definition": "The term binary is used in photography and cinematography when referring to black-and-white imagery that uses shades of gray between pure white and pure black.",
+                "definition_hebrew": "המונח בינארי משמש בצילום ובקולנוע כאשר מתייחסים לדימויים בשחור-לבן המשתמשים בגוונים של אפור בין לבן טהור לשחור טהור.",
+                "example": "The photographer created a stunning binary image by using different levels of gray.",
+                "example_hebrew": "הצלם יצר תמונה בינארית מהממת על ידי שימוש ברמות שונות של אפור."
+            },
+            {
+                "definition": "In the context of partnerships or relationships, binary may refer to something involving two parties.",
+                "definition_hebrew": "בהקשר של שותפויות או מערכות יחסים, בינארי עשוי להתייחס למשהו שמעורבים בו שני צדדים.",
+                "example": "A binary system in business refers to a company that partners with just one other firm for mutual benefits.",
+                "example_hebrew": "מערכת בינארית בעסק מתייחסת לחברה המשותפת רק עם חברה אחת אחרת למען תועלת הדדית."
+            }
+        ]
+    }
+]

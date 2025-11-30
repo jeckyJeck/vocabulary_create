@@ -1,0 +1,28 @@
+[
+    {
+        "word": "incorporated",
+        "word_hebrew": "משולב",
+        "main_definition": "To legally combine or merge with another entity, often to form a new legal structure.",
+        "main_definition_hebrew": "לשלב או להתמזג באופן חוקי עם ישות אחרת, לעתים קרובות כדי ליצור מבנה משפטי חדש.",
+        "meanings_and_examples": [
+            {
+                "definition": "Merged two companies into one entity.",
+                "definition_hebrew": "מיזוג שתי חברות לישות אחת.",
+                "example": "In 2015, Company A and Company B were incorporated as a single company.",
+                "example_hebrew": "בשנת 2015 התאגדו חברה א' וחברה ב' כחברה אחת."
+            },
+            {
+                "definition": "Added new features or components to something already existing.",
+                "definition_hebrew": "הוסיפו תכונות או רכיבים חדשים למשהו שכבר קיים.",
+                "example": "The developers incorporated advanced security measures into the software update.",
+                "example_hebrew": "המפתחים שילבו אמצעי אבטחה מתקדמים בעדכון התוכנה."
+            },
+            {
+                "definition": "Adopted certain practices, methods, or policies from another group or entity.",
+                "definition_hebrew": "אימצה שיטות, שיטות או מדיניות מסוימות מקבוצה או ישות אחרת.",
+                "example": "After studying successful business models, our company decided to incorporate their strategies.",
+                "example_hebrew": "לאחר לימוד מודלים עסקיים מצליחים, החברה שלנו החליטה לשלב את האסטרטגיות שלהם."
+            }
+        ]
+    }
+]

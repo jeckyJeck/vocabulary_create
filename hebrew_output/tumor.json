@@ -1,0 +1,28 @@
+[
+    {
+        "word": "tumor",
+        "word_hebrew": "גידול סרטני",
+        "main_definition": "A tumor is an abnormal growth of cells in the body, which can be benign (non-cancerous) or malignant (cancerous).",
+        "main_definition_hebrew": "גידול הוא גידול לא תקין של תאים בגוף, שיכול להיות שפיר (לא סרטני) או ממאיר (סרטני).",
+        "meanings_and_examples": [
+            {
+                "definition": "Medical term referring to a mass or swelling composed of tissue similar to that around it. Often used in the context of diseases like cancer.",
+                "definition_hebrew": "מונח רפואי המתייחס למסה או נפיחות המורכבת מרקמה דומה לזו שסביבה. משמש לעתים קרובות בהקשר של מחלות כמו סרטן.",
+                "example": "The doctor found a malignant tumor during the patient's scan.",
+                "example_hebrew": "הרופא מצא גידול ממאיר במהלך הסריקה של המטופל."
+            },
+            {
+                "definition": "A colloquial phrase, not usually associated with medical conditions. For example: 'His words had a strange, almost metaphorical 'tumor', growing larger and more aggressive over time.'",
+                "definition_hebrew": "ביטוי דיבור, שאינו קשור בדרך כלל למצבים רפואיים. למשל: 'למילים שלו היה 'גידול' מוזר, כמעט מטפורי, שגדל וגדל ואגרסיבי עם הזמן'.",
+                "example": "Her criticism seemed to have a tumor effect on the team's morale.",
+                "example_hebrew": "נראה היה שלביקורת שלה הייתה השפעה גידולית על המורל של הקבוצה."
+            },
+            {
+                "definition": "'Tumor-like growth', which could refer to any non-cancerous abnormal cell proliferation, such as cysts or benign lumps.",
+                "definition_hebrew": "'גידול דמוי גידול', שיכול להתייחס לכל התפשטות תאים לא-סרטנית לא תקינה, כגון ציסטות או גושים שפירים.",
+                "example": "The dentist identified a tumor-like growth in the patient's gum.",
+                "example_hebrew": "רופא השיניים זיהה גידול דמוי גידול בחניכיים של המטופל."
+            }
+        ]
+    }
+]

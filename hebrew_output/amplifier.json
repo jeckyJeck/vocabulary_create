@@ -1,0 +1,34 @@
+[
+    {
+        "word": "amplifier",
+        "word_hebrew": "מַגבֵּר",
+        "main_definition": "An amplifier is a device that increases the power or intensity of an electrical signal, often used in audio systems to enhance sound volume.",
+        "main_definition_hebrew": "מגבר הוא מכשיר המגביר את ההספק או את עוצמת האות החשמלי, המשמש לעתים קרובות במערכות שמע כדי לשפר את עוצמת הקול.",
+        "meanings_and_examples": [
+            {
+                "definition": "In electronics, an amplifier is a device that takes in a small electrical signal and produces a larger version of it without distorting the original content.",
+                "definition_hebrew": "באלקטרוניקה, מגבר הוא מכשיר הקולט אות חשמלי קטן ומפיק גרסה גדולה יותר שלו מבלי לעוות את התוכן המקורי.",
+                "example": "When you connect your phone to a speaker system using an audio cable, the built-in amplifier within the speaker boosts the sound volume.",
+                "example_hebrew": "כאשר אתה מחבר את הטלפון שלך למערכת רמקולים באמצעות כבל שמע, המגבר המובנה בתוך הרמקול מגביר את עוצמת הקול."
+            },
+            {
+                "definition": "In communication systems, an amplifier is used to increase the strength of a signal that has been transmitted over long distances.",
+                "definition_hebrew": "במערכות תקשורת, מגבר משמש להגברת עוצמת האות ששודר למרחקים ארוכים.",
+                "example": "Telephone signals are often sent through cables and may require amplifiers at intervals to maintain their quality as they travel.",
+                "example_hebrew": "אותות טלפון נשלחים לעתים קרובות דרך כבלים ועשויים לדרוש מגברים במרווחים כדי לשמור על איכותם בזמן הנסיעה."
+            },
+            {
+                "definition": "In the context of figurative language, an 'amplifier' refers to a word or phrase that increases the impact or emphasis of another element in speech or writing.",
+                "definition_hebrew": "בהקשר של שפה פיגורטיבית, 'מגבר' מתייחס למילה או ביטוי המגבירים את ההשפעה או הדגש של אלמנט אחר בדיבור או בכתיבה.",
+                "example": "The word 'completely,' when used before 'destroyed,' acts as an amplifier to intensify the meaning.",
+                "example_hebrew": "המילה 'לגמרי', כאשר משתמשים בה לפני 'נהרס', פועלת כמגבר להעצמת המשמעות."
+            },
+            {
+                "definition": "In physics, a mechanical amplifier is a device that multiplies force. A common example of this type includes levers.",
+                "definition_hebrew": "בפיזיקה, מגבר מכני הוא מכשיר שמכפיל כוח. דוגמה נפוצה מסוג זה כוללת מנופים.",
+                "example": "A crowbar can be used as a mechanical amplifier; applying a small amount of effort at one end results in a larger force being exerted at the other end.",
+                "example_hebrew": "ברז יכול לשמש כמגבר מכני; הפעלת כמות קטנה של מאמץ בקצה אחד מביאה להפעלת כוח גדול יותר בקצה השני."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "apps",
+        "word_hebrew": "אפליקציות",
+        "main_definition": "The plural form of 'application', referring to software designed to perform specific tasks or functions.",
+        "main_definition_hebrew": "צורת הרבים של 'יישום', המתייחסת לתוכנה המיועדת לבצע משימות או פונקציות ספציפיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mobile applications, specifically developed for smartphones and tablets.",
+                "definition_hebrew": "אפליקציות מובייל, שפותחו במיוחד עבור סמארטפונים וטאבלטים.",
+                "example": "'I downloaded the latest social media app on my phone.'",
+                "example_hebrew": "'הורדתי את אפליקציית המדיה החברתית האחרונה לטלפון שלי.'"
+            },
+            {
+                "definition": "Software programs designed to perform specific tasks or functions within a computer system.",
+                "definition_hebrew": "תוכנות המיועדות לבצע משימות או פונקציות ספציפיות בתוך מערכת מחשב.",
+                "example": "'The company released a new project management app for employees to use.'",
+                "example_hebrew": "'החברה הוציאה אפליקציה חדשה לניהול פרויקטים לשימוש העובדים'."
+            },
+            {
+                "definition": "A popular term used in the business world to refer to software products that are sold directly to consumers, often through online platforms such as the Apple App Store or Google Play.",
+                "definition_hebrew": "מונח פופולרי המשמש בעולם העסקים כדי להתייחס למוצרי תוכנה הנמכרים ישירות לצרכנים, לרוב דרך פלטפורמות מקוונות כגון Apple App Store או Google Play.",
+                "example": "'I'm looking forward to buying the new photo editing app from the developer's website.'",
+                "example_hebrew": "'אני מצפה לקנות את אפליקציית עריכת התמונות החדשה מהאתר של המפתח.'"
+            }
+        ]
+    }
+]

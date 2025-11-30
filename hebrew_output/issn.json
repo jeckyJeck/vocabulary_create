@@ -1,0 +1,22 @@
+[
+    {
+        "word": "issn",
+        "word_hebrew": "issn",
+        "main_definition": "The International Standard Serial Number (ISSN) is an eight-digit code used to uniquely identify serial publications such as journals, magazines, and newspapers.",
+        "main_definition_hebrew": "המספר הסידורי הבינלאומי (ISSN) הוא קוד בן שמונה ספרות המשמש לזיהוי ייחודי של פרסומים סדרתיים כגון כתבי עת, מגזינים ועיתונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A unique identifier for a periodical publication",
+                "definition_hebrew": "מזהה ייחודי לפרסום תקופתי",
+                "example": "The ISSN of 'Nature' journal is 0028-0836.",
+                "example_hebrew": "ה-ISSN של כתב העת 'טבע' הוא 0028-0836."
+            },
+            {
+                "definition": "An international standard code used in libraries and databases to catalog serial publications",
+                "definition_hebrew": "קוד תקן בינלאומי המשמש בספריות ובמאגרי מידע לקטלוג פרסומים סדרתיים",
+                "example": "To find the ISSN of a specific academic journal, one can search within library databases or directly from the publisher's website.",
+                "example_hebrew": "כדי למצוא את ה-ISSN של כתב עת אקדמי ספציפי, ניתן לחפש בתוך מאגרי מידע של הספרייה או ישירות מאתר ההוצאה."
+            }
+        ]
+    }
+]

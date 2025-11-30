@@ -1,0 +1,40 @@
+[
+    {
+        "word": "footwear",
+        "word_hebrew": "הַנעָלָה",
+        "main_definition": "Footwear refers to any item worn over the feet, typically providing protection or comfort.",
+        "main_definition_hebrew": "הנעלה מתייחסת לכל פריט הנלבש על כפות הרגליים, בדרך כלל מספק הגנה או נוחות.",
+        "meanings_and_examples": [
+            {
+                "definition": "General term for clothing designed to cover and protect the feet",
+                "definition_hebrew": "מונח כללי לבגדים שנועדו לכסות ולהגן על כפות הרגליים",
+                "example": "Running shoes are a type of footwear.",
+                "example_hebrew": "נעלי ריצה הן סוג של הנעלה."
+            },
+            {
+                "definition": "Footgear used specifically for athletic purposes or sports",
+                "definition_hebrew": "נעל המשמשת במיוחד למטרות ספורט או ספורט",
+                "example": "High-performance football boots are an example of sports footwear.",
+                "example_hebrew": "נעלי כדורגל בעלות ביצועים גבוהים הם דוגמה להנעלת ספורט."
+            },
+            {
+                "definition": "Footwear that is part of a specific cultural or traditional outfit",
+                "definition_hebrew": "הנעלה שהיא חלק מתלבושת תרבותית או מסורתית ספציפית",
+                "example": "Japanese geta sandals, used in conjunction with traditional kimono, is a form of cultural footwear.",
+                "example_hebrew": "סנדלי geta יפניים, המשמשים בשילוב עם קימונו מסורתי, הם סוג של הנעלה תרבותית."
+            },
+            {
+                "definition": "Items designed for special purposes such as safety gear",
+                "definition_hebrew": "פריטים המיועדים למטרות מיוחדות כגון ציוד בטיחות",
+                "example": "Steel-toe boots are protective footwear meant to safeguard the feet in hazardous work environments.",
+                "example_hebrew": "מגפי פלדה הם הנעלה מגן שנועדה להגן על הרגליים בסביבות עבודה מסוכנות."
+            },
+            {
+                "definition": "Footwear intended for specific activities or occupations",
+                "definition_hebrew": "הנעלה המיועדת לפעילויות או עיסוקים ספציפיים",
+                "example": "Rubber soles and heavy construction boots are designed as occupational footwear for workers in industries like construction.",
+                "example_hebrew": "סוליות גומי ומגפי בנייה כבדים מיועדים כהנעלה תעסוקתית לעובדים בתעשיות כמו בנייה."
+            }
+        ]
+    }
+]

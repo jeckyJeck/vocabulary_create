@@ -1,0 +1,28 @@
+[
+    {
+        "word": "isbn",
+        "word_hebrew": "isbn",
+        "main_definition": "International Standard Book Number is a unique numeric identifier assigned to books, used globally to identify titles in publishing.",
+        "main_definition_hebrew": "International Standard Book Number הוא מזהה מספרי ייחודי המוקצה לספרים, המשמש באופן גלובלי לזיהוי כותרים בהוצאה לאור.",
+        "meanings_and_examples": [
+            {
+                "definition": "Publishing industry identification number",
+                "definition_hebrew": "פרסום מספר זיהוי תעשייתי",
+                "example": "The ISBN of the latest Harry Potter book is 978-0545589360.",
+                "example_hebrew": "ה-ISBN של הספר האחרון של הארי פוטר הוא 978-0545589360."
+            },
+            {
+                "definition": "Book identifier for cataloguing and ordering purposes in libraries, stores, etc.",
+                "definition_hebrew": "מזהה ספר לצורכי קטלוג והזמנה בספריות, חנויות וכו'.",
+                "example": "Librarians use ISBNs to organize books on shelves and create digital databases.",
+                "example_hebrew": "ספרנים משתמשים ב-ISBN כדי לארגן ספרים על מדפים וליצור מסדי נתונים דיגיטליים."
+            },
+            {
+                "definition": "Numeric code used by online retailers and e-book platforms",
+                "definition_hebrew": "קוד מספרי בשימוש קמעונאים מקוונים ופלטפורמות ספרים אלקטרוניים",
+                "example": "When purchasing an eBook, the platform displays its ISBN for verification purposes.",
+                "example_hebrew": "בעת רכישת ספר אלקטרוני, הפלטפורמה מציגה את ה-ISBN שלה למטרות אימות."
+            }
+        ]
+    }
+]

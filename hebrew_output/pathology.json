@@ -1,0 +1,28 @@
+[
+    {
+        "word": "pathology",
+        "word_hebrew": "פָּתוֹלוֹגִיָה",
+        "main_definition": "Pathology is the study of diseases, their causes, processes, development, and consequences, as well as the changes they induce in living organisms.",
+        "main_definition_hebrew": "פתולוגיה היא חקר מחלות, הגורמים, תהליכים, התפתחותן והשלכותיהן, כמו גם השינויים שהן גורמות באורגניזמים חיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The branch of medicine that deals with the study of disease",
+                "definition_hebrew": "ענף הרפואה העוסק בחקר מחלות",
+                "example": "Dr. Smith specializes in medical pathology.",
+                "example_hebrew": "ד\"ר סמית מתמחה בפתולוגיה רפואית."
+            },
+            {
+                "definition": "A report or analysis detailing a disease's manifestations, causes, and effects",
+                "definition_hebrew": "דוח או ניתוח המפרט את ביטויי המחלה, הסיבות וההשפעות שלה",
+                "example": "The pathology report indicated that the patient has a rare form of cancer.",
+                "example_hebrew": "הדוח הפתולוגי הצביע על כך שלמטופל יש צורה נדירה של סרטן."
+            },
+            {
+                "definition": "Anomalies in biological functions due to diseases or abnormalities",
+                "definition_hebrew": "חריגות בתפקודים ביולוגיים עקב מחלות או חריגות",
+                "example": "A comprehensive study on cardiac pathologies showed significant findings regarding heart disease.",
+                "example_hebrew": "מחקר מקיף על פתולוגיות לב הראה ממצאים משמעותיים לגבי מחלות לב."
+            }
+        ]
+    }
+]

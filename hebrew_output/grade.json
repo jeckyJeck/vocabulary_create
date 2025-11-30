@@ -1,0 +1,40 @@
+[
+    {
+        "word": "grade",
+        "word_hebrew": "כיתה",
+        "main_definition": "Grade refers to a measure of the quality or level of performance, achievement, or assessment in various contexts such as education, evaluations, or standards.",
+        "main_definition_hebrew": "ציון מתייחס למדד של איכות או רמת הביצועים, ההישגים או ההערכה בהקשרים שונים כגון חינוך, הערכות או סטנדרטים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In education, it is a score given to a student's work based on its quality and accuracy. Example: 'John received an A grade for his excellent essay.'",
+                "definition_hebrew": "בחינוך מדובר בציון שניתן לעבודתו של תלמיד על פי איכותה ודיוקה. דוגמה: 'ג'ון קיבל ציון A על החיבור המצוין שלו'.",
+                "example": "'She earned straight A grades throughout her high school career.'",
+                "example_hebrew": "'היא קיבלה ציונים ישירים א' לאורך הקריירה בתיכון שלה'."
+            },
+            {
+                "definition": "In grading systems, it is a scale or level of achievement from lowest to highest. Example: 'The coursework has been graded on a scale from 1 to 5.'",
+                "definition_hebrew": "במערכות דירוג, מדובר בסולם או רמת הישגים מהנמוך לגבוה ביותר. דוגמה: 'עבודת הקורס קיבלה ציון בסולם מ-1 עד 5'.",
+                "example": "'This restaurant received a grade of one star out of five in the review.'",
+                "example_hebrew": "'המסעדה הזו קיבלה בביקורת ציון של כוכב אחד מתוך חמישה'."
+            },
+            {
+                "definition": "In military, it refers to a unit's strength or combat readiness. Example: 'The army brigade was at full grade during wartime operations.'",
+                "definition_hebrew": "בצבא, זה מתייחס לכוח של יחידה או מוכנות לחימה. דוגמה: 'החטיבה הצבאית הייתה בכיתה מלאה במהלך פעולות מלחמה'.",
+                "example": "'Our company received an upgrade and is now operating at maximum grade capacity.'",
+                "example_hebrew": "'החברה שלנו קיבלה שדרוג ופועלת כעת בקיבולת ציונים מקסימלית'."
+            },
+            {
+                "definition": "In sports, it refers to the level of competition or division. Example: 'The professional basketball league has multiple grades of play ranging from college teams to international championships.'",
+                "definition_hebrew": "בספורט, זה מתייחס לרמת התחרות או החלוקה. דוגמה: 'ליגת הכדורסל המקצוענית כוללת דרגות משחק מרובות, החל מקבוצות מכללות ועד אליפויות בינלאומיות.'",
+                "example": "'He competes in Grade III racing and hopes to advance to higher levels.'",
+                "example_hebrew": "'הוא מתחרה במירוצי דרגה III ומקווה להתקדם לרמות גבוהות יותר'."
+            },
+            {
+                "definition": "In quality control, it represents the standard or level that products must meet. Example: 'All electronics sold by this company are grade A certified for quality.'",
+                "definition_hebrew": "בבקרת איכות, הוא מייצג את הסטנדרט או הרמה שהמוצרים חייבים לעמוד בהם. דוגמה: 'כל מוצרי האלקטרוניקה הנמכרים על ידי חברה זו הם בעלי אישור דרגה A לאיכות.'",
+                "example": "'The new building construction project needs to adhere to Grade 4 environmental standards.'",
+                "example_hebrew": "'פרויקט בניית הבניין החדש צריך לעמוד בתקני איכות הסביבה דרגה 4'."
+            }
+        ]
+    }
+]

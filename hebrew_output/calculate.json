@@ -1,0 +1,40 @@
+[
+    {
+        "word": "calculate",
+        "word_hebrew": "לחשב",
+        "main_definition": "To determine a numerical value or figure by using mathematical processes.",
+        "main_definition_hebrew": "לקבוע ערך מספרי או נתון באמצעות תהליכים מתמטיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To compute mentally or mathematically, typically to find an answer for a problem.",
+                "definition_hebrew": "לחשב מנטלי או מתמטי, בדרך כלל כדי למצוא תשובה לבעיה.",
+                "example": "I calculated that I would need 10 apples if each person at the party gets one.",
+                "example_hebrew": "חישבתי שאצטרך 10 תפוחים אם כל אחד במסיבה יקבל אחד."
+            },
+            {
+                "definition": "To estimate or judge something by using mathematical principles.",
+                "definition_hebrew": "להעריך או לשפוט משהו באמצעות עקרונות מתמטיים.",
+                "example": "The lawyer had to calculate potential damages in a lawsuit based on past cases.",
+                "example_hebrew": "עורך הדין היה צריך לחשב נזקים פוטנציאליים בתביעה בהתבסס על מקרי עבר."
+            },
+            {
+                "definition": "To find an answer through the process of addition, subtraction, multiplication, and division.",
+                "definition_hebrew": "למצוא תשובה בתהליך של חיבור, חיסור, כפל וחילוק.",
+                "example": "She calculated her expenses for the month by adding up all receipts.",
+                "example_hebrew": "היא חישבה את הוצאותיה לחודש על ידי חיבור כל הקבלות."
+            },
+            {
+                "definition": "To work out how much something will cost or what value it has using numbers.",
+                "definition_hebrew": "כדי לחשב כמה משהו יעלה או איזה ערך יש לו באמצעות מספרים.",
+                "example": "He was tasked with calculating the interest on a loan to present to his boss.",
+                "example_hebrew": "הוטל עליו לחשב את הריבית על הלוואה שתציג לבוס שלו."
+            },
+            {
+                "definition": "To figure out an answer by applying mathematical formulas, especially in scientific research or data analysis.",
+                "definition_hebrew": "להבין תשובה על ידי יישום נוסחאות מתמטיות, במיוחד במחקר מדעי או בניתוח נתונים.",
+                "example": "The scientist had to calculate the velocity of the particle using its mass and acceleration.",
+                "example_hebrew": "המדען היה צריך לחשב את מהירות החלקיק באמצעות המסה והתאוצה שלו."
+            }
+        ]
+    }
+]

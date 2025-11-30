@@ -1,0 +1,34 @@
+[
+    {
+        "word": "node",
+        "word_hebrew": "צוֹמֶת",
+        "main_definition": "In the context of computer science, a node is an element within a data structure or network that can represent any entity such as a point in a graph, storage location in a database, or a computing device connected to a network.",
+        "main_definition_hebrew": "בהקשר של מדעי המחשב, צומת הוא אלמנט בתוך מבנה נתונים או רשת שיכול לייצג כל ישות כמו נקודה בגרף, מיקום אחסון במסד נתונים או התקן מחשוב המחובר לרשת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Element in a tree-like data structure",
+                "definition_hebrew": "אלמנט במבנה נתונים דמוי עץ",
+                "example": "In an HTML document, each element that can contain nested elements is considered as a node.",
+                "example_hebrew": "במסמך HTML, כל רכיב שיכול להכיל אלמנטים מקוננים נחשב כצומת."
+            },
+            {
+                "definition": "Point in graph theory or network topology",
+                "definition_hebrew": "נקודה בתורת הגרפים או טופולוגיית הרשת",
+                "example": "A junction where edges meet in a graph or a router connecting devices on a computer network are examples of nodes.",
+                "example_hebrew": "צומת שבו קצוות נפגשים בגרף או נתב המחבר התקנים ברשת מחשבים הם דוגמאות לצמתים."
+            },
+            {
+                "definition": "Storage location within a database system",
+                "definition_hebrew": "מיקום אחסון בתוך מערכת מסד נתונים",
+                "example": "Each record in a relational database table can be considered as a node representing data storage.",
+                "example_hebrew": "כל רשומה בטבלת מסד נתונים יחסי יכולה להיחשב כצומת המייצג אחסון נתונים."
+            },
+            {
+                "definition": "Computing device connected to a network",
+                "definition_hebrew": "מכשיר מחשוב המחובר לרשת",
+                "example": "A computer, router, or smartphone that connects and communicates with other devices on a network is referred to as a node.",
+                "example_hebrew": "מחשב, נתב או סמארטפון שמתחברים ומתקשרים עם מכשירים אחרים ברשת נקראים צומת."
+            }
+        ]
+    }
+]

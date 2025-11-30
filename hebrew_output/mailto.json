@@ -1,0 +1,22 @@
+[
+    {
+        "word": "mailto",
+        "word_hebrew": "mailto",
+        "main_definition": "The 'mailto' is an Internet protocol used to create a hyperlink that allows users to open their default email client with a pre-filled recipient address.",
+        "main_definition_hebrew": "ה-'mailto' הוא פרוטוקול אינטרנט המשמש ליצירת היפר-קישור המאפשר למשתמשים לפתוח את לקוח הדוא\"ל המוגדר כברירת מחדל עם כתובת נמען שמולאה מראש.",
+        "meanings_and_examples": [
+            {
+                "definition": "Internet link for sending emails",
+                "definition_hebrew": "קישור אינטרנט לשליחת מיילים",
+                "example": "Visit this website's homepage and click the mailto link in the header.",
+                "example_hebrew": "בקר בדף הבית של אתר זה ולחץ על הקישור mailto בכותרת."
+            },
+            {
+                "definition": "A protocol to pre-populate recipient email address in an email client",
+                "definition_hebrew": "פרוטוקול לאכלוס מראש של כתובת הדוא\"ל של הנמען בלקוח דוא\"ל",
+                "example": "In my contact list, I can use 'mailto:' followed by a person's email to send them a message directly from the browser.",
+                "example_hebrew": "ברשימת אנשי הקשר שלי, אני יכול להשתמש ב-'mailto:' ואחריו אימייל של אדם כדי לשלוח לו הודעה ישירות מהדפדפן."
+            }
+        ]
+    }
+]

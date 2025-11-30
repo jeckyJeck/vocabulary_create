@@ -1,0 +1,34 @@
+[
+    {
+        "word": "vehicle",
+        "word_hebrew": "רכב",
+        "main_definition": "A vehicle is a means of transportation that can carry people or goods from one place to another.",
+        "main_definition_hebrew": "רכב הוא כלי תחבורה שיכול לשאת אנשים או סחורות ממקום למקום.",
+        "meanings_and_examples": [
+            {
+                "definition": "In idiomatic usage, 'vehicle' refers metaphorically to any method or instrument used to achieve something. It signifies the tool that facilitates a particular action or goal.",
+                "definition_hebrew": "בשימוש אידיומטי, 'רכב' מתייחס באופן מטפורי לכל שיטה או מכשיר המשמשים להשגת משהו. זה מסמל את הכלי המאפשר פעולה או מטרה מסוימת.",
+                "example": "Public speaking is her vehicle for making an impact.",
+                "example_hebrew": "דיבור בציבור הוא הכלי שלה להשפיע."
+            },
+            {
+                "definition": "In transportation, 'vehicle' typically refers to any conveyance powered by mechanical means (like engines) and designed to carry passengers or cargo on roads. This includes cars, trucks, buses, motorcycles, etc.",
+                "definition_hebrew": "בתחבורה, 'רכב' מתייחס בדרך כלל לכל כלי תחבורה המופעל באמצעים מכניים (כמו מנועים) ומיועד לשאת נוסעים או מטען בכבישים. זה כולל מכוניות, משאיות, אוטובוסים, אופנועים וכו'.",
+                "example": "The large truck is a vehicle for delivering goods across the country.",
+                "example_hebrew": "המשאית הגדולה היא רכב להעברת סחורה לכל הארץ."
+            },
+            {
+                "definition": "In computing, 'vehicle' may refer to an object that encapsulates data and methods relevant to its use. This term draws from the idea of carrying or transporting information.",
+                "definition_hebrew": "במחשוב, 'רכב' עשוי להתייחס לאובייקט שמכיל נתונים ושיטות הרלוונטיות לשימוש בו. מונח זה שואב מהרעיון של נשיאת או הובלת מידע.",
+                "example": "The API is a vehicle for exchanging data between different software systems.",
+                "example_hebrew": "ה-API הוא כלי להחלפת נתונים בין מערכות תוכנה שונות."
+            },
+            {
+                "definition": "In finance, 'vehicle' can refer to an entity or instrument that facilitates transactions, investments, or movement of funds. It acts as the medium through which financial activities are conducted.",
+                "definition_hebrew": "בפיננסים, 'רכב' יכול להתייחס לישות או למכשיר המאפשרים עסקאות, השקעות או תנועת כספים. הוא משמש כאמצעי שדרכו מתנהלת פעילויות פיננסיות.",
+                "example": "An investment fund is a vehicle for diversifying one's portfolio.",
+                "example_hebrew": "קרן השקעות היא כלי לפיזור התיק."
+            }
+        ]
+    }
+]

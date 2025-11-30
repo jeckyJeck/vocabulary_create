@@ -1,0 +1,40 @@
+[
+    {
+        "word": "proprietary",
+        "word_hebrew": "קנייני",
+        "main_definition": "Pertaining to or characteristic of a product, service, or technology that is privately owned or controlled, rather than being open-source or publicly available.",
+        "main_definition_hebrew": "קשור או מאפיין מוצר, שירות או טכנולוגיה הנמצאים בבעלות פרטית או בשליטה, במקום להיות בקוד פתוח או זמין לציבור.",
+        "meanings_and_examples": [
+            {
+                "definition": "Owned exclusively by an individual or group",
+                "definition_hebrew": "בבעלות בלעדית של אדם או קבוצה",
+                "example": "The proprietary software developed by the company was not available for others to use without purchasing a license.",
+                "example_hebrew": "התוכנה הקניינית שפיתחה החברה לא הייתה זמינה לשימוש אחרים ללא רכישת רישיון."
+            },
+            {
+                "definition": "Not freely available as open source, and typically protected under copyright law",
+                "definition_hebrew": "לא זמין באופן חופשי כקוד פתוח, ומוגן בדרך כלל על פי חוק זכויות יוצרים",
+                "example": "Many video games are proprietary, meaning they cannot be modified or redistributed by users.",
+                "example_hebrew": "משחקי וידאו רבים הם קנייניים, כלומר לא ניתן לשנות אותם או להפיץ אותם מחדש על ידי משתמשים."
+            },
+            {
+                "definition": "Restricted in terms of accessibility due to licensing agreements",
+                "definition_hebrew": "מוגבל מבחינת נגישות עקב הסכמי רישוי",
+                "example": "The library's collection of scholarly journals is mostly comprised of proprietary articles, which patrons must pay for to read online.",
+                "example_hebrew": "אוסף כתבי העת המדעיים של הספרייה מורכב ברובו ממאמרים קנייניים, שעל הלקוחות לשלם עבורם כדי לקרוא באינטרנט."
+            },
+            {
+                "definition": "Unique and not available from other sources or competitors",
+                "definition_hebrew": "ייחודי ולא זמין ממקורות אחרים או מתחרים",
+                "example": "Our company offers a proprietary blend of ingredients that makes our skincare products stand out in the marketplace.",
+                "example_hebrew": "החברה שלנו מציעה תערובת קניינית של מרכיבים שגורמת למוצרי הטיפוח שלנו לבלוט בשוק."
+            },
+            {
+                "definition": "Not openly shared, but rather controlled by an individual or organization for profit",
+                "definition_hebrew": "לא משותף בגלוי, אלא נשלט על ידי אדם או ארגון למטרות רווח",
+                "example": "The firm's research on renewable energy technologies is proprietary and not disclosed to competitors.",
+                "example_hebrew": "המחקר של המשרד על טכנולוגיות אנרגיה מתחדשת הוא קנייני ולא נחשף למתחרים."
+            }
+        ]
+    }
+]

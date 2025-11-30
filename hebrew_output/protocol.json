@@ -1,0 +1,40 @@
+[
+    {
+        "word": "protocol",
+        "word_hebrew": "נוהל",
+        "main_definition": "A set of rules, guidelines or procedures to be followed in specific situations.",
+        "main_definition_hebrew": "מערכת של כללים, הנחיות או נהלים שיש לפעול לפיהם במצבים ספציפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In diplomacy and international relations, it refers to the formal etiquette governing interactions between countries or organizations. Example: The protocol was strictly adhered to during the meeting between foreign dignitaries.",
+                "definition_hebrew": "בדיפלומטיה וביחסים בינלאומיים, זה מתייחס לנימוס הפורמלי השולט באינטראקציות בין מדינות או ארגונים. דוגמה: הפרוטוקול נשמר בקפדנות במהלך הפגישה בין נכבדים זרים.",
+                "example": "The United Nations' diplomatic protocol ensures that all member nations are treated with respect in meetings and negotiations.",
+                "example_hebrew": "הפרוטוקול הדיפלומטי של האו\"ם מבטיח שכל המדינות החברות מטופלות בכבוד בפגישות ובמשא ומתן."
+            },
+            {
+                "definition": "In computer networking, it refers to a standard procedure or sequence of operations for transmitting data. Example: The Ethernet protocol is widely used for local area networks.",
+                "definition_hebrew": "ברשתות מחשבים, זה מתייחס לנוהל סטנדרטי או רצף פעולות להעברת נתונים. דוגמה: פרוטוקול Ethernet נמצא בשימוש נרחב עבור רשתות מקומיות.",
+                "example": "The TCP/IP protocol suite defines how data should be packaged and sent over the internet.",
+                "example_hebrew": "חבילת פרוטוקולי TCP/IP מגדירה כיצד יש לארוז ולשלוח נתונים דרך האינטרנט."
+            },
+            {
+                "definition": "In medicine, it refers to a set of procedures or steps taken in the treatment or diagnosis of patients. Example: The patient was put under anesthesia following the surgical protocol.",
+                "definition_hebrew": "ברפואה, זה מתייחס למערכת של נהלים או צעדים שננקטו בטיפול או אבחון של חולים. דוגמה: המטופל הוכנס להרדמה בהתאם לפרוטוקול הניתוח.",
+                "example": "The Surgical Safety Checklist is a widely used medical protocol designed to minimize errors during operations.",
+                "example_hebrew": "רשימת הבטיחות הכירורגית היא פרוטוקול רפואי בשימוש נרחב שנועד למזער שגיאות במהלך פעולות."
+            },
+            {
+                "definition": "In telecommunications, it refers to a set of rules that govern how data is transmitted between network nodes. Example: The Wi-Fi protocols are standards for wireless networking.",
+                "definition_hebrew": "בתקשורת, זה מתייחס למערכת של כללים שקובעים את אופן העברת הנתונים בין צמתי הרשת. דוגמה: פרוטוקולי ה-Wi-Fi הם תקנים לרשת אלחוטית.",
+                "example": "The Zigbee protocol enables low-powered devices to communicate wirelessly in home automation.",
+                "example_hebrew": "פרוטוקול Zigbee מאפשר למכשירים בעלי הספק נמוך לתקשר באופן אלחוטי באוטומציה ביתית."
+            },
+            {
+                "definition": "In business, it refers to a formal document that sets out the terms and conditions of an agreement or contract. Example: The partners signed off on the new sales protocol.",
+                "definition_hebrew": "בעסקים, זה מתייחס למסמך רשמי המפרט את התנאים וההגבלות של הסכם או חוזה. דוגמה: השותפים חתמו על פרוטוקול המכירה החדש.",
+                "example": "The company's board approved the updated employee conduct protocol after reviewing its impact on workplace safety.",
+                "example_hebrew": "דירקטוריון החברה אישר את פרוטוקול התנהגות העובדים המעודכן לאחר שבדק את השפעתו על בטיחות במקום העבודה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "sigma",
+        "word_hebrew": "סיגמא",
+        "main_definition": "Sigma is a Greek letter commonly used in various contexts, such as mathematics, physics, and astronomy.",
+        "main_definition_hebrew": "סיגמה היא אות יוונית הנפוצה בהקשרים שונים, כגון מתמטיקה, פיזיקה ואסטרונומיה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In mathematics, sigma represents the sum of a series or sequence of numbers.",
+                "definition_hebrew": "במתמטיקה, סיגמה מייצגת את הסכום של סדרה או רצף של מספרים.",
+                "example": "The total value of an arithmetic progression is given by the formula: Sigma (n) = n/2 * (a + l), where 'n' is the number of terms, 'a' is the first term and 'l' is the last term.",
+                "example_hebrew": "הערך הכולל של התקדמות אריתמטית ניתן על ידי הנוסחה: Sigma (n) = n/2 * (a + l), כאשר 'n' הוא מספר האיברים, 'a' הוא האיבר הראשון ו-'l' הוא הקדנציה האחרונה."
+            },
+            {
+                "definition": "In astronomy, sigma refers to a star in a constellation or the angular separation between two celestial objects.",
+                "definition_hebrew": "באסטרונומיה, סיגמה מתייחסת לכוכב בקבוצת כוכבים או להפרדה הזוויתית בין שני עצמים שמימיים.",
+                "example": "The star Alpha Centauri A and B are part of the Sigma Centauri constellation. Their angular separation is approximately 36 arcseconds.",
+                "example_hebrew": "הכוכב אלפא קנטאורי A ו-B הם חלק מקבוצת הכוכבים סיגמה קנטאורי. ההפרדה הזוויתית שלהם היא בערך 36 שניות קשת."
+            },
+            {
+                "definition": "In statistics, sigma represents the standard deviation of a population or sample.",
+                "definition_hebrew": "בסטטיסטיקה, סיגמא מייצגת את סטיית התקן של אוכלוסייה או מדגם.",
+                "example": "The standard deviation (Sigma) measures how spread out numbers are from their average value in a dataset.",
+                "example_hebrew": "סטיית התקן (Sigma) מודדת עד כמה המספרים מפוזרים מהערך הממוצע שלהם במערך נתונים."
+            }
+        ]
+    }
+]

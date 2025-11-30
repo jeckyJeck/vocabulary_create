@@ -1,0 +1,28 @@
+[
+    {
+        "word": "amend",
+        "word_hebrew": "לְתַקֵן",
+        "main_definition": "To make changes or improvements to a document, law, or other formal piece of work.",
+        "main_definition_hebrew": "כדי לבצע שינויים או שיפורים במסמך, בחוק או ביצירה רשמית אחרת.",
+        "meanings_and_examples": [
+            {
+                "definition": "To correct errors in written material by adding more accurate information",
+                "definition_hebrew": "לתקן שגיאות בחומר כתוב על ידי הוספת מידע מדויק יותר",
+                "example": "The editor amended the manuscript to fix grammatical mistakes and inconsistencies.",
+                "example_hebrew": "העורך תיקן את כתב היד כדי לתקן טעויות דקדוקיות וחוסר עקביות."
+            },
+            {
+                "definition": "To make changes or improvements to a law, contract, or agreement",
+                "definition_hebrew": "כדי לבצע שינויים או שיפורים בחוק, בחוזה או בהסכם",
+                "example": "After reviewing the terms of the contract, they decided to amend it to better protect both parties' interests.",
+                "example_hebrew": "לאחר בחינת תנאי החוזה, הם החליטו לתקן אותו כדי להגן טוב יותר על האינטרסים של שני הצדדים."
+            },
+            {
+                "definition": "To alter something slightly in order to improve it or adapt it for new conditions",
+                "definition_hebrew": "לשנות משהו במקצת כדי לשפר אותו או להתאים אותו לתנאים חדשים",
+                "example": "The committee will amend the policy guidelines to include remote work options during public health emergencies.",
+                "example_hebrew": "הוועדה תתקן את הנחיות המדיניות כך שיכללו אפשרויות עבודה מרחוק במצבי חירום בבריאות הציבור."
+            }
+        ]
+    }
+]

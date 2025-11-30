@@ -1,0 +1,28 @@
+[
+    {
+        "word": "buttons",
+        "word_hebrew": "כפתורים",
+        "main_definition": "Buttons can refer to a small, typically round object used to fasten garments or accessories, as well as being used metaphorically in various idiomatic expressions.",
+        "main_definition_hebrew": "כפתורים יכולים להתייחס לחפץ קטן ועגול בדרך כלל המשמש להצמדת בגדים או אביזרים, כמו גם בשימוש מטפורי בביטויים אידיומטיים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A small disc sewn onto an item of clothing for decoration and fastening",
+                "definition_hebrew": "דיסק קטן תפור על פריט לבוש לקישוט והידוק",
+                "example": "She wore a shirt with pink buttons on the front.",
+                "example_hebrew": "היא לבשה חולצה עם כפתורים ורודים בחזית."
+            },
+            {
+                "definition": "In computing, a button is a clickable interface element that users can interact with to perform specific actions",
+                "definition_hebrew": "במחשוב, כפתור הוא רכיב ממשק הניתן ללחיצה שמשתמשים יכולים ליצור איתו אינטראקציה כדי לבצע פעולות ספציפיות",
+                "example": "Clicking the 'Submit' button sends your form data to the server.",
+                "example_hebrew": "לחיצה על הלחצן 'שלח' שולחת את נתוני הטופס שלך לשרת."
+            },
+            {
+                "definition": "Used metaphorically in idioms or expressions, often implying control or decision-making",
+                "definition_hebrew": "משמש באופן מטפורי בביטויים או בביטויים, לעתים קרובות מרמזים על שליטה או קבלת החלטות",
+                "example": "He finally got a say in how things were done; he had buttons of his own now.",
+                "example_hebrew": "לבסוף הוא קיבל ביטוי כיצד הדברים נעשו; היו לו כפתורים משלו עכשיו."
+            }
+        ]
+    }
+]

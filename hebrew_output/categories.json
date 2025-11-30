@@ -1,0 +1,34 @@
+[
+    {
+        "word": "categories",
+        "word_hebrew": "קטגוריות",
+        "main_definition": "Categories are groups or classifications of objects, ideas, or concepts based on shared characteristics or properties.",
+        "main_definition_hebrew": "קטגוריות הן קבוצות או סיווגים של אובייקטים, רעיונות או מושגים המבוססים על מאפיינים או מאפיינים משותפים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A method for organizing information by grouping related items together.",
+                "definition_hebrew": "שיטה לארגון מידע על ידי קיבוץ פריטים קשורים יחד.",
+                "example": "In a library, books can be categorized into genres such as fiction, non-fiction, romance, mystery, etc.",
+                "example_hebrew": "בספרייה ניתן לסווג ספרים לז'אנרים כמו סיפורת, עיון, רומנטיקה, מסתורין וכו'."
+            },
+            {
+                "definition": "Different classifications or groups used in statistical analysis to understand patterns and relationships among variables.",
+                "definition_hebrew": "סיווגים או קבוצות שונות המשמשות בניתוח סטטיסטי להבנת דפוסים ויחסים בין משתנים.",
+                "example": "When analyzing survey data, researchers may categorize responses by age group, gender, income level, etc.",
+                "example_hebrew": "בעת ניתוח נתוני הסקר, החוקרים עשויים לסווג תשובות לפי קבוצת גיל, מין, רמת הכנסה וכו'."
+            },
+            {
+                "definition": "Groupings of items based on common attributes or characteristics within a specific context or domain.",
+                "definition_hebrew": "קיבוץ פריטים המבוססים על תכונות או מאפיינים משותפים בהקשר או תחום ספציפי.",
+                "example": "On an e-commerce website, products can be categorized into electronics, clothing, home goods, and more to help customers find what they're looking for.",
+                "example_hebrew": "באתר מסחר אלקטרוני, ניתן לסווג מוצרים לפי מוצרי אלקטרוניקה, ביגוד, מוצרים לבית ועוד כדי לעזור ללקוחות למצוא את מה שהם מחפשים."
+            },
+            {
+                "definition": "A set of criteria used to sort items, ideas, or concepts according to their similarities and differences.",
+                "definition_hebrew": "קבוצה של קריטריונים המשמשים למיון פריטים, רעיונות או מושגים לפי הדמיון והשונה ביניהם.",
+                "example": "In a school curriculum, subjects like math, science, language arts can be categorized based on grade level requirements.",
+                "example_hebrew": "בתכנית הלימודים בבית הספר, ניתן לסווג נושאים כמו מתמטיקה, מדעים, אומנויות שפה על סמך דרישות כיתה."
+            }
+        ]
+    }
+]

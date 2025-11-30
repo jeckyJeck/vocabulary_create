@@ -1,0 +1,28 @@
+[
+    {
+        "word": "errors",
+        "word_hebrew": "שגיאות",
+        "main_definition": "Errors refer to mistakes, faults, or inaccuracies that occur in various contexts such as language usage, programming, decision making, etc.",
+        "main_definition_hebrew": "שגיאות מתייחסות לטעויות, תקלות או אי דיוקים המתרחשים בהקשרים שונים כגון שימוש בשפה, תכנות, קבלת החלטות וכו'.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of grammar and language usage, errors refer to incorrect application of rules, leading to mistakes in writing or speech.",
+                "definition_hebrew": "בהקשר של דקדוק ושימוש בשפה, שגיאות מתייחסות ליישום לא נכון של כללים, המוביל לטעויות בכתיבה או בדיבור.",
+                "example": "The student made several spelling and grammatical errors in his essay.",
+                "example_hebrew": "התלמיד עשה מספר שגיאות כתיב ודקדוק בחיבורו."
+            },
+            {
+                "definition": "Errors in programming occur when a computer program does not behave as expected due to flaws in its code. These can include syntax errors, logical errors, or runtime exceptions.",
+                "definition_hebrew": "שגיאות בתכנות מתרחשות כאשר תוכנת מחשב אינה מתנהגת כמצופה עקב פגמים בקוד שלה. אלה יכולים לכלול שגיאות תחביר, שגיאות לוגיות או חריגים בזמן ריצה.",
+                "example": "The software crashed repeatedly because of an error in the loop's logic.",
+                "example_hebrew": "התוכנה קרסה שוב ושוב בגלל שגיאה בלוגיקה של הלולאה."
+            },
+            {
+                "definition": "Errors in judgment are mistakes made when deciding on a course of action due to flawed reasoning or incomplete information.",
+                "definition_hebrew": "טעויות בשיפוט הן טעויות שנעשות בעת החלטה על דרך פעולה עקב נימוק לקוי או מידע חלקי.",
+                "example": "Choosing not to wear a coat on a cold day was an error in judgment given the weather forecast.",
+                "example_hebrew": "הבחירה לא ללבוש מעיל ביום קר הייתה טעות בשיקול דעת בהתחשב בתחזית מזג האוויר."
+            }
+        ]
+    }
+]

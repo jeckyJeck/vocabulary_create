@@ -1,0 +1,34 @@
+[
+    {
+        "word": "portions",
+        "word_hebrew": "מנות",
+        "main_definition": "Portions refer to individual or separate parts of a larger whole, often used in the context of food quantities.",
+        "main_definition_hebrew": "מנות מתייחסות לחלקים בודדים או נפרדים של שלם גדול יותר, המשמשים לעתים קרובות בהקשר של כמויות מזון.",
+        "meanings_and_examples": [
+            {
+                "definition": "In terms of serving sizes at restaurants or during meals, it refers to the amount of food served to an individual on a plate or dish.",
+                "definition_hebrew": "מבחינת גדלי הגשה במסעדות או במהלך ארוחות, הכוונה היא לכמות האוכל המוגשת לאדם בצלחת או במנה.",
+                "example": "The waiter brought out three portions of spaghetti for each member of our family.",
+                "example_hebrew": "המלצר הוציא שלוש מנות ספגטי לכל אחד מבני המשפחה שלנו."
+            },
+            {
+                "definition": "When discussing ingredients in recipes, it can indicate the specific quantity required when preparing multiple servings.",
+                "definition_hebrew": "כאשר דנים במרכיבים במתכונים, זה יכול לציין את הכמות הספציפית הנדרשת בעת הכנת מנות מרובות.",
+                "example": "To make a cake that serves 12 people, you need six portions of flour and three portions of sugar.",
+                "example_hebrew": "כדי להכין עוגה שמשרתת 12 אנשים, צריך שש מנות קמח ושלוש מנות סוכר."
+            },
+            {
+                "definition": "In economics or business contexts, it may refer to the division of products into separate packages for sale.",
+                "definition_hebrew": "בהקשרים כלכליים או עסקיים, זה עשוי להתייחס לחלוקת מוצרים לאריזות נפרדות למכירה.",
+                "example": "The company decided to break its product line into smaller portions to make them more accessible in retail stores.",
+                "example_hebrew": "החברה החליטה לחלק את קו המוצרים שלה למנות קטנות יותר כדי להפוך אותם לנגישים יותר בחנויות קמעונאיות."
+            },
+            {
+                "definition": "When referring to animals' food intake, a portion might indicate the amount they are given or consume at a time.",
+                "definition_hebrew": "כאשר מתייחסים לצריכת מזון של בעלי חיים, חלק עשוי להצביע על הכמות שהם ניתנים או צורכים בכל פעם.",
+                "example": "The zoo feeds each giraffe three large portions of leaves and fruits daily.",
+                "example_hebrew": "גן החיות מאכיל כל ג'ירפה שלוש מנות גדולות של עלים ופירות מדי יום."
+            }
+        ]
+    }
+]

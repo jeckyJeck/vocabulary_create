@@ -1,0 +1,34 @@
+[
+    {
+        "word": "poetry",
+        "word_hebrew": "שִׁירָה",
+        "main_definition": "Poetry is a form of literature that uses aesthetic and rhythmic qualities of language to evoke emotions, create imagery, or convey ideas through structured verses.",
+        "main_definition_hebrew": "שירה היא סוג של ספרות המשתמשת באיכויות אסתטיות וקצביות של השפה כדי לעורר רגשות, ליצור דימויים או להעביר רעיונות באמצעות פסוקים מובנים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A literary work written in verse",
+                "definition_hebrew": "יצירה ספרותית כתובה בחרוזים",
+                "example": "Shakespeare's 'Sonnet 18', which begins with the famous line 'Shall I compare thee to a summer's day?' is an example of poetry.",
+                "example_hebrew": "'Sonnet 18' של שייקספיר, שמתחיל בשורה המפורסמת 'Shall I compare you to a summer's day?' הוא דוגמה לשירה."
+            },
+            {
+                "definition": "The art or craft of composing verses",
+                "definition_hebrew": "האומנות או המלאכה של חיבור פסוקים",
+                "example": "John Keats, William Wordsworth, and Emily Dickinson are celebrated poets known for their skill in the art of verse composition.",
+                "example_hebrew": "ג'ון קיטס, וויליאם וורדסוורת' ואמילי דיקינסון הם משוררים מהוללים הידועים במיומנותם באמנות הלחנה של פסוקים."
+            },
+            {
+                "definition": "Expressive language with metrical structure and often rhyme",
+                "definition_hebrew": "שפה אקספרסיבית עם מבנה מטרי ולעתים קרובות חריזה",
+                "example": "The poem 'Stopping by Woods on a Snowy Evening' by Robert Frost, which follows an AABA rhyme scheme, showcases the use of expressive language and meter in poetry.",
+                "example_hebrew": "השיר 'עצור ליד יער בערב מושלג' מאת רוברט פרוסט, העוקב אחר ערכת חריזה של AABA, מציג את השימוש בשפה ובמטר אקספרסיביים בשירה."
+            },
+            {
+                "definition": "An elevated form of writing that uses figurative language to convey complex ideas or emotions",
+                "definition_hebrew": "צורת כתיבה מוגבהת המשתמשת בשפה פיגורטיבית כדי להעביר רעיונות או רגשות מורכבים",
+                "example": "T.S. Eliot's 'The Waste Land', a modernist poem filled with allusions and metaphors, is considered an example of poetry as an elevated form of writing.",
+                "example_hebrew": "ת.ס. 'הארץ המחורבנת' של אליוט, שיר מודרניסטי מלא ברמיזות ומטאפורות, נחשב דוגמה לשירה כצורת כתיבה מוגבהת."
+            }
+        ]
+    }
+]

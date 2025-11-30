@@ -1,0 +1,34 @@
+[
+    {
+        "word": "disable",
+        "word_hebrew": "להשבית",
+        "main_definition": "To render someone or something unable to function properly, typically due to injury, damage, or other reasons.",
+        "main_definition_hebrew": "לגרום למישהו או למשהו לא לתפקד כראוי, בדרך כלל בגלל פציעה, נזק או סיבות אחרות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To prevent from working properly; to make incapable of functioning normally",
+                "definition_hebrew": "כדי למנוע מעבודה תקינה; לגרום לחוסר יכולת לתפקד כרגיל",
+                "example": "The accident left him temporarily disabled and unable to walk.",
+                "example_hebrew": "התאונה הותירה אותו נכה זמנית ואינו יכול ללכת."
+            },
+            {
+                "definition": "To take away the rights or privileges of someone, usually legally or through a decision",
+                "definition_hebrew": "לקחת ממנו את הזכויות או הפריבילגיות של מישהו, בדרך כלל מבחינה חוקית או באמצעות החלטה",
+                "example": "After being found guilty of fraud, he was disqualified from holding any public office.",
+                "example_hebrew": "לאחר שנמצא אשם בהונאה, הוא נפסל מלמלא תפקיד ציבורי כלשהו."
+            },
+            {
+                "definition": "In gaming, to temporarily hinder an opponent's ability to participate effectively in the game",
+                "definition_hebrew": "במשחקים, לעכב זמנית את יכולתו של היריב להשתתף ביעילות במשחק",
+                "example": "The power-up disabled her enemy for a few seconds, giving her an advantage.",
+                "example_hebrew": "הכוח השבית את האויב שלה לכמה שניות, והעניק לה יתרון."
+            },
+            {
+                "definition": "To make someone dependent on others due to loss of function or disability",
+                "definition_hebrew": "לגרום למישהו להיות תלוי באחרים עקב אובדן תפקוד או מוגבלות",
+                "example": "He became disabled and had to rely on his family for daily care after the accident.",
+                "example_hebrew": "הוא הפך לנכה ונאלץ לסמוך על משפחתו לטיפול יומיומי לאחר התאונה."
+            }
+        ]
+    }
+]

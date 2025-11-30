@@ -1,0 +1,34 @@
+[
+    {
+        "word": "reviewed",
+        "word_hebrew": "נבדק",
+        "main_definition": "To examine or assess something critically with the intent of making judgments, evaluations, or providing feedback.",
+        "main_definition_hebrew": "לבחון או להעריך משהו בצורה ביקורתית מתוך כוונה לעשות שיפוטים, הערכות או מתן משוב.",
+        "meanings_and_examples": [
+            {
+                "definition": "To examine a written work, such as an article, book, or report, usually for the purpose of critique and analysis.",
+                "definition_hebrew": "לבחון עבודה כתובה, כגון מאמר, ספר או דו\"ח, בדרך כלל לצורך ביקורת וניתוח.",
+                "example": "The novel was reviewed by several literary critics before being published.",
+                "example_hebrew": "הרומן נבדק על ידי כמה מבקרי ספרות לפני פרסום."
+            },
+            {
+                "definition": "To look over previously completed work, documents, or projects with a specific focus on correcting errors or improving content.",
+                "definition_hebrew": "להסתכל על עבודות, מסמכים או פרויקטים שהושלמו בעבר תוך התמקדות ספציפית בתיקון שגיאות או שיפור תוכן.",
+                "example": "She reviewed her essay one last time to catch any spelling mistakes before submission.",
+                "example_hebrew": "היא עיינה את החיבור שלה בפעם האחרונה כדי לתפוס שגיאות כתיב לפני ההגשה."
+            },
+            {
+                "definition": "To conduct an inspection of financial statements, tax returns, or other business records for accuracy and compliance with relevant regulations.",
+                "definition_hebrew": "לערוך בדיקה של דוחות כספיים, החזרי מס או רישומים עסקיים אחרים לצורך דיוק ועמידה בתקנות הרלוונטיות.",
+                "example": "The accountant reviewed the company's financial reports in preparation for the audit.",
+                "example_hebrew": "רואה החשבון בחן את הדוחות הכספיים של החברה לקראת הביקורת."
+            },
+            {
+                "definition": "To assess a performance, such as an employee's job output, skills, or behaviors after a certain period of time has passed.",
+                "definition_hebrew": "להעריך ביצועים, כגון תפוקת העבודה, כישוריו או התנהגויות של עובד לאחר חלוף פרק זמן מסוים.",
+                "example": "The manager will review each team member's work performance at the end of the quarter.",
+                "example_hebrew": "המנהל יסקור את ביצועי העבודה של כל חבר צוות בסוף הרבעון."
+            }
+        ]
+    }
+]

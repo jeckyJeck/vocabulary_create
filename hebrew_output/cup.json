@@ -1,0 +1,40 @@
+[
+    {
+        "word": "cup",
+        "word_hebrew": "גָבִיעַ",
+        "main_definition": "A cup is a small container used to hold liquids, typically with a handle and cylindrical or slightly curved shape.",
+        "main_definition_hebrew": "כוס היא מיכל קטן המשמש להכיל נוזלים, בדרך כלל עם ידית וצורה גלילית או מעוקלת מעט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Container for holding beverages such as water, tea, coffee, etc.",
+                "definition_hebrew": "מיכל להחזקת משקאות כמו מים, תה, קפה וכו'.",
+                "example": "She poured hot coffee into her ceramic cup.",
+                "example_hebrew": "היא מזגה קפה חם לתוך כוס הקרמיקה שלה."
+            },
+            {
+                "definition": "A unit of measurement equivalent to 8 fluid ounces (approximately 237 milliliters) used for measuring volume in cooking recipes.",
+                "definition_hebrew": "יחידת מדידה שווה ערך ל-8 אונקיות נוזליות (כ-237 מיליליטר) המשמשת למדידת נפח במתכוני בישול.",
+                "example": "The recipe calls for one and a half cups of flour.",
+                "example_hebrew": "המתכון דורש כוס וחצי קמח."
+            },
+            {
+                "definition": "A term used to describe something or someone that is limited, small in scope, or lacking resources; often applied metaphorically.",
+                "definition_hebrew": "מונח המשמש לתיאור משהו או מישהו מוגבל, קטן בהיקף או חסר משאבים; לעתים קרובות מיושם באופן מטפורי.",
+                "example": "They faced the challenge with their cup's full knowledge.",
+                "example_hebrew": "הם התמודדו עם האתגר עם הידע המלא של הגביע שלהם."
+            },
+            {
+                "definition": "An idiomatic expression meaning 'to suffer a significant loss', similar to losing one's fortunes in poker.",
+                "definition_hebrew": "ביטוי אידיומטי שמשמעותו 'לספוג הפסד משמעותי', בדומה לאובדן הונו בפוקר.",
+                "example": "After investing all his money, he metaphorically had his cups runneth over when the market crashed.",
+                "example_hebrew": "לאחר שהשקיע את כל כספו, באופן מטפורי, כוסותיו נזלו כשהשוק התרסק."
+            },
+            {
+                "definition": "A term used in various sports or games as a unit of scoring; for example, 'cup' in cricket represents one point.",
+                "definition_hebrew": "מונח המשמש בענפי ספורט או משחקים שונים כיחידת ניקוד; לדוגמה, 'כוס' בקריקט מייצג נקודה אחת.",
+                "example": "In the final match, he scored three cups to win the championship.",
+                "example_hebrew": "במשחק הגמר הוא כבש שלושה גביעים כדי לזכות באליפות."
+            }
+        ]
+    }
+]

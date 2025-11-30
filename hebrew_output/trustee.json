@@ -1,0 +1,28 @@
+[
+    {
+        "word": "trustee",
+        "word_hebrew": "נֶאֱמָן",
+        "main_definition": "A trustee is an individual or organization appointed to manage the assets of a trust by ensuring they are used in accordance with the terms set out in the trust agreement.",
+        "main_definition_hebrew": "נאמן הוא אדם או ארגון שמונה לנהל את נכסי הנאמנות על ידי הבטחת השימוש בהם בהתאם לתנאים שנקבעו בהסכם הנאמנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual appointed as a fiduciary",
+                "definition_hebrew": "אדם שמונה כנאמן",
+                "example": "When I pass away, my brother will be named as the trustee of my estate.",
+                "example_hebrew": "כשאני אפטר, אחי ייקרא כנאמן עיזבוני."
+            },
+            {
+                "definition": "A person or entity legally responsible for managing someone else's property",
+                "definition_hebrew": "אדם או ישות אחראים משפטית לניהול רכוש של מישהו אחר",
+                "example": "The bank appointed a trustee to manage her late husband's investments and properties.",
+                "example_hebrew": "הבנק מינה נאמן לניהול ההשקעות והנכסים של בעלה המנוח."
+            },
+            {
+                "definition": "An entity, such as an institution, that holds assets on behalf of others",
+                "definition_hebrew": "ישות, כגון מוסד, המחזיק בנכסים מטעם אחרים",
+                "example": "The university treasury is the official trustee for all donated funds to its endowment fund.",
+                "example_hebrew": "אוצר האוניברסיטה הוא הנאמן הרשמי של כל הכספים שנתרמו לקרן ההקדשים שלה."
+            }
+        ]
+    }
+]

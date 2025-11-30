@@ -1,0 +1,34 @@
+[
+    {
+        "word": "exceed",
+        "word_hebrew": "עולה על",
+        "main_definition": "To surpass or go beyond a certain limit, level, or expectation.",
+        "main_definition_hebrew": "לעלות על גבול, רמה או ציפייה מסוימים או לחרוג ממנו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To be greater in quantity, size, degree, or value than something else.",
+                "definition_hebrew": "להיות גדול יותר בכמות, גודל, תואר או ערך מאשר משהו אחר.",
+                "example": "The sales for this year exceeded the company's expectations.",
+                "example_hebrew": "המכירות לשנה זו עלו על ציפיות החברה."
+            },
+            {
+                "definition": "To surpass a limit that has been set as a standard or benchmark.",
+                "definition_hebrew": "לעלות על מגבלה שהוגדרה כתקן או בנצ'מרק.",
+                "example": "His performance in the marathon exceeded his personal best record by ten minutes.",
+                "example_hebrew": "הביצועים שלו במרתון עלו בעשר דקות על השיא האישי שלו."
+            },
+            {
+                "definition": "To go beyond what is considered normal, usual, or appropriate behavior.",
+                "definition_hebrew": "ללכת מעבר למה שנחשב להתנהגות נורמלית, רגילה או הולמת.",
+                "example": "She spoke so loudly at the library that she exceeded acceptable noise levels.",
+                "example_hebrew": "היא דיברה בקול רם כל כך בספרייה שהיא חרגה מרמות הרעש המקובלות."
+            },
+            {
+                "definition": "To surpass in skill, ability, or quality relative to others.",
+                "definition_hebrew": "להתעלות במיומנות, ביכולת או באיכות ביחס לאחרים.",
+                "example": "His painting skills have exceeded those of his peers since he was a child.",
+                "example_hebrew": "כישורי הציור שלו עלו על אלה של בני גילו מאז שהיה ילד."
+            }
+        ]
+    }
+]

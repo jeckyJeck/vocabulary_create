@@ -1,0 +1,34 @@
+[
+    {
+        "word": "county",
+        "word_hebrew": "מָחוֹז",
+        "main_definition": "A county is a geographical region or administrative division within a state, often with specific governing bodies such as a board of supervisors or commissioners.",
+        "main_definition_hebrew": "מחוז הוא אזור גיאוגרפי או חלוקה מנהלית בתוך מדינה, לעתים קרובות עם גופים שלטון ספציפיים כגון מועצת מפקחים או נציבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Administrative Division",
+                "definition_hebrew": "חלוקה מנהלית",
+                "example": "In the United States, counties are one level of subdivision below states, with various responsibilities and powers varying by state.",
+                "example_hebrew": "בארצות הברית, המחוזות הם רמה אחת של חלוקה מתחת למדינות, עם אחריות וסמכויות שונות המשתנות לפי מדינה."
+            },
+            {
+                "definition": "Geographical Region",
+                "definition_hebrew": "אזור גיאוגרפי",
+                "example": "County boundaries can vary widely in size and shape. For instance, Fresno County is known for its agricultural production due to the fertile San Joaquin Valley within its borders.",
+                "example_hebrew": "גבולות המחוז יכולים להשתנות מאוד בגודל ובצורה. לדוגמה, מחוז פרזנו ידוע בייצור החקלאי שלו בשל עמק סן חואקין הפורה בגבולותיו."
+            },
+            {
+                "definition": "Legal Jurisdiction",
+                "definition_hebrew": "סמכות שיפוט משפטית",
+                "example": "A court located within a county has jurisdiction over legal matters pertaining to that particular county, such as civil or criminal cases involving residents of the area.",
+                "example_hebrew": "לבית משפט הממוקם בתוך מחוז יש סמכות שיפוט בעניינים משפטיים הנוגעים לאותו מחוז, כגון תיקים אזרחיים או פליליים שבהם מעורבים תושבי האזור."
+            },
+            {
+                "definition": "Electoral District",
+                "definition_hebrew": "מחוז בחירות",
+                "example": "County often serves as an electoral district for local elections, determining who will represent the interests of its inhabitants at various levels of government.",
+                "example_hebrew": "המחוז משמש לעתים קרובות כמחוז בחירות לבחירות מקומיות, הקובע מי יייצג את האינטרסים של תושביו ברמות הממשל השונות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "incidence",
+        "word_hebrew": "שכיחות",
+        "main_definition": "Incidence refers to the occurrence, rate, or frequency of a particular event or phenomenon.",
+        "main_definition_hebrew": "שכיחות מתייחסת להתרחשות, לקצב או לתדירות של אירוע או תופעה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "The number of new cases of a specific condition within a given period.",
+                "definition_hebrew": "מספר המקרים החדשים של מצב מסוים בתוך תקופה נתונה.",
+                "example": "The incidence of flu cases increased significantly during the winter months.",
+                "example_hebrew": "שכיחות מקרי השפעת עלתה משמעותית במהלך חודשי החורף."
+            },
+            {
+                "definition": "A statistical measure indicating how often something happens relative to the size of a population at risk for it to happen.",
+                "definition_hebrew": "מדד סטטיסטי המציין באיזו תדירות משהו קורה ביחס לגודל האוכלוסייה שנמצאת בסיכון לקרות.",
+                "example": "The incidence rate of heart disease in this age group is 12 per 1,000 people annually.",
+                "example_hebrew": "שיעור ההיארעות של מחלות לב בקבוצת גיל זו הוא 12 לכל 1,000 איש מדי שנה."
+            },
+            {
+                "definition": "An increase or rise in something over time.",
+                "definition_hebrew": "עלייה או עלייה במשהו לאורך זמן.",
+                "example": "The incidence of smartphone usage has risen dramatically among teenagers in the past decade.",
+                "example_hebrew": "שכיחות השימוש בסמארטפון עלתה באופן דרמטי בקרב בני נוער בעשור האחרון."
+            },
+            {
+                "definition": "A sudden or unexpected appearance or occurrence.",
+                "definition_hebrew": "הופעה או התרחשות פתאומית או בלתי צפויה.",
+                "example": "The unexpected incidence of rain spoiled our outdoor event plans.",
+                "example_hebrew": "השכיחות הבלתי צפויה של גשם קלקלה את תוכניות האירועים שלנו בחוץ."
+            }
+        ]
+    }
+]

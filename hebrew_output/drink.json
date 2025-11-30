@@ -1,0 +1,40 @@
+[
+    {
+        "word": "drink",
+        "word_hebrew": "לִשְׁתוֹת",
+        "main_definition": "To consume a liquid, typically by swallowing it.",
+        "main_definition_hebrew": "לצרוך נוזל, בדרך כלל על ידי בליעתו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Consuming beverages for hydration or refreshment.",
+                "definition_hebrew": "צריכת משקאות לצורך הידרציה או רענון.",
+                "example": "I'll drink some water to stay hydrated.",
+                "example_hebrew": "אני אשתה קצת מים כדי לשמור על לחות."
+            },
+            {
+                "definition": "Pouring a liquid into one's mouth and swallowing it.",
+                "definition_hebrew": "יוצקים נוזל לתוך הפה ובליעתו.",
+                "example": "She took a sip of her coffee before taking another bite of her muffin.",
+                "example_hebrew": "היא לגמה מהקפה שלה לפני שלקחה עוד ביס מהמאפין שלה."
+            },
+            {
+                "definition": "A social activity involving the consumption of alcoholic beverages.",
+                "definition_hebrew": "פעילות חברתית הכרוכה בצריכת משקאות אלכוהוליים.",
+                "example": "We went out for drinks at our favorite bar after work.",
+                "example_hebrew": "יצאנו לשתות בבר האהוב עלינו אחרי העבודה."
+            },
+            {
+                "definition": "To consume a specific type of beverage, often with particular qualities or effects.",
+                "definition_hebrew": "לצרוך סוג מסוים של משקה, לעתים קרובות עם איכויות או אפקטים מסוימים.",
+                "example": "He likes to drink herbal tea before bedtime because it helps him relax.",
+                "example_hebrew": "הוא אוהב לשתות תה צמחים לפני השינה כי זה עוזר לו להירגע."
+            },
+            {
+                "definition": "A unit measurement for the volume of liquid consumed.",
+                "definition_hebrew": "יחידת מדידה לנפח הנוזל הנצרך.",
+                "example": "I had three beers at the party last night.",
+                "example_hebrew": "שתיתי שלוש בירות במסיבה אתמול בלילה."
+            }
+        ]
+    }
+]

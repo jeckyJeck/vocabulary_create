@@ -1,0 +1,34 @@
+[
+    {
+        "word": "spelling",
+        "word_hebrew": "אִיוּת",
+        "main_definition": "Spelling refers to the correct sequence of letters in a word, as well as the practice or act of learning and applying these sequences.",
+        "main_definition_hebrew": "איות מתייחס לרצף הנכון של אותיות במילה, כמו גם לתרגול או לפעולה של למידה ויישום רצפים אלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The process of determining how words are written",
+                "definition_hebrew": "תהליך קביעת אופן כתיבת המילים",
+                "example": "She is studying the spelling of difficult English words.",
+                "example_hebrew": "היא לומדת איות של מילים באנגלית קשות."
+            },
+            {
+                "definition": "A mistake in writing a word by using incorrect letters or sequence",
+                "definition_hebrew": "טעות בכתיבת מילה באמצעות אותיות או רצף שגויים",
+                "example": "He made a spelling error while typing his name on the computer.",
+                "example_hebrew": "הוא עשה שגיאת כתיב בעת הקלדת שמו במחשב."
+            },
+            {
+                "definition": "An exercise or test to check one's ability to spell words correctly",
+                "definition_hebrew": "תרגיל או מבחן לבדיקת יכולתו של האדם לאיית מילים בצורה נכונה",
+                "example": "The teacher gave us a spelling bee at the end of class.",
+                "example_hebrew": "המורה נתנה לנו דבורת איות בסוף השיעור."
+            },
+            {
+                "definition": "A method or system for arranging letters in an alphabetical order, as used by dictionaries and other reference materials",
+                "definition_hebrew": "שיטה או מערכת לסידור אותיות בסדר אלפביתי, כפי שמשמשים במילונים וחומרי עיון אחרים",
+                "example": "The dictionary's index uses a standardized English-language spelling alphabet to organize entries.",
+                "example_hebrew": "אינדקס המילון משתמש באלפבית איות סטנדרטי בשפה האנגלית כדי לארגן ערכים."
+            }
+        ]
+    }
+]

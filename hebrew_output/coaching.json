@@ -1,0 +1,28 @@
+[
+    {
+        "word": "coaching",
+        "word_hebrew": "אימון",
+        "main_definition": "Coaching is a process of guiding, mentoring, or training individuals to achieve their personal and professional goals.",
+        "main_definition_hebrew": "אימון הוא תהליך של הדרכה, הדרכה או אימון של אנשים להשגת מטרותיהם האישיות והמקצועיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Guiding an individual towards achieving specific performance improvements in sports or other activities",
+                "definition_hebrew": "הנחיית אדם להשגת שיפורי ביצועים ספציפיים בספורט או בפעילויות אחרות",
+                "example": "The basketball coach worked with the player on improving free throw techniques.",
+                "example_hebrew": "מאמן הכדורסל עבד עם השחקן על שיפור טכניקות זריקת עונשין."
+            },
+            {
+                "definition": "Providing personal guidance and support to help someone reach their career goals",
+                "definition_hebrew": "מתן הכוונה ותמיכה אישית כדי לעזור למישהו להגיע ליעדי הקריירה שלו",
+                "example": "A career coaching session helped a recent graduate explore job opportunities and refine his resume.",
+                "example_hebrew": "פגישת אימון קריירה עזרה לבוגר טרי לחקור הזדמנויות עבודה ולחדד את קורות החיים שלו."
+            },
+            {
+                "definition": "Giving advice or mentorship in various aspects of life, including personal development, time management, and problem-solving",
+                "definition_hebrew": "מתן ייעוץ או הדרכה בהיבטים שונים של החיים, לרבות התפתחות אישית, ניהול זמן ופתרון בעיות",
+                "example": "The executive coach met with her client to discuss strategies for managing work stress.",
+                "example_hebrew": "המאמנת המנהלת נפגשה עם הלקוחה שלה כדי לדון באסטרטגיות לניהול מתח בעבודה."
+            }
+        ]
+    }
+]

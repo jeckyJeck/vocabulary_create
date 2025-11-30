@@ -1,0 +1,28 @@
+[
+    {
+        "word": "rehab",
+        "word_hebrew": "גמילה",
+        "main_definition": "Rehabilitation is a process aimed at helping individuals recover from injury, illness, or addiction to improve their physical, mental, and social well-being.",
+        "main_definition_hebrew": "שיקום הוא תהליך שמטרתו לעזור לאנשים להתאושש מפציעה, מחלה או התמכרות כדי לשפר את רווחתם הפיזית, הנפשית והחברתית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A place where people go for treatment after suffering an injury or surgery",
+                "definition_hebrew": "מקום אליו מגיעים אנשים לטיפול לאחר שסבלו מפציעה או ניתוח",
+                "example": "After his knee replacement surgery, John spent six weeks in rehab to regain strength and mobility.",
+                "example_hebrew": "לאחר ניתוח החלפת הברך שלו, ג'ון בילה שישה שבועות בגמילה כדי להחזיר את הכוח והניידות."
+            },
+            {
+                "definition": "The process of restoring someone's health following drug addiction or alcoholism",
+                "definition_hebrew": "תהליך השבת בריאותו של מישהו בעקבות התמכרות לסמים או אלכוהוליזם",
+                "example": "Sarah enrolled in a substance abuse rehabilitation program to overcome her heroin addiction.",
+                "example_hebrew": "שרה נרשמה לתוכנית גמילה משימוש בסמים כדי להתגבר על ההתמכרות להרואין."
+            },
+            {
+                "definition": "A facility that provides therapy and support for individuals with disabilities, aiming to help them achieve independence and improve their quality of life",
+                "definition_hebrew": "מתקן המעניק טיפול ותמיכה לאנשים עם מוגבלות, במטרה לעזור להם להגיע לעצמאות ולשפר את איכות חייהם",
+                "example": "The local community center offers vocational rehabilitation services to assist people with physical disabilities in finding employment.",
+                "example_hebrew": "המרכז הקהילתי המקומי מציע שירותי שיקום מקצועי לסיוע לאנשים עם מוגבלות פיזית במציאת תעסוקה."
+            }
+        ]
+    }
+]

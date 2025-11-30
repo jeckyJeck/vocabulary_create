@@ -1,0 +1,34 @@
+[
+    {
+        "word": "entities",
+        "word_hebrew": "ישויות",
+        "main_definition": "Entities are distinct, independent beings or things with specific characteristics or existence.",
+        "main_definition_hebrew": "ישויות הן יצורים נפרדים, עצמאיים או דברים בעלי מאפיינים או קיום ספציפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In general use, entities refer to any being or thing that exists. This can include people, animals, objects, and even abstract concepts.",
+                "definition_hebrew": "בשימוש כללי, ישויות מתייחסות לכל ישות או דבר שקיים. זה יכול לכלול אנשים, חיות, חפצים ואפילו מושגים מופשטים.",
+                "example": "The park was filled with various entities: children playing, dogs running around, trees swaying in the wind.",
+                "example_hebrew": "הפארק התמלא בישויות שונות: ילדים משחקים, כלבים מתרוצצים, עצים מתנדנדים ברוח."
+            },
+            {
+                "definition": "In business or organizational contexts, entities often refer to companies, corporations, organizations, or other legal structures.",
+                "definition_hebrew": "בהקשרים עסקיים או ארגוניים, ישויות מתייחסות לרוב לחברות, תאגידים, ארגונים או מבנים משפטיים אחרים.",
+                "example": "The financial market is dominated by several large entities such as Apple Inc., Amazon, and Google LLC.",
+                "example_hebrew": "השוק הפיננסי נשלט על ידי מספר גופים גדולים כמו Apple Inc., Amazon ו-Google LLC."
+            },
+            {
+                "definition": "In science, specifically in physics, an entity refers to a physical system with properties that can be measured or observed.",
+                "definition_hebrew": "במדע, במיוחד בפיזיקה, ישות מתייחסת למערכת פיזיקלית עם תכונות שניתן למדוד או לצפות בהן.",
+                "example": "Quantum entanglement is one of the most intriguing phenomena studied by physicists when analyzing subatomic entities.",
+                "example_hebrew": "הסתבכות קוונטית היא אחת התופעות המסקרנות ביותר שנחקרו על ידי פיזיקאים בעת ניתוח ישויות תת-אטומיות."
+            },
+            {
+                "definition": "In philosophy and metaphysics, entities are things that exist independently of our perceptions or thoughts. These can be material objects or abstract concepts.",
+                "definition_hebrew": "בפילוסופיה ובמטפיזיקה, ישויות הן דברים שקיימים ללא תלות בתפיסות או מחשבות שלנו. אלה יכולים להיות אובייקטים חומריים או מושגים מופשטים.",
+                "example": "Plato's theory of Forms suggests that true entities such as justice or beauty have an independent existence apart from human minds.",
+                "example_hebrew": "תורת הצורות של אפלטון מציעה שלישויות אמיתיות כמו צדק או יופי יש קיום עצמאי בנפרד מהמוחות האנושיים."
+            }
+        ]
+    }
+]

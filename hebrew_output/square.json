@@ -1,0 +1,34 @@
+[
+    {
+        "word": "square",
+        "word_hebrew": "כיכר",
+        "main_definition": "A shape with four equal sides and right angles or a deceptive act or behavior.",
+        "main_definition_hebrew": "צורה בעלת ארבע צלעות שוות וזוויות ישרות או מעשה או התנהגות מטעה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A geometric figure with four equal straight sides and four right angles.",
+                "definition_hebrew": "דמות גיאומטרית בעלת ארבע צלעות ישרות שוות וארבע זוויות ישרות.",
+                "example": "The park has a beautiful square fountain in the center.",
+                "example_hebrew": "בפארק יש מזרקה מרובעת יפה במרכז."
+            },
+            {
+                "definition": "To make something even or level by pressing it firmly on all sides.",
+                "definition_hebrew": "לעשות משהו אחיד או ליישר על ידי לחיצה חזקה מכל הצדדים.",
+                "example": "She squared the piece of wood before cutting it into pieces.",
+                "example_hebrew": "היא ריבועה את פיסת העץ לפני שחתכה אותה לחתיכות."
+            },
+            {
+                "definition": "A deceptive act, often related to cheating or unfair behavior.",
+                "definition_hebrew": "מעשה מטעה, הקשור לרוב בבגידה או בהתנהגות לא הוגנת.",
+                "example": "His attempt to manipulate the situation was clearly a square move.",
+                "example_hebrew": "הניסיון שלו לתמרן את המצב היה ללא ספק מהלך מרובע."
+            },
+            {
+                "definition": "An inexperienced person who does not understand the true nature of things and acts naively.",
+                "definition_hebrew": "אדם חסר ניסיון שאינו מבין את טבעם האמיתי של הדברים ומתנהג בתמימות.",
+                "example": "The young investor's decision to buy stock based on tips from friends seemed like he was square.",
+                "example_hebrew": "החלטתו של המשקיע הצעיר לקנות מניות על סמך טיפים של חברים נראתה כמו מרובעת."
+            }
+        ]
+    }
+]

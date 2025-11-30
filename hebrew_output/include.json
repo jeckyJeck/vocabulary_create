@@ -1,0 +1,40 @@
+[
+    {
+        "word": "include",
+        "word_hebrew": "לִכלוֹל",
+        "main_definition": "To contain as part of a whole or to add something in addition.",
+        "main_definition_hebrew": "להכיל כחלק ממכלול או להוסיף משהו נוסף.",
+        "meanings_and_examples": [
+            {
+                "definition": "To make someone aware of or incorporate them into an activity, event, or group.",
+                "definition_hebrew": "לגרום למישהו להיות מודע או לשלב אותם בפעילות, אירוע או קבוצה.",
+                "example": "The seminar will include students from all departments.",
+                "example_hebrew": "הסמינר יכלול סטודנטים מכל החוגים."
+            },
+            {
+                "definition": "To comprise as part of a whole or to encompass within it.",
+                "definition_hebrew": "להוות כחלק ממכלול או להקיף בתוכו.",
+                "example": "His duties include managing the budget and overseeing project completion.",
+                "example_hebrew": "תפקידיו כוללים ניהול תקציב ופיקוח על השלמת הפרויקט."
+            },
+            {
+                "definition": "To add something extra, typically in order to improve quality or effectiveness.",
+                "definition_hebrew": "כדי להוסיף משהו נוסף, בדרך כלל על מנת לשפר את האיכות או האפקטיביות.",
+                "example": "The recipe includes fresh herbs for enhanced flavor.",
+                "example_hebrew": "המתכון כולל עשבי תיבול טריים לשיפור הטעם."
+            },
+            {
+                "definition": "To bring something into consideration or account when making a decision.",
+                "definition_hebrew": "להביא משהו בחשבון או בחשבון בעת קבלת החלטה.",
+                "example": "When determining the cost, include taxes and shipping fees.",
+                "example_hebrew": "בעת קביעת העלות, כלול מיסים ודמי משלוח."
+            },
+            {
+                "definition": "To make a particular item available in a collection, package, or set.",
+                "definition_hebrew": "כדי להפוך פריט מסוים לזמין באוסף, חבילה או סט.",
+                "example": "The deluxe edition includes bonus tracks not found on the regular release.",
+                "example_hebrew": "מהדורת הדלוקס כוללת רצועות בונוס שלא נמצאו במהדורה הרגילה."
+            }
+        ]
+    }
+]

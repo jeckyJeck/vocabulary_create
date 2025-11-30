@@ -1,0 +1,86 @@
+<style>
+body {
+  background-color: #e8e8e8;
+  color: black;
+}
+.definition-slider {
+  display: flex;
+  overflow-x: scroll;
+  white-space: nowrap; /* Prevent wrapping */
+}
+
+.definition-rect {
+  flex: 0 0 auto; 
+  margin-right: 10px; /* Add spacing between rectangles */
+  border-radius: 8px;
+  /* padding: 10px; */
+  /* border: 1px solid #ddd; Add border for visual separation */
+  background-color: #ffffff; /* Light background color */
+}
+
+p:empty {
+    display: none; /* Hide empty paragraphs */
+}
+p {
+  padding-left: 10px; /* Add padding */
+  padding-right: 10px; /* Add padding */
+  width: 200px; /* Set width */
+  white-space: pre-wrap; /* Allow line wrapping */
+}
+p.definition {
+  font-size: 16px;
+  font-weight: bold; /* Bold text */
+  
+}
+p.definition-hebrew {
+  font-size: 14px;
+  direction: rtl; /* Right-to-left text */
+  font-style: italic; /* Italic text */
+}
+p.example {
+  font-size: 16px;
+}
+p.example-hebrew {
+  font-style: italic; /* Italic text */
+  direction: rtl; /* Right-to-left text */
+}
+</style>
+
+<div class="definition-slider">
+  <div class="definition-rect">
+    <p class="definition">{{definition1}}</p>
+    <p class="definition-hebrew">{{definition1_hebrew}}</p>
+    <p class="example">{{example1}}</p>
+    <p class="example-hebrew">{{example1_hebrew}}</p>
+  </div>
+  <div class="definition-rect">
+    <p class="definition">{{dlj lksd ldsl lk jfdslk jldsa j;lk jdsflk ldsk j;l kefinition1}}</p>
+    <p class="definition-hebrew"> Natus tenetur odio repellendus quibusdam laboriosam libero voluptatibus nobis similique. Sit, ea. At deserunt omnis quidem debitis amet possimus quae hic odit.</p>
+    <p class="example">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+    <p class="example-hebrew">חשבת שהילד היקר שלך יהיה ביזנס מן</p>
+  </div>
+  <div class="definition-rect">
+    <p class="definition">{{definitiojn}}</p>
+    <p class="definition-hebrew">{{definition1_heblkkkkkkkkkkkkkkkkkkrew}}</p>
+    <p class="example">{{example1}}</p>
+    <p class="example-hebrew">{{example1_hebrew}}</p>
+  </div>
+  <div class="definition-rect">
+    <p class="definition"></p>
+    <p class="definition-hebrew"></p>
+    <p class="example"></p>
+    <p class="example-hebrew"></p>
+  </div>
+  <div class="definition-rect">
+    <p class="definition"></p>
+    <p class="definition-hebrew"></p>
+    <p class="example"></p>
+    <p class="example-hebrew"></p>
+  </div><div class="definition-rect">
+    <p class="definition"></p>
+    <p class="definition-hebrew"></p>
+    <p class="example"></p>
+    <p class="example-hebrew"></p>
+  </div>
+</div>
+

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "loop",
+        "word_hebrew": "לוּלָאָה",
+        "main_definition": "A loop refers to a circular or repetitive sequence, either in an action, conversation, or conceptual framework.",
+        "main_definition_hebrew": "לולאה מתייחסת לרצף מעגלי או חוזר, בין אם במסגרת פעולה, שיחה או מסגרת מושגית.",
+        "meanings_and_examples": [
+            {
+                "definition": "An action that involves going around and coming back to the starting point",
+                "definition_hebrew": "פעולה הכוללת הסתובבות וחזרה לנקודת ההתחלה",
+                "example": "The cyclist completed one loop of the track.",
+                "example_hebrew": "רוכב האופניים השלים לולאה אחת של המסלול."
+            },
+            {
+                "definition": "A series of actions or commands in a computer program that are executed repeatedly until a condition is met",
+                "definition_hebrew": "סדרה של פעולות או פקודות בתוכנת מחשב שמתבצעות שוב ושוב עד לתנאי עמידה",
+                "example": "In our script, we used a loop to process each item in the list.",
+                "example_hebrew": "בסקריפט שלנו, השתמשנו בלולאה כדי לעבד כל פריט ברשימה."
+            },
+            {
+                "definition": "An uninterrupted repetition of a sound or phrase",
+                "definition_hebrew": "חזרה ללא הפרעה על צליל או ביטוי",
+                "example": "The chorus section of the song repeats this catchy 'loop' several times.",
+                "example_hebrew": "קטע הפזמון של השיר חוזר על ה'לופ' הקליט הזה מספר פעמים."
+            },
+            {
+                "definition": "A figure-eight pattern made by an object that continuously circles around another one",
+                "definition_hebrew": "תבנית דמות שמונה עשויה על ידי חפץ שמסתובב ברציפות סביב אחד אחר",
+                "example": "When observing a satellite, we can see it moving in a loop formation with Earth's gravity.",
+                "example_hebrew": "כאשר צופים בלוויין, אנו יכולים לראות אותו נע בצורת לולאה עם כוח המשיכה של כדור הארץ."
+            },
+            {
+                "definition": "The part of a conversation where two people talk past each other without addressing what the other has said",
+                "definition_hebrew": "החלק בשיחה שבו שני אנשים מדברים זה על פני זה מבלי להתייחס למה שהשני אמר",
+                "example": "They were on different loops during their argument, unable to connect or understand each other.",
+                "example_hebrew": "הם היו בלולאות שונות במהלך הוויכוח שלהם, ללא יכולת להתחבר או להבין אחד את השני."
+            }
+        ]
+    }
+]

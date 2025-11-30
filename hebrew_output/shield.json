@@ -1,0 +1,34 @@
+[
+    {
+        "word": "shield",
+        "word_hebrew": "מָגֵן",
+        "main_definition": "A shield is an object designed to protect or defend, typically used in various contexts such as warfare, sports, or metaphorically.",
+        "main_definition_hebrew": "מגן הוא חפץ שנועד להגן או להגן, המשמש בדרך כלל בהקשרים שונים כגון לוחמה, ספורט או מטאפורי.",
+        "meanings_and_examples": [
+            {
+                "definition": "An item of armor worn for protection against weapons",
+                "definition_hebrew": "פריט שריון הנלבש להגנה מפני כלי נשק",
+                "example": "The knight raised his shield to block the enemy's attack.",
+                "example_hebrew": "האביר הרים את המגן שלו כדי לחסום את התקפת האויב."
+            },
+            {
+                "definition": "A device or method used to prevent harm, damage, or loss",
+                "definition_hebrew": "מכשיר או שיטה המשמשים למניעת נזק, נזק או אובדן",
+                "example": "Antivirus software acts as a digital shield for computers against malware attacks.",
+                "example_hebrew": "תוכנת אנטי וירוס פועלת כמגן דיגיטלי עבור מחשבים מפני התקפות תוכנות זדוניות."
+            },
+            {
+                "definition": "Something that provides defense or security in a non-physical sense",
+                "definition_hebrew": "משהו שמספק הגנה או ביטחון במובן לא פיזי",
+                "example": "Financial savings can serve as a monetary shield during an economic downturn.",
+                "example_hebrew": "חיסכון פיננסי יכול לשמש מגן כספי במהלך שפל כלכלי."
+            },
+            {
+                "definition": "A metaphorical concept representing protection against criticism, doubt, or negative opinions",
+                "definition_hebrew": "מושג מטפורי המייצג הגנה מפני ביקורת, ספק או דעות שליליות",
+                "example": "She has built her reputation with the shield of integrity and honesty.",
+                "example_hebrew": "היא בנתה את המוניטין שלה עם מגן של יושרה ויושר."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "sale",
+        "word_hebrew": "מְכִירָה",
+        "main_definition": "A period during which items are offered at reduced prices to stimulate demand or clear out inventory.",
+        "main_definition_hebrew": "תקופה שבה פריטים מוצעים במחירים מוזלים כדי לעורר ביקוש או לפנות מלאי.",
+        "meanings_and_examples": [
+            {
+                "definition": "An event where goods are sold, often involving discounted prices.",
+                "definition_hebrew": "אירוע שבו נמכרות סחורה, לעתים קרובות כרוך במחירים מוזלים.",
+                "example": "The annual Christmas sale offers significant reductions on electronics and clothing.",
+                "example_hebrew": "מכירת חג המולד השנתית מציעה הוזלות משמעותיות על מוצרי אלקטרוניקה וביגוד."
+            },
+            {
+                "definition": "A transaction in which a product or service is exchanged for money.",
+                "definition_hebrew": "עסקה שבה מוצר או שירות מוחלפים בכסף.",
+                "example": "She made a successful sale by convincing the customer of the quality of her handcrafted jewelry.",
+                "example_hebrew": "היא ביצעה מכירה מוצלחת בכך ששכנעה את הלקוח באיכות התכשיטים בעבודת יד שלה."
+            },
+            {
+                "definition": "The process of selling goods, typically involving marketing and advertising efforts to attract customers.",
+                "definition_hebrew": "תהליך מכירת סחורות, הכולל בדרך כלל מאמצי שיווק ופרסום כדי למשוך לקוחות.",
+                "example": "The company's aggressive sales strategy included social media campaigns and in-store promotions.",
+                "example_hebrew": "אסטרטגיית המכירות האגרסיבית של החברה כללה קמפיינים ברשתות חברתיות ומבצעים בחנויות."
+            },
+            {
+                "definition": "A temporary period during which a business offers products or services at lower prices, often used as a marketing tactic.",
+                "definition_hebrew": "תקופה זמנית שבה עסק מציע מוצרים או שירותים במחירים נמוכים יותר, המשמשים לרוב כטקטיקה שיווקית.",
+                "example": "To boost revenue, the boutique announced an upcoming sale on selected items in their store.",
+                "example_hebrew": "כדי להגדיל את ההכנסות, הבוטיק הכריז על מכירה קרובה של פריטים נבחרים בחנות שלהם."
+            }
+        ]
+    }
+]

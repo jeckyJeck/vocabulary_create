@@ -1,0 +1,40 @@
+[
+    {
+        "word": "letter",
+        "word_hebrew": "מִכְתָב",
+        "main_definition": "A written or printed communication addressed to a person or organization, typically but not necessarily sent in an envelope.",
+        "main_definition_hebrew": "תקשורת כתובה או מודפסת המופנית לאדם או לארגון, בדרך כלל אך לא בהכרח נשלחת במעטפה.",
+        "meanings_and_examples": [
+            {
+                "definition": "An alphabet character used to represent sounds and words",
+                "definition_hebrew": "תו אלפבית המשמש לייצוג צלילים ומילים",
+                "example": "The letter 'A' is the first of our 26 letters.",
+                "example_hebrew": "האות 'A' היא הראשונה מבין 26 האותיות שלנו."
+            },
+            {
+                "definition": "A written message or communication sent from one person to another",
+                "definition_hebrew": "הודעה כתובה או תקשורת שנשלחה מאדם אחד לאחר",
+                "example": "I received a heartfelt letter in the mail today.",
+                "example_hebrew": "קיבלתי היום מכתב מכל הלב בדואר."
+            },
+            {
+                "definition": "The individual units that make up words, used in writing and speaking",
+                "definition_hebrew": "היחידות הבודדות המרכיבות מילים, המשמשות בכתיבה ובדיבור",
+                "example": "When learning phonics, children start with the letters of the alphabet.",
+                "example_hebrew": "כאשר לומדים פוניקה, ילדים מתחילים באותיות האלפבית."
+            },
+            {
+                "definition": "A written or printed message expressing a personal opinion, sentiment, or news",
+                "definition_hebrew": "הודעה כתובה או מודפסת המביעה דעה אישית, רגש או חדשות",
+                "example": "He wrote a letter to his friend about his recent trip abroad.",
+                "example_hebrew": "הוא כתב מכתב לחברו על נסיעתו האחרונה לחו\"ל."
+            },
+            {
+                "definition": "An official document that records a decision or action taken by an organization or government",
+                "definition_hebrew": "מסמך רשמי המתעד החלטה או פעולה שננקטו על ידי ארגון או ממשלה",
+                "example": "She submitted her request for unemployment benefits in the form of a letter.",
+                "example_hebrew": "היא הגישה את בקשתה לדמי אבטלה בצורת מכתב."
+            }
+        ]
+    }
+]

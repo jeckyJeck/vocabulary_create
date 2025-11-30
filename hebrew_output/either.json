@@ -1,0 +1,34 @@
+[
+    {
+        "word": "either",
+        "word_hebrew": "אוֹ",
+        "main_definition": "Either is a term used to refer to one or the other of two choices, options, or alternatives.",
+        "main_definition_hebrew": "אחד מהם הוא מונח המשמש להתייחס לאחת או אחרת משתי אפשרויות, אפשרויות או חלופות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Used to indicate that there are two options and you're choosing one",
+                "definition_hebrew": "משמש כדי לציין שיש שתי אפשרויות ואתה בוחר באחת",
+                "example": "I can't decide between vanilla ice cream or chocolate. I will have either.",
+                "example_hebrew": "אני לא יכול להחליט בין גלידת וניל או שוקולד. גם לי יהיה."
+            },
+            {
+                "definition": "Used in the context of 'either...or', to show that only one of two options is true, valid, etc.",
+                "definition_hebrew": "משמש בהקשר של 'או...או', כדי להראות שרק אחת משתי האפשרויות היא נכונה, תקפה וכו'.",
+                "example": "You can take your test either online or at the exam hall.",
+                "example_hebrew": "אתה יכול לגשת למבחן שלך באינטרנט או באולם הבחינות."
+            },
+            {
+                "definition": "In a conversation, used when you have no preference between two things",
+                "definition_hebrew": "בשיחה, משמש כאשר אין לך העדפה בין שני דברים",
+                "example": "I don't really care if we eat pizza or pasta tonight. I am fine with either.",
+                "example_hebrew": "לא ממש אכפת לי אם נאכל פיצה או פסטה הלילה. אני בסדר עם שניהם."
+            },
+            {
+                "definition": "Used in the context of 'neither...nor', to indicate that both options are not true, valid, etc.",
+                "definition_hebrew": "משמש בהקשר של 'לא...ולא', כדי לציין ששתי האפשרויות אינן נכונות, תקפות וכו'.",
+                "example": "She neither likes coffee nor tea.",
+                "example_hebrew": "היא לא אוהבת קפה ולא תה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "bid",
+        "word_hebrew": "הצעת מחיר",
+        "main_definition": "To offer a certain amount of money or another form of value in an auction, sale, or competitive situation.",
+        "main_definition_hebrew": "להציע סכום מסוים של כסף או סוג אחר של ערך במכירה פומבית, מכירה או מצב תחרותי.",
+        "meanings_and_examples": [
+            {
+                "definition": "An action in an auction where participants propose prices for items being sold",
+                "definition_hebrew": "פעולה במכירה פומבית שבה המשתתפים מציעים מחירים לפריטים הנמכרים",
+                "example": "During the art auction, she placed a bid of $5000 on the painting.",
+                "example_hebrew": "במהלך מכירת האמנות הפומבית, היא הגישה הצעה של 5000 דולר על הציור."
+            },
+            {
+                "definition": "To make a proposal to enter into an agreement or contract with someone else",
+                "definition_hebrew": "להציע הצעה להתקשר בהסכם או חוזה עם מישהו אחר",
+                "example": "The company sent out bids requesting architects to submit their designs for renovation work.",
+                "example_hebrew": "החברה שלחה הצעות וביקשה מאדריכלים להגיש את עיצוביהם לעבודות שיפוץ."
+            },
+            {
+                "definition": "A formal offer in a competitive situation, such as a job interview or negotiation process",
+                "definition_hebrew": "הצעה רשמית במצב תחרותי, כגון ראיון עבודה או תהליך משא ומתן",
+                "example": "He made a bid to the board of directors for increased funding for his project.",
+                "example_hebrew": "הוא הגיש הצעה לדירקטוריון להגדלת המימון לפרויקט שלו."
+            }
+        ]
+    }
+]

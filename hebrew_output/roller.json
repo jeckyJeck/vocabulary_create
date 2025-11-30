@@ -1,0 +1,34 @@
+[
+    {
+        "word": "roller",
+        "word_hebrew": "מַכבֵּשׁ",
+        "main_definition": "A cylindrical device used to smooth, flatten or move objects, commonly found in various applications such as printing, manufacturing, packaging, and sports.",
+        "main_definition_hebrew": "מכשיר גלילי המשמש להחלקה, השטחה או הזזת חפצים, נפוץ ביישומים שונים כגון הדפסה, ייצור, אריזה וספורט.",
+        "meanings_and_examples": [
+            {
+                "definition": "A machine with a rotating cylinder for printing newspapers, books, or labels",
+                "definition_hebrew": "מכונה עם גליל מסתובב להדפסת עיתונים, ספרים או תוויות",
+                "example": "The printing press uses a set of rollers to print text onto paper.",
+                "example_hebrew": "בית הדפוס משתמש בסט של גלילים כדי להדפיס טקסט על נייר."
+            },
+            {
+                "definition": "A tool used in manufacturing and assembly lines to apply pressure on parts as they move past",
+                "definition_hebrew": "כלי המשמש בקווי ייצור וקווי ייצור להפעלת לחץ על חלקים כשהם עוברים",
+                "example": "In an automobile factory, the car body is pressed against a series of rollers to create its shape.",
+                "example_hebrew": "במפעל רכב, גוף המכונית נלחץ כנגד סדרה של גלילים כדי ליצור את צורתו."
+            },
+            {
+                "definition": "A cylindrical object or device that moves objects along a surface by rolling them over it",
+                "definition_hebrew": "חפץ או מכשיר גלילי המניע חפצים לאורך משטח על ידי גלגולם מעליו",
+                "example": "The conveyor belt system in warehouses uses rollers to move boxes from one place to another.",
+                "example_hebrew": "מערכת המסוע במחסנים משתמשת בגלילים להעברת ארגזים ממקום למקום."
+            },
+            {
+                "definition": "In sports, any equipment used for training or competition that involves rotational movement",
+                "definition_hebrew": "בספורט, כל ציוד המשמש לאימון או לתחרות הכרוך בתנועה סיבובית",
+                "example": "A gymnast practices on a balance beam and performs routines that include various types of rolls.",
+                "example_hebrew": "מתעמל מתאמן על קרן שיווי משקל ומבצע שגרות הכוללות גלגולים מסוגים שונים."
+            }
+        ]
+    }
+]

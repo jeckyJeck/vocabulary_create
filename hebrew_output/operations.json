@@ -1,0 +1,34 @@
+[
+    {
+        "word": "operations",
+        "word_hebrew": "פעולות",
+        "main_definition": "Operations refers to various meanings, including processes in a system or field, military activities, and business functions.",
+        "main_definition_hebrew": "פעולות מתייחסות למשמעויות שונות, לרבות תהליכים במערכת או בתחום, פעילות צבאית ופונקציות עסקיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Processes or actions performed within a system or organization",
+                "definition_hebrew": "תהליכים או פעולות המבוצעות בתוך מערכת או ארגון",
+                "example": "The IT department's operations include software development, network maintenance, and data management.",
+                "example_hebrew": "פעילות מחלקת ה-IT כוללת פיתוח תוכנה, תחזוקת רשת וניהול נתונים."
+            },
+            {
+                "definition": "Military activities involving troops in the field",
+                "definition_hebrew": "פעילות צבאית הכוללת כוחות בשטח",
+                "example": "During World War II, numerous military operations were launched to gain strategic advantages over enemy forces.",
+                "example_hebrew": "במהלך מלחמת העולם השנייה, נפתחו פעולות צבאיות רבות כדי להשיג יתרונות אסטרטגיים על פני כוחות האויב."
+            },
+            {
+                "definition": "Business functions or procedures aimed at achieving organizational goals",
+                "definition_hebrew": "פונקציות עסקיות או נהלים שמטרתם להשיג יעדים ארגוניים",
+                "example": "A manufacturing company's operations may include production planning, inventory management, and quality control.",
+                "example_hebrew": "פעילותה של חברת ייצור עשויה לכלול תכנון ייצור, ניהול מלאי ובקרת איכות."
+            },
+            {
+                "definition": "Mathematical expressions involving the manipulation of symbols to solve equations",
+                "definition_hebrew": "ביטויים מתמטיים הכוללים מניפולציה של סמלים לפתרון משוואות",
+                "example": "In algebra, simplifying an expression by combining like terms is a fundamental operation.",
+                "example_hebrew": "באלגברה, פישוט ביטוי על ידי שילוב מונחים דומים היא פעולה בסיסית."
+            }
+        ]
+    }
+]

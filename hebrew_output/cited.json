@@ -1,0 +1,34 @@
+[
+    {
+        "word": "cited",
+        "word_hebrew": "מְצוּטָט",
+        "main_definition": "To quote or reference someone else's work, research, or statement in support of an argument or point.",
+        "main_definition_hebrew": "לצטט או להתייחס לעבודה, מחקר או אמירה של מישהו אחר לתמיכה בטיעון או נקודה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Used to refer to a source that supports an idea or claim made within writing. For example, 'The author cited several studies to back up her assertion.'",
+                "definition_hebrew": "משמש להתייחסות למקור התומך ברעיון או טענה שהועלו בכתיבה. לדוגמה, 'המחברת ציטטה מספר מחקרים כדי לגבות את קביעתה.'",
+                "example": "In his book on climate change, the scientist cited multiple peer-reviewed articles supporting global warming.",
+                "example_hebrew": "בספרו על שינויי אקלים, המדען ציטט מאמרים מרובים בביקורת עמיתים התומכים בהתחממות הגלובלית."
+            },
+            {
+                "definition": "To mention or acknowledge a person's idea, statement, or work as influential in one's own writing. For example, 'She often cites her mentor’s teachings to guide her career.'",
+                "definition_hebrew": "להזכיר או להכיר ברעיון, האמירה או עבודתו של אדם כמשפיעים בכתיבה שלו. לדוגמה, 'היא מרבה לצטט את תורתו של המנטור שלה כדי להנחות את הקריירה שלה.'",
+                "example": "The politician frequently cited his former colleague's policy proposals during debates.",
+                "example_hebrew": "הפוליטיקאי ציטט לעתים קרובות את הצעות המדיניות של עמיתו לשעבר במהלך דיונים."
+            },
+            {
+                "definition": "To give credit where it is due by referring to a source for information or ideas. For example, 'He always makes sure to cite the sources of all data in his reports.'",
+                "definition_hebrew": "לתת קרדיט היכן שצריך על ידי הפניה למקור למידע או רעיונות. למשל, 'הוא תמיד מקפיד לצטט את המקורות של כל הנתונים בדוחות שלו'.",
+                "example": "The researcher diligently cited her sources at the end of each section.",
+                "example_hebrew": "החוקרת ציטטה בשקידה את מקורותיה בסוף כל חלק."
+            },
+            {
+                "definition": "To quote a specific passage from another person's work verbatim. For example, 'During the trial, the lawyer cited a relevant excerpt from an earlier case.'",
+                "definition_hebrew": "לצטט קטע ספציפי מעבודתו של אדם אחר מילה במילה. למשל, 'במהלך המשפט ציטט עורך הדין קטע רלוונטי מתיק קודם'.",
+                "example": "The student was asked to cite lines from Shakespeare in her literature class presentation.",
+                "example_hebrew": "התלמידה התבקשה לצטט שורות משייקספיר במצגת כיתת הספרות שלה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "numeric",
+        "word_hebrew": "מספרי",
+        "main_definition": "Relating to numbers or numerical values.",
+        "main_definition_hebrew": "מתייחס למספרים או לערכים מספריים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Concerning or involving the use of numbers and mathematical concepts.",
+                "definition_hebrew": "לגבי או כרוך בשימוש במספרים ובמושגים מתמטיים.",
+                "example": "The engineer used numeric data to calculate the dimensions for the new bridge.",
+                "example_hebrew": "המהנדס השתמש בנתונים מספריים כדי לחשב את הממדים של הגשר החדש."
+            },
+            {
+                "definition": "Characterized by numerical quantities rather than non-numerical words or phrases.",
+                "definition_hebrew": "מאופיין בכמויות מספריות ולא במילים או ביטויים לא מספריים.",
+                "example": "A numeric rating scale is often used in surveys, asking respondents to rate something on a scale from 1 to 5.",
+                "example_hebrew": "סולם דירוג מספרי משמש לעתים קרובות בסקרים, ומבקש מהמשיבים לדרג משהו בסולם מ-1 עד 5."
+            },
+            {
+                "definition": "Referring to the specific representation of data using numbers.",
+                "definition_hebrew": "הכוונה לייצוג הספציפי של נתונים באמצעות מספרים.",
+                "example": "In statistics, numeric values are crucial for performing various calculations and analyses.",
+                "example_hebrew": "בסטטיסטיקה, ערכים מספריים חיוניים לביצוע חישובים וניתוחים שונים."
+            },
+            {
+                "definition": "Indicating a countable quantity or numerical value.",
+                "definition_hebrew": "ציון כמות ניתנת לספירה או ערך מספרי.",
+                "example": "There were 50 apples in the basket, which is a numeric representation of the amount.",
+                "example_hebrew": "בסל היו 50 תפוחים, שזה ייצוג מספרי של הכמות."
+            },
+            {
+                "definition": "Pertaining to the mathematical operations involving numbers such as addition, subtraction, multiplication, and division.",
+                "definition_hebrew": "הנוגע לפעולות מתמטיות הכוללות מספרים כמו חיבור, חיסור, כפל וחילוק.",
+                "example": "The student was proficient with basic numeric operations like adding and subtracting large integers.",
+                "example_hebrew": "התלמיד היה בקיא בפעולות מספריות בסיסיות כמו חיבור והפחתה של מספרים שלמים גדולים."
+            }
+        ]
+    }
+]

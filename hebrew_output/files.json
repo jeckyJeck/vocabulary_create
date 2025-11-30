@@ -1,0 +1,34 @@
+[
+    {
+        "word": "files",
+        "word_hebrew": "קבצים",
+        "main_definition": "In computing, 'files' refers to individual units of data stored in a computer system that can be manipulated or accessed by an operating system.",
+        "main_definition_hebrew": "במחשוב, 'קבצים' מתייחסים ליחידות בודדות של נתונים המאוחסנות במערכת מחשב שניתן לתמרן או לגשת אליהן על ידי מערכת הפעלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Documents related to legal cases or court proceedings",
+                "definition_hebrew": "מסמכים הקשורים לתיקים משפטיים או להליכים בבית המשפט",
+                "example": "The attorney asked for the files regarding the Smith vs. Johnson case.",
+                "example_hebrew": "עורך הדין ביקש את התיקים בנוגע לתיק סמית נגד ג'ונסון."
+            },
+            {
+                "definition": "Printed copies of documents, such as reports or articles",
+                "definition_hebrew": "עותקים מודפסים של מסמכים, כגון דוחות או מאמרים",
+                "example": "She distributed the latest files on climate change at the conference.",
+                "example_hebrew": "היא הפיצה את הקבצים האחרונים בנושא שינויי אקלים בוועידה."
+            },
+            {
+                "definition": "A collection of related data in a structured format for easier access and management",
+                "definition_hebrew": "אוסף של נתונים קשורים בפורמט מובנה לגישה וניהול קלים יותר",
+                "example": "I saved all my research findings into separate files to organize them better.",
+                "example_hebrew": "שמרתי את כל ממצאי המחקר שלי בקבצים נפרדים כדי לארגן אותם טוב יותר."
+            },
+            {
+                "definition": "Data storage units that contain information or content, such as text, images, audio, video, etc.",
+                "definition_hebrew": "יחידות אחסון נתונים המכילות מידע או תוכן, כגון טקסט, תמונות, אודיו, וידאו וכו'.",
+                "example": "When I say 'files,' I am referring to the pictures and videos saved on my phone's memory card.",
+                "example_hebrew": "כשאני אומר 'קבצים', אני מתכוון לתמונות ולסרטונים שנשמרו בכרטיס הזיכרון של הטלפון שלי."
+            }
+        ]
+    }
+]

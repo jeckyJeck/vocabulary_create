@@ -1,0 +1,34 @@
+[
+    {
+        "word": "items",
+        "word_hebrew": "פריטים",
+        "main_definition": "Items refers to objects, goods or things that are tangible and can be seen, touched, or counted.",
+        "main_definition_hebrew": "פריטים מתייחסים לחפצים, סחורות או דברים מוחשיים וניתן לראותם, לגעת בהם או לספור אותם.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of inventory or shopping, items refer to individual products for sale. For example: 'I need to buy some grocery items from the store.'",
+                "definition_hebrew": "בהקשר של מלאי או קניות, פריטים מתייחסים למוצרים בודדים למכירה. לדוגמה: 'אני צריך לקנות כמה פריטי מכולת מהחנות'.",
+                "example": "'The list includes eggs, milk, bread, and other grocery items.",
+                "example_hebrew": "״הרשימה כוללת ביצים, חלב, לחם ושאר מוצרי מכולת."
+            },
+            {
+                "definition": "When referring to a collection or group of things, items can represent elements in an array. For example: 'In computer programming, we often work with arrays of items.'",
+                "definition_hebrew": "כאשר מתייחסים לאוסף או לקבוצת דברים, פריטים יכולים לייצג אלמנטים במערך. לדוגמה: 'בתכנות מחשב, אנחנו עובדים לעתים קרובות עם מערכים של פריטים'.",
+                "example": "'The data structure holds an array of items such as numbers and strings.'",
+                "example_hebrew": "'מבנה הנתונים מכיל מערך של פריטים כמו מספרים ומחרוזות.'"
+            },
+            {
+                "definition": "In a list or set of things to be considered or dealt with. For example: 'We need to discuss the main items on our agenda today.'",
+                "definition_hebrew": "ברשימה או קבוצה של דברים שיש לקחת בחשבון או לטפל בהם. למשל: 'אנחנו צריכים לדון בנושאים המרכזיים בסדר היום שלנו'.",
+                "example": "'The meeting's key items include budget review, project updates, and staff evaluations.'",
+                "example_hebrew": "\"פריטי המפתח של הפגישה כוללים סקירת תקציב, עדכוני פרויקטים והערכות צוותים.\""
+            },
+            {
+                "definition": "Used informally to refer to a number of things in general. For example: 'I have too many items on my plate right now.'",
+                "definition_hebrew": "משמש באופן לא רשמי להתייחסות למספר דברים באופן כללי. לדוגמה: 'יש לי יותר מדי פריטים בצלחת שלי עכשיו'.",
+                "example": "'He's juggling so many items at once, it seems overwhelming.'",
+                "example_hebrew": "'הוא מלהטט בכל כך הרבה פריטים בבת אחת, זה נראה מהמם'."
+            }
+        ]
+    }
+]

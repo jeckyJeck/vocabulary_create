@@ -1,0 +1,40 @@
+[
+    {
+        "word": "denied",
+        "word_hebrew": "הוכחש",
+        "main_definition": "Refused to accept or acknowledge something as true.",
+        "main_definition_hebrew": "סירב לקבל או להכיר במשהו כנכון.",
+        "meanings_and_examples": [
+            {
+                "definition": "To refuse a request, offer, or belief as not valid or acceptable.",
+                "definition_hebrew": "לסרב לבקשה, הצעה או אמונה כלא תקפים או מקובלים.",
+                "example": "The insurance company denied her claim for the car accident.",
+                "example_hebrew": "חברת הביטוח דחתה את תביעתה בגין תאונת הדרכים."
+            },
+            {
+                "definition": "Refusing to give permission or consent to something requested by someone else.",
+                "definition_hebrew": "סירוב לתת רשות או הסכמה למשהו שמבקש מישהו אחר.",
+                "example": "He was asked if he could cover his shift, but he denied the request.",
+                "example_hebrew": "הוא נשאל אם יוכל לכסות את המשמרת שלו, אך הוא דחה את הבקשה."
+            },
+            {
+                "definition": "To reject an allegation or accusation as untrue.",
+                "definition_hebrew": "לדחות טענה או האשמה כלא נכונים.",
+                "example": "The accused party vehemently denied any involvement in the crime.",
+                "example_hebrew": "הצד הנאשם הכחיש בתוקף כל מעורבות בפשע."
+            },
+            {
+                "definition": "To contradict a statement, often one that has been previously made.",
+                "definition_hebrew": "לסתור אמירה, לעתים קרובות כזו שנאמרה בעבר.",
+                "example": "She was denying her earlier comments about the company's performance.",
+                "example_hebrew": "היא הכחישה את הערותיה הקודמות על ביצועי החברה."
+            },
+            {
+                "definition": "Not to admit or accept something as true when presented with evidence or facts.",
+                "definition_hebrew": "לא להודות או לקבל משהו כנכון כאשר מוצג עם ראיות או עובדות.",
+                "example": "Despite overwhelming proof, he denied ever having met that person.",
+                "example_hebrew": "למרות הוכחות מוחצות, הוא הכחיש שאי פעם פגש את האדם הזה."
+            }
+        ]
+    }
+]

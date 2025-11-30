@@ -1,0 +1,40 @@
+[
+    {
+        "word": "programme",
+        "word_hebrew": "תכנית",
+        "main_definition": "A programme refers to a planned series of events, activities or set of tasks designed to achieve a specific goal.",
+        "main_definition_hebrew": "תוכנית מתייחסת לסדרה מתוכננת של אירועים, פעילויות או מערך משימות שנועדו להשיג מטרה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of television and radio, a programme is a scheduled broadcasting slot for content such as shows, movies, news, etc.",
+                "definition_hebrew": "בהקשר של טלוויזיה ורדיו, תוכנית היא משבצת שידור מתוכננת לתכנים כמו תוכניות, סרטים, חדשות וכו'.",
+                "example": "The evening's prime-time programmes include popular TV series like 'Game of Thrones' and new episodes of hit talk shows.",
+                "example_hebrew": "תוכניות הפריים-טיים של הערב כוללות סדרות טלוויזיה פופולריות כמו 'משחקי הכס' ופרקים חדשים של תוכניות אירוח להיטים."
+            },
+            {
+                "definition": "A programme is a set of instructions or commands that are executed by a computer to perform specific tasks.",
+                "definition_hebrew": "תוכנית היא קבוצה של הוראות או פקודות שמבוצעות על ידי מחשב לביצוע משימות ספציפיות.",
+                "example": "The software installation process involves running various programming files that guide the system in setting up the application.",
+                "example_hebrew": "תהליך התקנת התוכנה כולל הפעלת קבצי תכנות שונים המנחים את המערכת בהגדרת האפליקציה."
+            },
+            {
+                "definition": "In academia and research, a programme refers to an organized course of study or set of courses leading to a degree or qualification.",
+                "definition_hebrew": "באקדמיה ובמחקר, תכנית מתייחסת למסלול לימודים מאורגן או לסט של קורסים המובילים לתואר או הסמכה.",
+                "example": "She enrolled in a computer science programme at the university, which included subjects like programming languages and software development.",
+                "example_hebrew": "היא נרשמה לתוכנית למדעי המחשב באוניברסיטה, שכללה מקצועות כמו שפות תכנות ופיתוח תוכנה."
+            },
+            {
+                "definition": "In politics or business, a programme denotes a comprehensive plan outlining goals, policies, strategies, etc., to be implemented.",
+                "definition_hebrew": "בפוליטיקה או בעסקים, תוכנית מציינת תוכנית מקיפה המתארת יעדים, מדיניות, אסטרטגיות וכו' שיש ליישם.",
+                "example": "The political party's manifesto presented their economic, social and environmental programmes for the upcoming election.",
+                "example_hebrew": "המניפסט של המפלגה הפוליטית הציג את התוכניות הכלכליות, החברתיות והסביבתיות שלהם לבחירות הקרובות."
+            },
+            {
+                "definition": "In project management or event planning, a programme refers to an organized schedule of events that are planned over a specific period of time.",
+                "definition_hebrew": "בניהול פרויקטים או תכנון אירועים, תוכנית מתייחסת ללוח זמנים מסודר של אירועים המתוכננים על פני פרק זמן מסוים.",
+                "example": "The company's annual gala is organised through meticulous programming, ensuring all guests have a memorable evening.",
+                "example_hebrew": "הגאלה השנתית של החברה מאורגנת באמצעות תכניות קפדניות, המבטיחות לכל האורחים ערב בלתי נשכח."
+            }
+        ]
+    }
+]

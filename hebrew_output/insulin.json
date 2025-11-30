@@ -1,0 +1,34 @@
+[
+    {
+        "word": "insulin",
+        "word_hebrew": "אִינסוּלִין",
+        "main_definition": "Insulin is a hormone produced by the pancreas that regulates glucose (sugar) levels in the blood.",
+        "main_definition_hebrew": "אינסולין הוא הורמון המיוצר על ידי הלבלב המווסת את רמות הגלוקוז (סוכר) בדם.",
+        "meanings_and_examples": [
+            {
+                "definition": "The insulin resistance",
+                "definition_hebrew": "תנגודת לאינסולין",
+                "example": "Type 2 diabetes is often associated with increased insulin resistance, meaning that the body's cells do not respond effectively to insulin.",
+                "example_hebrew": "סוכרת מסוג 2 קשורה לעיתים קרובות לעמידות מוגברת לאינסולין, כלומר תאי הגוף אינם מגיבים ביעילות לאינסולין."
+            },
+            {
+                "definition": "Insulin as a metaphor for something essential or vital",
+                "definition_hebrew": "אינסולין כמטאפורה למשהו חיוני או חיוני",
+                "example": "Food and water are like insulin for our bodies – we cannot survive without them.",
+                "example_hebrew": "מזון ומים הם כמו אינסולין עבור הגוף שלנו - אנחנו לא יכולים לשרוד בלעדיהם."
+            },
+            {
+                "definition": "The act of injecting insulin to regulate blood sugar levels in diabetics",
+                "definition_hebrew": "פעולת הזרקת אינסולין לוויסות רמות הסוכר בדם בחולי סוכרת",
+                "example": "Jessica checked her blood sugar level before administering the prescribed dose of insulin via an injection.",
+                "example_hebrew": "ג'סיקה בדקה את רמת הסוכר בדמה לפני שנתנה את המינון שנקבע של אינסולין באמצעות זריקה."
+            },
+            {
+                "definition": "Insulin therapy for medical treatment",
+                "definition_hebrew": "טיפול באינסולין לטיפול רפואי",
+                "example": "Patients with type 1 diabetes often require lifelong insulin injections to manage their blood sugar levels.",
+                "example_hebrew": "חולים עם סוכרת מסוג 1 דורשים לעיתים קרובות זריקות אינסולין לכל החיים כדי לנהל את רמות הסוכר בדם."
+            }
+        ]
+    }
+]

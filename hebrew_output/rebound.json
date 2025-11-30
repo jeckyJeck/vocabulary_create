@@ -1,0 +1,34 @@
+[
+    {
+        "word": "rebound",
+        "word_hebrew": "כדור חוזר",
+        "main_definition": "A sudden return to a former state or activity, particularly after a setback.",
+        "main_definition_hebrew": "חזרה פתאומית למצב או פעילות לשעבר, במיוחד לאחר נסיגה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In sports, the act of bouncing back into play following a missed shot, pass, or hit.",
+                "definition_hebrew": "בספורט, פעולת החזרה למשחק בעקבות החמצה, מסירה או מכה.",
+                "example": "After missing the basket, he quickly rebounded on defense to block her next move.",
+                "example_hebrew": "לאחר שפספס את הסל, הוא חזר במהירות בהגנה כדי לחסום את המהלך הבא שלה."
+            },
+            {
+                "definition": "A recovery from depression or emotional distress, often after an event that triggered negative feelings.",
+                "definition_hebrew": "התאוששות מדיכאון או מצוקה רגשית, לרוב לאחר אירוע שעורר רגשות שליליים.",
+                "example": "Following a breakup, she experienced a rebound in mood as time passed and healing occurred.",
+                "example_hebrew": "בעקבות פרידה, היא חוותה ריבאונד במצב הרוח ככל שחלף הזמן והריפוי התרחש."
+            },
+            {
+                "definition": "The resumption of activity following interruption due to technical failure or other issues.",
+                "definition_hebrew": "חידוש הפעילות בעקבות הפרעה עקב כשל טכני או בעיות אחרות.",
+                "example": "After the server crash, the website's traffic quickly rebounded once it was back online.",
+                "example_hebrew": "לאחר קריסת השרת, התעבורה של האתר התאוששה במהירות ברגע שהוא חזר לאינטרנט."
+            },
+            {
+                "definition": "A return in interest rates after a period of decline.",
+                "definition_hebrew": "תשואה בריבית לאחר תקופה של ירידה.",
+                "example": "The stock market experienced a rebound as inflation-adjusted interest rates rose again.",
+                "example_hebrew": "שוק המניות חווה התאוששות כאשר הריבית המתואמת לאינפלציה עלתה שוב."
+            }
+        ]
+    }
+]

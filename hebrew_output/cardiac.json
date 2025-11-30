@@ -1,0 +1,34 @@
+[
+    {
+        "word": "cardiac",
+        "word_hebrew": "שֶׁל הַלֵב",
+        "main_definition": "Relating to the heart or its function.",
+        "main_definition_hebrew": "התייחסות ללב או לתפקודו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Concerning the heart muscle or its disease",
+                "definition_hebrew": "לגבי שריר הלב או מחלתו",
+                "example": "Cardiac arrhythmia is an irregular heartbeat.",
+                "example_hebrew": "הפרעת קצב לב היא דופק לא סדיר."
+            },
+            {
+                "definition": "Relating to a cardiac event, such as a heart attack or stroke",
+                "definition_hebrew": "קשור לאירוע לבבי, כגון התקף לב או שבץ",
+                "example": "He was rushed to the hospital after experiencing a severe cardiac event.",
+                "example_hebrew": "הוא הובהל לבית החולים לאחר שחווה אירוע לבבי חמור."
+            },
+            {
+                "definition": "Pertaining to the use of devices like pacemakers and defibrillators that are implanted in the chest near the heart",
+                "definition_hebrew": "בקשר לשימוש במכשירים כמו קוצבי לב ודפיברילטורים המושתלים בחזה ליד הלב",
+                "example": "The patient's cardiac condition required them to wear an external defibrillator.",
+                "example_hebrew": "מצב הלב של המטופל חייב אותם לחבוש דפיברילטור חיצוני."
+            },
+            {
+                "definition": "Relating to a medical specialty called cardiology which focuses on diagnosing and treating diseases of the heart and blood vessels",
+                "definition_hebrew": "מתייחס למומחיות רפואית בשם קרדיולוגיה המתמקדת באבחון וטיפול במחלות לב וכלי דם",
+                "example": "The patient was referred to a cardiac surgeon for treatment of his heart disease.",
+                "example_hebrew": "החולה הופנה למנתח לב לטיפול במחלת הלב שלו."
+            }
+        ]
+    }
+]

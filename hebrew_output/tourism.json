@@ -1,0 +1,40 @@
+[
+    {
+        "word": "tourism",
+        "word_hebrew": "תיירות",
+        "main_definition": "Tourism is the activity of traveling to and staying in places outside one's usual environment, typically for leisure, business or other purposes.",
+        "main_definition_hebrew": "תיירות היא פעילות של נסיעה ושהייה במקומות מחוץ לסביבתו הרגילה, בדרך כלל למטרות פנאי, עסקים או אחרות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Travel for pleasure",
+                "definition_hebrew": "נסיעות לשם ההנאה",
+                "example": "She spent her summer tourism by exploring the beaches of Thailand.",
+                "example_hebrew": "היא בילתה את תיירות הקיץ שלה על ידי חקר החופים של תאילנד."
+            },
+            {
+                "definition": "Business traveling or meetings",
+                "definition_hebrew": "נסיעות עסקים או פגישות",
+                "example": "His company's annual business tourism to New York includes meetings with potential clients.",
+                "example_hebrew": "התיירות העסקית השנתית של החברה שלו לניו יורק כוללת פגישות עם לקוחות פוטנציאליים."
+            },
+            {
+                "definition": "Cultural exchange and learning",
+                "definition_hebrew": "חילופי תרבות ולמידה",
+                "example": "The study abroad program is designed to promote educational tourism by allowing students to immerse themselves in a new culture.",
+                "example_hebrew": "תכנית הלימודים בחו\"ל נועדה לקדם תיירות חינוכית על ידי מתן אפשרות לסטודנטים לשקוע בתרבות חדשה."
+            },
+            {
+                "definition": "Economic benefit for the host community",
+                "definition_hebrew": "תועלת כלכלית לקהילה המארחת",
+                "example": "Tourism has brought significant economic growth and employment opportunities to this small town.",
+                "example_hebrew": "התיירות הביאה צמיחה כלכלית משמעותית והזדמנויות תעסוקה לעיירה הקטנה הזו."
+            },
+            {
+                "definition": "Preservation of natural and cultural heritage sites",
+                "definition_hebrew": "שימור אתרי מורשת טבע ותרבות",
+                "example": "The local government launched a campaign to promote sustainable tourism that helps protect historical landmarks.",
+                "example_hebrew": "הממשלה המקומית השיקה קמפיין לקידום תיירות בת קיימא המסייעת בהגנה על ציוני דרך היסטוריים."
+            }
+        ]
+    }
+]

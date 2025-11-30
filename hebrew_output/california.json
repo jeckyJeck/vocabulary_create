@@ -1,0 +1,40 @@
+[
+    {
+        "word": "california",
+        "word_hebrew": "קליפורניה",
+        "main_definition": "California is a state located in the western region of the United States, known for its diverse culture, economy, and natural beauty.",
+        "main_definition_hebrew": "קליפורניה היא מדינה הממוקמת באזור המערבי של ארצות הברית, הידועה בתרבות המגוונת, הכלכלה והיופי הטבעי שלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "An informal term used to describe something that is exceptionally good or unique",
+                "definition_hebrew": "מונח לא רשמי המשמש לתיאור משהו שהוא טוב במיוחד או ייחודי",
+                "example": "That California-style pizza has an incredible taste; it's like no other.",
+                "example_hebrew": "לפיצה בסגנון קליפורניה יש טעם מדהים; זה לא דומה לאף אחד אחר."
+            },
+            {
+                "definition": "A reference to the fast pace and excitement of life in a coastal city, often implying a carefree attitude towards time and responsibilities",
+                "definition_hebrew": "התייחסות לקצב המהיר וההתרגשות של החיים בעיר חוף, מרמזת לרוב על גישה חסרת דאגות כלפי זמן ואחריות",
+                "example": "She lives for that California lifestyle – spontaneous road trips, beach days, and no rush.",
+                "example_hebrew": "היא חיה למען אורח החיים הקליפורני הזה - טיולי כביש ספונטניים, ימי חוף וללא ממהרים."
+            },
+            {
+                "definition": "A slang term used to describe an unreliable or overly dramatic personality, inspired by the portrayal of some individuals in California-based media",
+                "definition_hebrew": "מונח סלנג המשמש לתיאור אישיות לא אמינה או דרמטית מדי, בהשראת הצגתם של כמה אנשים בתקשורת המבוססת על קליפורניה",
+                "example": "His friends often jokingly call him a 'California kook' due to his wild and free spirit.",
+                "example_hebrew": "חבריו מכנים אותו לעתים קרובות בצחוק 'מטבח קליפורניה' בשל רוחו הפרועה והחופשית."
+            },
+            {
+                "definition": "A nickname for someone who has moved from the East Coast or other regions of the U.S. to California, typically implying they have adopted some Californian characteristics",
+                "definition_hebrew": "כינוי למישהו שעבר מהחוף המזרחי או מאזורים אחרים של ארה\"ב לקליפורניה, מה שמרמז בדרך כלל שהוא אימץ כמה מאפיינים קליפורניים",
+                "example": "After living in New York City for years, she became a true 'California girl' with her laid-back vibe and love for nature.",
+                "example_hebrew": "לאחר שחיה בניו יורק במשך שנים, היא הפכה ל\"נערת קליפורניה\" אמיתית עם האווירה הנינוחה והאהבה לטבע שלה."
+            },
+            {
+                "definition": "A reference to the state of California itself, often used metapromptly to describe something that embodies or is associated with the qualities commonly attributed to the state",
+                "definition_hebrew": "התייחסות למדינת קליפורניה עצמה, המשמשת לעתים קרובות בצורה מדוייקת כדי לתאר משהו המגלם או קשור לאיכויות הנוהגות לייחס למדינה",
+                "example": "This art gallery showcases pieces inspired by the natural landscapes and vibrant culture found in California.",
+                "example_hebrew": "גלריה לאמנות זו מציגה יצירות בהשראת הנופים הטבעיים והתרבות התוססת שנמצאת בקליפורניה."
+            }
+        ]
+    }
+]

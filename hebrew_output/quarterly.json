@@ -1,0 +1,28 @@
+[
+    {
+        "word": "quarterly",
+        "word_hebrew": "רִבעוֹן",
+        "main_definition": "Refers to something that happens or is measured every three months, typically in relation to business performance or events.",
+        "main_definition_hebrew": "מתייחס למשהו שקורה או נמדד כל שלושה חודשים, בדרך כלל ביחס לביצועים עסקיים או אירועים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In financial terms, pertaining to a report released every three months",
+                "definition_hebrew": "במונחים פיננסיים, הנוגע לדוח המתפרסם כל שלושה חודשים",
+                "example": "The company's quarterly earnings were higher than expected.",
+                "example_hebrew": "הרווח הרבעוני של החברה היה גבוה מהצפוי."
+            },
+            {
+                "definition": "Relating to or occurring at intervals of three months",
+                "definition_hebrew": "מתייחס או מתרחש במרווחים של שלושה חודשים",
+                "example": "She has her hair cut every quarterly appointment.",
+                "example_hebrew": "היא מסתפרת בכל פגישה רבעונית."
+            },
+            {
+                "definition": "Divided into four equal parts",
+                "definition_hebrew": "מחולק לארבעה חלקים שווים",
+                "example": "The year is divided into twelve monthly quarters, each representing one-fourth (or 25%) of the year's timeframe.",
+                "example_hebrew": "השנה מחולקת לשנים עשר רבעונים חודשיים, שכל אחד מהם מייצג רבע (או 25%) ממסגרת הזמן של השנה."
+            }
+        ]
+    }
+]

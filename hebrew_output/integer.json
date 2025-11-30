@@ -1,0 +1,28 @@
+[
+    {
+        "word": "integer",
+        "word_hebrew": "מספר שלם",
+        "main_definition": "An integer is a whole number, positive or negative, including zero, that does not have any decimal or fractional part.",
+        "main_definition_hebrew": "מספר שלם הוא מספר שלם, חיובי או שלילי, כולל אפס, שאין לו כל חלק עשרוני או חלקי.",
+        "meanings_and_examples": [
+            {
+                "definition": "In mathematics, an integer refers to a set of numbers that includes all the natural numbers (1, 2, 3...) and their opposites (-1, -2, -3...), but excludes any fractions or decimals.",
+                "definition_hebrew": "במתמטיקה, מספר שלם מתייחס לקבוצת מספרים הכוללת את כל המספרים הטבעיים (1, 2, 3...) וההפכים שלהם (-1, -2, -3...), אך אינו כולל כל שברים או עשרונים. .",
+                "example": "The number 5 is an integer.",
+                "example_hebrew": "המספר 5 הוא מספר שלם."
+            },
+            {
+                "definition": "In programming, an integer denotes a data type that represents whole numbers without any fractional part. It typically supports arithmetic operations like addition and subtraction.",
+                "definition_hebrew": "בתכנות, מספר שלם מציין סוג נתונים המייצג מספרים שלמים ללא כל חלק שבר. זה תומך בדרך כלל בפעולות אריתמטיות כמו חיבור וחיסור.",
+                "example": "int x = 10; // x is now an integer with the value of 10.",
+                "example_hebrew": "int x = 10; // x הוא כעת מספר שלם עם הערך של 10."
+            },
+            {
+                "definition": "In computing, when referring to memory addresses or indices in arrays, 'integer' often means a contiguous block of memory addresses that are accessed sequentially.",
+                "definition_hebrew": "במחשוב, כאשר מתייחסים לכתובות זיכרון או למדדים במערכים, 'מספר שלם' פירושו לעתים קרובות בלוק רציף של כתובות זיכרון שניגשים אליהן ברצף.",
+                "example": "The index i represents an integer used for accessing array elements.",
+                "example_hebrew": "האינדקס i מייצג מספר שלם המשמש לגישה לרכיבי מערך."
+            }
+        ]
+    }
+]

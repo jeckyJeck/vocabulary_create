@@ -1,0 +1,34 @@
+[
+    {
+        "word": "causes",
+        "word_hebrew": "גורם ל",
+        "main_definition": "Causes refers to the act of making something happen or having an effect, leading to a particular result.",
+        "main_definition_hebrew": "סיבות מתייחסות לפעולה של לגרום למשהו לקרות או להשפיע, המובילה לתוצאה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "To bring about or make happen something",
+                "definition_hebrew": "להביא או לגרום למשהו לקרות",
+                "example": "Smoking causes lung cancer.",
+                "example_hebrew": "עישון גורם לסרטן ריאות."
+            },
+            {
+                "definition": "To be the reason for an event, state, or action",
+                "definition_hebrew": "להיות הסיבה לאירוע, מדינה או פעולה",
+                "example": "The heavy rain caused flooding in the area.",
+                "example_hebrew": "הגשם הרב גרם להצפות באזור."
+            },
+            {
+                "definition": "In a causal relationship between two events, where one is responsible for bringing about the other",
+                "definition_hebrew": "בקשר סיבתי בין שני אירועים, כאשר האחד אחראי לחולל את השני",
+                "example": "Poor nutrition causes stunted growth in children.",
+                "example_hebrew": "תזונה לקויה גורמת לעצירת גדילה אצל ילדים."
+            },
+            {
+                "definition": "A word used to express that something makes something else happen; an agent or force that initiates a change or action",
+                "definition_hebrew": "מילה המשמשת לבטא שמשהו גורם למשהו אחר לקרות; סוכן או כוח שיוזם שינוי או פעולה",
+                "example": "The economic downturn caused many businesses to close down.",
+                "example_hebrew": "השפל הכלכלי גרם לסגירת עסקים רבים."
+            }
+        ]
+    }
+]

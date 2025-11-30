@@ -1,0 +1,40 @@
+[
+    {
+        "word": "holder",
+        "word_hebrew": "מַחְזִיק",
+        "main_definition": "Holder refers to a person or entity that possesses, owns, or controls something.",
+        "main_definition_hebrew": "מחזיק מתייחס לאדם או ישות שמחזיק, מחזיק או שולט במשהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A person who keeps an object in their hand or grasp",
+                "definition_hebrew": "אדם שמחזיק חפץ ביד או אוחז",
+                "example": "She held the baby gently in her arms.",
+                "example_hebrew": "היא החזיקה את התינוק בעדינות בזרועותיה."
+            },
+            {
+                "definition": "Someone responsible for receiving, sorting, and storing items",
+                "definition_hebrew": "מישהו שאחראי על קבלה, מיון ואחסון פריטים",
+                "example": "The office clerk is the holder of all incoming mail at work.",
+                "example_hebrew": "פקיד המשרד הוא המחזיק בכל הדואר הנכנס בעבודה."
+            },
+            {
+                "definition": "A person who has legal responsibility or authority over an account or other financial instrument",
+                "definition_hebrew": "אדם שיש לו אחריות או סמכות משפטית על חשבון או מכשיר פיננסי אחר",
+                "example": "She named her husband as the holder of her life insurance policy.",
+                "example_hebrew": "היא כינתה את בעלה כמחזיק בפוליסת ביטוח החיים שלה."
+            },
+            {
+                "definition": "The party to whom a debt is owed, i.e., the recipient of money",
+                "definition_hebrew": "הצד שאליו יש חוב, כלומר, מקבל הכסף",
+                "example": "He was the holder of a loan from the bank.",
+                "example_hebrew": "הוא היה בעל הלוואה מהבנק."
+            },
+            {
+                "definition": "An entity that holds or possesses something such as rights, privileges, or assets",
+                "definition_hebrew": "ישות שמחזיקה או מחזיקה במשהו כגון זכויות, הרשאות או נכסים",
+                "example": "The corporation is the holder of several patents and trademarks.",
+                "example_hebrew": "התאגיד הוא בעל מספר פטנטים וסימני מסחר."
+            }
+        ]
+    }
+]

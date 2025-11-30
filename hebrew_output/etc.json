@@ -1,0 +1,28 @@
+[
+    {
+        "word": "etc",
+        "word_hebrew": "וכו",
+        "main_definition": "Etc is a shorthand way of saying 'et cetera', which means the same thing - that other similar things are also being considered or included.",
+        "main_definition_hebrew": "וכו' היא קיצור של אמירת 'וכלומר', שפירושו אותו דבר - שנשקלים או נכללים גם דברים דומים אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Used to indicate that a list continues and more items follow, without explicitly listing them all",
+                "definition_hebrew": "משמש כדי לציין שרשימה נמשכת ופריטים נוספים עוקבים אחריו, מבלי לציין את כולם במפורש",
+                "example": "The grocery list includes apples, bananas, etc.",
+                "example_hebrew": "רשימת המכולת כוללת תפוחים, בננות וכו'."
+            },
+            {
+                "definition": "Suggests the continuation of an exhaustive list with other unspecified elements or factors",
+                "definition_hebrew": "מציע המשך רשימה ממצה עם אלמנטים או גורמים אחרים שלא פורטו",
+                "example": "For a complete overview of the issue, you should consider the economic, political and social factors, etc.",
+                "example_hebrew": "לקבלת סקירה מלאה של הנושא, כדאי לשקול את הגורמים הכלכליים, הפוליטיים והחברתיים וכו'."
+            },
+            {
+                "definition": "Used to imply that there are more examples in addition to those given without specifying them all",
+                "definition_hebrew": "נהגה לרמוז שיש עוד דוגמאות בנוסף לאלו שניתנו מבלי לציין את כולן",
+                "example": "Many successful entrepreneurs have started with little money; Bill Gates and Steve Jobs, for example, etc.",
+                "example_hebrew": "יזמים מצליחים רבים התחילו עם מעט כסף; ביל גייטס וסטיב ג'ובס, למשל, וכו'."
+            }
+        ]
+    }
+]

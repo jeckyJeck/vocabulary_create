@@ -1,0 +1,40 @@
+[
+    {
+        "word": "indicate",
+        "word_hebrew": "מצביע",
+        "main_definition": "To show, point out, or signal something as a way of communicating information.",
+        "main_definition_hebrew": "להראות, להצביע או לאותת משהו כדרך להעברת מידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "To give a sign or signal about the presence or occurrence of something.",
+                "definition_hebrew": "לתת סימן או איתות לגבי נוכחות או התרחשות של משהו.",
+                "example": "The red light at the traffic stop indicates that it's not safe to proceed.",
+                "example_hebrew": "הרמזור האדום בתחנת התנועה מצביע על כך שלא בטוח להמשיך."
+            },
+            {
+                "definition": "To indicate in writing, speech, etc., what one means; to denote with symbols, letters, words, etc.",
+                "definition_hebrew": "לציין בכתב, בדיבור וכו', למה מתכוונים; לסמן בסמלים, אותיות, מילים וכו'.",
+                "example": "In her report, she indicated her findings using bold text and bullet points for clarity.",
+                "example_hebrew": "בדוח שלה, היא ציינה את ממצאיה באמצעות טקסט מודגש ותבליטים לצורך הבהירות."
+            },
+            {
+                "definition": "To show or suggest something indirectly through behavior or actions.",
+                "definition_hebrew": "להראות או להציע משהו בעקיפין באמצעות התנהגות או פעולות.",
+                "example": "His hesitation before answering the question indicated that he might not be comfortable with it.",
+                "example_hebrew": "ההיסוס שלו לפני שהשיב על השאלה הצביע על כך שאולי הוא לא מרגיש בנוח עם זה."
+            },
+            {
+                "definition": "To imply or express without explicitly saying so; to hint at or suggest subtly.",
+                "definition_hebrew": "לרמוז או לבטא מבלי לומר זאת במפורש; לרמוז או להציע בעדינות.",
+                "example": "Her tone of voice slightly changed, indicating she was unhappy about the decision.",
+                "example_hebrew": "טון הקול שלה השתנה מעט, מה שמצביע על כך שהיא לא מרוצה מההחלטה."
+            },
+            {
+                "definition": "To use one's finger or hand to point out something specific or draw attention to it.",
+                "definition_hebrew": "להשתמש באצבע או ביד כדי להצביע על משהו ספציפי או למשוך אליו תשומת לב.",
+                "example": "He indicated the location on the map where we needed to go by pointing it out with his finger.",
+                "example_hebrew": "הוא ציין את המיקום על המפה שאליו אנחנו צריכים ללכת על ידי הצבעה עם האצבע שלו."
+            }
+        ]
+    }
+]

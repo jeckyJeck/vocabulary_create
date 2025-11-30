@@ -1,0 +1,40 @@
+[
+    {
+        "word": "biology",
+        "word_hebrew": "ביולוגיה",
+        "main_definition": "Biology is the scientific study of life, including its structure, function, growth, origin, evolution, and distribution.",
+        "main_definition_hebrew": "ביולוגיה היא המחקר המדעי של החיים, כולל המבנה, תפקודם, גדילתם, מוצאם, האבולוציה והתפוצה שלהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "The academic discipline studying living organisms' processes, structures, development, and interactions",
+                "definition_hebrew": "הדיסציפלינה האקדמית החוקרת את התהליכים, המבנים, ההתפתחות והאינטראקציות של אורגניזמים חיים",
+                "example": "Marcy decided to major in biology because she wanted to learn about how cells function.",
+                "example_hebrew": "מרסי החליטה להתמחות בביולוגיה כי היא רצתה ללמוד כיצד תאים מתפקדים."
+            },
+            {
+                "definition": "A field of science dealing with the study of plant life (botany)",
+                "definition_hebrew": "תחום מדע העוסק בחקר חיי הצומח (בוטניקה)",
+                "example": "The professor specializes in botany, a branch of biology focused on studying plants.",
+                "example_hebrew": "הפרופסור מתמחה בבוטניקה, ענף בביולוגיה המתמקד בחקר צמחים."
+            },
+            {
+                "definition": "Scientific research related to animal behavior and ecology",
+                "definition_hebrew": "מחקר מדעי הקשור להתנהגות ואקולוגיה של בעלי חיים",
+                "example": "Elena's thesis is about the mating habits (ethology) of African elephants.",
+                "example_hebrew": "התזה של אלנה עוסקת בהרגלי ההזדווגות (אתולוגיה) של פילים אפריקאים."
+            },
+            {
+                "definition": "The branch of biology that deals with fungi",
+                "definition_hebrew": "ענף הביולוגיה העוסק בפטריות",
+                "example": "Microbiologists study mycology, which includes fungi like yeasts and molds.",
+                "example_hebrew": "מיקרוביולוגים חוקרים מיקולוגיה, הכוללת פטריות כמו שמרים ועובשים."
+            },
+            {
+                "definition": "Study of microorganisms (microbiology)",
+                "definition_hebrew": "חקר מיקרואורגניזמים (מיקרוביולוגיה)",
+                "example": "The medical student is particularly interested in the field of microbiology.",
+                "example_hebrew": "הסטודנט לרפואה מתעניין במיוחד בתחום המיקרוביולוגיה."
+            }
+        ]
+    }
+]

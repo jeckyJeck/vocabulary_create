@@ -1,0 +1,40 @@
+[
+    {
+        "word": "membrane",
+        "word_hebrew": "קְרוּם",
+        "main_definition": "A thin, flexible layer or structure that separates or encloses different substances.",
+        "main_definition_hebrew": "שכבה או מבנה דקה וגמישה המפרידה או תוחם חומרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In biology, a membrane is a thin, flexible barrier surrounding cells and compartments within them.",
+                "definition_hebrew": "בביולוגיה, ממברנה היא מחסום דק וגמיש המקיף תאים ותאים בתוכם.",
+                "example": "The cell membrane controls what enters and leaves the cell.",
+                "example_hebrew": "קרום התא שולט במה שנכנס ויוצא מהתא."
+            },
+            {
+                "definition": "An audio or visual filter that separates sound frequencies or colors, respectively.",
+                "definition_hebrew": "מסנן אודיו או חזותי המפריד בין תדרי צליל או צבעים בהתאמה.",
+                "example": "A high-pass audio membrane filters out low frequencies from a sound recording.",
+                "example_hebrew": "קרום שמע במעבר גבוה מסנן תדרים נמוכים מהקלטת קול."
+            },
+            {
+                "definition": "The thin layer of fluid surrounding an animal's eye, known as the lens.",
+                "definition_hebrew": "שכבת הנוזל הדקה המקיפה את העין של בעל חיים, המכונה העדשה.",
+                "example": "The membrane in the human eye bends light rays to focus them on the retina.",
+                "example_hebrew": "הממברנה בעין האנושית מכופפת את קרני האור כדי למקד אותן ברשתית."
+            },
+            {
+                "definition": "A structure found in certain organisms that acts like a stomach or storage compartment.",
+                "definition_hebrew": "מבנה המצוי באורגניזמים מסוימים הפועל כמו קיבה או תא אחסון.",
+                "example": "Cnidarians, such as jellyfish and corals, have specialized membranes called gastrovascular cavities.",
+                "example_hebrew": "ל-Cnidarians, כגון מדוזה ואלמוגים, יש ממברנות מיוחדות הנקראות חללים גסטרווסקולריים."
+            },
+            {
+                "definition": "A thin layer of material used in various industries for lamination or coating.",
+                "definition_hebrew": "שכבה דקה של חומר המשמש בתעשיות שונות למינציה או ציפוי.",
+                "example": "The protective plastic wrapping is a type of synthetic membrane.",
+                "example_hebrew": "עטיפת הפלסטיק המגינה היא סוג של קרום סינתטי."
+            }
+        ]
+    }
+]

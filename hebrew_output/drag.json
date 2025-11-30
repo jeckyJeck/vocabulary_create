@@ -1,0 +1,28 @@
+[
+    {
+        "word": "drag",
+        "word_hebrew": "לִגרוֹר",
+        "main_definition": "To resist movement or to make something slower by pulling it along a surface.",
+        "main_definition_hebrew": "להתנגד לתנועה או לעשות משהו איטי יותר על ידי משיכתו לאורך משטח.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical resistance caused by friction when an object moves through a substance, such as air or water",
+                "definition_hebrew": "התנגדות פיזית הנגרמת מחיכוך כאשר חפץ נע דרך חומר, כגון אוויר או מים",
+                "example": "Swimming in rough waters creates a drag that makes it harder for swimmers to move quickly.",
+                "example_hebrew": "שחייה במים סוערים יוצרת גרר שמקשה על השחיינים לנוע במהירות."
+            },
+            {
+                "definition": "To delay something intentionally, often used metaphorically",
+                "definition_hebrew": "לעכב משהו בכוונה, לעתים קרובות בשימוש מטפורי",
+                "example": "He tried to drag out the negotiations as long as possible before making any concessions.",
+                "example_hebrew": "הוא ניסה למשוך את המשא ומתן זמן רב ככל האפשר לפני שהוא עשה ויתורים כלשהם."
+            },
+            {
+                "definition": "A slow-moving or sluggish person or object",
+                "definition_hebrew": "אדם או חפץ שנע לאט או איטי",
+                "example": "The old car was so full of rust and wear, it felt like a drag to start it up every morning.",
+                "example_hebrew": "המכונית הישנה הייתה כל כך מלאה בחלודה ובלאי, שזה הרגיש כמו סחבת להתניע אותה כל בוקר."
+            }
+        ]
+    }
+]

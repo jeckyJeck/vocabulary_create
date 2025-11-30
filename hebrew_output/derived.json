@@ -1,0 +1,40 @@
+[
+    {
+        "word": "derived",
+        "word_hebrew": "נִגזָר",
+        "main_definition": "To obtain or acquire something from a source, typically using reasoning or inference.",
+        "main_definition_hebrew": "להשיג או לרכוש משהו ממקור, בדרך כלל תוך שימוש בהיגיון או מסקנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to or originating in the past.",
+                "definition_hebrew": "קשור או שמקורו בעבר.",
+                "example": "The language was derived from ancient Latin.",
+                "example_hebrew": "השפה נגזרה מלטינית עתיקה."
+            },
+            {
+                "definition": "To calculate, deduce, or infer something based on known information.",
+                "definition_hebrew": "לחשב, להסיק או להסיק משהו על סמך מידע ידוע.",
+                "example": "She derived her age by subtracting 50 years from the year she graduated college.",
+                "example_hebrew": "היא גזרה את גילה על ידי הפחתת 50 שנה מהשנה שבה סיימה את לימודיה בקולג'."
+            },
+            {
+                "definition": "Derived as an adjective meaning coming from a particular source or origin.",
+                "definition_hebrew": "נגזרת כמשמעות תואר המגיעה ממקור מסוים או מקור מסוים.",
+                "example": "He is of German derivation, his ancestors hailing from Bavaria.",
+                "example_hebrew": "הוא ממוצא גרמני, אבותיו מגיעים מבוואריה."
+            },
+            {
+                "definition": "To base something on the characteristics or qualities of another thing.",
+                "definition_hebrew": "לבסס משהו על המאפיינים או האיכויות של דבר אחר.",
+                "example": "The film was derived from a popular novel, capturing its essence and themes.",
+                "example_hebrew": "הסרט נגזר מרומן פופולרי, לוכד את המהות והנושאים שלו."
+            },
+            {
+                "definition": "Originating from a specific source in mathematics or science.",
+                "definition_hebrew": "מקורו במקור מסוים במתמטיקה או במדע.",
+                "example": "A trigonometric function can be derived using the unit circle.",
+                "example_hebrew": "ניתן לגזור פונקציה טריגונומטרית באמצעות מעגל היחידה."
+            }
+        ]
+    }
+]

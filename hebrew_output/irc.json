@@ -1,0 +1,22 @@
+[
+    {
+        "word": "irc",
+        "word_hebrew": "irc",
+        "main_definition": "IRC stands for Internet Relay Chat, a form of real-time text communication over the internet.",
+        "main_definition_hebrew": "IRC ראשי תיבות של Internet Relay Chat, סוג של תקשורת טקסט בזמן אמת דרך האינטרנט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Internet Relay Chat (IRC)",
+                "definition_hebrew": "צ'אט ממסר באינטרנט (IRC)",
+                "example": "John joined an IRC channel to discuss programming with other enthusiasts.",
+                "example_hebrew": "ג'ון הצטרף לערוץ IRC כדי לדון בתכנות עם חובבים אחרים."
+            },
+            {
+                "definition": "A popular platform for real-time, text-based communication among users",
+                "definition_hebrew": "פלטפורמה פופולרית לתקשורת מבוססת טקסט בזמן אמת בין משתמשים",
+                "example": "The team used an IRC network to coordinate their remote work effectively.",
+                "example_hebrew": "הצוות השתמש ברשת IRC כדי לתאם את עבודתם מרחוק ביעילות."
+            }
+        ]
+    }
+]

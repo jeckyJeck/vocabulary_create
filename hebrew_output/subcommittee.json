@@ -1,0 +1,34 @@
+[
+    {
+        "word": "subcommittee",
+        "word_hebrew": "וַעֲדַת מִשׁנֶה",
+        "main_definition": "A smaller group formed within a larger committee to focus on specific tasks or issues.",
+        "main_definition_hebrew": "קבוצה קטנה יותר נוצרה בתוך ועדה גדולה יותר כדי להתמקד במשימות או נושאים ספציפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A specialized group within a larger committee assigned to address particular aspects of the main committee's work.",
+                "definition_hebrew": "קבוצה מתמחה בתוך ועדה גדולה יותר שהופקדה לטפל בהיבטים מסוימים של עבודת הוועדה הראשית.",
+                "example": "The finance subcommittee was tasked with reviewing and proposing changes to the budget.",
+                "example_hebrew": "על ועדת המשנה הכספים הוטל לבחון ולהציע שינויים בתקציב."
+            },
+            {
+                "definition": "An ad-hoc team created temporarily for specific projects or research within an organization or legislative body.",
+                "definition_hebrew": "צוות אד-הוק שנוצר באופן זמני עבור פרויקטים או מחקר ספציפיים בתוך ארגון או גוף מחוקק.",
+                "example": "A healthcare subcommittee was formed to investigate new policies on patient privacy rights.",
+                "example_hebrew": "ועדת משנה לבריאות הוקמה כדי לחקור מדיניות חדשה בנושא זכויות הפרטיות של המטופלים."
+            },
+            {
+                "definition": "A subgroup of a parent committee that operates semi-independently, often with its own agenda and responsibilities.",
+                "definition_hebrew": "תת-קבוצה של ועד הורים הפועלת באופן עצמאי למחצה, לרוב עם אג'נדה ואחריות משלה.",
+                "example": "The environmental subcommittee had the authority to enact regulations within their domain without needing approval from the main committee.",
+                "example_hebrew": "לוועדת המשנה לאיכות הסביבה הייתה סמכות לחוקק תקנות בתחומה ללא צורך באישור הוועדה הראשית."
+            },
+            {
+                "definition": "An entity that reports back to a larger group, providing specialized insights or recommendations based on focused research.",
+                "definition_hebrew": "ישות המדווחת חזרה לקבוצה גדולה יותר, ומספקת תובנות מיוחדות או המלצות המבוססות על מחקר ממוקד.",
+                "example": "The technology subcommittee presented its findings and suggested improvements for integrating AI into existing systems.",
+                "example_hebrew": "ועדת המשנה לטכנולוגיה הציגה את ממצאיה והציעה שיפורים לשילוב AI במערכות קיימות."
+            }
+        ]
+    }
+]

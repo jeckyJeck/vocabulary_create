@@ -1,0 +1,34 @@
+[
+    {
+        "word": "insured",
+        "word_hebrew": "מְבוּטָח",
+        "main_definition": "A person who has an insurance policy in place to protect against potential financial losses.",
+        "main_definition_hebrew": "אדם שיש לו פוליסת ביטוח להגנה מפני הפסדים כספיים פוטנציאליים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Having coverage under a specific insurance policy",
+                "definition_hebrew": "בעל כיסוי במסגרת פוליסת ביטוח ספציפית",
+                "example": "John is fully insured under his health insurance plan.",
+                "example_hebrew": "ג'ון מבוטח במלואו במסגרת ביטוח הבריאות שלו."
+            },
+            {
+                "definition": "The entity (like an individual or company) that holds the insurance policy",
+                "definition_hebrew": "הישות (כמו אדם או חברה) המחזיקה בפוליסת הביטוח",
+                "example": "She visited her bank to update her car insurance details, as she was now considered the insured party for her new vehicle.",
+                "example_hebrew": "היא ביקרה בבנק שלה כדי לעדכן את פרטי ביטוח הרכב שלה, שכן היא נחשבה כעת למבוטחת של הרכב החדש שלה."
+            },
+            {
+                "definition": "Subject of a clause in an insurance contract",
+                "definition_hebrew": "נושא סעיף בחוזה ביטוח",
+                "example": "The property owners are concerned about their home being damaged and want to ensure it is covered by comprehensive insurance, making them the primary insureds on the policy.",
+                "example_hebrew": "בעלי הנכס מודאגים מכך שהבית שלהם ייפגע ורוצים להבטיח שהוא מכוסה בביטוח מקיף, מה שהופך אותם למבוטחים העיקריים בפוליסה."
+            },
+            {
+                "definition": "Having assets or properties that require coverage through an insurance policy",
+                "definition_hebrew": "בעל נכסים או נכסים הדורשים כיסוי באמצעות פוליסת ביטוח",
+                "example": "As a business owner with multiple pieces of expensive equipment, he decided to get all his assets insured against potential damages or losses.",
+                "example_hebrew": "כבעל עסק עם מספר ציוד יקר, הוא החליט לבטח את כל נכסיו מפני נזקים או הפסדים פוטנציאליים."
+            }
+        ]
+    }
+]

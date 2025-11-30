@@ -1,0 +1,34 @@
+[
+    {
+        "word": "command",
+        "word_hebrew": "פקודה",
+        "main_definition": "Command refers to the act of giving an order or instruction, as well as the ability or authority to do so.",
+        "main_definition_hebrew": "פקודה מתייחסת למעשה של מתן פקודה או הוראה, כמו גם היכולת או הסמכות לעשות זאת.",
+        "meanings_and_examples": [
+            {
+                "definition": "To direct someone with authority or power to perform a task or action",
+                "definition_hebrew": "לכוון מישהו בעל סמכות או כוח לבצע משימה או פעולה",
+                "example": "The general commanded his troops to advance towards the enemy line.",
+                "example_hebrew": "הגנרל ציווה על חייליו להתקדם לעבר קו האויב."
+            },
+            {
+                "definition": "An order given by someone in control, such as an officer or leader",
+                "definition_hebrew": "פקודה שניתנה על ידי מישהו בשליטה, כגון קצין או מנהיג",
+                "example": "She followed her boss's command and completed the project ahead of schedule.",
+                "example_hebrew": "היא מילאה את פקודת הבוס שלה והשלימה את הפרויקט לפני המועד."
+            },
+            {
+                "definition": "The power to give orders and enforce obedience",
+                "definition_hebrew": "הכוח לתת פקודות ולאכוף ציות",
+                "example": "During wartime, soldiers have a great deal of command over their comrades in battle.",
+                "example_hebrew": "בזמן מלחמה, לחיילים יש פיקוד רב על חבריהם לקרב."
+            },
+            {
+                "definition": "A type of computer software that enables the user to control hardware devices directly from the operating system",
+                "definition_hebrew": "סוג של תוכנת מחשב המאפשרת למשתמש לשלוט בהתקני חומרה ישירות ממערכת ההפעלה",
+                "example": "The technician installed voice recognition command software on his computer.",
+                "example_hebrew": "הטכנאי התקין במחשב שלו תוכנת פקודה לזיהוי קול."
+            }
+        ]
+    }
+]

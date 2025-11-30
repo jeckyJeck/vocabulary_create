@@ -1,0 +1,34 @@
+[
+    {
+        "word": "wage",
+        "word_hebrew": "שָׂכָר",
+        "main_definition": "Wage refers to the payment, often monetary, that is provided to an individual in exchange for their labor or services.",
+        "main_definition_hebrew": "שכר מתייחס לתשלום, לרוב כספי, הניתן לאדם בתמורה לעבודתו או לשירותיו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Compensation paid to employees for their work",
+                "definition_hebrew": "תגמול המשולם לעובדים עבור עבודתם",
+                "example": "John earns a wage of $15 per hour as a construction worker.",
+                "example_hebrew": "ג'ון מרוויח שכר של 15 דולר לשעה כפועל בניין."
+            },
+            {
+                "definition": "The amount agreed upon between employer and employee before the commencement of work",
+                "definition_hebrew": "הסכום שהוסכם בין מעסיק לעובד לפני תחילת העבודה",
+                "example": "Her weekly wage is set at $600 for her role in sales.",
+                "example_hebrew": "שכרה השבועי נקבע על 600 דולר עבור תפקידה במכירות."
+            },
+            {
+                "definition": "Payment made to a worker that includes not just the money, but also benefits like health insurance and retirement plans",
+                "definition_hebrew": "תשלום לעובד הכולל לא רק את הכסף, אלא גם הטבות כמו ביטוח בריאות ותוכניות פרישה",
+                "example": "The company offers a competitive wage with comprehensive benefits package.",
+                "example_hebrew": "החברה מציעה שכר תחרותי עם חבילת הטבות מקיפה."
+            },
+            {
+                "definition": "A fixed sum of money paid per day or other agreed unit of time to an employee for work done during that period",
+                "definition_hebrew": "סכום כסף קבוע ששולם ליום או יחידת זמן מוסכמת אחרת לעובד עבור עבודה שנעשתה במהלך אותה תקופה",
+                "example": "As part-time employees, they receive a daily wage regardless of the number of hours worked.",
+                "example_hebrew": "כעובדים במשרה חלקית הם מקבלים שכר יומי ללא קשר למספר שעות העבודה."
+            }
+        ]
+    }
+]

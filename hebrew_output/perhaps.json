@@ -1,0 +1,28 @@
+[
+    {
+        "word": "perhaps",
+        "word_hebrew": "אוּלַי",
+        "main_definition": "Perhaps means 'maybe' or indicates a possibility, but not certainty.",
+        "main_definition_hebrew": "אולי פירושו 'אולי' או מצביע על אפשרות, אך לא ודאות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Indicating uncertainty or conjecture about something happening in the future.",
+                "definition_hebrew": "מצביע על אי ודאות או השערות לגבי משהו שיתרחש בעתיד.",
+                "example": "Perhaps it will rain tomorrow.",
+                "example_hebrew": "אולי מחר ירד גשם."
+            },
+            {
+                "definition": "Suggesting that there are multiple possibilities for a given situation without indicating preference.",
+                "definition_hebrew": "מציע שישנן מספר אפשרויות למצב נתון מבלי לציין העדפה.",
+                "example": "We have several options to consider, perhaps we should explore them all.",
+                "example_hebrew": "יש לנו כמה אפשרויות לשקול, אולי כדאי שנבדוק את כולן."
+            },
+            {
+                "definition": "Used to introduce a statement or idea that is less likely to be true than the preceding statements or ideas.",
+                "definition_hebrew": "משמש להצגת אמירה או רעיון שסביר פחות שהם נכונים מהאמירות או הרעיונות הקודמים.",
+                "example": "The weather forecast said it would be sunny; however, perhaps there will be showers later in the day.",
+                "example_hebrew": "תחזית מזג האוויר אמרה שיהיה שמש; עם זאת, אולי יהיו ממטרים בהמשך היום."
+            }
+        ]
+    }
+]

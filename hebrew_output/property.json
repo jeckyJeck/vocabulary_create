@@ -1,0 +1,40 @@
+[
+    {
+        "word": "property",
+        "word_hebrew": "תכונה",
+        "main_definition": "Property refers to something that is owned by a person, including physical objects like land or possessions as well as intangible assets such as intellectual property.",
+        "main_definition_hebrew": "רכוש מתייחס למשהו שנמצא בבעלות אדם, כולל חפצים פיזיים כמו קרקע או רכוש וכן נכסים בלתי מוחשיים כגון קניין רוחני.",
+        "meanings_and_examples": [
+            {
+                "definition": "A tangible item belonging to someone",
+                "definition_hebrew": "פריט מוחשי השייך למישהו",
+                "example": "The red car in the driveway is my property.",
+                "example_hebrew": "המכונית האדומה בחניה היא הרכוש שלי."
+            },
+            {
+                "definition": "Ownership of land or real estate",
+                "definition_hebrew": "בעלות על קרקע או מקרקעין",
+                "example": "She inherited a piece of property from her grandparents.",
+                "example_hebrew": "היא ירשה חלק מהרכוש מסבה וסבתה."
+            },
+            {
+                "definition": "A legal right to possess and use something",
+                "definition_hebrew": "זכות חוקית להחזיק במשהו ולהשתמש בו",
+                "example": "I have the full property rights to this house, which means I can decide what happens with it.",
+                "example_hebrew": "יש לי את מלוא זכויות הקניין על הבית הזה, מה שאומר שאני יכול להחליט מה קורה איתו."
+            },
+            {
+                "definition": "Intangible assets like copyrights or patents",
+                "definition_hebrew": "נכסים בלתי מוחשיים כמו זכויות יוצרים או פטנטים",
+                "example": "The novel's author has a property right over his work; no one else can publish the book without permission.",
+                "example_hebrew": "למחבר הרומן יש זכות קניין על יצירתו; אף אחד אחר לא יכול לפרסם את הספר ללא רשות."
+            },
+            {
+                "definition": "Legal aspect of possession, often used in criminal law",
+                "definition_hebrew": "היבט משפטי של החזקה, משמש לעתים קרובות במשפט הפלילי",
+                "example": "He was charged with taking someone else's property without their consent.",
+                "example_hebrew": "הוא הואשם בלקיחת רכוש של מישהו אחר ללא הסכמתו."
+            }
+        ]
+    }
+]

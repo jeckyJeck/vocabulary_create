@@ -1,0 +1,28 @@
+[
+    {
+        "word": "herbs",
+        "word_hebrew": "עשבי תיבול",
+        "main_definition": "Herbs refer to plants that are used in cooking, medicine or for their aromatic properties.",
+        "main_definition_hebrew": "עשבי תיבול מתייחסים לצמחים המשמשים בבישול, ברפואה או בשל תכונותיהם הארומטיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Cooking ingredient",
+                "definition_hebrew": "מרכיב בישול",
+                "example": "I added fresh basil and thyme as herbs to my pasta sauce.",
+                "example_hebrew": "הוספתי בזיליקום טרי וטימין כעשבי תיבול לרוטב הפסטה שלי."
+            },
+            {
+                "definition": "Medicinal plants",
+                "definition_hebrew": "צמחים רפואיים",
+                "example": "Echinacea is a popular herb used for its immune-boosting properties.",
+                "example_hebrew": "אכינצאה הוא עשב פופולרי המשמש לתכונותיו המעודדות את החיסון."
+            },
+            {
+                "definition": "Aromatic plants",
+                "definition_hebrew": "צמחים ארומטיים",
+                "example": "The scent of lavender and rosemary wafted through the room as they were placed in a potpourri bowl.",
+                "example_hebrew": "ניחוח הלבנדר והרוזמרין נידף בחדר כשהונחו בקערת פוטפורי."
+            }
+        ]
+    }
+]

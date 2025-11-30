@@ -1,0 +1,28 @@
+[
+    {
+        "word": "ntsc",
+        "word_hebrew": "ntsc",
+        "main_definition": "NTSC stands for National Television System Committee, a standard for analog television encoding that was primarily used in North America and parts of Asia.",
+        "main_definition_hebrew": "NTSC מייצג את National Television System Committee, תקן לקידוד טלוויזיה אנלוגי ששימש בעיקר בצפון אמריקה ובחלקים מאסיה.",
+        "meanings_and_examples": [
+            {
+                "definition": "A video game console manufactured by Nintendo",
+                "definition_hebrew": "קונסולת משחקי וידאו מתוצרת נינטנדו",
+                "example": "The Nintendo 64 console revolutionized the gaming industry when it was released.",
+                "example_hebrew": "קונסולת נינטנדו 64 חוללה מהפכה בתעשיית המשחקים כשהיא שוחררה."
+            },
+            {
+                "definition": "Nintendo Technical Support Center, a support center for Nintendo consoles and products",
+                "definition_hebrew": "מרכז תמיכה טכנית של נינטנדו, מרכז תמיכה לקונסולות ומוצרים של נינטנדו",
+                "example": "If my Wii U is not working properly, I should contact the NTSC for assistance.",
+                "example_hebrew": "אם ה-Wii U שלי לא פועל כהלכה, עלי לפנות ל-NTSC לקבלת סיוע."
+            },
+            {
+                "definition": "NTSC video game emulation software or hardware",
+                "definition_hebrew": "תוכנה או חומרה לאמולציה של משחקי וידאו NTSC",
+                "example": "I enjoy playing old NTSC games on my modern PC using an emulator like DOSBox.",
+                "example_hebrew": "אני נהנה לשחק במשחקי NTSC ישנים במחשב המודרני שלי באמצעות אמולטור כמו DOSBox."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "minimize",
+        "word_hebrew": "לְצַמְצֵם",
+        "main_definition": "To reduce something to the smallest possible amount or degree, often in order to lessen negative effects.",
+        "main_definition_hebrew": "כדי לצמצם משהו לכמות הקטנה ביותר או לדרגה הקטנה ביותר האפשרית, לעתים קרובות כדי להפחית את ההשפעות השליליות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To make as small or little as possible.",
+                "definition_hebrew": "לעשות כמה שיותר קטן או קטן.",
+                "example": "The company aims to minimize its carbon footprint by implementing energy-efficient practices.",
+                "example_hebrew": "החברה שואפת למזער את טביעת הרגל הפחמנית שלה על ידי יישום שיטות יעילות באנרגיה."
+            },
+            {
+                "definition": "To reduce the extent of something unwanted, such as risks or problems.",
+                "definition_hebrew": "כדי לצמצם את ההיקף של משהו לא רצוי, כגון סיכונים או בעיות.",
+                "example": "They worked diligently to minimize errors in their financial report.",
+                "example_hebrew": "הם עבדו במרץ כדי למזער טעויות בדוח הכספי שלהם."
+            },
+            {
+                "definition": "To decrease the size or amount of something, usually using fewer resources or space.",
+                "definition_hebrew": "כדי להקטין את הגודל או הכמות של משהו, בדרך כלל תוך שימוש בפחות משאבים או שטח.",
+                "example": "The architect designed a compact layout to minimize material usage while maximizing functionality.",
+                "example_hebrew": "האדריכל תכנן פריסה קומפקטית כדי למזער את השימוש בחומרים תוך מיקסום הפונקציונליות."
+            }
+        ]
+    }
+]

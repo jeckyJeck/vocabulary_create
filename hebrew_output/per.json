@@ -1,0 +1,40 @@
+[
+    {
+        "word": "per",
+        "word_hebrew": "לְכָל",
+        "main_definition": "A unit of measurement used to express a quantity as an amount per one unit.",
+        "main_definition_hebrew": "יחידת מדידה המשמשת לביטוי כמות ככמות ליחידה אחת.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of rate or frequency, 'per' is used to indicate how many times something occurs or is done in relation to another factor. For example, 'twice per week' means two times a week.",
+                "definition_hebrew": "בהקשר של קצב או תדירות, 'per' משמש כדי לציין כמה פעמים משהו מתרחש או נעשה ביחס לגורם אחר. לדוגמה, 'פעמיים בשבוע' פירושו פעמיים בשבוע.",
+                "example": "She exercises twice per week.",
+                "example_hebrew": "היא מתאמנת פעמיים בשבוע."
+            },
+            {
+                "definition": "When talking about cost, 'per' signifies the price for one unit of an item or service. An example is '$10 per person', which means each individual will pay $10.",
+                "definition_hebrew": "כשמדברים על עלות, 'ל' מסמל את המחיר ליחידה אחת של פריט או שירות. דוגמה היא '$10 לאדם', כלומר כל אדם ישלם $10.",
+                "example": "The rental fee is $30 per car.",
+                "example_hebrew": "דמי השכירות הם $30 לרכב."
+            },
+            {
+                "definition": "'Per' can also be used in the context of ratio to describe a proportion between two quantities. For instance, '2 per 5' means for every 5 units, there are 2 of something else.",
+                "definition_hebrew": "ניתן להשתמש ב-'Per' גם בהקשר של יחס כדי לתאר פרופורציה בין שתי כמויות. לדוגמה, '2 ל-5' פירושו שלכל 5 יחידות, יש 2 של משהו אחר.",
+                "example": "The recipe requires 2 cups of flour for every 5 cups of sugar.",
+                "example_hebrew": "המתכון דורש 2 כוסות קמח על כל 5 כוסות סוכר."
+            },
+            {
+                "definition": "'Per' is used in measurements to specify the number of times a measurement unit fits into another. For example, '10 meters per second' indicates that there are 10 meters covered each second.",
+                "definition_hebrew": "'Per' משמש במדידות כדי לציין את מספר הפעמים שיחידת מדידה מתאימה לאחרת. לדוגמה, '10 מטר לשנייה' מציין שיש 10 מטר מכוסה בכל שנייה.",
+                "example": "The car travels at a speed of 60 miles per hour.",
+                "example_hebrew": "המכונית נוסעת במהירות של 60 מייל לשעה."
+            },
+            {
+                "definition": "'Per' can denote directness or specificity in terms. For example, 'per request' means specifically according to someone's request.",
+                "definition_hebrew": "'פר' יכול לציין ישירות או ספציפיות במונחים. לדוגמה, 'לפי בקשה' פירושו ספציפית לפי בקשתו של מישהו.",
+                "example": "Please send the information per your request.",
+                "example_hebrew": "נא לשלוח את המידע לפי בקשתך."
+            }
+        ]
+    }
+]

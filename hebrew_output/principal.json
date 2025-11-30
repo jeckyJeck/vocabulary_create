@@ -1,0 +1,28 @@
+[
+    {
+        "word": "principal",
+        "word_hebrew": "קֶרֶן",
+        "main_definition": "The principal can refer to the head of a school or organization, the most significant amount of something, or an original sum before interest.",
+        "main_definition_hebrew": "המנהל יכול להתייחס לראש בית ספר או ארגון, הסכום המשמעותי ביותר של משהו, או סכום מקורי לפני ריבית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Head of a school or organization",
+                "definition_hebrew": "ראש בית ספר או ארגון",
+                "example": "Mrs. Johnson is the principal of our local high school.",
+                "example_hebrew": "גברת ג'ונסון היא המנהלת של בית הספר התיכון המקומי שלנו."
+            },
+            {
+                "definition": "The largest amount of something",
+                "definition_hebrew": "הכמות הגדולה ביותר של משהו",
+                "example": "Out of all the buildings in the city, this one is the principal skyscraper.",
+                "example_hebrew": "מכל הבניינים בעיר, זה הוא גורד השחקים העיקרי."
+            },
+            {
+                "definition": "Original sum before interest",
+                "definition_hebrew": "סכום מקורי לפני ריבית",
+                "example": "When we deposit money into a savings account, it's called the principal amount and any earnings are considered additional funds.",
+                "example_hebrew": "כאשר אנו מפקידים כסף לחשבון חיסכון, זה נקרא סכום הקרן וכל הרווחים נחשבים ככספים נוספים."
+            }
+        ]
+    }
+]

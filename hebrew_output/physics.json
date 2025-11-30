@@ -1,0 +1,34 @@
+[
+    {
+        "word": "physics",
+        "word_hebrew": "פיזיקה",
+        "main_definition": "Physics is the natural science that involves the study of matter, its motion and behavior through space and time, and the related entities of energy and force.",
+        "main_definition_hebrew": "פיזיקה היא מדע הטבע הכרוך בחקר החומר, תנועתו והתנהגותו דרך המרחב והזמן, והישויות הקשורות לאנרגיה וכוח.",
+        "meanings_and_examples": [
+            {
+                "definition": "The study of non-living systems",
+                "definition_hebrew": "חקר מערכות שאינן חיות",
+                "example": "Physics is often referred to as a 'hard' science because it deals with inanimate objects such as planets, atoms, and particles.",
+                "example_hebrew": "הפיזיקה מכונה לעתים קרובות מדע 'קשה' מכיוון שהיא עוסקת בעצמים דוממים כמו כוכבי לכת, אטומים וחלקיקים."
+            },
+            {
+                "definition": "A branch or field within physics",
+                "definition_hebrew": "ענף או תחום בפיזיקה",
+                "example": "Classical mechanics is a fundamental area of study within the broader field of physics that focuses on understanding motion under various forces.",
+                "example_hebrew": "מכניקה קלאסית היא תחום מחקר בסיסי בתחום הפיזיקה הרחב יותר המתמקד בהבנת תנועה תחת כוחות שונים."
+            },
+            {
+                "definition": "An idiomatic expression meaning to analyze or scrutinize something",
+                "definition_hebrew": "ביטוי אידיומטי שמשמעותו לנתח או לבחון משהו",
+                "example": "When we say 'let's take a physics look at this problem', it means we want to thoroughly examine and understand the situation by applying scientific principles.",
+                "example_hebrew": "כשאנחנו אומרים 'בואו נסתכל על הבעיה הזאת בפיזיקה', זה אומר שאנחנו רוצים לבחון ולהבין היטב את המצב על ידי יישום עקרונות מדעיים."
+            },
+            {
+                "definition": "'Physics of...' as in understanding the underlying principles or laws governing something",
+                "definition_hebrew": "'פיזיקה של...' כמו בהבנת העקרונות או החוקים הבסיסיים השולטים במשהו",
+                "example": "The physics of cooking involves studying heat transfer, thermodynamics, and chemical reactions to improve culinary techniques.",
+                "example_hebrew": "הפיזיקה של הבישול כוללת לימוד העברת חום, תרמודינמיקה ותגובות כימיות כדי לשפר טכניקות קולינריות."
+            }
+        ]
+    }
+]

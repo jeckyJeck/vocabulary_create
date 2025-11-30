@@ -1,0 +1,46 @@
+[
+    {
+        "word": "network",
+        "word_hebrew": "רֶשֶׁת",
+        "main_definition": "A network refers to a system of interconnected people, organizations, devices, or concepts that work together to share information or resources.",
+        "main_definition_hebrew": "רשת מתייחסת למערכת של אנשים, ארגונים, מכשירים או מושגים מחוברים זה לזה, הפועלים יחד כדי לשתף מידע או משאבים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Social network",
+                "definition_hebrew": "רשת חברתית",
+                "example": "His LinkedIn profile is part of his professional social network.",
+                "example_hebrew": "פרופיל הלינקדאין שלו הוא חלק מהרשת החברתית המקצועית שלו."
+            },
+            {
+                "definition": "Telecommunications network",
+                "definition_hebrew": "רשת תקשורת",
+                "example": "The internet is a global telecommunications network that connects computers worldwide.",
+                "example_hebrew": "האינטרנט הוא רשת תקשורת עולמית המחברת מחשבים ברחבי העולם."
+            },
+            {
+                "definition": "Electrical network",
+                "definition_hebrew": "רשת חשמל",
+                "example": "In electrical engineering, an electrical circuit or system can be referred to as an electrical network.",
+                "example_hebrew": "בהנדסת חשמל ניתן להתייחס למעגל חשמלי או למערכת כרשת חשמל."
+            },
+            {
+                "definition": "Computer network",
+                "definition_hebrew": "רשת מחשבים",
+                "example": "A local area network (LAN) is a computer network that connects devices in a limited geographical area.",
+                "example_hebrew": "רשת מקומית (LAN) היא רשת מחשבים המחברת התקנים באזור גיאוגרפי מוגבל."
+            },
+            {
+                "definition": "Professional network",
+                "definition_hebrew": "רשת מקצועית",
+                "example": "She joined several industry associations to expand her professional network.",
+                "example_hebrew": "היא הצטרפה לכמה איגודי תעשייה כדי להרחיב את הרשת המקצועית שלה."
+            },
+            {
+                "definition": "Idea or conceptual framework",
+                "definition_hebrew": "רעיון או מסגרת מושגית",
+                "example": "The 'network' approach is a method of understanding the complex relationships between different elements in a system.",
+                "example_hebrew": "גישת ה'רשת' היא שיטה להבנת היחסים המורכבים בין אלמנטים שונים במערכת."
+            }
+        ]
+    }
+]

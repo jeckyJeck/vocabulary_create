@@ -1,0 +1,28 @@
+[
+    {
+        "word": "groundwater",
+        "word_hebrew": "מי תהום",
+        "main_definition": "Groundwater refers to the water present beneath Earth's surface in soil pore spaces and in the fractures of rock formations.",
+        "main_definition_hebrew": "מי תהום מתייחסים למים הנמצאים מתחת לפני כדור הארץ בחללי נקבוביות בקרקע ובשברים של תצורות סלע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Water that exists below the ground surface",
+                "definition_hebrew": "מים הקיימים מתחת לפני הקרקע",
+                "example": "The farmers rely on groundwater to irrigate their crops.",
+                "example_hebrew": "החקלאים מסתמכים על מי תהום להשקיית היבולים שלהם."
+            },
+            {
+                "definition": "Natural water stored in underground layers of soil and rock",
+                "definition_hebrew": "מים טבעיים המאוחסנים בשכבות תת קרקעיות של אדמה וסלע",
+                "example": "Groundwater is a critical source of drinking water for many communities worldwide.",
+                "example_hebrew": "מי תהום הם מקור קריטי למי שתייה עבור קהילות רבות ברחבי העולם."
+            },
+            {
+                "definition": "Water that flows through the Earth's subsurface, often forming springs or feeding into rivers and lakes",
+                "definition_hebrew": "מים הזורמים דרך תת-הקרקע של כדור הארץ, לעתים קרובות יוצרים מעיינות או ניזונים לנהרות ואגמים",
+                "example": "The groundwater from this aquifer feeds a series of small streams in the area.",
+                "example_hebrew": "מי התהום מאקוויפר זה ניזונים מסדרה של נחלים קטנים באזור."
+            }
+        ]
+    }
+]

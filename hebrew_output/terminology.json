@@ -1,0 +1,40 @@
+[
+    {
+        "word": "terminology",
+        "word_hebrew": "טרמינולוגיה",
+        "main_definition": "Terminology refers to the set of terms and phrases that are used in a particular field or subject, often with specific meanings and applications.",
+        "main_definition_hebrew": "טרמינולוגיה מתייחסת למכלול המונחים והביטויים המשמשים בתחום או נושא מסוים, לרוב עם משמעויות ויישומים ספציפיים.",
+        "meanings_and_examples": [
+            {
+                "definition": "The collection of specialized words and phrases related to a specific field or subject",
+                "definition_hebrew": "אוסף מילים וביטויים מיוחדים הקשורים לתחום או לנושא ספציפי",
+                "example": "In the medical field, terminology includes terms like 'cardiovascular' and 'neurology.'",
+                "example_hebrew": "בתחום הרפואי, המינוח כולל מונחים כמו 'קרדיווסקולרי' ו'נוירולוגיה'."
+            },
+            {
+                "definition": "The act of defining or explaining technical jargon in a particular field",
+                "definition_hebrew": "הפעולה של הגדרה או הסבר של ז'רגון טכני בתחום מסוים",
+                "example": "A glossary at the end of a scientific paper provides terminology definitions for readers.",
+                "example_hebrew": "מילון מונחים בסוף מאמר מדעי מספק הגדרות מינוח לקוראים."
+            },
+            {
+                "definition": "The process of creating and establishing terms within a specific discipline",
+                "definition_hebrew": "תהליך יצירה ויצירת מונחים בתוך דיסציפלינה ספציפית",
+                "example": "Linguists often study how terminologies evolve over time in different languages.",
+                "example_hebrew": "בלשנים חוקרים לעתים קרובות כיצד טרמינולוגיות מתפתחות לאורך זמן בשפות שונות."
+            },
+            {
+                "definition": "A list or guide that provides definitions for the specialized vocabulary used in a particular field or subject",
+                "definition_hebrew": "רשימה או מדריך המספק הגדרות לאוצר המילים המיוחד המשמש בתחום או נושא מסוים",
+                "example": "A dictionary of legal terminology outlines definitions for terms such as 'tort' and 'litigation.'",
+                "example_hebrew": "מילון למינוח משפטי מתאר הגדרות למונחים כמו 'נזיקין' ו'ליטיגציה'."
+            },
+            {
+                "definition": "The standard language used by professionals within a specific domain to communicate efficiently",
+                "definition_hebrew": "השפה הסטנדרטית המשמשת אנשי מקצוע בתחום מסוים כדי לתקשר ביעילות",
+                "example": "Engineers use certain technical terminologies, like 'torque' or 'frequency,' in their conversations.",
+                "example_hebrew": "מהנדסים משתמשים בטרמינולוגיות טכניות מסוימות, כמו 'מומנט' או 'תדירות', בשיחות שלהם."
+            }
+        ]
+    }
+]

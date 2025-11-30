@@ -1,0 +1,40 @@
+[
+    {
+        "word": "preference",
+        "word_hebrew": "הַעֲדָפָה",
+        "main_definition": "Preference refers to a greater liking or inclination towards one alternative over another or other options.",
+        "main_definition_hebrew": "העדפה מתייחסת לחיבה או נטייה גדולה יותר כלפי חלופה אחת על פני אופציות אחרות או אחרות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A personal choice among alternatives.",
+                "definition_hebrew": "בחירה אישית בין חלופות.",
+                "example": "She has a preference for Italian food over Chinese cuisine.",
+                "example_hebrew": "יש לה העדפה לאוכל איטלקי על פני המטבח הסיני."
+            },
+            {
+                "definition": "Tendency to choose one thing over another based on interest or past experience.",
+                "definition_hebrew": "נטייה לבחור בדבר אחד על פני אחר על סמך עניין או ניסיון העבר.",
+                "example": "Having a preference for digital books due to their convenience and portability.",
+                "example_hebrew": "עדיפות לספרים דיגיטליים בשל נוחותם וניידותם."
+            },
+            {
+                "definition": "A condition or requirement that must be met, indicating a particular liking or need.",
+                "definition_hebrew": "תנאי או דרישה שיש לעמוד בהם, המעידים על חיבה או צורך מסוים.",
+                "example": "The hotel has a non-smoking preference for the comfort of its guests.",
+                "example_hebrew": "למלון יש העדפה ללא עישון לנוחות אורחיו."
+            },
+            {
+                "definition": "In statistics, it refers to the measure of how one data point differs from others in a set; when this value is lower than others, it indicates a higher degree of agreement or similarity.",
+                "definition_hebrew": "בסטטיסטיקה, זה מתייחס למדד של איך נקודת נתונים אחת שונה מאחרות בקבוצה; כאשר ערך זה נמוך מאחרים, הוא מצביע על רמה גבוהה יותר של הסכמה או דמיון.",
+                "example": "The survey results showed that most students had a preference for online classes over traditional classroom settings.",
+                "example_hebrew": "תוצאות הסקר הראו שלרוב התלמידים הייתה העדפה לשיעורים מקוונים על פני הגדרות כיתה מסורתיות."
+            },
+            {
+                "definition": "An option presented by employers in an interview as part of the job offer process to allow candidates to choose their working environment, schedule or other conditions.",
+                "definition_hebrew": "אפשרות שמציגים מעסיקים בראיון כחלק מתהליך הצעת העבודה על מנת לאפשר למועמדים לבחור את סביבת העבודה, לוח הזמנים או תנאים אחרים.",
+                "example": "During the final stage of interviews, they were offered a preference for remote work.",
+                "example_hebrew": "בשלב האחרון של הראיונות הוצעה להם העדפה לעבודה מרחוק."
+            }
+        ]
+    }
+]

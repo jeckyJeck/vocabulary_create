@@ -1,0 +1,34 @@
+[
+    {
+        "word": "consumer",
+        "word_hebrew": "צרכן",
+        "main_definition": "A consumer is an individual or organization that uses products or services for personal, social, or economic purposes.",
+        "main_definition_hebrew": "צרכן הוא אדם או ארגון המשתמשים במוצרים או בשירותים למטרות אישיות, חברתיות או כלכליות.",
+        "meanings_and_examples": [
+            {
+                "definition": "An end user of a product or service",
+                "definition_hebrew": "משתמש קצה של מוצר או שירות",
+                "example": "The woman purchasing groceries at the supermarket is a consumer.",
+                "example_hebrew": "האישה שרוכשת מצרכים בסופר היא צרכנית."
+            },
+            {
+                "definition": "A buyer in a market economy",
+                "definition_hebrew": "קונה בכלכלת שוק",
+                "example": "In a free-market system, consumers have the power to influence production through their purchasing decisions. For instance, if many people start avoiding fast food due to health concerns, restaurants may shift towards offering more nutritious options.",
+                "example_hebrew": "במערכת שוק חופשי, לצרכנים יש את הכוח להשפיע על הייצור באמצעות החלטות הרכישה שלהם. לדוגמה, אם אנשים רבים יתחילו להימנע ממזון מהיר בגלל דאגות בריאותיות, מסעדות עשויות לעבור לכיוון של מתן אפשרויות מזינות יותר."
+            },
+            {
+                "definition": "A party involved in a legal dispute",
+                "definition_hebrew": "צד המעורב בסכסוך משפטי",
+                "example": "In the case of a product liability lawsuit, the consumer is the individual or group filing the claim against the company that manufactured the faulty product.",
+                "example_hebrew": "במקרה של תביעת אחריות למוצר, הצרכן הוא היחיד או הקבוצה המגישים את התביעה נגד החברה שייצרה את המוצר הפגום."
+            },
+            {
+                "definition": "An entity participating in social consumption activities",
+                "definition_hebrew": "ישות המשתתפת בפעילויות צריכה חברתית",
+                "example": "A community center organizing an event for seniors where participants are considered consumers of their social services and programs.",
+                "example_hebrew": "מרכז קהילתי המארגן אירוע לקשישים בו המשתתפים נחשבים לצרכני השירותים החברתיים והתכניות שלהם."
+            }
+        ]
+    }
+]

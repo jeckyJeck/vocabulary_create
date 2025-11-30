@@ -1,0 +1,40 @@
+[
+    {
+        "word": "student",
+        "word_hebrew": "סטוּדֶנט",
+        "main_definition": "A person who is studying at a school, college, or university to gain knowledge and skills in a particular field.",
+        "main_definition_hebrew": "אדם שלומד בבית ספר, מכללה או אוניברסיטה כדי לצבור ידע ומיומנויות בתחום מסוים.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual actively engaged in learning at an educational institution",
+                "definition_hebrew": "אדם העוסק באופן פעיל בלמידה במוסד חינוכי",
+                "example": "Johnny is a student at Harvard University studying computer science.",
+                "example_hebrew": "ג'וני הוא סטודנט באוניברסיטת הרווארד שלומד מדעי המחשב."
+            },
+            {
+                "definition": "A person who attends classes and studies for a degree or certification",
+                "definition_hebrew": "מי שמגיע לשיעורים ולומד לתואר או הסמכה",
+                "example": "She has been a diligent student, always completing her assignments on time.",
+                "example_hebrew": "היא הייתה תלמידה חרוצה, שתמיד השלימה את המטלות שלה בזמן."
+            },
+            {
+                "definition": "A learner at any level, including primary school, high school, vocational training, or adult education programs",
+                "definition_hebrew": "לומד בכל רמה, לרבות בית ספר יסודי, תיכון, הכשרה מקצועית או תוכניות לחינוך מבוגרים",
+                "example": "He enrolled in an online course to become a certified electrician, showing his dedication as a student of his trade.",
+                "example_hebrew": "הוא נרשם לקורס מקוון כדי להפוך לחשמלאי מוסמך, והראה את מסירותו כסטודנט במקצועו."
+            },
+            {
+                "definition": "A person who participates in research activities and experiments at institutions such as universities or laboratories",
+                "definition_hebrew": "אדם המשתתף בפעילויות מחקר וניסויים במוסדות כגון אוניברסיטאות או מעבדות",
+                "example": "The university's students are actively involved in groundbreaking biotechnology research, contributing to advancements in the field.",
+                "example_hebrew": "סטודנטים של האוניברסיטה מעורבים באופן פעיל במחקר ביוטכנולוגיה פורץ דרך, ותורמים להתקדמות בתחום."
+            },
+            {
+                "definition": "In a broader sense, someone who is pursuing personal growth and education outside of formal educational settings",
+                "definition_hebrew": "במובן הרחב יותר, מי שרודף צמיחה והשכלה אישית מחוץ למסגרות חינוכיות פורמליות",
+                "example": "As an autodidact, she has become well-versed in various subjects by self-study, showing her passion as a lifelong student.",
+                "example_hebrew": "בתור אוטודידקט, היא למדה היטב במקצועות שונים על ידי לימוד עצמי, ומראה את התשוקה שלה כסטודנטית לכל החיים."
+            }
+        ]
+    }
+]

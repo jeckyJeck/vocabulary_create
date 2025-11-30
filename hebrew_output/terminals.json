@@ -1,0 +1,40 @@
+[
+    {
+        "word": "terminals",
+        "word_hebrew": "מסופים",
+        "main_definition": "In computing, terminals are computer devices used to interact with a computer system or network through text-based commands and display output; in transportation, they refer to the docking points for loading or unloading cargo on ships or connecting vehicles.",
+        "main_definition_hebrew": "במחשוב, מסופים הם התקני מחשב המשמשים לאינטראקציה עם מערכת מחשב או רשת באמצעות פקודות מבוססות טקסט ופלט תצוגה; בתחבורה, הם מתייחסים לנקודות העגינה להעמסה או פריקה של מטען על ספינות או כלי רכב מקשרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Computer terminals",
+                "definition_hebrew": "מסופי מחשב",
+                "example": "An old computer terminal used with a mainframe computer system.",
+                "example_hebrew": "מסוף מחשב ישן בשימוש עם מערכת מחשב מיינפריים."
+            },
+            {
+                "definition": "Airport terminals",
+                "definition_hebrew": "מסופי שדה תעופה",
+                "example": "Passengers arrive at the airport and proceed to their designated departure or arrival terminal.",
+                "example_hebrew": "הנוסעים מגיעים לשדה התעופה וממשיכים למסוף היציאה או ההגעה המיועדים להם."
+            },
+            {
+                "definition": "Shipping port terminals",
+                "definition_hebrew": "מסופי נמל שילוח",
+                "example": "Containers are loaded onto cargo ships from the shipping port's container terminals.",
+                "example_hebrew": "מכולות מועלות על ספינות משא ממסופי המכולות של נמל הספנות."
+            },
+            {
+                "definition": "Electrical terminations",
+                "definition_hebrew": "הפסקות חשמל",
+                "example": "The connection point where a wire or cable ends to complete an electrical circuit.",
+                "example_hebrew": "נקודת החיבור שבה מסתיים חוט או כבל להשלמת מעגל חשמלי."
+            },
+            {
+                "definition": "Endpoints in networks",
+                "definition_hebrew": "נקודות קצה ברשתות",
+                "example": "In a network, the devices at each end of a communication link are referred to as terminals.",
+                "example_hebrew": "ברשת, המכשירים בכל קצה של קישור תקשורת מכונים טרמינלים."
+            }
+        ]
+    }
+]

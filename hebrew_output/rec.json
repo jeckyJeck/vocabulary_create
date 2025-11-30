@@ -1,0 +1,34 @@
+[
+    {
+        "word": "rec",
+        "word_hebrew": "rec",
+        "main_definition": "To give information about something to someone, usually with the intention of informing or reminding them.",
+        "main_definition_hebrew": "לתת מידע על משהו למישהו, בדרך כלל מתוך כוונה ליידע אותו או להזכיר לו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Recommendation for a performance review or feedback session after an employee's work period ends",
+                "definition_hebrew": "המלצה לבדיקת ביצועים או פגישת משוב לאחר סיום תקופת העבודה של העובד",
+                "example": "At the end of the year, employees will have their performance rec'd by their supervisors.",
+                "example_hebrew": "בסוף השנה, ביצועיהם של העובדים ידווחו על ידי הממונים עליהם."
+            },
+            {
+                "definition": "To call back someone on the phone who has left without saying goodbye",
+                "definition_hebrew": "להתקשר בחזרה למישהו בטלפון שעזב בלי להיפרד",
+                "example": "I tried to rec my friend after he abruptly hung up during our conversation.",
+                "example_hebrew": "ניסיתי לשחזר את חבר שלי אחרי שהוא ניתק את השיחה בפתאומיות במהלך השיחה שלנו."
+            },
+            {
+                "definition": "A recorded speech or piece of music that is played again, especially for practice purposes",
+                "definition_hebrew": "נאום מוקלט או קטע מוזיקלי שמושמע שוב, במיוחד למטרות תרגול",
+                "example": "She listened to her old high school graduation rec's before the big reunion party.",
+                "example_hebrew": "היא הקשיבה למסיבת סיום התיכון הישנה שלה לפני מסיבת האיחוד הגדולה."
+            },
+            {
+                "definition": "The process of retrieving previously stored data from memory or a database",
+                "definition_hebrew": "תהליך אחזור נתונים שנשמרו בעבר מזיכרון או מסד נתונים",
+                "example": "When you press 'recall', it brings back information that was saved in your phone's address book.",
+                "example_hebrew": "כאשר אתה לוחץ על 'אחזור', הוא מחזיר מידע שנשמר בפנקס הכתובות של הטלפון שלך."
+            }
+        ]
+    }
+]

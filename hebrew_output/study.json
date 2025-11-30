@@ -1,0 +1,40 @@
+[
+    {
+        "word": "study",
+        "word_hebrew": "לימוד",
+        "main_definition": "To engage in learning or practicing a subject to gain knowledge, improve skills, or achieve understanding.",
+        "main_definition_hebrew": "לעסוק בלמידה או בתרגול נושא כדי להשיג ידע, לשפר מיומנויות או להשיג הבנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To examine materials thoroughly for the purpose of acquiring information or preparing for an examination",
+                "definition_hebrew": "לבחון חומרים ביסודיות לצורך רכישת מידע או הכנה לבדיקה",
+                "example": "She spent her weekend studying for the upcoming biology test.",
+                "example_hebrew": "היא בילתה את סוף השבוע בלימודים למבחן הביולוגיה הקרוב."
+            },
+            {
+                "definition": "To investigate and analyze data to find patterns, trends, or insights",
+                "definition_hebrew": "לחקור ולנתח נתונים כדי למצוא דפוסים, מגמות או תובנות",
+                "example": "The researcher studied the climate change impacts on local ecosystems over the past decade.",
+                "example_hebrew": "החוקר חקר את השפעות שינויי האקלים על מערכות אקולוגיות מקומיות בעשור האחרון."
+            },
+            {
+                "definition": "To spend time practicing a skill in order to become proficient",
+                "definition_hebrew": "להשקיע זמן בתרגול מיומנות על מנת להיות מיומן",
+                "example": "He has been studying piano for three years and can now play complex pieces with ease.",
+                "example_hebrew": "הוא לומד פסנתר כבר שלוש שנים וכעת הוא יכול לנגן יצירות מורכבות בקלות."
+            },
+            {
+                "definition": "To learn about or familiarize oneself with specific facts, information, or subject matter",
+                "definition_hebrew": "ללמוד או להכיר עובדות, מידע או נושא ספציפיים",
+                "example": "I need to study the history of our country before writing my essay on its founding principles.",
+                "example_hebrew": "אני צריך ללמוד את ההיסטוריה של המדינה שלנו לפני שאני כותב את החיבור שלי על עקרונות היסוד שלה."
+            },
+            {
+                "definition": "To analyze a problem systematically and methodically in order to solve it",
+                "definition_hebrew": "לנתח בעיה באופן שיטתי ושיטתי על מנת לפתור אותה",
+                "example": "The team studied the issue from all angles to find an effective solution for reducing traffic congestion.",
+                "example_hebrew": "הצוות למד את הנושא מכל הזוויות כדי למצוא פתרון יעיל להפחתת עומסי התנועה."
+            }
+        ]
+    }
+]

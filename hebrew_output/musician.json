@@ -1,0 +1,34 @@
+[
+    {
+        "word": "musician",
+        "word_hebrew": "מוּסִיקָאִי",
+        "main_definition": "A person who plays a musical instrument or is skilled in singing, often professionally.",
+        "main_definition_hebrew": "אדם המנגן בכלי נגינה או מיומן בשירה, לרוב במקצועיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual proficient in playing one or multiple musical instruments skillfully and creatively.",
+                "definition_hebrew": "אדם הבקיא בנגינה על כלי נגינה אחד או יותר במיומנות ויצירתית.",
+                "example": "John Smith is a renowned musician who plays the violin with exceptional talent.",
+                "example_hebrew": "ג'ון סמית הוא מוזיקאי בעל שם המנגן בכינור בכישרון יוצא דופן."
+            },
+            {
+                "definition": "A person specialized in singing, often performing as vocalists in various genres of music.",
+                "definition_hebrew": "אדם שהתמחה בשירה, לעתים קרובות מופיע כסולנים בז'אנרים שונים של מוזיקה.",
+                "example": "Adele is a world-famous singer and musician known for her powerful vocals.",
+                "example_hebrew": "אדל היא זמרת ומוזיקאית מפורסמת בעולם הידועה בשירה העוצמתית שלה."
+            },
+            {
+                "definition": "Someone who composes or arranges music to be performed by instrumentalists, singers, or ensembles.",
+                "definition_hebrew": "מישהו שמלחין או מעבד מוזיקה שתבוצע על ידי נגנים, זמרים או הרכבים.",
+                "example": "Ludwig van Beethoven was a famous composer whose works are still celebrated as masterpieces today.",
+                "example_hebrew": "לודוויג ואן בטהובן היה מלחין מפורסם שיצירותיו נחגגות עד היום כיצירות מופת."
+            },
+            {
+                "definition": "A professional who conducts and directs an ensemble of musicians in a concert performance.",
+                "definition_hebrew": "איש מקצוע מנצח ומנחה אנסמבל נגנים בהופעה קונצרטית.",
+                "example": "Jennifer Hewlett is a talented musician and conductor, leading the Boston Symphony Orchestra to numerous accolades.",
+                "example_hebrew": "ג'ניפר היולט היא מוזיקאית ומנצחת מוכשרת, המובילה את התזמורת הסימפונית של בוסטון לשבחים רבים."
+            }
+        ]
+    }
+]

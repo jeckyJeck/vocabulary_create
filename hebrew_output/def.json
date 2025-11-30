@@ -1,0 +1,28 @@
+[
+    {
+        "word": "def",
+        "word_hebrew": "def",
+        "main_definition": "In the context of computing, 'def' is a keyword used in Python to define functions or variables.",
+        "main_definition_hebrew": "בהקשר של מחשוב, 'def' היא מילת מפתח המשמשת ב- Python להגדרת פונקציות או משתנים.",
+        "meanings_and_examples": [
+            {
+                "definition": "To state the reasons or causes of something; an explanation.",
+                "definition_hebrew": "לציין את הסיבות או הסיבות למשהו; הסבר.",
+                "example": "She defended her decision by explaining that it was based on extensive research.",
+                "example_hebrew": "היא הגנה על החלטתה בכך שהסבירה שהיא מבוססת על מחקר מקיף."
+            },
+            {
+                "definition": "In computing, particularly in programming languages like Python, 'def' is used to define a function.",
+                "definition_hebrew": "במחשוב, במיוחד בשפות תכנות כמו Python, 'def' משמש להגדרת פונקציה.",
+                "example": "def my_function(): return 42",
+                "example_hebrew": "def my_function(): החזר 42"
+            },
+            {
+                "definition": "A slang term for someone who has been falsely accused or wrongly judged.",
+                "definition_hebrew": "כינוי סלנג למי שהואשם כוזב או נשפט בטעות.",
+                "example": "He was def when the rumors about his actions were proven to be false.",
+                "example_hebrew": "הוא היה בטוח כאשר הוכחו השמועות על מעשיו כשקריות."
+            }
+        ]
+    }
+]

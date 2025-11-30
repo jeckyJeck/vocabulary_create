@@ -1,0 +1,40 @@
+[
+    {
+        "word": "emergency",
+        "word_hebrew": "חירום",
+        "main_definition": "A situation that requires immediate action or attention due to its urgent nature, often involving a threat to life, health, property, or the environment.",
+        "main_definition_hebrew": "מצב הדורש פעולה או התייחסות מיידית בשל אופיו הדחוף, הכרוך לרוב באיום על החיים, הבריאות, הרכוש או הסביבה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Urgent and critical situation needing instant care",
+                "definition_hebrew": "מצב דחוף וקריטי הזקוק לטיפול מיידי",
+                "example": "The car accident created an emergency for the paramedics.",
+                "example_hebrew": "תאונת הדרכים יצרה מצב חירום עבור הפרמדיקים."
+            },
+            {
+                "definition": "A sudden unexpected event that demands immediate attention or response",
+                "definition_hebrew": "אירוע בלתי צפוי פתאומי הדורש תשומת לב או תגובה מיידית",
+                "example": "When a tree fell on her house during the storm, she had to deal with various emergencies simultaneously.",
+                "example_hebrew": "כשעץ נפל על ביתה במהלך הסופה, היא נאלצה להתמודד עם מצבי חירום שונים במקביל."
+            },
+            {
+                "definition": "An abrupt and severe incident that requires prompt action",
+                "definition_hebrew": "אירוע פתאומי וחמור הדורש פעולה מהירה",
+                "example": "The power outage in the neighborhood was an emergency because it affected many homes and businesses.",
+                "example_hebrew": "הפסקת החשמל בשכונה הייתה מצב חירום מכיוון שפגעה בבתים ועסקים רבים."
+            },
+            {
+                "definition": "A medical condition requiring immediate attention or treatment to prevent serious harm or death",
+                "definition_hebrew": "מצב רפואי הדורש טיפול או טיפול מיידי כדי למנוע נזק חמור או מוות",
+                "example": "Having a heart attack is considered a life-threatening emergency that needs quick response from healthcare professionals.",
+                "example_hebrew": "התקף לב נחשב למצב חירום מסכן חיים הדורש תגובה מהירה של אנשי מקצוע בתחום הבריאות."
+            },
+            {
+                "definition": "An extraordinary and sudden situation necessitating urgent measures",
+                "definition_hebrew": "מצב יוצא דופן ופתאומי המחייב צעדים דחופים",
+                "example": "The earthquake caused an emergency in the city, leading to evacuations and search-and-rescue operations.",
+                "example_hebrew": "רעידת האדמה גרמה לשעת חירום בעיר, שהובילה לפינויים ופעולות חיפוש והצלה."
+            }
+        ]
+    }
+]

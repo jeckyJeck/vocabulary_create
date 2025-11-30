@@ -1,0 +1,34 @@
+[
+    {
+        "word": "reading",
+        "word_hebrew": "קריאה",
+        "main_definition": "Reading is the process of interpreting written or printed text, understanding its meaning, and gaining knowledge from it.",
+        "main_definition_hebrew": "קריאה היא תהליך של פירוש טקסט כתוב או מודפס, הבנת משמעותו וקבלת ידע ממנו.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of visually perceiving letters, words, and sentences to comprehend their meaning.",
+                "definition_hebrew": "הפעולה של תפיסה חזותית של אותיות, מילים ומשפטים כדי להבין את משמעותם.",
+                "example": "She spent her Sunday afternoon reading a novel.",
+                "example_hebrew": "היא בילתה את יום ראשון אחר הצהריים בקריאת רומן."
+            },
+            {
+                "definition": "A session or activity in which one engages with written material for pleasure or learning purposes.",
+                "definition_hebrew": "מפגש או פעילות שבהם עוסקים בחומר כתוב למטרות הנאה או למידה.",
+                "example": "He attends a book club meeting where they discuss the latest readings of their favorite authors.",
+                "example_hebrew": "הוא משתתף במפגש של מועדון ספרים שבו הם דנים בקריאות האחרונות של המחברים האהובים עליהם."
+            },
+            {
+                "definition": "The ability to understand and interpret written text, including symbols and language.",
+                "definition_hebrew": "היכולת להבין ולפרש טקסט כתוב, לרבות סמלים ושפה.",
+                "example": "Children develop their reading skills through practice and learning at school.",
+                "example_hebrew": "ילדים מפתחים את כישורי הקריאה שלהם באמצעות תרגול ולמידה בבית הספר."
+            },
+            {
+                "definition": "An idiomatic expression meaning to critically analyze or evaluate something with a focus on its content.",
+                "definition_hebrew": "ביטוי אידיומטי שמשמעותו ניתוח או הערכה ביקורתית של משהו תוך התמקדות בתוכן שלו.",
+                "example": "The literary critic was known for his in-depth readings of classic literature, often uncovering new insights and interpretations.",
+                "example_hebrew": "מבקר הספרות נודע בקריאותיו המעמיקות בספרות הקלאסית, ולעתים קרובות חשף תובנות ופרשנויות חדשות."
+            }
+        ]
+    }
+]

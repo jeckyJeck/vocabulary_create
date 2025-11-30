@@ -1,0 +1,40 @@
+[
+    {
+        "word": "foreign",
+        "word_hebrew": "זָר",
+        "main_definition": "Foreign refers to something that is from or related to a country, culture, language, or people not native to the speaker's own.",
+        "main_definition_hebrew": "זר מתייחס למשהו שמקורו או קשור למדינה, תרבות, שפה או אנשים שאינם ילידי הדובר.",
+        "meanings_and_examples": [
+            {
+                "definition": "Not indigenous or natural in a given area",
+                "definition_hebrew": "לא ילידי או טבעי באזור נתון",
+                "example": "The exotic plants found in her garden were foreign species.",
+                "example_hebrew": "הצמחים האקזוטיים שנמצאו בגינה היו מינים זרים."
+            },
+            {
+                "definition": "Related to other countries, not one's own",
+                "definition_hebrew": "קשור למדינות אחרות, לא למדינות שלו",
+                "example": "Foreign policy is the set of strategies a country uses to interact with others outside its borders.",
+                "example_hebrew": "מדיניות חוץ היא מערכת האסטרטגיות שבה משתמשת מדינה כדי ליצור אינטראקציה עם אחרים מחוץ לגבולותיה."
+            },
+            {
+                "definition": "Of or relating to people who are native to a place but living elsewhere",
+                "definition_hebrew": "של או קשור לאנשים שמקורם במקום אבל חיים במקום אחר",
+                "example": "The foreign exchange program allowed students from our school to study abroad in Europe.",
+                "example_hebrew": "תוכנית חילופי החוץ אפשרה לתלמידים מבית הספר שלנו ללמוד בחו\"ל באירופה."
+            },
+            {
+                "definition": "Not understood; unfamiliar due to different language, culture, etc.",
+                "definition_hebrew": "לא הבין; לא מוכר בגלל שפה שונה, תרבות וכו'.",
+                "example": "She struggled with the foreign accent of her new coworkers.",
+                "example_hebrew": "היא נאבקה במבטא הזר של עמיתיה החדשים לעבודה."
+            },
+            {
+                "definition": "Of or relating to another country' Written in English",
+                "definition_hebrew": "של מדינה אחרת או קשורה למדינה אחרת' נכתב באנגלית",
+                "example": "He studied a variety of foreign languages at university, including French and Spanish.",
+                "example_hebrew": "הוא למד מגוון שפות זרות באוניברסיטה, כולל צרפתית וספרדית."
+            }
+        ]
+    }
+]

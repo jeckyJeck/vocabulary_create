@@ -1,0 +1,40 @@
+[
+    {
+        "word": "percent",
+        "word_hebrew": "אָחוּז",
+        "main_definition": "Percent refers to a way of expressing a fraction or ratio as a part out of 100, often used in statistics, finance, and various measurements.",
+        "main_definition_hebrew": "אחוז מתייחס לדרך להביע שבר או יחס כחלק מתוך 100, המשמש לעתים קרובות בסטטיסטיקה, פיננסים ומדידות שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Expressing a quantity as a fraction of 100",
+                "definition_hebrew": "הבעת כמות כשבריר מ-100",
+                "example": "Out of the total student population, 25 percent are freshmen.",
+                "example_hebrew": "מתוך כלל אוכלוסיית הסטודנטים, 25 אחוז הם סטודנטים א'."
+            },
+            {
+                "definition": "A unit for expressing ratios and proportions",
+                "definition_hebrew": "יחידה לביטוי יחסים ופרופורציות",
+                "example": "The company achieved a growth rate of 15 percent over the past year.",
+                "example_hebrew": "החברה השיגה קצב צמיחה של 15 אחוזים בשנה האחרונה."
+            },
+            {
+                "definition": "Representing change in quantity compared to an original amount",
+                "definition_hebrew": "מייצג שינוי בכמות בהשוואה לכמות מקורית",
+                "example": "There has been a decrease in sales by 20 percent this quarter.",
+                "example_hebrew": "נרשמה ירידה במכירות ב-20 אחוז ברבעון הזה."
+            },
+            {
+                "definition": "A measure used for calculating discounts, interest rates, and taxes",
+                "definition_hebrew": "מדד המשמש לחישוב הנחות, שיעורי ריבית ומסים",
+                "example": "The item is on sale at 30 percent off its original price of $50, making it $35 now.",
+                "example_hebrew": "הפריט מוצע למכירה ב-30 אחוז הנחה מהמחיר המקורי של 50 דולר, מה שהופך אותו ל-35 דולר כעת."
+            },
+            {
+                "definition": "Used in statistics to represent a proportion out of 100 when presenting data",
+                "definition_hebrew": "משמש בסטטיסטיקה כדי לייצג פרופורציה מתוך 100 בעת הצגת נתונים",
+                "example": "In the survey, 60 percent of respondents preferred option A over option B.",
+                "example_hebrew": "בסקר, 60 אחוז מהנשאלים העדיפו אפשרות א' על פני אפשרות ב'."
+            }
+        ]
+    }
+]

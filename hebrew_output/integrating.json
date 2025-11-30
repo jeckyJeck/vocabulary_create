@@ -1,0 +1,40 @@
+[
+    {
+        "word": "integrating",
+        "word_hebrew": "שילוב",
+        "main_definition": "The process of combining or coordinating separate elements to form a unified whole, especially in the context of systems, organizations, or data.",
+        "main_definition_hebrew": "תהליך של שילוב או תיאום אלמנטים נפרדים ליצירת שלם מאוחד, במיוחד בהקשר של מערכות, ארגונים או נתונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In mathematics and engineering, integrating refers to finding the integral (area under the curve) of a function. This process involves adding up an infinite number of infinitesimally small quantities over a given interval.",
+                "definition_hebrew": "במתמטיקה ובהנדסה, אינטגרציה מתייחסת למציאת האינטגרל (השטח מתחת לעקומה) של פונקציה. תהליך זה כולל חיבור של מספר אינסופי של כמויות קטנות לאין שיעור על פני מרווח נתון.",
+                "example": "Calculate the total distance traveled by a car moving at varying speeds over 10 hours.",
+                "example_hebrew": "חשב את המרחק הכולל שעברה מכונית שנעה במהירויות משתנות במשך 10 שעות."
+            },
+            {
+                "definition": "In business, integrating means combining different departments or functions of an organization to improve efficiency and effectiveness. This often involves aligning goals, processes, and communication channels.",
+                "definition_hebrew": "בעסק, אינטגרציה פירושה שילוב של מחלקות או פונקציות שונות של ארגון כדי לשפר את היעילות והאפקטיביות. זה כרוך לעתים קרובות ביישור יעדים, תהליכים וערוצי תקשורת.",
+                "example": "A company merged its sales and marketing teams to streamline campaigns and better target customers.",
+                "example_hebrew": "חברה מיזגה את צוותי המכירות והשיווק שלה כדי לייעל את הקמפיינים ולמקד טוב יותר ללקוחות."
+            },
+            {
+                "definition": "In data analysis, integrating refers to the process of combining multiple datasets into a single dataset for more comprehensive insights. This usually involves merging or linking related records based on common identifiers.",
+                "definition_hebrew": "בניתוח נתונים, אינטגרציה מתייחסת לתהליך של שילוב מערכי נתונים מרובים למערך נתונים אחד לקבלת תובנות מקיפות יותר. זה בדרך כלל כולל מיזוג או קישור של רשומות קשורות על סמך מזהים נפוצים.",
+                "example": "A research project integrated health and lifestyle data from different sources to investigate correlations between exercise habits and chronic diseases.",
+                "example_hebrew": "פרויקט מחקר שילב נתוני בריאות ואורח חיים ממקורות שונים כדי לחקור קורלציות בין הרגלי פעילות גופנית ומחלות כרוניות."
+            },
+            {
+                "definition": "In social contexts, integrating means accepting or embracing individuals or groups that are diverse in terms of race, ethnicity, religion, etc. This involves promoting inclusivity and equal opportunities.",
+                "definition_hebrew": "בהקשרים חברתיים, שילוב פירושו קבלה או חיבוק של יחידים או קבוצות מגוונות במונחים של גזע, אתני, דת וכו'. הדבר כרוך בקידום הכלה ושוויון הזדמנויות.",
+                "example": "An organization is actively working on integrating immigrants into the workforce by providing language training and cultural orientation.",
+                "example_hebrew": "ארגון פועל באופן פעיל על שילוב מהגרים בכוח העבודה על ידי מתן הכשרה בשפה והכוונה תרבותית."
+            },
+            {
+                "definition": "In technology, particularly in software development, integrating often refers to combining separate software components or libraries to create a cohesive application. This process can involve adding new features or fixing bugs.",
+                "definition_hebrew": "בטכנולוגיה, במיוחד בפיתוח תוכנה, אינטגרציה מתייחסת לרוב לשילוב של רכיבי תוכנה נפרדים או ספריות ליצירת אפליקציה מגובשת. תהליך זה יכול לכלול הוספת תכונות חדשות או תיקון באגים.",
+                "example": "A mobile app developer integrated social media sharing capabilities into their app by using an external API.",
+                "example_hebrew": "מפתח אפליקציות לנייד שילב יכולות שיתוף של מדיה חברתית באפליקציה שלו באמצעות ממשק API חיצוני."
+            }
+        ]
+    }
+]

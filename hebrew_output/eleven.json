@@ -1,0 +1,22 @@
+[
+    {
+        "word": "eleven",
+        "word_hebrew": "אחד עשר",
+        "main_definition": "Eleven is a numerical value representing the quantity or position in a sequence, as well as an idiomatic expression referring to a group of people who are not very close friends.",
+        "main_definition_hebrew": "11 הוא ערך מספרי המייצג את הכמות או המיקום ברצף, כמו גם ביטוי אידיומטי המתייחס לקבוצת אנשים שאינם חברים קרובים במיוחד.",
+        "meanings_and_examples": [
+            {
+                "definition": "A number that comes after ten and before twelve. It is represented numerically by 11.",
+                "definition_hebrew": "מספר שמגיע אחרי עשר ולפני שתים עשרה. הוא מיוצג מספרית על ידי 11.",
+                "example": "There were eleven players on the soccer team.",
+                "example_hebrew": "היו אחד עשר שחקנים בקבוצת הכדורגל."
+            },
+            {
+                "definition": "An idiomatic expression used to describe a group of people who are not very close friends or acquaintances. This phrase originates from poker, where if there are eleven players at a table, they would typically share no cards and each player would have only one opponent.",
+                "definition_hebrew": "ביטוי אידיומטי המשמש לתיאור קבוצת אנשים שאינם חברים או מכרים קרובים במיוחד. הביטוי הזה מקורו בפוקר, שבו אם יש אחד עשר שחקנים ליד השולחן, הם בדרך כלל לא חולקים קלפים ולכל שחקן יהיה רק יריב אחד.",
+                "example": "In their small town, the local book club meets up every week to discuss books, but despite meeting regularly, they're just 'eleven', not close friends.",
+                "example_hebrew": "בעיירה הקטנה שלהם, מועדון הספרים המקומי נפגש מדי שבוע כדי לדון בספרים, אבל למרות שנפגשים בקביעות, הם רק 'אחת עשרה', לא חברים קרובים."
+            }
+        ]
+    }
+]

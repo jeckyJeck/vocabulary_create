@@ -1,0 +1,46 @@
+[
+    {
+        "word": "bin",
+        "word_hebrew": "פַּח",
+        "main_definition": "A container used to store items, typically a rectangular box or a large receptacle.",
+        "main_definition_hebrew": "מיכל המשמש לאחסון פריטים, בדרך כלל קופסה מלבנית או כלי קיבול גדול.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing context, refers to the storage location in memory.",
+                "definition_hebrew": "בהקשר מחשוב, מתייחס למיקום האחסון בזיכרון.",
+                "example": "The data was stored in the bin for temporary use.",
+                "example_hebrew": "הנתונים נשמרו בפח לשימוש זמני."
+            },
+            {
+                "definition": "A place where waste material is collected and disposed of or recycled.",
+                "definition_hebrew": "מקום שבו חומרי פסולת נאספים ומפנים או ממוחזרים.",
+                "example": "He took out the trash from his house into the garbage bins outside.",
+                "example_hebrew": "הוא הוציא את האשפה מביתו אל פחי האשפה שבחוץ."
+            },
+            {
+                "definition": "An informal term for a receptacle used to hold small items, often in homes.",
+                "definition_hebrew": "כינוי לא רשמי לכלי קיבול המשמש להכיל פריטים קטנים, לעתים קרובות בבתים.",
+                "example": "I kept my jewelry in the bedroom bin under the sink.",
+                "example_hebrew": "שמרתי את התכשיטים שלי בפח של חדר השינה מתחת לכיור."
+            },
+            {
+                "definition": "Used to indicate that an action has been performed and is ready for disposal or discarding.",
+                "definition_hebrew": "משמש לציון שבוצעה פעולה ומוכנה לסילוק או השלכה.",
+                "example": "She placed her unworn clothes in the 'bin' to donate them later.",
+                "example_hebrew": "היא הניחה את בגדיה הלא נלבשים ב'פח' כדי לתרום אותם מאוחר יותר."
+            },
+            {
+                "definition": "In British English, refers to a large container used for carrying items like fruits, vegetables, etc. at markets.",
+                "definition_hebrew": "באנגלית בריטית, מתייחס למיכל גדול המשמש לנשיאת פריטים כמו פירות, ירקות וכו' בשווקים.",
+                "example": "The fruit seller displayed his goods on carts with bins underneath for the customers to choose from.",
+                "example_hebrew": "מוכר הפירות הציג את הסחורה שלו על עגלות עם פחים מתחת לבחירת הלקוחות."
+            },
+            {
+                "definition": "A unit of measurement equal to 10 cubic feet in some countries.",
+                "definition_hebrew": "יחידת מידה שווה ל-10 רגל מעוקב במדינות מסוימות.",
+                "example": "He had a large bin that could hold up to 50 cubic yards (approximately 473 cubic feet) of material.",
+                "example_hebrew": "היה לו פח גדול שיכול להכיל עד 50 יארד מעוקב (כ-473 רגל מעוקב) של חומר."
+            }
+        ]
+    }
+]

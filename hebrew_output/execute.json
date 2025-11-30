@@ -1,0 +1,40 @@
+[
+    {
+        "word": "execute",
+        "word_hebrew": "לבצע",
+        "main_definition": "To carry out, accomplish or perform a task, order, or action.",
+        "main_definition_hebrew": "לבצע, לבצע או לבצע משימה, פקודה או פעולה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To fulfill or complete an assigned job or duty.",
+                "definition_hebrew": "למלא או להשלים תפקיד או חובה שהוקצו.",
+                "example": "The project manager will execute the plan by assigning tasks to team members.",
+                "example_hebrew": "מנהל הפרויקט יבצע את התוכנית על ידי הקצאת משימות לחברי הצוות."
+            },
+            {
+                "definition": "To carry out a legal penalty, especially in terms of capital punishment.",
+                "definition_hebrew": "לבצע עונש משפטי, במיוחד במונחים של עונש מוות.",
+                "example": "The judge sentenced the convicted criminal to be executed by lethal injection.",
+                "example_hebrew": "השופט גזר על הפושע המורשע הוצאה להורג בזריקה קטלנית."
+            },
+            {
+                "definition": "To implement or put into action an algorithm or computer program.",
+                "definition_hebrew": "ליישם או להפעיל אלגוריתם או תוכנת מחשב.",
+                "example": "We need to execute this code snippet in order for it to function properly.",
+                "example_hebrew": "עלינו להפעיל את קטע הקוד הזה כדי שהוא יפעל כראוי."
+            },
+            {
+                "definition": "To carry out a command given by someone with authority, such as law enforcement officers.",
+                "definition_hebrew": "לבצע פקודה שניתנה על ידי בעל סמכות, כגון קציני אכיפת החוק.",
+                "example": "The police officer executed the arrest after reading the suspect their rights.",
+                "example_hebrew": "השוטר ביצע את המעצר לאחר שקרא את זכויותיו של החשוד."
+            },
+            {
+                "definition": "In business or finance, to complete an order or transaction.",
+                "definition_hebrew": "בעסק או בפיננסים, להשלמת הזמנה או עסקה.",
+                "example": "I will execute this purchase by transferring funds from my account.",
+                "example_hebrew": "אני אבצע רכישה זו על ידי העברת כספים מחשבוני."
+            }
+        ]
+    }
+]

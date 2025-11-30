@@ -1,0 +1,28 @@
+[
+    {
+        "word": "empirical",
+        "word_hebrew": "אֶמפִּירִי",
+        "main_definition": "Relating to or based on experience rather than theory or pure logic.",
+        "main_definition_hebrew": "מתייחסים או מבוססים על ניסיון ולא תיאוריה או היגיון טהור.",
+        "meanings_and_examples": [
+            {
+                "definition": "Based on observation or experiment; derived from empirical evidence.",
+                "definition_hebrew": "מבוסס על תצפית או ניסוי; נגזר מראיות אמפיריות.",
+                "example": "The scientist's findings were purely empirical, as they were obtained through direct observation and experiments.",
+                "example_hebrew": "הממצאים של המדען היו אמפיריים בלבד, שכן הם הושגו באמצעות תצפית ישירה וניסויים."
+            },
+            {
+                "definition": "Relating to the use of experience in place of theory for practical purposes.",
+                "definition_hebrew": "התייחסות לשימוש בניסיון במקום תיאוריה למטרות מעשיות.",
+                "example": "In medicine, a practitioner may rely on empirical methods when treating certain conditions that lack specific scientific explanations.",
+                "example_hebrew": "ברפואה, מטפל עשוי להסתמך על שיטות אמפיריות בטיפול במצבים מסוימים חסרי הסברים מדעיים ספציפיים."
+            },
+            {
+                "definition": "Pertaining to or based on actual experience; as opposed to theoretical considerations.",
+                "definition_hebrew": "בהתייחס לניסיון בפועל או בהתבסס עליו; בניגוד לשיקולים תיאורטיים.",
+                "example": "The engineer made changes to the design of the bridge, guided by an empirical understanding of how materials behave under stress.",
+                "example_hebrew": "המהנדס ביצע שינויים בתכנון הגשר, בהנחיית הבנה אמפירית של האופן שבו חומרים מתנהגים תחת לחץ."
+            }
+        ]
+    }
+]

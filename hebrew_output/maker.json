@@ -1,0 +1,40 @@
+[
+    {
+        "word": "maker",
+        "word_hebrew": "יַצרָן",
+        "main_definition": "A maker is a person or entity that creates, produces, or assembles something.",
+        "main_definition_hebrew": "יוצר הוא אדם או ישות שיוצרים, מייצרים או מרכיבים משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Someone who designs and manufactures objects, especially clothing or accessories.",
+                "definition_hebrew": "מישהו שמעצב ומייצר חפצים, במיוחד ביגוד או אביזרים.",
+                "example": "An example of a fashion designer/maker is Coco Chanel.",
+                "example_hebrew": "דוגמה למעצב/יצרנית אופנה היא קוקו שאנל."
+            },
+            {
+                "definition": "A person involved in creating electronic devices or gadgets.",
+                "definition_hebrew": "אדם המעורב ביצירת מכשירים אלקטרוניים או גאדג'טים.",
+                "example": "Elon Musk as an entrepreneur and maker of electric cars through Tesla.",
+                "example_hebrew": "אילון מאסק כיזם ויצרן מכוניות חשמליות באמצעות טסלה."
+            },
+            {
+                "definition": "A software developer who writes code to create applications or programs.",
+                "definition_hebrew": "מפתח תוכנה שכותב קוד ליצירת יישומים או תוכניות.",
+                "example": "A JavaScript developer is a digital maker responsible for creating interactive web content.",
+                "example_hebrew": "מפתח JavaScript הוא יצרן דיגיטלי האחראי על יצירת תוכן אינטרנט אינטראקטיבי."
+            },
+            {
+                "definition": "An artisan skilled in crafting items using traditional methods, such as pottery, glassblowing, or woodworking.",
+                "definition_hebrew": "אומן מיומן ביצירת פריטים בשיטות מסורתיות, כגון כלי חרס, ניפוח זכוכית או עיבוד עץ.",
+                "example": "A ceramic artist who makes handcrafted bowls and vases is a maker.",
+                "example_hebrew": "אומן קרמיקה שמייצר קערות ואגרטלים בעבודת יד הוא יצרן."
+            },
+            {
+                "definition": "An individual or company engaged in the production of goods through manufacturing processes.",
+                "definition_hebrew": "אדם או חברה העוסקים בייצור סחורות באמצעות תהליכי ייצור.",
+                "example": "The workers at an automobile factory are considered makers, as they assemble vehicles from various parts.",
+                "example_hebrew": "העובדים במפעל רכב נחשבים ליצרנים, שכן הם מרכיבים רכבים מחלקים שונים."
+            }
+        ]
+    }
+]

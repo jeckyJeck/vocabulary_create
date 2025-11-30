@@ -1,0 +1,28 @@
+[
+    {
+        "word": "statute",
+        "word_hebrew": "חוֹק",
+        "main_definition": "A statute is a formal written law enacted by a legislative body.",
+        "main_definition_hebrew": "חוק הוא חוק כתוב רשמי שנחקק על ידי גוף מחוקק.",
+        "meanings_and_examples": [
+            {
+                "definition": "Legal document containing laws or regulations",
+                "definition_hebrew": "מסמך משפטי המכיל חוקים או תקנות",
+                "example": "The Civil Rights Act of 1964, which was passed as a statute to prohibit discrimination based on race, color, religion, sex, or national origin.",
+                "example_hebrew": "חוק זכויות האזרח משנת 1964, אשר התקבל כחוק לאיסור אפליה על בסיס גזע, צבע, דת, מין או מוצא לאומי."
+            },
+            {
+                "definition": "A legislative act that becomes law and is enforced by the government",
+                "definition_hebrew": "מעשה חקיקה שהופך לחוק ונאכף על ידי הממשלה",
+                "example": "The Affordable Care Act, often referred to as Obamacare, was signed into statute in 2010 to reform healthcare.",
+                "example_hebrew": "חוק הטיפול בר השגה, המכונה לעתים קרובות אובמה-קר, נחתם בחוק ב-2010 לרפורמה במערכת הבריאות."
+            },
+            {
+                "definition": "A formal codification of existing law or regulation",
+                "definition_hebrew": "קודיפיקציה פורמלית של החוק או הרגולציה הקיימים",
+                "example": "Many states have a comprehensive set of statutes that include both new laws and the updated versions of older laws.",
+                "example_hebrew": "למדינות רבות יש מערכת מקיפה של חוקים הכוללים גם חוקים חדשים וגם גרסאות מעודכנות של חוקים ישנים יותר."
+            }
+        ]
+    }
+]

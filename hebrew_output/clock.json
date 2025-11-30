@@ -1,0 +1,40 @@
+[
+    {
+        "word": "clock",
+        "word_hebrew": "שָׁעוֹן",
+        "main_definition": "A clock is a device used to measure, keep, or indicate time based on the regular motion of an object.",
+        "main_definition_hebrew": "שעון הוא מכשיר המשמש למדידה, שמירה או ציון זמן בהתבסס על תנועה קבועה של עצם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Timekeeping instrument",
+                "definition_hebrew": "מכשיר שמירת זמן",
+                "example": "I checked the wall clock before leaving for work.",
+                "example_hebrew": "בדקתי את שעון הקיר לפני שיצאתי לעבודה."
+            },
+            {
+                "definition": "Used to indicate a deadline or scheduled time",
+                "definition_hebrew": "משמש לציון מועד אחרון או זמן מתוכנן",
+                "example": "The project needs to be completed by Friday at 5 PM, so we're counting down the hours like a countdown on a timer.",
+                "example_hebrew": "הפרויקט צריך להסתיים עד יום שישי בשעה 17:00, אז אנחנו סופרים את השעות לאחור כמו ספירה לאחור בטיימר."
+            },
+            {
+                "definition": "Symbolizing the passing of time and inevitability of change",
+                "definition_hebrew": "מסמל את הזמן החולף ובלתי נמנע משינוי",
+                "example": "As she watched the clock tick away during her final moments with him, she felt the weight of their memories slipping through her fingers like sand.",
+                "example_hebrew": "כשהיא ראתה את השעון מתקתק ברגעים האחרונים שלה איתו, היא הרגישה את כובד הזיכרונות שלהם חומק בין אצבעותיה כמו חול."
+            },
+            {
+                "definition": "An idiomatic expression meaning that someone is getting close to an important deadline or event",
+                "definition_hebrew": "ביטוי אידיומטי שמשמעותו שמישהו מתקרב למועד או אירוע חשוב",
+                "example": "We're down to the wire and need to finalize our presentation by tomorrow morning!",
+                "example_hebrew": "אנחנו עומדים על הפרק וצריכים לסיים את המצגת שלנו עד מחר בבוקר!"
+            },
+            {
+                "definition": "A metaphor for something that happens or ends quickly, often unexpectedly",
+                "definition_hebrew": "מטאפורה למשהו שקורה או מסתיים במהירות, לעתים קרובות באופן בלתי צפוי",
+                "example": "Their business failed before they realized what was happening; it happened like a bomb going off in their store.",
+                "example_hebrew": "העסק שלהם נכשל לפני שהם הבינו מה קורה; זה קרה כמו פצצה שמתפוצצת בחנות שלהם."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "projector",
+        "word_hebrew": "מַקרֵן",
+        "main_definition": "A device that uses light to display an image onto a surface, often used in presentations or entertainment settings.",
+        "main_definition_hebrew": "מכשיר שמשתמש באור כדי להציג תמונה על משטח, המשמש לעתים קרובות במצגות או בהגדרות בידור.",
+        "meanings_and_examples": [
+            {
+                "definition": "An electronic device for displaying images from storage media such as DVDs or digital files",
+                "definition_hebrew": "מכשיר אלקטרוני להצגת תמונות ממדיה אחסון כגון DVD או קבצים דיגיטליים",
+                "example": "The teacher switched on the projector to show a documentary film.",
+                "example_hebrew": "המורה הדליקה את המקרן כדי להציג סרט תיעודי."
+            },
+            {
+                "definition": "A tool in construction and architecture used to cast large scale models or blueprints",
+                "definition_hebrew": "כלי בבנייה ובאדריכלות המשמש ליציקת דגמים או שרטוטים בקנה מידה גדול",
+                "example": "The architect set up a plaster projection to demonstrate his design of a new building.",
+                "example_hebrew": "האדריכל הקים הקרנת גבס כדי להדגים את עיצובו של בניין חדש."
+            },
+            {
+                "definition": "An image or visual representation produced by projecting it onto a screen, wall, or other surface",
+                "definition_hebrew": "תמונה או ייצוג חזותי המופק על ידי הקרנתם על מסך, קיר או משטח אחר",
+                "example": "During the conference, the speaker used a slideshow on the large screen as part of her presentation.",
+                "example_hebrew": "במהלך הכנס השתמשה הדוברת במצגת על המסך הגדול כחלק מהמצגת שלה."
+            }
+        ]
+    }
+]

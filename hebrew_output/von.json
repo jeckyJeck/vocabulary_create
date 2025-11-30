@@ -1,0 +1,28 @@
+[
+    {
+        "word": "von",
+        "word_hebrew": "פון",
+        "main_definition": "von is a preposition in German, commonly used to indicate possession or the origin of something.",
+        "main_definition_hebrew": "פון היא מילת יחס בגרמנית, המשמשת בדרך כלל לציון החזקה או מקור של משהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Indicates possession (similar to 'of' in English)",
+                "definition_hebrew": "מציין החזקה (בדומה ל'of' באנגלית)",
+                "example": "Das ist das Auto von Herrn Müller.",
+                "example_hebrew": "Das ist das Auto von Herrn Müller."
+            },
+            {
+                "definition": "Describes the origin or source of something",
+                "definition_hebrew": "מתאר את המקור או המקור של משהו",
+                "example": "Die Studenten kommen aus Deutschland und sind hier zu Hause.",
+                "example_hebrew": "Die Studenten kommen aus Deutschland und sind hier zu Hause."
+            },
+            {
+                "definition": "Used in names to indicate belonging, similar to 'van' in English-speaking countries (e.g., Van Dijk)",
+                "definition_hebrew": "משמש בשמות לציון שייכות, בדומה ל'וואן' במדינות דוברות אנגלית (למשל, ואן דייק)",
+                "example": "Carl von Clausewitz ist ein bekannter deutscher Militärstrateg.",
+                "example_hebrew": "קארל פון קלאוזביץ הוא אחד מוכרים דויטשן מיליטרסטרטג."
+            }
+        ]
+    }
+]

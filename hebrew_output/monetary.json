@@ -1,0 +1,40 @@
+[
+    {
+        "word": "monetary",
+        "word_hebrew": "כַּספִּי",
+        "main_definition": "Relating to money or currency in a general sense, including its production, management, circulation, and influence.",
+        "main_definition_hebrew": "התייחסות לכסף או למטבע במובן הכללי, לרבות ייצורו, ניהולו, תפוצתו והשפעתו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Pertaining to the economy's use of monetary tools, such as interest rates and open market operations",
+                "definition_hebrew": "הנוגע לשימוש המשק בכלים מוניטריים, כגון ריביות ופעולות שוק פתוח",
+                "example": "The central bank implemented a new monetary policy by lowering interest rates.",
+                "example_hebrew": "הבנק המרכזי יישם מדיניות מוניטרית חדשה על ידי הורדת הריבית."
+            },
+            {
+                "definition": "Concerned with currency or money in general",
+                "definition_hebrew": "מתעסק במטבע או בכסף באופן כללי",
+                "example": "Monetary units are the standard for measuring value and wealth in modern economies.",
+                "example_hebrew": "יחידות מוניטריות הן הסטנדרט למדידת ערך ועושר בכלכלות מודרניות."
+            },
+            {
+                "definition": "Relating to the physical form of money, such as coins and banknotes",
+                "definition_hebrew": "מתייחס לצורה הפיזית של כסף, כגון מטבעות ושטרות",
+                "example": "The mint produces monetary items like pennies and dollar bills.",
+                "example_hebrew": "המנטה מייצרת פריטים כספיים כמו פרוטות ושטרות דולרים."
+            },
+            {
+                "definition": "Referring to the study or field that deals with the theory and practice of money",
+                "definition_hebrew": "הכוונה ללימוד או לתחום העוסק בתיאוריה ובפרקטיקה של כסף",
+                "example": "He is a renowned expert in monetary history, specializing in ancient coinage systems.",
+                "example_hebrew": "הוא מומחה בעל שם בהיסטוריה מוניטרית, המתמחה במערכות מטבעות עתיקות."
+            },
+            {
+                "definition": "Pertaining to financial matters in general, not limited to currency but including debt, investments, etc.",
+                "definition_hebrew": "הנוגעים לעניינים פיננסיים באופן כללי, לא מוגבל למטבע אלא לרבות חוב, השקעות וכו'.",
+                "example": "The company's finance department handles all monetary issues, from budget planning to expense tracking.",
+                "example_hebrew": "מחלקת הכספים של החברה מטפלת בכל הנושאים הכספיים, מתכנון תקציב ועד מעקב הוצאות."
+            }
+        ]
+    }
+]

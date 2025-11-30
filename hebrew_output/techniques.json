@@ -1,0 +1,40 @@
+[
+    {
+        "word": "techniques",
+        "word_hebrew": "טכניקות",
+        "main_definition": "Techniques refer to the methods, procedures, or processes used to achieve a particular result or solve specific problems in various fields such as art, science, sports, and more.",
+        "main_definition_hebrew": "טכניקות מתייחסות לשיטות, נהלים או תהליכים המשמשים להשגת תוצאה מסוימת או לפתרון בעיות ספציפיות בתחומים שונים כגון אמנות, מדע, ספורט ועוד.",
+        "meanings_and_examples": [
+            {
+                "definition": "In arts and crafts",
+                "definition_hebrew": "באומנויות ואומנות",
+                "example": "A painter uses techniques like blending colors, shading, and brush strokes to create a realistic portrait.",
+                "example_hebrew": "צייר משתמש בטכניקות כמו מיזוג צבעים, הצללה ומשיכות מכחול כדי ליצור דיוקן ריאליסטי."
+            },
+            {
+                "definition": "In sports",
+                "definition_hebrew": "בספורט",
+                "example": "A basketball player employs shooting techniques such as the jump shot or layup to score points during a game.",
+                "example_hebrew": "שחקן כדורסל משתמש בטכניקות ירי כגון זריקת קפיצה או layup כדי לצבור נקודות במהלך משחק."
+            },
+            {
+                "definition": "In science and research",
+                "definition_hebrew": "במדע ובמחקר",
+                "example": "Chemists apply various laboratory techniques like titration, chromatography, and spectroscopy to analyze substances and reactions.",
+                "example_hebrew": "כימאים מיישמים טכניקות מעבדה שונות כמו טיטרציה, כרומטוגרפיה וספקטרוסקופיה כדי לנתח חומרים ותגובות."
+            },
+            {
+                "definition": "In business and management",
+                "definition_hebrew": "בעסקים ובניהול",
+                "example": "A project manager utilizes time-management techniques such as prioritization, delegation, and scheduling to complete a complex project efficiently.",
+                "example_hebrew": "מנהל פרויקט משתמש בטכניקות ניהול זמן כמו תעדוף, האצלה ותזמון כדי להשלים פרויקט מורכב ביעילות."
+            },
+            {
+                "definition": "In computer programming and software development",
+                "definition_hebrew": "בתכנות מחשבים ופיתוח תוכנה",
+                "example": "Programmers use coding techniques like debugging, testing, and refactoring to improve the quality of their code and create functional software applications.",
+                "example_hebrew": "מתכנתים משתמשים בטכניקות קידוד כמו איתור באגים, בדיקות וריפאקטורינג כדי לשפר את איכות הקוד שלהם וליצור יישומי תוכנה פונקציונליים."
+            }
+        ]
+    }
+]

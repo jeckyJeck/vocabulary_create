@@ -1,0 +1,34 @@
+[
+    {
+        "word": "tenant",
+        "word_hebrew": "שׂוֹכֵר",
+        "main_definition": "A tenant is an individual who occupies rented property or land, usually under a legal agreement with the owner (landlord).",
+        "main_definition_hebrew": "שוכר הוא אדם אשר תופס נכס או קרקע שכורה, בדרך כלל במסגרת הסכם משפטי עם הבעלים (המשכיר).",
+        "meanings_and_examples": [
+            {
+                "definition": "Resident of rented premises.",
+                "definition_hebrew": "תושב מקום שכור.",
+                "example": "As a tenant, John pays rent for his apartment every month.",
+                "example_hebrew": "כשוכר, ג'ון משלם דמי שכירות עבור דירתו מדי חודש."
+            },
+            {
+                "definition": "Party in a lease agreement with property owner.",
+                "definition_hebrew": "צד בהסכם שכירות עם בעל הנכס.",
+                "example": "When she signed the lease, Sarah became the tenant of her new home.",
+                "example_hebrew": "כשחתמה על חוזה השכירות, שרה הפכה לדיירת ביתה החדש."
+            },
+            {
+                "definition": "Individual who rents out property or land.",
+                "definition_hebrew": "אדם שמשכיר נכס או קרקע.",
+                "example": "The landlord listed his house for rent to attract potential tenants.",
+                "example_hebrew": "בעל הבית רשם את ביתו להשכרה כדי למשוך שוכרים פוטנציאליים."
+            },
+            {
+                "definition": "A person who holds a lease on real estate, not necessarily involving residential property but could also include commercial spaces.",
+                "definition_hebrew": "אדם המחזיק בחוזה שכירות על מקרקעין, לא בהכרח נכס למגורים אלא יכול לכלול גם שטחי מסחר.",
+                "example": "The entrepreneur signed the lease as a tenant for his new restaurant location.",
+                "example_hebrew": "היזם חתם על חוזה השכירות כשוכר למיקום המסעדה החדש שלו."
+            }
+        ]
+    }
+]

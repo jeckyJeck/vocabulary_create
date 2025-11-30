@@ -1,0 +1,34 @@
+[
+    {
+        "word": "reference",
+        "word_hebrew": "התייחסות",
+        "main_definition": "A reference is a mention, allusion, or citation of something to provide information, context, or validation.",
+        "main_definition_hebrew": "הפניה היא אזכור, רמז או ציטוט של משהו כדי לספק מידע, הקשר או אימות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Citing someone or something as an example or source of authority",
+                "definition_hebrew": "ציטוט של מישהו או משהו כדוגמה או מקור סמכות",
+                "example": "The teacher asked the student to use a reference from a scholarly article for his research paper.",
+                "example_hebrew": "המורה ביקש מהתלמיד להשתמש בהפניה ממאמר אקדמי עבור עבודת המחקר שלו."
+            },
+            {
+                "definition": "A note in text that directs readers to additional information",
+                "definition_hebrew": "הערה בטקסט המפנה את הקוראים למידע נוסף",
+                "example": "In the margin, there was a small 'ref' pointing to an important fact about the subject.",
+                "example_hebrew": "בשוליים, היה 'ר' קטן המצביע על עובדה חשובה בנושא."
+            },
+            {
+                "definition": "An individual mentioned for their expertise or credibility on a specific topic",
+                "definition_hebrew": "אדם שהוזכר בשל מומחיותו או אמינותו בנושא ספציפי",
+                "example": "The speaker used Professor Smith as a reference due to her extensive knowledge in environmental science.",
+                "example_hebrew": "הדוברת השתמשה בפרופסור סמית' כאסמכתא בשל הידע הרב שלה במדעי הסביבה."
+            },
+            {
+                "definition": "A document that verifies identity, academic credentials, employment history, etc.",
+                "definition_hebrew": "מסמך המאמת זהות, אישורים אקדמיים, היסטוריית תעסוקה וכו'.",
+                "example": "She handed him an official reference letter from her previous employer.",
+                "example_hebrew": "היא מסרה לו מכתב התייחסות רשמי מהמעסיק הקודם שלה."
+            }
+        ]
+    }
+]

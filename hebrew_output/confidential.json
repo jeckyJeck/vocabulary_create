@@ -1,0 +1,34 @@
+[
+    {
+        "word": "confidential",
+        "word_hebrew": "סוֹדִי",
+        "main_definition": "Something that is not meant to be disclosed or shared with others.",
+        "main_definition_hebrew": "משהו שלא נועד להיחשף או לחלוק עם אחרים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Relating to a private or secret matter, usually protected by law or agreement.",
+                "definition_hebrew": "הנוגע לעניין פרטי או סודי, בדרך כלל מוגן בחוק או בהסכם.",
+                "example": "The confidential information about the company's financial status was only known to top executives.",
+                "example_hebrew": "המידע החסוי על מצבה הפיננסי של החברה היה ידוע רק למנהלים בכירים."
+            },
+            {
+                "definition": "A type of document or data marked as sensitive and not intended for public release.",
+                "definition_hebrew": "סוג של מסמך או נתונים המסומנים כרגישים ואינם מיועדים לפרסום פומבי.",
+                "example": "He handed me a confidential report that he could not discuss outside of our meeting.",
+                "example_hebrew": "הוא מסר לי דוח סודי שהוא לא יכול היה לדון בו מחוץ לפגישה שלנו."
+            },
+            {
+                "definition": "Relating to communication between individuals where information is meant to be kept secret.",
+                "definition_hebrew": "הנוגע לתקשורת בין אנשים שבהם המידע אמור להישמר בסוד.",
+                "example": "Their conversation was marked as confidential, so they did not disclose it to anyone else.",
+                "example_hebrew": "השיחה שלהם סומנה כסודית, ולכן הם לא חשפו אותה לאף אחד אחר."
+            },
+            {
+                "definition": "A personal matter or detail that someone does not wish others to know about them.",
+                "definition_hebrew": "עניין אישי או פרט שמישהו לא רוצה שאחרים ידעו עליו.",
+                "example": "She confided in her best friend that she had a confidential issue with her family.",
+                "example_hebrew": "היא סיפרה לחברתה הטובה שיש לה בעיה סודית עם משפחתה."
+            }
+        ]
+    }
+]

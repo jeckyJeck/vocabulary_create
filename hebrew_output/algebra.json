@@ -1,0 +1,28 @@
+[
+    {
+        "word": "algebra",
+        "word_hebrew": "אַלגֶבּרָה",
+        "main_definition": "Algebra is a branch of mathematics dealing with symbols (called variables) and the rules for manipulating these symbols in formulas to solve problems, often involving unknown quantities.",
+        "main_definition_hebrew": "אלגברה היא ענף במתמטיקה העוסק בסמלים (הנקראים משתנים) ובכללים למניפולציה של סמלים אלו בנוסחאות כדי לפתור בעיות, שלעתים קרובות מערבות כמויות לא ידועות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A mathematical field",
+                "definition_hebrew": "תחום מתמטי",
+                "example": "Elementary algebra involves solving equations like 2x + 3 = 7.",
+                "example_hebrew": "אלגברה יסודית כוללת פתרון משוואות כמו 2x + 3 = 7."
+            },
+            {
+                "definition": "The process of generalizing arithmetic operations",
+                "definition_hebrew": "תהליך הכללת פעולות אריתמטיות",
+                "example": "In abstract algebra, we study structures such as groups and rings that extend the concepts of addition and multiplication beyond numbers.",
+                "example_hebrew": "באלגברה מופשטת, אנו חוקרים מבנים כמו קבוצות וטבעות המרחיבות את מושגי החיבור והכפל מעבר למספרים."
+            },
+            {
+                "definition": "A metaphor used to describe solving complex problems in everyday life",
+                "definition_hebrew": "מטאפורה המשמשת לתיאור פתרון בעיות מורכבות בחיי היומיום",
+                "example": "The manager told us that figuring out our business strategy was like doing algebra; it required breaking down a big problem into smaller, manageable parts.",
+                "example_hebrew": "המנהל אמר לנו כי להבין את האסטרטגיה העסקית שלנו זה כמו לעשות אלגברה; זה דרש פירוק בעיה גדולה לחלקים קטנים יותר וניתנים לניהול."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "msgid",
+        "word_hebrew": "msgid",
+        "main_definition": "In the context of programming, specifically in internationalization (i18n) libraries or files such as .po/.pot files used for translations, 'msgid' refers to a string that holds a source text which has not yet been translated.",
+        "main_definition_hebrew": "בהקשר של תכנות, במיוחד בספריות בינלאומיות (i18n) או קבצים כגון קבצי .po/.pot המשמשים לתרגומים, 'msgid' מתייחס למחרוזת שמכילה טקסט מקור שטרם תורגם.",
+        "meanings_and_examples": [
+            {
+                "definition": "In programming, a 'msgid' is an identifier or label within a translation file indicating the original, untranslated text",
+                "definition_hebrew": "בתכנות, 'msgid' הוא מזהה או תווית בתוך קובץ תרגום המציין את הטקסט המקורי, הלא מתורגם",
+                "example": "The msgid \"Welcome to our website!\" remains in English until it is replaced with a translated string.",
+                "example_hebrew": "msgstr \"ברוכים הבאים לאתר שלנו!\" נשאר באנגלית עד שיוחלף במחרוזת מתורגמת."
+            },
+            {
+                "definition": "'msgid' can also refer informally or metaphorically to any message or piece of communication that has not yet been given a specific interpretation or context",
+                "definition_hebrew": "'msgid' יכול גם להתייחס באופן לא פורמלי או מטפורי לכל מסר או פיסת תקשורת שעדיין לא קיבלה פרשנות או הקשר ספציפיים",
+                "example": "When the diplomat received the encrypted msgid, he knew it needed further analysis before understanding its content.",
+                "example_hebrew": "כשהדיפלומט קיבל את הודעת ההודעה המוצפנת, הוא ידע שצריך ניתוח נוסף לפני שיבין את תוכנו."
+            },
+            {
+                "definition": "'msgid' is sometimes used colloquially to describe an initial draft or version of something that will later be refined or edited",
+                "definition_hebrew": "'msgid' משמש לעתים בשפה הרווחת כדי לתאר טיוטה או גרסה ראשונית של משהו שיעודן או יערך מאוחר יותר",
+                "example": "The author shared his first draft with a few trusted peers, and they returned it with comments about the msgid elements in need of revision.",
+                "example_hebrew": "המחבר שיתף את הטיוטה הראשונה שלו עם כמה עמיתים מהימנים, והם החזירו אותה עם הערות לגבי רכיבי ה-msgid הזקוקים לתיקון."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "regarding",
+        "word_hebrew": "לגבי",
+        "main_definition": "concerning or relating to a specific subject, matter, or situation",
+        "main_definition_hebrew": "הנוגע או קשור לנושא, עניין או מצב ספציפי",
+        "meanings_and_examples": [
+            {
+                "definition": "used as a preposition indicating that something is related to the topic at hand",
+                "definition_hebrew": "משמש כמילה יחס המציינת שמשהו קשור לנושא הנדון",
+                "example": "Regarding your previous question about climate change, I have some information.",
+                "example_hebrew": "לגבי שאלתך הקודמת על שינויי אקלים, יש לי קצת מידע."
+            },
+            {
+                "definition": "as in 'regarding this matter', referring back to an already mentioned subject or issue",
+                "definition_hebrew": "כמו ב'לגבי עניין זה', בהתייחסות חזרה לנושא או סוגיה שהוזכרו כבר",
+                "example": "Let's discuss the budget cuts regarding our department. We need a plan of action.",
+                "example_hebrew": "בואו נדון בקיצוץ התקציב לגבי המחלקה שלנו. אנחנו צריכים תוכנית פעולה."
+            },
+            {
+                "definition": "used as a preposition meaning 'with respect to' or 'in terms of' when referring to opinions, feelings, or attitudes",
+                "definition_hebrew": "משמש כמילת יחס שמשמעותה 'ביחס ל' או 'במונחים של' כאשר מתייחסים לדעות, רגשות או עמדות",
+                "example": "I am concerned about the new policy and its impact on our employees regarding their work-life balance.",
+                "example_hebrew": "אני מודאג מהמדיניות החדשה ומהשפעתה על העובדים שלנו לגבי האיזון בין העבודה לחיים שלהם."
+            },
+            {
+                "definition": "used as an adverb indicating a focus or attention toward something",
+                "definition_hebrew": "משמש כפתגם המציין מיקוד או תשומת לב למשהו",
+                "example": "The professor asked everyone to pay close regard to the details of the experiment.",
+                "example_hebrew": "הפרופסור ביקש מכולם לשים לב היטב לפרטי הניסוי."
+            }
+        ]
+    }
+]

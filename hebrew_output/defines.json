@@ -1,0 +1,40 @@
+[
+    {
+        "word": "defines",
+        "word_hebrew": "מגדיר",
+        "main_definition": "To explain or describe the nature, scope, or essence of something clearly.",
+        "main_definition_hebrew": "להסביר או לתאר את הטבע, היקפו או המהות של משהו בצורה ברורה.",
+        "meanings_and_examples": [
+            {
+                "definition": "To state explicitly what a word means in other words.",
+                "definition_hebrew": "לציין במפורש מה פירוש מילה במילים אחרות.",
+                "example": "The dictionary defines 'apple' as a round fruit with red or green skin.",
+                "example_hebrew": "המילון מגדיר 'תפוח' כפרי עגול עם קליפה אדומה או ירוקה."
+            },
+            {
+                "definition": "To specify the boundaries, characteristics, and functions of something.",
+                "definition_hebrew": "לציין את הגבולות, המאפיינים והתפקודים של משהו.",
+                "example": "In biology class, we defined the term 'photosynthesis' as the process plants use to convert sunlight into energy.",
+                "example_hebrew": "בשיעורי ביולוגיה, הגדרנו את המונח 'פוטוסינתזה' כתהליך שבו משתמשים צמחים כדי להמיר אור שמש לאנרגיה."
+            },
+            {
+                "definition": "To describe a set of rules or principles that determine what something is or how it operates.",
+                "definition_hebrew": "לתאר מערכת כללים או עקרונות שקובעים מהו משהו או איך הוא פועל.",
+                "example": "The manual defines all the features and functionalities of this software program.",
+                "example_hebrew": "המדריך מגדיר את כל התכונות והפונקציונליות של תוכנה זו."
+            },
+            {
+                "definition": "To give meaning to an abstract concept or term by explaining its significance in a particular context.",
+                "definition_hebrew": "לתת משמעות למושג או מונח מופשט על ידי הסבר על משמעותו בהקשר מסוים.",
+                "example": "His speech defined freedom as not just a political idea, but also as personal liberation from societal constraints.",
+                "example_hebrew": "נאומו הגדיר חופש לא רק רעיון פוליטי, אלא גם כשחרור אישי מאילוצים חברתיים."
+            },
+            {
+                "definition": "To set out the criteria or standards for assessing or judging something.",
+                "definition_hebrew": "לקבוע את הקריטריונים או הסטנדרטים להערכת או לשפוט משהו.",
+                "example": "The professor defined the grading rubric to help students understand how their work would be evaluated.",
+                "example_hebrew": "הפרופסור הגדיר את רובריקת הציונים כדי לעזור לתלמידים להבין כיצד עבודתם תוערך."
+            }
+        ]
+    }
+]

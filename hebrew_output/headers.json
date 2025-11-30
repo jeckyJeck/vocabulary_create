@@ -1,0 +1,28 @@
+[
+    {
+        "word": "headers",
+        "word_hebrew": "כותרות",
+        "main_definition": "In various contexts, headers refer to a leading section or initial part of something, such as text, data, or information.",
+        "main_definition_hebrew": "בהקשרים שונים, כותרות מתייחסות לקטע מוביל או לחלק ראשוני של משהו, כגון טקסט, נתונים או מידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "In sports like soccer and football, headers are a type of move where players use their heads to direct the ball",
+                "definition_hebrew": "בענפי ספורט כמו כדורגל וכדורגל, כותרות הן סוג של מהלך שבו שחקנים משתמשים בראשם כדי לכוון את הכדור",
+                "example": "He scored an amazing goal with a powerful header.",
+                "example_hebrew": "הוא כבש שער מדהים עם ראש חזק."
+            },
+            {
+                "definition": "In computing, headers are preliminary pieces of data in a file or packet that provide metadata about the content",
+                "definition_hebrew": "במחשוב, כותרות הן חלקי נתונים ראשוניים בקובץ או חבילה המספקים מטא נתונים על התוכן",
+                "example": "The email client displays the sender's name and date as part of the headers.",
+                "example_hebrew": "לקוח הדואר האלקטרוני מציג את השם והתאריך של השולח כחלק מהכותרות."
+            },
+            {
+                "definition": "In printing, headers refer to the titles or headings printed at the top of a page in a document",
+                "definition_hebrew": "בהדפסה, כותרות מתייחסות לכותרות או לכותרות המודפסות בראש עמוד במסמך",
+                "example": "The report had a bold header stating 'Financial Summary'.",
+                "example_hebrew": "לדוח הייתה כותרת מודגשת של 'סיכום פיננסי'."
+            }
+        ]
+    }
+]

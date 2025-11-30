@@ -1,0 +1,34 @@
+[
+    {
+        "word": "map",
+        "word_hebrew": "מַפָּה",
+        "main_definition": "A map is a visual representation of an area, typically showing geographical features, political boundaries, cities, roads, and other information relevant to the region.",
+        "main_definition_hebrew": "מפה היא ייצוג חזותי של אזור, המציגה בדרך כלל מאפיינים גיאוגרפיים, גבולות פוליטיים, ערים, כבישים ומידע אחר הרלוונטי לאזור.",
+        "meanings_and_examples": [
+            {
+                "definition": "To understand or grasp something",
+                "definition_hebrew": "להבין או לתפוס משהו",
+                "example": "After studying for hours, I finally managed to map out all the key points of the lecture.",
+                "example_hebrew": "לאחר שלמדתי שעות, סוף סוף הצלחתי למפות את כל נקודות המפתח של ההרצאה."
+            },
+            {
+                "definition": "A chart or plan used to navigate or represent a particular area",
+                "definition_hebrew": "תרשים או תוכנית המשמשים לניווט או ייצוג של אזור מסוים",
+                "example": "She pulled out her map to find the best route through the city.",
+                "example_hebrew": "היא שלפה את המפה שלה כדי למצוא את המסלול הטוב ביותר בעיר."
+            },
+            {
+                "definition": "To arrange or organize in a systematic way",
+                "definition_hebrew": "לארגן או לארגן בצורה שיטתית",
+                "example": "I need to map out my schedule for next week before I start working on any tasks.",
+                "example_hebrew": "אני צריך למפות את לוח הזמנים שלי לשבוע הבא לפני שאתחיל לעבוד על מטלות כלשהן."
+            },
+            {
+                "definition": "A representation of something abstract, such as the structure of data in computer programming",
+                "definition_hebrew": "ייצוג של משהו מופשט, כמו מבנה הנתונים בתכנות מחשב",
+                "example": "In database design, we often create a map to represent how different pieces of information relate to each other.",
+                "example_hebrew": "בעיצוב מסדי נתונים, לעתים קרובות אנו יוצרים מפה כדי לייצג כיצד פיסות מידע שונות קשורות זו לזו."
+            }
+        ]
+    }
+]

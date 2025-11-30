@@ -1,0 +1,34 @@
+[
+    {
+        "word": "farms",
+        "word_hebrew": "חוות",
+        "main_definition": "Farms are agricultural lands where crops or livestock are raised.",
+        "main_definition_hebrew": "חוות הן אדמות חקלאיות בהן מגדלים יבולים או משק חי.",
+        "meanings_and_examples": [
+            {
+                "definition": "The plural form of 'farm', referring to multiple agricultural areas.",
+                "definition_hebrew": "צורת הרבים של 'חווה', המתייחסת למספר אזורים חקלאיים.",
+                "example": "He inherited three farms from his grandfather.",
+                "example_hebrew": "הוא ירש מסבו שלוש חוות."
+            },
+            {
+                "definition": "A place where crops are grown and harvested.",
+                "definition_hebrew": "מקום בו מגדלים וקוטפים יבולים.",
+                "example": "She spent her summer working on a wheat farm in Kansas.",
+                "example_hebrew": "היא בילתה את הקיץ שלה בעבודה בחוות חיטה בקנזס."
+            },
+            {
+                "definition": "An establishment for the domestication and breeding of livestock, such as cows, pigs, and chickens.",
+                "definition_hebrew": "מוסד לביות וגידול בעלי חיים כמו פרות, חזירים ותרנגולות.",
+                "example": "The family's cattle farm is well-known for its high-quality beef products.",
+                "example_hebrew": "חוות הבקר של המשפחה ידועה במוצרי הבקר האיכותיים שלה."
+            },
+            {
+                "definition": "A large or extensive area dedicated to agricultural production, often encompassing several farms.",
+                "definition_hebrew": "שטח גדול או נרחב המוקדש לייצור חקלאי, לרוב מקיף מספר חוות.",
+                "example": "The region was once a vast expanse of open land that included multiple small farms and larger estates.",
+                "example_hebrew": "האזור היה פעם מרחב עצום של אדמה פתוחה שכללה מספר חוות קטנות ואחוזות גדולות יותר."
+            }
+        ]
+    }
+]

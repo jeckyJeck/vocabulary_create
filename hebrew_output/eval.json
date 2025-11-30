@@ -1,0 +1,28 @@
+[
+    {
+        "word": "eval",
+        "word_hebrew": "eval",
+        "main_definition": "The word 'eval' is primarily used as a function in programming languages to evaluate or execute a string of code that has been converted into an executable format.",
+        "main_definition_hebrew": "המילה 'eval' משמשת בעיקר כפונקציה בשפות תכנות כדי להעריך או להפעיל מחרוזת קוד שהומרה לפורמט בר הפעלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computer programming, the term 'eval' refers to a built-in function found in many programming languages like Python and JavaScript. This function is used for evaluating or executing a string as a code statement or expression.",
+                "definition_hebrew": "בתכנות מחשבים, המונח 'eval' מתייחס לפונקציה מובנית שנמצאת בשפות תכנות רבות כמו Python ו-JavaScript. פונקציה זו משמשת להערכה או ביצוע של מחרוזת כמשפט קוד או ביטוי.",
+                "example": "Python Example: `result = eval('2 + 3')` would result in `result` being equal to 5, since it interprets the string `'2 + 3'` as a mathematical operation.",
+                "example_hebrew": "דוגמה לפייתון: `result = eval('2 + 3')` יביא לכך ש-`result` יהיה שווה ל-5, מכיוון שהוא מפרש את המחרוזת `'2 + 3'` כפעולה מתמטית."
+            },
+            {
+                "definition": "'eval' can also refer to an informal term used outside of programming that describes the process of assessing or estimating something based on available information.",
+                "definition_hebrew": "'eval' יכול להתייחס גם למונח לא רשמי המשמש מחוץ לתכנות המתאר את תהליך ההערכה או הערכתו של משהו על סמך מידע זמין.",
+                "example": "A teacher 'evaluating' student essays by reading through them and assigning a grade.",
+                "example_hebrew": "מורה 'מעריך' את חיבורי התלמידים על ידי קריאתם והקצאת ציון."
+            },
+            {
+                "definition": "'eval' in different contexts might also mean to analyze, interpret, or examine something critically.",
+                "definition_hebrew": "\"התחמקות\" בהקשרים שונים עשויה להיות גם לנתח, לפרש או לבחון משהו בצורה ביקורתית.",
+                "example": "An art critic 'evolving' an abstract painting based on its composition, color use, and technique.",
+                "example_hebrew": "מבקר אמנות 'מפתח' ציור מופשט המבוסס על הקומפוזיציה, השימוש בצבע והטכניקה שלו."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "retrieve",
+        "word_hebrew": "להחזיר",
+        "main_definition": "To regain or recover something that was lost, misplaced, or removed.",
+        "main_definition_hebrew": "כדי להחזיר או לשחזר משהו שאבד, לא במקום או הוסר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To bring back into one's possession after searching for it.",
+                "definition_hebrew": "להחזיר לרשותו של האדם לאחר שחיפש אותו.",
+                "example": "After losing his keys in the park, he spent hours retrieving them from under a bush.",
+                "example_hebrew": "לאחר שאיבד את המפתחות שלו בפארק, הוא בילה שעות בשליפתם מתחת לשיח."
+            },
+            {
+                "definition": "To recover data or files that have been stored on a device or server.",
+                "definition_hebrew": "לשחזור נתונים או קבצים שנשמרו במכשיר או בשרת.",
+                "example": "The IT technician was able to retrieve her deleted emails after restoring her computer's hard drive.",
+                "example_hebrew": "טכנאי ה-IT הצליח לאחזר את הודעות האימייל שנמחקו ממנה לאחר שחזור הכונן הקשיח של המחשב שלה."
+            },
+            {
+                "definition": "To get something back from someone, usually as payment or compensation for an action.",
+                "definition_hebrew": "לקבל משהו בחזרה ממישהו, בדרך כלל כתשלום או פיצוי על פעולה.",
+                "example": "He retrieves the money he owed me by returning the borrowed laptop.",
+                "example_hebrew": "הוא מחזיר את הכסף שהיה חייב לי על ידי החזרת המחשב הנייד המושאל."
+            },
+            {
+                "definition": "In a military context, to recover and return enemy equipment after a battle.",
+                "definition_hebrew": "בהקשר צבאי, לשחזר ולהחזיר ציוד אויב לאחר קרב.",
+                "example": "The soldiers were tasked with retrieving enemy flags captured in the last skirmish.",
+                "example_hebrew": "על החיילים הוטל לחלץ את דגלי האויב שנלכדו בהתכתשות האחרונה."
+            },
+            {
+                "definition": "To obtain something that was previously owned or had been given away but then requested again.",
+                "definition_hebrew": "להשיג משהו שהיה בבעלותו או שמסרו אותו אבל אז התבקש שוב.",
+                "example": "She retrieved her old bike from the storage unit when it broke down and she needed a replacement.",
+                "example_hebrew": "היא שלפה את האופניים הישנים שלה מיחידת האחסון כשהם התקלקלו והיא נזקקה להחלפה."
+            }
+        ]
+    }
+]

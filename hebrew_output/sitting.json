@@ -1,0 +1,40 @@
+[
+    {
+        "word": "sitting",
+        "word_hebrew": "יְשִׁיבָה",
+        "main_definition": "Sitting refers to the act of being seated or resting in a position where one's weight is supported by their buttocks, rather than standing upright.",
+        "main_definition_hebrew": "ישיבה מתייחסת לפעולה של ישיבה או מנוחה במצב שבו משקלו של האדם נתמך על ידי ישבנו, במקום לעמוד זקוף.",
+        "meanings_and_examples": [
+            {
+                "definition": "Physical state",
+                "definition_hebrew": "מצב פיזי",
+                "example": "After finishing her meal, she sat down to relax.",
+                "example_hebrew": "לאחר שסיימה את הארוחה, היא התיישבה להירגע."
+            },
+            {
+                "definition": "Participating in an activity while seated",
+                "definition_hebrew": "השתתפות בפעילות בישיבה",
+                "example": "The students were sitting through the lecture on ancient history.",
+                "example_hebrew": "התלמידים ישבו במהלך ההרצאה על היסטוריה עתיקה."
+            },
+            {
+                "definition": "Expressing a state of contentment or satisfaction",
+                "definition_hebrew": "הבעת מצב של שביעות רצון או סיפוק",
+                "example": "I'm just sitting here, enjoying my coffee and reading the newspaper.",
+                "example_hebrew": "אני רק יושב כאן, נהנה מהקפה שלי וקורא עיתון."
+            },
+            {
+                "definition": "A period during which someone remains in one place",
+                "definition_hebrew": "תקופה שבה מישהו נשאר במקום אחד",
+                "example": "The couple spent an hour sitting on their front porch watching the sunset.",
+                "example_hebrew": "בני הזוג בילו שעה בישיבה במרפסת הקדמית שלהם וצפו בשקיעה."
+            },
+            {
+                "definition": "Sitting as a metap cvhort for a state of being idle or not doing anything productive",
+                "definition_hebrew": "יושבים כמטאפים למצב של התבטלות או לא לעשות שום דבר פרודוקטיבי",
+                "example": "He's been sitting around all day, just playing video games and not working on his assignments.",
+                "example_hebrew": "הוא יושב כל היום, רק משחק במשחקי וידאו ולא עובד על המשימות שלו."
+            }
+        ]
+    }
+]

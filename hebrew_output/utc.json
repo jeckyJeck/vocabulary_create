@@ -1,0 +1,28 @@
+[
+    {
+        "word": "utc",
+        "word_hebrew": "utc",
+        "main_definition": "Coordinated Universal Time (UTC) is the primary time standard by which the world regulates clocks.",
+        "main_definition_hebrew": "זמן אוניברסלי מתואם (UTC) הוא תקן הזמן העיקרי שלפיו העולם מווסת שעונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A global timescale, used to regulate clocks around the world",
+                "definition_hebrew": "סולם זמן עולמי, המשמש לוויסות שעונים ברחבי העולם",
+                "example": "The flight from New York departing at 10:30 UTC will arrive in London at approximately 2:30 AM local time.",
+                "example_hebrew": "הטיסה מניו יורק היוצאת בשעה 10:30 UTC תגיע ללונדון בערך בשעה 2:30 לפנות בוקר שעון מקומי."
+            },
+            {
+                "definition": "An abbreviation for Coordinated Universal Time, a standardized time scale used globally",
+                "definition_hebrew": "קיצור של Coordinated Universal Time, סולם זמן סטנדרטי בשימוש גלובלי",
+                "example": "The flight's departure was scheduled for 15:45 UTC according to the airline's timetable.",
+                "example_hebrew": "יציאת הטיסה הייתה מתוכננת לשעה 15:45 UTC לפי לוח הזמנים של חברת התעופה."
+            },
+            {
+                "definition": "A reference time that is not affected by daylight saving changes, providing a consistent global standard",
+                "definition_hebrew": "זמן התייחסות שאינו מושפע משינויים בשעון הקיץ, המספק תקן גלובלי עקבי",
+                "example": "To avoid confusion with local time zones and daylight savings adjustments, many computer systems use UTC as the default timezone.",
+                "example_hebrew": "כדי למנוע בלבול עם אזורי זמן מקומיים והתאמת שעון קיץ, מערכות מחשב רבות משתמשות ב-UTC כאזור הזמן המוגדר כברירת מחדל."
+            }
+        ]
+    }
+]

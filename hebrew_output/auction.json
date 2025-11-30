@@ -1,0 +1,40 @@
+[
+    {
+        "word": "auction",
+        "word_hebrew": "מכירה פומבית",
+        "main_definition": "An auction is a public sale in which goods or property are sold to the highest bidder.",
+        "main_definition_hebrew": "מכירה פומבית היא מכירה פומבית שבה נמכרים סחורה או נכס להצעה הגבוהה ביותר.",
+        "meanings_and_examples": [
+            {
+                "definition": "A method of selling items by inviting people to make bids, with the item going to the highest bidder at the conclusion of the auction.",
+                "definition_hebrew": "שיטה למכירת פריטים על ידי הזמנת אנשים להציע הצעות, כאשר הפריט מגיע להצעה הגבוהה ביותר בסיום המכירה הפומבית.",
+                "example": "The antique painting was sold at an auction for $1 million.",
+                "example_hebrew": "הציור העתיק נמכר במכירה פומבית תמורת מיליון דולר."
+            },
+            {
+                "definition": "A type of competition where individuals or groups offer increasingly higher bids to win a prize.",
+                "definition_hebrew": "סוג של תחרות שבה יחידים או קבוצות מציעים הצעות גבוהות יותר ויותר כדי לזכות בפרס.",
+                "example": "During the charity auction, several people bid against each other for rare collectible coins as they wanted to support the cause.",
+                "example_hebrew": "במהלך מכירת הצדקה, כמה אנשים התמודדו זה מול זה על מטבעות אספנות נדירים מכיוון שהם רצו לתמוך במטרה."
+            },
+            {
+                "definition": "A legal process involving the sale of property or assets through an open public bidding",
+                "definition_hebrew": "הליך משפטי הכולל מכירת נכס או נכסים באמצעות התמחרות ציבורית פתוחה",
+                "example": "The bank held a foreclosure auction and sold the house at a price significantly lower than its market value due to unpaid mortgage.",
+                "example_hebrew": "הבנק ערך מכרז עיקול ומכר את הבית במחיר נמוך משמעותית משווי השוק שלו בשל משכנתא שלא שולמה."
+            },
+            {
+                "definition": "An event where items are offered for sale, typically with a starting bid set by an organizer or seller.",
+                "definition_hebrew": "אירוע שבו פריטים מוצעים למכירה, בדרך כלל עם הצעה התחלתית שנקבעה על ידי מארגן או מוכר.",
+                "example": "The art gallery hosted an auction of local artists' works and started the bidding at $100 per piece.",
+                "example_hebrew": "הגלריה לאמנות ערכה מכירה פומבית של יצירות של אמנים מקומיים והחלה את ההצעה ב-$100 ליצירה."
+            },
+            {
+                "definition": "A business model where goods are sold based on demand, with prices fluctuating according to customer interest.",
+                "definition_hebrew": "מודל עסקי שבו סחורות נמכרות על בסיס ביקוש, כאשר המחירים משתנים בהתאם לעניין הלקוחות.",
+                "example": "The online retailer uses a dynamic auction pricing strategy for their electronics section, allowing customers to bid for items at various price points.",
+                "example_hebrew": "הקמעונאי המקוון משתמש באסטרטגיית תמחור במכירה פומבית דינמית עבור מדור האלקטרוניקה שלו, המאפשר ללקוחות להציע הצעות מחיר עבור פריטים בנקודות מחיר שונות."
+            }
+        ]
+    }
+]

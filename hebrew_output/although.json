@@ -1,0 +1,28 @@
+[
+    {
+        "word": "although",
+        "word_hebrew": "למרות ש",
+        "main_definition": "Although is a conjunction used to introduce a subordinate clause that expresses an idea contrasting with the main idea of the sentence.",
+        "main_definition_hebrew": "אמנם הוא צירוף המשמש להצגת פסקת משנה המבטאת רעיון המנוגד לרעיון הראשי של המשפט.",
+        "meanings_and_examples": [
+            {
+                "definition": "To indicate a contradiction or exception despite something being true",
+                "definition_hebrew": "להצביע על סתירה או חריג למרות שמשהו נכון",
+                "example": "Although it was raining, we decided to go for a walk.",
+                "example_hebrew": "למרות שירד גשם, החלטנו לצאת לטייל."
+            },
+            {
+                "definition": "Used to introduce a statement that contrasts with or seems surprising in light of the preceding statement",
+                "definition_hebrew": "משמש להצגת אמירה המנוגדת או נראית מפתיעה לאור ההצהרה הקודמת",
+                "example": "She is very studious; although she doesn't get good grades.",
+                "example_hebrew": "היא מאוד קפדנית; למרות שהיא לא מקבלת ציונים טובים."
+            },
+            {
+                "definition": "To concede that something exists despite it possibly affecting an argument or situation negatively",
+                "definition_hebrew": "להודות שמשהו קיים למרות שהוא עשוי להשפיע לרעה על טיעון או מצב",
+                "example": "Although he didn't have any experience, he applied for the job anyway.",
+                "example_hebrew": "למרות שלא היה לו כל ניסיון, הוא הגיש מועמדות למשרה בכל זאת."
+            }
+        ]
+    }
+]

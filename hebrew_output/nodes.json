@@ -1,0 +1,28 @@
+[
+    {
+        "word": "nodes",
+        "word_hebrew": "צמתים",
+        "main_definition": "In the context of various fields such as computing, biology, and networking, 'nodes' refers to specific points or locations within a network where data is processed, stored, or transmitted.",
+        "main_definition_hebrew": "בהקשר של תחומים שונים כמו מחשוב, ביולוגיה ורשתות, 'צמתים' מתייחסים לנקודות או מיקומים ספציפיים בתוך רשת שבהם הנתונים מעובדים, מאוחסנים או מועברים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Computing - Interconnected devices in a computer network",
+                "definition_hebrew": "מחשוב - מכשירים מחוברים ברשת מחשבים",
+                "example": "In a peer-to-peer (P2P) file sharing network, each computer acts as a node to share files with others.",
+                "example_hebrew": "ברשת שיתוף קבצים עמית לעמית (P2P), כל מחשב פועל כצומת לשיתוף קבצים עם אחרים."
+            },
+            {
+                "definition": "Biology - Points of intersection in a plant's vascular system",
+                "definition_hebrew": "ביולוגיה - נקודות חיתוך במערכת כלי הדם של הצמח",
+                "example": "'Nodes' are the points where leaves or branches join the stem in plants, also known as 'internodal regions'.",
+                "example_hebrew": "'צמתים' הם הנקודות שבהן עלים או ענפים מצטרפים לגבעול בצמחים, הידועים גם בשם 'אזורים פנימיים'."
+            },
+            {
+                "definition": "Networking - Points within a network that exchange data",
+                "definition_hebrew": "רשת - נקודות בתוך רשת המחליפות נתונים",
+                "example": "'Routers and switches serve as nodes in networking, directing traffic between different parts of a computer or telecommunication network.",
+                "example_hebrew": "\"נתבים ומתגים משמשים כצמתים ברשת, ומכוונים תעבורה בין חלקים שונים של מחשב או רשת תקשורת."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "hack",
+        "word_hebrew": "גַרזֶן",
+        "main_definition": "To gain unauthorized access to computer systems or information, often used metaphorically to describe clever problem-solving.",
+        "main_definition_hebrew": "כדי לקבל גישה בלתי מורשית למערכות מחשב או מידע, משמש לעתים קרובות באופן מטפורי כדי לתאר פתרון בעיות חכם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Unauthorized intrusion into a computer system",
+                "definition_hebrew": "חדירה בלתי מורשית למערכת מחשוב",
+                "example": "The hacker managed to breach the company's firewall and access confidential data.",
+                "example_hebrew": "ההאקר הצליח לפרוץ את חומת האש של החברה ולגשת לנתונים חסויים."
+            },
+            {
+                "definition": "To cut or break something quickly, often in an irregular manner",
+                "definition_hebrew": "לחתוך או לשבור משהו במהירות, לעתים קרובות בצורה לא סדירה",
+                "example": "He used a kitchen knife to hack through the ice blocking his driveway.",
+                "example_hebrew": "הוא השתמש בסכין מטבח כדי לפרוץ דרך הקרח שחסם את שביל הכניסה שלו."
+            },
+            {
+                "definition": "A quick and clever way of solving a problem or completing a task",
+                "definition_hebrew": "דרך מהירה וחכמה לפתרון בעיה או השלמת משימה",
+                "example": "She found a hack to memorize her lines for the play more efficiently.",
+                "example_hebrew": "היא מצאה פריצה לשנן את השורות שלה למחזה בצורה יעילה יותר."
+            }
+        ]
+    }
+]

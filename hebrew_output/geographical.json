@@ -1,0 +1,28 @@
+[
+    {
+        "word": "geographical",
+        "word_hebrew": "גיאוגרפית",
+        "main_definition": "Relating to the physical features, climate, inhabitants, and phenomena of Earth's surface.",
+        "main_definition_hebrew": "מתייחס לתכונות הפיזיקליות, האקלים, התושבים והתופעות של פני כדור הארץ.",
+        "meanings_and_examples": [
+            {
+                "definition": "Pertaining to geography or the study of the Earth's lands, features, inhabitants, and phenomena",
+                "definition_hebrew": "בקשר לגיאוגרפיה או לחקר ארצות, תכונותיו, תושביו ותופעות כדור הארץ",
+                "example": "The professor specializes in geographical studies.",
+                "example_hebrew": "הפרופסור מתמחה בלימודים גיאוגרפיים."
+            },
+            {
+                "definition": "Relating to a specific location on Earth",
+                "definition_hebrew": "מתייחס למיקום מסוים על פני כדור הארץ",
+                "example": "This region has unique geographical characteristics that influence its climate.",
+                "example_hebrew": "לאזור זה מאפיינים גיאוגרפיים ייחודיים המשפיעים על האקלים שלו."
+            },
+            {
+                "definition": "Concerning the spatial distribution and arrangement of various features in an area",
+                "definition_hebrew": "באשר לפיזור וסידור המרחבי של מאפיינים שונים באזור",
+                "example": "The research paper analyzes the geographical pattern of urban development.",
+                "example_hebrew": "עבודת המחקר מנתחת את הדפוס הגיאוגרפי של הפיתוח העירוני."
+            }
+        ]
+    }
+]

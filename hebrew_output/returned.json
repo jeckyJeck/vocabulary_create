@@ -1,0 +1,34 @@
+[
+    {
+        "word": "returned",
+        "word_hebrew": "חזר",
+        "main_definition": "to go or come back to a place, person, or state of being after leaving it.",
+        "main_definition_hebrew": "ללכת או לחזור למקום, לאדם או למצב הוויה לאחר שעזב אותו.",
+        "meanings_and_examples": [
+            {
+                "definition": "To give something back that was borrowed or taken.",
+                "definition_hebrew": "להחזיר משהו שהושאל או נלקח.",
+                "example": "She returned the book to the library.",
+                "example_hebrew": "היא החזירה את הספר לספרייה."
+            },
+            {
+                "definition": "To go back to a previous location, state, or position after being away from it.",
+                "definition_hebrew": "כדי לחזור למיקום, מצב או מיקום קודמים לאחר שהיית רחוק ממנו.",
+                "example": "After his vacation in Europe, he returned home on Friday afternoon.",
+                "example_hebrew": "לאחר חופשתו באירופה חזר הביתה ביום שישי אחר הצהריים."
+            },
+            {
+                "definition": "In computing and technology, when data is sent back by the recipient to the sender.",
+                "definition_hebrew": "בתחום המחשוב והטכנולוגיה, כאשר הנתונים נשלחים בחזרה על ידי הנמען לשולח.",
+                "example": "The server received all of the user's files but did not return any errors or notifications.",
+                "example_hebrew": "השרת קיבל את כל הקבצים של המשתמש אך לא החזיר שגיאות או התראות."
+            },
+            {
+                "definition": "To come back into possession of something that was lost or stolen.",
+                "definition_hebrew": "לחזור ולהחזיק משהו שאבד או נגנב.",
+                "example": "The police were able to return my wallet after I reported it missing.",
+                "example_hebrew": "המשטרה הצליחה להחזיר את הארנק שלי לאחר שדיווחתי עליו כנעדר."
+            }
+        ]
+    }
+]

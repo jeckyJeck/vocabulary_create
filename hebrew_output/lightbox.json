@@ -1,0 +1,34 @@
+[
+    {
+        "word": "lightbox",
+        "word_hebrew": "קופסה קלה",
+        "main_definition": "A lightbox is a device used to illuminate objects, often in photography or art display settings.",
+        "main_definition_hebrew": "תיבת אור היא מכשיר המשמש להארת אובייקטים, לעתים קרובות בהגדרות צילום או תצוגת אמנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Photography equipment",
+                "definition_hebrew": "ציוד צילום",
+                "example": "The photographer set up the lightbox to evenly illuminate his subject for portrait photography.",
+                "example_hebrew": "הצלם הקים את ה-lightbox כדי להאיר באופן שווה את הנושא שלו לצילום פורטרט."
+            },
+            {
+                "definition": "A container with a transparent front",
+                "definition_hebrew": "מיכל עם חזית שקופה",
+                "example": "She placed her artwork in the clear plastic lightbox so that it could be displayed and viewed from all angles.",
+                "example_hebrew": "היא הניחה את יצירות האמנות שלה בארגז האור הפלסטיק השקוף, כך שניתן יהיה להציג אותה ולראות אותה מכל הזוויות."
+            },
+            {
+                "definition": "A software or web application feature",
+                "definition_hebrew": "תכונת תוכנה או יישום אינטרנט",
+                "example": "The online course platform provides interactive lessons using a built-in lightbox to highlight text, images, or videos for better viewing.",
+                "example_hebrew": "פלטפורמת הקורסים המקוונת מספקת שיעורים אינטראקטיביים באמצעות תיבת אור מובנית כדי להדגיש טקסט, תמונות או סרטונים לצפייה טובה יותר."
+            },
+            {
+                "definition": "An alternative name for an illuminated document holder",
+                "definition_hebrew": "שם חלופי למחזיק מסמכים מואר",
+                "example": "He used the lightbox as an overhead projector to display his presentation slides on a screen.",
+                "example_hebrew": "הוא השתמש ב-lightbox כמקרן עילי כדי להציג את שקופיות המצגת שלו על מסך."
+            }
+        ]
+    }
+]

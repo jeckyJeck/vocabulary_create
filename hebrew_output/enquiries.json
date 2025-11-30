@@ -1,0 +1,34 @@
+[
+    {
+        "word": "enquiries",
+        "word_hebrew": "פניות",
+        "main_definition": "Enquiries refer to requests or questions seeking information, often in a professional context.",
+        "main_definition_hebrew": "פניות מתייחסות לבקשות או שאלות המבקשות מידע, לרוב בהקשר מקצועי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Queries for information or details about something",
+                "definition_hebrew": "שאילתות למידע או פרטים על משהו",
+                "example": "The customer made several enquiries regarding the product's features and pricing.",
+                "example_hebrew": "הלקוח ערך מספר בירורים לגבי תכונות המוצר והתמחור."
+            },
+            {
+                "definition": "Investigative actions in a professional context, such as by journalists or detectives",
+                "definition_hebrew": "פעולות חקירה בהקשר מקצועי, כגון של עיתונאים או בלשים",
+                "example": "The police conducted enquiries into the unexplained disappearance of the woman.",
+                "example_hebrew": "המשטרה ערכה חקירה לגבי היעלמותה הבלתי מוסברת של האישה."
+            },
+            {
+                "definition": "A list of questions that need to be addressed during meetings or discussions",
+                "definition_hebrew": "רשימת שאלות שיש להתייחס אליהן במהלך פגישות או דיונים",
+                "example": "At the beginning of every team meeting, we compile a list of key enquiries for the agenda.",
+                "example_hebrew": "בתחילת כל ישיבת צוות, אנו מרכיבים רשימה של פניות מרכזיות לסדר היום."
+            },
+            {
+                "definition": "Requests made by individuals seeking clarification on various matters",
+                "definition_hebrew": "בקשות של אנשים המבקשים הבהרות בנושאים שונים",
+                "example": "The support center received numerous enquiries about software installation issues.",
+                "example_hebrew": "מרכז התמיכה קיבל פניות רבות לגבי בעיות התקנת תוכנה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "transit",
+        "word_hebrew": "מַעֲבָר",
+        "main_definition": "Transit refers to the act of passing through, traveling from one place or point to another, typically by a vehicle such as a bus, train, or aircraft.",
+        "main_definition_hebrew": "מעבר מתייחס לפעולת המעבר, נסיעה ממקום אחד או נקודה לאחרת, בדרך כלל באמצעות רכב כגון אוטובוס, רכבת או מטוס.",
+        "meanings_and_examples": [
+            {
+                "definition": "The movement of vehicles across borders",
+                "definition_hebrew": "תנועת כלי רכב מעבר לגבולות",
+                "example": "Many countries have strict transit rules for cars crossing their international boundaries.",
+                "example_hebrew": "למדינות רבות יש כללי מעבר נוקשים למכוניות שחוצות את הגבולות הבינלאומיים שלהן."
+            },
+            {
+                "definition": "The period during which a vehicle passes through a particular area or region",
+                "definition_hebrew": "התקופה שבה רכב עובר באזור או אזור מסוים",
+                "example": "The train's transit time from City A to City B is approximately 2 hours.",
+                "example_hebrew": "זמן המעבר של הרכבת מעיר א' לעיר ב' הוא כשעתיים."
+            },
+            {
+                "definition": "A planned and scheduled passage of vehicles, especially in public transportation systems",
+                "definition_hebrew": "מעבר מתוכנן ומתוכנן של כלי רכב, במיוחד במערכות תחבורה ציבורית",
+                "example": "Bus Line 5 has a regular daily transit schedule that operates every hour on the hour.",
+                "example_hebrew": "לאוטובוס קו 5 יש לוח תחבורה יומי קבוע הפועל כל שעה בשעה."
+            },
+            {
+                "definition": "The act of traveling from one place to another temporarily or for specific purposes",
+                "definition_hebrew": "פעולת הנסיעה ממקום למקום באופן זמני או למטרות ספציפיות",
+                "example": "During his business trip, he had several important meetings along with multiple airport transits.",
+                "example_hebrew": "במהלך נסיעת העסקים שלו, היו לו מספר פגישות חשובות יחד עם מספר מעברים לנמל התעופה."
+            }
+        ]
+    }
+]

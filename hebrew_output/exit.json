@@ -1,0 +1,34 @@
+[
+    {
+        "word": "exit",
+        "word_hebrew": "יְצִיאָה",
+        "main_definition": "An exit is a way or passage through which one can leave a place, such as a building, road, or system.",
+        "main_definition_hebrew": "יציאה היא דרך או מעבר שדרכו ניתן לעזוב מקום, כמו בניין, כביש או מערכת.",
+        "meanings_and_examples": [
+            {
+                "definition": "A door, gate, or opening that allows for leaving a premises like buildings or rooms",
+                "definition_hebrew": "דלת, שער או פתח המאפשרים יציאה מחצרים כמו בניינים או חדרים",
+                "example": "The fire exit is marked by red signs in case of emergencies.",
+                "example_hebrew": "יציאת האש מסומנת בשלטים אדומים למקרי חירום."
+            },
+            {
+                "definition": "An option to leave an activity or situation",
+                "definition_hebrew": "אפשרות לצאת מפעילות או מצב",
+                "example": "I decided it was time to exit the meeting and catch up on emails.",
+                "example_hebrew": "החלטתי שהגיע הזמן לצאת מהפגישה ולהתעדכן במיילים."
+            },
+            {
+                "definition": "A point where a system, process, or pathway ends; also used in computing to refer to a command for terminating operation of software",
+                "definition_hebrew": "נקודה שבה מסתיימים מערכת, תהליך או מסלול; משמש גם במחשוב כדי להתייחס לפקודה לסיום פעולת התוכנה",
+                "example": "After installing the new program, I clicked 'exit' to close it before restarting my computer.",
+                "example_hebrew": "לאחר התקנת התוכנית החדשה, לחצתי על 'יציאה' כדי לסגור אותה לפני הפעלת המחשב מחדש."
+            },
+            {
+                "definition": "A method or route to exit from traffic on a road or highway",
+                "definition_hebrew": "שיטה או מסלול ליציאה מתנועה בכביש או בכביש מהיר",
+                "example": "He took the next exit to avoid heavy congestion and find an alternate route home.",
+                "example_hebrew": "הוא לקח את היציאה הבאה כדי למנוע עומס כבד ולמצוא מסלול חלופי הביתה."
+            }
+        ]
+    }
+]

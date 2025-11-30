@@ -1,0 +1,28 @@
+[
+    {
+        "word": "slave",
+        "word_hebrew": "עֶבֶד",
+        "main_definition": "A person who is owned by another and is forced to work without pay, typically under harsh conditions.",
+        "main_definition_hebrew": "אדם שנמצא בבעלות אחר ונאלץ לעבוד ללא שכר, בדרך כלל בתנאים קשים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Historical term referring to a person held in servitude or bondage.",
+                "definition_hebrew": "מונח היסטורי המתייחס לאדם המוחזק בעבדות או שעבוד.",
+                "example": "During the 18th century, many African slaves were forcibly brought to America and used as labor.",
+                "example_hebrew": "במהלך המאה ה-18, עבדים אפריקאים רבים הובאו בכוח לאמריקה ושימשו כעבודה."
+            },
+            {
+                "definition": "In computing, an element that can be reused within different parts of a software application.",
+                "definition_hebrew": "במחשוב, אלמנט שניתן לעשות בו שימוש חוזר בתוך חלקים שונים של יישום תוכנה.",
+                "example": "The 'loading' function in the code is designed as a 'slave' component so it can be called multiple times without creating new instances.",
+                "example_hebrew": "הפונקציה 'טעינה' בקוד מתוכננת כרכיב 'עבד' כך שניתן לקרוא לה מספר פעמים מבלי ליצור מופעים חדשים."
+            },
+            {
+                "definition": "A part or component that functions under the control of another, larger system.",
+                "definition_hebrew": "חלק או רכיב שמתפקד תחת שליטה של מערכת אחרת וגדולה יותר.",
+                "example": "In automotive systems, various sensors act as slaves to different master components like the engine control unit (ECU).",
+                "example_hebrew": "במערכות רכב, חיישנים שונים פועלים כעבדים לרכיבי מאסטר שונים כמו יחידת בקרת המנוע (ECU)."
+            }
+        ]
+    }
+]

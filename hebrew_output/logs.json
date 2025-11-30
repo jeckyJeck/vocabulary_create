@@ -1,0 +1,40 @@
+[
+    {
+        "word": "logs",
+        "word_hebrew": "יומנים",
+        "main_definition": "Logs refer to the records of events or actions, usually in a chronological order.",
+        "main_definition_hebrew": "יומנים מתייחסים לרישומים של אירועים או פעולות, בדרך כלל בסדר כרונולוגי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Wooden logs used for fuel or construction purposes",
+                "definition_hebrew": "בולי עץ המשמשים לצורכי דלק או בנייה",
+                "example": "The cabin was heated by burning logs.",
+                "example_hebrew": "התא חומם על ידי בולי עץ בוערים."
+            },
+            {
+                "definition": "Data records of computer activity",
+                "definition_hebrew": "רישומי נתונים של פעילות מחשב",
+                "example": "The IT department analyzed the server's log to determine the source of a security breach.",
+                "example_hebrew": "מחלקת ה-IT ניתחה את יומן השרת כדי לקבוע את המקור לפרצת אבטחה."
+            },
+            {
+                "definition": "A list or series of written entries, especially in relation to events",
+                "definition_hebrew": "רשימה או סדרה של ערכים כתובים, במיוחד ביחס לאירועים",
+                "example": "The captain kept a detailed log of all their ship's voyages.",
+                "example_hebrew": "הקפטן ניהל יומן מפורט של כל מסעות הספינה שלהם."
+            },
+            {
+                "definition": "A record of something that has happened",
+                "definition_hebrew": "תיעוד של משהו שקרה",
+                "example": "She maintained a personal journal as her logs for daily experiences and reflections.",
+                "example_hebrew": "היא ניהלה יומן אישי בתור היומנים שלה לחוויות והרהורים יומיומיים."
+            },
+            {
+                "definition": "The output from a program or system showing all actions performed by it",
+                "definition_hebrew": "הפלט מתוכנית או מערכת המציגה את כל הפעולות שבוצעו על ידה",
+                "example": "I reviewed the application's logs to understand why it crashed yesterday.",
+                "example_hebrew": "סקרתי את היומנים של האפליקציה כדי להבין מדוע היא קרסה אתמול."
+            }
+        ]
+    }
+]

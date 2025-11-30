@@ -1,0 +1,40 @@
+[
+    {
+        "word": "commander",
+        "word_hebrew": "מְפַקֵד",
+        "main_definition": "A commander is a person who has authority over a group, organization, or military unit, often responsible for making decisions and leading the members.",
+        "main_definition_hebrew": "מפקד הוא אדם שיש לו סמכות על קבוצה, ארגון או יחידה צבאית, לרוב אחראי על קבלת החלטות והובלת החברים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Military leader in command of an army or navy",
+                "definition_hebrew": "מנהיג צבאי בפיקוד על צבא או צי",
+                "example": "The general served as the commander of the 10th Army.",
+                "example_hebrew": "הגנרל שימש כמפקד הארמייה ה-10."
+            },
+            {
+                "definition": "A person who holds a position of authority, such as the head of a school board or government agency",
+                "definition_hebrew": "אדם בעל תפקיד סמכותי, כגון ראש מועצת בית ספר או סוכנות ממשלתית",
+                "example": "She is the president and therefore the de facto commander of the organization.",
+                "example_hebrew": "היא הנשיאה ולכן המפקדת בפועל של הארגון."
+            },
+            {
+                "definition": "The captain of a ship",
+                "definition_hebrew": "הקפטן של ספינה",
+                "example": "As the commander of this vessel, he ensures everyone's safety at sea.",
+                "example_hebrew": "כמפקד כלי השיט הזה, הוא מבטיח את שלומם של כולם בים."
+            },
+            {
+                "definition": "Leader or person in charge of an operation or project",
+                "definition_hebrew": "מנהיג או אחראי על מבצע או פרויקט",
+                "example": "He was appointed as the commander for the construction project to oversee its completion.",
+                "example_hebrew": "הוא מונה למפקד פרויקט הבנייה כדי לפקח על השלמתו."
+            },
+            {
+                "definition": "Someone who operates and controls a computer system or machine",
+                "definition_hebrew": "מישהו שמפעיל ושולט במערכת מחשב או מכונה",
+                "example": "The operator served as the commander of the robot, giving it instructions.",
+                "example_hebrew": "המפעיל שימש כמפקד הרובוט, ונתן לו הוראות."
+            }
+        ]
+    }
+]

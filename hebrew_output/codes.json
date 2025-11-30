@@ -1,0 +1,34 @@
+[
+    {
+        "word": "codes",
+        "word_hebrew": "קודים",
+        "main_definition": "Codes refer to a system of symbols or signals used to represent information, typically in computing or communication contexts.",
+        "main_definition_hebrew": "קודים מתייחסים למערכת של סמלים או אותות המשמשים לייצוג מידע, בדרך כלל בהקשרי מחשוב או תקשורת.",
+        "meanings_and_examples": [
+            {
+                "definition": "In programming and computer science, code refers to a set of instructions written in a programming language that enables computers to perform specific tasks.",
+                "definition_hebrew": "בתכנות ומדעי המחשב, קוד מתייחס לקבוצת הוראות הכתובה בשפת תכנות המאפשרת למחשבים לבצע משימות ספציפיות.",
+                "example": "The developer wrote clean and efficient Python code for the new web application.",
+                "example_hebrew": "המפתח כתב קוד Python נקי ויעיל עבור אפליקציית האינטרנט החדשה."
+            },
+            {
+                "definition": "A coded message or communication system where information is encrypted to maintain confidentiality, often used by military or intelligence agencies.",
+                "definition_hebrew": "הודעה מקודדת או מערכת תקשורת שבה המידע מוצפן כדי לשמור על סודיות, לעתים קרובות בשימוש על ידי צבא או סוכנויות מודיעין.",
+                "example": "During World War II, both sides employed various codes and ciphers to encrypt their secret messages.",
+                "example_hebrew": "במהלך מלחמת העולם השנייה, שני הצדדים השתמשו בקודים ובצפנים שונים כדי להצפין את ההודעות הסודיות שלהם."
+            },
+            {
+                "definition": "A set of rules or guidelines that govern a particular activity or system, such as software coding standards in the tech industry.",
+                "definition_hebrew": "קבוצה של כללים או הנחיות השולטות בפעילות או מערכת מסוימת, כגון תקני קידוד תוכנה בתעשיית הטכנולוגיה.",
+                "example": "The company implemented strict coding conventions to ensure consistency and quality across all projects.",
+                "example_hebrew": "החברה הטמיעה מוסכמות קידוד קפדניות כדי להבטיח עקביות ואיכות בכל הפרויקטים."
+            },
+            {
+                "definition": "Codes used by individuals or groups to communicate privately, often referred to as slang or jargon.",
+                "definition_hebrew": "קודים המשמשים אנשים או קבוצות כדי לתקשר באופן פרטי, המכונה לעתים קרובות סלנג או ז'רגון.",
+                "example": "In the tech community, 'kegerating' is a popular term meaning 'coding.'",
+                "example_hebrew": "בקהילת הטכנולוגיה, 'kegerating' הוא מונח פופולרי שמשמעותו 'קידוד'."
+            }
+        ]
+    }
+]

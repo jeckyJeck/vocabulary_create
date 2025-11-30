@@ -1,0 +1,34 @@
+[
+    {
+        "word": "flag",
+        "word_hebrew": "דֶגֶל",
+        "main_definition": "A flag is a piece of cloth, typically triangular or rectangular in shape, that has distinctive colors or designs used as symbols or markers.",
+        "main_definition_hebrew": "דגל הוא פיסת בד, בדרך כלל בצורה משולשת או מלבנית, בעלת צבעים או עיצובים ייחודיים המשמשים כסמלים או סמנים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Symbolizing national identity and pride",
+                "definition_hebrew": "מסמל זהות לאומית וגאווה",
+                "example": "The American flag waving proudly during the Independence Day celebrations.",
+                "example_hebrew": "הדגל האמריקאי מתנופף בגאווה במהלך חגיגות יום העצמאות."
+            },
+            {
+                "definition": "Used to indicate status or condition, such as a red flag in sports indicating an out-of-bounds ball in basketball.",
+                "definition_hebrew": "משמש לציון סטטוס או מצב, כגון דגל אדום בספורט המציין כדור מחוץ לתחום בכדורסל.",
+                "example": "During the game, when the referee blew his whistle and pointed to the court edge with a red flag.",
+                "example_hebrew": "במהלך המשחק, כשהשופט שרק והצביע על קצה המגרש עם דגל אדום."
+            },
+            {
+                "definition": "A signal or warning",
+                "definition_hebrew": "אות או אזהרה",
+                "example": "The sailors raised a white flag to indicate they were surrendering during naval warfare.",
+                "example_hebrew": "המלחים הרימו דגל לבן כדי לציין שהם נכנעים במהלך לוחמה ימית."
+            },
+            {
+                "definition": "Used in programming and computing as a control structure to pause program execution until an event occurs",
+                "definition_hebrew": "משמש בתכנות ומחשוב כמבנה בקרה כדי להשהות את ביצוע התוכנית עד להתרחשות אירוע",
+                "example": "In the script, there is a loop with a 'flag' variable set to false that changes to true when a condition is met.",
+                "example_hebrew": "בסקריפט, יש לולאה עם משתנה 'דגל' שהוגדר ל-false שמשתנה ל-true כאשר תנאי מתקיים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "word": "slot",
+        "word_hebrew": "חָרִיץ",
+        "main_definition": "A slot refers to a pre-assigned space or position, often used in the context of machines, games, or schedules.",
+        "main_definition_hebrew": "משבצת מתייחס למרחב או עמדה שהוקצה מראש, המשמשים לעתים קרובות בהקשר של מכונות, משחקים או לוחות זמנים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Opening or hole where something is inserted",
+                "definition_hebrew": "פתח או חור שבו משהו מוכנס",
+                "example": "In the casino, there are poker chip slots to insert and retrieve chips.",
+                "example_hebrew": "בקזינו, יש משבצות של שבבי פוקר להכנסת ולשליפה של צ'יפים."
+            },
+            {
+                "definition": "A scheduled time for an event or activity",
+                "definition_hebrew": "זמן קבוע לאירוע או פעילות",
+                "example": "The flight leaves at 3 PM slot on the schedule.",
+                "example_hebrew": "הטיסה יוצאת בשעה 15:00 לפי לוח הזמנים."
+            },
+            {
+                "definition": "A designated position in a sequence or line",
+                "definition_hebrew": "מיקום ייעודי ברצף או בשורה",
+                "example": "In a lottery drawing, each ticket has its unique slot number.",
+                "example_hebrew": "בהגרלת לוטו, לכל כרטיס יש את מספר המשבצת הייחודי שלו."
+            },
+            {
+                "definition": "A specific time reserved for an individual's use in various industries",
+                "definition_hebrew": "זמן ספציפי השמור לשימוש של יחיד בתעשיות שונות",
+                "example": "The hotel booked the afternoon slot for my meeting room.",
+                "example_hebrew": "המלון הזמין את משבצת אחר הצהריים לחדר הישיבות שלי."
+            },
+            {
+                "definition": "A position or opportunity within a competition, game, or system",
+                "definition_hebrew": "עמדה או הזדמנות בתוך תחרות, משחק או מערכת",
+                "example": "He won the first slot in the tournament.",
+                "example_hebrew": "הוא זכה במשבצת הראשונה בטורניר."
+            },
+            {
+                "definition": "An unoccupied space on an electronic device or machine for input/output",
+                "definition_hebrew": "מקום פנוי במכשיר או מכונה אלקטרונית לקלט/פלט",
+                "example": "Please insert your card into the slot at the entrance gate.",
+                "example_hebrew": "נא להכניס את הכרטיס שלך לחריץ בשער הכניסה."
+            }
+        ]
+    }
+]

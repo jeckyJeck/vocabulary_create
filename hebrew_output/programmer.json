@@ -1,0 +1,40 @@
+[
+    {
+        "word": "programmer",
+        "word_hebrew": "מְתַכנֵת",
+        "main_definition": "A programmer is an individual who writes, tests, debugs, and maintains the source code of computer programs or software applications.",
+        "main_definition_hebrew": "מתכנת הוא אדם שכותב, בודק, מנקה ושומר על קוד המקור של תוכנות מחשב או יישומי תוכנה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Software Developer",
+                "definition_hebrew": "מפתח תוכנה",
+                "example": "Jane works as a programmer developing web-based applications for various clients.",
+                "example_hebrew": "ג'יין עובדת כמתכנתת בפיתוח יישומים מבוססי אינטרנט עבור לקוחות שונים."
+            },
+            {
+                "definition": "Computer Programmer",
+                "definition_hebrew": "מתכנת מחשבים",
+                "example": "John is a computer programmer who writes code in languages like Python and Java to create software solutions.",
+                "example_hebrew": "ג'ון הוא מתכנת מחשבים שכותב קוד בשפות כמו Python ו-Java כדי ליצור פתרונות תוכנה."
+            },
+            {
+                "definition": "Junior Developer/Programmer",
+                "definition_hebrew": "מפתח/תכנת זוטר",
+                "example": "Emily started her career as a junior programmer, learning the basics of coding before advancing to more complex tasks.",
+                "example_hebrew": "אמילי התחילה את הקריירה שלה כמתכנתת זוטר, ולמדה את יסודות הקידוד לפני שהתקדמה למשימות מורכבות יותר."
+            },
+            {
+                "definition": "Maintenance Programmer",
+                "definition_hebrew": "מתכנת תחזוקה",
+                "example": "David is responsible for maintaining and updating existing software, ensuring it runs smoothly without new features or bug fixes.",
+                "example_hebrew": "דוד אחראי לתחזוקה ועדכון של תוכנות קיימות, ולוודא שהיא פועלת בצורה חלקה ללא תכונות חדשות או תיקוני באגים."
+            },
+            {
+                "definition": "Data Scientist/Programmer",
+                "definition_hebrew": "מדען/תכנת נתונים",
+                "example": "Sarah works as a data scientist programmer, analyzing large sets of data to create algorithms that help businesses make better decisions.",
+                "example_hebrew": "שרה עובדת כמתכנתת של מדען נתונים, מנתחת קבוצות גדולות של נתונים כדי ליצור אלגוריתמים שעוזרים לעסקים לקבל החלטות טובות יותר."
+            }
+        ]
+    }
+]

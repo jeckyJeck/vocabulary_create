@@ -1,0 +1,34 @@
+[
+    {
+        "word": "beginner",
+        "word_hebrew": "מַתחִיל",
+        "main_definition": "A person who is new to a subject, activity, or skill.",
+        "main_definition_hebrew": "אדם חדש בנושא, פעילות או מיומנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Someone with little experience in a particular field.",
+                "definition_hebrew": "מישהו עם מעט ניסיון בתחום מסוים.",
+                "example": "As a beginner guitarist, she struggled to play basic chords.",
+                "example_hebrew": "כגיטריסט מתחיל, היא התקשתה לנגן אקורדים בסיסיים."
+            },
+            {
+                "definition": "A new entrant or novice learner of any skill or activity.",
+                "definition_hebrew": "משתתף חדש או לומד מתחיל בכל מיומנות או פעילות.",
+                "example": "He was excited to be a beginner in painting and exploring his creativity through art.",
+                "example_hebrew": "הוא היה נרגש להיות מתחיל בציור ולחקור את היצירתיות שלו באמצעות אמנות."
+            },
+            {
+                "definition": "An individual who is starting out at the lowest level or rank, often in competitive contexts.",
+                "definition_hebrew": "אדם שמתחיל את דרכו ברמה או בדרגה הנמוכה ביותר, לרוב בהקשרים תחרותיים.",
+                "example": "In chess, a beginner player would start learning from pawn moves rather than strategic openings.",
+                "example_hebrew": "בשחמט, שחקן מתחיל יתחיל ללמוד ממהלכי חייל ולא מפתיחה אסטרטגית."
+            },
+            {
+                "definition": "One who has just started an educational program or course.",
+                "definition_hebrew": "אחד שזה עתה התחיל תכנית חינוכית או קורס.",
+                "example": "She was delighted to be the only beginner in her coding bootcamp class.",
+                "example_hebrew": "היא שמחה להיות המתחילה היחידה בשיעור ה-coding bootcamp שלה."
+            }
+        ]
+    }
+]

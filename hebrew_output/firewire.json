@@ -1,0 +1,34 @@
+[
+    {
+        "word": "firewire",
+        "word_hebrew": "firewire",
+        "main_definition": "FireWire is a high-speed serial bus interface standard developed by Apple Computer that allows devices to transfer data quickly between computers, digital video cameras, and storage devices.",
+        "main_definition_hebrew": "FireWire הוא תקן ממשק אפיק טורי מהיר שפותח על ידי Apple Computer המאפשר למכשירים להעביר נתונים במהירות בין מחשבים, מצלמות וידאו דיגיטליות והתקני אחסון.",
+        "meanings_and_examples": [
+            {
+                "definition": "An extension of the USB technology for connecting and communicating with various electronic devices at high speeds.",
+                "definition_hebrew": "הרחבה של טכנולוגיית ה-USB לחיבור ותקשורת עם מכשירים אלקטרוניים שונים במהירויות גבוהות.",
+                "example": "The camera was connected to my computer via FireWire cable to transfer photos quickly.",
+                "example_hebrew": "המצלמה הייתה מחוברת למחשב שלי באמצעות כבל FireWire כדי להעביר תמונות במהירות."
+            },
+            {
+                "definition": "A type of digital interface used primarily in professional audio and video production environments, allowing for the fast transfer of large files between equipment like cameras, mixers, and editing systems.",
+                "definition_hebrew": "סוג של ממשק דיגיטלי המשמש בעיקר בסביבות ייצור אודיו ווידאו מקצועיות, המאפשר העברה מהירה של קבצים גדולים בין ציוד כמו מצלמות, מיקסרים ומערכות עריכה.",
+                "example": "The sound technician connected their camera to the FireWire port on the computer using a mini-jack cable.",
+                "example_hebrew": "טכנאי הסאונד חיבר את המצלמה שלו ליציאת FireWire במחשב באמצעות כבל מיני שקע."
+            },
+            {
+                "definition": "A term used in networking referring to high-speed data transfer rates between computers or network devices, though it is not specifically an industry standard.",
+                "definition_hebrew": "מונח המשמש ברשתות המתייחס לקצבי העברת נתונים במהירות גבוהה בין מחשבים או התקני רשת, אם כי הוא לא ספציפית תקן תעשייתי.",
+                "example": "The company decided to upgrade their network infrastructure by installing FireWire ports for faster data transfers.",
+                "example_hebrew": "החברה החליטה לשדרג את תשתית הרשת שלה על ידי התקנת יציאות FireWire להעברות נתונים מהירות יותר."
+            },
+            {
+                "definition": "Not directly related to technology but used metaphorically to describe situations where a rapid and uncontrollable reaction occurs, such as in conflicts or competitions.",
+                "definition_hebrew": "לא קשור ישירות לטכנולוגיה אלא משמש באופן מטפורי לתיאור מצבים שבהם מתרחשת תגובה מהירה ובלתי נשלטת, כמו בעימותים או בתחרויות.",
+                "example": "The two companies started exchanging harsh words across the industry, igniting what appeared to be a FireWire dispute.",
+                "example_hebrew": "שתי החברות החלו להחליף מילים קשות ברחבי התעשייה, והציתו את מה שנראה כמחלוקת FireWire."
+            }
+        ]
+    }
+]

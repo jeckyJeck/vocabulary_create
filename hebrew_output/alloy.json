@@ -1,0 +1,34 @@
+[
+    {
+        "word": "alloy",
+        "word_hebrew": "סַגסוֹגֶת",
+        "main_definition": "An alloy is a mixture or blend, often used in the context of metals, that combines two or more elements to create new material with desirable properties.",
+        "main_definition_hebrew": "סגסוגת היא תערובת או תערובת, המשמשת לעתים קרובות בהקשר של מתכות, המשלבת שני אלמנטים או יותר ליצירת חומר חדש עם תכונות רצויות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In general usage, an alloy refers to any combination of different substances mixed together. For example: 'The chef created a unique salad by combining various ingredients (an alloy) like lettuce, tomatoes, and cucumbers.'",
+                "definition_hebrew": "בשימוש כללי, סגסוגת מתייחסת לכל שילוב של חומרים שונים המעורבבים יחד. לדוגמה: 'השף יצר סלט ייחודי בשילוב מרכיבים שונים (סגסוגת) כמו חסה, עגבניות ומלפפונים.'",
+                "example": "'An artist's painting may be considered an alloy of colors and techniques.'",
+                "example_hebrew": "\"ציור של אמן עשוי להיחשב סגסוגת של צבעים וטכניקות.\""
+            },
+            {
+                "definition": "In metallurgy, an alloy is a combination of two or more metals to create a new substance with specific properties. For example: 'Stainless steel is an alloy made primarily from iron, chromium, and nickel.'",
+                "definition_hebrew": "במטלורגיה, סגסוגת היא שילוב של שתי מתכות או יותר ליצירת חומר חדש בעל תכונות ספציפיות. לדוגמה: 'נירוסטה היא סגסוגת העשויה בעיקר מברזל, כרום וניקל.'",
+                "example": "'The sword was crafted using the ancient technique of creating bronze alloys by combining copper and tin.'",
+                "example_hebrew": "\"החרב נוצרה בטכניקה העתיקה של יצירת סגסוגות ברונזה על ידי שילוב של נחושת ופח.\""
+            },
+            {
+                "definition": "In chemistry, 'alloy' can also refer to a mixture or blend of different chemical substances that are not metals. For example: 'A ceramic glaze might be considered an alloy of various minerals and compounds.'",
+                "definition_hebrew": "בכימיה, 'סגסוגת' יכולה להתייחס גם לתערובת או תערובת של חומרים כימיים שונים שאינם מתכות. לדוגמה: 'זיגוג קרמי עשוי להיחשב סגסוגת של מינרלים ותרכובות שונות.'",
+                "example": "'The cosmetics product was made up of several organic and inorganic components, functioning as a non-metal alloy for skincare purposes.'",
+                "example_hebrew": "\"מוצר הקוסמטיקה הורכב ממספר רכיבים אורגניים ואי-אורגניים, שתפקדו כסגסוגת שאינה מתכתית למטרות טיפוח העור\"."
+            },
+            {
+                "definition": "In computing, 'alloy' may refer to Alloy Software Corporation's proprietary modeling language used for software development. For example: '",
+                "definition_hebrew": "במחשוב, 'סגסוגת' עשויה להתייחס לשפת הדוגמנות הקניינית של Alloy Software Corporation המשמשת לפיתוח תוכנה. לדוגמה: '",
+                "example": "'Using the Alloy Modeling Language, developers can create a precise and scalable architecture for their applications.'",
+                "example_hebrew": "'באמצעות שפת המודלים Alloy, מפתחים יכולים ליצור ארכיטקטורה מדויקת וניתנת להרחבה עבור היישומים שלהם.'"
+            }
+        ]
+    }
+]

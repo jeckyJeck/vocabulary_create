@@ -1,0 +1,28 @@
+[
+    {
+        "word": "elsewhere",
+        "word_hebrew": "בְּמָקוֹם אַחֵר",
+        "main_definition": "In another place or location, away from the current one.",
+        "main_definition_hebrew": "במקום אחר או במיקום אחר, הרחק מהנוכחי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Away from a particular point of reference or location.",
+                "definition_hebrew": "הרחק מנקודת התייחסות או מיקום מסוים.",
+                "example": "After losing his keys in this room, he looked everywhere but elsewhere.",
+                "example_hebrew": "לאחר שאיבד את המפתחות שלו בחדר הזה, הוא חיפש בכל מקום מלבד מקום אחר."
+            },
+            {
+                "definition": "In different places; not present at the current time or place.",
+                "definition_hebrew": "במקומות שונים; לא נוכח בזמן או במקום הנוכחיים.",
+                "example": "When I'm busy with work here, my friends say they can call me later; let's catch up somewhere else.",
+                "example_hebrew": "כשאני עסוק בעבודה כאן, החברים שלי אומרים שהם יכולים להתקשר אלי אחר כך; בואו נתעדכן במקום אחר."
+            },
+            {
+                "definition": "Another location, specifically used when referring to moving something from one place to another.",
+                "definition_hebrew": "מיקום אחר, המשמש במיוחד כאשר מתייחסים להעברת משהו ממקום למקום.",
+                "example": "The museum decided to send the priceless artifact to a special exhibit elsewhere in the world.",
+                "example_hebrew": "המוזיאון החליט לשלוח את החפץ שלא יסולא בפז לתערוכה מיוחדת במקומות אחרים בעולם."
+            }
+        ]
+    }
+]

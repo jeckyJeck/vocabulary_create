@@ -1,0 +1,34 @@
+[
+    {
+        "word": "hotels",
+        "word_hebrew": "בתי מלון",
+        "main_definition": "Hotels are establishments providing lodging, meals, and other services for travelers or guests.",
+        "main_definition_hebrew": "בתי מלון הם מפעלים המספקים לינה, ארוחות ושירותים אחרים למטיילים או לאורחים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A type of accommodation business offering various levels of service, amenities, and pricing to cater to different customer needs.",
+                "definition_hebrew": "סוג של עסק לינה המציע רמות שונות של שירות, שירותים ותמחור כדי לתת מענה לצרכי לקוחות שונים.",
+                "example": "The Grand Hotel provides luxury suites with 24-hour concierge services.",
+                "example_hebrew": "מלון גראנד מספק סוויטות יוקרתיות עם שירותי קונסיירז' 24 שעות ביממה."
+            },
+            {
+                "definition": "Hotels can also refer colloquially to a place where people go when they need a temporary stay, often due to travel or other commitments.",
+                "definition_hebrew": "בתי מלון יכולים גם להתייחס בדיבור למקום שאליו אנשים הולכים כאשר הם זקוקים לשהות זמנית, לעתים קרובות עקב נסיעות או התחייבויות אחרות.",
+                "example": "I'm going to the hotel tonight because my flight lands late and I won't be able to make it back home right away.",
+                "example_hebrew": "אני נוסע למלון הלילה כי הטיסה שלי נוחתת מאוחר ולא אוכל לחזור הביתה מיד."
+            },
+            {
+                "definition": "In some contexts, 'hotels' might refer metaphorically to businesses or organizations that provide essential services or cater to a particular demographic.",
+                "definition_hebrew": "בהקשרים מסוימים, \"מלונות\" עשויים להתייחס באופן מטפורי לעסקים או ארגונים המספקים שירותים חיוניים או נותנים מענה לדמוגרפי מסוים.",
+                "example": "This chain of restaurants is like hotels for food lovers, offering a wide variety of cuisines.",
+                "example_hebrew": "רשת מסעדות זו היא כמו בתי מלון לחובבי אוכל, ומציעה מגוון רחב של מאכלים."
+            },
+            {
+                "definition": "Historically, the term 'hotel' could also refer to an inn or lodging place where travelers would stay and were often run by private owners.",
+                "definition_hebrew": "מבחינה היסטורית, המונח \"מלון\" יכול להתייחס גם לפונדק או מקום לינה בו נוסעים ישהו ולעיתים קרובות נוהלו על ידי בעלים פרטיים.",
+                "example": "In medieval times, inns served as hotels where weary travelers could rest.",
+                "example_hebrew": "בימי הביניים, הפונדקים שימשו כמלונות שבהם יכלו מטיילים עייפים לנוח."
+            }
+        ]
+    }
+]

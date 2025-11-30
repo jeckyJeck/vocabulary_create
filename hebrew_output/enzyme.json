@@ -1,0 +1,28 @@
+[
+    {
+        "word": "enzyme",
+        "word_hebrew": "אֶנזִים",
+        "main_definition": "Enzyme is a type of protein that acts as a catalyst in biochemical reactions, speeding up the process without being consumed or altered.",
+        "main_definition_hebrew": "אנזים הוא סוג של חלבון שפועל כזרז בתגובות ביוכימיות, ומאיץ את התהליך מבלי לצרוך או להשתנות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Biological substance",
+                "definition_hebrew": "חומר ביולוגי",
+                "example": "Amylase is an enzyme found in saliva that helps break down starch into sugar.",
+                "example_hebrew": "עמילאז הוא אנזים שנמצא ברוק המסייע בפירוק עמילן לסוכר."
+            },
+            {
+                "definition": "Molecular catalyst",
+                "definition_hebrew": "זרז מולקולרי",
+                "example": "Lipase, which breaks down fats in the digestive system by accelerating their hydrolysis.",
+                "example_hebrew": "ליפאז, המפרק שומנים במערכת העיכול על ידי האצת ההידרוליזה שלהם."
+            },
+            {
+                "definition": "Adaptation or evolution",
+                "definition_hebrew": "הסתגלות או אבולוציה",
+                "example": "The enzyme lactase allows humans to digest lactose, an adaptation that emerged more prevalently in some populations due to dairy consumption.",
+                "example_hebrew": "האנזים לקטאז מאפשר לבני אדם לעכל לקטוז, הסתגלות שהופיעה בשכיחות רבה יותר באוכלוסיות מסוימות עקב צריכת מוצרי חלב."
+            }
+        ]
+    }
+]

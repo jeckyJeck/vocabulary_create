@@ -1,0 +1,34 @@
+[
+    {
+        "word": "characteristic",
+        "word_hebrew": "מאפיין",
+        "main_definition": "A distinguishing feature or quality that is typical of a person, place, or thing.",
+        "main_definition_hebrew": "תכונה או תכונה ייחודית האופיינית לאדם, למקום או לדבר.",
+        "meanings_and_examples": [
+            {
+                "definition": "An inherent attribute or property possessed by an individual or group.",
+                "definition_hebrew": "תכונה או תכונה אינהרנטית שבידי אדם או קבוצה.",
+                "example": "One of the characteristic features of introverts is their preference for solitude.",
+                "example_hebrew": "אחד המאפיינים האופייניים של מופנמים הוא העדפתם להתבודד."
+            },
+            {
+                "definition": "A distinguishing trait that helps in identifying and differentiating something from others.",
+                "definition_hebrew": "תכונה מבדלת המסייעת בזיהוי והבחנה של משהו מאחרים.",
+                "example": "The colorful feathers are a characteristic feature of peacocks, making them easily recognizable.",
+                "example_hebrew": "הנוצות הצבעוניות הן תכונה אופיינית של טווסים, מה שהופך אותם לזיהוי בקלות."
+            },
+            {
+                "definition": "A distinctive quality or element that contributes to the overall nature or essence of an object, place, or thing.",
+                "definition_hebrew": "איכות או אלמנט ייחודיים התורמים לאופי או למהות הכוללת של חפץ, מקום או דבר.",
+                "example": "Sustainability is a key characteristic that defines eco-friendly products.",
+                "example_hebrew": "קיימות היא מאפיין מפתח המגדיר מוצרים ידידותיים לסביבה."
+            },
+            {
+                "definition": "A trait or feature that serves as evidence or proof to support claims or observations about something.",
+                "definition_hebrew": "תכונה או תכונה המשמשת כהוכחה או הוכחה לתמיכה בטענות או תצפיות על משהו.",
+                "example": "The high temperature recorded yesterday can be considered a characteristic of the ongoing heatwave.",
+                "example_hebrew": "הטמפרטורה הגבוהה שנרשמה אתמול יכולה להיחשב כמאפיין של גל החום המתמשך."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "libraries",
+        "word_hebrew": "ספריות",
+        "main_definition": "Libraries refer to various concepts related to collections of resources or facilities, often associated with the storing, organizing, and providing access to information.",
+        "main_definition_hebrew": "ספריות מתייחסות למושגים שונים הקשורים לאוספי משאבים או מתקנים, הקשורים לעתים קרובות לאחסון, ארגון ומתן גישה למידע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Buildings housing collections of books and other materials for reading, viewing, or borrowing",
+                "definition_hebrew": "מבנים שבהם אוספים של ספרים וחומרים אחרים לקריאה, צפייה או השאלה",
+                "example": "The New York Public Library is a well-known example of a library building.",
+                "example_hebrew": "הספרייה הציבורית של ניו יורק היא דוגמה ידועה לבניין ספרייה."
+            },
+            {
+                "definition": "A collection of computer programs available to users in the form of executable files",
+                "definition_hebrew": "אוסף של תוכנות מחשב הזמינות למשתמשים בצורה של קבצי הפעלה",
+                "example": "SourceForge provides an online platform for libraries, where developers can share and access various software libraries.",
+                "example_hebrew": "SourceForge מספקת פלטפורמה מקוונת לספריות, שבה מפתחים יכולים לשתף ולגשת לספריות תוכנה שונות."
+            },
+            {
+                "definition": "An organized body of knowledge on a particular subject or group of subjects",
+                "definition_hebrew": "גוף ידע מסודר בנושא מסוים או קבוצת נושאים",
+                "example": "A philosophy library may contain books, articles, and other materials related to the field of philosophy.",
+                "example_hebrew": "ספריית פילוסופיה עשויה להכיל ספרים, מאמרים וחומרים אחרים הקשורים לתחום הפילוסופיה."
+            },
+            {
+                "definition": "A collection of data files that can be used by multiple programs during software development",
+                "definition_hebrew": "אוסף של קבצי נתונים שיכולים לשמש תוכניות מרובות במהלך פיתוח תוכנה",
+                "example": "The Boost C++ Libraries are a collection of libraries providing support for various programming tasks, including numerical computations and network operations.",
+                "example_hebrew": "ספריות Boost C++ הן אוסף של ספריות המספקות תמיכה למשימות תכנות שונות, כולל חישובים מספריים ופעולות רשת."
+            }
+        ]
+    }
+]

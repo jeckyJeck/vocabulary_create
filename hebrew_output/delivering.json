@@ -1,0 +1,40 @@
+[
+    {
+        "word": "delivering",
+        "word_hebrew": "מסירה",
+        "main_definition": "The act of bringing or handing over something to the intended recipient.",
+        "main_definition_hebrew": "הפעולה של הבאת או מסירה של משהו לנמען המיועד.",
+        "meanings_and_examples": [
+            {
+                "definition": "Transporting goods from a warehouse or production site to their destination",
+                "definition_hebrew": "הובלת סחורה ממחסן או מאתר ייצור ליעדם",
+                "example": "The company's delivery truck was responsible for delivering packages across town.",
+                "example_hebrew": "משאית המשלוחים של החברה הייתה אחראית על משלוח חבילות ברחבי העיר."
+            },
+            {
+                "definition": "Delivering news, often in the context of broadcast media or journalism",
+                "definition_hebrew": "מסירת חדשות, לרוב בהקשר של מדיה משודרת או עיתונות",
+                "example": "Tonight's newscast will include breaking news about a natural disaster and its impact on communities.",
+                "example_hebrew": "מהדורת החדשות של הערב תכלול חדשות על אסון טבע והשפעתו על קהילות."
+            },
+            {
+                "definition": "Giving birth to offspring; delivering babies as a medical professional",
+                "definition_hebrew": "לידת צאצאים; לידת תינוקות כאיש מקצוע רפואי",
+                "example": "The obstetrician successfully delivered the baby after several hours of labor.",
+                "example_hebrew": "הרופא המיילד יולד בהצלחה את התינוק לאחר מספר שעות של צירים."
+            },
+            {
+                "definition": "Hand over something that was promised or owed, such as in the context of court orders or legal agreements",
+                "definition_hebrew": "למסור משהו שהובטח או חייב, כגון בהקשר של צווי בית משפט או הסכמים משפטיים",
+                "example": "He failed to deliver on his promise and could face legal consequences for breach of contract.",
+                "example_hebrew": "הוא לא עמד בהבטחתו ועלול לעמוד בפני השלכות משפטיות בגין הפרת החוזה."
+            },
+            {
+                "definition": "Providing a speech or presentation at an event or gathering",
+                "definition_hebrew": "מתן נאום או מצגת באירוע או מפגש",
+                "example": "The keynote speaker will be delivering her thoughts on climate change during the conference.",
+                "example_hebrew": "הדוברת המרכזית תעביר את מחשבותיה על שינויי האקלים במהלך הכנס."
+            }
+        ]
+    }
+]

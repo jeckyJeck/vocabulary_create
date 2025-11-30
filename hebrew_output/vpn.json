@@ -1,0 +1,28 @@
+[
+    {
+        "word": "vpn",
+        "word_hebrew": "vpn",
+        "main_definition": "A Virtual Private Network (VPN) is a service that allows users to connect to the internet with enhanced privacy, security, and anonymity by encrypting their connection and masking their IP address.",
+        "main_definition_hebrew": "רשת פרטית וירטואלית (VPN) הוא שירות המאפשר למשתמשים להתחבר לאינטרנט עם פרטיות, אבטחה ואנונימיות משופרים על ידי הצפנת החיבור שלהם והסתרת כתובת ה-IP שלהם.",
+        "meanings_and_examples": [
+            {
+                "definition": "Network protocol",
+                "definition_hebrew": "פרוטוקול רשת",
+                "example": "The OpenVPN protocol is a common VPN service that uses secure encryption to protect data.",
+                "example_hebrew": "פרוטוקול OpenVPN הוא שירות VPN נפוץ המשתמש בהצפנה מאובטחת כדי להגן על נתונים."
+            },
+            {
+                "definition": "Virtual private network",
+                "definition_hebrew": "רשת וירטואלית פרטית",
+                "example": "I use a VPN when I travel abroad so my internet activities are not tracked by local networks or governments.",
+                "example_hebrew": "אני משתמש ב-VPN כשאני נוסע לחו\"ל כך שפעילויות האינטרנט שלי אינן עוקבות על ידי רשתות מקומיות או ממשלות."
+            },
+            {
+                "definition": "Internet connection",
+                "definition_hebrew": "חיבור לאינטרנט",
+                "example": "My company provides employees with a VPN to access internal resources remotely, even while offsite.",
+                "example_hebrew": "החברה שלי מספקת לעובדים VPN לגישה למשאבים פנימיים מרחוק, אפילו מחוץ לאתר."
+            }
+        ]
+    }
+]

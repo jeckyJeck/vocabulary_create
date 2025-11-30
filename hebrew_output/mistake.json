@@ -1,0 +1,40 @@
+[
+    {
+        "word": "mistake",
+        "word_hebrew": "טעות",
+        "main_definition": "A mistake is an error or a wrong action, judgment, or decision that results in undesired consequences.",
+        "main_definition_hebrew": "טעות היא טעות או פעולה שגויה, שיפוט או החלטה שגויה שגורמת לתוצאות לא רצויות.",
+        "meanings_and_examples": [
+            {
+                "definition": "An incorrect action or choice made unintentionally.",
+                "definition_hebrew": "פעולה או בחירה שגויה שנעשתה שלא במתכוון.",
+                "example": "I made a mistake by giving the wrong address to my friend.",
+                "example_hebrew": "עשיתי טעות כשמסרתי את הכתובת הלא נכונה לחבר שלי."
+            },
+            {
+                "definition": "A misunderstanding that leads to an inaccurate conclusion or belief.",
+                "definition_hebrew": "אי הבנה שמובילה למסקנה או אמונה לא מדויקת.",
+                "example": "The confusion between the two similar-sounding words led me to make a mistake about their meanings.",
+                "example_hebrew": "הבלבול בין שתי המילים שנשמעו דומה הוביל אותי לטעות במשמעותן."
+            },
+            {
+                "definition": "An error made while performing a task, often due to oversight or lack of knowledge.",
+                "definition_hebrew": "שגיאה שנעשתה במהלך ביצוע משימה, לעתים קרובות עקב פיקוח או חוסר ידע.",
+                "example": "Copying and pasting code from an online source without understanding it might result in a mistake that causes bugs.",
+                "example_hebrew": "העתקה והדבקה של קוד ממקור מקוון מבלי להבין אותו עלולה לגרום לטעות שגורמת לבאגים."
+            },
+            {
+                "definition": "A blunder caused by carelessness or haste, usually leading to embarrassment or inconvenience.",
+                "definition_hebrew": "טעות הנגרמת על ידי חוסר זהירות או חיפזון, בדרך כלל מובילה למבוכה או אי נוחות.",
+                "example": "I tripped over my own shoelaces during the presentation and made a public mistake.",
+                "example_hebrew": "מעדתי על שרוכי הנעליים שלי במהלך המצגת ועשיתי טעות פומבית."
+            },
+            {
+                "definition": "An error in judgment that could potentially have negative consequences.",
+                "definition_hebrew": "טעות בשיפוט שעלולה להיות בעלת השלכות שליליות.",
+                "example": "Ignoring expert advice on an important decision was a mistake that affected our project's success.",
+                "example_hebrew": "התעלמות מעצת מומחים לגבי החלטה חשובה הייתה טעות שהשפיעה על הצלחת הפרויקט שלנו."
+            }
+        ]
+    }
+]

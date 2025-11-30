@@ -1,0 +1,40 @@
+[
+    {
+        "word": "novels",
+        "word_hebrew": "רומנים",
+        "main_definition": "Novels are long written works of fiction, often with complex plots and developed characters.",
+        "main_definition_hebrew": "רומנים הם יצירות בדיוניות כתובות ארוכות, לרוב עם עלילות מורכבות ודמויות מפותחות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Literary works consisting of extended prose narrative",
+                "definition_hebrew": "יצירות ספרותיות המורכבות מנרטיב פרוזה מורחב",
+                "example": "Jane Austen's 'Pride and Prejudice' is a classic example of a novel.",
+                "example_hebrew": "\"גאווה ודעה קדומה\" של ג'יין אוסטן הוא דוגמה קלאסית לרומן."
+            },
+            {
+                "definition": "A series of books comprising multiple volumes that continue a story or explore related themes",
+                "definition_hebrew": "סדרת ספרים הכוללת מספר כרכים שממשיכים סיפור או חוקרים נושאים קשורים",
+                "example": "The Harry Potter series by J.K. Rowling can be considered as a set of novels since it has seven main installments.",
+                "example_hebrew": "סדרת הארי פוטר מאת J.K. רולינג יכולה להיחשב כסט של רומנים מכיוון שיש לה שבעה פרקים עיקריים."
+            },
+            {
+                "definition": "Novels in the context of book publishing, referring to longer than short stories or non-fiction works",
+                "definition_hebrew": "רומנים בהקשר של הוצאת ספרים, המתייחסים לסיפורים קצרים יותר או ליצירות עיון",
+                "example": "'The Old Man and The Sea' by Ernest Hemingway is a novel that is considered shorter compared to other novels.",
+                "example_hebrew": "'הזקן והים' מאת ארנסט המינגווי הוא רומן שנחשב קצר יותר בהשוואה לרומנים אחרים."
+            },
+            {
+                "definition": "In literary criticism, the term 'novel form' refers to unique structures or styles used in writing longer narratives",
+                "definition_hebrew": "בביקורת ספרותית, המונח 'צורת רומן' מתייחס למבנים או סגנונות ייחודיים המשמשים בכתיבת נרטיבים ארוכים יותר",
+                "example": "'Beloved' by Toni Morrison employs a novel form that combines historical fiction with elements of magical realism.",
+                "example_hebrew": "'אהובה' מאת טוני מוריסון משתמשת בצורת רומן המשלבת סיפורת היסטורית עם אלמנטים של ריאליזם קסום."
+            },
+            {
+                "definition": "A literary genre, characterized by extended prose and developed characters",
+                "definition_hebrew": "ז'אנר ספרותי, המאופיין בפרוזה מורחבת ודמויות מפותחות",
+                "example": "'Moby-Dick' by Herman Melville is an iconic work in the novel genre that explores deep themes about obsession and revenge.",
+                "example_hebrew": "'מובי-דיק' מאת הרמן מלוויל היא יצירה איקונית בז'אנר הרומן החוקרת נושאים עמוקים על אובססיה ונקמה."
+            }
+        ]
+    }
+]

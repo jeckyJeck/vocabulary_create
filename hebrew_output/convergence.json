@@ -1,0 +1,34 @@
+[
+    {
+        "word": "convergence",
+        "word_hebrew": "הִתכַּנְסוּת",
+        "main_definition": "Convergence refers to the process of different elements coming together or moving towards a common point, resulting in unity or agreement.",
+        "main_definition_hebrew": "התכנסות מתייחסת לתהליך של אלמנטים שונים שמתאחדים או נעים לעבר נקודה משותפת, וכתוצאה מכך לאחדות או הסכמה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The act of different things becoming similar or coming closer together",
+                "definition_hebrew": "הפעולה של דברים שונים שהופכים דומים או מתקרבים זה לזה",
+                "example": "As technology and society evolve, there is convergence between traditional media and digital platforms.",
+                "example_hebrew": "ככל שהטכנולוגיה והחברה מתפתחים, יש התכנסות בין מדיה מסורתית לפלטפורמות דיגיטליות."
+            },
+            {
+                "definition": "In mathematics, the property where a sequence or series approaches a single value as it progresses",
+                "definition_hebrew": "במתמטיקה, המאפיין שבו רצף או סדרה מתקרבים לערך בודד עם התקדמותם",
+                "example": "The sequences of partial sums in calculus converge to the limit L.",
+                "example_hebrew": "רצפי הסכומים החלקיים בחשבון מתכנסים לגבול L."
+            },
+            {
+                "definition": "A meeting of experts from different fields or disciplines to discuss common issues",
+                "definition_hebrew": "מפגש של מומחים מתחומים או דיסציפלינות שונות לדיון בנושאים משותפים",
+                "example": "There was convergence among scientists, economists, and policymakers during the climate change summit.",
+                "example_hebrew": "הייתה התכנסות בין מדענים, כלכלנים וקובעי מדיניות במהלך פסגת שינויי האקלים."
+            },
+            {
+                "definition": "When waves, such as light or sound, meet after traveling different paths, they superimpose to form a new wave pattern",
+                "definition_hebrew": "כאשר גלים, כגון אור או צליל, נפגשים לאחר נסיעה בדרכים שונות, הם מתחברים ליצירת תבנית גל חדשה",
+                "example": "The convergence of light from different lenses results in an image with sharp focus.",
+                "example_hebrew": "התכנסות האור מעדשות שונות מביאה לתמונה עם פוקוס חד."
+            }
+        ]
+    }
+]

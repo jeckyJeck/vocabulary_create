@@ -1,0 +1,28 @@
+[
+    {
+        "word": "farmer",
+        "word_hebrew": "חַקלאַי",
+        "main_definition": "A person who cultivates land and raises crops or livestock as a primary occupation.",
+        "main_definition_hebrew": "אדם המעבד אדמה ומגדל יבולים או משק חי כעיסוק עיקרי.",
+        "meanings_and_examples": [
+            {
+                "definition": "An individual involved in agriculture, especially one who owns or operates farmland",
+                "definition_hebrew": "אדם העוסק בחקלאות, במיוחד מי שמחזיק או מפעיל קרקע חקלאית",
+                "example": "My uncle is a farmer and grows corn on his farm.",
+                "example_hebrew": "דודי חקלאי ומגדל תירס בחווה שלו."
+            },
+            {
+                "definition": "A person skilled in the art of cultivating crops and managing livestock",
+                "definition_hebrew": "אדם מיומן באמנות גידול יבולים וניהול בעלי חיים",
+                "example": "The farmer used modern techniques to improve crop yield on his land.",
+                "example_hebrew": "החקלאי השתמש בטכניקות מודרניות כדי לשפר את תפוקת היבול באדמתו."
+            },
+            {
+                "definition": "Someone who practices sustainable agriculture and takes care of natural resources",
+                "definition_hebrew": "מישהו שעוסק בחקלאות בת קיימא ודואג למשאבי טבע",
+                "example": "She is a farmer who focuses on organic farming methods, avoiding chemical pesticides and fertilizers.",
+                "example_hebrew": "היא חקלאית שמתמקדת בשיטות חקלאות אורגניות, הימנעות מהדברה כימית ודשנים."
+            }
+        ]
+    }
+]

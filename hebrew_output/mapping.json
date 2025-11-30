@@ -1,0 +1,40 @@
+[
+    {
+        "word": "mapping",
+        "word_hebrew": "מיפוי",
+        "main_definition": "The process of determining the relationship between two or more sets, often used to visually represent this relationship.",
+        "main_definition_hebrew": "תהליך קביעת הקשר בין שני קבוצות או יותר, משמש לעתים קרובות לייצג חזותית מערכת יחסים זו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Geographical mapping",
+                "definition_hebrew": "מיפוי גיאוגרפי",
+                "example": "A map showing different countries and their boundaries.",
+                "example_hebrew": "מפה המציגה מדינות שונות וגבולותיהן."
+            },
+            {
+                "definition": "Data visualization or charting",
+                "definition_hebrew": "הדמיית נתונים או תרשימים",
+                "example": "Creating a bar graph to represent the sales data of a company over time.",
+                "example_hebrew": "יצירת גרף עמודות כדי לייצג את נתוני המכירות של חברה לאורך זמן."
+            },
+            {
+                "definition": "Mapping in mathematics",
+                "definition_hebrew": "מיפוי במתמטיקה",
+                "example": "A function that assigns each element from one set (domain) to an element of another set (codomain). For instance, f(x) = 2x maps every number x to its double.",
+                "example_hebrew": "פונקציה המקצה כל אלמנט מקבוצה אחת (דומיין) לרכיב של קבוצה אחרת (קו-דומיין). לדוגמה, f(x) = 2x ממפה כל מספר x לכפול שלו."
+            },
+            {
+                "definition": "Mapping in computer science",
+                "definition_hebrew": "מיפוי במדעי המחשב",
+                "example": "A function that translates data from one format or structure into a different one, like converting text to uppercase (e.g., mapping 'hello' to 'HELLO').",
+                "example_hebrew": "פונקציה שמתרגמת נתונים מפורמט או מבנה אחד לפורמט אחר, כמו המרת טקסט לאותיות רישיות (לדוגמה, מיפוי 'שלום' ל'HELLO')."
+            },
+            {
+                "definition": "Mental mapping",
+                "definition_hebrew": "מיפוי מנטלי",
+                "example": "The cognitive process whereby individuals form an internal representation of the spatial properties and relationships in their environment.",
+                "example_hebrew": "התהליך הקוגניטיבי שבו אנשים יוצרים ייצוג פנימי של התכונות והיחסים המרחביים בסביבתם."
+            }
+        ]
+    }
+]

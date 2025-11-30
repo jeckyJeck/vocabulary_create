@@ -1,0 +1,28 @@
+[
+    {
+        "word": "automated",
+        "word_hebrew": "אוטומטי",
+        "main_definition": "Operated or performed by mechanical or electronic systems without human intervention.",
+        "main_definition_hebrew": "מופעל או מבוצע על ידי מערכות מכניות או אלקטרוניות ללא התערבות אנושית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Involving automatic operation or control, typically through machinery or computer programming.",
+                "definition_hebrew": "כרוך בהפעלה או בקרה אוטומטית, בדרך כלל באמצעות מכונות או תכנות מחשב.",
+                "example": "The assembly line in the factory was highly automated, with robots performing most of the tasks.",
+                "example_hebrew": "פס הייצור במפעל היה אוטומטי ביותר, כאשר רובוטים ביצעו את רוב המשימות."
+            },
+            {
+                "definition": "Processing information using a system that operates automatically without human input.",
+                "definition_hebrew": "עיבוד מידע באמצעות מערכת הפועלת אוטומטית ללא קלט אנושי.",
+                "example": "Automated teller machines (ATMs) allow customers to perform financial transactions without cashiers.",
+                "example_hebrew": "מכונות כספומט (כספומט) מאפשרות ללקוחות לבצע פעולות פיננסיות ללא קופאים."
+            },
+            {
+                "definition": "Relating to or involving the use of technology for self-service and reducing human labor.",
+                "definition_hebrew": "התייחסות או כרוכה בשימוש בטכנולוגיה לשירות עצמי וצמצום העבודה האנושית.",
+                "example": "Online shopping websites often have automated checkout systems, which streamlines the purchasing process for customers.",
+                "example_hebrew": "לאתרי קניות מקוונים יש לרוב מערכות קופה אוטומטיות, אשר מייעלות את תהליך הרכישה עבור הלקוחות."
+            }
+        ]
+    }
+]

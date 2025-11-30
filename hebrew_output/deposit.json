@@ -1,0 +1,40 @@
+[
+    {
+        "word": "deposit",
+        "word_hebrew": "לְהַפְקִיד",
+        "main_definition": "A sum of money placed or paid into a bank account, investment, or other financial institution.",
+        "main_definition_hebrew": "סכום כסף שהוכנס או שולם לחשבון בנק, השקעה או מוסד פיננסי אחר.",
+        "meanings_and_examples": [
+            {
+                "definition": "To put something in a safe place for safekeeping",
+                "definition_hebrew": "לשים משהו במקום בטוח לשמירה",
+                "example": "I will deposit the valuable artifacts with the museum to keep them secure.",
+                "example_hebrew": "אני אפקיד את החפצים יקרי הערך במוזיאון כדי לשמור עליהם."
+            },
+            {
+                "definition": "Payment made by check or cash directly into an account at a bank",
+                "definition_hebrew": "תשלום בהמחאה או במזומן ישירות לחשבון בבנק",
+                "example": "I received my salary today and I'll be depositing it into my checking account tomorrow.",
+                "example_hebrew": "קיבלתי את המשכורת שלי היום ואני אפקיד אותה לחשבון העובר ושב שלי מחר."
+            },
+            {
+                "definition": "A sum of money paid in advance to reserve or hold a service, product, or property",
+                "definition_hebrew": "סכום כסף ששולם מראש כדי לשמור או להחזיק שירות, מוצר או נכס",
+                "example": "The customer made a $50 deposit to secure their spot at the concert venue.",
+                "example_hebrew": "הלקוח הפקיד 50 דולר כדי להבטיח את מקומו במקום הקונצרטים."
+            },
+            {
+                "definition": "Financial transaction where funds are transferred from one account to another",
+                "definition_hebrew": "עסקה פיננסית שבה כספים מועברים מחשבון אחד לאחר",
+                "example": "I will be transferring my savings into a different bank for better interest rates.",
+                "example_hebrew": "אני אעביר את החסכונות שלי לבנק אחר בשביל ריביות טובות יותר."
+            },
+            {
+                "definition": "A record of the amount, date and place deposited",
+                "definition_hebrew": "רישום הסכום, התאריך והמקום שהופקדו",
+                "example": "The bank statement shows all my recent deposits to my checking account.",
+                "example_hebrew": "דף חשבון הבנק מציג את כל ההפקדות האחרונות שלי לחשבון העובר ושב שלי."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "dimensional",
+        "word_hebrew": "מְמַדִי",
+        "main_definition": "Relating to the measure of length, width, or depth in space; describing something that has a measurable size.",
+        "main_definition_hebrew": "מתייחס למידת האורך, הרוחב או העומק במרחב; מתאר משהו שיש לו גודל מדיד.",
+        "meanings_and_examples": [
+            {
+                "definition": "Pertaining to dimensions or aspects of a particular subject, often used in physics and geometry to describe multi-dimensional spaces",
+                "definition_hebrew": "הנוגע לממדים או היבטים של נושא מסוים, המשמשים לעתים קרובות בפיזיקה ובגיאומטריה כדי לתאר חללים רב מימדיים",
+                "example": "Quantum mechanics deals with the behavior of particles in multi-dimensional space.",
+                "example_hebrew": "מכניקת הקוונטים עוסקת בהתנהגות של חלקיקים במרחב רב מימדי."
+            },
+            {
+                "definition": "Describing something that has measurable physical dimensions, such as length, width, or height",
+                "definition_hebrew": "תיאור משהו שיש לו ממדים פיזיים הניתנים למדידה, כגון אורך, רוחב או גובה",
+                "example": "The building is three dimensional, having depth and volume beyond a flat surface.",
+                "example_hebrew": "הבניין הוא תלת מימדי, בעל עומק ונפח מעבר למשטח שטוח."
+            },
+            {
+                "definition": "Used to describe the various aspects of an issue, problem, or topic",
+                "definition_hebrew": "משמש לתיאור ההיבטים השונים של בעיה, בעיה או נושא",
+                "example": "We should consider the different dimensions of this situation before making a decision.",
+                "example_hebrew": "עלינו לשקול את הממדים השונים של מצב זה לפני קבלת החלטה."
+            },
+            {
+                "definition": "Relating to three-dimensional space and objects within it",
+                "definition_hebrew": "התייחסות למרחב תלת מימדי ולאובייקטים בתוכו",
+                "example": "The sculpture is a remarkable work of art in the realm of three-dimensional design.",
+                "example_hebrew": "הפסל הוא יצירת אמנות יוצאת דופן בתחום העיצוב התלת מימדי."
+            }
+        ]
+    }
+]

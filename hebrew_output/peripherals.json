@@ -1,0 +1,34 @@
+[
+    {
+        "word": "peripherals",
+        "word_hebrew": "ציוד היקפי",
+        "main_definition": "Peripherals are devices that connect to a computer, enhancing its functionality or adding additional features.",
+        "main_definition_hebrew": "ציוד היקפי הם התקנים שמתחברים למחשב, משפרים את הפונקציונליות שלו או מוסיפים תכונות נוספות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Input peripherals - devices used for inputting data into the computer",
+                "definition_hebrew": "ציוד היקפי לקלט - מכשירים המשמשים להזנת נתונים למחשב",
+                "example": "A keyboard and mouse are examples of input peripherals.",
+                "example_hebrew": "מקלדת ועכבר הם דוגמאות לציוד היקפי לקלט."
+            },
+            {
+                "definition": "Output peripherals - devices used for displaying or projecting information from the computer",
+                "definition_hebrew": "ציוד היקפי פלט - מכשירים המשמשים להצגה או הקרנה של מידע מהמחשב",
+                "example": "Monitors, printers, and speakers are examples of output peripherals.",
+                "example_hebrew": "צגים, מדפסות ורמקולים הם דוגמאות לציוד היקפי פלט."
+            },
+            {
+                "definition": "Storage peripherals - devices used for storing data externally to the computer's internal storage",
+                "definition_hebrew": "ציוד היקפי לאחסון - התקנים המשמשים לאחסון נתונים חיצונית לאחסון הפנימי של המחשב",
+                "example": "External hard drives and USB flash drives are examples of storage peripherals.",
+                "example_hebrew": "כוננים קשיחים חיצוניים וכונני הבזק מסוג USB הם דוגמאות לציוד היקפי לאחסון."
+            },
+            {
+                "definition": "Communication peripherals - devices that enable communication with other computers or networks",
+                "definition_hebrew": "ציוד היקפי לתקשורת - מכשירים המאפשרים תקשורת עם מחשבים או רשתות אחרות",
+                "example": "Ethernet cables, Wi-Fi adapters, and Bluetooth devices are examples of communication peripherals.",
+                "example_hebrew": "כבלי Ethernet, מתאמי Wi-Fi והתקני Bluetooth הם דוגמאות לציוד היקפי לתקשורת."
+            }
+        ]
+    }
+]

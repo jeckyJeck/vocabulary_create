@@ -1,0 +1,28 @@
+[
+    {
+        "word": "mhz",
+        "word_hebrew": "mhz",
+        "main_definition": "MHz stands for megahertz, a unit of frequency representing one million hertz (cycles per second) often used in the context of radio frequencies and electronic devices.",
+        "main_definition_hebrew": "MHz מייצג מגה-הרץ, יחידת תדר המייצגת מיליון הרץ (מחזורים לשנייה) המשמשת לעתים קרובות בהקשר של תדרי רדיו ומכשירים אלקטרוניים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Radio Frequency",
+                "definition_hebrew": "תדר רדיו",
+                "example": "A radio station broadcasting at 98.5 MHz operates within a certain range on the electromagnetic spectrum.",
+                "example_hebrew": "תחנת רדיו המשדרת ב-98.5 מגה-הרץ פועלת בטווח מסוים על הספקטרום האלקטרומגנטי."
+            },
+            {
+                "definition": "Digital Signal Processing",
+                "definition_hebrew": "עיבוד אותות דיגיטלי",
+                "example": "The processor in an audio device processes sound signals, often operating at frequencies measured in megahertz.",
+                "example_hebrew": "המעבד בהתקן שמע מעבד אותות קול, לרוב פועל בתדרים הנמדדים במגה-הרץ."
+            },
+            {
+                "definition": "Computer Clock Speed",
+                "definition_hebrew": "מהירות שעון מחשב",
+                "example": "A computer CPU with a clock speed of 3 GHz (gigahertz) is equivalent to 3000 MHz, indicating how many cycles it can perform per second.",
+                "example_hebrew": "מעבד מחשב עם מהירות שעון של 3 גיגה-הרץ (גיגה-הרץ) שווה ערך ל-3000 מגה-הרץ, מה שמציין כמה מחזורים הוא יכול לבצע בשנייה."
+            }
+        ]
+    }
+]

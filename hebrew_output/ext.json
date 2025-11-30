@@ -1,0 +1,34 @@
+[
+    {
+        "word": "ext",
+        "word_hebrew": "שלוחה",
+        "main_definition": "The abbreviation 'ext' commonly stands for 'extra', indicating an additional or supplementary amount, feature, or component in a given context.",
+        "main_definition_hebrew": "הקיצור 'ext' מייצג בדרך כלל 'תוספת', המציין כמות נוספת או משלימה, תכונה או רכיב בהקשר נתון.",
+        "meanings_and_examples": [
+            {
+                "definition": "A request to transfer the call",
+                "definition_hebrew": "בקשה להעברת השיחה",
+                "example": "When you dial 1-800-FLOWERS and get an automated message asking if you'd like to 'ext', it means they are offering to connect your call directly.",
+                "example_hebrew": "כאשר אתה מחייג ל-1-800-FLOWERS ומקבל הודעה אוטומטית ששואלת אותך אם אתה רוצה 'להתקשר', זה אומר שהם מציעים לחבר את השיחה שלך ישירות."
+            },
+            {
+                "definition": "Extension of a phone line or feature",
+                "definition_hebrew": "הרחבה של קו טלפון או תכונה",
+                "example": "Pressing '2' on the phone dialer is for calling an extension, abbreviated as 'ext 2'. This allows you to reach someone within the organization without going through the main receptionist.",
+                "example_hebrew": "לחיצה על '2' בחייגן הטלפון מיועדת לחיוג לשלוחה, בקיצור 'שלוחה 2'. זה מאפשר לך להגיע למישהו בתוך הארגון מבלי לעבור דרך פקיד הקבלה הראשי."
+            },
+            {
+                "definition": "Extra or additional information",
+                "definition_hebrew": "מידע נוסף או נוסף",
+                "example": "The speaker at the conference provided some 'ext' data that was not covered in the main presentation but relevant for further understanding of the topic.",
+                "example_hebrew": "הדובר בכנס סיפק כמה נתונים 'מרחיבים' שלא כוסו במצגת הראשית אך רלוונטיים להבנה נוספת של הנושא."
+            },
+            {
+                "definition": "Additional payment or charge",
+                "definition_hebrew": "תשלום נוסף או חיוב נוסף",
+                "example": "'Ext' charges on a bill might refer to extra fees like late payment penalties, overdraft costs, or other supplementary service expenses.",
+                "example_hebrew": "חיובים 'נלווים' בחשבון עשויים להתייחס לעמלות נוספות כמו קנסות בתשלום מאוחר, עלויות משיכת יתר או הוצאות שירות משלימות אחרות."
+            }
+        ]
+    }
+]

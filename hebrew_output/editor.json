@@ -1,0 +1,40 @@
+[
+    {
+        "word": "editor",
+        "word_hebrew": "עוֹרֵך",
+        "main_definition": "An editor is a person who prepares written, visual or audio material for publication or broadcasting by checking grammar, spelling, and overall coherence.",
+        "main_definition_hebrew": "עורך הוא אדם שמכין חומר כתוב, ויזואלי או קולי לפרסום או שידור על ידי בדיקת דקדוק, איות וקוהרנטיות כללית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A professional who modifies and corrects written content such as books, articles, or manuscripts to ensure quality and clarity before it is published.",
+                "definition_hebrew": "איש מקצוע שמשנה ומתקן תוכן כתוב כגון ספרים, מאמרים או כתבי יד כדי להבטיח איכות ובהירות לפני פרסומו.",
+                "example": "The editor of the newspaper meticulously reviewed each article for grammatical errors.",
+                "example_hebrew": "עורך העיתון בדק בקפדנות כל כתבה לאיתור שגיאות דקדוקיות."
+            },
+            {
+                "definition": "A person who makes decisions about what content to include in a publication, often by selecting or rejecting pieces written by others.",
+                "definition_hebrew": "אדם שמקבל החלטות לגבי התוכן לכלול בפרסום, לרוב על ידי בחירה או דחייה של יצירות שנכתבו על ידי אחרים.",
+                "example": "An editor at a magazine chose several articles on fashion trends and environmental issues for the next issue.",
+                "example_hebrew": "עורכת במגזין בחרה לגיליון הבא מספר מאמרים בנושאי אופנה וסוגיות סביבתיות."
+            },
+            {
+                "definition": "In the context of software development, an 'editor' is a tool used to write, edit, or modify code in programming languages.",
+                "definition_hebrew": "בהקשר של פיתוח תוכנה, 'עורך' הוא כלי המשמש לכתיבה, עריכה או שינוי קוד בשפות תכנות.",
+                "example": "The developer used the editor to update the JavaScript code on the website.",
+                "example_hebrew": "המפתח השתמש בעורך כדי לעדכן את קוד ה-JavaScript באתר."
+            },
+            {
+                "definition": "A version control system that manages changes to documents, programs, and other information stored as computer files. Often referred to as an 'editor' in this context.",
+                "definition_hebrew": "מערכת בקרת גרסאות המנהלת שינויים במסמכים, תוכניות ומידע אחר המאוחסן כקבצי מחשב. מכונה לעתים קרובות 'עורך' בהקשר זה.",
+                "example": "The team used Git for its efficient handling of code revisions.",
+                "example_hebrew": "הצוות השתמש ב-Git לטיפול היעיל שלו בתיקוני קוד."
+            },
+            {
+                "definition": "A person who supervises the work of writers or journalists, providing guidance on style, tone, and content.",
+                "definition_hebrew": "אדם המפקח על עבודתם של סופרים או עיתונאים, נותן הדרכה על סגנון, טון ותוכן.",
+                "example": "As an editor-in-chief, she oversaw the publication's content strategy and direction.",
+                "example_hebrew": "כעורכת ראשית, היא פיקחה על אסטרטגיית התוכן והכיוון של ההוצאה."
+            }
+        ]
+    }
+]

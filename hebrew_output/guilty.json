@@ -1,0 +1,28 @@
+[
+    {
+        "word": "guilty",
+        "word_hebrew": "אָשֵׁם",
+        "main_definition": "Feeling or showing that one is responsible for wrongdoing.",
+        "main_definition_hebrew": "להרגיש או להראות שאדם אחראי לעוולה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Admitting responsibility for a fault or misdeed.",
+                "definition_hebrew": "הודאה באחריות לתקלה או עוולה.",
+                "example": "After being caught stealing, he felt guilty and confessed to his parents.",
+                "example_hebrew": "לאחר שנתפס גונב, הוא חש אשם והודה בפני הוריו."
+            },
+            {
+                "definition": "Feeling remorseful about committing an offense.",
+                "definition_hebrew": "תחושת חרטה על ביצוע עבירה.",
+                "example": "The thief was overwhelmed with guilt after realizing the impact of his actions on others.",
+                "example_hebrew": "הגנב היה מוצף באשמה לאחר שהבין את ההשפעה של מעשיו על אחרים."
+            },
+            {
+                "definition": "Having been found responsible by a court for committing a crime.",
+                "definition_hebrew": "לאחר שנמצא אחראי על ידי בית משפט לביצוע פשע.",
+                "example": "He was convicted and sentenced to jail time, finally facing the reality of being guilty as charged.",
+                "example_hebrew": "הוא הורשע ונידון למאסר, לבסוף מול המציאות של אשם כפי שהואשם."
+            }
+        ]
+    }
+]

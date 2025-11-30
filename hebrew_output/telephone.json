@@ -1,0 +1,34 @@
+[
+    {
+        "word": "telephone",
+        "word_hebrew": "טֵלֵפוֹן",
+        "main_definition": "A telephone is a device used for transmitting sound, typically voices, over long distances via wire or through wireless communication methods.",
+        "main_definition_hebrew": "טלפון הוא מכשיר המשמש להעברת קול, בדרך כלל קולות, למרחקים ארוכים באמצעות חוט או באמצעות שיטות תקשורת אלחוטיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "The actual device itself, consisting of components like the handset and base station",
+                "definition_hebrew": "המכשיר עצמו, המורכב מרכיבים כמו השפופרת ותחנת הבסיס",
+                "example": "She picked up her telephone to make a call.",
+                "example_hebrew": "היא הרימה את הטלפון שלה כדי להתקשר."
+            },
+            {
+                "definition": "A communication service that allows users to speak with others over distances",
+                "definition_hebrew": "שירות תקשורת המאפשר למשתמשים לדבר עם אחרים על פני מרחקים",
+                "example": "I dialed my friend's number on the telephone to chat with him after work.",
+                "example_hebrew": "חייגתי למספר של חבר שלי בטלפון כדי לשוחח איתו אחרי העבודה."
+            },
+            {
+                "definition": "The act of using a telephone device for voice communication",
+                "definition_hebrew": "פעולת השימוש במכשיר טלפון לתקשורת קולית",
+                "example": "He made several calls during his business trip, engaging in various telephonic conversations.",
+                "example_hebrew": "הוא ביצע מספר שיחות במהלך נסיעת העסקים שלו, ועסק בשיחות טלפון שונות."
+            },
+            {
+                "definition": "A method or system of transmitting sound over long distances",
+                "definition_hebrew": "שיטה או מערכת להעברת קול למרחקים ארוכים",
+                "example": "Telephony revolutionized the way people could communicate by enabling direct voice transmission across great distances.",
+                "example_hebrew": "הטלפוניה חוללה מהפכה בדרך שבה אנשים יכלו לתקשר על ידי הפעלת שידור קול ישיר למרחקים גדולים."
+            }
+        ]
+    }
+]

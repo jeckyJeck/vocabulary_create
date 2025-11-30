@@ -1,0 +1,34 @@
+[
+    {
+        "word": "lyrics",
+        "word_hebrew": "מילים",
+        "main_definition": "Lyrics are the words of a song, usually set to music.",
+        "main_definition_hebrew": "מילים הן מילים של שיר, בדרך כלל למוזיקה.",
+        "meanings_and_examples": [
+            {
+                "definition": "The text or words in a song that convey its meaning and story.",
+                "definition_hebrew": "הטקסט או המילים בשיר המעבירים את משמעותו וסיפורו.",
+                "example": "The lyrics of 'Bohemian Rhapsody' by Queen describe the protagonist's emotional turmoil.",
+                "example_hebrew": "המילים של 'רפסודיה בוהמית' מאת קווין מתארות את סערת הנפש של הגיבור."
+            },
+            {
+                "definition": "Words used to express feelings, thoughts, or ideas in a song that complement its melody and rhythm.",
+                "definition_hebrew": "מילים המשמשות להבעת רגשות, מחשבות או רעיונות בשיר המשלימות את המנגינה והקצב שלו.",
+                "example": "The lyrics of 'Hallelujah' by Leonard Cohen beautifully capture the essence of love and loss.",
+                "example_hebrew": "המילים של 'הללויה' מאת לאונרד כהן לוכדות בצורה יפה את מהות האהבה והאובדן."
+            },
+            {
+                "definition": "A set of words written to accompany music, often in a poetic or artistic form.",
+                "definition_hebrew": "אוסף מילים שנכתב כדי ללוות מוזיקה, לרוב בצורה פואטית או אמנותית.",
+                "example": "In rap music, lyrics are an essential part of storytelling and self-expression through spoken word rhythmically paired with beats.",
+                "example_hebrew": "במוזיקת ראפ, מילים הן חלק מהותי מסיפור סיפורים וביטוי עצמי באמצעות מילה מדוברת בשילוב קצבי עם ביטים."
+            },
+            {
+                "definition": "The text written by the songwriter that becomes a fixed component of the musical work.",
+                "definition_hebrew": "הטקסט שנכתב על ידי כותב השיר שהופך למרכיב קבוע ביצירה המוזיקלית.",
+                "example": "Many fans analyze the lyrics in 'Imagine' by John Lennon for their powerful message about peace and unity.",
+                "example_hebrew": "מעריצים רבים מנתחים את מילות השיר 'Imagine' מאת ג'ון לנון על המסר העוצמתי שלהם על שלום ואחדות."
+            }
+        ]
+    }
+]

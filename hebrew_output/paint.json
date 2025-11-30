@@ -1,0 +1,34 @@
+[
+    {
+        "word": "paint",
+        "word_hebrew": "צֶבַע",
+        "main_definition": "To apply color or coating to a surface using various techniques, often as an artistic expression.",
+        "main_definition_hebrew": "ליישם צבע או ציפוי על משטח בטכניקות שונות, לרוב כביטוי אמנותי.",
+        "meanings_and_examples": [
+            {
+                "definition": "Create an image with colors applied to canvas or paper through brush strokes and other painting techniques",
+                "definition_hebrew": "צור תמונה עם צבעים המוחלים על קנבס או נייר באמצעות משיכות מכחול וטכניקות ציור אחרות",
+                "example": "She spent hours in the studio, paintbrush in hand, creating a beautiful landscape on her canvas.",
+                "example_hebrew": "היא בילתה שעות בסטודיו, מכחול ביד, ויצרה נוף יפהפה על הקנבס שלה."
+            },
+            {
+                "definition": "To describe someone's appearance as if they were painted with makeup or elaborate adornments",
+                "definition_hebrew": "לתאר את המראה של מישהו כאילו הוא נצבע באיפור או בקישוטים משוכללים",
+                "example": "After getting ready for the party, she looked like she was painted by an artist, with all her features enhanced and highlighted.",
+                "example_hebrew": "לאחר שהתכוננה למסיבה, היא נראתה כאילו צוירה על ידי אמן, עם כל המאפיינים שלה משופרים ומודגשים."
+            },
+            {
+                "definition": "To express a situation or feeling using vivid language that creates a strong visual impression in the reader's mind",
+                "definition_hebrew": "להביע מצב או תחושה באמצעות שפה חיה היוצרת רושם ויזואלי חזק במוחו של הקורא",
+                "example": "His description of the sunset as 'a canvas painted by nature itself, with hues of orange and pink blending seamlessly into each other' was breathtaking.",
+                "example_hebrew": "תיאורו של השקיעה כ\"בד שצויר על ידי הטבע עצמו, עם גווני כתום וורוד המשתלבים זה בזה בצורה חלקה\" היה עוצר נשימה."
+            },
+            {
+                "definition": "To give a surface a new color or appearance using paint",
+                "definition_hebrew": "להעניק למשטח צבע או מראה חדש באמצעות צבע",
+                "example": "The old wooden fence had been repainted in bright blue, transforming its dull appearance completely.",
+                "example_hebrew": "גדר העץ הישנה נצבעה מחדש בכחול עז, ושינתה את המראה המשעמם שלה לחלוטין."
+            }
+        ]
+    }
+]

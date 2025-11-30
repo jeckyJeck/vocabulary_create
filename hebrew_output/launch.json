@@ -1,0 +1,40 @@
+[
+    {
+        "word": "launch",
+        "word_hebrew": "לְהַשִׁיק",
+        "main_definition": "To set something into motion or initiate a process, project, or event.",
+        "main_definition_hebrew": "להניע משהו או ליזום תהליך, פרויקט או אירוע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Initiating the start of a rocket or spacecraft's journey to outer space.",
+                "definition_hebrew": "התחלת מסע של רקטה או חללית לחלל החיצון.",
+                "example": "The countdown began as NASA prepared to launch its new Mars rover.",
+                "example_hebrew": "הספירה לאחור החלה כאשר נאס\"א התכוננה לשגר את רובר מאדים החדש שלה."
+            },
+            {
+                "definition": "Starting a product release in marketing, such as for software or consumer goods.",
+                "definition_hebrew": "התחלת הוצאת מוצר בשיווק, כגון עבור תוכנה או מוצרי צריכה.",
+                "example": "The company planned to launch the latest version of their app next month.",
+                "example_hebrew": "החברה תכננה להשיק את הגרסה האחרונה של האפליקציה שלה בחודש הבא."
+            },
+            {
+                "definition": "Beginning a campaign or promotional event.",
+                "definition_hebrew": "התחלת קמפיין או אירוע קידום מכירות.",
+                "example": "The non-profit organization launched an awareness campaign for ocean conservation.",
+                "example_hebrew": "העמותה פתחה בקמפיין מודעות לשימור האוקיינוסים."
+            },
+            {
+                "definition": "Starting up machinery in manufacturing, such as machines on the factory floor.",
+                "definition_hebrew": "הפעלת מכונות בייצור, כגון מכונות ברצפת המפעל.",
+                "example": "Before production can begin, all equipment must be launched and tested.",
+                "example_hebrew": "לפני שניתן להתחיל בייצור, יש להפעיל ולבדוק את כל הציוד."
+            },
+            {
+                "definition": "Launching a new program or initiative within an organization.",
+                "definition_hebrew": "השקת תוכנית או יוזמה חדשה בתוך ארגון.",
+                "example": "The school board decided to launch a mentorship program for at-risk students.",
+                "example_hebrew": "הנהלת בית הספר החליטה להשיק תכנית חונכות לתלמידים בסיכון."
+            }
+        ]
+    }
+]

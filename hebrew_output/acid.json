@@ -1,0 +1,34 @@
+[
+    {
+        "word": "acid",
+        "word_hebrew": "חוּמצָה",
+        "main_definition": "Acid is a chemical substance that typically tastes sour, can react with metals to produce hydrogen gas, changes the color of indicators (e.g., turns blue litmus paper red), and has pH less than 7.",
+        "main_definition_hebrew": "חומצה היא חומר כימי שבדרך כלל טעמו חמוץ, יכול להגיב עם מתכות לייצור גז מימן, משנה את צבע האינדיקטורים (למשל, הופך נייר לקמוס כחול לאדום), ובעל pH נמוך מ-7.",
+        "meanings_and_examples": [
+            {
+                "definition": "A substance that is sour in taste",
+                "definition_hebrew": "חומר חמצמץ בטעמו",
+                "example": "Lemon juice contains citric acid, which gives it a tangy flavor.",
+                "example_hebrew": "מיץ לימון מכיל חומצת לימון, המעניקה לו טעם חריף."
+            },
+            {
+                "definition": "A chemical compound capable of donating hydrogen ions (H+) or protons to other substances",
+                "definition_hebrew": "תרכובת כימית המסוגלת לתרום יוני מימן (H+) או פרוטונים לחומרים אחרים",
+                "example": "When vinegar reacts with baking soda, acetic acid is produced and releases hydrogen gas.",
+                "example_hebrew": "כאשר חומץ מגיב עם סודה לשתייה, חומצה אצטית נוצרת ומשחררת גז מימן."
+            },
+            {
+                "definition": "An idiomatic expression meaning something unpleasant or difficult",
+                "definition_hebrew": "ביטוי אידיומטי שמשמעותו משהו לא נעים או קשה",
+                "example": "He faced an acid setback when his project was rejected by the committee.",
+                "example_hebrew": "הוא עמד בפני כישלון חומצי כאשר הפרויקט שלו נדחה על ידי הוועדה."
+            },
+            {
+                "definition": "A slang term used to describe a situation that is upsetting, stressful, or challenging",
+                "definition_hebrew": "מונח סלנג המשמש לתיאור מצב מרגיז, מלחיץ או מאתגר",
+                "example": "She felt like she was in an acid mood after receiving bad news.",
+                "example_hebrew": "היא הרגישה כאילו היא במצב רוח חומצי לאחר שקיבלה חדשות רעות."
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "word": "prime",
+        "word_hebrew": "רִאשׁוֹנִי",
+        "main_definition": "Prime refers to a number greater than 1 that has no positive divisors other than 1 and itself.",
+        "main_definition_hebrew": "ראשוני מתייחס למספר גדול מ-1 שאין לו מחלקים חיוביים מלבד 1 ומעצמו.",
+        "meanings_and_examples": [
+            {
+                "definition": "In mathematics, prime is an integer greater than 1 that cannot be formed by multiplying two smaller natural numbers.",
+                "definition_hebrew": "במתמטיקה, ראשוני הוא מספר שלם הגדול מ-1 שלא ניתן ליצור על ידי הכפלת שני מספרים טבעיים קטנים יותר.",
+                "example": "The number 5 is a prime because it can only be divided evenly by 1 and itself.",
+                "example_hebrew": "המספר 5 הוא ראשוני מכיוון שניתן לחלק אותו באופן שווה רק ב-1 ובעצמו."
+            },
+            {
+                "definition": "When referring to time or dates, 'prime' means the first day of the month.",
+                "definition_hebrew": "כאשר מתייחסים לשעה או לתאריכים, 'פריים' פירושו היום הראשון של החודש.",
+                "example": "Today is the prime, so many people celebrate with special activities or events.",
+                "example_hebrew": "היום זה הפריים, כל כך הרבה אנשים חוגגים עם פעילויות או אירועים מיוחדים."
+            },
+            {
+                "definition": "In real estate and housing market, a property considered desirable due to its location, size, condition, etc., can be referred to as 'prime'.",
+                "definition_hebrew": "בשוק הנדל\"ן והדיור ניתן להתייחס לנכס הנחשב נחשק בשל מיקומו, גודלו, מצבו וכדומה, 'פריים'.",
+                "example": "The house on Maple Street is in a prime location with stunning views.",
+                "example_hebrew": "הבית ברחוב מייפל נמצא במיקום מעולה עם נוף מדהים."
+            },
+            {
+                "definition": "In the entertainment industry, a film or show that attracts widespread attention and high audience ratings can be described as 'prime'.",
+                "definition_hebrew": "בתעשיית הבידור אפשר לתאר סרט או תוכנית שמושכים תשומת לב רחבה ודירוגי קהל גבוהים כ'פריים'.",
+                "example": "The new superhero movie was very successful during its prime weekend at the box office.",
+                "example_hebrew": "סרט גיבורי העל החדש הצליח מאוד במהלך סוף השבוע הטוב שלו בקופות."
+            },
+            {
+                "definition": "In finance, a loan or debt that has not been paid back to a lender for over 30 days and is now considered in default may be called 'prime'.",
+                "definition_hebrew": "בפיננסים, הלוואה או חוב שלא הוחזרו למלווה במשך למעלה מ-30 יום ונחשבים כיום כמחדלים יכולים להיקרא 'פריים'.",
+                "example": "Their prime status was revoked when they failed to make the minimum monthly payments on time.",
+                "example_hebrew": "מעמד הפריים שלהם בוטל כאשר לא הצליחו לבצע את התשלומים החודשיים המינימליים בזמן."
+            },
+            {
+                "definition": "In computing, 'prime' can refer to a key or value that holds unique importance within an algorithm or data set.",
+                "definition_hebrew": "במחשוב, 'ראשי' יכול להתייחס למפתח או לערך שיש להם חשיבות ייחודית בתוך אלגוריתם או מערך נתונים.",
+                "example": "When searching for information online, prime keywords are those that yield precise results and relevant content.",
+                "example_hebrew": "בעת חיפוש מידע באינטרנט, מילות המפתח העיקריות הן אלו שמניבות תוצאות מדויקות ותוכן רלוונטי."
+            }
+        ]
+    }
+]

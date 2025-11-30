@@ -1,0 +1,40 @@
+[
+    {
+        "word": "vertex",
+        "word_hebrew": "קָדקוֹד",
+        "main_definition": "The point or tip of a geometric figure, especially the corners or points where two lines meet in geometry.",
+        "main_definition_hebrew": "הנקודה או הקצה של דמות גיאומטרית, במיוחד הפינות או הנקודות שבהן שני קווים נפגשים בגיאומטריה.",
+        "meanings_and_examples": [
+            {
+                "definition": "In mathematics and geometry, it refers to a corner or a point where two line segments intersect. For example, the vertex of an angle is the point where its two sides meet.",
+                "definition_hebrew": "במתמטיקה ובגיאומטריה, זה מתייחס לפינה או לנקודה שבה שני קטעי קו מצטלבים. לדוגמה, קודקוד זווית הוא הנקודה שבה שתי צלעותיה נפגשות.",
+                "example": "The vertices of this triangle are at points A, B, and C.",
+                "example_hebrew": "הקודקודים של משולש זה נמצאים בנקודות A, B ו-C."
+            },
+            {
+                "definition": "In geometry, it also refers to a corner or a tip of a polygon. For instance, a pentagon has five vertices, which are the five corners where sides meet.",
+                "definition_hebrew": "בגיאומטריה, זה מתייחס גם לפינה או לקצה של מצולע. לדוגמה, לפנטגון יש חמישה קודקודים, שהם חמש הפינות שבהן הצדדים נפגשות.",
+                "example": "The vertices of this hexagonal pattern can be found at each point where two lines intersect.",
+                "example_hebrew": "ניתן למצוא את הקודקודים של תבנית משושה זו בכל נקודה שבה שני קווים מצטלבים."
+            },
+            {
+                "definition": "In astronomy, it refers to a significant celestial event that occurs when two celestial bodies come closest together in the sky. For example, a lunar eclipse vertex is when Earth's shadow fully covers the Moon.",
+                "definition_hebrew": "באסטרונומיה, הכוונה היא לאירוע שמימי משמעותי המתרחש כאשר שני גרמי שמים מתקרבים הכי קרוב זה לזה בשמים. לדוגמה, קודקוד ליקוי ירח הוא כאשר הצל של כדור הארץ מכסה את הירח במלואו.",
+                "example": "The vertices of this planetary alignment occur once every 18 years.",
+                "example_hebrew": "הקודקודים של היישור הפלנטרי הזה מתרחשים אחת ל-18 שנים."
+            },
+            {
+                "definition": "In physics and engineering, it refers to the highest point or peak in an oscillation. For example, in a pendulum's swing, the vertex is where the pendulum changes direction.",
+                "definition_hebrew": "בפיזיקה ובהנדסה, זה מתייחס לנקודה או הפסגה הגבוהים ביותר בתנודה. לדוגמה, בתנופה של מטוטלת, הקודקוד הוא המקום שבו המטוטלת משנה כיוון.",
+                "example": "The amplitude of the wave reached its maximum at the vertex.",
+                "example_hebrew": "משרעת הגל הגיעה למקסימום בקודקוד."
+            },
+            {
+                "definition": "In electronics and signal processing, it refers to the peak point on a graph representing voltage or current. For example, in an oscilloscope reading, the vertices indicate points where the signal's value is highest.",
+                "definition_hebrew": "באלקטרוניקה ועיבוד אותות, זה מתייחס לנקודת השיא בגרף המייצג מתח או זרם. לדוגמה, בקריאת אוסילוסקופ, הקודקודים מציינים נקודות שבהן ערך האות הוא הגבוה ביותר.",
+                "example": "The peaks of this sine wave are located at its vertices.",
+                "example_hebrew": "השיאים של גל הסינוס הזה ממוקמים בקודקודיו."
+            }
+        ]
+    }
+]

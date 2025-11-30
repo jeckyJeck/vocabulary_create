@@ -1,0 +1,34 @@
+[
+    {
+        "word": "hosted",
+        "word_hebrew": "מתארח",
+        "main_definition": "To provide a space, service or platform where events or content are available to an audience.",
+        "main_definition_hebrew": "לספק מרחב, שירות או פלטפורמה שבה אירועים או תוכן זמינים לקהל.",
+        "meanings_and_examples": [
+            {
+                "definition": "To have someone stay at one's home for accommodation purposes.",
+                "definition_hebrew": "להשאיר מישהו בביתו למטרות לינה.",
+                "example": "The Smith family hosted their neighbors over the weekend.",
+                "example_hebrew": "משפחת סמית' אירחה את השכנים שלה בסוף השבוע."
+            },
+            {
+                "definition": "To run an event, such as a conference or exhibition, and provide facilities and services to guests.",
+                "definition_hebrew": "לנהל אירוע, כמו כנס או תערוכה, ולספק מתקנים ושירותים לאורחים.",
+                "example": "The convention center hosted the national technology summit last month.",
+                "example_hebrew": "מרכז הכנסים אירח את פסגת הטכנולוגיה הלאומית בחודש שעבר."
+            },
+            {
+                "definition": "When referring to content on the internet, it means that someone has made the content available for others through their website or platform.",
+                "definition_hebrew": "כאשר מתייחסים לתוכן באינטרנט, זה אומר שמישהו הפך את התוכן לזמין עבור אחרים דרך האתר או הפלטפורמה שלו.",
+                "example": "Our website hosts a wide range of educational resources for free access.",
+                "example_hebrew": "האתר שלנו מארח מגוון רחב של משאבים חינוכיים לגישה חופשית."
+            },
+            {
+                "definition": "In computing, hosting refers to storing and serving files from a server on the internet. It also means maintaining and providing access to web-based applications or software.",
+                "definition_hebrew": "במחשוב, אירוח מתייחס לאחסון והגשת קבצים משרת באינטרנט. המשמעות היא גם תחזוקה ומתן גישה ליישומים או תוכנות מבוססי אינטרנט.",
+                "example": "The company offers cloud hosting services for small businesses.",
+                "example_hebrew": "החברה מציעה שירותי אירוח בענן לעסקים קטנים."
+            }
+        ]
+    }
+]

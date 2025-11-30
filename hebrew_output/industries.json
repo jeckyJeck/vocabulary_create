@@ -1,0 +1,34 @@
+[
+    {
+        "word": "industries",
+        "word_hebrew": "תעשיות",
+        "main_definition": "Industries refer to the various sectors of an economy that produce goods or services, typically characterized by their distinct methods, technologies, and output.",
+        "main_definition_hebrew": "תעשיות מתייחסות למגזרים השונים של המשק המייצרים סחורות או שירותים, המאופיינים בדרך כלל בשיטות, טכנולוגיות ותפוקה שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Sectors involved in manufacturing",
+                "definition_hebrew": "מגזרים העוסקים בייצור",
+                "example": "The automobile industry, which includes companies like Ford and Toyota that design and produce vehicles.",
+                "example_hebrew": "תעשיית הרכב, הכוללת חברות כמו פורד וטויוטה שמתכננות ומייצרות כלי רכב."
+            },
+            {
+                "definition": "Economic sectors producing consumer goods",
+                "definition_hebrew": "מגזרים כלכליים המייצרים מוצרי צריכה",
+                "example": "The food industry encompasses businesses such as Nestlé or PepsiCo, focusing on packaged and ready-to-eat products.",
+                "example_hebrew": "תעשיית המזון כוללת עסקים כמו נסטלה או פפסיקו, תוך התמקדות במוצרים ארוזים ומוכנים לאכילה."
+            },
+            {
+                "definition": "Sectors involved in the production of raw materials",
+                "definition_hebrew": "מגזרים העוסקים בייצור חומרי גלם",
+                "example": "The mining industry includes companies like BHP Group that extract natural resources such as coal and iron ore.",
+                "example_hebrew": "תעשיית הכרייה כוללת חברות כמו BHP Group המפיקות משאבי טבע כמו פחם ועפרות ברזל."
+            },
+            {
+                "definition": "Entities engaged in providing services rather than tangible products",
+                "definition_hebrew": "גופים העוסקים במתן שירותים ולא במוצרים מוחשיים",
+                "example": "The financial industry comprises institutions like JPMorgan Chase or Goldman Sachs, offering banking, investment, and other related services.",
+                "example_hebrew": "התעשייה הפיננסית כוללת מוסדות כמו JPMorgan Chase או Goldman Sachs, המציעים בנקאות, השקעות ושירותים קשורים אחרים."
+            }
+        ]
+    }
+]

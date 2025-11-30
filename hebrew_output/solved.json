@@ -1,0 +1,40 @@
+[
+    {
+        "word": "solved",
+        "word_hebrew": "נפתרה",
+        "main_definition": "To find an answer or solution to a problem, puzzle, riddle, dispute, or mathematical equation.",
+        "main_definition_hebrew": "למצוא תשובה או פתרון לבעיה, חידה, חידה, מחלוקת או משוואה מתמטית.",
+        "meanings_and_examples": [
+            {
+                "definition": "To address and resolve a conflict or issue between parties.",
+                "definition_hebrew": "לטפל ולפתור סכסוך או בעיה בין הצדדים.",
+                "example": "After hours of negotiation, the two countries finally managed to solve their trade dispute.",
+                "example_hebrew": "לאחר שעות של משא ומתן, שתי המדינות הצליחו סוף סוף לפתור את סכסוך הסחר ביניהן."
+            },
+            {
+                "definition": "To complete a crossword puzzle by finding appropriate words that fit the given clues.",
+                "definition_hebrew": "להשלמת תשבץ על ידי מציאת מילים מתאימות שמתאימות לרמזים הנתונים.",
+                "example": "She spent her afternoon solving a difficult crossword puzzle in the newspaper.",
+                "example_hebrew": "היא בילתה את אחר הצהריים בפתרון תשבץ קשה בעיתון."
+            },
+            {
+                "definition": "In mathematics, to find the answer or value for an equation or expression.",
+                "definition_hebrew": "במתמטיקה, למצוא את התשובה או הערך עבור משוואה או ביטוי.",
+                "example": "The math problem was solved using the quadratic formula: x = (-b ± sqrt(b^2 - 4ac)) / (2a).",
+                "example_hebrew": "בעיית המתמטיקה נפתרה באמצעות הנוסחה הריבועית: x = (-b ± sqrt(b^2 - 4ac)) / (2a)."
+            },
+            {
+                "definition": "To fix a technical issue with equipment, software, or machinery.",
+                "definition_hebrew": "כדי לתקן בעיה טכנית בציוד, תוכנה או מכונות.",
+                "example": "The IT specialist was able to solve the computer's booting problem after updating its drivers.",
+                "example_hebrew": "מומחה ה-IT הצליח לפתור את בעיית האתחול של המחשב לאחר עדכון מנהלי ההתקן שלו."
+            },
+            {
+                "definition": "In gaming, to overcome an obstacle or enemy within a game level.",
+                "definition_hebrew": "במשחקים, להתגבר על מכשול או אויב בתוך רמת משחק.",
+                "example": "He managed to solve the tricky maze in the adventure game and found the hidden treasure.",
+                "example_hebrew": "הוא הצליח לפתור את המבוך המסובך במשחק ההרפתקאות ומצא את האוצר החבוי."
+            }
+        ]
+    }
+]

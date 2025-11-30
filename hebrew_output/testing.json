@@ -1,0 +1,40 @@
+[
+    {
+        "word": "testing",
+        "word_hebrew": "בדיקה",
+        "main_definition": "Testing is the process of evaluating a system, component or product by performing it under specified conditions to measure its compliance with requirements, quality, or performance standards.",
+        "main_definition_hebrew": "בדיקה היא תהליך של הערכת מערכת, רכיב או מוצר על ידי ביצועם בתנאים מוגדרים כדי למדוד את תאימותם לדרישות, איכות או תקני ביצועים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In general terms",
+                "definition_hebrew": "במונחים כלליים",
+                "example": "The company conducts regular testing of their products before releasing them to the market.",
+                "example_hebrew": "החברה מבצעת בדיקות שוטפות למוצריה לפני שחרורם לשוק."
+            },
+            {
+                "definition": "Assessment in a professional setting, such as software development or product design",
+                "definition_hebrew": "הערכה במסגרת מקצועית, כגון פיתוח תוכנה או עיצוב מוצר",
+                "example": "Quality assurance engineers perform rigorous testing on new software releases to ensure they meet industry standards and function correctly.",
+                "example_hebrew": "מהנדסי אבטחת איכות מבצעים בדיקות קפדניות במהדורות תוכנה חדשות כדי להבטיח שהן עומדות בתקני התעשייה ומתפקדות כהלכה."
+            },
+            {
+                "definition": "A method used by scientists to validate hypotheses and theories",
+                "definition_hebrew": "שיטה המשמשת מדענים לאימות השערות ותיאוריות",
+                "example": "Biologists use DNA sequencing as a testing procedure to confirm their research findings about the genetic makeup of an organism.",
+                "example_hebrew": "ביולוגים משתמשים ברצף DNA כהליך בדיקה כדי לאשר את ממצאי המחקר שלהם לגבי המבנה הגנטי של אורגניזם."
+            },
+            {
+                "definition": "An evaluation or check performed for various purposes, such as learning, improvement or validation",
+                "definition_hebrew": "הערכה או בדיקה המבוצעת למטרות שונות, כגון למידה, שיפור או תיקוף",
+                "example": "A teacher gives students quizzes and tests to gauge their understanding of a subject matter being taught.",
+                "example_hebrew": "מורה נותן לתלמידים מבחנים ומבחנים כדי לאמוד את הבנתם בנושא הנלמד."
+            },
+            {
+                "definition": "The process used by individuals to confirm the accuracy of information received or assumptions made",
+                "definition_hebrew": "התהליך בו משתמשים אנשים כדי לאשר את דיוק המידע שהתקבל או הנחות היסוד",
+                "example": "After receiving conflicting news, people may test different sources to verify which one is more reliable.",
+                "example_hebrew": "לאחר קבלת חדשות סותרות, אנשים עשויים לבדוק מקורות שונים כדי לוודא איזה מהם אמין יותר."
+            }
+        ]
+    }
+]

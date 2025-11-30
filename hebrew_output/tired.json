@@ -1,0 +1,34 @@
+[
+    {
+        "word": "tired",
+        "word_hebrew": "עייף",
+        "main_definition": "Feeling a need to rest or sleep due to physical or mental exertion, exhaustion, or lack of interest.",
+        "main_definition_hebrew": "תחושת צורך לנוח או לישון עקב מאמץ פיזי או נפשי, תשישות או חוסר עניין.",
+        "meanings_and_examples": [
+            {
+                "definition": "Exhausted physically from activity or labor.",
+                "definition_hebrew": "מותש פיזית מפעילות או צירים.",
+                "example": "After running ten miles, he felt completely tired and needed to sit down.",
+                "example_hebrew": "לאחר ריצה של עשרה קילומטרים, הוא הרגיש עייף לחלוטין והיה צריך לשבת."
+            },
+            {
+                "definition": "Lacking energy mentally due to overwork or stress.",
+                "definition_hebrew": "חוסר אנרגיה נפשית עקב עבודה יתר או מתח.",
+                "example": "She was so engrossed in her studies that she became tired without realizing it for hours.",
+                "example_hebrew": "היא הייתה כל כך שקועה בלימודים שהיא התעייפה בלי לשים לב במשך שעות."
+            },
+            {
+                "definition": "Showing weariness and a need for rest after exertion.",
+                "definition_hebrew": "מראה עייפות וצורך במנוחה לאחר מאמץ.",
+                "example": "After climbing the mountain, they all collapsed into their camp chairs, utterly tired.",
+                "example_hebrew": "לאחר הטיפוס על ההר, כולם התמוטטו בכיסאות המחנה שלהם, עייפים לחלוטין."
+            },
+            {
+                "definition": "Bored or uninterested; lacking enthusiasm or desire to engage in an activity.",
+                "definition_hebrew": "משועמם או לא מעוניין; חוסר התלהבות או רצון לעסוק בפעילות.",
+                "example": "The children were so bored with the game that they started to feel tired of playing it.",
+                "example_hebrew": "הילדים היו כל כך משועממים מהמשחק שהם התחילו לחוש עייפים מלשחק בו."
+            }
+        ]
+    }
+]

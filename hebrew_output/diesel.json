@@ -1,0 +1,34 @@
+[
+    {
+        "word": "diesel",
+        "word_hebrew": "דִיזֶל",
+        "main_definition": "Diesel can refer to a type of fuel or engine, the sound made by certain engines, and an idiomatic expression meaning someone's death.",
+        "main_definition_hebrew": "דיזל יכול להתייחס לסוג של דלק או מנוע, צליל שמשמיעים מנועים מסוימים, וביטוי אידיומטי שמשמעותו מוות של מישהו.",
+        "meanings_and_examples": [
+            {
+                "definition": "A type of fuel derived from crude oil used primarily in diesel engines for vehicles and machinery",
+                "definition_hebrew": "סוג של דלק המופק מנפט גולמי המשמש בעיקר במנועי דיזל לכלי רכב ומכונות",
+                "example": "The truck ran smoothly on diesel, with powerful performance thanks to its diesel engine.",
+                "example_hebrew": "המשאית נסעה בצורה חלקה על דיזל, עם ביצועים חזקים הודות למנוע הדיזל שלה."
+            },
+            {
+                "definition": "An internal combustion engine that operates using the diesel cycle, which is more fuel-efficient than gasoline engines and commonly used in heavy vehicles",
+                "definition_hebrew": "מנוע בעירה פנימית הפועל באמצעות מחזור הדיזל, שהוא חסכוני יותר בדלק ממנועי בנזין ונפוץ בשימוש בכלי רכב כבדים",
+                "example": "Diesel engines are known for their durability and efficiency, making them a popular choice for buses and trucks.",
+                "example_hebrew": "מנועי דיזל ידועים בעמידותם וביעילותם, מה שהופך אותם לבחירה פופולרית עבור אוטובוסים ומשאיות."
+            },
+            {
+                "definition": "A low rumbling sound typically made by diesel engines during operation",
+                "definition_hebrew": "צליל רעם נמוך הנשמע בדרך כלל על ידי מנועי דיזל במהלך הפעולה",
+                "example": "The deep growl of the diesel engine could be heard from across the yard as it toiled away at work.",
+                "example_hebrew": "נהמתו העמוקה של מנוע הדיזל נשמעה מעבר לחצר כשהוא עמל בעבודה."
+            },
+            {
+                "definition": "An idiomatic expression used when referring to someone's death or passing, often in a blunt manner",
+                "definition_hebrew": "ביטוי אידיומטי המשמש כאשר מתייחסים למותו או לכתו של מישהו, לעתים קרובות בצורה בוטה",
+                "example": "He passed away last night. He really died hard; that diesel hit him right on the head.",
+                "example_hebrew": "הוא נפטר אתמול בלילה. הוא באמת מת קשה; הסולר הזה פגע לו ישירות בראש."
+            }
+        ]
+    }
+]

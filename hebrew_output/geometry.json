@@ -1,0 +1,28 @@
+[
+    {
+        "word": "geometry",
+        "word_hebrew": "גֵאוֹמֶטרִיָה",
+        "main_definition": "Geometry is the branch of mathematics concerned with questions of shape, size, relative position of figures, and the properties of space.",
+        "main_definition_hebrew": "גיאומטריה היא ענף המתמטיקה העוסק בשאלות של צורה, גודל, מיקום יחסי של דמויות ותכונות החלל.",
+        "meanings_and_examples": [
+            {
+                "definition": "The study of shapes, sizes, angles, and spatial relationships",
+                "definition_hebrew": "חקר צורות, גדלים, זוויות ויחסים מרחביים",
+                "example": "In geometry class, we learned about different types of triangles such as equilateral, isosceles, and scalene.",
+                "example_hebrew": "בשיעורי גיאומטריה למדנו על סוגים שונים של משולשים כמו שווי צלעות, שווה שוקיים וקנה מידה."
+            },
+            {
+                "definition": "A branch or field within mathematics that deals with the properties and relations of points, lines, angles, surfaces, and solids",
+                "definition_hebrew": "ענף או שדה במתמטיקה העוסק בתכונות וביחסים של נקודות, קווים, זוויות, משטחים ומוצקים",
+                "example": "Architects use principles of geometry to design buildings and structures.",
+                "example_hebrew": "אדריכלים משתמשים בעקרונות של גיאומטריה לתכנון מבנים ומבנים."
+            },
+            {
+                "definition": "The mathematical study of space and objects in it, including their dimensions, distances, and volumes",
+                "definition_hebrew": "מחקר מתמטי של החלל והעצמים שבו, לרבות מידותיהם, מרחקיהם ונפחיהם",
+                "example": "Geometric algorithms are used in computer graphics to render three-dimensional images on a two-dimensional screen.",
+                "example_hebrew": "אלגוריתמים גיאומטריים משמשים בגרפיקה ממוחשבת כדי להציג תמונות תלת מימדיות על מסך דו מימדי."
+            }
+        ]
+    }
+]

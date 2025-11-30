@@ -1,0 +1,34 @@
+[
+    {
+        "word": "stage",
+        "word_hebrew": "שלב",
+        "main_definition": "A stage refers to a designated area or platform where performances, activities, or events take place.",
+        "main_definition_hebrew": "במה מתייחסת לאזור או במה ייעודיים שבהם מתקיימים הופעות, פעילויות או אירועים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In theater context, it denotes an area on which actors perform plays or musicals.",
+                "definition_hebrew": "בהקשר של תיאטרון, הוא מציין אזור שבו שחקנים מבצעים הצגות או מחזות זמר.",
+                "example": "The main character delivered their monologue under the bright stage lights.",
+                "example_hebrew": "הדמות הראשית נשאה את המונולוג שלה תחת אורות הבמה הבהירים."
+            },
+            {
+                "definition": "In a project's life cycle, it represents a phase where development and progress occur before reaching completion.",
+                "definition_hebrew": "במחזור החיים של פרויקט, הוא מייצג שלב שבו התפתחות והתקדמות מתרחשים לפני השלמתו.",
+                "example": "After completing the design stage, we moved on to the implementation stage of our software development process.",
+                "example_hebrew": "לאחר השלמת שלב התכנון, עברנו לשלב ההטמעה של תהליך פיתוח התוכנה שלנו."
+            },
+            {
+                "definition": "A platform or area used for public speaking events, such as lectures, speeches, or announcements.",
+                "definition_hebrew": "פלטפורמה או אזור המשמשים לאירועי דיבור בפני קהל, כגון הרצאות, נאומים או הודעות.",
+                "example": "The mayor took the stage to address the city's residents about upcoming initiatives.",
+                "example_hebrew": "ראש העיר עלה לבמה בפנייה לתושבי העיר על היוזמות הקרובות."
+            },
+            {
+                "definition": "In a scientific experiment or research study, it refers to a specific phase of conducting experiments and gathering data.",
+                "definition_hebrew": "בניסוי מדעי או במחקר, זה מתייחס לשלב מסוים של עריכת ניסויים ואיסוף נתונים.",
+                "example": "During the experimental stage, researchers carefully monitored changes in plant growth under different conditions.",
+                "example_hebrew": "במהלך שלב הניסוי, חוקרים עקבו בקפידה אחר שינויים בצמיחת הצמחים בתנאים שונים."
+            }
+        ]
+    }
+]

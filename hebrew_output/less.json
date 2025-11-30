@@ -1,0 +1,34 @@
+[
+    {
+        "word": "less",
+        "word_hebrew": "פָּחוֹת",
+        "main_definition": "Less refers to a smaller amount or degree of something, indicating that there is not as much of it compared to another quantity.",
+        "main_definition_hebrew": "פחות מתייחס לכמות או מידה קטנה יותר של משהו, מה שמצביע על כך שאין הרבה ממנו בהשוואה לכמות אחרת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Fewer in terms of number",
+                "definition_hebrew": "פחות מבחינת מספר",
+                "example": "There are less apples on the tree than last year.",
+                "example_hebrew": "יש פחות תפוחים על העץ מאשר בשנה שעברה."
+            },
+            {
+                "definition": "Not as much quality or intensity",
+                "definition_hebrew": "לא כל כך איכות או עוצמה",
+                "example": "The cake is delicious, but it has less sugar compared to its original recipe.",
+                "example_hebrew": "העוגה טעימה, אבל יש בה פחות סוכר בהשוואה למתכון המקורי שלה."
+            },
+            {
+                "definition": "Insufficient quantity",
+                "definition_hebrew": "כמות לא מספקת",
+                "example": "I have less time to complete this project than I initially thought.",
+                "example_hebrew": "יש לי פחות זמן להשלים את הפרויקט הזה ממה שחשבתי בתחילה."
+            },
+            {
+                "definition": "Less importance or priority",
+                "definition_hebrew": "פחות חשיבות או עדיפות",
+                "example": "While studying for the exam, it's important to focus on lessons that are more relevant and crucial.",
+                "example_hebrew": "בזמן הלימוד לבחינה, חשוב להתמקד בשיעורים רלוונטיים ומכריעים יותר."
+            }
+        ]
+    }
+]

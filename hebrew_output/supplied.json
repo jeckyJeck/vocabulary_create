@@ -1,0 +1,40 @@
+[
+    {
+        "word": "supplied",
+        "word_hebrew": "מסופק",
+        "main_definition": "To provide or furnish something that is needed or desired.",
+        "main_definition_hebrew": "לספק או לרהט משהו שצריך או רצוי.",
+        "meanings_and_examples": [
+            {
+                "definition": "In the context of resources, to make available a particular item or service.",
+                "definition_hebrew": "בהקשר של משאבים, להנגיש פריט או שירות מסוים.",
+                "example": "The company supplied fresh water for drinking purposes.",
+                "example_hebrew": "החברה סיפקה מים מתוקים לצורכי שתייה."
+            },
+            {
+                "definition": "To provide someone with something they require, such as food or clothing.",
+                "definition_hebrew": "לספק למישהו משהו שהוא צריך, כמו מזון או ביגוד.",
+                "example": "During the camping trip, we were supplied with enough snacks and blankets by our friends.",
+                "example_hebrew": "במהלך טיול הקמפינג, סיפקו לנו מספיק חטיפים ושמיכות על ידי חברינו."
+            },
+            {
+                "definition": "In relation to data or information, to offer or furnish specific details requested.",
+                "definition_hebrew": "ביחס לנתונים או מידע, להציע או למסור פרטים ספציפיים המבוקשים.",
+                "example": "The report was supplied with comprehensive statistics about the market trends.",
+                "example_hebrew": "הדוח סופק עם נתונים סטטיסטיים מקיפים על מגמות השוק."
+            },
+            {
+                "definition": "To provide a steady flow of something, often over time.",
+                "definition_hebrew": "לספק זרימה קבועה של משהו, לעתים קרובות לאורך זמן.",
+                "example": "A reliable source supplied news updates daily during the election period.",
+                "example_hebrew": "מקור אמין סיפק עדכוני חדשות מדי יום במהלך תקופת הבחירות."
+            },
+            {
+                "definition": "In terms of energy or power, to generate and make available electricity or fuel.",
+                "definition_hebrew": "במונחים של אנרגיה או כוח, לייצר ולהנגיש חשמל או דלק.",
+                "example": "The new power plant is capable of supplying enough electricity for the entire town.",
+                "example_hebrew": "תחנת הכוח החדשה מסוגלת לספק מספיק חשמל לכל העיר."
+            }
+        ]
+    }
+]

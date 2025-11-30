@@ -1,0 +1,40 @@
+[
+    {
+        "word": "paid",
+        "word_hebrew": "שולם",
+        "main_definition": "To give someone money in exchange for goods or services.",
+        "main_definition_hebrew": "לתת למישהו כסף תמורת סחורה או שירותים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Having received payment for work done, goods provided, etc.",
+                "definition_hebrew": "לאחר קבלת תשלום עבור עבודה שנעשתה, סחורה שסופקה וכו'.",
+                "example": "She was paid generously for her freelance writing job.",
+                "example_hebrew": "היא קיבלה שכר נדיב עבור עבודת הכתיבה העצמאית שלה."
+            },
+            {
+                "definition": "To compensate someone financially",
+                "definition_hebrew": "לפצות מישהו כלכלית",
+                "example": "He will be paid for his contribution to the project after completion.",
+                "example_hebrew": "הוא ישולם עבור תרומתו לפרויקט לאחר השלמתו."
+            },
+            {
+                "definition": "The act of giving money as a form of exchange for goods or services.",
+                "definition_hebrew": "הפעולה של מתן כסף כצורת החלפה עבור סחורות או שירותים.",
+                "example": "We had to pay a fee at the museum entrance.",
+                "example_hebrew": "היינו צריכים לשלם תשלום בכניסה למוזיאון."
+            },
+            {
+                "definition": "A sum of money given in advance, often used when referring to ticket purchases",
+                "definition_hebrew": "סכום כסף שניתן מראש, משמש לעתים קרובות כאשר מתייחסים לרכישת כרטיסים",
+                "example": "I paid $20 for my concert ticket ahead of time.",
+                "example_hebrew": "שילמתי 20 דולר עבור כרטיס ההופעה שלי מבעוד מועד."
+            },
+            {
+                "definition": "To treat with respect or generosity due to one's status, position, or relationship.",
+                "definition_hebrew": "להתייחס בכבוד או בנדיבות בשל מעמדו, עמדתו או מערכת היחסים של האדם.",
+                "example": "They were well paid for their loyalty and dedication.",
+                "example_hebrew": "הם קיבלו שכר טוב עבור נאמנותם ומסירותם."
+            }
+        ]
+    }
+]

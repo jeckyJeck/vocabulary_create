@@ -1,0 +1,40 @@
+[
+    {
+        "word": "socket",
+        "word_hebrew": "שֶׁקַע",
+        "main_definition": "A socket is a device or an opening that allows connectivity between different components in electrical, computer hardware, or network systems.",
+        "main_definition_hebrew": "שקע הוא מכשיר או פתח המאפשר קישוריות בין רכיבים שונים במערכות חשמל, חומרת מחשב או רשת.",
+        "meanings_and_examples": [
+            {
+                "definition": "An electrical socket (also known as power socket) used to supply electricity from the mains to an electrical device",
+                "definition_hebrew": "שקע חשמל (המכונה גם שקע חשמל) המשמש לאספקת חשמל מהרשת למכשיר חשמלי",
+                "example": "He plugged his laptop into the wall socket to charge it.",
+                "example_hebrew": "הוא חיבר את המחשב הנייד שלו לשקע בקיר כדי לטעון אותו."
+            },
+            {
+                "definition": "A network socket, a communication endpoint in computer networks that allows data transmission between devices",
+                "definition_hebrew": "שקע רשת, נקודת קצה תקשורת ברשתות מחשבים המאפשרת העברת נתונים בין מכשירים",
+                "example": "The server's Ethernet socket connects it to other computers on the local area network (LAN).",
+                "example_hebrew": "שקע ה-Ethernet של השרת מחבר אותו למחשבים אחרים ברשת המקומית (LAN)."
+            },
+            {
+                "definition": "Socket wrench is a tool used to tighten or loosen bolts and nuts by using a replaceable tip that fits into the bolt's head",
+                "definition_hebrew": "מפתח שקע הוא כלי המשמש להדק או שחרור ברגים ואומים באמצעות קצה ניתן להחלפה המתאים לראש הבורג",
+                "example": "He grabbed his socket wrench to remove the lug nuts from the car tire.",
+                "example_hebrew": "הוא תפס את מפתח השקע שלו כדי להסיר את האומים מצמיג המכונית."
+            },
+            {
+                "definition": "A socket in sports refers to an area on a field or court where players can stand and interact with each other during the game",
+                "definition_hebrew": "שקע בספורט מתייחס לאזור במגרש או במגרש בו השחקנים יכולים לעמוד ולתקשר זה עם זה במהלך המשחק",
+                "example": "The basketball player moved towards the center of the court, positioning himself near the key (the paint).",
+                "example_hebrew": "הכדורסלן נע לכיוון מרכז המגרש, והתמקם ליד המפתח (הצבע)."
+            },
+            {
+                "definition": "A socket in geology refers to a hollow or depression in rock formations where mineral deposits can accumulate",
+                "definition_hebrew": "שקע בגיאולוגיה מתייחס לשקע או שקע בתצורות סלע שבו יכולים להצטבר מרבצי מינרלים",
+                "example": "The geologist discovered an ore socket containing valuable minerinas.",
+                "example_hebrew": "הגיאולוג גילה שקע עפר המכיל מינרינות יקרות ערך."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "menu",
+        "word_hebrew": "תַפרִיט",
+        "main_definition": "A list of items, usually food or drinks, along with their prices, available at a restaurant or an event.",
+        "main_definition_hebrew": "רשימה של פריטים, בדרך כלל מזון או משקאות, יחד עם המחירים שלהם, הזמינים במסעדה או באירוע.",
+        "meanings_and_examples": [
+            {
+                "definition": "Menu as in Restaurant's offerings",
+                "definition_hebrew": "תפריט כמו בהיצע של המסעדה",
+                "example": "The menu at the Italian restaurant includes pasta dishes like spaghetti and fettuccine, along with various pizzas.",
+                "example_hebrew": "התפריט במסעדה האיטלקית כולל מנות פסטה כמו ספגטי ופטוצ'יני, לצד פיצות שונות."
+            },
+            {
+                "definition": "Menu as a set of choices or options for users to select from in software or digital platforms",
+                "definition_hebrew": "תפריט כסט של אפשרויות או אפשרויות לבחירת המשתמשים בתוכנה או בפלטפורמות דיגיטליות",
+                "example": "The mobile app has a menu that allows you to choose your preferred language and update your profile settings.",
+                "example_hebrew": "לאפליקציה לנייד יש תפריט המאפשר לבחור את השפה המועדפת ולעדכן את הגדרות הפרופיל."
+            },
+            {
+                "definition": "Menu as an organizational chart showing the hierarchy within a company or institution",
+                "definition_hebrew": "תפריט כתרשים ארגוני המציג את ההיררכיה בתוך חברה או מוסד",
+                "example": "When you visited the company headquarters, they provided you with their internal menu outlining different departments' roles.",
+                "example_hebrew": "כשביקרת במטה החברה, הם סיפקו לך את התפריט הפנימי שלהם המתאר את תפקידי המחלקות השונות."
+            }
+        ]
+    }
+]

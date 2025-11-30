@@ -1,0 +1,40 @@
+[
+    {
+        "word": "dark",
+        "word_hebrew": "אפל",
+        "main_definition": "Dark refers to the absence of light or something that is not illuminated, as well as metaphorically to various negative or mysterious connotations.",
+        "main_definition_hebrew": "אפלה מתייחסת להיעדר אור או משהו שאינו מואר, כמו גם באופן מטפורי לקונוטציות שליליות או מסתוריות שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Lacking in light; having no sunlight",
+                "definition_hebrew": "חסר אור; ללא אור שמש",
+                "example": "The room was dark after the power outage.",
+                "example_hebrew": "החדר היה חשוך לאחר הפסקת החשמל."
+            },
+            {
+                "definition": "Not illuminated, difficult to see clearly",
+                "definition_hebrew": "לא מואר, קשה לראות בבירור",
+                "example": "I couldn't find my keys because it was so dark in the car.",
+                "example_hebrew": "לא הצלחתי למצוא את המפתחות שלי כי היה כל כך חשוך במכונית."
+            },
+            {
+                "definition": "Mysterious or unknown; not easily understood",
+                "definition_hebrew": "מסתורי או לא ידוע; לא מובן בקלות",
+                "example": "The dark origins of that old legend have always intrigued me.",
+                "example_hebrew": "המקורות האפלים של האגדה הישנה ההיא תמיד סיקרנו אותי."
+            },
+            {
+                "definition": "Relating to evil, cruel intentions, or unpleasantness",
+                "definition_hebrew": "מתייחסים לרוע, כוונות אכזריות או אי נעימות",
+                "example": "The movie's plot had a particularly dark theme.",
+                "example_hebrew": "לעלילת הסרט היה נושא אפל במיוחד."
+            },
+            {
+                "definition": "Intense and profound; deep emotional states",
+                "definition_hebrew": "אינטנסיבי ועמוק; מצבים רגשיים עמוקים",
+                "example": "She entered into the darkest moments of her life after losing her job.",
+                "example_hebrew": "היא נכנסה לרגעים האפלים ביותר בחייה לאחר שאיבדה את עבודתה."
+            }
+        ]
+    }
+]

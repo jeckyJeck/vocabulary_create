@@ -1,0 +1,28 @@
+[
+    {
+        "word": "wordpress",
+        "word_hebrew": "וורדפרס",
+        "main_definition": "WordPress is a popular content management system (CMS) used to create, publish, and manage websites or blogs.",
+        "main_definition_hebrew": "וורדפרס היא מערכת ניהול תוכן פופולרית (CMS) המשמשת ליצירה, פרסום וניהול של אתרים או בלוגים.",
+        "meanings_and_examples": [
+            {
+                "definition": "A software platform for creating personal blogs or professional websites",
+                "definition_hebrew": "פלטפורמת תוכנה ליצירת בלוגים אישיים או אתרים מקצועיים",
+                "example": "I created my own travel blog using WordPress.",
+                "example_hebrew": "יצרתי בלוג טיולים משלי באמצעות וורדפרס."
+            },
+            {
+                "definition": "The official website of the WordPress project, which provides information and resources about WordPress",
+                "definition_hebrew": "האתר הרשמי של פרויקט וורדפרס, המספק מידע ומשאבים על וורדפרס",
+                "example": "To learn more about WordPress updates, visit the official WordPress site at https://wordpress.org/",
+                "example_hebrew": "למידע נוסף על עדכוני וורדפרס, בקר באתר וורדפרס הרשמי בכתובת https://wordpress.org/"
+            },
+            {
+                "definition": "An informal term used to describe a person who manages or creates websites using the WordPress platform",
+                "definition_hebrew": "מונח לא פורמלי המשמש לתיאור אדם שמנהל או יוצר אתרים באמצעות פלטפורמת וורדפרס",
+                "example": "As a digital marketer, I use my skills in WordPress to build engaging web content.",
+                "example_hebrew": "כמשווק דיגיטלי, אני משתמש בכישוריי בוורדפרס כדי לבנות תוכן אינטרנט מרתק."
+            }
+        ]
+    }
+]

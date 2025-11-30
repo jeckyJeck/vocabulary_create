@@ -1,0 +1,34 @@
+[
+    {
+        "word": "layers",
+        "word_hebrew": "שכבות",
+        "main_definition": "In general, 'layers' refers to multiple strata or levels of something that is stacked upon one another. It can also be used as an idiom in various contexts representing different meanings.",
+        "main_definition_hebrew": "באופן כללי, 'שכבות' מתייחסות לשכבות או רמות מרובות של משהו שנערמים זה על זה. זה יכול לשמש גם כביטוי בהקשרים שונים המייצגים משמעויות שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "A physical layering or arrangement of objects, materials, or elements placed on top of each other",
+                "definition_hebrew": "ריבוד פיזי או סידור של חפצים, חומרים או אלמנטים המונחים זה על גבי זה",
+                "example": "The lasagna has multiple layers of pasta and cheese.",
+                "example_hebrew": "ללזניה יש שכבות מרובות של פסטה וגבינה."
+            },
+            {
+                "definition": "In the context of software development, a set of code modules or components that work together to build an application or system",
+                "definition_hebrew": "בהקשר של פיתוח תוכנה, קבוצה של מודולי קוד או רכיבים הפועלים יחד לבניית אפליקציה או מערכת",
+                "example": "Our team is working on adding new features by developing more 'layers' in our web application stack.",
+                "example_hebrew": "הצוות שלנו עובד על הוספת תכונות חדשות על ידי פיתוח 'שכבות' נוספות בערימת יישומי האינטרנט שלנו."
+            },
+            {
+                "definition": "An abstract layering used to describe the progressive complexity of a process, idea, or plan",
+                "definition_hebrew": "ריבוד מופשט המשמש לתיאור המורכבות המתקדמת של תהליך, רעיון או תוכנית",
+                "example": "In order to solve this problem, we need to peel back several layers of its underlying causes and effects.",
+                "example_hebrew": "על מנת לפתור בעיה זו, עלינו לקלף כמה שכבות מהסיבות וההשפעות הבסיסיות שלה."
+            },
+            {
+                "definition": "A metaphorical representation for various groups within an organization that have different responsibilities and roles",
+                "definition_hebrew": "ייצוג מטפורי לקבוצות שונות בתוך ארגון בעלות אחריות ותפקידים שונים",
+                "example": "Our company consists of multiple 'layers' such as management, middle management, and frontline staff who all contribute to its functioning.",
+                "example_hebrew": "החברה שלנו מורכבת מ'שכבות' מרובות כמו הנהלה, ניהול ביניים וצוות חזית שכולם תורמים לתפקודה."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "explain",
+        "word_hebrew": "להסביר",
+        "main_definition": "to make something clear or understandable by describing it in more detail, providing reasons or giving examples.",
+        "main_definition_hebrew": "לעשות משהו ברור או מובן על ידי תיאורו ביתר פירוט, מתן נימוקים או מתן דוגמאות.",
+        "meanings_and_examples": [
+            {
+                "definition": "To convey the meaning of something by using words and sentences.",
+                "definition_hebrew": "להעביר את המשמעות של משהו באמצעות מילים ומשפטים.",
+                "example": "I will explain how to solve this math problem step by step.",
+                "example_hebrew": "אסביר כיצד לפתור את הבעיה המתמטית הזו צעד אחר צעד."
+            },
+            {
+                "definition": "To make a complex idea or concept easier to understand for someone else.",
+                "definition_hebrew": "כדי להפוך רעיון או מושג מורכבים לקלים יותר להבנה עבור מישהו אחר.",
+                "example": "She explained her theory about climate change to the group of students using simple terms and diagrams.",
+                "example_hebrew": "היא הסבירה את התיאוריה שלה לגבי שינויי אקלים לקבוצת התלמידים באמצעות מונחים ודיאגרמות פשוטות."
+            },
+            {
+                "definition": "To give reasons or explanations in response to a question, request, or situation.",
+                "definition_hebrew": "לתת נימוקים או הסברים בתגובה לשאלה, בקשה או מצב.",
+                "example": "When asked why he was late, John simply explained that there was heavy traffic on his way home.",
+                "example_hebrew": "כשנשאל מדוע איחר, ג'ון פשוט הסביר שיש עומס תנועה כבד בדרכו הביתה."
+            },
+            {
+                "definition": "To clarify doubts by providing additional information and context about something.",
+                "definition_hebrew": "כדי להבהיר ספקות על ידי מתן מידע נוסף והקשר לגבי משהו.",
+                "example": "The teacher will explain the significance of this historical event to help us understand its impact better.",
+                "example_hebrew": "המורה יסביר את המשמעות של אירוע היסטורי זה כדי לעזור לנו להבין טוב יותר את השפעתו."
+            },
+            {
+                "definition": "To provide a detailed description that makes something easier to comprehend or visualize.",
+                "definition_hebrew": "לספק תיאור מפורט שמקל על ההבנה או הדמיה של משהו.",
+                "example": "I'll explain how each component works together in this machine by drawing an illustration and describing their functions.",
+                "example_hebrew": "אסביר כיצד כל רכיב עובד יחד במכונה זו על ידי ציור איור ותיאור הפונקציות שלו."
+            }
+        ]
+    }
+]

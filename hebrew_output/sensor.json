@@ -1,0 +1,40 @@
+[
+    {
+        "word": "sensor",
+        "word_hebrew": "חיישן",
+        "main_definition": "A device that detects or measures a physical property and records, indicates, or responds to it.",
+        "main_definition_hebrew": "מכשיר שמזהה או מודד מאפיין פיזי ומתעד, מציין או מגיב אליו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Detecting changes in the environment",
+                "definition_hebrew": "איתור שינויים בסביבה",
+                "example": "An accelerometer is a sensor that detects changes in motion.",
+                "example_hebrew": "מד תאוצה הוא חיישן שמזהה שינויים בתנועה."
+            },
+            {
+                "definition": "Measuring temperature variations",
+                "definition_hebrew": "מדידת שינויים בטמפרטורה",
+                "example": "A thermocouple sensor measures temperature by converting thermal energy into an electrical signal.",
+                "example_hebrew": "חיישן צמד תרמי מודד טמפרטורה על ידי המרת אנרגיה תרמית לאות חשמלי."
+            },
+            {
+                "definition": "Detecting light intensity",
+                "definition_hebrew": "זיהוי עוצמת האור",
+                "example": "Photodetectors, also known as photodiodes or photo sensors, measure the amount of light falling on them.",
+                "example_hebrew": "גלאי פוטו, הידועים גם כפוטודיודות או חיישני צילום, מודדים את כמות האור הנופלת עליהם."
+            },
+            {
+                "definition": "Measuring pressure variations",
+                "definition_hebrew": "מדידת שינויים בלחץ",
+                "example": "A barometer sensor measures atmospheric pressure changes to predict weather conditions.",
+                "example_hebrew": "חיישן ברומטר מודד שינויים בלחץ אטמוספרי כדי לחזות את תנאי מזג האוויר."
+            },
+            {
+                "definition": "Detecting sound frequencies",
+                "definition_hebrew": "זיהוי תדרי קול",
+                "example": "Microphones are sensors that detect and convert acoustic energy into electrical signals for processing.",
+                "example_hebrew": "מיקרופונים הם חיישנים שמזהים וממירים אנרגיה אקוסטית לאותות חשמליים לעיבוד."
+            }
+        ]
+    }
+]

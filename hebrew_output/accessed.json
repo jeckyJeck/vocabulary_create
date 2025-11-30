@@ -1,0 +1,40 @@
+[
+    {
+        "word": "accessed",
+        "word_hebrew": "ניגש",
+        "main_definition": "To gain entry or retrieve information from a source, typically through the use of a system or network.",
+        "main_definition_hebrew": "כדי לקבל כניסה או לאחזר מידע ממקור, בדרך כלל באמצעות מערכת או רשת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Gain entry to a place or resource",
+                "definition_hebrew": "קבל כניסה למקום או למשאב",
+                "example": "I accessed the library by showing my ID card.",
+                "example_hebrew": "ניגשתי לספרייה על ידי הצגת תעודת הזהות שלי."
+            },
+            {
+                "definition": "Retrieve data from a computer system",
+                "definition_hebrew": "אחזור נתונים ממערכת מחשב",
+                "example": "After logging into the server, I accessed the files stored in its database.",
+                "example_hebrew": "לאחר התחברות לשרת, ניגשתי לקבצים המאוחסנים במסד הנתונים שלו."
+            },
+            {
+                "definition": "Obtain permission or rights to use something",
+                "definition_hebrew": "השג הרשאה או זכויות להשתמש במשהו",
+                "example": "The company gained access to restricted areas after obtaining security clearance.",
+                "example_hebrew": "החברה קיבלה גישה לאזורים מוגבלים לאחר קבלת אישור ביטחוני."
+            },
+            {
+                "definition": "Visit a website or webpage",
+                "definition_hebrew": "בקר באתר אינטרנט או בדף אינטרנט",
+                "example": "I accessed the news website on my browser and read about current events.",
+                "example_hebrew": "ניגשתי לאתר החדשות בדפדפן שלי וקראתי על אירועים אקטואליים."
+            },
+            {
+                "definition": "Gain information from a source of knowledge or expertise",
+                "definition_hebrew": "קבל מידע ממקור ידע או מומחיות",
+                "example": "The researcher accessed an interview with a renowned scientist to gather insights for her study.",
+                "example_hebrew": "החוקרת ניגשה לראיון עם מדענית בעלת שם כדי לאסוף תובנות למחקר שלה."
+            }
+        ]
+    }
+]

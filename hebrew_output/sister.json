@@ -1,0 +1,28 @@
+[
+    {
+        "word": "sister",
+        "word_hebrew": "אָחוֹת",
+        "main_definition": "Sister refers to a female sibling, or can also be used metaphorically in various contexts.",
+        "main_definition_hebrew": "אחות מתייחסת לאח נקבה, או שניתן להשתמש בה גם באופן מטפורי בהקשרים שונים.",
+        "meanings_and_examples": [
+            {
+                "definition": "Female sibling who shares at least one parent with another person",
+                "definition_hebrew": "אח שחולק לפחות הורה אחד עם אדם אחר",
+                "example": "My sister and I grew up playing together every day.",
+                "example_hebrew": "אחותי ואני גדלנו יחד כל יום."
+            },
+            {
+                "definition": "Term used in religious communities, particularly Christianity, to refer collectively to the four gospels of Matthew, Mark, Luke, and John.",
+                "definition_hebrew": "מונח המשמש בקהילות דתיות, במיוחד הנצרות, כדי להתייחס ביחד לארבע הבשורות של מתי, מרקוס, לוק ויוחנן.",
+                "example": "The Gospel according to John is a sister book to the other three New Testament gospels.",
+                "example_hebrew": "הבשורה על פי יוחנן היא ספר אחות לשלוש הבשורות האחרות של הברית החדשה."
+            },
+            {
+                "definition": "Metaphorical usage denoting a close relationship or alliance between individuals or groups",
+                "definition_hebrew": "שימוש מטפורי המציין מערכת יחסים קרובה או ברית בין יחידים או קבוצות",
+                "example": "In politics, two parties may be said to have formed a 'sister party' in another country.",
+                "example_hebrew": "בפוליטיקה אפשר לומר ששתי מפלגות הקימו 'מפלגה אחות' במדינה אחרת."
+            }
+        ]
+    }
+]

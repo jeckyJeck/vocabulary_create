@@ -1,0 +1,40 @@
+[
+    {
+        "word": "function",
+        "word_hebrew": "פוּנקצִיָה",
+        "main_definition": "In simple English, a function is an action or a process that performs a specific task or serves a particular purpose.",
+        "main_definition_hebrew": "באנגלית פשוטה, פונקציה היא פעולה או תהליך שמבצע משימה מסוימת או משרת מטרה מסוימת.",
+        "meanings_and_examples": [
+            {
+                "definition": "Mathematical relationship between numbers",
+                "definition_hebrew": "קשר מתמטי בין מספרים",
+                "example": "The function f(x) = 2x represents doubling the input value x.",
+                "example_hebrew": "הפונקציה f(x) = 2x מייצגת הכפלת ערך הקלט x."
+            },
+            {
+                "definition": "A role or duty performed by someone or something",
+                "definition_hebrew": "תפקיד או חובה שמבוצעים על ידי מישהו או משהו",
+                "example": "The customer service representative's function is to assist customers with their inquiries and issues.",
+                "example_hebrew": "תפקידו של נציג שירות הלקוחות הוא לסייע ללקוחות בפניותיהם ובבעיותיהם."
+            },
+            {
+                "definition": "A procedure or set of steps taken to achieve a particular result",
+                "definition_hebrew": "הליך או קבוצה של צעדים שננקטו כדי להשיג תוצאה מסוימת",
+                "example": "The process of cleaning the house involves functions such as dusting, vacuuming, and mopping.",
+                "example_hebrew": "תהליך ניקיון הבית כולל פונקציות כמו ניקוי אבק, שאיבת אבק, ניקוי."
+            },
+            {
+                "definition": "An official appointment or position held by an individual",
+                "definition_hebrew": "מינוי או תפקיד רשמי של אדם פרטי",
+                "example": "John's function at work is to manage the finances for his department.",
+                "example_hebrew": "תפקידו של ג'ון בעבודה הוא לנהל את הכספים של המחלקה שלו."
+            },
+            {
+                "definition": "A device that accepts a number as input and gives out another number after performing specific operations on it",
+                "definition_hebrew": "מכשיר שמקבל מספר כקלט ונותן מספר אחר לאחר ביצוע פעולות ספציפיות בו",
+                "example": "The calculator performs mathematical functions like addition, subtraction, multiplication, and division.",
+                "example_hebrew": "המחשבון מבצע פונקציות מתמטיות כמו חיבור, חיסור, כפל וחילוק."
+            }
+        ]
+    }
+]

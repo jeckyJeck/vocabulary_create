@@ -1,0 +1,28 @@
+[
+    {
+        "word": "contracts",
+        "word_hebrew": "חוזים",
+        "main_definition": "Contracts refer to legally binding agreements between two or more parties that outline the terms, conditions, and obligations of each party involved.",
+        "main_definition_hebrew": "חוזים מתייחסים להסכמים משפטיים מחייבים בין שני צדדים או יותר המתארים את התנאים, התנאים וההתחייבויות של כל צד המעורב.",
+        "meanings_and_examples": [
+            {
+                "definition": "A written agreement with specific terms and conditions",
+                "definition_hebrew": "הסכם בכתב עם תנאים והגבלות ספציפיים",
+                "example": "The construction company signed a contract to build John's new house by July 1st.",
+                "example_hebrew": "חברת הבנייה חתמה על חוזה לבניית ביתו החדש של ג'ון עד ה-1 ביולי."
+            },
+            {
+                "definition": "To decrease in size or amount, often due to a formal agreement",
+                "definition_hebrew": "להקטין בגודל או בכמות, לעתים קרובות עקב הסכם רשמי",
+                "example": "After signing the contract with the supplier, our inventory levels will contract significantly.",
+                "example_hebrew": "לאחר חתימת החוזה עם הספק, רמות המלאי שלנו יתכווצו משמעותית."
+            },
+            {
+                "definition": "An infectious disease caused by viruses that can cause inflammation and damage to organs",
+                "definition_hebrew": "מחלה זיהומית הנגרמת על ידי וירוסים שעלולים לגרום לדלקת ולפגיעה באיברים",
+                "example": "The flu is a common viral infection that causes contracts of the respiratory system, resulting in fever and body aches.",
+                "example_hebrew": "שפעת היא זיהום ויראלי שכיח הגורם להתכווצויות של מערכת הנשימה, וכתוצאה מכך לחום וכאבי גוף."
+            }
+        ]
+    }
+]

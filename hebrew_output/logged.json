@@ -1,0 +1,34 @@
+[
+    {
+        "word": "logged",
+        "word_hebrew": "מחובר",
+        "main_definition": "To record or document information, typically in a systematic manner.",
+        "main_definition_hebrew": "להקליט או לתעד מידע, בדרך כלל בצורה שיטתית.",
+        "meanings_and_examples": [
+            {
+                "definition": "Entered data into a computer or database system.",
+                "definition_hebrew": "נתונים שהוזנו למחשב או למערכת מסד נתונים.",
+                "example": "I logged the new customer's details on our website's registration page.",
+                "example_hebrew": "רשמתי את פרטי הלקוח החדש בדף ההרשמה של האתר שלנו."
+            },
+            {
+                "definition": "Recorded an event, action, or occurrence in writing.",
+                "definition_hebrew": "נרשמה אירוע, פעולה או התרחשות בכתב.",
+                "example": "The teacher made sure to log every student's attendance at the beginning of each class.",
+                "example_hebrew": "המורה הקפידה לרשום את נוכחותו של כל תלמיד בתחילת כל שיעור."
+            },
+            {
+                "definition": "Indicating that a user has visited or accessed something on the internet.",
+                "definition_hebrew": "מציין שמשתמש ביקר או ניגש למשהו באינטרנט.",
+                "example": "I was logged into my email account and received an important message from work.",
+                "example_hebrew": "נכנסתי לחשבון המייל שלי וקיבלתי הודעה חשובה מהעבודה."
+            },
+            {
+                "definition": "To measure, cut, or mark wood using a log as reference for length or diameter.",
+                "definition_hebrew": "למדוד, לחתוך או לסמן עץ באמצעות בול עץ כהתייחסות לאורך או לקוטר.",
+                "example": "Before building the fence, we had to log and measure all the wooden posts.",
+                "example_hebrew": "לפני בניית הגדר, היינו צריכים לחתום ולמדוד את כל עמודי העץ."
+            }
+        ]
+    }
+]

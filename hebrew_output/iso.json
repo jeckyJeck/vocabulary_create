@@ -1,0 +1,46 @@
+[
+    {
+        "word": "iso",
+        "word_hebrew": "iso",
+        "main_definition": "Iso refers to the concept of equality, uniformity, or standardization across different entities.",
+        "main_definition_hebrew": "Iso מתייחס למושג של שוויון, אחידות או סטנדרטיזציה בין ישויות שונות.",
+        "meanings_and_examples": [
+            {
+                "definition": "In chemistry, Iso- represents a compound that has atoms with the same atomic number as another element but in a different arrangement. For example: Isotope",
+                "definition_hebrew": "בכימיה, איזו- מייצג תרכובת שיש לה אטומים בעלי אותו מספר אטומי כמו יסוד אחר אך בסידור שונה. לדוגמא: איזוטופ",
+                "example": "Carbon-12 and Carbon-13 are both isotopes of carbon.",
+                "example_hebrew": "פחמן-12 ופחמן-13 הם שניהם איזוטופים של פחמן."
+            },
+            {
+                "definition": "In computing, Iso stands for 'ISO' which refers to the International Organization for Standardization. It also represents ISO 9660 file system used in CD-ROMs and DVDs. For example: ISO image",
+                "definition_hebrew": "במחשוב, Iso מייצג 'ISO' המתייחס לארגון הבינלאומי לתקינה. זה גם מייצג את מערכת הקבצים ISO 9660 המשמשת בתקליטורי CD-ROM ו-DVD. לדוגמה: תמונת ISO",
+                "example": "An ISO image is a sectored representation of an optical disc that can be copied and burned onto blank discs.",
+                "example_hebrew": "תמונת ISO היא ייצוג מגזרי של דיסק אופטי שניתן להעתיק ולצרוב על גבי דיסקים ריקים."
+            },
+            {
+                "definition": "In military terms, Iso means 'Identical' or 'Same'. It indicates the similarity between two objects in appearance. For example: Identical twins",
+                "definition_hebrew": "במונחים צבאיים, Iso פירושו \"זהה\" או \"זהה\". זה מצביע על הדמיון בין שני אובייקטים במראה. לדוגמא: תאומים זהים",
+                "example": "The identical twins looked exactly alike, down to their matching outfits.",
+                "example_hebrew": "התאומים הזהים נראו זהים לחלוטין, עד לבגדים התואמים שלהם."
+            },
+            {
+                "definition": "In finance, Iso refers to 'Iso-debt', which means a debt issued by an entity that has the same credit rating as another. For example: A company with iso-debt would have bonds rated equally to those of its peers.",
+                "definition_hebrew": "בפיננסים, Iso מתייחס ל'Iso-debt', כלומר חוב שהונפקו על ידי ישות בעלת דירוג אשראי זהה לזה. לדוגמה: לחברה עם חוב איזו יהיו איגרות חוב בדירוג שווה לאלו של עמיתיה.",
+                "example": "XYZ Corp's new bond issue was classified as iso-debt due to its comparable risk profile.",
+                "example_hebrew": "הנפקת האג\"ח החדשה של XYZ Corp סווגה כחוב איזו בשל פרופיל הסיכון הדומה שלה."
+            },
+            {
+                "definition": "In sports, Iso denotes 'Isolation', referring to a strategy where an individual player or team focuses on specific areas of the field or court. For example: Isolation play in basketball",
+                "definition_hebrew": "בספורט, Iso מציין 'בידוד', המתייחס לאסטרטגיה שבה שחקן או קבוצה בודדים מתמקדים באזורים ספציפיים במגרש או במגרש. לדוגמא: משחק בידוד בכדורסל",
+                "example": "The point guard used isolation plays against defenses by driving alone towards the basket.",
+                "example_hebrew": "הפוינט גארד השתמש במשחקי בידוד נגד הגנות על ידי נהיגה לבד לכיוון הסל."
+            },
+            {
+                "definition": "In physics, Iso- can refer to 'Isothermal', indicating a process or condition where temperature remains constant. For example: Isothermal expansion",
+                "definition_hebrew": "בפיזיקה, איזו- יכול להתייחס ל'איזותרמי', המציין תהליך או מצב שבו הטמפרטורה נשארת קבועה. לדוגמא: התפשטות איזותרמית",
+                "example": "During isothermal expansion, gas expands while maintaining the same temperature.",
+                "example_hebrew": "במהלך התפשטות איזותרמית, הגז מתרחב תוך שמירה על אותה טמפרטורה."
+            }
+        ]
+    }
+]

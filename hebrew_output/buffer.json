@@ -1,0 +1,46 @@
+[
+    {
+        "word": "buffer",
+        "word_hebrew": "בַּלָם",
+        "main_definition": "A buffer is something that absorbs or lessens the impact of an event, often used to describe a space or substance between two objects or concepts.",
+        "main_definition_hebrew": "חוצץ הוא משהו שסופג או מפחית את ההשפעה של אירוע, המשמש לעתים קרובות לתיאור מרחב או חומר בין שני אובייקטים או מושגים.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing and electronics, a buffer refers to a temporary storage area where data is held before it's processed. This helps manage the speed difference between devices that operate at different speeds.",
+                "definition_hebrew": "במחשוב ובאלקטרוניקה, מאגר מתייחס לאזור אחסון זמני שבו נתונים מוחזקים לפני שהם מעובדים. זה עוזר לנהל את הפרש המהירות בין מכשירים הפועלים במהירויות שונות.",
+                "example": "When streaming a video online, the received data is stored in a buffer on your device so you can watch without interruption.",
+                "example_hebrew": "בעת הזרמת וידאו באינטרנט, הנתונים שהתקבלו מאוחסנים במאגר במכשיר שלך כך שתוכל לצפות ללא הפרעה."
+            },
+            {
+                "definition": "As an idiom, 'to act as a buffer' means to serve as a mediator or intermediary between two parties that have a conflict, helping them communicate and resolve their issues.",
+                "definition_hebrew": "בתור ניב, 'לשמש כחיץ' פירושו לשמש כמתווך או מתווך בין שני צדדים שיש להם סכסוך, לעזור להם לתקשר ולפתור את הבעיות שלהם.",
+                "example": "John acted as a buffer during the meeting, ensuring both sides felt heard and worked towards finding common ground.",
+                "example_hebrew": "ג'ון פעל כחיץ במהלך הפגישה, והבטיח ששני הצדדים ירגישו שמעו ופועלים למציאת בסיס משותף."
+            },
+            {
+                "definition": "In chemistry, a buffer refers to a solution that resists changes in pH when small amounts of an acid or base are added. It typically consists of a weak acid and its conjugate base.",
+                "definition_hebrew": "בכימיה, חוצץ מתייחס לתמיסה המתנגדת לשינויים ב-pH כאשר מוסיפים כמויות קטנות של חומצה או בסיס. הוא מורכב בדרך כלל מחומצה חלשה והבסיס המצומד שלה.",
+                "example": "The blood is buffered by bicarbonates so it can maintain a stable pH despite the acids produced during metabolism.",
+                "example_hebrew": "הדם נאגר על ידי ביקרבונטים כך שהוא יכול לשמור על pH יציב למרות החומצות המיוצרות במהלך חילוף החומרים."
+            },
+            {
+                "definition": "A financial buffer or emergency fund refers to a reserve of money set aside for unexpected expenses, such as job loss or major repairs.",
+                "definition_hebrew": "חיץ פיננסי או קרן חירום מתייחסים לעתודה של כסף שהופרשה להוצאות בלתי צפויות, כגון אובדן עבודה או תיקונים גדולים.",
+                "example": "Sarah saved $500 each month into an emergency fund to serve as a financial buffer during tough times.",
+                "example_hebrew": "שרה חסכה 500 דולר בכל חודש לקרן חירום כדי לשמש חיץ פיננסי בזמנים קשים."
+            },
+            {
+                "definition": "In theater and film production, a 'buffer' is a performer who stands in front of or behind actors, helping to focus attention on them or blocking their movements.",
+                "definition_hebrew": "בהפקת תיאטרון וקולנוע, 'באפר' הוא פרפורמר שעומד מול או מאחורי שחקנים, עוזר למקד אליהם את תשומת הלב או חוסם את תנועותיהם.",
+                "example": "During rehearsals, the buffer would stand off-stage while the main actor practiced lines.",
+                "example_hebrew": "במהלך החזרות, החיץ היה עומד מחוץ לבמה בזמן שהשחקן הראשי תרגל שורות."
+            },
+            {
+                "definition": "A 'buffer zone' refers to a designated area intended to reduce conflicts between different groups of people by separating them and minimizing direct contact.",
+                "definition_hebrew": "'אזור חיץ' מתייחס לאזור ייעודי שנועד לצמצם קונפליקטים בין קבוצות שונות של אנשים על ידי הפרדתן וצמצום מגע ישיר.",
+                "example": "The city council established a buffer zone around the housing project, ensuring minimal interaction with residents in nearby areas.",
+                "example_hebrew": "מועצת העיר הקימה אזור חיץ סביב פרויקט הדיור, שהבטיח אינטראקציה מינימלית עם תושבים באזורים הסמוכים."
+            }
+        ]
+    }
+]

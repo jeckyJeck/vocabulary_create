@@ -1,0 +1,28 @@
+[
+    {
+        "word": "wishlist",
+        "word_hebrew": "רשימת משאלות",
+        "main_definition": "A wishlist is a compiled list of items, experiences, or goals that someone desires to have or achieve.",
+        "main_definition_hebrew": "רשימת משאלות היא רשימה מורכבת של פריטים, חוויות או מטרות שמישהו מעוניין להשיג או להשיג.",
+        "meanings_and_examples": [
+            {
+                "definition": "An online shopping feature where users can save desired products for future purchase",
+                "definition_hebrew": "תכונת קניות מקוונת שבה משתמשים יכולים לשמור מוצרים רצויים לרכישה עתידית",
+                "example": "Sarah added her favorite dresses and shoes to her e-commerce website's wishlist, so she won't forget them when the sale ends.",
+                "example_hebrew": "שרה הוסיפה את השמלות והנעליים האהובות עליה לרשימת המשאלות של אתר המסחר האלקטרוני שלה, כדי שהיא לא תשכח אותן כשהמבצע יסתיים."
+            },
+            {
+                "definition": "A list of personal aspirations or desired accomplishments",
+                "definition_hebrew": "רשימה של שאיפות אישיות או הישגים רצויים",
+                "example": "John maintained a wishlist on his dream journal app with goals like learning to play guitar and running a marathon by next year.",
+                "example_hebrew": "ג'ון שמר על רשימת משאלות באפליקציית יומן החלומות שלו עם מטרות כמו ללמוד לנגן בגיטרה ולרוץ מרתון עד השנה הבאה."
+            },
+            {
+                "definition": "A collection of things one wishes for during holiday celebrations, often compiled in physical or digital form",
+                "definition_hebrew": "אוסף של דברים שמבקשים במהלך חגיגות החגים, לרוב מלוקט בצורה פיזית או דיגיטלית",
+                "example": "Every Christmas, Maria's family gathers around the tree to exchange gift cards with items from their collective wishlist.",
+                "example_hebrew": "בכל חג המולד, המשפחה של מריה מתאספת סביב העץ כדי להחליף כרטיסי מתנה עם פריטים מרשימת המשאלות הקולקטיבית שלהם."
+            }
+        ]
+    }
+]

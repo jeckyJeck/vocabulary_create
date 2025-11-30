@@ -1,0 +1,34 @@
+[
+    {
+        "word": "html",
+        "word_hebrew": "html",
+        "main_definition": "HTML stands for HyperText Markup Language, which is the standard markup language used to create and design documents (websites) on the World Wide Web.",
+        "main_definition_hebrew": "HTML מייצג HyperText Markup Language, שהיא שפת הסימון הסטנדרטית המשמשת ליצירה ועיצוב של מסמכים (אתרי אינטרנט) ברשת העולמית.",
+        "meanings_and_examples": [
+            {
+                "definition": "A programming language",
+                "definition_hebrew": "שפת תכנות",
+                "example": "To write HTML code, you might use a text editor like Sublime Text or Visual Studio Code.",
+                "example_hebrew": "כדי לכתוב קוד HTML, תוכל להשתמש בעורך טקסט כמו Sublime Text או Visual Studio Code."
+            },
+            {
+                "definition": "Website structure and layout elements",
+                "definition_hebrew": "מבנה האתר ורכיבי פריסה",
+                "example": "The <header> tag in HTML defines the header section of a web page.",
+                "example_hebrew": "התג <header> ב-HTML מגדיר את קטע הכותרת של דף אינטרנט."
+            },
+            {
+                "definition": "Tags used for formatting and structuring content on a webpage",
+                "definition_hebrew": "תגים המשמשים לעיצוב ומבנה תוכן בדף אינטרנט",
+                "example": "<p>This is an example paragraph.</p>",
+                "example_hebrew": "<p>זוהי פסקה לדוגמה.</p>"
+            },
+            {
+                "definition": "A collection of hyperlinks that connect various websites or web pages together",
+                "definition_hebrew": "אוסף של היפר-קישורים המחברים אתרים או דפי אינטרנט שונים יחד",
+                "example": "<a href='https://www.example.com'>Visit Example Website</a>",
+                "example_hebrew": "<a href='https://www.example.com'>בקר באתר לדוגמה</a>"
+            }
+        ]
+    }
+]

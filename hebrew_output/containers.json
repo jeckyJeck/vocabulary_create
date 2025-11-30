@@ -1,0 +1,40 @@
+[
+    {
+        "word": "containers",
+        "word_hebrew": "מיכלים",
+        "main_definition": "Containers refer to objects or items used for holding, storing, or transporting other things, as well as phrases that suggest a situation with various elements contained within it.",
+        "main_definition_hebrew": "מיכלים מתייחסים לחפצים או לפריטים המשמשים להחזקה, אחסון או שינוע של דברים אחרים, כמו גם ביטויים המצביעים על מצב עם אלמנטים שונים הכלולים בתוכו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Objects used for storage",
+                "definition_hebrew": "חפצים המשמשים לאחסון",
+                "example": "The kitchen cabinet serves as a container to store dishes and utensils.",
+                "example_hebrew": "ארון המטבח משמש כמיכל לאחסון כלים וכלים."
+            },
+            {
+                "definition": "Vessels or receptacles",
+                "definition_hebrew": "כלי קיבול או כלי קיבול",
+                "example": "Glass jars are containers that can hold various food items like jam, sauces, or pickles.",
+                "example_hebrew": "צנצנות זכוכית הן מיכלים שיכולים להכיל פריטי מזון שונים כמו ריבה, רטבים או חמוצים."
+            },
+            {
+                "definition": "Phrase indicating a situation with multiple elements contained within it",
+                "definition_hebrew": "ביטוי המציין מצב עם מספר אלמנטים הכלולים בתוכו",
+                "example": "The box of chocolates was one container among many gifts in the gift basket.",
+                "example_hebrew": "קופסת השוקולדים הייתה מיכל אחד מבין מתנות רבות בסלסלת המתנות."
+            },
+            {
+                "definition": "Software containers for packaging and running applications",
+                "definition_hebrew": "מיכלי תוכנה לאריזה והפעלת אפליקציות",
+                "example": "Docker provides a way to create, deploy, and run applications using containers.",
+                "example_hebrew": "Docker מספק דרך ליצור, לפרוס ולהפעיל יישומים באמצעות קונטיינרים."
+            },
+            {
+                "definition": "Packages or units that can hold goods or substances",
+                "definition_hebrew": "חבילות או יחידות שיכולות להכיל סחורות או חומרים",
+                "example": "The shipping container is used for transporting large volumes of goods worldwide.",
+                "example_hebrew": "מיכל המשלוח משמש להובלת כמויות גדולות של סחורות ברחבי העולם."
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "word": "checks",
+        "word_hebrew": "המחאות",
+        "main_definition": "The act of verifying or examining something, as well as a formal written order to withdraw money from an account.",
+        "main_definition_hebrew": "פעולה של אימות או בדיקה של משהו, כמו גם הוראה רשמית בכתב למשיכת כסף מחשבון.",
+        "meanings_and_examples": [
+            {
+                "definition": "To examine closely for accuracy, correctness, or quality.",
+                "definition_hebrew": "לבחון מקרוב דיוק, נכונות או איכות.",
+                "example": "Before submitting the report, make sure you double-check your data and calculations.",
+                "example_hebrew": "לפני הגשת הדוח, הקפד לבדוק שוב את הנתונים והחישובים שלך."
+            },
+            {
+                "definition": "A written document used to transfer money from one bank account to another.",
+                "definition_hebrew": "מסמך כתוב המשמש להעברת כספים מחשבון בנק אחד לאחר.",
+                "example": "I wrote a check for $200 to pay my electric bill.",
+                "example_hebrew": "כתבתי צ'ק בסך 200 דולר כדי לשלם את חשבון החשמל שלי."
+            },
+            {
+                "definition": "To stop, or prevent something from happening by taking action.",
+                "definition_hebrew": "לעצור, או למנוע ממשהו לקרות על ידי נקיטת פעולה.",
+                "example": "She checked the door lock before leaving her house.",
+                "example_hebrew": "היא בדקה את מנעול הדלת לפני שיצאה מביתה."
+            },
+            {
+                "definition": "A condition that needs attention or improvement.",
+                "definition_hebrew": "מצב הדורש תשומת לב או שיפור.",
+                "example": "The car's engine check revealed a problem with one of its components.",
+                "example_hebrew": "בדיקת המנוע של המכונית העלתה בעיה באחד ממרכיביה."
+            },
+            {
+                "definition": "To cross out or cancel something, usually in red ink.",
+                "definition_hebrew": "למחוק או לבטל משהו, בדרך כלל בדיו אדומה.",
+                "example": "She crossed off the wrong answer on her test and tried again.",
+                "example_hebrew": "היא הסיגה את התשובה השגויה במבחן וניסתה שוב."
+            },
+            {
+                "definition": "A measure taken to ensure safety or prevent accidents.",
+                "definition_hebrew": "אמצעי שננקט כדי להבטיח בטיחות או למנוע תאונות.",
+                "example": "Before starting any construction project, always make sure you have all necessary checks in place.",
+                "example_hebrew": "לפני התחלת כל פרויקט בנייה, תמיד ודא שיש לך את כל הבדיקות הנדרשות במקום."
+            }
+        ]
+    }
+]

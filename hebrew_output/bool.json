@@ -1,0 +1,28 @@
+[
+    {
+        "word": "bool",
+        "word_hebrew": "bool",
+        "main_definition": "The term 'bool' is typically used as a shortened version of the programming concept Boolean, which refers to a data type that can hold one of two values: true or false.",
+        "main_definition_hebrew": "המונח 'bool' משמש בדרך כלל כגרסה מקוצרת של מושג התכנות Boolean, המתייחס לסוג נתונים שיכול להחזיק אחד משני ערכים: אמת או שקר.",
+        "meanings_and_examples": [
+            {
+                "definition": "In computing and programming, 'bool' denotes a data type representing boolean logic, with only two possible states: true (1) and false (0).",
+                "definition_hebrew": "במחשוב ובתכנות, 'bool' מציין סוג נתונים המייצג לוגיקה בוליאנית, עם שני מצבים אפשריים בלבד: נכון (1) ושקר (0).",
+                "example": "The condition in an if statement checks the bool value of whether a user is logged in.",
+                "example_hebrew": "התנאי במשפט if בודק את ערך bool של אם משתמש מחובר."
+            },
+            {
+                "definition": "'Bool' can also be used informally to refer to boolean values or expressions that result in either true or false.",
+                "definition_hebrew": "ניתן להשתמש ב-'Bool' גם באופן לא פורמלי כדי להתייחס לערכים או ביטויים בוליאניים שגורמים ל-true או לא-false.",
+                "example": "He passed the test with a bool indicating 'true', meaning he successfully completed all tasks.",
+                "example_hebrew": "הוא עבר את המבחן עם בול המציין 'נכון', כלומר הוא סיים בהצלחה את כל המשימות."
+            },
+            {
+                "definition": "'Bool' is sometimes mistakenly thought to represent Boolean algebra, but it actually refers to boolean data types derived from Boolean algebra principles.",
+                "definition_hebrew": "לפעמים חושבים בטעות ש'Bool' מייצג אלגברה בוליאנית, אך למעשה הוא מתייחס לסוגי נתונים בוליאניים שנגזרו מעקרונות אלגברה בוליאנית.",
+                "example": "Boolean algebra is used in designing digital circuits that process 'bool' values.",
+                "example_hebrew": "אלגברה בוליאנית משמשת בתכנון מעגלים דיגיטליים המעבדים ערכי 'בול'."
+            }
+        ]
+    }
+]

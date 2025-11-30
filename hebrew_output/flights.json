@@ -1,0 +1,34 @@
+[
+    {
+        "word": "flights",
+        "word_hebrew": "טיסות",
+        "main_definition": "Flights refer to the act of flying or traveling by air, as well as a sequence of such journeys.",
+        "main_definition_hebrew": "טיסות מתייחסות למעשה של טיסה או נסיעה באוויר, כמו גם רצף של נסיעות כאלה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Aerial movement or soaring through the air",
+                "definition_hebrew": "תנועה אווירית או דאייה באוויר",
+                "example": "The eagle's flights were breathtaking.",
+                "example_hebrew": "טיסותיו של הנשר היו עוצרות נשימה."
+            },
+            {
+                "definition": "Traveling by aircraft from one location to another",
+                "definition_hebrew": "נסיעה במטוס ממקום אחד לאחר",
+                "example": "She booked a series of flights to visit her friends in different cities.",
+                "example_hebrew": "היא הזמינה סדרה של טיסות לבקר את חבריה בערים שונות."
+            },
+            {
+                "definition": "A set or sequence of journeys made by an airplane",
+                "definition_hebrew": "קבוצה או רצף של נסיעות שבוצעו על ידי מטוס",
+                "example": "His business requires frequent international flights every week.",
+                "example_hebrew": "העסק שלו דורש טיסות בינלאומיות תכופות מדי שבוע."
+            },
+            {
+                "definition": "A sudden change, often unexpected and rapid in nature",
+                "definition_hebrew": "שינוי פתאומי, לרוב בלתי צפוי ומהיר באופיו",
+                "example": "The political situation experienced several turbulent flights over the past few months.",
+                "example_hebrew": "המצב הפוליטי חווה כמה טיסות סוערות במהלך החודשים האחרונים."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "articles",
+        "word_hebrew": "מאמרים",
+        "main_definition": "In general, 'articles' can refer to written works or pieces of writing that are published in newspapers, magazines, journals, blogs, etc., or parts and components of an object. Depending on the context, it could also mean political stances or positions.",
+        "main_definition_hebrew": "באופן כללי, 'מאמרים' יכולים להתייחס ליצירות כתובות או קטעי כתיבה המתפרסמים בעיתונים, מגזינים, כתבי עת, בלוגים וכו', או חלקים ומרכיבים של אובייקט. בהתאם להקשר, זה יכול להיות גם עמדות או עמדות פוליטיות.",
+        "meanings_and_examples": [
+            {
+                "definition": "Meaning: Written works that are published in newspapers, magazines, journals, blogs, etc.,",
+                "definition_hebrew": "המשמעות: יצירות כתובות המתפרסמות בעיתונים, מגזינים, כתבי עת, בלוגים וכו',",
+                "example": "The New York Times regularly publishes articles on current events and various topics.",
+                "example_hebrew": "הניו יורק טיימס מפרסם באופן קבוע מאמרים על אירועים אקטואליים ונושאים שונים."
+            },
+            {
+                "definition": "Meaning: Parts or components of an object, such as a piece of clothing or machinery.",
+                "definition_hebrew": "משמעות: חלקים או רכיבים של חפץ, כגון פריט לבוש או מכונות.",
+                "example": "He wore several articles of his father's old clothes to the costume party.",
+                "example_hebrew": "הוא לבש כמה פריטים מבגדיו הישנים של אביו למסיבת התחפושות."
+            },
+            {
+                "definition": "Meaning: Political stances or positions taken by individuals or groups on various issues.",
+                "definition_hebrew": "המשמעות: עמדות או עמדות פוליטיות שנקטו על ידי יחידים או קבוצות בנושאים שונים.",
+                "example": "The candidates in the election presented their articles, outlining their views and policies.",
+                "example_hebrew": "המועמדים בבחירות הציגו את מאמריהם, תוך התוויית דעותיהם ומדיניותם."
+            }
+        ]
+    }
+]

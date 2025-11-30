@@ -1,0 +1,40 @@
+[
+    {
+        "word": "colon",
+        "word_hebrew": "המעי הגס",
+        "main_definition": "A punctuation mark used to indicate a pause longer than a comma, or the start of a new clause in a sentence.",
+        "main_definition_hebrew": "סימן פיסוק המשמש לציון הפסקה ארוכה מפסיק, או התחלה של משפט חדש במשפט.",
+        "meanings_and_examples": [
+            {
+                "definition": "Punctuation mark used after an independent clause when there is a contrast with the previous clause.",
+                "definition_hebrew": "סימן פיסוק בשימוש לאחר סעיף עצמאי כאשר יש ניגוד לסעיף הקודם.",
+                "example": "I have finished my work; however, I will not leave until everyone else has as well.",
+                "example_hebrew": "אני סיימתי את העבודה שלי; עם זאת, אני לא אעזוב עד שכל השאר גם כן."
+            },
+            {
+                "definition": "Used to introduce direct speech or a quotation in writing.",
+                "definition_hebrew": "משמש להצגת דיבור ישיר או ציטוט בכתב.",
+                "example": "She said, 'I will be there soon.'",
+                "example_hebrew": "היא אמרה, 'אני אהיה שם בקרוב'."
+            },
+            {
+                "definition": "In the context of historical colonization, refers to an area claimed by one country and settled by its citizens.",
+                "definition_hebrew": "בהקשר של קולוניזציה היסטורית, הכוונה לאזור שנתבע על ידי מדינה אחת ויושב על ידי אזרחיה.",
+                "example": "The British Empire established colonies in North America during the 17th century.",
+                "example_hebrew": "האימפריה הבריטית הקימה מושבות בצפון אמריקה במהלך המאה ה-17."
+            },
+            {
+                "definition": "A medical term referring to the part of the digestive system that connects the stomach to the intestines, where water and some undigested food are expelled from the body.",
+                "definition_hebrew": "מונח רפואי המתייחס לחלק של מערכת העיכול המחבר את הקיבה למעיים, שבו מים וכמה מזון לא מעוכל נפלטים מהגוף.",
+                "example": "The doctor diagnosed a blockage in my colon.",
+                "example_hebrew": "הרופא אבחן חסימה במעי הגס שלי."
+            },
+            {
+                "definition": "In computer programming, refers to a clause that can stand alone or be incorporated into other clauses within a program's source code.",
+                "definition_hebrew": "בתכנות מחשב, מתייחס לסעיף שיכול לעמוד בפני עצמו או להיות משולב בסעיפים אחרים בתוך קוד המקור של תוכנית.",
+                "example": "if (x > 0) {\n   y = x * 2;\n}",
+                "example_hebrew": "if (x > 0) {\n   y = x * 2;\n}"
+            }
+        ]
+    }
+]

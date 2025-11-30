@@ -1,0 +1,34 @@
+[
+    {
+        "word": "debt",
+        "word_hebrew": "חוֹב",
+        "main_definition": "Debt is the state of owing money to someone else, or an obligation to repay borrowed funds.",
+        "main_definition_hebrew": "חוב הוא מצב של חייב כסף למישהו אחר, או התחייבות להחזיר כספים שנשאלו.",
+        "meanings_and_examples": [
+            {
+                "definition": "Amount of money that one party owes to another.",
+                "definition_hebrew": "סכום כסף שצד אחד חייב לאחר.",
+                "example": "After purchasing his new car on credit, John's total debt reached $20,000.",
+                "example_hebrew": "לאחר שרכש את המכונית החדשה שלו באשראי, החוב הכולל של ג'ון הגיע ל-20,000 דולר."
+            },
+            {
+                "definition": "An obligation or responsibility to repay borrowed funds within a specified time frame.",
+                "definition_hebrew": "חובה או אחריות להחזיר כספים שנשאלו בתוך מסגרת זמן מוגדרת.",
+                "example": "The bank issued a loan of $15,000 with the condition that it must be paid back in five years.",
+                "example_hebrew": "הבנק הנפיק הלוואה בסך 15,000 דולר בתנאי שיש להחזיר אותה תוך חמש שנים."
+            },
+            {
+                "definition": "A financial liability resulting from excessive spending or borrowing beyond one's means.",
+                "definition_hebrew": "התחייבות פיננסית הנובעת מהוצאות מופרזות או הלוואות מעבר ליכולתו.",
+                "example": "By constantly charging on his credit card without repayment, Mike accumulated a significant debt that he couldn't manage.",
+                "example_hebrew": "על ידי חיוב מתמיד בכרטיס האשראי שלו ללא החזר, מייק צבר חוב משמעותי שלא הצליח לנהל."
+            },
+            {
+                "definition": "An investment vehicle consisting of bonds issued by corporations or governments to raise capital.",
+                "definition_hebrew": "כלי השקעה המורכב מאיגרות חוב שהונפקו על ידי תאגידים או ממשלות לגיוס הון.",
+                "example": "Many investors hold municipal bonds as a way to earn interest income while diversifying their portfolios.",
+                "example_hebrew": "משקיעים רבים מחזיקים באג\"ח עירוניות כדרך להרוויח הכנסה מריבית תוך גיוון התיקים שלהם."
+            }
+        ]
+    }
+]

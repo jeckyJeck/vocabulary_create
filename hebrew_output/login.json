@@ -1,0 +1,40 @@
+[
+    {
+        "word": "login",
+        "word_hebrew": "התחברות",
+        "main_definition": "Login refers to the process of accessing a computer system, network or application by providing valid credentials such as username and password.",
+        "main_definition_hebrew": "התחברות מתייחסת לתהליך הגישה למערכת מחשב, רשת או אפליקציה על ידי מתן אישורים חוקיים כגון שם משתמש וסיסמה.",
+        "meanings_and_examples": [
+            {
+                "definition": "Action of entering user name and password to gain access to an account",
+                "definition_hebrew": "פעולה של הזנת שם משתמש וסיסמה כדי לקבל גישה לחשבון",
+                "example": "After receiving their email invitation, users will need to login with their username and password.",
+                "example_hebrew": "לאחר קבלת הזמנת האימייל שלהם, המשתמשים יצטרכו להתחבר עם שם המשתמש והסיסמה שלהם."
+            },
+            {
+                "definition": "The verification process of checking a user's identity before granting access",
+                "definition_hebrew": "תהליך האימות של בדיקת זהות המשתמש לפני הענקת גישה",
+                "example": "When you attempt to log in, the system performs an authentication check to verify your identity.",
+                "example_hebrew": "כאשר אתה מנסה להיכנס, המערכת מבצעת בדיקת אימות כדי לאמת את זהותך."
+            },
+            {
+                "definition": "A point of entry into a digital service or platform",
+                "definition_hebrew": "נקודת כניסה לשירות או פלטפורמה דיגיטלית",
+                "example": "The login page on social media platforms is where users enter their credentials to access their accounts.",
+                "example_hebrew": "דף הכניסה בפלטפורמות המדיה החברתית הוא המקום שבו משתמשים מכניסים את האישורים שלהם כדי לגשת לחשבונות שלהם."
+            },
+            {
+                "definition": "Logging in as a means to gain full functionality within an application or system",
+                "definition_hebrew": "התחברות כאמצעי להשיג פונקציונליות מלאה בתוך אפליקציה או מערכת",
+                "example": "After logging into the online banking app, I can now transfer money between my accounts.",
+                "example_hebrew": "לאחר התחברות לאפליקציית הבנקאות המקוונת, אני יכול כעת להעביר כסף בין החשבונות שלי."
+            },
+            {
+                "definition": "An indicator of starting and ending points for data transmission over networks",
+                "definition_hebrew": "אינדיקטור של נקודות התחלה וסיום להעברת נתונים ברשתות",
+                "example": "The login message appears as a prompt before you can start transmitting data securely on your network connection.",
+                "example_hebrew": "הודעת הכניסה מופיעה כהנחיה לפני שתוכל להתחיל להעביר נתונים בצורה מאובטחת בחיבור הרשת שלך."
+            }
+        ]
+    }
+]
